@@ -1,7 +1,6 @@
  cacheUrl: https://hooperman67.github.io/Reader/cache.json
 sources:
-  - href: https://www.belfastlive.co.uk/all-about/celtic-fc/?service=rss
-  - href: https://www.belfasttelegraph.co.uk/sport/football/scottish/celtic/rss/
+
   - href: http://armchaircelts.co.uk/wprss
   - href: https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen    celtic google search
 
