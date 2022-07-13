@@ -1,14 +1,10 @@
 :root {
-  /**
-   * Palette
-   * Gruvbox dark, medium
-   * Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
-   */
+
   --base00: #282828; /* ---- */
-  --base01: #3c3836; /* --- */
-  --base02: #504945; /* -- */
-  --base03: #665c54; /* - */
-  --base04: #bdae93; /* + */
+  --base01: #47573e; /* --- */
+  --base02: #5a9637; /* -- */
+  --base03: #216b26; /* - */
+  --base04: #40cf70; /* + */
   --base05: #d5c4a1; /* ++ */
   --base06: #ebdbb2; /* +++ */
   --base07: #fbf1c7; /* ++++ */
@@ -18,7 +14,7 @@
   --base0B: #b8bb26; /* green */
   --base0C: #8ec07c; /* aqua/cyan */
   --base0D: #83a598; /* blue */
-  --base0E: #d3869b; /* purple */
+  --base0E: #b88851; /* --- */
   --base0F: #d65d0e; /* brown */
 
   /**
