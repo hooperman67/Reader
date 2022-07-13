@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
-    <title>ArmchairCelts::feed</title>
-    <updated>2022-07-13T12:19:54.137Z</updated>
+    <title>ArmchairCelts::newsfeed</title>
+    <updated>2022-07-13T12:23:58.452Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Transfer news LIVE as Celtic and Rangers plus Aberdeen, Hearts and Hibs eye signings - Daily Record]]></title>
+        <id>CBMiZWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvdHJhbnNmZXItbmV3cy1saXZlLWNlbHRpYy1yYW5nZXJzLTI3NDQ3MTk10gFpaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvZm9vdGJhbGwtbmV3cy90cmFuc2Zlci1uZXdzLWxpdmUtY2VsdGljLXJhbmdlcnMtMjc0NDcxOTUuYW1w</id>
+        <link href="https://www.dailyrecord.co.uk/sport/football/football-news/transfer-news-live-celtic-rangers-27447195"/>
+        <updated>2022-07-13T12:18:11.000Z</updated>
+        <summary type="html"><![CDATA[Transfer news LIVE as Celtic and Rangers plus Aberdeen, Hearts and Hibs eye signings  Daily Record]]></summary>
+        <author>
+            <name>"celtic fc" - Google News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cameron Carter-Vickers becomes latest Celtic star to lay down brilliant pre-season message]]></title>
         <id>https://www.67hailhail.com/news/cameron-carter-vickers-becomes-latest-celtic-star-to-lay-down-brilliant-pre-season-message/</id>
@@ -225,49 +235,6 @@ Source]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Former Scotland internationalist reveals the closest he came to joining Celtic]]></title>
-        <id>https://www.67hailhail.com/news/former-scotland-internationalist-steven-fletcher-reveals-the-closest-he-came-to-joining-celtic/</id>
-        <link href="https://www.67hailhail.com/news/former-scotland-internationalist-steven-fletcher-reveals-the-closest-he-came-to-joining-celtic/"/>
-        <updated>2022-07-13T08:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Former Scotland internationalist Steven Fletcher has opened up on his several links to a move to Celtic over the years. The 35-year-old striker has spent most of his career south of the border with the likes of Wolves and Sunderland after coming through the Hibernian academy. However, Fletcher completed his return to Scotland for the ...
-The post Former Scotland internationalist reveals the closest he came to joining Celtic appeared first on 67 Hail Hail.]]></summary>
-        <author>
-            <name>Latest imported feed items on ArmchairCelts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CALMAC’S REAL DEAL]]></title>
-        <id>https://www.celticquicknews.co.uk/calmacs-real-deal/</id>
-        <link href="https://www.celticquicknews.co.uk/calmacs-real-deal/"/>
-        <updated>2022-07-13T07:47:49.000Z</updated>
-        <summary type="html"><![CDATA[CALLUM McGREGOR hopes Celtic are drawn against holders Real Madrid in the Champions League draw next month. Ange Postecoglou’s title winners go straight into the ballot for the group stages on Thursday August 25 and the Hoops skipper has targeted the Spanish superstars. McGregor insists he has some unfinished business with their veteran Croatian midfielder [...]]]></summary>
-        <author>
-            <name>Latest imported feed items on ArmchairCelts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Argentinos Juniors Open to Selling Celtic Target]]></title>
-        <id>https://celtsarehere.com/argentinos-juniors-open-to-selling-celtic-target/</id>
-        <link href="https://celtsarehere.com/argentinos-juniors-open-to-selling-celtic-target/"/>
-        <updated>2022-07-13T07:42:11.000Z</updated>
-        <summary type="html"><![CDATA[It has been reported that Argentinos Juniors are willing to sell Celtic target Fausto Vera for the right price with bids having already been rejected from Corinthians and Genk [Daily Record].  The club value the 22-year old at around £5.5 million and the chairman has admitted that if the price is right during the summer […]
-Source]]></summary>
-        <author>
-            <name>Latest imported feed items on ArmchairCelts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bolingoli Speaks After Celtic Exit]]></title>
-        <id>https://celtsarehere.com/bolingoli-speaks-after-celtic-exit/</id>
-        <link href="https://celtsarehere.com/bolingoli-speaks-after-celtic-exit/"/>
-        <updated>2022-07-13T07:40:16.000Z</updated>
-        <summary type="html"><![CDATA[Boli Bolingoli exited Celtic this week almost two years after the lockdown incident that put fuel on the dumpster fire of the pandemic season. The Belgian hasn’t played much for Celtic since then, the defender shipped out to Turkey during the behind closed door campaign. Ange Postecoglou played Boli one time in a competitive game […]
-Source]]></summary>
-        <author>
-            <name>Latest imported feed items on ArmchairCelts</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Fausto Vera transfer admission as Celtic target's club chief says they WILL sell midfielder at right price - Daily Record]]></title>
         <id>1496351407</id>
         <link href="https://www.dailyrecord.co.uk/sport/football/football-transfer-news/fausto-vera-transfer-admission-celtic-27466967"/>
@@ -283,16 +250,6 @@ View Full coverage on Google News]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EXCLUSIVE: DAY IT ALL WENT WRONG: THE TOMMY BURNS STORY (Part Two)]]></title>
-        <id>https://www.celticquicknews.co.uk/exclusive-day-it-all-went-wrong-the-tommy-burns-story-part-two/</id>
-        <link href="https://www.celticquicknews.co.uk/exclusive-day-it-all-went-wrong-the-tommy-burns-story-part-two/"/>
-        <updated>2022-07-13T06:39:08.000Z</updated>
-        <summary type="html"><![CDATA[TOMMY BURNS travelled to Ibrox on the Sunday afternoon of November 27 1994 with the opportunity of winning the League Cup – just four months after his return to Celtic as manager. Raith Rovers, from the First Division, stood in the way of the club’s iconic midfielder and fans’ favourite lifting his first piece of [...]]]></summary>
-        <author>
-            <name>Latest imported feed items on ArmchairCelts</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Scottish Football Transfer News: Rangers boss to land key target, Celtic set £5.5m playmaker price, Aberdeen near striker, Dundee United ace once close to Celtic deal]]></title>
         <id>3766009</id>
         <link href="https://www.scotsman.com/sport/football/celtic/scottish-football-transfer-news-rangers-boss-to-land-key-target-celtic-set-ps55m-playmaker-price-aberdeen-near-striker-dundee-united-ace-once-close-to-celtic-deal-3766009"/>
@@ -303,26 +260,6 @@ View Full coverage on Google News]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Scottish Football Transfer News: Rangers boss to land key target, Celtic set £5.5m playmaker price, Aberdeen near striker, Dundee United ace close to Celtic deal]]></title>
-        <id>3766009</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/scottish-football-transfer-news-rangers-boss-to-land-key-target-celtic-set-ps55m-playmaker-price-aberdeen-near-striker-dundee-united-ace-close-to-celtic-deal-3766009"/>
-        <updated>2022-07-13T06:22:00.000Z</updated>
-        <summary type="html"><![CDATA[It was an eventful night in the Premier Sports Cup with some shock results as St Johstone, Hibs and Livingston all failed to defeat lower league opposition.]]></summary>
-        <author>
-            <name>Joel Sked</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EXCLUSIVE: CELTIC FANS EUPHORIC AND ENRAGED AFTER TITLE WIN: DAVIE HAY REVEALS ALL]]></title>
-        <id>https://www.celticquicknews.co.uk/exclusive-celtic-fans-euphoric-and-enraged-after-title-win-davie-hay-reveals-all/</id>
-        <link href="https://www.celticquicknews.co.uk/exclusive-celtic-fans-euphoric-and-enraged-after-title-win-davie-hay-reveals-all/"/>
-        <updated>2022-07-13T06:00:27.000Z</updated>
-        <summary type="html"><![CDATA[CELTIC legend Davie Hay concludes his inside tales during an eventful and ultimately successful 1997/98 season. The former player and manager had been chief scout for most of Wim Jansen’s only campaign as Hoops boss that saw the Parkhead men derail Rangers’ bid for 10 in a row – and go on and lift the [...]]]></summary>
-        <author>
-            <name>Latest imported feed items on ArmchairCelts</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Cameron Carter Vickers reveals Celtic journey driven by NBA roots and his basketball star dad - Daily Record]]></title>
         <id>CAIiEA6lH3UWdE3RsEV5qx0v8_gqGQgEKhAIACoHCAowrueiCTDmn7gCMOjNtwU</id>
         <link href="https://www.dailyrecord.co.uk/sport/football/cameron-carter-vickers-reveals-celtic-27464930"/>
@@ -330,58 +267,6 @@ View Full coverage on Google News]]></summary>
         <summary type="html"><![CDATA[Cameron Carter Vickers reveals Celtic journey driven by NBA roots and his basketball star dad  Daily Record]]></summary>
         <author>
             <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boli Bolingoli away]]></title>
-        <id>https://www.jerseydoesntshrink.com/2022/7/12/23205834/boli-bolingoli-away</id>
-        <link href="https://www.jerseydoesntshrink.com/2022/7/12/23205834/boli-bolingoli-away"/>
-        <updated>2022-07-12T21:40:50.000Z</updated>
-        <summary type="html"><![CDATA[Photo by Ian MacNicol/Getty Images
-  
-
- The main news from Celtic Park today was the unsurprising exit of Boli Bolingoli, the man who caused grown men to put his surname on their twitter display names back in 2019. 
-
-
-      I Boli Bolingoli tekende voor twee seizoenen en komt de linkerflank van KVM versterken ❤️Meer info  https://t.co/GtKClzCuaH#trotsoponzekleuren #Boliisnekakker— KV Mechelen (@kvmechelen) July 12, 2022
-
-
-
-The left back joined KV Mechelen earlier today in a permanent deal. 
-The writing has indeed been on the wall for the much maligned Belgian, who incurred the wrath of Neil Lennon, the entire support and of course the wonderful Scottish Government in August 2020 after THAT flight to Spain. 
-
-
-Celtic boss Neil Lennon says there’s been no explaination from Boli Bolingoli about why he flew to Spain for an overnight. “I’m absolutely livid, it’s a total betrayal of trust” pic.twitter.com/eLZivwB35w— Clyde 1 Superscoreboard (@ClydeSSB) August 11, 2020
-
-
-
-Nicola Sturgeon even gave Scottish Football the dreaded yellow card!
-
-
-  Nicola Sturgeon hands Scottish football a yellow card  and warns next time it will be a red  #Bolingoli #nicolasturgeon  pic.twitter.com/DUhDPpTYpu— The Daily Record (@Daily_Record) August 11, 2020
-
-
-
-He infamously made an appearance in the brutal 1-0 loss at the Anthony Macaroni last season too! 
-
-
-Guess who is back for Celtic Boli Bolingoli has been handed a surprise start by Ange Postecoglou, can he take the chance against Livingston? ⬇️⬇️⬇️ https://t.co/u6Ae876Qjc pic.twitter.com/X1VfmtO1Gb— Daily Record Sport (@Record_Sport) September 19, 2021
-
-
-
-Then weighed in with an assist for David Turnbull’s screamer against Motherwell at Fir Park. 
-Here’s the goals from that game:
-
-
-David Turnbull struck a glorious goal on his first appearance back at Fir Park for Celtic as the visitors beat Motherwell 2-0  pic.twitter.com/34JzlKKx99— Sky Sports Scotland (@ScotlandSky) October 16, 2021
-
-
-
-He came, he worked a lot of people into a shoot and he left.
-Boli Bolingoli, thank you for your service and all the best, I suppose.
-TOMORROW: Banik Ostrava V Celtic - ‘reaction’ of sorts.]]></summary>
-        <author>
-            <name>Latest imported feed items on ArmchairCelts</name>
         </author>
     </entry>
     <entry>
@@ -415,38 +300,6 @@ TOMORROW: Banik Ostrava V Celtic - ‘reaction’ of sorts.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Video: Ben Foster’s ‘Incredible’ Praise for Celtic Leader Joe Hart]]></title>
-        <id>https://celtsarehere.com/video-ben-fosters-incredible-praise-for-celtic-leader-joe-hart/</id>
-        <link href="https://celtsarehere.com/video-ben-fosters-incredible-praise-for-celtic-leader-joe-hart/"/>
-        <updated>2022-07-12T21:17:44.000Z</updated>
-        <summary type="html"><![CDATA[Ben Foster and former England goalkeeping coach Dave Watson have been waxing lyrical about Celtic goalkeeper Joe Hart on Foster’s latest podcast. The pod, appropriately named ‘The Fozcast’ spoke about Joe Hart playing for England and what he brought to the table both on and off the field. The pair discussed how it would’ve been […]
-Source]]></summary>
-        <author>
-            <name>Latest imported feed items on ArmchairCelts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic will need to pay £5.5m to land reported midfield target]]></title>
-        <id>https://thecelticstar.com/celtic-will-need-to-pay-5-5m-to-land-reported-midfield-target/</id>
-        <link href="https://thecelticstar.com/celtic-will-need-to-pay-5-5m-to-land-reported-midfield-target/"/>
-        <updated>2022-07-12T20:47:45.000Z</updated>
-        <summary type="html"><![CDATA[Celtic have been told that they will need to pay £5.5m if they are to sign Fausto Vera. The defensive midfielder has emerged as a target following Vinicius Souza’s move to Espanyol. The 22-year-old has 18 months remaining on his deal with Argentinos Juniors, who have set their price amidst interest in their player. According Read More]]></summary>
-        <author>
-            <name>Latest imported feed items on ArmchairCelts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Another Celtic star expertly bats away media&#039;s Rangers question; squad well drilled]]></title>
-        <id>https://www.67hailhail.com/news/celtic-squad-well-drilled-on-how-to-handle-media-questions-about-rivals/</id>
-        <link href="https://www.67hailhail.com/news/celtic-squad-well-drilled-on-how-to-handle-media-questions-about-rivals/"/>
-        <updated>2022-07-12T20:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Matt O’Riley was asked whether he expects Rangers to ‘come back strong’ on Celtic this coming season but expertly handled it, just as his teammates have before this summer. Outlets will always chance their arm with a question about the title race. It’s undeniably a talking point for neutrals or those looking for stories heading ...
-The post Another Celtic star expertly bats away media&#039;s Rangers question; squad well drilled appeared first on 67 Hail Hail.]]></summary>
-        <author>
-            <name>Latest imported feed items on ArmchairCelts</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Celtic squad well drilled on how to handle media questions about rivals - 67 Hail Hail - Celtic FC News]]></title>
         <id>CAIiELcjxkGrgnfPO-LHI9cn5a8qGQgEKhAIACoHCAowr5GNCzDFxJ4DMLbFpgY</id>
         <link href="https://www.67hailhail.com/news/celtic-squad-well-drilled-on-how-to-handle-media-questions-about-rivals/"/>
@@ -457,106 +310,13 @@ The post Another Celtic star expertly bats away media&#039;s Rangers question; s
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pair of Premiership talents, previously linked with Celtic, complete Serie A moves]]></title>
-        <id>https://thecelticstar.com/pair-of-premiership-talents-previously-linked-with-celtic-complete-serie-a-moves/</id>
-        <link href="https://thecelticstar.com/pair-of-premiership-talents-previously-linked-with-celtic-complete-serie-a-moves/"/>
-        <updated>2022-07-12T20:18:40.000Z</updated>
-        <summary type="html"><![CDATA[Lewis Ferguson and Josh Doig have sealed moves from the SPFL to Italy’s Serie A today. The Scottish duo had been linked with Celtic prior to Ange Postecoglou taking over in the summer of 2021 and now they have sealed moves, albeit not to The Scottish Champions but to Italian outfits Bologna and Hella Verona. Read More]]></summary>
-        <author>
-            <name>Latest imported feed items on ArmchairCelts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Calls To Axe The League Cup Should Not Be Entertained By Anyone At Celtic Park.]]></title>
-        <id>https://thecelticblog.com/2022/07/blogs/calls-to-axe-the-league-cup-should-not-be-entertained-by-anyone-at-celtic-park/</id>
-        <link href="https://thecelticblog.com/2022/07/blogs/calls-to-axe-the-league-cup-should-not-be-entertained-by-anyone-at-celtic-park/"/>
-        <updated>2022-07-12T19:44:26.000Z</updated>
-        <summary type="html"><![CDATA[However well-meaning Peter Grant might be tonight, in calling for the scrapping of the League Cup he is dead wrong to do so and Celtic should have no part in it. I don’t think Ange or anyone connected to the football operation would welcome such a move. In putting this forward tonight, Grant has given […]]]></summary>
-        <author>
-            <name>Latest imported feed items on ArmchairCelts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[&#039;A third player...&#039; - McAvennie reacts to Celtic interest in another defensive signing]]></title>
-        <id>https://www.footballtransfertavern.com/celtic-news/celtic-josip-juranovic-tipped-for-summer-exit-ange-spl-transfer/</id>
-        <link href="https://www.footballtransfertavern.com/celtic-news/celtic-josip-juranovic-tipped-for-summer-exit-ange-spl-transfer/"/>
-        <updated>2022-07-12T19:35:45.000Z</updated>
-        <summary type="html"><![CDATA[Celtic right-back Josip Juranovic could leave this summer if Ange Postecoglou captures his latest target, according to ex-Hoops striker Frank McAvennie. The Lowdown: Full-backs on the move? The Hoops are about to embark on a hugely exciting 2022/23 season, not only starting it as Scottish Premiership champions but also returning to the Champions League. While […]]]></summary>
-        <author>
-            <name>Latest imported feed items on ArmchairCelts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘Is it worth it?’ Major Scottish Football Debate Reopened]]></title>
-        <id>https://celtsarehere.com/is-it-worth-it-major-scottish-football-debate-reopened/</id>
-        <link href="https://celtsarehere.com/is-it-worth-it-major-scottish-football-debate-reopened/"/>
-        <updated>2022-07-12T19:27:49.000Z</updated>
-        <summary type="html"><![CDATA[Former Hoops hero Peter Grant has put out a passionate plea to the Scottish football governing bodies to scrap the league cup. Grant insists the cup competition is not beneficial to most of the clubs who participate and Scottish football at club and international level would benefit from its removal. Grant told SunSport: “One thing […]
-Source]]></summary>
-        <author>
-            <name>Latest imported feed items on ArmchairCelts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Report: Celtic enter exciting negotiations on initiative Ange has been &#039;pushing for&#039;]]></title>
-        <id>https://www.67hailhail.com/news/celtic-negotiations-on-japan-tour-prior-barrier-dates-what-to-expect-what-ange-has-previously-said/</id>
-        <link href="https://www.67hailhail.com/news/celtic-negotiations-on-japan-tour-prior-barrier-dates-what-to-expect-what-ange-has-previously-said/"/>
-        <updated>2022-07-12T19:22:50.000Z</updated>
-        <summary type="html"><![CDATA[Negotiations are underway behind the scenes on a Celtic tour to Japan in 2023, Japanese outlet Sponichi has reported this week. Ever since Ange Postecoglou arrived at Celtic, along with Kyogo Furuhashi, there’s been chatter amongst supporters that the Bhoys might be tempted to return to the country, having previously visited for a match in ...
-The post Report: Celtic enter exciting negotiations on initiative Ange has been &#039;pushing for&#039; appeared first on 67 Hail Hail.]]></summary>
-        <author>
-            <name>Latest imported feed items on ArmchairCelts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fausto Vera puts Celtic on transfer red alert as Corinthians and Genk see bids 'booted out' - Daily Record]]></title>
-        <id>CAIiEFISjJy0Hypi7w-f9_WChxgqGQgEKhAIACoHCAowrueiCTDmn7gCMKXUtwU</id>
-        <link href="https://www.dailyrecord.co.uk/sport/football/fausto-vera-puts-celtic-transfer-27465346"/>
-        <updated>2022-07-12T19:18:03.000Z</updated>
-        <summary type="html"><![CDATA[Fausto Vera puts Celtic on transfer red alert as Corinthians and Genk see bids 'booted out'  Daily Record]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic step up their media game]]></title>
-        <id>https://www.67hailhail.com/opinion/celtic-step-up-their-media-game/</id>
-        <link href="https://www.67hailhail.com/opinion/celtic-step-up-their-media-game/"/>
-        <updated>2022-07-12T18:49:39.000Z</updated>
-        <summary type="html"><![CDATA[As the Celtic squad departs Austria for the next pre-season phase, it’s worth reflecting on the last week and what we’ve seen from the training camp. Thankfully, we’ve been able to see quite a lot. In fact, it feels like the Celtic in-house media crew have really upped their game this summer in an attempt ...
-The post Celtic step up their media game appeared first on 67 Hail Hail.]]></summary>
-        <author>
-            <name>Latest imported feed items on ArmchairCelts</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Celtic step up their media game - 67 Hail Hail - Celtic FC News]]></title>
-        <id>CBMiQ2h0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL29waW5pb24vY2VsdGljLXN0ZXAtdXAtdGhlaXItbWVkaWEtZ2FtZS_SAUdodHRwczovL3d3dy42N2hhaWxoYWlsLmNvbS9vcGluaW9uL2NlbHRpYy1zdGVwLXVwLXRoZWlyLW1lZGlhLWdhbWUvP2FtcA</id>
+        <id>CAIiEET6Pwcd09Kir1VNm17d50kqGQgEKhAIACoHCAowr5GNCzDFxJ4DMOHTpgY</id>
         <link href="https://www.67hailhail.com/opinion/celtic-step-up-their-media-game/"/>
         <updated>2022-07-12T18:49:39.000Z</updated>
         <summary type="html"><![CDATA[Celtic step up their media game  67 Hail Hail - Celtic FC News]]></summary>
         <author>
             <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic face Vera battle and Rangers eye Tillman after Matondo signing - Football Scotland]]></title>
-        <id>CAIiEDo6jpw8nUy9_s2ZVIYTYUAqGQgEKhAIACoHCAow_-CqCzD868IDMPLfoQc</id>
-        <link href="https://www.footballscotland.co.uk/transfer-news/celtic-face-vera-battle-rangers-24472032"/>
-        <updated>2022-07-12T18:45:43.000Z</updated>
-        <summary type="html"><![CDATA[Celtic face Vera battle and Rangers eye Tillman after Matondo signing  Football Scotland]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two Of Celtic’s “Failed Three” Are Already Gone. Ajeti Remains For Now.]]></title>
-        <id>https://thecelticblog.com/2022/07/articles-and-features/two-of-celtics-failed-three-are-already-gone-ajeti-remains-for-now/</id>
-        <link href="https://thecelticblog.com/2022/07/articles-and-features/two-of-celtics-failed-three-are-already-gone-ajeti-remains-for-now/"/>
-        <updated>2022-07-12T18:20:10.000Z</updated>
-        <summary type="html"><![CDATA[Barkas was first to go. Bolingoli has followed him. Of the three names the hacks constantly try to taunt us with, two have departed and only one remains. The guy who’s left has played more games than the others, and is taking a full part in the pre-season. But Albian Ajeti will very soon be […]]]></summary>
-        <author>
-            <name>Latest imported feed items on ArmchairCelts</name>
         </author>
     </entry>
     <entry>
@@ -570,27 +330,6 @@ The post Celtic step up their media game appeared first on 67 Hail Hail.]]></sum
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The next candidate for Celtic exit after pleasing Tuesday announcement]]></title>
-        <id>https://www.67hailhail.com/opinion/the-next-candidate-for-celtic-exit-after-pleasing-tuesday-announcement/</id>
-        <link href="https://www.67hailhail.com/opinion/the-next-candidate-for-celtic-exit-after-pleasing-tuesday-announcement/"/>
-        <updated>2022-07-12T18:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Although much of the excitement around Celtic’s transfer window has focused on incoming players, it was always just as important to move on the high-earning fringe players who have no future under Ange Postecoglou. We’ve seen the club move as quickly as possible to make this happen. Vasilis Barkas left on loan FC Utrecht weeks ...
-The post The next candidate for Celtic exit after pleasing Tuesday announcement appeared first on 67 Hail Hail.]]></summary>
-        <author>
-            <name>Latest imported feed items on ArmchairCelts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The next candidate for Celtic departure after pleasing Tuesday announcement - 67 Hail Hail - Celtic FC News]]></title>
-        <id>CAIiEN6rW_yfeq35B1EtNv_gPm0qGQgEKhAIACoHCAowr5GNCzDFxJ4DMOHTpgY</id>
-        <link href="https://www.67hailhail.com/opinion/the-next-candidate-for-celtic-exit-after-pleasing-tuesday-announcement/"/>
-        <updated>2022-07-12T18:10:00.000Z</updated>
-        <summary type="html"><![CDATA[The next candidate for Celtic departure after pleasing Tuesday announcement  67 Hail Hail - Celtic FC News]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Celtic skipper Callum McGregor targets Luka Modric revenge mission in Champions League]]></title>
         <id>f68b8bdceafe9bcfc503c253d5b2402a</id>
         <link href="https://www.glasgowtimes.co.uk/sport/20274549.celtic-skipper-callum-mcgregor-targets-luka-modric-revenge-mission-champions-league/?ref=rss"/>
@@ -601,82 +340,8 @@ The post The next candidate for Celtic exit after pleasing Tuesday announcement 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Celtic Clearout Continues – Boli Bolingoli joins KV Mechelen]]></title>
-        <id>https://thecelticstar.com/celtic-clearout-continues-boli-bolingoli-joins-kv-mechelen/</id>
-        <link href="https://thecelticstar.com/celtic-clearout-continues-boli-bolingoli-joins-kv-mechelen/"/>
-        <updated>2022-07-12T17:37:58.000Z</updated>
-        <summary type="html"><![CDATA[Tonight Celtic have managed to clear the decks further ahead of the new season kicking off, as perpetual misfit Boli Bolingoli has joined KV Mechelen. The Belgian side who also took Marian Shved off of our hands will now add another Hoops disaster signing amongst their contingent. Boli arrived at Celtic Park during Neil Lennon’s Read More]]></summary>
-        <author>
-            <name>Latest imported feed items on ArmchairCelts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic star names team&#039;s preferred Champions League draw]]></title>
-        <id>https://www.67hailhail.com/news/celtic-captain-callum-mcgregor-names-teams-preferred-champions-league-draw/</id>
-        <link href="https://www.67hailhail.com/news/celtic-captain-callum-mcgregor-names-teams-preferred-champions-league-draw/"/>
-        <updated>2022-07-12T17:25:39.000Z</updated>
-        <summary type="html"><![CDATA[Callum McGregor isn’t shying away from a challenge this season and is hoping Celtic pull one of the most difficult teams out of the hat in August’s Champions League draw. Real Madrid won last season’s tournament and will be among the front runners for the 2022/23 edition too. Naturally, they are pot one seeds and ...
-The post Celtic star names team&#039;s preferred Champions League draw appeared first on 67 Hail Hail.]]></summary>
-        <author>
-            <name>Latest imported feed items on ArmchairCelts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Callum McGregor Makes Bold Champions League Statement]]></title>
-        <id>https://celtsarehere.com/callum-mcgregor-makes-bold-champions-league-statement/</id>
-        <link href="https://celtsarehere.com/callum-mcgregor-makes-bold-champions-league-statement/"/>
-        <updated>2022-07-12T17:19:12.000Z</updated>
-        <summary type="html"><![CDATA[CALLUM MCGREGOR isn’t showing away from the big guns in the Champions League, declaring he and many of the squad would like to draw Spanish giants Real Madrid. The midfielder will lead Celtic out into the hot cauldron of the Champions league as captain this season and when it comes to challenges, Callum wants a […]
-Source]]></summary>
-        <author>
-            <name>Latest imported feed items on ArmchairCelts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transfer news LIVE as Celtic and Rangers plus Aberdeen, Hearts and Hibs eye signings - Daily Record]]></title>
-        <id>CBMiZWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvdHJhbnNmZXItbmV3cy1saXZlLWNlbHRpYy1yYW5nZXJzLTI3NDQ3MTk10gFpaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvZm9vdGJhbGwtbmV3cy90cmFuc2Zlci1uZXdzLWxpdmUtY2VsdGljLXJhbmdlcnMtMjc0NDcxOTUuYW1w</id>
-        <link href="https://www.dailyrecord.co.uk/sport/football/football-news/transfer-news-live-celtic-rangers-27447195"/>
-        <updated>2022-07-12T17:12:57.000Z</updated>
-        <summary type="html"><![CDATA[Transfer news LIVE as Celtic and Rangers plus Aberdeen, Hearts and Hibs eye signings  Daily Record]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic hero feeling benefits of gruelling double sessions at Austrian training camp]]></title>
-        <id>https://www.67hailhail.com/news/celtic-hero-feeling-benefits-of-really-intense-double-sessions-at-austrian-training-camp/</id>
-        <link href="https://www.67hailhail.com/news/celtic-hero-feeling-benefits-of-really-intense-double-sessions-at-austrian-training-camp/"/>
-        <updated>2022-07-12T17:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Callum McGregor has been talking up the work of the Celtic squad in Austria as they prepare to move on to Czechia and ultimately back to Scotland. McGregor has had a busy summer on Scotland duty, only really getting the benefit of a few weeks off between seasons. Nonetheless, he’s relishing getting stuck into Ange ...
-The post Celtic hero feeling benefits of gruelling double sessions at Austrian training camp appeared first on 67 Hail Hail.]]></summary>
-        <author>
-            <name>Latest imported feed items on ArmchairCelts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic’s Summer Exit Tally Reaches 12]]></title>
-        <id>https://celtsarehere.com/celtics-summer-exit-tally-reaches-12/</id>
-        <link href="https://celtsarehere.com/celtics-summer-exit-tally-reaches-12/"/>
-        <updated>2022-07-12T16:50:04.000Z</updated>
-        <summary type="html"><![CDATA[Celtic have been clearing the deck for the next stage of Ange Postecoglou’s Parkhead tenure. We now count TWELVE players who have move out of the club this summer with only three loans among them. It was always going to be the case there would be more outgoings than incomings after the upheaval the summer […]
-Source]]></summary>
-        <author>
-            <name>Latest imported feed items on ArmchairCelts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BYE BYE BLUNDER BHOY BOLI]]></title>
-        <id>https://www.celticquicknews.co.uk/bye-bye-blunder-bhoy-boli/</id>
-        <link href="https://www.celticquicknews.co.uk/bye-bye-blunder-bhoy-boli/"/>
-        <updated>2022-07-12T16:45:52.000Z</updated>
-        <summary type="html"><![CDATA[BLUNDER Bhoy Boli Bolingoli has left Celtic on a permanent deal to return to Belgium with Mechelen. The frozen-out left-back, who made only two first-team appearances for Ange Postecoglou, has gone after playing only 31 games since his £3million arrival from Austrian outfit Rapid Vienna in the summer of 2019, according to a report on [...]]]></summary>
-        <author>
-            <name>Latest imported feed items on ArmchairCelts</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Callum McGregor targets Celtic revenge mission against Luka Modric as skipper roars 'we want Real Madrid' - Daily Record]]></title>
-        <id>CAIiEJ_aQ1GJ79MCx8z7ncSviO4qGQgEKhAIACoHCAowrueiCTDmn7gCMKXUtwU</id>
+        <id>CAIiEJ_aQ1GJ79MCx8z7ncSviO4qGQgEKhAIACoHCAowrueiCTDmn7gCMIfHtwU</id>
         <link href="https://www.dailyrecord.co.uk/sport/football/callum-mcgregor-targets-celtic-revenge-27464182"/>
         <updated>2022-07-12T16:38:13.000Z</updated>
         <summary type="html"><![CDATA[Callum McGregor targets Celtic revenge mission against Luka Modric as skipper roars 'we want Real Madrid'  Daily Record]]></summary>
@@ -685,42 +350,11 @@ Source]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[&#039;Coming days...&#039; - Celtic hold internal discussions over another South American signing]]></title>
-        <id>https://www.footballtransfertavern.com/celtic-news/celtic-journalist-drops-fausto-vera-transfer-claim-ange-spl-rogic/</id>
-        <link href="https://www.footballtransfertavern.com/celtic-news/celtic-journalist-drops-fausto-vera-transfer-claim-ange-spl-rogic/"/>
-        <updated>2022-07-12T16:35:15.000Z</updated>
-        <summary type="html"><![CDATA[Celtic have held internal talks over Argentinos Juniors midfielder Fausto Vera and updates could be imminent in the ‘coming days’, according to journalist Fraser Fletcher. The Lowdown: Vera impresses in homeland The 22-year-old has matured into a key player for his current side, impressing in a defensive midfield role and winning eight caps for Argentina’s […]]]></summary>
-        <author>
-            <name>Latest imported feed items on ArmchairCelts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boli Bolingoli speaks after permanent Celtic exit; Mechelen explain signing to fans]]></title>
-        <id>https://www.67hailhail.com/transfers/boli-bolingoli-speaks-after-permanent-celtic-exit-mechelen-explain-signing-to-supporters/</id>
-        <link href="https://www.67hailhail.com/transfers/boli-bolingoli-speaks-after-permanent-celtic-exit-mechelen-explain-signing-to-supporters/"/>
-        <updated>2022-07-12T16:22:07.000Z</updated>
-        <summary type="html"><![CDATA[Boli Bolingoli has signed for Belgian top-flight side KV Mechelen on a two-year contract, ending his spell at Celtic for good. Bolingoli was signed by Neil Lennon in 2019 but was rarely convincing and ultimately fell foul of the club’s Covid-19 restrictions in 2020. He never really recovered from that hidden trip to Spain after ...
-The post Boli Bolingoli speaks after permanent Celtic exit; Mechelen explain signing to fans appeared first on 67 Hail Hail.]]></summary>
-        <author>
-            <name>Latest imported feed items on ArmchairCelts</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Boli Bolingoli speaks after permanent Celtic exit; Mechelen explain signing to supporters - 67 Hail Hail - Celtic FC News]]></title>
         <id>CAIiEJKNHw1gMPdTnT0X3YAZhhMqGQgEKhAIACoHCAowr5GNCzDFxJ4DMKuxpgY</id>
         <link href="https://www.67hailhail.com/transfers/boli-bolingoli-speaks-after-permanent-celtic-exit-mechelen-explain-signing-to-supporters/"/>
         <updated>2022-07-12T16:22:07.000Z</updated>
         <summary type="html"><![CDATA[Boli Bolingoli speaks after permanent Celtic exit; Mechelen explain signing to supporters  67 Hail Hail - Celtic FC News]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boli Bolingoli Celtic exit confirmed as Belgian returns home after controversial Hoops stint - Glasgow Live]]></title>
-        <id>CAIiEG6UDtwu2gMNAEhnAa6YlisqGQgEKhAIACoHCAow96D9CjDOy_QCMPvp0wU</id>
-        <link href="https://www.glasgowlive.co.uk/sport/football/football-news/boli-bolingoli-celtic-exit-confirmed-24471048"/>
-        <updated>2022-07-12T16:19:13.000Z</updated>
-        <summary type="html"><![CDATA[Boli Bolingoli Celtic exit confirmed as Belgian returns home after controversial Hoops stint  Glasgow Live]]></summary>
         <author>
             <name>"celtic fc" - Google News</name>
         </author>
@@ -736,106 +370,11 @@ The post Boli Bolingoli speaks after permanent Celtic exit; Mechelen explain sig
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Confirmed: Boli Bolingoli Permanent Celtic Exit]]></title>
-        <id>https://celtsarehere.com/confirmed-boli-bolingoli-permanent-celtic-exit/</id>
-        <link href="https://celtsarehere.com/confirmed-boli-bolingoli-permanent-celtic-exit/"/>
-        <updated>2022-07-12T16:10:56.000Z</updated>
-        <summary type="html"><![CDATA[Boli Bolingoli has finally left Celtic on a permanent basis. The club announced on Tuesday afternoon the defender has moved to Belgian side Mechelen. Boli was signed under Neil Lennon and had an ok first season. The following campaign would be a disaster for Boli and Celtic. The pandemic hit and football as we know […]
-Source]]></summary>
-        <author>
-            <name>Latest imported feed items on ArmchairCelts</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Aberdeen v Dumbarton in the League Cup - afc.co.uk]]></title>
         <id>CBMiSGh0dHBzOi8vd3d3LmFmYy5jby51ay8yMDIyLzA3LzEyL2FiZXJkZWVuLXYtZHVtYmFydG9uLWluLXRoZS1sZWFndWUtY3VwL9IBAA</id>
         <link href="https://www.afc.co.uk/2022/07/12/aberdeen-v-dumbarton-in-the-league-cup/"/>
         <updated>2022-07-12T15:18:00.000Z</updated>
         <summary type="html"><![CDATA[Aberdeen v Dumbarton in the League Cup  afc.co.uk]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scottish Premiership rivals ramp up transfer work as Celtic prepare to defend title]]></title>
-        <id>https://www.67hailhail.com/transfers/scottish-premiership-teams-ramp-up-transfer-work-as-celtic-prepare-to-defend-title/</id>
-        <link href="https://www.67hailhail.com/transfers/scottish-premiership-teams-ramp-up-transfer-work-as-celtic-prepare-to-defend-title/"/>
-        <updated>2022-07-12T15:11:34.000Z</updated>
-        <summary type="html"><![CDATA[We all know about the transfer work being done by Celtic this summer. Cameron Carter-Vickers, Jota, Alexandro Bernabei and Ben Siegrist have all signed up, bringing a total spend beyond £15m. Work continues behind the scenes with a belief that the club are looking to bring in a midfielder and a defender at least, with ...
-The post Scottish Premiership rivals ramp up transfer work as Celtic prepare to defend title appeared first on 67 Hail Hail.]]></summary>
-        <author>
-            <name>Latest imported feed items on ArmchairCelts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In Spite Of The Headlines, Celtic Never Confirmed Any Interest In Fausto Vera.]]></title>
-        <id>https://thecelticblog.com/2022/07/articles-and-features/in-spite-of-the-headlines-celtic-never-confirmed-any-interest-in-fausto-vera/</id>
-        <link href="https://thecelticblog.com/2022/07/articles-and-features/in-spite-of-the-headlines-celtic-never-confirmed-any-interest-in-fausto-vera/"/>
-        <updated>2022-07-12T15:00:30.000Z</updated>
-        <summary type="html"><![CDATA[Since the story about our “interest” in Fausto Vera broke, I have been waiting on two things; a confirmed bid from Celtic, or someone at Celtic confirming that we were ready to make one. None of these things has happened. The Vera story remains something that our media got from somewhere else, and ran as […]]]></summary>
-        <author>
-            <name>Latest imported feed items on ArmchairCelts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Report: Celtic Target Subject to €6m Bid Elsewehere]]></title>
-        <id>https://celtsarehere.com/report-celtic-target-subject-to-e6m-bid-elsewehere/</id>
-        <link href="https://celtsarehere.com/report-celtic-target-subject-to-e6m-bid-elsewehere/"/>
-        <updated>2022-07-12T14:55:37.000Z</updated>
-        <summary type="html"><![CDATA[FAUSTO VERA has been linked with a move to Celtic for the past couple of weeks. The Argentine Defensive midfielder looks destined to leave this current club Argentines Junior. Reports in recent days claim Fausto has been on a list of potential signings at Celtic Park but no contact has been made between the two […]
-Source]]></summary>
-        <author>
-            <name>Latest imported feed items on ArmchairCelts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Czech boss says Celtic match will be his highlight of the summer]]></title>
-        <id>https://www.67hailhail.com/news/czech-boss-says-celtic-match-will-be-his-highlight-of-the-summer/</id>
-        <link href="https://www.67hailhail.com/news/czech-boss-says-celtic-match-will-be-his-highlight-of-the-summer/"/>
-        <updated>2022-07-12T14:10:37.000Z</updated>
-        <summary type="html"><![CDATA[Banik Ostrava manager Pavel Vrba says the upcoming clash against Celtic will be the highlight of their summer preparations for the new season. Vrba has a long association with Banik but only returned to the club for his latest spell as manager this year after leaving Sparta Prague. The former national team manager is well ...
-The post Czech boss says Celtic match will be his highlight of the summer appeared first on 67 Hail Hail.]]></summary>
-        <author>
-            <name>Latest imported feed items on ArmchairCelts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Banik Ostrava go all out with plans for Celtic visit]]></title>
-        <id>https://www.67hailhail.com/news/banik-ostrava-go-all-out-with-plans-for-celtic-visit/</id>
-        <link href="https://www.67hailhail.com/news/banik-ostrava-go-all-out-with-plans-for-celtic-visit/"/>
-        <updated>2022-07-12T13:40:00.000Z</updated>
-        <summary type="html"><![CDATA[If you think tomorrow night’s Celtic friendly away to Banik Ostrava will be a run-of-the-mill pre-season affair, think again. It’s shaping up to be quite the event as the club celebrate their 100th anniversary. The Czech club expect a big crowd at their 15,000-capacity stadium, with the ultras section sold out for over a month ...
-The post Banik Ostrava go all out with plans for Celtic visit appeared first on 67 Hail Hail.]]></summary>
-        <author>
-            <name>Latest imported feed items on ArmchairCelts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sevconomics And The Reality Of Signing An “£11 Million Player” For £2 Million.]]></title>
-        <id>https://thecelticblog.com/2022/07/articles-and-features/sevconomics-and-the-reality-of-signing-an-11-million-player-for-2-million/</id>
-        <link href="https://thecelticblog.com/2022/07/articles-and-features/sevconomics-and-the-reality-of-signing-an-11-million-player-for-2-million/"/>
-        <updated>2022-07-12T13:30:49.000Z</updated>
-        <summary type="html"><![CDATA[When Rabbi Matondo signed for Schalke he cost them £11 million. This is the big headline number which some in the media has been promoting since Ibrox’s interest in him was made official. “Ibrox linked with £11 million winger” and all that. But Matondo is not an £11 million player anymore. Although he was. He’s […]]]></summary>
-        <author>
-            <name>Latest imported feed items on ArmchairCelts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Banik Ostrava v Celtic: team news, KO time and where to watch]]></title>
-        <id>https://thecelticstar.com/banik-ostrava-v-celtic-team-news-ko-time-and-where-to-watch/</id>
-        <link href="https://thecelticstar.com/banik-ostrava-v-celtic-team-news-ko-time-and-where-to-watch/"/>
-        <updated>2022-07-12T13:00:57.000Z</updated>
-        <summary type="html"><![CDATA[Celtic continue their pre-season preparations in Austria against Banik Ostrava. After Saturday evening’s 3-3 draw with Rapid Vienna, Ange Postecoglou will hope that his team will continue to get minutes under their belt as they get set up for a return to Paradise. English Championship side Blackburn Rovers arrive as the opposition on Saturday and Read More]]></summary>
-        <author>
-            <name>Latest imported feed items on ArmchairCelts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poll: Should Celtic sign 31-year-old that manager knows very well? - Read Celtic]]></title>
-        <id>CBMiY2h0dHBzOi8vcmVhZGNlbHRpYy5jb20vMjAyMi8wNy8xMi9wb2xsLXNob3VsZC1jZWx0aWMtc2lnbi0zMS15ZWFyLW9sZC10aGF0LW1hbmFnZXIta25vd3MtdmVyeS13ZWxsL9IBAA</id>
-        <link href="https://readceltic.com/2022/07/12/poll-should-celtic-sign-31-year-old-that-manager-knows-very-well/"/>
-        <updated>2022-07-12T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Poll: Should Celtic sign 31-year-old that manager knows very well?  Read Celtic]]></summary>
         <author>
             <name>"celtic fc" - Google News</name>
         </author>
@@ -851,28 +390,8 @@ The post Banik Ostrava go all out with plans for Celtic visit appeared first on 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hugh Keevins Barmy “Fivers And Tenners” Nonsense Has Celtic Fans Laughing At Him.]]></title>
-        <id>https://thecelticblog.com/2022/07/articles-and-features/hugh-keevins-barmy-fivers-and-tenners-nonsense-has-celtic-fans-laughing-at-him/</id>
-        <link href="https://thecelticblog.com/2022/07/articles-and-features/hugh-keevins-barmy-fivers-and-tenners-nonsense-has-celtic-fans-laughing-at-him/"/>
-        <updated>2022-07-12T12:04:14.000Z</updated>
-        <summary type="html"><![CDATA[What an idiot Hugh Keevins is. There are things stuck to car windscreens with a higher intellect. Celtic fans have long known this. This week, many of them are scratching their heads at his latest bizarre theory. The rest are just laughing at him. As he said the other night on the radio, expanding on […]]]></summary>
-        <author>
-            <name>Latest imported feed items on ArmchairCelts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[&#039;Contact with the Hoops&#039; - Anthony Joseph drops significant Celtic transfer &#039;update&#039;]]></title>
-        <id>https://www.footballtransfertavern.com/celtic-news/celtic-anthony-joseph-plays-down-jordan-larsson-transfer-ange-parkhead-spl/</id>
-        <link href="https://www.footballtransfertavern.com/celtic-news/celtic-anthony-joseph-plays-down-jordan-larsson-transfer-ange-parkhead-spl/"/>
-        <updated>2022-07-12T11:40:48.000Z</updated>
-        <summary type="html"><![CDATA[Celtic are ‘unlikely’ to sign Sweden attacker Jordan Larsson during the summer transfer window, reliable journalist Anthony Joseph has reported. The Lowdown: Celtic linked with Larsson move Ange Postecoglou is still working hard on making new signings at Parkhead this summer as his side prepare for an exciting return to the Champions League with two […]]]></summary>
-        <author>
-            <name>Latest imported feed items on ArmchairCelts</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Celtic buying Premiership title again and Rangers better signing Rabbie Burns than Rabbi Matondo - Hotline - Daily Record]]></title>
-        <id>CAIiEHw6rIzJ3f_8qtapPSEJoJAqGQgEKhAIACoHCAowrueiCTDmn7gCMKXUtwU</id>
+        <id>CAIiEHw6rIzJ3f_8qtapPSEJoJAqGQgEKhAIACoHCAowrueiCTDmn7gCMOjNtwU</id>
         <link href="https://www.dailyrecord.co.uk/sport/football/football-news/celtic-buying-premiership-title-again-27459784"/>
         <updated>2022-07-12T11:29:50.000Z</updated>
         <summary type="html"><![CDATA[Celtic buying Premiership title again and Rangers better signing Rabbie Burns than Rabbi Matondo - Hotline  Daily Record]]></summary>
@@ -881,51 +400,11 @@ The post Banik Ostrava go all out with plans for Celtic visit appeared first on 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New Money in Scottish football]]></title>
-        <id>https://www.celticquicknews.co.uk/new-money-in-scottish-football/</id>
-        <link href="https://www.celticquicknews.co.uk/new-money-in-scottish-football/"/>
-        <updated>2022-07-12T11:12:47.000Z</updated>
-        <summary type="html"><![CDATA[Aaron Hickey’s incredible £19m move to Brentford looks like an eye-opener for Italian football.  Bologna paid around 10% of that for the Scotland international two years earlier.  Now Hibs have accepted a £3m bid from Hellas Verona for Josh Doig, while Aberdeen have accepted a bid for the same money for Lewis Ferguson.  Scottish players of [...]]]></summary>
-        <author>
-            <name>Latest imported feed items on ArmchairCelts</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Celtic hero Emilio Izaguirre retired at 36 as new career off the pitch announced - Glasgow Live]]></title>
         <id>CAIiEMFrAUm8Wx4fF7rNRg9vjQwqGQgEKhAIACoHCAow96D9CjDOy_QCMKzp0wU</id>
         <link href="https://www.glasgowlive.co.uk/sport/celtic-hero-emilio-izaguirre-retired-24465346"/>
         <updated>2022-07-12T11:07:50.000Z</updated>
         <summary type="html"><![CDATA[Celtic hero Emilio Izaguirre retired at 36 as new career off the pitch announced  Glasgow Live]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SWPL appoint Fiona McIntyre as managing director to head three-strong team]]></title>
-        <id>3765003</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/swpl-appoint-fiona-mcintyre-as-managing-director-to-head-three-strong-team-3765003"/>
-        <updated>2022-07-12T10:54:11.000Z</updated>
-        <summary type="html"><![CDATA[The SWPL have appointed Fiona McIntyre as the organisation's first ever managing director.]]></summary>
-        <author>
-            <name>Joel Sked</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rabbi Matondo Rangers transfer imminent after Wales winger 'completes' medical and agrees terms - Daily Record]]></title>
-        <id>CAIiELTXG558oaf70ATwyFTrX6UqGQgEKhAIACoHCAowrueiCTDmn7gCMOjNtwU</id>
-        <link href="https://www.dailyrecord.co.uk/sport/football/football-news/rabbi-matondo-rangers-transfer-imminent-27459375"/>
-        <updated>2022-07-12T10:36:25.000Z</updated>
-        <summary type="html"><![CDATA[Rabbi Matondo Rangers transfer imminent after Wales winger 'completes' medical and agrees terms  Daily Record]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aaron Ramsey rejects post Rangers transfer as Juventus midfielder declares preferred destination - Football Scotland]]></title>
-        <id>CAIiENQz16_tqnLM-p20IkDaca0qGQgEKhAIACoHCAow_-CqCzD868IDMPPfoQc</id>
-        <link href="https://www.footballscotland.co.uk/spfl/scottish-premiership/aaron-ramsey-rejects-post-rangers-24464422"/>
-        <updated>2022-07-12T10:04:06.000Z</updated>
-        <summary type="html"><![CDATA[Aaron Ramsey rejects post Rangers transfer as Juventus midfielder declares preferred destination  Football Scotland]]></summary>
         <author>
             <name>"celtic fc" - Google News</name>
         </author>
@@ -946,36 +425,6 @@ The post Banik Ostrava go all out with plans for Celtic visit appeared first on 
         <link href="https://thecelticstar.com/a-brief-history-of-celtic-football-club/"/>
         <updated>2022-07-12T09:08:40.000Z</updated>
         <summary type="html"><![CDATA[A Brief History of Celtic Football Club  The Celtic Star]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sky Sports man delivers late night Celtic transfer update - The Celtic Bhoys]]></title>
-        <id>CAIiEGxDjmnKDlS50a9QuV9VrU4qGQgEKhAIACoHCAow4KKJCzCv9JoDMICkoAY</id>
-        <link href="https://thecelticbhoys.com/2022/07/12/late-night-celtic-transfer-update/"/>
-        <updated>2022-07-12T09:05:17.000Z</updated>
-        <summary type="html"><![CDATA[Sky Sports man delivers late night Celtic transfer update  The Celtic Bhoys]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Banik vs Celtic: Live stream, TV channel, PPV, kick-off time and team news - Football Scotland]]></title>
-        <id>CAIiEFbBQdDhBDfhDkHj6SePrlMqGQgEKhAIACoHCAow_-CqCzD868IDMPPfoQc</id>
-        <link href="https://www.footballscotland.co.uk/spfl/scottish-premiership/banik-vs-celtic-live-stream-24463312"/>
-        <updated>2022-07-12T08:42:44.000Z</updated>
-        <summary type="html"><![CDATA[Banik vs Celtic: Live stream, TV channel, PPV, kick-off time and team news  Football Scotland]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Matt O'Riley in Celtic season admission as midfielder gears up for 'off the scale' campaign - Daily Record]]></title>
-        <id>CAIiEHajZziQ9hEPxT57942LzLcqGQgEKhAIACoHCAowrueiCTDmn7gCMOjNtwU</id>
-        <link href="https://www.dailyrecord.co.uk/sport/football/football-news/matt-oriley-celtic-season-admission-27457828"/>
-        <updated>2022-07-12T08:20:31.000Z</updated>
-        <summary type="html"><![CDATA[Matt O'Riley in Celtic season admission as midfielder gears up for 'off the scale' campaign  Daily Record]]></summary>
         <author>
             <name>"celtic fc" - Google News</name>
         </author>
@@ -1018,16 +467,6 @@ The post Banik Ostrava go all out with plans for Celtic visit appeared first on 
         <summary type="html"><![CDATA[Celtic 'planning' Japan pre season tour with Kyogo, Maeda and Ideguchi set for 2023 homecoming  Daily Record]]></summary>
         <author>
             <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scottish Football Transfer News: Rangers €7m signing blow, Hibs to land one-time Ibrox target, No Celtic move for popular forward, Aberdeen close in on striker]]></title>
-        <id>3764566</id>
-        <link href="https://www.scotsman.com/sport/football/rangers/scottish-football-transfer-news-rangers-eu7m-signing-blow-hibs-to-land-one-time-ibrox-target-no-celtic-move-for-popular-forward-aberdeen-close-in-on-striker-3764566"/>
-        <updated>2022-07-12T06:50:35.000Z</updated>
-        <summary type="html"><![CDATA[Now the SPFL season has kicked off with the return of the Premier Sports Cup, the football action is coming thick and fast with more games this evening.]]></summary>
-        <author>
-            <name>Joel Sked</name>
         </author>
     </entry>
     <entry>
@@ -1081,51 +520,11 @@ The post Banik Ostrava go all out with plans for Celtic visit appeared first on 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Celtic transfer state of play on Fausto Vera, Ryan Mmaee and Dylan Reid - Daily Record]]></title>
-        <id>CAIiEJ4ZdKEl_b9C1JpUFfafCcwqGQgEKhAIACoHCAowrueiCTDmn7gCMOjNtwU</id>
-        <link href="https://www.dailyrecord.co.uk/sport/football/celtic-transfer-state-play-fausto-27455639"/>
-        <updated>2022-07-11T20:27:21.000Z</updated>
-        <summary type="html"><![CDATA[Celtic transfer state of play on Fausto Vera, Ryan Mmaee and Dylan Reid  Daily Record]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Chelsea striker could be perfect loan signing for Celtic - The Celtic Bhoys]]></title>
         <id>CAIiEBB70kSJqcjSGkvOT4DlGdUqGQgEKhAIACoHCAow4KKJCzCv9JoDMICkoAY</id>
         <link href="https://thecelticbhoys.com/2022/07/11/chelsea-striker-perfect-signing-celtic/"/>
-        <updated>2022-07-11T20:25:01.000Z</updated>
+        <updated>2022-07-11T20:04:24.000Z</updated>
         <summary type="html"><![CDATA[Chelsea striker could be perfect loan signing for Celtic  The Celtic Bhoys]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Photo Of The Day: A Meeting Of Celts In England & Wales - The Celtic Star]]></title>
-        <id>CAIiEHR_7NuCrYkOJf2HV9BPN3cqGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY</id>
-        <link href="https://thecelticstar.com/photo-of-the-day-a-meeting-of-celts-in-england-wales/"/>
-        <updated>2022-07-11T19:49:27.000Z</updated>
-        <summary type="html"><![CDATA[Photo Of The Day: A Meeting Of Celts In England & Wales  The Celtic Star]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Opinion: Good start to season could see Celtic star given new contract - Read Celtic]]></title>
-        <id>CBMiaGh0dHBzOi8vcmVhZGNlbHRpYy5jb20vMjAyMi8wNy8xMS9vcGluaW9uLWdvb2Qtc3RhcnQtdG8tc2Vhc29uLWNvdWxkLXNlZS1jZWx0aWMtc3Rhci1naXZlbi1uZXctY29udHJhY3Qv0gEA</id>
-        <link href="https://readceltic.com/2022/07/11/opinion-good-start-to-season-could-see-celtic-star-given-new-contract/"/>
-        <updated>2022-07-11T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Opinion: Good start to season could see Celtic star given new contract  Read Celtic]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 things we spotted at Celtic training as Jota takes aim and keepers test their headers - Daily Record]]></title>
-        <id>CAIiEBm5kZX_EgTL4NQ4AakMyCgqGQgEKhAIACoHCAowrueiCTDmn7gCMOjNtwU</id>
-        <link href="https://www.dailyrecord.co.uk/sport/football/5-things-spotted-celtic-training-27453190"/>
-        <updated>2022-07-11T18:29:15.000Z</updated>
-        <summary type="html"><![CDATA[5 things we spotted at Celtic training as Jota takes aim and keepers test their headers  Daily Record]]></summary>
         <author>
             <name>"celtic fc" - Google News</name>
         </author>
@@ -1181,26 +580,6 @@ The post Banik Ostrava go all out with plans for Celtic visit appeared first on 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Photo of Rogic back in Sydney, Mooy in Glasgow amid Celtic and Newcastle links - The Celtic Star]]></title>
-        <id>CAIiECw3IFu0SvKpH7TGyKHLYrAqGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY</id>
-        <link href="https://thecelticstar.com/photo-of-rogic-back-in-sydney-mooy-in-glasgow-amid-celtic-and-newcastle-links/"/>
-        <updated>2022-07-11T09:07:18.000Z</updated>
-        <summary type="html"><![CDATA[Photo of Rogic back in Sydney, Mooy in Glasgow amid Celtic and Newcastle links  The Celtic Star]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tom Rogic trains in Sydney as former Celtic star's situation remains a mystery - Daily Record]]></title>
-        <id>CAIiEHIzWQS_9jVj27VyhDfLZMcqGQgEKhAIACoHCAowrueiCTDmn7gCMKXUtwU</id>
-        <link href="https://www.dailyrecord.co.uk/sport/football/football-news/tom-rogic-trains-former-celtic-27448172"/>
-        <updated>2022-07-11T08:32:52.000Z</updated>
-        <summary type="html"><![CDATA[Tom Rogic trains in Sydney as former Celtic star's situation remains a mystery  Daily Record]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dylan Reid to Celtic latest as Ange Postecoglou to sell move to St Mirren youngster]]></title>
         <id>c40cab0aa9b66c71e596cb8c08ef1eea</id>
         <link href="https://www.glasgowtimes.co.uk/sport/20269647.dylan-reid-celtic-latest-ange-postecoglou-sell-move-st-mirren-youngster/?ref=rss"/>
@@ -1211,31 +590,11 @@ The post Banik Ostrava go all out with plans for Celtic visit appeared first on 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“We’ve not been there for a wee while,” James Forrest - The Celtic Star]]></title>
-        <id>CAIiECaFQKnTHCV3U-0x2XtFgM0qGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY</id>
-        <link href="https://thecelticstar.com/weve-not-been-there-for-a-wee-while-james-forrest/"/>
-        <updated>2022-07-11T06:35:00.000Z</updated>
-        <summary type="html"><![CDATA[“We’ve not been there for a wee while,” James Forrest  The Celtic Star]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Joe Hart On Ange Postecoglou: Age Doesn't Matter, I've Explored Things That I've Never Had Under Previous Managers - GreekCityTimes.com]]></title>
         <id>CAIiEF_VcLazpH-5z0BsREBpD1gqGQgEKhAIACoHCAowmpCGCzCl34MDMK3Q4gc</id>
         <link href="https://greekcitytimes.com/2022/07/11/joe-hart-on-ange-postecoglou/"/>
         <updated>2022-07-11T05:36:51.000Z</updated>
         <summary type="html"><![CDATA[Joe Hart On Ange Postecoglou: Age Doesn't Matter, I've Explored Things That I've Never Had Under Previous Managers  GreekCityTimes.com]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Record Sport team debate all the big topics on the Monday Jury - Daily Record]]></title>
-        <id>CAIiECC8tLBCI6g1wjH1VO54ovIqGQgEKhAIACoHCAowrueiCTDmn7gCMIfHtwU</id>
-        <link href="https://www.dailyrecord.co.uk/sport/football/football-news/should-celtic-boss-ange-postecoglou-27443979"/>
-        <updated>2022-07-11T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Record Sport team debate all the big topics on the Monday Jury  Daily Record]]></summary>
         <author>
             <name>"celtic fc" - Google News</name>
         </author>
@@ -1261,36 +620,6 @@ The post Banik Ostrava go all out with plans for Celtic visit appeared first on 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[€3 million Celtic target now close to joining Rangers - The Celtic Bhoys]]></title>
-        <id>CAIiECcPySewsTCfWJbR1xuBepEqGQgEKhAIACoHCAow4KKJCzCv9JoDMICkoAY</id>
-        <link href="https://thecelticbhoys.com/2022/07/10/3-million-celtic-target-close-rangers/"/>
-        <updated>2022-07-10T19:04:46.000Z</updated>
-        <summary type="html"><![CDATA[€3 million Celtic target now close to joining Rangers  The Celtic Bhoys]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tom Cruise Appears At Wimbledon Sitting Next To Third Rate Football Crook. - TheCelticBlog.com]]></title>
-        <id>CAIiEEQnetND2tFQmi2WjriHV2YqGQgEKhAIACoHCAowne-jCzDg-bsDMLnLhQc</id>
-        <link href="https://thecelticblog.com/2022/07/articles-and-features/tom-cruise-appears-at-wimbledon-sitting-near-third-rate-football-crook/"/>
-        <updated>2022-07-10T18:53:00.000Z</updated>
-        <summary type="html"><![CDATA[Tom Cruise Appears At Wimbledon Sitting Next To Third Rate Football Crook.  TheCelticBlog.com]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic and the transfer fee they could net from Moussa Dembele as Premier League club line up move - Glasgow Live]]></title>
-        <id>CAIiEHTEQpb9bE0TOnrSMTg-c9UqGQgEKhAIACoHCAow96D9CjDOy_QCMKzp0wU</id>
-        <link href="https://www.glasgowlive.co.uk/sport/football/football-news/celtic-transfer-fee-could-net-24450715"/>
-        <updated>2022-07-10T16:18:56.000Z</updated>
-        <summary type="html"><![CDATA[Celtic and the transfer fee they could net from Moussa Dembele as Premier League club line up move  Glasgow Live]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Southampton 'chasing' former Celtic star Moussa Dembele as he's made available for bargain transfer - Football Scotland]]></title>
         <id>CAIiENbDOZYDorLLpHCWo3y2Q_AqGQgEKhAIACoHCAow_-CqCzD868IDMPTfoQc</id>
         <link href="https://www.footballscotland.co.uk/transfer-news/southampton-chasing-former-celtic-star-24450282"/>
@@ -1301,13 +630,126 @@ The post Banik Ostrava go all out with plans for Celtic visit appeared first on 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Celtic’s Champions League challenge as Joe Hart says there’s no point moaning about money - The Celtic Star]]></title>
-        <id>CAIiEBPTrLKgPO_3R57XFdVJ8-YqGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY</id>
-        <link href="https://thecelticstar.com/celtics-champions-league-challenge-as-joe-hart-says-theres-no-pointing-moaning-about-money/"/>
-        <updated>2022-07-10T07:55:52.000Z</updated>
-        <summary type="html"><![CDATA[Celtic’s Champions League challenge as Joe Hart says there’s no point moaning about money  The Celtic Star]]></summary>
+        <title type="html"><![CDATA[Dylan Reid’s Celtic transfer offer confirmed as Ange Postecoglou urges patience over further moves - Football Scotland]]></title>
+        <id>CAIiEH5ukMHbdaVq6NIcaIusuywqGQgEKhAIACoHCAow_-CqCzD868IDMPLfoQc</id>
+        <link href="https://www.footballscotland.co.uk/spfl/dylan-reids-celtic-transfer-offer-24447507"/>
+        <updated>2022-07-09T21:41:10.000Z</updated>
+        <summary type="html"><![CDATA[Dylan Reid’s Celtic transfer offer confirmed as Ange Postecoglou urges patience over further moves  Football Scotland]]></summary>
         <author>
             <name>"celtic fc" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joe Hart says Celtic will take on Europe’s best on their own terms with Champions League wait almost over]]></title>
+        <id>67cf6a0e55beb1ccec2155119e6921cc</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/20267991.joe-hart-says-celtic-will-take-europes-best-terms-champions-league-wait-almost/?ref=rss"/>
+        <updated>2022-07-09T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[CELTIC’s wait for the glamour of top-level European competition has been a long one, with the fans deprived of those famous group stage matches at Celtic Park for five years. Their wait will soon be over, as will Joe Hart’s, who has gone even longer without tasting the business end of the Champions League.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ange Postecoglou focused on first-team recruits as Celtic make move for youngster Dylan Reid]]></title>
+        <id>342b2f1b0a11a3ffd0d169ffe7042b46</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/20268461.ange-postecoglou-focused-first-team-recruits-celtic-make-move-youngster-dylan-reid/?ref=rss"/>
+        <updated>2022-07-09T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[ANGE POSTECOGLOU has confirmed that Celtic are interested in bringing St Mirren youngster Dylan Reid to the club for their B team, but that his focus is firmly on strengthening his first-team as he continues to work on a ‘couple’ of targets.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic's Ismaila Soro joins FC Arouca on loan as midfielder departs Parkhead]]></title>
+        <id>0af9ac9871d8cc3d6d8a26deaa75a8ee</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/20268490.celtic-ace-ismaila-soro-joins-fc-arouca-loan-midfielder-departs-parkhead/?ref=rss"/>
+        <updated>2022-07-09T20:39:39.000Z</updated>
+        <summary type="html"><![CDATA[Ismaila Soro has departed Celtic on loan after linking up with Portuguese outfit FC Arouca.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Six Goals, Lots Of Fouls And A Few Celtic Players With Questions To Answer. - TheCelticBlog.com]]></title>
+        <id>CAIiEPe9ee9cRJKxcIQPF2mSHUoqGQgEKhAIACoHCAowne-jCzDg-bsDMLnLhQc</id>
+        <link href="https://thecelticblog.com/2022/07/articles-and-features/six-goals-lots-of-fouls-and-a-few-celtic-players-with-questions-to-answer/"/>
+        <updated>2022-07-09T19:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Six Goals, Lots Of Fouls And A Few Celtic Players With Questions To Answer.  TheCelticBlog.com]]></summary>
+        <author>
+            <name>"celtic fc" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic share the spoils in six-goal thriller against Rapid Vienna - Official Celtic Football Club Website]]></title>
+        <id>CAIiECy9Opg26qWYKXmVBMirxWcqGQgEKhAIACoHCAowjJe3CzCZss4DMM2x0wc</id>
+        <link href="https://www.celticfc.com/news/2022/july/09/celtic-share-the-spoils-in-six-goal-thriller-against-rapid-vienna/"/>
+        <updated>2022-07-09T18:03:55.000Z</updated>
+        <summary type="html"><![CDATA[Celtic share the spoils in six-goal thriller against Rapid Vienna  Official Celtic Football Club Website]]></summary>
+        <author>
+            <name>"celtic fc" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic settle for draw in 'friendly' against old foes Rapid Vienna as Ange Postecoglou's men step it up]]></title>
+        <id>20041c23ef2ac213e71ad101505fe055</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/20268425.celtic-settle-draw-friendly-old-foes-rapid-vienna-ange-postecoglous-men-step/?ref=rss"/>
+        <updated>2022-07-09T17:56:49.000Z</updated>
+        <summary type="html"><![CDATA[IT didn’t quite have the needle of a certain previous meeting between these sides, and thankfully there were no bottles thrown from the crowd either, but Celtic needed a fair bit of bottle to come through this supposed friendly against Rapid Vienna with a hard-fought 3-3 draw.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 Celtic pre-season talkers as Ange Postecoglou's side draw entertaining friendly against Rapid Vienna]]></title>
+        <id>10f14a1a89e000a3aad4dc39e6b38e78</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/20268424.3-celtic-pre-season-talkers-ange-postecoglous-side-draw-entertaining-friendly-rapid-vienna/?ref=rss"/>
+        <updated>2022-07-09T17:55:54.000Z</updated>
+        <summary type="html"><![CDATA[HART SHOWING WHY HE IS NUMBER ONE
+
+
+  Benjamin Siegrist moved to Celtic in the summer after being released from Dundee United, and as he signed on the dotted line at Parkhead, he confirmed that he would be giving his all to challenge Joe Hart for the No1 jersey. Going by today’s showing it certainly looks like Hart will be up for the fight after he pulled off a string of impressive saves. The former England international also showed his organisational qualities as he constantly communicated with the defence in front of him. Hart was a key performer last term, and he will need to continue to produce this season. He had a slight error in his 45-minute stint for Rapid Vienna’s first goal, but he will undoubtedly look to blame the slack back pass from Cameron Carter-Vickers.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mikey Johnston reveals Celtic Love Island obsession but ITV show is not for Ange Postecoglou]]></title>
+        <id>93808161e715835caf6f39373a9bbe30</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/20268362.mikey-johnston-reveals-celtic-love-island-obsession-itv-show-not-ange-postecoglou/?ref=rss"/>
+        <updated>2022-07-09T16:32:15.000Z</updated>
+        <summary type="html"><![CDATA[MIKEY JOHNSTON has revealed that the Celtic squad have been avid watchers of Love Island during this summer's pre-season training camp.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Callum McGregor ditches Celtic protection mask for new season as skipper returns against Rapid Vienna]]></title>
+        <id>9927a7ae19bc88b2773c354a7ec9d693</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/20268341.callum-mcgregor-ditches-celtic-protection-mask-new-season-skipper-returns-rapid-vienna/?ref=rss"/>
+        <updated>2022-07-09T16:10:41.000Z</updated>
+        <summary type="html"><![CDATA[CALLUM MCGREGOR has ditched his protective face mask for the new season after returning today against Rapid Vienna.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic team news vs Rapid Vienna as Ange Postecoglou names strong starting XI]]></title>
+        <id>66e1a877f136f588465fb7b10f7a2b72</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/20268268.celtic-team-news-vs-rapid-vienna-ange-postecoglou-names-strong-starting-xi/?ref=rss"/>
+        <updated>2022-07-09T14:49:04.000Z</updated>
+        <summary type="html"><![CDATA[ANGE POSTECOGLOU has named his Celtic team to take on Rapid Vienna in pre-season.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic launch bid for St Mirren starlet Dylan Reid after Rangers reports]]></title>
+        <id>c66708b120002a1d7ce3e6fe041f9fbe</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/20268246.celtic-launch-bid-st-mirren-starlet-dylan-reid-rangers-reports/?ref=rss"/>
+        <updated>2022-07-09T14:32:00.000Z</updated>
+        <summary type="html"><![CDATA[CELTIC have made a bid for St Mirren youngster Dylan Reid, according to reports.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>
