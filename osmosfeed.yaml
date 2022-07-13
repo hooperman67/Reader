@@ -5,5 +5,5 @@ sources:
   - href: https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen
   - href: https://www.glasgowtimes.co.uk/sport/celtic/rss/
 
-siteTitle: "ArmchairCelts::feed"
-cacheMaxDays: 4
+siteTitle: "ArmchairCelts::newsfeed"
+cacheMaxDays: 5
