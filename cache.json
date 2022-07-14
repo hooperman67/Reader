@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com//sport/football/celtic",
       "articles": [
         {
+          "id": "3767581",
+          "author": "Joel Sked",
+          "description": "The new league season is fast approaching with plenty of Premier Sports Cup games already having taken place.",
+          "link": "https://www.scotsman.com/sport/football/rangers/scottish-football-transfer-news-rangers-star-had-epl-choice-celtic-target-2-aberdeen-and-dundee-united-close-in-on-signings-hibs-add-duo-3767581",
+          "publishedOn": "2022-07-14T05:49:12.000Z",
+          "wordCount": 2893,
+          "title": "Scottish Football Transfer News: Rangers star had EPL choice, Celtic target 2, Aberdeen and Dundee United close in on signings, Hibs add duo",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjA4YzlmM2VlLWZmYjgtNDVjMy1iNTNlLWZiNTk0MDcwMDNiYzoxOTRmMWIyZi0xNzU0LTQxYWMtOWUxMC1iY2MyZWIzNWI3NzQ=.jpg?width=1200&enable=upscale"
+        },
+        {
           "id": "3767513",
           "author": "Matthew Elder",
           "description": "Ange Postecoglou admitted his Celtic side produced a mixed display despite a 4-2 win over Banik Ostrava in a pre-season fixture to mark the Czech club's 100th anniversary.",
@@ -1128,16 +1138,6 @@
           "wordCount": 2390,
           "title": "Six Goals, Lots Of Fouls And A Few Celtic Players With Questions To Answer. - TheCelticBlog.com",
           "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2022/04/2022-04-09T155547Z_501744805_UP1EI49188Y0R_RTRMADP_3_SOCCER-SCOTLAND-CEL-STJ-REPORT-scaled.jpg"
-        },
-        {
-          "id": "CAIiECy9Opg26qWYKXmVBMirxWcqGQgEKhAIACoHCAowjJe3CzCZss4DMM2x0wc",
-          "author": null,
-          "description": "Celtic share the spoils in six-goal thriller against Rapid Vienna  Official Celtic Football Club Website",
-          "link": "https://www.celticfc.com/news/2022/july/09/celtic-share-the-spoils-in-six-goal-thriller-against-rapid-vienna/",
-          "publishedOn": "2022-07-09T18:03:55.000Z",
-          "wordCount": 2645,
-          "title": "Celtic share the spoils in six-goal thriller against Rapid Vienna - Official Celtic Football Club Website",
-          "imageUrl": "https://images.webapi.gc.celticfc.com/fit-in/1000x1000/243075e0-ffb2-11ec-b862-132b30bccaeb.jpg"
         }
       ]
     },
@@ -1415,46 +1415,6 @@
           "wordCount": 8009,
           "title": "Celtic's Ismaila Soro joins FC Arouca on loan as midfielder departs Parkhead",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/14084763/?type=og-image"
-        },
-        {
-          "id": "20041c23ef2ac213e71ad101505fe055",
-          "author": null,
-          "description": "IT didn’t quite have the needle of a certain previous meeting between these sides, and thankfully there were no bottles thrown from the crowd either, but Celtic needed a fair bit of bottle to come through this supposed friendly against Rapid Vienna with a hard-fought 3-3 draw.",
-          "link": "https://www.glasgowtimes.co.uk/sport/20268425.celtic-settle-draw-friendly-old-foes-rapid-vienna-ange-postecoglous-men-step/?ref=rss",
-          "publishedOn": "2022-07-09T17:56:49.000Z",
-          "wordCount": 8707,
-          "title": "Celtic settle for draw in 'friendly' against old foes Rapid Vienna as Ange Postecoglou's men step it up",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/14037088/?type=og-image"
-        },
-        {
-          "id": "10f14a1a89e000a3aad4dc39e6b38e78",
-          "author": null,
-          "description": "HART SHOWING WHY HE IS NUMBER ONE\n\n\n  Benjamin Siegrist moved to Celtic in the summer after being released from Dundee United, and as he signed on the dotted line at Parkhead, he confirmed that he would be giving his all to challenge Joe Hart for the No1 jersey. Going by today’s showing it certainly looks like Hart will be up for the fight after he pulled off a string of impressive saves. The former England international also showed his organisational qualities as he constantly communicated with the defence in front of him. Hart was a key performer last term, and he will need to continue to produce this season. He had a slight error in his 45-minute stint for Rapid Vienna’s first goal, but he will undoubtedly look to blame the slack back pass from Cameron Carter-Vickers.",
-          "link": "https://www.glasgowtimes.co.uk/sport/20268424.3-celtic-pre-season-talkers-ange-postecoglous-side-draw-entertaining-friendly-rapid-vienna/?ref=rss",
-          "publishedOn": "2022-07-09T17:55:54.000Z",
-          "wordCount": 8777,
-          "title": "3 Celtic pre-season talkers as Ange Postecoglou's side draw entertaining friendly against Rapid Vienna",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/14084512/?type=og-image"
-        },
-        {
-          "id": "93808161e715835caf6f39373a9bbe30",
-          "author": null,
-          "description": "MIKEY JOHNSTON has revealed that the Celtic squad have been avid watchers of Love Island during this summer's pre-season training camp.",
-          "link": "https://www.glasgowtimes.co.uk/sport/20268362.mikey-johnston-reveals-celtic-love-island-obsession-itv-show-not-ange-postecoglou/?ref=rss",
-          "publishedOn": "2022-07-09T16:32:15.000Z",
-          "wordCount": 8093,
-          "title": "Mikey Johnston reveals Celtic Love Island obsession but ITV show is not for Ange Postecoglou",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/14084408/?type=og-image"
-        },
-        {
-          "id": "9927a7ae19bc88b2773c354a7ec9d693",
-          "author": null,
-          "description": "CALLUM MCGREGOR has ditched his protective face mask for the new season after returning today against Rapid Vienna.",
-          "link": "https://www.glasgowtimes.co.uk/sport/20268341.callum-mcgregor-ditches-celtic-protection-mask-new-season-skipper-returns-rapid-vienna/?ref=rss",
-          "publishedOn": "2022-07-09T16:10:41.000Z",
-          "wordCount": 8107,
-          "title": "Callum McGregor ditches Celtic protection mask for new season as skipper returns against Rapid Vienna",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/14084363/?type=og-image"
         }
       ]
     }

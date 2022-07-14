@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2022-07-14T04:08:43.692Z</updated>
+    <updated>2022-07-14T06:28:23.620Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Scottish Football Transfer News: Rangers star had EPL choice, Celtic target 2, Aberdeen and Dundee United close in on signings, Hibs add duo]]></title>
+        <id>3767581</id>
+        <link href="https://www.scotsman.com/sport/football/rangers/scottish-football-transfer-news-rangers-star-had-epl-choice-celtic-target-2-aberdeen-and-dundee-united-close-in-on-signings-hibs-add-duo-3767581"/>
+        <updated>2022-07-14T05:49:12.000Z</updated>
+        <summary type="html"><![CDATA[The new league season is fast approaching with plenty of Premier Sports Cup games already having taken place.]]></summary>
+        <author>
+            <name>Joel Sked</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic Goalkeeper Wins Champions League Shootout]]></title>
         <id>https://thecelticstar.com/celtic-goalkeeper-wins-champions-league-shootout/</id>
@@ -1444,59 +1454,6 @@ View Full coverage on Google News]]></summary>
         <summary type="html"><![CDATA[Six Goals, Lots Of Fouls And A Few Celtic Players With Questions To Answer.  TheCelticBlog.com]]></summary>
         <author>
             <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic share the spoils in six-goal thriller against Rapid Vienna - Official Celtic Football Club Website]]></title>
-        <id>CAIiECy9Opg26qWYKXmVBMirxWcqGQgEKhAIACoHCAowjJe3CzCZss4DMM2x0wc</id>
-        <link href="https://www.celticfc.com/news/2022/july/09/celtic-share-the-spoils-in-six-goal-thriller-against-rapid-vienna/"/>
-        <updated>2022-07-09T18:03:55.000Z</updated>
-        <summary type="html"><![CDATA[Celtic share the spoils in six-goal thriller against Rapid Vienna  Official Celtic Football Club Website]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic settle for draw in 'friendly' against old foes Rapid Vienna as Ange Postecoglou's men step it up]]></title>
-        <id>20041c23ef2ac213e71ad101505fe055</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/20268425.celtic-settle-draw-friendly-old-foes-rapid-vienna-ange-postecoglous-men-step/?ref=rss"/>
-        <updated>2022-07-09T17:56:49.000Z</updated>
-        <summary type="html"><![CDATA[IT didn’t quite have the needle of a certain previous meeting between these sides, and thankfully there were no bottles thrown from the crowd either, but Celtic needed a fair bit of bottle to come through this supposed friendly against Rapid Vienna with a hard-fought 3-3 draw.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 Celtic pre-season talkers as Ange Postecoglou's side draw entertaining friendly against Rapid Vienna]]></title>
-        <id>10f14a1a89e000a3aad4dc39e6b38e78</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/20268424.3-celtic-pre-season-talkers-ange-postecoglous-side-draw-entertaining-friendly-rapid-vienna/?ref=rss"/>
-        <updated>2022-07-09T17:55:54.000Z</updated>
-        <summary type="html"><![CDATA[HART SHOWING WHY HE IS NUMBER ONE
-
-
-  Benjamin Siegrist moved to Celtic in the summer after being released from Dundee United, and as he signed on the dotted line at Parkhead, he confirmed that he would be giving his all to challenge Joe Hart for the No1 jersey. Going by today’s showing it certainly looks like Hart will be up for the fight after he pulled off a string of impressive saves. The former England international also showed his organisational qualities as he constantly communicated with the defence in front of him. Hart was a key performer last term, and he will need to continue to produce this season. He had a slight error in his 45-minute stint for Rapid Vienna’s first goal, but he will undoubtedly look to blame the slack back pass from Cameron Carter-Vickers.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mikey Johnston reveals Celtic Love Island obsession but ITV show is not for Ange Postecoglou]]></title>
-        <id>93808161e715835caf6f39373a9bbe30</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/20268362.mikey-johnston-reveals-celtic-love-island-obsession-itv-show-not-ange-postecoglou/?ref=rss"/>
-        <updated>2022-07-09T16:32:15.000Z</updated>
-        <summary type="html"><![CDATA[MIKEY JOHNSTON has revealed that the Celtic squad have been avid watchers of Love Island during this summer's pre-season training camp.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Callum McGregor ditches Celtic protection mask for new season as skipper returns against Rapid Vienna]]></title>
-        <id>9927a7ae19bc88b2773c354a7ec9d693</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/20268341.callum-mcgregor-ditches-celtic-protection-mask-new-season-skipper-returns-rapid-vienna/?ref=rss"/>
-        <updated>2022-07-09T16:10:41.000Z</updated>
-        <summary type="html"><![CDATA[CALLUM MCGREGOR has ditched his protective face mask for the new season after returning today against Rapid Vienna.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>
