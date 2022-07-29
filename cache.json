@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com//sport/football/celtic",
       "articles": [
         {
+          "id": "3787341",
+          "author": "Matthew Elder",
+          "description": "Ange Postecoglou has confirmed that Carl Starfelt will miss Celtic’s cinch Premiership opener at home to Aberdeen on Sunday.",
+          "link": "https://www.scotsman.com/sport/football/celtic/ange-postecoglou-addresses-celtic-future-of-mikey-johnson-and-whether-carl-starfelt-will-return-for-premiership-opener-3787341",
+          "publishedOn": "2022-07-29T14:38:03.000Z",
+          "wordCount": 1892,
+          "title": "Ange Postecoglou addresses Celtic future of Mikey Johnson and whether Carl Starfelt will return for Premiership opener",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjU4ZGUyNjFhLWU3NzYtNGI1ZS04NWI4LTVlODBiNTZmZGY0Yjo4OWM4MjU4NS0wYmM2LTQwYmEtOTRmYi0wODMxMGQ2ZTIyYWM=.jpg?width=1200&enable=upscale"
+        },
+        {
           "id": "3786430",
           "author": "David Oliver",
           "description": "Frozen out striker Albian Ajeti could be in the final throes of his Celtic career after hsi manager’s latest transfer update.",
@@ -212,6 +222,66 @@
       "feedUrl": "http://armchaircelts.co.uk/wprss",
       "siteUrl": "http://armchaircelts.co.uk/feed/wprss/",
       "articles": [
+        {
+          "id": "https://celtsarehere.com/bid-rejected-celtic-boot-out-loan-deal-with-3-5m-option/",
+          "author": null,
+          "description": "According to Sky Sports, CELTIC has knocked back an official bid for Stephen Welsh. Toulouse has been hot on the tail of the Scottish under-21 captain this summer, but the Hoops are reluctant to let go of Stephen. Anthony Joseph writes the French club submitted an initial loan bid for the defender with a £3.5m […]\nSource",
+          "link": "https://celtsarehere.com/bid-rejected-celtic-boot-out-loan-deal-with-3-5m-option/",
+          "publishedOn": "2022-07-29T14:59:13.000Z",
+          "wordCount": 13494,
+          "title": "Bid Rejected: Celtic Boot Out Loan Deal with £3.5m Option",
+          "imageUrl": "https://i0.wp.com/celtsarehere.com/wp-content/uploads/2022/07/2021-12-09T201219Z_2142265844_UP1EHC91K4HHP_RTRMADP_3_SOCCER-EUROPA-CEL-BET-REPORT-scaled.jpg?fit=800%2C578&ssl=1"
+        },
+        {
+          "id": "https://www.67hailhail.com/news/ange-postecoglou-confirms-2-missing-for-celtic-vs-aberdeen-with-squad-update/",
+          "author": null,
+          "description": "Celtic manager Ange Postecoglou has confirmed neither Carl Starfelt nor Yosuke Ideguchi will feature for the Bhoys against Aberdeen on Sunday. Ideguchi was previously reported to have picked up an injury in training while Starfelt has only just returned to the group following a hamstring injury suffered on international duty. The Bhoys boss confirmed the ...\nThe post Ange Postecoglou confirms 2 missing for Celtic vs Aberdeen with squad update appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/ange-postecoglou-confirms-2-missing-for-celtic-vs-aberdeen-with-squad-update/",
+          "publishedOn": "2022-07-29T14:37:56.000Z",
+          "wordCount": 1655,
+          "title": "Ange Postecoglou confirms 2 missing for Celtic vs Aberdeen with squad update",
+          "imageUrl": "https://www.67hailhail.com/static/uploads/18/2022/07/GettyImages-1409472921-scaled-e1658410168446.jpg"
+        },
+        {
+          "id": "https://celtsarehere.com/ange-confirms-midfielder-set-for-loan-exit/",
+          "author": null,
+          "description": "ANGE POSTECOGLOU has confirmed to CeltsAreHere.com that he and the club are looking to send Mikey Johnston out on loan. There has been speculation over the last week about the winger’s immediate future and the Australian has now confirmed Mikey will likely be sent out before the end of the window. “We’re working with Mikey […]\nSource",
+          "link": "https://celtsarehere.com/ange-confirms-midfielder-set-for-loan-exit/",
+          "publishedOn": "2022-07-29T14:27:57.000Z",
+          "wordCount": 13404,
+          "title": "Ange Confirms Midfielder Set for Loan Exit",
+          "imageUrl": "https://i0.wp.com/celtsarehere.com/wp-content/uploads/2022/01/mikey-johnston-celtic-away.jpg?fit=800%2C500&ssl=1"
+        },
+        {
+          "id": "https://www.67hailhail.com/news/sfa-announce-new-scottish-cup-dates-as-celtic-prepare-to-get-trophy-hunt-underway/",
+          "author": null,
+          "description": "The SFA have this afternoon confirmed the dates for the 2022/23 Scottish Cup campaign, as Celtic’s trophy hunt prepares to get underway. It has been a long ten weeks without competitive action for the Hoops support. But, there isn’t long to wait now, with the Scottish Premiership season finally kick-starting. The Bhoys face the test ...\nThe post SFA announce new Scottish Cup dates as Celtic prepare to get trophy hunt underway appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/sfa-announce-new-scottish-cup-dates-as-celtic-prepare-to-get-trophy-hunt-underway/",
+          "publishedOn": "2022-07-29T13:40:00.000Z",
+          "wordCount": 1898,
+          "title": "SFA announce new Scottish Cup dates as Celtic prepare to get trophy hunt underway",
+          "imageUrl": "https://www.67hailhail.com/static/uploads/18/2022/01/GettyImages-1146221292-scaled.jpg"
+        },
+        {
+          "id": "https://thecelticstar.com/celtic-should-follow-hearts-in-introducing-a-ticket-exchange-scheme/",
+          "author": null,
+          "description": "Having purchased tickets for the Women’s Scottish Cup Final at Tynecastle directly from Hearts I appear to have been added to their mailing list for the new season.  So I now know that Hearts have new stadium announcers for the new season and that their home game against Ross County at the weekend is a Read More",
+          "link": "https://thecelticstar.com/celtic-should-follow-hearts-in-introducing-a-ticket-exchange-scheme/",
+          "publishedOn": "2022-07-29T12:59:40.000Z",
+          "wordCount": 1960,
+          "title": "Celtic should follow Hearts in introducing a Ticket Exchange Scheme",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/07/imago1013342112h-1024x636.jpeg"
+        },
+        {
+          "id": "https://thecelticblog.com/2022/07/articles-and-features/kris-boyds-celtic-prediction-is-hilariously-stupid-and-of-course-contradictory/",
+          "author": null,
+          "description": "I said I wasn’t going to do this, but sometimes you can’t help it. Sometimes you have to speak about something even when you had no intention of doing it, and so I find myself here today writing about Kris Boyd talking more of his idiotic drivel. You ever sat at a meeting or in […]",
+          "link": "https://thecelticblog.com/2022/07/articles-and-features/kris-boyds-celtic-prediction-is-hilariously-stupid-and-of-course-contradictory/",
+          "publishedOn": "2022-07-29T12:32:56.000Z",
+          "wordCount": 2242,
+          "title": "Kris Boyd’s Celtic “Prediction” Is Hilariously Stupid And Of Course Contradictory.",
+          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2022/04/2022-04-09T155547Z_501744805_UP1EI49188Y0R_RTRMADP_3_SOCCER-SCOTLAND-CEL-STJ-REPORT-scaled.jpg"
+        },
         {
           "id": "https://thecelticstar.com/police-guard-for-shunsuke-nakamura-the-original-japanese-bhoy-signs-for-celtic/",
           "author": null,
@@ -2100,6 +2170,26 @@
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
         {
+          "id": "CBMiNGh0dHBzOi8vd3d3LmFmYy5jby51ay8yMDIyLzA3LzI5L3JlZHR2LXNlYXNvbi0yMi0yMy_SAQA",
+          "author": null,
+          "description": "RedTV | Season 22-23  afc.co.uk",
+          "link": "https://www.afc.co.uk/2022/07/29/redtv-season-22-23/",
+          "publishedOn": "2022-07-29T15:01:00.000Z",
+          "wordCount": 2294,
+          "title": "RedTV | Season 22-23 - afc.co.uk",
+          "imageUrl": "https://d2cx26qpfwuhvu.cloudfront.net/aberdeen/wp-content/uploads/2021/05/21111653/210521_redtv_end_of_season_update_01.jpg"
+        },
+        {
+          "id": "CAIiEJMPAxcjODWSbkfKU6tpCloqGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY",
+          "author": null,
+          "description": "Celtic should follow Hearts in introducing a Ticket Exchange Scheme  The Celtic Star",
+          "link": "https://thecelticstar.com/celtic-should-follow-hearts-in-introducing-a-ticket-exchange-scheme/",
+          "publishedOn": "2022-07-29T12:59:40.000Z",
+          "wordCount": 1960,
+          "title": "Celtic should follow Hearts in introducing a Ticket Exchange Scheme - The Celtic Star",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/07/imago1013342112h-1024x636.jpeg"
+        },
+        {
           "id": "CAIiEAmPYGSD7Ksk6XlRzS_vZxgqGQgEKhAIACoHCAowsJStCzC9n8UDMNeMswc",
           "author": null,
           "description": "Celtic transfer rumours that didn't pan out and where they are now  Celtic Way",
@@ -2118,6 +2208,16 @@
           "wordCount": 3079,
           "title": "Police Guard for Shunsuke Nakamura – The original Japanese Bhoy signs for Celtic - The Celtic Star",
           "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/07/japanese-international-football-player-s-1024x678.jpg"
+        },
+        {
+          "id": "CAIiEDXM_crfJFYE_7EIvAhbkpUqGQgEKhAIACoHCAowne-jCzDg-bsDMLnLhQc",
+          "author": null,
+          "description": "It Is An Utter Disgrace That Celtic Aren’t Getting The SPFL’s Curtain Raising Fixture.  TheCelticBlog.com",
+          "link": "https://thecelticblog.com/2022/07/articles-and-features/it-is-an-utter-disgrace-that-celtic-arent-getting-the-spfls-curtain-raising-fixture/",
+          "publishedOn": "2022-07-29T10:41:00.000Z",
+          "wordCount": 3151,
+          "title": "It Is An Utter Disgrace That Celtic Aren’t Getting The SPFL’s Curtain Raising Fixture. - TheCelticBlog.com",
+          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2022/05/2022-05-14T140437Z_649949387_UP1EI5E133N85_RTRMADP_3_SOCCER-SCOTLAND-CEL-MOT-REPORT-scaled.jpg"
         },
         {
           "id": "CAIiENwvIUZCothVmm3uqAs2lE8qGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY",
@@ -2188,6 +2288,26 @@
           "wordCount": 1447,
           "title": "Celtic (LON:CCP) Stock Crosses Below 200-Day Moving Average of $115.02 - Defense World",
           "imageUrl": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/celtic-plc-logo.png?v=20211202081641&w=240&h=240&zc=2"
+        },
+        {
+          "id": "CAIiEKoXdgHCOyKO-Z8LtasOUjYqGQgEKhAIACoHCAow_-CqCzD868IDMPPfoQc",
+          "author": null,
+          "description": "Scott Brown says Fleetwood's training facilities are just as good as Celtic's  Football Scotland",
+          "link": "https://www.footballscotland.co.uk/spfl/scottish-premiership/scott-brown-takes-celtic-standards-24617584",
+          "publishedOn": "2022-07-29T07:33:29.000Z",
+          "wordCount": 2507,
+          "title": "Scott Brown says Fleetwood's training facilities are just as good as Celtic's - Football Scotland",
+          "imageUrl": "https://i2-prod.footballscotland.co.uk/incoming/article24617602.ece/ALTERNATES/s1200/0_JS272857626.jpg"
+        },
+        {
+          "id": "CAIiEGr7-5S_Jme_UNQlWZB1tEUqGQgEKhAIACoHCAowrueiCTDmn7gCMIfHtwU",
+          "author": null,
+          "description": "Barry Ferguson believes Morelos contract will be followed by more good news  Daily Record",
+          "link": "https://www.dailyrecord.co.uk/sport/football/football-news/isnt-rangers-told-you-so-27603286",
+          "publishedOn": "2022-07-29T05:00:00.000Z",
+          "wordCount": 3693,
+          "title": "Barry Ferguson believes Morelos contract will be followed by more good news - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article26439517.ece/ALTERNATES/s1200/0_JS260205402.jpg"
         },
         {
           "id": "CAIiEGSYFKNQX3cdVs42rDnXJe0qGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY",
@@ -3136,6 +3256,46 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "a03cb50d0229ff848eb20a9685291bce",
+          "author": null,
+          "description": "IAN BANKIER will retire rom his position as Celtic chairman at the end of the calendar year, the club have confirmed.",
+          "link": "https://www.glasgowtimes.co.uk/sport/20588720.ian-bankier-announces-decision-retire-celtic-chairman-end-year/?ref=rss",
+          "publishedOn": "2022-07-29T15:15:57.000Z",
+          "wordCount": 8319,
+          "title": "Ian Bankier announces decision to retire as Celtic chairman at end of the year",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/14318306/?type=og-image"
+        },
+        {
+          "id": "4169362d17106c1bafff80e8931de12d",
+          "author": null,
+          "description": "FORMER SPFL referee Steve Conroy has explained how the introduction of VAR in Scotland could hinder both Celtic and Rangers.",
+          "link": "https://www.glasgowtimes.co.uk/sport/20588490.var-introduction-will-hinder-celtic-rangers-insists-former-spfl-referee/?ref=rss",
+          "publishedOn": "2022-07-29T14:31:58.000Z",
+          "wordCount": 8195,
+          "title": "VAR introduction will hinder Celtic and Rangers, insists former SPFL referee",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/14317776/?type=og-image"
+        },
+        {
+          "id": "ba6b88ba157042b9ed0f82850d6e1ead",
+          "author": null,
+          "description": "MUSIC legend Sir Rod Stewart showed his support for the Hoops by displaying a Celtic flag from his skyscraper hotel window.",
+          "link": "https://www.glasgowtimes.co.uk/sport/20588445.sir-rod-stewart-displays-celtic-flag-us-skyscraper-hotel-window/?ref=rss",
+          "publishedOn": "2022-07-29T14:22:24.000Z",
+          "wordCount": 7985,
+          "title": "Sir Rod Stewart displays Celtic flag from US skyscraper hotel window",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/14317759/?type=og-image"
+        },
+        {
+          "id": "1a3c81b1dab0bf2e1b86f2abe4ee551b",
+          "author": null,
+          "description": "WHAT a difference a year makes. At this stage 12 months ago, there was as much trepidation as there was anticipation among the Celtic supporters ahead of the new Premiership campaign, and – initially at least - with good reason.",
+          "link": "https://www.glasgowtimes.co.uk/sport/20588386.celtic-2022-23-season-preview-expect-ange-postecoglous-current-premiership-champions/?ref=rss",
+          "publishedOn": "2022-07-29T14:08:29.000Z",
+          "wordCount": 8937,
+          "title": "Celtic 2022/23 season preview: What to expect from Ange Postecoglou's current Premiership champions",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/14122809/?type=og-image"
+        },
         {
           "id": "6640dffbfd26c32b217c580607c3dfac",
           "author": null,
