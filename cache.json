@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com//sport/football/celtic",
       "articles": [
         {
+          "id": "3791371",
+          "author": "Angus Wright",
+          "description": "One of John ‘Yogi’ Hughes’ last acts was to celebrate a Celtic goal, his son has revealed.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtic-man-until-his-last-breath-one-of-john-hughes-last-acts-revealed-while-watching-aberdeen-match-3791371",
+          "publishedOn": "2022-08-02T18:09:46.000Z",
+          "wordCount": 1992,
+          "title": "'Celtic man until his last breath': One of John Hughes' last acts revealed while watching Aberdeen match",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmJkNjA4ZjY5LWE2ODUtNDMxMC1iNGQzLWIxZDJiYjdjZjJkZTpjZDM3NjFmMC1iMjMxLTQ3MWQtOTYyMy03YWE4YTQxOTk4Njc=.jpg?width=1200&enable=upscale"
+        },
+        {
           "id": "3790011",
           "author": "Matthew Elder",
           "description": "Celtic legend John ‘Yogi’ Hughes has died at the age of 79.",
@@ -184,26 +194,6 @@
           "wordCount": 1968,
           "title": "Celtic striker transfer hint as Ange Postecoglou admits more 'movement' to come",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjNlZGU1YmQwLTBkZjEtNGI4OC04MzIzLTA0ZmRjY2NmMWY2MDowZjc4MTZlMS1kMzk5LTRmNzEtOTA1MS1jMDc2MzdhMmI4Yjk=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3786174",
-          "author": "Andrew Smith",
-          "description": "Rangers’ goal in the cinch Premiership campaign about to go under the starting gun is obvious.",
-          "link": "https://www.scotsman.com/sport/football/rangers/could-rangers-summer-signings-solve-the-issue-that-has-set-celtic-apart-in-recent-seasons-3786174",
-          "publishedOn": "2022-07-29T06:00:00.000Z",
-          "wordCount": 2725,
-          "title": "Could Rangers' summer signings solve the issue that has set Celtic apart in recent seasons?",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjgzZjk3NTkyLWUzM2ItNDUyYy1hYzkzLTk3ZmI2Mzc0MWY4ZjphZWQ3MTY1ZS1lMzVhLTQ0M2MtYTZmMy02ZDlkNTFiOGE4MDI=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3785621",
-          "author": "Joel Sked",
-          "description": "This season is going to be like no other. Of course, it is. There are new players, new managers and new kits. Just like any other.",
-          "link": "https://www.scotsman.com/sport/football/celtic/a-scottish-premiership-season-like-no-other-var-title-race-manager-pressure-and-surprise-package-3785621",
-          "publishedOn": "2022-07-29T06:00:00.000Z",
-          "wordCount": 4230,
-          "title": "A Scottish Premiership season like no other - VAR, title race, manager pressure and surprise package",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjk4YjdmZDYyLWQyNjItNDQzMy04OTU2LTBlZTQ5MTQ3NjdjODowNmY5ZmMxNS03ODcwLTRjMjItOGUxZi1hNmMyOTJiYWQyZWE=.jpg?width=1200&enable=upscale"
         }
       ]
     },
@@ -212,6 +202,96 @@
       "feedUrl": "http://armchaircelts.co.uk/wprss",
       "siteUrl": "http://armchaircelts.co.uk/feed/wprss/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/news/aberdeen-defender-taking-inspiration-from-celtic-after-sunday-lesson/",
+          "author": null,
+          "description": "Aberdeen defender Hayden Coulson wants to do to Scottish Premiership opposition what Celtic managed to do against his side on Sunday. Ange Postecoglou’s Bhoys won 2-0 on the afternoon and dominated large periods of the game before and after the interval. Celtic had 69% of possession throughout the 90 minutes, creating the kind of chances ...\nThe post Aberdeen defender taking inspiration from Celtic after Sunday lesson appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/aberdeen-defender-taking-inspiration-from-celtic-after-sunday-lesson/",
+          "publishedOn": "2022-08-02T17:37:07.000Z",
+          "wordCount": 1850,
+          "title": "Aberdeen defender taking inspiration from Celtic after Sunday lesson",
+          "imageUrl": "https://www.67hailhail.com/static/uploads/18/2022/08/GettyImages-1242230877-scaled.jpg"
+        },
+        {
+          "id": "https://thecelticstar.com/opinion-maybe-charlies-right-celtic-still-need-one-or-two-additions/",
+          "author": null,
+          "description": "Former Celtic striker Charlie Nicholas has insisted that the Hoops must sign more bodies and of higher quality if they are to make a dent in on the European scene this year. Ange Postecoglou and Michael Nicholson have been busy this summer already trying to mould this squad into shape for Angeball: Part Two and Read More",
+          "link": "https://thecelticstar.com/opinion-maybe-charlies-right-celtic-still-need-one-or-two-additions/",
+          "publishedOn": "2022-08-02T17:29:00.000Z",
+          "wordCount": 1987,
+          "title": "Opinion: Maybe Charlie’s right, Celtic still need one or two additions",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/08/acf-fiorentina-v-udinese-calcio-serie-a-1024x682.jpg"
+        },
+        {
+          "id": "https://thecelticstar.com/fan-behind-celtic-bars-website-undertakes-ambitious-project-to-document-the-history-of-every-csc-in-the-world/",
+          "author": null,
+          "description": "If you have ever ventured outside of your hometown on a matchday then the chances are you have visited the Celtic Bars website. Celticbars.com was launched in July 2001, quickly becoming a comprehensive guide to the locations and contact details of almost every single Celtic supporters club or Celtic friendly bar in the world. Not Read More",
+          "link": "https://thecelticstar.com/fan-behind-celtic-bars-website-undertakes-ambitious-project-to-document-the-history-of-every-csc-in-the-world/",
+          "publishedOn": "2022-08-02T17:11:27.000Z",
+          "wordCount": 1443,
+          "title": "Fan Behind Celtic Bars Website Undertakes Ambitious Project To Document The History Of Every CSC In The World",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/08/celtic-bars-1024x341.jpg"
+        },
+        {
+          "id": "https://thecelticblog.com/2022/08/articles-and-features/the-mccarthy-rumours-if-true-would-be-a-sad-end-to-a-celtic-fairytale-which-went-bad/",
+          "author": null,
+          "description": "James McCarthy was born to be a Celtic player. He should have been a Celtic player when he was in his prime, when he left Hamilton for England. The utter stupidity and short-sightedness of us not making that bid and getting that done is a stunning indictment on our upper management of that time. It […]",
+          "link": "https://thecelticblog.com/2022/08/articles-and-features/the-mccarthy-rumours-if-true-would-be-a-sad-end-to-a-celtic-fairytale-which-went-bad/",
+          "publishedOn": "2022-08-02T16:55:16.000Z",
+          "wordCount": 2021,
+          "title": "The McCarthy Rumours, If True, Would Be A Sad End To A Celtic Fairytale Which Went Bad.",
+          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2021/08/2013-11-13T124820Z_1_MT1ACI11537810_RTRMADP_3_SOCCER-ENGLAND-IRL.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/news/david-martindale-cites-celtic-supporters-in-livingston-dressing-room-as-he-hits-out-at-deluded-theories/",
+          "author": null,
+          "description": "Livingston manager David Martindale has hit back at suggestions his Rangers supporting past is influencing the performances and results of his team in the Scottish Premiership. Martindale has made an appearance on The Battle Fever podcast, produced by Rangers fans, going into a variety of subjects as manager of the West Lothian outfit. And he’s ...\nThe post Top-flight boss cites Celtic fans in his dressing room; hits out at Rangers theories appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/david-martindale-cites-celtic-supporters-in-livingston-dressing-room-as-he-hits-out-at-deluded-theories/",
+          "publishedOn": "2022-08-02T16:50:15.000Z",
+          "wordCount": 1956,
+          "title": "Top-flight boss cites Celtic fans in his dressing room; hits out at Rangers theories",
+          "imageUrl": "https://www.67hailhail.com/static/uploads/18/2022/08/GettyImages-1341290588.jpg"
+        },
+        {
+          "id": "https://thecelticstar.com/rumour-is-disappointed-james-mccarthy-could-be-heading-for-celtic-exit-door/",
+          "author": null,
+          "description": "As with nearly everyday on the site, we try and keep everyone up to date with transfers in and out of the club. After making several additions to his squad in tandem with trimming the fat from an over-inflated wage bill, Ange Postecoglou is still on the look out for more bargains as well as Read More",
+          "link": "https://thecelticstar.com/rumour-is-disappointed-james-mccarthy-could-be-heading-for-celtic-exit-door/",
+          "publishedOn": "2022-08-02T16:18:50.000Z",
+          "wordCount": 1809,
+          "title": "Rumour is ‘disappointed’ James McCarthy could be heading for Celtic exit door",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2021/08/1005871727-1024x723.jpg"
+        },
+        {
+          "id": "https://celtsarehere.com/celtic-fans-set-for-tv-blackout/",
+          "author": null,
+          "description": "After an opening day victory over Aberdeen, Celtic’s will get back on the road this weekend with a visit to Ross County with the match not being televised on any channel.  Ross County has sent out a warning last week to Hoops fans telling them not to purchase tickets for the home end or else […]\nSource",
+          "link": "https://celtsarehere.com/celtic-fans-set-for-tv-blackout/",
+          "publishedOn": "2022-08-02T15:49:16.000Z",
+          "wordCount": 13607,
+          "title": "Celtic Fans set for TV blackout",
+          "imageUrl": "https://i0.wp.com/celtsarehere.com/wp-content/uploads/2020/09/65738F7B-A9BE-4E25-B949-560984654B14.jpeg?fit=890%2C395&ssl=1"
+        },
+        {
+          "id": "https://thecelticstar.com/opinion-footballs-moral-vacuum-threatens-to-destroy-our-beautiful-game/",
+          "author": null,
+          "description": "On a peruse through Twitter this afternoon, I happened to stumble across a few things from talkSPORT which I found interesting. It mainly featured around Manchester United’s chase of Barcelona midfielder Frenkie de Jong – in what has undoubtedly been the long, wearisome transfer saga that happens almost every summer window since they began. First Read More",
+          "link": "https://thecelticstar.com/opinion-footballs-moral-vacuum-threatens-to-destroy-our-beautiful-game/",
+          "publishedOn": "2022-08-02T15:45:52.000Z",
+          "wordCount": 2661,
+          "title": "Opinion: Football’s moral vacuum threatens to destroy our beautiful game",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/08/fc-barcelona-introduce-robert-lewandowski-1024x682.jpeg"
+        },
+        {
+          "id": "https://celticfanzine.com/john-hughes-celtic-great-1943-2022/",
+          "author": null,
+          "description": "JOHN  HUGHES  CELTIC GREAT 1943 – 2022 Celtic Historian & Author, David Potter pays tribute to Yogi. The news of the passing of John Hughes came to many of us as a deep personal blow. Those of us who grew up in the 1960s had strong feelings about The Bear. https://celticfanzine.com/product-category/monthly-print-subscription/  The early 1960s […]\nThe post JOHN  HUGHES  CELTIC GREAT 1943 – 2022 appeared first on Celtic Fanzine.",
+          "link": "https://celticfanzine.com/john-hughes-celtic-great-1943-2022/",
+          "publishedOn": "2022-08-02T15:34:18.000Z",
+          "wordCount": 3076,
+          "title": "JOHN  HUGHES  CELTIC GREAT 1943 – 2022",
+          "imageUrl": "https://celticfanzine.com/wp-content/uploads/b25lY21zOmU3MjRiYjRkLTRlNTctNDczZi04YjVmLWE0N2E0OTY5Y2EzYjo2MzZlOTI3ZC00NjY4LTQ1MWEtOWNkNS0wZjY4ODRjMTYyZDU.jpg"
+        },
         {
           "id": "https://thecelticblog.com/2022/08/articles-and-features/ref-who-has-allowed-several-thuggish-assaults-on-celtic-players-given-our-game/",
           "author": null,
@@ -261,6 +341,16 @@
           "wordCount": 1792,
           "title": "Former Celtic keeper gives Union SG lowdown for Champions League Qualifier",
           "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/08/aberdeen-v-celtic-betfred-cup-final-2-1024x710.jpg"
+        },
+        {
+          "id": "https://celtsarehere.com/remembering-john-yogi-hughes-a-true-celtic-man/",
+          "author": null,
+          "description": "In a career spanning twelve years at Celtic Park, John Hughes was a man worshiped by the Jungle and known as ‘Big Yogi’.  During his time at Celtic, John made 416 appearances in the Hoops and scored a terrific 189 goals as well as winning 7 league titles, 4 Scottish cups, 5 league cups and […]\nSource",
+          "link": "https://celtsarehere.com/remembering-john-yogi-hughes-a-true-celtic-man/",
+          "publishedOn": "2022-08-02T13:22:46.000Z",
+          "wordCount": 13768,
+          "title": "Remembering John ‘Yogi’ Hughes – A True Celtic Man",
+          "imageUrl": "https://i0.wp.com/celtsarehere.com/wp-content/uploads/2022/08/DED3411C-116A-45C9-9A55-31717963E596_1_105_c.jpeg?fit=782%2C1004&ssl=1"
         },
         {
           "id": "https://thecelticstar.com/opinion-celtic-should-hijack-galatasarys-move-for-arsenals-lucas-torriera/",
@@ -2741,36 +2831,6 @@
           "wordCount": 1899,
           "title": "Ange Postecoglou provides latest transfer update confirming Celtic&#039;s next steps",
           "imageUrl": "https://www.67hailhail.com/static/uploads/18/2022/05/GettyImages-1396744315-scaled.jpg"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/griff-the-grief/",
-          "author": null,
-          "description": "COLOURFUL and controversial, Leigh Griffiths rode an emotional rollercoaster during his eight years at Celtic. The lively little marksman fired in over a century of goals for the Hoops and may have expected a fanfare of trumpets to herald the curtain coming down on his career in the east end of Glasgow. Instead, there was [...]",
-          "link": "https://www.celticquicknews.co.uk/griff-the-grief/",
-          "publishedOn": "2022-07-29T04:10:05.000Z",
-          "wordCount": 2893,
-          "title": "GRIFF: THE GRIEF",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2021/04/LEIGH-GRIFFITHS-FEATURRRED.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/three-cheers-treble-no-5-2017-18/",
-          "author": null,
-          "description": "IT WAS a spectacular case of deja vu for Brendan Rodgers and Celtic as they made history in season 2017/18 – the first Scottish club to achieve the amazing double treble. CQN has journeyed back in time to turn the spotlight on the Parkhead club’s Magnificent Seven seasons where they have won every prize Scottish football [...]",
-          "link": "https://www.celticquicknews.co.uk/three-cheers-treble-no-5-2017-18/",
-          "publishedOn": "2022-07-29T04:05:40.000Z",
-          "wordCount": 3378,
-          "title": "THREE CHEERS: TREBLE No.5 (2017/18)",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2020/12/CELTIC-TREBLE-BUS-FEATURED.jpg"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/exclusive-theres-a-long-way-to-go-the-tommy-burns-story-part-eighteen/",
-          "author": null,
-          "description": "TOMMY BURNS refused to throw in the towel as the pressure mounted in his third year as Celtic manager during the turbulent 1996/97 crusade. The fans’ favourite had returned to the club on July 12 1994 and had won the Scottish Cup in his debut campaign. That was followed by a barren term and all [...]",
-          "link": "https://www.celticquicknews.co.uk/exclusive-theres-a-long-way-to-go-the-tommy-burns-story-part-eighteen/",
-          "publishedOn": "2022-07-29T04:00:04.000Z",
-          "wordCount": 3606,
-          "title": "EXCLUSIVE: ‘THERE’S A LONG WAY TO GO’: THE TOMMY BURNS STORY (Part Eighteen)",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/07/TOMMY-BURNS-FTRRRD.png"
         }
       ]
     },
@@ -2779,6 +2839,46 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CAIiEO9Ms_2Lv9T2Y34gLD1RAE0qGQgEKhAIACoHCAowne-jCzDg-bsDMLnLhQc",
+          "author": null,
+          "description": "The McCarthy Rumours, If True, Would Be A Sad End To A Celtic Fairytale Which Went Bad.  TheCelticBlog.com",
+          "link": "https://thecelticblog.com/2022/08/articles-and-features/the-mccarthy-rumours-if-true-would-be-a-sad-end-to-a-celtic-fairytale-which-went-bad/",
+          "publishedOn": "2022-08-02T16:55:00.000Z",
+          "wordCount": 2021,
+          "title": "The McCarthy Rumours, If True, Would Be A Sad End To A Celtic Fairytale Which Went Bad. - TheCelticBlog.com",
+          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2021/08/2013-11-13T124820Z_1_MT1ACI11537810_RTRMADP_3_SOCCER-ENGLAND-IRL.jpg"
+        },
+        {
+          "id": "CBMiOWh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9jZWx0aWMtZmFucy1zZXQtZm9yLXR2LWJsYWNrb3V0L9IBPWh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9jZWx0aWMtZmFucy1zZXQtZm9yLXR2LWJsYWNrb3V0L2FtcC8",
+          "author": null,
+          "description": "Celtic Fans set for TV blackout  CeltsAreHere",
+          "link": "https://celtsarehere.com/celtic-fans-set-for-tv-blackout/",
+          "publishedOn": "2022-08-02T15:49:16.000Z",
+          "wordCount": 13607,
+          "title": "Celtic Fans set for TV blackout - CeltsAreHere",
+          "imageUrl": "https://i0.wp.com/celtsarehere.com/wp-content/uploads/2020/09/65738F7B-A9BE-4E25-B949-560984654B14.jpeg?fit=890%2C395&ssl=1"
+        },
+        {
+          "id": "CAIiELSTtmyhaXZShBy-xOpQS4cqGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY",
+          "author": null,
+          "description": "Opinion: Football’s moral vacuum threatens to destroy our beautiful game  The Celtic Star",
+          "link": "https://thecelticstar.com/opinion-footballs-moral-vacuum-threatens-to-destroy-our-beautiful-game/",
+          "publishedOn": "2022-08-02T15:45:52.000Z",
+          "wordCount": 2661,
+          "title": "Opinion: Football’s moral vacuum threatens to destroy our beautiful game - The Celtic Star",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/08/fc-barcelona-introduce-robert-lewandowski-1024x682.jpeg"
+        },
+        {
+          "id": "CAIiEF7MhJUyVVSGJZ1t7gVqDGAqGQgEKhAIACoHCAowrueiCTDmn7gCMKXUtwU",
+          "author": null,
+          "description": "Jordan Larsson transfer latest as Celtic swerve signing race with 3 'concrete' offers on the table  Daily Record",
+          "link": "https://www.dailyrecord.co.uk/sport/football/football-news/jordan-larsson-transfer-latest-celtic-27640311",
+          "publishedOn": "2022-08-02T15:09:08.000Z",
+          "wordCount": 2824,
+          "title": "Jordan Larsson transfer latest as Celtic swerve signing race with 3 'concrete' offers on the table - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article27343476.ece/ALTERNATES/s1200/0_Zenit-St-Petersburg-v-Spartak-Moscow-Russian-Premier-League.jpg"
+        },
         {
           "id": "CBMiZWh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vZm9ybWVyLWNlbHRpYy1rZWVwZXItZ2l2ZXMtdW5pb24tc2ctbG93ZG93bi1mb3ItY2hhbXBpb25zLWxlYWd1ZS1xdWFsaWZpZXIv0gFpaHR0cHM6Ly90aGVjZWx0aWNzdGFyLmNvbS9mb3JtZXItY2VsdGljLWtlZXBlci1naXZlcy11bmlvbi1zZy1sb3dkb3duLWZvci1jaGFtcGlvbnMtbGVhZ3VlLXF1YWxpZmllci9hbXAv",
           "author": null,
@@ -2968,6 +3068,16 @@
           "wordCount": 2337,
           "title": "Aberdeen’s Fans Rejection Of On-Loan Celt Is A Sign Of Their Incredible Intolerance. - TheCelticBlog.com",
           "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2022/08/2022-07-31T171438Z_1727868257_UP1EI7V1BWDWD_RTRMADP_3_SOCCER-SCOTLAND-CEL-ABE-REPORT-scaled.jpg"
+        },
+        {
+          "id": "CAIiEJ0IIG2eE9S62zY1ChXHinwqGQgEKhAIACoHCAowrueiCTDmn7gCMIfHtwU",
+          "author": null,
+          "description": "Rangers punters get it tight over Jota digs as Celtic fans predict Henrik Larsson trajectory – Hotline  Daily Record",
+          "link": "https://www.dailyrecord.co.uk/sport/football/football-news/rangers-punters-tight-over-jota-27628318",
+          "publishedOn": "2022-08-01T11:30:44.000Z",
+          "wordCount": 3048,
+          "title": "Rangers punters get it tight over Jota digs as Celtic fans predict Henrik Larsson trajectory – Hotline - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article27623509.ece/ALTERNATES/s1200/0_Celtic-FC-v-Aberdeen-FC-Cinch-Scottish-Premiership.jpg"
         },
         {
           "id": "CAIiED-0RUH4Gpw-CgwAImIENq0qGQgEKhAIACoHCAowrueiCTDmn7gCMKXUtwU",
@@ -3768,16 +3878,6 @@
           "wordCount": 2507,
           "title": "Scott Brown says Fleetwood's training facilities are just as good as Celtic's - Football Scotland",
           "imageUrl": "https://i2-prod.footballscotland.co.uk/incoming/article24617602.ece/ALTERNATES/s1200/0_JS272857626.jpg"
-        },
-        {
-          "id": "CAIiEGr7-5S_Jme_UNQlWZB1tEUqGQgEKhAIACoHCAowrueiCTDmn7gCMIfHtwU",
-          "author": null,
-          "description": "Barry Ferguson believes Morelos contract will be followed by more good news  Daily Record",
-          "link": "https://www.dailyrecord.co.uk/sport/football/football-news/isnt-rangers-told-you-so-27603286",
-          "publishedOn": "2022-07-29T05:00:00.000Z",
-          "wordCount": 3693,
-          "title": "Barry Ferguson believes Morelos contract will be followed by more good news - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article26439517.ece/ALTERNATES/s1200/0_JS260205402.jpg"
         }
       ]
     },
@@ -3786,6 +3886,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "da5e3509669a08944a1e173e6d0dc12a",
+          "author": null,
+          "description": "A member of the legendary 1966-67 squad, the former striker passed away at 79 after a short illness.",
+          "link": "https://www.glasgowtimes.co.uk/sport/20595162.he-big-gentleman-celtic-fans-pay-tribute-death-lisbon-lion-john-hughes/?ref=rss",
+          "publishedOn": "2022-08-02T15:17:00.000Z",
+          "wordCount": 8441,
+          "title": "'He was a big gentleman': Celtic fans pay tribute after death of Lisbon Lion John Hughes",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/14329594/?type=og-image"
+        },
         {
           "id": "9510c40624321b432f63df36752719b8",
           "author": null,
@@ -4155,16 +4265,6 @@
           "wordCount": 8006,
           "title": "Albian Ajeti transfer update as Celtic boss Ange Postecoglou issues update",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/13970114/?type=og-image"
-        },
-        {
-          "id": "46ad81693e1b174ec7519d201655233f",
-          "author": null,
-          "description": "IT is the dilemma that managers describe as ‘a nice headache to have’, and Ange Postecoglou certainly won’t be complaining about having selection dilemmas on his hands ahead of Celtic’s Premiership opener against Aberdeen given he was scrambling to get any sort of team on the pitch for last season’s opening day defeat at Tynecastle.",
-          "link": "https://www.glasgowtimes.co.uk/sport/20586427.hatate-mooy-oriley-turnbull-joins-callum-mcgregor-first-choice-celtic-midfield/?ref=rss",
-          "publishedOn": "2022-07-29T06:00:00.000Z",
-          "wordCount": 8771,
-          "title": "Hatate or Mooy? O’Riley or Turnbull? Who joins Callum McGregor in the first-choice Celtic midfield?",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/14315092/?type=og-image"
         }
       ]
     }
