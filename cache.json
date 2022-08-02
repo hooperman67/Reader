@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com//sport/football/celtic",
       "articles": [
         {
+          "id": "3790011",
+          "author": "Matthew Elder",
+          "description": "Celtic legend John ‘Yogi’ Hughes has died at the age of 79.",
+          "link": "https://www.scotsman.com/sport/football/celtic/john-yogi-hughes-celtic-legend-passes-away-after-short-illness-3790011",
+          "publishedOn": "2022-08-01T21:48:54.000Z",
+          "wordCount": 1976,
+          "title": "John 'Yogi' Hughes: Celtic legend passes away after short illness",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmU3MjRiYjRkLTRlNTctNDczZi04YjVmLWE0N2E0OTY5Y2EzYjo2MzZlOTI3ZC00NjY4LTQ1MWEtOWNkNS0wZjY4ODRjMTYyZDU=.jpg?width=1200&enable=upscale"
+        },
+        {
           "id": "3789795",
           "author": "Joel Sked",
           "description": "At Celtic, when the opportunity presents itself for players they have to be ready to take it.",
@@ -204,26 +214,6 @@
           "wordCount": 2275,
           "title": "What channel is Celtic v Aberdeen on? Premiership match info, kick-off time, TV details, team news",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjMxNGIwMTMzLTk4M2EtNGE5Yi1iZGMxLTkyZGY3ODMwOTA4ODo3MDY4MmRmYS04NDQ3LTQzM2QtYTc5OC0wYWViNjMwOGU2NDQ=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3785598",
-          "author": "Angus Wright",
-          "description": "Anticipation is building for the opening weekend of the league season ahead of what promises to be another exciting and unpredictable chapter in Scottish football.",
-          "link": "https://www.scotsman.com/sport/football/celtic/scotsman-writers-make-celtic-rangers-title-prediction-who-will-finish-third-and-all-spfl-winners-and-losers-3785598",
-          "publishedOn": "2022-07-28T13:28:58.000Z",
-          "wordCount": 3545,
-          "title": "Scotsman writers make Celtic-Rangers title prediction, who will finish third, and all SPFL winners and losers",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjQ3YzY5Nzc1LTZkZjAtNDNhMi1hZTEzLWZiMjg5ZTE1NDNjZjo2MDgyMDBlNC0wMzJiLTRmZjItOWI3My1jZmNiMjY1OGIyY2Y=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3785264",
-          "author": "David Oliver",
-          "description": "Ex-Celtic defender Michael Gray believes his former club will be spurred on by Rangers’ Europa League exploits last season after being “envious” of their rivals’ run to the final in Seville.",
-          "link": "https://www.scotsman.com/sport/football/celtic/why-celtic-will-be-envious-of-rangers-according-to-former-parkhead-defender-3785264",
-          "publishedOn": "2022-07-28T10:58:15.000Z",
-          "wordCount": 2336,
-          "title": "Why Celtic will be 'envious' of Rangers, according to former Parkhead defender",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjU1YTZhNWEzLTc3NzUtNDFmMS05YjkwLTU2ODc5NGE2MTg3ZTo3Njk1NjFkMy05NWEwLTRiNzEtYjdmNi00ZmE5MzVmODgxMjM=.jpg?width=1200&enable=upscale"
         }
       ]
     },
@@ -232,6 +222,16 @@
       "feedUrl": "http://armchaircelts.co.uk/wprss",
       "siteUrl": "http://armchaircelts.co.uk/feed/wprss/",
       "articles": [
+        {
+          "id": "https://thecelticstar.com/john-yogi-hughes-joins-the-ranks-of-those-will-be-immortal-as-long-as-theres-a-glasgow-celtic/",
+          "author": null,
+          "description": "Sad, sad news this evening. Celtic legend and Lisbon Lion John ‘Yogi’ Hughes, today passed away peacefully after a short illness. Big Yogi was surrounded by his loving family. In a short statement released by the family this evening, privacy is requested at this sad time. And they are spot on when they say that Read More",
+          "link": "https://thecelticstar.com/john-yogi-hughes-joins-the-ranks-of-those-will-be-immortal-as-long-as-theres-a-glasgow-celtic/",
+          "publishedOn": "2022-08-01T21:27:48.000Z",
+          "wordCount": 2140,
+          "title": "John ‘Yogi’ Hughes “joins the ranks of those will be immortal as long as there’s a Glasgow Celtic”",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/08/296892858_5600523659978257_2037514548355930607_n.jpg"
+        },
         {
           "id": "https://www.celticquicknews.co.uk/john-yogi-hughes-family-statement/",
           "author": null,
@@ -2711,156 +2711,6 @@
           "wordCount": 1792,
           "title": "Former Celtic winger Aiden McGeady suffers bitter injury blow ahead of Scottish season start",
           "imageUrl": "https://www.67hailhail.com/static/uploads/18/2022/03/GettyImages-1234097676-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/news/ex-celtic-defender-could-get-his-move-to-england-with-bid-submitted/",
-          "author": null,
-          "description": "Former Celtic defender Jack Hendry could be set for a move to England, after newly-relegated Burnley submitted a bid to Club Brugge for the 27 year old, according to a report. Burnley manager Vincent Kompany has already recruited from his homeland, having himself moved from Anderlecht to England this summer, with a deal agreed for ...\nThe post Ex-Celtic defender could get his move to England after unexpected rise appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/ex-celtic-defender-could-get-his-move-to-england-with-bid-submitted/",
-          "publishedOn": "2022-07-28T14:10:00.000Z",
-          "wordCount": 1815,
-          "title": "Ex-Celtic defender could get his move to England after unexpected rise",
-          "imageUrl": "https://www.67hailhail.com/static/uploads/18/2021/03/GettyImages-949667702-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/news/it-doesnt-get-much-more-difficult-opposition-manager-discusses-celtic/",
-          "author": null,
-          "description": "Aberdeen manager Jim Goodwin has deemed Sunday’s Premiership curtain raiser at Celtic Park as difficult a start as his side could have asked for. The Dons have enjoyed an imperious start to their season with four wins in the Premier Sports Cup group stage but the former St Mirren midfielder and manager sees Sunday’s bout ...\nThe post \"It doesn&#039;t get much more difficult\"; Opposition manager discusses Celtic appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/it-doesnt-get-much-more-difficult-opposition-manager-discusses-celtic/",
-          "publishedOn": "2022-07-28T13:40:00.000Z",
-          "wordCount": 1840,
-          "title": "\"It doesn&#039;t get much more difficult\"; Opposition manager discusses Celtic",
-          "imageUrl": "https://www.67hailhail.com/static/uploads/18/2022/07/GettyImages-1240349504-1-scaled.jpg"
-        },
-        {
-          "id": "https://thecelticblog.com/2022/07/articles-and-features/andy-walkers-choice-for-celtics-most-important-player-this-year-is-interesting/",
-          "author": null,
-          "description": "Andy Walker picked his crucial player at every club in the league list today, and although a lot of sites are bizarrely publicising what Kris Boyd said, as if any of us care who he thinks Celtic’s most potent player will be, there’s be very little talk about Walker’s. And Walker’s, to me, is more […]",
-          "link": "https://thecelticblog.com/2022/07/articles-and-features/andy-walkers-choice-for-celtics-most-important-player-this-year-is-interesting/",
-          "publishedOn": "2022-07-28T13:30:00.000Z",
-          "wordCount": 2172,
-          "title": "Andy Walker’s Choice For Celtic’s Most Important Player This Year Is … Interesting.",
-          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2021/10/2021-09-30T211218Z_1280617392_UP1EH9U1MWHTU_RTRMADP_3_SOCCER-EUROPA-CEL-B04-REPORT.jpg"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/revealed-x-factor-jota/",
-          "author": null,
-          "description": "KRIS BOYD has revealed he is an admirer of Filipe Jota, Celtic’s flying Portuguese winger. The mesmerising touchline ace impressed during his season-long loan from Benfica and made the transfer permanent in the summer when he agreed a £6.5million four-year switch from the Lisbon giants. Jota set up a conveyor belt of chances for the [...]",
-          "link": "https://www.celticquicknews.co.uk/revealed-x-factor-jota/",
-          "publishedOn": "2022-07-28T13:19:00.000Z",
-          "wordCount": 2573,
-          "title": "REVEALED: X-FACTOR JOTA",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/07/flipe-jota-donz-featured.png"
-        },
-        {
-          "id": "https://www.67hailhail.com/news/sky-sports-pundit-tips-midfielder-to-be-key-star-for-celtic-this-season/",
-          "author": null,
-          "description": "Former Celtic striker and Sky Sports pundit Andy Walker has tipped Hoops midfielder David Turnbull for a starring role this season. The 23-year-old has been a consistent performer for the club since joining from Motherwell in the 2020 summer window. However, last season the Scotland internationalist’s season was hindered by injury after picking up a ...\nThe post Sky Sports pundit tips surprise midfielder to be key star for Celtic this season appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/sky-sports-pundit-tips-midfielder-to-be-key-star-for-celtic-this-season/",
-          "publishedOn": "2022-07-28T13:10:00.000Z",
-          "wordCount": 2002,
-          "title": "Sky Sports pundit tips surprise midfielder to be key star for Celtic this season",
-          "imageUrl": "https://www.67hailhail.com/static/uploads/18/2022/06/GettyImages-1397186748-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/celtic-youth/talented-celtic-youngster-secures-scottish-league-loan-move/",
-          "author": null,
-          "description": "Celtic youngster Ben Wylie has completed a loan move to Scottish League One side Airdrieonians. The 20-year-old joined the club’s academy in 2018 and has progressed through the ranks up to the Celtic B side last campaign. Wylie was a regular part of Tommy McIntyre’s young Hoops side in their first season in the Lowland ...\nThe post Talented Celtic youngster completes Scottish league loan move appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/celtic-youth/talented-celtic-youngster-secures-scottish-league-loan-move/",
-          "publishedOn": "2022-07-28T12:10:00.000Z",
-          "wordCount": 1842,
-          "title": "Talented Celtic youngster completes Scottish league loan move",
-          "imageUrl": "https://www.67hailhail.com/static/uploads/18/2022/01/GettyImages-1183277342-scaled.jpg"
-        },
-        {
-          "id": "https://thecelticstar.com/transfer-latest-celtic-send-b-team-star-ben-wylie-out-on-loan-to-airdrie/",
-          "author": null,
-          "description": "Airdrie FC today confirmed that they have concluded a loan deal with Celtic for Irish midfielder Ben Wylie, who was one of the star performers in the Celtic B team’s debut season in the Lowland League last year. Wylie recently signed a new contract at Celtic so this move can be seen as being very Read More",
-          "link": "https://thecelticstar.com/transfer-latest-celtic-send-b-team-star-ben-wylie-out-on-loan-to-airdrie/",
-          "publishedOn": "2022-07-28T11:55:44.000Z",
-          "wordCount": 1582,
-          "title": "Transfer Latest – Celtic send B Team star Ben Wylie out on loan to Airdrie",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/07/FYwBXVTXoAATv4s-1024x536.jpeg"
-        },
-        {
-          "id": "https://www.67hailhail.com/news/i-feel-confident-vasilis-barkas-reflects-upon-new-season-preparations-after-celtic-exit/",
-          "author": null,
-          "description": "Former Celtic goalkeeper Vasilis Barkas has opened up on pre-season preparations with current loan side FC Utrecht after his recent Parkhead exit. The 28-year-old is looking to kick start his career once again, off the back of a disappointing two years at Celtic Park. Barkas joined the Hoops in the summer of 2020 for a ...\nThe post \"I feel confident - Vasilis Barkas reflects upon new season preparations after Celtic exit appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/i-feel-confident-vasilis-barkas-reflects-upon-new-season-preparations-after-celtic-exit/",
-          "publishedOn": "2022-07-28T11:40:00.000Z",
-          "wordCount": 2061,
-          "title": "\"I feel confident - Vasilis Barkas reflects upon new season preparations after Celtic exit",
-          "imageUrl": "https://www.67hailhail.com/static/uploads/18/2021/02/GettyImages-1289723424-scaled.jpg"
-        },
-        {
-          "id": "https://thecelticstar.com/danny-lennon-backing-aaron-mooy-to-be-a-celtic-star/",
-          "author": null,
-          "description": "Danny Lennon knows a thing or two about new Celtic recruit Aaron Mooy. Lennon coached Mooy during his time in the Scottish Premiership with St Mirren, when he played for the Paisley side a decade or so ago. Lennon initially used Mooy as a No.10 and revealed he didn’t see him as the deep-lying sort Read More",
-          "link": "https://thecelticstar.com/danny-lennon-backing-aaron-mooy-to-be-a-celtic-star/",
-          "publishedOn": "2022-07-28T11:35:45.000Z",
-          "wordCount": 1776,
-          "title": "Danny Lennon backing Aaron Mooy to be a Celtic Star",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/07/FYM2sJBXgAAflce-1024x520.jpeg"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/mikey-moh-and-converting-talent/",
-          "author": null,
-          "description": "I could not make sense of why we signed Mohamed Elyounoussi on loan from Southampton in the last days of the 2019 summer transfer window.  He played in Mikey Johnston’s position, a prospect I had great hopes for.  Just days later, Mikey was a star at Ibrox, winning possession (albeit without much difficulty) and setting [...]",
-          "link": "https://www.celticquicknews.co.uk/mikey-moh-and-converting-talent/",
-          "publishedOn": "2022-07-28T11:34:29.000Z",
-          "wordCount": 4852,
-          "title": "Mikey, Moh and converting talent",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
-        },
-        {
-          "id": "https://celtsarehere.com/celtics-summer-scouting-mission-abu-fani-latest/",
-          "author": null,
-          "description": "Celtic have been very proactive this summer when it comes to getting business done. We’re just about to get back into SPFL action and the bulk of our transfer activity has already been concluded. Hoops supporters who have followed the club in the 21st century will know that’s not always been a given. The club […]\nSource",
-          "link": "https://celtsarehere.com/celtics-summer-scouting-mission-abu-fani-latest/",
-          "publishedOn": "2022-07-28T11:25:00.000Z",
-          "wordCount": 13544,
-          "title": "Celtic’s Summer Scouting Mission; Abu Fani Latest",
-          "imageUrl": "https://i0.wp.com/celtsarehere.com/wp-content/uploads/2021/02/gossip-celtic-transfer.jpg?fit=800%2C400&ssl=1"
-        },
-        {
-          "id": "https://thecelticstar.com/video-i-think-celtic-have-the-best-bench-peter-grant-tips-celtic-for-more-title-glory/",
-          "author": null,
-          "description": "It’s the prediction that will surprise no-one in Scottish football as former Celtic midfielder Peter Grant tips his old club to retain the Scottish Premiership title, outlining his reasoning by arguing that Ange Postecoglou has around 22 first team players in his squad and that’s something that theRangers at this stage simply cannot match. Grant Read More",
-          "link": "https://thecelticstar.com/video-i-think-celtic-have-the-best-bench-peter-grant-tips-celtic-for-more-title-glory/",
-          "publishedOn": "2022-07-28T11:07:36.000Z",
-          "wordCount": 1456,
-          "title": "Video: “I think Celtic have the best bench,” Peter Grant tips Celtic for more title glory",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/07/celtic-champions-training-day-33-1024x694.jpeg"
-        },
-        {
-          "id": "https://thecelticblog.com/2022/07/articles-and-features/police-scotlands-investigation-into-the-ibrox-fans-was-a-farce-that-bilked-the-taxpayer/",
-          "author": null,
-          "description": "So yesterday, Police Scotland ended their investigation into the racist and sectarian singing by a section of the Ibrox fan-base during a march to a game last season. They claimed that in spite of months investigating this they didn’t produce enough evidence to make a case. It’s like some kind of sick joke when you […]",
-          "link": "https://thecelticblog.com/2022/07/articles-and-features/police-scotlands-investigation-into-the-ibrox-fans-was-a-farce-that-bilked-the-taxpayer/",
-          "publishedOn": "2022-07-28T10:57:17.000Z",
-          "wordCount": 2132,
-          "title": "Police Scotland’s Investigation Into The Ibrox Fans Was A Farce That Bilked The Taxpayer.",
-          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2021/03/2021-01-02T121114Z_123941426_UP1EH120XUQUN_RTRMADP_3_SOCCER-SCOTLAND-RFC-CEL-REPORT.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/transfers/report-celtic-continue-mohammed-abu-fani-scouting-mission-with-final-decision-set-to-be-made/",
-          "author": null,
-          "description": "Celtic reportedly continued their scouting mission of Maccabi Haifa midfielder Mohammed Abu Fani on Wednesday evening as the Israeli side took on Olympiacos in UCL qualifying. The 24-year-old has been linked with a move to Parkhead throughout the window, with Ange Postecoglou on the hunt for a new midfield enforcer. It is expected that the ...\nThe post Report: Celtic continue transfer scouting mission with final decision set to be made appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/transfers/report-celtic-continue-mohammed-abu-fani-scouting-mission-with-final-decision-set-to-be-made/",
-          "publishedOn": "2022-07-28T10:40:00.000Z",
-          "wordCount": 1954,
-          "title": "Report: Celtic continue transfer scouting mission with final decision set to be made",
-          "imageUrl": "https://www.67hailhail.com/static/uploads/18/2022/06/GettyImages-1235251249-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/news/a-big-eye-opener-celtic-summer-signing-opens-up-on-previous-scottish-football-experience/",
-          "author": null,
-          "description": "Celtic midfielder Aaron Mooy has opened up on his early experiences of Scottish Football from his time spent at St Mirren. The 31-year-old became Ange Postecoglou’s sixth new addition of the window, adding to the Hoops midfield options for the campaign ahead. Mooy is a player that the Celtic manager knows well from his spell ...\nThe post \"A big eye-opener\" - Celtic summer signing opens up on previous Scottish Football experience appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/a-big-eye-opener-celtic-summer-signing-opens-up-on-previous-scottish-football-experience/",
-          "publishedOn": "2022-07-28T09:40:00.000Z",
-          "wordCount": 2040,
-          "title": "\"A big eye-opener\" - Celtic summer signing opens up on previous Scottish Football experience",
-          "imageUrl": "https://www.67hailhail.com/static/uploads/18/2021/06/GettyImages-1196353342-scaled.jpg"
         }
       ]
     },
@@ -2869,6 +2719,26 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CAIiEKn4ybsx4MTUH9TKMStXV0gqGQgEKhAIACoHCAowrueiCTDmn7gCMKXUtwU",
+          "author": null,
+          "description": "John Hughes dies at 79 as Celtic legend and Lisbon Lion passes away after short illness  Daily Record",
+          "link": "https://www.dailyrecord.co.uk/sport/football/football-news/john-hughes-dies-79-celtic-27633326",
+          "publishedOn": "2022-08-01T20:58:47.000Z",
+          "wordCount": 3141,
+          "title": "John Hughes dies at 79 as Celtic legend and Lisbon Lion passes away after short illness - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article27633452.ece/ALTERNATES/s1200/0_JS35463680.jpg"
+        },
+        {
+          "id": "CAIiEGCyJNoBf9vSwXK86mNZcysqGQgEKhAIACoHCAow_-CqCzD868IDMPPfoQc",
+          "author": null,
+          "description": "Dan Orlovsky brands Celtic 'greatest soccer team in world' as former NFL quarterback wears Hoops jersey  Football Scotland",
+          "link": "https://www.footballscotland.co.uk/spfl/scottish-premiership/dan-orlovsky-celtic-greatest-nfl-24645649",
+          "publishedOn": "2022-08-01T20:42:24.000Z",
+          "wordCount": 2143,
+          "title": "Dan Orlovsky brands Celtic 'greatest soccer team in world' as former NFL quarterback wears Hoops jersey - Football Scotland",
+          "imageUrl": "https://i2-prod.footballscotland.co.uk/incoming/article24645681.ece/ALTERNATES/s1200/1_Dan-OrlovskyPNG.png"
+        },
         {
           "id": "CAIiEP3j3B028uVjWpoa3tMRBkEqGQgEKhAIACoHCAow4KKJCzCv9JoDMICkoAY",
           "author": null,
@@ -2938,6 +2808,16 @@
           "wordCount": 2239,
           "title": "Hayden Post Match on RedTV - afc.co.uk",
           "imageUrl": "https://d2cx26qpfwuhvu.cloudfront.net/aberdeen/wp-content/uploads/2022/08/01141621/hayden_1.jpg"
+        },
+        {
+          "id": "CAIiEOJhdr7LIJqWLpj5BD3wZGcqGQgEKhAIACoHCAowne-jCzDg-bsDMLnLhQc",
+          "author": null,
+          "description": "Aberdeen’s Fans Rejection Of On-Loan Celt Is A Sign Of Their Incredible Intolerance.  TheCelticBlog.com",
+          "link": "https://thecelticblog.com/2022/08/articles-and-features/aberdeens-fans-rejection-of-on-loan-celt-is-a-sign-of-their-incredible-intolerance/",
+          "publishedOn": "2022-08-01T12:58:00.000Z",
+          "wordCount": 2337,
+          "title": "Aberdeen’s Fans Rejection Of On-Loan Celt Is A Sign Of Their Incredible Intolerance. - TheCelticBlog.com",
+          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2022/08/2022-07-31T171438Z_1727868257_UP1EI7V1BWDWD_RTRMADP_3_SOCCER-SCOTLAND-CEL-ABE-REPORT-scaled.jpg"
         },
         {
           "id": "CAIiED-0RUH4Gpw-CgwAImIENq0qGQgEKhAIACoHCAowrueiCTDmn7gCMKXUtwU",
@@ -3118,6 +2998,16 @@
           "wordCount": 2128,
           "title": "Defender’s big opportunity, debut chances; Celtic Predicted XI vs Aberdeen - 67 Hail Hail - Celtic FC News",
           "imageUrl": "https://www.67hailhail.com/static/uploads/18/2022/04/GettyImages-1390462687-1-scaled.jpg"
+        },
+        {
+          "id": "CAIiEDXWKitMcYHtGBNhZFqkZ8EqGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY",
+          "author": null,
+          "description": "Ange explains reasoning behind Harry Kewell addition at Celtic  The Celtic Star",
+          "link": "https://thecelticstar.com/ange-explains-reasoning-behind-harry-kewell-addition-at-celtic/",
+          "publishedOn": "2022-07-31T10:42:06.000Z",
+          "wordCount": 1751,
+          "title": "Ange explains reasoning behind Harry Kewell addition at Celtic - The Celtic Star",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/07/20476631x.jpg.gallery-1024x683.jpg"
         },
         {
           "id": "CAIiEPWxKd2zFvaSugnrNEzMjCcqGQgEKhAIACoHCAow96D9CjDOy_QCMKzp0wU",
@@ -3868,46 +3758,6 @@
           "wordCount": 2180,
           "title": "Leigh Griffiths in transfer talks as ex Celtic striker ends Livingston training stint - Football Scotland",
           "imageUrl": "https://i2-prod.footballscotland.co.uk/incoming/article23022632.ece/ALTERNATES/s1200/2_Celtic-v-West-Ham-United.jpg"
-        },
-        {
-          "id": "CAIiEM69_KNi6Pyi5VBulCL-42MqGQgEKhAIACoHCAowi76vCzCYyccDMKvzuAc",
-          "author": null,
-          "description": "Kris Boyd predicts Rangers new signing to solve goal 'problem' as he names Celtic star with x-factor  Scottish Daily Express",
-          "link": "https://www.scottishdailyexpress.co.uk/sport/football/kris-boyd-predicts-rangers-new-27600121",
-          "publishedOn": "2022-07-28T11:53:57.000Z",
-          "wordCount": 2440,
-          "title": "Kris Boyd predicts Rangers new signing to solve goal 'problem' as he names Celtic star with x-factor - Scottish Daily Express",
-          "imageUrl": "https://i2-prod.scottishdailyexpress.co.uk/sport/football/article26900828.ece/ALTERNATES/s1200/0_JS229100246-1.jpg"
-        },
-        {
-          "id": "CAIiEG_2DnSBWK5FjcjmkOWgxkkqGQgEKhAIACoHCAowr5GNCzDFxJ4DMLbFpgY",
-          "author": null,
-          "description": "“I feel confident – Vasilis Barkas reflects upon new season preparations after Celtic exit  67 Hail Hail - Celtic FC News",
-          "link": "https://www.67hailhail.com/news/i-feel-confident-vasilis-barkas-reflects-upon-new-season-preparations-after-celtic-exit/",
-          "publishedOn": "2022-07-28T11:40:00.000Z",
-          "wordCount": 2081,
-          "title": "“I feel confident – Vasilis Barkas reflects upon new season preparations after Celtic exit - 67 Hail Hail - Celtic FC News",
-          "imageUrl": "https://www.67hailhail.com/static/uploads/18/2021/02/GettyImages-1289723424-scaled.jpg"
-        },
-        {
-          "id": "CAIiEMeGUsAYBlenMGIyJx0Qj-4qGQgEKhAIACoHCAowrueiCTDmn7gCMOjNtwU",
-          "author": null,
-          "description": "Celtic pundits spark Rangers fury as Ibrox callers left raging by title predictions - Hotline  Daily Record",
-          "link": "https://www.dailyrecord.co.uk/sport/football/football-news/celtic-pundits-spark-rangers-fury-27599416",
-          "publishedOn": "2022-07-28T11:15:31.000Z",
-          "wordCount": 3627,
-          "title": "Celtic pundits spark Rangers fury as Ibrox callers left raging by title predictions - Hotline - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/sport/football/football-news/article27107589.ece/ALTERNATES/s1200/0_EHevESmWwAAfx6z.jpg"
-        },
-        {
-          "id": "CAIiEAq79EX8PNAg5IfcVIQpkqIqGQgEKhAIACoHCAow96D9CjDOy_QCMPvp0wU",
-          "author": null,
-          "description": "Celtic transfer update as Hoops tipped to have 'no option but to sell' player after exit collapse  Glasgow Live",
-          "link": "https://www.glasgowlive.co.uk/sport/football/football-news/celtic-transfer-update-hoops-tipped-24607862",
-          "publishedOn": "2022-07-28T09:44:34.000Z",
-          "wordCount": 3142,
-          "title": "Celtic transfer update as Hoops tipped to have 'no option but to sell' player after exit collapse - Glasgow Live",
-          "imageUrl": "https://i2-prod.glasgowlive.co.uk/incoming/article24607703.ece/ALTERNATES/s1200/0_Celtic-Media-Access.jpg"
         }
       ]
     },
@@ -3916,6 +3766,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "783d305ca70ad87cc736a5d0dc91505b",
+          "author": null,
+          "description": "CELTIC legend John Hughes has died aged 79, his family have confirmed.",
+          "link": "https://www.glasgowtimes.co.uk/sport/20593685.celtic-legend-john-hughes-dies-aged-79-following-short-illness/?ref=rss",
+          "publishedOn": "2022-08-01T21:15:47.000Z",
+          "wordCount": 8223,
+          "title": "Celtic legend John Hughes dies aged 79 following short illness",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/14326601/?type=og-image"
+        },
         {
           "id": "de21d9785e0486a288895a290397825c",
           "author": null,
@@ -4235,16 +4095,6 @@
           "wordCount": 8173,
           "title": "Leigh Griffiths transfer latest as ex-Celtic striker in discussions with new club",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/14314122/?type=og-image"
-        },
-        {
-          "id": "0e9f9e974f77415243791f27b329b726",
-          "author": null,
-          "description": "SCOTTISH football is back.",
-          "link": "https://www.glasgowtimes.co.uk/sport/20584370.celtic-vs-aberdeen-tv-channel-live-stream-kick-off-time/?ref=rss",
-          "publishedOn": "2022-07-28T10:00:18.000Z",
-          "wordCount": 8070,
-          "title": "Celtic vs Aberdeen: TV channel, live stream & kick-off time",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/14312108/?type=og-image"
         }
       ]
     }
