@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com//sport/football/celtic",
       "articles": [
         {
+          "id": "3793073",
+          "author": "Joel Sked",
+          "description": "Former Celtic star Tom Rogic is on the verge of a move to Omonio Nicosia.",
+          "link": "https://www.scotsman.com/sport/football/celtic/ex-celtic-star-in-cyprus-ahead-of-move-to-join-familiar-spfl-faces-including-former-rangers-winger-3793073",
+          "publishedOn": "2022-08-04T08:08:00.000Z",
+          "wordCount": 2010,
+          "title": "Ex-Celtic star 'in Cyprus' ahead of move to join familiar SPFL faces including former Rangers winger",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmY5NjRlODA2LTQzNGEtNGI3NS04NDkzLThmMzdmZWEzYjgwYTpjNDExNDJhMS04NzNmLTQxOTQtYjM0ZC1mNmU4YTQ0Y2RiN2Y=.jpg?width=1200&enable=upscale"
+        },
+        {
           "id": "3792740",
           "author": "Matthew Elder",
           "description": "Celtic, and potentially Rangers if they qualify, will be among the clubs using new semi-automated offside technology in this season's Champions League group stages.",
@@ -192,6 +202,76 @@
       "feedUrl": "http://armchaircelts.co.uk/wprss",
       "siteUrl": "http://armchaircelts.co.uk/feed/wprss/",
       "articles": [
+        {
+          "id": "https://www.celticquicknews.co.uk/rogic-lenny-update/",
+          "author": null,
+          "description": "TOM ROGIC is poised for a sensational reunion with Neil Lennon in Cyprus. The Australian international playmaker has been without a club since kicking his last ball for Celtic in his emotional farewell in the 6-0 victory over Motherwell at a rocking Parkhead on May 14. It brought an end to a wonderful nine and [...]",
+          "link": "https://www.celticquicknews.co.uk/rogic-lenny-update/",
+          "publishedOn": "2022-08-04T08:16:20.000Z",
+          "wordCount": 2539,
+          "title": "ROGIC, LENNY UPDATE",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/08/TOM-ROGIC-FTD.png"
+        },
+        {
+          "id": "https://thecelticstar.com/former-celtic-captain-sends-come-and-get-me-message-to-motherwell/",
+          "author": null,
+          "description": "Former Celtic captain Paul Lambert has thrown his name into the hat for the vacancy of Motherwell, another of his former clubs. The European Cup winning midfielder signed for Celtic in Borussia Dortmund in 1997 and arrived at Parkhead to play a huge part in preventing Rangers winning 10 in a row. While in Germany Read More",
+          "link": "https://thecelticstar.com/former-celtic-captain-sends-come-and-get-me-message-to-motherwell/",
+          "publishedOn": "2022-08-04T08:03:19.000Z",
+          "wordCount": 1659,
+          "title": "Former Celtic captain sends come and get me message to Motherwell",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2021/03/Paul-Lambert-Next-Celtic-Manager.jpg"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/mccarthy-still-has-loads-to-offer/",
+          "author": null,
+          "description": "JAMES McCARTHY “still has loads to offer” – that’s the verdict of former Celtic captain Gary Caldwell. The one-time Hoops and Scotland centre-back insists it would be wrong to write off the 31-year-old Republic of Ireland international. McCarthy is at the crossroads of his Parkhead career, as CQN reported yesterday. The stylish anchorman, who still [...]",
+          "link": "https://www.celticquicknews.co.uk/mccarthy-still-has-loads-to-offer/",
+          "publishedOn": "2022-08-04T07:47:08.000Z",
+          "wordCount": 3019,
+          "title": "McCARTHY ‘STILL HAS LOADS TO OFFER’",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2021/08/JAMES-MCCARTHY-FEATURED.png"
+        },
+        {
+          "id": "https://celtsarehere.com/paul-lambert-open-to-scottish-football-return/",
+          "author": null,
+          "description": "Former Celtic captain Paul Lambert would be open to a move back to his former club Motherwell as manager if an approach came forward from the club [The Herald].  After spending seven years of his career at his local club St Mirren having grown up in Linwood, Lambert made the move to Fir Park where […]\nSource",
+          "link": "https://celtsarehere.com/paul-lambert-open-to-scottish-football-return/",
+          "publishedOn": "2022-08-04T07:42:21.000Z",
+          "wordCount": 13789,
+          "title": "Paul Lambert Open to Scottish Football Return",
+          "imageUrl": "https://i0.wp.com/celtsarehere.com/wp-content/uploads/2022/05/2022-05-14T095229Z_1310507856_UP1EI5E0RFEUW_RTRMADP_3_SOCCER-SCOTLAND-CEL-MOT-REPORT-scaled.jpg?fit=800%2C557&ssl=1"
+        },
+        {
+          "id": "https://thecelticstar.com/rogic-to-omonia-nicosia-eastern-mediterranean-sunshine-target-qatar/",
+          "author": null,
+          "description": "Tom Rogic has this morning been linked to a reunion with his former Celtic manager Neil Lennon at Omonia Nicosia. Media in Cyprus are claiming that the move for the former Celtic talisman is close and that the 29 year-old Socceroos star, who enjoyed almost a decade wearing the Hoops through a period of unparalleled Read More",
+          "link": "https://thecelticstar.com/rogic-to-omonia-nicosia-eastern-mediterranean-sunshine-target-qatar/",
+          "publishedOn": "2022-08-04T07:27:54.000Z",
+          "wordCount": 1423,
+          "title": "Rogic to Omonia Nicosia – Eastern Mediterranean sunshine, target Qatar",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/05/celtic-v-motherwell-cinch-scottish-premiership-67-1024x748.jpg"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/celtic-jordan-larsson-and-end-of-the-romantic-notion/",
+          "author": null,
+          "description": "JORDAN LARSSON’S transfer link to Celtic – reported as a romantic notion by CQN last month – has ended. The son of club legend Henrik has agreed a move “in principle” to German top-flight side Schalke 04, according to local Swedish media. The seven times-capped Sweden international striker had his contract terminated “by mutual consent” [...]",
+          "link": "https://www.celticquicknews.co.uk/celtic-jordan-larsson-and-end-of-the-romantic-notion/",
+          "publishedOn": "2022-08-04T07:00:10.000Z",
+          "wordCount": 2614,
+          "title": "CELTIC, JORDAN LARSSON AND END OF THE ‘ROMANTIC NOTION’",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/07/JORDAN-LARSSON-FEATURED-HH-1.png"
+        },
+        {
+          "id": "https://thecelticblog.com/2022/08/articles-and-features/some-of-the-sevconuts-are-unhappy-with-jota-getting-praised-by-former-ibrox-bosses/",
+          "author": null,
+          "description": "I don’t pay much attention to what the ex-Ibrox managers say, especially when we’re talking about McCoist and McLeish. The latter, especially, is a toe-rag who is a shameless self-promoter and only says things sometimes to get himself into the papers. But I am amused to note, this morning, how much apoplexy there is over […]",
+          "link": "https://thecelticblog.com/2022/08/articles-and-features/some-of-the-sevconuts-are-unhappy-with-jota-getting-praised-by-former-ibrox-bosses/",
+          "publishedOn": "2022-08-04T06:55:24.000Z",
+          "wordCount": 1857,
+          "title": "Some Of The Sevconuts Are Unhappy With Jota Getting Praised By Former Ibrox Bosses.",
+          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2021/12/2021-10-19T152153Z_580786055_UP1EHAJ16OF4N_RTRMADP_3_SOCCER-EUROPA-CEL-FER-REPORT.jpg"
+        },
         {
           "id": "https://thecelticstar.com/celtic-on-this-day-4th-august-david-potters-celtic-diary/",
           "author": null,
@@ -2391,96 +2471,6 @@
           "wordCount": 1143,
           "title": "Photo: Unique Celtic Third Kit leaked ahead of launch",
           "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/07/celtic-22-23-third-kit-3.jpg"
-        },
-        {
-          "id": "https://thecelticstar.com/chris-sutton-world-cup-factor-can-drive-celtic-to-scottish-premiership-title-this-year-again/",
-          "author": null,
-          "description": "Chris Sutton is a man that is never shy in giving his honest opinion and calling it the way he sees it. Whether its his column in the Daily Record or his punditry work for BT Sports or Premier Sports, he is always willing to state his belief’s and views on the game and his Read More",
-          "link": "https://thecelticstar.com/chris-sutton-world-cup-factor-can-drive-celtic-to-scottish-premiership-title-this-year-again/",
-          "publishedOn": "2022-07-30T20:50:53.000Z",
-          "wordCount": 2375,
-          "title": "Chris Sutton: World Cup factor can drive Celtic to Scottish Premiership title this year again",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/02/celtic-fc-v-dundee-united-cinch-scottish-premiership-79-1024x657.jpeg"
-        },
-        {
-          "id": "https://www.67hailhail.com/news/michael-stewart-hails-celtics-best-business-says-bhoys-title-almost-feels-a-given/",
-          "author": null,
-          "description": "Michael Stewart believes Scottish football has become so accustomed to Celtic winning trophies that it “almost feels a given” that the Bhoys will be lifting the title again. Celtic have been the dominant force in the country for over a decade and, save for the unfortunate 2020/21 campaign, have racked up title after title in ...\nThe post Michael Stewart hails Celtic&#039;s \"best business\"; says Bhoys title \"almost feels a given\" appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/michael-stewart-hails-celtics-best-business-says-bhoys-title-almost-feels-a-given/",
-          "publishedOn": "2022-07-30T20:45:03.000Z",
-          "wordCount": 1969,
-          "title": "Michael Stewart hails Celtic&#039;s \"best business\"; says Bhoys title \"almost feels a given\"",
-          "imageUrl": "https://www.67hailhail.com/static/uploads/18/2022/07/GettyImages-1397209814-scaled.jpg"
-        },
-        {
-          "id": "https://thecelticstar.com/former-celtic-boss-deila-confirms-mikey-johnston-interest/",
-          "author": null,
-          "description": "With Ange Postecoglou revealing in his press conference yesterday that Mikey Johnston is available for loan and both himself and the club are trying to find a solution, news has emerged from Belgium regarding the matter. Johnston had been linked with Standard Liege – who now boast former Hoops’ manager Ronny Deila as their head Read More",
-          "link": "https://thecelticstar.com/former-celtic-boss-deila-confirms-mikey-johnston-interest/",
-          "publishedOn": "2022-07-30T20:40:46.000Z",
-          "wordCount": 1587,
-          "title": "Former Celtic boss Deila confirms Mikey Johnston interest",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/06/celtic-fc-v-molde-fk-uefa-europa-league-4-1024x688.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/news/ange-postecoglou-says-pretty-nasty-yosuke-ideguchi-injury-wont-change-celtic-transfer-plans/",
-          "author": null,
-          "description": "The injury suffered by Yosuke Ideguchi isn’t serious enough for Celtic to think about altering their transfer plans this summer, manager Ange Postecoglou has said. Ideguchi suffered an accident in training through the week, requiring stitches for a gash that will keep him out of the initial stages of the new season. However, it appears ...\nThe post Ange Postecoglou says &#039;pretty nasty&#039; Celtic injury won&#039;t change transfer plans appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/ange-postecoglou-says-pretty-nasty-yosuke-ideguchi-injury-wont-change-celtic-transfer-plans/",
-          "publishedOn": "2022-07-30T20:13:49.000Z",
-          "wordCount": 1763,
-          "title": "Ange Postecoglou says &#039;pretty nasty&#039; Celtic injury won&#039;t change transfer plans",
-          "imageUrl": "https://www.67hailhail.com/static/uploads/18/2022/03/GettyImages-1238882898-1-scaled.jpg"
-        },
-        {
-          "id": "https://thecelticblog.com/2022/07/articles-and-features/calvin-basseys-disastrous-15-minute-cameo-and-the-dangers-of-spending-on-hype/",
-          "author": null,
-          "description": "Calvin Bassey made his debut for Ajax tonight. They were drawing 2-2 in the Dutch Super Cup. By the time he left the field – 15 minutes later – it was 4-2 to PSV. He wasn’t hooked, which would have been bad enough for whoever sanctioned that spending on him. He was sent off. Never […]",
-          "link": "https://thecelticblog.com/2022/07/articles-and-features/calvin-basseys-disastrous-15-minute-cameo-and-the-dangers-of-spending-on-hype/",
-          "publishedOn": "2022-07-30T20:07:57.000Z",
-          "wordCount": 1592,
-          "title": "Calvin Bassey’s Disastrous 15 Minute Cameo And The Dangers Of Spending On Hype.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.67hailhail.com/news/cameron-carter-vickers-names-best-in-celtic-training-biggest-dressing-room-joker-nicest-teammate/",
-          "author": null,
-          "description": "Celtic have uploaded the latest episode of the ‘Teammates’ series in which the current squad deliver quickfire answers on several topics not normally talked about publicly. Cameron Carter-Vickers is the man on duty ahead of the Aberdeen Scottish Premiership opener and has given some fun insight into how he sees his fellow players in the ...\nThe post Carter-Vickers names best in Celtic training, biggest dressing room joker, nicest teammate appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/cameron-carter-vickers-names-best-in-celtic-training-biggest-dressing-room-joker-nicest-teammate/",
-          "publishedOn": "2022-07-30T19:42:32.000Z",
-          "wordCount": 1823,
-          "title": "Carter-Vickers names best in Celtic training, biggest dressing room joker, nicest teammate",
-          "imageUrl": "https://www.67hailhail.com/static/uploads/18/2022/02/GettyImages-1371171600-1-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/news/matt-oriley-shares-talks-with-celtic-staff-on-moritz-jenz-signing-plays-down-unfair-rogic-chat/",
-          "author": null,
-          "description": "Matt O’Riley has played down comparisons made between himself and Celtic icon Tom Rogic, insisting it isn’t fair on either player. O’Riley has made a brilliant impact at the Bhoys since joining in January, rapidly becoming a favourite of supporters in an advanced, creative midfield role. His style of play has naturally attracted comparisons to ...\nThe post Matt O&#039;Riley reveals talks with Celtic staff on summer signing; plays down &#039;unfair&#039; Rogic chat appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/matt-oriley-shares-talks-with-celtic-staff-on-moritz-jenz-signing-plays-down-unfair-rogic-chat/",
-          "publishedOn": "2022-07-30T19:13:25.000Z",
-          "wordCount": 1985,
-          "title": "Matt O&#039;Riley reveals talks with Celtic staff on summer signing; plays down &#039;unfair&#039; Rogic chat",
-          "imageUrl": "https://www.67hailhail.com/static/uploads/18/2022/07/GettyImages-1390683823-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/news/report-spfl-set-to-be-vindicated-as-celtic-and-others-await-outcome-of-independent-review/",
-          "author": null,
-          "description": "The final findings of the independent Deloitte review into SPFL commercial and revenue opportunities are set to be publicly released soon, The Scottish Daily Mail reports this week. [28/07 print edition, page 84] A working group that included Hibs, Hearts, Aberdeen, Dundee United and Dundee commissioned the study with approval from the SPFL board. Hibs ...\nThe post Report: SPFL set to be vindicated as Celtic and others await outcome of independent review appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/report-spfl-set-to-be-vindicated-as-celtic-and-others-await-outcome-of-independent-review/",
-          "publishedOn": "2022-07-30T18:44:41.000Z",
-          "wordCount": 1847,
-          "title": "Report: SPFL set to be vindicated as Celtic and others await outcome of independent review",
-          "imageUrl": "https://www.67hailhail.com/static/uploads/18/2022/05/GettyImages-1231982733-scaled.jpg"
-        },
-        {
-          "id": "https://celtsarehere.com/celtic-have-a-genuine-star-on-their-hands-sutton-gushes-over-ange-signing/",
-          "author": null,
-          "description": "There are so many players who could make an impact this season. Especially the bhoys who came in half way through last season. The trio from Japan arrived at the beginning of the year. Maeda and Reo have already made their mark but you get the sense there’s more to come. We’ve saw little of […]\nSource",
-          "link": "https://celtsarehere.com/celtic-have-a-genuine-star-on-their-hands-sutton-gushes-over-ange-signing/",
-          "publishedOn": "2022-07-30T18:31:16.000Z",
-          "wordCount": 13616,
-          "title": "‘Celtic have a genuine star on their hands’ – Sutton Gushes Over Ange Signing",
-          "imageUrl": "https://i0.wp.com/celtsarehere.com/wp-content/uploads/2022/05/2022-05-14T142225Z_1206968475_UP1EI5E13XB9Q_RTRMADP_3_SOCCER-SCOTLAND-CEL-MOT-REPORT-scaled.jpg?fit=800%2C533&ssl=1"
         }
       ]
     },
@@ -2490,6 +2480,26 @@
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
         {
+          "id": "CAIiEJ8TZykevrNJ7x0BsDXaFBEqGQgEKhAIACoHCAow4KKJCzCv9JoDMICkoAY",
+          "author": null,
+          "description": "Tom Rogic close to stunning move after leaving Celtic  The Celtic Bhoys",
+          "link": "https://thecelticbhoys.com/2022/08/04/tom-rogic-close-move-celtic/",
+          "publishedOn": "2022-08-04T09:09:50.000Z",
+          "wordCount": 2436,
+          "title": "Tom Rogic close to stunning move after leaving Celtic - The Celtic Bhoys",
+          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1367113784.jpeg"
+        },
+        {
+          "id": "CAIiEE7EvTAxJbeuInx2OribF5sqGQgEKhAIACoHCAowrueiCTDmn7gCMKXUtwU",
+          "author": null,
+          "description": "Tom Rogic 'close' to Celtic reunion with Neil Lennon as shock Omonia transfer claim emerges  Daily Record",
+          "link": "https://www.dailyrecord.co.uk/sport/football/football-transfer-news/tom-rogic-close-celtic-reunion-27653730",
+          "publishedOn": "2022-08-04T06:28:56.000Z",
+          "wordCount": 2858,
+          "title": "Tom Rogic 'close' to Celtic reunion with Neil Lennon as shock Omonia transfer claim emerges - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article26963970.ece/ALTERNATES/s1200/0_JS266188488.jpg"
+        },
+        {
           "id": "CBMiZmh0dHBzOi8vbmV3cy5zdHYudHYvc3BvcnQvY2VsdGljLWFuZC1yYW5nZXJzLWFtb25nLWNsdWJzLXVyZ2VkLXRvLWVuZC1zcG9uc29yc2hpcHMtd2l0aC1nYW1ibGluZy1maXJtc9IBAA",
           "author": null,
           "description": "Celtic and Rangers among clubs urged to end sponsorships with gambling firms  STV News",
@@ -2498,6 +2508,16 @@
           "wordCount": 2159,
           "title": "Celtic and Rangers among clubs urged to end sponsorships with gambling firms - STV News",
           "imageUrl": "https://news.stv.tv/wp-content/uploads/2022/03/0a262a9821b4ee7443e3da4e223469ca-social-sport.jpg"
+        },
+        {
+          "id": "CAIiEJfgvB5mbe3D-FDH-MVnSlAqGQgEKhAIACoHCAowrueiCTDmn7gCMIfHtwU",
+          "author": null,
+          "description": "James McCarthy and the Celtic stick or twist 'wrench' as close pal warns not to write him off  Daily Record",
+          "link": "https://www.dailyrecord.co.uk/sport/football/football-news/james-mccarthy-celtic-stick-twist-27652127",
+          "publishedOn": "2022-08-04T05:00:00.000Z",
+          "wordCount": 3660,
+          "title": "James McCarthy and the Celtic stick or twist 'wrench' as close pal warns not to write him off - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article27026946.ece/ALTERNATES/s1200/0_St-Mirren-FC-v-Celtic-FC-Cinch-Scottish-Premiership.jpg"
         },
         {
           "id": "CBMiQGh0dHBzOi8vd3d3LmFmYy5jby51ay8yMDIyLzA4LzA0L3lvdW5nLWRvbnMtZmVhdHVyZS1saWFtLWhhcnZleS_SAQA",
@@ -2578,6 +2598,16 @@
           "wordCount": 3182,
           "title": "Aberdeen transfer state of play as Shayden Morris transfer nears and Connor Ronan Wolves decision looms - Daily Record",
           "imageUrl": "https://i2-prod.dailyrecord.co.uk/sport/football/football-news/article27650531.ece/ALTERNATES/s1200/0_JS227205693.jpg"
+        },
+        {
+          "id": "CAIiEDG6R1XOxPrRNcbwjAq_rAQqGQgEKhAIACoHCAowk6KpCzCFrcEDMISpmwc",
+          "author": null,
+          "description": "Celtic midfielder to ‘consider’ future, ex-Rangers star emerges as managerial contender for Premiership rivals  GlasgowWorld",
+          "link": "https://www.glasgowworld.com/sport/football/celtic-and-rangers-transfer-news-headlines-3792204",
+          "publishedOn": "2022-08-03T13:41:44.000Z",
+          "wordCount": 2531,
+          "title": "Celtic midfielder to ‘consider’ future, ex-Rangers star emerges as managerial contender for Premiership rivals - GlasgowWorld",
+          "imageUrl": "https://www.glasgowworld.com/webimg/b25lY21zOjk4NDkyNGY3LTUzNGEtNGJiNC1iODE3LWMzMDU1YzNlNGE0YjphMzdjZTkwOS0zNWY2LTQyMDAtOTVmNC0zMjI4ODVlZDQwNWM=.jpg?width=1200&enable=upscale"
         },
         {
           "id": "CAIiELk6J8evsO-PLvTo3qdlRm0qGQgEKhAIACoHCAow96D9CjDOy_QCMKzp0wU",
@@ -3348,34 +3378,34 @@
           "wordCount": 3266,
           "title": "Hugh Keevins reckons Jim Goodwin and his flamethrower are ready to test Celtic - Daily Record",
           "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article27606635.ece/ALTERNATES/s1200/0_JS272944114.jpg"
-        },
-        {
-          "id": "CAIiEEe3mCGIOlRuSdBltfejG84qGQgEKhAIACoHCAowr5GNCzDFxJ4DMLbFpgY",
-          "author": null,
-          "description": "Ange Postecoglou says ‘pretty nasty’ Yosuke Ideguchi injury won’t change Celtic transfer plans  67 Hail Hail - Celtic FC News",
-          "link": "https://www.67hailhail.com/news/ange-postecoglou-says-pretty-nasty-yosuke-ideguchi-injury-wont-change-celtic-transfer-plans/",
-          "publishedOn": "2022-07-30T20:13:49.000Z",
-          "wordCount": 1783,
-          "title": "Ange Postecoglou says ‘pretty nasty’ Yosuke Ideguchi injury won’t change Celtic transfer plans - 67 Hail Hail - Celtic FC News",
-          "imageUrl": "https://www.67hailhail.com/static/uploads/18/2022/03/GettyImages-1238882898-1-scaled.jpg"
-        },
-        {
-          "id": "CAIiEIS_7naLCSOmDklyIAks8uEqGQgEKhAIACoHCAowrueiCTDmn7gCMOjNtwU",
-          "author": null,
-          "description": "Celtic and Rangers at VAR disadvantage after 'ridiculous' SPFL decision  Daily Record",
-          "link": "https://www.dailyrecord.co.uk/sport/football/football-news/celtic-rangers-var-disadvantage-after-27619257",
-          "publishedOn": "2022-07-30T19:27:21.000Z",
-          "wordCount": 2861,
-          "title": "Celtic and Rangers at VAR disadvantage after 'ridiculous' SPFL decision - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article26756598.ece/ALTERNATES/s1200/0_JS262600805.jpg"
         }
       ]
     },
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "4f93a9ab0d6c312072eef505bb60990b",
+          "author": null,
+          "description": "TOM ROGIC is reportedly set for a reunion with former Celtic boss Neil Lennon.",
+          "link": "https://www.glasgowtimes.co.uk/sport/20599801.tom-rogic-close-reunion-former-celtic-boss-neil-lennon-omonia/?ref=rss",
+          "publishedOn": "2022-08-04T08:02:14.000Z",
+          "wordCount": 8161,
+          "title": "Tom Rogic 'close' to reunion with former Celtic boss Neil Lennon at Omonia",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/14334643/?type=og-image"
+        },
+        {
+          "id": "a0e12df967c71b063e50ce8a8c3b4a58",
+          "author": null,
+          "description": "IT is testament to just how well Matt O’Riley has handled the step up to playing for Celtic that he is already being linked with a move to the English Premier League, having only arrived in Glasgow in January.",
+          "link": "https://www.glasgowtimes.co.uk/sport/20599000.paul-lambert-explains-celtic-best-place-matt-oriley-right-now-can-satisfy-ambitions-monster-club/?ref=rss",
+          "publishedOn": "2022-08-04T06:00:00.000Z",
+          "wordCount": 8903,
+          "title": "Paul Lambert explains why Celtic is the best place for Matt O’Riley right now as he can satisfy ambitions at ‘monster club’",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/14334256/?type=og-image"
+        },
         {
           "id": "e2bc26416507ca6f9ca8e9b1543d727d",
           "author": null,
