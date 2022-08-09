@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com//sport/football/celtic",
       "articles": [
         {
+          "id": "3799210",
+          "author": "Joel Sked",
+          "description": "Celtic boss Ange Postecoglou has revealed the club have organised bounce games to ensure fringe players are fit and ready to play when called upon.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtic-organised-bounce-games-to-help-with-champions-league-preparation-as-club-get-bumper-ticket-boost-3799210",
+          "publishedOn": "2022-08-09T14:07:04.000Z",
+          "wordCount": 2126,
+          "title": "Celtic organised bounce games to help with Champions League preparation as club get bumper ticket boost",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmMyM2Y0NWJhLTU4ODItNGRjMi1hYzliLTU5YzIyMThjODBjZjpkYzkzNzdjNy02MTcwLTQxM2UtYThlMC0xM2Y0NmQ2YzgxNzY=.jpg?width=1200&enable=upscale"
+        },
+        {
           "id": "3798922",
           "author": "Ross McLeish",
           "description": "Celtic have been credited with an interest in Barcelona winger Alex Collado.",
@@ -292,6 +302,76 @@
       "feedUrl": "http://armchaircelts.co.uk/wprss",
       "siteUrl": "http://armchaircelts.co.uk/feed/wprss/",
       "articles": [
+        {
+          "id": "https://thecelticblog.com/2022/08/articles-and-features/stop-jota-and-you-stop-celtic-right-wrong-so-so-wrong/",
+          "author": null,
+          "description": "Three assists and one goal in two games. That’s Jota, that’s our player, that’s the guy who has such quality that the press is raving about him and the Ibrox illiterati are grumbling that he’s over-rated. Whatever gets them through the night. The new school of thought amongst them – and I daresay amongst some […]",
+          "link": "https://thecelticblog.com/2022/08/articles-and-features/stop-jota-and-you-stop-celtic-right-wrong-so-so-wrong/",
+          "publishedOn": "2022-08-09T14:53:13.000Z",
+          "wordCount": 1771,
+          "title": "Stop Jota And You Stop Celtic, Right? Wrong. So, So Wrong.",
+          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2021/10/2021-09-30T210353Z_1177205406_UP1EH9U1MIGSS_RTRMADP_3_SOCCER-EUROPA-CEL-B04-REPORT.jpg"
+        },
+        {
+          "id": "https://thecelticstar.com/a-wonderful-magical-celtic-star-is-born-at-tynecastle/",
+          "author": null,
+          "description": "In the midst of the qualification process for the Champions League, Brendan Rodgers had faced his first domestic challenges as manager of Celtic.The quest for six-in-a-row began in Edinburgh, the opening League fixture seeing the Hoops travel to Tynecastle on Sunday, 7 August 2016, four days after Moussa Dembele’s late winner against Astana. The big Read More",
+          "link": "https://thecelticstar.com/a-wonderful-magical-celtic-star-is-born-at-tynecastle/",
+          "publishedOn": "2022-08-09T14:41:34.000Z",
+          "wordCount": 2511,
+          "title": "A wonderful, magical Celtic Star is born at Tynecastle",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/08/SPFL_HEARTS_CELTIC_1913-1024x546.jpeg"
+        },
+        {
+          "id": "https://www.67hailhail.com/news/ange-postecoglou-references-dodgy-kilmarnock-pitch-but-insists-celtic-must-find-sunday-answers/",
+          "author": null,
+          "description": "Celtic manager Ange Postecoglou has been speaking about the difficulties of travelling to Rugby Park this weekend as the Bhoys look to make it three wins from three at the start of the season. Postecoglou’s side face recently promoted Kilmarnock on one of the dodgier playing surfaces in the division – an artificial effort that ...\nThe post Ange Postecoglou references dodgy Kilmarnock pitch ahead of Sunday Celtic visit appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/ange-postecoglou-references-dodgy-kilmarnock-pitch-but-insists-celtic-must-find-sunday-answers/",
+          "publishedOn": "2022-08-09T14:41:11.000Z",
+          "wordCount": 1814,
+          "title": "Ange Postecoglou references dodgy Kilmarnock pitch ahead of Sunday Celtic visit",
+          "imageUrl": "https://www.67hailhail.com/static/uploads/18/2022/08/GettyImages-1125442160-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/news/ange-postecoglou-confirms-plan-for-celtic-fringe-players/",
+          "author": null,
+          "description": "Ange Postecoglou has confirmed bounce games have been arranged for the Celtic players not currently getting minutes in his first-team. Celtic have a relatively easy schedule at the moment compared to what’s coming later in the season, meaning the manager can stick to a pretty consistent starting eleven every week, with no Tuesday, Wednesday or ...\nThe post Ange Postecoglou confirms plan for Celtic fringe players appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/ange-postecoglou-confirms-plan-for-celtic-fringe-players/",
+          "publishedOn": "2022-08-09T14:10:00.000Z",
+          "wordCount": 1873,
+          "title": "Ange Postecoglou confirms plan for Celtic fringe players",
+          "imageUrl": "https://www.67hailhail.com/static/uploads/18/2022/08/GettyImages-1242056310-1-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/news/premiership-club-delivers-welcome-ticket-news-to-celtic-supporters/",
+          "author": null,
+          "description": "Ross County have confirmed they will be offering more away tickets to Celtic for the upcoming Scottish League Cup clash in Dingwall than the usual allocation. Less than 2,000 Celtic supporters were allowed into the Staggies’ ground at the weekend, as Ange Postecoglou’s side secured a 3-1 victory. Having sold less home tickets than they ...\nThe post Top-flight club confirm reversal of trend that was impacting Celtic support appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/premiership-club-delivers-welcome-ticket-news-to-celtic-supporters/",
+          "publishedOn": "2022-08-09T13:37:03.000Z",
+          "wordCount": 1860,
+          "title": "Top-flight club confirm reversal of trend that was impacting Celtic support",
+          "imageUrl": "https://www.67hailhail.com/static/uploads/18/2022/08/GettyImages-1242237748-scaled.jpg"
+        },
+        {
+          "id": "https://thecelticstar.com/harry-hood-and-big-yogi-the-stand-outs-as-the-1969-70-season-kicks-off/",
+          "author": null,
+          "description": "Harry and Yogi the stand-outs as the season kicks off…Harry Hood would start his first full season as a Celt by featuring in three very different friendly matches. First of those was against St Etienne, on Wednesday, 30 July 1969, the French champions memorably defeated by the Bhoys in the previous European Cup campaign.Celtic’s return Read More",
+          "link": "https://thecelticstar.com/harry-hood-and-big-yogi-the-stand-outs-as-the-1969-70-season-kicks-off/",
+          "publishedOn": "2022-08-09T13:24:42.000Z",
+          "wordCount": 1636,
+          "title": "Harry Hood and Big Yogi the stand-outs as the 1969-70 season kicks off",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/08/image-108-548x1024-1.jpeg"
+        },
+        {
+          "id": "https://thecelticblog.com/2022/08/articles-and-features/john-kennedy-has-shown-astonishing-commitment-to-celtic-it-may-be-time-to-go/",
+          "author": null,
+          "description": "If you had told me even twelve months ago that I would be writing an article about John Kennedy possibly leaving this club, and that I would be writing it with regret and in this tone, I would have flatly refused to believe it. This time last year I wanted him gone. It seemed like […]",
+          "link": "https://thecelticblog.com/2022/08/articles-and-features/john-kennedy-has-shown-astonishing-commitment-to-celtic-it-may-be-time-to-go/",
+          "publishedOn": "2022-08-09T13:20:31.000Z",
+          "wordCount": 2503,
+          "title": "John Kennedy Has Shown Astonishing Commitment To Celtic. It May Be Time To Go.",
+          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2021/04/2021-04-18T161209Z_892056155_UP1EH4I1907MV_RTRMADP_3_SOCCER-SCOTLAND-RFC-CEL-REPORT.jpg"
+        },
         {
           "id": "https://thecelticblog.com/2022/08/blogs/celtic-may-yet-have-the-last-laugh-in-the-strange-case-of-jack-hendry/",
           "author": null,
@@ -3516,6 +3596,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "71ced080e1df6bc702059409044d3f36",
+          "author": null,
+          "description": "ANGE POSTECOGLOU has revealed Celtic will play bounce games as part of their preparation for their upcoming Champions League schedule.",
+          "link": "https://www.glasgowtimes.co.uk/sport/20612631.celtic-champions-league-schedule-preparation-detailed-ange-postecoglou/?ref=rss",
+          "publishedOn": "2022-08-09T14:18:11.000Z",
+          "wordCount": 8394,
+          "title": "Celtic Champions League schedule preparation detailed by Ange Postecoglou",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/14356564/?type=og-image"
+        },
         {
           "id": "056c0056f9cfc438edbb5eb2f1e40e7a",
           "author": null,
