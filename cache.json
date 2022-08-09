@@ -274,26 +274,6 @@
           "wordCount": 2162,
           "title": "What channel is the Celtic game v Ross County on? Is it on TV? Live stream and coverage details",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmJlZWE1MDUzLWY1NTAtNGU3Yi1iOWQ3LTFiMmE1NGE4MWYwZDozYmM0OTYzMi0xMzdhLTQzN2ItOTdmOS1jNzY2MzdmNjBjZGI=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3794488",
-          "author": "Graham Falk",
-          "description": "The Scottish Women’s Premier League (SWPL) begins again this Sunday. Here are 30 players we are predicting to have great seasons.",
-          "link": "https://www.scotsman.com/sport/football/international/womens-football-here-are-30-players-to-watch-in-this-seasons-scottish-womens-premier-league-3794488",
-          "publishedOn": "2022-08-05T08:35:46.000Z",
-          "wordCount": 2039,
-          "title": "Women's football: Here are 30 players to watch in this season's Scottish Women's Premier League",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmU4MDQxYzZlLTUwZmQtNGVkNy1iNmJhLWVhZWVmOGUyNjE4ZDoxMGI4MTcyNy04YTBkLTRmZTMtYmNjMi0xNmVlYWU4OWQ4OTc=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3791618",
-          "author": "Graham Falk",
-          "description": "Want to get into women’s football this season? Here is a list of Scotland’s top two tiers, where they play, ticket prices and how you can support them – plus how to get tickets for this weekend’s SWPL fixtures.",
-          "link": "https://www.scotsman.com/sport/football/international/womens-football-all-the-details-to-help-you-follow-your-local-scottish-womens-team-this-season-including-swpl-fixtures-3791618",
-          "publishedOn": "2022-08-05T07:07:19.000Z",
-          "wordCount": 3693,
-          "title": "Women's Football: All the details to help you follow your local Scottish women's team this season - including SWPL fixtures",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjMyZmY3NGZjLTZiNGEtNDMwOC1hNGJjLTQ1YjQ2MjliNmMwYjpmOWZhZWNkMS0xYjM4LTQxNjAtODkxNS0wNzEyNjE1ZGZmODY=.jpg?width=1200&enable=upscale"
         }
       ]
     },
@@ -302,6 +282,36 @@
       "feedUrl": "http://armchaircelts.co.uk/wprss",
       "siteUrl": "http://armchaircelts.co.uk/feed/wprss/",
       "articles": [
+        {
+          "id": "https://thecelticblog.com/2022/08/articles-and-features/articles/brendan-rodgers-is-excellent-at-finding-points-of-friction-with-his-employers/",
+          "author": null,
+          "description": "There is no doubt whatsoever that Brendan Rodgers had issues at Celtic. But he was very good at provoking issues, and he has been for the whole of his managerial career. We know that in the summer of his departure he used alleged interest from China to leverage himself a better salary. He then confirmed […]",
+          "link": "https://thecelticblog.com/2022/08/articles-and-features/articles/brendan-rodgers-is-excellent-at-finding-points-of-friction-with-his-employers/",
+          "publishedOn": "2022-08-09T20:45:56.000Z",
+          "wordCount": 1830,
+          "title": "Brendan Rodgers Is Excellent At Finding Points Of Friction With His Employers.",
+          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2019/11/2019-10-19T000000Z_332272364_RC1F25F305C0_RTRMADP_3_SOCCER-ENGLAND-LEI-BUR-REPORT.jpg"
+        },
+        {
+          "id": "https://celtsarehere.com/ange-postecoglou-explains-really-important-summer-signing/",
+          "author": null,
+          "description": "When Celtic Announced the signing of Alexandro Bernabei, many assumed Ange Postecoglou had brought in a player ready to go straight into the starting eleven, but that’s not been the case. After playing a few times in pre-season, it was thought that he’d at least feature in the first two games of Celtic’s domestic campaign. […]\nSource",
+          "link": "https://celtsarehere.com/ange-postecoglou-explains-really-important-summer-signing/",
+          "publishedOn": "2022-08-09T20:43:00.000Z",
+          "wordCount": 13538,
+          "title": "Ange Postecoglou Explains ‘Really Important’ Summer Signing",
+          "imageUrl": "https://i0.wp.com/celtsarehere.com/wp-content/uploads/2022/08/spfl22_23_rosscounty_celtic_0130-scaled.jpg?fit=2048%2C1999&ssl=1"
+        },
+        {
+          "id": "https://www.67hailhail.com/transfers/celtics-alex-collado-advantage-as-barcelona-receive-contact-from-more-teams/",
+          "author": null,
+          "description": "Celtic’s participation in the UEFA Champions League looks to be a key advantage in the transfer chase for Alex Collado. As we discussed earlier today, Sky Sports have reported that the Bhoys have made contact with Barcelona about the attacking midfielder’s situation. However, Ange Postecoglou isn’t the only manager in Europe eyeing his signature, with ...\nThe post Celtic&#039;s big Alex Collado advantage as Barcelona receive contact from more teams appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/transfers/celtics-alex-collado-advantage-as-barcelona-receive-contact-from-more-teams/",
+          "publishedOn": "2022-08-09T18:46:42.000Z",
+          "wordCount": 1819,
+          "title": "Celtic&#039;s big Alex Collado advantage as Barcelona receive contact from more teams",
+          "imageUrl": "https://www.67hailhail.com/static/uploads/18/2022/08/GettyImages-1413502795-scaled.jpg"
+        },
         {
           "id": "https://thecelticstar.com/today-the-celtic-family-remembers-thomas-kidso-reilly/",
           "author": null,
@@ -371,6 +381,16 @@
           "wordCount": 1869,
           "title": "Celtic transfer machine begins to move again with latest Sky Sports update",
           "imageUrl": "https://www.67hailhail.com/static/uploads/18/2022/08/GettyImages-1399156394-scaled.jpg"
+        },
+        {
+          "id": "https://celtsarehere.com/maybe-in-the-past-john-barnes-makes-brilliant-celtic-assesment/",
+          "author": null,
+          "description": "Former Celtic manager John Barnes believes that there isn’t an over reliance on any of the players in the current Celtic team with there being a strong collective in the group.  There has been many standout players which Ange Postecoglou has recruited since his arrival at the club last summer with Jota and Kyogo receiving […]\nSource",
+          "link": "https://celtsarehere.com/maybe-in-the-past-john-barnes-makes-brilliant-celtic-assesment/",
+          "publishedOn": "2022-08-09T15:30:01.000Z",
+          "wordCount": 13578,
+          "title": "‘Maybe in the Past; John Barnes Makes Brilliant Celtic Assesment",
+          "imageUrl": "https://i0.wp.com/celtsarehere.com/wp-content/uploads/2021/10/jota_kyogo.jpg?fit=800%2C575&ssl=1"
         },
         {
           "id": "https://www.celticquicknews.co.uk/two-years-on-celts-back-in-chase-for-collado/",
@@ -2611,66 +2631,6 @@
           "wordCount": 13523,
           "title": "Ross County v Celtic; Everything You Need to Know",
           "imageUrl": "https://i0.wp.com/celtsarehere.com/wp-content/uploads/2022/04/img_0182.jpg?fit=1000%2C797&ssl=1"
-        },
-        {
-          "id": "https://celtsarehere.com/shane-duffy-makes-epl-switch/",
-          "author": null,
-          "description": "Fulham has signed Celtic flop Shane Duffy from Brighton as the club look to avoid relegation from the Premier League in their first season. After his resurgence in the top flight of English football last season, Duffy is keen to play before his contract with Seagulls expires next summer. The deal was confirmed on Friday. […]\nSource",
-          "link": "https://celtsarehere.com/shane-duffy-makes-epl-switch/",
-          "publishedOn": "2022-08-05T09:18:35.000Z",
-          "wordCount": 13388,
-          "title": "Shane Duffy Makes EPL Switch",
-          "imageUrl": "https://i0.wp.com/celtsarehere.com/wp-content/uploads/2021/08/duffy-brighton.jpg?fit=800%2C524&ssl=1"
-        },
-        {
-          "id": "https://www.67hailhail.com/news/celtic-midfielder-set-to-face-tricky-start-to-life-on-loan/",
-          "author": null,
-          "description": "Celtic midfielder Ismaila Soro is set to face a tricky start to life on loan at Portuguese side FC Arouca as they take on Benfica in the league opener. The 24-year-old is looking to kick-start his career once again whilst on loan after a disappointing few seasons in Glasgow. Joining the Hoops in January 2020, ...\nThe post Celtic midfielder set to face Champions League hopefuls to kick-off loan spell appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/celtic-midfielder-set-to-face-tricky-start-to-life-on-loan/",
-          "publishedOn": "2022-08-05T09:10:00.000Z",
-          "wordCount": 1963,
-          "title": "Celtic midfielder set to face Champions League hopefuls to kick-off loan spell",
-          "imageUrl": "https://www.67hailhail.com/static/uploads/18/2020/12/GettyImages-1230054145-1-scaled.jpg"
-        },
-        {
-          "id": "https://celtsarehere.com/amazing-ilkay-gundogan-name-checks-celtic-during-qa/",
-          "author": null,
-          "description": "Ilkay Gundogan has stated that he loved playing against Celtic in 2016, stating he ‘loved’ the atmosphere at Celtic Park. Taking to Twitter, the Manchester City midfielder said; I really loved the atmosphere against Celtic at Celtic Park in 2016 – that was amazing…🏴󠁧󠁢󠁳󠁣󠁴󠁿 https://t.co/amJknXiWCU — Ilkay Gündogan (@IlkayGuendogan) August 4, 2022 It was the […]\nSource",
-          "link": "https://celtsarehere.com/amazing-ilkay-gundogan-name-checks-celtic-during-qa/",
-          "publishedOn": "2022-08-05T08:40:00.000Z",
-          "wordCount": 13461,
-          "title": "‘Amazing’ – Ilkay Gundogan Name Checks Celtic During Q&amp;A",
-          "imageUrl": "https://i0.wp.com/celtsarehere.com/wp-content/uploads/2022/08/2016-09-28T000000Z_635016709_MT1ACI14626219_RTRMADP_3_SOCCER-CHAMPIONS-CEL-MCI-scaled.jpg?fit=800%2C483&ssl=1"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/exclusive-big-yogi-putting-the-record-straight-part-one/",
-          "author": null,
-          "description": "CELTIC great John ‘Yogi’ Hughes passed away on Monday evening at the age of 79 after a short illness. In a CQN EXCLUSIVE, Alex Gordon, who co-authored the fans’ favourite’s autobiography, ‘Yogi Bare: The Life and Times of a Celtic Legend’, which was published in 2014, has selected another chapter from his friend’s best-seller. Please [...]",
-          "link": "https://www.celticquicknews.co.uk/exclusive-big-yogi-putting-the-record-straight-part-one/",
-          "publishedOn": "2022-08-05T07:44:07.000Z",
-          "wordCount": 3149,
-          "title": "EXCLUSIVE: BIG YOGI: PUTTING THE RECORD STRAIGHT (Part One)",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/08/JOHN-HUGHES-LC-1965-V-GERZ.png"
-        },
-        {
-          "id": "https://celtsarehere.com/celtic-maintain-interest-in-efl-striker-report/",
-          "author": null,
-          "description": "CELTIC are still interested in Bristol City striker Antoine Semenyo. The Hoops have been linked to the Ghanaian internationalist throughout this year, but nothing has ever come from the speculation. It was stated that the Parkhead side could be proved out of a move, but with his contract expiring next year, Postecoglou’s side is keeping […]\nSource",
-          "link": "https://celtsarehere.com/celtic-maintain-interest-in-efl-striker-report/",
-          "publishedOn": "2022-08-05T07:19:14.000Z",
-          "wordCount": 13389,
-          "title": "Celtic Maintain Interest in EFL Striker – Report",
-          "imageUrl": "https://i0.wp.com/celtsarehere.com/wp-content/uploads/2022/02/Antoine-Semenyo.jpg?fit=800%2C500&ssl=1"
-        },
-        {
-          "id": "https://thecelticstar.com/john-hughes-rip-heartfelt-words-of-condolence-from-willie-wallace/",
-          "author": null,
-          "description": "A few words of condolence from Willie Wallace to share with you this morning on the sad passing of John Hughes earlier this week. Willie and Yogi were of course team-mates at both Celtic and Crystal Palace and have been good friends for many years.Mary Gemmell had been keeping Willie and Olive updated on Yogi’s Read More",
-          "link": "https://thecelticstar.com/john-hughes-rip-heartfelt-words-of-condolence-from-willie-wallace/",
-          "publishedOn": "2022-08-05T06:34:00.000Z",
-          "wordCount": 1387,
-          "title": "John Hughes, RIP – Heartfelt words of condolence from Willie Wallace",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/08/001-15.jpeg"
         }
       ]
     },
@@ -2738,6 +2698,16 @@
           "wordCount": 3621,
           "title": "Ex-Celtic star Leigh Griffiths back in football as he makes huge career change with Australia switch - Glasgow Live",
           "imageUrl": "https://i2-prod.glasgowlive.co.uk/incoming/article24707631.ece/ALTERNATES/s1200/0_JS225421752.jpg"
+        },
+        {
+          "id": "CAIiECVOQ6MXb7NhOnNkZkaMXrsqGQgEKhAIACoHCAow4KKJCzCv9JoDMICkoAY",
+          "author": null,
+          "description": "Celtic could be on verge of suffering massive blow  The Celtic Bhoys",
+          "link": "https://thecelticbhoys.com/2022/08/09/celtic-verge-suffering-massive-blow/",
+          "publishedOn": "2022-08-09T09:02:37.000Z",
+          "wordCount": 2455,
+          "title": "Celtic could be on verge of suffering massive blow - The Celtic Bhoys",
+          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1367529885.jpeg"
         },
         {
           "id": "CBMiW2h0dHBzOi8vd3d3LmNlbHRpY3dheS5jby51ay9uZXdzLzIwNjEwMDYxLmZvcm1lci1jZWx0aWMtdHJhbnNmZXItdGFyZ2V0LWJlY29tZXMtZnJlZS1hZ2VudC_SAQA",
@@ -2808,6 +2778,16 @@
           "wordCount": 3088,
           "title": "'Repellent' Super Trouper chant by mindless Celtic minority under fire from club's own fans - Scottish Daily Express",
           "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article27690022.ece/ALTERNATES/s1200/0_GP2594067.jpg"
+        },
+        {
+          "id": "CBMiSWh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9rZW5ueS1taWxsZXItaW4tYmJjLXNwb3J0c2NlbmUtY2VsdGljLWFkbWlzc2lvbi_SAU1odHRwczovL2NlbHRzYXJlaGVyZS5jb20va2VubnktbWlsbGVyLWluLWJiYy1zcG9ydHNjZW5lLWNlbHRpYy1hZG1pc3Npb24vYW1wLw",
+          "author": null,
+          "description": "Kenny Miller in BBC Sportscene Celtic Admission  CeltsAreHere",
+          "link": "https://celtsarehere.com/kenny-miller-in-bbc-sportscene-celtic-admission/",
+          "publishedOn": "2022-08-08T17:42:00.000Z",
+          "wordCount": 13465,
+          "title": "Kenny Miller in BBC Sportscene Celtic Admission - CeltsAreHere",
+          "imageUrl": "https://i0.wp.com/celtsarehere.com/wp-content/uploads/2017/04/kennymiller.jpg?fit=800%2C457&ssl=1"
         },
         {
           "id": "CAIiEEMIcEs5RWotfjA_M0XSUCkqGQgEKhAIACoHCAow4KKJCzCv9JoDMICkoAY",
@@ -3588,66 +3568,6 @@
           "wordCount": 13523,
           "title": "Ross County v Celtic; Everything You Need to Know - CeltsAreHere",
           "imageUrl": "https://i0.wp.com/celtsarehere.com/wp-content/uploads/2022/04/img_0182.jpg?fit=1000%2C797&ssl=1"
-        },
-        {
-          "id": "CAIiEN-8lXwrI9h57nnGwS2bivMqGQgEKhAIACoHCAowr5GNCzDFxJ4DMLbFpgY",
-          "author": null,
-          "description": "Celtic midfielder set to face tricky start to life on loan  67 Hail Hail - Celtic FC News",
-          "link": "https://www.67hailhail.com/news/celtic-midfielder-set-to-face-tricky-start-to-life-on-loan/",
-          "publishedOn": "2022-08-05T09:10:00.000Z",
-          "wordCount": 1947,
-          "title": "Celtic midfielder set to face tricky start to life on loan - 67 Hail Hail - Celtic FC News",
-          "imageUrl": "https://www.67hailhail.com/static/uploads/18/2020/12/GettyImages-1230054145-1-scaled.jpg"
-        },
-        {
-          "id": "CAIiEHn_Akfw2pMGlxJ6n_-xGzgqGQgEKhAIACoHCAowrueiCTDmn7gCMIfHtwU",
-          "author": null,
-          "description": "Ilkay Gundogan blows Celtic Park trumpet again as Manchester City star says Hoops are his most loved opponents  Daily Record",
-          "link": "https://www.dailyrecord.co.uk/sport/football/football-news/ilkay-gundogan-blows-celtic-park-27664752",
-          "publishedOn": "2022-08-05T09:05:04.000Z",
-          "wordCount": 3089,
-          "title": "Ilkay Gundogan blows Celtic Park trumpet again as Manchester City star says Hoops are his most loved opponents - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/sport/football/football-news/article27665225.ece/ALTERNATES/s1200/0_JS100941620.jpg"
-        },
-        {
-          "id": "CAIiEMZgPJRteZOGA6LX-_uAp7MqGQgEKhAIACoHCAow4KKJCzCv9JoDMICkoAY",
-          "author": null,
-          "description": "Odsonne Edouard makes admission about leaving Celtic  The Celtic Bhoys",
-          "link": "https://thecelticbhoys.com/2022/08/05/odsonne-edouard-admission-leaving-celtic/",
-          "publishedOn": "2022-08-05T09:03:33.000Z",
-          "wordCount": 2498,
-          "title": "Odsonne Edouard makes admission about leaving Celtic - The Celtic Bhoys",
-          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1362296689.jpeg"
-        },
-        {
-          "id": "CAIiENLRQeb6sRPGFzaFH_z1PdcqGQgEKhAIACoHCAow96D9CjDOy_QCMKzp0wU",
-          "author": null,
-          "description": "Odsonne Edouard admits post Celtic struggle and the 'very different' Premier League factor  Glasgow Live",
-          "link": "https://www.glasgowlive.co.uk/sport/football/football-news/odsonne-edouard-admits-post-celtic-24676686",
-          "publishedOn": "2022-08-05T07:32:43.000Z",
-          "wordCount": 3454,
-          "title": "Odsonne Edouard admits post Celtic struggle and the 'very different' Premier League factor - Glasgow Live",
-          "imageUrl": "https://i2-prod.glasgowlive.co.uk/incoming/article24676631.ece/ALTERNATES/s1200/0_Crystal-Palace-Training-Session.jpg"
-        },
-        {
-          "id": "CBMiSGh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9jZWx0aWMtbWFpbnRhaW4taW50ZXJlc3QtaW4tZWZsLXN0cmlrZXItcmVwb3J0L9IBTGh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9jZWx0aWMtbWFpbnRhaW4taW50ZXJlc3QtaW4tZWZsLXN0cmlrZXItcmVwb3J0L2FtcC8",
-          "author": null,
-          "description": "Celtic Maintain Interest in EFL Striker – Report  CeltsAreHere",
-          "link": "https://celtsarehere.com/celtic-maintain-interest-in-efl-striker-report/",
-          "publishedOn": "2022-08-05T07:19:14.000Z",
-          "wordCount": 13412,
-          "title": "Celtic Maintain Interest in EFL Striker – Report - CeltsAreHere",
-          "imageUrl": "https://i0.wp.com/celtsarehere.com/wp-content/uploads/2022/02/Antoine-Semenyo.jpg?fit=800%2C500&ssl=1"
-        },
-        {
-          "id": "CAIiEH0lxiKzP6csYYWrWeO_eC8qGQgEKhAIACoHCAow_-CqCzD868IDMPPfoQc",
-          "author": null,
-          "description": "Kieran Tierney on 'scary' Celtic exit after Brendan Rodgers backlash as Arsenal star hails Leicester City boss  Football Scotland",
-          "link": "https://www.footballscotland.co.uk/spfl/scottish-premiership/kieran-tierney-scary-celtic-exit-24676582",
-          "publishedOn": "2022-08-05T06:52:48.000Z",
-          "wordCount": 2511,
-          "title": "Kieran Tierney on 'scary' Celtic exit after Brendan Rodgers backlash as Arsenal star hails Leicester City boss - Football Scotland",
-          "imageUrl": "https://i2-prod.glasgowlive.co.uk/incoming/article24676619.ece/ALTERNATES/s1200/0_Celtic-v-Alashkert-FC-UEFA-Champions-League-Qualifier.jpg"
         }
       ]
     },
@@ -4115,36 +4035,6 @@
           "wordCount": 8016,
           "title": "Former Celtic misfit bags English Premier League transfer",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/14339780/?type=og-image"
-        },
-        {
-          "id": "95a2873f3b7c0ba45787953ebcdcb9c5",
-          "author": null,
-          "description": "The former Parkhead forward spoke about adapting to life in England",
-          "link": "https://www.glasgowtimes.co.uk/sport/20602893.former-celtic-striker-opens-premier-league-struggles-big-difference-scotland/?ref=rss",
-          "publishedOn": "2022-08-05T08:47:00.000Z",
-          "wordCount": 8238,
-          "title": "Former Celtic striker opens up on Premier League struggles and the 'big difference' from Scotland",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/14338669/?type=og-image"
-        },
-        {
-          "id": "041eb8cdc1ee13b6c10b5fe7b0108a1c",
-          "author": null,
-          "description": "KIERAN TIERNEY insists he still gets involved in a Celtic and Rangers back-and-forth wit Mikel Arteta even if the Spaniard is his boss.",
-          "link": "https://www.glasgowtimes.co.uk/sport/20602829.kierney-tierney-details-celtic-rangers-rivalry-mikel-arteta-insists-silence-deafening/?ref=rss",
-          "publishedOn": "2022-08-05T08:25:27.000Z",
-          "wordCount": 8555,
-          "title": "Kierney Tierney details Celtic & Rangers rivalry with Mikel Arteta and insists 'silence is deafening'",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/14338631/?type=og-image"
-        },
-        {
-          "id": "999ac9bebd608eeb385751960986c767",
-          "author": null,
-          "description": "KIERAN TIERNEY has revealed he was fearing the worst when he left Celtic for Arsenal when it came to how the news would be received by the Parkhead faithful.",
-          "link": "https://www.glasgowtimes.co.uk/sport/20602674.kieran-tierney-admits-fearing-celtic-fan-backlash-arsenal-move-brendan-rodgers-exit/?ref=rss",
-          "publishedOn": "2022-08-05T07:03:16.000Z",
-          "wordCount": 8154,
-          "title": "Kieran Tierney admits fearing Celtic fan backlash over Arsenal move after Brendan Rodgers exit",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/14338512/?type=og-image"
         }
       ]
     }
