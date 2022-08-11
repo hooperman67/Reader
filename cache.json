@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com//sport/football/celtic",
       "articles": [
         {
+          "id": "3801204",
+          "author": "Matthew Elder",
+          "description": "Ross County defender Connor Randall will be out for “a significant period of time” after fracturing his leg in the 3-1 defeat by Celtic on Saturday.",
+          "link": "https://www.scotsman.com/sport/football/celtic/tackle-on-celtics-jota-results-in-broken-leg-for-ross-county-player-3801204",
+          "publishedOn": "2022-08-10T21:26:01.000Z",
+          "wordCount": 1895,
+          "title": "Tackle on Celtic's Jota results in broken leg for Ross County player",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmQ4N2U3MzEzLWVkYTMtNGVkOS04ZjliLTA0Y2RkODIzMzkwMDpmZWY1ZGRkYi0zOWY3LTRiNjEtODRmMC1jNjgzY2E1YmY4ZTQ=.jpg?width=1200&enable=upscale"
+        },
+        {
           "id": "3800795",
           "author": "Angus Wright",
           "description": "Celtic are among a host of clubs credited with showing an interest in Marseille striker Bamba Dieng.",
@@ -222,6 +232,56 @@
       "feedUrl": "http://armchaircelts.co.uk/wprss",
       "siteUrl": "http://armchaircelts.co.uk/feed/wprss/",
       "articles": [
+        {
+          "id": "https://thecelticstar.com/mat-ryan-completes-copenhagen-move-one-year-after-celtic-links/",
+          "author": null,
+          "description": "Australian goalkeeper Mat Ryan has completed a move to Copenhagen one year after he was linked with a move to Celtic. The goalkeeper signed for La Liga side Real Sociedad on a permanent deal after it became clear that he would be a second choice at Brighton under Graham Potter. Although the move to Spain Read More",
+          "link": "https://thecelticstar.com/mat-ryan-completes-copenhagen-move-one-year-after-celtic-links/",
+          "publishedOn": "2022-08-10T22:25:36.000Z",
+          "wordCount": 1227,
+          "title": "Mat Ryan completes Copenhagen move one year after Celtic links",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/01/australia-v-saudi-arabia-2022-fifa-world-cup-afc-asian-qualifier-1024x682.jpeg"
+        },
+        {
+          "id": "https://thecelticstar.com/nope-croatian-journalist-reacts-to-juranovic-manchester-united-link/",
+          "author": null,
+          "description": "Croatian journalist Ižak Ante Sučić has weighed in on the story that Manchester United are interested in signing Josip Juranovic from Celtic. The full-back joined from Legia Warsaw last summer and has been an integral part of Ange Postecoglou’s team, helping win the League Cup and League last season.However, his form has resulted in potential Read More",
+          "link": "https://thecelticstar.com/nope-croatian-journalist-reacts-to-juranovic-manchester-united-link/",
+          "publishedOn": "2022-08-10T22:11:44.000Z",
+          "wordCount": 1194,
+          "title": "‘Nope’, Croatian journalist reacts to Juranovic Manchester United link",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/01/celtic-fc-v-hibernian-fc-cinch-scottish-premiership-25-1024x683.jpg"
+        },
+        {
+          "id": "https://thecelticstar.com/ross-county-defender-suffers-broken-leg-after-tackle-against-celtic/",
+          "author": null,
+          "description": "Ross County have confirmed that defender Connor Randall has suffered a broken leg as a result of a tackle against Celtic on Saturday. The ex-Liverpool youngster was forced from the field after 71 minutes as he tackled Celtic’s Jota.The Staggies took to Twitter to confirm that Randall had fractured a bone in his leg during Read More",
+          "link": "https://thecelticstar.com/ross-county-defender-suffers-broken-leg-after-tackle-against-celtic/",
+          "publishedOn": "2022-08-10T21:58:47.000Z",
+          "wordCount": 1076,
+          "title": "Ross County defender suffers broken leg after tackle against Celtic",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/08/SPFL22_23_ROSSCOUNTY_CELTIC_1440-1024x646.jpeg"
+        },
+        {
+          "id": "https://thecelticstar.com/celtic-legend-set-to-face-chelsea-legend-in-english-league-cup/",
+          "author": null,
+          "description": "Celtic legend Scott Brown will face up against Chelsea legend Frank Lampard in the English League Cup. The two midfield generals-turned-managers will face off with their respective clubs, Fleetwood Town and Everton on either August 23rd or August 24th at the home of the EFL League One side.The two midfield legends will face up in Read More",
+          "link": "https://thecelticstar.com/celtic-legend-set-to-face-chelsea-legend-in-english-league-cup/",
+          "publishedOn": "2022-08-10T21:45:28.000Z",
+          "wordCount": 1269,
+          "title": "Celtic legend set to face Chelsea legend in English League Cup",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/05/celtic-v-rangers-ladbrokes-scottish-premiership-8-1024x683.jpg"
+        },
+        {
+          "id": "https://thecelticstar.com/reported-celtic-target-alex-collado-in-talks-with-la-liga-outfit/",
+          "author": null,
+          "description": "Reported Celtic target Alex Collado is in talks with Elche with a view to completing a loan move this month. The Spaniard is a product of Barca’s legendary La Masia but openings with the Camp Nou outfit appear to be extremely limited, especially due to the influx of new talent this summer.Reports have stated that Read More",
+          "link": "https://thecelticstar.com/reported-celtic-target-alex-collado-in-talks-with-la-liga-outfit/",
+          "publishedOn": "2022-08-10T21:23:13.000Z",
+          "wordCount": 1142,
+          "title": "Reported Celtic target Alex Collado in talks with La Liga outfit",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/08/Screenshot-2022-08-10-at-00.06.57-1024x681.jpg"
+        },
         {
           "id": "https://celtsarehere.com/green-brigade-footage-makes-cameo-appearance-in-mick-lynch-video/",
           "author": null,
@@ -2391,196 +2451,6 @@
           "wordCount": 1740,
           "title": "Misfortune as Ange Postecoglou explains surprising Celtic omission today",
           "imageUrl": "https://www.67hailhail.com/static/uploads/18/2022/08/GettyImages-1242230777-1-scaled.jpg"
-        },
-        {
-          "id": "https://celtsarehere.com/stephen-welsh-absence-reason-revealed/",
-          "author": null,
-          "description": "Stephen Welsh was missing from the matchday squad against Ross County on Saturday, with Ange Postecoglou turning to Moritz Jenz to start at the back in the highlands. Starfelt also returned to the squad after he trained all of last week, recovering from an injury he picked up while with the Swedish national team. Ange […]\nSource",
-          "link": "https://celtsarehere.com/stephen-welsh-absence-reason-revealed/",
-          "publishedOn": "2022-08-06T13:48:27.000Z",
-          "wordCount": 13451,
-          "title": "Stephen Welsh Absence Reason Revealed",
-          "imageUrl": "https://i0.wp.com/celtsarehere.com/wp-content/uploads/2022/07/2021-12-09T201219Z_2142265844_UP1EHC91K4HHP_RTRMADP_3_SOCCER-EUROPA-CEL-BET-REPORT-scaled.jpg?fit=800%2C578&ssl=1"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/confirmed-new-bhoy-jenz-debut/",
-          "author": null,
-          "description": "MORITZ JENZ will make his Celtic debut in the heart of the defence alongside Cameron Carter-Vickers against Ross County in Dingwall this afternoon. The German centre-back, who agreed a season-long loan from Lorient last month, will replace Stephen Welsh who scored the opening goal in the 2-0 win over Aberdeen in the Premiership kick-off at [...]",
-          "link": "https://www.celticquicknews.co.uk/confirmed-new-bhoy-jenz-debut/",
-          "publishedOn": "2022-08-06T13:00:33.000Z",
-          "wordCount": 2492,
-          "title": "CONFIRMED: NEW BHOY JENZ DEBUT",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/07/MORITZ-JENZ-FEATURRED.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/ross-county-v-celtic-live-updates-16/",
-          "author": null,
-          "description": "Live updates will appear below after 15.00.",
-          "link": "https://www.celticquicknews.co.uk/ross-county-v-celtic-live-updates-16/",
-          "publishedOn": "2022-08-06T13:00:05.000Z",
-          "wordCount": 3638,
-          "title": "Ross County v Celtic, Live updates",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
-        },
-        {
-          "id": "https://thecelticblog.com/2022/08/articles-and-features/anges-team-selection-for-celtic-today-puts-his-faith-in-his-own-clear-cut-vision/",
-          "author": null,
-          "description": "So Ange has named his team for the day, and guess what? Not one of the three players I wrote about yesterday has made the starting line-up! But of course! He has dropped Welsh, there is no place for Abada and he’s gone with Kyogo up front. At another time I might be cursing my […]",
-          "link": "https://thecelticblog.com/2022/08/articles-and-features/anges-team-selection-for-celtic-today-puts-his-faith-in-his-own-clear-cut-vision/",
-          "publishedOn": "2022-08-06T12:57:24.000Z",
-          "wordCount": 1953,
-          "title": "Ange’s Team Selection For Celtic Today Puts His Faith In His Own Clear-Cut Vision.",
-          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2022/04/2022-04-09T155429Z_1726367583_UP1EI49186Q0J_RTRMADP_3_SOCCER-SCOTLAND-CEL-STJ-REPORT-scaled.jpg"
-        },
-        {
-          "id": "https://celtsarehere.com/missing-bhoy-from-saturday-squad/",
-          "author": null,
-          "description": "STEPHEN WELSH is missing from the Celtic squad as the side prepares to take on Ross County in the Highlands. https://twitter.com/CelticFC/status/1555897728072175619?s=20&t=gA1HGUl3vOzm48EflVdT_w Moritz Jenz is handed his first Celtic start, with Carl Starfelt returning to the bench after he picked up an injury with his country in June. Despite Ange not mentioning an injury to Stephen […]\nSource",
-          "link": "https://celtsarehere.com/missing-bhoy-from-saturday-squad/",
-          "publishedOn": "2022-08-06T12:55:55.000Z",
-          "wordCount": 13407,
-          "title": "Missing Bhoy from Saturday Squad",
-          "imageUrl": "https://i0.wp.com/celtsarehere.com/wp-content/uploads/2022/04/img_0183.jpg?fit=1000%2C864&ssl=1"
-        },
-        {
-          "id": "https://www.67hailhail.com/match/celtic-team-vs-ross-county-confirmed-jenz-debut-tv-situation-instant-reaction/",
-          "author": null,
-          "description": "Manager Ange Postecoglou has named his Celtic team vs Ross County in the Scottish Premiership this afternoon, which kicks off at 3pm. The full match squad is as follows: Starting XI – Hart, Juranovic, Carter-Vickers, Jenz, Taylor, McGregor, O’Riley, Turnbull, Jota, Maeda, Kyogo. Substitutes – Siegrist, Starfelt, Giakoumakis, Abada, Mooy, McCarthy, Bernabei, Forrest, Ralston. After ...\nThe post Debut bhoy: Celtic XI confirmed, exciting line-up, TV situation, instant reaction appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/match/celtic-team-vs-ross-county-confirmed-jenz-debut-tv-situation-instant-reaction/",
-          "publishedOn": "2022-08-06T12:51:24.000Z",
-          "wordCount": 1885,
-          "title": "Debut bhoy: Celtic XI confirmed, exciting line-up, TV situation, instant reaction",
-          "imageUrl": "https://www.67hailhail.com/static/uploads/18/2022/08/GettyImages-1339662898-scaled.jpg"
-        },
-        {
-          "id": "https://thecelticstar.com/teams-up-jenz-handed-first-celtic-start-kyogo-up-front/",
-          "author": null,
-          "description": "Ange Postecoglou has named his team for this afternoon’s Cinch Premiership clash against Ross County. There is a major surprise in the starting XI with Moritz Jenz making his first start.In goals, Joe Hart starts. Celtic’s No.1 has been mightily impressive since arriving in Glasgow.In defence, Cameron Carter-Vickers and Moritz Jenz partner each other in Read More",
-          "link": "https://thecelticstar.com/teams-up-jenz-handed-first-celtic-start-kyogo-up-front/",
-          "publishedOn": "2022-08-06T12:48:19.000Z",
-          "wordCount": 1174,
-          "title": "Team’s Up – Jenz handed first Celtic start, Kyogo up front",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/07/imago1013343493h-1024x681.jpeg"
-        },
-        {
-          "id": "https://celtsarehere.com/confirmed-starting-xi-to-face-ross-county-full-debut/",
-          "author": null,
-          "description": "Heading into today’s game at Dingwall, the main talking point was who would lead the line, Giakouamkis or Kyogo? Some felt that Giakoumakis’ physical presence could benefit the side, playing a County team who aren’t afraid to get stuck in. While others feel that Kyogo’s sharp movement could create some space for the Hoops as […]\nSource",
-          "link": "https://celtsarehere.com/confirmed-starting-xi-to-face-ross-county-full-debut/",
-          "publishedOn": "2022-08-06T12:46:35.000Z",
-          "wordCount": 13424,
-          "title": "Confirmed Starting XI to Face Ross County; Full Debut",
-          "imageUrl": "https://i0.wp.com/celtsarehere.com/wp-content/uploads/2022/07/confirmedstartingxi.jpg?fit=800%2C500&ssl=1"
-        },
-        {
-          "id": "https://thecelticstar.com/cameron-carter-vickers-and-aaron-mooy-key-to-celtic-success-says-simon-ferry/",
-          "author": null,
-          "description": "Simon Ferry: Celtic will win 2022/23 title, Carter-Vickers is signing of the window, Aaron Mooy can lead Celtic to European success…Celtic will win the league this season whilst Rangers could struggle, that’s the view of former Celtic midfielder Simon Ferry. “Celtic are already the team to beat and I think they’ll win the league. Aberdeen Read More",
-          "link": "https://thecelticstar.com/cameron-carter-vickers-and-aaron-mooy-key-to-celtic-success-says-simon-ferry/",
-          "publishedOn": "2022-08-06T12:42:11.000Z",
-          "wordCount": 1382,
-          "title": "Cameron Carter-Vickers and Aaron Mooy key to Celtic success says Simon Ferry",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/05/celtic-v-motherwell-cinch-scottish-premiership-12-1024x682.jpeg"
-        },
-        {
-          "id": "https://www.67hailhail.com/news/celtic-boss-ange-postecoglou-dismisses-liel-abada-concerns/",
-          "author": null,
-          "description": "Celtic boss Ange Postecoglou was brought to a chuckle in his press conference yesterday when asked about Liel Abada missing Nir Bitton. Abada gave an interview to Celtic TV earlier this week where he made it clear that he is feeling the absence of his compatriot after Bitton left Celtic following years of service. One ...\nThe post Ange Postecoglou dismisses concerns about Celtic attacker appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/celtic-boss-ange-postecoglou-dismisses-liel-abada-concerns/",
-          "publishedOn": "2022-08-06T12:16:53.000Z",
-          "wordCount": 1792,
-          "title": "Ange Postecoglou dismisses concerns about Celtic attacker",
-          "imageUrl": "https://www.67hailhail.com/static/uploads/18/2022/05/GettyImages-1367593860-scaled.jpg"
-        },
-        {
-          "id": "https://thecelticstar.com/celtic-announce-signing-of-taylor-otto-from-racing-louisville/",
-          "author": null,
-          "description": "Celtic today confirmed the signing of 24 year old midfielder Taylor Otto from Racing Louisville, subject to international clearance. The American, Fran Alonso’s fifth new signing of the summer, can also play in defence according to the club. Yesterday at his first media conference of the season, ahead of tomorrow’s SWPL1 season opener against Hibs, Read More",
-          "link": "https://thecelticstar.com/celtic-announce-signing-of-taylor-otto-from-racing-louisville/",
-          "publishedOn": "2022-08-06T11:51:15.000Z",
-          "wordCount": 1395,
-          "title": "Celtic announce signing of Taylor Otto from Racing Louisville",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/08/FZeUVpuXoAIumxx-1024x689.jpeg"
-        },
-        {
-          "id": "https://thecelticstar.com/ross-county-v-celtic-team-news-ko-time-and-where-to-watch-3/",
-          "author": null,
-          "description": "Celtic face Ross County in Dingwall this afternoon in the second round of Premiership fixtures. It’s a tough day out for Celtic – players and supporters alike – given the lengthy journey up to The Highlands. Hopefully, Ange’s team will put on a show and brush aside Malky Mackay’s Staggies.Team NewsCeltic were landed a blow Read More",
-          "link": "https://thecelticstar.com/ross-county-v-celtic-team-news-ko-time-and-where-to-watch-3/",
-          "publishedOn": "2022-08-06T11:40:40.000Z",
-          "wordCount": 1121,
-          "title": "Ross County v Celtic: team news, KO time and where to watch",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/07/celtic-fc-v-aberdeen-fc-cinch-scottish-premiership-15-1024x528.jpeg"
-        },
-        {
-          "id": "https://thecelticblog.com/2022/08/articles-and-features/celtic-got-a-horrific-champions-league-warning-last-night-from-germany/",
-          "author": null,
-          "description": "Last night, the Europa League winners hosted Bayern Munich in fine mood. I don’t know why. Bayern had already won the Super Cup in Germany putting five past Red Bull Leipzig. Remember them? They at least had kept it semi-respectable, scoring three in the same game. But Eintracht had won the Europa and beat the […]",
-          "link": "https://thecelticblog.com/2022/08/articles-and-features/celtic-got-a-horrific-champions-league-warning-last-night-from-germany/",
-          "publishedOn": "2022-08-06T11:23:12.000Z",
-          "wordCount": 1957,
-          "title": "Celtic Got A Horrific Champions League Warning Last Night From Germany.",
-          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2022/08/2022-08-05T184905Z_167061829_UP1EI851G9RIA_RTRMADP_3_SOCCER-GERMANY-SGE-BAY-REPORT-scaled.jpg"
-        },
-        {
-          "id": "https://thecelticstar.com/transfer-confirmed-charlie-wellings-completes-move-to-reading-for-an-undisclosed-fee/",
-          "author": null,
-          "description": "As widely expected Charlie Wellings has now officially left Celtic but is not heading to Italy instead the striker who banged in 40 goals for Celtic in her one and only season at the club has decided to join Reading with Celtic receiving an undisclosed fee for the transfer.Charlie Wellings proved herself to be an Read More",
-          "link": "https://thecelticstar.com/transfer-confirmed-charlie-wellings-completes-move-to-reading-for-an-undisclosed-fee/",
-          "publishedOn": "2022-08-06T10:18:08.000Z",
-          "wordCount": 1550,
-          "title": "Transfer Confirmed – Charlie Wellings completes move to Reading for an undisclosed fee",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/05/wellings_7488-1-1024x682.jpeg"
-        },
-        {
-          "id": "https://www.67hailhail.com/news/broadcast-options-for-celtic-supporters-vs-ross-county-amid-tv-blackout-today/",
-          "author": null,
-          "description": "Celtic supporters in the UK & Ireland will be reduced to audio commentary as the only legitimate means of getting live updates from Dingwall today as the Bhoys play Ross County, unless you are lucky enough to have a ticket. Sky Sports opted not to select today’s game for live coverage and the SPFL have ...\nThe post Broadcast options for Celtic supporters vs Ross County amid TV blackout today appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/broadcast-options-for-celtic-supporters-vs-ross-county-amid-tv-blackout-today/",
-          "publishedOn": "2022-08-06T09:59:27.000Z",
-          "wordCount": 1884,
-          "title": "Broadcast options for Celtic supporters vs Ross County amid TV blackout today",
-          "imageUrl": "https://www.67hailhail.com/static/uploads/18/2022/08/GettyImages-1303376316-scaled.jpg"
-        },
-        {
-          "id": "https://thecelticstar.com/ange-postecoglou-admits-he-wont-be-fooled-by-ross-countys-challenge-despite-ground-capacity/",
-          "author": null,
-          "description": "Ange Postecoglou has warned Ross County that his Celtic side will not become complacent in Dingwall after noting that Malky Mackay’s men always put up a challenge against the Scottish champions – and the Australian will not be fooled by the size of their ground as a marker for the competition that lays ahead.County play Read More",
-          "link": "https://thecelticstar.com/ange-postecoglou-admits-he-wont-be-fooled-by-ross-countys-challenge-despite-ground-capacity/",
-          "publishedOn": "2022-08-06T09:42:12.000Z",
-          "wordCount": 1415,
-          "title": "Ange Postecoglou admits he won’t be fooled by Ross County’s challenge despite ground capacity",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/05/celtic-v-heart-of-midlothian-cinch-scottish-premiership-46-1024x631.jpg"
-        },
-        {
-          "id": "https://thecelticstar.com/thanks-ange-hughes-family-touched-by-celtic-managers-fitting-tribute/",
-          "author": null,
-          "description": "There’s thanks and appreciation this morning from the Hughes family, friends and Celtic supporters to Ange Postecoglou’s lovely tribute to Big Yogi at his Media Conference yesterday afternoon.The mainstream media gets their chance to ask questions before two members of the Celtic fan media get a chance, on a rotating basis. Yesterday it was The Read More",
-          "link": "https://thecelticstar.com/thanks-ange-hughes-family-touched-by-celtic-managers-fitting-tribute/",
-          "publishedOn": "2022-08-06T09:33:39.000Z",
-          "wordCount": 1498,
-          "title": "“Thanks Ange” – Hughes family touched by Celtic manager’s fitting tribute",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/08/CQN_GREENOCK_0046-1024x780.jpeg"
-        },
-        {
-          "id": "https://celtsarehere.com/anges-response-to-transfer-speculation-says-it-all/",
-          "author": null,
-          "description": "ANGE POSTECOGLOU responded to a question surrounding the future of his midfielder James McCarthy, with speculation he could be a target for club’s down south. James has come into Celtic on a four-year deal, but the manager has used him sparingly. The first squad of the season against Aberdeen last weekend didn’t involve the Irish […]\nSource",
-          "link": "https://celtsarehere.com/anges-response-to-transfer-speculation-says-it-all/",
-          "publishedOn": "2022-08-06T09:31:42.000Z",
-          "wordCount": 13515,
-          "title": "Ange’s Response to Transfer Speculation Says It All",
-          "imageUrl": "https://i0.wp.com/celtsarehere.com/wp-content/uploads/2021/09/james-mccarthy.jpg?fit=800%2C524&ssl=1"
-        },
-        {
-          "id": "https://www.67hailhail.com/match/turnbull-gets-chance-attacking-trio-celtic-predicted-xi-vs-ross-county/",
-          "author": null,
-          "description": "Celtic face Ross County in the Scottish Premiership this afternoon in the Bhoys’ first away game of the 2022/23 season. After a comprehensive 2-0 victory at home to Aberdeen last week, Ange Postecoglou is looking to make it six points from six and really send out a message that his team are going to continue ...\nThe post 23-year-old unleashed, attacking trio; Celtic Predicted XI vs Ross County appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/match/turnbull-gets-chance-attacking-trio-celtic-predicted-xi-vs-ross-county/",
-          "publishedOn": "2022-08-06T09:22:27.000Z",
-          "wordCount": 2050,
-          "title": "23-year-old unleashed, attacking trio; Celtic Predicted XI vs Ross County",
-          "imageUrl": "https://www.67hailhail.com/static/uploads/18/2022/04/GettyImages-1342709903-scaled.jpg"
         }
       ]
     },
@@ -2600,6 +2470,16 @@
           "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article27710609.ece/ALTERNATES/s1200/0_JS272299911.jpg"
         },
         {
+          "id": "CAIiEE3knxeGetQdRYLyeSkgvfMqGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY",
+          "author": null,
+          "description": "Video: Willie Wallace At The Derby Double, On This Day  The Celtic Star",
+          "link": "https://thecelticstar.com/video-willie-wallace-at-the-derby-double-on-this-day/",
+          "publishedOn": "2022-08-10T16:14:25.000Z",
+          "wordCount": 1066,
+          "title": "Video: Willie Wallace At The Derby Double, On This Day - The Celtic Star",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/04/Willie-Wallace_preview.jpeg"
+        },
+        {
           "id": "CAIiEEAzuGjsUZcC3cBbM-D6TukqGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY",
           "author": null,
           "description": "Photo Of The Day: Roddie MacDonald Up For The Header  The Celtic Star",
@@ -2608,6 +2488,16 @@
           "wordCount": 1076,
           "title": "Photo Of The Day: Roddie MacDonald Up For The Header - The Celtic Star",
           "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/08/roddie-macdonald-1024x866.jpg"
+        },
+        {
+          "id": "1527569893",
+          "author": null,
+          "description": "Josip Juranovic Celtic to Chelsea transfer slapped with a big 'nope' in Croatia  Daily Record\nReliable source shuts down ‘farfetched’ link as Celtic continue active transfer approach  67 Hail Hail - Celtic FC News\nTransfer News: Manchester United monitoring 26-year-old star playing in Scotland  We All Follow United\n‘Nope’, Croatian journalist reacts to Juranovic Manchester United link  The Celtic Star\nInteresting Dele Alli to Celtic transfer rumour emerges  The Celtic Bhoys\nView Full coverage on Google News",
+          "link": "https://www.dailyrecord.co.uk/sport/football/football-transfer-news/josip-juranovic-celtic-chelsea-transfer-27709245",
+          "publishedOn": "2022-08-10T15:59:36.000Z",
+          "wordCount": 3210,
+          "title": "Josip Juranovic Celtic to Chelsea transfer slapped with a big 'nope' in Croatia - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article27473927.ece/ALTERNATES/s1200/0_JS271958367.jpg"
         },
         {
           "id": "CAIiEE-5XNTEdMdF8E8PGSctNAsqGQgEKhAIACoHCAow2LCYCzDvurADMI6l0AY",
@@ -2848,6 +2738,16 @@
           "wordCount": 3503,
           "title": "Celtic hanger on can sling his hook as Jota, Robbie Neilson and Hibs catering get it tight - Hotline - Daily Record",
           "imageUrl": "https://i2-prod.dailyrecord.co.uk/sport/football/article27686839.ece/ALTERNATES/s1200/0_JS234887573.jpg"
+        },
+        {
+          "id": "CAIiEFYw-Uo1tZ0Zbzo6w99HnfkqGQgEKhAIACoHCAowrueiCTDmn7gCMIfHtwU",
+          "author": null,
+          "description": "Leigh Griffiths joins Mandurah City as former Celtic striker takes on Australian adventure  Daily Record",
+          "link": "https://www.dailyrecord.co.uk/sport/football/football-transfer-news/leigh-griffiths-join-mandurah-city-27693769",
+          "publishedOn": "2022-08-09T10:07:54.000Z",
+          "wordCount": 2990,
+          "title": "Leigh Griffiths joins Mandurah City as former Celtic striker takes on Australian adventure - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article27544159.ece/ALTERNATES/s1200/1_JS220263478.jpg"
         },
         {
           "id": "CAIiEK3w-g-jzTN-y3npB-5JirwqGQgEKhAIACoHCAow96D9CjDOy_QCMPvp0wU",
@@ -3418,56 +3318,6 @@
           "wordCount": 5999,
           "title": "Ross County 1 Celtic 3 RECAP as Liel Abada and Mortiz Jenz seal late win for the visitors - Daily Record",
           "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article27675608.ece/ALTERNATES/s1200/2_JS274003147.jpg"
-        },
-        {
-          "id": "CAIiEBOS6EHZK0bqjEwgkTjzFvAqGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY",
-          "author": null,
-          "description": "Celtic announce signing of Taylor Otto from Racing Louisville  The Celtic Star",
-          "link": "https://thecelticstar.com/celtic-announce-signing-of-taylor-otto-from-racing-louisville/",
-          "publishedOn": "2022-08-06T11:51:15.000Z",
-          "wordCount": 1395,
-          "title": "Celtic announce signing of Taylor Otto from Racing Louisville - The Celtic Star",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/08/FZeUVpuXoAIumxx-1024x689.jpeg"
-        },
-        {
-          "id": "CAIiEA0nbse6IUEeJQ0WyJNvkSUqGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY",
-          "author": null,
-          "description": "Transfer Confirmed – Charlie Wellings completes move to Reading for an undisclosed fee  The Celtic Star",
-          "link": "https://thecelticstar.com/transfer-confirmed-charlie-wellings-completes-move-to-reading-for-an-undisclosed-fee/",
-          "publishedOn": "2022-08-06T10:18:08.000Z",
-          "wordCount": 1550,
-          "title": "Transfer Confirmed – Charlie Wellings completes move to Reading for an undisclosed fee - The Celtic Star",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/05/wellings_7488-1-1024x682.jpeg"
-        },
-        {
-          "id": "CAIiEFd7jvcZlsMT02ixTj7kngUqGQgEKhAIACoHCAowrueiCTDmn7gCMKXUtwU",
-          "author": null,
-          "description": "Martin Boyle set for Hibs transfer return as Al Faisaly accept bid for Easter Road hero  Daily Record",
-          "link": "https://www.dailyrecord.co.uk/sport/football/football-transfer-news/martin-boyle-set-hibs-transfer-27673682",
-          "publishedOn": "2022-08-06T10:03:47.000Z",
-          "wordCount": 3190,
-          "title": "Martin Boyle set for Hibs transfer return as Al Faisaly accept bid for Easter Road hero - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article25511099.ece/ALTERNATES/s1200/0_Rangers-FC-v-Hibernian-FC-Premier-Sports-Cup.jpg"
-        },
-        {
-          "id": "CAIiENHq61SA43IlqX9xqwmLmiIqGQgEKhAIACoHCAowrueiCTDmn7gCMKXUtwU",
-          "author": null,
-          "description": "Emanuel Aiwu in Celtic transfer claim as he reveals Hoops 'enquiries' over potential summer move  Daily Record",
-          "link": "https://www.dailyrecord.co.uk/sport/football/football-news/emanuel-aiwu-celtic-transfer-claim-27673625",
-          "publishedOn": "2022-08-06T09:43:09.000Z",
-          "wordCount": 3092,
-          "title": "Emanuel Aiwu in Celtic transfer claim as he reveals Hoops 'enquiries' over potential summer move - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article27673616.ece/ALTERNATES/s1200/0_SK-Rapid-Wien-v-Celtic-Pre-Season-Friendly.jpg"
-        },
-        {
-          "id": "CAIiED1__HMMh_u2Ua3am6xVkWMqGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY",
-          "author": null,
-          "description": "“Thanks Ange” – Hughes family touched by Celtic manager’s fitting tribute  The Celtic Star",
-          "link": "https://thecelticstar.com/thanks-ange-hughes-family-touched-by-celtic-managers-fitting-tribute/",
-          "publishedOn": "2022-08-06T09:33:39.000Z",
-          "wordCount": 1498,
-          "title": "“Thanks Ange” – Hughes family touched by Celtic manager’s fitting tribute - The Celtic Star",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/08/CQN_GREENOCK_0046-1024x780.jpeg"
         }
       ]
     },
@@ -3895,56 +3745,6 @@
           "wordCount": 7991,
           "title": "Celtic TV crashes during Ross County clash with fans left without pictures for Premiership clash",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/12915412/?type=og-image"
-        },
-        {
-          "id": "fec465b21c8bf2b1ab6f8529bebd64c4",
-          "author": null,
-          "description": "The manager spoke ahead of the Hoops’ game with Ross County",
-          "link": "https://www.glasgowtimes.co.uk/sport/20605760.celtic-boss-ange-postecoglou-confirms-reason-behind-stephen-welshs-absence/?ref=rss",
-          "publishedOn": "2022-08-06T13:28:00.000Z",
-          "wordCount": 8451,
-          "title": "Celtic boss Ange Postecoglou confirms reason behind Stephen Welsh’s absence",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/14343687/?type=og-image"
-        },
-        {
-          "id": "e7b1bf614abb60ae89d685abeaf56e01",
-          "author": null,
-          "description": "IT's the first away day of the season for Celtic today.",
-          "link": "https://www.glasgowtimes.co.uk/sport/20605179.celtic-team-news-ross-county-clash-revealed/?ref=rss",
-          "publishedOn": "2022-08-06T12:49:00.000Z",
-          "wordCount": 8421,
-          "title": "Celtic team news for Ross County clash revealed",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/14342575/?type=og-image"
-        },
-        {
-          "id": "bbe07c79b768391061d8795ba720c08c",
-          "author": null,
-          "description": "SI FERRY believes the pressure of playing for Celtic or Rangers is greater than what Premier League stars have to endure south of the border.",
-          "link": "https://www.glasgowtimes.co.uk/sport/20605668.celtic-rangers-playing-pressure-greater-premier-league-stars-endure/?ref=rss",
-          "publishedOn": "2022-08-06T11:51:06.000Z",
-          "wordCount": 8176,
-          "title": "Celtic and Rangers playing pressure is greater than what Premier League stars endure",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/14343503/?type=og-image"
-        },
-        {
-          "id": "687e55c8506719c4a1d3042057076346",
-          "author": null,
-          "description": "OPEN GOAL podcast host Si Ferry reckons Celtic are the big favourites for the Scottish Premiership title following their opening day win over Aberdeen.",
-          "link": "https://www.glasgowtimes.co.uk/sport/20605625.si-ferry-delivers-scottish-premiership-title-prediction-makes-celtic-best-signing-claim/?ref=rss",
-          "publishedOn": "2022-08-06T11:10:45.000Z",
-          "wordCount": 8312,
-          "title": "Si Ferry delivers Scottish Premiership title prediction as he makes Celtic 'best signing' claim",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/14343442/?type=og-image"
-        },
-        {
-          "id": "3452afaa9cf96e7a8988664264c2a670",
-          "author": null,
-          "description": "EMANUEL AIWU claims that Celtic were among a clutch of clubs who enquired over his services before he finalised a £3.5 million deal to join Serie A side Cremonese.",
-          "link": "https://www.glasgowtimes.co.uk/sport/20605570.emanuel-aiwu-claims-celtic-transfer-interest-rapid-vienna-enquiries/?ref=rss",
-          "publishedOn": "2022-08-06T10:22:44.000Z",
-          "wordCount": 8143,
-          "title": "Emanuel Aiwu claims Celtic transfer interest with Rapid Vienna 'enquiries'",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/14343375/?type=og-image"
         }
       ]
     }
