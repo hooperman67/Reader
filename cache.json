@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com//sport/football/celtic",
       "articles": [
         {
+          "id": "3806429",
+          "author": "Angus Wright",
+          "description": "Cinch Premiership clubs who commissioned an independent review into the Scottish Professional Football League believe a plan to almost double income could signal a “new era” for Scottish football.",
+          "link": "https://www.scotsman.com/sport/football/new-tone-and-direction-for-scottish-football-deloitte-report-sets-out-stall-for-enhanced-era-3806429",
+          "publishedOn": "2022-08-15T14:54:27.000Z",
+          "wordCount": 2525,
+          "title": "'New tone and direction for Scottish football': Deloitte report sets out stall for enhanced era",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjIwM2I1NWJlLTFkYTMtNGE2OC1iNWRjLTMzOTM2YTVjN2MyMTo1ZmNjYTNhMC0zNWNjLTQ2ZjYtYWM5Yi0yMThlNjI2ZDQ3Yzg=.jpg?width=1200&enable=upscale"
+        },
+        {
           "id": "3806102",
           "author": "Graham Falk",
           "description": "Mexican star Desirée Monsiváis debuts as Glasgow City grab vital late win, champions Rangers demolish Aberdeen to continue their impressive title defence and Celtic defeat stubborn Thistle.",
@@ -272,6 +282,66 @@
       "feedUrl": "http://armchaircelts.co.uk/wprss",
       "siteUrl": "http://armchaircelts.co.uk/feed/wprss/",
       "articles": [
+        {
+          "id": "https://thecelticstar.com/brendan-rodgers-claims-lack-of-investment-in-team-was-reason-he-left-celtic/",
+          "author": null,
+          "description": "When Brendan Rodgers did his midnight flit to the English city of Leicester back in February 2019, for a while it became the Winter if Discontent as it had left the supporters and the Parkhead powerbrokers visibly aggravated and shaken. The Northern Irishman gave no notice as he upped sticks at the drop of a Read More",
+          "link": "https://thecelticstar.com/brendan-rodgers-claims-lack-of-investment-in-team-was-reason-he-left-celtic/",
+          "publishedOn": "2022-08-15T14:31:19.000Z",
+          "wordCount": 1789,
+          "title": "Brendan Rodgers claims lack of investment in team was reason he left Celtic",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2021/04/BRENDAN_RODGERS_0765.jpeg"
+        },
+        {
+          "id": "https://celtsarehere.com/moussa-dembele-linked-to-epl-switch/",
+          "author": null,
+          "description": "It has been reported that a host of English Premier League sides as well as Villareal are interested in signing former Celtic striker Moussa Dembele [Foot Mercato].  The 26-year old made an instant impact when he made the switch to Glasgow under Brendan Rodgers and thrived under the Irishman. He would leave the Hoops in […]\nSource",
+          "link": "https://celtsarehere.com/moussa-dembele-linked-to-epl-switch/",
+          "publishedOn": "2022-08-15T14:23:32.000Z",
+          "wordCount": 13545,
+          "title": "Moussa Dembele Linked to EPL Switch",
+          "imageUrl": "https://i0.wp.com/celtsarehere.com/wp-content/uploads/2021/08/moussa-dembele.jpg?fit=800%2C456&ssl=1"
+        },
+        {
+          "id": "https://thecelticblog.com/2022/08/articles-and-features/celtics-performance-and-goal-haul-must-have-sickened-our-rivals-yesterday/",
+          "author": null,
+          "description": "When the full-time whistle went at Ibrox on Saturday, I am sure there were two separate thoughts doing the round and round in the brains of the Subway Loyal; the first was that they were top of the league having scored four goals. The second was that there was no way whatsoever that we were […]",
+          "link": "https://thecelticblog.com/2022/08/articles-and-features/celtics-performance-and-goal-haul-must-have-sickened-our-rivals-yesterday/",
+          "publishedOn": "2022-08-15T13:52:23.000Z",
+          "wordCount": 1839,
+          "title": "Celtic’s Performance, And Goal Haul, Must Have Sickened Our Rivals Yesterday.",
+          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2022/05/2022-05-14T125659Z_889481950_UP1EI5E0ZYW4O_RTRMADP_3_SOCCER-SCOTLAND-CEL-MOT-REPORT.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/news/carl-starfelt-expresses-delight-at-first-celtic-goal-as-he-opens-up-on-emotional-release-of-celebration/",
+          "author": null,
+          "description": "Celtic defender Carl Starfelt has expressed his delight at making his return from injury in the 5-0 win over Kilmarnock on Sunday. The 27-year-old played a key role in the Hoops’ success last season, creating a strong partnership in defence alongside Cameron Carter-Vickers. Starfelt would have been looking to build upon a positive first 12 ...\nThe post Celtic star expresses delight at first goal as he opens up on emotional release of celebrations appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/carl-starfelt-expresses-delight-at-first-celtic-goal-as-he-opens-up-on-emotional-release-of-celebration/",
+          "publishedOn": "2022-08-15T13:40:00.000Z",
+          "wordCount": 2337,
+          "title": "Celtic star expresses delight at first goal as he opens up on emotional release of celebrations",
+          "imageUrl": "https://www.67hailhail.com/static/uploads/18/2022/01/GettyImages-1340759041-3-scaled.jpg"
+        },
+        {
+          "id": "https://thecelticstar.com/potential-celtic-frimpong-windfall-as-barcelona-hover/",
+          "author": null,
+          "description": "Celtic could be in line for a bumper windfall, after it has emerged that FC Barcelona are monitoring Jeremie Frimpong with a view to making a bid for the Dutchman. Frimpong currently plies his trade with Bayer Leverkusen in the Bundesliga after he moved from Parkhead in the winter transfer window of 2021 for around Read More",
+          "link": "https://thecelticstar.com/potential-celtic-frimpong-windfall-as-barcelona-hover/",
+          "publishedOn": "2022-08-15T13:17:18.000Z",
+          "wordCount": 1496,
+          "title": "Potential Celtic Frimpong Windfall as Barcelona Hover",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2021/11/bayer-leverkusen-v-celtic-fc-group-g-uefa-europa-league-20.jpeg"
+        },
+        {
+          "id": "https://thecelticstar.com/the-spirit-in-the-club-is-phenomenal-unique-angle-plus-still-game-reaction/",
+          "author": null,
+          "description": "The highlight of a rainy Monday afternoon like today is clearly getting the chance to revel in yesterday marvellous Celtic performance at Rugby Park yesterday in the Ayrshire sunshine with the four thousand Celtic supporters, many adopting taps-aff mode for the afternoon, were in fine form throughout.But the real stars of the day were on Read More",
+          "link": "https://thecelticstar.com/the-spirit-in-the-club-is-phenomenal-unique-angle-plus-still-game-reaction/",
+          "publishedOn": "2022-08-15T13:03:08.000Z",
+          "wordCount": 1407,
+          "title": "“The spirit in the club is phenomenal” – Unique Angle plus Still Game Reaction",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/08/SPFL22_23_KILLIE_CELTIC_0753.jpeg"
+        },
         {
           "id": "https://www.67hailhail.com/news/brendan-rodgers-reflects-on-eye-opening-celtic-experience-namechecks-anges-new-advantage/",
           "author": null,
@@ -2580,6 +2650,16 @@
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
         {
+          "id": "CAIiELPZj3aVd5b8KA3mq0JhTvsqGQgEKhAIACoHCAowrueiCTDmn7gCMKXUtwU",
+          "author": null,
+          "description": "Brendan Rodgers revisits Celtic's Champions League nightmare in Gibraltar  Daily Record",
+          "link": "https://www.dailyrecord.co.uk/sport/football/football-news/brendan-rodgers-celtic-champions-league-27744568",
+          "publishedOn": "2022-08-15T12:57:59.000Z",
+          "wordCount": 3115,
+          "title": "Brendan Rodgers revisits Celtic's Champions League nightmare in Gibraltar - Daily Record",
+          "imageUrl": "https://i2-prod.mirror.co.uk/incoming/article27719612.ece/ALTERNATES/s1200/0_Brendan-Rodgers-3.jpg"
+        },
+        {
           "id": "CAIiEH7SUq5ZPzVFodwB-5s1GaQqGQgEKhAIACoHCAowsJStCzC9n8UDMNeMswc",
           "author": null,
           "description": "Celtic transfer 'target' Alex Collado completes move to La Liga club  Celtic Way",
@@ -3078,6 +3158,16 @@
           "wordCount": 3210,
           "title": "Reo Hatate in Celtic injury blow but Ange Postecoglou hopeful of Stephen Welsh's Kilmarnock chances - Daily Record",
           "imageUrl": "https://i2-prod.dailyrecord.co.uk/sport/football/football-news/article27558218.ece/ALTERNATES/s1200/0_JS272847092.jpg"
+        },
+        {
+          "id": "CAIiENK9JPnKKruwfeUnzhouwjQqGQgEKhAIACoHCAow_-CqCzD868IDMPPfoQc",
+          "author": null,
+          "description": "Ange Postecoglou quizzed on Celtic coach John Kennedy exit as Midtjylland manager links intensify  Football Scotland",
+          "link": "https://www.footballscotland.co.uk/spfl/scottish-premiership/ange-postecoglou-quizzed-celtic-coach-24745792",
+          "publishedOn": "2022-08-12T15:50:52.000Z",
+          "wordCount": 2460,
+          "title": "Ange Postecoglou quizzed on Celtic coach John Kennedy exit as Midtjylland manager links intensify - Football Scotland",
+          "imageUrl": "https://i2-prod.glasgowlive.co.uk/incoming/article24714455.ece/ALTERNATES/s1200/0_Celtic-vs-Preston.jpg"
         },
         {
           "id": "CAIiEGRA7Hux5Dg5y-TLlJAcfy0qGQgEKhAIACoHCAowne-jCzDg-bsDMLnLhQc",
