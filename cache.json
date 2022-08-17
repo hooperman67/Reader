@@ -6,6 +6,26 @@
       "siteUrl": "https://www.scotsman.com//sport/football/celtic",
       "articles": [
         {
+          "id": "3809375",
+          "author": "David Oliver",
+          "description": "Kieran Tierney missed Scotland’s World Cup play-off defeat to Ukraine after his knee ‘collapsed’ after a post-training shower, Arsenal’s All or Nothing documentary has revealed.",
+          "link": "https://www.scotsman.com/sport/football/arsenal/kieran-tierney-arsenal-documentary-highlights-former-celtic-defenders-knee-injury-and-crucial-scotland-miss-3809375",
+          "publishedOn": "2022-08-17T12:30:53.000Z",
+          "wordCount": 2079,
+          "title": "Kieran Tierney: Arsenal documentary highlights former Celtic defender's knee injury and crucial Scotland miss",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjc4MzJhNjhmLTQ4YjEtNDA5OS04ZmFiLTM1OGM2ZmY4NzBlMTpmZmRjM2VkNC1iMzU3LTQxZWEtYTUzNC1jMWRkZDA2YWVhMWU=.jpg?width=1200&enable=upscale"
+        },
+        {
+          "id": "3809251",
+          "author": "David Oliver",
+          "description": "Celtic’s Japanese international trio Kyogo Furuhashi, Reo Hatate and Daizen Maeda will have their journey time cut if they are called up to the Samurai Blue squad for next month’s Kirin Cup.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtic-and-rangers-travel-worries-eased-by-international-tournament-change-3809251",
+          "publishedOn": "2022-08-17T11:32:54.000Z",
+          "wordCount": 2091,
+          "title": "Celtic and Rangers travel worries eased by international tournament change",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjhhMTNkNWM3LTMxZGQtNGMzMC04NTNiLTU3ZDFkMWMxYzRmZjplN2Y4OTNjNy0wOWJiLTQ0MWItOGRjYy1jODQwMDY3YWNkZDQ=.jpg?width=1200&enable=upscale"
+        },
+        {
           "id": "3808362",
           "author": "Ross McLeish",
           "description": "Scotland will take on Ukraine in Poland after the war-torn nation informed UEFA of their choice of venue for their Nations League qualifier next month.",
@@ -244,36 +264,6 @@
           "wordCount": 2086,
           "title": "Celtic Ross Barkley stumbling block, Rangers forward set to stay, Hibs chase midfielder - Scottish football transfer digest",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmVhMTg4MTA1LTkwODUtNGQxMC1hMjZmLTZmOWQ5Y2Q2MWNiOTpkNTI5ZTI3Yy1mN2RmLTRiYzgtODRhYi04MjRmOTlhYWE4MGI=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3804510",
-          "author": "Andrew Smith",
-          "description": "Celtic midfielder Matt O’Riley is chuffed over the kind hand the fates can play in reflecting on being reunited with his valued friend Mortiz Jenz at the Scottish champions.",
-          "link": "https://www.scotsman.com/sport/football/celtic/matt-oriley-revels-in-crazy-summer-development-at-celtic-park-football-can-throw-stuff-like-this-up-3804510",
-          "publishedOn": "2022-08-12T21:30:00.000Z",
-          "wordCount": 2348,
-          "title": "Matt O'Riley revels in 'crazy' summer development at Celtic Park - 'football can throw stuff like this up'",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmQxMzVjMTAyLWE0YWMtNGI0Ny1hNWM2LWU0NWZhMWU0MDRiMjpiNjBiNzE2NC00OGZkLTQxYzUtYjJkMC1iOGI4MzIyMDI4Y2I=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3804485",
-          "author": "Andrew Smith",
-          "description": "The lucklessness that has befallen Celtic midfielder Yosuke Ideguchi in Scotland would appear to show no signs of abatting.",
-          "link": "https://www.scotsman.com/sport/football/celtic/celtics-yosuke-ideguchi-facing-bit-of-a-process-after-training-ground-injury-3804485",
-          "publishedOn": "2022-08-12T21:30:00.000Z",
-          "wordCount": 1779,
-          "title": "Celtic's Yosuke Ideguchi facing 'bit of a process' after training-ground injury",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmRlMDM3Y2ExLTUzMjctNDllOC1iMzM3LTU3NjQ5ODQxMmY2Yjo5Y2QyYTJjNi04OWIzLTQxMmItYmJiYy1hZTk1ODMzMDk5Y2U=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3804469",
-          "author": "Andrew Smith",
-          "description": "The presence of Josip Juranovic in Celtic’s line-up for the club’s trip to Kilmarnock on Sunday seems assured.",
-          "link": "https://www.scotsman.com/sport/football/celtic/celtics-ange-postecoglou-responds-to-josip-juranovic-interest-from-chelsea-and-manchester-united-3804469",
-          "publishedOn": "2022-08-12T21:30:00.000Z",
-          "wordCount": 2261,
-          "title": "Celtic's Ange Postecoglou responds to Josip Juranovic interest from Chelsea and Manchester United",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjQ1MzFiYTRmLTFlODUtNDEzNi1iMjZkLWVjY2YxN2RiODhmNzo2MTVkNTRkYS1mOWYwLTQ3OGUtODg5ZS0wZmY3MzY1YjVmMWM=.jpg?width=1200&enable=upscale"
         }
       ]
     },
@@ -282,6 +272,136 @@
       "feedUrl": "http://armchaircelts.co.uk/wprss",
       "siteUrl": "http://armchaircelts.co.uk/feed/wprss/",
       "articles": [
+        {
+          "id": "https://thecelticstar.com/transfer-latest-celtic-make-another-bid-to-sign-sead-haksabanovic/",
+          "author": null,
+          "description": "Rubin Kazan’s 28 times capped Montenegro winger Sead Haksabanovic has been linked once more with a move to Celtic, with Swedish outlet Aftonbladet claiming Celtic are likely to return with a second attempt to sign the versatile frontman, after reportedly having a recent attempt to sign the player rebuffed, with Aftonblat reporting. ‘It was a Read More",
+          "link": "https://thecelticstar.com/transfer-latest-celtic-make-another-bid-to-sign-sead-haksabanovic/",
+          "publishedOn": "2022-08-17T12:26:38.000Z",
+          "wordCount": 1781,
+          "title": "Transfer Latest: Celtic make another bid to sign Sead Haksabanovic",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/08/montenegro-v-bosnia-and-herzegovina-uefa-nations-league-league-path-group-3-1024x714.jpg"
+        },
+        {
+          "id": "https://celtsarehere.com/new-celtic-bid-sead-haksabanovic-rumour/",
+          "author": null,
+          "description": "Celtic are still hot on the trail of Sead Haksabanovic according to Swedish reporter Daniel Kristoffersson. The journalist claims the Scottish Champions have submitted a new bid for the Rubin Kazan player and are still very keen to bring him in before the end of the window. Sead can play in both wings and as […]\nSource",
+          "link": "https://celtsarehere.com/new-celtic-bid-sead-haksabanovic-rumour/",
+          "publishedOn": "2022-08-17T12:04:18.000Z",
+          "wordCount": 13488,
+          "title": "New Celtic Bid: Sead Haksabanovic Rumour",
+          "imageUrl": "https://i0.wp.com/celtsarehere.com/wp-content/uploads/2020/12/transfer-update.jpg?fit=800%2C400&ssl=1"
+        },
+        {
+          "id": "https://www.67hailhail.com/news/report-celtic-plotting-return-for-sead-haksabanovic-after-turning-down-original-move-for-winger/",
+          "author": null,
+          "description": "Celtic are reportedly set to make another attempt to sign Rubin Kazan and Swedish winger Sead Haksabanovic. The 23-year-old is on the lookout for a new club this summer with just a few weeks left in the window, having had a disruptive six months at his current side. In March, Haksabanovic’s contract with Rubin Kazan ...\nThe post Report: Celtic plotting return for winger after turning down original move appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/report-celtic-plotting-return-for-sead-haksabanovic-after-turning-down-original-move-for-winger/",
+          "publishedOn": "2022-08-17T11:47:16.000Z",
+          "wordCount": 1943,
+          "title": "Report: Celtic plotting return for winger after turning down original move",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/08/GettyImages-1238838756-scaled.jpg"
+        },
+        {
+          "id": "https://thecelticstar.com/why-celtic-will-benefit-from-kirin-challenge-cup-moving-to-dusseldorf/",
+          "author": null,
+          "description": "The decision to move the Kirin Challenge Cup competition from the Far East to Dusseldorf in Germany this autumn is excellent news for Ange Postecoglou and the Celtic support. Japan will take on USA and Ecuador in the competition which will act as a World Cup warm-up and give the national team managers a chance Read More",
+          "link": "https://thecelticstar.com/why-celtic-will-benefit-from-kirin-challenge-cup-moving-to-dusseldorf/",
+          "publishedOn": "2022-08-17T11:46:59.000Z",
+          "wordCount": 1377,
+          "title": "Why Celtic will benefit from Kirin Challenge Cup moving to Dusseldorf",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/08/SPFL_DUTD_CELTIC_2193-1-1024x560.jpeg"
+        },
+        {
+          "id": "https://thecelticblog.com/2022/08/blogs/its-good-to-hear-celtic-players-relishing-the-competition-for-their-places/",
+          "author": null,
+          "description": "Yesterday, Greg Taylor was in the media talking about how he is relishing the battle for the left back slot. He may well say that, as right now he’s – pardon the awful pun – in the driver’s seat and likely to stay there. But his words echo others in the squad. Last week, I […]",
+          "link": "https://thecelticblog.com/2022/08/blogs/its-good-to-hear-celtic-players-relishing-the-competition-for-their-places/",
+          "publishedOn": "2022-08-17T11:33:13.000Z",
+          "wordCount": 1699,
+          "title": "It’s Good To Hear Celtic Players Relishing The Competition For Their Places.",
+          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2022/04/2022-04-09T155547Z_501744805_UP1EI49188Y0R_RTRMADP_3_SOCCER-SCOTLAND-CEL-STJ-REPORT-scaled.jpg"
+        },
+        {
+          "id": "https://www.footballtransfertavern.com/celtic-news/celtic-frank-mcaevnnie-tips-stephen-welsh-for-new-positional-role/",
+          "author": null,
+          "description": "Former Celtic striker Frank McAvennie has tipped Stephen Welsh to flourish in a new position moving forwards for Ange Postecoglou’s side.  The lowdown: Rising star A product of the Hoops academy, Welsh has come through the ranks at Lennoxtown and made a first-team debut aged 20 in February 2020 in a 4-1 victory over Hamilton […]",
+          "link": "https://www.footballtransfertavern.com/celtic-news/celtic-frank-mcaevnnie-tips-stephen-welsh-for-new-positional-role/",
+          "publishedOn": "2022-08-17T11:10:33.000Z",
+          "wordCount": 3516,
+          "title": "McAvennie: Ange may now unleash &#039;phenomenal&#039; Celtic prodigy in surprise new role",
+          "imageUrl": "https://cdn.footballtransfertavern.com/wp-content/uploads/2022/01/2021-12-09T201213Z_1407163834_UP1EHC91K4AHM_RTRMADP_3_SOCCER-EUROPA-CEL-BET-REPORT.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/news/celtic-continue-to-build-champions-league-excitement-releasing-footage-from-classic-encounter/",
+          "author": null,
+          "description": "Celtic have continued to build Champions League excitement, releasing footage from a classic encounter against Manchester United. The Hoops are preparing to embark upon the world’s most prestigious club tournament for the first time since 2017. Ange Postecoglou’s side earned automatic entry into the competition after lifting the Scottish Premiership title during the 56-year-olds first ...\nThe post Celtic continue to build UCL excitement releasing footage from classic encounter appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/celtic-continue-to-build-champions-league-excitement-releasing-footage-from-classic-encounter/",
+          "publishedOn": "2022-08-17T11:10:00.000Z",
+          "wordCount": 1955,
+          "title": "Celtic continue to build UCL excitement releasing footage from classic encounter",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/08/GettyImages-1242262456-scaled.jpg"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/we-need-to-be-honest-with-ourselves/",
+          "author": null,
+          "description": "I read in some places how poor PSV Eindhoven were last night.  PSV are not a poor team, they finished ahead of a Conference League finalist and two points behind a side who won all six of their Champions League group games last season. During the first half, they were harried out of their stride, [...]",
+          "link": "https://www.celticquicknews.co.uk/we-need-to-be-honest-with-ourselves/",
+          "publishedOn": "2022-08-17T11:02:09.000Z",
+          "wordCount": 4409,
+          "title": "We need to be honest with ourselves",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/news/celtic-handed-september-international-boost-as-japan-make-european-fixture-announcement/",
+          "author": null,
+          "description": "Celtic have been handed an international boost after Japan announced their fixtures during next month’s international break will be played in Europe. The Bhoys currently have a host of first-team players who regularly feature for their international sides across the globe. With an international break due to take place next month, members of the squad ...\nThe post Celtic handed September international boost as Japan make European fixture announcement appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/celtic-handed-september-international-boost-as-japan-make-european-fixture-announcement/",
+          "publishedOn": "2022-08-17T10:40:00.000Z",
+          "wordCount": 1997,
+          "title": "Celtic handed September international boost as Japan make European fixture announcement",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/01/GettyImages-1335413368-3-scaled.jpg"
+        },
+        {
+          "id": "https://thecelticblog.com/2022/08/articles-and-features/the-scotsmans-take-on-last-nights-game-at-ibrox-was-as-bizarre-as-it-was-ridiculous/",
+          "author": null,
+          "description": "If you watched the game at Ibrox last night you’ll know that you saw two teams who were very poor in terms of their overall quality. The Dutch surprised me on that score. They could barely string three passes together, which for a technical nation like Holland should be a contradiction in terms. This was […]",
+          "link": "https://thecelticblog.com/2022/08/articles-and-features/the-scotsmans-take-on-last-nights-game-at-ibrox-was-as-bizarre-as-it-was-ridiculous/",
+          "publishedOn": "2022-08-17T10:25:35.000Z",
+          "wordCount": 2199,
+          "title": "The Scotsman’s Take On Last Night’s Game At Ibrox Was As Bizarre As It Was Ridiculous.",
+          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2022/03/2021-11-21T172453Z_356045655_UP1EHBL1CDGRP_RTRMADP_3_SOCCER-SCOTLAND-RFC-HIB-REPORT-1-scaled.jpg"
+        },
+        {
+          "id": "https://celtsarehere.com/starfelt-explains-killie-goal-celebration/",
+          "author": null,
+          "description": "Carl Starfelt netted his first goal for Celtic on Sunday and is relishing the competition for places at the club. The Swede unfortunately missed out on all of Celtic’s pre-season due to a hamstring injury which he sustained while on international duty in June but has returned with a bang. This handed other players a […]\nSource",
+          "link": "https://celtsarehere.com/starfelt-explains-killie-goal-celebration/",
+          "publishedOn": "2022-08-17T09:46:00.000Z",
+          "wordCount": 14069,
+          "title": "Starfelt Explains Killie Goal Celebration",
+          "imageUrl": "https://i0.wp.com/celtsarehere.com/wp-content/uploads/2022/08/spfl22_23_killie_celtic_2305-scaled.jpg?fit=1971%2C2048&ssl=1"
+        },
+        {
+          "id": "https://www.67hailhail.com/news/stephen-welsh-fitness-latest-as-reason-for-celtic-defenders-kilmarnock-absence-revealed/",
+          "author": null,
+          "description": "Celtic defender Stephen Welsh missed last weekend’s 5-0 win over Kilmarnock as he continued to recover from a virus. The 22-year-old started the campaign as part of the Hoops back four after featuring regularly alongside Cameron Carter-Vickers in pre-season. And the defender couldn’t have kicked off his season any better, keeping a clean sheet and ...\nThe post Stephen Welsh fitness latest as reason for Celtic defenders Kilmarnock absence revealed appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/stephen-welsh-fitness-latest-as-reason-for-celtic-defenders-kilmarnock-absence-revealed/",
+          "publishedOn": "2022-08-17T09:40:00.000Z",
+          "wordCount": 2091,
+          "title": "Stephen Welsh fitness latest as reason for Celtic defenders Kilmarnock absence revealed",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/08/GettyImages-1242230777-1-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/news/ange-postecoglou-lauds-impressive-element-of-celtics-attacking-play/",
+          "author": null,
+          "description": "Celtic boss Ange Postecoglou has expressed his delight at seeing his side scoring goals from multiple avenues across the pitch. The Hoops have kicked off the season in fine form, picking up nine points from their first three games against Aberdeen, Ross County and Kilmarnock. Postecoglou’s side has continued to show their attacking prowess, scoring ...\nThe post Ange Postecoglou lauds impressive element of Celtic&#039;s free-flowing attacking play appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/ange-postecoglou-lauds-impressive-element-of-celtics-attacking-play/",
+          "publishedOn": "2022-08-17T09:10:00.000Z",
+          "wordCount": 2065,
+          "title": "Ange Postecoglou lauds impressive element of Celtic&#039;s free-flowing attacking play",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/04/GettyImages-1381403873-scaled.jpg"
+        },
         {
           "id": "https://celtsarehere.com/taylor-opens-up-about-ange-postecoglou/",
           "author": null,
@@ -2261,46 +2381,6 @@
           "wordCount": 1480,
           "title": "Celtic On This Day – 13th August – David Potter’s Celtic Diary",
           "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/08/image-154-1024x765.jpeg"
-        },
-        {
-          "id": "https://thecelticstar.com/the-kano-foundation-an-evening-of-international-boxing/",
-          "author": null,
-          "description": "Enjoy an evening of International Boxing in aid of The Kano Foundation as a Scotland Select take on an Ireland Select on Saturday 17 September at the Kerrydale Suite at Celtic Park.  Boxers from both Scotland and Ireland will fight it out for a fantastic cause that is close to heart of the Celtic support.Doors Read More",
-          "link": "https://thecelticstar.com/the-kano-foundation-an-evening-of-international-boxing/",
-          "publishedOn": "2022-08-12T23:03:14.000Z",
-          "wordCount": 1126,
-          "title": "The Kano Foundation – An evening of International Boxing",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2021/02/58383588_1998765926915499_6598100979713835008_n-600x400.jpg"
-        },
-        {
-          "id": "https://thecelticstar.com/juranovic-recommended-to-ten-hag-by-assistant-coach-steve-mcclaren/",
-          "author": null,
-          "description": "According to a report by 90min, the reputed rumour surrounding Manchester United’s possible interest in Celtic right-back Josip Juranovic came from Erik ten Hag’s assistant coach, Steve McClaren. McClaren was brought to Old Trafford as part of the Dutchman’s backroom staff after Ralf Rangnick was relieved of his temporary duties as head coach.The Manchester club Read More",
-          "link": "https://thecelticstar.com/juranovic-recommended-to-ten-hag-by-assistant-coach-steve-mcclaren/",
-          "publishedOn": "2022-08-12T22:05:22.000Z",
-          "wordCount": 1274,
-          "title": "Juranovic recommended to Ten Hag by assistant coach Steve McClaren",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/07/celtic-champions-training-day-35-1024x713.jpeg"
-        },
-        {
-          "id": "https://thecelticstar.com/rogic-in-possible-retirement-rumour/",
-          "author": null,
-          "description": "It has been reported that our former Aussie playmaker Tom Rogic could be set to retire, just months after leaving Celtic as a free agent. The Wizard of Oz brought the curtain down on nine years of wonderful service at Parkhead as we won the League and Cup double under fellow countryman Ange Postecoglou. A Read More",
-          "link": "https://thecelticstar.com/rogic-in-possible-retirement-rumour/",
-          "publishedOn": "2022-08-12T21:47:29.000Z",
-          "wordCount": 1514,
-          "title": "Rogic in possible retirement rumour",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/05/celtic-v-motherwell-cinch-scottish-premiership-67-1024x748.jpg"
-        },
-        {
-          "id": "https://thecelticstar.com/van-hooijdonk-kyogo-and-giakoumakis-could-be-anges-deadly-duo/",
-          "author": null,
-          "description": "Former Celtic striker Pierre van Hooijdonk has claimed that Ange Postecoglou should unleash Kyogo Furuhashi and Giorgos Giakoumakis together on defences in Scotland and Europe. The two players have only been on the pitch together for 145 minutes as it goes, but managed 13 minutes together in Celtic’s excellent comeback against Ross County last weekend Read More",
-          "link": "https://thecelticstar.com/van-hooijdonk-kyogo-and-giakoumakis-could-be-anges-deadly-duo/",
-          "publishedOn": "2022-08-12T21:24:12.000Z",
-          "wordCount": 1523,
-          "title": "Van Hooijdonk: Kyogo and Giakoumakis could be Ange’s Deadly Duo",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/08/SPFL22_23_ROSSCOUNTY_CELTIC_1699-1024x750.jpeg"
         }
       ]
     },
@@ -2310,6 +2390,26 @@
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
         {
+          "id": "CAIiEBwJ54YgDtiBvbyJtFv-ZhoqGQgEKhAIACoHCAowr5GNCzDFxJ4DMLbFpgY",
+          "author": null,
+          "description": "Celtic continue to build Champions League excitement releasing footage from classic encounter  67 Hail Hail - Celtic FC News",
+          "link": "https://www.67hailhail.com/news/celtic-continue-to-build-champions-league-excitement-releasing-footage-from-classic-encounter/",
+          "publishedOn": "2022-08-17T11:10:00.000Z",
+          "wordCount": 1955,
+          "title": "Celtic continue to build Champions League excitement releasing footage from classic encounter - 67 Hail Hail - Celtic FC News",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/08/GettyImages-1242262456-scaled.jpg"
+        },
+        {
+          "id": "CAIiEI2B7ihhGyiRvL4hz7_8tpwqGQgEKhAIACoHCAowrueiCTDmn7gCMKXUtwU",
+          "author": null,
+          "description": "Ryan Mmaee to Celtic transfer latest as Ferencvaros chief reveals 'offers on the table'  Daily Record",
+          "link": "https://www.dailyrecord.co.uk/sport/football/football-transfer-news/ryan-mmaee-celtic-transfer-latest-27761286",
+          "publishedOn": "2022-08-17T09:45:55.000Z",
+          "wordCount": 3009,
+          "title": "Ryan Mmaee to Celtic transfer latest as Ferencvaros chief reveals 'offers on the table' - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article27067465.ece/ALTERNATES/s1200/0_JS267499052.jpg"
+        },
+        {
           "id": "CAIiECVcvaxEbgvlJTBc1d049b0qGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY",
           "author": null,
           "description": "Celtic v Spartans: Rare bout of common sense as Celtic brings forward Sunday’s kick-off time  The Celtic Star",
@@ -2318,6 +2418,16 @@
           "wordCount": 1637,
           "title": "Celtic v Spartans: Rare bout of common sense as Celtic brings forward Sunday’s kick-off time - The Celtic Star",
           "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/08/huddle_1786-1024x682.jpeg"
+        },
+        {
+          "id": "CAIiEFs28ROX0DA_ekh1IDuMfKUqGQgEKhAIACoHCAowrueiCTDmn7gCMOjNtwU",
+          "author": null,
+          "description": "Ally McCoist outnumbered over Dele Alli to Celtic or Rangers claim  Daily Record",
+          "link": "https://www.dailyrecord.co.uk/sport/football/football-transfer-news/dele-alli-sparks-celtic-rangers-27760182",
+          "publishedOn": "2022-08-17T08:36:14.000Z",
+          "wordCount": 3225,
+          "title": "Ally McCoist outnumbered over Dele Alli to Celtic or Rangers claim - Daily Record",
+          "imageUrl": "https://i2-prod.mirror.co.uk/incoming/article27662726.ece/ALTERNATES/s1200/0_GettyImages-1242102318.jpg"
         },
         {
           "id": "CAIiEOBYpvPFvYuTS0QdWb9mrvkqGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY",
@@ -3038,36 +3148,6 @@
           "wordCount": 3623,
           "title": "Matt O'Riley was no Celtic secret agent in Moritz Jenz deal but is loving 'crazy' Parkhead reunion - Daily Record",
           "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article27728759.ece/ALTERNATES/s1200/0_JS274488067.jpg"
-        },
-        {
-          "id": "CAIiEPl9nRXmWtSdv3xL-O0i868qGQgEKhAIACoHCAowsJStCzC9n8UDMNiMswc",
-          "author": null,
-          "description": "John Kennedy's Celtic future 'in his own hands' says Ange Postecoglou amid FC Midtjylland links  Celtic Way",
-          "link": "https://www.celticway.co.uk/news/20630011.john-kennedys-celtic-future-in-hands-says-ange-postecoglou-amid-fc-midtjylland-links/",
-          "publishedOn": "2022-08-12T21:30:00.000Z",
-          "wordCount": 8044,
-          "title": "John Kennedy's Celtic future 'in his own hands' says Ange Postecoglou amid FC Midtjylland links - Celtic Way",
-          "imageUrl": "https://www.celticway.co.uk/resources/images/14392690/?type=og-image"
-        },
-        {
-          "id": "CAIiED2AyHAQZzfp-bbaew_XLPIqGQgEKhAIACoHCAowrueiCTDmn7gCMKXUtwU",
-          "author": null,
-          "description": "Kilmarnock v Celtic: Rory McKenzie wants another special day against Premiership champions  Daily Record",
-          "link": "https://www.dailyrecord.co.uk/ayrshire/kilmarnock-v-celtic-rory-mckenzie-27727079",
-          "publishedOn": "2022-08-12T21:30:00.000Z",
-          "wordCount": 3330,
-          "title": "Kilmarnock v Celtic: Rory McKenzie wants another special day against Premiership champions - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article27727090.ece/ALTERNATES/s1200/0_Kilmarnock-v-Celtic-Ladbrokes-Scottish-Premiership.jpg"
-        },
-        {
-          "id": "CAIiEGLjfTE53JdH1YFLvsDBCzMqGQgEKhAIACoHCAowsJStCzC9n8UDMNiMswc",
-          "author": null,
-          "description": "Matt O'Riley hopes to create Celtic memories with pal Moritz Jenz as he explains why defender will be a success  Celtic Way",
-          "link": "https://www.celticway.co.uk/news/20630097.matt-oriley-hopes-create-celtic-memories-pal-moritz-jenz-explains-defender-will-success/",
-          "publishedOn": "2022-08-12T21:30:00.000Z",
-          "wordCount": 8646,
-          "title": "Matt O'Riley hopes to create Celtic memories with pal Moritz Jenz as he explains why defender will be a success - Celtic Way",
-          "imageUrl": "https://www.celticway.co.uk/resources/images/14392866/?type=og-image"
         }
       ]
     },
@@ -3076,6 +3156,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "aba088063e5565f9a6d38aa231b94c05",
+          "author": null,
+          "description": "The Arsenal defender has opened up on his spell on the sidelines",
+          "link": "https://www.glasgowtimes.co.uk/sport/20667522.bizarre-reason-behind-former-celtic-star-kieran-tierneys-injury-kept-scotlands-world-cup-playoff/?ref=rss",
+          "publishedOn": "2022-08-17T09:53:00.000Z",
+          "wordCount": 8238,
+          "title": "Inside Kieran Tierney's 'knee collapse' as former Celtic star's horrific injury mystery cleared up",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/14482887/?type=og-image"
+        },
         {
           "id": "bf8e36c3a7088a81f2a1bcce4785d6eb",
           "author": null,
@@ -3465,36 +3555,6 @@
           "wordCount": 8635,
           "title": "Kris Boyd in staunch Sky defence as Rangers legend calls out 'nowhere to be seen' TV rivals",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/14366425/?type=og-image"
-        },
-        {
-          "id": "6167aefe2cf42b48b206ff763209aed3",
-          "author": null,
-          "description": "ANGE POSTECOGLOU won’t stand in John Kennedy’s way should he wish to move into management, saying he wouldn’t be surprised if clubs were interested in his ‘outstanding’ assistant coach.",
-          "link": "https://www.glasgowtimes.co.uk/sport/20630011.john-kennedys-celtic-future-in-hands-says-ange-postecoglou-amid-fc-midtjylland-links/?ref=rss",
-          "publishedOn": "2022-08-12T21:30:00.000Z",
-          "wordCount": 8672,
-          "title": "John Kennedy’s Celtic future ‘in his own hands’ says Ange Postecoglou amid FC Midtjylland links",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/14392690/?type=og-image"
-        },
-        {
-          "id": "d9633b8af66e0fc8f4def27e20f5202f",
-          "author": null,
-          "description": "NO matter who a footballer is, or the size of the club they play for, the mention of their name in the same sentence as the likes of Atletico Madrid, Chelsea and Manchester United is bound to prick their ears up a little.",
-          "link": "https://www.glasgowtimes.co.uk/sport/20630041.ange-postecoglou-says-josip-juranovic-unaffected-speculation-lauds-celtic-platform/?ref=rss",
-          "publishedOn": "2022-08-12T21:30:00.000Z",
-          "wordCount": 8633,
-          "title": "Ange Postecoglou says Josip Juranovic unaffected by speculation as he lauds Celtic ‘platform’",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/14392750/?type=og-image"
-        },
-        {
-          "id": "16e9c44cd1e52fe1a469a14937a8b3e4",
-          "author": null,
-          "description": "THERE may have been some Celtic supporters who were already familiar with Moritz Jenz before he was signed by the club, given that reports of Ange Postecoglou’s interest in the big centre-back stretch all the way back to last summer.",
-          "link": "https://www.glasgowtimes.co.uk/sport/20630097.matt-oriley-hopes-create-celtic-memories-pal-moritz-jenz-explains-defender-will-success/?ref=rss",
-          "publishedOn": "2022-08-12T21:30:00.000Z",
-          "wordCount": 9274,
-          "title": "Matt O’Riley hopes to create Celtic memories with pal Moritz Jenz as he explains why defender will be a success",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/14392866/?type=og-image"
         }
       ]
     }
