@@ -6,6 +6,26 @@
       "siteUrl": "https://www.scotsman.com//sport/football/celtic",
       "articles": [
         {
+          "id": "3812923",
+          "author": "Ross McLeish",
+          "description": "Shayden Morris seized the chance to sign for Aberdeen following a ringing endorsement of the club from his then Fleetwood manager, Scott Brown.",
+          "link": "https://www.scotsman.com/sport/football/scott-brown-assisting-aberdeen-with-transfers-as-ex-celtic-captain-plays-part-in-move-3812923",
+          "publishedOn": "2022-08-19T14:52:57.000Z",
+          "wordCount": 2157,
+          "title": "Scott Brown assisting Aberdeen with transfers as ex-Celtic captain plays part in move",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjc3N2E1MTBhLWU3ZmMtNDQyMS05NTMyLTU3MWY5NDZhNTI1ZDpkYjFlZGRiOS1iZmE4LTQ2YjUtYWI2ZC1mODM5YzVlZTIzYmY=.jpg?width=1200&enable=upscale"
+        },
+        {
+          "id": "3812783",
+          "author": "Mark Atkinson",
+          "description": "Alexandro Bernabei is available for Celtic’s match against Hearts on Sunday despite being arrested on Monday over an alleged drink-driving offence.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtic-news-ange-postecoglou-has-say-on-reo-hatate-sead-haksabanovic-and-alexandro-bernabei-situations-3812783",
+          "publishedOn": "2022-08-19T13:58:46.000Z",
+          "wordCount": 1818,
+          "title": "Celtic news: Ange Postecoglou has say on Reo Hatate, Sead Haksabanovic and Alexandro Bernabei situations",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjRjZGRkZDA4LWNhNzUtNDBkOC1iMmUwLTNkMWQxZWZiN2ZlNzpiZDUyYWE1OS04YWZmLTQ1NWUtYTVkYy1iNWM3ZGEzYWQ3YzQ=.jpg?width=1200&enable=upscale"
+        },
+        {
           "id": "3812462",
           "author": "David Oliver",
           "description": "Hearts’ Thursday night European endeavours in Switzerland mean the Jambos are on Sunday service against champions Celtic.",
@@ -282,6 +302,136 @@
       "feedUrl": "http://armchaircelts.co.uk/wprss",
       "siteUrl": "http://armchaircelts.co.uk/feed/wprss/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/transfers/celtic-boss-ange-postecoglou-targets-loan-move-so-attacker-can-realise-potential/",
+          "author": null,
+          "description": "Celtic boss Ange Postecoglou is hoping Mikey Johnston can find a loan move in the closing stages of the summer transfer window so everyone can see his “outstanding talent” playing regularly. Johnston is struggling to get any game time at the Bhoys right now, with reports indicating Sead Haksabanovic will be a further addition to ...\nThe post Ange provides update on needed Celtic outgoings before transfer window shuts appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/transfers/celtic-boss-ange-postecoglou-targets-loan-move-so-attacker-can-realise-potential/",
+          "publishedOn": "2022-08-19T14:57:27.000Z",
+          "wordCount": 1785,
+          "title": "Ange provides update on needed Celtic outgoings before transfer window shuts",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/08/GettyImages-1242056144-scaled.jpg"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/bernabei-go-ahead/",
+          "author": null,
+          "description": "ALEXANDRO BERNABEI will almost certainly be in the Celtic squad for the visit of Hearts on Sunday. The left-back, who cost £3.75million from top-flight Argentinian club Lanus in the summer, will be available for selection, despite his arrest over an alleged drink-drive offence at the weekend. Bernabei, 21, has yet to make a first-team appearance [...]",
+          "link": "https://www.celticquicknews.co.uk/bernabei-go-ahead/",
+          "publishedOn": "2022-08-19T14:49:12.000Z",
+          "wordCount": 2509,
+          "title": "BERNABEI GO-AHEAD",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/08/ALEXANDRO-BERNABI-FRD.png"
+        },
+        {
+          "id": "https://thecelticstar.com/no-more-business-says-alonso-i-am-very-happy-with-the-effort-that-the-club-has-done-to-support-the-team/",
+          "author": null,
+          "description": "When it comes to team selection and formation, Celtic head coach Fran Alonso intends to keep the opposition – and supporters – guessing as the season unfolds.Celtic have already started the SWPL season in scintillating form, with eleven goals scored and none conceded in a 9-0 win over Hibs – and last time out with Read More",
+          "link": "https://thecelticstar.com/no-more-business-says-alonso-i-am-very-happy-with-the-effort-that-the-club-has-done-to-support-the-team/",
+          "publishedOn": "2022-08-19T14:33:03.000Z",
+          "wordCount": 2021,
+          "title": "No more business says Alonso: “I am very happy with the effort that the club has done to support the team”",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/08/alonso_2750-682x1024-1.jpeg"
+        },
+        {
+          "id": "https://www.67hailhail.com/news/uefa-strike-record-1-5bn-deal-with-us-broadcaster-and-celtic-will-want-a-part-of-it/",
+          "author": null,
+          "description": "Reports this afternoon have confirmed that UEFA has agreed a new record-breaking broadcast deal for the US media rights worth $1.5billion [The Athletic]. Broadcast companies CBS, Viacom and Paramount fought off competition from Amazon to agree a six-year deal to acquire the rights. The total package paid is believed to be worth $1.5billion, which breaks ...\nThe post Report: UEFA strike record $1.5bn deal with US broadcaster and Celtic will want a part of it appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/uefa-strike-record-1-5bn-deal-with-us-broadcaster-and-celtic-will-want-a-part-of-it/",
+          "publishedOn": "2022-08-19T14:00:00.000Z",
+          "wordCount": 2036,
+          "title": "Report: UEFA strike record $1.5bn deal with US broadcaster and Celtic will want a part of it",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2021/12/GettyImages-1237088120-scaled.jpg"
+        },
+        {
+          "id": "https://celtsarehere.com/ange-brands-celtic-fringe-player-outstanding-talent/",
+          "author": null,
+          "description": "MIKEY JOHNSTON has been linked with a few loan moves away from Celtic over the past few weeks but is yet to seal a move. As far as the reports have informed us, no loan deal is imminent for the winger. Ange Postecoglou has spoken about how he’s keen to get the player some minutes, […]\nSource",
+          "link": "https://celtsarehere.com/ange-brands-celtic-fringe-player-outstanding-talent/",
+          "publishedOn": "2022-08-19T13:46:54.000Z",
+          "wordCount": 13465,
+          "title": "Ange Brands Celtic Fringe Player ‘Outstanding Talent’",
+          "imageUrl": "https://i0.wp.com/celtsarehere.com/wp-content/uploads/2022/07/2021-12-09T215027Z_1179632192_UP1EHC91OO0PF_RTRMADP_3_SOCCER-EUROPA-CEL-BET-REPORT-scaled.jpg?fit=800%2C571&ssl=1"
+        },
+        {
+          "id": "https://thecelticblog.com/2022/08/articles-and-features/celtic-is-going-after-a-multi-role-footballer-who-ticks-all-the-ange-ball-boxes/",
+          "author": null,
+          "description": "The stories about Sead Haksabanovic continue to gather pace. It looks as if there is more to them than silly internet speculation. Ange was asked about them this afternoon, and he did not deny the stories and said that he would only talk when something is being announced. This one looks good, and it looks […]",
+          "link": "https://thecelticblog.com/2022/08/articles-and-features/celtic-is-going-after-a-multi-role-footballer-who-ticks-all-the-ange-ball-boxes/",
+          "publishedOn": "2022-08-19T13:41:17.000Z",
+          "wordCount": 1833,
+          "title": "Celtic Is Going After A Multi-Role Footballer Who Ticks All The Ange-Ball Boxes.",
+          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2022/08/2022-06-11T201934Z_1496559018_UP1EI6B1KGKBQ_RTRMADP_3_SOCCER-UEFANATIONS-MNE-BIH-REPORT-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/news/ange-postecoglous-full-friday-transfer-comments-as-hes-asked-about-haksabanovic-to-celtic/",
+          "author": null,
+          "description": "Ange Postecoglou refused to be drawn on reports linking Celtic to Sead Haksabanovic, but did reiterate he is still looking for versatile players in the closing stages of the transfer window. Haksabanovic is said to be close to a move to the Bhoys from Rubin Kazan, with some outlets even reporting he could undergo a ...\nThe post Ange Postecoglou&#039;s full Friday transfer comments as he&#039;s asked about Haksabanovic to Celtic appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/ange-postecoglous-full-friday-transfer-comments-as-hes-asked-about-haksabanovic-to-celtic/",
+          "publishedOn": "2022-08-19T13:27:24.000Z",
+          "wordCount": 1857,
+          "title": "Ange Postecoglou&#039;s full Friday transfer comments as he&#039;s asked about Haksabanovic to Celtic",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/08/GettyImages-1241246992-scaled.jpg"
+        },
+        {
+          "id": "https://celtsarehere.com/postecoglou-responds-to-sead-haksabanovic-rumours/",
+          "author": null,
+          "description": "Sead Haksabanovic is said to be nearing a move to Celtic, with the Hoops grabbing him for a slashed fee from Rusian side Ruben Kazan. Ange has refused to rule a move for the player out but didn’t give much away in the pre-match press conference for the Hearts game. Interestingly, the manager never rolled […]\nSource",
+          "link": "https://celtsarehere.com/postecoglou-responds-to-sead-haksabanovic-rumours/",
+          "publishedOn": "2022-08-19T13:27:17.000Z",
+          "wordCount": 13467,
+          "title": "Postecoglou Responds to Sead Haksabanovic Rumours",
+          "imageUrl": "https://i0.wp.com/celtsarehere.com/wp-content/uploads/2022/08/img_5367.jpg?fit=1789%2C1212&ssl=1"
+        },
+        {
+          "id": "https://thecelticstar.com/the-club-have-been-brilliant-they-did-something-that-i-thought-was-clever-fran-alonso/",
+          "author": null,
+          "description": "Fran Alonso is looking forward to his Celtic FC Women’s side returning to the Excelsior Stadium this weekend – and not simply because the Hoops started the season there with an incredible win 9-0 win over Hibs.Instead, after last weekend’s 2-0 away win over Partick Thistle, at a dry and narrow Petershill Park, a return Read More",
+          "link": "https://thecelticstar.com/the-club-have-been-brilliant-they-did-something-that-i-thought-was-clever-fran-alonso/",
+          "publishedOn": "2022-08-19T13:15:02.000Z",
+          "wordCount": 1664,
+          "title": "“The club have been brilliant, they did something that I thought was clever,” Fran Alonso",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/08/clifford_goal2632-1024x682.jpeg"
+        },
+        {
+          "id": "https://celtsarehere.com/postecoglou-provides-alexandro-bernabei-incident-update/",
+          "author": null,
+          "description": "ALEXANDRO BERNABEI was charged with a drink driving offence in the early hours of Monday morning. He was taken to the police station before being released later that day. The player has continued training with the club and will be available for Sunday’s match against Hearts, Ange Postecoglou has confirmed on Friday. The manager did […]\nSource",
+          "link": "https://celtsarehere.com/postecoglou-provides-alexandro-bernabei-incident-update/",
+          "publishedOn": "2022-08-19T13:12:17.000Z",
+          "wordCount": 13450,
+          "title": "Postecoglou Provides Alexandro Bernabei ‘Incident’ Update",
+          "imageUrl": "https://i0.wp.com/celtsarehere.com/wp-content/uploads/2022/08/spfl22_23_rosscounty_celtic_0130-scaled.jpg?fit=2048%2C1999&ssl=1"
+        },
+        {
+          "id": "https://www.67hailhail.com/news/celtic-boss-ange-postecoglou-provides-update-on-alexandro-bernabei/",
+          "author": null,
+          "description": "Alexandro Bernabei is in Celtic training and available for Sunday’s match against Aberdeen, despite recent off-the-field issues. It was reported by BBC Scotland earlier this week that the Bhoys defender had been charged following an alleged road traffic incident, leading some to reasonably wonder what his Celtic status was. Postecoglou was asked about the left-back ...\nThe post Celtic boss Ange Postecoglou provides update on Alexandro Bernabei appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/celtic-boss-ange-postecoglou-provides-update-on-alexandro-bernabei/",
+          "publishedOn": "2022-08-19T13:06:17.000Z",
+          "wordCount": 1767,
+          "title": "Celtic boss Ange Postecoglou provides update on Alexandro Bernabei",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/07/GettyImages-1242018118-scaled.jpg"
+        },
+        {
+          "id": "https://celtsarehere.com/reo-hatate-injury-update/",
+          "author": null,
+          "description": "REO HATATE has been given the all-clear for Sunday’s match against Hearts, after spending a couple of weeks on the sidelines with a knock. Ange confirmed in the pre-match press conference that the midfielder would be back in the squad for the fourth match of the season. Fellow fan media outlet Celtic Fans TV relayed […]\nSource",
+          "link": "https://celtsarehere.com/reo-hatate-injury-update/",
+          "publishedOn": "2022-08-19T13:03:09.000Z",
+          "wordCount": 13453,
+          "title": "Reo Hatate Injury Update",
+          "imageUrl": "https://i0.wp.com/celtsarehere.com/wp-content/uploads/2022/07/img_0715-scaled.jpg?fit=2048%2C1369&ssl=1"
+        },
+        {
+          "id": "https://www.67hailhail.com/news/ange-postecoglou-confirms-reo-hatate-is-back-in-contention-for-celtic-squad-against-hearts/",
+          "author": null,
+          "description": "Celtic boss Ange Postecoglou has confirmed that Reo Hatate is fit and available for selection ahead of Sunday’s game against Hearts. The 24-year-old made a positive start to the new season, putting in some impressive performances during his first pre-season in Glasgow. Hatate also took his place in the starting line-up for the Bhoys Scottish ...\nThe post Ange Postecoglou confirms returning midfielder available for Celtic squad against Hearts appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/ange-postecoglou-confirms-reo-hatate-is-back-in-contention-for-celtic-squad-against-hearts/",
+          "publishedOn": "2022-08-19T12:50:00.000Z",
+          "wordCount": 2035,
+          "title": "Ange Postecoglou confirms returning midfielder available for Celtic squad against Hearts",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/01/GettyImages-1367028390-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/news/midfielder-who-impressed-ange-postecoglou-faces-spell-on-the-sidelines-after-celtic-interest/",
           "author": null,
@@ -2271,16 +2421,6 @@
           "wordCount": 13524,
           "title": "Ross Barkley Celtic Rumours Continue",
           "imageUrl": "https://i0.wp.com/celtsarehere.com/wp-content/uploads/2022/08/img_5191.jpg?fit=1546%2C1020&ssl=1"
-        },
-        {
-          "id": "https://thecelticstar.com/celtic-join-global-fantasy-sports-game-with-digital-cards-of-hoops-stars/",
-          "author": null,
-          "description": "Celtic recently joined Sorare, the global fantasy sports game, launching online cards for its players within the Sorare platform.The partnership means that fans, collectors and fantasy football players globally will now be able to collect, play and trade with digital cards of Celtic’s players on the Sorare platform, including captain Callum McGregor, striker Kyogo Furuhashi Read More",
-          "link": "https://thecelticstar.com/celtic-join-global-fantasy-sports-game-with-digital-cards-of-hoops-stars/",
-          "publishedOn": "2022-08-15T00:56:00.000Z",
-          "wordCount": 1331,
-          "title": "Celtic join global fantasy sports game with digital cards of Hoops stars",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/08/SPFL22_23_KILLIE_CELTIC_0688-1024x638.jpeg"
         }
       ]
     },
@@ -2289,6 +2429,46 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CAIiEI-jGWgEftVFYSmfZ4OvjUcqGQgEKhAIACoHCAowrueiCTDmn7gCMKXUtwU",
+          "author": null,
+          "description": "Celtic and Rangers on Champions League alert as UEFA strike gold with eye-watering USA deal  Daily Record",
+          "link": "https://www.dailyrecord.co.uk/sport/football/football-news/celtic-rangers-champions-league-alert-27784544",
+          "publishedOn": "2022-08-19T13:53:27.000Z",
+          "wordCount": 3137,
+          "title": "Celtic and Rangers on Champions League alert as UEFA strike gold with eye-watering USA deal - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article27020204.ece/ALTERNATES/s1200/0_Champions-League-Group-Stage-Draw.jpg"
+        },
+        {
+          "id": "CAIiEKMhI_RAXux0tIaBb3QhTuIqGQgEKhAIACoHCAowrueiCTDmn7gCMIfHtwU",
+          "author": null,
+          "description": "Alexandro Bernabei available for Celtic after drink drive charge  Daily Record",
+          "link": "https://www.dailyrecord.co.uk/sport/football/football-news/alexandro-bernabei-available-celtic-clash-27782830",
+          "publishedOn": "2022-08-19T13:27:01.000Z",
+          "wordCount": 3036,
+          "title": "Alexandro Bernabei available for Celtic after drink drive charge - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article27728400.ece/ALTERNATES/s1200/0_Screenshot-2022-08-12-at-173456.png"
+        },
+        {
+          "id": "CAIiEFkX4QCh1Nsj06Y8Yiny_LEqGQgEKhAIACoHCAow96D9CjDOy_QCMPvp0wU",
+          "author": null,
+          "description": "How to watch Celtic vs Hearts: TV channel, kick-off time and live stream details  Glasgow Live",
+          "link": "https://www.glasgowlive.co.uk/sport/how-watch-celtic-vs-hearts-24802420",
+          "publishedOn": "2022-08-19T13:20:45.000Z",
+          "wordCount": 3645,
+          "title": "How to watch Celtic vs Hearts: TV channel, kick-off time and live stream details - Glasgow Live",
+          "imageUrl": "https://i2-prod.glasgowlive.co.uk/incoming/article24802427.ece/ALTERNATES/s1200/0_JS241248101.jpg"
+        },
+        {
+          "id": "CBMiVmh0dHBzOi8vd3d3Lm1lYXRoY2hyb25pY2xlLmllLzIwMjIvMDgvMTkvYXRoYm95LWNlbHRpYy1mYy1zZWVrLWhlYWQtb2Ytd29tZW5zLXNlY3Rpb24v0gEA",
+          "author": null,
+          "description": "Athboy Celtic FC seek head of women’s section  Meath Chronicle",
+          "link": "https://www.meathchronicle.ie/2022/08/19/athboy-celtic-fc-seek-head-of-womens-section/",
+          "publishedOn": "2022-08-19T13:02:42.000Z",
+          "wordCount": 1318,
+          "title": "Athboy Celtic FC seek head of women’s section - Meath Chronicle",
+          "imageUrl": "https://imengine.public.prod.cmg.infomaker.io?uuid=9e8239d4-8153-5501-8b56-527b2c14e42c&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.97259&x=0&y=0&width=1200&height=675"
+        },
         {
           "id": "CAIiEN2bi4OmUkzNmTcbAdYmVxwqGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY",
           "author": null,
@@ -2358,6 +2538,16 @@
           "wordCount": 3035,
           "title": "Ultimate Celtic motor hits social media as hooped-up car includes personalised Scott Brown touch - Daily Record",
           "imageUrl": "https://i2-prod.dailyrecord.co.uk/sport/football/football-news/article27780229.ece/ALTERNATES/s1200/0_Screen-Shot-2022-08-19-at-090903.png"
+        },
+        {
+          "id": "CAIiEJcPqIv8oxtYYOmTBgq9X84qGQgEKhAIACoHCAow_-CqCzD868IDMPPfoQc",
+          "author": null,
+          "description": "Haksabanovic set for Celtic medical as Ange Postecoglou hailed 'ideal' coach  Football Scotland",
+          "link": "https://www.footballscotland.co.uk/spfl/scottish-premiership/sead-haksabanovic-set-celtic-medical-24797290",
+          "publishedOn": "2022-08-19T07:14:07.000Z",
+          "wordCount": 2570,
+          "title": "Haksabanovic set for Celtic medical as Ange Postecoglou hailed 'ideal' coach - Football Scotland",
+          "imageUrl": "https://i2-prod.footballscotland.co.uk/incoming/article24797367.ece/ALTERNATES/s1200/0_GettyImages-1235108614.jpg"
         },
         {
           "id": "CAIiENO2G5GHM75E9ycYLWCy_00qGQgEKhAIACoHCAow96D9CjDOy_QCMKzp0wU",
@@ -3056,6 +3246,56 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "3bf9675cc4571844373d706cc33da3bb",
+          "author": null,
+          "description": "RANGERS and Celtic are set to benefit from a jaw-dropping £1.2billion UEFA TV deal.",
+          "link": "https://www.glasgowtimes.co.uk/sport/20675932.rangers-celtic-set-benefit-1-2bn-tv-deal-jaw-dropping-contract-agreed/?ref=rss",
+          "publishedOn": "2022-08-19T14:59:59.000Z",
+          "wordCount": 8134,
+          "title": "Rangers and Celtic set to benefit from £1.2bn TV deal as jaw-dropping contract agreed",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/14497846/?type=og-image"
+        },
+        {
+          "id": "1b3e958449eb65ab5e26cb637f981d9d",
+          "author": null,
+          "description": "REO HATATE is back available for selection in Celtic's Scottish Premiership match against Hearts this weekend.",
+          "link": "https://www.glasgowtimes.co.uk/sport/20675650.reo-hatate-given-celtic-comeback-all-clear-ange-postecoglou-explains-return-wait/?ref=rss",
+          "publishedOn": "2022-08-19T14:31:05.000Z",
+          "wordCount": 8062,
+          "title": "Reo Hatate given Celtic comeback all-clear as Ange Postecoglou explains return wait",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/14497678/?type=og-image"
+        },
+        {
+          "id": "5540b10a4b987701069a9595f0380949",
+          "author": null,
+          "description": "Celtic are being heavily linked with Rubin Kazan winger Sead Haksabanovic, according to various reports.",
+          "link": "https://www.glasgowtimes.co.uk/sport/20675329.celtic-transfer-target-sead-haksabanovic-everything-need-know/?ref=rss",
+          "publishedOn": "2022-08-19T13:54:38.000Z",
+          "wordCount": 8792,
+          "title": "Celtic transfer target Sead Haksabanovic: Everything you need to know",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/14497071/?type=og-image"
+        },
+        {
+          "id": "9218c7b2cc93a1d01ef5484fb697dd21",
+          "author": null,
+          "description": "ANGE POSTECOGLOU has confirmed Alexandro Bernabei is available for Sunday's clash against Hearts after an alleged incident in Glasgow.",
+          "link": "https://www.glasgowtimes.co.uk/sport/20675222.ange-postecoglou-provides-alexandro-bernabei-celtic-update-glasgow-arrest/?ref=rss",
+          "publishedOn": "2022-08-19T13:44:19.000Z",
+          "wordCount": 8024,
+          "title": "Ange Postecoglou provides Alexandro Bernabei Celtic update after Glasgow arrest",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/14496681/?type=og-image"
+        },
+        {
+          "id": "ce396ab00155b189010c7c9413bcbe5a",
+          "author": null,
+          "description": "Celtic transfer target Sead Haskabanovic will be 'impossible to replace' at Rubin Kazan, according to their manager Lenod Slutsky.",
+          "link": "https://www.glasgowtimes.co.uk/sport/20674515.celtic-transfer-target-sead-haskabanovic-impossible-replace-according-rubin-kazan-manager/?ref=rss",
+          "publishedOn": "2022-08-19T12:30:14.000Z",
+          "wordCount": 8559,
+          "title": "Celtic transfer target Sead Haskabanovic 'impossible to replace' according to Rubin Kazan manager",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/14495064/?type=og-image"
+        },
         {
           "id": "4ed32bd5483b03cf0a16ca11681ca416",
           "author": null,
