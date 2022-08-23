@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com//sport/football/celtic",
       "articles": [
         {
+          "id": "3815735",
+          "author": "Mark Atkinson",
+          "description": "By Wednesday night, we will know all the teams involved in the 2022/23 Champions League group stages.",
+          "link": "https://www.scotsman.com/sport/football/celtic/when-is-the-champions-league-draw-celtic-and-rangers-pots-and-potential-group-stage-opponents-3815735",
+          "publishedOn": "2022-08-23T08:40:46.000Z",
+          "wordCount": 2413,
+          "title": "When is the Champions League draw? Celtic and Rangers pots and potential group-stage opponents",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjQwZjIyOTM0LWRiMzItNDlhYi1iMDJjLWFlODVjMjJlMjVjZjo4MDI3ODUyMC0xYTExLTQ4MTctYjQzMi1jNjJhY2M3ZTMyOTc=.jpg?width=1200&enable=upscale"
+        },
+        {
           "id": "3815367",
           "author": "Mark Atkinson",
           "description": "Ange Postecoglou says everyone at Celtic will be “glued to the TV set” on Thursday evening when the draw is made for the Champions League group stages.",
@@ -292,6 +302,56 @@
       "feedUrl": "http://armchaircelts.co.uk/wprss",
       "siteUrl": "http://armchaircelts.co.uk/feed/wprss/",
       "articles": [
+        {
+          "id": "https://celtsarehere.com/kyogos-champions-league-draw/",
+          "author": null,
+          "description": "We’ve heard Callum McGregor say he wants to face Real Madrid in the Champions League, but apart from that, the rest of the squad has kept their fantasy draws to themselves. There is no easy draw for the Champions League, especially with Celtic in pot four for next Thursday’s draw. Many fans want Europe’s best, […]\nSource",
+          "link": "https://celtsarehere.com/kyogos-champions-league-draw/",
+          "publishedOn": "2022-08-23T09:00:00.000Z",
+          "wordCount": 13535,
+          "title": "Kyogo’s Champions League Draw",
+          "imageUrl": "https://i0.wp.com/celtsarehere.com/wp-content/uploads/2022/05/2022-05-14T122403Z_1378791981_UP1EI5E0YG13E_RTRMADP_3_SOCCER-SCOTLAND-CEL-MOT-REPORT-scaled.jpg?fit=800%2C541&ssl=1"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/celtic-mystery-man-on-move/",
+          "author": null,
+          "description": "CELTIC’S mystery man Maryan Shved, who quit the Hoops almost exactly 13 months ago, is on the move again. The 25-year-old winger, who was bought for £2million from Ukrainian club Karpaty Lviv just three weeks before Brendan Rodgers departed for Leicester City in February 2019, made a mere three appearances for the Parkhead outfit. It [...]",
+          "link": "https://www.celticquicknews.co.uk/celtic-mystery-man-on-move/",
+          "publishedOn": "2022-08-23T07:59:30.000Z",
+          "wordCount": 2683,
+          "title": "CELTIC MYSTERY MAN ON MOVE",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2021/07/MARIAN-SHVED-FEATURED-123.png"
+        },
+        {
+          "id": "https://celtsarehere.com/marian-shved-downs-tools-celtics-lucky-escape/",
+          "author": null,
+          "description": "Former Celtic winger Marian Shved has refused to play for Belgian side K.V. Mechelen in order to try and force a move to Shakhtar Donetsk. [SunSport] His career in the green and white hoops was not memorable at all as he failed to make any sort of impact having only made three appearances during his […]\nSource",
+          "link": "https://celtsarehere.com/marian-shved-downs-tools-celtics-lucky-escape/",
+          "publishedOn": "2022-08-23T07:43:16.000Z",
+          "wordCount": 13589,
+          "title": "Marian Shved Downs Tools – Celtic’s Lucky Escape",
+          "imageUrl": "https://i0.wp.com/celtsarehere.com/wp-content/uploads/2020/03/shved.jpg?fit=800%2C400&ssl=1"
+        },
+        {
+          "id": "https://celtsarehere.com/opinion-5-celtic-exits-that-could-still-happen/",
+          "author": null,
+          "description": "Celtic has been fairly active throughout the summer transfer window and looks to add a couple of players before the window slams shut in ten days time. However, it’s gone quiet in regards to departures, with Postecoglou keen to move the players who won’t contribute to the squad on. There are still many players sitting […]\nSource",
+          "link": "https://celtsarehere.com/opinion-5-celtic-exits-that-could-still-happen/",
+          "publishedOn": "2022-08-23T07:34:00.000Z",
+          "wordCount": 13633,
+          "title": "Opinion: 5 Celtic Exits That Could Still Happen",
+          "imageUrl": "https://i0.wp.com/celtsarehere.com/wp-content/uploads/2021/02/gossip-celtic-transfer.jpg?fit=800%2C400&ssl=1"
+        },
+        {
+          "id": "https://celtsarehere.com/former-ibrox-star-praises-celtic-defender/",
+          "author": null,
+          "description": "Alan Hutton has praised Celtic defender Cameron Carter-Vickers for his performances in the Hoops. The USA international made the switch to Celtic permanently this summer for a reported transfer fee of around £6 million. He was signed on deadline day last year and very quickly became an integral part of Ange Postecoglou’s side. He once […]\nSource",
+          "link": "https://celtsarehere.com/former-ibrox-star-praises-celtic-defender/",
+          "publishedOn": "2022-08-23T07:24:00.000Z",
+          "wordCount": 13699,
+          "title": "Former Ibrox Star Praises Celtic Defender",
+          "imageUrl": "https://i0.wp.com/celtsarehere.com/wp-content/uploads/2022/08/spfl22_23_rosscounty_celtic_2097-scaled.jpg?fit=2048%2C1844&ssl=1"
+        },
         {
           "id": "https://www.celticquicknews.co.uk/au-revoir-jullien/",
           "author": null,
@@ -2331,26 +2391,6 @@
           "wordCount": 1122,
           "title": "Former Celtic winger Lewis Morgan attracting interest from English clubs",
           "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2020/01/morgan.jpg"
-        },
-        {
-          "id": "https://etims.net/?p=17864",
-          "author": null,
-          "description": "The guys get together to discuss the last few weeks. They discuss they and Celtics good fortune both on and off the pitch. 3 games…",
-          "link": "https://etims.net/?p=17864",
-          "publishedOn": "2022-08-18T20:53:28.000Z",
-          "wordCount": 2212,
-          "title": "Whole Jotta/Jawta Love – Etims Podcast",
-          "imageUrl": "https://etims.net/wp-content/uploads/2022/08/jotta-download.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/news/hearts-suffer-defeat-but-euro-dream-still-alive-ahead-of-celtic-park-trip/",
-          "author": null,
-          "description": "Although Celtic are thankfully not involved with any European qualifying matches this summer, clubs across Scotland have been, and Hearts were the latest to enter the process tonight. Robbie Neilson’s side suffered a 2-1 defeat away to FC Zurich in a UEFA Europa League play-off, despite taking the lead in the match through a Lawrence ...\nThe post Hearts suffer defeat but Euro dream still alive ahead of Celtic Park trip appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/hearts-suffer-defeat-but-euro-dream-still-alive-ahead-of-celtic-park-trip/",
-          "publishedOn": "2022-08-18T18:51:28.000Z",
-          "wordCount": 1827,
-          "title": "Hearts suffer defeat but Euro dream still alive ahead of Celtic Park trip",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/08/GettyImages-1395889023-2-scaled.jpg"
         }
       ]
     },
@@ -2359,6 +2399,16 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CAIiENYN2635S40LknaisQTCRg0qGQgEKhAIACoHCAow4KKJCzCv9JoDMICkoAY",
+          "author": null,
+          "description": "Celtic’s transfer bid for defender has been rejected  The Celtic Bhoys",
+          "link": "https://thecelticbhoys.com/2022/08/23/celtic-transfer-bid-defender-rejected/",
+          "publishedOn": "2022-08-23T08:39:24.000Z",
+          "wordCount": 2384,
+          "title": "Celtic’s transfer bid for defender has been rejected - The Celtic Bhoys",
+          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1242056310.jpeg"
+        },
         {
           "id": "CAIiEHz87PPajhwdhTwWelrDrVMqGQgEKhAIACoHCAowrueiCTDmn7gCMKXUtwU",
           "author": null,
@@ -2538,6 +2588,16 @@
           "wordCount": 2555,
           "title": "Celtic manager makes brilliant Pep Guardiola and Jurgen Klopp claim - The Celtic Bhoys",
           "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1390816900.jpeg"
+        },
+        {
+          "id": "CAIiEOm9xfMmq57tCcBPCM9uKc4qGQgEKhAIACoHCAow4KKJCzCv9JoDMICkoAY",
+          "author": null,
+          "description": "Ange Postecoglou surprisingly confirms Celtic rumour  The Celtic Bhoys",
+          "link": "https://thecelticbhoys.com/2022/08/21/ange-postecoglou-confirms-celtic-rumour/",
+          "publishedOn": "2022-08-21T18:40:35.000Z",
+          "wordCount": 2379,
+          "title": "Ange Postecoglou surprisingly confirms Celtic rumour - The Celtic Bhoys",
+          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1359830387.jpeg"
         },
         {
           "id": "CBMiTWh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9jZWx0aWMtdi1oZWFydHMtcGxheWVyLXJhdGluZ3Mtb25lLWJob3ktZ2V0cy1hLW5pbmUv0gFRaHR0cHM6Ly9jZWx0c2FyZWhlcmUuY29tL2NlbHRpYy12LWhlYXJ0cy1wbGF5ZXItcmF0aW5ncy1vbmUtYmhveS1nZXRzLWEtbmluZS9hbXAv",
@@ -3118,36 +3178,6 @@
           "wordCount": 2282,
           "title": "£10m man must wish he’d joined Celtic or Rangers; He’s desperate to go - HITC - Football, Gaming, Movies, TV, Music",
           "imageUrl": "https://www.hitc.com/static/uploads/2022/08/GettyImages-1240813445-scaled.jpg"
-        },
-        {
-          "id": "CAIiEJNA9e6DS9F95tNeG81xV1MqGQgEKhAIACoHCAow4KKJCzCv9JoDMICkoAY",
-          "author": null,
-          "description": "Juventus transfer plan could hand big blow to Celtic  The Celtic Bhoys",
-          "link": "https://thecelticbhoys.com/2022/08/18/juventus-transfer-plan-big-blow-celtic/",
-          "publishedOn": "2022-08-18T21:08:15.000Z",
-          "wordCount": 2419,
-          "title": "Juventus transfer plan could hand big blow to Celtic - The Celtic Bhoys",
-          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1223633503.jpeg"
-        },
-        {
-          "id": "CAIiEB5GfBRyzt0Si_mgAYcnInMqGQgEKhAIACoHCAow4KKJCzCv9JoDMICkoAY",
-          "author": null,
-          "description": "John McGinn picks Celtic hero as all-time favourite Premier League player  The Celtic Bhoys",
-          "link": "https://thecelticbhoys.com/2022/08/18/john-mcginn-celtic-hero-premier-league/",
-          "publishedOn": "2022-08-18T20:48:32.000Z",
-          "wordCount": 2396,
-          "title": "John McGinn picks Celtic hero as all-time favourite Premier League player - The Celtic Bhoys",
-          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1355888690.jpeg"
-        },
-        {
-          "id": "CAIiEFhOIrahqtgD4DufBtIAYKAqGQgEKhAIACoHCAowrueiCTDmn7gCMKXUtwU",
-          "author": null,
-          "description": "The shifting Moussa Dembele Celtic transfer windfall picture as Juventus temptation puts £3m payday at risk  Daily Record",
-          "link": "https://www.dailyrecord.co.uk/sport/football/football-news/shifting-moussa-dembele-celtic-transfer-27778325",
-          "publishedOn": "2022-08-18T20:24:09.000Z",
-          "wordCount": 3083,
-          "title": "The shifting Moussa Dembele Celtic transfer windfall picture as Juventus temptation puts £3m payday at risk - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article27034297.ece/ALTERNATES/s1200/0_FBL-FRA-LIGUE1-LYON-NANTES.jpg"
         }
       ]
     },
@@ -3156,6 +3186,26 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "4f2bdd9cc43fc57b65473af1c3b2a0aa",
+          "author": null,
+          "description": "The on-loan youngster was left out of St Johnstone's matchday squad for Aberdeen",
+          "link": "https://www.glasgowtimes.co.uk/sport/20712331.reason-celtic-loan-starlets-weekend-absence-explained/?ref=rss",
+          "publishedOn": "2022-08-23T08:29:05.000Z",
+          "wordCount": 8073,
+          "title": "Reason for Celtic loan starlet's weekend absence explained",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/14531115/?type=og-image"
+        },
+        {
+          "id": "ddaede684834dbf634cbaff03f91af52",
+          "author": null,
+          "description": "GREG TAYLOR as always had to work hard to earn his place in the Celtic first team. Regularly viewed by some supporters as an enterprising but technically limited player, he has had to fend off several challengers for his jersey since arriving at Parkhead in 2019.",
+          "link": "https://www.glasgowtimes.co.uk/sport/20696453.greg-taylor-celtics-first-choice-left-back/?ref=rss",
+          "publishedOn": "2022-08-23T06:00:00.000Z",
+          "wordCount": 8760,
+          "title": "Why Greg Taylor has to be Celtic's first-choice left-back",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/14371042/?type=og-image"
+        },
         {
           "id": "8c07d1d03660339be42b46ee5d6fbbf2",
           "author": null,
