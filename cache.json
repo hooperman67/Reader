@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com//sport/football/celtic",
       "articles": [
         {
+          "id": "3821675",
+          "author": "Mark Atkinson",
+          "description": "Less than 2,000 Celtic fans will be able to watch their team play Champions League holders Real Madrid at Santiago Bernabeu stadium due to construction work taking place at the arena.",
+          "link": "https://www.scotsman.com/sport/football/celtic/real-madrid-v-celtic-bad-news-for-supporters-as-club-explain-small-ticket-allocation-3821675",
+          "publishedOn": "2022-08-26T19:55:57.000Z",
+          "wordCount": 1929,
+          "title": "Real Madrid v Celtic: Bad news for supporters as club explain small ticket allocation",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjYyNTViMjdlLTYzMWItNDZjOS05MmFiLWJhYTVmYTg1ZmIyMjo2ZmYyNTAzZi1iNWMwLTQxY2MtYjJhMC00ZjhlYmEwODg4N2Y=.jpg?width=1200&enable=upscale"
+        },
+        {
           "id": "3821387",
           "author": "Angus Wright",
           "description": "Ange Postecoglou believes Real Madrid great Ferenc Puskas would have been proud to see his protege lead Celtic into a Champions League double-header against the Spanish giants.",
@@ -204,16 +214,6 @@
           "wordCount": 2817,
           "title": "Superb Rangers hit four to set up a potential Champions League clash with European giant, as Celtic go top",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjI5YjJkMWYxLWY2OTAtNDk3NS1iNzQ2LTc1YzQ3YmNkYWFjYTpkMWI4ODM3OC1hZWMyLTQ1NWItOTE4MC05ZjY1OTE2NzAxOWY=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3814212",
-          "author": "Andrew Smith",
-          "description": "The 2-0 home win over Hearts that sent Celtic top wasn’t a day to relish for quite a few inside the arena.",
-          "link": "https://www.scotsman.com/sport/football/celtic/celtic-hearts-reaction-invaluable-giakoumakis-antithesis-of-morelos-neilson-a-stuck-record-hearts-fans-show-little-respect-3814212",
-          "publishedOn": "2022-08-22T08:29:48.000Z",
-          "wordCount": 2685,
-          "title": "Celtic-Hearts reaction: invaluable Giakoumakis antithesis of Morelos; Neilson a stuck record; Hearts fans show little respect",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjJmNGEwNzNjLWU2ZTUtNGM0Ny05OTM3LTk4OTdkYzkzNGJkMDpiODY2Zjc2Mi01NTY1LTQ1OGItYmU1ZC1lODljYzliMzVhOTc=.jpg?width=1200&enable=upscale"
         }
       ]
     },
@@ -222,6 +222,56 @@
       "feedUrl": "http://armchaircelts.co.uk/wprss",
       "siteUrl": "http://armchaircelts.co.uk/feed/wprss/",
       "articles": [
+        {
+          "id": "https://www.sportsmole.co.uk/football/dundee-united/preview/preview-dundee-utd-vs-celtic-prediction-team-news-lineups_493124.html",
+          "author": null,
+          "description": "Sports Mole previews Sunday's Scottish Premiership clash between Dundee United and Celtic, including predictions, team news and possible lineups.",
+          "link": "https://www.sportsmole.co.uk/football/dundee-united/preview/preview-dundee-utd-vs-celtic-prediction-team-news-lineups_493124.html",
+          "publishedOn": "2022-08-26T20:18:11.000Z",
+          "wordCount": 4988,
+          "title": "Preview: Dundee United vs. Celtic - prediction, team news, lineups",
+          "imageUrl": "//b.smimg.net/22/31/ange-postecoglou.jpg"
+        },
+        {
+          "id": "https://celtsarehere.com/champions-league-away-day-disappointment-for-celtic-fans-club-confirm/",
+          "author": null,
+          "description": "It’s bad news for travelling Celtic fans on their return to the Champions League. After the draw was made on Thursday, all the talk has surrounded the double header against current European champions Real Madrid. The Spanish giants coming to Glasgow is massive, but the away day in Madrid will also be special. Unfortunately, it […]\nSource",
+          "link": "https://celtsarehere.com/champions-league-away-day-disappointment-for-celtic-fans-club-confirm/",
+          "publishedOn": "2022-08-26T19:08:34.000Z",
+          "wordCount": 13436,
+          "title": "Champions League Away Day Disappointment for Celtic Fans – Club Confirm",
+          "imageUrl": "https://i0.wp.com/celtsarehere.com/wp-content/uploads/2022/07/10532acd-7417-4e3b-a3bf-466254dd04c0.jpg?fit=1920%2C1280&ssl=1"
+        },
+        {
+          "id": "https://www.footballtransfertavern.com/celtic-news/celtic-sead-haksabanovic-albian-ajeti-postecoglou-latest-transfer-news-rumours-updates/",
+          "author": null,
+          "description": "Celtic are looking to make two more late signings before the transfer deadline on September 1. The Lowdown: Haksabanovic confirmed The Scottish Premiership giants unveiled former Rubin Kazan winger Sead Haksabanovic as their latest addition on Thursday after a long-term pursuit, putting pen to paper on a five-year deal at Parkhead. Ange Postecoglou has already brought […]",
+          "link": "https://www.footballtransfertavern.com/celtic-news/celtic-sead-haksabanovic-albian-ajeti-postecoglou-latest-transfer-news-rumours-updates/",
+          "publishedOn": "2022-08-26T18:35:09.000Z",
+          "wordCount": 3371,
+          "title": "After Haksabanovic: Celtic and Ange now plotting two last minute secret signings before Sep 1",
+          "imageUrl": "https://cdn.footballtransfertavern.com/wp-content/uploads/2022/08/ange-postecoglou-scottish-premiership-2.jpg"
+        },
+        {
+          "id": "https://thecelticstar.com/you-can-pay-for-a-tour-of-the-bernabeu-anyone-can-do-that-ange-postecoglou/",
+          "author": null,
+          "description": "Ange Postecoglou spoke to Celtic TV this morning before doing an interview with Sky Sports who obviously are broadcasting the Dundee United v Celtic match in the Scottish Premiership on Sunday lunchtime. 🏆 Ange Postecoglou gives his thoughts on our Champions League Group F opposition🤔 🇪🇸 Real Madrid 🇩🇪 RB Leipzig 🇺🇦 Shakhtar Donetsk European Read More",
+          "link": "https://thecelticstar.com/you-can-pay-for-a-tour-of-the-bernabeu-anyone-can-do-that-ange-postecoglou/",
+          "publishedOn": "2022-08-26T18:30:55.000Z",
+          "wordCount": 3577,
+          "title": "“You can pay for a tour of the Bernabeu – anyone can do that,” Ange Postecoglou",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/07/imago1013152453h-1024x683.jpeg"
+        },
+        {
+          "id": "https://www.67hailhail.com/news/he-delivered-spfl-boss-praises-postecoglou-for-his-impact-on-celtic-and-scottish-football/",
+          "author": null,
+          "description": "Dundee United boss Jack Ross has praised Celtic manager Ange Postecoglou for how he has conducted himself in the role at Parkhead and the impact he has had at the Hoops. The Hoops are preparing to travel to Tannadice for the first time since they clinched the Scottish Premiership title in May. However, lots has ...\nThe post SPFL boss praises Ange Postecoglou for his impact on Scottish Football and Celtic appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/he-delivered-spfl-boss-praises-postecoglou-for-his-impact-on-celtic-and-scottish-football/",
+          "publishedOn": "2022-08-26T18:10:00.000Z",
+          "wordCount": 2099,
+          "title": "SPFL boss praises Ange Postecoglou for his impact on Scottish Football and Celtic",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/07/GettyImages-1396744315-scaled.jpg"
+        },
         {
           "id": "https://celticfanzine.com/over-a-decade/",
           "author": null,
@@ -2461,86 +2511,6 @@
           "wordCount": 2196,
           "title": "Neilson’s faux frustration over Clancy, a cover for Hearts’ meek surrender",
           "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/08/imago1014029591h-1024x683.jpg"
-        },
-        {
-          "id": "https://celtsarehere.com/we-cant-stand-still-ange-postecoglou-delivers-transfer-update/",
-          "author": null,
-          "description": "ANGE POSTECOGLOU has revealed there could be some new incomings this week as the Hoops gear up for Champions League group stage action next month. It’s understood that Sead Haksabanovic is closing in on a Parkhead move, with a final fee with Rubin Kazan the only thing left to agree upon. All going well, his […]\nSource",
-          "link": "https://celtsarehere.com/we-cant-stand-still-ange-postecoglou-delivers-transfer-update/",
-          "publishedOn": "2022-08-22T08:56:00.000Z",
-          "wordCount": 13581,
-          "title": "“We Can’t Stand Still” Ange Postecoglou Delivers Transfer Update",
-          "imageUrl": "https://i0.wp.com/celtsarehere.com/wp-content/uploads/2022/01/ange-postecoglou21.jpg?fit=800%2C500&ssl=1"
-        },
-        {
-          "id": "https://celtsarehere.com/joe-harts-brilliant-insight-to-the-squads-champions-league-mentality/",
-          "author": null,
-          "description": "JOE HART has been a terrific signing, from the way he conducts himself on the park to the manner he speaks about the club and those involved with it. Celtic face a massive challenge heading into Europe. In pot 4, Celtic should be the weakest side in their Champions League group; however, Postecoglou isn’t allowing […]\nSource",
-          "link": "https://celtsarehere.com/joe-harts-brilliant-insight-to-the-squads-champions-league-mentality/",
-          "publishedOn": "2022-08-22T08:28:00.000Z",
-          "wordCount": 13581,
-          "title": "Joe Hart’s Brilliant Insight to the Squad’s Champions League Mentality",
-          "imageUrl": "https://i0.wp.com/celtsarehere.com/wp-content/uploads/2022/08/spfl22_23_rosscounty_celtic_2067.jpg?fit=2006%2C1669&ssl=1"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/euro-star-at-35-harts-honest-answer/",
-          "author": null,
-          "description": "JOE HART admits he did not believe he would be participating in the Champion League at this stage of his career. The 35-year-old 75 times-capped England international keeper reckons it would have been a dream too far to mix again among the European elite. Hart grabbed the lifeline thrown by Ange Postecoglou last year to [...]",
-          "link": "https://www.celticquicknews.co.uk/euro-star-at-35-harts-honest-answer/",
-          "publishedOn": "2022-08-22T07:59:15.000Z",
-          "wordCount": 3172,
-          "title": "EURO STAR AT 35? HART’S HONEST ANSWER",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/08/JOE-HART-POINTZ-FTRD.png"
-        },
-        {
-          "id": "https://www.footballtransfertavern.com/celtic-news/celtic-spl-sead-haksabanovic-transfer-news-updates-2/",
-          "author": null,
-          "description": "Celtic are closing in on the signing of Rubin Kazan winger Sead Haksabanovic, with reliable journalist Anthony Joseph confirming that it is nearly agreed. The Lowdown: Haksabanovic move mooted The Hoops continued their perfect start to the Premiership season on Sunday afternoon, seeing off Hearts with a 2-0 win at Parkhead. Ange Postecoglou is not […]",
-          "link": "https://www.footballtransfertavern.com/celtic-news/celtic-spl-sead-haksabanovic-transfer-news-updates-2/",
-          "publishedOn": "2022-08-22T07:45:59.000Z",
-          "wordCount": 3387,
-          "title": "&#039;Everything is in place...&#039; - Sky Sports reporter drops promising Celtic transfer update",
-          "imageUrl": "https://cdn.footballtransfertavern.com/wp-content/uploads/2019/09/2018-07-25T201436Z_1833428292_RC1473FA15C0_RTRMADP_3_SOCCER-FRIENDLY-AVA-WHU.jpg"
-        },
-        {
-          "id": "https://celtsarehere.com/postecoglous-cheeky-hearts-discipline-dig/",
-          "author": null,
-          "description": "ANGE POSTECOGLOU watched from the sidelines as Hearts were reduced to nine men after two players received second yellow cards from referee Kevin Clancy. It was needless to commit the fouls that saw Hearts have to see out the game with nine men on the park, but Clancy made the correct decision and gave both […]\nSource",
-          "link": "https://celtsarehere.com/postecoglous-cheeky-hearts-discipline-dig/",
-          "publishedOn": "2022-08-22T07:45:09.000Z",
-          "wordCount": 13462,
-          "title": "Postecoglou’s Cheeky Hearts ‘Discipline’ Dig",
-          "imageUrl": "https://i0.wp.com/celtsarehere.com/wp-content/uploads/2022/05/2022-05-14T113144Z_40269922_UP1EI5E0W0U1M_RTRMADP_3_SOCCER-SCOTLAND-CEL-MOT-REPORT.jpg?fit=800%2C543&ssl=1"
-        },
-        {
-          "id": "https://thecelticstar.com/ange-postecoglous-brilliant-we-kept-our-discipline-dig/",
-          "author": null,
-          "description": "Loved the brilliant wee dig Ange Postecoglou slipped in to his post match interview with Celtic TV yesterday afternoon after his side defeated Hearts 2-0 to go two points clear at the top of the league looking down at theRangers…Here’s what happened…Celtic TV: What was your assessment of the game?Ange Postecoglou: “It was a tough Read More",
-          "link": "https://thecelticstar.com/ange-postecoglous-brilliant-we-kept-our-discipline-dig/",
-          "publishedOn": "2022-08-22T07:10:00.000Z",
-          "wordCount": 1608,
-          "title": "Ange Postecoglou’s brilliant “we kept our discipline” dig",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/08/imago1014029591h-1024x682.jpeg"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/carter-vickers-fires-warning/",
-          "author": null,
-          "description": "JOE HART didn’t have a single save to make in Celtic’s 2-0 win over Hearts at Parkhead yesterday. The 35-year-old 75 times-capped England international keeper could have caught up with his Sunday reading such was the effectiveness of Cameron Carter-Vickers and Co in front of him. Hart has required to fish the ball out of [...]",
-          "link": "https://www.celticquicknews.co.uk/carter-vickers-fires-warning/",
-          "publishedOn": "2022-08-22T07:07:14.000Z",
-          "wordCount": 2705,
-          "title": "CARTER-VICKERS FIRES WARNING",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/08/cameron-carter-vickers-new-ftredd.png"
-        },
-        {
-          "id": "https://thecelticstar.com/jackie-mcnamara-was-correct-celtic-were-efficient-rather-than-spectacular/",
-          "author": null,
-          "description": "This was probably the poorest game we have played so far, but as it took us to two points clear at the top, is anyone really going to get upset?It was disturbing that we could not put them away after such a good first half perfromance, but then again Hearts deserve a little credit for Read More",
-          "link": "https://thecelticstar.com/jackie-mcnamara-was-correct-celtic-were-efficient-rather-than-spectacular/",
-          "publishedOn": "2022-08-22T06:45:00.000Z",
-          "wordCount": 1266,
-          "title": "Jackie McNamara was correct, Celtic were efficient rather than spectacular",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/08/imago1014027993h-1024x630.jpeg"
         }
       ]
     },
@@ -3418,26 +3388,6 @@
           "wordCount": 3350,
           "title": "Celtic vs Rangers in top billing from Kieran Tierney as he names best player he's ever played with - Glasgow Live",
           "imageUrl": "https://i2-prod.glasgowlive.co.uk/incoming/article24819897.ece/ALTERNATES/s1200/0_ktgolfPNG.png"
-        },
-        {
-          "id": "CBMiLWh0dHBzOi8vd3d3LmJiYy5jby51ay9zcG9ydC9mb290YmFsbC82MjYzMDA3NtIBL2h0dHBzOi8vd3d3LmJiYy5jb20vc3BvcnQvZm9vdGJhbGwvNjI2MzAwNzYuYW1w",
-          "author": null,
-          "description": "Scottish Gossip: Rangers, Celtic, Hibernian, Aberdeen, Hearts, Motherwell, St Johnstone, Dundee Utd  BBC",
-          "link": "https://www.bbc.co.uk/sport/football/62630076",
-          "publishedOn": "2022-08-22T07:10:47.000Z",
-          "wordCount": 21767,
-          "title": "Scottish Gossip: Rangers, Celtic, Hibernian, Aberdeen, Hearts, Motherwell, St Johnstone, Dundee Utd - BBC",
-          "imageUrl": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/5406/production/_126401512_-9f919b8e-959c-4ace-be9c-24a58cf59600.png"
-        },
-        {
-          "id": "CAIiEC_0lhoJxUWvTbxH2M-TUr0qGQgEKhAIACoHCAow_-CqCzD868IDMPLfoQc",
-          "author": null,
-          "description": "Joe Hart makes Celtic Champions League promise should they draw Manchester City  Football Scotland",
-          "link": "https://www.footballscotland.co.uk/spfl/scottish-premiership/joe-hart-makes-celtic-champions-24818007",
-          "publishedOn": "2022-08-22T06:28:43.000Z",
-          "wordCount": 2929,
-          "title": "Joe Hart makes Celtic Champions League promise should they draw Manchester City - Football Scotland",
-          "imageUrl": "https://i2-prod.footballscotland.co.uk/incoming/article24817980.ece/ALTERNATES/s1200/0_JS275194533.jpg"
         }
       ]
     },
@@ -3446,6 +3396,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "b607b6c8112d9d1dc71f868a874d7de0",
+          "author": null,
+          "description": "Ange Postecoglou says his team thrives under pressure",
+          "link": "https://www.glasgowtimes.co.uk/sport/20780034.iron-focused-celtic-environment-wont-allow-complacency/?ref=rss",
+          "publishedOn": "2022-08-26T19:00:00.000Z",
+          "wordCount": 8076,
+          "title": "Why iron-focused Celtic environment won't allow complacency",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/14672535/?type=og-image"
+        },
         {
           "id": "e093c3188d6dcad2ecbb110c8b8cf31a",
           "author": null,
@@ -4045,26 +4005,6 @@
           "wordCount": 8110,
           "title": "Celtic comfortably beat Rangers to secure consecutive titles, supercomputer reveals",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/14508857/?type=og-image"
-        },
-        {
-          "id": "b4513cbffefad58a3283125aa3451167",
-          "author": null,
-          "description": "KIERAN TIERNEY insists nothing comes close to the pressure of playing in a Celtic vs Rangers showdown in Scotland.",
-          "link": "https://www.glasgowtimes.co.uk/sport/20680805.kieran-tierney-fights-celtic-vs-rangers-corner-dismisses-arsenal-vs-tottenham-biggest-derby-day/?ref=rss",
-          "publishedOn": "2022-08-22T07:11:08.000Z",
-          "wordCount": 8061,
-          "title": "Kieran Tierney fights Celtic vs Rangers corner as he dismisses Arsenal vs Tottenham for biggest derby day",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/14507605/?type=og-image"
-        },
-        {
-          "id": "80b7ca9af6341108cc4e31ec6438352b",
-          "author": null,
-          "description": "KIERAN TIERNEY has shared the football pitch with a host of top players for both club and country.",
-          "link": "https://www.glasgowtimes.co.uk/sport/20680790.kieran-tierney-reveals-best-player-played---not-expect/?ref=rss",
-          "publishedOn": "2022-08-22T06:53:51.000Z",
-          "wordCount": 8530,
-          "title": "Kieran Tierney reveals best player he has played with - and it's not who you would expect",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/14507596/?type=og-image"
         }
       ]
     }
