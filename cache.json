@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com//sport/football/celtic",
       "articles": [
         {
+          "id": "3821871",
+          "author": "Andrew Smith",
+          "description": "The pull of the Champions League has had a curious impact on a Scottish football phenomenon.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtic-boss-ange-postecoglou-makes-rangers-comment-after-player-turnover-and-offers-prediction-for-four-clashes-3821871",
+          "publishedOn": "2022-08-27T21:30:00.000Z",
+          "wordCount": 2761,
+          "title": "Celtic boss Ange Postecoglou makes Rangers comment after player 'turnover' and offers prediction for four clashes",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjcxZjQ1YzUyLWE0M2EtNDk5My04NDliLWE3MGRlMzUyZDJjODo0OWVkMmUwMS0wNWEyLTQ4NDQtYTY0OC00MDE0MzVlZWM2YmU=.jpg?width=1200&enable=upscale"
+        },
+        {
           "id": "3821742",
           "author": "Mark Atkinson",
           "description": "The fixture dates and kick-off times for the 2022/23 Champions League group stages have been set, with Celtic starting off with a mouthwatering home match against Real Madrid.",
@@ -154,26 +164,6 @@
           "wordCount": 2328,
           "title": "SPFL transfer target's big move in jeopardy after protein shake incident in referee's changing room",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmU4MmU0ZTU0LTljNDktNDA1Yi1iYzE4LTBjZDNiMTcwNTE1YTo2MTRiYmIxNi1mNDAzLTQ3MTEtYTRhNS04YmE5ZjE5NDg4YTE=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3816226",
-          "author": "Andrew Smith",
-          "description": "It might seem plain daft to suggest that the best way for Scottish football to preserve an automatic Champions League entrant is for no clubs from this country to actually participate in it.",
-          "link": "https://www.scotsman.com/sport/football/rangers/why-scottish-football-could-be-better-served-by-rangers-and-hearts-losing-in-europe-this-week-3816226",
-          "publishedOn": "2022-08-23T12:16:46.000Z",
-          "wordCount": 3618,
-          "title": "Why Scottish football could be better served by Rangers and Hearts losing in Europe this week",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmYxYTAyMzU5LWI0NjktNDYyOC04OGQ0LWU5ODllMWU0ZTA2MzpjMzc5NzI5Zi03NTllLTRhZmItYTM2Yy00M2I5YTA5YzhhYTY=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3815912",
-          "author": "Angus Wright",
-          "description": "Former Celtic, Cowdenbeath, Dunfermline and Raith midfielder John Herron has had his contract at Larne terminated in the wake of wearing an alleged pro-IRA T-shirt.",
-          "link": "https://www.scotsman.com/sport/football/former-spfl-midfielder-has-contract-terminated-after-pro-ira-t-shirt-and-ten-match-ban-3815912",
-          "publishedOn": "2022-08-23T10:07:52.000Z",
-          "wordCount": 1983,
-          "title": "Former SPFL midfielder has contract terminated after 'pro IRA T-shirt' and ten-match ban",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjVkZWMyODcwLTY0NDYtNDczOS1hZWQ0LTc4Y2U5MDJmMjM2OTowODg2Y2JmOC0wZjBhLTQ4MzQtYjljYi0xMjM1ZDE4Zjg5ZDk=.jpg?width=1200&enable=upscale"
         }
       ]
     },
@@ -182,6 +172,16 @@
       "feedUrl": "http://armchaircelts.co.uk/wprss",
       "siteUrl": "http://armchaircelts.co.uk/feed/wprss/",
       "articles": [
+        {
+          "id": "https://thecelticstar.com/blackpool-boss-confirms-interest-in-signing-celtic-winger/",
+          "author": null,
+          "description": "Blackpool’s interest in Celtic winger Owen Moffat has increased as manager Michael Appleton outlined via the Blackpool Gazette. The Celtic winger made a handful of appearences last December for the first team, but as Ange’s ambition to improve the squad and bringing in the likes of Jota, a place at the top has become a lot harder Read More",
+          "link": "https://thecelticstar.com/blackpool-boss-confirms-interest-in-signing-celtic-winger/",
+          "publishedOn": "2022-08-27T21:34:13.000Z",
+          "wordCount": 1288,
+          "title": "Blackpool boss confirms interest in signing Celtic winger",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2021/07/1003687303-1-1024x735.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/news/yosuke-ideguchi-will-miss-celtic-trip-to-dundee-united-but-return-isnt-far-away/",
           "author": null,
@@ -2291,196 +2291,6 @@
           "wordCount": 2612,
           "title": "JULLIEN SEALS £850,00 DEAL",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2020/03/JULLIEN-DECEMBER-FEATURED.jpg"
-        },
-        {
-          "id": "https://thecelticstar.com/transfer-latest-racing-santander-contact-celtic-regarding-albian-ajeti/",
-          "author": null,
-          "description": "With Christopher Jullien signing a three year contract with Montpellier today in a deal that brings in around a million euros plus add-ons for the French defender, attention now turns to the other fringe players that Ange Postecoglou reckons will have limited game-time this season.Mikey Johnston has numerous offers which are being considered by the Read More",
-          "link": "https://thecelticstar.com/transfer-latest-racing-santander-contact-celtic-regarding-albian-ajeti/",
-          "publishedOn": "2022-08-23T14:13:47.000Z",
-          "wordCount": 1476,
-          "title": "Transfer Latest: Racing Santander contact Celtic regarding Albian Ajeti",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2021/09/1006646302-1-1024x683.jpg"
-        },
-        {
-          "id": "https://thecelticstar.com/montpellier-sign-christopher-jullien-for-e1million-plus-add-ons-on-a-3-year-deal/",
-          "author": null,
-          "description": "Christopher Jullien after passing a rigorous medical has now signed a three year deal with French side Montpellier, according to breaking news via “-L’Equipe. “Celtic Glasgow central defender Christopher Jullien has signed a three-year contract with Montpellier after successfully passing his medical examination,” the French news outlet reports. Le défenseur central du Celtic Glasgow Christopher Read More",
-          "link": "https://thecelticstar.com/montpellier-sign-christopher-jullien-for-e1million-plus-add-ons-on-a-3-year-deal/",
-          "publishedOn": "2022-08-23T13:46:12.000Z",
-          "wordCount": 1313,
-          "title": "Montpellier sign Christopher Jullien for €1million plus add-ons, on a 3 year deal",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2021/04/49572321-1024x670.jpg"
-        },
-        {
-          "id": "https://celtsarehere.com/jullien-transfer-fee-revealed-report/",
-          "author": null,
-          "description": "CHRIS JULLIEN has passed his extensive medical in France and is now set to leave Celtic to join Montpellier in Ligue 1, L’Equipe reports. The defender will depart Celtic and join the French side permanently, set to pen a three-year deal with the club. Celtic will receive a fee of just £850,000, a fraction of […]\nSource",
-          "link": "https://celtsarehere.com/jullien-transfer-fee-revealed-report/",
-          "publishedOn": "2022-08-23T13:31:33.000Z",
-          "wordCount": 13405,
-          "title": "Jullien Transfer Fee Revealed – Report",
-          "imageUrl": "https://i0.wp.com/celtsarehere.com/wp-content/uploads/2022/08/2019-12-08T162501Z_1869285490_RC24RD9TBCQM_RTRMADP_3_SOCCER-SCOTLAND-CEL-RFC-REPORT-scaled.jpg?fit=800%2C527&ssl=1"
-        },
-        {
-          "id": "https://www.67hailhail.com/transfers/report-christopher-jullien-passes-medical-set-to-leave-celtic-fee-contract-details/",
-          "author": null,
-          "description": "Christopher Jullien is on the verge of an exit from Celtic having come through a medical at Montpellier in Ligue 1 without any issues, L’Equipe reports. The French outlet believes he is now set to sign a three-year deal for the club, with Montpellier paying Celtic in the region of €1m to buy out the ...\nThe post Report: Christopher Jullien passes medical, set to leave Celtic; fee, contract details appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/transfers/report-christopher-jullien-passes-medical-set-to-leave-celtic-fee-contract-details/",
-          "publishedOn": "2022-08-23T13:13:29.000Z",
-          "wordCount": 1751,
-          "title": "Report: Christopher Jullien passes medical, set to leave Celtic; fee, contract details",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/03/GettyImages-1192855953-scaled.jpg"
-        },
-        {
-          "id": "https://thecelticblog.com/2022/08/articles-and-features/kris-boyd-has-gone-to-town-on-morelos-flatly-contradicting-his-own-daft-comments/",
-          "author": null,
-          "description": "Obviously, there are two massive stories across the city today although the media is doing its damnedest not to explore one of them. The other is simply too big to keep a lid on. Morelos has been dropped from their European squad, the dressing room has turned on him and “contract talks” – haha – […]",
-          "link": "https://thecelticblog.com/2022/08/articles-and-features/kris-boyd-has-gone-to-town-on-morelos-flatly-contradicting-his-own-daft-comments/",
-          "publishedOn": "2022-08-23T12:54:07.000Z",
-          "wordCount": 2222,
-          "title": "Kris Boyd Has Gone To Town On Morelos, Flatly Contradicting His Own Daft Comments.",
-          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2022/04/2010-09-06T000000Z_1_MT1ACI7368447_RTRMADP_3_SOCCER-ENGLAND-SCO-scaled.jpg"
-        },
-        {
-          "id": "https://celtsarehere.com/albian-ajeti-celtic-exit-latest/",
-          "author": null,
-          "description": "ALBIAN AJETI is a player Celtic are trying to move on this window and replace once he has left the club. Mark Hendry has tweeted that a few clubs are interested in signing the Swiss striker, meaning he should have a couple of options. Hearing there’s been a few bites for Ajeti but nothing concrete […]\nSource",
-          "link": "https://celtsarehere.com/albian-ajeti-celtic-exit-latest/",
-          "publishedOn": "2022-08-23T12:29:38.000Z",
-          "wordCount": 13403,
-          "title": "Albian Ajeti Celtic Exit Latest",
-          "imageUrl": "https://i0.wp.com/celtsarehere.com/wp-content/uploads/2021/12/ajeti.jpg?fit=800%2C553&ssl=1"
-        },
-        {
-          "id": "https://thecelticstar.com/celtic-release-champions-league-ticket-details-for-season-ticket-holders/",
-          "author": null,
-          "description": "We don’t know who Celtic will play against in the Champions League yet – we’ll find out on Thursday – but this afternoon we’ve found out how much it is going to cost to attend the three Group stage matches this autumn.Celtic have just released details to the media and have also posted this information Read More",
-          "link": "https://thecelticstar.com/celtic-release-champions-league-ticket-details-for-season-ticket-holders/",
-          "publishedOn": "2022-08-23T12:04:35.000Z",
-          "wordCount": 1369,
-          "title": "Celtic release Champions League ticket details for Season Ticket Holders",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/08/FYoItoMWIAEi1G3-1024x492.jpeg"
-        },
-        {
-          "id": "https://celticfanzine.com/kano-foundation-big-boxing-bash-heading-for-sell-out-at-celtic-park/",
-          "author": null,
-          "description": "All RINGSIDE TABLES are now SOLD OUT for A NIGHT OF INTERNATIONAL BOXING AT CELTIC PARK IN AID OF THE KANO FOUNDATION on Saturday 17 Sept. 2022. We have ONLY 6 general TABLES left as we head for a SELL OUT for this great cause. Enjoy a 3 course meal before watching a night of […]\nThe post Kano Foundation Big Boxing Bash heading for SELL OUT at Celtic Park appeared first on Celtic Fanzine.",
-          "link": "https://celticfanzine.com/kano-foundation-big-boxing-bash-heading-for-sell-out-at-celtic-park/",
-          "publishedOn": "2022-08-23T11:51:29.000Z",
-          "wordCount": 1890,
-          "title": "Kano Foundation Big Boxing Bash heading for SELL OUT at Celtic Park",
-          "imageUrl": "https://celticfanzine.com/wp-content/uploads/Boxing-poster-.jpg"
-        },
-        {
-          "id": "https://thecelticblog.com/2022/08/articles-and-features/the-cost-of-celtics-champions-league-packages-is-obscene-at-the-present-time/",
-          "author": null,
-          "description": "So the club has released the pricing for the Champions League packages today and it pays no heed whatsoever to the crisis many people are struggling with, or soon will be. There is a certain amount of cynicism in announcing those prices today, before the revised gas and electricity bills start dropping through people’s doors, […]",
-          "link": "https://thecelticblog.com/2022/08/articles-and-features/the-cost-of-celtics-champions-league-packages-is-obscene-at-the-present-time/",
-          "publishedOn": "2022-08-23T11:48:38.000Z",
-          "wordCount": 1843,
-          "title": "The Cost Of Celtic’s Champions League Packages Is Obscene At The Present Time.",
-          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2022/05/2022-05-01T091711Z_265166825_UP1EI510PSLGH_RTRMADP_3_SOCCER-SCOTLAND-CEL-RFC-REPORT-scaled.jpg"
-        },
-        {
-          "id": "https://thecelticstar.com/ex-celt-boyata-exits-hertha-berlin-to-sign-3-year-deal-at-club-brugge/",
-          "author": null,
-          "description": "Former Celtic star Dedryck Boyata has left Hertha Berlin to join Club Brugge, signing a three year deal with the Belgian Champions.The Invincible central defender, left Celtic in the summer of 2019 after running down his contract following the club rejecting a £10m bid from Fulham the previous summer, amid tensions between the then Celtic manager Read More",
-          "link": "https://thecelticstar.com/ex-celt-boyata-exits-hertha-berlin-to-sign-3-year-deal-at-club-brugge/",
-          "publishedOn": "2022-08-23T11:43:25.000Z",
-          "wordCount": 1447,
-          "title": "Ex-Celt Boyata exits Hertha Berlin to sign 3 year deal at Club Brugge",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2018/01/boyata_goal_1011.jpg"
-        },
-        {
-          "id": "https://celtsarehere.com/celtic-make-champions-league-announcement/",
-          "author": null,
-          "description": "CELTIC has announced that three-match packages for the Champions League group stages have gone on sale on Tuesday afternoon. 🍀 Glory Days, European Nights! 🪩 @ChampionsLeague nights are BACK at Paradise 🤩 3 Match Packages for the #UCL Group Stage are on sale now to Season Ticket Holders ⤵ ⏰ Deadline for STHs is Monday […]\nSource",
-          "link": "https://celtsarehere.com/celtic-make-champions-league-announcement/",
-          "publishedOn": "2022-08-23T11:32:09.000Z",
-          "wordCount": 13429,
-          "title": "Celtic Make Champions League Announcement",
-          "imageUrl": "https://i0.wp.com/celtsarehere.com/wp-content/uploads/2021/02/champions-league.jpg?fit=800%2C400&ssl=1"
-        },
-        {
-          "id": "https://celtsarehere.com/haksabanovic-celtic-update/",
-          "author": null,
-          "description": "SEAD HAKSABANOVIC is expected to join Celtic this week after he travelled to Glasgow yesterday to complete his move to the Scottish champions. https://twitter.com/mhendry92/status/1562030149612306435?s=20&t=seLNAaEesIoLA5RfqnY0CA Negotiations with the player have progressed well; all that needs to happen is for Rubin Kazan and Celtic to agree on the fee. The player’s position is clear; he wants Celtic. […]\nSource",
-          "link": "https://celtsarehere.com/haksabanovic-celtic-update/",
-          "publishedOn": "2022-08-23T11:03:30.000Z",
-          "wordCount": 13416,
-          "title": "Haksabanovic Celtic Update",
-          "imageUrl": "https://i0.wp.com/celtsarehere.com/wp-content/uploads/2022/08/img_5368-scaled.jpg?fit=2048%2C1494&ssl=1"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/ffp-uefa-moving-and-competing-against-death-wish-clubs/",
-          "author": null,
-          "description": "The Times today report that Uefa will shortly announce Financial Fair Play (FFP) sanctions against Paris St-Germain, Barcelona, Inter Milan, Roma and Juventus.  Newco’s remarkable Europa League run, and subsequent player sales, will provide a stay of execution.  They could even announce the first operational profit in their history when accounts are published. With football [...]",
-          "link": "https://www.celticquicknews.co.uk/ffp-uefa-moving-and-competing-against-death-wish-clubs/",
-          "publishedOn": "2022-08-23T11:02:50.000Z",
-          "wordCount": 6481,
-          "title": "FFP, Uefa moving and competing against death wish clubs",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/the-birth-of-a-legend-billy-mcneill-part-four-mike-jackson-remembers/",
-          "author": null,
-          "description": "CELTIC legend Billy McNeill made his first team debut exactly FIFTY-FOUR years ago today and took his first steps into club folklore. Author Alex Gordon paid tribute to his friend in his publication, ‘BILLY McNEILL: In Praise of Caesar‘, which was published in 2018. In the fourth and concluding part of CQN’S EXCLUSIVE series, we [...]",
-          "link": "https://www.celticquicknews.co.uk/the-birth-of-a-legend-billy-mcneill-part-four-mike-jackson-remembers/",
-          "publishedOn": "2022-08-23T11:00:21.000Z",
-          "wordCount": 3231,
-          "title": "THE BIRTH OF A LEGEND: BILLY McNEILL: PART FOUR: MIKE JACKSON REMEMBERS",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2021/12/MIKE-JACKSON-AND-BILLY-MCNEILL-FEATURED.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/the-birth-of-a-legend-billy-mcneill-part-three-john-fallon-remembers/",
-          "author": null,
-          "description": "CELTIC legend Billy McNeill made his first team debut exactly FIFTY-FOUR years ago today and took his first steps into club folklore. Author Alex Gordon paid tribute to his friend in his publication, ‘BILLY McNEILL: In Praise of Caesar‘, which was published in 2018. In Part Three of CQN’S EXCLUSIVE series, we continue our walk [...]",
-          "link": "https://www.celticquicknews.co.uk/the-birth-of-a-legend-billy-mcneill-part-three-john-fallon-remembers/",
-          "publishedOn": "2022-08-23T10:50:32.000Z",
-          "wordCount": 3684,
-          "title": "THE BIRTH OF A LEGEND: BILLY McNEILL: PART THREE: JOHN FALLON REMEMBERS",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2019/06/BILLY-MCNEILLPAT-BONNER.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/the-birth-of-a-legend-billy-mcneill-part-two-pat-crerand-remembers/",
-          "author": null,
-          "description": "CELTIC legend Billy McNeill made his first team debut exactly FIFTY-FOUR years ago today and took his first steps into club folklore. Author Alex Gordon paid tribute to his friend in his publication, ‘BILLY McNEILL: In Praise of Caesar‘, which was published in 2018. In Part Two of CQN’S EXCLUSIVE series, we continue our walk [...]",
-          "link": "https://www.celticquicknews.co.uk/the-birth-of-a-legend-billy-mcneill-part-two-pat-crerand-remembers/",
-          "publishedOn": "2022-08-23T10:40:19.000Z",
-          "wordCount": 3694,
-          "title": "THE BIRTH OF A LEGEND: BILLY McNEILL: PART TWO: PAT CRERAND REMEMBERS",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2019/04/BILLY-MCNEILL-FEATURRED.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/the-birth-of-a-legend-billy-mcneill-part-one-icons-debut-54-years-ago/",
-          "author": null,
-          "description": "CELTIC legend Billy McNeill made his first team debut exactly FIFTY-FOUR years ago today and took his first steps into club folklore. The iconic former manager and player, who sadly passed away on April 22 2019 at the age of seventy-nine, played 790 games for his only club, winning nine league championships, seven Scottish Cups, [...]",
-          "link": "https://www.celticquicknews.co.uk/the-birth-of-a-legend-billy-mcneill-part-one-icons-debut-54-years-ago/",
-          "publishedOn": "2022-08-23T10:30:43.000Z",
-          "wordCount": 3725,
-          "title": "THE BIRTH OF A LEGEND: BILLY McNEILL: PART ONE: ICON’S DEBUT 54 YEARS AGO",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2019/04/Billy-McNeill-FEATURED.jpg"
-        },
-        {
-          "id": "https://celtsarehere.com/ange-postecoglous-stunning-champions-league-speech/",
-          "author": null,
-          "description": "ANGE POSTECOGLOU’S extraordinary work last season means that Celtic will be playing Champions League group stage football this season, with the club to find out their draw in just two days. Winning the league was worth more than ever last season, with Celtic overturning a twenty-five-point gap to ensure they’d take back their champions status […]\nSource",
-          "link": "https://celtsarehere.com/ange-postecoglous-stunning-champions-league-speech/",
-          "publishedOn": "2022-08-23T10:16:28.000Z",
-          "wordCount": 13603,
-          "title": "Ange Postecoglou’s Amazing Champions League Speech",
-          "imageUrl": "https://i0.wp.com/celtsarehere.com/wp-content/uploads/2019/07/Champions-League-celtic.jpg?fit=800%2C400&ssl=1"
-        },
-        {
-          "id": "https://thecelticstar.com/champions-league-draw-our-supporters-will-glued-to-the-tv-in-anticipation-ange-postecoglou/",
-          "author": null,
-          "description": "After the 2-0 win over Hearts on Sunday which saw Celtic go clear at the top of the league, looking down on theRangers, Ange Postecoglou could allow himself some time to relish what’s coming his way in the draw for the Champions League which takes place this Thursday, 25 August.Whether Celtic will be the only Read More",
-          "link": "https://thecelticstar.com/champions-league-draw-our-supporters-will-glued-to-the-tv-in-anticipation-ange-postecoglou/",
-          "publishedOn": "2022-08-23T09:28:25.000Z",
-          "wordCount": 1788,
-          "title": "Champions League Draw: “Our supporters will glued to the TV in anticipation,” Ange Postecoglou",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/05/dundee-united-v-celtic-cinch-scottish-premiership-19-1024x765.jpg"
         }
       ]
     },
@@ -2490,6 +2300,16 @@
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
         {
+          "id": "CAIiEFP2mlOz6Pp_Qy9Omz7IllwqGQgEKhAIACoHCAowrueiCTDmn7gCMKXUtwU",
+          "author": null,
+          "description": "Ange Postecoglou outlines late Celtic transfer strategy and moving pieces that could spark last gasp deal  Daily Record",
+          "link": "https://www.dailyrecord.co.uk/sport/football/ange-postecoglou-maps-out-celtic-27849418",
+          "publishedOn": "2022-08-27T21:30:00.000Z",
+          "wordCount": 3339,
+          "title": "Ange Postecoglou outlines late Celtic transfer strategy and moving pieces that could spark last gasp deal - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article27847835.ece/ALTERNATES/s1200/0_JS275558983.jpg"
+        },
+        {
           "id": "CAIiEHzlerz2SHFJvVtNYWd4pJUqGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY",
           "author": null,
           "description": "“Even with VAR, there are going to be mistakes made,” Ange Postecoglou  The Celtic Star",
@@ -2498,6 +2318,16 @@
           "wordCount": 1439,
           "title": "“Even with VAR, there are going to be mistakes made,” Ange Postecoglou - The Celtic Star",
           "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2021/10/vfl-wolfsburg-v-sevilla-fc-group-g-uefa-champions-league-1024x727.jpeg"
+        },
+        {
+          "id": "CAIiEPFhkeqwI2NrogFA1b6XQ1gqGQgEKhAIACoHCAowrueiCTDmn7gCMOjNtwU",
+          "author": null,
+          "description": "Matt O'Riley issues definitive Celtic transfer address as he confesses 'big clubs' have made their move  Daily Record",
+          "link": "https://www.dailyrecord.co.uk/sport/football/football-news/matt-oriley-issues-definitive-celtic-27848326",
+          "publishedOn": "2022-08-27T15:21:54.000Z",
+          "wordCount": 3165,
+          "title": "Matt O'Riley issues definitive Celtic transfer address as he confesses 'big clubs' have made their move - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article27848393.ece/ALTERNATES/s1200/0_Celtic-FC-Media-Access.jpg"
         },
         {
           "id": "CBMihAFodHRwczovL3d3dy42N2hhaWxoYWlsLmNvbS9jZWx0aWMteW91dGgvc2F0dXJkYXktZGVidXQtZm9yLW5ldy1zaWduaW5nLWFzLWNlbHRpYy1iLXByb3NwZWN0cy1pbXByZXNzLXdpdGgtYmlnLXdpbi1pbi1sb3dsYW5kLWxlYWd1ZS_SAYgBaHR0cHM6Ly93d3cuNjdoYWlsaGFpbC5jb20vY2VsdGljLXlvdXRoL3NhdHVyZGF5LWRlYnV0LWZvci1uZXctc2lnbmluZy1hcy1jZWx0aWMtYi1wcm9zcGVjdHMtaW1wcmVzcy13aXRoLWJpZy13aW4taW4tbG93bGFuZC1sZWFndWUvP2FtcA",
@@ -3328,66 +3158,6 @@
           "wordCount": 3129,
           "title": "John Kennedy expecting Celtic 'reality' check as Hoops prepare for Champions League acid test - Daily Record",
           "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article27815364.ece/ALTERNATES/s1200/1_Kennedy.jpg"
-        },
-        {
-          "id": "1543547493",
-          "author": null,
-          "description": "Christopher Jullien Celtic transfer exit fee revealed as £7m defender seals Montpellier move  Football Scotland\nTransfer Latest: Christopher Jullien set for Montpellier medical as Celtic exit nears  The Celtic Star\nChristopher Jullien 'nears' Celtic transfer exit as defender looks to clear final Montpellier loan hurdle  Daily Record\nChristopher Jullien seals Celtic transfer exit as he returns to France with Ligue 1 outfit  Glasgow Live\nJullien leaves Celtic as defender completes Montpellier transfer move  Celtic Way\nView Full coverage on Google News",
-          "link": "https://www.footballscotland.co.uk/spfl/scottish-premiership/christopher-jullien-celtic-transfer-exit-24833105",
-          "publishedOn": "2022-08-23T13:41:06.000Z",
-          "wordCount": 2655,
-          "title": "Christopher Jullien Celtic transfer exit fee revealed as £7m defender seals Montpellier move - Football Scotland",
-          "imageUrl": "https://i2-prod.footballscotland.co.uk/incoming/article24832773.ece/ALTERNATES/s1200/0_SK-Rapid-Wien-v-Celtic-Pre-Season-Friendly.jpg"
-        },
-        {
-          "id": "CAIiEEnsEUZhL9y27AecgGgZV6oqGQgEKhAIACoHCAow_-CqCzD868IDMPLfoQc",
-          "author": null,
-          "description": "Celtic release Champions League ticket packages as prices revealed ahead of draw  Football Scotland",
-          "link": "https://www.footballscotland.co.uk/spfl/scottish-premiership/celtic-release-champions-league-ticket-24832544",
-          "publishedOn": "2022-08-23T13:09:50.000Z",
-          "wordCount": 2574,
-          "title": "Celtic release Champions League ticket packages as prices revealed ahead of draw - Football Scotland",
-          "imageUrl": "https://i2-prod.footballscotland.co.uk/incoming/article24832620.ece/ALTERNATES/s1200/0_12600637.jpg"
-        },
-        {
-          "id": "CAIiEAG15msxy64p2kNM0__EFpwqGQgEKhAIACoHCAowrueiCTDmn7gCMOjNtwU",
-          "author": null,
-          "description": "Celtic unveil Champions League ticket pricing as season card holders to fork out £129 for three elite games  Daily Record",
-          "link": "https://www.dailyrecord.co.uk/sport/football/football-news/celtic-unveil-champions-league-ticket-27812440",
-          "publishedOn": "2022-08-23T12:24:28.000Z",
-          "wordCount": 3092,
-          "title": "Celtic unveil Champions League ticket pricing as season card holders to fork out £129 for three elite games - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article27812485.ece/ALTERNATES/s1200/0_14479838.jpg"
-        },
-        {
-          "id": "CAIiEFRoPLuiKd9irL3_pw_8w54qGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY",
-          "author": null,
-          "description": "Celtic release Champions League ticket details for Season Ticket Holders  The Celtic Star",
-          "link": "https://thecelticstar.com/celtic-release-champions-league-ticket-details-for-season-ticket-holders/",
-          "publishedOn": "2022-08-23T12:04:35.000Z",
-          "wordCount": 1369,
-          "title": "Celtic release Champions League ticket details for Season Ticket Holders - The Celtic Star",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/08/FYoItoMWIAEi1G3-1024x492.jpeg"
-        },
-        {
-          "id": "1530341896",
-          "author": null,
-          "description": "UEFA Champions League Group Stage three-match packages  Official Celtic Football Club Website\nCeltic Champions League possible opponents revealed as pots confirmed ahead of draw  Football Scotland\nChampions League draw LIVE as Celtic and Rangers count down the minutes ahead of the Istanbul reveal  Daily Record\nChampions League group-stage draw: When is it and who could Man City, Liverpool, Chelsea, Tottenham, Celtic and Rangers face?  Sky Sports\nWho Celtic and Rangers can get in Champions League group stage draw as they face Europe's elite  Glasgow Live\nView Full coverage on Google News",
-          "link": "https://www.celticfc.com/tickets/ucl-group-stage-three-match-packages",
-          "publishedOn": "2022-08-23T11:15:26.000Z",
-          "wordCount": 2846,
-          "title": "UEFA Champions League Group Stage three-match packages - Official Celtic Football Club Website",
-          "imageUrl": "https://images.webapi.gc.celticfc.com/fit-in/1000x1000/a6213da0-1e1b-11ed-916f-8d2bc17ae641.jpg"
-        },
-        {
-          "id": "CAIiEHAYGOXe1zZVoPWkguqox_kqGQgEKhAIACoHCAowi76vCzCYyccDMKvzuAc",
-          "author": null,
-          "description": "The Celtic and Rangers Champions League coefficient quirk that will see Hoops earn millions more than rivals  Scottish Daily Express",
-          "link": "https://www.scottishdailyexpress.co.uk/sport/football/champions-league-coefficient-quirk-see-27810738",
-          "publishedOn": "2022-08-23T10:32:45.000Z",
-          "wordCount": 2960,
-          "title": "The Celtic and Rangers Champions League coefficient quirk that will see Hoops earn millions more than rivals - Scottish Daily Express",
-          "imageUrl": "https://i2-prod.scottishdailyexpress.co.uk/incoming/article27811046.ece/ALTERNATES/s1200/0_Champions-League-Group-Stage-Draw.jpg"
         }
       ]
     },
@@ -3905,36 +3675,6 @@
           "wordCount": 8055,
           "title": "Christopher Jullien leaves Celtic as defender completes  Montpellier transfer move",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/14539965/?type=og-image"
-        },
-        {
-          "id": "b07f1a205e4de3c24646c48576815a6d",
-          "author": null,
-          "description": "Celtic have announced the traditional three-match package for their upcoming group stage home matches.",
-          "link": "https://www.glasgowtimes.co.uk/sport/20715013.celtic-announce-champions-league-three-match-package-fans/?ref=rss",
-          "publishedOn": "2022-08-23T12:05:17.000Z",
-          "wordCount": 8523,
-          "title": "Celtic announce Champions League three-match package for fans",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/14536133/?type=og-image"
-        },
-        {
-          "id": "1dfba9d750b89a7363488fc7f090f257",
-          "author": null,
-          "description": "Ex-Celtic defender Dedryck Boyata has sealed a move to Club Brugge after he was made surplus to requirements at Hertha Berlin.",
-          "link": "https://www.glasgowtimes.co.uk/sport/20713465.former-celtic-defender-seals-transfer-club-brugge/?ref=rss",
-          "publishedOn": "2022-08-23T10:27:00.000Z",
-          "wordCount": 8101,
-          "title": "Celtic Invincible seals transfer and could replace former Hoops team-mate",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/14533350/?type=og-image"
-        },
-        {
-          "id": "d7d8a4bbf743113eb2e2a96417ec6c42",
-          "author": null,
-          "description": "Celtic defender Christopher Jullien is reportedly undergoing '24 hours of tests' during his medical at Montpellier as the defender looks to seal a loan move.",
-          "link": "https://www.glasgowtimes.co.uk/sport/20713024.christopher-jullien-undergoing-medical-celtic-defender-carrying-24-hours-tests-ahead-transfer/?ref=rss",
-          "publishedOn": "2022-08-23T09:41:30.000Z",
-          "wordCount": 8579,
-          "title": "Celtic defender Christopher Jullien undergoing 'rigorous' transfer medical",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/14532063/?type=og-image"
         }
       ]
     }
