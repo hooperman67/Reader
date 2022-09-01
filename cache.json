@@ -6,6 +6,26 @@
       "siteUrl": "https://www.scotsman.com//sport/football/celtic",
       "articles": [
         {
+          "id": "3827334",
+          "author": "Matthew Elder",
+          "description": "Celtic’s deadline day move for St Mirren youngster Dylan Reid has been called off after the clubs failed to agree terms.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtics-deadline-day-transfer-move-called-off-as-talks-collapse-3827334",
+          "publishedOn": "2022-09-01T11:43:06.000Z",
+          "wordCount": 1971,
+          "title": "Celtic's deadline day transfer move 'called off' as talks collapse",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmQ4OGQ4MzM2LTI0NmQtNDBiNC1hODVlLWUyZjNlYjg0YzczYzphZjE3M2ZjMi05ZmQ5LTRmNmMtYTIyZS1hYmY2NjQyOTQ3OWU=.jpg?width=1200&enable=upscale"
+        },
+        {
+          "id": "3827092",
+          "author": "Moira Gordon",
+          "description": "Hearts have made a bid to bring both Christian Ramirez and Mikey Johnston to Tynecastle as they look to fill the void left by injured frontman Liam Boyce.",
+          "link": "https://www.scotsman.com/sport/football/hearts/christian-ramirez-and-mikey-johnston-latest-as-hearts-face-fight-to-land-aberdeen-and-celtic-targets-3827092",
+          "publishedOn": "2022-09-01T10:13:45.000Z",
+          "wordCount": 2360,
+          "title": "Christian Ramirez and Mikey Johnston latest as Hearts face fight to land Aberdeen and Celtic targets",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmY0OWEzNjc0LWQzODUtNDQ0ZC1hYzZkLTg3Zjc5ZDkxZDNiMjo5MDgxOGYyOC1kOTlmLTQxNWQtOGNlMi00ODk5MWRkNTk0M2Q=.jpg?width=1200&enable=upscale"
+        },
+        {
           "id": "3826775",
           "author": "Matthew Elder",
           "description": "Celtic are set to complete a transfer deadline day swoop for Danish midfielder Oliver Abildgaard.",
@@ -334,16 +354,6 @@
           "wordCount": 1869,
           "title": "Celtic set new Scottish top flight record with 9-0 win over Dundee United",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmZkZGVlN2UyLTIzZjQtNDVkMi05MGE2LTY3Mjg4MTNiN2Y2NjpjOWM1Y2FiNy1hY2EyLTQyZTItOGJhMy02OWRmZTk1MDgyZDU=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3821871",
-          "author": "Andrew Smith",
-          "description": "The pull of the Champions League has had a curious impact on a Scottish football phenomenon.",
-          "link": "https://www.scotsman.com/sport/football/celtic/celtic-boss-ange-postecoglou-makes-rangers-comment-after-player-turnover-and-offers-prediction-for-four-clashes-3821871",
-          "publishedOn": "2022-08-27T21:30:00.000Z",
-          "wordCount": 2761,
-          "title": "Celtic boss Ange Postecoglou makes Rangers comment after player 'turnover' and offers prediction for four clashes",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjcxZjQ1YzUyLWE0M2EtNDk5My04NDliLWE3MGRlMzUyZDJjODo0OWVkMmUwMS0wNWEyLTQ4NDQtYTY0OC00MDE0MzVlZWM2YmU=.jpg?width=1200&enable=upscale"
         }
       ]
     },
@@ -352,6 +362,156 @@
       "feedUrl": "http://armchaircelts.co.uk/wprss",
       "siteUrl": "http://armchaircelts.co.uk/feed/wprss/",
       "articles": [
+        {
+          "id": "https://thecelticstar.com/celtics-tiktok-king-of-kings-tribute-henrik-larsson-to-abbas-angel-eyes/",
+          "author": null,
+          "description": "Henrik Larsson to ABBA’s ‘Angel Eyes’on TikTok is now a thing thanks to the young team at Celtic TV, well, poor old Paul Cuddihy the editor of the Celtic View, like many of us, will have no actual idea at all what Tiktok is anyway…So the younger hipsters in the Celtic media department posted a Read More",
+          "link": "https://thecelticstar.com/celtics-tiktok-king-of-kings-tribute-henrik-larsson-to-abbas-angel-eyes/",
+          "publishedOn": "2022-09-01T12:31:56.000Z",
+          "wordCount": 1272,
+          "title": "Celtic’s TikTok King of Kings Tribute: Henrik Larsson to ABBA’s ‘Angel Eyes’",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2021/10/celtic-v-dundee-utd-x-2-1024x694.jpeg"
+        },
+        {
+          "id": "https://thecelticblog.com/2022/09/articles-and-features/last-night-the-celtic-boss-shot-down-another-daft-broadcasters-pro-ibrox-delusion/",
+          "author": null,
+          "description": "Since the day and hour he took over as Celtic manager, Ange Postecoglou has had to deal with the idiots in our media over and over and over again. He must be sick of it by now. The manner in which he deals with them continues to amuse and entertain. Last night, when the line-up […]",
+          "link": "https://thecelticblog.com/2022/09/articles-and-features/last-night-the-celtic-boss-shot-down-another-daft-broadcasters-pro-ibrox-delusion/",
+          "publishedOn": "2022-09-01T11:53:01.000Z",
+          "wordCount": 2070,
+          "title": "Last Night, The Celtic Boss Shot Down Another Daft Broadcaster’s Pro-Ibrox Delusion.",
+          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2021/12/2021-12-09T194014Z_834591493_UP1EHC91IN0DP_RTRMADP_3_SOCCER-EUROPA-CEL-BET-REPORT-1.jpg"
+        },
+        {
+          "id": "https://thecelticstar.com/unique-angle-the-night-james-forrest-made-celtic-history/",
+          "author": null,
+          "description": "A somewhat easier shift for the video editing team at Celtic TV this morning as they ‘only’ had the four Celtic goals to concern themselves with after that monumental effort at the start of the week trying to get the nine scored at Tannadice into the ever popular Unique Angle.Goals from Callum McGregor (his first Read More",
+          "link": "https://thecelticstar.com/unique-angle-the-night-james-forrest-made-celtic-history/",
+          "publishedOn": "2022-09-01T11:43:35.000Z",
+          "wordCount": 1323,
+          "title": "Unique Angle – The night James Forrest made Celtic history",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/08/imago1014280196h-1024x773.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/news/sturm-graz-exec-hails-loan-for-celtics-albian-ajeti-as-striker-speaks-following-exit/",
+          "author": null,
+          "description": "The managing director of Sturm Graz has hailed the club’s loan move for Celtic’s Albian Ajeti. The Swiss forward has endured a nightmare time in Glasgow, spending the majority of last season out after an injury sustained in the 3-2 Europa League win over Real Betis, but managing director Andreas Schicker believes that the 25 ...\nThe post Euro club&#039;s managing director hails loan from Celtic as player speaks after exit appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/sturm-graz-exec-hails-loan-for-celtics-albian-ajeti-as-striker-speaks-following-exit/",
+          "publishedOn": "2022-09-01T11:40:00.000Z",
+          "wordCount": 1845,
+          "title": "Euro club&#039;s managing director hails loan from Celtic as player speaks after exit",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/08/GettyImages-1236834824-scaled.jpg"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/insights-from-strategically-huge-window/",
+          "author": null,
+          "description": "Having rested nine players from Sunday, last night’s result and performance was inconceivably good.  There were several star performers but I thought Anthony Ralston and David Turnbull put in shifts that may go below radar, but were both outstanding. Callum McGregor made the most of his freedom to move forward to catch the County defence [...]",
+          "link": "https://www.celticquicknews.co.uk/insights-from-strategically-huge-window/",
+          "publishedOn": "2022-09-01T11:10:54.000Z",
+          "wordCount": 5346,
+          "title": "Insights from strategically huge window",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/transfers/report-celtic-move-for-st-mirren-talent-stalls-again/",
+          "author": null,
+          "description": "Celtic’s move for St Mirren starlet Dylan Reid once again appears to be off as the clubs have been unable to agree on a fee for the 17-year-old. A bid of around £125,000 had previously been accepted for the youngster, who then rejected a move to Celtic’s B-team in favour of pursuing first-team football with ...\nThe post Report: Celtic move for Premiership talent stalls appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/transfers/report-celtic-move-for-st-mirren-talent-stalls-again/",
+          "publishedOn": "2022-09-01T11:10:00.000Z",
+          "wordCount": 1767,
+          "title": "Report: Celtic move for Premiership talent stalls",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/07/GettyImages-1337579912-scaled-e1657467817284.jpg"
+        },
+        {
+          "id": "https://thecelticstar.com/sandmans-definitive-ratings-celtic-at-folsom-county-jail/",
+          "author": null,
+          "description": "SANDMAN’S DEFINITIVE RATINGS: CELTIC @ FOLSOM COUNTY JAIL…SIEGHEIL – 6.5/10 – That favourite saluting arm of his made a terrific and timely save to cool the County jets as they sought a second retaliation. Was a calm, nerveless replacement for Joe as the Head & Shoulders repair cream attended to his damaged scalp. Also liked his no-nonsense approach Read More",
+          "link": "https://thecelticstar.com/sandmans-definitive-ratings-celtic-at-folsom-county-jail/",
+          "publishedOn": "2022-09-01T11:00:52.000Z",
+          "wordCount": 2472,
+          "title": "Sandman’s Definitive Ratings – Celtic at Folsom County Jail",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/08/imago1014280212h-1024x715.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/news/ralston-highlights-celtic-squad-standards-after-ross-county-league-cup-victory/",
+          "author": null,
+          "description": "Anthony Ralston has praised Celtic’s squad players after Ange Postecoglou’s much-changed side knocked Ross County out of the Premier Sports Cup in Dingwall last night. Ralston marked his first start of the season with two assists for Celtic’s second and final goals of the night as the holders made light work of a tricky looking ...\nThe post Ralston highlights Celtic squad standards after Ross County League Cup victory appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/ralston-highlights-celtic-squad-standards-after-ross-county-league-cup-victory/",
+          "publishedOn": "2022-09-01T10:44:05.000Z",
+          "wordCount": 1942,
+          "title": "Ralston highlights Celtic squad standards after Ross County League Cup victory",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/08/GettyImages-1394766643-scaled.jpg"
+        },
+        {
+          "id": "https://celtsarehere.com/abildgaard-celtic-and-what-next-for-forgotten-celts/",
+          "author": null,
+          "description": "It has been reported today that Celtic are set to round-off their summer business by adding Oliver Abildgaard as their ninth summer signing. The 26-year old plays as a defensive midfielder which was one of the key positions many Hoops fans believed still needing strengthening. Currently Celtic captain Callum McGregor tends to occupy the deeper […]\nSource",
+          "link": "https://celtsarehere.com/abildgaard-celtic-and-what-next-for-forgotten-celts/",
+          "publishedOn": "2022-09-01T10:41:37.000Z",
+          "wordCount": 13848,
+          "title": "Abildgaard, Celtic and What Next for Forgotten Celts?",
+          "imageUrl": "https://i0.wp.com/celtsarehere.com/wp-content/uploads/2022/08/spfl22_23_dutd_celtic_2946-scaled.jpg?fit=2048%2C1352&ssl=1"
+        },
+        {
+          "id": "https://www.footballtransfertavern.com/celtic-news/celtic-agree-abildgaard-deal-transfer-news-latest/",
+          "author": null,
+          "description": "Celtic have reached an ‘agreement’ to sign Rubin Kazan midfielder Oliver Abildgaard, according to transfer insider Fabrizio Romano. The Lowdown: Haksabanovic connection Ange Postecoglou completed the signing of Sead Haksabanovic earlier in the summer, and it appears that he won’t be the only player from Leonid Slutsky’s side making his way to the Premiership. The […]",
+          "link": "https://www.footballtransfertavern.com/celtic-news/celtic-agree-abildgaard-deal-transfer-news-latest/",
+          "publishedOn": "2022-09-01T10:07:04.000Z",
+          "wordCount": 3358,
+          "title": "Romano: Celtic ‘agreement has been reached’ to sign Bitton heir in final hours for Postecoglou",
+          "imageUrl": "https://cdn.footballtransfertavern.com/wp-content/uploads/2022/04/2022-03-14T214013Z_1783341783_UP1EI3E1O6ZH1_RTRMADP_3_SOCCER-SCOTLAND-DDU-CEL-REPORT-scaled.jpg"
+        },
+        {
+          "id": "https://etims.net/?p=17906",
+          "author": null,
+          "description": "With nine changes from the side who walloped dundee united, there was a tiny bit of doubt in most of our minds last night as…",
+          "link": "https://etims.net/?p=17906",
+          "publishedOn": "2022-09-01T10:04:10.000Z",
+          "wordCount": 3369,
+          "title": "Celtic Diary Thursday September 1: He Won’t Stop",
+          "imageUrl": "https://etims.net/wp-content/uploads/2022/09/quote-we-will-be-relentless-in-our-pursuit-for-perfection-we-won-t-ever-be-perfect-but-in-vince-lombardi-82-57-29.jpg"
+        },
+        {
+          "id": "https://thecelticblog.com/2022/09/articles-and-features/if-celtic-get-the-big-dane-abildgaard-the-ange-postecoglou-jigsaw-is-complete/",
+          "author": null,
+          "description": "The transfer window closes tonight, and we are homing in on yet another signing. Indeed, if you believe what you read across the internet the business is just about done. I heard the name yesterday afternoon, but the story didn’t properly get legs until late last night when the boss himself strongly hinted at the […]",
+          "link": "https://thecelticblog.com/2022/09/articles-and-features/if-celtic-get-the-big-dane-abildgaard-the-ange-postecoglou-jigsaw-is-complete/",
+          "publishedOn": "2022-09-01T09:47:31.000Z",
+          "wordCount": 1904,
+          "title": "If Celtic Get The Big Dane Abildgaard The Ange Postecoglou Jigsaw Is Complete.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.67hailhail.com/news/malky-mackay-happy-just-to-get-a-goal-against-celtic-as-he-talks-up-bhoys-levels/",
+          "author": null,
+          "description": "Ross County manager Malky MacKay praised his side for completing a unique achievement for the second time this season in last night’s 4-1 defeat to Celtic; being the only team to score against the champions. Alex Iacovitti’s second goal in as many games in August against Celtic gave County hope after the cup holders went ...\nThe post Malky Mackay happy just to get a goal against Celtic as he talks up Bhoys levels appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/malky-mackay-happy-just-to-get-a-goal-against-celtic-as-he-talks-up-bhoys-levels/",
+          "publishedOn": "2022-09-01T09:45:00.000Z",
+          "wordCount": 1869,
+          "title": "Malky Mackay happy just to get a goal against Celtic as he talks up Bhoys levels",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2021/12/GettyImages-872240782.jpg"
+        },
+        {
+          "id": "https://thecelticstar.com/all-credit-to-the-boys-as-i-made-nine-changes-ange-postecoglou/",
+          "author": null,
+          "description": "After last night’s impressive League Cup win up in Dingwall, Ange Postecoglou shared his thoughts on the 4-1 win over Ross County that earned his side a place in the quarter-finals where we will play Motherwell at Fir Park.“I was really pleased and all credit to the boys as I made nine changes tonight and Read More",
+          "link": "https://thecelticstar.com/all-credit-to-the-boys-as-i-made-nine-changes-ange-postecoglou/",
+          "publishedOn": "2022-09-01T09:43:06.000Z",
+          "wordCount": 1813,
+          "title": "“All credit to the boys as I made nine changes” Ange Postecoglou",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/08/imago1014276526h-1024x708.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/transfers/report-celtic-open-to-offers-on-4-players-on-deadline-day/",
+          "author": null,
+          "description": "Celtic are open to offers on James McCarthy, Liam Shaw, Scott Robertson and Mikey Johnston today, Football Scotland has reported [Live Blog, 08:52]. As we discussed earlier, Danish defensive midfielder Oliver Abilgaard is said to be on the verge of signing up at the Bhoys from Rubin Kazan, further limiting opportunities for McCarthy, never mind ...\nThe post Report: Celtic open to offers on 4 players on deadline day appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/transfers/report-celtic-open-to-offers-on-4-players-on-deadline-day/",
+          "publishedOn": "2022-09-01T09:18:43.000Z",
+          "wordCount": 1837,
+          "title": "Report: Celtic open to offers on 4 players on deadline day",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/09/GettyImages-1242018154-scaled.jpg"
+        },
         {
           "id": "https://www.sportsmole.co.uk/football/arsenal/transfer-talk/news/arsenal-offered-douglas-luiz-for-gbp30m_493483.html",
           "author": null,
@@ -2721,16 +2881,6 @@
           "wordCount": 2661,
           "title": "‘NO PLANS TO LEAVE CELTIC,’ INSISTS O’RILEY",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/08/MATT-ORILEY-GGG.png"
-        },
-        {
-          "id": "https://thecelticstar.com/blackpool-boss-confirms-interest-in-signing-celtic-winger/",
-          "author": null,
-          "description": "Blackpool’s interest in Celtic winger Owen Moffat has increased as manager Michael Appleton outlined via the Blackpool Gazette. The Celtic winger made a handful of appearences last December for the first team, but as Ange’s ambition to improve the squad and bringing in the likes of Jota, a place at the top has become a lot harder Read More",
-          "link": "https://thecelticstar.com/blackpool-boss-confirms-interest-in-signing-celtic-winger/",
-          "publishedOn": "2022-08-27T21:34:13.000Z",
-          "wordCount": 1288,
-          "title": "Blackpool boss confirms interest in signing Celtic winger",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2021/07/1003687303-1-1024x735.jpg"
         }
       ]
     },
@@ -2740,6 +2890,16 @@
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
         {
+          "id": "CAIiEECh1xEs-Cpt239gLI8MQ5sqGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY",
+          "author": null,
+          "description": "Celtic’s TikTok King of Kings Tribute: Henrik Larsson to ABBA’s ‘Angel Eyes’  The Celtic Star",
+          "link": "https://thecelticstar.com/celtics-tiktok-king-of-kings-tribute-henrik-larsson-to-abbas-angel-eyes/",
+          "publishedOn": "2022-09-01T12:31:56.000Z",
+          "wordCount": 1272,
+          "title": "Celtic’s TikTok King of Kings Tribute: Henrik Larsson to ABBA’s ‘Angel Eyes’ - The Celtic Star",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2021/10/celtic-v-dundee-utd-x-2-1024x694.jpeg"
+        },
+        {
           "id": "CAIiEE01rGDXmvrW8ttbmKd52tIqGQgEKhAIACoHCAowrueiCTDmn7gCMKXUtwU",
           "author": null,
           "description": "Prediction for Celtic vs Rangers: Bhoys look best placed to edge first Old Firm clash of the season  Daily Record",
@@ -2748,6 +2908,26 @@
           "wordCount": 3319,
           "title": "Prediction for Celtic vs Rangers: Bhoys look best placed to edge first Old Firm clash of the season - Daily Record",
           "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article27851821.ece/ALTERNATES/s1200/0_JS275736027.jpg"
+        },
+        {
+          "id": "CAIiEMoUZFfj_36ansz0LfXnDJcqGQgEKhAIACoHCAow_-CqCzD868IDMPLfoQc",
+          "author": null,
+          "description": "Oliver Abildgaard agrees Celtic transfer as Ange Postecoglou pulls off second Rubin Kazan swoop  Football Scotland",
+          "link": "https://www.footballscotland.co.uk/spfl/scottish-premiership/oliver-abildgaard-agrees-celtic-transfer-24896045",
+          "publishedOn": "2022-09-01T06:58:25.000Z",
+          "wordCount": 2527,
+          "title": "Oliver Abildgaard agrees Celtic transfer as Ange Postecoglou pulls off second Rubin Kazan swoop - Football Scotland",
+          "imageUrl": "https://i2-prod.footballscotland.co.uk/incoming/article24896301.ece/ALTERNATES/s1200/0_GettyImages-1229581869.jpg"
+        },
+        {
+          "id": "CAIiEHWHby_A3u19gwXARCsAR40qGQgEKhAIACoHCAowrueiCTDmn7gCMIfHtwU",
+          "author": null,
+          "description": "Vinicius in Celtic confession as Real Madrid superstar sends ominous warning to Champions League rivals  Daily Record",
+          "link": "https://www.dailyrecord.co.uk/sport/football/football-news/vinicius-celtic-confession-real-madrid-27880665",
+          "publishedOn": "2022-09-01T06:09:14.000Z",
+          "wordCount": 3208,
+          "title": "Vinicius in Celtic confession as Real Madrid superstar sends ominous warning to Champions League rivals - Daily Record",
+          "imageUrl": "https://i2-prod.mirror.co.uk/incoming/article27092663.ece/ALTERNATES/s1200/1_GettyImages-1399799735.jpg"
         },
         {
           "id": "CBMiZWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvdHJhbnNmZXItZGVhZGxpbmUtZGF5LWxpdmUtY2VsdGljLTI3ODgwNjAx0gFpaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvZm9vdGJhbGwtbmV3cy90cmFuc2Zlci1kZWFkbGluZS1kYXktbGl2ZS1jZWx0aWMtMjc4ODA2MDEuYW1w",
@@ -2768,6 +2948,16 @@
           "wordCount": 3267,
           "title": "Hammell: Celtic tie so tough but 'Well will \"give their all\" to dump holders - Daily Record",
           "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article27879984.ece/ALTERNATES/s1200/0_JS276050909.jpg"
+        },
+        {
+          "id": "CAIiEDMalmEo_JNGaUoqgJkOzLMqGQgEKhAIACoHCAow4KKJCzCv9JoDMICkoAY",
+          "author": null,
+          "description": "Stoke City could make late move for Celtic midfielder  The Celtic Bhoys",
+          "link": "https://thecelticbhoys.com/2022/08/31/stoke-city-late-move-celtic-midfielder/",
+          "publishedOn": "2022-08-31T21:30:19.000Z",
+          "wordCount": 2383,
+          "title": "Stoke City could make late move for Celtic midfielder - The Celtic Bhoys",
+          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1296175576.jpeg"
         },
         {
           "id": "CAIiEPh52c0Zo7EvthzG5KuunYAqGQgEKhAIACoHCAowrueiCTDmn7gCMIfHtwU",
@@ -3078,6 +3268,16 @@
           "wordCount": 4425,
           "title": "Jack Ross: Dundee United sack head coach after just two months following 9-0 thrashing by Celtic - Sky Sports",
           "imageUrl": "https://e0.365dm.com/22/08/1600x900/skysports-jack-ross-dundee-united_5879905.jpg?20220829095105"
+        },
+        {
+          "id": "CAIiEOzaNisTp_7Zyepd7E4fztkqGQgEKhAIACoHCAow_-CqCzD868IDMPPfoQc",
+          "author": null,
+          "description": "Nick Walsh appointed Celtic vs Rangers referee for Old Firm clash at Parkhead  Football Scotland",
+          "link": "https://www.footballscotland.co.uk/spfl/scottish-premiership/nick-walsh-appointed-celtic-vs-24885623",
+          "publishedOn": "2022-08-30T09:18:13.000Z",
+          "wordCount": 2461,
+          "title": "Nick Walsh appointed Celtic vs Rangers referee for Old Firm clash at Parkhead - Football Scotland",
+          "imageUrl": "https://i2-prod.footballscotland.co.uk/incoming/article24885642.ece/ALTERNATES/s1200/0_Livingston-FC-v-Celtic-FC-Cinch-Scottish-Premiership.jpg"
         },
         {
           "id": "CAIiEEwUDfXHATUEwdbyh2ei-FIqGQgEKhAIACoHCAow4KKJCzCv9JoDMICkoAY",
@@ -3468,26 +3668,6 @@
           "wordCount": 3583,
           "title": "Arsenal transfer news: Pedro Neto deal 'worry' as Celtic star eyed - The Mirror",
           "imageUrl": "https://i2-prod.mirror.co.uk/incoming/article27850323.ece/ALTERNATES/s1200/0_GettyImages-1416208990.jpg"
-        },
-        {
-          "id": "CAIiEJzj9041DZijhdjs1kX9PV8qGQgEKhAIACoHCAow4KKJCzCv9JoDMICkoAY",
-          "author": null,
-          "description": "Steven Gerrard in danger of beating old Celtic rival to the sack  The Celtic Bhoys",
-          "link": "https://thecelticbhoys.com/2022/08/27/steven-gerrard-old-celtic-rival-sack/",
-          "publishedOn": "2022-08-27T21:36:59.000Z",
-          "wordCount": 2669,
-          "title": "Steven Gerrard in danger of beating old Celtic rival to the sack - The Celtic Bhoys",
-          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1416246447.jpeg"
-        },
-        {
-          "id": "CAIiEFP2mlOz6Pp_Qy9Omz7IllwqGQgEKhAIACoHCAowrueiCTDmn7gCMKXUtwU",
-          "author": null,
-          "description": "Ange Postecoglou outlines late Celtic transfer strategy and moving pieces that could spark last gasp deal  Daily Record",
-          "link": "https://www.dailyrecord.co.uk/sport/football/ange-postecoglou-maps-out-celtic-27849418",
-          "publishedOn": "2022-08-27T21:30:00.000Z",
-          "wordCount": 3339,
-          "title": "Ange Postecoglou outlines late Celtic transfer strategy and moving pieces that could spark last gasp deal - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article27847835.ece/ALTERNATES/s1200/0_JS275558983.jpg"
         }
       ]
     },
@@ -3496,6 +3676,26 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "72c5ef220d380a466a3e0b9f4bf46736",
+          "author": null,
+          "description": "TWO Celtic stars were spotted clapping and \"jamming\" along, as Hoops fans sang at last night's match.",
+          "link": "https://www.glasgowtimes.co.uk/sport/20875821.watch-celtic-stars-clap-jam-along-hoops-fans-sing-ross-county-game/?ref=rss",
+          "publishedOn": "2022-09-01T11:23:23.000Z",
+          "wordCount": 8138,
+          "title": "WATCH: Celtic stars clap and 'jam' along as Hoops fans sing at Ross County game",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/14834997/?type=og-image"
+        },
+        {
+          "id": "bab1b134bf8cc0658d1f8dc1f5d7f94b",
+          "author": null,
+          "description": "CELTIC are still chasing a six-figure transfer swoop for St Mirren kid Dylan Reid, according to reports.",
+          "link": "https://www.glasgowtimes.co.uk/sport/20873704.celtic-still-chasing-six-figure-transfer-swoop-st-mirren-kid-dylan-reid/?ref=rss",
+          "publishedOn": "2022-09-01T08:53:38.000Z",
+          "wordCount": 10147,
+          "title": "Celtic still chasing six-figure transfer swoop for St Mirren kid Dylan Reid",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/14831845/?type=og-image"
+        },
         {
           "id": "6dc31e8bce940eb2c9e2b66b843431a9",
           "author": null,
