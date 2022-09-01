@@ -6,6 +6,26 @@
       "siteUrl": "https://www.scotsman.com//sport/football/celtic",
       "articles": [
         {
+          "id": "3826550",
+          "author": "Andrew Smith",
+          "description": "If you believe the more outlandish rumours, Celtic will be working on transfers in and out, morning, noon and night on deadline day.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtic-transfers-alive-to-late-deals-oliver-abildgaard-one-player-attracting-premiership-interest-deadline-day-at-parkhead-3826550",
+          "publishedOn": "2022-09-01T06:00:00.000Z",
+          "wordCount": 1858,
+          "title": "Celtic transfers: 'Alive' to late deals, Oliver Abildgaard, one player attracting Premiership interest - deadline day at Parkhead",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjQxNzc5NWVmLWY5OTgtNDk4Mi1iYzU3LWY4NmRlNTc1ZjU3MTo1MjI0ZjkxYS0yOTgxLTQxYmQtOWUxOS03ODI4OGM0NjkxYTY=.jpg?width=1200&enable=upscale"
+        },
+        {
+          "id": "3826623",
+          "author": "Andrew Smith",
+          "description": "Ross County Malky Mackay homed in on a stat that sets his team apart from all others to have faced Celtic this season as he dished out praise to his players despite their 4-1 Premier Sports Cup defeat at home Ange Postecoglou’s side.",
+          "link": "https://www.scotsman.com/sport/football/celtic/only-team-in-the-country-malky-mackay-makes-ross-county-claim-when-it-comes-to-handling-celtic-3826623",
+          "publishedOn": "2022-09-01T05:30:00.000Z",
+          "wordCount": 1964,
+          "title": "'Only team in the country' - Malky Mackay makes Ross County claim when it comes to handling Celtic",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjY2NWNkZjc1LTFkMmQtNGVjNS04MWVhLTVkYmQxNTAzNjdkMDo1ODkyNGEwNS1mMGNiLTRjY2YtYWUwMC03ODFmNTBlOGRiMjU=.jpg?width=1200&enable=upscale"
+        },
+        {
           "id": "3826616",
           "author": "Andrew Smith",
           "description": "Celtic manager Ange Postecoglou danced around reports that the club could attempt to recruit Danish holding midfielder Oliver Abildgaard in the final hours of the window.",
@@ -312,6 +332,46 @@
       "feedUrl": "http://armchaircelts.co.uk/wprss",
       "siteUrl": "http://armchaircelts.co.uk/feed/wprss/",
       "articles": [
+        {
+          "id": "https://www.celticquicknews.co.uk/celtic-clear-out-seven-down-three-to-go/",
+          "author": null,
+          "description": "CELTIC’S £5million misfiring frontman Albian Ajeti is on his way to Sturm Graz on a season-long loan Ange Postecoglou had some kind things to say about the Swiss international striker who managed only nine goals in 47 first-team appearances since Neil Lennon bought him from West Ham in August 2020. The Hoops gaffer, who watched [...]",
+          "link": "https://www.celticquicknews.co.uk/celtic-clear-out-seven-down-three-to-go/",
+          "publishedOn": "2022-09-01T06:12:27.000Z",
+          "wordCount": 2820,
+          "title": "CELTIC CLEAR-OUT: SEVEN DOWN, THREE TO GO",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/09/ALBIAN-AJETI-SITS-IT-OUT-HHHHHH.png"
+        },
+        {
+          "id": "https://celtsarehere.com/?p=89860",
+          "author": null,
+          "description": "CELTIC is constantly moving forward under Ange Postecoglou, and the latest Lennoxtown addition just epitomizes this. The club are now in partnership with Primal Strenght, who have provided Celtic with some top-class strength and fitness equipment at Lennoxtown. The Bhoys have been full of praise for the machines that they’ve been using as they geared […]\nSource",
+          "link": "https://celtsarehere.com/?p=89860",
+          "publishedOn": "2022-09-01T06:00:00.000Z",
+          "wordCount": 13392,
+          "title": "Celtic’s Exciting Behind the Scenes Partnership",
+          "imageUrl": "https://i0.wp.com/celtsarehere.com/wp-content/uploads/2018/03/Celtictraining.jpg?fit=615%2C409&ssl=1"
+        },
+        {
+          "id": "https://thecelticstar.com/celtic-on-this-day-1st-september-david-potters-celtic-diary/",
+          "author": null,
+          "description": "Month 2, Day 1 of Celtic Historian David Potter’s new diary on The Celtic Star which will run throughout the new season and will highlight key Celtic related events relevant to each day, today covering 1 September…SATURDAY 1 SEPTEMBER 1888Celtic play their first ever Scottish Cup tie by beating Shettleston 5-1 at Old Celtic Park. Read More",
+          "link": "https://thecelticstar.com/celtic-on-this-day-1st-september-david-potters-celtic-diary/",
+          "publishedOn": "2022-09-01T06:00:00.000Z",
+          "wordCount": 1507,
+          "title": "Celtic On This Day – 1st September – David Potter’s Celtic Diary",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2019/09/Jonny-Hayes-e1567440587176.jpg"
+        },
+        {
+          "id": "https://celtsarehere.com/haskabanovics-post-debut-message-to-fans/",
+          "author": null,
+          "description": "SEAD HASKABANOVIC made his Celtic debut on Wednesday night, playing the final fifteen minutes of the Hoops’ Premier Sports Cup tie in Dingwall. The player came on for Maeda and took the position on the left-wing, his preferred position, as he told CeltsAreHere on Monday at a Fan Media press conference. He looked sharp and […]\nSource",
+          "link": "https://celtsarehere.com/haskabanovics-post-debut-message-to-fans/",
+          "publishedOn": "2022-09-01T05:34:00.000Z",
+          "wordCount": 13398,
+          "title": "Haskabanovic’s Post-Debut Message to Fans",
+          "imageUrl": "https://i0.wp.com/celtsarehere.com/wp-content/uploads/2022/08/img_5463.jpg?fit=1284%2C711&ssl=1"
+        },
         {
           "id": "https://thecelticstar.com/ross-county-1-celtic-4-im-sure-i-saw-craggs-manipulating-these-balls-david-potter/",
           "author": null,
@@ -2591,56 +2651,6 @@
           "wordCount": 2013,
           "title": "Celtic boss Ange delivers timely refereeing reality check; another day of poor decisions",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/07/GettyImages-1242056310-1-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/news/cauldron-like-atmosphere-rb-leipzig-react-to-celtic-draw-and-fixtures/",
-          "author": null,
-          "description": "We’ve already covered the reaction from Real Madrid and Shakhtar Donetsk to facing Celtic in the Champions League on 67 Hail Hail, but what are German outfit RB Leipzig saying to it all? Earlier, it was confirmed by UEFA that Celtic will take on Leipzig in a doubleheader in the middle of Group F’s run ...\nThe post \"Cauldron-like atmosphere\"; RB Leipzig react to Celtic draw and fixtures appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/cauldron-like-atmosphere-rb-leipzig-react-to-celtic-draw-and-fixtures/",
-          "publishedOn": "2022-08-27T18:32:36.000Z",
-          "wordCount": 2046,
-          "title": "\"Cauldron-like atmosphere\"; RB Leipzig react to Celtic draw and fixtures",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/08/GettyImages-1394264042-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/news/video-joe-hart-champions-league-masterclass-resurfaces-great-watch-for-celtic-support/",
-          "author": null,
-          "description": "Once upon a time, Celtic star Joe Hart was considered to be one of the best goalkeepers on the planet and a performance of his in the UEFA Champions League helped create that reputation. Hart’s performance at home to a brilliant Borussia Dortmund team, managed by Jurgen Klopp, in 2012 has taken on almost mythical ...\nThe post Video: Joe Hart Champions League &#039;masterclass&#039; resurfaces; great watch for Celtic fans appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/video-joe-hart-champions-league-masterclass-resurfaces-great-watch-for-celtic-support/",
-          "publishedOn": "2022-08-27T17:31:42.000Z",
-          "wordCount": 1772,
-          "title": "Video: Joe Hart Champions League &#039;masterclass&#039; resurfaces; great watch for Celtic fans",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/05/GettyImages-1395914078-scaled.jpg"
-        },
-        {
-          "id": "https://thecelticblog.com/2022/08/articles-and-features/matt-oriley-unfazed-by-the-nonsense-linking-him-with-a-move-away-from-celtic/",
-          "author": null,
-          "description": "Another day and another set of stories linking a member of this Celtic team with a move either in this window or in January. This time it’s Matt O’Riley, who as we all know signed in January. Even if he were not half the player he is, no club is letting a January signing who […]",
-          "link": "https://thecelticblog.com/2022/08/articles-and-features/matt-oriley-unfazed-by-the-nonsense-linking-him-with-a-move-away-from-celtic/",
-          "publishedOn": "2022-08-27T17:21:55.000Z",
-          "wordCount": 1825,
-          "title": "Matt O’Riley Unfazed By The Nonsense Linking Him With A Move Away From Celtic.",
-          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2022/05/2022-04-09T153044Z_1562541037_UP1EI491735D7_RTRMADP_3_SOCCER-SCOTLAND-CEL-STJ-REPORT-scaled.jpg"
-        },
-        {
-          "id": "https://www.footballtransfertavern.com/celtic-news/celtic-edouard-michut-transfer-news-latest-rumours-psg-sunderland/",
-          "author": null,
-          "description": "Celtic are set to miss out on the signing of Paris Saint-Germain attacking midfielder Edouard Michut, according to Football Insider. The Lowdown: Celtic links Back in July, Sky Sports reported that Ange Postecoglou’s side were preparing an offer in the region of £2m for the 19-year-old. After impressing in PSG’s academy, it was believed that […]",
-          "link": "https://www.footballtransfertavern.com/celtic-news/celtic-edouard-michut-transfer-news-latest-rumours-psg-sunderland/",
-          "publishedOn": "2022-08-27T16:43:44.000Z",
-          "wordCount": 3401,
-          "title": "Blow for Celtic: Ange set to miss out on &#039;dream&#039; midfielder signing after Hoops talks",
-          "imageUrl": "https://cdn.footballtransfertavern.com/wp-content/uploads/2022/07/edouard-michut-celtic-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/news/the-postecoglou-selection-call-that-keeps-paying-off-for-celtic/",
-          "author": null,
-          "description": "Few words better encompass Ange Postecoglou’s tenure at Celtic than “relentless”. It’s a word used by opposition players to describe his side, and a word used by Harry Kewell on his arrival to describe the 57 year old himself. Whilst it’s a word that could apply to a few in Postecoglou’s Celtic side, few embody ...\nThe post The Postecoglou selection call that keeps paying off for Celtic appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/the-postecoglou-selection-call-that-keeps-paying-off-for-celtic/",
-          "publishedOn": "2022-08-27T16:40:00.000Z",
-          "wordCount": 2014,
-          "title": "The Postecoglou selection call that keeps paying off for Celtic",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/08/GettyImages-1409473603-scaled.jpg"
         }
       ]
     },
@@ -2649,6 +2659,16 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CBMiZWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvdHJhbnNmZXItZGVhZGxpbmUtZGF5LWxpdmUtY2VsdGljLTI3ODgwNjAx0gFpaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvZm9vdGJhbGwtbmV3cy90cmFuc2Zlci1kZWFkbGluZS1kYXktbGl2ZS1jZWx0aWMtMjc4ODA2MDEuYW1w",
+          "author": null,
+          "description": "Transfer deadline day LIVE as Celtic and Rangers plus Aberdeen, Hearts and Hibs eye signings  Daily Record",
+          "link": "https://www.dailyrecord.co.uk/sport/football/football-news/transfer-deadline-day-live-celtic-27880601",
+          "publishedOn": "2022-09-01T05:30:48.000Z",
+          "wordCount": 4321,
+          "title": "Transfer deadline day LIVE as Celtic and Rangers plus Aberdeen, Hearts and Hibs eye signings - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article27869903.ece/ALTERNATES/s1200/0_DDAY23normal.jpg"
+        },
         {
           "id": "CAIiEGKWtojEfVYMd5rnFcwHsfgqGQgEKhAIACoHCAowrueiCTDmn7gCMOjNtwU",
           "author": null,
@@ -2698,6 +2718,16 @@
           "wordCount": 8900,
           "title": "Detailed Celtic player ratings as McGregor leads charge of League Cup defence - Celtic Way",
           "imageUrl": "https://www.celticway.co.uk/resources/images/14822078/?type=og-image"
+        },
+        {
+          "id": "CAIiEP7-D9y-tb6-jfMi7qtA6KIqGQgEKhAIACoHCAow_-CqCzD868IDMPPfoQc",
+          "author": null,
+          "description": "Celtic fans offered official charter flights for Shakhtar Donetsk Champions League clash  Football Scotland",
+          "link": "https://www.footballscotland.co.uk/spfl/scottish-premiership/celtic-charter-flights-shakhtar-donetsk-24899328",
+          "publishedOn": "2022-08-31T17:24:17.000Z",
+          "wordCount": 2589,
+          "title": "Celtic fans offered official charter flights for Shakhtar Donetsk Champions League clash - Football Scotland",
+          "imageUrl": "https://i2-prod.footballscotland.co.uk/incoming/article24899434.ece/ALTERNATES/s1200/1_JS256567373.jpg"
         },
         {
           "id": "CAIiEF2EjQ0rFCqhOkwurR3Fy34qGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY",
@@ -3376,6 +3406,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "281664eee8d6410ab4bfdf0e2d935447",
+          "author": null,
+          "description": "ANGE Postecoglou last night admitted Celtic are in good shape heading into the cinch Premiership match against Rangers at Parkhead on Saturday after recording their sixth consecutive victory oiver Ross County.",
+          "link": "https://www.glasgowtimes.co.uk/sport/20865608.ange-postecoglou-assesses-celtics-shape-heading-rangers-game-ross-county-cup-triumph/?ref=rss",
+          "publishedOn": "2022-09-01T05:00:00.000Z",
+          "wordCount": 8566,
+          "title": "Ange Postecoglou assesses Celtic's shape heading into Rangers game after Ross County cup triumph",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/14822795/?type=og-image"
+        },
         {
           "id": "e5c5cc13b9bd026e3eb52211fd84637d",
           "author": null,
