@@ -6,6 +6,26 @@
       "siteUrl": "https://www.scotsman.com//sport/football/celtic",
       "articles": [
         {
+          "id": "3830504",
+          "author": "Andrew Smith",
+          "description": "Celtic’s 4-0 dismantling of Rangers and attendant aspects of the occasion demand frank discussion.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtic-rangers-reaction-combined-xi-with-no-ibrox-players-sectarian-trade-offs-and-green-brigade-the-denigrators-euro-pointers-3830504",
+          "publishedOn": "2022-09-04T08:33:48.000Z",
+          "wordCount": 3157,
+          "title": "Celtic-Rangers reaction: Combined XI with no Ibrox players, sectarian trade-offs and Green Brigade the denigrators, Euro pointers",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmI4NGI2M2MxLTRkMjgtNGU0MS1hOWZiLWMwYTQzZDc4ZDlhMzo4OTYwZWMyYy00MTcxLTQ0ODItYTNkOC1iNTJjNGNkNGFmMjA=.jpg?width=1200&enable=upscale"
+        },
+        {
+          "id": "3830423",
+          "author": "Andrew Smith",
+          "description": "The footballing rewards on offer to Celtic against Real Madrid, in all honesty, might prove to be scant.",
+          "link": "https://www.scotsman.com/sport/football/celtic/why-celtics-high-pressing-is-a-champions-league-risk-worth-taking-for-cameron-carter-vickers-3830423",
+          "publishedOn": "2022-09-04T06:30:00.000Z",
+          "wordCount": 2914,
+          "title": "Why Celtic's high pressing is a Champions League 'risk' worth taking for Cameron Carter-Vickers",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmIxNDBkYTcxLTk5OGEtNGY4MC05MTI2LTFjNGU3Nzk0YjBhNjoxMWVhOTAwYi1iZGZkLTQ4ODItODA2ZS0xZTA0YmU2MzhiNjg=.jpg?width=1200&enable=upscale"
+        },
+        {
           "id": "3830411",
           "author": "Andrew Smith",
           "description": "Celtic winger Jota cut a man in love with life after his scintillating scoring display helped his team to a 4-0 thumping of Rangers in the season’s first league derby.",
@@ -424,26 +444,6 @@
           "wordCount": 2185,
           "title": "'Look at Liverpool and Man City today': Celtic boss laments 'overwhelming buzz' and events at Tannadice",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjAwZDcyZDEyLWJiYjYtNDE4Mi1iODdmLTNkYTM5MGEyYjgzMDphMjUxZjkwNi04Yzk2LTQ1Y2EtYWE0NC0xMGM5ZjNiMWViNWE=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3824907",
-          "author": "Alison McConnell",
-          "description": "Celtic fan Lee Connelly’s fine goal at Ibrox in the 3-1 defeat to Rangers was ultimately little more than a statistical footnote but the game in front of just over 30,000 fans at Ibrox will enhance the hand of Willie Gibson, the Queen of the South manager.",
-          "link": "https://www.scotsman.com/sport/football/rangers/great-goal-from-celtic-fan-against-rangers-hailed-and-the-hope-of-budget-boost-for-proud-manager-as-queen-of-the-south-dont-falter-3824907",
-          "publishedOn": "2022-08-30T21:15:30.000Z",
-          "wordCount": 1804,
-          "title": "'Great goal' from Celtic fan against Rangers hailed - and the hope of budget boost for proud manager as Queen of the South don't falter",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmM5NzI2MTc0LWU3MTgtNGNmOS05M2I4LWI0ZjdmZTE0YTJjZTo0NzFiMGQyNS02Y2M0LTQ2NjYtYmE0Ny1lMDI4YjQwNzcyZDg=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3824863",
-          "author": "Andrew Smith",
-          "description": "Celtic’s 9-0 bleaching of Dundee United at the weekend must have put the frighteners on Ross County as the Highland club contemplated being next up for Ange Postecoglou’s fizzing, free-scorers.",
-          "link": "https://www.scotsman.com/sport/football/celtic/what-channel-is-the-celtic-game-on-all-the-details-and-team-news-for-premier-sports-cup-last-16-tie-away-to-ross-county-3824863",
-          "publishedOn": "2022-08-30T19:59:05.000Z",
-          "wordCount": 2801,
-          "title": "What channel is the Celtic game on? All the details and team news for Premier Sports Cup last 16 tie away to Ross County",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjQwMTZmYjJmLTc1ZWUtNDk1MC05ZDk0LTI5ZTliZDViYjg5MTpkMzE0OTVjNy1jYWVjLTRjZjQtOGM5Zi1iOTk3ZDZkMjYxZGM=.jpg?width=1200&enable=upscale"
         }
       ]
     },
@@ -452,6 +452,86 @@
       "feedUrl": "http://armchaircelts.co.uk/wprss",
       "siteUrl": "http://armchaircelts.co.uk/feed/wprss/",
       "articles": [
+        {
+          "id": "https://thecelticstar.com/unique-angle-abadas-double-jotas-brilliance-and-turnbulls-comedy-classic/",
+          "author": null,
+          "description": "An early start on this Beautiful Sunday from the team at Celtic TV who have ensured that the early risers within the Celtic support didn’t have to sit around, nursing sore heads, waiting for the latest instalment of the Unique Angle of the goals from yesterday’s Glasgow Derby.Incidentally loved Liel Abada’s heartfelt tribute after his Read More",
+          "link": "https://thecelticstar.com/unique-angle-abadas-double-jotas-brilliance-and-turnbulls-comedy-classic/",
+          "publishedOn": "2022-09-04T08:37:18.000Z",
+          "wordCount": 1563,
+          "title": "Unique Angle – Abada’s double, Jota’s brilliance and Turnbull’s comedy classic",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/celtic-fc-v-rangers-fc-cinch-scottish-premiership-49-1024x683.jpg"
+        },
+        {
+          "id": "https://celtsarehere.com/celtic-hero-dines-with-two-dejected-ibrox-players/",
+          "author": null,
+          "description": "Celtic dismantled their bitter rivals with relative ease on Saturday afternoon at Celtic Park. The Rangers side couldn’t live with Celtic’s energy and the bhoys looked better in every department. A double from Abada, and a goal a piece for Jota and Turnbull gave Celtic all three points on the day and put the Hoops […]\nSource",
+          "link": "https://celtsarehere.com/celtic-hero-dines-with-two-dejected-ibrox-players/",
+          "publishedOn": "2022-09-04T08:33:10.000Z",
+          "wordCount": 13543,
+          "title": "Celtic Hero Dines with Two Dejected Ibrox Players",
+          "imageUrl": "https://i0.wp.com/celtsarehere.com/wp-content/uploads/2022/08/spfl22_23_rosscounty_celtic_2097-scaled.jpg?fit=2048%2C1844&ssl=1"
+        },
+        {
+          "id": "https://www.67hailhail.com/news/michael-stewart-delivers-verdict-on-celtics-derby-thumping-makes-withering-comparison/",
+          "author": null,
+          "description": "Former Hearts midfielder Michael Stewart has delivered a withering comparison between Celtic’s derby hero Liel Abada and Rangers star Ryan Kent following the champions’ derby rout yesterday. The Israeli winger scored Celtic’s first and third goals in yesterday’s 4-0 thumping of their fierce rivals, and Stewart was keen to highlight the difference in cutting edge ...\nThe post Michael Stewart delivers verdict on Celtic&#039;s thumping of Rangers; makes withering comparison appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/michael-stewart-delivers-verdict-on-celtics-derby-thumping-makes-withering-comparison/",
+          "publishedOn": "2022-09-04T08:18:15.000Z",
+          "wordCount": 1936,
+          "title": "Michael Stewart delivers verdict on Celtic&#039;s thumping of Rangers; makes withering comparison",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/09/GettyImages-1420437102-scaled.jpg"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/oriley-a-big-noise-at-bouncing-celtic/",
+          "author": null,
+          "description": "MASTERFUL Matt O’Riley was a big noise in the midst of joyous bedlam at pulsating Parkhead yesterday. The stylish playmaker was outstanding in the 4-0 demolition of the Ibrox visitors and paved the way for a rampant performance from the champions with his usual quick-thinking and immaculate delivery. O’Riley swept the inviting ball across in [...]",
+          "link": "https://www.celticquicknews.co.uk/oriley-a-big-noise-at-bouncing-celtic/",
+          "publishedOn": "2022-09-04T08:17:02.000Z",
+          "wordCount": 2694,
+          "title": "O’RILEY A BIG NOISE AT ‘BOUNCING’ CELTIC",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/09/MATT-ORILEY-FRD.png"
+        },
+        {
+          "id": "https://celtsarehere.com/jotas-outstanding-response-to-bbc-journalist/",
+          "author": null,
+          "description": "‘Just chill’, that was the message from Jota to a BBC journalist after the Celtic star was asked if this felt like they made a big statement in the title race after their 4-0 Glasgow Derby win. Jota was instrumental in Celtic embarrassing their opponents on the day and scored an incredible goal to make […]\nSource",
+          "link": "https://celtsarehere.com/jotas-outstanding-response-to-bbc-journalist/",
+          "publishedOn": "2022-09-04T08:13:20.000Z",
+          "wordCount": 13521,
+          "title": "Jota’s Outstanding Response to BBC Journalist",
+          "imageUrl": "https://i0.wp.com/celtsarehere.com/wp-content/uploads/2022/09/img_0998-scaled.jpg?fit=2048%2C1344&ssl=1"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/calmac-hails-hoops-mentality/",
+          "author": null,
+          "description": "BEAMING captain Callum McGregor hailed the Celtic team spirit and togetherness after the four-goal rout of their city rivals at Parkhead yesterday. A crisp double delivered by the lively Liel Abada, a breathtaking run and clinical finish from Filipe Jota and excellent opportunism from substitute David Turnbull hoisted the champions to a five-point advantage at [...]",
+          "link": "https://www.celticquicknews.co.uk/calmac-hails-hoops-mentality/",
+          "publishedOn": "2022-09-04T07:47:27.000Z",
+          "wordCount": 2619,
+          "title": "CALMAC HAILS HOOPS ‘MENTALITY’",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/08/CALLUM-MCGREGOR-APPLAUDS-V-KILLIE.png"
+        },
+        {
+          "id": "https://celtsarehere.com/glasgow-derby-celtic-player-ratings/",
+          "author": null,
+          "description": "Celtic moved five points clear at the top of the Scottish Premiership today (Saturday) as they frankly embarrassed rivals Rangers in an astounding 4-0 victory. A Liel Abada brace, sublime Jota chip and thorough David Turnbull strike completed the rout as Ange Postecoglou and his team left their visitors trembling. Here’s how the players rated. […]\nSource",
+          "link": "https://celtsarehere.com/glasgow-derby-celtic-player-ratings/",
+          "publishedOn": "2022-09-04T07:40:48.000Z",
+          "wordCount": 14398,
+          "title": "Glasgow Derby; Celtic Player Ratings",
+          "imageUrl": "https://i0.wp.com/celtsarehere.com/wp-content/uploads/2022/09/img_0996-scaled.jpg?fit=2048%2C1213&ssl=1"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/im-so-grateful-insists-jota/",
+          "author": null,
+          "description": "FLAMBOYANT Filipe Jota admits he is “so grateful” to be living the dream at Celtic. The Portuguese flyer added another eye-catching strike goal to add to his spectacular collection in the 4-0 romp against Giovanni van Brockhorst’s stunned Ibrox outfit at a rocking Parkhead yesterday. Jota embarked on a solo sortie after being released by [...]",
+          "link": "https://www.celticquicknews.co.uk/im-so-grateful-insists-jota/",
+          "publishedOn": "2022-09-04T07:06:18.000Z",
+          "wordCount": 3045,
+          "title": "‘I’M SO GRATEFUL,’ INSISTS JOTA",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/09/FILIPE-JOTA-FEATURRED-JOY-4-0.png"
+        },
         {
           "id": "https://thecelticstar.com/celtic-on-this-day-4th-september-david-potters-celtic-diary/",
           "author": null,
@@ -2801,66 +2881,6 @@
           "wordCount": 13838,
           "title": "Postecoglou Reflects On Celtic In Europe So Far",
           "imageUrl": "https://i0.wp.com/celtsarehere.com/wp-content/uploads/2022/08/spfl22_23_dutd_celtic_3121-scaled.jpg?fit=2048%2C1461&ssl=1"
-        },
-        {
-          "id": "https://celtsarehere.com/video-former-celtic-striker-scores-dramatic-late-championship-winner/",
-          "author": null,
-          "description": "Former Celtic striker Vakoun Bayo has scored his first goal in the English Championship for Watford after his £5m move this summer. Bayo was signed by Brendan Rodgers under the advice of former Celtic coach Kolo Toure. Not long after the striker came in the door, Rodgers and Kolo were off to Leicester. Due to […]\nSource",
-          "link": "https://celtsarehere.com/video-former-celtic-striker-scores-dramatic-late-championship-winner/",
-          "publishedOn": "2022-08-30T21:05:31.000Z",
-          "wordCount": 13459,
-          "title": "Video: Former Celtic Striker Scores Dramatic Late Championship Winner",
-          "imageUrl": "https://i0.wp.com/celtsarehere.com/wp-content/uploads/2022/08/img_5590-scaled.jpg?fit=2048%2C1071&ssl=1"
-        },
-        {
-          "id": "https://thecelticblog.com/2022/08/articles-and-features/albian-ajetis-celtic-failure-is-compounded-by-his-unwillingness-to-leave-and-play/",
-          "author": null,
-          "description": "Tonight, there are some suggestions in the media that Albian Ajeti is “not convinced” by some of the offers he has outside of Celtic Park. To my mind this is stupid. Whatever it is that Ajeti wants, if he harbours any ambitions of salvaging his career he needs to move on and find a club […]",
-          "link": "https://thecelticblog.com/2022/08/articles-and-features/albian-ajetis-celtic-failure-is-compounded-by-his-unwillingness-to-leave-and-play/",
-          "publishedOn": "2022-08-30T20:39:07.000Z",
-          "wordCount": 1783,
-          "title": "Albian Ajeti’s Celtic Failure Is Compounded By His Unwillingness To Leave And Play.",
-          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2021/09/2020-10-22T193812Z_1221679232_UP1EGAM1IJO2K_RTRMADP_3_SOCCER-EUROPA-CEL-MIL-REPORT.jpg"
-        },
-        {
-          "id": "https://thecelticstar.com/anges-transfer-tease-i-guess-we-will-all-find-out-in-the-next-48-hours/",
-          "author": null,
-          "description": "More from Ange Postecoglou’s Media Conference from earlier today. We’ve already covered the somewhat embarrassing question where the hack simply got his facts all wrong and we’ve also covered the Celtic manager’s thoughts looking back on that beautiful afternoon on Sunday when everything seemed to fall perfectly into place as his team put nine goals Read More",
-          "link": "https://thecelticstar.com/anges-transfer-tease-i-guess-we-will-all-find-out-in-the-next-48-hours/",
-          "publishedOn": "2022-08-30T20:10:40.000Z",
-          "wordCount": 1823,
-          "title": "Ange’s Transfer Tease: “I guess we will all find out in the next 48 hours”",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/08/SPFL22_23_DUTD_CELTIC_0022-1024x698.jpeg"
-        },
-        {
-          "id": "https://thecelticstar.com/celtic-will-have-too-much-upfront-charlie-nicholas-tips-glasgow-derby-joy-for-hoops/",
-          "author": null,
-          "description": "Former Celtic striker Charlie Nicholas reckons that his old club will get the better of theRangers in a five-goal thriller at Celtic Park on Saturday afternoon. Writing in his weekly column in Scottish Daily Express the former Hoops goalscorer reckons that we are in for an exciting Glasgow Derby with both sides looking for the points Read More",
-          "link": "https://thecelticstar.com/celtic-will-have-too-much-upfront-charlie-nicholas-tips-glasgow-derby-joy-for-hoops/",
-          "publishedOn": "2022-08-30T19:08:58.000Z",
-          "wordCount": 1319,
-          "title": "“Celtic will have too much upfront,” Charlie Nicholas tips Glasgow Derby joy for Hoops",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/08/SPFL22_23_DUTD_CELTIC_2028-1024x563.jpeg"
-        },
-        {
-          "id": "https://thecelticblog.com/2022/08/articles-and-features/sevcos-addiction-to-bling-will-probably-result-in-them-doing-something-daft-this-week/",
-          "author": null,
-          "description": "When the Ross Barkley to Celtic rumours started I pointed out that this was a ridiculous idea that only the club across the city would contemplate. It is no surprise whatsoever to see that they are being linked with him, and although their “official media partners” have been told that the club isn’t considering it, […]",
-          "link": "https://thecelticblog.com/2022/08/articles-and-features/sevcos-addiction-to-bling-will-probably-result-in-them-doing-something-daft-this-week/",
-          "publishedOn": "2022-08-30T18:47:16.000Z",
-          "wordCount": 1901,
-          "title": "Sevco’s Addiction To Bling Will Probably Result In Them Doing Something Daft This Week.",
-          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2022/03/2020-08-12T174739Z_1638051266_RC2HCI9FN0I9_RTRMADP_3_SOCCER-SCOTLAND-RFC-STJ-REPORT-scaled.jpg"
-        },
-        {
-          "id": "https://celticfanzine.com/bobby-petta-to/",
-          "author": null,
-          "description": "We are delighted to annouce the second Celtic Player who will be joining us in Thailand for the Celtic Supporters Festival. Bobby Petta will be joining his former team mate at Paradise Didier Agathe. https://celticfanzine.com/product-category/new-issue/ Bobby and Didier will be forever remembered for that famous victory in Amsterdam when Celtic beat Ajax 3-1 with both […]\nThe post Bobby Petta to join Didier Agathe at Celtic Fest in Thailand appeared first on Celtic Fanzine.",
-          "link": "https://celticfanzine.com/bobby-petta-to/",
-          "publishedOn": "2022-08-30T18:32:51.000Z",
-          "wordCount": 1923,
-          "title": "Bobby Petta to join Didier Agathe at Celtic Fest in Thailand",
-          "imageUrl": "https://celticfanzine.com/wp-content/uploads/291867749_10159923171170149_3103707761774947323_n.jpg"
         }
       ]
     },
@@ -2869,6 +2889,16 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CAIiEB6ePZ5zDraKMnmDYiKvQWgqGQgEKhAIACoHCAow78WJCzD3zJsDMLfFpgY",
+          "author": null,
+          "description": "Latest Celtic nonsense proves Rangers support are being let down badly  Rangers News",
+          "link": "https://www.rangersnews.uk/club-news/latest-celtic-nonsense-proves-rangers-support-are-being-let-down-badly/",
+          "publishedOn": "2022-09-04T06:30:00.000Z",
+          "wordCount": 2224,
+          "title": "Latest Celtic nonsense proves Rangers support are being let down badly - Rangers News",
+          "imageUrl": "https://www.rangersnews.uk/static/uploads/24/2022/09/GettyImages-1420497709-scaled.jpg"
+        },
         {
           "id": "CAIiEOd843AjnBm7D6bwfF9dCtIqGQgEKhAIACoHCAowrueiCTDmn7gCMKXUtwU",
           "author": null,
@@ -2957,6 +2987,16 @@
           "publishedOn": "2022-09-03T12:16:10.000Z",
           "wordCount": 1272,
           "title": "Video – A sensational finish from Jota makes it 2-0 to Celtic in Glasgow Derby - The Celtic Star",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2018/01/celticstarlogo512-1.jpg"
+        },
+        {
+          "id": "CAIiEOclJ2gNAFRsOEsWhrBgdpgqGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY",
+          "author": null,
+          "description": "Video: Liel Abada gives the Hoops an early lead in Glasgow Derby  The Celtic Star",
+          "link": "https://thecelticstar.com/abada-gives-the-hoops-an-early-lead/",
+          "publishedOn": "2022-09-03T11:58:49.000Z",
+          "wordCount": 1186,
+          "title": "Video: Liel Abada gives the Hoops an early lead in Glasgow Derby - The Celtic Star",
           "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2018/01/celticstarlogo512-1.jpg"
         },
         {
@@ -3518,26 +3558,6 @@
           "wordCount": 3415,
           "title": "Gio van Bronckhorst in 'relaxed' Rangers transfer pledge as he offers one word Alfredo Morelos exit update - Daily Record",
           "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article27871312.ece/ALTERNATES/s1200/0_JS275944905.jpg"
-        },
-        {
-          "id": "CAIiEMpYegl6bIwbNOwtFP1wlRMqGQgEKhAIACoHCAowrueiCTDmn7gCMIfHtwU",
-          "author": null,
-          "description": "Celtic transfer bulletin as Ryan Mmaee sticking point emerges while door narrows on 2 midfield options  Daily Record",
-          "link": "https://www.dailyrecord.co.uk/sport/football/football-news/celtic-transfer-bulletin-ryan-mmaee-27871331",
-          "publishedOn": "2022-08-30T21:01:45.000Z",
-          "wordCount": 3335,
-          "title": "Celtic transfer bulletin as Ryan Mmaee sticking point emerges while door narrows on 2 midfield options - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article27871561.ece/ALTERNATES/s1200/0_Ferencvaros-v-Shamrock-Rovers-UEFA-Europa-League-Play-Off-First-Leg.jpg"
-        },
-        {
-          "id": "CAIiELfKNqb-gSWWDEraypO3E3oqGQgEKhAIACoHCAowrueiCTDmn7gCMIfHtwU",
-          "author": null,
-          "description": "John Hartson names 2 Celtic transfer headaches Ange Postecoglou still must solve  Daily Record",
-          "link": "https://www.dailyrecord.co.uk/sport/football/football-news/john-hartson-names-2-celtic-27870956",
-          "publishedOn": "2022-08-30T19:35:14.000Z",
-          "wordCount": 3170,
-          "title": "John Hartson names 2 Celtic transfer headaches Ange Postecoglou still must solve - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/sport/football/football-news/article27871036.ece/ALTERNATES/s1200/0_Screenshot-2022-08-30-at-195803.png"
         }
       ]
     },
@@ -3546,6 +3566,26 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "48218a75c4706941b448b80def6fb3e9",
+          "author": null,
+          "description": "JOTA says it is an ‘unbelievable time to be alive’ as he revelled in Celtic’s demolition of Rangers ahead of welcoming Real Madrid to Glasgow on Tuesday night.",
+          "link": "https://www.glasgowtimes.co.uk/sport/20899719.an-unbelievable-time-alive-jota-loving-life-celtic-rangers-rout/?ref=rss",
+          "publishedOn": "2022-09-04T07:46:13.000Z",
+          "wordCount": 8251,
+          "title": "'An unbelievable time to be alive': Jota loving life at Celtic after Rangers rout",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/14862651/?type=og-image"
+        },
+        {
+          "id": "685302b3b0179a52b831465201162683",
+          "author": null,
+          "description": "ANGE Postecoglou had every reason to leave the field feeling triumphant after an emphatic 4-0 victory over Rangers.",
+          "link": "https://www.glasgowtimes.co.uk/sport/20899713.unseen-ange-postecoglou-rangers-gesture-shows-celtic-managers-class/?ref=rss",
+          "publishedOn": "2022-09-04T07:34:35.000Z",
+          "wordCount": 8126,
+          "title": "The unseen Ange Postecoglou Rangers gesture that shows Celtic manager's class",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/14862640/?type=og-image"
+        },
         {
           "id": "56882e19ac358a706bcb22faf61d383f",
           "author": null,
@@ -4105,16 +4145,6 @@
           "wordCount": 9454,
           "title": "Ange Postecoglou reflects on League Cup spark that lit a fire at Celtic, and won him backing of the board",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/14799295/?type=og-image"
-        },
-        {
-          "id": "ac114e92ece78fa2576d49dd09e468bb",
-          "author": null,
-          "description": "FORMER Celtic defender Jack Hendry looks to be headed for the Club Brugge exit door after only one year.",
-          "link": "https://www.glasgowtimes.co.uk/sport/20850141.ex-celtic-player-jack-hendry-weighing-up-serie-move-amid-bundesliga-interest/?ref=rss",
-          "publishedOn": "2022-08-30T18:42:44.000Z",
-          "wordCount": 7980,
-          "title": "Ex-Celtic player Jack Hendry 'weighing up' Serie A move amid Bundesliga interest",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/14799494/?type=og-image"
         }
       ]
     }
