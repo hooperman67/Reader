@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com//sport/football/celtic",
       "articles": [
         {
+          "id": "3830411",
+          "author": "Andrew Smith",
+          "description": "Celtic winger Jota cut a man in love with life after his scintillating scoring display helped his team to a 4-0 thumping of Rangers in the season’s first league derby.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtics-jota-in-unbelievable-to-be-alive-right-now-beam-even-as-he-issues-stay-humble-call-after-hammering-of-rangers-3830411",
+          "publishedOn": "2022-09-03T21:30:00.000Z",
+          "wordCount": 2456,
+          "title": "Celtic’s Jota in ‘unbelievable to be alive right now’ beam even as he issues ‘stay humble’ call after hammering of Rangers",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjUyMTE0OTNmLTg2MDgtNDQ4Mi04YzE3LTQ4ZGMyNWU2ZjZiNDphM2I4MTE2Yi1lYTkxLTQ3ODktYWNkNS1kZTRlNmI3NWY4YmQ=.jpg?width=1200&enable=upscale"
+        },
+        {
           "id": "3830315",
           "author": "Andrew Smith",
           "description": "Celtic’s Ange Postecoglou was in the mood to dish out the barbs after his team handed out a 4-0 battering to rivals Rangers.",
@@ -434,26 +444,6 @@
           "wordCount": 2801,
           "title": "What channel is the Celtic game on? All the details and team news for Premier Sports Cup last 16 tie away to Ross County",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjQwMTZmYjJmLTc1ZWUtNDk1MC05ZDk0LTI5ZTliZDViYjg5MTpkMzE0OTVjNy1jYWVjLTRjZjQtOGM5Zi1iOTk3ZDZkMjYxZGM=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3824387",
-          "author": "Matthew Elder",
-          "description": "The cinch Premiership fixture between St Mirren and Celtic next month has been moved to a new date and time after being selected for TV coverage.",
-          "link": "https://www.scotsman.com/sport/football/celtic/new-date-for-st-mirren-v-celtic-as-match-selected-for-tv-coverage-and-why-the-switch-benefits-celtic-3824387",
-          "publishedOn": "2022-08-30T14:28:36.000Z",
-          "wordCount": 1853,
-          "title": "New date for St Mirren v Celtic as match selected for TV coverage - and why the switch benefits Celtic",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjQ2OGFlMDBjLWNkM2ItNDU5OS1iNzU2LTY3YzgzZWQxYzc5ODo1NjUxYzUwNC0zYzdmLTQwMTQtYjhiMy02NTBlMTVhMzZhNWQ=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3823967",
-          "author": "Matthew Elder",
-          "description": "The 2022 summer transfer window is coming to a close as clubs up and down the country race against the clock to put the finishing touches to their squads.",
-          "link": "https://www.scotsman.com/sport/football/celtic/when-does-the-transfer-window-close-in-scotland-extension-granted-how-teams-can-sign-players-after-deadline-3823967",
-          "publishedOn": "2022-08-30T11:54:19.000Z",
-          "wordCount": 2328,
-          "title": "When does the transfer window close in Scotland? Extension granted, how teams can sign players after deadline",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjcwY2I1MGZhLTViYjgtNDM3Yi1iNDdhLTVlY2M5MjlhYzk3OToyNzE2MmY2Yy0wMDNkLTRkMDMtYjFhMC02ZDJhNWEyMjdmZTE=.jpg?width=1200&enable=upscale"
         }
       ]
     },
@@ -462,6 +452,16 @@
       "feedUrl": "http://armchaircelts.co.uk/wprss",
       "siteUrl": "http://armchaircelts.co.uk/feed/wprss/",
       "articles": [
+        {
+          "id": "https://thecelticstar.com/the-barry-ferguson-files-how-it-started-played-out-and-ended-in-tears/",
+          "author": null,
+          "description": "How it started…Barry Ferguson, the former Rangers captain told us earlier in the week that his old teammate Giovanni van Bronckhorst had sussed out Ange Postecoglou ahead of today’s first Glasgow Derby of the season.The former Netherlands international midfielder suffered home and way defeats to Celtic past season that swung the title away from Ibrox Read More",
+          "link": "https://thecelticstar.com/the-barry-ferguson-files-how-it-started-played-out-and-ended-in-tears/",
+          "publishedOn": "2022-09-03T22:33:46.000Z",
+          "wordCount": 1386,
+          "title": "The Barry Ferguson Files – how it started, played out and ended in tears",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/celtic-fc-v-rangers-fc-cinch-scottish-premiership-54-1024x682.jpeg"
+        },
         {
           "id": "https://thecelticstar.com/injured-kyogo-hits-the-deck-during-derby-celebrations/",
           "author": null,
@@ -2931,186 +2931,6 @@
           "wordCount": 1903,
           "title": "Why Do High Scoring Celtic Games End With So Little Injury Time Played?",
           "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2022/08/2022-07-31T170603Z_1200620492_UP1EI7V1BI2V5_RTRMADP_3_SOCCER-SCOTLAND-CEL-ABE-REPORT-scaled.jpg"
-        },
-        {
-          "id": "https://celtsarehere.com/glasgow-derby-injury-boost-ange-confirms/",
-          "author": null,
-          "description": "ANGE POSTECOGLOU has revealed a brilliant injury boost ahead of the Ross County game and the Glasgow Derby by declaring Giakoumakis is back fit and available for selection. The big Greek didn’t even make the squad for Sunday’s 9-0 thrashing. When the squad initially came out, there was a slight panic from Celtic fans on […]\nSource",
-          "link": "https://celtsarehere.com/glasgow-derby-injury-boost-ange-confirms/",
-          "publishedOn": "2022-08-30T13:44:56.000Z",
-          "wordCount": 13585,
-          "title": "Glasgow Derby Injury Boost – Ange Confirms",
-          "imageUrl": "https://i0.wp.com/celtsarehere.com/wp-content/uploads/2022/08/IMG_5584.jpg?fit=800%2C442&ssl=1"
-        },
-        {
-          "id": "https://celtsarehere.com/ange-postecoglou-reacts-to-jack-ross-sacking/",
-          "author": null,
-          "description": "ANGE POSTECOGLOU has reacted to Jack Ross’s dismissal from Dundee Utd after the bhoys thrashed the Dundee club 9-0 on Sunday. It took until Tuesday morning for the news to come out after emergency talks between Ross and the club, but it was decided the former Sunderland boss would not continue just 10 weeks after […]\nSource",
-          "link": "https://celtsarehere.com/ange-postecoglou-reacts-to-jack-ross-sacking/",
-          "publishedOn": "2022-08-30T13:24:02.000Z",
-          "wordCount": 13582,
-          "title": "Ange Postecoglou Reacts to Jack Ross Sacking",
-          "imageUrl": "https://i0.wp.com/celtsarehere.com/wp-content/uploads/2022/08/spfl22_23_dutd_celtic_0022-scaled.jpg?fit=2048%2C1395&ssl=1"
-        },
-        {
-          "id": "https://thecelticstar.com/whisky-galore-and-a-place-in-motherwell-re-named-ange-road/",
-          "author": null,
-          "description": "Ange Postecoglou has made a significant impact since arriving in Scotland to manage Celtic in June 2021 and he’s had his rewards on the park as the team he assembled as the season progressed delivered both the League Cup and the cinch Premiership title in his first season.Speaking to the latest Open Goal podcast which Read More",
-          "link": "https://thecelticstar.com/whisky-galore-and-a-place-in-motherwell-re-named-ange-road/",
-          "publishedOn": "2022-08-30T13:23:17.000Z",
-          "wordCount": 1550,
-          "title": "Whisky Galore and a place in Motherwell re-named Ange Road",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/08/SPFL22_23_DUTD_CELTIC_3148-1.jpeg"
-        },
-        {
-          "id": "https://thecelticblog.com/2022/08/articles-and-features/owen-moffat-leaving-celtic-shows-that-the-first-team-path-is-harder-to-walk-than-ever/",
-          "author": null,
-          "description": "The decision, today, to let Owen Moffat leave our club to join Blackpool on a three-year deal surprised me. But it probably shouldn’t have, because all this kid has really done here is acknowledge a basic reality. He was a long way from first team football. Those who have watched Moffat over the last few […]",
-          "link": "https://thecelticblog.com/2022/08/articles-and-features/owen-moffat-leaving-celtic-shows-that-the-first-team-path-is-harder-to-walk-than-ever/",
-          "publishedOn": "2022-08-30T13:09:42.000Z",
-          "wordCount": 2451,
-          "title": "Owen Moffat Leaving Celtic Shows That The First Team Path Is Harder To Walk Than Ever.",
-          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2022/05/2022-05-01T091711Z_265166825_UP1EI510PSLGH_RTRMADP_3_SOCCER-SCOTLAND-CEL-RFC-REPORT-scaled.jpg"
-        },
-        {
-          "id": "https://celtsarehere.com/free-agent-jason-denayer-wanted-in-epl/",
-          "author": null,
-          "description": "Former Celtic loan defender Jason Denayer is on the lookout for a new club after leaving Lyon this summer after a four-year stint at the French club. Jason spent 14/15 season at Celtic Park under Ronny Deila, where he partnered with a certain Virgil van Dijk. After his loan stint at Celtic, Jason went back […]\nSource",
-          "link": "https://celtsarehere.com/free-agent-jason-denayer-wanted-in-epl/",
-          "publishedOn": "2022-08-30T12:41:29.000Z",
-          "wordCount": 13534,
-          "title": "Free Agent Jason Denayer Wanted in EPL",
-          "imageUrl": "https://i0.wp.com/celtsarehere.com/wp-content/uploads/2022/06/2022-04-14T202647Z_1384848700_UP1EI4E1KSLBS_RTRMADP_3_SOCCER-EUROPA-LYO-WHU-REPORT-scaled.jpg?fit=800%2C539&ssl=1"
-        },
-        {
-          "id": "https://celtsarehere.com/armstrong-oko-flex-on-the-move/",
-          "author": null,
-          "description": "Former Celtic youngster Armstrong Oko-Flex is on the move again a year after he left Celtic for West Ham. The young attacker signed under Brendan Rodgers cut his ties with the Hoops last summer when Ange Postecoglou came through the door. Armstrong moved to the London club on a Free Transfer from Celtic, where he […]\nSource",
-          "link": "https://celtsarehere.com/armstrong-oko-flex-on-the-move/",
-          "publishedOn": "2022-08-30T12:18:29.000Z",
-          "wordCount": 13401,
-          "title": "Armstrong Oko-Flex On the Move",
-          "imageUrl": "https://i0.wp.com/celtsarehere.com/wp-content/uploads/2022/08/oko-flex-swansea.jpg?fit=800%2C500&ssl=1"
-        },
-        {
-          "id": "https://thecelticstar.com/transfer-latest-owen-moffat-leaves-celtic-to-sign-3-year-deal-at-blackpool/",
-          "author": null,
-          "description": "Owen Moffat has today left Celtic to sign a permanent contract with Blackpool with the winger initially joining the Seassiders’ Development Squad.Both clubs confirmed the transfer today and Blackpool revealed that the 20 year old winger, who leaves Celtic with a League Cup winners medal, will initially link up with the Club’s Development Squad,Moffat, who Read More",
-          "link": "https://thecelticstar.com/transfer-latest-owen-moffat-leaves-celtic-to-sign-3-year-deal-at-blackpool/",
-          "publishedOn": "2022-08-30T11:47:13.000Z",
-          "wordCount": 1466,
-          "title": "Transfer Latest – Owen Moffat leaves Celtic to sign 3 year deal at Blackpool",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/08/FbZ2BRyX0AIzAM--1024x576.jpeg"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/celtic-cup-winner-on-move/",
-          "author": null,
-          "description": "CELTIC winger Owen Moffat has joined Blackpool on a permanent deal. The 20-year-old Hoops starlet has agreed a three-year deal at the Championship outfit with a 12-month option. Moffat, who played a cameo role in the Hoops’ 2-1 Premier Sports League Cup Final triumph over Hibs six days before Christmas, said: “I’m really happy to [...]",
-          "link": "https://www.celticquicknews.co.uk/celtic-cup-winner-on-move/",
-          "publishedOn": "2022-08-30T11:40:57.000Z",
-          "wordCount": 2642,
-          "title": "CELTIC CUP WINNER ON MOVE",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/08/OWEN-MOFFAT-CUP-FEATURED.png"
-        },
-        {
-          "id": "https://www.footballtransfertavern.com/celtic-news/celtic-spl-dylan-reid-transfer-news-updates/",
-          "author": null,
-          "description": "Celtic could still secure the signing of exciting St Mirren youngster Dylan Reid this week, according to a fresh claim from reliable journalist Mark Hendry. The Lowdown: Celtic keen on Reid signing Ange Postecoglou has enjoyed a productive summer in the transfer market, strengthening his squad ahead of what will be a relentless 2022/23 campaign. […]",
-          "link": "https://www.footballtransfertavern.com/celtic-news/celtic-spl-dylan-reid-transfer-news-updates/",
-          "publishedOn": "2022-08-30T11:40:15.000Z",
-          "wordCount": 3377,
-          "title": "&#039;My understanding is&#039;: Reliable journalist says Celtic could seal &#039;special&#039; new transfer late on",
-          "imageUrl": "https://cdn.footballtransfertavern.com/wp-content/uploads/2022/04/2022-04-09T155429Z_1726367583_UP1EI49186Q0J_RTRMADP_3_SOCCER-SCOTLAND-CEL-STJ-REPORT-scaled.jpg"
-        },
-        {
-          "id": "https://thecelticblog.com/2022/08/articles-and-features/if-a-heavy-defeat-to-celtic-gets-you-sacked-ross-will-not-be-the-last-manager-fired/",
-          "author": null,
-          "description": "The news that Jack Ross has been sacked as Dundee Utd manager is not really all that surprising. He was already on the brink before we rolled up at the weekend and inflicted a momentous defeat on his club. But Ross will not be the last manager to face Celtic when he is under pressure. […]",
-          "link": "https://thecelticblog.com/2022/08/articles-and-features/if-a-heavy-defeat-to-celtic-gets-you-sacked-ross-will-not-be-the-last-manager-fired/",
-          "publishedOn": "2022-08-30T11:32:33.000Z",
-          "wordCount": 1857,
-          "title": "If A Heavy Defeat To Celtic Gets You Sacked, Ross Will Not Be The Last Manager Fired.",
-          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2021/10/2021-05-22T132716Z_856751527_UP1EH5M11DEBZ_RTRMADP_3_SOCCER-SCOTLAND-STJ-HIB-REPORT.jpg"
-        },
-        {
-          "id": "https://celtsarehere.com/celtic-winger-exit-confirmed/",
-          "author": null,
-          "description": "Winger Owen Moffat has left Celtic on a permanent basis, joining English seaside club Blackpool. Owen has been playing with Celtic’s developmental side and at a brief point when Ange first took over, it looked like he could make the first team squad. After a short stint with the first team in pre-season, Owen was […]\nSource",
-          "link": "https://celtsarehere.com/celtic-winger-exit-confirmed/",
-          "publishedOn": "2022-08-30T11:11:17.000Z",
-          "wordCount": 13506,
-          "title": "Celtic Winger Exit Confirmed",
-          "imageUrl": "https://i0.wp.com/celtsarehere.com/wp-content/uploads/2022/01/moffay-celtic.jpg?fit=800%2C500&ssl=1"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/football-comes-at-you-quick-when-losing-money/",
-          "author": null,
-          "description": "Five years ago, Jack Ross took his Championship St Mirren team to Celtic Park for a Scottish Cup tie and impressed everyone.  Brendan Rodgers thought they were the best domestic team to play there all season.  I thought he was a manager for the future. Within weeks of leading St Mirren to promotion, he moved [...]",
-          "link": "https://www.celticquicknews.co.uk/football-comes-at-you-quick-when-losing-money/",
-          "publishedOn": "2022-08-30T11:00:13.000Z",
-          "wordCount": 5249,
-          "title": "Football comes at you quick when losing money",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
-        },
-        {
-          "id": "https://thecelticstar.com/dundee-uniteds-empty-seats-policy-lost-revenue-and-flawed-decision-making/",
-          "author": null,
-          "description": "Dundee United’s board of directors this morning took the somewhat inevitable decision to sack Jack Ross after just ten weeks in charge of their football team. It’s a results business and losing 9-0 at home to a rampant Celtic on Sunday afternoon was the straw that broke the camel’s back as far the Dundee United Read More",
-          "link": "https://thecelticstar.com/dundee-uniteds-empty-seats-policy-lost-revenue-and-flawed-decision-making/",
-          "publishedOn": "2022-08-30T10:25:56.000Z",
-          "wordCount": 1787,
-          "title": "Dundee United’s Empty Seats Policy, Lost Revenue and Flawed Decision Making",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/08/FbSe2YtXEAMriP4.jpeg"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/revealed-deep-concerns-ref-in-charge-of-derby/",
-          "author": null,
-          "description": "NICK WALSH will be in charge of the first Glasgow derby of the season when Celtic take on Giovanni van Bronckhorst’s side at Parkhead on Saturday. Hoops chairman Ian Bankier expressed “deep concerns” over the match official last season after his handling of a flashpoint incident during a Premiership meeting against St Johnstone in Glasgow [...]",
-          "link": "https://www.celticquicknews.co.uk/revealed-deep-concerns-ref-in-charge-of-derby/",
-          "publishedOn": "2022-08-30T10:10:33.000Z",
-          "wordCount": 2797,
-          "title": "REVEALED: ‘DEEP CONCERNS’ REF IN CHARGE OF DERBY",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/08/Screenshot-2022-08-30-at-11.37.33.png"
-        },
-        {
-          "id": "https://thecelticstar.com/scott-parker-sacked-then-in-the-words-of-jim-spence-jack-ross-has-left-the-buildingwhat-a-mess/",
-          "author": null,
-          "description": "Both managers who lost 9-0 at the weekend have this morning lost their jobs. First to go was Scott Barker who got Bournemouth promoted from the Championship last season but was given just four games in the top flight, which included away matches against both Manchester City and Liverpool, before discovering how far loyalty takes Read More",
-          "link": "https://thecelticstar.com/scott-parker-sacked-then-in-the-words-of-jim-spence-jack-ross-has-left-the-buildingwhat-a-mess/",
-          "publishedOn": "2022-08-30T09:52:39.000Z",
-          "wordCount": 1277,
-          "title": "Scott Parker sacked then in the words of Jim Spence “Jack Ross has left the building…what a mess”",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/08/FbZgqRvXwAI8f5H-1024x596.jpeg"
-        },
-        {
-          "id": "https://celtsarehere.com/sfa-confirm-glasgow-derby-ref/",
-          "author": null,
-          "description": "Celtic take on their Glasgow rivals on Saturday afternoon where the bhoys could open up a five point gap at the top of the table with a win. VAR will be introduced later this season and in time for the next derby game against The Rangers, but for now, we need the officials to see […]\nSource",
-          "link": "https://celtsarehere.com/sfa-confirm-glasgow-derby-ref/",
-          "publishedOn": "2022-08-30T09:46:36.000Z",
-          "wordCount": 13532,
-          "title": "SFA Confirm Glasgow Derby Ref",
-          "imageUrl": "https://i0.wp.com/celtsarehere.com/wp-content/uploads/2022/08/img_5580-scaled.jpg?fit=2048%2C1425&ssl=1"
-        },
-        {
-          "id": "https://celtsarehere.com/jack-ross-sacked-after-celtic-defeat/",
-          "author": null,
-          "description": "It seemed inevitable after this weekend and today It has been confirmed Jack Ross has been relieved of his duties as Dundee Utd manager. Ross couldn’t survive the poor run of results culminating in a 9-0 thrashing from Celtic. The Scottish manager pulled off an incredible result against AZ Alkmaar in the first leg of […]\nSource",
-          "link": "https://celtsarehere.com/jack-ross-sacked-after-celtic-defeat/",
-          "publishedOn": "2022-08-30T09:34:04.000Z",
-          "wordCount": 13535,
-          "title": "Jack Ross Sacked After Celtic Defeat",
-          "imageUrl": "https://i0.wp.com/celtsarehere.com/wp-content/uploads/2022/08/spfl22_23_dutd_celtic_0382-scaled.jpg?fit=1706%2C2048&ssl=1"
-        },
-        {
-          "id": "https://thecelticstar.com/champions-league-opponents-confirm-away-allocations-for-travelling-celtic-fans/",
-          "author": null,
-          "description": "Celtic’s SLO John Paul Taylor has confirmed the three Champions League ticket allocations for traveling Celtic fans, although the numbers quoted will only satisfy the demand for some of the many thousands of Celtic fans planning to head to Warsaw, Leipzig and Madrid to roar on the Bhoys in the Champions League.Celtic will receive 1500 Read More",
-          "link": "https://thecelticstar.com/champions-league-opponents-confirm-away-allocations-for-travelling-celtic-fans/",
-          "publishedOn": "2022-08-30T09:21:24.000Z",
-          "wordCount": 1313,
-          "title": "Champions League opponents confirm away allocations for travelling Celtic fans",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2019/11/2019-11-07T162548Z_2092848994_RC2G6D96S58F_RTRMADP_3_SOCCER-EUROPA-LAZ-CEL-REPORT-1200x0-c-default.jpeg"
         }
       ]
     },
@@ -3119,6 +2939,16 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CAIiEORocedw1aQER_7WNTMzpNoqGQgEKhAIACoHCAow4KKJCzCv9JoDMICkoAY",
+          "author": null,
+          "description": "Celtic update on Kyogo and Carl Starfelt injuries vs Rangers  The Celtic Bhoys",
+          "link": "https://thecelticbhoys.com/2022/09/03/celtic-kyogo-starfelt-injuries-rangers/",
+          "publishedOn": "2022-09-03T18:12:25.000Z",
+          "wordCount": 2466,
+          "title": "Celtic update on Kyogo and Carl Starfelt injuries vs Rangers - The Celtic Bhoys",
+          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2018%2F08%2F1242056447.jpeg"
+        },
         {
           "id": "CAIiEM5EAHhffMuXaMCs7DLgLnkqGQgEKhAIACoHCAowrueiCTDmn7gCMOjNtwU",
           "author": null,
@@ -3168,6 +2998,26 @@
           "wordCount": 1070,
           "title": "Video: Abada bags his second as Hoops pile on the agony in Glasgow Derby - The Celtic Star",
           "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/celtic-fc-v-rangers-fc-cinch-scottish-premiership-86-1024x690.jpeg"
+        },
+        {
+          "id": "CAIiELG0BqH939XeezbCv6pSAzsqGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY",
+          "author": null,
+          "description": "Video – A sensational finish from Jota makes it 2-0 to Celtic in Glasgow Derby  The Celtic Star",
+          "link": "https://thecelticstar.com/jota-makes-it-two-on-derby-day/",
+          "publishedOn": "2022-09-03T12:16:10.000Z",
+          "wordCount": 1272,
+          "title": "Video – A sensational finish from Jota makes it 2-0 to Celtic in Glasgow Derby - The Celtic Star",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2018/01/celticstarlogo512-1.jpg"
+        },
+        {
+          "id": "CAIiEOfSEEv-qvWWQ3z-tR8XY5UqGQgEKhAIACoHCAow_-CqCzD868IDMPLfoQc",
+          "author": null,
+          "description": "Liel Abada Celtic celebration pays tribute to young fan Leon Brown who passed away  Football Scotland",
+          "link": "https://www.footballscotland.co.uk/spfl/scottish-premiership/liel-abada-celtic-celebration-pays-24922436",
+          "publishedOn": "2022-09-03T11:58:37.000Z",
+          "wordCount": 2339,
+          "title": "Liel Abada Celtic celebration pays tribute to young fan Leon Brown who passed away - Football Scotland",
+          "imageUrl": "https://i2-prod.footballscotland.co.uk/incoming/article24922404.ece/ALTERNATES/s1200/0_JS276312906.jpg"
         },
         {
           "id": "CAIiEKgp3s7qm4yXzDlVzpMF7RwqGQgEKhAIACoHCAow_-CqCzD868IDMPPfoQc",
@@ -3798,93 +3648,13 @@
           "wordCount": 3533,
           "title": "Celtic side with Premiership clubs in Sky Sports TV deal debate as Rangers not decided on £29m offer - Glasgow Live",
           "imageUrl": "https://i2-prod.glasgowlive.co.uk/incoming/article24889895.ece/ALTERNATES/s1200/0_18274954.jpg"
-        },
-        {
-          "id": "CAIiEPegUtj2NEFdi_06-3S-SzoqGQgEKhAIACoHCAowrueiCTDmn7gCMOjNtwU",
-          "author": null,
-          "description": "Ange Postecoglou says Celtic might do a 'couple of things' in the market  Daily Record",
-          "link": "https://www.dailyrecord.co.uk/sport/football/football-news/watch-ange-postecoglou-celtic-press-27868140",
-          "publishedOn": "2022-08-30T14:14:59.000Z",
-          "wordCount": 3929,
-          "title": "Ange Postecoglou says Celtic might do a 'couple of things' in the market - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/sport/football/football-news/article27868063.ece/ALTERNATES/s1200/0_Screenshot-2022-08-30-at-144417.png"
-        },
-        {
-          "id": "CAIiENBJc98Jj0rB17CK9eLLxt8qGQgEKhAIACoHCAow_-CqCzD868IDMPLfoQc",
-          "author": null,
-          "description": "Celtic and Rangers games moved as Sky Sports announce televised Premiership matches  Football Scotland",
-          "link": "https://www.footballscotland.co.uk/spfl/scottish-premiership/celtic-rangers-games-moved-sky-24889421",
-          "publishedOn": "2022-08-30T14:13:13.000Z",
-          "wordCount": 2440,
-          "title": "Celtic and Rangers games moved as Sky Sports announce televised Premiership matches - Football Scotland",
-          "imageUrl": "https://i2-prod.footballscotland.co.uk/incoming/article24889570.ece/ALTERNATES/s1200/0_Dundee-United-v-Celtic-cinch-Premiership-Tannadice-Park.jpg"
-        },
-        {
-          "id": "CBMiWGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL25ld3Mvc2NvdHRpc2gtbmV3cy95b3VuZy1jZWx0aWMtZmFuLWRpZXMtc3VkZGVubHktMjc4NjYzODjSAQA",
-          "author": null,
-          "description": "Young Celtic fan dies suddenly as heartbroken mum in plea for Old Firm applause  Daily Record",
-          "link": "https://www.dailyrecord.co.uk/news/scottish-news/young-celtic-fan-dies-suddenly-27866388",
-          "publishedOn": "2022-08-30T13:48:48.000Z",
-          "wordCount": 3060,
-          "title": "Young Celtic fan dies suddenly as heartbroken mum in plea for Old Firm applause - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article27866784.ece/ALTERNATES/s1200/0_Leon-1.jpg"
-        },
-        {
-          "id": "CAIiEEdBik-wTZOvt6Uw9mwKmXcqGQgEKhAIACoHCAow96D9CjDOy_QCMPvp0wU",
-          "author": null,
-          "description": "Celtic transfer latest as Owen Moffat departs club on permanent deal for English adventure  Glasgow Live",
-          "link": "https://www.glasgowlive.co.uk/sport/celtic-transfer-latest-owen-moffat-24887462",
-          "publishedOn": "2022-08-30T11:49:07.000Z",
-          "wordCount": 3377,
-          "title": "Celtic transfer latest as Owen Moffat departs club on permanent deal for English adventure - Glasgow Live",
-          "imageUrl": "https://i2-prod.glasgowlive.co.uk/incoming/article24887467.ece/ALTERNATES/s1200/0_JS250984204.jpg"
-        },
-        {
-          "id": "CBMioAFodHRwczovL3d3dy5hZmMuY28udWsvMjAyMi8wOC8zMC9kYXZpZS1yb2JiLXNldC1mb3ItaGFsbC1vZi1mYW1lLWluZHVjdGlvbi8_dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPWRhdmllLXJvYmItc2V0LWZvci1oYWxsLW9mLWZhbWUtaW5kdWN0aW9u0gEA",
-          "author": null,
-          "description": "Davie Robb set for Hall of Fame induction  afc.co.uk",
-          "link": "https://www.afc.co.uk/2022/08/30/davie-robb-set-for-hall-of-fame-induction/?utm_source=rss&utm_medium=rss&utm_campaign=davie-robb-set-for-hall-of-fame-induction",
-          "publishedOn": "2022-08-30T11:22:00.000Z",
-          "wordCount": 2406,
-          "title": "Davie Robb set for Hall of Fame induction - afc.co.uk",
-          "imageUrl": "https://d2cx26qpfwuhvu.cloudfront.net/aberdeen/wp-content/uploads/2022/08/19132458/HoF_Webheader.png"
-        },
-        {
-          "id": "CBMiS2h0dHBzOi8vd3d3LmFmYy5jby51ay8yMDIyLzA4LzMwL2RhdmllLXJvYmItc2V0LWZvci1oYWxsLW9mLWZhbWUtaW5kdWN0aW9uL9IBAA",
-          "author": null,
-          "description": "Davie Robb set for Hall of Fame induction  afc.co.uk",
-          "link": "https://www.afc.co.uk/2022/08/30/davie-robb-set-for-hall-of-fame-induction/",
-          "publishedOn": "2022-08-30T11:22:00.000Z",
-          "wordCount": 2400,
-          "title": "Davie Robb set for Hall of Fame induction - afc.co.uk",
-          "imageUrl": "https://d2cx26qpfwuhvu.cloudfront.net/aberdeen/wp-content/uploads/2022/08/19132458/HoF_Webheader.png"
-        },
-        {
-          "id": "CAIiEO6W031-b4FGGHaR-dTvVgcqGQgEKhAIACoHCAowrueiCTDmn7gCMOjNtwU",
-          "author": null,
-          "description": "Rangers predicted line up for Premier Sports Cup clash against QoS  Daily Record",
-          "link": "https://www.dailyrecord.co.uk/sport/football/football-news/rangers-predicted-xi-celtic-clash-27865268",
-          "publishedOn": "2022-08-30T10:50:49.000Z",
-          "wordCount": 3318,
-          "title": "Rangers predicted line up for Premier Sports Cup clash against QoS - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/sport/football/football-news/article27661732.ece/ALTERNATES/s1200/0_JS273704820-1.jpg"
-        },
-        {
-          "id": "CAIiEJPyt-sz1uLVg4rABrOhwekqGQgEKhAIACoHCAow2LCYCzDvurADMNXZ0AY",
-          "author": null,
-          "description": "Jack Ross: Dundee United sack head coach after just two months following 9-0 thrashing by Celtic  Sky Sports",
-          "link": "https://www.skysports.com/football/news/11794/12683872/jack-ross-dundee-united-sack-head-coach-after-just-two-months-following-9-0-thrashing-by-celtic",
-          "publishedOn": "2022-08-30T10:24:54.000Z",
-          "wordCount": 4425,
-          "title": "Jack Ross: Dundee United sack head coach after just two months following 9-0 thrashing by Celtic - Sky Sports",
-          "imageUrl": "https://e0.365dm.com/22/08/1600x900/skysports-jack-ross-dundee-united_5879905.jpg?20220829095105"
         }
       ]
     },
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
         {
           "id": "56882e19ac358a706bcb22faf61d383f",
@@ -4495,36 +4265,6 @@
           "wordCount": 8509,
           "title": "Ross County vs Celtic: TV channel, live stream and kick-off time",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/14797008/?type=og-image"
-        },
-        {
-          "id": "f0b1e7eeaabf0944fbd968c81b9af036",
-          "author": null,
-          "description": "The 20-year-old's chances of breaking into Ange Postecoglou's side seemed to have faded out after an impressive couple of cameos at the start of last season",
-          "link": "https://www.glasgowtimes.co.uk/sport/20846603.former-celtic-starlet-leaves-club-english-championship-side/?ref=rss",
-          "publishedOn": "2022-08-30T11:31:00.000Z",
-          "wordCount": 8179,
-          "title": "Celtic starlet leaves club for English Championship side",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/14793979/?type=og-image"
-        },
-        {
-          "id": "28aaa46ff536ebb8711522b4604f8b78",
-          "author": null,
-          "description": "CHRIS SUTTON has questioned whether Dundee United's sacking of Jack Ross was a \"knee jerk reaction\".",
-          "link": "https://www.glasgowtimes.co.uk/sport/20846338.chris-sutton-reacts-jack-ross-dundee-united-sacking-questions-tony-ashgars-knee-jerk-reaction/?ref=rss",
-          "publishedOn": "2022-08-30T11:08:14.000Z",
-          "wordCount": 8289,
-          "title": "Chris Sutton reacts to Jack Ross' Dundee United sacking and questions Tony Ashgar's 'knee jerk reaction'",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/14793500/?type=og-image"
-        },
-        {
-          "id": "078eb4863da95c0799f2ff6066341451",
-          "author": null,
-          "description": "NICK WALSH has been named the referee for this Saturday's showdown between Celtic and Rangers.",
-          "link": "https://www.glasgowtimes.co.uk/sport/20845128.celtic-vs-rangers-referee-named-ahead-scottish-premiership-showdown/?ref=rss",
-          "publishedOn": "2022-08-30T09:37:15.000Z",
-          "wordCount": 8335,
-          "title": "Celtic vs Rangers referee named ahead of Scottish Premiership showdown",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/14791544/?type=og-image"
         }
       ]
     }
