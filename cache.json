@@ -6,6 +6,26 @@
       "siteUrl": "https://www.scotsman.com//sport/football/celtic",
       "articles": [
         {
+          "id": "3837035",
+          "author": "Matthew Elder",
+          "description": "Celtic manager Ange Postecoglou has emerged as an early frontrunner to replace Graham Potter at Brighton.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtics-ange-postecoglou-among-brighton-job-favourites-as-graham-potter-takes-ex-spfl-boss-to-chelsea-3837035",
+          "publishedOn": "2022-09-08T18:01:54.000Z",
+          "wordCount": 2252,
+          "title": "Celtic’s Ange Postecoglou among Brighton job favourites as Graham Potter takes ex-SPFL boss to Chelsea",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmZkY2QzNDM2LWE1OGQtNGYwZi1hOWM3LTllNDkyNDRmNzM2ZDpmNDFmYzMzMS02NzM0LTQ0MjUtOTViMC02NWRkNWIxYWRhYTg=.jpg?width=1200&enable=upscale"
+        },
+        {
+          "id": "3836733",
+          "author": "Matthew Elder",
+          "description": "Queen Elizabeth II remains under medical supervision at Balmoral amid concerns for her health.",
+          "link": "https://www.scotsman.com/sport/football/celtic/will-scottish-football-fixtures-be-cancelled-if-the-queen-dies-effect-on-spfl-amid-health-concerns-3836733",
+          "publishedOn": "2022-09-08T15:47:44.000Z",
+          "wordCount": 2315,
+          "title": "Will Scottish football fixtures be cancelled if the Queen dies? Effect on SPFL amid health concerns",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjEzYzE0MTVmLTI2MDQtNGZmYS05M2UxLWU1MTI1NWM0MjI0ODo3MjVjZmQ0MS01MDBmLTRlZmItYTRkMC0yYThiODk3OGE0YmE=.jpg?width=1200&enable=upscale"
+        },
+        {
           "id": "3836541",
           "author": "Matthew Elder",
           "description": "Scotland Under-21 head coach Scot Gemmill has named 16-year-olds Ben Doak and Rory Wilson in his new-look squad.",
@@ -402,6 +422,56 @@
       "feedUrl": "http://armchaircelts.co.uk/wprss",
       "siteUrl": "http://armchaircelts.co.uk/feed/wprss/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/news/karim-benzema-comes-out-of-celtic-vs-real-madrid-with-multiple-game-absence/",
+          "author": null,
+          "description": "Real Madrid star Karim Benzema is set to miss Real Madrid’s next three games with an injury sustained in Los Blancos’ 3-0 win over Celtic in Paradise on Tuesday. The striker limped off towards the end of the first half, and was replaced by Eden Hazard who went on to score Real’s third with just ...\nThe post Real Madrid star comes out of Celtic clash with multiple game absence appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/karim-benzema-comes-out-of-celtic-vs-real-madrid-with-multiple-game-absence/",
+          "publishedOn": "2022-09-08T17:45:00.000Z",
+          "wordCount": 1832,
+          "title": "Real Madrid star comes out of Celtic clash with multiple game absence",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/09/GettyImages-1243010724-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/news/newcastle-boss-eddie-howe-opens-up-on-celtic-decision/",
+          "author": null,
+          "description": "Newcastle United manager Eddie Howe has detailed the reasons behind his refusal of the then-vacant managerial position at Celtic, 16 months on. Howe was the favourite to take over from Neil Lennon at the end of the 2020-21 season, but a protracted negotiation process resulted in the 44 year old knocking back the role, with ...\nThe post English Premier League boss opens up on decision that worked out perfectly for Celtic appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/newcastle-boss-eddie-howe-opens-up-on-celtic-decision/",
+          "publishedOn": "2022-09-08T17:15:00.000Z",
+          "wordCount": 1767,
+          "title": "English Premier League boss opens up on decision that worked out perfectly for Celtic",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/09/GettyImages-1419995283-scaled.jpg"
+        },
+        {
+          "id": "https://thecelticblog.com/2022/09/blogs/celtic-fans-marvelled-yesterday-at-an-ibrox-day-of-calamity-on-and-off-the-pitch/",
+          "author": null,
+          "description": "Who said the Banter Years were over? The goings on right now at Ibrox are the proof of that old analogy about how trouble is never behind some people; it’s merely on the other side of the wheel, coming back around. That’s them to a T. They go through spells of calm. Then it’s replaced […]",
+          "link": "https://thecelticblog.com/2022/09/blogs/celtic-fans-marvelled-yesterday-at-an-ibrox-day-of-calamity-on-and-off-the-pitch/",
+          "publishedOn": "2022-09-08T16:00:15.000Z",
+          "wordCount": 2074,
+          "title": "Celtic Fans Marvelled Yesterday At An Ibrox Day Of Calamity On And Off The Pitch",
+          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2021/11/2020-11-22T110307Z_84786678_UP1EGBM0UP730_RTRMADP_3_SOCCER-SCOTLAND-RFC-ABE-REPORT.jpg"
+        },
+        {
+          "id": "https://celtsarehere.com/?p=90255",
+          "author": null,
+          "description": "Due to Kyogo Furuhashi picking up a shoulder injury during the derby match at the weekend it meant that Giorgos Giakoumakis was given a chance to start against Real Madrid. The Greek striker was subbed on early against Rangers and gave Connor Goldson a torrid time of it as he used his physical presence to […]\nSource",
+          "link": "https://celtsarehere.com/?p=90255",
+          "publishedOn": "2022-09-08T15:54:00.000Z",
+          "wordCount": 13596,
+          "title": "‘I thought he did very well’ – John Hartson Singles Out Celtic Star",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.67hailhail.com/news/referee-handed-celtic-vs-livingston-despite-manager-meltdown-last-time/",
+          "author": null,
+          "description": "Kevin Clancy has been allocated to referee Celtic’s home game with Livingston on Saturday, despite his last display in a Hoops fixture causing controversy with the opposition manager. Clancy refereed Celtic’s 2-0 win over Hearts last month and gave second bookings to Alex Cochrane and Tony Sibbick for cynical challenges in the dying minutes of ...\nThe post Referee handed Celtic vs Livingston despite manager meltdown last time appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/referee-handed-celtic-vs-livingston-despite-manager-meltdown-last-time/",
+          "publishedOn": "2022-09-08T15:10:00.000Z",
+          "wordCount": 1727,
+          "title": "Referee handed Celtic vs Livingston despite manager meltdown last time",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/09/GettyImages-1230085703-1-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/news/pundit-picks-out-celtic-hero-who-showed-true-champions-league-class-vs-real-madrid/",
           "author": null,
@@ -2711,16 +2781,6 @@
           "wordCount": 3045,
           "title": "‘I’M SO GRATEFUL,’ INSISTS JOTA",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/09/FILIPE-JOTA-FEATURRED-JOY-4-0.png"
-        },
-        {
-          "id": "https://thecelticstar.com/celtic-on-this-day-4th-september-david-potters-celtic-diary/",
-          "author": null,
-          "description": "Month 2, Day 4 of Celtic Historian David Potter’s new diary on The Celtic Star which will run throughout the new season and will highlight key Celtic-related events relevant to each day, today covering 4 September…MONDAY 4 SEPTEMBER 1922One of the true greats of Celtic history is today killed in an accident in Ayrshire. This Read More",
-          "link": "https://thecelticstar.com/celtic-on-this-day-4th-september-david-potters-celtic-diary/",
-          "publishedOn": "2022-09-04T06:00:00.000Z",
-          "wordCount": 1454,
-          "title": "Celtic On This Day – 4th September – David Potter’s Celtic Diary",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/T_iirwMhTp_P0j9wWMAO6A1357912-1024x593.jpeg"
         }
       ]
     },
@@ -3318,16 +3378,6 @@
           "wordCount": 2224,
           "title": "Latest Celtic nonsense proves Rangers support are being let down badly - Rangers News",
           "imageUrl": "https://www.rangersnews.uk/static/uploads/24/2022/09/GettyImages-1420497709-scaled.jpg"
-        },
-        {
-          "id": "CAIiEOd843AjnBm7D6bwfF9dCtIqGQgEKhAIACoHCAowrueiCTDmn7gCMKXUtwU",
-          "author": null,
-          "description": "Hugh Keevins says humiliations dished out by Celtic and Rangers will get worse  Daily Record",
-          "link": "https://www.dailyrecord.co.uk/sport/football/football-news/celtic-rangers-champions-league-ensures-27900568",
-          "publishedOn": "2022-09-04T05:00:00.000Z",
-          "wordCount": 3686,
-          "title": "Hugh Keevins says humiliations dished out by Celtic and Rangers will get worse - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/sport/football/football-news/article27831547.ece/ALTERNATES/s1200/0_JS275472183.jpg"
         }
       ]
     },
