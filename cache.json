@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com//sport/football/celtic",
       "articles": [
         {
+          "id": "3841144",
+          "author": "Matthew Elder",
+          "description": "Steve Clarke has named his Scotland squad for the forthcoming Nations League triple-header against Ukraine and Republic of Ireland.",
+          "link": "https://www.scotsman.com/sport/football/international/scotland-squad-named-hibs-and-newcastle-duo-return-celtic-earn-double-rangers-call-ups-notable-absentee-3841144",
+          "publishedOn": "2022-09-13T08:56:45.000Z",
+          "wordCount": 2059,
+          "title": "Scotland squad named: Hibs and Newcastle duo return, Celtic earn double Rangers call-ups, notable absentee",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjM3NDEzOGUyLTViZmEtNGM3Ni05N2E3LWE3ZTUxOTg4NjRmNjowMzI4OTU3NS1iYjk4LTQ1NGQtYTBmMi04NjQ1NDE3NzAxYjI=.jpg?width=1200&enable=upscale"
+        },
+        {
           "id": "3840932",
           "author": "Joel Sked",
           "description": "Celtic return to action on Wednesday when they play their second Champions League fixture.",
@@ -232,6 +242,56 @@
       "feedUrl": "http://armchaircelts.co.uk/wprss",
       "siteUrl": "http://armchaircelts.co.uk/feed/wprss/",
       "articles": [
+        {
+          "id": "https://celtsarehere.com/four-celts-called-up-for-scotland/",
+          "author": null,
+          "description": "The Scotland team has been confirmed for the next international break and there will be FOUR Celtic players involved later this month. Steve Clarke has called up two Celtic full-backs in Greg Taylor and Anthony Ralston while also calling up midfield duo Callum McGregor and David Turnbull. Callum continues to play relentlessly for both club […]\nSource",
+          "link": "https://celtsarehere.com/four-celts-called-up-for-scotland/",
+          "publishedOn": "2022-09-13T09:01:17.000Z",
+          "wordCount": 13443,
+          "title": "Four Celts Called Up for Scotland",
+          "imageUrl": null
+        },
+        {
+          "id": "https://celtsarehere.com/absolute-madness-fox-news-journalist-rubbishes-ange-story/",
+          "author": null,
+          "description": "An Aussie journalist has branded the notion Ange Postecoglou would give up what he’s building at Celtic to move to Brighton as ‘Absolute Madness’ this week. The papers in Scotland and some down south have been happy to attach Ange’s name to the vacant role without any real source or conviction. The Celtic manager is […]\nSource",
+          "link": "https://celtsarehere.com/absolute-madness-fox-news-journalist-rubbishes-ange-story/",
+          "publishedOn": "2022-09-13T08:35:18.000Z",
+          "wordCount": 13605,
+          "title": "‘Absolute Madness’ – Fox News Journalist Rubbishes Ange Story",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thecelticstar.com/celtic-legend-on-kyogo-giakoumakis-and-the-luxury-postecoglou-has-in-warsaw/",
+          "author": null,
+          "description": "Tom Boyd reckons that the free weekend Celtic have had due to to game againsst Livingston being postponed due to the death of the Queen will boost the squad and provide the Bhoys with enough rest to be ready for the upcoming Champions League game against Shakhtar Donetsk.The Celtic legend, speaking at Celtic Park at Read More",
+          "link": "https://thecelticstar.com/celtic-legend-on-kyogo-giakoumakis-and-the-luxury-postecoglou-has-in-warsaw/",
+          "publishedOn": "2022-09-13T08:17:40.000Z",
+          "wordCount": 1590,
+          "title": "Celtic legend on Kyogo, Giakoumakis and the luxury Postecoglou has in Warsaw",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/celtic-fc-v-real-madrid-group-f-uefa-champions-league-26-1024x686.jpeg"
+        },
+        {
+          "id": "https://celtsarehere.com/joe-harts-latest-celtic-comments-the-bhoy-gets-it/",
+          "author": null,
+          "description": "JOE HART has been an outstanding addition to the Celtic squad since coming to the club. The Englishman has embraced all aspects of Celtic and has become a leader in the changing room too. The former Manchester City man was watching his career fizzle out before his eyes as he jumped from one club to […]\nSource",
+          "link": "https://celtsarehere.com/joe-harts-latest-celtic-comments-the-bhoy-gets-it/",
+          "publishedOn": "2022-09-13T07:07:51.000Z",
+          "wordCount": 13842,
+          "title": "Joe Hart’s Latest Celtic Comments; The Bhoy Gets It",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/a-great-time-to-be-a-celtic-supporter-insists-boyd/",
+          "author": null,
+          "description": "TOM BOYD insists Celtic played better in their 3-0 loss to Real Madrid than when they memorably overcame Barcelona 2-1 in 2012. Just like Carlo Ancelotti’s All-Stars a week ago, Lionel Messi and Co were European champions when they faced Neil Lennon’s side. Goals from Victor Wanyama and Tony Watt had the Hoops ahead before [...]",
+          "link": "https://www.celticquicknews.co.uk/a-great-time-to-be-a-celtic-supporter-insists-boyd/",
+          "publishedOn": "2022-09-13T06:29:52.000Z",
+          "wordCount": 3034,
+          "title": "‘A GREAT TIME TO BE A CELTIC SUPPORTER,’ INSISTS BOYD",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/09/TOM-BOYD-FEATURRED.png"
+        },
         {
           "id": "https://thecelticstar.com/celtic-on-this-day-13th-september-david-potters-celtic-diary/",
           "author": null,
@@ -1671,26 +1731,6 @@
           "wordCount": 2680,
           "title": "‘SINCERE SYMPATHY,’ CELTIC STATEMENT; FOOTBALL FACES SHUTDOWN:",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/09/CELTIC-PARK-NIGHT-FEATURED-GG.png"
-        },
-        {
-          "id": "https://thecelticstar.com/celtic-release-24-word-statement-following-the-queens-death/",
-          "author": null,
-          "description": "Celtic this evening posted a short statement on the club’s official website following the news today that the 96 year-old Queen Elizabeth II had died at her Balmoral residence. The club’s statement reads as follows:“Celtic Football Club expresses its sincere sympathy and condolences to the family of the late Queen Elizabeth II following today’s announcement Read More",
-          "link": "https://thecelticstar.com/celtic-release-24-word-statement-following-the-queens-death/",
-          "publishedOn": "2022-09-08T20:52:23.000Z",
-          "wordCount": 1228,
-          "title": "Celtic release 24 word statement following the Queen’s Death",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/02/FAiuLJvXEAIw6fz-1.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/news/sfa-and-spfl-in-talks-regarding-potential-celtic-postponement-this-weekend/",
-          "author": null,
-          "description": "The SPFL and SFA are in continuing discussions with the Scottish and UK Governments regarding the potential postponement of this weekend’s football fixtures across the country, including Celtic’s. Queen Elizabeth II has passed away, with some events expected to be disrupted or postponed over the next week or two in line with long-standing procedure. However, ...\nThe post SFA and SPFL in talks regarding potential Celtic postponement this weekend; decision timeline appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/sfa-and-spfl-in-talks-regarding-potential-celtic-postponement-this-weekend/",
-          "publishedOn": "2022-09-08T19:03:35.000Z",
-          "wordCount": 1738,
-          "title": "SFA and SPFL in talks regarding potential Celtic postponement this weekend; decision timeline",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/09/GettyImages-1421372000-scaled.jpg"
         }
       ]
     },
@@ -2328,46 +2368,6 @@
           "wordCount": 3316,
           "title": "Celtic express 'sincere sympathy and condolences' in tribute to Queen Elizabeth II - Glasgow Live",
           "imageUrl": "https://i2-prod.glasgowlive.co.uk/incoming/article24972859.ece/ALTERNATES/s1200/0_JS228812894.jpg"
-        },
-        {
-          "id": "CAIiEOL0-wyr0Xj_4fOwGH8ewaMqGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY",
-          "author": null,
-          "description": "Celtic release 24 word statement following the Queen’s Death  The Celtic Star",
-          "link": "https://thecelticstar.com/celtic-release-24-word-statement-following-the-queens-death/",
-          "publishedOn": "2022-09-08T20:52:23.000Z",
-          "wordCount": 1228,
-          "title": "Celtic release 24 word statement following the Queen’s Death - The Celtic Star",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/02/FAiuLJvXEAIw6fz-1.jpg"
-        },
-        {
-          "id": "CAIiEIhu6rbD3pOOrfGHAa_zp1cqGQgEKhAIACoHCAowsJStCzC9n8UDMNeMswc",
-          "author": null,
-          "description": "Celtic express 'sincere sympathy and condolences' after Queen's death  Celtic Way",
-          "link": "https://www.celticway.co.uk/news/21241223.celtic-express-sincere-sympathy-condolences-queens-death/",
-          "publishedOn": "2022-09-08T20:42:09.000Z",
-          "wordCount": 7875,
-          "title": "Celtic express 'sincere sympathy and condolences' after Queen's death - Celtic Way",
-          "imageUrl": "https://www.celticway.co.uk/resources/images/15092472/?type=og-image"
-        },
-        {
-          "id": "CAIiEH7rNThscbcE40SA6TMs8P8qGQgEKhAIACoHCAowrueiCTDmn7gCMKXUtwU",
-          "author": null,
-          "description": "Queen's passing to spark SPFL shutdown but Celtic and Hearts Euro games could still go ahead  Daily Record",
-          "link": "https://www.dailyrecord.co.uk/sport/football/football-news/queens-passing-spark-spfl-shutdown-27945498",
-          "publishedOn": "2022-09-08T20:16:13.000Z",
-          "wordCount": 3543,
-          "title": "Queen's passing to spark SPFL shutdown but Celtic and Hearts Euro games could still go ahead - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article25954400.ece/ALTERNATES/s1200/1_19921528.jpg"
-        },
-        {
-          "id": "CAIiEJTbJXSRNKF3cC9PWZFYktgqGQgEKhAIACoHCAowr5GNCzDFxJ4DMLbFpgY",
-          "author": null,
-          "description": "SFA and SPFL in talks regarding potential Celtic postponement this weekend  67 Hail Hail - Celtic FC News",
-          "link": "https://www.67hailhail.com/news/sfa-and-spfl-in-talks-regarding-potential-celtic-postponement-this-weekend/",
-          "publishedOn": "2022-09-08T19:03:35.000Z",
-          "wordCount": 1759,
-          "title": "SFA and SPFL in talks regarding potential Celtic postponement this weekend - 67 Hail Hail - Celtic FC News",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/09/GettyImages-1421372000-scaled.jpg"
         }
       ]
     },
@@ -2745,26 +2745,6 @@
           "wordCount": 8400,
           "title": "Celtic confidence buoyed, not dented, by Real Madrid defeat says David Turnbull",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15084753/?type=og-image"
-        },
-        {
-          "id": "4e6d54debc0cd26eac253c87b8eff930",
-          "author": null,
-          "description": "CELTIC have expressed \"sincere sympathy and condolences\" to the Royal Family after the Queen's death.",
-          "link": "https://www.glasgowtimes.co.uk/sport/21241223.celtic-express-sincere-sympathy-condolences-queens-death/?ref=rss",
-          "publishedOn": "2022-09-08T20:42:09.000Z",
-          "wordCount": 8058,
-          "title": "Celtic express 'sincere sympathy and condolences' after Queen's death",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15092472/?type=og-image"
-        },
-        {
-          "id": "645f3ce61ff6e681cf0e573281efc23c",
-          "author": null,
-          "description": "RANGERS and Celtic will reportedly be given the option to reschedule upcoming Champions League fixtures after the death of the Queen.",
-          "link": "https://www.glasgowtimes.co.uk/sport/21240713.rangers-celtic-given-champions-league-rearrangement-option/?ref=rss",
-          "publishedOn": "2022-09-08T20:17:01.000Z",
-          "wordCount": 10196,
-          "title": "Rangers and Celtic to be ‘given Champions League rearrangement option'",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15091461/?type=og-image"
         }
       ]
     }
