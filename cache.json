@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com//sport/football/celtic",
       "articles": [
         {
+          "id": "3842205",
+          "author": "Matthew Elder",
+          "description": "Celtic have close to a full squad for their Champions League clash against Shakhtar Donetsk.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtic-team-news-kyogo-update-defender-injured-midfielder-ruled-out-due-to-illness-3842205",
+          "publishedOn": "2022-09-13T18:34:22.000Z",
+          "wordCount": 1603,
+          "title": "Celtic team news: Kyogo update, defender injured, midfielder ruled out due to illness",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjcxMzA5MzZhLWVmMzktNGM2MS05NTU1LTRlNjZjZThiNmJkYzoxN2FjMTczOS1mZjRhLTQ5NWEtOTZhMS02NGM0ZGFhMTY3OTE=.jpg?width=1200&enable=upscale"
+        },
+        {
           "id": "3841530",
           "author": "Matthew Elder",
           "description": "Celtic captain Callum McGregor has been urged to make more forward passes in the Champions League fixture against Shakhtar Donetsk on Wednesday.",
@@ -204,26 +214,6 @@
           "wordCount": 2246,
           "title": "Scottish football fixtures: SPFL to make call as EPL and EFL take decision to postpone weekend matches",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmU2MjkyOWE4LWYyZTAtNDM5ZC04YmY5LTgxMmQ4MDRiNzBiYTozZjIzYzUzMy00ZTUzLTQ0ZDMtOWVmZC0yZWZlMjM4Nzc2OTA=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3837520",
-          "author": "Matthew Elder",
-          "description": "Livingston have issued a club statement in response to queries regarding the possible postponement of their match at Celtic Park in the cinch Scottish Premiership on Saturday.",
-          "link": "https://www.scotsman.com/sport/football/celtic/livingston-issue-statement-regarding-celtic-fixture-situation-in-wake-of-queens-death-3837520",
-          "publishedOn": "2022-09-09T08:59:38.000Z",
-          "wordCount": 2003,
-          "title": "Livingston issue statement regarding Celtic fixture situation in wake of Queen's death",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmFmMmI2MGY3LTdmMDItNGMyNS05NTgzLTgxMWEyZDQwYTNkYjoxZmVkZWQ0MC1kYzI1LTRkOGMtYTc5OC01MTc0MTI3ODNmMWQ=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3837458",
-          "author": "Angus Wright",
-          "description": "Celtic boss Ange Postecoglou has slid down the bookies’ shortlist of favourites for the Brighton & Hove Albion job.",
-          "link": "https://www.scotsman.com/sport/football/celtic/celtics-ange-postecoglou-boost-as-favourite-emerges-for-brighton-job-3837458",
-          "publishedOn": "2022-09-09T08:46:35.000Z",
-          "wordCount": 1711,
-          "title": "Celtic's Ange Postecoglou boost as favourite emerges for Brighton job",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjc3NGJkMTZhLWUzNDAtNGM0NC1hODI3LWY4MzNjMGVlMzczNDoxYzMwOTk0Yi1mODM2LTQ1NGEtODU2MC0yYjIzZWI1MmNiNjM=.jpg?width=1200&enable=upscale"
         }
       ]
     },
@@ -232,6 +222,56 @@
       "feedUrl": "http://armchaircelts.co.uk/wprss",
       "siteUrl": "http://armchaircelts.co.uk/feed/wprss/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/news/ange-postecoglou-delivers-strong-wake-up-call-for-celtic-in-first-media-appearance-since-real-madrid/",
+          "author": null,
+          "description": "Ange Postecoglou has reiterated that he expects strong performances from his Celtic team for an entire 90 minutes in the UEFA Champions League, rather than isolated periods of the games. Celtic looked excellent for a spell against Real Madrid in last week’s 3-0 defeat, but faded after half-time and didn’t respond particularly well to the ...\nThe post Ange delivers strong wake up call for Celtic in first media appearance since Real Madrid appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/ange-postecoglou-delivers-strong-wake-up-call-for-celtic-in-first-media-appearance-since-real-madrid/",
+          "publishedOn": "2022-09-13T20:40:00.000Z",
+          "wordCount": 1945,
+          "title": "Ange delivers strong wake up call for Celtic in first media appearance since Real Madrid",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/09/GettyImages-1421035130-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/news/they-look-convincing-shakhtar-boss-igor-jovicevic-delivers-verdict-on-aggressive-celtic/",
+          "author": null,
+          "description": "Shakhtar Donetsk head coach Igor Jovicevic has warned his players to expect a difficult test against Celtic tomorrow in Warsaw on matchday two of the UEFA Champions League. Shakhtar were in lethal form last week away to RB Leipzig, picking up a shock 4-1 result that ended in the sacking of Domenico Tedesco. Despite that, ...\nThe post \"They look convincing\"; Shakhtar boss Igor Jovicevic delivers verdict on &#039;aggressive&#039; Celtic appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/they-look-convincing-shakhtar-boss-igor-jovicevic-delivers-verdict-on-aggressive-celtic/",
+          "publishedOn": "2022-09-13T20:07:31.000Z",
+          "wordCount": 1964,
+          "title": "\"They look convincing\"; Shakhtar boss Igor Jovicevic delivers verdict on &#039;aggressive&#039; Celtic",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/09/GettyImages-1242994333-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/news/josip-juranovic-and-scott-brown-send-support-as-celtic-icon-tom-rogic-returns-to-instagram/",
+          "author": null,
+          "description": "Tom Rogic is back in the spotlight after making his move to West Bromwich Albion and published his first Instagram post in almost four months today, receiving support from former Celtic teammates. Rogic’s summer was a quiet one, by design. He withdrew from the public eye to consider his future and make the right decision ...\nThe post Josip Juranovic & Scott Brown send support as Celtic icon Tom Rogic returns to Instagram appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/josip-juranovic-and-scott-brown-send-support-as-celtic-icon-tom-rogic-returns-to-instagram/",
+          "publishedOn": "2022-09-13T19:39:34.000Z",
+          "wordCount": 1766,
+          "title": "Josip Juranovic &amp; Scott Brown send support as Celtic icon Tom Rogic returns to Instagram",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/09/GettyImages-1243163240-scaled.jpg"
+        },
+        {
+          "id": "https://celtsarehere.com/celtics-european-opponents-part-two-shakhtar-donetsk/",
+          "author": null,
+          "description": "After a defeat to Real Madrid in which they can be proud of their performance, Celtic will be aspiring to get fully up and running in the Champions League on match day two. They travel to face third seeds Shakhtar Donetsk in a game that many of the Hoops faithful believe they can take something […]\nSource",
+          "link": "https://celtsarehere.com/celtics-european-opponents-part-two-shakhtar-donetsk/",
+          "publishedOn": "2022-09-13T19:35:26.000Z",
+          "wordCount": 14564,
+          "title": "Celtic’s European Opponents: Part Two – Shakhtar Donetsk",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thecelticstar.com/the-celtic-exchange-podcast-in-football-you-win-or-you-learn/",
+          "author": null,
+          "description": "In Football You Win or You Learn…It’s rare to find yourself taking confidence from any sort of 3-0 defeat, at any level of football. Yet that’s exactly where Celtic find themselves this week following an educational night last Tuesday at the hands of Luka Modric and co. at Celtic Park.Modric is just one of a number Read More",
+          "link": "https://thecelticstar.com/the-celtic-exchange-podcast-in-football-you-win-or-you-learn/",
+          "publishedOn": "2022-09-13T18:56:46.000Z",
+          "wordCount": 1855,
+          "title": "The Celtic Exchange Podcast – In Football You Win or You Learn",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/Ep79_insta-1080-×-1080px-1024x1024.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/opinion/the-desperation-for-unrest-at-celtic-has-been-noted/",
           "author": null,
@@ -251,6 +291,16 @@
           "wordCount": 13471,
           "title": "Marian Shved’s Honest Answer to Celtic Question",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.footballtransfertavern.com/celtic-news/celtic-alan-hutton-calls-for-ange-postecoglou-contract-clarity/",
+          "author": null,
+          "description": "Celtic’s hierarchy have been told to tie manager Ange Postecoglou down ‘for a long time’ amid interest from the Premier League.  The lowdown Postecoglou’s contract at Parkhead is currently due to expire at the end of the 2022/23 season. The Australian, who took over in the summer of 2021, is thought to be on a […]",
+          "link": "https://www.footballtransfertavern.com/celtic-news/celtic-alan-hutton-calls-for-ange-postecoglou-contract-clarity/",
+          "publishedOn": "2022-09-13T17:35:06.000Z",
+          "wordCount": 3436,
+          "title": "&#039;The hierarchy at Celtic...&#039; - BBC 5 Live man reacts to Postecoglou exit rumours before Shakhtar",
+          "imageUrl": "https://cdn.footballtransfertavern.com/wp-content/uploads/2022/08/ange-postecoglou-scottish-premiership-2.jpg"
         },
         {
           "id": "https://celtsarehere.com/champions-league-injury-latest-james-mccarthy-misses-trip/",
@@ -1891,46 +1941,6 @@
           "wordCount": 2159,
           "title": "Celtic star opens up on the &#039;positive&#039; dressing room mindset despite Real Madrid defeat",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/09/GettyImages-1242997707-scaled.jpg"
-        },
-        {
-          "id": "https://thecelticstar.com/it-was-a-good-feeling-to-have-that-support-david-turnbull/",
-          "author": null,
-          "description": "Celtic midfielder, David Turnbull discussed the effect of the Real Madrid defeat and Celtic’s match against Livingston at Celtic Park tomorrow afternoon, pending the decision taken today by the football governing bodies on whether fixtures this weekend are to go ahead or be postponed after the death of the Queen yesterday afternoon.After Celtic was defeated Read More",
-          "link": "https://thecelticstar.com/it-was-a-good-feeling-to-have-that-support-david-turnbull/",
-          "publishedOn": "2022-09-09T08:56:05.000Z",
-          "wordCount": 1539,
-          "title": "“It was a good feeling to have that support,” David Turnbull",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/celtic-fc-training-session-and-press-conference-22-1024x742.jpeg"
-        },
-        {
-          "id": "https://thecelticstar.com/former-liverpool-star-on-celtics-chances-in-champions-league/",
-          "author": null,
-          "description": "Jamie Carragher shares his thoughts on Celtic’s Champions League chances after the Hoops impressed the former Liverpool star, in the Champions League opener against European Champions Real Madrid at Celtic Park on Tuesday night.Carragher outlined his thoughts on how he sees Group F panning out and it will surprise no-one that he predicts that the Read More",
-          "link": "https://thecelticstar.com/former-liverpool-star-on-celtics-chances-in-champions-league/",
-          "publishedOn": "2022-09-09T08:07:35.000Z",
-          "wordCount": 1251,
-          "title": "Former Liverpool star on Celtic’s chances in Champions League",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/celtic-fc-v-real-madrid-group-f-uefa-champions-league-10-1024x700.jpg"
-        },
-        {
-          "id": "https://thecelticstar.com/thats-the-secret-jota-explains-key-ingredient-to-celtic-success/",
-          "author": null,
-          "description": "Celtic’s Superstar from Portugal opened up on Celtic’s recipe for success, and Jota reckons that Ange Postecoglou’s squad will continue to stick to it despite participation in the Champions League this season.Although Celtic were eventually defeated in the latter stages of their opening Champions League Group stage match against Real Madrid, the opening 55 minutes Read More",
-          "link": "https://thecelticstar.com/thats-the-secret-jota-explains-key-ingredient-to-celtic-success/",
-          "publishedOn": "2022-09-09T07:37:07.000Z",
-          "wordCount": 1467,
-          "title": "“That’s the secret,” Jota explains key ingredient to Celtic success",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/celtic-fc-v-rangers-fc-cinch-scottish-premiership-74-1024x683.jpg"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/we-can-take-positives-turnbulls-euro-vision/",
-          "author": null,
-          "description": "DAVID TURNBULL has issued a heartfelt promise to Celtic supporters. The talented midfielder was introduced to the action on Tuesday night in the 72nd minute as a substitute for Reo Hatate with the Hoops already 2-0 adrift of European champions Real Madrid. Eden Hazard popped in the third behind the blameless Joe Hart shortly afterwards, [...]",
-          "link": "https://www.celticquicknews.co.uk/we-can-take-positives-turnbulls-euro-vision/",
-          "publishedOn": "2022-09-09T06:43:19.000Z",
-          "wordCount": 3007,
-          "title": "‘WE CAN TAKE POSITIVES,’ TURNBULL’S EURO VISION",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/08/DAVID-TURNBULL-FTD.png"
         }
       ]
     },
@@ -1939,6 +1949,16 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CAIiEE6p5YMWzx-3PnKtqhcI1dQqGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY",
+          "author": null,
+          "description": "The Celtic Exchange Podcast – In Football You Win or You Learn  The Celtic Star",
+          "link": "https://thecelticstar.com/the-celtic-exchange-podcast-in-football-you-win-or-you-learn/",
+          "publishedOn": "2022-09-13T18:56:46.000Z",
+          "wordCount": 1855,
+          "title": "The Celtic Exchange Podcast – In Football You Win or You Learn - The Celtic Star",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/Ep79_insta-1080-×-1080px-1024x1024.jpg"
+        },
         {
           "id": "CAIiEHiIH8OjyudvV6yyrptfzCEqGQgEKhAIACoHCAowrueiCTDmn7gCMKXUtwU",
           "author": null,
@@ -2698,36 +2718,6 @@
           "wordCount": 2531,
           "title": "Celtic, Rangers and Hearts face major fixture issue if Scottish Premiership games are cancelled this weekend - Football Scotland",
           "imageUrl": "https://i2-prod.footballscotland.co.uk/incoming/article24974460.ece/ALTERNATES/s1200/1_RCH.png"
-        },
-        {
-          "id": "CBMieGh0dHBzOi8vd3d3Lm1zbi5jb20vZW4tZ2Ivc3BvcnQvbmV3cy92aXJhbHMtY2VsdGljLXN0YXItd2lucy10aGUtZmlyc3Qtb2Ytd2hhdC1tYXktYmUtbWFueS1hd2FyZHMtaW4tMjAyMi0yMy9hci1BQTExREM1OdIBAA",
-          "author": null,
-          "description": "Virals: Celtic star wins the first of what may be many awards in 2022/23  msnNOW",
-          "link": "https://www.msn.com/en-gb/sport/news/virals-celtic-star-wins-the-first-of-what-may-be-many-awards-in-2022-23/ar-AA11DC59",
-          "publishedOn": "2022-09-09T08:45:59.000Z",
-          "wordCount": 772,
-          "title": "Virals: Celtic star wins the first of what may be many awards in 2022/23 - msnNOW",
-          "imageUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA11DunG.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=278&y=140"
-        },
-        {
-          "id": "CAIiEMsQgbgFYTNNLyxomZrm-68qGQgEKhAIACoHCAow96D9CjDOy_QCMPvp0wU",
-          "author": null,
-          "description": "Celtic hero Neil Lennon suffers Omonia Europa League nightmare in group stage opener  Glasgow Live",
-          "link": "https://www.glasgowlive.co.uk/sport/celtic-hero-neil-lennon-suffers-24972292",
-          "publishedOn": "2022-09-09T07:17:54.000Z",
-          "wordCount": 3382,
-          "title": "Celtic hero Neil Lennon suffers Omonia Europa League nightmare in group stage opener - Glasgow Live",
-          "imageUrl": "https://i2-prod.glasgowlive.co.uk/incoming/article24972288.ece/ALTERNATES/s1200/0_JS260793748.jpg"
-        },
-        {
-          "id": "CBMiWGh0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L2NlbHRpYy1leHByZXNzLXNpbmNlcmUtc3ltcGF0aHktY29uZG9sZW5jZXMtMjQ5NzIwMTbSAQA",
-          "author": null,
-          "description": "Celtic express 'sincere sympathy and condolences' in tribute to Queen Elizabeth II  Glasgow Live",
-          "link": "https://www.glasgowlive.co.uk/sport/celtic-express-sincere-sympathy-condolences-24972016",
-          "publishedOn": "2022-09-09T06:32:56.000Z",
-          "wordCount": 3316,
-          "title": "Celtic express 'sincere sympathy and condolences' in tribute to Queen Elizabeth II - Glasgow Live",
-          "imageUrl": "https://i2-prod.glasgowlive.co.uk/incoming/article24972859.ece/ALTERNATES/s1200/0_JS228812894.jpg"
         }
       ]
     },
@@ -3105,16 +3095,6 @@
           "wordCount": 8108,
           "title": "Scottish football fixture update as government offer advice following The Queen's death",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15096186/?type=og-image"
-        },
-        {
-          "id": "2038e8026dec5dbe5388e90c53765983",
-          "author": null,
-          "description": "NEIL LENNON suffered a nightmare Europa League start with Omonia Nicosia last night as they were defeated by FC Sheriff in Cyprus.",
-          "link": "https://www.glasgowtimes.co.uk/sport/21250604.former-celtic-manager-neil-lennon-suffers-horror-europa-league-start-omonia-nicosia/?ref=rss",
-          "publishedOn": "2022-09-09T08:09:32.000Z",
-          "wordCount": 10120,
-          "title": "Former Celtic manager Neil Lennon suffers horror Europa League start with Omonia Nicosia",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15095572/?type=og-image"
         }
       ]
     }
