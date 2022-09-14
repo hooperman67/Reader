@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com//sport/football/celtic",
       "articles": [
         {
+          "id": "3842265",
+          "author": "Gavin McCafferty",
+          "description": "Shakhtar Donetsk head coach Igor Jovicevic has called on supporters to help them overcome their fear of Celtic as the Ukrainian side prepare to play their first Champions League home game in Warsaw.",
+          "link": "https://www.scotsman.com/sport/football/celtic/shakhtar-donetsk-express-fear-of-celtic-as-boss-igor-jovicevic-outlines-plans-for-champions-league-tie-3842265",
+          "publishedOn": "2022-09-13T21:14:56.000Z",
+          "wordCount": 2103,
+          "title": "Shakhtar Donetsk express 'fear' of Celtic as boss Igor Jovicevic outlines plans for Champions League tie",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmVkZGE3ZWY3LTIxNzUtNGMwOC05ZDg3LWYyODAxNjUzNGFiNDo5OGM4ZTA2Yy0xYzI0LTRjYmEtODk1YS1kZjM2MmVkNGNmNGM=.jpg?width=1200&enable=upscale"
+        },
+        {
           "id": "3842205",
           "author": "Matthew Elder",
           "description": "Celtic have close to a full squad for their Champions League clash against Shakhtar Donetsk.",
@@ -174,46 +184,6 @@
           "wordCount": 2682,
           "title": "SPFL guilty of overreaction with empty gesture of fixture postponements - Andrew Smith",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjdkN2E4MDk3LWM0ZmItNDNjOS05ZmE5LTZiMTk5M2Y5OTBjNzo3NzBjMWYzOS1kNzU3LTRiNzktODI5Yy1jYjBkMTIxMzc4MzI=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3838235",
-          "author": "Joel Sked",
-          "description": "The Scottish FA and SPFL confirmed all professional football fixtures in Scotland would be postponed this weekend due to the passing of Queen Elizabeth II.",
-          "link": "https://www.scotsman.com/sport/football/celtic/the-possible-dates-aberdeen-v-rangers-celtic-v-livingston-and-other-postponed-fixtures-could-be-played-3838235",
-          "publishedOn": "2022-09-09T13:49:27.000Z",
-          "wordCount": 2360,
-          "title": "The possible dates Aberdeen v Rangers, Celtic v Livingston and other postponed fixtures could be played",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjlkNmViNTAxLWIwMjAtNDY5Yy05MDYzLTNkNGQyYzkzNzg5ZTo5Y2IxYTkwYi0xNDcyLTQ1MWQtODZkMi1jMDI5ZDkxZWExMTE=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3837876",
-          "author": "Joel Sked",
-          "description": "The Scottish FA has confirmed this weekend’s fixtures will not go ahead as a period of mourning gets under way following the death of Queen Elizabeth II.",
-          "link": "https://www.scotsman.com/sport/football/rangers/spfl-and-sfa-announce-fixture-decision-following-death-of-queen-elizabeth-ii-3837876",
-          "publishedOn": "2022-09-09T11:05:53.000Z",
-          "wordCount": 2353,
-          "title": "SPFL and SFA announce fixture decision following death of Queen Elizabeth II",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjhmYTA1MzY1LWE0NGUtNDI1MS04ODRmLTU0Y2IyZjMyMDM1ZTowM2Q2NmFmYS0xMjllLTRhMGQtYjY1MS01MmE1Zjc5M2ZiMmI=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3837840",
-          "author": "Joel Sked",
-          "description": "Former Celtic star Tom Rogic could be set for a surprise return to British football.",
-          "link": "https://www.scotsman.com/sport/football/celtic/ex-celtic-star-tom-rogic-set-for-uk-return-with-surprise-move-to-english-side-3837840",
-          "publishedOn": "2022-09-09T10:55:04.000Z",
-          "wordCount": 1802,
-          "title": "Ex-Celtic star Tom Rogic set for UK return with surprise move to English side",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjE0YTA3ZmE1LTYwZDItNDMzYy05Mzk3LTJmNzkyY2ExMGZmOTphNTEwMDI3ZC0zYmM4LTQzYTUtOTIyNy00MTE1ZjU0YTNlNjM=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3837671",
-          "author": "Matthew Elder",
-          "description": "A decision over whether any Scottish football fixtures take place this weekend is set to be made by the SPFL following the cancellation of matches in England.",
-          "link": "https://www.scotsman.com/sport/football/celtic/scottish-football-fixtures-spfl-to-make-call-as-epl-and-efl-take-decision-to-postpone-weekend-matches-3837671",
-          "publishedOn": "2022-09-09T10:02:46.000Z",
-          "wordCount": 2246,
-          "title": "Scottish football fixtures: SPFL to make call as EPL and EFL take decision to postpone weekend matches",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmU2MjkyOWE4LWYyZTAtNDM5ZC04YmY5LTgxMmQ4MDRiNzBiYTozZjIzYzUzMy00ZTUzLTQ0ZDMtOWVmZC0yZWZlMjM4Nzc2OTA=.jpg?width=1200&enable=upscale"
         }
       ]
     },
@@ -222,6 +192,66 @@
       "feedUrl": "http://armchaircelts.co.uk/wprss",
       "siteUrl": "http://armchaircelts.co.uk/feed/wprss/",
       "articles": [
+        {
+          "id": "https://celtsarehere.com/ange-responds-to-brighton-rumours/",
+          "author": null,
+          "description": "ANGE POSTECOGLOU branded the Brighton rumours as not relevant in his world as he gets set to lead Celtic into Matchday two of the Champions League. A well placed source told CeltsAreHere last week Ange was unmoved by any interest from Brighton and it remains the case. The Celtic manager is always clever with his […]\nSource",
+          "link": "https://celtsarehere.com/ange-responds-to-brighton-rumours/",
+          "publishedOn": "2022-09-13T22:41:27.000Z",
+          "wordCount": 13712,
+          "title": "Ange Responds to Brighton Rumours",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thecelticstar.com/video-moritz-jenz-media-conference-ahead-of-shakhtar-test/",
+          "author": null,
+          "description": "Celtic’s Moritz Jenz previewed tomorrow night’s game against Shakhtar Donestk in Matchday Two of the UEFA Champions League. The defender will start for Ange Postecoglou’s side as they look to put their first points on the board after a spirited defeat against Real Madrid.The German defender is expecting a tough game against the Ukrainian side, Read More",
+          "link": "https://thecelticstar.com/video-moritz-jenz-media-conference-ahead-of-shakhtar-test/",
+          "publishedOn": "2022-09-13T21:55:24.000Z",
+          "wordCount": 1128,
+          "title": "Video: Moritz Jenz media conference ahead of Shakhtar test",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/fbl-eur-c1-celtic-real-madrid-1-1024x683.jpg"
+        },
+        {
+          "id": "https://celtsarehere.com/oliver-abildgaard-update/",
+          "author": null,
+          "description": "ANGE POSTECOGLOU spoke to the media on Tuesday evening ahead of Celtic’s tie against Shakhtar Donetsk in Poland. One thing that came up during the short conference was Oliver Abildgaard. Ange was asked if the role of a defensive mid changes depending on who plays the position or what competition they’re in. The Australian was […]\nSource",
+          "link": "https://celtsarehere.com/oliver-abildgaard-update/",
+          "publishedOn": "2022-09-13T21:48:07.000Z",
+          "wordCount": 13498,
+          "title": "Oliver Abildgaard Update",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thecelticstar.com/on-this-day-narrow-defeat-for-celtic-against-man-utd-at-old-trafford/",
+          "author": null,
+          "description": "On This Day in 2006, Celtic visited Manchester United int the Champions League. It was seen as a grudge match between Sir Alex Ferguson and Gordon Strachan after a falling out between the pair at the end of Strachan’s time at Old Trafford. Six thousand Celtic supporters made the journey to Lancashire hoping that Strachan’s Read More",
+          "link": "https://thecelticstar.com/on-this-day-narrow-defeat-for-celtic-against-man-utd-at-old-trafford/",
+          "publishedOn": "2022-09-13T21:34:14.000Z",
+          "wordCount": 1274,
+          "title": "On This Day: Narrow defeat for Celtic against Man Utd at Old Trafford",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/celtic-glasgows-shunsuke-nakamura-r-c-1024x776.jpg"
+        },
+        {
+          "id": "https://thecelticstar.com/shakhtar-donetsk-v-celtic-rival-boss-praises-dynamic-aggressive-attacking-celtic/",
+          "author": null,
+          "description": "Shakhtar Donetsk manager Igor Jovicevic identifies Celtic as a threat in a pre-match press conference, reported by Shakhtar.com. The Ukrainian Champions play Celtic in Warsaw tomorrow evening, and their  gaffer is well aware of the danger Celtic pose to his side’s Champions League hopes.And Jovicevic also admitted that the former Celtic winger, Shved won’t be able to Read More",
+          "link": "https://thecelticstar.com/shakhtar-donetsk-v-celtic-rival-boss-praises-dynamic-aggressive-attacking-celtic/",
+          "publishedOn": "2022-09-13T21:34:03.000Z",
+          "wordCount": 1471,
+          "title": "Shakhtar Donetsk v Celtic: Rival boss praises dynamic, aggressive, attacking Celtic",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/fbl-eur-c1-leipzig-donetsk-13-1024x682.jpg"
+        },
+        {
+          "id": "https://thecelticstar.com/former-celt-jeremie-frimpong-impresses-on-champions-league-stage/",
+          "author": null,
+          "description": "Former Celtic youngster Jeremie Frimpong showed his class on the Champions League stage as two assists helped his Bayer Leverkusen side down Atletico Madrid in Germany. The 21-year-old joined Leverkusen in January 2021 after an impressive spell with Celtic; albeit, he was only there for 18 months.The move has paid dividends for both Celtic and Read More",
+          "link": "https://thecelticstar.com/former-celt-jeremie-frimpong-impresses-on-champions-league-stage/",
+          "publishedOn": "2022-09-13T21:13:18.000Z",
+          "wordCount": 1142,
+          "title": "Former Celt Jeremie Frimpong impresses on Champions League stage",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/Screenshot-2022-09-13-at-22.12.37.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/news/ange-postecoglou-delivers-strong-wake-up-call-for-celtic-in-first-media-appearance-since-real-madrid/",
           "author": null,
@@ -1801,146 +1831,6 @@
           "wordCount": 2133,
           "title": "Celtic’s Unexpected UEFA Coefficient Bonus and Champions League Opportunity",
           "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/celtic-fc-v-real-madrid-group-f-uefa-champions-league-18-1024x682.jpeg"
-        },
-        {
-          "id": "https://celtsarehere.com/celtics-midweek-match-latest/",
-          "author": null,
-          "description": "AFTER CELTIC’S weekend match against Livingston was called off by the SPFL to show respect to Queen Elizabeth II died on Thursday, fans have been questioning what would happen to the club’s Champions League match against Shakhtar Donetsk. A report late on Thursday night from the Daily Record states that the match is still expected […]\nSource",
-          "link": "https://celtsarehere.com/celtics-midweek-match-latest/",
-          "publishedOn": "2022-09-09T13:36:26.000Z",
-          "wordCount": 13459,
-          "title": "Celtic’s Midweek Match; Latest",
-          "imageUrl": null
-        },
-        {
-          "id": "https://celtsarehere.com/when-celtics-postponed-fixture-could-take-place/",
-          "author": null,
-          "description": "CELTIC has had their fixture against Livingston postponed after the Queen died on Thursday. The country has entered a mourning period, with the end date unclear. Despite the Palace and Government not making it mandatory that football is to close down, this weekend’s SPFL fixtures will not take place and will be moved to a […]\nSource",
-          "link": "https://celtsarehere.com/when-celtics-postponed-fixture-could-take-place/",
-          "publishedOn": "2022-09-09T13:21:46.000Z",
-          "wordCount": 13828,
-          "title": "When Celtic’s Postponed Fixture Could Take Place",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thecelticblog.com/2022/09/articles-and-features/if-european-games-are-off-next-week-our-opponents-will-be-right-to-demand-the-points/",
-          "author": null,
-          "description": "Before I start, this is not a dig at Celtic. Celtic, I’m 100% sure, will want to play the European fixture next week and if the club has a say in it, they will do that without hesitation. But if the SPFL gets a concession from UEFA that the game should be off, and that’s […]",
-          "link": "https://thecelticblog.com/2022/09/articles-and-features/if-european-games-are-off-next-week-our-opponents-will-be-right-to-demand-the-points/",
-          "publishedOn": "2022-09-09T12:58:44.000Z",
-          "wordCount": 2588,
-          "title": "If European Games Are Off Next Week, Our Opponents Will Be Right To Demand The Points.",
-          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2021/08/2008-06-26T170029Z_1_MT1ACI5126685_RTRMADP_3_CRICKET-ENGLAND-NHP-SSC.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/news/report-celtics-champions-league-fixture-against-shakhtar-donetsk-expected-to-go-ahead/",
-          "author": null,
-          "description": "Celtic’s UEFA Champions League clash against Shakhtar Donetsk is expected to go ahead this week, according to a report from the Daily Record. After opening their group stage campaign last week against Real Madrid, the Bhoys are set to be back in European action once again this coming Tuesday. However, after the recent passing of ...\nThe post Report: Celtic&#039;s Champions League fixture against Shakhtar Donetsk expected to go ahead appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/report-celtics-champions-league-fixture-against-shakhtar-donetsk-expected-to-go-ahead/",
-          "publishedOn": "2022-09-09T12:40:00.000Z",
-          "wordCount": 1892,
-          "title": "Report: Celtic&#039;s Champions League fixture against Shakhtar Donetsk expected to go ahead",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/09/GettyImages-1278338663-scaled.jpg"
-        },
-        {
-          "id": "https://thecelticblog.com/2022/09/articles-and-features/football-comes-to-a-standstill-out-of-respect-for-who-certainly-not-for-the-fans/",
-          "author": null,
-          "description": "So the decision has been taken and it’s as grim as it was grimly inevitable. The whole of our professional sport will come to a stand-still, regardless of the impact on an already torturous fixture calendar. Official government guidance was that the show could and probably should go on. Other sports will not be closing […]",
-          "link": "https://thecelticblog.com/2022/09/articles-and-features/football-comes-to-a-standstill-out-of-respect-for-who-certainly-not-for-the-fans/",
-          "publishedOn": "2022-09-09T11:27:46.000Z",
-          "wordCount": 2986,
-          "title": "Football Comes To A Standstill Out Of Respect For Who? Certainly Not For The Fans.",
-          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2022/01/2021-04-23T103825Z_1394456677_RC2M1N98I73L_RTRMADP_3_SOCCER-EURO-VENUES.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/news/confirmed-celtic-vs-livingston-postponed-spfl-to-update-on-next-weekend/",
-          "author": null,
-          "description": "The SFA and SPFL have announced that this weekend’s Scottish Premiership fixtures have been postponed. Following the passing of Queen Elizabeth II on Thursday afternoon, league organisers of the top five divisions across Scottish Football have taken the decision to postpone this weekend’s games as a mark of respect. In a statement released this afternoon, ...\nThe post Confirmed: Celtic vs Livingston postponed; SPFL to update on next weekend appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/confirmed-celtic-vs-livingston-postponed-spfl-to-update-on-next-weekend/",
-          "publishedOn": "2022-09-09T11:23:21.000Z",
-          "wordCount": 2026,
-          "title": "Confirmed: Celtic vs Livingston postponed; SPFL to update on next weekend",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/09/GettyImages-1231982685-scaled.jpg"
-        },
-        {
-          "id": "https://thecelticstar.com/celtic-v-livingston-game-off-all-matches-in-scotland-postponed-this-weekend/",
-          "author": null,
-          "description": "Celtic’s cinch Premiership match against Livingston, scheduled for tomorrow afternoon, has been postponed as has the Celtic FC Women’s match away to Dundee United on Sunday afternoon. And it’s very likely that the postponements will run over to next weekend with Ange Postecoglou’s side’s visit to Paisley to face St Mirren almost certain to be Read More",
-          "link": "https://thecelticstar.com/celtic-v-livingston-game-off-all-matches-in-scotland-postponed-this-weekend/",
-          "publishedOn": "2022-09-09T11:21:28.000Z",
-          "wordCount": 1239,
-          "title": "Celtic v Livingston, Game Off – All matches in Scotland postponed this weekend",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/image-47-1024x682.jpeg"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/play-on/",
-          "author": null,
-          "description": "25 years ago, Celtic and Rangers were due to meet at Celtic Park, when Princess Diana died in the early hours of the previous day.  The game was cancelled.  Celtic were in a torrid period of form, Rangers were flying high.  When the reply took place, Alan Stubbs scored in the last minute to secure [...]",
-          "link": "https://www.celticquicknews.co.uk/play-on/",
-          "publishedOn": "2022-09-09T11:01:10.000Z",
-          "wordCount": 4533,
-          "title": "Play on",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
-        },
-        {
-          "id": "https://thecelticstar.com/former-celtic-star-tom-rogic-set-to-join-west-brom/",
-          "author": null,
-          "description": "Some good news today regarding Celtic legend Tom Rogic who appears to have found a new home for his outstanding football ability as he looks set to sign as a free agent for English Championship side West Brom.John Percy, the Daily Telegraph’s Midlands Football Reporter has provided this update today stating:“Former Celtic midfielder Tom Rogic Read More",
-          "link": "https://thecelticstar.com/former-celtic-star-tom-rogic-set-to-join-west-brom/",
-          "publishedOn": "2022-09-09T10:59:02.000Z",
-          "wordCount": 1449,
-          "title": "Former Celtic Star Tom Rogic set to join West Brom",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/05/celtic-v-motherwell-cinch-scottish-premiership-67-1024x748.jpg"
-        },
-        {
-          "id": "https://thecelticstar.com/they-had-real-madrid-rattled-reckons-livingston-boss-david-martindale/",
-          "author": null,
-          "description": "David Martindale was at Celtic Park on Tuesday night, describing himself as a Celtic supporter for the night, and he certainly was mighily impressed by the quality of football on display by both sides at the elite level of club football.The Livingston manager is scheduled to bring his team to Parkhead tomorrow afternoon for the Read More",
-          "link": "https://thecelticstar.com/they-had-real-madrid-rattled-reckons-livingston-boss-david-martindale/",
-          "publishedOn": "2022-09-09T10:25:49.000Z",
-          "wordCount": 1574,
-          "title": "“They had Real Madrid rattled,” reckons Livingston boss David Martindale",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2021/09/1002627042-1024x707.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/news/report-former-celtic-midfielder-tom-rogic-closing-in-on-surprise-english-championship-move/",
-          "author": null,
-          "description": "Former Celtic midfielder Tom Rogic is in talks to join English Championship side West Bromwich Albion. The 29-year-old looks set to bring his spell as a free agent to an end and is expected to join the side currently sitting in 16th place in the 2nd tier of English Football. Rogic brought his time at ...\nThe post Report: Former Celtic midfielder Tom Rogic closing in on surprise EFL move appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/report-former-celtic-midfielder-tom-rogic-closing-in-on-surprise-english-championship-move/",
-          "publishedOn": "2022-09-09T10:10:00.000Z",
-          "wordCount": 2013,
-          "title": "Report: Former Celtic midfielder Tom Rogic closing in on surprise EFL move",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/02/GettyImages-1356823572-scaled.jpg"
-        },
-        {
-          "id": "https://celtsarehere.com/free-agent-tom-rogic-opens-talks-with-championship-club/",
-          "author": null,
-          "description": "Celtic fans have all been wondering what next for Tom Rogic after the Australian left Celtic Park at the end of last season. The Celtic invincible hero ended his long association with the club after almost ten years. Fans were sure Tom had a plan as soon as he left Celtic to come straight back […]\nSource",
-          "link": "https://celtsarehere.com/free-agent-tom-rogic-opens-talks-with-championship-club/",
-          "publishedOn": "2022-09-09T10:09:13.000Z",
-          "wordCount": 13574,
-          "title": "Free Agent Tom Rogic Opens Talks With Championship Club",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thecelticblog.com/2022/09/articles-and-features/celtics-weekend-fixture-should-go-ahead-its-time-this-nation-grew-up-a-bit/",
-          "author": null,
-          "description": "The Queen’s death yesterday has some people in a frenzy over cancelling football. I wonder if some of those in Scotland who are clamouring for it would be quite so keen if we were struggling and they were on a high. Their Whatabouttery over this is boring. They think we should have played on when […]",
-          "link": "https://thecelticblog.com/2022/09/articles-and-features/celtics-weekend-fixture-should-go-ahead-its-time-this-nation-grew-up-a-bit/",
-          "publishedOn": "2022-09-09T09:48:17.000Z",
-          "wordCount": 3555,
-          "title": "Celtic’s Weekend Fixture Should Go Ahead. It’s Time This Nation Grew Up A Bit.",
-          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2021/04/2020-05-18T000000Z_1314387577_RC24RG995WHJ_RTRMADP_3_HEALTH-CORONAVIRUS-BRITAIN.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/news/celtic-star-opens-up-on-the-positive-dressing-room-mindset-despite-real-madrid-defeat/",
-          "author": null,
-          "description": "Celtic midfielder David Turnbull has opened up on the ‘positive’ dressing room reaction to the Hoops midweek defeat against Real Madrid. On Tuesday evening, the Bhoys kicked their UEFA Champions League group stages off with a bang, facing the current holders of the competition. Going into the game, supporters were expecting a tough match-up. But ...\nThe post Celtic star opens up on the &#039;positive&#039; dressing room mindset despite Real Madrid defeat appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/celtic-star-opens-up-on-the-positive-dressing-room-mindset-despite-real-madrid-defeat/",
-          "publishedOn": "2022-09-09T09:40:00.000Z",
-          "wordCount": 2159,
-          "title": "Celtic star opens up on the &#039;positive&#039; dressing room mindset despite Real Madrid defeat",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/09/GettyImages-1242997707-scaled.jpg"
         }
       ]
     },
@@ -2638,86 +2528,6 @@
           "wordCount": 2133,
           "title": "Celtic’s Unexpected UEFA Coefficient Bonus and Champions League Opportunity - The Celtic Star",
           "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/celtic-fc-v-real-madrid-group-f-uefa-champions-league-18-1024x682.jpeg"
-        },
-        {
-          "id": "CAIiEPzhJL3wD-M267lzIk-cLx4qGQgEKhAIACoHCAow96D9CjDOy_QCMKzp0wU",
-          "author": null,
-          "description": "Rangers in Napoli Champions League update after SPFL weekend postponement  Glasgow Live",
-          "link": "https://www.glasgowlive.co.uk/sport/rangers-napoli-champions-league-update-24978885",
-          "publishedOn": "2022-09-09T14:00:58.000Z",
-          "wordCount": 3236,
-          "title": "Rangers in Napoli Champions League update after SPFL weekend postponement - Glasgow Live",
-          "imageUrl": "https://i2-prod.glasgowlive.co.uk/incoming/article24978930.ece/ALTERNATES/s1200/0_JS276770540.jpg"
-        },
-        {
-          "id": "CAIiEE6FzrcmDVBb3tWN8AkXAvwqGQgEKhAIACoHCAowrueiCTDmn7gCMIfHtwU",
-          "author": null,
-          "description": "Sead Haksabanovic to Celtic transfer flagged amid Rubin Kazan Fifa complaint  Daily Record",
-          "link": "https://www.dailyrecord.co.uk/sport/football/football-news/sead-haksabanovic-celtic-transfer-flagged-27951180",
-          "publishedOn": "2022-09-09T12:54:57.000Z",
-          "wordCount": 3141,
-          "title": "Sead Haksabanovic to Celtic transfer flagged amid Rubin Kazan Fifa complaint - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article27951316.ece/ALTERNATES/s1200/0_Celtic-FC-v-Real-Madrid-Group-F-UEFA-Champions-League.jpg"
-        },
-        {
-          "id": "CAIiEGgkbbj8ZSHqK38c5gUIWLQqGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY",
-          "author": null,
-          "description": "Celtic v Livingston, Game Off – All matches in Scotland postponed this weekend  The Celtic Star",
-          "link": "https://thecelticstar.com/celtic-v-livingston-game-off-all-matches-in-scotland-postponed-this-weekend/",
-          "publishedOn": "2022-09-09T11:21:28.000Z",
-          "wordCount": 1239,
-          "title": "Celtic v Livingston, Game Off – All matches in Scotland postponed this weekend - The Celtic Star",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/image-47-1024x682.jpeg"
-        },
-        {
-          "id": "CAIiEKCx2yxEhQqLETRBT8V_WCEqGQgEKhAIACoHCAowrueiCTDmn7gCMIfHtwU",
-          "author": null,
-          "description": "This Celtic myth MUST stop as Three Stooges get pelters after Euro week of woe - Hotline  Daily Record",
-          "link": "https://www.dailyrecord.co.uk/sport/football/celtic-myth-must-stop-three-27949301",
-          "publishedOn": "2022-09-09T11:02:45.000Z",
-          "wordCount": 3289,
-          "title": "This Celtic myth MUST stop as Three Stooges get pelters after Euro week of woe - Hotline - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article27941848.ece/ALTERNATES/s1200/0_JS276687127.jpg"
-        },
-        {
-          "id": "CAIiEM1NVBm265zVunriUhcDv2UqGQgEKhAIACoHCAowrueiCTDmn7gCMOjNtwU",
-          "author": null,
-          "description": "Tom Rogic 'set' for West Brom transfer as Celtic hero heads for Championship challenge  Daily Record",
-          "link": "https://www.dailyrecord.co.uk/sport/football/football-news/tom-rogic-set-west-brom-27949484",
-          "publishedOn": "2022-09-09T10:38:56.000Z",
-          "wordCount": 3098,
-          "title": "Tom Rogic 'set' for West Brom transfer as Celtic hero heads for Championship challenge - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/sport/football/football-news/article26952304.ece/ALTERNATES/s1200/0_0.jpg"
-        },
-        {
-          "id": "CAIiEJIk45Yuh-EZz1FPHhHiLQsqGQgEKhAIACoHCAowrueiCTDmn7gCMIfHtwU",
-          "author": null,
-          "description": "SPFL and Premier League fixture latest as Celtic, Rangers and Hearts face backlog plus radical UCL solution  Daily Record",
-          "link": "https://www.dailyrecord.co.uk/sport/football/football-news/spfl-premier-league-fixture-latest-27948789",
-          "publishedOn": "2022-09-09T10:18:25.000Z",
-          "wordCount": 3303,
-          "title": "SPFL and Premier League fixture latest as Celtic, Rangers and Hearts face backlog plus radical UCL solution - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article25983965.ece/ALTERNATES/s1200/0_Heart-of-Midlothian-v-St-Johnstone-FC-Cinch-Scottish-Premiership.jpg"
-        },
-        {
-          "id": "CAIiEHDloMS91rjUJ69hO2lU4loqGQgEKhAIACoHCAowr5GNCzDFxJ4DMLbFpgY",
-          "author": null,
-          "description": "Report: Former Celtic midfielder Tom Rogic closing in on surprise English Championship move  67 Hail Hail - Celtic FC News",
-          "link": "https://www.67hailhail.com/news/report-former-celtic-midfielder-tom-rogic-closing-in-on-surprise-english-championship-move/",
-          "publishedOn": "2022-09-09T10:10:00.000Z",
-          "wordCount": 2013,
-          "title": "Report: Former Celtic midfielder Tom Rogic closing in on surprise English Championship move - 67 Hail Hail - Celtic FC News",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/02/GettyImages-1356823572-scaled.jpg"
-        },
-        {
-          "id": "CAIiEL0sf87kQ1L6tgAprOEIoIQqGQgEKhAIACoHCAow_-CqCzD868IDMPPfoQc",
-          "author": null,
-          "description": "Celtic, Rangers and Hearts face major fixture issue if Scottish Premiership games are cancelled this weekend  Football Scotland",
-          "link": "https://www.footballscotland.co.uk/spfl/scottish-premiership/celtic-rangers-hearts-face-major-24973704",
-          "publishedOn": "2022-09-09T10:01:46.000Z",
-          "wordCount": 2531,
-          "title": "Celtic, Rangers and Hearts face major fixture issue if Scottish Premiership games are cancelled this weekend - Football Scotland",
-          "imageUrl": "https://i2-prod.footballscotland.co.uk/incoming/article24974460.ece/ALTERNATES/s1200/1_RCH.png"
         }
       ]
     },
@@ -2726,6 +2536,66 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "e1d90a9a70ce0f1a6401a23e3759f258",
+          "author": null,
+          "description": "STEVE Clarke has no shortage of players to field at left wing back in Scotland’s forthcoming Nations League matches against Ukraine and the Republic of Ireland despite his captain Andy Robertson being ruled out by injury.",
+          "link": "https://www.glasgowtimes.co.uk/sport/21400288.greg-taylors-fire-celtic-man-contention-replace-liverpool-left-back-andy-robertson-scotland-side/?ref=rss",
+          "publishedOn": "2022-09-13T21:41:00.000Z",
+          "wordCount": 8934,
+          "title": "Greg Taylor's on fire: Celtic man in contention to replace Liverpool left back Andy Robertson in Scotland side",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15241952/?type=og-image"
+        },
+        {
+          "id": "cc2513eebdc826c8f62ab1a374337b3c",
+          "author": null,
+          "description": "ANGE POSTECOGLOU says he is paying no attention to reports linking him with the vacant manager’s position at Brighton, insisting that his full focus is on Celtic.",
+          "link": "https://www.glasgowtimes.co.uk/sport/21404294.ange-postecoglou-says-brighton-links-not-relevant-manager-insists-focus-celtic/?ref=rss",
+          "publishedOn": "2022-09-13T21:30:00.000Z",
+          "wordCount": 8392,
+          "title": "Ange Postecoglou says Brighton links ‘not relevant’ as manager insists his focus is on Celtic",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15249258/?type=og-image"
+        },
+        {
+          "id": "db5a1178f34830f79830008a68423cca",
+          "author": null,
+          "description": "PLAUDITS are all well and good. But what Celtic and Ange Postecoglou need now is points.",
+          "link": "https://www.glasgowtimes.co.uk/sport/21404384.ange-postecoglou-challenges-celtic-marry-style-substance-champions-league-level/?ref=rss",
+          "publishedOn": "2022-09-13T21:30:00.000Z",
+          "wordCount": 8778,
+          "title": "Ange Postecoglou challenges Celtic to marry style with substance at Champions League level",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15249369/?type=og-image"
+        },
+        {
+          "id": "a93f8b2fffee423f596912f455e9da7b",
+          "author": null,
+          "description": "The Ukrainian winger speaks about his Parkhead experience",
+          "link": "https://www.glasgowtimes.co.uk/sport/21393624.marian-shved-opens-celtic-broken-promises-neil-lennon-brendan-rodgers/?ref=rss",
+          "publishedOn": "2022-09-13T21:30:00.000Z",
+          "wordCount": 8686,
+          "title": "Marian Shved opens up on Celtic broken promises, Neil Lennon and Brendan Rodgers",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15244313/?type=og-image"
+        },
+        {
+          "id": "257f78c8cc1e6fee7081d0a1b63f45d2",
+          "author": null,
+          "description": "MORITZ JENZ says he feels for teammate Carl Starfelt after picking up his latest injury, but that he is ready to make the most of the Swede’s misfortune to cement his own place in the Celtic team alongside Cameron Carter-Vickers.",
+          "link": "https://www.glasgowtimes.co.uk/sport/21404533.celtic-defender-moritz-jenz-hoping-cement-place-beside-pal-cameron-carter-vickers-carl-starfelts-absence/?ref=rss",
+          "publishedOn": "2022-09-13T21:30:00.000Z",
+          "wordCount": 8817,
+          "title": "Celtic defender Moritz Jenz hoping to cement place beside pal Cameron Carter-Vickers in Carl Starfelt’s absence",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15249594/?type=og-image"
+        },
+        {
+          "id": "304e54468efd066c57b2822de9685a72",
+          "author": null,
+          "description": "ANGE POSTECOGLOU says he is paying no attention to reports linking him with the vacant manager’s position at Brighton, insisting that his full focus is on Celtic.",
+          "link": "https://www.glasgowtimes.co.uk/sport/21405130.celtic-manager-ange-postecoglou-dismisses-not-really-relevant-world-brighton-links/?ref=rss",
+          "publishedOn": "2022-09-13T21:30:00.000Z",
+          "wordCount": 8192,
+          "title": "Celtic manager Ange Postecoglou dismisses 'not really relevant in my world' Brighton links",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15104118/?type=og-image"
+        },
         {
           "id": "6d53cd7ca556d885efc8a2e71d310908",
           "author": null,
@@ -3055,46 +2925,6 @@
           "wordCount": 8286,
           "title": "Celtic Champions League fixture latest as away allocation for Shakhtar clash sold out",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15100139/?type=og-image"
-        },
-        {
-          "id": "2e17a060ac12085016b2c981887bf2fa",
-          "author": null,
-          "description": "Due to a packed fixture schedule, it is unknown what the exact date will be of the Hoops' rearranged match versus David Martindale's men.",
-          "link": "https://www.glasgowtimes.co.uk/sport/21252520.might-celtic-get-play-postponed-fixture-livingston/?ref=rss",
-          "publishedOn": "2022-09-09T12:32:29.000Z",
-          "wordCount": 8160,
-          "title": "When will Celtic play postponed fixture against Livingston?",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15097226/?type=og-image"
-        },
-        {
-          "id": "92fba967bb695ff9102052de1e0920c9",
-          "author": null,
-          "description": "THE SPFL have confirmed domestic fixtures have been postponed amid a period of mourning after the Queen's death.",
-          "link": "https://www.glasgowtimes.co.uk/sport/21243259.celtic-fixtures-postponed-queens-death/?ref=rss",
-          "publishedOn": "2022-09-09T11:05:00.000Z",
-          "wordCount": 7973,
-          "title": "Which Celtic fixtures have been postponed after Queen's death?",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15093910/?type=og-image"
-        },
-        {
-          "id": "6eee4586131956f9634cd12e20dab4d6",
-          "author": null,
-          "description": "THE SPFL have confirmed this weekend's Scottish football matches have been postponed as a mark of respect after the Queen's death.",
-          "link": "https://www.glasgowtimes.co.uk/sport/21240366.spfl-confirm-fixtures-postponed-amid-period-mourning-queens-death/?ref=rss",
-          "publishedOn": "2022-09-09T11:00:00.000Z",
-          "wordCount": 10223,
-          "title": "SPFL confirm ALL fixtures postponed amid period of mourning after Queen's death",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/11207106/?type=og-image"
-        },
-        {
-          "id": "dbcec97fb152fdd86134024247255c4d",
-          "author": null,
-          "description": "SPORTS have been advised by the Government in Friday morning’s meeting that events can take place this weekend provided they are staged in a commemorative and respectful manner.",
-          "link": "https://www.glasgowtimes.co.uk/sport/21251381.scottish-football-fixture-update-government-offer-advice-following-queens-death/?ref=rss",
-          "publishedOn": "2022-09-09T10:05:51.000Z",
-          "wordCount": 8108,
-          "title": "Scottish football fixture update as government offer advice following The Queen's death",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15096186/?type=og-image"
         }
       ]
     }
