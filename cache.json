@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com//sport/football/celtic",
       "articles": [
         {
+          "id": "3846787",
+          "author": "Moira Gordon",
+          "description": "When Ange Postecoglou speaks about the difference a year can make, he is referencing the strides taken by his team on the European stage. But, he will be hoping that progress will also be evident when Celtic head to Paisley on Sunday.",
+          "link": "https://www.scotsman.com/sport/football/celtic/enormous-progress-ange-postecoglou-makes-celtic-claim-over-side-that-slipped-up-on-last-visit-to-st-mirren-3846787",
+          "publishedOn": "2022-09-16T21:30:00.000Z",
+          "wordCount": 2553,
+          "title": "'Enormous progress' - Ange Postecoglou makes Celtic claim over side that slipped up on last visit to St Mirren",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjg4NTk5MDUwLWM1NWYtNGVhMS04OTgxLWIzZWI2MjBmOGE3MTozM2JkZTI3Yy1kZGQ1LTRjNzYtYmUwZi0wMTg0MGUyNzFjZDY=.jpg?width=1200&enable=upscale"
+        },
+        {
           "id": "3846749",
           "author": "Matthew Elder",
           "description": "Former Celtic director Michael Kelly has called on the club to speak out against the \"disgraceful\" banners displayed during the 1-1 draw with Shakhtar Donetsk in Warsaw on Wednesday.",
@@ -264,36 +274,6 @@
           "wordCount": 3574,
           "title": "Why Shakhtar Donetsk pose Celtic a real danger - and Marian Shved is only part of it",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjMxZjU1MTE1LTlkZTQtNGNkYi1iMTEzLTQ3ODIzNWI3NDZjNDoxMmI4NGFkNC05MDE1LTRiZjQtYWZhMi1lZmNmOTY1ZmIzNzg=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3840302",
-          "author": "Matthew Elder",
-          "description": "Tom Rogic has completed a move West Brom following his summer departure from Celtic – admitting that he wanted a \"change of scenery\".",
-          "link": "https://www.scotsman.com/sport/football/celtic/tom-rogic-signs-for-new-club-as-celtic-icon-admits-he-wanted-change-of-scenery-3840302",
-          "publishedOn": "2022-09-12T12:51:35.000Z",
-          "wordCount": 2203,
-          "title": "Tom Rogic signs for new club as Celtic icon admits he wanted 'change of scenery'",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjQ2MjZjMDY4LTkwMWEtNGYwNi1hMjgzLTJkNjc4NmYxMGFmMDo5NWIzMzI2Ny04NWMxLTQ0NjgtOGY3ZS1lZDY1ZjFkOWQ1ZTI=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3839973",
-          "author": "Matthew Elder",
-          "description": "Scottish football is set to return this weekend after the SFA and SPFL gave the green light for domestic fixtures to resume following the death of Queen Elizabeth II.",
-          "link": "https://www.scotsman.com/sport/football/celtic/scottish-football-set-to-resume-with-a-caveat-as-sfa-issue-statement-on-weekend-fixtures-3839973",
-          "publishedOn": "2022-09-12T10:52:20.000Z",
-          "wordCount": 2321,
-          "title": "Scottish football set to resume - with a caveat - as SFA issue statement on weekend fixtures",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjNjYjMwMmIyLTM4MDQtNDA5Mi1iZjNhLTJjZGZkNmNhMTJjZjo3NmFhYWYyMC1lNTU4LTRkYTctYjA1OS04NzI2NTAwYjQxOTk=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3839835",
-          "author": "Matthew Elder",
-          "description": "Celtic outcast Ismaila Soro was shown a red card after just 10 minutes while playing for loan club Arouca on Sunday.",
-          "link": "https://www.scotsman.com/sport/football/celtic/celtics-ismaila-soro-sent-off-after-just-10-minutes-for-loan-club-3839835",
-          "publishedOn": "2022-09-12T09:54:37.000Z",
-          "wordCount": 1782,
-          "title": "Celtic's Ismaila Soro sent off after just 10 minutes for loan club",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjA0NDBkZGYyLWZhMGItNGVjYi1hOGM2LTA5YjgyYjY0OWQ3NjphZjljMDYwNC01MGYzLTQ4NTEtOWM2OC0wZGVjZWMyOGYyM2U=.jpg?width=1200&enable=upscale"
         }
       ]
     },
@@ -302,6 +282,16 @@
       "feedUrl": "http://armchaircelts.co.uk/wprss",
       "siteUrl": "http://armchaircelts.co.uk/feed/wprss/",
       "articles": [
+        {
+          "id": "https://www.sportsmole.co.uk/football/st-mirren/preview/preview-st-mirren-vs-celtic-prediction-team-news-lineups_494773.html",
+          "author": null,
+          "description": "Sports Mole previews Sunday's Scottish Premiership clash between St Mirren and Celtic, including predictions, team news and possible lineups.",
+          "link": "https://www.sportsmole.co.uk/football/st-mirren/preview/preview-st-mirren-vs-celtic-prediction-team-news-lineups_494773.html",
+          "publishedOn": "2022-09-16T22:17:50.000Z",
+          "wordCount": 5037,
+          "title": "Preview: St Mirren vs. Celtic - prediction, team news, lineups",
+          "imageUrl": "//b.smimg.net/22/37/ange-postecoglu.jpeg"
+        },
         {
           "id": "https://www.67hailhail.com/news/im-not-at-their-house-ange-postecoglous-brilliant-answer-on-behind-the-scenes-celtic-demands/",
           "author": null,
@@ -2401,186 +2391,6 @@
           "wordCount": 4910,
           "title": "Preview: Shakhtar Donetsk vs. Celtic - prediction, team news, lineups",
           "imageUrl": "//b.smimg.net/22/36/sharbl.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/opinion/spfl-sides-set-to-undergo-intriguing-fixture-kick-off-trial-could-celtic-one-day-follow-suit/",
-          "author": null,
-          "description": "Scottish Premiership sides Aberdeen, Dundee United, Hibernian and St Johnstone have announced they will be trialling new weekend kick-off times in October and November. Of course, regularly weekend games in Scotland have the kick-off times of either 12 PM or 3 PM on a Saturday/Sunday. That has become the norm in past and recent times, ...\nThe post SPFL sides set to undergo intriguing fixture kick-off trial; could Celtic one-day follow suit? appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/opinion/spfl-sides-set-to-undergo-intriguing-fixture-kick-off-trial-could-celtic-one-day-follow-suit/",
-          "publishedOn": "2022-09-12T13:40:00.000Z",
-          "wordCount": 2303,
-          "title": "SPFL sides set to undergo intriguing fixture kick-off trial; could Celtic one-day follow suit?",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/08/GettyImages-1242220925-scaled.jpg"
-        },
-        {
-          "id": "https://thecelticstar.com/who-do-you-think-you-are-neil-lennons-angry-response-at-media-conference/",
-          "author": null,
-          "description": "Neil Lennon reacted aggressively to a question following his side’s second defeat in three days and it’s certainly something of a tough watch. His Omonia Nicosia side lost heavily (3-0) in the Europa League group stages opener against FC Sheriff. And given the other two sides in this group are Manchester United and Real Sociedad Read More",
-          "link": "https://thecelticstar.com/who-do-you-think-you-are-neil-lennons-angry-response-at-media-conference/",
-          "publishedOn": "2022-09-12T13:02:10.000Z",
-          "wordCount": 1239,
-          "title": "“Who do you think you are,” Neil Lennon’s angry response at media conference",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/0_lennonPNG.jpg"
-        },
-        {
-          "id": "https://celtsarehere.com/video-neil-lennon-fuming-at-journalist-after-sunday-defeat/",
-          "author": null,
-          "description": "Neil Lennon shows no signs of mellowing out away from the gold fish bowl of Glasgow after this latest press conference with current side Omonoia. The Cypriot side were beaten 2-1 on Sunday and are 11th in the table after three games with just one win and two defeats. The former Celtic manager was not […]\nSource",
-          "link": "https://celtsarehere.com/video-neil-lennon-fuming-at-journalist-after-sunday-defeat/",
-          "publishedOn": "2022-09-12T13:01:13.000Z",
-          "wordCount": 13552,
-          "title": "Video: Neil Lennon Fuming at Journalist After Sunday Defeat",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thecelticstar.com/tom-rogic-signs-for-wba-and-says-i-was-looking-for-a-change-of-scenery-and-a-fresh-challenge/",
-          "author": null,
-          "description": "Former Celtic star Tom Rogic has today signed for West Brom after leaving Celtic in May after just over nine years playing for the Scottish Champions. The 29 year old Socceroos talisman, who has won 53 caps, has signed a one year deal, with a  year’s option in the English Championship side’s favour and will Read More",
-          "link": "https://thecelticstar.com/tom-rogic-signs-for-wba-and-says-i-was-looking-for-a-change-of-scenery-and-a-fresh-challenge/",
-          "publishedOn": "2022-09-12T12:27:57.000Z",
-          "wordCount": 1413,
-          "title": "Tom Rogic signs for WBA and says “I was looking for a change of scenery and a fresh challenge”",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/Fcc-7aqXgAA0C1p.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/news/former-celtic-hero-tom-rogic-finds-new-club-after-completing-english-championship-move/",
-          "author": null,
-          "description": "Former Celtic midfielder Tom Rogic has today completed a move to join English Championship side West Bromwich Albion. The 29-year-old has been on the hunt for a new club this summer after bringing his nine-year stay at Celtic Park to an end. Rogic was seen as a huge fans favourite amongst the supporters after creating ...\nThe post Former Celtic hero Tom Rogic finds new club after completing English Championship move appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/former-celtic-hero-tom-rogic-finds-new-club-after-completing-english-championship-move/",
-          "publishedOn": "2022-09-12T12:22:54.000Z",
-          "wordCount": 2167,
-          "title": "Former Celtic hero Tom Rogic finds new club after completing English Championship move",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2020/08/GettyImages-958062198-1-scaled.jpg"
-        },
-        {
-          "id": "https://celtsarehere.com/tom-rogic-finds-new-club/",
-          "author": null,
-          "description": "It has today been announced that former Celtic midfielder Tom Rogic has joined English Championship side West Bromwich Albion [West Brom].  The former Celtic star has joined Steve Bruce’s side on a one-year deal, with a further year’s option in the clubs favour. He departed Celtic on the last day of the season alongside Nir […]\nSource",
-          "link": "https://celtsarehere.com/tom-rogic-finds-new-club/",
-          "publishedOn": "2022-09-12T12:17:56.000Z",
-          "wordCount": 13554,
-          "title": "Tom Rogic Finds New Club",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sportsmole.co.uk/football/man-utd/news/premier-league-games-in-doubt-due-to-lack-of-tv-trucks_494450.html",
-          "author": null,
-          "description": "The next set of Premier League fixtures are reportedly in doubt due to a shortage of TV trucks.",
-          "link": "https://www.sportsmole.co.uk/football/man-utd/news/premier-league-games-in-doubt-due-to-lack-of-tv-trucks_494450.html",
-          "publishedOn": "2022-09-12T11:56:59.000Z",
-          "wordCount": 4514,
-          "title": "Premier League games &#039;in doubt due to lack of TV trucks&#039;",
-          "imageUrl": "//b.smimg.net/19/14/640x480/tottenham-hotspur-general.jpg"
-        },
-        {
-          "id": "https://www.footballtransfertavern.com/celtic-news/brighton-manager-news-postecoglou-spfl/",
-          "author": null,
-          "description": "Journalist and sports broadcaster Charlie Haffenden has revealed that Celtic manager Ange Postecoglou is a ‘key target’ for Brighton and Hove Albion. The Lowdown: Potter leaves It has been confirmed that Graham Potter has left the Amex Stadium to take up the managerial vacancy left by Thomas Tuchel at Chelsea. It means that the Seagulls […]",
-          "link": "https://www.footballtransfertavern.com/celtic-news/brighton-manager-news-postecoglou-spfl/",
-          "publishedOn": "2022-09-12T11:45:20.000Z",
-          "wordCount": 3423,
-          "title": "&#039;I&#039;m told...&#039; - Journalist reveals worrying news on &#039;unbelievable&#039; Celtic man",
-          "imageUrl": "https://cdn.footballtransfertavern.com/wp-content/uploads/2022/08/ange-postecoglou-scottish-premiership-1.jpg"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/confirmed-celtic-noon-kick-off-gets-go-ahead/",
-          "author": null,
-          "description": "CELTIC’S noon kick-off against St Mirren in the Premirship in Paisley on Sunday is ON. Any doubts about the resumption of football in Scotland were removed following the weekend’s shutdown as a mark of respect to the passing of Queen Elizabeth II at the age of 96 on Thursday. The SFA confirmed the fixtures programme [...]",
-          "link": "https://www.celticquicknews.co.uk/confirmed-celtic-noon-kick-off-gets-go-ahead/",
-          "publishedOn": "2022-09-12T11:28:10.000Z",
-          "wordCount": 2573,
-          "title": "CONFIRMED: CELTIC NOON KICK-OFF GETS GO-AHEAD",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/09/MITRE-FOOTBALL.png"
-        },
-        {
-          "id": "https://thecelticstar.com/kings-protestant-vow-bbcs-anti-catholic-john-knox-joke/",
-          "author": null,
-          "description": "Thank heavens for the Champions League. After a weekend of state imposed mourning resulted in the cancellation of football, but curiously not rugby or cricket, the beautiful game returns with Celtic away to Shakhtar Donetsk on Wednesday – the match is being played in Warsaw due to the war in Ukraine and you can get Read More",
-          "link": "https://thecelticstar.com/kings-protestant-vow-bbcs-anti-catholic-john-knox-joke/",
-          "publishedOn": "2022-09-12T11:24:54.000Z",
-          "wordCount": 1940,
-          "title": "King’s Protestant Vow &amp; BBC’s anti-Catholic John Knox joke",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/heart-of-midlothian-v-istanbul-basaksehir-group-a-uefa-europa-conference-league-1024x682.jpeg"
-        },
-        {
-          "id": "https://thecelticblog.com/2022/09/articles-and-features/ange-leaving-celtic-for-england-is-not-inevitable-no-matter-what-some-idiots-say/",
-          "author": null,
-          "description": "Most Celtic fans are well aware that there are a few ex-Celts in the media who simply cannot be trusted to speak sensibly. They are self-promoting charlatans. One of the worst is Kris Commons and his latest crayon scribblings are awful. He says that Ange won’t go to Brighton. Well, of course not. It’s as […]",
-          "link": "https://thecelticblog.com/2022/09/articles-and-features/ange-leaving-celtic-for-england-is-not-inevitable-no-matter-what-some-idiots-say/",
-          "publishedOn": "2022-09-12T11:19:43.000Z",
-          "wordCount": 2467,
-          "title": "Ange Leaving Celtic For England Is Not “Inevitable” No Matter What Some Idiots Say.",
-          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2022/08/2022-07-31T173043Z_1109082300_UP1EI7V1CN5Z4_RTRMADP_3_SOCCER-SCOTLAND-CEL-ABE-REPORT.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/news/st-mirren-vs-celtic-latest-as-sfa-and-spfl-confirm-scottish-football-resumption/",
-          "author": null,
-          "description": "Celtic’s Scottish Premiership clash against St Mirren on Sunday looks set to go ahead after the SFA confirmed that the professional game will now resume. Last weekend, the Hoops were scheduled to take on Livingston at home before the game was postponed on Friday afternoon. This was due to the passing of Queen Elizabeth II, ...\nThe post St Mirren vs Celtic latest as SFA and SPFL confirm Scottish Football resumption appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/st-mirren-vs-celtic-latest-as-sfa-and-spfl-confirm-scottish-football-resumption/",
-          "publishedOn": "2022-09-12T11:05:00.000Z",
-          "wordCount": 1972,
-          "title": "St Mirren vs Celtic latest as SFA and SPFL confirm Scottish Football resumption",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2021/12/GettyImages-1236089729-1-scaled.jpg"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/police-fail-shakhtar-toil/",
-          "author": null,
-          "description": "Police Scotland refuse to allow a game to proceed with 2,000 Napoli fans a few hours after the Queen’s body leaves for London.  It is only in recent years European games have been policed as though we were living under Martial Law.  Mini-vans full of officers, accompanied by impressively expensive hardware, now segregate our streets [...]",
-          "link": "https://www.celticquicknews.co.uk/police-fail-shakhtar-toil/",
-          "publishedOn": "2022-09-12T11:04:11.000Z",
-          "wordCount": 4338,
-          "title": "Police fail, Shakhtar toil",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
-        },
-        {
-          "id": "https://celtsarehere.com/spfl-football-set-to-return-this-weekend/",
-          "author": null,
-          "description": "It has been confirmed this morning that professional football in Scotland will resume this weekend [Scottish FA]. Fixtures last weekend were postponed across the country due to the passing of Queen Elizabeth II but it has now been confirmed that football will return. There was much anger from many football fans over the weekend as […]\nSource",
-          "link": "https://celtsarehere.com/spfl-football-set-to-return-this-weekend/",
-          "publishedOn": "2022-09-12T10:50:55.000Z",
-          "wordCount": 13462,
-          "title": "SPFL Football Set To Return This Weekend",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.67hailhail.com/news/absolutely-astonished-kris-commons-shares-postecoglou-celtic-exit-verdict-after-media-links/",
-          "author": null,
-          "description": "Former Celtic midfielder Kris Commons admitted that he would be ‘astonished’ to see Ange Postecoglou depart Parkhead to join Brighton, amidst recent media links. The 57-year-old has spent just over 12 months in the Celtic Park dugout and has impressively overhauled this Hoops squad, leading them to league and cup success last season. That early ...\nThe post \"Absolutely astonished\" - Kris Commons shares Postecoglou Celtic exit verdict after media links appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/absolutely-astonished-kris-commons-shares-postecoglou-celtic-exit-verdict-after-media-links/",
-          "publishedOn": "2022-09-12T10:15:00.000Z",
-          "wordCount": 2414,
-          "title": "\"Absolutely astonished\" - Kris Commons shares Postecoglou Celtic exit verdict after media links",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/09/GettyImages-1397207202-scaled.jpg"
-        },
-        {
-          "id": "https://celtsarehere.com/celtic-loan-star-receives-praise/",
-          "author": null,
-          "description": "Mikey Johnston made the switch to Portuguese side Vitória de Guimarães before the close of the summer transfer window and has received praise on his debut. It was a winning start for the Celtic loanee as his side beat Santa Clara 1-0 with Johnston getting 45 minutes under his belt in the second half. The […]\nSource",
-          "link": "https://celtsarehere.com/celtic-loan-star-receives-praise/",
-          "publishedOn": "2022-09-12T09:45:38.000Z",
-          "wordCount": 13536,
-          "title": "Celtic Loan Star Receives Praise",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thecelticstar.com/we-have-to-follow-it-up-by-getting-another-three-points-against-celtic-shakhtar-defender/",
-          "author": null,
-          "description": "Valeriy Bondar believes Shakhtar Donetsk’s opening 4-1 victory over RB Leipzig in the Champions League Group stage will greatly impact Celtic’s Champions League ambitions. The Ukrainian defender is full of confidence, especially after he helped his side defeat FC Chornomorets Odesa 2-1 in their league match on Saturday.The Shakhtar defender believes the early demolition of RB Read More",
-          "link": "https://thecelticstar.com/we-have-to-follow-it-up-by-getting-another-three-points-against-celtic-shakhtar-defender/",
-          "publishedOn": "2022-09-12T09:44:53.000Z",
-          "wordCount": 1338,
-          "title": "“We have to follow it up by getting another three points against Celtic,” Shakhtar defender",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/fbl-eur-c1-leipzig-donetsk-2-1024x647.jpeg"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/absolute-madness-celtic-heros-verdict-on-postecoglou-link/",
-          "author": null,
-          "description": "ANGE POSTECOGLOU quitting Celtic for Brighton would be “absolute madness”. That is the no-nonsense verdict from former Hoops midfielder Kris Commons who insists a move to the south coast outfit wouldn’t get the Greek-Australian gaffer’s “juices flowing”. It becomes a bit wearisome when Parkhead gaffers are consistently targeted when a job become available across the [...]",
-          "link": "https://www.celticquicknews.co.uk/absolute-madness-celtic-heros-verdict-on-postecoglou-link/",
-          "publishedOn": "2022-09-12T09:32:51.000Z",
-          "wordCount": 2944,
-          "title": "‘ABSOLUTE MADNESS,’ CELTIC HERO’S VERDICT ON POSTECOGLOU LINK",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/09/ANGE-POSTECOGLOU-LISTENS-R-MADRID-FEATURED.png"
         }
       ]
     },
@@ -2710,6 +2520,16 @@
           "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/imago1014831883h-1024x682.jpeg"
         },
         {
+          "id": "CAIiEEUmRWrl5ZMzIRi10_81w1UqGQgEKhAIACoHCAow_-CqCzD868IDMPLfoQc",
+          "author": null,
+          "description": "Celtic announce 'we never stop' documentary as unseen dressing room footage revealed  Football Scotland",
+          "link": "https://www.footballscotland.co.uk/spfl/scottish-premiership/celtic-announce-we-never-stop-25034352",
+          "publishedOn": "2022-09-16T09:57:55.000Z",
+          "wordCount": 2483,
+          "title": "Celtic announce 'we never stop' documentary as unseen dressing room footage revealed - Football Scotland",
+          "imageUrl": "https://i2-prod.footballscotland.co.uk/incoming/article25034370.ece/ALTERNATES/s1200/0_Celtic111JPG.jpg"
+        },
+        {
           "id": "CAIiEM7OV0gtLpnZuZgc6IlmMHYqGQgEKhAIACoHCAowne-jCzDg-bsDMLnLhQc",
           "author": null,
           "description": "Deranged Rival Forum Goes After The Celtic Boss With Bizarre Allegation About The Queen.  TheCelticBlog.com",
@@ -2758,6 +2578,16 @@
           "wordCount": 4110,
           "title": "5 Rangers fears legends have as transfer record, 'chopping and changing' and Celtic admission laid bare - Daily Record",
           "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article27994385.ece/ALTERNATES/s1200/0_Champions-League-Group-A-Rangers-v-Napoli.jpg"
+        },
+        {
+          "id": "CAIiEJXZQX2_e5oxHAFVrLjq4gsqGQgEKhAIACoHCAow_-CqCzD868IDMPLfoQc",
+          "author": null,
+          "description": "Lewis Capaldi reveals Neil Lennon run in as Celtic legend left annoyed by singer  Football Scotland",
+          "link": "https://www.footballscotland.co.uk/spfl/lewis-capaldi-reveals-neil-lennon-25032791",
+          "publishedOn": "2022-09-16T07:38:40.000Z",
+          "wordCount": 2613,
+          "title": "Lewis Capaldi reveals Neil Lennon run in as Celtic legend left annoyed by singer - Football Scotland",
+          "imageUrl": "https://i2-prod.footballscotland.co.uk/incoming/article25032842.ece/ALTERNATES/s1200/0_pizap-1.jpg"
         },
         {
           "id": "CAIiEHbAfyLecKPae3n7OriJpzgqGQgEKhAIACoHCAow96D9CjDOy_QCMKzp0wU",
@@ -3268,86 +3098,6 @@
           "wordCount": 8473,
           "title": "Harnessing 'Ange-ball' in the Champions League: Celtic's volatile labour of love - Celtic Way",
           "imageUrl": "https://www.celticway.co.uk/resources/images/15143984/?type=og-image"
-        },
-        {
-          "id": "CAIiELPbvkbRrxIgIH2bDiUsUKkqGQgEKhAIACoHCAowrueiCTDmn7gCMKXUtwU",
-          "author": null,
-          "description": "Sead Haksabanovic to Celtic transfer poser swerved as Rubin Kazan chief comes out swinging amid FIFA complaint  Daily Record",
-          "link": "https://www.dailyrecord.co.uk/sport/football/football-news/sead-haksabanovic-celtic-transfer-poser-27972018",
-          "publishedOn": "2022-09-12T14:23:08.000Z",
-          "wordCount": 3157,
-          "title": "Sead Haksabanovic to Celtic transfer poser swerved as Rubin Kazan chief comes out swinging amid FIFA complaint - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article27972197.ece/ALTERNATES/s1200/0_Celtic-FC-v-Real-Madrid-Group-F-UEFA-Champions-Leaguejpgtic.jpg"
-        },
-        {
-          "id": "CAIiEGQSJb3PIxJ0HssyJxmemF8qGQgEKhAIACoHCAowr5GNCzDFxJ4DMOHTpgY",
-          "author": null,
-          "description": "SPFL sides set to undergo intriguing fixture kick-off trial; could Celtic one-day follow suit?  67 Hail Hail - Celtic FC News",
-          "link": "https://www.67hailhail.com/opinion/spfl-sides-set-to-undergo-intriguing-fixture-kick-off-trial-could-celtic-one-day-follow-suit/",
-          "publishedOn": "2022-09-12T13:40:00.000Z",
-          "wordCount": 2303,
-          "title": "SPFL sides set to undergo intriguing fixture kick-off trial; could Celtic one-day follow suit? - 67 Hail Hail - Celtic FC News",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/08/GettyImages-1242220925-scaled.jpg"
-        },
-        {
-          "id": "CAIiEIWgrJXfDc-zVBULmpJrrnsqGQgEKhAIACoHCAowrueiCTDmn7gCMIfHtwU",
-          "author": null,
-          "description": "Tom Rogic explains post Celtic career struggles as West Brom recruit opens up on 'time to reflect'  Daily Record",
-          "link": "https://www.dailyrecord.co.uk/sport/football/football-news/tom-rogic-explains-post-celtic-27970488",
-          "publishedOn": "2022-09-12T12:32:35.000Z",
-          "wordCount": 3238,
-          "title": "Tom Rogic explains post Celtic career struggles as West Brom recruit opens up on 'time to reflect' - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/sport/football/football-news/article27970616.ece/ALTERNATES/s1200/0_af_003_tom_rogic_expjpeg.jpg"
-        },
-        {
-          "id": "CAIiEL6Hs50GL7JIpfVrDv6pPSQqGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY",
-          "author": null,
-          "description": "King’s Protestant Vow & BBC’s anti-Catholic John Knox joke  The Celtic Star",
-          "link": "https://thecelticstar.com/kings-protestant-vow-bbcs-anti-catholic-john-knox-joke/",
-          "publishedOn": "2022-09-12T11:24:54.000Z",
-          "wordCount": 1940,
-          "title": "King’s Protestant Vow & BBC’s anti-Catholic John Knox joke - The Celtic Star",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/heart-of-midlothian-v-istanbul-basaksehir-group-a-uefa-europa-conference-league-1024x682.jpeg"
-        },
-        {
-          "id": "CAIiENrpygfnQybP1sE8LdLBqpMqGQgEKhAIACoHCAowrueiCTDmn7gCMIfHtwU",
-          "author": null,
-          "description": "Celtic fan comes in for Hotline flak after predicting title over by Christmas  Daily Record",
-          "link": "https://www.dailyrecord.co.uk/sport/football/rangers-hotline-tormentor-told-celtic-27968829",
-          "publishedOn": "2022-09-12T10:55:08.000Z",
-          "wordCount": 3472,
-          "title": "Celtic fan comes in for Hotline flak after predicting title over by Christmas - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article26967095.ece/ALTERNATES/s1200/1_cinch-Premiership-Celtic-FC-v-Motherwell-FC.jpg"
-        },
-        {
-          "id": "CAIiEEbjmNdHAeeXlIWtcGNM7TsqGQgEKhAIACoHCAow_-CqCzD868IDMPPfoQc",
-          "author": null,
-          "description": "SPFL gets go ahead to restart as clubs handed mark of respect options  Football Scotland",
-          "link": "https://www.footballscotland.co.uk/spfl/scottish-football-gets-go-ahead-24994913",
-          "publishedOn": "2022-09-12T10:43:38.000Z",
-          "wordCount": 2423,
-          "title": "SPFL gets go ahead to restart as clubs handed mark of respect options - Football Scotland",
-          "imageUrl": "https://i2-prod.footballscotland.co.uk/incoming/article24465325.ece/ALTERNATES/s1200/1_JS245736983.jpg"
-        },
-        {
-          "id": "CAIiEMrd1eaZ1iafx3V5X7s-EFoqGQgEKhAIACoHCAowrueiCTDmn7gCMOjNtwU",
-          "author": null,
-          "description": "SPFL to return this weekend as Rangers and Celtic lead full Premiership fixture card  Daily Record",
-          "link": "https://www.dailyrecord.co.uk/sport/football/football-news/spfl-return-rangers-celtic-lead-27968276",
-          "publishedOn": "2022-09-12T10:36:44.000Z",
-          "wordCount": 3148,
-          "title": "SPFL to return this weekend as Rangers and Celtic lead full Premiership fixture card - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article26350877.ece/ALTERNATES/s1200/4_20238380.jpg"
-        },
-        {
-          "id": "CAIiEHXji5MX0c4d5aurM-DcVbwqGQgEKhAIACoHCAowrueiCTDmn7gCMKXUtwU",
-          "author": null,
-          "description": "St Mirren Celtic clash gets green light as Scottish football set to return ahead of Queen's funeral  Daily Record",
-          "link": "https://www.dailyrecord.co.uk/in-your-area/renfrewshire/st-mirren-celtic-clash-gets-27968714",
-          "publishedOn": "2022-09-12T10:35:22.000Z",
-          "wordCount": 3001,
-          "title": "St Mirren Celtic clash gets green light as Scottish football set to return ahead of Queen's funeral - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article27968732.ece/ALTERNATES/s1200/0_St-Mirren-FC-v-Celtic-FC-Cinch-Scottish-Premiership.jpg"
         }
       ]
     },
@@ -3356,6 +3106,46 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "dc01e2beee6bdacda16bbe764a54e219",
+          "author": null,
+          "description": "CELTIC manager Ange Postecoglou has urged the Parkhead club’s supporters to show their respect for The Queen during the minute’s applause before the cinch Premiership match against St Mirren in Paisley tomorrow.",
+          "link": "https://www.glasgowtimes.co.uk/sport/21886232.ange-postecoglou-pledges-respectful-celtic-will-accept-uefa-punishment/?ref=rss",
+          "publishedOn": "2022-09-16T21:41:00.000Z",
+          "wordCount": 8943,
+          "title": "Ange Postecoglou pledges 'respectful' Celtic will accept UEFA punishment",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15523704/?type=og-image"
+        },
+        {
+          "id": "6494035cf6b87d57d4c2b57745a770a3",
+          "author": null,
+          "description": "GREG Taylor has expressed confidence the goals will come for Celtic in the Champions League this season – if every player in the side takes responsibility for converting their scoring chances.",
+          "link": "https://www.glasgowtimes.co.uk/sport/21882727.goals-will-come-greg-taylor-celtic-can-develop-cutting-edge-front-champions-league/?ref=rss",
+          "publishedOn": "2022-09-16T21:36:00.000Z",
+          "wordCount": 9153,
+          "title": "The goals will come: Greg Taylor on how Celtic can develop a cutting edge up front in the Champions League",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15521605/?type=og-image"
+        },
+        {
+          "id": "e971dd3adc0a647c2a5e07949bffaa18",
+          "author": null,
+          "description": "ANGE Postecoglou joined his players Kyogo Furuhashi, Sead Haksabanovic and Stephen Welsh at the SEC in Glasgow on Thursday night to take in the first showing of Celtic the Musical and relished every minute of the experience.",
+          "link": "https://www.glasgowtimes.co.uk/sport/21884288.theatre-buff-ange-postecoglou-eyeing-european-encore-celtics-encouraging-champions-league-opening-nights/?ref=rss",
+          "publishedOn": "2022-09-16T21:36:00.000Z",
+          "wordCount": 8945,
+          "title": "Theatre buff Ange Postecoglou eyeing European encore after Celtic's encouraging Champions League opening nights",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15522569/?type=og-image"
+        },
+        {
+          "id": "16191627d358879d114eadbf851377d9",
+          "author": null,
+          "description": "When Brendan Rodgers arrived at Celtic Park in the summer of 2016, the manager immediately set about making history. His team became the first in the British game to capture all three major domestic honours while remaining undefeated throughout the entire campaign.",
+          "link": "https://www.glasgowtimes.co.uk/sport/21862328.non-stop-celtic-brendan-rodgers-side-stephen-robinson/?ref=rss",
+          "publishedOn": "2022-09-16T21:30:00.000Z",
+          "wordCount": 8817,
+          "title": "'Non-stop' Celtic up there with Brendan Rodgers' side for Stephen Robinson",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15508857/?type=og-image"
+        },
         {
           "id": "bd22a991c7acf2943982aedeb1cfe7fe",
           "author": null,
@@ -3895,66 +3685,6 @@
           "wordCount": 8404,
           "title": "Celtic fans given Ange Postecoglou speculation warning amid Brighton links",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/14943266/?type=og-image"
-        },
-        {
-          "id": "e3e0a2bb159a54dc6708a855a5b524e3",
-          "author": null,
-          "description": "CELTIC head to Poland to take on Shakhtar Donetsk on Wednesday in the Champions League.",
-          "link": "https://www.glasgowtimes.co.uk/sport/21324287.shaktar-donetsk-vs-celtic-tv-channel-live-stream-kick-off-time/?ref=rss",
-          "publishedOn": "2022-09-12T14:03:37.000Z",
-          "wordCount": 8077,
-          "title": "Shakhtar Donetsk vs Celtic: TV channel, live stream & kick-off time",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15143395/?type=og-image"
-        },
-        {
-          "id": "6ec378ca3c44c3a2b6cbd2d9baf4d69a",
-          "author": null,
-          "description": "The Australian has signed a one-year deal at West Brom",
-          "link": "https://www.glasgowtimes.co.uk/sport/21323104.tom-rogic-reveals-main-reason-behind-celtic-exit-seals-deal-english-club/?ref=rss",
-          "publishedOn": "2022-09-12T12:33:03.000Z",
-          "wordCount": 8106,
-          "title": "Tom Rogic reveals main reason behind Celtic exit as he seals deal with English club",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15141646/?type=og-image"
-        },
-        {
-          "id": "eb8f1fe17db7ade44278ff0ce06e5705",
-          "author": null,
-          "description": "The Australian has gone to the EFL Championship",
-          "link": "https://www.glasgowtimes.co.uk/sport/21323004.former-celtic-midfielder-tom-rogic-signs-new-club/?ref=rss",
-          "publishedOn": "2022-09-12T12:23:48.000Z",
-          "wordCount": 8095,
-          "title": "Former Celtic midfielder Tom Rogic signs for new club",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15141594/?type=og-image"
-        },
-        {
-          "id": "540c2155cdbe2f6aeb4b2322c1a192e6",
-          "author": null,
-          "description": "NEIL LENNON leapt to the defence of his Omonia Nicosia players after the character of his team was questioned following a loss to Apollon Limassol.",
-          "link": "https://www.glasgowtimes.co.uk/sport/21322357.who-think----raging-neil-lennons-journalist-blast-full/?ref=rss",
-          "publishedOn": "2022-09-12T11:21:58.000Z",
-          "wordCount": 8179,
-          "title": "‘Who do you think you are?’ - Raging Neil Lennon’s journalist blast in full",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15140228/?type=og-image"
-        },
-        {
-          "id": "2d996f56c43a97e4c21eec71db2ef21b",
-          "author": null,
-          "description": "THE SPFL and SFA have invited Scottish football clubs to play the national anthem as fixtures resume as normal this week following the death of The Queen.",
-          "link": "https://www.glasgowtimes.co.uk/sport/21321067.scottish-football-clubs-invited-play-national-anthem-matches-professional-games-resume/?ref=rss",
-          "publishedOn": "2022-09-12T10:50:14.000Z",
-          "wordCount": 10149,
-          "title": "Scottish football clubs invited to play national anthem before matches as professional games resume",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15139949/?type=og-image"
-        },
-        {
-          "id": "782d769839f8ea85e09511d77ba31d8f",
-          "author": null,
-          "description": "THE SPFL and Scottish FA have confirmed professional fixtures will resume as normal this weekend.",
-          "link": "https://www.glasgowtimes.co.uk/sport/21319577.sfa-spfl-confirm-scottish-football-resume-normal-following-postponements-death-queen/?ref=rss",
-          "publishedOn": "2022-09-12T10:41:49.000Z",
-          "wordCount": 8623,
-          "title": "SFA and SPFL confirm Scottish football to resume as normal following postponements after death of The Queen",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/14333914/?type=og-image"
         }
       ]
     }
