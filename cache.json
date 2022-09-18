@@ -224,16 +224,6 @@
           "wordCount": 1603,
           "title": "Celtic team news: Kyogo update, defender injured, midfielder ruled out due to illness",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjcxMzA5MzZhLWVmMzktNGM2MS05NTU1LTRlNjZjZThiNmJkYzoxN2FjMTczOS1mZjRhLTQ5NWEtOTZhMS02NGM0ZGFhMTY3OTE=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3841530",
-          "author": "Matthew Elder",
-          "description": "Celtic captain Callum McGregor has been urged to make more forward passes in the Champions League fixture against Shakhtar Donetsk on Wednesday.",
-          "link": "https://www.scotsman.com/sport/football/celtic/he-didnt-do-enough-of-that-celtic-captain-callum-mcgregor-criticised-for-real-madrid-failing-3841530",
-          "publishedOn": "2022-09-13T11:44:40.000Z",
-          "wordCount": 1879,
-          "title": "'He didn't do enough of that' - Celtic captain Callum McGregor criticised for Real Madrid failing",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmFkODk3OTBmLTM2MTgtNDZlNS04MzczLWZhNjk5ZTM2YWNiZDo0Y2MyZDVmMy05OWYxLTQwZjYtYjk1ZS1iYTk0YjM0MjFlNzI=.jpg?width=1200&enable=upscale"
         }
       ]
     },
@@ -242,6 +232,56 @@
       "feedUrl": "http://armchaircelts.co.uk/wprss",
       "siteUrl": "http://armchaircelts.co.uk/feed/wprss/",
       "articles": [
+        {
+          "id": "https://thecelticstar.com/we-are-edging-our-way-to-be-that-kind-of-team-ange-postecoglou/",
+          "author": null,
+          "description": "After Wednesday’s 1-1 draw away to Shakhtar Donetsk, Ange Postecoglou is insistent that the experience gained from the match will only better their future European results.The Celtic gaffer was noticeably frustrated at the result but certainly not the performance in his post-match interview after Celtic’s dominant performance over Shakhtar Donetsk, which concluded with a mere Read More",
+          "link": "https://thecelticstar.com/we-are-edging-our-way-to-be-that-kind-of-team-ange-postecoglou/",
+          "publishedOn": "2022-09-17T23:00:40.000Z",
+          "wordCount": 1604,
+          "title": "“We are edging our way to be that kind of team,” Ange Postecoglou",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/shakhtar-donetsk-v-celtic-uefa-champions-league-9-1024x682.jpg"
+        },
+        {
+          "id": "https://thecelticstar.com/celtic-considering-wonder-kid-as-ange-plans-january-business-report/",
+          "author": null,
+          "description": "Celtic are considering a move for wonder-kid Oscar Gloukh as manager Ange Postecoglou plots his January business already. The Australian has assumed a dictatorial role as Celtic’s figurehead taking control of the club’s transfer business as well as stamping his authority on the pitch.According to the Daily Record, the Israeli youngster is one of the Read More",
+          "link": "https://thecelticstar.com/celtic-considering-wonder-kid-as-ange-plans-january-business-report/",
+          "publishedOn": "2022-09-17T21:55:49.000Z",
+          "wordCount": 1362,
+          "title": "Celtic considering wonder-kid as Ange plans January business – report",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/fbl-euro-u19-2022-isr-eng-1024x683.jpg"
+        },
+        {
+          "id": "https://celtsarehere.com/celtic-scout-january-target-oscar-gloukh/",
+          "author": null,
+          "description": "Celtic are ramping up their recruitment just weeks after the summer window closed – it has been revealed. The Scottish Champions had another successful recruitment drive under Ange Postecoglou and are looking strong as they head into October. This season is very different from others, with the World Cup falling half way through the campaign. […]\nSource",
+          "link": "https://celtsarehere.com/celtic-scout-january-target-oscar-gloukh/",
+          "publishedOn": "2022-09-17T21:55:08.000Z",
+          "wordCount": 13548,
+          "title": "Celtic Scout January Target Oscar Gloukh",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thecelticstar.com/minute-of-madness-liam-scales-has-a-nightmare-at-easter-road/",
+          "author": null,
+          "description": "Celtic loanee Liam Scales endured a minute of madness as Aberdeen fell to a 3-1 defeat at the hands of Hibs. The 24-year-old started for Jim Goodwin’s side at the back but was booked twice in the space of a minute as Hibs fought back and picked up all three points.Aberdeen were 1-0 when the Read More",
+          "link": "https://thecelticstar.com/minute-of-madness-liam-scales-has-a-nightmare-at-easter-road/",
+          "publishedOn": "2022-09-17T21:36:26.000Z",
+          "wordCount": 1324,
+          "title": "Minute of madness, Liam Scales has a nightmare at Easter Road",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2021/09/1006830227-1024x682.jpg"
+        },
+        {
+          "id": "https://thecelticstar.com/former-celtic-manager-brendan-rodgers-under-increasing-pressure-after-6-2-loss/",
+          "author": null,
+          "description": "Former Celtic manager Brendan Rodgers could be out of a job shortly after Leicester City were beaten 6-2 by Tottenham Hotspur. The Irishman has been under pressure since the start of the campaign, overseeing seven games without a win, and the result this afternoon has resulted in greater calls for Rodgers to be sacked.The Leicester Read More",
+          "link": "https://thecelticstar.com/former-celtic-manager-brendan-rodgers-under-increasing-pressure-after-6-2-loss/",
+          "publishedOn": "2022-09-17T21:08:46.000Z",
+          "wordCount": 1353,
+          "title": "Former Celtic manager Brendan Rodgers under increasing pressure after 6-2 loss",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2021/11/millwall-v-leicester-city-carabao-cup-third-round-2-1024x674.jpeg"
+        },
         {
           "id": "https://www.67hailhail.com/news/st-mirren-boss-compares-ange-postecoglous-celtic-to-brendan-rodgers-invincibles/",
           "author": null,
@@ -2201,156 +2241,6 @@
           "wordCount": 13523,
           "title": "Celtic Announce Sponsor Switch for Shakhtar Tie",
           "imageUrl": null
-        },
-        {
-          "id": "https://celtsarehere.com/kyogo-reacts-after-winning-top-award/",
-          "author": null,
-          "description": "Celtic forward Kyogo Furuhashi has been named as the Cinch Premiership Player of the Month for August [@CelticFC].  The Japanese forward had a tremendous month having scored in every game he played in during August scoring a phenomenal six goals in four matches. Kyogo returned to the Celtic first team in April after being out […]\nSource",
-          "link": "https://celtsarehere.com/kyogo-reacts-after-winning-top-award/",
-          "publishedOn": "2022-09-13T14:30:09.000Z",
-          "wordCount": 13647,
-          "title": "Kyogo Reacts After Winning Top Award",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.67hailhail.com/news/kyogo-wins-award-gives-first-english-language-interview-at-celtic/",
-          "author": null,
-          "description": "Kyogo Furuhashi showed his aptitude for quick learning and adaptability today, giving his first English-language interview since joining up at Celtic last summer. Kyogo has rarely spoken in English but did send a brilliant Christmas message to the support without a translator late last year. Today, he was speaking to club media man Gerry McCulloch, ...\nThe post Kyogo wins award; gives first English language interview at Celtic appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/kyogo-wins-award-gives-first-english-language-interview-at-celtic/",
-          "publishedOn": "2022-09-13T14:29:20.000Z",
-          "wordCount": 1726,
-          "title": "Kyogo wins award; gives first English language interview at Celtic",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/09/GettyImages-1242997634-scaled.jpg"
-        },
-        {
-          "id": "https://celtsarehere.com/uefa-directive-black-armbands-minute-silence-this-week/",
-          "author": null,
-          "description": "It has today been confirmed that Celtic will wear black armbands and hold a minute’s silence against Shakhtar Donetsk which is being implemented by UEFA [Daily Record].  The Hoops game at the weekend against Livingston was postponed along with every other competitive footballing fixture due to the death of Queen Elizabeth II. Celtic will also […]\nSource",
-          "link": "https://celtsarehere.com/uefa-directive-black-armbands-minute-silence-this-week/",
-          "publishedOn": "2022-09-13T14:01:10.000Z",
-          "wordCount": 13424,
-          "title": "UEFA Directive: Black Armbands &amp; Minute Silence This Week",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thecelticblog.com/2022/09/articles-and-features/articles/of-course-souness-dismisses-the-celtic-managers-loyalty-he-had-none-himself/",
-          "author": null,
-          "description": "There is an ancient clip of one of the original Only An Excuse shows, back when it was a radio broadcast, where “Graeme Souness” discusses his career where he says “When I was with Middlesbrough I was a Spurs fan who had always supported Liverpool and so the only club I would have left England […]",
-          "link": "https://thecelticblog.com/2022/09/articles-and-features/articles/of-course-souness-dismisses-the-celtic-managers-loyalty-he-had-none-himself/",
-          "publishedOn": "2022-09-13T13:57:41.000Z",
-          "wordCount": 2269,
-          "title": "Of Course Souness Dismisses The Celtic Manager’s Loyalty. He Had None Himself.",
-          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2022/04/2022-04-09T155429Z_1726367583_UP1EI49186Q0J_RTRMADP_3_SOCCER-SCOTLAND-CEL-STJ-REPORT-scaled.jpg"
-        },
-        {
-          "id": "https://thecelticblog.com/2022/09/articles-and-features/greg-taylor-deserves-his-scotland-call-up-but-he-knows-itll-be-a-battle-to-stay/",
-          "author": null,
-          "description": "Greg Taylor is one of the unsung heroes of this campaign. He is, so far, to this season what Ralston was to the last one. A guy who was written off and who has fought his way back into contention. It is a pleasure to see him getting recognition by the Scotland boss. He is […]",
-          "link": "https://thecelticblog.com/2022/09/articles-and-features/greg-taylor-deserves-his-scotland-call-up-but-he-knows-itll-be-a-battle-to-stay/",
-          "publishedOn": "2022-09-13T12:55:36.000Z",
-          "wordCount": 1850,
-          "title": "Greg Taylor Deserves His Scotland Call-Up But He Knows It’ll Be A Battle To Stay.",
-          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2022/09/2019-11-27T150456Z_21170280_RC2RJD9QIZDP_RTRMADP_3_SOCCER-EUROPA-CEL-REN-PREVIEW-scaled.jpg"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/oriley-and-his-celtic-perfect-place/",
-          "author": null,
-          "description": "MATT O’RILEY has repeated that Celtic is “the perfect place” for him, despite summer transfer speculation. The 21-year-old playmaker is under contract at the title-winners until June 2026 after joining in a £1.5million swich from third-tier MK Dons in January. O’Riley made an instant impact at the Hoops and will almost certainly take his place [...]",
-          "link": "https://www.celticquicknews.co.uk/oriley-and-his-celtic-perfect-place/",
-          "publishedOn": "2022-09-13T12:25:52.000Z",
-          "wordCount": 2630,
-          "title": "O’RILEY AND HIS CELTIC ‘PERFECT PLACE’",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/09/MATT-ORILEY-FEATURED-V-DU.png"
-        },
-        {
-          "id": "https://celtsarehere.com/matt-oriley-under-21-call-up/",
-          "author": null,
-          "description": "MATT O’RILEY is still hopeful of making the World Cup squad for Denmark, but he’s still having to bide his time and show what he can do in the under 21s. Matt has been selected for the Danish U21 side once again and will have to continue to impress in the red shirt to have […]\nSource",
-          "link": "https://celtsarehere.com/matt-oriley-under-21-call-up/",
-          "publishedOn": "2022-09-13T12:19:53.000Z",
-          "wordCount": 13455,
-          "title": "Matt O’Riley Under-21 Call-Up",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/bin-sentiment-and-compassion/",
-          "author": null,
-          "description": "We always think of ourselves as on the side of the underdog.  Tomorrow, we are the protagonist against the world’s underdog.  It does not matter that Shakhtar Donetsk are seeded higher than us, or recorded the kind of win in Germany last week that no Celtic team has ever been able to dream of, the [...]",
-          "link": "https://www.celticquicknews.co.uk/bin-sentiment-and-compassion/",
-          "publishedOn": "2022-09-13T11:53:03.000Z",
-          "wordCount": 3162,
-          "title": "Bin sentiment and compassion",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
-        },
-        {
-          "id": "https://thecelticblog.com/2022/09/articles-and-features/celtics-midfield-bhoy-matt-oriley-did-not-confirm-interest-from-leicester-and-newcastle/",
-          "author": null,
-          "description": "There are so many headlines up today on the news aggregators about Newcastle being in for Matt O’Riley that I had to re-read the guy’s actual comments a dozen times just to convince myself of what it was that he actually said. It’s no wonder that clubs like Napoli are calling our press liars when […]",
-          "link": "https://thecelticblog.com/2022/09/articles-and-features/celtics-midfield-bhoy-matt-oriley-did-not-confirm-interest-from-leicester-and-newcastle/",
-          "publishedOn": "2022-09-13T11:19:17.000Z",
-          "wordCount": 2599,
-          "title": "Celtic’s Midfield Bhoy Matt O’Riley Did Not “Confirm” Interest From Leicester And Newcastle.",
-          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2022/09/2022-04-17T142012Z_1775141003_UP1EI4H13TM6F_RTRMADP_3_SOCCER-SCOTLAND-CEL-RFC-REPORT-scaled.jpg"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/celtic-four-in-world-cup-call-up/",
-          "author": null,
-          "description": "FOUR Celtic stars are included in the Scotland squad for the upcoming World Cup triple-header against Ukraine and Republic of Ireland. Defenders Anthony Ralston and Greg Taylor plus midfielders Callum McGregor and David Turnbull have been given the nod by boss Steve Clarke for the crucial encounters. The Scots face the Ukrainians at Hampden a [...]",
-          "link": "https://www.celticquicknews.co.uk/celtic-four-in-world-cup-call-up/",
-          "publishedOn": "2022-09-13T10:46:55.000Z",
-          "wordCount": 2495,
-          "title": "CELTIC FOUR IN WORLD CUP CALL-UP",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/03/CALLUM-MCGREGOR-FEATURED-BAD.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/celtic-four-in-scots-call-up/",
-          "author": null,
-          "description": "FOUR Celtic stars are included in the Scotland squad for the upcoming UEFA Nations League triple-header against Ukraine and Republic of Ireland. Defenders Anthony Ralston and Greg Taylor plus midfielders Callum McGregor and David Turnbull have been given the nod by boss Steve Clarke for the crucial encounters. The Scots face the Ukrainians at Hampden [...]",
-          "link": "https://www.celticquicknews.co.uk/celtic-four-in-scots-call-up/",
-          "publishedOn": "2022-09-13T10:46:55.000Z",
-          "wordCount": 2495,
-          "title": "CELTIC FOUR IN SCOTS CALL-UP",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/03/CALLUM-MCGREGOR-FEATURED-BAD.png"
-        },
-        {
-          "id": "https://celtsarehere.com/two-celtic-champions-league-wildcards/",
-          "author": null,
-          "description": "CELTIC have a pretty settled starting XI, but when the games come thick and fast in October, our squad is going to be tested. There will be injuries, fatigue and the need for Ange to keep things fresh. While we’ve been doing great so far in the league and put up a great first half […]\nSource",
-          "link": "https://celtsarehere.com/two-celtic-champions-league-wildcards/",
-          "publishedOn": "2022-09-13T10:45:00.000Z",
-          "wordCount": 13605,
-          "title": "Two Celtic Champions League Wildcards",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thecelticstar.com/matt-oriley-reveals-celtic-stars-are-tipping-denmark-for-world-cup-glory/",
-          "author": null,
-          "description": "Matt O’Riley has revealed that some of his Celtic teamates reckon that denmark could win the World Cup in Qatar later this year and the Celtic midfielder makes no secret of his own desire to make the jump from Under 21s to a call-up for the senior side ahead of the Denmark squad being announced Read More",
-          "link": "https://thecelticstar.com/matt-oriley-reveals-celtic-stars-are-tipping-denmark-for-world-cup-glory/",
-          "publishedOn": "2022-09-13T10:05:06.000Z",
-          "wordCount": 1601,
-          "title": "Matt O’Riley reveals Celtic stars are tipping Denmark for World Cup glory",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/fbl-eur-c1-celtic-presser-5-1-1024x605.jpg"
-        },
-        {
-          "id": "https://celtsarehere.com/celtic-star-confirms-newcastle-interest/",
-          "author": null,
-          "description": "MATT O’RILEY has always spoke open and honestly since coming to Celtic. The midfielder hasn’t even been at the club a year and already the interest in the former MK Dons man is ramping up. O’Riley has shown himself to be a very classy player who can really be an engine for an attacking side. […]\nSource",
-          "link": "https://celtsarehere.com/celtic-star-confirms-newcastle-interest/",
-          "publishedOn": "2022-09-13T09:57:44.000Z",
-          "wordCount": 13614,
-          "title": "Celtic Star Confirms Newcastle Interest",
-          "imageUrl": null
-        },
-        {
-          "id": "https://celtsarehere.com/opinion-two-champions-league-changes-for-celtic/",
-          "author": null,
-          "description": "ANGE POSTECOGLOU opted for Giakoumakis and Abada to start against Real Madrid on matchday one of the Champions league. As we get geared for our first away day in the competition, I can’t shake the feeling he’s about to ring in the changes up top. Kyogo had come off within the first few minutes of […]\nSource",
-          "link": "https://celtsarehere.com/opinion-two-champions-league-changes-for-celtic/",
-          "publishedOn": "2022-09-13T09:49:17.000Z",
-          "wordCount": 13599,
-          "title": "Opinion: Two Logical Champions League Changes for Celtic",
-          "imageUrl": null
         }
       ]
     },
@@ -2359,6 +2249,16 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CAIiEEg3IEcTlJhX6UO10L7HUDEqGQgEKhAIACoHCAowrueiCTDmn7gCMKXUtwU",
+          "author": null,
+          "description": "Oscar Gloukh on Celtic transfer radar as Ange eyes rising Israel star amid World Cup future proofing  Daily Record",
+          "link": "https://www.dailyrecord.co.uk/sport/football/oscar-gloukh-celtic-transfer-radar-28017978",
+          "publishedOn": "2022-09-17T21:30:00.000Z",
+          "wordCount": 3402,
+          "title": "Oscar Gloukh on Celtic transfer radar as Ange eyes rising Israel star amid World Cup future proofing - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/sport/football/football-news/article28017900.ece/ALTERNATES/s1200/0_utils.jpg"
+        },
         {
           "id": "CBMiZGh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS95b3VyZS1nZXR0aW5nLXNhY2tlZC1pbi10aGUtbW9ybmluZy11bmRlci1wcmVzc3VyZS1icmVuZGFuLXJvZGdlcnMtaGVja2xlZC_SAWhodHRwczovL2NlbHRzYXJlaGVyZS5jb20veW91cmUtZ2V0dGluZy1zYWNrZWQtaW4tdGhlLW1vcm5pbmctdW5kZXItcHJlc3N1cmUtYnJlbmRhbi1yb2RnZXJzLWhlY2tsZWQvYW1wLw",
           "author": null,
@@ -3028,104 +2928,44 @@
           "wordCount": 3340,
           "title": "Matt O'Riley's Denmark snub explained as Celtic star set World Cup challenge by international boss - Daily Record",
           "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article27974445.ece/ALTERNATES/s1200/0_Celtic-FC-v-Real-Madrid-Group-F-UEFA-Champions-League.jpg"
-        },
-        {
-          "id": "CAIiEHLmjCb6Qnsxbkvmq_-gxR0qGQgEKhAIACoHCAowr5GNCzDFxJ4DMLbFpgY",
-          "author": null,
-          "description": "Kyogo wins award; gives first English language interview at Celtic  67 Hail Hail - Celtic FC News",
-          "link": "https://www.67hailhail.com/news/kyogo-wins-award-gives-first-english-language-interview-at-celtic/",
-          "publishedOn": "2022-09-13T14:29:20.000Z",
-          "wordCount": 1744,
-          "title": "Kyogo wins award; gives first English language interview at Celtic - 67 Hail Hail - Celtic FC News",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/09/GettyImages-1242997634-scaled.jpg"
-        },
-        {
-          "id": "CAIiEOH2Ts1IfTlCPIBBal9rQM8qGQgEKhAIACoHCAowne-jCzDg-bsDMLnLhQc",
-          "author": null,
-          "description": "Of Course Souness Dismisses The Celtic Manager’s Loyalty. He Had None Himself.  TheCelticBlog.com",
-          "link": "https://thecelticblog.com/2022/09/articles-and-features/articles/of-course-souness-dismisses-the-celtic-managers-loyalty-he-had-none-himself/",
-          "publishedOn": "2022-09-13T13:57:00.000Z",
-          "wordCount": 2717,
-          "title": "Of Course Souness Dismisses The Celtic Manager’s Loyalty. He Had None Himself. - TheCelticBlog.com",
-          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2022/04/2022-04-09T155429Z_1726367583_UP1EI49186Q0J_RTRMADP_3_SOCCER-SCOTLAND-CEL-STJ-REPORT-scaled.jpg"
-        },
-        {
-          "id": "CAIiELH1llgVEtQHddZLZtu2ep4qGQgEKhAIACoHCAowrueiCTDmn7gCMKXUtwU",
-          "author": null,
-          "description": "Helen Flanagan says she's ready to marry ex Celtic player Scott Sinclair in 2024  Daily Record",
-          "link": "https://www.dailyrecord.co.uk/entertainment/celebrity/helen-flanagan-says-shes-ready-27980455",
-          "publishedOn": "2022-09-13T13:38:09.000Z",
-          "wordCount": 3258,
-          "title": "Helen Flanagan says she's ready to marry ex Celtic player Scott Sinclair in 2024 - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article16212017.ece/ALTERNATES/s1200/0_JS183086754.jpg"
-        },
-        {
-          "id": "CBMiZGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvY2VsdGljLWhvbGQtbWludXRlcy1zaWxlbmNlLXdlYXItMjc5ODA3MjfSAQA",
-          "author": null,
-          "description": "Celtic to hold minute’s silence and wear black armbands against Shakhtar Donetsk to honour the Queen  Daily Record",
-          "link": "https://www.dailyrecord.co.uk/sport/football/football-news/celtic-hold-minutes-silence-wear-27980727",
-          "publishedOn": "2022-09-13T13:28:52.000Z",
-          "wordCount": 3018,
-          "title": "Celtic to hold minute’s silence and wear black armbands against Shakhtar Donetsk to honour the Queen - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/sport/football/football-news/article27980971.ece/ALTERNATES/s1200/0_JS276689522.jpg"
-        },
-        {
-          "id": "CAIiEK9Piv3ZJwq86kgorA5wDDMqGQgEKhAIACoHCAow96D9CjDOy_QCMKzp0wU",
-          "author": null,
-          "description": "Former Celtic star Nir Bitton honoured in 'ceremony of appreciation' and handed framed FC Ashdod top  Glasgow Live",
-          "link": "https://www.glasgowlive.co.uk/sport/former-celtic-star-nir-bitton-25007016",
-          "publishedOn": "2022-09-13T13:28:19.000Z",
-          "wordCount": 3561,
-          "title": "Former Celtic star Nir Bitton honoured in 'ceremony of appreciation' and handed framed FC Ashdod top - Glasgow Live",
-          "imageUrl": "https://i2-prod.glasgowlive.co.uk/incoming/article25006962.ece/ALTERNATES/s1200/0_unnamed-19.jpg"
-        },
-        {
-          "id": "CAIiEEhaiLz2HFogIZyJY5buHpkqGQgEKhAIACoHCAowrueiCTDmn7gCMIbTtwU",
-          "author": null,
-          "description": "Lanarkshire Celtic fan tragically found dead in Spanish hotel room  Daily Record",
-          "link": "https://www.dailyrecord.co.uk/in-your-area/lanarkshire/lanarkshire-celtic-fan-tragically-found-27979532",
-          "publishedOn": "2022-09-13T12:50:00.000Z",
-          "wordCount": 3313,
-          "title": "Lanarkshire Celtic fan tragically found dead in Spanish hotel room - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article27977996.ece/ALTERNATES/s1200/0_BarryPNG.png"
-        },
-        {
-          "id": "CAIiEOiThu1Seqm8EcCl4ouI04cqGQgEKhAIACoHCAowrueiCTDmn7gCMOjNtwU",
-          "author": null,
-          "description": "Jon McLaughlin misses main Rangers training as Allan McGregor set for Napoli chance  Daily Record",
-          "link": "https://www.dailyrecord.co.uk/sport/football/jon-mclaughlin-misses-rangers-training-27979489",
-          "publishedOn": "2022-09-13T12:33:33.000Z",
-          "wordCount": 3263,
-          "title": "Jon McLaughlin misses main Rangers training as Allan McGregor set for Napoli chance - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article27900121.ece/ALTERNATES/s1200/0_JS276322000.jpg"
-        },
-        {
-          "id": "CAIiEKbHB3lWxDDVhwLwWikkgZkqGQgEKhAIACoHCAowrueiCTDmn7gCMIfHtwU",
-          "author": null,
-          "description": "Celtic fan in Champions League fear as Rangers punter tells Douglas Park enough is enough – Hotline  Daily Record",
-          "link": "https://www.dailyrecord.co.uk/sport/football/football-news/celtic-fan-champions-league-fear-27979228",
-          "publishedOn": "2022-09-13T11:29:51.000Z",
-          "wordCount": 3467,
-          "title": "Celtic fan in Champions League fear as Rangers punter tells Douglas Park enough is enough – Hotline - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article27952701.ece/ALTERNATES/s1200/0_Celtic-FC-v-Real-Madrid-Group-F-UEFA-Champions-League.jpg"
-        },
-        {
-          "id": "CBMiSWh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9vcGluaW9uLXR3by1jaGFtcGlvbnMtbGVhZ3VlLWNoYW5nZXMtZm9yLWNlbHRpYy_SAU1odHRwczovL2NlbHRzYXJlaGVyZS5jb20vb3Bpbmlvbi10d28tY2hhbXBpb25zLWxlYWd1ZS1jaGFuZ2VzLWZvci1jZWx0aWMvYW1wLw",
-          "author": null,
-          "description": "Opinion: Two Champions League Changes for Celtic  CeltsAreHere",
-          "link": "https://celtsarehere.com/opinion-two-champions-league-changes-for-celtic/",
-          "publishedOn": "2022-09-13T09:49:17.000Z",
-          "wordCount": 13599,
-          "title": "Opinion: Two Champions League Changes for Celtic - CeltsAreHere",
-          "imageUrl": null
         }
       ]
     },
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
       "articles": [
+        {
+          "id": "16f99df88d397497d3ec1222c2f01b3e",
+          "author": null,
+          "description": "SEAD HAKSABANOVIC has insisted that Celtic do not need to be reminded of their domestic duties as they find themselves in a two-pronged campaign as they defend their champions status while competing in the UEFA Champions League.",
+          "link": "https://www.glasgowtimes.co.uk/sport/22121745.sead-haksabanovic-focused-domestic-duties-celtic/?ref=rss",
+          "publishedOn": "2022-09-17T21:30:00.000Z",
+          "wordCount": 8773,
+          "title": "Sead Haksabanovic focused on domestic duties for Celtic",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15593046/?type=og-image"
+        },
+        {
+          "id": "1bc32cc3a24aad3edca50811df49f6ce",
+          "author": null,
+          "description": "CELTIC are not the only ones to benefit from Ange Postecoglou’s arrival in Scottish football 15 months ago.",
+          "link": "https://www.glasgowtimes.co.uk/sport/22121194.ryan-strain-hopes-continue-impress-australia-manager-celtic/?ref=rss",
+          "publishedOn": "2022-09-17T21:30:00.000Z",
+          "wordCount": 8948,
+          "title": "Ryan Strain hopes to continue to impress Australia manager against Celtic",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15592987/?type=og-image"
+        },
+        {
+          "id": "97a601b4a5bccbbd4958c94ab2506320",
+          "author": null,
+          "description": "Celtic have already started planning to offset any January transfer moves for players who will find themselves with a World Cup platform to showcase their qualities this winter.",
+          "link": "https://www.glasgowtimes.co.uk/sport/22121397.celtic-steeling-moves-world-cup-stars/?ref=rss",
+          "publishedOn": "2022-09-17T21:30:00.000Z",
+          "wordCount": 8633,
+          "title": "Celtic steeling themselves for moves for World Cup stars",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15592998/?type=og-image"
+        },
         {
           "id": "4f5b51fe5f9524ff11de2ef380c7e335",
           "author": null,
@@ -3685,26 +3525,6 @@
           "wordCount": 8831,
           "title": "Shakhtar Donetsk in focus ahead of Celtic Champions League clash",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15237370/?type=og-image"
-        },
-        {
-          "id": "31c8c3e6d8d9ab101cdf93fce8c155e2",
-          "author": null,
-          "description": "KYOGO Furuhashi has completed a treble of individual awards for Celtic in the first month of the season after being voted cinch Premiership Player of the Month for August.",
-          "link": "https://www.glasgowtimes.co.uk/sport/21396925.celtic-star-kyogo-named-premiership-player-month-august/?ref=rss",
-          "publishedOn": "2022-09-13T14:36:02.000Z",
-          "wordCount": 8014,
-          "title": "Celtic star Kyogo named Premiership Player of the Month for August",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15236915/?type=og-image"
-        },
-        {
-          "id": "420e8712fb5e8191c633c0017981db12",
-          "author": null,
-          "description": "UEFA have confirmed commemorative plans have been put in place to honour the Queen in this week's upcoming Champions League matches featuring UK sides.",
-          "link": "https://www.glasgowtimes.co.uk/sport/21384213.uefa-reveal-celtic-rangers-champions-league-commemorative-plans-honour-queen/?ref=rss",
-          "publishedOn": "2022-09-13T11:55:14.000Z",
-          "wordCount": 8269,
-          "title": "UEFA reveal Celtic and Rangers Champions League commemorative plans to honour The Queen",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15230273/?type=og-image"
         }
       ]
     }
