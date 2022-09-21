@@ -234,16 +234,6 @@
           "wordCount": 2553,
           "title": "'Enormous progress' - Ange Postecoglou makes Celtic claim over side that slipped up on last visit to St Mirren",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjg4NTk5MDUwLWM1NWYtNGVhMS04OTgxLWIzZWI2MjBmOGE3MTozM2JkZTI3Yy1kZGQ1LTRjNzYtYmUwZi0wMTg0MGUyNzFjZDY=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3846749",
-          "author": "Matthew Elder",
-          "description": "Former Celtic director Michael Kelly has called on the club to speak out against the \"disgraceful\" banners displayed during the 1-1 draw with Shakhtar Donetsk in Warsaw on Wednesday.",
-          "link": "https://www.scotsman.com/sport/football/celtic/ex-celtic-director-says-silent-club-must-speak-out-against-disgraceful-banners-3846749",
-          "publishedOn": "2022-09-16T17:42:31.000Z",
-          "wordCount": 2069,
-          "title": "Ex-Celtic director says 'silent' club must speak out against 'disgraceful' banners",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjY1YTdjMDI4LTg4MWUtNGI3NS04N2E3LTc3ZDI3MDQxMGZmMjo1NjIyOTYxOC1mYjY4LTRmZjUtOTIyNy02ZjU0ZTY2NWFlNWQ=.jpg?width=1200&enable=upscale"
         }
       ]
     },
@@ -252,6 +242,46 @@
       "feedUrl": "http://armchaircelts.co.uk/wprss",
       "siteUrl": "http://armchaircelts.co.uk/feed/wprss/",
       "articles": [
+        {
+          "id": "https://www.celticquicknews.co.uk/off-the-pace-didnt-deliver-celtic-legends-verdict-on-double-act/",
+          "author": null,
+          "description": "AARON MOOY’S first Premiership start for Celtic was cut short after 45 minutes in the 2-0 loss to St Mirren in Paisley at the weekend. The Australian midfielder, who was recruited on a two-year contract by his former international boss Ange Postecoglou in the summer, toiled to make an impression against his former club. Mooy’s [...]",
+          "link": "https://www.celticquicknews.co.uk/off-the-pace-didnt-deliver-celtic-legends-verdict-on-double-act/",
+          "publishedOn": "2022-09-21T06:03:48.000Z",
+          "wordCount": 2867,
+          "title": "‘OFF THE PACE’, ‘DIDN’T DELIVER,’ CELTIC LEGEND’S VERDICT ON DOUBLE-ACT",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/09/AARON-MOOY-FTREDSS.png"
+        },
+        {
+          "id": "https://thecelticstar.com/celtic-on-this-day-21st-september-david-potters-celtic-diary/",
+          "author": null,
+          "description": "Month 2, Day 21 of Celtic Historian David Potter’s new diary on The Celtic Star which will run throughout the new season and will highlight key Celtic-related events relevant to each day, today covering 21 September…SATURDAY 21 SEPTEMBER 1907A slightly disappointing game at Parkhead today as Celtic, without Sunny Jim and then with Donnie McLeod Read More",
+          "link": "https://thecelticstar.com/celtic-on-this-day-21st-september-david-potters-celtic-diary/",
+          "publishedOn": "2022-09-21T06:00:00.000Z",
+          "wordCount": 1620,
+          "title": "Celtic On This Day – 21st September – David Potter’s Celtic Diary",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/image-140-1024x676.jpeg"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/celtic-in-profit-after-38m-recruitment-outlay/",
+          "author": null,
+          "description": "CELTIC splashed £38million in strengthening their first-team squad in the last financial year. And the Parkhead club returned to profit after making £6million while they still have £30million in the bank. The figures are revealed in the annual results which cover the year up to the end of June 2022. Revenue from participation in the [...]",
+          "link": "https://www.celticquicknews.co.uk/celtic-in-profit-after-38m-recruitment-outlay/",
+          "publishedOn": "2022-09-21T05:27:36.000Z",
+          "wordCount": 2787,
+          "title": "CELTIC IN PROFIT AFTER £38m RECRUITMENT OUTLAY",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/09/CELTIC-PARK-SEPTEMBER-5-2022.png"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/the-jock-stein-years-part-eleven/",
+          "author": null,
+          "description": "CELTIC legend Jock Stein made an extraordinary immediate impact on the Parkhead club when he returned as manager in March 1965. In another CQN EXCLUSIVE,  Alex Gordon, author of fifteen books on Celtic, has opened his files on the Parkhead great for an absorbing twenty-one part series. Today, in Part Eleven of our fascinating look back at [...]",
+          "link": "https://www.celticquicknews.co.uk/the-jock-stein-years-part-eleven/",
+          "publishedOn": "2022-09-21T04:30:26.000Z",
+          "wordCount": 3860,
+          "title": "THE JOCK STEIN YEARS: PART ELEVEN",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2021/09/JOCK-STEIN-JOY.jpg"
+        },
         {
           "id": "https://thecelticstar.com/greg-taylor-ready-to-step-in-for-liverpools-andy-robertson-in-scotland-slot/",
           "author": null,
@@ -2171,46 +2201,6 @@
           "wordCount": 1897,
           "title": "Celtic star shares dressing room reaction to Warsaw events; what Ange said",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/09/GettyImages-1243243054-scaled.jpg"
-        },
-        {
-          "id": "https://thecelticblog.com/2022/09/articles-and-features/celtic-fan-site-accuses-the-record-of-stealing-a-story-from-them/",
-          "author": null,
-          "description": "Earlier in the week, I did something I’ve never done before. I used the entire text (just about, I deleted a big, irrelevant section) of an article from the mainstream media in a piece I had written. The article was written by Keith Jackson. But not only did I acknowledge the fact that I had […]",
-          "link": "https://thecelticblog.com/2022/09/articles-and-features/celtic-fan-site-accuses-the-record-of-stealing-a-story-from-them/",
-          "publishedOn": "2022-09-16T18:40:07.000Z",
-          "wordCount": 1756,
-          "title": "Celtic Fan Site Accuses The Record Of Stealing A Story From Them.",
-          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2022/09/2022-09-06T204949Z_2045008596_UP1EI961LUZFD_RTRMADP_3_SOCCER-CHAMPIONS-CEL-MAD-REPORT-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/news/would-love-to-play-for-aiden-mcgeadys-glowing-praise-for-postecoglous-celtic-media-work/",
-          "author": null,
-          "description": "Aiden McGeady had some strong praise for Celtic manager Ange Postecoglou this week, speaking as a guest on BBC Sportsound’s coverage of the draw against Shakhtar. The former Celtic winger, currently at Hibernian but on the sidelines injured, was giving his opinion on Postecoglou’s comments on the Bhoys’ chances in the Champions League and the ...\nThe post \"Would love to play for\"; Aiden McGeady&#039;s glowing praise for Postecoglou&#039;s Celtic media work appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/would-love-to-play-for-aiden-mcgeadys-glowing-praise-for-postecoglous-celtic-media-work/",
-          "publishedOn": "2022-09-16T18:38:15.000Z",
-          "wordCount": 1848,
-          "title": "\"Would love to play for\"; Aiden McGeady&#039;s glowing praise for Postecoglou&#039;s Celtic media work",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/09/GettyImages-1242966138-scaled.jpg"
-        },
-        {
-          "id": "https://thecelticstar.com/our-passage-is-being-blocked-for-no-apparent-reason-this-is-an-accident-waiting-to-happen-matt-corr/",
-          "author": null,
-          "description": "Matt Corr’s European Diary – This was nearly the day when we won away…5am Wednesday. It’s that time again. Just about thawed out from Bodo in the Snow back in February and we’re off to Warsaw in the…well, I’m not sure, really. Things are a bit manic at the moment as we get to the critical Read More",
-          "link": "https://thecelticstar.com/our-passage-is-being-blocked-for-no-apparent-reason-this-is-an-accident-waiting-to-happen-matt-corr/",
-          "publishedOn": "2022-09-16T17:36:53.000Z",
-          "wordCount": 4380,
-          "title": "“Our passage is being blocked for no apparent reason. This is an accident waiting to happen,” Matt Corr",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/IMG_3416-1024x768.jpeg"
-        },
-        {
-          "id": "https://www.67hailhail.com/news/video-celtic-hero-caught-up-in-hilarious-norwegian-tv-moment-that-goes-viral/",
-          "author": null,
-          "description": "A sheepish Joe Hart had to apologise to a Norwegian television presenter this week after hitting her with a stray football in his pre-match warm-up. Hart clipped the TV2 presenter with an errant pass ahead of the fixture against Shakhtar Donetsk in Warsaw on Wednesday night which, is fair to say, took her by surprise ...\nThe post Video: Celtic hero caught up in hilarious TV moment that goes viral appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/video-celtic-hero-caught-up-in-hilarious-norwegian-tv-moment-that-goes-viral/",
-          "publishedOn": "2022-09-16T17:28:52.000Z",
-          "wordCount": 1709,
-          "title": "Video: Celtic hero caught up in hilarious TV moment that goes viral",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/09/GettyImages-1243228387-scaled.jpg"
         }
       ]
     },
@@ -2219,6 +2209,36 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CAIiEO-bExhDsP-l0_NA3_B9C8AqGQgEKhAIACoHCAowsJStCzC9n8UDMNeMswc",
+          "author": null,
+          "description": "Ange Postecoglou shuts down Celtic exit links as Australian delivers 'living the dream' message | Celtic Way  Celtic Way",
+          "link": "https://www.celticway.co.uk/news/22378089.ange-postecoglou-shuts-celtic-exit-links-australian-delivers-living-dream-message/",
+          "publishedOn": "2022-09-21T06:43:51.000Z",
+          "wordCount": 8071,
+          "title": "Ange Postecoglou shuts down Celtic exit links as Australian delivers 'living the dream' message | Celtic Way - Celtic Way",
+          "imageUrl": "https://www.celticway.co.uk/resources/images/15644575/?type=og-image"
+        },
+        {
+          "id": "CBMivwFodHRwczovL3d3dy5mb3hzcG9ydHMuY29tLmF1L2Zvb3RiYWxsL3ByZW1pZXItbGVhZ3VlL2FuZ2UtcG9zdGVjb2dsb3UtZm9vdGJhbGwtbmV3cy0yMDIyLWNlbHRpYy1mYy1zcGZsLWxlaWNlc3Rlci1icmVuZGFuLXJvZGdlcnMtbmV4dC1jb2FjaC1sYXRlc3QvbmV3cy1zdG9yeS8wZDY5ZGUxMmUwMzlmNGE2ZTI0NWEwNTRlMWMwYTM3YdIBAA",
+          "author": null,
+          "description": "‘I’m at a really massive club now’: Ange declares Premier League rumours ‘not on my radar’  Fox Sports",
+          "link": "https://www.foxsports.com.au/football/premier-league/ange-postecoglou-football-news-2022-celtic-fc-spfl-leicester-brendan-rodgers-next-coach-latest/news-story/0d69de12e039f4a6e245a054e1c0a37a",
+          "publishedOn": "2022-09-21T06:35:00.000Z",
+          "wordCount": 1311,
+          "title": "‘I’m at a really massive club now’: Ange declares Premier League rumours ‘not on my radar’ - Fox Sports",
+          "imageUrl": "https://content.api.news/v3/images/bin/853744156e764dc1c3a0b56a3e0f6b8d"
+        },
+        {
+          "id": "CBMiYmh0dHBzOi8vd3d3LmZvb3RiYWxsLmNvLnVrL25ld3MvYW5nZS1wb3N0ZWNvZ2xvdXMtY2VsdGljLWZjLXRvLXBsYXktaW4tc3lkbmV5LXZlcnN1cy1hbGVhZy83NjIwMjcv0gEA",
+          "author": null,
+          "description": "Ange Postecoglou's Celtic FC to play in Sydney versus A-League teams and Premier League's Everton  Football.co.uk",
+          "link": "https://www.football.co.uk/news/ange-postecoglous-celtic-fc-to-play-in-sydney-versus-aleag/762027/",
+          "publishedOn": "2022-09-21T04:26:00.000Z",
+          "wordCount": 1001,
+          "title": "Ange Postecoglou's Celtic FC to play in Sydney versus A-League teams and Premier League's Everton - Football.co.uk",
+          "imageUrl": "http://images.football.co.uk/630x472/football-fans.jpg"
+        },
         {
           "id": "CAIiEMCHfqztVmufg3WRprrMA6kqGQgEKhAIACoHCAowrueiCTDmn7gCMIfHtwU",
           "author": null,
@@ -2978,23 +2998,13 @@
           "wordCount": 2370,
           "title": "Celtic player has completed move to Leeds United - The Celtic Bhoys",
           "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F456071160.jpeg"
-        },
-        {
-          "id": "CAIiEFHcbXYSLvzSpdmL8q1Z43cqGQgEKhAIACoHCAowrueiCTDmn7gCMIfHtwU",
-          "author": null,
-          "description": "6 surprising Celtic and Rangers Champions League stats as Moritz Jenz crashes passing party  Daily Record",
-          "link": "https://www.dailyrecord.co.uk/sport/football/6-surprising-celtic-rangers-champions-28009635",
-          "publishedOn": "2022-09-16T17:44:28.000Z",
-          "wordCount": 3635,
-          "title": "6 surprising Celtic and Rangers Champions League stats as Moritz Jenz crashes passing party - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article27674970.ece/ALTERNATES/s1200/0_JS273991851.jpg"
         }
       ]
     },
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
         {
           "id": "ba87a5412ec499d4b94d84f441db716a",
@@ -3575,16 +3585,6 @@
           "wordCount": 8544,
           "title": "Celtic confirm double signing as Justin Osagie and Francis Turley sign three-year deals",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15524008/?type=og-image"
-        },
-        {
-          "id": "1d0d74a553936a0e3bc291036a45c7b5",
-          "author": null,
-          "description": "ANGE POSTECOGLOU has admitted Celtic must be patient with summer signing Oliver Abildgaard as he offered an update on Sead Haksabanovic.",
-          "link": "https://www.glasgowtimes.co.uk/sport/21873770.sead-haksabanovic-oliver-abildgaard-celtic-latest-ange-postecoglou-provides-fitness-update/?ref=rss",
-          "publishedOn": "2022-09-16T17:53:44.000Z",
-          "wordCount": 8254,
-          "title": "Sead Haksabanovic and Oliver Abildgaard Celtic latest as Ange Postecoglou provides fitness update",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15515953/?type=og-image"
         }
       ]
     }
