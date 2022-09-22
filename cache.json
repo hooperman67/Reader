@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com//sport/football/celtic",
       "articles": [
         {
+          "id": "3853583",
+          "author": "Joel Sked",
+          "description": "The top ten creative players in the Scottish Premiership has been revealed – and there are some surprises as well as names you fully expect to see included.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtic-domination-rangers-issue-and-ryan-porteous-the-premierships-most-creative-players-revealed-3853583",
+          "publishedOn": "2022-09-22T19:56:14.000Z",
+          "wordCount": 2272,
+          "title": "Celtic domination, Rangers issue and Ryan Porteous - The Premiership's most creative players revealed",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmEzZjZmZTkxLWNkMTUtNDdkNy04NjAzLTkxZDVjMWE3Y2U2YzoyYzc5ZWZhYi0xNjk5LTRiNzgtOGZkZS04ZDA1MDg0MDRjNzE=.jpg?width=1200&enable=upscale"
+        },
+        {
           "id": "3851948",
           "author": "Andrew Smith",
           "description": "A three-man central defence has become such an orthodoxy across Steve Clarke’s tenure as Scotland manager – a veritable tenet of his tactical approach – his decision to operate with a flat back four against Ukraine appeared eye-popping radical.",
@@ -272,6 +282,96 @@
       "feedUrl": "http://armchaircelts.co.uk/wprss",
       "siteUrl": "http://armchaircelts.co.uk/feed/wprss/",
       "articles": [
+        {
+          "id": "https://thecelticstar.com/brendan-rodgers-appointment-at-celtic-makes-premier-league-return/",
+          "author": null,
+          "description": "Former Celtic Head of Sport Science Jack Nayler has been announced as Premier League side Everton’s Head of Sports Science for the Men’s First Team. The move was announced on Thursday afternoon as the former Real Madrid, PSG and Chelsea employee moves from Celtic’s Champions League rivals RB Leipzig just weeks before the double-header against Ange Read More",
+          "link": "https://thecelticstar.com/brendan-rodgers-appointment-at-celtic-makes-premier-league-return/",
+          "publishedOn": "2022-09-22T20:55:51.000Z",
+          "wordCount": 1116,
+          "title": "Brendan Rodgers appointment at Celtic makes Premier League return",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/Screenshot-2022-09-22-at-21.46.14-1024x625.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/opinion/celtics-big-rb-leipzig-chance-and-the-oliver-abildgaard-wildcard/",
+          "author": null,
+          "description": "In the forthcoming Champions League double-header against RB Leipzig, Ange Postecoglou’s Celtic have the opportunity to lay a serious marker down and take control of the charge for likely 2nd place in Group F. With the imperious Real Madrid looking likely to finish 1st in what should be a competitive and hotly-contested group, the two ...\nThe post The Ange wildcard that could be a huge boost for Celtic&#039;s Leipzig chances appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/opinion/celtics-big-rb-leipzig-chance-and-the-oliver-abildgaard-wildcard/",
+          "publishedOn": "2022-09-22T20:10:00.000Z",
+          "wordCount": 1983,
+          "title": "The Ange wildcard that could be a huge boost for Celtic&#039;s Leipzig chances",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/09/GettyImages-1243130452-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/news/harry-kewell-left-blown-away-by-celtic-supporters-why-its-something-different-from-liverpool/",
+          "author": null,
+          "description": "Celtic coach Harry Kewell has given the Paradise home support a glowing review after this first few months at the club. Kewell was appointed first team coach in June after a tumultuous period managing in England’s lower leagues, becoming the first addition to Ange Postecoglou’s staff in his time as manager in Paradise. Despite playing ...\nThe post Former Liverpool star compares Celtic Park to his biggest games; blown away by Bhoys fans appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/harry-kewell-left-blown-away-by-celtic-supporters-why-its-something-different-from-liverpool/",
+          "publishedOn": "2022-09-22T19:40:00.000Z",
+          "wordCount": 1935,
+          "title": "Former Liverpool star compares Celtic Park to his biggest games; blown away by Bhoys fans",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/09/GettyImages-1420981018-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/opinion/why-celtics-st-mirren-nightmare-doesnt-require-a-big-ange-postecoglou-rethink/",
+          "author": null,
+          "description": "Many factors were at play in Celtic’s defeat in Paisley on Sunday, which saw the end of a 38-match unbeaten run lasting one day short of an entire year. Ange Postecoglou chose to heavily rotate his side, with six changes made to the team who drew 1-1 against Shakhtar Donetsk in Warsaw in the Champions ...\nThe post Why Celtic nightmare doesn&#039;t require a big Ange Postecoglou rethink appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/opinion/why-celtics-st-mirren-nightmare-doesnt-require-a-big-ange-postecoglou-rethink/",
+          "publishedOn": "2022-09-22T19:10:00.000Z",
+          "wordCount": 2063,
+          "title": "Why Celtic nightmare doesn&#039;t require a big Ange Postecoglou rethink",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/09/GettyImages-1243228124-scaled.jpg"
+        },
+        {
+          "id": "https://thecelticblog.com/2022/09/articles-and-features/clown-keevins-makes-a-fool-of-himself-again-with-ridiculous-celtic-criticism/",
+          "author": null,
+          "description": "It doesn’t bother me that Keevins is criticising Celtic after the weekend; we deserve a bit of stick for a dreadful performance. It does bother me that he’s talking utter balls when he does it. He says that Ange was complacent and felt he could stick any team out there to win the game. This […]",
+          "link": "https://thecelticblog.com/2022/09/articles-and-features/clown-keevins-makes-a-fool-of-himself-again-with-ridiculous-celtic-criticism/",
+          "publishedOn": "2022-09-22T19:06:25.000Z",
+          "wordCount": 1853,
+          "title": "Clown Keevins Makes A Fool Of Himself Again With Ridiculous Celtic Criticism.",
+          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2022/08/2022-07-31T171656Z_1933680151_UP1EI7V1C07WO_RTRMADP_3_SOCCER-SCOTLAND-CEL-ABE-REPORT-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/news/kieran-tierney-left-buzzing-for-celtic-perfomer-watches-him-closely-and-texts-every-week/",
+          "author": null,
+          "description": "Former Celtic star Kieran Tierney has sang the praises of his international teammate and Paradise replacement Greg Taylor, and insists that he’s been cribbing from the former Kilmarnock defender’s playing style. Taylor was late addition for Celtic in the 2019 summer window to replace the outgoing Tierney, who left for Arsenal in a still-record fee ...\nThe post £50m-rated Premier League star is taking inspiration from Celtic; texts one hero all the time appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/kieran-tierney-left-buzzing-for-celtic-perfomer-watches-him-closely-and-texts-every-week/",
+          "publishedOn": "2022-09-22T18:40:00.000Z",
+          "wordCount": 1851,
+          "title": "£50m-rated Premier League star is taking inspiration from Celtic; texts one hero all the time",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/06/GettyImages-1386492576-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/opinion/its-all-upside-for-greg-taylor-celtic-and-scotland/",
+          "author": null,
+          "description": "Few have benefitted from Ange Postecoglou’s Celtic revolution as much as Greg Taylor. Signed in 2019 along with Boli Bolingoli to fill the void left by Kieran Tierney’s departure to Arsenal, Taylor first broke into the side before the COVID-19 pandemic and subsequent curtailing of the Scottish Premiership season, sharing minutes with Diego Laxalt in ...\nThe post 24-year-old&#039;s international situation is perfect for Celtic to benefit appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/opinion/its-all-upside-for-greg-taylor-celtic-and-scotland/",
+          "publishedOn": "2022-09-22T18:10:00.000Z",
+          "wordCount": 2015,
+          "title": "24-year-old&#039;s international situation is perfect for Celtic to benefit",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/09/GettyImages-1239488504-scaled.jpg"
+        },
+        {
+          "id": "https://celtsarehere.com/postecoglou-reveals-january-transfer-plans/",
+          "author": null,
+          "description": "Ange Postecoglou is continuing to stay one step ahead as he has revealed that Celtic are already preparing for the January transfer window. Unlike recent times, Celtic were quick off the mark during the January window bringing in four new faces to add to the squad. There’s absolutely no doubt that without the additions made […]\nSource",
+          "link": "https://celtsarehere.com/postecoglou-reveals-january-transfer-plans/",
+          "publishedOn": "2022-09-22T18:09:00.000Z",
+          "wordCount": 13817,
+          "title": "Postecoglou Reveals January Transfer Plans",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thecelticstar.com/ange-postecoglou-reveals-celtic-will-travel-to-portugal-for-december-training-camp/",
+          "author": null,
+          "description": "A jet-lagged Ange Postecoglou has been all ove the Australian media in his trip Down Under to promote the Syndey Super Cup event which is happening towards the end of November. His radio interview with SEN Radio was particularly revealing, with Ange giving us an indication of his own and Celtic’s plans after the two Read More",
+          "link": "https://thecelticstar.com/ange-postecoglou-reveals-celtic-will-travel-to-portugal-for-december-training-camp/",
+          "publishedOn": "2022-09-22T18:08:05.000Z",
+          "wordCount": 1244,
+          "title": "Ange Postecoglou reveals Celtic will travel to Portugal for December Training Camp",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/ange-postecoglou-announces-celtic-visit-to-australia-3-1024x682.jpeg"
+        },
         {
           "id": "https://www.67hailhail.com/opinion/the-3-players-set-for-a-bigger-celtic-role-than-weve-seen-so-far/",
           "author": null,
@@ -2351,96 +2451,6 @@
           "wordCount": 1289,
           "title": "Team’s Up – Ange rings the changes for St Mirren test",
           "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/fbl-eur-c1-shaktar-celtic-24-1-1024x907.jpeg"
-        },
-        {
-          "id": "https://thecelticstar.com/chris-sutton-compares-ange-postecoglou-to-pep-guardiola/",
-          "author": null,
-          "description": "Over the past year Ange Postecoglou has re-established Celtic as the dominant force in Scottish football and has now set aout rebuilding the club’s reputation on the European stage. The speed of play, the players and the whole system of attack are all impressive and Ange’s work has allowed Celtic to go up against the Read More",
-          "link": "https://thecelticstar.com/chris-sutton-compares-ange-postecoglou-to-pep-guardiola/",
-          "publishedOn": "2022-09-18T08:43:05.000Z",
-          "wordCount": 1390,
-          "title": "Chris Sutton compares Ange Postecoglou to Pep Guardiola",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/image-129-1024x701.jpeg"
-        },
-        {
-          "id": "https://thecelticstar.com/remembering-paul-wilson-a-courageous-man-and-a-wonderful-celtic-star/",
-          "author": null,
-          "description": "Remembering Paul Wilson…a courageous man and a wonderful Celt…I wrote a piece on the first European match I ever attended, which had taken place 50 years earlier, on 16 September 1970. That game, a European Cup first round first-leg tie against Finnish champions KPV Kokkola, also represented the debut of Paul Wilson in the Celtic Read More",
-          "link": "https://thecelticstar.com/remembering-paul-wilson-a-courageous-man-and-a-wonderful-celtic-star/",
-          "publishedOn": "2022-09-18T08:10:21.000Z",
-          "wordCount": 3185,
-          "title": "Remembering Paul Wilson – A courageous man and a wonderful Celtic Star",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/image-128.jpeg"
-        },
-        {
-          "id": "https://celtsarehere.com/he-is-definitely-a-talent-celtic-linked-with-major-australian-talent/",
-          "author": null,
-          "description": "ANGE POSTECOGLOU has been linked with a move for Central Coast Mariners youngster Garang Kuol, RecordSport has reported. The 17-year-old has been drafted into the Australia squad for the upcoming international break and could get some game time under Graham Arnold. English side Newcastle have been tipped with a major interest in Kuol, and the […]\nSource",
-          "link": "https://celtsarehere.com/he-is-definitely-a-talent-celtic-linked-with-major-australian-talent/",
-          "publishedOn": "2022-09-18T08:00:00.000Z",
-          "wordCount": 13601,
-          "title": "‘He is definitely a talent’ – Celtic Linked With Major Australian Talent",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/anges-wide-bhoys-aim-for-seventh-heaven/",
-          "author": null,
-          "description": "ANGE POSTECOGLOU could wing it when he names his Celtic line-up to face St Mirren in Paisley at noon today. The Hoops manager is a known advocate of wide players and he is spoiled for choice as he attempts to push the champions back to a five-point advantage at the Premiership pinnacle against Stephen Robinson’s [...]",
-          "link": "https://www.celticquicknews.co.uk/anges-wide-bhoys-aim-for-seventh-heaven/",
-          "publishedOn": "2022-09-18T07:56:54.000Z",
-          "wordCount": 2572,
-          "title": "ANGE’S WIDE BHOYS AIM FOR SEVENTH HEAVEN",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/09/LIEL-ABADA-THREE-FTRD.png"
-        },
-        {
-          "id": "https://celtsarehere.com/ryan-kent-is-as-good-as-jota-and-better-than-abada-kenny-miller/",
-          "author": null,
-          "description": "FORMER IBROX striker Kenny Miller has claimed Ryan Kent is better than Liel Abada and Daizen Maeda while also on a par with Celtic’s superstar from Portugal! Yes, he’s actually said this! Ryan Kent has not performed well or consistently for the Ibrox side in a long time. The wee guy is still dining out […]\nSource",
-          "link": "https://celtsarehere.com/ryan-kent-is-as-good-as-jota-and-better-than-abada-kenny-miller/",
-          "publishedOn": "2022-09-18T07:49:53.000Z",
-          "wordCount": 13615,
-          "title": "Ryan Kent is as good as Jota and better than Abada – Kenny Miller",
-          "imageUrl": null
-        },
-        {
-          "id": "https://celtsarehere.com/ange-postecoglous-january-transfer-update-mark-lawwells-plans/",
-          "author": null,
-          "description": "ANGE POSTECOGLOU has spoken about the need to be three or four windows ahead in order to replenish talent and keep Celtic moving. The Australian admitted he knows some of his top stars he brought in just over a year ago will be in demand after the World Cup and in the summer. That’s why […]\nSource",
-          "link": "https://celtsarehere.com/ange-postecoglous-january-transfer-update-mark-lawwells-plans/",
-          "publishedOn": "2022-09-18T07:45:00.000Z",
-          "wordCount": 13756,
-          "title": "Ange Postecoglou’s January Transfer Update; Mark Lawwell’s Plans",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thecelticstar.com/st-mirren-v-celtic-team-news-ko-time-and-where-to-watch-2/",
-          "author": null,
-          "description": "Celtic return to domestic action this afternoon with the short trip along to Paisley. Last time out on league duty for Ange Postecoglou’s team saw a 4-0 win over theRangers at Celitc Park before the postponement of the game against Livingston paused the Celtic monentum but only temporarily.Celtic dropped two points at Paisley just before Read More",
-          "link": "https://thecelticstar.com/st-mirren-v-celtic-team-news-ko-time-and-where-to-watch-2/",
-          "publishedOn": "2022-09-18T07:42:17.000Z",
-          "wordCount": 1821,
-          "title": "St Mirren v Celtic: team news, KO time and where to watch",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/imago1014776242h-1024x639.jpg"
-        },
-        {
-          "id": "https://thecelticstar.com/celtics-champions-league-rivals-heavily-beaten-but-still-pose-a-massive-threat/",
-          "author": null,
-          "description": "Celtic’s Champions League rivals RB Leipzig fell to a 3-0 defeat against Borussia Mönchengladbach earlier today. Marco Rose’s side were on the receiving end of two goals from Germany international Jonas Hofmann as well as a third from Bensebaini.Leipzig sit 12th in the Bundesliga and Rose will need to arrest the slump in form that Read More",
-          "link": "https://thecelticstar.com/celtics-champions-league-rivals-heavily-beaten-but-still-pose-a-massive-threat/",
-          "publishedOn": "2022-09-18T07:22:00.000Z",
-          "wordCount": 1113,
-          "title": "Celtic’s Champions League rivals heavily beaten but still pose a massive threat",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/Screenshot-2022-09-17-at-23.20.59.jpg"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/loan-celt-in-cheat-storm/",
-          "author": null,
-          "description": "ON-LOAN Celt Liam Scales was at the centre of a ‘cheat’ storm after seeing red in Aberdeen’s 3-1 loss against Hibs at Easter Road yesterday. The Republic of Ireland international defender was sent off after a clash with rival centre-back Ryan Porteous when referee David Dickinson issued a second booking and awarded the Edinburgh club [...]",
-          "link": "https://www.celticquicknews.co.uk/loan-celt-in-cheat-storm/",
-          "publishedOn": "2022-09-18T07:01:25.000Z",
-          "wordCount": 2796,
-          "title": "LOAN CELT IN ‘CHEAT’ STORM",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/09/LIAM-SCALES-RED.png"
         }
       ]
     },
@@ -2450,6 +2460,16 @@
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
         {
+          "id": "CAIiECjMZW4R0KEkwVwRZ8Qx6foqGQgEKhAIACoHCAowrueiCTDmn7gCMKXUtwU",
+          "author": null,
+          "description": "Matt O'Riley earns mega Celtic acclaim as stats crown him Premiership's most creative player  Daily Record",
+          "link": "https://www.dailyrecord.co.uk/sport/football/matt-oriley-earns-mega-celtic-28059094",
+          "publishedOn": "2022-09-22T18:46:19.000Z",
+          "wordCount": 3212,
+          "title": "Matt O'Riley earns mega Celtic acclaim as stats crown him Premiership's most creative player - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28059196.ece/ALTERNATES/s1200/0_Celtic-FC-v-Rangers-FC-Cinch-Scottish-Premiership.jpg"
+        },
+        {
           "id": "CAIiEG0gkkMezEwE_C2wWxr8Lz0qGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY",
           "author": null,
           "description": "Ange Postecoglou reveals Celtic will travel to Portugal for December Training Camp  The Celtic Star",
@@ -2458,6 +2478,36 @@
           "wordCount": 1244,
           "title": "Ange Postecoglou reveals Celtic will travel to Portugal for December Training Camp - The Celtic Star",
           "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/ange-postecoglou-announces-celtic-visit-to-australia-3-1024x682.jpeg"
+        },
+        {
+          "id": "CAIiEGkGixfxXgg2D1PLwnC74nkqGQgEKhAIACoHCAowrueiCTDmn7gCMOjNtwU",
+          "author": null,
+          "description": "Brendan Rodgers earns Leicester 'second chance' as former Celtic boss set two game target to turn it round  Daily Record",
+          "link": "https://www.dailyrecord.co.uk/sport/football/brendan-rodgers-earns-leicester-second-28058850",
+          "publishedOn": "2022-09-22T18:02:14.000Z",
+          "wordCount": 3169,
+          "title": "Brendan Rodgers earns Leicester 'second chance' as former Celtic boss set two game target to turn it round - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article27872436.ece/ALTERNATES/s1200/1_JS272876194.jpg"
+        },
+        {
+          "id": "CAIiEBfCY6rwRJc2ih4n6MKrTK0qGQgEKhAIACoHCAow6uGMCzCcip0DMNu_rwY",
+          "author": null,
+          "description": "Kieran Tierney really impressed by Greg Taylor’s Celtic form  TBR - The Boot Room - Football News",
+          "link": "https://tbrfootball.com/kieran-tierney-really-impressed-by-greg-taylors-celtic-form/",
+          "publishedOn": "2022-09-22T17:45:00.000Z",
+          "wordCount": 1786,
+          "title": "Kieran Tierney really impressed by Greg Taylor’s Celtic form - TBR - The Boot Room - Football News",
+          "imageUrl": "https://cdn1.tbrfootball.com/uploads/27/2022/09/GettyImages-1391945461-scaled.jpg"
+        },
+        {
+          "id": "CAIiEKGXDMinOVfL1bpnc2KOSUkqGQgEKhAIACoHCAowr5GNCzDFxJ4DMLbFpgY",
+          "author": null,
+          "description": "Aaron Hickey reflects on turning down contract at ‘boyhood club’ Celtic  67 Hail Hail - Celtic FC News",
+          "link": "https://www.67hailhail.com/news/aaron-hickey-reflects-on-turning-down-contract-at-boyhood-club-celtic/",
+          "publishedOn": "2022-09-22T17:10:00.000Z",
+          "wordCount": 2174,
+          "title": "Aaron Hickey reflects on turning down contract at ‘boyhood club’ Celtic - 67 Hail Hail - Celtic FC News",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/07/GettyImages-1394919107-scaled.jpg"
         },
         {
           "id": "CAIiEHTBGVAYvLVvM37cEmW8ey0qGQgEKhAIACoHCAowr5GNCzDFxJ4DMLbFpgY",
@@ -2488,6 +2538,36 @@
           "wordCount": 2512,
           "title": "Celtic FIFA 23 player ratings in FULL as McGregor, Jota and Carter-Vickers stats revealed - Football Scotland",
           "imageUrl": "https://i2-prod.glasgowlive.co.uk/incoming/article24846357.ece/ALTERNATES/s1200/0_Celtic-Fifa.jpg"
+        },
+        {
+          "id": "CAIiEBWwCDJTl0esStHWhRJdgRIqGQgEKhAIACoHCAowr5GNCzDFxJ4DMLbFpgY",
+          "author": null,
+          "description": "Celtic set for raucous RB Leipzig reception  67 Hail Hail - Celtic FC News",
+          "link": "https://www.67hailhail.com/news/celtic-set-for-raucous-rb-leipzig-reception/",
+          "publishedOn": "2022-09-22T14:10:00.000Z",
+          "wordCount": 1778,
+          "title": "Celtic set for raucous RB Leipzig reception - 67 Hail Hail - Celtic FC News",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/09/GettyImages-1422497201-scaled.jpg"
+        },
+        {
+          "id": "CAIiEHIc-r8-rnOyV1b1pFuJDMwqGQgEKhAIACoHCAow96D9CjDOy_QCMKzp0wU",
+          "author": null,
+          "description": "Celtic FIFA 23 squad ratings as top Hoops star named with James McCarthy handed harsh verdict  Glasgow Live",
+          "link": "https://www.glasgowlive.co.uk/sport/celtic-fifa-23-squad-ratings-25082115",
+          "publishedOn": "2022-09-22T13:56:43.000Z",
+          "wordCount": 3318,
+          "title": "Celtic FIFA 23 squad ratings as top Hoops star named with James McCarthy handed harsh verdict - Glasgow Live",
+          "imageUrl": "https://i2-prod.glasgowlive.co.uk/incoming/article24846357.ece/ALTERNATES/s1200/0_Celtic-Fifa.jpg"
+        },
+        {
+          "id": "CAIiEEkcqzk2V2lhLHewpFdcBMsqGQgEKhAIACoHCAow_-CqCzD868IDMPLfoQc",
+          "author": null,
+          "description": "Harry Kewell raves over Celtic atmosphere and says You'll Never Walk Alone is 'different' to Liverpool  Football Scotland",
+          "link": "https://www.footballscotland.co.uk/spfl/scottish-premiership/harry-kewell-raves-over-celtic-25082514",
+          "publishedOn": "2022-09-22T13:16:28.000Z",
+          "wordCount": 2633,
+          "title": "Harry Kewell raves over Celtic atmosphere and says You'll Never Walk Alone is 'different' to Liverpool - Football Scotland",
+          "imageUrl": "https://i2-prod.footballscotland.co.uk/incoming/article25082471.ece/ALTERNATES/s1200/0_Celtic-v-Norwich-City-Pre-Season-Friendly.jpg"
         },
         {
           "id": "CAIiECyZcKfAhCqG2eQJ48m_ehIqGQgEKhAIACoHCAowi76vCzCYyccDMKvzuAc",
@@ -3278,36 +3358,6 @@
           "wordCount": 3271,
           "title": "Marco Rose suffered a heavy defeat on his return to ex club Gladbach - Daily Record",
           "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article25998572.ece/ALTERNATES/s1200/0_Borussia-Dortmund-v-SpVgg-Greuther-Frth-Bundesliga.jpg"
-        },
-        {
-          "id": "CBMiXmh0dHBzOi8vd3d3LnRoZWFyZ3VzLmNvLnVrL25ld3MvMjIyODc0OTguZ2xhc2dvdy1jZWx0aWMtZmMtZ2V0LW1lbnRpb24taXR2cy1jb3JvbmF0aW9uLXN0cmVldC_SAS1odHRwczovL3d3dy50aGVhcmd1cy5jby51ay9uZXdzLzIyMjg3NDk4LmFtcC8",
-          "author": null,
-          "description": "Glasgow Celtic FC get mention on ITV's Coronation Street  The Argus",
-          "link": "https://www.theargus.co.uk/news/22287498.glasgow-celtic-fc-get-mention-itvs-coronation-street/",
-          "publishedOn": "2022-09-18T08:27:00.000Z",
-          "wordCount": 7997,
-          "title": "Glasgow Celtic FC get mention on ITV's Coronation Street - The Argus",
-          "imageUrl": "https://www.theargus.co.uk/resources/images/15508682/?type=og-image"
-        },
-        {
-          "id": "CAIiEOXioG4_e4SSKVbAjy6YPdUqGQgEKhAIACoHCAow96D9CjDOy_QCMKzp0wU",
-          "author": null,
-          "description": "Celtic transfer update with Israeli wonderkid on Ange Postecoglou's 'radar' ahead of January window  Glasgow Live",
-          "link": "https://www.glasgowlive.co.uk/sport/celtic-transfer-update-israeli-wonderkid-25047156",
-          "publishedOn": "2022-09-18T08:05:23.000Z",
-          "wordCount": 3542,
-          "title": "Celtic transfer update with Israeli wonderkid on Ange Postecoglou's 'radar' ahead of January window - Glasgow Live",
-          "imageUrl": "https://i2-prod.glasgowlive.co.uk/incoming/article25047152.ece/ALTERNATES/s1200/0_JS277804226.jpg"
-        },
-        {
-          "id": "CBMiV2h0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9hbmdlLXBvc3RlY29nbG91cy1qYW51YXJ5LXRyYW5zZmVyLXVwZGF0ZS1tYXJrLWxhd3dlbGxzLXBsYW5zL9IBW2h0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9hbmdlLXBvc3RlY29nbG91cy1qYW51YXJ5LXRyYW5zZmVyLXVwZGF0ZS1tYXJrLWxhd3dlbGxzLXBsYW5zL2FtcC8",
-          "author": null,
-          "description": "Ange Postecoglou’s January Transfer Update; Mark Lawwell’s Plans  CeltsAreHere",
-          "link": "https://celtsarehere.com/ange-postecoglous-january-transfer-update-mark-lawwells-plans/",
-          "publishedOn": "2022-09-18T07:45:00.000Z",
-          "wordCount": 13738,
-          "title": "Ange Postecoglou’s January Transfer Update; Mark Lawwell’s Plans - CeltsAreHere",
-          "imageUrl": null
         }
       ]
     },
@@ -3316,6 +3366,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "aa8c331dedf4606a98bfbcec85cd92c9",
+          "author": null,
+          "description": "ANGE POSTECOGLOU has revealed Celtic players will head to Portugal for a training camp before the return of domestic football after the Qatar World Cup.",
+          "link": "https://www.glasgowtimes.co.uk/sport/22565530.ange-postecoglou-reveals-celtic-winter-training-camp-plans/?ref=rss",
+          "publishedOn": "2022-09-22T19:33:08.000Z",
+          "wordCount": 8151,
+          "title": "Ange Postecoglou reveals Celtic winter training camp plans",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15712073/?type=og-image"
+        },
         {
           "id": "0f7cfb0bf5baafed706b5532eba63320",
           "author": null,
