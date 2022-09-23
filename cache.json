@@ -6,6 +6,26 @@
       "siteUrl": "https://www.scotsman.com//sport/football/celtic",
       "articles": [
         {
+          "id": "3854244",
+          "author": "Graham Falk",
+          "description": "Here is the full list of ratings for each Celtic player on the new EA Sports’ FIFA 23 game, due out next week.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtic-fifa-23-ratings-the-full-list-of-player-ratings-for-ange-postecoglous-team-including-jota-kyogo-and-callum-mcgregor-3854244",
+          "publishedOn": "2022-09-23T11:05:34.000Z",
+          "wordCount": 1814,
+          "title": "Celtic FIFA 23 ratings: The full list of player ratings for Ange Postecoglou's team - including Jota, Kyogo and Callum McGregor",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjFhMzQ0ODY5LTQ5NTEtNDIwNC04M2U4LTAzNWJmZjU2YzFhOTpjYTBjYjUyZS0yZDk5LTQ1ODItOTFkYi0zYjZhY2IwMTA2NTQ=.jpg?width=1200&enable=upscale"
+        },
+        {
+          "id": "3853911",
+          "author": "Angus Wright",
+          "description": "Two Premiership clubs have not responded to the SPFL over a 'Qualified Resolution' which would help push through the new Sky Sports TV deal.",
+          "link": "https://www.scotsman.com/sport/football/rangers/rangers-and-livingston-cause-spfl-resolution-headache-ahead-of-crucial-tv-deal-meeting-3853911",
+          "publishedOn": "2022-09-23T09:43:15.000Z",
+          "wordCount": 1960,
+          "title": "Rangers and Livingston cause SPFL resolution headache ahead of crucial TV deal meeting",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjkyZTM5YjZmLWQyOWUtNDA5ZC1hOWI4LTNlMWRlOGFjNzFhNjo1ZjY4NGY1YS01OTlmLTQ5N2ItODIyMS0xNmMwNzMyOTE2YzU=.jpg?width=1200&enable=upscale"
+        },
+        {
           "id": "3853791",
           "author": "Angus Wright",
           "description": "Scotland and Liverpool star Andy Robertson admits he considers playing for Celtic every time he watches his boyhood heroes play.",
@@ -194,26 +214,6 @@
           "wordCount": 2720,
           "title": "Celtic reaction: Republicanism has its place; role for Abildgaard; Postecoglou’s misstep",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmM4YWRhY2NmLTllZDYtNGVkNC04NzkwLTQ3NzI3ODIwMzdlZjplZWJhNGI1Ny02NTEwLTQzNDAtODI2My0yYjdhMTc1NzFlNWM=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3847551",
-          "author": "Andrew Smith",
-          "description": "St Mirren goalscorer Mark O’Hara believes that his team’s accomplished 2-0 victory over Celtic offers a template to the rest of the cinch Premiership.",
-          "link": "https://www.scotsman.com/sport/football/celtic/st-mirren-goalscorer-in-win-over-celtic-maintains-his-team-have-shown-how-to-play-ange-postecoglous-men-3847551",
-          "publishedOn": "2022-09-18T21:30:00.000Z",
-          "wordCount": 2096,
-          "title": "St Mirren goalscorer in win over Celtic maintains his team have shown how to play Ange Postecoglou's men",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjM1N2JjMDZiLWNmZTYtNDJjNi1iZWE4LWQ4Nzg1YzRmMWQ5YTphZjJkNjBjNS0zNjcyLTQzNzktOGVmZC1mZjc5NDRmZGNiZDQ=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3847551",
-          "author": "Andrew Smith",
-          "description": "St Mirren goalscorer Mark O’Hara believes that his team’s accomplished 2-0 victory over Celtic offers a template to the rest of the cinch Premiership.",
-          "link": "https://www.scotsman.com/sport/football/celtic/st-mirren-goalscorer-in-win-over-celtic-maintains-his-team-have-shown-how-to-play-the-ange-postecoglous-men-3847551",
-          "publishedOn": "2022-09-18T21:30:00.000Z",
-          "wordCount": 2094,
-          "title": "St Mirren goalscorer in win over Celtic maintains his team have shown how to play the Ange Postecoglou's men",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjM1N2JjMDZiLWNmZTYtNDJjNi1iZWE4LWQ4Nzg1YzRmMWQ5YTpkYzBlMWQyZi1iYzFlLTRmMWMtOGM3Yy04OWMzMGFlZDFhOTQ=.jpg?width=1200&enable=upscale"
         }
       ]
     },
@@ -222,6 +222,96 @@
       "feedUrl": "http://armchaircelts.co.uk/wprss",
       "siteUrl": "http://armchaircelts.co.uk/feed/wprss/",
       "articles": [
+        {
+          "id": "https://thecelticstar.com/low-key-celtic-have-plenty-to-shout-about-ahead-of-balmoral-trip/",
+          "author": null,
+          "description": "With Celtic action restricted to just one team playing this weekend, with Celtic FC Women heading up to the Balmoral Stadium to play Aberdeen on Sunday afternoon, there was surely a great chance to raise the profile of of the women’s game by holding a Media Conference that perhaps would have been better attended that Read More",
+          "link": "https://thecelticstar.com/low-key-celtic-have-plenty-to-shout-about-ahead-of-balmoral-trip/",
+          "publishedOn": "2022-09-23T12:16:12.000Z",
+          "wordCount": 2336,
+          "title": "Low-key Celtic have plenty to shout about ahead of Balmoral trip",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/CP_SWPL_Celtic_Hamilton_18SEPT2022_287-1024x682.jpeg"
+        },
+        {
+          "id": "https://celtsarehere.com/maeda-starts-for-japan-in-germany-as-hatate-is-left-out-of-squad/",
+          "author": null,
+          "description": "Japan will take on the USA at the Düsseldorf Arena this afternoon with a 13.25 BST kick-off. There were three current Celtic stars called up to the Japan squad with Kyogo Furuhashi, Daizen Maeda and Reo Hatate all being selected by Hajime Moriyasu. #SAMURAIBLUE 🇯🇵LINE-UP📝#権田修一(GK)#遠藤航#久保建英#守田英正#伊東純也#鎌田大地#冨安健洋#酒井宏樹#中山雄太#吉田麻也#前田大然 ⌚️21:25KO📺#フジテレビ 系列/#TVer🔗https://t.co/PRN2FQsULn#jfa #daihyo #つな超え#キリチャレの日 #新しい景色を2022 pic.twitter.com/aaS35iCv3e — サッカー日本代表 🇯🇵【SAMURAI BLUE】🔜9.23 […]\nSource",
+          "link": "https://celtsarehere.com/maeda-starts-for-japan-in-germany-as-hatate-is-left-out-of-squad/",
+          "publishedOn": "2022-09-23T12:01:34.000Z",
+          "wordCount": 13497,
+          "title": "Maeda Starts for Japan in Germany as Hatate is Left Out of Squad",
+          "imageUrl": null
+        },
+        {
+          "id": "https://celtsarehere.com/maeda-addresses-poor-goal-scoring-form/",
+          "author": null,
+          "description": "DAIZEN MAEDA is still to hit the back of the net this season, despite being handed many chances in front of goal. The winger has still been called up to his national side, despite his poor form. Japan are in action later today, when they face the US side, without Cameron Carter-Vickers, who pulled out […]\nSource",
+          "link": "https://celtsarehere.com/maeda-addresses-poor-goal-scoring-form/",
+          "publishedOn": "2022-09-23T11:08:00.000Z",
+          "wordCount": 13507,
+          "title": "Maeda Addresses Poor Goal Scoring Form",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/laying-commercial-roots-in-australia/",
+          "author": null,
+          "description": "This morning, Celtic announced an Academy link with a Sydney-based organisation to deliver a youth tournament ahead of the club’s visit there in November. Since the Ange Coming Home Tour deal was signed, the club have been looking at ways to broaden our footprint in Australia. Where you see ‘youth football tournament’, I am inclined [...]",
+          "link": "https://www.celticquicknews.co.uk/laying-commercial-roots-in-australia/",
+          "publishedOn": "2022-09-23T11:02:05.000Z",
+          "wordCount": 3834,
+          "title": "Laying commercial roots in Australia",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
+        },
+        {
+          "id": "https://celtsarehere.com/celtic-trio-voted-for-aussie-team-of-the-century/",
+          "author": null,
+          "description": "AUSTRALIA has revealed their team of the century, with two of Celtic’s coaching staff and one player making the cut. Ange Postecoglou was listed as a coach in the side, with Guus Hiddink, the head coach. Harry Kewell was also listed as a player, alongside Aaron Mooy; both Aussies were brought to Celtic in the […]\nSource",
+          "link": "https://celtsarehere.com/celtic-trio-voted-for-aussie-team-of-the-century/",
+          "publishedOn": "2022-09-23T10:55:45.000Z",
+          "wordCount": 13445,
+          "title": "Celtic Trio Voted for Aussie Team of the Century",
+          "imageUrl": null
+        },
+        {
+          "id": "https://celtsarehere.com/celtics-friday-international-round-up/",
+          "author": null,
+          "description": "Although many will be missing their Celtic fix this weekend there is still a chance to see some of the squad in action for their international teams. If you have the fortune of a long weekend on for the September weekend, here is a round up of all the international fixtures today which will feature […]\nSource",
+          "link": "https://celtsarehere.com/celtics-friday-international-round-up/",
+          "publishedOn": "2022-09-23T10:45:37.000Z",
+          "wordCount": 13651,
+          "title": "Celtic’s Friday International Round Up",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thecelticstar.com/he-is-no-spring-chicken-anymore-but-he-has-still-shown-he-has-the-quality-simon-donnelly/",
+          "author": null,
+          "description": "Simon Donnelly reckons that Celtic veteran James Forrest still has plenty to offer at his old club.. As Celtic struggled at Paisley last Sunday, Ange Postecoglou looked to his bench to attempt to correct his own selection errors but overlooked the most experienced player at his disposal who perhaps could have turned the match back Read More",
+          "link": "https://thecelticstar.com/he-is-no-spring-chicken-anymore-but-he-has-still-shown-he-has-the-quality-simon-donnelly/",
+          "publishedOn": "2022-09-23T10:27:51.000Z",
+          "wordCount": 1946,
+          "title": "“He is no spring chicken anymore. But, he has still shown he has the quality,” Simon Donnelly",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/08/imago1014280212h-1024x715.jpg"
+        },
+        {
+          "id": "https://etims.net/?p=17936",
+          "author": null,
+          "description": "Ange Postecoglou is doing the rounds in Australia, and it seems like he’s in great demand.   He took time out to meet a young…",
+          "link": "https://etims.net/?p=17936",
+          "publishedOn": "2022-09-23T09:43:43.000Z",
+          "wordCount": 4332,
+          "title": "Celtic Diary Friday September 23: It’s Different For Bhoys",
+          "imageUrl": "https://etims.net/wp-content/uploads/2022/09/george-carlin-quotes-teach-children-read-1024x680.jpg"
+        },
+        {
+          "id": "https://celtsarehere.com/spfl-sky-sports-deal-in-doubt/",
+          "author": null,
+          "description": "THE SPFL AND SKY SPORTS are set to enter what’s being described as ‘crisis talks’ in Friday’s Scottish Daily Mail. [Page 90] Two teams are yet to back the real; The Rangers and Livingston haven’t responded yet, throwing the deal into doubt. With the teams yet to back it, talks will begin with the broadcaster […]\nSource",
+          "link": "https://celtsarehere.com/spfl-sky-sports-deal-in-doubt/",
+          "publishedOn": "2022-09-23T09:18:52.000Z",
+          "wordCount": 13561,
+          "title": "SPFL Sky Sports Deal in Doubt",
+          "imageUrl": null
+        },
         {
           "id": "https://thecelticstar.com/ange-postecoglous-special-surprise-for-young-fan-in-sydney/",
           "author": null,
@@ -241,6 +331,16 @@
           "wordCount": 2535,
           "title": "FIVE-STAR JURANOVIC",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/09/JOSIP-JURANOVIC-CROATIA-FEATURED-HH.png"
+        },
+        {
+          "id": "https://celtsarehere.com/celtics-winter-break-plans-revealed/",
+          "author": null,
+          "description": "CELTIC will not be flying to Dubai this year, the same as last season, and will jet to Portugal after the Sydney Cup. The tournament Downunder will finish on the 20th of November after the Hoops face Everton. It will give the Hoops a few weeks before they return to domestic action against Aberdeen on […]\nSource",
+          "link": "https://celtsarehere.com/celtics-winter-break-plans-revealed/",
+          "publishedOn": "2022-09-23T08:00:55.000Z",
+          "wordCount": 13504,
+          "title": "Celtic’s Winter Break Plans Revealed",
+          "imageUrl": null
         },
         {
           "id": "https://thecelticstar.com/kieran-tierney-receiving-inverted-full-back-tips-from-celtic-star/",
@@ -2131,36 +2231,6 @@
           "wordCount": 3338,
           "title": "THE JOCK STEIN YEARS: PART NINE",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2021/09/JOCK-STEIN-AND-TOMMY-GEMMELL.jpg"
-        },
-        {
-          "id": "https://thecelticstar.com/bundesliga-broadcaster-confirms-rb-leipzig-star-will-miss-celtic-games/",
-          "author": null,
-          "description": "RB Leipzig will be without Konrad Laimer for the Champions League doubleheader against Celtic next month. The Austrian picked up an ankle injury in the 3-0 win over Borussia Dortmund, which ruled him out for both the Real Madrid game as well as the Borussia Monchengladbach clash, both of which Leipzig lost.Now, Bundesliga commentator Derek Read More",
-          "link": "https://thecelticstar.com/bundesliga-broadcaster-confirms-rb-leipzig-star-will-miss-celtic-games/",
-          "publishedOn": "2022-09-18T23:01:00.000Z",
-          "wordCount": 1145,
-          "title": "Bundesliga broadcaster confirms RB Leipzig star will miss Celtic games",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/rb-leipzig-v-shakhtar-donetsk-group-f-uefa-champions-league-1-1024x681.jpg"
-        },
-        {
-          "id": "https://thecelticstar.com/on-this-day-celtic-robbed-by-penalty-decision-vs-juventus/",
-          "author": null,
-          "description": "On This Day in 2001, Celtic travelled to Turin for their first game in the Champions League Group Stages. The Scottish Champions faced the Italians away from home and almost sealed a famous victory had it not been for a controversial penalty decision in the 90th minute.David Trezeguet had the hosts up and running with Read More",
-          "link": "https://thecelticstar.com/on-this-day-celtic-robbed-by-penalty-decision-vs-juventus/",
-          "publishedOn": "2022-09-18T22:56:56.000Z",
-          "wordCount": 1341,
-          "title": "On This Day: Celtic robbed by penalty decision vs Juventus",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/juventus-v-celtic-x-1024x693.jpg"
-        },
-        {
-          "id": "https://www.sportsmole.co.uk/football/celtic/news/celtics-38-game-unbeaten-league-run-ended-by-st-mirren_494927.html",
-          "author": null,
-          "description": "Celtic suffer their first Scottish Premiership defeat in 364 days after losing 2-0 away against St Mirren on Sunday afternoon.",
-          "link": "https://www.sportsmole.co.uk/football/celtic/news/celtics-38-game-unbeaten-league-run-ended-by-st-mirren_494927.html",
-          "publishedOn": "2022-09-18T21:46:50.000Z",
-          "wordCount": 4427,
-          "title": "Celtic&#039;s 38-game unbeaten league run ended by St Mirren",
-          "imageUrl": "//b.smimg.net/22/37/ange-postecoglou.JPG"
         }
       ]
     },
@@ -2169,6 +2239,26 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CAIiEEyaavZCwtyFIWriKSiJk-cqGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY",
+          "author": null,
+          "description": "Low-key Celtic have plenty to shout about ahead of Balmoral trip  The Celtic Star",
+          "link": "https://thecelticstar.com/low-key-celtic-have-plenty-to-shout-about-ahead-of-balmoral-trip/",
+          "publishedOn": "2022-09-23T12:16:12.000Z",
+          "wordCount": 2336,
+          "title": "Low-key Celtic have plenty to shout about ahead of Balmoral trip - The Celtic Star",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/CP_SWPL_Celtic_Hamilton_18SEPT2022_287-1024x682.jpeg"
+        },
+        {
+          "id": "CAIiEOSGkYICdGXrNqamabuRYnsqGQgEKhAIACoHCAowrueiCTDmn7gCMKXUtwU",
+          "author": null,
+          "description": "Darren Bent lifts lid on awkward phone call from Neil Lennon  Daily Record",
+          "link": "https://www.dailyrecord.co.uk/sport/football/pundit-reveals-toe-curling-neil-28062240",
+          "publishedOn": "2022-09-23T09:27:51.000Z",
+          "wordCount": 3537,
+          "title": "Darren Bent lifts lid on awkward phone call from Neil Lennon - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28062258.ece/ALTERNATES/s1200/0_Screenshot-2022-09-23-at-100459.png"
+        },
         {
           "id": "CAIiEFMN285ehjIg_moO4JFNMM0qGQgEKhAIACoHCAow96D9CjDOy_QCMKzp0wU",
           "author": null,
@@ -2258,6 +2348,16 @@
           "wordCount": 2174,
           "title": "Aaron Hickey reflects on turning down contract at ‘boyhood club’ Celtic - 67 Hail Hail - Celtic FC News",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/07/GettyImages-1394919107-scaled.jpg"
+        },
+        {
+          "id": "CAIiEBvAxJJ0n7vVCWROSa0xEzUqGQgEKhAIACoHCAow96D9CjDOy_QCMPvp0wU",
+          "author": null,
+          "description": "Watch Ben Doak continue post Celtic form as Liverpool youngster scores on Scotland U21s debut  Glasgow Live",
+          "link": "https://www.glasgowlive.co.uk/sport/watch-ben-doak-continue-post-25085170",
+          "publishedOn": "2022-09-22T15:57:17.000Z",
+          "wordCount": 3276,
+          "title": "Watch Ben Doak continue post Celtic form as Liverpool youngster scores on Scotland U21s debut - Glasgow Live",
+          "imageUrl": "https://i2-prod.glasgowlive.co.uk/incoming/article25084861.ece/ALTERNATES/s1200/0_Doak-goal.jpg"
         },
         {
           "id": "CAIiEHTBGVAYvLVvM37cEmW8ey0qGQgEKhAIACoHCAowr5GNCzDFxJ4DMLbFpgY",
@@ -3028,16 +3128,6 @@
           "wordCount": 3245,
           "title": "Celtic and Rangers on Champions League alert as UEFA considering playing 'meaningful' games OUTSIDE of Europe - Daily Record",
           "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article27963787.ece/ALTERNATES/s1200/1_download.jpg"
-        },
-        {
-          "id": "CAIiEOnyn8ByXKu3nBsnR_gCA3UqGQgEKhAIACoHCAowwNKVCzCxt6sDMJbwxgY",
-          "author": null,
-          "description": "Motherwell fans unfurl ‘F*** Premier Sports’ banner as they protest against Celtic quarter-final kick-off t...  The Scottish Sun",
-          "link": "https://www.thescottishsun.co.uk/sport/football/9478550/motherwell-fans-premier-sports-banner-celtic-kick-off-time/",
-          "publishedOn": "2022-09-19T00:23:05.000Z",
-          "wordCount": 5104,
-          "title": "Motherwell fans unfurl ‘F*** Premier Sports’ banner as they protest against Celtic quarter-final kick-off t... - The Scottish Sun",
-          "imageUrl": "https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2022/09/Untitled-design-62-1.png?strip=all&quality=100&w=1920&h=1080&crop=1"
         }
       ]
     },
@@ -3046,6 +3136,46 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "9eeb7f3ef75f79ceb75398ecadfeb0b2",
+          "author": null,
+          "description": "STATISTICS have revealed that Ange Postecoglou's Celtic dominate the Scottish Premiership in terms of players with the most 'On-Ball Value'.",
+          "link": "https://www.glasgowtimes.co.uk/sport/22569983.celtic-dominate-killer-scottish-premiership-stat-top-10-valuable-players-revealed/?ref=rss",
+          "publishedOn": "2022-09-23T11:51:11.000Z",
+          "wordCount": 8273,
+          "title": "Celtic dominate killer Scottish Premiership stat as top 10 most valuable players revealed",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15072157/?type=og-image"
+        },
+        {
+          "id": "52e8b126c36545e0bb4fec9d02959f74",
+          "author": null,
+          "description": "CELTIC star Daizen Maeda admits he's desperate to end his scoring drought in the league for Celtic soon.",
+          "link": "https://www.glasgowtimes.co.uk/sport/22569161.daizen-maeda-hoping-end-celtic-goal-scoring-drought-targets-world-cup-success/?ref=rss",
+          "publishedOn": "2022-09-23T10:11:19.000Z",
+          "wordCount": 8573,
+          "title": "Daizen Maeda hoping to end Celtic goal scoring drought as he targets World Cup success",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15725717/?type=og-image"
+        },
+        {
+          "id": "e128883e5c656325bbe205f9ed0f2972",
+          "author": null,
+          "description": "The ex-Parkhead man has detailed who he thinks the next big stars will be at the club.",
+          "link": "https://www.glasgowtimes.co.uk/sport/22568867.three-celtic-starlets-tipped-former-youth-coach-make-big-splash/?ref=rss",
+          "publishedOn": "2022-09-23T09:30:32.000Z",
+          "wordCount": 8246,
+          "title": "The three Celtic starlets tipped by former youth coach to make a big splash",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15725607/?type=og-image"
+        },
+        {
+          "id": "686065bee954924921a018b260541172",
+          "author": null,
+          "description": "CELTIC new boy Oliver Abildgaard has been praised for his conduct at Rubin Kazan ahead of his summer switch to Parkhead.",
+          "link": "https://www.glasgowtimes.co.uk/sport/22568666.celtic-new-boy-oliver-abildgaard-praised-rubin-kazan-conduct-ahead-summer-switch/?ref=rss",
+          "publishedOn": "2022-09-23T09:00:19.000Z",
+          "wordCount": 8589,
+          "title": "Celtic new boy Oliver Abildgaard praised over Rubin Kazan conduct ahead of summer switch",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15724336/?type=og-image"
+        },
         {
           "id": "1f7609cb2c0b69dcfc5d29049e2bce92",
           "author": null,
@@ -3635,16 +3765,6 @@
           "wordCount": 8408,
           "title": "Ange Postecoglou's Brighton speculation ended as Premier League club appoint new manager Roberto De Zerbi",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15498062/?type=og-image"
-        },
-        {
-          "id": "535c19088c612f9d2a22636bdc8c12b4",
-          "author": null,
-          "description": "ST MIRREN goal hero Mark O’Hara says he knew early in the game against Celtic that his team were at the top of their game, and that they had a real chance of making it a ‘special day’ with a win over Celtic.",
-          "link": "https://www.glasgowtimes.co.uk/sport/22297312.st-mirren-tell-early-celtic-line-special-day-says-mark-ohara/?ref=rss",
-          "publishedOn": "2022-09-18T21:30:00.000Z",
-          "wordCount": 8842,
-          "title": "St Mirren could tell early on against Celtic they were in line for a ‘special day’, says Mark O’Hara",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15594975/?type=og-image"
         }
       ]
     }
