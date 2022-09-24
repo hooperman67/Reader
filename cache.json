@@ -6,6 +6,26 @@
       "siteUrl": "https://www.scotsman.com//sport/football/celtic",
       "articles": [
         {
+          "id": "3855196",
+          "author": "Alan Pattullo",
+          "description": "The derby element means much already rests on any meeting between Scotland and Republic of Ireland. However, there promises to be an extra crackle in the atmosphere at Hampden Park tonight.",
+          "link": "https://www.scotsman.com/sport/football/international/ive-still-got-the-video-on-the-phone-to-show-him-when-i-need-to-john-mcginn-scott-mckenna-so-much-on-the-line-in-latest-scotland-adventure-3855196",
+          "publishedOn": "2022-09-24T06:45:00.000Z",
+          "wordCount": 3560,
+          "title": "'I’ve still got the video on the phone to show him when I need to' - John McGinn, Scott McKenna, so much on the line in latest Scotland adventure",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjU3YjhiODQ0LTRjZmMtNGJkNC05ZGJjLTA2ZTQ3YzhlMDEzMjpkMDk4MDRlYS05Yzg3LTQ0MzYtODViMy0zMDVkOGRhNDdkYjk=.jpg?width=1200&enable=upscale"
+        },
+        {
+          "id": "3854887",
+          "author": "Moira Gordon",
+          "description": "There was a change in formation, a lift in performance levels and a subsequent upturn in fortunes as Scotland turned in one of their most complete displays in years on Wednesday.",
+          "link": "https://www.scotsman.com/sport/football/international/the-monday-meeting-and-formation-change-that-has-helped-scotland-get-back-on-track-3854887",
+          "publishedOn": "2022-09-24T06:30:00.000Z",
+          "wordCount": 2555,
+          "title": "The Monday meeting and formation change that has helped Scotland get back on track",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmE1Y2RhNDQ5LWQzMDgtNDgwYS1iNTE1LWY0YmJiMTg5ODY3OTpkZGM4M2YzZC1lNmNjLTQ2N2MtYTc0My0xODRjMDJiMTZkNjA=.jpg?width=1200&enable=upscale"
+        },
+        {
           "id": "3855173",
           "author": "Alan Pattullo",
           "description": "Scotland have put uncapped Motherwell goalkeeper Liam Kelly on stand-by as they prepare to host Republic of Ireland in a crucial Nations League fixture at a sold-out Hampden Park.",
@@ -212,6 +232,46 @@
       "feedUrl": "http://armchaircelts.co.uk/wprss",
       "siteUrl": "http://armchaircelts.co.uk/feed/wprss/",
       "articles": [
+        {
+          "id": "https://celtsarehere.com/st-mirren-defeat-gives-celtic-chance-to-press-the-restart-button/",
+          "author": null,
+          "description": "It’s never great to lose a game of football, but the 2-0 defeat to St Mirren could have came at the right time for Celtic. Ange Postecoglou’s team were a day short of going a year unbeaten in the league before the defeat in Paisley. It had been a perfect start to the season domestically […]\nSource",
+          "link": "https://celtsarehere.com/st-mirren-defeat-gives-celtic-chance-to-press-the-restart-button/",
+          "publishedOn": "2022-09-24T08:20:00.000Z",
+          "wordCount": 13641,
+          "title": "St Mirren Defeat Gives Celtic Chance to Press the Restart Button",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/oriley-d-day/",
+          "author": null,
+          "description": "MATT O’RILEY has 90 minutes to seal a dream place in Denmark’s World Cup squad for the soccer’s winter showpiece in Qatar. The Celtic midfielder has made a meteoric rise since his £1.5million arrival at the champions from third-tier MK Dons in January. The smooth playmaker attracted the attention of Denmark, birthplace of his mother, [...]",
+          "link": "https://www.celticquicknews.co.uk/oriley-d-day/",
+          "publishedOn": "2022-09-24T08:18:08.000Z",
+          "wordCount": 2462,
+          "title": "O’RILEY D-DAY",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/09/MATT-ORILEY-FFFF.png"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/ange-faces-nightmare-warns-celtic-hero/",
+          "author": null,
+          "description": "CHRIS SUTTON insists Ange Postecoglou is facing a nightmare scenario at Celtic. The former Hoops goal hero has emphasised the importance of centre-back Cameron Carter-Vickers to the champions – and a lengthy period out of the team would create massive problems for the manager. Sutton rates the rock-solid back-four operator as the side’s “most important [...]",
+          "link": "https://www.celticquicknews.co.uk/ange-faces-nightmare-warns-celtic-hero/",
+          "publishedOn": "2022-09-24T07:14:46.000Z",
+          "wordCount": 3087,
+          "title": "ANGE FACES NIGHTMARE, WARNS CELTIC HERO",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/09/ANGE-POSTECOGLOU-ROSS-CO-FEATYRED-1.png"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/kyogo-hatate-world-cup-message/",
+          "author": null,
+          "description": "KYOGO FURUHASHI and Reo Hatate have been delivered a World Cup reminder from Japan manager Hajime Moriyasu. The Celtic double-act both sat out their nation’s 2-0 win over USA in Dusseldorf yesterday as the Blue Samurai prepared for the Qatar global showpiece which is scheduled for November 21 to December 18. Striker Kyogo remained on [...]",
+          "link": "https://www.celticquicknews.co.uk/kyogo-hatate-world-cup-message/",
+          "publishedOn": "2022-09-24T06:35:11.000Z",
+          "wordCount": 2517,
+          "title": "KYOGO, HATATE WORLD CUP MESSAGE",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/09/REO-HATATE-KYOGO-FURUHASHI-FTRD.png"
+        },
         {
           "id": "https://thecelticstar.com/celtic-on-this-day-24th-september-david-potters-celtic-diary/",
           "author": null,
@@ -1961,26 +2021,6 @@
           "wordCount": 1230,
           "title": "Video: Loan Bhoy Mikey Johnston bags assist in Portugal",
           "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2021/12/celtic-fc-v-motherwell-fc-cinch-scottish-premiership-9-1024x668.jpg"
-        },
-        {
-          "id": "https://thecelticstar.com/club-chairman-confirms-reported-celtic-target-will-likely-leave/",
-          "author": null,
-          "description": "Reported Celtic target Oscar Gloukh could be available for transfer in the next two windows. The update comes as his club’s chairman, Mitchell Goldhar, admitted that the player will progress beyond Maccabi Tel-Aviv in either January or the summer.A report over the weekend suggested that Celtic were interested in the player with Ange Postecoglou already planning Read More",
-          "link": "https://thecelticstar.com/club-chairman-confirms-reported-celtic-target-will-likely-leave/",
-          "publishedOn": "2022-09-19T21:07:30.000Z",
-          "wordCount": 1133,
-          "title": "Club chairman confirms reported Celtic target will likely leave",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/fbl-euro-u19-2022-fra-isr-1024x683.jpg"
-        },
-        {
-          "id": "https://thecelticblog.com/2022/09/articles-and-features/the-media-was-so-busy-slandering-celtic-fans-it-ignored-a-real-story-this-weekend/",
-          "author": null,
-          "description": "The headlines all screamed the same thing; Celtic fans behaving badly. Those which weren’t doing that were singing songs of praise for the Ibrox supporters and their “tribute” to the dead monarch. Somewhere in there was a story they never bothered to cover. Tonight, that story broke wide open in a way that they could […]",
-          "link": "https://thecelticblog.com/2022/09/articles-and-features/the-media-was-so-busy-slandering-celtic-fans-it-ignored-a-real-story-this-weekend/",
-          "publishedOn": "2022-09-19T18:56:23.000Z",
-          "wordCount": 2012,
-          "title": "The Media Was So Busy Slandering Celtic Fans It Ignored A Real Story This Weekend.",
-          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2022/03/2022-03-17T173415Z_1568536031_UP1EI3H1CT157_RTRMADP_3_SOCCER-EUROPA-RSB-RFC-REPORT-scaled.jpg"
         }
       ]
     },
@@ -2768,36 +2808,6 @@
           "wordCount": 9328,
           "title": "How Celtic's encounter with Shakhtar Donetsk has steeled Greg Taylor for Scotland's rematch with Ukraine - Glasgow Times",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15599048/?type=og-image"
-        },
-        {
-          "id": "CAIiEKL4HvI2Wb-Wk9WwsmAJbq4qGQgEKhAIACoHCAowrueiCTDmn7gCMIfHtwU",
-          "author": null,
-          "description": "Kyogo Furuhashi on Celtic injury scare as frontman confesses he has 'caused everyone to worry'  Daily Record",
-          "link": "https://www.dailyrecord.co.uk/sport/football/football-news/kyogo-furuhashi-celtic-injury-scare-28032924",
-          "publishedOn": "2022-09-19T20:41:31.000Z",
-          "wordCount": 3244,
-          "title": "Kyogo Furuhashi on Celtic injury scare as frontman confesses he has 'caused everyone to worry' - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28032938.ece/ALTERNATES/s1200/0_St-Mirren-FC-v-Celtic-FC-Cinch-Scottish-Premiership.jpg"
-        },
-        {
-          "id": "CAIiEOobKlkoSHJ8eltcL9ZADgcqGQgEKhAIACoHCAowrueiCTDmn7gCMKXUtwU",
-          "author": null,
-          "description": "Tom Rogic in Celtic nod with West Brom kit number as he looks to recreate Parkhead magic  Daily Record",
-          "link": "https://www.dailyrecord.co.uk/sport/football/football-news/tom-rogic-celtic-nod-west-28032473",
-          "publishedOn": "2022-09-19T19:16:09.000Z",
-          "wordCount": 3335,
-          "title": "Tom Rogic in Celtic nod with West Brom kit number as he looks to recreate Parkhead magic - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28014384.ece/ALTERNATES/s1200/0_West-Bromwich-Albion-v-Birmingham-City-Sky-Bet-Championship.jpg"
-        },
-        {
-          "id": "CAIiEFaMWDf3Ui06OcwldUvcZ6cqGQgEKhAIACoHCAowne-jCzDg-bsDMLnLhQc",
-          "author": null,
-          "description": "The Media Was So Busy Slandering Celtic Fans It Ignored A Real Story This Weekend.  TheCelticBlog.com",
-          "link": "https://thecelticblog.com/2022/09/articles-and-features/the-media-was-so-busy-slandering-celtic-fans-it-ignored-a-real-story-this-weekend/",
-          "publishedOn": "2022-09-19T18:56:00.000Z",
-          "wordCount": 2591,
-          "title": "The Media Was So Busy Slandering Celtic Fans It Ignored A Real Story This Weekend. - TheCelticBlog.com",
-          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2022/03/2022-03-17T173415Z_1568536031_UP1EI3H1CT157_RTRMADP_3_SOCCER-EUROPA-RSB-RFC-REPORT-scaled.jpg"
         }
       ]
     },
