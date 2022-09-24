@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com//sport/football/celtic",
       "articles": [
         {
+          "id": "3855173",
+          "author": "Alan Pattullo",
+          "description": "Scotland have put uncapped Motherwell goalkeeper Liam Kelly on stand-by as they prepare to host Republic of Ireland in a crucial Nations League fixture at a sold-out Hampden Park.",
+          "link": "https://www.scotsman.com/sport/football/international/were-monitoring-it-steve-clarke-braced-for-last-minute-disruption-ahead-of-scotland-v-ireland-3855173",
+          "publishedOn": "2022-09-23T21:30:00.000Z",
+          "wordCount": 2560,
+          "title": "'We're monitoring it': Steve Clarke braced for last-minute disruption ahead of Scotland v Ireland",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjA5OThlNjg0LTE2NzUtNDZiMy1iYzRlLWQwZDE5MWU5ZjNlMzoyZGU1Y2M1MC1kZTQzLTRiN2YtOTMyYy1mMjZlNTI5YmI0YjQ=.jpg?width=1200&enable=upscale"
+        },
+        {
           "id": "3855099",
           "author": "Andrew Smith",
           "description": "Never look further than what is directly in front of you is one of those old aphorisms often uttered by the grandparent generation.",
@@ -194,16 +204,6 @@
           "wordCount": 2524,
           "title": "'We never think that' - Joe Hart takes stock of Celtic's loss at St Mirren as incredible feat laid bare",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjRiZTQzMzE5LTBmYzItNDAwNi1iNjhhLWVhNDVjYWM3MGIyZDowMTM3MzJlZC0zNWQ0LTQ1ZmYtOGI3Zi1kMDRmZmY4ZWUwM2Y=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3847907",
-          "author": "Matthew Elder",
-          "description": "Aberdeen defender Liam Scales has received a late call-up to the Republic of Ireland squad for the forthcoming Nations League matches against Scotland and Armenia.",
-          "link": "https://www.scotsman.com/sport/football/celtic/aberdeens-on-loan-celtic-defender-liam-scales-receives-late-call-up-for-scotland-clash-3847907",
-          "publishedOn": "2022-09-19T11:07:41.000Z",
-          "wordCount": 1881,
-          "title": "Aberdeen's on-loan Celtic defender Liam Scales receives late call-up for Scotland clash",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjBjZWJkZjQyLWU1OGEtNDkwYy04NDc5LTNkMzc4MGY2ZmZmMDo3MWJlYTNjYS1iNWNhLTRlMmYtOWIzMC0xMTA1ZmNjNGY4MGY=.jpg?width=1200&enable=upscale"
         }
       ]
     },
@@ -2051,216 +2051,6 @@
           "wordCount": 13591,
           "title": "‘Maybe in January’ – Celtic Target Up for Grabs",
           "imageUrl": null
-        },
-        {
-          "id": "https://celtsarehere.com/motherwell-fans-protest-celtic-kick-off-time/",
-          "author": null,
-          "description": "",
-          "link": "https://celtsarehere.com/motherwell-fans-protest-celtic-kick-off-time/",
-          "publishedOn": "2022-09-19T14:36:48.000Z",
-          "wordCount": 13385,
-          "title": "Motherwell Fans Protest Celtic Kick Off Time",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thecelticblog.com/2022/09/blogs/celtics-awful-strip-clash-yesterday-is-another-sign-of-the-leagues-basic-incompetence/",
-          "author": null,
-          "description": "As the teams were standing on either side of the centre circle yesterday, I saw immediately what one of the problems of watching the game was going to be. That strip clash was abysmal. At first some of the folk I was watching it with doubted it would be an issue … I have the […]",
-          "link": "https://thecelticblog.com/2022/09/blogs/celtics-awful-strip-clash-yesterday-is-another-sign-of-the-leagues-basic-incompetence/",
-          "publishedOn": "2022-09-19T14:13:45.000Z",
-          "wordCount": 1844,
-          "title": "Celtic’s Awful Strip Clash Yesterday Is Another Sign Of The League’s Basic Incompetence.",
-          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2022/09/2022-09-14T182540Z_625389332_UP1EI9E1F6Q6W_RTRMADP_3_SOCCER-CHAMPIONS-SHK-CEL-REPORT.jpg"
-        },
-        {
-          "id": "https://celtsarehere.com/celtic-face-stiff-competition-for-january-target/",
-          "author": null,
-          "description": "",
-          "link": "https://celtsarehere.com/celtic-face-stiff-competition-for-january-target/",
-          "publishedOn": "2022-09-19T14:11:32.000Z",
-          "wordCount": 13420,
-          "title": "Celtic Face Stiff Competition for January Target",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thecelticstar.com/motherwell-protest-celtic-kick-off-time-with-dig-at-broadcasters/",
-          "author": null,
-          "description": "Motherwell fans took aim at Premier Sports at Fir Park over the weekend protesting the decision to have Celtic’s Quarter Final tie kicking off at 6:15pm on a Wednesday night. The ‘Well Bois” hoisted the explicit banner during their defeat to Hearts on Sunday, criticising the decision to have the game at an extremely inconvenient Read More",
-          "link": "https://thecelticstar.com/motherwell-protest-celtic-kick-off-time-with-dig-at-broadcasters/",
-          "publishedOn": "2022-09-19T13:48:40.000Z",
-          "wordCount": 1206,
-          "title": "Motherwell protest Celtic kick-off time with dig at broadcasters",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2021/11/SPFL_CFC_STJ_0172.jpeg"
-        },
-        {
-          "id": "https://thecelticstar.com/hilarious-david-moyes-taken-by-surprise-by-interview-question/",
-          "author": null,
-          "description": "Former Celtic defender David Moyes provided a hilarious moment in yesterday’s media conference following his side’s defeat to Everton. The West Ham manager was asked a question, addressing him by his nickname. Clearly taken by surprise, Moyes gave an explicit response and had a chuckle to himself. ‘MOYESY?! F**KING HELL!’ | David Moyes shuts down Read More",
-          "link": "https://thecelticstar.com/hilarious-david-moyes-taken-by-surprise-by-interview-question/",
-          "publishedOn": "2022-09-19T13:05:48.000Z",
-          "wordCount": 1186,
-          "title": "Hilarious – David Moyes taken by surprise by interview question",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2020/10/football-west-ham-david-moyes-20.jpg"
-        },
-        {
-          "id": "https://thecelticstar.com/celtic-defender-receives-ireland-call-up-in-line-to-feature-versus-scotland/",
-          "author": null,
-          "description": "Celtic defender Liam Scales has been rewarded for his loan form with Aberdeen by receiving a call-up to the Irish National team for the games against Armenia and Scotland. The 24-year-old made the season-long switch to Pittodrie to gain first-team experience under Jim Goodwin having failed to make an impact since arriving in Glasgow last Read More",
-          "link": "https://thecelticstar.com/celtic-defender-receives-ireland-call-up-in-line-to-feature-versus-scotland/",
-          "publishedOn": "2022-09-19T12:52:26.000Z",
-          "wordCount": 1226,
-          "title": "Celtic defender receives Ireland call-up, in line to feature versus Scotland",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/02/celtic-v-raith-rovers-scottish-cup-6-1024x696.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/news/rb-leipzig-suffer-injury-blow-as-25m-rated-midfielder-set-to-miss-both-celtic-matches/",
-          "author": null,
-          "description": "RB Leipzig have confirmed that Konrad Laimer will be out until December through injury, meaning he will miss both clashes against Celtic. The midfielder has become a key man for the Bundesliga side, joining from Red Bull Salzburg in 2017 and making 167 appearances in total for the club. Laimer is believed to be highly ...\nThe post RB Leipzig suffer injury blow as midfielder set to miss both Celtic matches appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/rb-leipzig-suffer-injury-blow-as-25m-rated-midfielder-set-to-miss-both-celtic-matches/",
-          "publishedOn": "2022-09-19T12:45:00.000Z",
-          "wordCount": 2079,
-          "title": "RB Leipzig suffer injury blow as midfielder set to miss both Celtic matches",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/09/GettyImages-1242934949-scaled.jpg"
-        },
-        {
-          "id": "https://thecelticstar.com/team-selection-is-on-me-so-if-i-got-that-wrong-then-i-got-that-wrong-ange-postecoglou/",
-          "author": null,
-          "description": "Yesterday provided Ange Postecoglou’s players with a harsh lesson that battles have to be won all over the pitch if Celtic’s superior quality is to prevail in the Scottish Premiership. The Celtic manager recently described each match as an arm-wrestle which has to be overcome in order to allow his team to play their football Read More",
-          "link": "https://thecelticstar.com/team-selection-is-on-me-so-if-i-got-that-wrong-then-i-got-that-wrong-ange-postecoglou/",
-          "publishedOn": "2022-09-19T12:43:46.000Z",
-          "wordCount": 2008,
-          "title": "“Team selection is on me so if I got that wrong then I got that wrong,” Ange Postecoglou",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/SPFL_22_23_STM_CELTIC_2086-1024x520.jpeg"
-        },
-        {
-          "id": "https://thecelticblog.com/2022/09/articles-and-features/jackson-embarrassed-himself-with-his-anti-celtic-fan-diatribe-this-morning/",
-          "author": null,
-          "description": "After Keevins had his say yesterday, with all the backward stupidity of his argument, it was the turn of Keith Jackson today. His piece was in many ways even worse. It rang with such contrived indignation that you could almost hear the “outraged” squeals. It also rang with a kind of forelock tugging subservience that […]",
-          "link": "https://thecelticblog.com/2022/09/articles-and-features/jackson-embarrassed-himself-with-his-anti-celtic-fan-diatribe-this-morning/",
-          "publishedOn": "2022-09-19T12:39:09.000Z",
-          "wordCount": 2271,
-          "title": "Jackson Embarrassed Himself With His Anti-Celtic Fan Diatribe This Morning.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://celtsarehere.com/uefa-fixture-discussions-that-could-impact-celtic/",
-          "author": null,
-          "description": "",
-          "link": "https://celtsarehere.com/uefa-fixture-discussions-that-could-impact-celtic/",
-          "publishedOn": "2022-09-19T11:59:10.000Z",
-          "wordCount": 13536,
-          "title": "UEFA Fixture Discussions That Could Impact Celtic",
-          "imageUrl": null
-        },
-        {
-          "id": "https://celtsarehere.com/scottish-media-ange-rumour-surprisingly-goes-nowhere/",
-          "author": null,
-          "description": "",
-          "link": "https://celtsarehere.com/scottish-media-ange-rumour-surprisingly-goes-nowhere/",
-          "publishedOn": "2022-09-19T11:27:20.000Z",
-          "wordCount": 13449,
-          "title": "Scottish Media Ange Rumour Surprisingly Goes Nowhere",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/celtic-sink-in-random-tactical-shape/",
-          "author": null,
-          "description": "Just shy a year since their last league defeat, Celtic fell at St Mirren yesterday.  With practically none of the ball in the first half, St Mirren scored three minutes before the break.  Until then, Celtic passed with precision but without penetration.  The goal ignited Celtic, who created a few chances before halftime, but were [...]",
-          "link": "https://www.celticquicknews.co.uk/celtic-sink-in-random-tactical-shape/",
-          "publishedOn": "2022-09-19T11:00:31.000Z",
-          "wordCount": 6489,
-          "title": "Celtic sink in random tactical shape",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
-        },
-        {
-          "id": "https://thecelticblog.com/2022/09/articles-and-features/the-decisive-absences-for-celtic-yesterday-were-the-ones-the-boss-had-no-choice-in/",
-          "author": null,
-          "description": "Ange is getting it in the neck this morning from the armchair coaches who reckon the problem yesterday was that he made six changes. They forget – or choose not to remember – that we made nine for the Ross County League Cup game and won easily. The biggest impact on the team yesterday did […]",
-          "link": "https://thecelticblog.com/2022/09/articles-and-features/the-decisive-absences-for-celtic-yesterday-were-the-ones-the-boss-had-no-choice-in/",
-          "publishedOn": "2022-09-19T10:56:13.000Z",
-          "wordCount": 2118,
-          "title": "The Decisive Absences For Celtic Yesterday Were The Ones The Boss Had No Choice In.",
-          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2022/07/2021-11-25T195951Z_300805227_UP1EHBP1JJQM3_RTRMADP_3_SOCCER-EUROPA-B04-CEL-REPORT.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/news/celtic-man-reaping-loan-rewards-as-defender-receives-international-call-up/",
-          "author": null,
-          "description": "On-loan Celtic defender Liam Scales is reaping the rewards of his temporary move to Aberdeen after receiving an international call-up for Ireland. The 24-year-old has made a strong start to the campaign following his move to join Jim Goodwin’s side at Pittodrie. Having only joined the Hoops from Shamrock Rovers last summer, Scales felt it ...\nThe post Celtic man reaping loan rewards as defender receives international call-up appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/celtic-man-reaping-loan-rewards-as-defender-receives-international-call-up/",
-          "publishedOn": "2022-09-19T10:40:00.000Z",
-          "wordCount": 2007,
-          "title": "Celtic man reaping loan rewards as defender receives international call-up",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/02/GettyImages-1342136832-scaled.jpg"
-        },
-        {
-          "id": "https://celtsarehere.com/liam-scales-celtic-loan-exit-vindicated/",
-          "author": null,
-          "description": "",
-          "link": "https://celtsarehere.com/liam-scales-celtic-loan-exit-vindicated/",
-          "publishedOn": "2022-09-19T10:25:04.000Z",
-          "wordCount": 13442,
-          "title": "Liam Scales Celtic Loan Exit Vindicated",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.67hailhail.com/news/ex-celtic-midfielder-sacked-after-just-three-months-in-charge-at-english-club/",
-          "author": null,
-          "description": "Former Celtic midfielder Paul Hartley has lost his job as manager of Hartlepool United after just three months in charge [Hartlepool United]. The 45-year-old took up the role at the English League Two side in June, choosing to depart Cove Rangers despite their promotion to the Scottish Championship. During the summer, Hartley made a number ...\nThe post Ex-Celtic midfielder loses EFL managerial role after just three months in charge appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/ex-celtic-midfielder-sacked-after-just-three-months-in-charge-at-english-club/",
-          "publishedOn": "2022-09-19T10:10:00.000Z",
-          "wordCount": 1887,
-          "title": "Ex-Celtic midfielder loses EFL managerial role after just three months in charge",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2020/09/GettyImages-525668720-scaled.jpg"
-        },
-        {
-          "id": "https://www.footballtransfertavern.com/celtic-news/celtic-spl-chris-sutton-news-updates-ange-postecoglou/",
-          "author": null,
-          "description": "Former Celtic striker Chris Sutton has bemoaned the absence of several important players after the Hoops were beaten at St Mirren on Sunday. The Lowdown: Celtic beaten by St Mirren Ange Postecoglou’s side were back in Premiership action on Sunday afternoon as they sought to continue their perfect start to the league season. Instead, Celtic […]",
-          "link": "https://www.footballtransfertavern.com/celtic-news/celtic-spl-chris-sutton-news-updates-ange-postecoglou/",
-          "publishedOn": "2022-09-19T10:05:42.000Z",
-          "wordCount": 3422,
-          "title": "&#039;Not the same...&#039; - Chris Sutton singles out 3 Celtic players who were most missed v St Mirren",
-          "imageUrl": "https://cdn.footballtransfertavern.com/wp-content/uploads/2021/02/b25lY21zOjVlYWY3MjI1LTE5NWEtNGZhNy04YzAzLWRkMzg5ZWMyZjE1MjpmMzFhNGI5Mi03ZDdhLTQ0YTAtOTJhMC01ZDU4ZWNlYjllZTA.jpg"
-        },
-        {
-          "id": "https://thecelticstar.com/iain-bankier-an-overview-of-his-reign-as-celtic-chairman-joe-bloggscity/",
-          "author": null,
-          "description": "Iain Bankier – an overview of his reign as Celtic Chairman – Joe BloggsCityIt’s hard to think of another Celtic chairman since the McCann takeover who has done as little whilst at the helm and has had so poor a relationship with the general support as is the case with the current Celtic Chairman Iain Read More",
-          "link": "https://thecelticstar.com/iain-bankier-an-overview-of-his-reign-as-celtic-chairman-joe-bloggscity/",
-          "publishedOn": "2022-09-19T09:55:11.000Z",
-          "wordCount": 2113,
-          "title": "Iain Bankier – an overview of his reign as Celtic Chairman – Joe BloggsCity",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2021/09/1000807423-1-1024x681.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/opinion/celtic-star-who-will-look-to-get-the-most-out-of-september-international-break/",
-          "author": null,
-          "description": "The international break could prove to be a valuable two weeks for Celtic summer signing Oliver Abildgaard. The 26-year-old arrived at Parkhead from Russian side Rubin Kazan, following former teammate Sead Haksabanovic to Glasgow. Abildgaard became Ange Postecoglou’s final addition of a busy transfer window, adding a key piece to the squad that the Celtic ...\nThe post Celtic star who will look to use the international break to his advantage appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/opinion/celtic-star-who-will-look-to-get-the-most-out-of-september-international-break/",
-          "publishedOn": "2022-09-19T09:40:00.000Z",
-          "wordCount": 1950,
-          "title": "Celtic star who will look to use the international break to his advantage",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/09/GettyImages-1229581869-2-scaled.jpg"
-        },
-        {
-          "id": "https://thecelticblog.com/2022/09/articles-and-features/rodgers-reputed-payoff-package-is-why-he-left-celtic-for-england/",
-          "author": null,
-          "description": "This morning I read with open-mouthed amazement that Brendan Rodgers expects to walk away from Leicester with £18 million if they sack him. What an extraordinary number that is. It seems that the higher you rise in this life the greater the reward is for failure. All of us have been sacked at one time […]",
-          "link": "https://thecelticblog.com/2022/09/articles-and-features/rodgers-reputed-payoff-package-is-why-he-left-celtic-for-england/",
-          "publishedOn": "2022-09-19T09:36:50.000Z",
-          "wordCount": 2340,
-          "title": "Rodgers Reputed Payoff Package Is Why He Left Celtic For England.",
-          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2019/11/2019-11-03T160034Z_1443855271_RC16CAC497C0_RTRMADP_3_SOCCER-ENGLAND-CRY-LEI-REPORT.jpg"
-        },
-        {
-          "id": "https://celtsarehere.com/the-celtic-debate-that-ended-on-sunday/",
-          "author": null,
-          "description": "",
-          "link": "https://celtsarehere.com/the-celtic-debate-that-ended-on-sunday/",
-          "publishedOn": "2022-09-19T09:28:37.000Z",
-          "wordCount": 13824,
-          "title": "The Celtic Debate That Ended on Sunday",
-          "imageUrl": null
         }
       ]
     },
@@ -2278,6 +2068,16 @@
           "wordCount": 1747,
           "title": "Touch of class from Celtic boss Ange Postecoglou delights shocked supporter - 67 Hail Hail - Celtic FC News",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/09/GettyImages-1420481802-2-scaled.jpg"
+        },
+        {
+          "id": "CAIiEOLJXLI-3xlREoauIDdkgeAqGQgEKhAIACoHCAowrueiCTDmn7gCMKXUtwU",
+          "author": null,
+          "description": "Ange Postecoglou named Celtic director of football by coach after staff overhaul  Daily Record",
+          "link": "https://www.dailyrecord.co.uk/sport/football/football-news/celtic-director-football-role-ange-28068389",
+          "publishedOn": "2022-09-23T18:44:51.000Z",
+          "wordCount": 3255,
+          "title": "Ange Postecoglou named Celtic director of football by coach after staff overhaul - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28010663.ece/ALTERNATES/s1200/0_JS277804226.jpg"
         },
         {
           "id": "CAIiEHMfGlIVh8gXSd4N1LyL70IqGQgEKhAIACoHCAowrueiCTDmn7gCMIfHtwU",
@@ -2398,6 +2198,16 @@
           "wordCount": 3890,
           "title": "Andy Robertson in Celtic dream as Scotland skipper eyes up Parkhead return - Daily Record",
           "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article26873182.ece/ALTERNATES/s1200/0_PA-66105132.jpg"
+        },
+        {
+          "id": "CAIiEI-eh2SSaFTRAJfNnt_4EO0qGQgEKhAIACoHCAow4KKJCzCv9JoDMICkoAY",
+          "author": null,
+          "description": "Kierney Tierney makes brilliant admission about Celtic star  The Celtic Bhoys",
+          "link": "https://thecelticbhoys.com/2022/09/22/kierney-tierney-admission-celtic-star/",
+          "publishedOn": "2022-09-22T19:12:32.000Z",
+          "wordCount": 2579,
+          "title": "Kierney Tierney makes brilliant admission about Celtic star - The Celtic Bhoys",
+          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1258088194.jpeg"
         },
         {
           "id": "CAIiECjMZW4R0KEkwVwRZ8Qx6foqGQgEKhAIACoHCAowrueiCTDmn7gCMKXUtwU",
@@ -3098,146 +2908,6 @@
           "wordCount": 8148,
           "title": "Motherwell fans protest Celtic kick-off time with 'F*** Premier Sports' banner - Glasgow Times",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15598646/?type=og-image"
-        },
-        {
-          "id": "CAIiED3NT4LU39DqYLck7TTfgfsqGQgEKhAIACoHCAowrueiCTDmn7gCMKXUtwU",
-          "author": null,
-          "description": "Oscar Gloukh to Celtic path cleared as Maccabi Tel Aviv discuss exit plan  Daily Record",
-          "link": "https://www.dailyrecord.co.uk/sport/football/football-news/oscar-gloukh-celtic-transfer-path-28029674",
-          "publishedOn": "2022-09-19T14:37:24.000Z",
-          "wordCount": 3091,
-          "title": "Oscar Gloukh to Celtic path cleared as Maccabi Tel Aviv discuss exit plan - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/sport/football/football-news/article28017900.ece/ALTERNATES/s1200/0_utils.jpg"
-        },
-        {
-          "id": "CAIiEKhxdTXZY5699_0ZfTjHS8QqGQgEKhAIACoHCAowne-jCzDg-bsDMLnLhQc",
-          "author": null,
-          "description": "Celtic’s Awful Strip Clash Yesterday Is Another Sign Of The League’s Basic Incompetence.  TheCelticBlog.com",
-          "link": "https://thecelticblog.com/2022/09/blogs/celtics-awful-strip-clash-yesterday-is-another-sign-of-the-leagues-basic-incompetence/",
-          "publishedOn": "2022-09-19T14:13:00.000Z",
-          "wordCount": 3321,
-          "title": "Celtic’s Awful Strip Clash Yesterday Is Another Sign Of The League’s Basic Incompetence. - TheCelticBlog.com",
-          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2022/09/2022-09-14T182540Z_625389332_UP1EI9E1F6Q6W_RTRMADP_3_SOCCER-CHAMPIONS-SHK-CEL-REPORT.jpg"
-        },
-        {
-          "id": "CAIiEB7hIfT3mEcv9kleyWo6PCoqGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY",
-          "author": null,
-          "description": "Motherwell protest Celtic kick-off time with dig at broadcasters  The Celtic Star",
-          "link": "https://thecelticstar.com/motherwell-protest-celtic-kick-off-time-with-dig-at-broadcasters/",
-          "publishedOn": "2022-09-19T13:48:40.000Z",
-          "wordCount": 1206,
-          "title": "Motherwell protest Celtic kick-off time with dig at broadcasters - The Celtic Star",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2021/11/SPFL_CFC_STJ_0172.jpeg"
-        },
-        {
-          "id": "CAIiEDnBYQ1efcufFz5kkVGJ46QqGQgEKhAIACoHCAow96D9CjDOy_QCMKzp0wU",
-          "author": null,
-          "description": "Celtic and Rangers title comparison made by Neil Lennon as he makes 'very competitive' Cyprus claim  Glasgow Live",
-          "link": "https://www.glasgowlive.co.uk/sport/celtic-rangers-title-comparison-made-25055908",
-          "publishedOn": "2022-09-19T13:18:37.000Z",
-          "wordCount": 3475,
-          "title": "Celtic and Rangers title comparison made by Neil Lennon as he makes 'very competitive' Cyprus claim - Glasgow Live",
-          "imageUrl": "https://i2-prod.glasgowlive.co.uk/incoming/article25055873.ece/ALTERNATES/s1200/1_NEIL-LENNONE11JPG.jpg"
-        },
-        {
-          "id": "CAIiELlfK4DqcXdmKY-f4mV4lPsqGQgEKhAIACoHCAowrueiCTDmn7gCMKXUtwU",
-          "author": null,
-          "description": "Neil Lennon makes Scottish Premiership comparison with Cypriot League  Daily Record",
-          "link": "https://www.dailyrecord.co.uk/sport/football/neil-lennon-makes-celtic-rangers-28028235",
-          "publishedOn": "2022-09-19T13:04:23.000Z",
-          "wordCount": 3239,
-          "title": "Neil Lennon makes Scottish Premiership comparison with Cypriot League - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article26451686.ece/ALTERNATES/s1200/20220312145119_253763.jpg"
-        },
-        {
-          "id": "CAIiENhhiVLLefl3mzO7P2kj1osqGQgEKhAIACoHCAow96D9CjDOy_QCMKzp0wU",
-          "author": null,
-          "description": "Former Celtic boss Ronny Deila in 'maybe better' Standard Liege fan claim after Club Brugge success  Glasgow Live",
-          "link": "https://www.glasgowlive.co.uk/sport/former-celtic-boss-ronny-deila-25055414",
-          "publishedOn": "2022-09-19T12:30:32.000Z",
-          "wordCount": 3363,
-          "title": "Former Celtic boss Ronny Deila in 'maybe better' Standard Liege fan claim after Club Brugge success - Glasgow Live",
-          "imageUrl": "https://i2-prod.glasgowlive.co.uk/incoming/article25055373.ece/ALTERNATES/s1200/0_JS252501618.jpg"
-        },
-        {
-          "id": "CAIiEIBKzGzZ7pi9pk8HTY4fJucqGQgEKhAIACoHCAowrueiCTDmn7gCMIfHtwU",
-          "author": null,
-          "description": "Celtic and Rangers stars chase World Cup dream as over 30 Premiership players called up for international duty  Daily Record",
-          "link": "https://www.dailyrecord.co.uk/sport/football/football-news/celtic-rangers-stars-chase-world-28026322",
-          "publishedOn": "2022-09-19T11:19:36.000Z",
-          "wordCount": 3859,
-          "title": "Celtic and Rangers stars chase World Cup dream as over 30 Premiership players called up for international duty - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article27899806.ece/ALTERNATES/s1200/1_JS276318705.jpg"
-        },
-        {
-          "id": "CAIiEG9QvFT6hIBNi7esUOaK4mEqGQgEKhAIACoHCAowrueiCTDmn7gCMOjNtwU",
-          "author": null,
-          "description": "4 Celtic culprits get pelters as fuming punters have questions for Ange - Hotline  Daily Record",
-          "link": "https://www.dailyrecord.co.uk/sport/football/football-news/4-celtic-culprits-pelters-fuming-28026092",
-          "publishedOn": "2022-09-19T11:11:05.000Z",
-          "wordCount": 3648,
-          "title": "4 Celtic culprits get pelters as fuming punters have questions for Ange - Hotline - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28020661.ece/ALTERNATES/s1200/0_JS277994507.jpg"
-        },
-        {
-          "id": "CBMiZ2h0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zY290dGlzaC1wcmVtaWVyc2hpcC9uZWlsLWxlbm5vbi1vZmZlcnMtY2VsdGljLXJhbmdlcnMtMjUwNTI5OTTSAWtodHRwczovL3d3dy5mb290YmFsbHNjb3RsYW5kLmNvLnVrL3NwZmwvc2NvdHRpc2gtcHJlbWllcnNoaXAvbmVpbC1sZW5ub24tb2ZmZXJzLWNlbHRpYy1yYW5nZXJzLTI1MDUyOTk0LmFtcA",
-          "author": null,
-          "description": "Neil Lennon offers Celtic and Rangers title comparison as Omonia Nicosia boss talks two horse race  Football Scotland",
-          "link": "https://www.footballscotland.co.uk/spfl/scottish-premiership/neil-lennon-offers-celtic-rangers-25052994",
-          "publishedOn": "2022-09-19T10:13:15.000Z",
-          "wordCount": 2470,
-          "title": "Neil Lennon offers Celtic and Rangers title comparison as Omonia Nicosia boss talks two horse race - Football Scotland",
-          "imageUrl": "https://i2-prod.footballscotland.co.uk/incoming/article25053022.ece/ALTERNATES/s1200/0_NEIL-LENNONE11JPG.jpg"
-        },
-        {
-          "id": "CAIiEB3J51yMpJ6obRuGOj3KJ7kqGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY",
-          "author": null,
-          "description": "Iain Bankier – an overview of his reign as Celtic Chairman – Joe BloggsCity  The Celtic Star",
-          "link": "https://thecelticstar.com/iain-bankier-an-overview-of-his-reign-as-celtic-chairman-joe-bloggscity/",
-          "publishedOn": "2022-09-19T09:55:11.000Z",
-          "wordCount": 2113,
-          "title": "Iain Bankier – an overview of his reign as Celtic Chairman – Joe BloggsCity - The Celtic Star",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2021/09/1000807423-1-1024x681.jpg"
-        },
-        {
-          "id": "CAIiEFELbw9v_rtg26Z4NRgGhZMqMwgEKioIACIQi2zxwJN43-ZF94ihqpuxeyoUCAoiEIts8cCTeN_mRfeIoaqbsXsw46uzBw",
-          "author": null,
-          "description": "Celtic and Rangers could be impacted by new controversial Champions League proposal  Glasgow Times",
-          "link": "https://www.glasgowtimes.co.uk/sport/22311543.celtic-rangers-impacted-new-controversial-champions-league-proposal/",
-          "publishedOn": "2022-09-19T09:45:24.000Z",
-          "wordCount": 8154,
-          "title": "Celtic and Rangers could be impacted by new controversial Champions League proposal - Glasgow Times",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15596471/?type=og-image"
-        },
-        {
-          "id": "CAIiEDxH-3iEux2kAL_DHGGu2sEqGQgEKhAIACoHCAowr5GNCzDFxJ4DMOHTpgY",
-          "author": null,
-          "description": "Celtic star who will look to get the most out of September international break  67 Hail Hail - Celtic FC News",
-          "link": "https://www.67hailhail.com/opinion/celtic-star-who-will-look-to-get-the-most-out-of-september-international-break/",
-          "publishedOn": "2022-09-19T09:40:00.000Z",
-          "wordCount": 1967,
-          "title": "Celtic star who will look to get the most out of September international break - 67 Hail Hail - Celtic FC News",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/09/GettyImages-1229581869-2-scaled.jpg"
-        },
-        {
-          "id": "1563132947",
-          "author": null,
-          "description": "Celtic fans disrupt minute's applause for Queen Elizabeth II with anti-Royal chanting and banner  CNN\nHugh Keevins lets rip as he sends message to Celtic renegades  Daily Record\nChris Sutton Hits Nail on Head After Celtic Defeat  CeltsAreHere\nCeltic’s 11-point swing opportunity on Sunday  67 Hail Hail - Celtic FC News\n'Disgraceful' Celtic fans chant anti-royal family song as Sky forced to turn down volume  Scottish Daily Express\nView Full coverage on Google News",
-          "link": "https://www.cnn.com/2022/09/19/football/celtic-anti-royal-chants-scottish-football-spt-intl/index.html",
-          "publishedOn": "2022-09-19T09:37:00.000Z",
-          "wordCount": 25888,
-          "title": "Celtic fans disrupt minute's applause for Queen Elizabeth II with anti-Royal chanting and banner - CNN",
-          "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/220919043251-celtic-anti-monarchy-chants-scottish-football-spt-intl-super-tease.jpg"
-        },
-        {
-          "id": "CBMieWh0dHBzOi8vdGhlY2VsdGljYmxvZy5jb20vMjAyMi8wOS9hcnRpY2xlcy1hbmQtZmVhdHVyZXMvcm9kZ2Vycy1yZXB1dGVkLXBheW9mZi1wYWNrYWdlLWlzLXdoeS1oZS1sZWZ0LWNlbHRpYy1mb3ItZW5nbGFuZC_SAcIBaHR0cHM6Ly90aGVjZWx0aWNibG9nLmNvbS8yMDIyLzA5L2FydGljbGVzLWFuZC1mZWF0dXJlcy9yb2RnZXJzLXJlcHV0ZWQtcGF5b2ZmLXBhY2thZ2UtaXMtd2h5LWhlLWxlZnQtY2VsdGljLWZvci1lbmdsYW5kLz9mYmNsaWQ9SXdBUjJBb1hmcGJMRWVVM1JTd1pabmVNeXQyWjJZSDNUSHByM2JZLUVLUTBxajNXdUpfaC1kQnhwNzczWSZhbXA",
-          "author": null,
-          "description": "Rodgers Reputed Payoff Package Is Why He Left Celtic For England.  TheCelticBlog.com",
-          "link": "https://thecelticblog.com/2022/09/articles-and-features/rodgers-reputed-payoff-package-is-why-he-left-celtic-for-england/",
-          "publishedOn": "2022-09-19T09:36:00.000Z",
-          "wordCount": 2379,
-          "title": "Rodgers Reputed Payoff Package Is Why He Left Celtic For England. - TheCelticBlog.com",
-          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2019/11/2019-11-03T160034Z_1443855271_RC16CAC497C0_RTRMADP_3_SOCCER-ENGLAND-CRY-LEI-REPORT.jpg"
         }
       ]
     },
@@ -3246,6 +2916,26 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "1e3a6375befeedb417675dd0e11d28f8",
+          "author": null,
+          "description": "THE first part of the recovery mission has been completed for Scotland. Now the job must be finished if previous failings are to be somewhat forgiven and forgotten.",
+          "link": "https://www.glasgowtimes.co.uk/sport/22572699.jack-hendry-eyes-ireland-revenge-scotland-aim-build-ukraine-win/?ref=rss",
+          "publishedOn": "2022-09-23T21:30:00.000Z",
+          "wordCount": 9308,
+          "title": "Jack Hendry eyes Ireland revenge as Scotland aim to build on Ukraine win",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15733123/?type=og-image"
+        },
+        {
+          "id": "df1ef46bc4041cc1f9dbd3a978fbbe88",
+          "author": null,
+          "description": "CRAIG GORDON had one of the best views in the house at Hampden. Now the keeper has backed Scotland to secure their ticket to the play-offs after putting themselves in the box seat in the Nations League.",
+          "link": "https://www.glasgowtimes.co.uk/sport/22572373.craig-gordon-enjoyed-prime-viewing-spot-scotland-saw-off-ukraine-boost-nations-league-bid/?ref=rss",
+          "publishedOn": "2022-09-23T21:30:00.000Z",
+          "wordCount": 8972,
+          "title": "Craig Gordon enjoyed prime viewing spot as Scotland saw off Ukraine to boost Nations League bid",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15732276/?type=og-image"
+        },
         {
           "id": "0646c34e9ac9247a942138f7d6427bd9",
           "author": null,
@@ -3915,56 +3605,6 @@
           "wordCount": 8605,
           "title": "Celtic handed transfer boost as Oscar Gloukh set for Maccabi Tel-Aviv exit in 'January or summer'",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15598179/?type=og-image"
-        },
-        {
-          "id": "64b581c543599177740203b198820a50",
-          "author": null,
-          "description": "LEICESTER have pinpointed Brentford boss Thomas Frank as their number one target if they are to replace Brendan Rodgers, according to reports.",
-          "link": "https://www.glasgowtimes.co.uk/sport/22312204.brendan-rodgers-latest-leicester-city-pinpoint-thomas-frank-replace-former-celtic-boss/?ref=rss",
-          "publishedOn": "2022-09-19T13:09:53.000Z",
-          "wordCount": 8181,
-          "title": "Brendan Rodgers latest as Leicester City pinpoint Thomas Frank to replace former Celtic boss",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15597512/?type=og-image"
-        },
-        {
-          "id": "5cf3c8a26252720bcdd3b6f94cecec6d",
-          "author": null,
-          "description": "The former Hoops boss has been speaking about how the Cypriot league matches up to the Scottish Premiership.",
-          "link": "https://www.glasgowtimes.co.uk/sport/22311922.neil-lennon-makes-celtic-rangers-comparison-talks-omonia-nicosia/?ref=rss",
-          "publishedOn": "2022-09-19T11:21:33.000Z",
-          "wordCount": 8568,
-          "title": "Neil Lennon makes Celtic and Rangers comparison as he talks up Omonia Nicosia",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15596824/?type=og-image"
-        },
-        {
-          "id": "b41540088f44e5c122c44e26bd3fc048",
-          "author": null,
-          "description": "The broadcaster was not impressed with Ange Postecoglou's backline.",
-          "link": "https://www.glasgowtimes.co.uk/sport/22311673.bbc-sportscene-pundit-critical-celtic-defended-defeat-st-mirren/?ref=rss",
-          "publishedOn": "2022-09-19T10:39:00.000Z",
-          "wordCount": 8645,
-          "title": "Michael Stewart slams 'weak' Celtic defending as he claims defence was 'bullied' by St Mirren frontline",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15596618/?type=og-image"
-        },
-        {
-          "id": "587f3d55638b3ef5da061d7dc08927ee",
-          "author": null,
-          "description": "The winger has taken to life abroad well as he looks to get more consistent game time.",
-          "link": "https://www.glasgowtimes.co.uk/sport/22311602.celtic-loanee-provides-assist-new-club-just-minutes-subbed/?ref=rss",
-          "publishedOn": "2022-09-19T10:10:30.000Z",
-          "wordCount": 8088,
-          "title": "Celtic loanee Mikey Johnston makes instant impact for Vitoria Guimaraes after appearing off the bench",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15596570/?type=og-image"
-        },
-        {
-          "id": "5b1b9a22b40124fc0de97b16c16663ca",
-          "author": null,
-          "description": "CELTIC and Rangers could be impacted by a new controversial Champions League proposal.",
-          "link": "https://www.glasgowtimes.co.uk/sport/22311543.celtic-rangers-impacted-new-controversial-champions-league-proposal/?ref=rss",
-          "publishedOn": "2022-09-19T09:45:24.000Z",
-          "wordCount": 8175,
-          "title": "Celtic and Rangers could be impacted by new controversial Champions League proposal",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15596471/?type=og-image"
         }
       ]
     }
