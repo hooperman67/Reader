@@ -6,6 +6,26 @@
       "siteUrl": "https://www.scotsman.com//sport/football/celtic",
       "articles": [
         {
+          "id": "3855566",
+          "author": "Andrew Smith",
+          "description": "The penalty winner from Ryan Christie in the 2-1 success over the Republic of Ireland that bagged Scotland a second Nations League victory inside the week had a crucial input from coach Austin MacPhee, according to the Bournemouth attacker.",
+          "link": "https://www.scotsman.com/sport/football/international/revealed-crucial-role-austin-macphee-played-in-scotlands-victory-over-the-irish-3855566",
+          "publishedOn": "2022-09-25T07:00:00.000Z",
+          "wordCount": 2178,
+          "title": "Revealed: Crucial role Austin MacPhee played in Scotland's victory over the Irish",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjVlZGIyMDcwLTMxMGYtNGU0MS1hMTU4LWFlODNlM2U1NjJiZDo0NzVjNDVjNS0zNWMyLTQ5ZDAtYTIxYi03ZmI3YmM0NGE5NjU=.jpg?width=1200&enable=upscale"
+        },
+        {
+          "id": "3855515",
+          "author": "Andrew Smith",
+          "description": "The to-ing and fro-ing in the struggle for supremacy between Scotland and Ukraine can seem dizzying. Not to Celtic captain Callum McGregor, though.",
+          "link": "https://www.scotsman.com/sport/football/international/we-need-to-learn-to-deal-with-those-situations-better-celtic-midfielder-offers-candid-assessment-of-how-to-deal-with-key-scotland-matches-3855515",
+          "publishedOn": "2022-09-25T07:00:00.000Z",
+          "wordCount": 2591,
+          "title": "'We need to learn to deal with those situations better': Celtic midfielder offers candid assessment of how to deal with key Scotland matches",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjFiOThlM2JmLWQ4YWMtNDViNS1iZDQyLWYwYWViZDIxMDIwYjowZjczYTcxNy02YmQ5LTQwZGYtODg1YS1lNmVmOTg0ZTE3NTQ=.jpg?width=1200&enable=upscale"
+        },
+        {
           "id": "3855565",
           "author": "Andrew Smith",
           "description": "Scotland keeper Craig Gordon has revealed how becoming a father again on the day of the country’s 2-1 victory over Republic of Ireland meant he was deprived of almost an entire night’s sleep before proving wholly alert at Hampden.",
@@ -214,16 +234,6 @@
           "wordCount": 2625,
           "title": "Ukraine continuing to play through war \"admirable\" but Scotland must concentrate \"purely on football\", says midfielder",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjIwMDYzOWU3LTc5ZDItNDNmNS05MTM0LTAxNTM4ZTRiMzQ0YzoyMjJhMjkyOC00NmQyLTQ2OTEtODhjMi1lMjk4MTdhMmFhMDA=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3849957",
-          "author": "Angus Wright",
-          "description": "Celtic have reported a post-tax profit of £5.9million last season despite spending almost £40million on players.",
-          "link": "https://www.scotsman.com/sport/football/celtic/celtic-record-sizeable-profit-despite-ps40m-transfer-spend-3849957",
-          "publishedOn": "2022-09-20T20:08:48.000Z",
-          "wordCount": 1726,
-          "title": "Celtic record sizeable profit despite £40m transfer spend",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmFiMjc2YWViLTlkMWQtNGFiNy1hYjA5LWUwMzY5ZTY1OWI4NzpjMjc0ZTVlMS1kOTczLTQyZWEtYjZiZC00NWU4YWVkYTk3M2E=.jpg?width=1200&enable=upscale"
         }
       ]
     },
@@ -232,6 +242,36 @@
       "feedUrl": "http://armchaircelts.co.uk/wprss",
       "siteUrl": "http://armchaircelts.co.uk/feed/wprss/",
       "articles": [
+        {
+          "id": "https://thecelticstar.com/kieran-tierneys-head-knock-positive-update-from-steve-clarke/",
+          "author": null,
+          "description": "Kieran Tierney was forced off the pitch during the first half due to a head injury. Steve Clarke later described the replacement of Tierney as more of a ‘precaution’ than anything serious. Tierney went down after a challenge from Troy Parrott, his third head injury in the first half. Tierney insisted he was fine to the Read More",
+          "link": "https://thecelticstar.com/kieran-tierneys-head-knock-positive-update-from-steve-clarke/",
+          "publishedOn": "2022-09-25T08:32:22.000Z",
+          "wordCount": 1197,
+          "title": "Kieran Tierney’s head-knock – Positive update from Steve Clarke",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/UEFA_SCOT_ROI_1229-1024x590.jpeg"
+        },
+        {
+          "id": "https://thecelticstar.com/scotland-2-1-ireland-david-potters-hampden-reflections/",
+          "author": null,
+          "description": "I am aware that not all our readers will be as happy as I am about the result in last night’s game, but it was fine entertainment. No-one could really have complained if Ireland had earned a draw, but well done, Scotland! It is a fine change to see Scotland winning, and all the best Read More",
+          "link": "https://thecelticstar.com/scotland-2-1-ireland-david-potters-hampden-reflections/",
+          "publishedOn": "2022-09-25T08:15:56.000Z",
+          "wordCount": 1528,
+          "title": "Scotland 2 -1 Ireland – David Potter’s Hampden Reflections",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/UEFA_SCOT_ROI_2468-1024x582.jpeg"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/we-need-to-reset-and-go-again-insists-calmac/",
+          "author": null,
+          "description": "CALLUM McGREGOR played his usual pivotal role as he propelled Scotland to a dramatic 2-1 comeback triumph over Republic of Ireland at Hampden last night. The Celtic skipper has seen Steve Clarke’s men reclaim pole position from Ukraine after their main rivalryls’ 5-0 victory over Armenia earlier in the day. The Scots were shaken in [...]",
+          "link": "https://www.celticquicknews.co.uk/we-need-to-reset-and-go-again-insists-calmac/",
+          "publishedOn": "2022-09-25T06:59:57.000Z",
+          "wordCount": 2939,
+          "title": "‘WE NEED TO RESET AND GO AGAIN,’ INSISTS CALMAC",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/09/CALLUM-MCGREGOR-POINTS-WAY-S.png"
+        },
         {
           "id": "https://www.celticquicknews.co.uk/abada-drama-mooy-returns-giakoumakis-doubt/",
           "author": null,
@@ -1821,76 +1861,6 @@
           "wordCount": 1167,
           "title": "Video: Henrik Larsson’s Celtic goals as he celebrates his birthday",
           "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2021/11/henrik-larsson-2-1024x736.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/news/new-era-for-celtic-hero-as-dudu-dahan-left-on-outside/",
-          "author": null,
-          "description": "Liel Abada has made a change in agency representation, leaving behind Dudu Dahan who helped facilitate his move to Celtic from Maccabi Petah Tikva. Football Scotland reports that Abada has opted to leave Dahan’s group to join up with teammate Josip Juranovic’s agent Hussein Al Gaaod at FSB. Al Gaaod represents a number of high-profile ...\nThe post New era for Celtic hero as Dudu Dahan left on outside appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/new-era-for-celtic-hero-as-dudu-dahan-left-on-outside/",
-          "publishedOn": "2022-09-20T20:53:37.000Z",
-          "wordCount": 1724,
-          "title": "New era for Celtic hero as Dudu Dahan left on outside",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/09/GettyImages-1421399100-scaled.jpg"
-        },
-        {
-          "id": "https://celtsarehere.com/chris-suttons-brilliant-response-to-bbc-celtic-rumourmill/",
-          "author": null,
-          "description": "",
-          "link": "https://celtsarehere.com/chris-suttons-brilliant-response-to-bbc-celtic-rumourmill/",
-          "publishedOn": "2022-09-20T20:09:45.000Z",
-          "wordCount": 13564,
-          "title": "Chris Sutton’s Brilliant Response to BBC Celtic Rumourmill",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.67hailhail.com/news/ange-postecoglou-takes-surprising-trip-abroad-on-celtic-business/",
-          "author": null,
-          "description": "Many would have expected Ange Postecoglou to be firmly installed at Lennoxtown over the next two weeks to put his players through the day-to-day training and processes that have been the backbone of Celtic’s recent success. However, the manager is taking an international break opportunity to return to his homeland with Celtic officials to promote ...\nThe post Ange Postecoglou takes surprising trip abroad on Celtic business appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/ange-postecoglou-takes-surprising-trip-abroad-on-celtic-business/",
-          "publishedOn": "2022-09-20T20:04:47.000Z",
-          "wordCount": 1710,
-          "title": "Ange Postecoglou takes surprising trip abroad on Celtic business",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/09/GettyImages-1243228124-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/opinion/well-timed-celtic-refresh-on-the-way/",
-          "author": null,
-          "description": "International breaks can be an annoying distraction for football clubs, not least Celtic. It feels like there are far too many of them and, increasingly, national teams are having an impact on the flow of a club’s campaign. That’s never more apparent than this year with the World Cup in Qatar taking place mid-season. Nonetheless, ...\nThe post Well-timed Celtic refresh on the way appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/opinion/well-timed-celtic-refresh-on-the-way/",
-          "publishedOn": "2022-09-20T19:07:15.000Z",
-          "wordCount": 1806,
-          "title": "Well-timed Celtic refresh on the way",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/09/GettyImages-1243242977-scaled.jpg"
-        },
-        {
-          "id": "https://celtsarehere.com/celtic-playing-significant-role-in-major-uefa-shake-up/",
-          "author": null,
-          "description": "",
-          "link": "https://celtsarehere.com/celtic-playing-significant-role-in-major-uefa-shake-up/",
-          "publishedOn": "2022-09-20T19:02:44.000Z",
-          "wordCount": 13620,
-          "title": "Celtic Playing ‘Significant’ Role in Major UEFA Shake Up",
-          "imageUrl": null
-        },
-        {
-          "id": "https://celtsarehere.com/celtic-release-impressive-monday-evening-statement/",
-          "author": null,
-          "description": "",
-          "link": "https://celtsarehere.com/celtic-release-impressive-monday-evening-statement/",
-          "publishedOn": "2022-09-20T18:41:45.000Z",
-          "wordCount": 13663,
-          "title": "Celtic Release Impressive Monday Evening Statement",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.67hailhail.com/news/celtic-expecting-increased-uefa-riches-as-michael-nicholson-reveals-significant-club-role-in-new-regulations/",
-          "author": null,
-          "description": "Celtic CEO Michael Nicholson believes the new UEFA Champions League format from 2024 will be a positive for the development for European football, with increased media rights money expected. The Celtic chief has also talked up the club’s role in the development of new financial sustainability regulations which aim to prevent European sides spending beyond ...\nThe post Celtic expect increased UEFA riches as Nicholson reveals \"significant\" role in new regulations appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/celtic-expecting-increased-uefa-riches-as-michael-nicholson-reveals-significant-club-role-in-new-regulations/",
-          "publishedOn": "2022-09-20T18:38:35.000Z",
-          "wordCount": 1937,
-          "title": "Celtic expect increased UEFA riches as Nicholson reveals \"significant\" role in new regulations",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2021/12/GettyImages-1203951112-scaled.jpg"
         }
       ]
     },
@@ -1899,6 +1869,36 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CAIiEKyXvRweGshcASnpXpfjFIMqGQgEKhAIACoHCAowrueiCTDmn7gCMOjNtwU",
+          "author": null,
+          "description": "Martin O'Neill and Michael Stewart clash over Scotland 'risk and reward' style  Daily Record",
+          "link": "https://www.dailyrecord.co.uk/sport/football/football-news/martin-oneill-michael-stewart-spat-28075410",
+          "publishedOn": "2022-09-25T07:13:19.000Z",
+          "wordCount": 3447,
+          "title": "Martin O'Neill and Michael Stewart clash over Scotland 'risk and reward' style - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/sport/football/football-news/article28075417.ece/ALTERNATES/s1200/0_Screenshot-2022-09-25-at-075209.png"
+        },
+        {
+          "id": "CAIiEPrc7B-6KR2jWRuleEWjvzcqGQgEKhAIACoHCAowrueiCTDmn7gCMKXUtwU",
+          "author": null,
+          "description": "Kenny Dalglish applauds Celtic and Rangers Champions League 'inspiration'  Daily Record",
+          "link": "https://www.dailyrecord.co.uk/sport/football/kenny-dalglish-applauds-celtic-rangers-28072511",
+          "publishedOn": "2022-09-25T05:00:00.000Z",
+          "wordCount": 3619,
+          "title": "Kenny Dalglish applauds Celtic and Rangers Champions League 'inspiration' - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28072552.ece/ALTERNATES/s1200/0_Liverpool-Legends-Training-Session.jpg"
+        },
+        {
+          "id": "CAIiEOb2SSfUg23EmZ4UXtgFk70qGQgEKhAIACoHCAowrueiCTDmn7gCMKXUtwU",
+          "author": null,
+          "description": "Souness comments on Celtic show he's learning the shock jock trade says Keevins  Daily Record",
+          "link": "https://www.dailyrecord.co.uk/sport/football/graeme-souness-learning-shock-jock-28072127",
+          "publishedOn": "2022-09-25T05:00:00.000Z",
+          "wordCount": 3783,
+          "title": "Souness comments on Celtic show he's learning the shock jock trade says Keevins - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/sport/football/football-news/article27739457.ece/ALTERNATES/s1200/1_Screenshot-2022-08-14-at-202315.png"
+        },
         {
           "id": "CAIiEBGpJWxHwy4eWt_ytV3PrpQqGQgEKhAIACoHCAowrueiCTDmn7gCMKXUtwU",
           "author": null,
@@ -1918,6 +1918,16 @@
           "wordCount": 1194,
           "title": "Scotland v Ireland: team news, KO time and where to watch - The Celtic Star",
           "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/UEFA_SCOT_UKRAINE_0826-1024x668.jpeg"
+        },
+        {
+          "id": "CAIiELlZkmcTG9hPnm12NiY4dd4qGQgEKhAIACoHCAowr5GNCzDFxJ4DMLbFpgY",
+          "author": null,
+          "description": "Celtic striker Giorgos Giakoumakis under medical supervision after injury scare and scan on Greece duty  67 Hail Hail - Celtic FC News",
+          "link": "https://www.67hailhail.com/news/celtic-striker-giorgos-giakoumakis-under-medical-supervision-after-injury-scare-and-scan-on-greece-duty/",
+          "publishedOn": "2022-09-24T13:07:27.000Z",
+          "wordCount": 1795,
+          "title": "Celtic striker Giorgos Giakoumakis under medical supervision after injury scare and scan on Greece duty - 67 Hail Hail - Celtic FC News",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/09/GettyImages-1242995597-scaled.jpg"
         },
         {
           "id": "CAIiEBg8CghOAvXfM5WdUYFv_uwqGQgEKhAIACoHCAowrueiCTDmn7gCMIfHtwU",
@@ -2538,26 +2548,6 @@
           "wordCount": 1001,
           "title": "Ange Postecoglou's Celtic FC to play in Sydney versus A-League teams and Premier League's Everton - Football.co.uk",
           "imageUrl": "http://images.football.co.uk/630x472/football-fans.jpg"
-        },
-        {
-          "id": "CAIiEMCHfqztVmufg3WRprrMA6kqGQgEKhAIACoHCAowrueiCTDmn7gCMIfHtwU",
-          "author": null,
-          "description": "John Hartson in Rangers transfer snub claim as Celtic hero reveals SECOND chance at 'unforgivable' Ibrox move  Daily Record",
-          "link": "https://www.dailyrecord.co.uk/sport/football/football-news/john-hartson-rangers-transfer-snub-28040904",
-          "publishedOn": "2022-09-20T19:11:46.000Z",
-          "wordCount": 3202,
-          "title": "John Hartson in Rangers transfer snub claim as Celtic hero reveals SECOND chance at 'unforgivable' Ibrox move - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/sport/football/football-news/article28040941.ece/ALTERNATES/s1200/0_Screenshot-2022-09-20-at-194116.png"
-        },
-        {
-          "id": "CBMimQFodHRwczovL3d3dy5nbGFzZ293dGltZXMuY28udWsvc3BvcnQvMjIzMjYzMTQuY2hhbXBpb25zLWxlYWd1ZS1tYXliZS1jaGFtcGlvbnNoaXAtY2VsdGljLWhlcm8tY2hyaXMtc3V0dG9uLXNheXMtYW5nZS1wb3N0ZWNvZ2xvdS13b250LWRvd25zaXplLWxlaWNlc3Rlci_SAQA",
-          "author": null,
-          "description": "'Champions League or maybe Championship' - Sutton says Postecoglou won't 'downsize' to Leicester  Glasgow Times",
-          "link": "https://www.glasgowtimes.co.uk/sport/22326314.champions-league-maybe-championship-celtic-hero-chris-sutton-says-ange-postecoglou-wont-downsize-leicester/",
-          "publishedOn": "2022-09-20T19:09:17.000Z",
-          "wordCount": 8588,
-          "title": "'Champions League or maybe Championship' - Sutton says Postecoglou won't 'downsize' to Leicester - Glasgow Times",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15594841/?type=og-image"
         }
       ]
     },
@@ -3065,26 +3055,6 @@
           "wordCount": 8248,
           "title": "Ange Postecoglou shuts down Celtic exit links as Australian delivers 'living the dream' message",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15644575/?type=og-image"
-        },
-        {
-          "id": "ba87a5412ec499d4b94d84f441db716a",
-          "author": null,
-          "description": "CELTIC chief executive Michael Nicholson has revealed the club played a \"significant role\" in the development of UEFA's Financial Sustainability Regulations.",
-          "link": "https://www.glasgowtimes.co.uk/sport/22328330.celtics-key-strategic-input-financial-fair-play-replacement-revealed/?ref=rss",
-          "publishedOn": "2022-09-20T20:42:05.000Z",
-          "wordCount": 8396,
-          "title": "Celtic's key strategic input into UEFA Financial Fair Play replacement revealed",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15612555/?type=og-image"
-        },
-        {
-          "id": "299a9d73136240c397d45f887e7cc5c0",
-          "author": null,
-          "description": "CHRIS SUTTON reckons Ange Postecoglou would be 'downsizing' if he was to move to Leicester from Celtic.",
-          "link": "https://www.glasgowtimes.co.uk/sport/22326314.champions-league-maybe-championship-celtic-hero-chris-sutton-says-ange-postecoglou-wont-downsize-leicester/?ref=rss",
-          "publishedOn": "2022-09-20T19:09:17.000Z",
-          "wordCount": 8140,
-          "title": "'Champions League or maybe Championship' Celtic hero Chris Sutton says Ange Postecoglou won't 'downsize' to Leicester",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15594841/?type=og-image"
         }
       ]
     }
