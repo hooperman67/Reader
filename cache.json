@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com//sport/football/celtic",
       "articles": [
         {
+          "id": "3860933",
+          "author": "Matthew Elder",
+          "description": "The SPFL has announced a record set of financial results which have been hailed as the “strongest in the 132-year history of the league”.",
+          "link": "https://www.scotsman.com/sport/football/spfl-reveal-strongest-financial-results-in-132-year-history-as-cinch-and-sky-sports-deals-hailed-3860933",
+          "publishedOn": "2022-09-29T10:29:11.000Z",
+          "wordCount": 2643,
+          "title": "SPFL reveal 'strongest financial results in 132-year history' as cinch and Sky Sports deals hailed",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjJiOTI4MDY3LTg3Y2UtNGRlOS04NjIyLTc1MzJhMmNjM2YzYjpjMDU3ODdlNy1kMGJiLTQ4YzgtOGY1OC00NTAzMjJhODMzNzA=.jpg?width=1200&enable=upscale"
+        },
+        {
           "id": "3860752",
           "author": "Angus Wright",
           "description": "Livingston boss David Martindale revealed why the club delayed their backing for resolution which paved the way for the new TV deal with Sky Sports.",
@@ -404,26 +414,6 @@
           "wordCount": 2591,
           "title": "'We need to learn to deal with those situations better': Celtic midfielder offers candid assessment of how to deal with key Scotland matches",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjFiOThlM2JmLWQ4YWMtNDViNS1iZDQyLWYwYWViZDIxMDIwYjowZjczYTcxNy02YmQ5LTQwZGYtODg1YS1lNmVmOTg0ZTE3NTQ=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3855565",
-          "author": "Andrew Smith",
-          "description": "Scotland keeper Craig Gordon has revealed how becoming a father again on the day of the country’s 2-1 victory over Republic of Ireland meant he was deprived of almost an entire night’s sleep before proving wholly alert at Hampden.",
-          "link": "https://www.scotsman.com/sport/football/international/hearts-craig-gordon-opens-up-on-dramatic-day-birth-of-son-huge-scotland-save-almost-no-sleep-3855565",
-          "publishedOn": "2022-09-24T22:16:17.000Z",
-          "wordCount": 2167,
-          "title": "Hearts' Craig Gordon opens up on dramatic day - birth of son, huge Scotland save, almost no sleep",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmQxZTQ3YWU4LTE1NTEtNDFhMi1iOTc3LTlhMTg3MGM2M2U4Yzo2Mzg4NzMwMy1jZjAwLTRkMDEtOGI2OS0xZDZmNmNiNzFlZjM=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3855563",
-          "author": "Mark Atkinson",
-          "description": "Steve Clarke hailed the contribution of Craig Gordon after the veteran goalkeeper left the Scotland camp less than 24 hours before Saturday night’s match against Republic of Ireland to attend the birth of his new son, before returning and making a key save in the 2-1 victory at Hampden.",
-          "link": "https://www.scotsman.com/sport/football/international/steve-clarke-explains-craig-gordons-manic-24-hours-issues-injury-update-on-duo-and-reacts-to-stars-suspension-3855563",
-          "publishedOn": "2022-09-24T22:07:28.000Z",
-          "wordCount": 2638,
-          "title": "Steve Clarke explains Craig Gordon's manic 24 hours, issues injury update on duo and reacts to star's suspension",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjBhOTM3YjA4LWI1YTMtNGMxZi05NTMwLTljY2ZhNzhiYTdkODplYTgwYTY1MC0zMzRhLTQwYWUtYjQwNC1kZWNlNDNmMzlkMGE=.jpg?width=1200&enable=upscale"
         }
       ]
     },
@@ -432,6 +422,86 @@
       "feedUrl": "http://armchaircelts.co.uk/wprss",
       "siteUrl": "http://armchaircelts.co.uk/feed/wprss/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/opinion/how-motherwell-management-change-could-play-to-celtics-advantage/",
+          "author": null,
+          "description": "This weekend, Celtic are preparing to return to Scottish Premiership action at Parkhead as we face off against Motherwell. Both teams will be looking to get back to winning ways after suffering defeat before the September international break. Celtic are coming into the back of this game off of a frustrating 2-0 loss to St ...\nThe post How Motherwell management change could play to Celtic&#039;s advantage appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/opinion/how-motherwell-management-change-could-play-to-celtics-advantage/",
+          "publishedOn": "2022-09-29T11:40:00.000Z",
+          "wordCount": 2254,
+          "title": "How Motherwell management change could play to Celtic&#039;s advantage",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/09/GettyImages-1421408650-scaled.jpg"
+        },
+        {
+          "id": "https://www.sportsmole.co.uk/football/celtic/race-for-the-scottish-premiership-title/preview/preview-celtic-vs-motherwell-prediction-team-news-lineups_495673.html",
+          "author": null,
+          "description": "Sports Mole previews Saturday's Scottish Premiership clash between Celtic and Motherwell, including predictions, team news and possible lineups.",
+          "link": "https://www.sportsmole.co.uk/football/celtic/race-for-the-scottish-premiership-title/preview/preview-celtic-vs-motherwell-prediction-team-news-lineups_495673.html",
+          "publishedOn": "2022-09-29T11:06:57.000Z",
+          "wordCount": 4552,
+          "title": "Preview: Celtic vs. Motherwell - prediction, team news, lineups",
+          "imageUrl": "//b.smimg.net/22/36/kyogo-furuhashi.JPG"
+        },
+        {
+          "id": "https://www.footballtransfertavern.com/celtic-news/ange-postecoglou-transfer-news-spfl/",
+          "author": null,
+          "description": "Former Celtic striker Frank McAvennie has shared some interesting insight on Ange Postecoglou. The Lowdown: O’Dea comments Speaking to Off the Ball last week, Celtic B team coach Darren O’Dea said that Postecoglou acts more like a ‘director of football’ at Parkhead, rather than just a manager. He added that everything at the club goes through […]",
+          "link": "https://www.footballtransfertavern.com/celtic-news/ange-postecoglou-transfer-news-spfl/",
+          "publishedOn": "2022-09-29T11:05:20.000Z",
+          "wordCount": 3497,
+          "title": "&#039;What I&#039;ve been told..&#039; - McAvennie makes interesting behind-scenes Celtic claim involving Ange",
+          "imageUrl": "https://cdn.footballtransfertavern.com/wp-content/uploads/2022/09/ange-postecoglou-scottish-premiership-2-scaled.jpg"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/5-point-lead-gave-false-comfort/",
+          "author": null,
+          "description": "A two-goal win for Hearts on Saturday lunchtime would be enough to move them into second in the table.  It would be reassuring to have an early opportunity to restore our five-point lead at the top of the table.  Another possibility is that Newco win at Tynecastle to go top, for a few hours at [...]",
+          "link": "https://www.celticquicknews.co.uk/5-point-lead-gave-false-comfort/",
+          "publishedOn": "2022-09-29T11:00:24.000Z",
+          "wordCount": 4677,
+          "title": "5 point lead gave false comfort",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/opinion/matt-oriley-has-already-made-his-celtic-future-mindset-and-focus-clear/",
+          "author": null,
+          "description": "Ever since Matt O’Riley’s incredible start to life at Celtic, all the talk seems to be about when the midfielder will be on the move again. After joining the Hoops in the January window earlier this year from MK Dons, the 21-year-old contributed massively to the Bhoys’ Scottish Premiership title success. O’Riley quickly became a ...\nThe post Matt O&#039;Riley has already made his Celtic future mindset and focus clear appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/opinion/matt-oriley-has-already-made-his-celtic-future-mindset-and-focus-clear/",
+          "publishedOn": "2022-09-29T10:40:00.000Z",
+          "wordCount": 2425,
+          "title": "Matt O&#039;Riley has already made his Celtic future mindset and focus clear",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/09/GettyImages-1421041248-scaled.jpg"
+        },
+        {
+          "id": "https://celtsarehere.com/celtic-post-up-coolio-paradise-footage-after-rappers-sad-passing/",
+          "author": null,
+          "description": "Celtic TV official account posted some great footage of Coolio at Celtic Park five years ago after the American rapper’s sudden passing this week. The Gangsta Paradise singer once famously took to the Celtic Park pitch to do the windfall, not only that, but he took part in an interview with Celtic TV. Coolio had […]\nSource",
+          "link": "https://celtsarehere.com/celtic-post-up-coolio-paradise-footage-after-rappers-sad-passing/",
+          "publishedOn": "2022-09-29T09:41:43.000Z",
+          "wordCount": 13431,
+          "title": "Celtic Post Up Coolio Paradise Footage after Rapper’s Sad Passing",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.67hailhail.com/news/celtic-injury-lowdown-as-supporters-prepare-for-ange-postecoglou-update/",
+          "author": null,
+          "description": "It wasn’t exactly the ideal international break for Ange Postecoglou, and his squad after several first-team players came away with injury knocks. Before going into this month’s break, the Celtic manager was already suffering from several issues to some of his defensive options. So, ahead of this weekend’s game against Motherwell, supporters are eagerly awaiting ...\nThe post Celtic injury list in full as supporters prepare for Ange Postecoglou update appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/celtic-injury-lowdown-as-supporters-prepare-for-ange-postecoglou-update/",
+          "publishedOn": "2022-09-29T09:10:00.000Z",
+          "wordCount": 2356,
+          "title": "Celtic injury list in full as supporters prepare for Ange Postecoglou update",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/04/GettyImages-1390480580-scaled.jpg"
+        },
+        {
+          "id": "https://celtsarehere.com/international-celtic-players/",
+          "author": null,
+          "description": "A total of 12 Celtic players jetted off on international duty this September with Hoops players representing eight different nations across the globe. Some prospered for their countries whilst others failed to capture the imagination. Nonetheless in this piece, we’ll examine how they all got on as we take a deep dive into Ange Postecoglou’s […]\nSource",
+          "link": "https://celtsarehere.com/international-celtic-players/",
+          "publishedOn": "2022-09-29T08:48:35.000Z",
+          "wordCount": 14678,
+          "title": "Big Wins, Injury Concerns and Silly Snubs; Celts on International Duty",
+          "imageUrl": null
+        },
         {
           "id": "https://celtsarehere.com/?p=91008",
           "author": null,
@@ -461,6 +531,16 @@
           "wordCount": 2082,
           "title": "Report: Host of EPL sides watch on as Celtic midfielder shines for nations u21s",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/07/GettyImages-1395900218-scaled.jpg"
+        },
+        {
+          "id": "https://celtsarehere.com/one-game-will-not-define-the-celtic-squad/",
+          "author": null,
+          "description": "Celtic will return to domestic action this weekend as they take on Motherwell at Celtic Park. The Hoops had got the season off to a great start having won every game in the league until the match against St Mirren before the international break. Celtic manager Ange Postecoglou made a total of six changes to […]\nSource",
+          "link": "https://celtsarehere.com/one-game-will-not-define-the-celtic-squad/",
+          "publishedOn": "2022-09-29T07:57:42.000Z",
+          "wordCount": 13535,
+          "title": "One Game Will Not Define The Celtic Squad",
+          "imageUrl": null
         },
         {
           "id": "https://thecelticstar.com/these-fans-and-this-shirt-emotional-jota-discusses-champions-league-challenge/",
@@ -2330,6 +2410,26 @@
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
         {
+          "id": "CBMihgFodHRwczovL3d3dy5pYnJveG5ld3MuY29tLzIwMjIvMDkvMjkvcmFuZ2Vycy1kZWZlbmRlci1ib3JuYS1iYXJpc2ljLWxlYWRzLXNwZmwtYWhlYWQtb2YtY2VsdGljLXNpZ25pbmctYWFyb24tbW9veS1pbi1vcHRhLWF0dGFjay1zdGF0L9IBigFodHRwczovL3d3dy5pYnJveG5ld3MuY29tLzIwMjIvMDkvMjkvcmFuZ2Vycy1kZWZlbmRlci1ib3JuYS1iYXJpc2ljLWxlYWRzLXNwZmwtYWhlYWQtb2YtY2VsdGljLXNpZ25pbmctYWFyb24tbW9veS1pbi1vcHRhLWF0dGFjay1zdGF0Lz9hbXA",
+          "author": null,
+          "description": "Rangers defender Borna Barisic leads SPFL ahead of Celtic signing Aaron Mooy in Opta attack stat  Ibrox News",
+          "link": "https://www.ibroxnews.com/2022/09/29/rangers-defender-borna-barisic-leads-spfl-ahead-of-celtic-signing-aaron-mooy-in-opta-attack-stat/",
+          "publishedOn": "2022-09-29T11:40:00.000Z",
+          "wordCount": 1725,
+          "title": "Rangers defender Borna Barisic leads SPFL ahead of Celtic signing Aaron Mooy in Opta attack stat - Ibrox News",
+          "imageUrl": "https://www.ibroxnews.com/static/uploads/4/2022/08/Borna-Barisic.jpg"
+        },
+        {
+          "id": "CAIiELVO0n28o7OHgFkIOhwrwz4qGQgEKhAIACoHCAowrueiCTDmn7gCMOjNtwU",
+          "author": null,
+          "description": "RB Leipzig in pre Celtic crisis as goalkeeper opens up on horror Marian Shved moment  Daily Record",
+          "link": "https://www.dailyrecord.co.uk/sport/football/football-news/rb-leipzig-pre-celtic-crisis-28110821",
+          "publishedOn": "2022-09-29T09:27:37.000Z",
+          "wordCount": 3216,
+          "title": "RB Leipzig in pre Celtic crisis as goalkeeper opens up on horror Marian Shved moment - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28110853.ece/ALTERNATES/s1200/0_Tottenham-Hotspur-v-RB-Leipzig-UEFA-Champions-League-Round-of-16-First-Leg-19220.jpg"
+        },
+        {
           "id": "CBMilgFodHRwczovL3d3dy5uYXRpb25hbHdvcmxkLmNvbS9jdWx0dXJlL211c2ljL2Nvb2xpby1hdC1jZWx0aWMtcGFyay1kaWQtcmFwcGVyLXN1cHBvcnQtZ2xhc2dvdy1mb290YmFsbC10ZWFtLW1zcC10b21teS1zaGVyaWRhbi1iaWctYnJvdGhlci1uZXdzLTM4NjA2OTDSAQA",
           "author": null,
           "description": "Coolio at Celtic Park: did the rapper support Glasgow football team - link with MSP Tommy Sheridan explained  NationalWorld",
@@ -2428,6 +2528,16 @@
           "wordCount": 3378,
           "title": "Celtic v Motherwell on TV: Channel, kick-off time and live stream details for domestic return - Glasgow Live",
           "imageUrl": "https://i2-prod.glasgowlive.co.uk/incoming/article25122170.ece/ALTERNATES/s1200/0_cinch-Premiership-Celtic-FC-v-Motherwell-FC.jpg"
+        },
+        {
+          "id": "CAIiENmFppMl4JNNsDN9vPL8S8YqGQgEKhAIACoHCAowrueiCTDmn7gCMOjNtwU",
+          "author": null,
+          "description": "Celtic fans' plea for tribute to tragic East Kilbride star Alan Paterson  Daily Record",
+          "link": "https://www.dailyrecord.co.uk/sport/local-sport/celtic-fans-plea-tribute-tragic-28103701",
+          "publishedOn": "2022-09-28T12:28:45.000Z",
+          "wordCount": 3162,
+          "title": "Celtic fans' plea for tribute to tragic East Kilbride star Alan Paterson - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28103719.ece/ALTERNATES/s1200/0_ptr_ekn_200219jags_03jpeg.jpg"
         },
         {
           "id": "CAIiEGnYxcJF5tAlQ8IjdegJdvEqGQgEKhAIACoHCAowrueiCTDmn7gCMIfHtwU",
@@ -2996,6 +3106,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "0e8c834acbca6f2f333ea07e04b85ee8",
+          "author": null,
+          "description": "RB LEIPZIG captain and keeper Peter Gulacsi admits he and his team have suffered from a crisis of confidence this season ahead of next week's Champions League visit from Celtic.",
+          "link": "https://www.glasgowtimes.co.uk/sport/22839572.celtic-champions-league-rivals-rb-leipzig-suffer-crisis-confidence-ahead-midweek-clash/?ref=rss",
+          "publishedOn": "2022-09-29T09:11:03.000Z",
+          "wordCount": 8188,
+          "title": "Celtic Champions League rivals RB Leipzig suffer crisis of confidence ahead of midweek clash",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15947077/?type=og-image"
+        },
         {
           "id": "d548865e3bfe1152a1d9870cc3b90775",
           "author": null,
