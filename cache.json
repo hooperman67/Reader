@@ -6,6 +6,36 @@
       "siteUrl": "https://www.scotsman.com//sport/football/celtic",
       "articles": [
         {
+          "id": "3862661",
+          "author": "Joel Sked",
+          "description": "The Scottish Premiership returns this weekend after a two-week hiatus which saw Scotland gain the seven points required to win their Nations League group and earn a place in Pot 2 for Euro 2024 qualifying.",
+          "link": "https://www.scotsman.com/sport/football/celtic/what-we-have-learned-about-the-12-premiership-clubs-title-favourites-rangers-priority-st-mirrens-defence-3862661",
+          "publishedOn": "2022-09-30T11:02:17.000Z",
+          "wordCount": 4307,
+          "title": "What we have learned about the 12 Premiership clubs - title favourites, Rangers priority, St Mirren's defence",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjAyMmRlYTZiLWM3OWUtNGIyOS1hODRjLWE4MjNlOWRjNjNjNDo4MjJjYTA2Ni1hNThjLTRiZTUtODUyNy1kMmRiY2FlNTIxMjg=.jpg?width=1200&enable=upscale"
+        },
+        {
+          "id": "3862542",
+          "author": "Matthew Elder",
+          "description": "Former Celtic midfielder Tom Rogic is in line to make his West Brom debut after impressing manager Steve Bruce in training.",
+          "link": "https://www.scotsman.com/sport/football/celtic/tom-rogic-set-for-west-brom-debut-after-celtic-icon-wows-steve-bruce-in-training-3862542",
+          "publishedOn": "2022-09-30T10:13:16.000Z",
+          "wordCount": 1815,
+          "title": "Tom Rogic set for West Brom debut after Celtic icon wows Steve Bruce in training",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmRiMmQzYjg4LWRmYWMtNDlhZC04NDZkLTg0ODIxZGI2M2M4MzpiNDYzY2UwMC1iYzZlLTQ5Y2EtODAyYi0xYmEwMmE2YmRhZTY=.jpg?width=1200&enable=upscale"
+        },
+        {
+          "id": "3862394",
+          "author": "Matthew Elder",
+          "description": "The Scottish FA has unveiled plans to celebrate 150 years of the national game.",
+          "link": "https://www.scotsman.com/sport/football/scottish-fa-unveil-plans-to-mark-150th-anniversary-of-national-game-watch-unique-video-footage-3862394",
+          "publishedOn": "2022-09-30T09:33:18.000Z",
+          "wordCount": 2641,
+          "title": "Scottish FA unveil plans to mark 150th anniversary of national game - watch unique video footage",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmEyMGZjODM3LTYxMDYtNDIyNy04ZTZmLWJjODc1Y2Y4MDg4ODo3NTc1MWUzNy0yYTQzLTQ1YmUtODdhNi1lN2Y3N2ViZDZjYjQ=.jpg?width=1200&enable=upscale"
+        },
+        {
           "id": "3862043",
           "author": "Graham Bean",
           "description": "The Argentine rugby community in Scotland is a small but tight knit group so when compatriot Alexandro Bernabei signed for Celtic in the summer they extended a hand of friendship to the defender.",
@@ -412,6 +442,36 @@
       "feedUrl": "http://armchaircelts.co.uk/wprss",
       "siteUrl": "http://armchaircelts.co.uk/feed/wprss/",
       "articles": [
+        {
+          "id": "https://www.celticquicknews.co.uk/facing-systems-in-flux/",
+          "author": null,
+          "description": "Motherwell started the season as Scotland’s first laughingstock, losing home and away to Sligo Rovers (apologies for the unavoidable slight, Rovers).  Their fragility was soon resolved with wins at St Mirren and Aberdeen, and home to Livingston, in their opening four league fixtures. Since that win over Livi nine weeks ago, results dipped.  Defeat at [...]",
+          "link": "https://www.celticquicknews.co.uk/facing-systems-in-flux/",
+          "publishedOn": "2022-09-30T11:08:05.000Z",
+          "wordCount": 4105,
+          "title": "Facing systems in flux",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
+        },
+        {
+          "id": "https://thecelticstar.com/hes-a-very-very-good-footballer-bruce-blown-away-by-tom-rogics-quality/",
+          "author": null,
+          "description": "It will be completely unsurprising to anyone reading this to learn that West Brom manager Steve Bruce has been totally blown away by the quality shown so far by his new signing Tom Rogic over the past couple of weeks on the training ground, as the Championship stugglers look set to give the former Celtic Read More",
+          "link": "https://thecelticstar.com/hes-a-very-very-good-footballer-bruce-blown-away-by-tom-rogics-quality/",
+          "publishedOn": "2022-09-30T10:44:39.000Z",
+          "wordCount": 1488,
+          "title": "“He’s a very, very good footballer,” Bruce blown away by Tom Rogic’s quality",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/05/australia-v-vietnam-fifa-world-cup-qatar-2022-afc-asian-qualifier-4-1024x681.jpg"
+        },
+        {
+          "id": "https://celtsarehere.com/fifa-23-review-celtic-perspective/",
+          "author": null,
+          "description": "FIFA 23 is out for everyone now. The final collaboration between EA Sports and FIFA has hit the shelves and will bring to an end almost three decades of collaboration. It’s more interesting for Celtic fans this year after the club announced a deal with EA Sports going forward. Despite early optimism, there are no […]\nSource",
+          "link": "https://celtsarehere.com/fifa-23-review-celtic-perspective/",
+          "publishedOn": "2022-09-30T10:40:55.000Z",
+          "wordCount": 13542,
+          "title": "FIFA 23 Review: Celtic Perspective",
+          "imageUrl": null
+        },
         {
           "id": "https://thecelticstar.com/pundit-defends-matt-oriley-over-scouts-negative-comments/",
           "author": null,
@@ -2281,16 +2341,6 @@
           "wordCount": 3548,
           "title": "THE JOCK STEIN YEARS: PART SIXTEEN",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2021/09/JOCK-STEIN-SMILING-V-LEEDS-FEATURED.png"
-        },
-        {
-          "id": "https://celtsarehere.com/michael-nicholson-reveals-key-part-of-celtics-strategy-club-infrastructure/",
-          "author": null,
-          "description": "CELTIC posted their year-end results last week, and they made for impressive reading. The club managed to turn a profit after a year of recovery on and off the field. The bhoys returned to their rightful place as the Scottish Champions, and crowds came back in significant numbers after the pandemic. We poured over the […]\nSource",
-          "link": "https://celtsarehere.com/michael-nicholson-reveals-key-part-of-celtics-strategy-club-infrastructure/",
-          "publishedOn": "2022-09-25T22:49:38.000Z",
-          "wordCount": 13602,
-          "title": "Michael Nicholson’s Celtic Infrastructure Claim",
-          "imageUrl": null
         }
       ]
     },
@@ -2299,6 +2349,16 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CBMiU2h0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9jZWx0aWMtbWFrZS1zdXJwcmlzZS1hcHBlYXJhbmNlLWluLXdlbGNvbWUtdG8td3JleGhhbS1kb2Mv0gEA",
+          "author": null,
+          "description": "Celtic Make Surprise Appearance in 'Welcome to Wrexham' Doc  CeltsAreHere",
+          "link": "https://celtsarehere.com/celtic-make-surprise-appearance-in-welcome-to-wrexham-doc/",
+          "publishedOn": "2022-09-30T08:55:14.000Z",
+          "wordCount": 13583,
+          "title": "Celtic Make Surprise Appearance in 'Welcome to Wrexham' Doc - CeltsAreHere",
+          "imageUrl": null
+        },
         {
           "id": "CBMiR2h0dHBzOi8vdGhlY2VsdGljYmhveXMuY29tLzIwMjIvMDkvMjkvY2hlbHNlYS1saW5rZWQtZm9ybWVyLWNlbHRpYy1tYW4v0gFLaHR0cHM6Ly90aGVjZWx0aWNiaG95cy5jb20vMjAyMi8wOS8yOS9jaGVsc2VhLWxpbmtlZC1mb3JtZXItY2VsdGljLW1hbi9hbXAv",
           "author": null,
@@ -2920,6 +2980,16 @@
           "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28083092.ece/ALTERNATES/s1200/0_Aberdeen-FC-Media-Access.jpg"
         },
         {
+          "id": "CAIiEPu03LQe81C7DHZoGr9OMBAqGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY",
+          "author": null,
+          "description": "Unique Angle – Blood, toil, tears then three Celtic goals without reply  The Celtic Star",
+          "link": "https://thecelticstar.com/unique-angle-blood-toil-tears-then-three-celtic-goals-without-reply/",
+          "publishedOn": "2022-09-26T11:15:14.000Z",
+          "wordCount": 1438,
+          "title": "Unique Angle – Blood, toil, tears then three Celtic goals without reply - The Celtic Star",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/clifford_goal_4301-1024x682.jpeg"
+        },
+        {
           "id": "CAIiEF--W-A348AcLIb1Owy5QvYqGQgEKhAIACoHCAow96D9CjDOy_QCMPvp0wU",
           "author": null,
           "description": "Celtic and Rangers rank in world's top 30 stadium attendances as Glasgow pair higher than PSG  Glasgow Live",
@@ -2996,6 +3066,36 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "1c8deff17b0afe30b80be004cdef7318",
+          "author": null,
+          "description": "STEVE BRUCE has revealed that Tom Rogic is in line to make his West Brom debut this weekend after stepping up his fitness work over the international break.",
+          "link": "https://www.glasgowtimes.co.uk/sport/22955395.tom-rogic-line-west-brom-debut-celtic-hero-steps-intense-work-word-cup-dream-alive/?ref=rss",
+          "publishedOn": "2022-09-30T10:19:17.000Z",
+          "wordCount": 8128,
+          "title": "Tom Rogic in line for West Brom debut as Celtic hero steps up 'intense work' with Word Cup dream alive",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/13269277/?type=og-image"
+        },
+        {
+          "id": "65c0ed645abb26d6b6539f8ccb167e92",
+          "author": null,
+          "description": "CHRIS SUTTON has reignited a past feud with Rangers legend Graeme Souness as he branded the pundit \"disrespectful\".",
+          "link": "https://www.glasgowtimes.co.uk/sport/22954151.chris-sutton-reignites-graeme-souness-celtic-feud-delivers-blackburn-two-fingers-up-verdict/?ref=rss",
+          "publishedOn": "2022-09-30T09:22:25.000Z",
+          "wordCount": 8188,
+          "title": "Chris Sutton reignites Graeme Souness Celtic feud as he delivers Blackburn 'two fingers up' verdict",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/13564262/?type=og-image"
+        },
+        {
+          "id": "4e64da4874cc8965263914e4fabb55e2",
+          "author": null,
+          "description": "DAIZEN MAEDA and David Turnbull both took part in a Celtic training session on Thursday after being affected by injury during the international break.",
+          "link": "https://www.glasgowtimes.co.uk/sport/22953621.celtic-duo-return-training-international-injury-fears/?ref=rss",
+          "publishedOn": "2022-09-30T08:55:20.000Z",
+          "wordCount": 8131,
+          "title": "Celtic duo return to training after international injury fears",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15968062/?type=og-image"
+        },
         {
           "id": "7de4216f39b4d78b97f1b3956797b660",
           "author": null,
