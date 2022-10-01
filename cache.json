@@ -384,26 +384,6 @@
           "wordCount": 1957,
           "title": "Celtic suffer 4th injury concern with star subbed after 32 minutes - club in 'STILL' international break post",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjY3ODRkNmU2LTM3YzctNDdjYy05NTU3LWIyZjA2ZTY2ZDc1ZTo0MjI3ZjM2Ny00NzliLTRjNjYtODQ1NS1hYTk1OGFhOWJlOWY=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3857374",
-          "author": "Alan Pattullo",
-          "description": "Steve Clarke has been desperately trying to accentuate the positives after Scotland landed in Poland in something approaching disarray ahead of a critical Nations League clash against Ukraine.",
-          "link": "https://www.scotsman.com/sport/football/international/scotland-viral-infection-update-as-clutch-of-players-affected-but-there-is-good-news-3857374",
-          "publishedOn": "2022-09-26T21:30:00.000Z",
-          "wordCount": 2634,
-          "title": "Scotland viral infection update as clutch of players affected - but there is good news",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjdmYzZkOTM1LTMzM2EtNDYxYS05YTRiLTZjZDdhYWUyMzFlMjo3ZjkzZTZlYS0xYTM1LTRlOGItYjdmYi1kZDcyODVmZTU0N2M=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3857451",
-          "author": "Alan Pattullo",
-          "description": "Che Adams admits he is motivated by the challenge presented by Lyndon Dykes in the contest to become Scotland’s top striker.",
-          "link": "https://www.scotsman.com/sport/football/international/che-adams-reveals-one-of-best-decisions-of-career-and-speaks-on-lyndon-dykes-scotland-challenge-3857451",
-          "publishedOn": "2022-09-26T21:30:00.000Z",
-          "wordCount": 2191,
-          "title": "Che Adams reveals 'one of best decisions of career' and speaks on Lyndon Dykes Scotland challenge",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjExYTQ3NTNhLWNkNTYtNDVmZi1hMjc3LWJjZmExYjAxMmQyNjo4ZDI5OTI3OS00NjJjLTRjZGUtOTViMS1hN2EzNWYwYjE3YmU=.jpg?width=1200&enable=upscale"
         }
       ]
     },
@@ -2170,6 +2150,16 @@
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
         {
+          "id": "CAIiECfSScB75eTmiAhXJle_CF4qGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY",
+          "author": null,
+          "description": "“He is an immortal at the club as well as in world football,” Ange on Jock Stein  The Celtic Star",
+          "link": "https://thecelticstar.com/he-is-an-immortal-at-the-club-as-well-as-in-world-football-ange-on-jock-stein/",
+          "publishedOn": "2022-10-01T10:18:21.000Z",
+          "wordCount": 1270,
+          "title": "“He is an immortal at the club as well as in world football,” Ange on Jock Stein - The Celtic Star",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/08/TheCelticRising3D-3-1024x580.jpeg"
+        },
+        {
           "id": "CAIiEME8GweYrf-LYqf1B6VAeAYqGQgEKhAIACoHCAowrueiCTDmn7gCMOjNtwU",
           "author": null,
           "description": "Boli Bolingoli admits he made a 'mistake' with Spain trip during Celtic career  Daily Record",
@@ -2878,24 +2868,34 @@
           "wordCount": 3807,
           "title": "Celtic star Matt O'Riley chose football over golf and tennis - Daily Record",
           "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article27974445.ece/ALTERNATES/s1200/0_Celtic-FC-v-Real-Madrid-Group-F-UEFA-Champions-League.jpg"
-        },
-        {
-          "id": "CAIiEAR-lCvg-kIqNUUbbqB9P0UqGQgEKhAIACoHCAow4KKJCzCv9JoDMICkoAY",
-          "author": null,
-          "description": "Celtic fans finish ahead of Rangers, Real Madrid and Liverpool  The Celtic Bhoys",
-          "link": "https://thecelticbhoys.com/2022/09/26/celtic-rangers-real-madrid-liverpool/",
-          "publishedOn": "2022-09-26T22:05:26.000Z",
-          "wordCount": 2325,
-          "title": "Celtic fans finish ahead of Rangers, Real Madrid and Liverpool - The Celtic Bhoys",
-          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1196495084.jpeg"
         }
       ]
     },
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
       "articles": [
+        {
+          "id": "416a3920ed316745be22630bb977ef8e",
+          "author": null,
+          "description": "The left-back spoke about 2020 indiscretion",
+          "link": "https://www.glasgowtimes.co.uk/sport/23007201.boli-bolingoli-opens-celtic-covid-breach-neil-lennon-nicola-sturgeon-parkhead-exit/?ref=rss",
+          "publishedOn": "2022-10-01T09:28:19.000Z",
+          "wordCount": 8336,
+          "title": "Boli Bolingoli opens up on infamous Celtic Covid breach, Neil Lennon, Nicola Sturgeon and his Parkhead exit",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15998387/?type=og-image"
+        },
+        {
+          "id": "e3a186f39fd699878b6a1a7452e4e966",
+          "author": null,
+          "description": "The ex-Hoops striker says things have changed at Parkhead recently",
+          "link": "https://www.glasgowtimes.co.uk/sport/23007155.chris-sutton-hands-celtic-new-catchphrase-replace-we-never-stop-make-or-break-stretch-looms-large/?ref=rss",
+          "publishedOn": "2022-10-01T08:44:19.000Z",
+          "wordCount": 8654,
+          "title": "Chris Sutton hands Celtic a new catchphrase to replace 'we never stop' as make-or-break stretch looms large",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15998334/?type=og-image"
+        },
         {
           "id": "804690a2d51a0ddce37e9ffa0f8823a3",
           "author": null,

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2022-10-01T09:28:11.611Z</updated>
+    <updated>2022-10-01T12:50:23.006Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[“He is an immortal at the club as well as in world football,” Ange on Jock Stein - The Celtic Star]]></title>
+        <id>CAIiECfSScB75eTmiAhXJle_CF4qGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY</id>
+        <link href="https://thecelticstar.com/he-is-an-immortal-at-the-club-as-well-as-in-world-football-ange-on-jock-stein/"/>
+        <updated>2022-10-01T10:18:21.000Z</updated>
+        <summary type="html"><![CDATA[“He is an immortal at the club as well as in world football,” Ange on Jock Stein  The Celtic Star]]></summary>
+        <author>
+            <name>"celtic fc" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boli Bolingoli opens up on infamous Celtic Covid breach, Neil Lennon, Nicola Sturgeon and his Parkhead exit]]></title>
+        <id>416a3920ed316745be22630bb977ef8e</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23007201.boli-bolingoli-opens-celtic-covid-breach-neil-lennon-nicola-sturgeon-parkhead-exit/?ref=rss"/>
+        <updated>2022-10-01T09:28:19.000Z</updated>
+        <summary type="html"><![CDATA[The left-back spoke about 2020 indiscretion]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Boli Bolingoli admits he made a 'mistake' with Spain trip during Celtic career - Daily Record]]></title>
         <id>CAIiEME8GweYrf-LYqf1B6VAeAYqGQgEKhAIACoHCAowrueiCTDmn7gCMOjNtwU</id>
@@ -14,6 +34,16 @@
         <summary type="html"><![CDATA[Boli Bolingoli admits he made a 'mistake' with Spain trip during Celtic career  Daily Record]]></summary>
         <author>
             <name>"celtic fc" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chris Sutton hands Celtic a new catchphrase to replace 'we never stop' as make-or-break stretch looms large]]></title>
+        <id>e3a186f39fd699878b6a1a7452e4e966</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23007155.chris-sutton-hands-celtic-new-catchphrase-replace-we-never-stop-make-or-break-stretch-looms-large/?ref=rss"/>
+        <updated>2022-10-01T08:44:19.000Z</updated>
+        <summary type="html"><![CDATA[The ex-Hoops striker says things have changed at Parkhead recently]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
     <entry>
@@ -3394,36 +3424,6 @@ Source]]></summary>
         <summary type="html"><![CDATA[CELTIC legend Jock Stein made an extraordinary immediate impact on the Parkhead club when he returned as manager in March 1965. In another CQN EXCLUSIVE,  Alex Gordon, author of fifteen books on Celtic, has opened his files on the Parkhead great for an absorbing twenty-one part series. Today, in Part Seventeen of our fascinating look back at [...]]]></summary>
         <author>
             <name>Latest imported feed items on ArmchairCelts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic fans finish ahead of Rangers, Real Madrid and Liverpool - The Celtic Bhoys]]></title>
-        <id>CAIiEAR-lCvg-kIqNUUbbqB9P0UqGQgEKhAIACoHCAow4KKJCzCv9JoDMICkoAY</id>
-        <link href="https://thecelticbhoys.com/2022/09/26/celtic-rangers-real-madrid-liverpool/"/>
-        <updated>2022-09-26T22:05:26.000Z</updated>
-        <summary type="html"><![CDATA[Celtic fans finish ahead of Rangers, Real Madrid and Liverpool  The Celtic Bhoys]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scotland viral infection update as clutch of players affected - but there is good news]]></title>
-        <id>3857374</id>
-        <link href="https://www.scotsman.com/sport/football/international/scotland-viral-infection-update-as-clutch-of-players-affected-but-there-is-good-news-3857374"/>
-        <updated>2022-09-26T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Steve Clarke has been desperately trying to accentuate the positives after Scotland landed in Poland in something approaching disarray ahead of a critical Nations League clash against Ukraine.]]></summary>
-        <author>
-            <name>Alan Pattullo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Che Adams reveals 'one of best decisions of career' and speaks on Lyndon Dykes Scotland challenge]]></title>
-        <id>3857451</id>
-        <link href="https://www.scotsman.com/sport/football/international/che-adams-reveals-one-of-best-decisions-of-career-and-speaks-on-lyndon-dykes-scotland-challenge-3857451"/>
-        <updated>2022-09-26T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Che Adams admits he is motivated by the challenge presented by Lyndon Dykes in the contest to become Scotland’s top striker.]]></summary>
-        <author>
-            <name>Alan Pattullo</name>
         </author>
     </entry>
 </feed>
