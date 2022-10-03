@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com//sport/football/celtic",
       "articles": [
         {
+          "id": "3864371",
+          "author": "Mark Atkinson",
+          "description": "This might seem an odd question, but what is the hardest position to play in the Celtic team right now?",
+          "link": "https://www.scotsman.com/sport/football/celtic/the-hardest-position-to-play-in-this-celtic-team-why-leeway-needs-to-be-given-to-two-players-3864371",
+          "publishedOn": "2022-10-03T06:30:00.000Z",
+          "wordCount": 3510,
+          "title": "The hardest position to play in this Celtic team: why leeway needs to be given to two players",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjA5MDllOGZiLTFjNmQtNDg5Yi1hZWZhLTYzYjgxNjQzMWIwNzphYjE3NjgzYy1mZTgwLTQxMTQtODY1OS04Mjk4ZmUwMjk2ZTY=.jpg?width=1200&enable=upscale"
+        },
+        {
           "id": "3864455",
           "author": "Matthew Elder",
           "description": "Celtic manager Ange Postecoglou is reportedly under consideration for the vacancy at Wolves following their decision to part company with Bruno Lage.",
@@ -284,26 +294,6 @@
           "wordCount": 2321,
           "title": "Scotland have taken a 'giant leap' as Steve Clarke makes bold Euro 2024 qualification claim",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjE2NTVhMzlkLTdmNWYtNDhhMS1iZmE3LTlmZmU2NTNmYzRkNjpiOTQ3OTA3MC0wYWYyLTQyZDMtYWVmZi1kNjBlNzNhNTEwODI=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3860403",
-          "author": "Andrew Smith",
-          "description": "Scottish football has been talked down over the years but things are very much looking up both domestically and on the international scene with Champions League representation and Nations League success.",
-          "link": "https://www.scotsman.com/sport/football/international/scottish-football-on-the-rise-10-reasons-to-talk-up-our-game-after-scotlands-nations-league-success-3860403",
-          "publishedOn": "2022-09-28T18:30:00.000Z",
-          "wordCount": 4402,
-          "title": "Scottish football on the rise: 10 reasons to talk up our game after Scotland's Nations League success",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjg0M2U4YjQ2LTYwNWQtNGFhYS04ZWUzLWU4ZDc2YjlmMTI5NDpiNDhmZTgzNS1mNWY2LTRiN2ItYjMwOC1jZTAwOTIyNWM5MDk=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3860403",
-          "author": "Andrew Smith",
-          "description": "Scottish football has been talked down over the years but things are very much looking up both domestically and on the international scene with Champions League representation and Nations League success.",
-          "link": "https://www.scotsman.com/sport/football/international/scottish-football-is-on-the-rise-10-reasons-to-talk-up-our-game-after-scotlands-nations-league-success-3860403",
-          "publishedOn": "2022-09-28T18:30:00.000Z",
-          "wordCount": 4408,
-          "title": "Scottish football is on the rise: 10 reasons to talk up our game after Scotland's Nations League success",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjg0M2U4YjQ2LTYwNWQtNGFhYS04ZWUzLWU4ZDc2YjlmMTI5NDpjN2NlOWRmMS0yZDQxLTQwZTgtYWU3My1lMWQxZjNkNTkyY2U=.jpg?width=1200&enable=upscale"
         }
       ]
     },
@@ -312,6 +302,26 @@
       "feedUrl": "http://armchaircelts.co.uk/wprss",
       "siteUrl": "http://armchaircelts.co.uk/feed/wprss/",
       "articles": [
+        {
+          "id": "https://thecelticstar.com/celtic-on-this-day-3rd-october-david-potters-celtic-diary/",
+          "author": null,
+          "description": "Month 3, Day 3 of Celtic Historian David Potter’s new diary on The Celtic Star which will run throughout the new season and will highlight key Celtic-related events relevant to each day, today covering 3 October…SATURDAY 3 OCTOBER 1925Paddy Connolly is injured, so a half-fit Patsy Gallacher is brought into the right wing position for Read More",
+          "link": "https://thecelticstar.com/celtic-on-this-day-3rd-october-david-potters-celtic-diary/",
+          "publishedOn": "2022-10-03T06:00:00.000Z",
+          "wordCount": 1560,
+          "title": "Celtic On This Day – 3rd October – David Potter’s Celtic Diary",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/celtic-v-ac-milan-uefa-champions-league-2-1024x656.jpg"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/birthday-bhoy-abada-aims-for-21st-celebration-in-leipzig/",
+          "author": null,
+          "description": "LIEL ABADA is hoping for a belated birthday celebration against RB Leipzig in the Champions League group encounter in Germany on Wednesday. The Israel international winger turns 21 today and will hope to mark the special occasion by getting on target against the Bundesliga outfit in midweek. The 5ft 6in raider has collected six strikes already [...]",
+          "link": "https://www.celticquicknews.co.uk/birthday-bhoy-abada-aims-for-21st-celebration-in-leipzig/",
+          "publishedOn": "2022-10-03T05:50:19.000Z",
+          "wordCount": 2619,
+          "title": "BIRTHDAY BHOY ABADA AIMS FOR 21st CELEBRATION IN LEIPZIG",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/09/LIEL-ABADA-THREE-FTRD.png"
+        },
         {
           "id": "https://thecelticstar.com/hightlights-and-talking-points-from-celtics-sky-sports-cup-win-over-partick-thistle/",
           "author": null,
@@ -1921,76 +1931,6 @@
           "wordCount": 2000,
           "title": "Doncaster Has Called The Ibrox Board Liars. Now He Must Take The Fight To Them.",
           "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2020/03/2012-10-11T092551Z_1_MT1ACI10073635_RTRMADP_3_CONFERENCE-LEADERS.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/news/former-celtic-prospect-named-on-impressive-next-gen-list-amongst-epl-talents/",
-          "author": null,
-          "description": "Former Celtic academy prospect Ben Doak has been named amongst some of the best up-and-coming youngsters at each English Premier League club. The 16-year-old made waves at Parkhead after his rapid rise through the Lennoxtown academy system, where he showed great promise from a young age. Doak even went on to make his early first-team ...\nThe post Former Celtic academy prospect named on impressive Next Gen talents list appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/former-celtic-prospect-named-on-impressive-next-gen-list-amongst-epl-talents/",
-          "publishedOn": "2022-09-28T18:20:00.000Z",
-          "wordCount": 2377,
-          "title": "Former Celtic academy prospect named on impressive Next Gen talents list",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/05/GettyImages-1344094103-scaled.jpg"
-        },
-        {
-          "id": "https://celtsarehere.com/the-day-the-journey-began-lisbon-lions/",
-          "author": null,
-          "description": "Every great story has a beginning and today marks 56 years since Celtic’s Lisbon adventure began. Having never competed in the European Cup, Celtic hosted Swiss champions FC Zurich at Celtic Park in the first round of the competition. The team which Jock Stein selected for the match was: Simpson, Gemmell, O’Neill, Murdoch, McNeill, Clark, […]\nSource",
-          "link": "https://celtsarehere.com/the-day-the-journey-began-lisbon-lions/",
-          "publishedOn": "2022-09-28T18:17:00.000Z",
-          "wordCount": 13406,
-          "title": "The Day The Journey Began; Lisbon Lions",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.67hailhail.com/news/celtic-star-helps-nation-secure-european-championship-qualification/",
-          "author": null,
-          "description": "Celtic winger Liel Abada helped Israel under-21s reach the 2023 European Championship finals taking place in Georgia/Romania next summer. The 20-year-old has had a blistering 12 months since making the move to Glasgow as one of Ange Postecoglou’s first key pieces of transfer business. Abada enjoyed a brilliant 2021/22 campaign, providing 26 goal contributions across ...\nThe post Celtic star headed for international tournament after helping nation secure Euros place appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/celtic-star-helps-nation-secure-european-championship-qualification/",
-          "publishedOn": "2022-09-28T17:40:00.000Z",
-          "wordCount": 2129,
-          "title": "Celtic star headed for international tournament after helping nation secure Euros place",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/09/GettyImages-1420489584-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/news/referee-set-for-first-celtic-fixture-of-the-season-in-motherwell-clash/",
-          "author": null,
-          "description": "John Beaton has been appointed as the referee for this weekend’s clash between Celtic and Motherwell at Parkhead. As both sides prepare to return to domestic action following the international break, the SFA have confirmed who will be the man in the middle this weekend. The 40-year-old will be joined by assistant referees Dougie Potter ...\nThe post Referee set for first Celtic fixture of the season in Motherwell clash appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/referee-set-for-first-celtic-fixture-of-the-season-in-motherwell-clash/",
-          "publishedOn": "2022-09-28T17:10:00.000Z",
-          "wordCount": 1919,
-          "title": "Referee set for first Celtic fixture of the season in Motherwell clash",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2019/09/GettyImages-1146385675.jpg"
-        },
-        {
-          "id": "https://celtsarehere.com/hes-a-legend-ange-pays-homage-to-celtic-hero/",
-          "author": null,
-          "description": "ANGE POSTECOGLOU has claimed that Tom Rogic is a Celtic legend, and has tipped him to make an impact at the World Cup. The gifted midfielder shocked Celtic fans when he announced he’d leave the club in the summer, after having a terrific season. He disappeared for a few months, going off the radar and […]\nSource",
-          "link": "https://celtsarehere.com/hes-a-legend-ange-pays-homage-to-celtic-hero/",
-          "publishedOn": "2022-09-28T16:59:32.000Z",
-          "wordCount": 13626,
-          "title": "‘He’s a legend’ – Ange Pays Homage to Celtic Hero",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thecelticstar.com/i-got-quite-emotional-jota-on-his-champions-league-debut/",
-          "author": null,
-          "description": "Jota’s interview in the new edition of The Celtic View, highlights the importance of Celtic being in the Champions League with regard to attracting top players like Jota to the club. Had Celtic not had automatic qualification into the Group stages this season then that would have given the Portuguese winger much more to consider Read More",
-          "link": "https://thecelticstar.com/i-got-quite-emotional-jota-on-his-champions-league-debut/",
-          "publishedOn": "2022-09-28T16:35:48.000Z",
-          "wordCount": 1379,
-          "title": "“I got quite emotional,” Jota on his Champions League debut",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/imago1014447630h-1024x683.jpg"
-        },
-        {
-          "id": "https://celtsarehere.com/yeah-thats-fair-anges-brilliant-response-to-celtic-job-question/",
-          "author": null,
-          "description": "WHEN ANGE POSTECOGLOU was appointed at Celtic, he had established himself in his home country and made a name for himself in Japan, but he hadn’t concurred Europe. The manager had a lot to prove, but it’s what he had spent his coaching career working towards. Celtic are one of the biggest clubs in world […]\nSource",
-          "link": "https://celtsarehere.com/yeah-thats-fair-anges-brilliant-response-to-celtic-job-question/",
-          "publishedOn": "2022-09-28T16:34:56.000Z",
-          "wordCount": 13600,
-          "title": "“Yeah, That’s Fair” Ange’s Brilliant Response to Celtic Job Question",
-          "imageUrl": null
         }
       ]
     },
@@ -2098,6 +2038,16 @@
           "wordCount": 3423,
           "title": "Liel Abada explains Celtic tribute to teen after tragic death with reminder in dressing room - Glasgow Live",
           "imageUrl": "https://i2-prod.glasgowlive.co.uk/incoming/article25158656.ece/ALTERNATES/s1200/0_Celtic-FC-v-Rangers-FC-Cinch-Scottish-Premiership.jpg"
+        },
+        {
+          "id": "CAIiEHrQYnRJm64S8dghGll9ZmAqGQgEKhAIACoHCAowrueiCTDmn7gCMOjNtwU",
+          "author": null,
+          "description": "Neil Lennon slaughters Cypriot refs again as former Celtic boss insists officials are driving him 'crazy'  Daily Record",
+          "link": "https://www.dailyrecord.co.uk/sport/football/football-news/neil-lennon-slaughters-cypriot-refs-28135064",
+          "publishedOn": "2022-10-02T12:54:39.000Z",
+          "wordCount": 3332,
+          "title": "Neil Lennon slaughters Cypriot refs again as former Celtic boss insists officials are driving him 'crazy' - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28135126.ece/ALTERNATES/s1200/0_JS277726989.jpg"
         },
         {
           "id": "CAIiEAE8lOEwJ5p2wumuUVDekWoqGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY",
@@ -2638,43 +2588,13 @@
           "wordCount": 2382,
           "title": "Celtic ready to offer new contract to in-form winger - The Celtic Bhoys",
           "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F630630800.jpeg"
-        },
-        {
-          "id": "CAIiEJUZeJNl-OmAPDW5hMahi6EqGQgEKhAIACoHCAowr5GNCzDFxJ4DMLbFpgY",
-          "author": null,
-          "description": "Former Celtic prospect named on impressive Next Gen list amongst EPL talents  67 Hail Hail - Celtic FC News",
-          "link": "https://www.67hailhail.com/news/former-celtic-prospect-named-on-impressive-next-gen-list-amongst-epl-talents/",
-          "publishedOn": "2022-09-28T18:20:00.000Z",
-          "wordCount": 2398,
-          "title": "Former Celtic prospect named on impressive Next Gen list amongst EPL talents - 67 Hail Hail - Celtic FC News",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/05/GettyImages-1344094103-scaled.jpg"
-        },
-        {
-          "id": "CBMiQGh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS90aGUtZGF5LXRoZS1qb3VybmV5LWJlZ2FuLWxpc2Jvbi1saW9ucy_SAQA",
-          "author": null,
-          "description": "The Day The Journey Began; Lisbon Lions  CeltsAreHere",
-          "link": "https://celtsarehere.com/the-day-the-journey-began-lisbon-lions/",
-          "publishedOn": "2022-09-28T18:17:00.000Z",
-          "wordCount": 13418,
-          "title": "The Day The Journey Began; Lisbon Lions - CeltsAreHere",
-          "imageUrl": null
-        },
-        {
-          "id": "CBMiRmh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9oZXMtYS1sZWdlbmQtYW5nZS1wYXlzLWhvbWFnZS10by1jZWx0aWMtaGVyby_SAUpodHRwczovL2NlbHRzYXJlaGVyZS5jb20vaGVzLWEtbGVnZW5kLWFuZ2UtcGF5cy1ob21hZ2UtdG8tY2VsdGljLWhlcm8vYW1wLw",
-          "author": null,
-          "description": "‘He’s a legend’ – Ange Pays Homage to Celtic Hero  CeltsAreHere",
-          "link": "https://celtsarehere.com/hes-a-legend-ange-pays-homage-to-celtic-hero/",
-          "publishedOn": "2022-09-28T16:59:32.000Z",
-          "wordCount": 13636,
-          "title": "‘He’s a legend’ – Ange Pays Homage to Celtic Hero - CeltsAreHere",
-          "imageUrl": null
         }
       ]
     },
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
       "articles": [
         {
           "id": "b36e77b20e52477f3bfe97ae1dcb6563",
@@ -3105,16 +3025,6 @@
           "wordCount": 8592,
           "title": "Celtic star Matt O'Riley watched by Premier League club in Denmark under-21 appearance",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15946335/?type=og-image"
-        },
-        {
-          "id": "b23989513ccbc2d40759cee448a7697d",
-          "author": null,
-          "description": "The Australian knew after a specific match that he was going to try and sign his fellow countryman.",
-          "link": "https://www.glasgowtimes.co.uk/sport/22818108.ange-postecoglou-reveals-one-particular-game-sealed-celtics-aaron-mooy-transfer/?ref=rss",
-          "publishedOn": "2022-09-28T16:23:07.000Z",
-          "wordCount": 8083,
-          "title": "Ange Postecoglou reveals why one particular game sealed Celtic's Aaron Mooy transfer",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15945121/?type=og-image"
         }
       ]
     }
