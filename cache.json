@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com//sport/football/celtic",
       "articles": [
         {
+          "id": "3865626",
+          "author": "Graham Falk",
+          "description": "The Sky Sports Scottish Women’s League Cup continued at the weekend – and saw the top four all reach the quarter finals.",
+          "link": "https://www.scotsman.com/sport/football/rangers/rangers-celtic-and-glasgow-city-win-in-sky-sports-league-cup-as-hibs-put-eight-past-accies-3865626",
+          "publishedOn": "2022-10-03T15:00:47.000Z",
+          "wordCount": 2507,
+          "title": "Rangers, Celtic and Glasgow City win in Sky Sports League Cup as Hibs put EIGHT past Accies",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmE1ZWRhYzM1LTgyNmEtNGZiNy1iYjY3LTA4NDgzMWZmYTMyNzplY2NjY2JlOS1lNmIxLTRmYWMtYTY1ZS1hNzcwYjUzY2Y0OWQ=.jpg?width=1200&enable=upscale"
+        },
+        {
           "id": "3865286",
           "author": "Mark Atkinson",
           "description": "Liverpool manager Jurgen Klopp has hailed Rangers and Celtic and believes the quality of Scottish football has improved markedly.",
@@ -302,6 +312,86 @@
       "feedUrl": "http://armchaircelts.co.uk/wprss",
       "siteUrl": "http://armchaircelts.co.uk/feed/wprss/",
       "articles": [
+        {
+          "id": "https://celtsarehere.com/celtics-tynecastle-allocation/",
+          "author": null,
+          "description": "Celtic’s away allocation for the visit to Tynecastle had been revealed.  The Hoops are to receive a total of 1,264 tickets for the match with away fans being located in the Roseburn end of the ground [@CelticFCTickets].  Celtic fans were only able to attend one game in Gorgie last season due to no away support […]\nSource",
+          "link": "https://celtsarehere.com/celtics-tynecastle-allocation/",
+          "publishedOn": "2022-10-03T15:00:00.000Z",
+          "wordCount": 13451,
+          "title": "Celtic’s Tynecastle Allocation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thecelticstar.com/celtic-behind-the-scenes-cheryl-summers-academy-analyst/",
+          "author": null,
+          "description": "A new series on The Celtic Star where we take a look at different club employees and in particular the role that they play in making Celtic a successful football club. Last week at his media conference Ange Postecoglou told The Celtic Star that he’s put up on a weekly basis as a spokesman for Read More",
+          "link": "https://thecelticstar.com/celtic-behind-the-scenes-cheryl-summers-academy-analyst/",
+          "publishedOn": "2022-10-03T14:51:10.000Z",
+          "wordCount": 1649,
+          "title": "Celtic, Behind The Scenes – Cheryl Summers, Academy Analyst",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/10/FX9lY83XwAAtCO0-1024x576.jpeg"
+        },
+        {
+          "id": "https://thecelticstar.com/a-glance-at-rb-leipzig-as-german-clubs-topsy-turvy-form-takes-another-twist/",
+          "author": null,
+          "description": "Celtic travel to Germany to face RB Leipzig in match day three of the UEFA Champions League. The fixture presents a match up that is hard to predict.Celtic were flying when they last played in Europe, but they haven’t been as impressive in their subsequent two domestic fixtures and are unlikely to have the services Read More",
+          "link": "https://thecelticstar.com/a-glance-at-rb-leipzig-as-german-clubs-topsy-turvy-form-takes-another-twist/",
+          "publishedOn": "2022-10-03T14:09:00.000Z",
+          "wordCount": 1459,
+          "title": "A Glance At RB Leipzig As German Club’s Topsy Turvy Form Takes Another Twist",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/10/rb-leipzig-v-vfl-bochum-1848-bundesliga-1024x683.jpeg"
+        },
+        {
+          "id": "https://thecelticstar.com/sandmans-view-on-kyogo-nicking-one-off-matt-oriley-and-his-unique-angle-reaction/",
+          "author": null,
+          "description": "Nice to see the return of Celtic TV’s Unique Angle today, it’s been a while. The editing team, after watching that game at the weekend must have been as bemused as the rest of us, that Celtic only managed to score three goals in the game, one of which they didn’t even have to include Read More",
+          "link": "https://thecelticstar.com/sandmans-view-on-kyogo-nicking-one-off-matt-oriley-and-his-unique-angle-reaction/",
+          "publishedOn": "2022-10-03T14:01:04.000Z",
+          "wordCount": 1385,
+          "title": "Sandman’s view on Kyogo nicking one off Matt O’Riley and his Unique Angle reaction",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/10/imago1015382841h-1024x683.jpg"
+        },
+        {
+          "id": "https://thecelticstar.com/video-unique-angle-celtic-2-1-motherwell/",
+          "author": null,
+          "description": "Celtic TV have now uploaded their unique angle footage of the weekend’s 2-1 victory over Motherwell. These clips are always hotly anticipated as fans get the chance to see the action from a pitch side view.It’s great to get a feel for the pace that the play was unfolding at, and hear the roar of Read More",
+          "link": "https://thecelticstar.com/video-unique-angle-celtic-2-1-motherwell/",
+          "publishedOn": "2022-10-03T13:45:09.000Z",
+          "wordCount": 1090,
+          "title": "Video: Unique Angle, Celtic 2-1 Motherwell",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/10/imago1015313111h-1024x683.jpg"
+        },
+        {
+          "id": "https://celtsarehere.com/scottish-football-announcement-imminent/",
+          "author": null,
+          "description": "Scottish Referee Podcast ‘Get Involved Referee’ has dropped a massive exclusive claiming VAR in Scottish football is about to be introduced ahead of schedule. We know the league has been testing VAR during selected games this season and have everything in place to begin to use the technology. The initial plan was to introduce VAR […]\nSource",
+          "link": "https://celtsarehere.com/scottish-football-announcement-imminent/",
+          "publishedOn": "2022-10-03T13:28:12.000Z",
+          "wordCount": 13441,
+          "title": "Scottish Football Announcement ‘Imminent’",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thecelticstar.com/on-this-day-late-mcdonald-strike-seals-win-over-reigning-european-champions/",
+          "author": null,
+          "description": "On This Day in 2007, Carlo Ancelotti brought his AC Milan team to Celtic Park. The previous season, Milan had broken Celtic hearts with a late extra-time winner from Kaka at the San Siro in the Last 16 second leg. Ancelotti’s Milan inevitably went on to win the Champions League in Athens that year by Read More",
+          "link": "https://thecelticstar.com/on-this-day-late-mcdonald-strike-seals-win-over-reigning-european-champions/",
+          "publishedOn": "2022-10-03T13:22:08.000Z",
+          "wordCount": 1314,
+          "title": "On This Day: Late McDonald strike seals win over reigning European Champions",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/celtic-v-ac-milan-uefa-champions-league-2-1024x656.jpg"
+        },
+        {
+          "id": "https://thecelticstar.com/15-years-on-from-a-famous-night-in-paradise/",
+          "author": null,
+          "description": "Few Celtic fans could ever forget the night Celtic toppled European champions AC Milan in dramatic fashion at Paradise. Incredibly, today marks 15 years since that unbelievable night.Celtic Park was an absolute fortress at the time. Only Barcelona had ever won at the stadium in the Champions League group stages. AC Milan would have been Read More",
+          "link": "https://thecelticstar.com/15-years-on-from-a-famous-night-in-paradise/",
+          "publishedOn": "2022-10-03T13:03:48.000Z",
+          "wordCount": 1297,
+          "title": "15 Years On From A Famous Night In Paradise",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/celtic-v-ac-milan-uefa-champions-league-5-1024x731.jpg"
+        },
         {
           "id": "https://thecelticblog.com/2022/10/articles-and-features/celtic-would-probably-win-a-callum-mcgregor-appeal-we-shouldnt-make-one-though/",
           "author": null,
@@ -2060,6 +2150,26 @@
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
         {
+          "id": "CAIiEHDyAHkHwlNe4xczoQ-xSv8qGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY",
+          "author": null,
+          "description": "Celtic, Behind The Scenes – Cheryl Summers, Academy Analyst  The Celtic Star",
+          "link": "https://thecelticstar.com/celtic-behind-the-scenes-cheryl-summers-academy-analyst/",
+          "publishedOn": "2022-10-03T14:51:10.000Z",
+          "wordCount": 1649,
+          "title": "Celtic, Behind The Scenes – Cheryl Summers, Academy Analyst - The Celtic Star",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/10/FX9lY83XwAAtCO0-1024x576.jpeg"
+        },
+        {
+          "id": "CAIiEOxhUjKcPkhRdyRUoVREjXIqGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY",
+          "author": null,
+          "description": "15 Years On From A Famous Night In Paradise  The Celtic Star",
+          "link": "https://thecelticstar.com/15-years-on-from-a-famous-night-in-paradise/",
+          "publishedOn": "2022-10-03T13:03:48.000Z",
+          "wordCount": 1297,
+          "title": "15 Years On From A Famous Night In Paradise - The Celtic Star",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/celtic-v-ac-milan-uefa-champions-league-5-1024x731.jpg"
+        },
+        {
           "id": "CAIiEE34mkDaqNpIGrGygqm1pVgqGQgEKhAIACoHCAowrueiCTDmn7gCMOjNtwU",
           "author": null,
           "description": "Bojan Miovski tells Celtic and Rangers strikers he'll finish Premiership scorer  Daily Record",
@@ -2088,6 +2198,16 @@
           "wordCount": 2463,
           "title": "Ange Postecoglou reacts to claims Newcastle United are interested in signing Celtic star - HITC - Football, Gaming, Movies, TV, Music",
           "imageUrl": "https://www.hitc.com/static/uploads/2022/07/GettyImages-1368279382-scaled.jpg"
+        },
+        {
+          "id": "CAIiEH4TzpFzoDDeSIduhILaIG8qGQgEKhAIACoHCAowrueiCTDmn7gCMIfHtwU",
+          "author": null,
+          "description": "Can Rangers keep Liverpool at bay and will Celtic make their Champions League mark in Leipzig? Monday Jury  Daily Record",
+          "link": "https://www.dailyrecord.co.uk/sport/football/football-news/can-rangers-keep-liverpool-bay-28137037",
+          "publishedOn": "2022-10-03T05:00:00.000Z",
+          "wordCount": 3689,
+          "title": "Can Rangers keep Liverpool at bay and will Celtic make their Champions League mark in Leipzig? Monday Jury - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28129734.ece/ALTERNATES/s1200/0_Heart-of-Midlothian-v-Rangers-FC-Cinch-Scottish-Premiership.jpg"
         },
         {
           "id": "CAIiEAw7Mb_QbGQkTAUbKqYBxwEqGQgEKhAIACoHCAowrueiCTDmn7gCMIfHtwU",
@@ -2138,6 +2258,16 @@
           "wordCount": 4366,
           "title": "Murder probe launched after man shot dead at Celtic FC social club in west Belfast - LBC",
           "imageUrl": "https://images.lbc.co.uk/images/331161?width=1200&crop=16_9&signature=ol06TRystYz24Lt2hXtydAkQpP0="
+        },
+        {
+          "id": "CAIiEM55xMvVYO4buw52gluWOVAqGQgEKhAIACoHCAow4KKJCzCv9JoDMICkoAY",
+          "author": null,
+          "description": "Celtic: Another Premier League club want Ange Postecoglou  The Celtic Bhoys",
+          "link": "https://thecelticbhoys.com/2022/10/02/celtic-premier-league-ange-postecoglou/",
+          "publishedOn": "2022-10-02T18:47:01.000Z",
+          "wordCount": 2301,
+          "title": "Celtic: Another Premier League club want Ange Postecoglou - The Celtic Bhoys",
+          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1242056310.jpeg"
         },
         {
           "id": "CAIiELrhwMTwHWX87YXyD4_Jo2AqGQgEKhAIACoHCAow_-CqCzD868IDMPLfoQc",
