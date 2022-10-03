@@ -6,6 +6,26 @@
       "siteUrl": "https://www.scotsman.com//sport/football/celtic",
       "articles": [
         {
+          "id": "3865922",
+          "author": "Angus Wright",
+          "description": "Scotland defender Jen Beattie admits the pain of missing the last major tournament is as important as her memories of France 2019 as she looks to get her country to another World Cup.",
+          "link": "https://www.scotsman.com/sport/football/international/for-that-to-happen-is-just-unheard-of-the-parc-des-princes-feat-that-lives-long-in-mind-of-scotlands-jen-beattie-3865922",
+          "publishedOn": "2022-10-03T17:17:14.000Z",
+          "wordCount": 2562,
+          "title": "'For that to happen is just unheard of': The Parc des Princes feat that lives long in mind of Scotland's Jen Beattie",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjRhOTdlOTliLWU5OTQtNGFmYS1iMzQyLWZjZWMwNWMwN2U3NzowYzYwYTU2NC1hOTdhLTQ5ZWUtYmIxMy02ZDk5MGY2M2NmZmY=.jpg?width=1200&enable=upscale"
+        },
+        {
+          "id": "3865742",
+          "author": "Alan Pattullo",
+          "description": "Liverpool manager Jurgen Klopp has hailed Scotland as a “cool place to scout again” on the eve of the club’s first-ever competitive clash with Rangers.",
+          "link": "https://www.scotsman.com/sport/football/liverpool-discuss-ex-celtic-starlet-ben-doak-and-former-aberdeen-starlet-calvin-ramsay-cool-place-to-scout-again-3865742",
+          "publishedOn": "2022-10-03T15:43:12.000Z",
+          "wordCount": 2267,
+          "title": "Liverpool discuss ex-Celtic starlet Ben Doak and former Aberdeen starlet Calvin Ramsay - 'cool place to scout again'",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjRjNDY4NTFjLTMxOTctNDQ1NC1iYWZhLTg0M2U1OTM2ZGU5MToyN2RkYzYwYy1lZGNiLTQxYjctOWI1Yi0xNDZjM2I2YjM0YTU=.jpg?width=1200&enable=upscale"
+        },
+        {
           "id": "3865626",
           "author": "Graham Falk",
           "description": "The Sky Sports Scottish Women’s League Cup continued at the weekend – and saw the top four all reach the quarter finals.",
@@ -312,6 +332,116 @@
       "feedUrl": "http://armchaircelts.co.uk/wprss",
       "siteUrl": "http://armchaircelts.co.uk/feed/wprss/",
       "articles": [
+        {
+          "id": "https://thecelticblog.com/2022/10/articles-and-features/the-daily-records-attack-on-hart-was-shameful-and-celtic-should-be-raging/",
+          "author": null,
+          "description": "This morning, I’m sure we were all pretty pissed off to wake up to headlines about how Joe Hart was a cheat. From the usual suspects at The Record. “Joe Hart accused of ‘feigning’ Celtic injury as keeper sparks heated chat with John Beaton” screams their headline. And who exactly was making this accusation? Nobody […]",
+          "link": "https://thecelticblog.com/2022/10/articles-and-features/the-daily-records-attack-on-hart-was-shameful-and-celtic-should-be-raging/",
+          "publishedOn": "2022-10-03T18:26:45.000Z",
+          "wordCount": 1787,
+          "title": "The Daily Record’s Attack On Hart Was Shameful And Celtic Should Be Raging.",
+          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2022/02/2022-02-20T170028Z_1480601538_UP1EI2K1B8QAY_RTRMADP_3_SOCCER-SCOTLAND-CEL-DUD-REPORT-1.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/news/reo-hatate-apologises-to-celtic-teammate/",
+          "author": null,
+          "description": "Reo Hatate fronted up to his error that resulted in a sending-off for Callum McGregor on Saturday, apologising to the Celtic captain after the game. The Japanese midfielder delighted the home support with a superb long-range strike to secure the points in a 2-1 win. However, late on he misplaced a pass that required McGregor ...\nThe post Celtic star owns up to error appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/reo-hatate-apologises-to-celtic-teammate/",
+          "publishedOn": "2022-10-03T18:13:54.000Z",
+          "wordCount": 1769,
+          "title": "Celtic star owns up to error",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/10/GettyImages-1243228880-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/news/liverpool-boss-jurgen-klopp-praises-celtic-as-he-references-big-talent-ben-doak/",
+          "author": null,
+          "description": "Liverpool boss Jurgen Klopp reckons things are looking up for Scottish football, declaring it a ‘cool’ place to scout for players again. The Reds already have Scotland captain Andy Robertson as a valued member of their first-team squad, with another couple of Scots joining their ranks this year – former Aberdeen prospect Calvin Ramsey and ...\nThe post EPL boss praises Celtic as he references &#039;big talent&#039; transfer steal from Bhoys appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/liverpool-boss-jurgen-klopp-praises-celtic-as-he-references-big-talent-ben-doak/",
+          "publishedOn": "2022-10-03T17:42:32.000Z",
+          "wordCount": 1880,
+          "title": "EPL boss praises Celtic as he references &#039;big talent&#039; transfer steal from Bhoys",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/10/GettyImages-1430001350-scaled.jpg"
+        },
+        {
+          "id": "https://thecelticblog.com/2022/10/articles-and-features/vars-early-introduction-will-not-solve-celtics-thorniest-issue-with-refs/",
+          "author": null,
+          "description": "There was a little piece of breaking news today which, under normal circumstances, would cheer up the fans of this club. It was that VAR might be on the brink of being introduced, much faster than some people initially thought. That would be good. Sort of anyway. But at the weekend we saw why it […]",
+          "link": "https://thecelticblog.com/2022/10/articles-and-features/vars-early-introduction-will-not-solve-celtics-thorniest-issue-with-refs/",
+          "publishedOn": "2022-10-03T17:22:24.000Z",
+          "wordCount": 1791,
+          "title": "VAR’s Early Introduction Will Not Solve Celtic’s Thorniest Issue With Refs.",
+          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2021/10/2018-12-29T124931Z_2012455685_RC1643F06E10_RTRMADP_3_SOCCER-SCOTLAND-RFC-CEL.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/news/reports-celtics-champions-league-opponents-facing-indefinite-absence-of-key-man/",
+          "author": null,
+          "description": "Real Madrid are facing the possibility of an extended period without superstar goalkeeper Thibaut Courtois after reports of an ‘indefinite’ absence due to sciatica pain in his back. Courtois missed out on Real’s 1-1 draw against Osasuna this weekend, and journalist Sergio Valentin has now reported he will also miss Wednesday night’s fixture against Shakhtar ...\nThe post Reports: Celtic&#039;s Champions League opponents rocked by &#039;indefinite&#039; absence of £35m superstar appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/reports-celtics-champions-league-opponents-facing-indefinite-absence-of-key-man/",
+          "publishedOn": "2022-10-03T17:16:08.000Z",
+          "wordCount": 1786,
+          "title": "Reports: Celtic&#039;s Champions League opponents rocked by &#039;indefinite&#039; absence of £35m superstar",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/10/GettyImages-1421882474-scaled.jpg"
+        },
+        {
+          "id": "https://www.sportsmole.co.uk/football/liverpool/news/wolves-identify-ange-postecoglou-as-bruno-lage-replacement_496046.html",
+          "author": null,
+          "description": "Wolverhampton Wanderers reportedly identify Celtic manager Ange Postecoglou as a potential candidate to replace Bruno Lage, who was sacked by the club on Sunday.",
+          "link": "https://www.sportsmole.co.uk/football/liverpool/news/wolves-identify-ange-postecoglou-as-bruno-lage-replacement_496046.html",
+          "publishedOn": "2022-10-03T16:40:42.000Z",
+          "wordCount": 4386,
+          "title": "Wolverhampton Wanderers identify Celtic&#039;s Ange Postecoglou as Bruno Lage replacement?",
+          "imageUrl": "//b.smimg.net/22/37/ange-postecoglu.jpeg"
+        },
+        {
+          "id": "https://www.67hailhail.com/news/ange-postecoglou-still-waiting-on-defenders-fitness-as-he-provides-monday-celtic-squad-update/",
+          "author": null,
+          "description": "Ange Postecoglou is ‘still waiting’ to see if Cameron Carter-Vickers will be available for the Celtic trip to face RB Leipzig on Wednesday night, while giving the rest of his squad a clean bill of health today. Postecoglou has given an exclusive interview to club channel Celtic TV and, at the moment, cannot rule the ...\nThe post Ange Postecoglou \"still waiting\" on fitness of key man as he delivers Monday Celtic squad update appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/ange-postecoglou-still-waiting-on-defenders-fitness-as-he-provides-monday-celtic-squad-update/",
+          "publishedOn": "2022-10-03T16:40:13.000Z",
+          "wordCount": 1861,
+          "title": "Ange Postecoglou \"still waiting\" on fitness of key man as he delivers Monday Celtic squad update",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/10/GettyImages-1243390063-scaled.jpg"
+        },
+        {
+          "id": "https://www.sportsmole.co.uk/football/rb-leipzig/champions-league/preview/preview-rb-leipzig-vs-celtic-prediction-team-news-lineups_496045.html",
+          "author": null,
+          "description": "Sports Mole previews Wednesday's Champions League clash between RB Leipzig and Celtic, including predictions, team news and possible lineups.",
+          "link": "https://www.sportsmole.co.uk/football/rb-leipzig/champions-league/preview/preview-rb-leipzig-vs-celtic-prediction-team-news-lineups_496045.html",
+          "publishedOn": "2022-10-03T16:19:52.000Z",
+          "wordCount": 4875,
+          "title": "Preview: RB Leipzig vs. Celtic - prediction, team news, lineups",
+          "imageUrl": "//b.smimg.net/22/36/marco-rose.jpeg"
+        },
+        {
+          "id": "https://www.67hailhail.com/news/96-2m-exit-reports-engulf-rb-leipzig-ahead-of-celtic-trip/",
+          "author": null,
+          "description": "Player transfer exit reports have engulfed RB Leipzig just days before the Celtic trip to Germany, with duo Christopher Nkunku and Josko Gvardiol both heavily linked with a switch to Chelsea. The Telegraph reports that Nkunku has already signed a pre-contract with the Stamford Bridge club and will move to London next summer after Chelsea ...\nThe post £96.2m exit reports engulf RB Leipzig ahead of Celtic trip appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/96-2m-exit-reports-engulf-rb-leipzig-ahead-of-celtic-trip/",
+          "publishedOn": "2022-10-03T16:10:24.000Z",
+          "wordCount": 1799,
+          "title": "£96.2m exit reports engulf RB Leipzig ahead of Celtic trip",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/10/GettyImages-1429593145-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/news/tough-times-continue-for-celtic-away-support/",
+          "author": null,
+          "description": "Celtic supporters have been given just 1,264 tickets for the upcoming match away to Hearts at Tynecastle, meaning the criteria to get a brief is almost higher than ever. Since the return to football from the height of the Covid-19 pandemic, supporters have found away allocations across the country getting smaller and smaller. The upcoming ...\nThe post Tough times continue for Celtic away support appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/tough-times-continue-for-celtic-away-support/",
+          "publishedOn": "2022-10-03T15:42:01.000Z",
+          "wordCount": 1729,
+          "title": "Tough times continue for Celtic away support",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/09/GettyImages-1242237748-scaled.jpg"
+        },
+        {
+          "id": "https://thecelticblog.com/2022/10/articles-and-features/those-who-think-celtic-scraped-a-win-on-saturday-were-watching-a-different-game/",
+          "author": null,
+          "description": "After I posted my first article today, I thought that it was time I tackled some of the media’s ridiculous narrative in the aftermath of the game at the weekend. There are a number of aspects to their coverage which simply don’t stand up to scrutiny. First is the idea that Motherwell were unlucky. Second […]",
+          "link": "https://thecelticblog.com/2022/10/articles-and-features/those-who-think-celtic-scraped-a-win-on-saturday-were-watching-a-different-game/",
+          "publishedOn": "2022-10-03T15:05:47.000Z",
+          "wordCount": 2089,
+          "title": "Those Who Think Celtic “Scraped A Win” On Saturday Were Watching A Different Game.",
+          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2022/01/2022-01-26T201827Z_156398442_UP1EI1Q1KEP27_RTRMADP_3_SOCCER-SCOTLAND-HOM-CEL-REPORT.jpg"
+        },
         {
           "id": "https://celtsarehere.com/celtics-tynecastle-allocation/",
           "author": null,
@@ -2101,46 +2231,6 @@
           "wordCount": 1365,
           "title": "“It’s quite unique and it brings a sense of togetherness,” Matt O’Riley",
           "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/celtic-fc-v-real-madrid-group-f-uefa-champions-league-26-1024x686.jpeg"
-        },
-        {
-          "id": "https://thecelticstar.com/celtic-on-this-day-29th-september-david-potters-celtic-diary/",
-          "author": null,
-          "description": "Month 2, Day 29 of Celtic Historian David Potter’s new diary on The Celtic Star which will run throughout the new season and will highlight key Celtic-related events relevant to each day, today covering 29 September…MONDAY 29 SEPTEMBER 1913Celtic beat Clyde 2-0 at Parkhead this Holiday Monday. It is a solid performance with Charlie Shaw, Read More",
-          "link": "https://thecelticstar.com/celtic-on-this-day-29th-september-david-potters-celtic-diary/",
-          "publishedOn": "2022-09-29T06:00:00.000Z",
-          "wordCount": 1540,
-          "title": "Celtic On This Day – 29th September – David Potter’s Celtic Diary",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/image-189.jpeg"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/end-of-an-era-the-day-big-yogi-left-celtic/",
-          "author": null,
-          "description": "EXACTLY 51 years ago today, Celtic legend John ‘Yogi’ Hughes played his final game for the team. The club’s eighth-highest goalscorer with 189 strikes had his last hurrah at Parkhead when he played in the 3-0 European Cup victory over BK 1903 Copenhagen to help the team through to the next round on a 4-2 aggregate [...]",
-          "link": "https://www.celticquicknews.co.uk/end-of-an-era-the-day-big-yogi-left-celtic/",
-          "publishedOn": "2022-09-29T05:30:35.000Z",
-          "wordCount": 4358,
-          "title": "END OF AN ERA: THE DAY BIG YOGI LEFT CELTIC",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2021/09/JOHN-HUGHES-SEPCIAL-FEATURED.jpg"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/the-dream-that-died-chic-charnley-tells-all-part-four/",
-          "author": null,
-          "description": "CHIC CHARNLEY was one of football’s most charismatic and colourful characters. The gifted midfielder was also a massive Celtic fan and managed to play just ONE game for his favourites. In another CQN EXCLUSIVE, author Alex Gordon, who co-wrote the Partick Thistle legend’s life story, ‘Seeing Red’, published in 2009, looks back at the dream [...]",
-          "link": "https://www.celticquicknews.co.uk/the-dream-that-died-chic-charnley-tells-all-part-four/",
-          "publishedOn": "2022-09-29T05:00:44.000Z",
-          "wordCount": 2987,
-          "title": "THE DREAM THAT DIED: CHIC CHARNLEY TELLS ALL: PART FOUR",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/09/CHIC-CHARNLEY-FTRD-4.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/the-jock-stein-years-part-nineteen-2/",
-          "author": null,
-          "description": "CELTIC legend Jock Stein made an extraordinary immediate impact on the Parkhead club when he returned as manager in March 1965. In another CQN EXCLUSIVE,  Alex Gordon, author of fifteen books on Celtic, has opened his files on the Parkhead great for an absorbing twenty-one part series. Today, in Part Nineteen of our fascinating look back at [...]",
-          "link": "https://www.celticquicknews.co.uk/the-jock-stein-years-part-nineteen-2/",
-          "publishedOn": "2022-09-29T04:30:27.000Z",
-          "wordCount": 3881,
-          "title": "THE JOCK STEIN YEARS: PART NINETEEN",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2021/02/Screenshot-2021-03-05-at-09.42.13.png"
         }
       ]
     },
@@ -2168,6 +2258,16 @@
           "wordCount": 1297,
           "title": "15 Years On From A Famous Night In Paradise - The Celtic Star",
           "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/celtic-v-ac-milan-uefa-champions-league-5-1024x731.jpg"
+        },
+        {
+          "id": "CAIiEFh3kzQUq4KeILEOF4HKzQgqGQgEKhAIACoHCAowrueiCTDmn7gCMIfHtwU",
+          "author": null,
+          "description": "Rangers and Celtic incidents get Ref Watch verdict as Dermot Gallagher tells Craig Gordon he got away with one  Daily Record",
+          "link": "https://www.dailyrecord.co.uk/sport/football/rangers-celtic-incidents-ref-watch-28141220",
+          "publishedOn": "2022-10-03T12:01:20.000Z",
+          "wordCount": 3338,
+          "title": "Rangers and Celtic incidents get Ref Watch verdict as Dermot Gallagher tells Craig Gordon he got away with one - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/sport/football/article27617988.ece/ALTERNATES/s1200/0_JS273421724.jpg"
         },
         {
           "id": "CAIiEE34mkDaqNpIGrGygqm1pVgqGQgEKhAIACoHCAowrueiCTDmn7gCMOjNtwU",
@@ -2848,16 +2948,6 @@
           "wordCount": 13589,
           "title": "Matt O’Riley Scouted by Premier League Club – Report - CeltsAreHere",
           "imageUrl": null
-        },
-        {
-          "id": "CAIiEDb-B9bJb3yoS9_zp23QxxwqGQgEKhAIACoHCAowrueiCTDmn7gCMOjNtwU",
-          "author": null,
-          "description": "Matt O'Riley 'watched' by Newcastle as Celtic star singled out during Denmark scouting bonanza  Daily Record",
-          "link": "https://www.dailyrecord.co.uk/sport/football/football-news/matt-oriley-watched-newcastle-celtic-28109171",
-          "publishedOn": "2022-09-29T05:48:27.000Z",
-          "wordCount": 3110,
-          "title": "Matt O'Riley 'watched' by Newcastle as Celtic star singled out during Denmark scouting bonanza - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28109198.ece/ALTERNATES/s1200/0_JS269001782.jpg"
         }
       ]
     },
@@ -2866,6 +2956,36 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "3c95959a61947b6b888e3d968a8b4549",
+          "author": null,
+          "description": "ANGE POSTECOGLOU has challenged his Celtic players to take the next step and turn plaudits for performances at Champions League level into three points when they take on RB Leipzig on Wednesday night.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23017017.champions-league-experience-can-help-celtic-turn-plaudits-points-says-ange-postecoglou/?ref=rss",
+          "publishedOn": "2022-10-03T17:23:34.000Z",
+          "wordCount": 8334,
+          "title": "Champions League experience can help Celtic turn plaudits into points, says Ange Postecoglou",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15901758/?type=og-image"
+        },
+        {
+          "id": "9323d447a6268f1b82e2e4fabb0ab697",
+          "author": null,
+          "description": "ANGE POSTECOGLOU has revealed Celtic are \"still waiting\" to see how Cameron Carter-Vickers ahead of the match against RB Leipzig.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23016967.ange-postecoglou-provides-celtic-squad-update-cameron-carter-vickers-wait-continues/?ref=rss",
+          "publishedOn": "2022-10-03T17:03:31.000Z",
+          "wordCount": 8542,
+          "title": "Ange Postecoglou provides Celtic squad update as Cameron Carter-Vickers wait continues",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16005430/?type=og-image"
+        },
+        {
+          "id": "a32bb2dcb7e20f134a101f65640c0a48",
+          "author": null,
+          "description": "DERMOT GALLAGHER has backed the decision to send Callum McGregor off against Motherwell.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23016300.callum-mcgregor-celtic-red-card-decision-analysed-ex-premier-league-ref/?ref=rss",
+          "publishedOn": "2022-10-03T14:58:41.000Z",
+          "wordCount": 8140,
+          "title": "Callum McGregor Celtic red card decision analysed by ex-Premier League ref",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16004306/?type=og-image"
+        },
         {
           "id": "10f531162ddee2b0ac2f054ca7279e28",
           "author": null,
