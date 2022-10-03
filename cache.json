@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com//sport/football/celtic",
       "articles": [
         {
+          "id": "3865286",
+          "author": "Mark Atkinson",
+          "description": "Liverpool manager Jurgen Klopp has hailed Rangers and Celtic and believes the quality of Scottish football has improved markedly.",
+          "link": "https://www.scotsman.com/sport/football/rangers/its-a-cool-place-to-scout-jurgen-klopp-lauds-rangers-and-celtic-and-has-say-on-ben-davies-3865286",
+          "publishedOn": "2022-10-03T12:33:24.000Z",
+          "wordCount": 1854,
+          "title": "'It's a cool place to scout': Jurgen Klopp lauds Rangers and Celtic and has say on Ben Davies",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjQwZmQ3YjllLWNmODItNDM5YS04YjEzLTk2ZDUzNWFmMzIyMjo4N2FjNTBiNC1mN2JlLTQ2ZDgtYTBiNC05ZWUyNzhmOGNkZjk=.jpg?width=1200&enable=upscale"
+        },
+        {
           "id": "3864724",
           "author": "Matthew Elder",
           "description": "Christopher Jullien has opened up on his time at Celtic and insisted he learned a lot from Ange Postecoglou despite a 'complicated' relationship with the Australian head coach.",
@@ -293,6 +303,76 @@
       "siteUrl": "http://armchaircelts.co.uk/feed/wprss/",
       "articles": [
         {
+          "id": "https://thecelticblog.com/2022/10/articles-and-features/celtic-would-probably-win-a-callum-mcgregor-appeal-we-shouldnt-make-one-though/",
+          "author": null,
+          "description": "When Callum McGregor was shown the red card at the weekend, I sighed with relief. After the full time whistle, mind you, but for that incident and its consequences. Those consequences aren’t as bad as they might at first appear to be. Callum needs a break. I’m not worried about how he gets it. A […]",
+          "link": "https://thecelticblog.com/2022/10/articles-and-features/celtic-would-probably-win-a-callum-mcgregor-appeal-we-shouldnt-make-one-though/",
+          "publishedOn": "2022-10-03T12:21:59.000Z",
+          "wordCount": 1836,
+          "title": "Celtic Would Probably Win A Callum McGregor Appeal. We Shouldn’t Make One Though.",
+          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2021/07/2019-12-08T000000Z_558263896_RC27RD9BQ4YA_RTRMADP_3_SOCCER-SCOTLAND-CEL-RFC-REPORT.jpg"
+        },
+        {
+          "id": "https://www.footballtransfertavern.com/celtic-news/celtic-spl-ange-postecoglou-wolves-news-updates/",
+          "author": null,
+          "description": "Celtic manager Ange Postecoglou is being eyed up by Wolves as a possible replacement for Bruno Lage, according to a report from The Telegraph‘s John Percy. The Lowdown: Lage sacked by Wolves The 46-year-old was sacked by the Old Gold on Sunday following a 2-0 defeat away to West Ham the previous day which has […]",
+          "link": "https://www.footballtransfertavern.com/celtic-news/celtic-spl-ange-postecoglou-wolves-news-updates/",
+          "publishedOn": "2022-10-03T11:10:10.000Z",
+          "wordCount": 3371,
+          "title": "Wanted man: Premier League club have discussed possible move for key Celtic off-field figure",
+          "imageUrl": "https://cdn.footballtransfertavern.com/wp-content/uploads/2022/09/ange-postecoglou-scottish-premiership-2-scaled.jpg"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/periods-of-poor-passing/",
+          "author": null,
+          "description": "It is a classic fallacy of Scottish football.  No sooner does someone utter that a team’s second 11 could win the league, they are brought down to earth.  Ninth placed Motherwell failed to take anything from Celtic Park on Saturday, but the champions were well below par for the second successive game. If we were [...]",
+          "link": "https://www.celticquicknews.co.uk/periods-of-poor-passing/",
+          "publishedOn": "2022-10-03T11:00:05.000Z",
+          "wordCount": 4247,
+          "title": "Periods of poor passing",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
+        },
+        {
+          "id": "https://thecelticblog.com/2022/10/articles-and-features/where-was-skys-apology-to-viewers-during-the-weekends-sectarian-sing-a-thon/",
+          "author": null,
+          "description": "A couple of weeks ago, Sky Sports turned down the microphones lest a group of people exercising their freedom of speech offend its audience. It was a Celtic game, so forgive me if I assume that a lot of the viewers they were worried about offending were tuning it specifically so that they could be […]",
+          "link": "https://thecelticblog.com/2022/10/articles-and-features/where-was-skys-apology-to-viewers-during-the-weekends-sectarian-sing-a-thon/",
+          "publishedOn": "2022-10-03T10:42:34.000Z",
+          "wordCount": 2137,
+          "title": "Where Was Sky’s Apology To Viewers During The Weekend’s Sectarian Sing-A-Thon?",
+          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2020/01/2019-12-22T121407Z_1054870176_RC2C0E9TDYT7_RTRMADP_3_SOCCER-ENGLAND-WAT-MUN-REPORT.jpg"
+        },
+        {
+          "id": "https://thecelticblog.com/2022/10/articles-and-features/saturdays-game-was-a-tough-win-for-celtic-but-it-stopped-the-bleeding/",
+          "author": null,
+          "description": "On Saturday, we picked up a needed three points after the shocking performance against St Mirren two weeks ago. This was not an easy victory although it has to be said that we thoroughly deserved to win and we were the only team which even tried to. It is important, when you’ve lost a game, […]",
+          "link": "https://thecelticblog.com/2022/10/articles-and-features/saturdays-game-was-a-tough-win-for-celtic-but-it-stopped-the-bleeding/",
+          "publishedOn": "2022-10-03T10:14:11.000Z",
+          "wordCount": 2396,
+          "title": "Saturday’s Game Was A Tough Win For Celtic, But It Stopped The Bleeding.",
+          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2022/04/2022-04-09T155547Z_501744805_UP1EI49188Y0R_RTRMADP_3_SOCCER-SCOTLAND-CEL-STJ-REPORT-scaled.jpg"
+        },
+        {
+          "id": "https://celtsarehere.com/tom-rogics-west-brom-derby-doesnt-go-to-plan/",
+          "author": null,
+          "description": "Tom Rogic made his debut in English football at the weekend but failed to make any sort of impression. The former Celtic man was given the nod to make his first start at The Hawthornes against Swansea City at the weekend. Looking at the team sheets, Rogic appears to have been played as a deep […]\nSource",
+          "link": "https://celtsarehere.com/tom-rogics-west-brom-derby-doesnt-go-to-plan/",
+          "publishedOn": "2022-10-03T09:48:34.000Z",
+          "wordCount": 13427,
+          "title": "Tom Rogic’s West Brom Derby Doesn’t Go to Plan",
+          "imageUrl": null
+        },
+        {
+          "id": "https://celtsarehere.com/celtic-flop-scores-away-from-parkhead-scrutiny/",
+          "author": null,
+          "description": "Albian Ajeti was on the scoresheet for his new club Strum Graz at the weekend as they defeated Austria Wien. The Swiss striker opened the scoring in his second start for the club which has taken them to second place in the Austrian Football Bundesliga. Ajeti is currently still under contract at Celtic until the […]\nSource",
+          "link": "https://celtsarehere.com/celtic-flop-scores-away-from-parkhead-scrutiny/",
+          "publishedOn": "2022-10-03T09:34:01.000Z",
+          "wordCount": 13457,
+          "title": "Celtic Flop Scores Away From Parkhead Scrutiny",
+          "imageUrl": null
+        },
+        {
           "id": "https://etims.net/?p=17952",
           "author": null,
           "description": "They never stop, do they ?   Ange Postecoglou ‘discussed’ by Wolves with Celtic boss among potential Bruno Lage replacements   The Molineux club slipped…",
@@ -331,6 +411,16 @@
           "wordCount": 1399,
           "title": "Reo’s regret regarding slack pass that got Calmac a red card",
           "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/10/imago1015320262h-1024x682.jpg"
+        },
+        {
+          "id": "https://celtsarehere.com/postecoglou-explains-reo-hatates-situation/",
+          "author": null,
+          "description": "Ange Postecoglou was full of praise for Reo Hatate after Celtic’s 2-1 victory over Motherwell at the weekend. The Japanese midfielder hit a terrific strike from the edge of the penalty box that flew past Liam Kelly to double the Hoops lead. Celtic had taken to the lead through Kyogo Furuhashi before the goal was […]\nSource",
+          "link": "https://celtsarehere.com/postecoglou-explains-reo-hatates-situation/",
+          "publishedOn": "2022-10-03T07:59:17.000Z",
+          "wordCount": 13593,
+          "title": "Postecoglou Explains Reo Hatate’s Situation",
+          "imageUrl": null
         },
         {
           "id": "https://thecelticstar.com/rabbits-in-the-headlights-mcginn-left-frustrated-by-celtic-park-defeat/",
@@ -1961,26 +2051,6 @@
           "wordCount": 3881,
           "title": "THE JOCK STEIN YEARS: PART NINETEEN",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2021/02/Screenshot-2021-03-05-at-09.42.13.png"
-        },
-        {
-          "id": "https://thecelticstar.com/im-happy-with-my-role-in-the-team-matt-oriley-is-celtics-mr-nice-guy/",
-          "author": null,
-          "description": "Matt O’Riley has described what he thinks his role is within the Celtic squad under Ange Postecoglou….O’Riley has been out on international duty for the past week, playing excellently for the Danish U-21 team. However, O’Riley has been showing his true colours in a Celtic jersey. The midfielder has slotted into Ange’s side with ease Read More",
-          "link": "https://thecelticstar.com/im-happy-with-my-role-in-the-team-matt-oriley-is-celtics-mr-nice-guy/",
-          "publishedOn": "2022-09-28T22:37:49.000Z",
-          "wordCount": 1279,
-          "title": "“I’m happy with my role in the team,” Matt O’Riley is Celtic’s Mr Nice Guy",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/06/heart-of-midlothian-v-celtic-fc-cinch-scottish-premiership-8-1024x685.jpg"
-        },
-        {
-          "id": "https://thecelticstar.com/irish-youngsters-profiled-as-emerging-celtic-stars/",
-          "author": null,
-          "description": "Irish Youngsters Profiled as New Celtic Stars…Although Celtic is a Scottish club, it has always had strong Irish roots. The club celebrates this heritage in many different manners, and the most obvious one is the club’s name. It represents the link between the Scottish and Irish cultures, while the crest also contains a four-leaf clover Read More",
-          "link": "https://thecelticstar.com/irish-youngsters-profiled-as-emerging-celtic-stars/",
-          "publishedOn": "2022-09-28T22:29:47.000Z",
-          "wordCount": 1925,
-          "title": "Irish Youngsters Profiled as Emerging Celtic Stars",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/imago1013083094h-1024x716.jpg"
         }
       ]
     },
@@ -1990,6 +2060,16 @@
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
         {
+          "id": "CAIiEE34mkDaqNpIGrGygqm1pVgqGQgEKhAIACoHCAowrueiCTDmn7gCMOjNtwU",
+          "author": null,
+          "description": "Bojan Miovski tells Celtic and Rangers strikers he'll finish Premiership scorer  Daily Record",
+          "link": "https://www.dailyrecord.co.uk/sport/football/football-news/bojan-miovski-tells-celtic-rangers-28138620",
+          "publishedOn": "2022-10-03T07:28:10.000Z",
+          "wordCount": 3647,
+          "title": "Bojan Miovski tells Celtic and Rangers strikers he'll finish Premiership scorer - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28138662.ece/ALTERNATES/s1200/0_JS279223162.jpg"
+        },
+        {
           "id": "CAIiEN8AWN3A0d4saoWE64N6o1oqGQgEKhAIACoHCAowr5GNCzDFxJ4DMLbFpgY",
           "author": null,
           "description": "Leipzig & Shakhtar pile on the goals as Madrid icon misses penalty; Celtic’s UCL rivals round-up  67 Hail Hail - Celtic FC News",
@@ -1998,6 +2078,26 @@
           "wordCount": 1939,
           "title": "Leipzig & Shakhtar pile on the goals as Madrid icon misses penalty; Celtic’s UCL rivals round-up - 67 Hail Hail - Celtic FC News",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/10/GettyImages-1243682500-scaled.jpg"
+        },
+        {
+          "id": "CAIiEDR9D-3WkDszUgdYK1ZYWWEqGQgEKhAIACoHCAow8KiRCzCh9qUDMKLOtwY",
+          "author": null,
+          "description": "Ange Postecoglou reacts to claims Newcastle United are interested in signing Celtic star  HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/en-gb/2022/10/03/newcastle-celtic-matt-oriley-ange-postecoglou/",
+          "publishedOn": "2022-10-03T06:00:00.000Z",
+          "wordCount": 2463,
+          "title": "Ange Postecoglou reacts to claims Newcastle United are interested in signing Celtic star - HITC - Football, Gaming, Movies, TV, Music",
+          "imageUrl": "https://www.hitc.com/static/uploads/2022/07/GettyImages-1368279382-scaled.jpg"
+        },
+        {
+          "id": "CAIiEAw7Mb_QbGQkTAUbKqYBxwEqGQgEKhAIACoHCAowrueiCTDmn7gCMIfHtwU",
+          "author": null,
+          "description": "Keith Jackson says Rangers and Celtic set to put Walter Smith theory to the test  Daily Record",
+          "link": "https://www.dailyrecord.co.uk/sport/football/football-news/walter-smiths-rangers-champions-league-28135345",
+          "publishedOn": "2022-10-03T05:00:00.000Z",
+          "wordCount": 3974,
+          "title": "Keith Jackson says Rangers and Celtic set to put Walter Smith theory to the test - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28130548.ece/ALTERNATES/s1200/0_JS279210171.jpg"
         },
         {
           "id": "CAIiEMp4tZzHuUWPkBdUxqK-01kqGQgEKhAIACoHCAow4KKJCzCv9JoDMICkoAY",
@@ -2158,6 +2258,16 @@
           "wordCount": 1424,
           "title": "Partcik Thistle v Celtic FC Women, Kick-off 12.45pm, live on You Tube - The Celtic Star",
           "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/larisey_goal_3365-1024x682.jpeg"
+        },
+        {
+          "id": "CAIiEF1sBud0s23dxp27rArUXmsqGQgEKhAIACoHCAow96D9CjDOy_QCMKzp0wU",
+          "author": null,
+          "description": "Scott Brown sees Celtic record breaker haunt Fleetwood as ex-teammate gives him 'horrible' feeling  Glasgow Live",
+          "link": "https://www.glasgowlive.co.uk/sport/scott-brown-sees-celtic-record-25157998",
+          "publishedOn": "2022-10-02T10:44:05.000Z",
+          "wordCount": 3334,
+          "title": "Scott Brown sees Celtic record breaker haunt Fleetwood as ex-teammate gives him 'horrible' feeling - Glasgow Live",
+          "imageUrl": "https://i2-prod.glasgowlive.co.uk/incoming/article25157968.ece/ALTERNATES/s1200/0_Fleetwood-Town-v-Dundee-United-Pre-Season-Friendly.jpg"
         },
         {
           "id": "CAIiEFungnarV053LRd21-kRA2QqGQgEKhAIACoHCAowrueiCTDmn7gCMKXUtwU",
@@ -2560,6 +2670,16 @@
           "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28110853.ece/ALTERNATES/s1200/0_Tottenham-Hotspur-v-RB-Leipzig-UEFA-Champions-League-Round-of-16-First-Leg-19220.jpg"
         },
         {
+          "id": "CAIiEJJUkl88nR4Jhg_pMmY4d_kqGQgEKhAIACoHCAowr5GNCzDFxJ4DMLbFpgY",
+          "author": null,
+          "description": "Celtic injury list in full as supporters prepare for Ange Postecoglou update  67 Hail Hail - Celtic FC News",
+          "link": "https://www.67hailhail.com/news/celtic-injury-lowdown-as-supporters-prepare-for-ange-postecoglou-update/",
+          "publishedOn": "2022-09-29T09:10:00.000Z",
+          "wordCount": 2356,
+          "title": "Celtic injury list in full as supporters prepare for Ange Postecoglou update - 67 Hail Hail - Celtic FC News",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/04/GettyImages-1390480580-scaled.jpg"
+        },
+        {
           "id": "CBMilgFodHRwczovL3d3dy5uYXRpb25hbHdvcmxkLmNvbS9jdWx0dXJlL211c2ljL2Nvb2xpby1hdC1jZWx0aWMtcGFyay1kaWQtcmFwcGVyLXN1cHBvcnQtZ2xhc2dvdy1mb290YmFsbC10ZWFtLW1zcC10b21teS1zaGVyaWRhbi1iaWctYnJvdGhlci1uZXdzLTM4NjA2OTDSAQA",
           "author": null,
           "description": "Coolio at Celtic Park: did the rapper support Glasgow football team - link with MSP Tommy Sheridan explained  NationalWorld",
@@ -2608,16 +2728,6 @@
           "wordCount": 3110,
           "title": "Matt O'Riley 'watched' by Newcastle as Celtic star singled out during Denmark scouting bonanza - Daily Record",
           "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28109198.ece/ALTERNATES/s1200/0_JS269001782.jpg"
-        },
-        {
-          "id": "CAIiECzKEvn9A0wSFDaaz_llzIQqGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY",
-          "author": null,
-          "description": "Irish Youngsters Profiled as Emerging Celtic Stars  The Celtic Star",
-          "link": "https://thecelticstar.com/irish-youngsters-profiled-as-emerging-celtic-stars/",
-          "publishedOn": "2022-09-28T22:29:47.000Z",
-          "wordCount": 1925,
-          "title": "Irish Youngsters Profiled as Emerging Celtic Stars - The Celtic Star",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/imago1013083094h-1024x716.jpg"
         }
       ]
     },
@@ -2626,6 +2736,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "10f531162ddee2b0ac2f054ca7279e28",
+          "author": null,
+          "description": "CHRISTOPHER JULLIEN has admitted he learned a lot from Celtic boss Ange Postecoglou even if the relationship between the pair was \"complicated\".",
+          "link": "https://www.glasgowtimes.co.uk/sport/23015047.christopher-jullien-details-complicated-ange-postecoglou-relationship-celtic/?ref=rss",
+          "publishedOn": "2022-10-03T10:27:38.000Z",
+          "wordCount": 8128,
+          "title": "Christopher Jullien details 'complicated' Ange Postecoglou relationship at Celtic",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16002664/?type=og-image"
+        },
         {
           "id": "36822395f2d4fa2d41f922741c0926b6",
           "author": null,
