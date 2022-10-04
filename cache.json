@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com//sport/football/celtic",
       "articles": [
         {
+          "id": "3867392",
+          "author": "Angus Wright",
+          "description": "Ange Postecoglou has confirmed star defender Cameron Carter-Vickers will miss Celtic’s Champions League clash with RB Leipzig on Wednesday night.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtic-missing-three-first-team-players-for-rb-leipzig-as-postecoglou-turns-to-player-he-did-not-plan-to-use-as-regularly-3867392",
+          "publishedOn": "2022-10-04T19:53:14.000Z",
+          "wordCount": 2264,
+          "title": "Celtic missing three first-team players for RB Leipzig as Postecoglou turns to player he did not plan to use as regularly",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjJiNTkyZDQ5LTY3NTYtNDVmYi04OWViLTdkMDZkOTlmNzkxZDpjYWIzYTEzMy04NDNhLTQ2MWQtYmU2NS1hNWMyMzJkMTg0ZWU=.jpg?width=1200&enable=upscale"
+        },
+        {
           "id": "3867005",
           "author": "Anthony Brown",
           "description": "Marco Rose has warned RB Leipzig they must stop Celtic’s “fun” football if they are to spark their Champions League campaign into life when the two teams meet at the Red Bull Arena on Wednesday.",
@@ -302,6 +312,56 @@
       "feedUrl": "http://armchaircelts.co.uk/wprss",
       "siteUrl": "http://armchaircelts.co.uk/feed/wprss/",
       "articles": [
+        {
+          "id": "https://thecelticstar.com/liel-abada-trains-ahead-of-rb-leipzig-champions-league-trip/",
+          "author": null,
+          "description": "Celtic are in Germany for tomorrow night’s crucial Champions League fixture against RB Leipzig. The Scottish Champions face the Bundesliga outfit on Matchday Three of Europe’s top competition as the teams meet in the first of the doubleheader that will likely determine whether either team is playing European football beyond Christmas.There has been some suggestion Read More",
+          "link": "https://thecelticstar.com/liel-abada-trains-ahead-of-rb-leipzig-champions-league-trip/",
+          "publishedOn": "2022-10-04T21:00:32.000Z",
+          "wordCount": 1188,
+          "title": "Liel Abada trains ahead of RB Leipzig Champions League trip",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/07/celtic-v-blackburn-rovers-pre-season-friendly-7-1024x679.jpg"
+        },
+        {
+          "id": "https://thecelticstar.com/cameron-wasnt-100-per-cent-so-hes-not-with-the-team-and-liel-abada-didnt-travel-ange-postecoglou/",
+          "author": null,
+          "description": "Ange Postecoglou reckons that Cameron Carter Vickers will be available for the weekend trip to Perth to face St Johnstone but tomorrow evening’s Champions League challenge against RB Leipzig has come too soon for the American international defender who has not travelled with the squad to Germany.Also missing are Carl Starfelt, who looks like being Read More",
+          "link": "https://thecelticstar.com/cameron-wasnt-100-per-cent-so-hes-not-with-the-team-and-liel-abada-didnt-travel-ange-postecoglou/",
+          "publishedOn": "2022-10-04T20:21:14.000Z",
+          "wordCount": 1486,
+          "title": "“Cameron wasn’t 100 per cent, so he’s not with the team and Liel Abada didn’t travel,” Ange Postecoglou",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/10/fbl-eur-c1-celtic-presser-21-1024x647.jpg"
+        },
+        {
+          "id": "https://thecelticblog.com/2022/10/articles-and-features/celtic-fans-in-leipzig-are-enjoying-tonights-game-lets-hope-they-enjoy-tomorrows/",
+          "author": null,
+          "description": "I have some friends over in Germany at the moment, preparing for the Leipzig game. They have travelled across the continent to be there. Some of the journeys they have made are pretty epic. I, myself, have booked for Madrid. My own journey there will be far less chaotic than that which some of my […]",
+          "link": "https://thecelticblog.com/2022/10/articles-and-features/celtic-fans-in-leipzig-are-enjoying-tonights-game-lets-hope-they-enjoy-tomorrows/",
+          "publishedOn": "2022-10-04T20:03:23.000Z",
+          "wordCount": 1837,
+          "title": "Celtic Fans In Leipzig Are Enjoying Tonight’s Game. Let’s Hope They Enjoy Tomorrow’s.",
+          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2021/12/2019-05-25T163730Z_949330538_RC17343AB9C0_RTRMADP_3_SOCCER-SCOTLAND-HOM-CEL.jpg"
+        },
+        {
+          "id": "https://thecelticstar.com/heavy-handed-stewards-remove-celtic-banner-at-anfield/",
+          "author": null,
+          "description": "A Liverpool supporter has been asked to remove a Celtic banner displayed ahead of kick-off at Anfield tonight. ESPN’s Mark Ogden is at the game between Jurgen Klopp’s Liverpool and Rangers and documented what he saw on Twitter. Liverpool fan being asked to put away a Celtic banner at Anfield ahead of Rangers game. Seems Read More",
+          "link": "https://thecelticstar.com/heavy-handed-stewards-remove-celtic-banner-at-anfield/",
+          "publishedOn": "2022-10-04T19:27:23.000Z",
+          "wordCount": 1172,
+          "title": "Heavy-handed stewards remove Celtic banner at Anfield",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/10/Screenshot-2022-10-04-at-20.26.45-1024x474.jpg"
+        },
+        {
+          "id": "https://thecelticstar.com/video-celtic-captain-callum-mcgregors-media-conference-from-leipzig/",
+          "author": null,
+          "description": "Callum McGregor sounds, calm, focused and determined to get a result tomorrow night in his short Champions League Media Conference in Leipzig this evening.With a defeat to Real Madrid and a draw against Shakhtar Donetsk, Celtic are looking for their first win in the group stages and the Celtic captain understands that the team will Read More",
+          "link": "https://thecelticstar.com/video-celtic-captain-callum-mcgregors-media-conference-from-leipzig/",
+          "publishedOn": "2022-10-04T19:00:07.000Z",
+          "wordCount": 1636,
+          "title": "Video: Celtic captain Callum McGregor’s Media Conference from Leipzig",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/08/celtic-fc-v-bayern-muenchen-uefa-champions-league-9-1024x608.jpg"
+        },
         {
           "id": "https://www.celticquicknews.co.uk/postecoglou-problem-pile-up/",
           "author": null,
@@ -2161,46 +2221,6 @@
           "wordCount": 13542,
           "title": "FIFA 23 Review: Celtic Perspective",
           "imageUrl": null
-        },
-        {
-          "id": "https://thecelticstar.com/pundit-defends-matt-oriley-over-scouts-negative-comments/",
-          "author": null,
-          "description": "Since Matt O’Riley’s arrival at Celtic in January, he has certainly impressed with his play making abilities and secured his place as a key player in Ange Postecoglou’s Celtic team. O’Riley has also as a result of his Celtic form, earned a place in Denmark’s U-21, where he continues to impress by snatching a second Read More",
-          "link": "https://thecelticstar.com/pundit-defends-matt-oriley-over-scouts-negative-comments/",
-          "publishedOn": "2022-09-30T09:01:37.000Z",
-          "wordCount": 1307,
-          "title": "Pundit defends Matt O’Riley over scout’s negative comments",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/fbl-eur-c1-celtic-presser-1-1024x682.jpg"
-        },
-        {
-          "id": "https://celtsarehere.com/celtic-make-surprise-appearance-in-welcome-to-wrexham-doc/",
-          "author": null,
-          "description": "Welcome to Wrexham hit the Disney streaming platform over the past few months, chronicling the story of two American actors; Ryan Reynolds and Rob Rob McElhenney after they bought Welsh side Wrexham. We didn’t expect Celtic to make an appearance on the show, but they have! In an episode named ‘Hooliganism’ Celtic and Rangers rivalry […]\nSource",
-          "link": "https://celtsarehere.com/celtic-make-surprise-appearance-in-welcome-to-wrexham-doc/",
-          "publishedOn": "2022-09-30T08:55:14.000Z",
-          "wordCount": 13559,
-          "title": "Celtic Make Surprise Appearance in ‘Welcome to Wrexham’ Doc",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thecelticstar.com/there-are-limited-years-ahead-of-me-says-57-year-old-ange-postecoglou/",
-          "author": null,
-          "description": "Ange Postecoglou has opened up about the ambitions that he still has in football. Since joining Celtic, the manager has totally transformed the club and made huge strides in the standard of players Celtic and quality of football being played by the team. However, Ange isn’t a young manager, and he has admitted that his Read More",
-          "link": "https://thecelticstar.com/there-are-limited-years-ahead-of-me-says-57-year-old-ange-postecoglou/",
-          "publishedOn": "2022-09-30T08:37:40.000Z",
-          "wordCount": 1316,
-          "title": "“There are limited years ahead of me,” says 57 year old, Ange Postecoglou",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/ange-postecoglou-announces-celtic-visit-to-australia-3-1024x682.jpeg"
-        },
-        {
-          "id": "https://www.sportsmole.co.uk/football/liverpool/news/postecoglou-tipped-to-replace-klopp-at-liverpool_495766.html",
-          "author": null,
-          "description": "Former Celtic midfielder Paul Slane tips Ange Postecoglou to succeed Liverpool manager Jurgen Klopp when he decides to leave Anfield.",
-          "link": "https://www.sportsmole.co.uk/football/liverpool/news/postecoglou-tipped-to-replace-klopp-at-liverpool_495766.html",
-          "publishedOn": "2022-09-30T07:28:50.000Z",
-          "wordCount": 4553,
-          "title": "Celtic manager Ange Postecoglou &#039;tipped to replace Jurgen Klopp at Liverpool&#039;",
-          "imageUrl": "//b.smimg.net/22/35/ange-postecoglou.JPG"
         }
       ]
     },
@@ -2210,6 +2230,16 @@
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
         {
+          "id": "CAIiEINZhYPbbXEzkytMXADu_x0qGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY",
+          "author": null,
+          "description": "“Cameron wasn’t 100 per cent, so he’s not with the team and Liel Abada didn’t travel,” Ange Postecoglou  The Celtic Star",
+          "link": "https://thecelticstar.com/cameron-wasnt-100-per-cent-so-hes-not-with-the-team-and-liel-abada-didnt-travel-ange-postecoglou/",
+          "publishedOn": "2022-10-04T20:21:14.000Z",
+          "wordCount": 1486,
+          "title": "“Cameron wasn’t 100 per cent, so he’s not with the team and Liel Abada didn’t travel,” Ange Postecoglou - The Celtic Star",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/10/fbl-eur-c1-celtic-presser-21-1024x647.jpg"
+        },
+        {
           "id": "CBMifmh0dHBzOi8vd3d3LmlydmluZXRpbWVzLmNvbS9uZXdzLzIzMDIwMDgzLmF5cnNoaXJlLWNlbHRpYy1zY291dC1jcmVlcC1hdm9pZHMtdW5wYWlkLXdvcmstYnJpbmdpbmctZmFrZS1pZC1ib3lzLWZvb3RiYWxsLWdhbWVzL9IBAA",
           "author": null,
           "description": "Ayrshire: 'Celtic scout’ creep avoids unpaid work for bringing fake ID to boys football games  Irvine Times",
@@ -2218,6 +2248,16 @@
           "wordCount": 8353,
           "title": "Ayrshire: 'Celtic scout’ creep avoids unpaid work for bringing fake ID to boys football games - Irvine Times",
           "imageUrl": "https://www.irvinetimes.com/resources/images/14310120/?type=og-image"
+        },
+        {
+          "id": "CAIiEA8z36LHXlQNFX-ru2HUL0MqGQgEKhAIACoHCAowrueiCTDmn7gCMKXUtwU",
+          "author": null,
+          "description": "Liel Abada OUT of Celtic Champions League clash as Aaron Mooy adds to Ange's growing injury woe  Daily Record",
+          "link": "https://www.dailyrecord.co.uk/sport/football/football-news/liel-abada-out-celtic-champions-28154409",
+          "publishedOn": "2022-10-04T17:36:27.000Z",
+          "wordCount": 3208,
+          "title": "Liel Abada OUT of Celtic Champions League clash as Aaron Mooy adds to Ange's growing injury woe - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/sport/football/football-news/article28154417.ece/ALTERNATES/s1200/0_Screen-Shot-2022-10-04-at-182306.png"
         },
         {
           "id": "CAIiEMBT6rZUCc3Wy3UThZaHiUwqGQgEKhAIACoHCAow8KiRCzCh9qUDMKLOtwY",
@@ -2278,6 +2318,16 @@
           "wordCount": 20472,
           "title": "5 Most Expensive Player Sales Celtic Have Recorded - Deadline News",
           "imageUrl": "https://www.deadlinenews.co.uk/wp-content/uploads/2022/10/amadej-tauses-KhrTTf8gr6w-unsplash-scaled.jpg"
+        },
+        {
+          "id": "CAIiEBa9Zte6YtqZnuOEUo_UuaMqGQgEKhAIACoHCAowne-jCzDg-bsDMLnLhQc",
+          "author": null,
+          "description": "Celtic Fans Have Nothing To Fear From All The \"Ange Is A Target For ...\" Stories.  TheCelticBlog.com",
+          "link": "https://thecelticblog.com/2022/10/articles-and-features/celtic-fans-have-nothing-to-fear-from-all-the-ange-is-a-target-for-stories/",
+          "publishedOn": "2022-10-04T13:00:00.000Z",
+          "wordCount": 2668,
+          "title": "Celtic Fans Have Nothing To Fear From All The \"Ange Is A Target For ...\" Stories. - TheCelticBlog.com",
+          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2022/09/2022-09-03T134237Z_631194699_UP1EI93122Z6J_RTRMADP_3_SOCCER-SCOTLAND-CEL-RFC-REPORT-scaled.jpg"
         },
         {
           "id": "CAIiENG9_fSD3XrEIo90_O3AUEAqGQgEKhAIACoHCAowrueiCTDmn7gCMOjNtwU",
@@ -2978,26 +3028,6 @@
           "wordCount": 3215,
           "title": "Celtic in rail strike warning on Premiership return as SPFL fans set for travel chaos - Daily Record",
           "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article26611020.ece/ALTERNATES/s1200/3_JS223359145.jpg"
-        },
-        {
-          "id": "CBMiU2h0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9jZWx0aWMtbWFrZS1zdXJwcmlzZS1hcHBlYXJhbmNlLWluLXdlbGNvbWUtdG8td3JleGhhbS1kb2Mv0gEA",
-          "author": null,
-          "description": "Celtic Make Surprise Appearance in 'Welcome to Wrexham' Doc  CeltsAreHere",
-          "link": "https://celtsarehere.com/celtic-make-surprise-appearance-in-welcome-to-wrexham-doc/",
-          "publishedOn": "2022-09-30T08:55:14.000Z",
-          "wordCount": 13583,
-          "title": "Celtic Make Surprise Appearance in 'Welcome to Wrexham' Doc - CeltsAreHere",
-          "imageUrl": null
-        },
-        {
-          "id": "CBMiPWh0dHBzOi8vcHRmYy5jby51ay9wdGZjLW1hdGNoLXByZXZpZXcvbWF0Y2gtcHJldmlldy1jZWx0aWMtaC_SAQA",
-          "author": null,
-          "description": "MATCH PREVIEW: Celtic (H)  Partick Thistle FC",
-          "link": "https://ptfc.co.uk/ptfc-match-preview/match-preview-celtic-h/",
-          "publishedOn": "2022-09-30T08:04:00.000Z",
-          "wordCount": 973,
-          "title": "MATCH PREVIEW: Celtic (H) - Partick Thistle FC",
-          "imageUrl": null
         }
       ]
     },
@@ -3006,6 +3036,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "dfe52cadecda216b892cb3551b26413c",
+          "author": null,
+          "description": "The Hoops captain has explained what could be key to the Scottish champions getting results in the Champions League.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23020164.callum-mcgregor-details-quality-celtic-need-succeed-rb-leipzig/?ref=rss",
+          "publishedOn": "2022-10-04T19:04:41.000Z",
+          "wordCount": 8109,
+          "title": "Callum McGregor details the 'quality' Celtic need to succeed against RB Leipzig",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16009861/?type=og-image"
+        },
         {
           "id": "07c88f26410bcef4a65e2274fab05371",
           "author": null,
@@ -3495,36 +3535,6 @@
           "wordCount": 8146,
           "title": "Why Martin O'Neill was first person former Celtic star contacted upon cancer diagnosis",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15968157/?type=og-image"
-        },
-        {
-          "id": "65c0ed645abb26d6b6539f8ccb167e92",
-          "author": null,
-          "description": "CHRIS SUTTON has reignited a past feud with Rangers legend Graeme Souness as he branded the pundit \"disrespectful\".",
-          "link": "https://www.glasgowtimes.co.uk/sport/22954151.chris-sutton-reignites-graeme-souness-celtic-feud-delivers-blackburn-two-fingers-up-verdict/?ref=rss",
-          "publishedOn": "2022-09-30T09:22:25.000Z",
-          "wordCount": 8188,
-          "title": "Chris Sutton reignites Graeme Souness Celtic feud as he delivers Blackburn 'two fingers up' verdict",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/13564262/?type=og-image"
-        },
-        {
-          "id": "4e64da4874cc8965263914e4fabb55e2",
-          "author": null,
-          "description": "DAIZEN MAEDA and David Turnbull both took part in a Celtic training session on Thursday after being affected by injury during the international break.",
-          "link": "https://www.glasgowtimes.co.uk/sport/22953621.celtic-duo-return-training-international-injury-fears/?ref=rss",
-          "publishedOn": "2022-09-30T08:55:20.000Z",
-          "wordCount": 8131,
-          "title": "Celtic duo return to training after international injury fears",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15968062/?type=og-image"
-        },
-        {
-          "id": "7de4216f39b4d78b97f1b3956797b660",
-          "author": null,
-          "description": "BERTIE AULD’S legacy as a football player and a manager will never be forgotten by Glaswegian football fans. Thanks to the actions of the Celtic great’s son, nor will his tireless charitable work.",
-          "link": "https://www.glasgowtimes.co.uk/sport/22952808.bertie-auld-legacy-keeping-good-work-late-celtic-great/?ref=rss",
-          "publishedOn": "2022-09-30T08:01:14.000Z",
-          "wordCount": 8680,
-          "title": "The Bertie Auld Legacy keeping up the good work of late Celtic great",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15967098/?type=og-image"
         }
       ]
     }
