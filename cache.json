@@ -6,6 +6,26 @@
       "siteUrl": "https://www.scotsman.com//sport/football/celtic",
       "articles": [
         {
+          "id": "3869146",
+          "author": "Angus Wright",
+          "description": "Celtic goalkeeper Joe Hart held his hands up over RB Leipzig’s second goal in a 3-1 Champions League defeat but added that Ange Postecoglou’s style of play was inherently risky.",
+          "link": "https://www.scotsman.com/sport/football/celtic/something-tweaked-callum-mcgregor-injury-causing-major-celtic-concern-as-joe-hart-holds-hands-up-in-leipzig-defeat-3869146",
+          "publishedOn": "2022-10-05T19:42:42.000Z",
+          "wordCount": 2002,
+          "title": "'Something tweaked': Callum McGregor injury causing major Celtic concern as Joe Hart holds hands up in Leipzig defeat",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjIwNTdkZGJkLWZmOGQtNGZmMy1iMzIzLWEzZmNhMGQ0YWIwNjo2NzU4MDBkNy1mZmU2LTQ0MmMtOWU3NC1kYTEzNWY4Mjc3ZTE=.jpg?width=1200&enable=upscale"
+        },
+        {
+          "id": "3869137",
+          "author": "Mark Atkinson",
+          "description": "Celtic are learning the hard way in this Champions League campaign. Domestically, they can afford to make mistakes and not take their chances. But not here, not at the top table of European football.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtic-left-to-sweat-over-callum-mcgregor-knee-injury-as-defeat-by-rb-leipzig-leaves-no-margin-for-error-and-question-over-style-3869137",
+          "publishedOn": "2022-10-05T19:12:38.000Z",
+          "wordCount": 3411,
+          "title": "Celtic left to sweat over Callum McGregor knee injury as defeat by RB Leipzig leaves no margin for error and question over style",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjUyNGQzNTM5LTllMzktNDM1Yi1iOWY3LTQ1Njg0MWZjMTk1YToyZmJiOWY5Yi0wN2IwLTQ2MzgtYWIzYS03MzExMTcwYzQ2YTQ=.jpg?width=1200&enable=upscale"
+        },
+        {
           "id": "3869124",
           "author": "Angus Wright",
           "description": "Omonia forward Loizos Loizou has backed boss Neil Lennon to give the Cypriot side the edge in Thursday’s Europa League tie against Manchester United.",
@@ -244,26 +264,6 @@
           "wordCount": 2774,
           "title": "Celtic go back top in a very uneasy manner: comic own goal, red card for captain, crowd grumbles against Motherwell",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjkzOWUzYTBiLWEzOWQtNDQxMy05ZjUxLWEyYmRjY2VlYjQ5MDphMDAwMzI4NC00MjljLTQwNGQtYmVkYi0zNzFjZWQ0ZTVhZmE=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3863635",
-          "author": "Joel Sked",
-          "description": "This Scottish Premiership season was always going to be unique due to the World Cup being played in Qatar across late November and December.",
-          "link": "https://www.scotsman.com/sport/football/rangers/why-it-is-time-to-embrace-the-scottish-football-chaos-with-the-46-game-october-sprint-3863635",
-          "publishedOn": "2022-10-01T07:00:00.000Z",
-          "wordCount": 3519,
-          "title": "Why it is time to embrace the Scottish football chaos with the 46-game October sprint",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjU1N2Y1OGI1LTMyMDEtNDk5Zi1hMzY3LTZiZmE1OWIxN2YyZTozMWMwODQyNi1mYjdkLTRhYzgtOTQ4NS1mZDJlNjcxMjFkZmI=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3863647",
-          "author": "Alan Pattullo",
-          "description": "Matt O’Riley hopes he has done enough to force his way into Denmark’s World Cup plans despite suffering an international setback in midweek.",
-          "link": "https://www.scotsman.com/sport/football/celtic/i-dont-think-i-did-my-chances-any-harm-on-cusp-of-reaching-qatar-celtics-matt-oriley-discusses-ambitions-3863647",
-          "publishedOn": "2022-10-01T06:45:00.000Z",
-          "wordCount": 2237,
-          "title": "'I don’t think I did my chances any harm': On cusp of reaching Qatar, Celtic's Matt O'Riley discusses ambitions",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmJmYTk1ZDgwLTQ0NmMtNDM2NC1hMDliLWNlNTZkNzcwZTc3YjpiNmUwMWJiZC1lZWFkLTRmZDItYTVjMC03MDM0YmJlZjdjNTE=.jpg?width=1200&enable=upscale"
         }
       ]
     },
@@ -272,6 +272,126 @@
       "feedUrl": "http://armchaircelts.co.uk/wprss",
       "siteUrl": "http://armchaircelts.co.uk/feed/wprss/",
       "articles": [
+        {
+          "id": "https://thecelticstar.com/celtic-lamentable-in-leipzig/",
+          "author": null,
+          "description": "Frankly, this was a disgrace. Only to an extent can we blame injuries and religious scruples for having such a poor team on the field tonight. The fact was that the team simply failed to come up to the mark.There is no point in saying how good Leipzig were. They weren’t all that good against Read More",
+          "link": "https://thecelticstar.com/celtic-lamentable-in-leipzig/",
+          "publishedOn": "2022-10-05T20:28:43.000Z",
+          "wordCount": 1625,
+          "title": "Celtic, Lamentable in Leipzig",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/10/rb-leipzig-v-celtic-fc-group-f-uefa-champions-league-15-1024x683.jpg"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/too-negative-self-inflicted-ange-rues-setback/",
+          "author": null,
+          "description": "ANGE POSTECOGLOU could not mask his massive disappointment as he reviewed Celtic’s 3-1 setback in Leipzig tonight. The Hoops boss was obviously concerned by the nature of the defeat that has left the club still looking for their first win in Champions League Group H after losses to Real Madrid and RB Leipzig and a [...]",
+          "link": "https://www.celticquicknews.co.uk/too-negative-self-inflicted-ange-rues-setback/",
+          "publishedOn": "2022-10-05T20:15:14.000Z",
+          "wordCount": 2750,
+          "title": "‘TOO NEGATIVE’, ‘SELF-INFLICTED’: ANGE RUES SETBACK",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/10/ANGE-POSTECOGLOU-HHH-FEATURED.png"
+        },
+        {
+          "id": "https://thecelticstar.com/dont-scapegoat-one-player-for-an-error-that-many-have-been-guilty-of/",
+          "author": null,
+          "description": "Joe Hart made a howler tonight, which cost Celtic a goal and allowed RB Leipzig to regain the lead. Of course it was a dreadful error, which caused me to let out more than a few frustrated expletives. However, Callum McGregor played a major role in us conceding the first goal, just as he did Read More",
+          "link": "https://thecelticstar.com/dont-scapegoat-one-player-for-an-error-that-many-have-been-guilty-of/",
+          "publishedOn": "2022-10-05T20:12:18.000Z",
+          "wordCount": 1533,
+          "title": "Don’t Scapegoat One Player For An Error That Many Have Been Guilty Of",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/10/rb-leipzig-v-celtic-fc-group-f-uefa-champions-league-43-1024x682.jpg"
+        },
+        {
+          "id": "https://celtsarehere.com/celtic-player-ratings-vs-leipzig-stephen-welsh-among-the-highest/",
+          "author": null,
+          "description": "In a hotly anticipated match in Saxony, Celtic fell to a 3-1 defeat at the hands of RB Leipzig. A combination of missed chances, individual errors and sheer quality from the opposition cost the Hoops in a disappointing night in Germany. Here’s how the players rated.  Joe Hart – 5/10 He made a number of […]\nSource",
+          "link": "https://celtsarehere.com/celtic-player-ratings-vs-leipzig-stephen-welsh-among-the-highest/",
+          "publishedOn": "2022-10-05T20:02:58.000Z",
+          "wordCount": 14033,
+          "title": "Celtic Player Ratings vs Leipzig; Stephen Welsh Among the Highest",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thecelticblog.com/2022/10/articles-and-features/joe-hart-should-own-his-error-and-stop-blaming-celtics-system-for-his-mistake/",
+          "author": null,
+          "description": "Joe Hart’s after match comments will most probably earn him a bollocking from the manager, perhaps even more than the mistake itself will. In saying that “this is how the manager wants us to play” he’s deflecting from his own lack of concentration. He better get a grip on himself and fast, because nobody thinks […]",
+          "link": "https://thecelticblog.com/2022/10/articles-and-features/joe-hart-should-own-his-error-and-stop-blaming-celtics-system-for-his-mistake/",
+          "publishedOn": "2022-10-05T20:00:37.000Z",
+          "wordCount": 1890,
+          "title": "Joe Hart Owns His Error But He Should Stop Blaming Celtic’s System For His Mistake.",
+          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2022/02/2022-02-20T170028Z_1480601538_UP1EI2K1B8QAY_RTRMADP_3_SOCCER-SCOTLAND-CEL-DUD-REPORT-1.jpg"
+        },
+        {
+          "id": "https://celtsarehere.com/jotas-emotional-message-to-celtic-fans-on-live-tv/",
+          "author": null,
+          "description": "JOTA got on the scoresheet on Wednesday night in Leipzig, but it wasn’t enough as the bhoys fell to a 3-1 defeat. It was a night where Celtic played well in parts but ultimately, mistakes in their game were costly. Joe Hart won’t want to watch back Leipzig’s second goal again, and the quality of […]\nSource",
+          "link": "https://celtsarehere.com/jotas-emotional-message-to-celtic-fans-on-live-tv/",
+          "publishedOn": "2022-10-05T19:48:45.000Z",
+          "wordCount": 13464,
+          "title": "Jota’s Emotional Message to Celtic Fans on Live TV",
+          "imageUrl": null
+        },
+        {
+          "id": "https://celtsarehere.com/chris-sutton-in-surprising-post-match-celtic-verdict/",
+          "author": null,
+          "description": "CHRIS SUTTON has delivered a very measured post-match verdict after Celtic fell to defeat in the Champions League. The bhoy equalised in the second half after going behind in the first. However, a mistake by the goalkeeper would allow Leipzig in and they never looked back. On the night, Celtic couldn’t call upon their first […]\nSource",
+          "link": "https://celtsarehere.com/chris-sutton-in-surprising-post-match-celtic-verdict/",
+          "publishedOn": "2022-10-05T19:31:51.000Z",
+          "wordCount": 13486,
+          "title": "Chris Sutton in Surprising Post-Match Celtic Verdict",
+          "imageUrl": null
+        },
+        {
+          "id": "https://celtsarehere.com/concerning-callum-mcgregor-update/",
+          "author": null,
+          "description": "CALLUM MCGREGOR went off injured against Leipzig on Wednesday night, the Celtic captain suffering a knee injury. Cal Mac’s poor touch outside the Leipzig box ended up in an incisive attack that saw the bhoys go behind. Callum would go off shortly after with Oli Abildgaard called upon despite his lack of game time to […]\nSource",
+          "link": "https://celtsarehere.com/concerning-callum-mcgregor-update/",
+          "publishedOn": "2022-10-05T19:23:00.000Z",
+          "wordCount": 13535,
+          "title": "Concerning Callum McGregor Update",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/rb-leipzig-3-celtic-1-defeat-and-its-hart-ache-for-hoops/",
+          "author": null,
+          "description": "RB LEIPZIG 3 CELTIC 1 CELTIC went from The Great Escape to The Great Giveaway in the space of three defining minutes as they toppled to defeat in the Red Bull Arena this evening. Ange Postecoglou’s side had levelled two minutes after the break through Filip Jota and were hoping to use the goal as [...]",
+          "link": "https://www.celticquicknews.co.uk/rb-leipzig-3-celtic-1-defeat-and-its-hart-ache-for-hoops/",
+          "publishedOn": "2022-10-05T19:18:30.000Z",
+          "wordCount": 3257,
+          "title": "RB LEIPZIG 3 CELTIC 1: DEFEAT – AND IT’S HART-ACHE FOR HOOPS",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/07/CELTIC-HUDDLE-GREEN-AND-BLACK-JULY-2022.png"
+        },
+        {
+          "id": "https://celtsarehere.com/i-missed-joe-hart-explains-moment-of-madness/",
+          "author": null,
+          "description": "JOE HART came out and faced the cameras after he made the mother of all mistakes in Germany. The goalkeeper was completely at fault for the second goal when he tried to take the ball out from the back and completely missed his target. The Englishman gifting the ball to Leipzig who didn’t need to […]\nSource",
+          "link": "https://celtsarehere.com/i-missed-joe-hart-explains-moment-of-madness/",
+          "publishedOn": "2022-10-05T19:08:02.000Z",
+          "wordCount": 13627,
+          "title": "‘I missed’ – Joe Hart Explains Moment of Madness",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thecelticblog.com/2022/10/articles-and-features/wherever-this-celtic-team-is-trying-to-get-to-tonight-we-are-nowhere-near-it/",
+          "author": null,
+          "description": "Let’s start with the apology, okay? The one that a lot of people owe to our defenders who were the subject of much bitching and moaning and criticism before this game. A lot went wrong tonight. They are not accountable for much if any of it. In fact, I thought the centre backs acquitted themselves […]",
+          "link": "https://thecelticblog.com/2022/10/articles-and-features/wherever-this-celtic-team-is-trying-to-get-to-tonight-we-are-nowhere-near-it/",
+          "publishedOn": "2022-10-05T19:00:55.000Z",
+          "wordCount": 3317,
+          "title": "Wherever This Celtic Team Is Trying To Get To, Tonight We Are Nowhere Near It.",
+          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2022/03/2022-02-17T220655Z_1717494342_UP1EI2H1PFH47_RTRMADP_3_SOCCER-EUROPACONF-CEL-BOD-REPORT.jpg"
+        },
+        {
+          "id": "https://celtsarehere.com/joe-hart-nightmare-goalkeeper-has-night-to-forget/",
+          "author": null,
+          "description": "JOE HART had a night to forget in Germany with Celtic. The English goalkeeper at fault for two of Celtic’s three goals conceded on the night. When we need to be at our absolute best and have a bit of luck, we had some reprieves from VAR but we quickly shot ourselves in the foot. […]\nSource",
+          "link": "https://celtsarehere.com/joe-hart-nightmare-goalkeeper-has-night-to-forget/",
+          "publishedOn": "2022-10-05T18:56:14.000Z",
+          "wordCount": 13605,
+          "title": "Joe Hart Nightmare; Goalkeeper Has Night to Forget",
+          "imageUrl": null
+        },
         {
           "id": "https://celtsarehere.com/video-iconic-jota-celebration-after-goal-in-leipzig/",
           "author": null,
@@ -2391,86 +2511,6 @@
           "wordCount": 3407,
           "title": "&#039;It&#039;s a big blow&#039; - Journalist laments Celtic injury news he&#039;s heard ahead of Motherwell clash",
           "imageUrl": "https://cdn.footballtransfertavern.com/wp-content/uploads/2022/05/2021-12-19T154834Z_1061170616_UP1EHCJ17WVGG_RTRMADP_3_SOCCER-SCOTLAND-HIB-CEL-REPORT-scaled.jpg"
-        },
-        {
-          "id": "https://thecelticstar.com/champions-league-reality-matched-the-dream-as-matt-oriley-reckons-celtic-can-qualify/",
-          "author": null,
-          "description": "Matt O’Riley yesterday told The Celtic Star that the reality of actually playing in the Champions League has matched the dream and the Celtic midfielder also reckons that provided Celtic can become more ruthless in front of goal then there’s no reason why the team can’t progress to the knock-out stages of the competition at Read More",
-          "link": "https://thecelticstar.com/champions-league-reality-matched-the-dream-as-matt-oriley-reckons-celtic-can-qualify/",
-          "publishedOn": "2022-10-01T08:41:13.000Z",
-          "wordCount": 1457,
-          "title": "Champions League reality matched the dream as Matt O’Riley reckons Celtic can qualify",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/shakhtar-donetsk-v-celtic-uefa-champions-league-8-1024x683.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/news/ange-postecoglou-singles-out-celtic-hero-who-is-now-playing-at-another-level-under-his-watch/",
-          "author": null,
-          "description": "Ange Postecoglou has insisted he will only consider resting Celtic captain Callum McGregor if there is a consistent drop off in his level of performance. There is often a lot of chatter around the amount of games McGregor plays a season. In fact, he often racks up more minutes than all but of a handful ...\nThe post Ange Postecoglou singles out Celtic hero who is now playing at &#039;another level&#039; under his watch appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/ange-postecoglou-singles-out-celtic-hero-who-is-now-playing-at-another-level-under-his-watch/",
-          "publishedOn": "2022-10-01T08:40:00.000Z",
-          "wordCount": 1947,
-          "title": "Ange Postecoglou singles out Celtic hero who is now playing at &#039;another level&#039; under his watch",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/10/GettyImages-1421388791-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/news/ange-postecoglou-hints-at-celtic-debut-vs-motherwell-with-oliver-abildgaard-update/",
-          "author": null,
-          "description": "Ange Postecoglou has suggested Oliver Abildgaard will make his debut today, or over the next couple of games, after a solid period of Celtic training at Lennoxtown. Abildgaard arrived on a year-long stay at the end of the summer transfer window but didn’t get the opportunity to play in September for a variety of reasons, ...\nThe post Ange Postecoglou hints at potential Celtic debut today appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/ange-postecoglou-hints-at-celtic-debut-vs-motherwell-with-oliver-abildgaard-update/",
-          "publishedOn": "2022-10-01T08:05:29.000Z",
-          "wordCount": 1777,
-          "title": "Ange Postecoglou hints at potential Celtic debut today",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/09/GettyImages-1421025823-scaled.jpg"
-        },
-        {
-          "id": "https://thecelticstar.com/liverpool-echo-report-on-ange-postecoglous-jurgen-klopp-successor-answer/",
-          "author": null,
-          "description": "Ange Postecoglou’s response to the recent links to the Liverpool job when their current manager Jurgen Klopp either decides to depart or is shown the door or whatever, has made the local news in Liverpool.After initial mainstream media criticism, Ange has reinvented the Celtic side and turned the Hoops back into athe dominant force in Scottish Read More",
-          "link": "https://thecelticstar.com/liverpool-echo-report-on-ange-postecoglous-jurgen-klopp-successor-answer/",
-          "publishedOn": "2022-10-01T07:57:51.000Z",
-          "wordCount": 1219,
-          "title": "Liverpool Echo report on Ange Postecoglou’s Jurgen Klopp successor answer",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/ange-postecoglou-announces-celtic-visit-to-australia-3-1024x682.jpeg"
-        },
-        {
-          "id": "https://www.67hailhail.com/news/greg-taylor-shares-insight-into-celtics-st-mirren-reaction/",
-          "author": null,
-          "description": "Greg Taylor has shared that all of the international players returned to Lennoxtown for a debrief of the defeat to St Mirren, insisting that the Celtic camp is eager to right the wrongs of that day. The Bhoys are heading into today’s encounter with Motherwell of the back of a 2-0 loss that has been ...\nThe post Celtic star shares insight into Lennoxtown feeling after defeat appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/greg-taylor-shares-insight-into-celtics-st-mirren-reaction/",
-          "publishedOn": "2022-10-01T07:40:00.000Z",
-          "wordCount": 1883,
-          "title": "Celtic star shares insight into Lennoxtown feeling after defeat",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/09/GettyImages-1243230337-1-scaled.jpg"
-        },
-        {
-          "id": "https://thecelticstar.com/video-messi-or-ronaldo-celtic-star-shen-menglus-answer-kyogo/",
-          "author": null,
-          "description": "Celtic posted an amusing video-clip on TikTok of Chinese summer signing Shen Menglu attempting to answer this question; “If you could meet any person dead or alive, who would it be and why?”Although she initially struggles with the language, a combination of Google Translate and her teammates help her out to explain the question and Read More",
-          "link": "https://thecelticstar.com/video-messi-or-ronaldo-celtic-star-shen-menglus-answer-kyogo/",
-          "publishedOn": "2022-10-01T07:37:50.000Z",
-          "wordCount": 1232,
-          "title": "Video: “Messi or Ronaldo?”…Celtic Star, Shen Menglu’s answer: “Kyogo”",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/imago1014802885h-1024x732.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/opinion/today-is-big-for-celtic-with-potential-points-swing-on-the-line/",
-          "author": null,
-          "description": "It’s been a long couple of weeks since the Celtic defeat to St Mirren, the last time Ange Postecoglou’s team took to the pitch. Since then, the manager has completed a PR tour in Australia, a number of Celtic players have either excelled or picked up injury knocks on international duty, and the desire to ...\nThe post Today is massive for Celtic with points swing on the line appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/opinion/today-is-big-for-celtic-with-potential-points-swing-on-the-line/",
-          "publishedOn": "2022-10-01T07:10:00.000Z",
-          "wordCount": 1776,
-          "title": "Today is massive for Celtic with points swing on the line",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/09/GettyImages-1243228124-scaled.jpg"
-        },
-        {
-          "id": "https://thecelticstar.com/ange-postecoglou-on-oliver-abildgaards-imminent-celtic-debut/",
-          "author": null,
-          "description": "Ange Postecoglou yesterday provided an update on the summer signing, Oliver Abildgaard, and has backed the Dane to make an impact in his Celtic side over the intense period of games that start today and run through until the break for the World Cup.Oliver Abildgaard has been taking advantage of the international break to boost Read More",
-          "link": "https://thecelticstar.com/ange-postecoglou-on-oliver-abildgaards-imminent-celtic-debut/",
-          "publishedOn": "2022-10-01T07:08:15.000Z",
-          "wordCount": 1359,
-          "title": "Ange Postecoglou on Oliver Abildgaard’s imminent Celtic debut",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/FbmoZDZXwAEI0cb.jpeg"
         }
       ]
     },
@@ -3228,36 +3268,6 @@
           "wordCount": 13620,
           "title": "Celtic SLO Confirms Good News for Travelling Celts - CeltsAreHere",
           "imageUrl": null
-        },
-        {
-          "id": "CAIiEME8GweYrf-LYqf1B6VAeAYqGQgEKhAIACoHCAowrueiCTDmn7gCMOjNtwU",
-          "author": null,
-          "description": "Boli Bolingoli admits he made a 'mistake' with Spain trip during Celtic career  Daily Record",
-          "link": "https://www.dailyrecord.co.uk/sport/football/football-news/boli-bolingoli-catastrophic-celtic-spell-28128661",
-          "publishedOn": "2022-10-01T09:07:32.000Z",
-          "wordCount": 3463,
-          "title": "Boli Bolingoli admits he made a 'mistake' with Spain trip during Celtic career - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article22540120.ece/ALTERNATES/s1200/0_19335675.jpg"
-        },
-        {
-          "id": "CAIiEDOfQ5wR6VlvR3MM_CMO9isqGQgEKhAIACoHCAow96D9CjDOy_QCMPvp0wU",
-          "author": null,
-          "description": "Ange Postecoglou sends Celtic transfer message to Matt O'Riley with 'fall into the trap' warning  Glasgow Live",
-          "link": "https://www.glasgowlive.co.uk/sport/ange-postecoglou-sends-celtic-transfer-25153364",
-          "publishedOn": "2022-10-01T08:24:16.000Z",
-          "wordCount": 3486,
-          "title": "Ange Postecoglou sends Celtic transfer message to Matt O'Riley with 'fall into the trap' warning - Glasgow Live",
-          "imageUrl": "https://i2-prod.glasgowlive.co.uk/incoming/article25153320.ece/ALTERNATES/s1200/0_20566063.jpg"
-        },
-        {
-          "id": "CAIiEB97lPXNUEG8AT2Pyhf63uwqGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY",
-          "author": null,
-          "description": "Video: “Messi or Ronaldo?”…Celtic Star, Shen Menglu’s answer: “Kyogo”  The Celtic Star",
-          "link": "https://thecelticstar.com/video-messi-or-ronaldo-celtic-star-shen-menglus-answer-kyogo/",
-          "publishedOn": "2022-10-01T07:37:50.000Z",
-          "wordCount": 1232,
-          "title": "Video: “Messi or Ronaldo?”…Celtic Star, Shen Menglu’s answer: “Kyogo” - The Celtic Star",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/imago1014802885h-1024x732.jpg"
         }
       ]
     },
@@ -3266,6 +3276,86 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "b2c99b0a14b097ccee19db6703a22051",
+          "author": null,
+          "description": "ANGE POSTECOGLOU says he knew the mistake that cost Celtic in RB Leipzig was coming as his side had veered away from their football, and that they put goalkeeper Joe Hart under unnecessary pressure by playing too safe.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23023536.ange-postecoglou-shifts-focus-form-joe-hart-criticises-celtic-players-playing-safe-rb-leipzig-defeat/?ref=rss",
+          "publishedOn": "2022-10-05T20:43:58.000Z",
+          "wordCount": 8814,
+          "title": "Ange Postecoglou shifts focus form Joe Hart as he criticises Celtic players for playing it safe in RB Leipzig defeat",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16014828/?type=og-image"
+        },
+        {
+          "id": "235ba5020ee7340a76a18dd9e9020fc6",
+          "author": null,
+          "description": "CELTIC goalkeeper Joe Hart has held his hands up to the blunder that gifted RB Leipzig a goal at a crucial juncture in their 3-1 defeat in the Red Bull Arena, but says that is the price of playing football the way that manager Ange Postecoglou wants to.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23023534.joe-hart-owns-blunder-cost-celtic-leipzig-says-payoff-sticking-ange-postecoglous-principles/?ref=rss",
+          "publishedOn": "2022-10-05T20:41:06.000Z",
+          "wordCount": 8717,
+          "title": "Joe Hart owns blunder that cost Celtic in Leipzig, but says it is the payoff of sticking to Ange Postecoglou’s principles",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16014826/?type=og-image"
+        },
+        {
+          "id": "2c3716310bf3c7f3e490f2375d051d65",
+          "author": null,
+          "description": "The Hoops boss addressed his captain's injury-enforced substitution against RB Leipzig",
+          "link": "https://www.glasgowtimes.co.uk/sport/23023499.it-doesnt-look-good---worrying-callum-mcgregor-celtic-injury-update-ange-postecoglou/?ref=rss",
+          "publishedOn": "2022-10-05T19:28:04.000Z",
+          "wordCount": 8163,
+          "title": "'It doesn't look good': Callum McGregor Celtic injury update from Ange Postecoglou",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16014763/?type=og-image"
+        },
+        {
+          "id": "dbd40e461f4f0185e696cedd9ef39b05",
+          "author": null,
+          "description": "The Englishman took full responsibility for the second goal that the Hoops conceded in Germany.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23023490.joe-hart-fronts-celtic-howler-rb-leipzig/?ref=rss",
+          "publishedOn": "2022-10-05T19:21:00.000Z",
+          "wordCount": 8172,
+          "title": "Joe Hart fronts up after Celtic howler against RB Leipzig",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16014617/?type=og-image"
+        },
+        {
+          "id": "acad98e4cfc65402ceac6039e0c9b188",
+          "author": null,
+          "description": "RED Bull, according to their advertising slogan, gives you wings.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23023492.stephen-welsh-earns-champions-league-wings-red-bull-arena---celtic-fail-sparkle-leipzig-loss/?ref=rss",
+          "publishedOn": "2022-10-05T19:16:05.000Z",
+          "wordCount": 9221,
+          "title": "Stephen Welsh earns his Champions League wings in Red Bull Arena - but Celtic fail to sparkle in Leipzig loss",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16014738/?type=og-image"
+        },
+        {
+          "id": "2fdeb03467dd71d5afe30bdc798d88c5",
+          "author": null,
+          "description": "Joe Hart 5",
+          "link": "https://www.glasgowtimes.co.uk/sport/23023403.player-ratings-celtic-fall-short-away-rb-leipzig-champions-league/?ref=rss",
+          "publishedOn": "2022-10-05T18:46:47.000Z",
+          "wordCount": 8412,
+          "title": "Player ratings as Celtic fall short away to RB Leipzig in Champions League",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16014581/?type=og-image"
+        },
+        {
+          "id": "749f77c1f09e7af4261ea7ce8a5de6f6",
+          "author": null,
+          "description": "NEITHER Celtic nor RB Leipzig could stand accused of being scared to take risks, but after a crazy game in the Red Bull Arena, it was the Germans who reaped the rewards to haul themselves back into Group F.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23023402.game-risk-celtic-rb-leipzig-ends-germans-taking-rewards/?ref=rss",
+          "publishedOn": "2022-10-05T18:44:57.000Z",
+          "wordCount": 9055,
+          "title": "Game of risk between Celtic and RB Leipzig ends with Germans taking rewards",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16014582/?type=og-image"
+        },
+        {
+          "id": "6faec01a3193890c4c16fe4eb91e117c",
+          "author": null,
+          "description": "ANDY WALKER was left shellshocked as he described Joe Hart's \"horrible\" mistake to gift RB Leipzig a second in Germany.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23023397.shellshocked-andy-walker-fillets-joe-hart-live-sky-horrible-celtic-mistake/?ref=rss",
+          "publishedOn": "2022-10-05T18:39:16.000Z",
+          "wordCount": 8204,
+          "title": "Shellshocked Andy Walker fillets Joe Hart live on Sky after ‘horrible’ Celtic mistake",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16014572/?type=og-image"
+        },
         {
           "id": "dd7952fb891c9942ecf0224f1a40b8ab",
           "author": null,
@@ -3285,6 +3375,16 @@
           "wordCount": 8111,
           "title": "Kyogo Furuhashi shows class in RB Leipzig vs Celtic injury gesture",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16014449/?type=og-image"
+        },
+        {
+          "id": "46ca02be5fbca963039947fe4112c02a",
+          "author": null,
+          "description": "The main talking points from the Hoops' European defeat in Germany.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23023045.3-burning-issues-celtic-defeated-rb-leipzig-champions-league/?ref=rss",
+          "publishedOn": "2022-10-05T16:01:14.000Z",
+          "wordCount": 8277,
+          "title": "3 burning issues as Celtic defeated by RB Leipzig in the Champions League",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16014583/?type=og-image"
         },
         {
           "id": "12096052ab23a58cf815393fcd8f4a0a",
@@ -3695,36 +3795,6 @@
           "wordCount": 8336,
           "title": "Boli Bolingoli opens up on infamous Celtic Covid breach, Neil Lennon, Nicola Sturgeon and his Parkhead exit",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15998387/?type=og-image"
-        },
-        {
-          "id": "e3a186f39fd699878b6a1a7452e4e966",
-          "author": null,
-          "description": "The ex-Hoops striker says things have changed at Parkhead recently",
-          "link": "https://www.glasgowtimes.co.uk/sport/23007155.chris-sutton-hands-celtic-new-catchphrase-replace-we-never-stop-make-or-break-stretch-looms-large/?ref=rss",
-          "publishedOn": "2022-10-01T08:44:19.000Z",
-          "wordCount": 8654,
-          "title": "Chris Sutton hands Celtic a new catchphrase to replace 'we never stop' as make-or-break stretch looms large",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15998334/?type=og-image"
-        },
-        {
-          "id": "804690a2d51a0ddce37e9ffa0f8823a3",
-          "author": null,
-          "description": "Rangers legend Kris Boyd reckons Celtic struggled for creative inspiration for the first time under Ange Postecoglou in their 2-0 defeat to St Mirren.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23007153.jotas-celtic-absence-baffling-ange-postecoglou-ran-ideas-claims-rangers-legend/?ref=rss",
-          "publishedOn": "2022-10-01T08:43:18.000Z",
-          "wordCount": 8700,
-          "title": "Jota's Celtic absence baffling and Ange Postecoglou 'ran out of ideas' claims Rangers legend",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15998331/?type=og-image"
-        },
-        {
-          "id": "3187943220ff09c9268fb390ad50312d",
-          "author": null,
-          "description": "Ryan Porteous should be the subject of a transfer battle between Celtic and Rangers, according to Kris Boyd.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23007123.kris-boyd-tells-rangers-celtic-target-ryan-porteous-despite-infuriating-antics/?ref=rss",
-          "publishedOn": "2022-10-01T08:19:09.000Z",
-          "wordCount": 8161,
-          "title": "Kris Boyd tells Rangers and Celtic to target Ryan Porteous despite 'infuriating' antics",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/13329795/?type=og-image"
         }
       ]
     }
