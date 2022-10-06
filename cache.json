@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com//sport/football/celtic",
       "articles": [
         {
+          "id": "3869224",
+          "author": "Angus Wright",
+          "description": "Ange Postecoglou expressed his frustration at the way his Celtic team played after getting level against RB Leipzig in the Champions League clash in Germany.",
+          "link": "https://www.scotsman.com/sport/football/celtic/not-how-football-works-ange-postecoglou-talks-celtic-negativity-mistakes-and-injury-hope-after-defeat-3869224",
+          "publishedOn": "2022-10-06T06:47:09.000Z",
+          "wordCount": 2158,
+          "title": "'Not how football works' - Ange Postecoglou talks Celtic negativity, mistakes and injury hope after defeat",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjBjMjAyOWNiLTNkYWMtNDQ4YS1hMWM0LWVjZGM0NzQ3MTc0NDpjOTdmYmY5NS00NWNkLTRkYzgtYTgwYi1hYzlmYWNhOWI1MGY=.jpg?width=1200&enable=upscale"
+        },
+        {
           "id": "3869081",
           "author": "Alison McConnell",
           "description": "Just under 19,000 Scotland supporters turned up at Hampden to send the women’s team off to the World Cup finals in France back in 2019. Their first participation at FIFA’s increasingly glitzy and high profile female event, Scotland’s women were riding the crest of a wave as they beat Jamaica before reaching for the passports.",
@@ -224,16 +234,6 @@
           "wordCount": 2723,
           "title": "'Steve is going to have huge problems when he’s picking his next squad' - Scotland pool gives manager Clarke welcome headache",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjZjNmE5NGFkLTQ5ZDUtNDRiMy05NmUzLTIwMzQ1NTMxMzY3MDoxMzdiYzUwYS02OTEzLTQ2YTEtOWM5My0xMGVjMTRmM2I3M2Q=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3864074",
-          "author": "Mark Atkinson",
-          "description": "Celtic defender Cameron Carter-Vickers remains doubtful for the club’s Champions League tie against RB Leipzig next week.",
-          "link": "https://www.scotsman.com/sport/football/celtic/cameron-carter-vickers-major-update-given-on-celtic-defenders-chances-of-facing-rb-leipzig-3864074",
-          "publishedOn": "2022-10-01T20:07:32.000Z",
-          "wordCount": 1978,
-          "title": "Cameron Carter-Vickers: Major update given on Celtic defenders chances of facing RB Leipzig",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjlhZTI4YzZmLTM3NDgtNDY3OS05MTY0LTIzMzQ1NjAzNWEwYzo1ZTRmZDQ4MC1lNWNlLTQwZmUtYmUyYS0zYTM1YzIyOWFiYmE=.jpg?width=1200&enable=upscale"
         }
       ]
     },
@@ -242,6 +242,126 @@
       "feedUrl": "http://armchaircelts.co.uk/wprss",
       "siteUrl": "http://armchaircelts.co.uk/feed/wprss/",
       "articles": [
+        {
+          "id": "https://thecelticblog.com/2022/10/articles-and-features/the-celtic-captain-needed-a-break-but-not-this-way-and-not-for-long/",
+          "author": null,
+          "description": "God. Did I cause this damned thing? At a time like this, weird stuff like that goes through your mind. In the week I wrote that we should not appeal the sending off against Motherwell because Callum McGregor needs a break he looks like he’s going to get one. But for the love of … […]",
+          "link": "https://thecelticblog.com/2022/10/articles-and-features/the-celtic-captain-needed-a-break-but-not-this-way-and-not-for-long/",
+          "publishedOn": "2022-10-06T09:10:32.000Z",
+          "wordCount": 1829,
+          "title": "The Celtic Captain Needed A Break. But Not This Way, And Not For Long.",
+          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2022/02/2022-02-02T202039Z_1612111100_UP1EI221KIC9D_RTRMADP_3_SOCCER-SCOTLAND-CEL-RFC-REPORT.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/news/report-injured-celtic-star-makes-specialist-visit-to-determine-timescale-of-first-team-return/",
+          "author": null,
+          "description": "Celtic defender Carl Starfelt visited a specialist in London this week to determine the timescale of the knee injury that has kept him out for the last month, according to a report. The 27-year-old was taken off in the 4-0 Glasgow derby win over Rangers last month and has not featured since, missing all three ...\nThe post Report: Injured Celtic star makes specialist visit to determine timescale of first-team return appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/report-injured-celtic-star-makes-specialist-visit-to-determine-timescale-of-first-team-return/",
+          "publishedOn": "2022-10-06T09:10:29.000Z",
+          "wordCount": 1924,
+          "title": "Report: Injured Celtic star makes specialist visit to determine timescale of first-team return",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/10/GettyImages-1420468704-scaled.jpg"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/ange-in-24-hour-skipper-sweat/",
+          "author": null,
+          "description": "ANGE POSTECOGLOU will learn within the next 24 hours the full extent of the injury that saw Callum McGregor limp off in the first-half in Leipzig last night. The Celtic skipper was injured after he took an initial heavy first touch as he moved onto a pass from Reo Hatate following a Matt O’Riley left-wing [...]",
+          "link": "https://www.celticquicknews.co.uk/ange-in-24-hour-skipper-sweat/",
+          "publishedOn": "2022-10-06T08:56:03.000Z",
+          "wordCount": 2629,
+          "title": "ANGE IN 24-HOUR SKIPPER SWEAT",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/10/CALLUM-MCGREGOR-RB-FEATURED-GG.png"
+        },
+        {
+          "id": "https://thecelticstar.com/i-could-see-it-coming-ange-postecoglou-rues-celtics-second-half-survival-mode/",
+          "author": null,
+          "description": "Joe Hart put his hands up, taking full responsibility for the gift of a second goal for RB Leipzig last night but that was then dismssed by his manager Ange Postecoglou who criticised his team for slipping into a survival mode in the second half of the Champions League Group stages match after Jota had Read More",
+          "link": "https://thecelticstar.com/i-could-see-it-coming-ange-postecoglou-rues-celtics-second-half-survival-mode/",
+          "publishedOn": "2022-10-06T08:49:55.000Z",
+          "wordCount": 2022,
+          "title": "“I could see it coming,” Ange Postecoglou rues Celtic’s second half survival mode",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/10/fbl-eur-c1-leipzig-celtic-18-1024x688.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/news/rb-leipzig-confirm-gulacsi-injury-blow-to-add-to-mounting-lay-offs-after-celtic-ucl-win/",
+          "author": null,
+          "description": "RB Leipzig captain Peter Gulacsi suffered an anterior cruciate ligament tear in last night’s Champions League win over Celtic and will spend a lengthy spell on the side-lines, the Bundesliga club have confirmed. The Hungarian international was taken off early on in the 3-1 win over Ange Postecoglou’s side after collapsing following awkward clearance under ...\nThe post RB Leipzig confirm captain injury blow to add to mounting lay-offs after Celtic UCL win appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/rb-leipzig-confirm-gulacsi-injury-blow-to-add-to-mounting-lay-offs-after-celtic-ucl-win/",
+          "publishedOn": "2022-10-06T08:40:00.000Z",
+          "wordCount": 1886,
+          "title": "RB Leipzig confirm captain injury blow to add to mounting lay-offs after Celtic UCL win",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/10/GettyImages-1430753210-scaled.jpg"
+        },
+        {
+          "id": "https://www.sportsmole.co.uk/football/chelsea/champions-league/feature/champions-league-team-of-the-week-silva-bellingham-mane_496218.html",
+          "author": null,
+          "description": "Sports Mole selects its Champions League Team of the Week, including Thiago Silva, Jude Bellingham and Sadio Mane.",
+          "link": "https://www.sportsmole.co.uk/football/chelsea/champions-league/feature/champions-league-team-of-the-week-silva-bellingham-mane_496218.html",
+          "publishedOn": "2022-10-06T08:32:22.000Z",
+          "wordCount": 1,
+          "title": "Champions League Team of the Week - Thiago Silva, Jude Bellingham, Sadio Mane",
+          "imageUrl": null
+        },
+        {
+          "id": "https://celtsarehere.com/special-ange-postecoglou-events-announced/",
+          "author": null,
+          "description": "Ange Postecoglou has been booked up for two live special events during the club’s trip to Australia in November Ticketeck Australia announced. The announcement came over night and has been billed as ‘an evening with Ange’. There will be two shows; one in Sydney where Celtic will be playing and the other in Melbourne where […]\nSource",
+          "link": "https://celtsarehere.com/special-ange-postecoglou-events-announced/",
+          "publishedOn": "2022-10-06T08:29:13.000Z",
+          "wordCount": 13369,
+          "title": "Special Ange Postecoglou Events Announced",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/i-could-see-it-coming-ange-defends-hart/",
+          "author": null,
+          "description": "ANGE POSTECOGLOU leapt to the defence of Joe Hart after the keeper’s x-certificate error cost Celtic the crucial second goal in 3-1 Champions League defeat against RB Leipzig last night. The Hoops boss, who could not mask his bitter disappointment in the aftermath of the result that leaves his team rock-bottom of Group F, was [...]",
+          "link": "https://www.celticquicknews.co.uk/i-could-see-it-coming-ange-defends-hart/",
+          "publishedOn": "2022-10-06T07:20:11.000Z",
+          "wordCount": 2940,
+          "title": "‘I COULD SEE IT COMING,’ ANGE DEFENDS HART",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/10/ANGE-POSTECOGLOU-DIS-RB-FTRD.png"
+        },
+        {
+          "id": "https://thecelticstar.com/jock-stein-the-man-who-inspired-the-celtic-rising/",
+          "author": null,
+          "description": "Jock Stein: the man who inspired The Celtic Rising…A century ago yesterday, a baby was born in the Burnbank area of Hamilton who would go on to rewrite the history of Celtic Football Club, taking it from a side struggling to compete in Scotland to the greatest team in Europe, if not the world. And Read More",
+          "link": "https://thecelticstar.com/jock-stein-the-man-who-inspired-the-celtic-rising/",
+          "publishedOn": "2022-10-06T06:49:00.000Z",
+          "wordCount": 3699,
+          "title": "Jock Stein: The Man Who Inspired The Celtic Rising",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2021/06/12962371-1024x779.jpg"
+        },
+        {
+          "id": "https://celtsarehere.com/i-could-see-it-coming-ange-makes-survival-mode-celtic-claim/",
+          "author": null,
+          "description": "ANGE POSTECOGLOU wasn’t too harsh on his goalkeeper Joe Hart after his calamitous error ended Celtic’s chances of a result in Leipzig. The game was sitting at 1-1 and Celtic had just got a massive let off with VAR when Joe passed it straight to a Leipzig player just outside his area. Silva didn’t need […]\nSource",
+          "link": "https://celtsarehere.com/i-could-see-it-coming-ange-makes-survival-mode-celtic-claim/",
+          "publishedOn": "2022-10-06T06:45:00.000Z",
+          "wordCount": 13465,
+          "title": "‘I could see it coming’ – Ange Makes ‘Survival Mode’ Celtic Claim",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/im-at-fault-blunder-bhoy-owns-up/",
+          "author": null,
+          "description": "HONEST Joe Hart was swift to hold up his hands and accept the blame for his howler that gifted RB Leipzig their second goal in Celtic’s 3-1 Champions League loss in Germany. The score was balanced at 1-1 in the 64th minute when the experienced 75 times-capped England international No.1 inexplicably and uncharacteristically presented the [...]",
+          "link": "https://www.celticquicknews.co.uk/im-at-fault-blunder-bhoy-owns-up/",
+          "publishedOn": "2022-10-06T06:33:01.000Z",
+          "wordCount": 2685,
+          "title": "‘I’M AT FAULT,’ BLUNDER BHOY OWNS UP",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/10/JOE-HART-FEATURED-BT.png"
+        },
+        {
+          "id": "https://celtsarehere.com/unique-fan-footage-celtic-fan-light-show-in-germany/",
+          "author": null,
+          "description": "We’re Glasgow Celtic bellowed out into the cold night air inside Leipzig’s stadium on Wednesday night before kick off as the fans pout on a pyro show from the stands. Celtic Podcast ‘The Cynic’ posted up this unique footage of the light show from the back of the stand before kick off. The fans were […]\nSource",
+          "link": "https://celtsarehere.com/unique-fan-footage-celtic-fan-light-show-in-germany/",
+          "publishedOn": "2022-10-06T06:31:00.000Z",
+          "wordCount": 13439,
+          "title": "Unique Fan Footage; Celtic Fan Light Show in Germany",
+          "imageUrl": null
+        },
         {
           "id": "https://celtsarehere.com/leipzig-post-up-classy-kyogo-moment/",
           "author": null,
@@ -2231,36 +2351,6 @@
           "wordCount": 1450,
           "title": "Celtic On This Day – 2nd October – David Potter’s Celtic Diary",
           "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/image-205-1024x736.jpeg"
-        },
-        {
-          "id": "https://thecelticstar.com/sandmans-definitive-ratings-celtic-v-some-mothers-do-have-em/",
-          "author": null,
-          "description": "SANDMAN’S DEFINITIVE RATINGS: CELTIC v SOME MOTHERS DO HAVE ‘EM…ROXIE – 6.5/10 – Big Joe and the comedy pinball routine with their strikers certainly livened up the second half after having a joke played on him just before half-time by our wacky Croatian. Hardly a save but plenty of handling under pressure which was executed with exemplary cool. Currently bellowing Read More",
-          "link": "https://thecelticstar.com/sandmans-definitive-ratings-celtic-v-some-mothers-do-have-em/",
-          "publishedOn": "2022-10-01T20:15:43.000Z",
-          "wordCount": 2569,
-          "title": "Sandman’s Definitive Ratings – Celtic v Some Mothers Do Have ‘Em",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/10/imago1015313111h-1024x683.jpg"
-        },
-        {
-          "id": "https://celtsarehere.com/leipzig-on-form-ahead-of-celtic-visit/",
-          "author": null,
-          "description": "Celtic made hard work if their victory over Motherwell on Saturday afternoon, but the same can’t be said for RB Leipzig who thrashed Vfl Bochum 4-0. The two sides are set to meet each other in the Champions League. The bhoys will travel over to Germany next week hoping to cause a shock in the […]\nSource",
-          "link": "https://celtsarehere.com/leipzig-on-form-ahead-of-celtic-visit/",
-          "publishedOn": "2022-10-01T19:09:00.000Z",
-          "wordCount": 13404,
-          "title": "Leipzig On Form Ahead of Celtic Visit",
-          "imageUrl": null
-        },
-        {
-          "id": "https://celtsarehere.com/celtic-v-motherwell-player-ratings-one-bhoy-earns-4-10/",
-          "author": null,
-          "description": "Celtic earned a hard-fought victory over Motherwell on Saturday afternoon as Reo Hatate’s strike made sure of the points after a Josip Juranovic own goal cancelled out Kyogo’s opener on 16 minutes. Callum McGregor was sent off late on although the Celts professionally held on to see out the win in the closing stages.  Here’s […]\nSource",
-          "link": "https://celtsarehere.com/celtic-v-motherwell-player-ratings-one-bhoy-earns-4-10/",
-          "publishedOn": "2022-10-01T18:56:51.000Z",
-          "wordCount": 14125,
-          "title": "Celtic v Motherwell Player Ratings | One Bhoy Earns 4/10",
-          "imageUrl": null
         }
       ]
     },
@@ -2269,6 +2359,16 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CAIiEEl5L8pb4j201HBxaQ8ZnPsqGQgEKhAIACoHCAow96D9CjDOy_QCMPvp0wU",
+          "author": null,
+          "description": "Celtic hero Neil Lennon bidding to add Ronaldo to his Messi scalp with 'great question' response  Glasgow Live",
+          "link": "https://www.glasgowlive.co.uk/sport/celtic-hero-neil-lennon-bidding-25191227",
+          "publishedOn": "2022-10-06T09:05:53.000Z",
+          "wordCount": 3545,
+          "title": "Celtic hero Neil Lennon bidding to add Ronaldo to his Messi scalp with 'great question' response - Glasgow Live",
+          "imageUrl": "https://i2-prod.glasgowlive.co.uk/incoming/article25191027.ece/ALTERNATES/s1200/0_lennonpressPNG.png"
+        },
         {
           "id": "CAIiEBCUalFDKsm6cdG40gm_pRYqGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY",
           "author": null,
@@ -2348,6 +2448,16 @@
           "wordCount": 2999,
           "title": "The Neil Lennon Celtic X-factor fuelling belief ahead of Manchester United blockbuster - Daily Record",
           "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28133998.ece/ALTERNATES/s1200/0_Europa-League-Group-E-Real-Sociedad-v-Omonia.jpg"
+        },
+        {
+          "id": "CBMiZWh0dHBzOi8vcmVhZGNlbHRpYy5jb20vMjAyMi8xMC8wNS92aXJhbHMtd2F0Y2gtY2VsdGljcy1zdXBlcmItdHJpYnV0ZS10by1jbHVicy1ncmVhdGVzdC1ldmVyLW1hbmFnZXIv0gEA",
+          "author": null,
+          "description": "Virals: Watch Celtic's superb tribute to club's greatest ever manager  Read Celtic",
+          "link": "https://readceltic.com/2022/10/05/virals-watch-celtics-superb-tribute-to-clubs-greatest-ever-manager/",
+          "publishedOn": "2022-10-05T12:00:00.000Z",
+          "wordCount": 2947,
+          "title": "Virals: Watch Celtic's superb tribute to club's greatest ever manager - Read Celtic",
+          "imageUrl": "https://cdn.readeverything.co/wp-content/uploads/sites/39/2022/10/1005208124-1200x800.jpg"
         },
         {
           "id": "CAIiEG-3gYYZk0fc3sVNs59jO4oqGQgEKhAIACoHCAowr5GNCzDFxJ4DMLbFpgY",
@@ -2968,24 +3078,34 @@
           "wordCount": 3323,
           "title": "Neil Lennon targets Manchester United takedown as former Celtic boss reveals split loyalties in Omonia camp - Daily Record",
           "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28133998.ece/ALTERNATES/s1200/0_Europa-League-Group-E-Real-Sociedad-v-Omonia.jpg"
-        },
-        {
-          "id": "CAIiEPb3ihiR0L6utaJGq_3UXM4qGQgEKhAIACoHCAow4KKJCzCv9JoDMICkoAY",
-          "author": null,
-          "description": "Celtic and Rangers told to fight for Premiership star  The Celtic Bhoys",
-          "link": "https://thecelticbhoys.com/2022/10/01/celtic-rangers-fight-premiership-star/",
-          "publishedOn": "2022-10-01T21:04:50.000Z",
-          "wordCount": 2378,
-          "title": "Celtic and Rangers told to fight for Premiership star - The Celtic Bhoys",
-          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2018%2F08%2F1420435965.jpeg"
         }
       ]
     },
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "fc4c1c064bc67a4676dd50f81255cca0",
+          "author": null,
+          "description": "CELTIC are on the road again following their Champions League defeat in Germany.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23023867.st-johnstone-vs-celtic-tv-channel-live-stream-kick-off-time/?ref=rss",
+          "publishedOn": "2022-10-06T07:51:56.000Z",
+          "wordCount": 8511,
+          "title": "St Johnstone vs Celtic: TV channel, live stream and kick-off time",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16015248/?type=og-image"
+        },
+        {
+          "id": "b46a48c0b28589c5bdbe9741fad643cd",
+          "author": null,
+          "description": "RANGERS hero Ally McCoist was at his jovial best alongside Alan Brazil on the airwaves this morning.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23023807.rangers-hero-ally-mccoist-cheeky-celtic-champions-league-rulebook-quip/?ref=rss",
+          "publishedOn": "2022-10-06T07:15:04.000Z",
+          "wordCount": 8174,
+          "title": "Rangers hero Ally McCoist in cheeky Celtic Champions League rulebook quip",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16015161/?type=og-image"
+        },
         {
           "id": "99fc0bb7cbdcf248fb96290523c6e0a8",
           "author": null,
@@ -3465,16 +3585,6 @@
           "wordCount": 8341,
           "title": "Three-time European Cup winner on why Celtic manager Ange Postecoglou is right to go on Champions League offensive",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15998582/?type=og-image"
-        },
-        {
-          "id": "b6fb12e04bfe90e91c878d91e38a003a",
-          "author": null,
-          "description": "LIEL ABADA knows just how tight the margins can be when competing at the very highest level. And if the Celtic winger had been in any doubt, his side’s Champions League campaign thus far as all but erased it.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23007989.liel-abada-insists-celtic-determined-seize-champions-league-opportunity/?ref=rss",
-          "publishedOn": "2022-10-01T21:30:00.000Z",
-          "wordCount": 8620,
-          "title": "Liel Abada insists Celtic are determined to seize their Champions League opportunity",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15999531/?type=og-image"
         }
       ]
     }
