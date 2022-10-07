@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com//sport/football/celtic",
       "articles": [
         {
+          "id": "3872041",
+          "author": "Mark Atkinson",
+          "description": "The Scottish Professional Football League has announced which matches will be shown live on Sky Sports over the festive period.",
+          "link": "https://www.scotsman.com/sport/football/rangers/spfl-announce-festive-fixture-schedule-rangers-v-hibs-moved-friday-dingwall-trip-old-firm-on-tv-no-hearts-tv-matches-3872041",
+          "publishedOn": "2022-10-07T15:19:59.000Z",
+          "wordCount": 1881,
+          "title": "SPFL announce festive fixture schedule - Rangers v Hibs moved, Friday Dingwall trip, Old Firm on TV, no Hearts TV matches",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmM4MmVmZDFjLTdiMDItNDlmOC1hMTk2LWNlZTE4NWYyYmUzYzo4MzlhZmIxNy1mMDBmLTQzNDUtOTViMC1mNDdlZDQ1MTQyNzY=.jpg?width=1200&enable=upscale"
+        },
+        {
           "id": "3871169",
           "author": "Joel Sked",
           "description": "Ange Postecoglou has delivered a concerning injury update on Celtic captain Callum McGregor.",
@@ -263,6 +273,56 @@
       "siteUrl": "http://armchaircelts.co.uk/feed/wprss/",
       "articles": [
         {
+          "id": "https://thecelticblog.com/2022/10/articles-and-features/goodwin-got-banned-for-something-anti-celtic-managers-have-gotten-away-with/",
+          "author": null,
+          "description": "When Jim Goodwin blasted Ryan Porteous in the aftermath of a game between Aberdeen and Hibs earlier in the season – for the incident which saw our young loanee Liam Scales sent off – I was pretty astonished by his remarks. I thought he deserved to be hauled in front of the SFA discipline panel […]",
+          "link": "https://thecelticblog.com/2022/10/articles-and-features/goodwin-got-banned-for-something-anti-celtic-managers-have-gotten-away-with/",
+          "publishedOn": "2022-10-07T14:10:11.000Z",
+          "wordCount": 1846,
+          "title": "Goodwin Got Banned For Something Anti-Celtic Managers Have Gotten Away With.",
+          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2022/01/2021-04-23T103825Z_1394456677_RC2M1N98I73L_RTRMADP_3_SOCCER-EURO-VENUES.jpg"
+        },
+        {
+          "id": "https://thecelticblog.com/2022/10/articles-and-features/celtics-progress-will-rightly-be-judged-on-the-next-two-champions-league-games/",
+          "author": null,
+          "description": "What can we tell about where we are right now? In European terms, we’re still struggling to answer that question. There was none of the composure or poise or aggression in midweek that we’d seen in Poland or at home against Madrid. Of the three games, it was the outlier because it bore such little […]",
+          "link": "https://thecelticblog.com/2022/10/articles-and-features/celtics-progress-will-rightly-be-judged-on-the-next-two-champions-league-games/",
+          "publishedOn": "2022-10-07T13:13:13.000Z",
+          "wordCount": 1802,
+          "title": "Celtic’s Progress Will Rightly Be Judged On The Next Two Champions League Games.",
+          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2022/04/2022-04-09T155547Z_501744805_UP1EI49188Y0R_RTRMADP_3_SOCCER-SCOTLAND-CEL-STJ-REPORT-scaled.jpg"
+        },
+        {
+          "id": "https://thecelticstar.com/my-thing-is-always-about-progress-ange-postecoglou-were-certainly-a-better-side-than-we-were-last-year/",
+          "author": null,
+          "description": "Celtic will not be altering the way the team plays its football under Ange Postecoglou, despite failing to win any of the three Champions League matches that have played, losing to both Real Madrid (3-0) and RB Leipzig (3-1) while sharing the points with Shakhtar Donetsk (1-1). And the Celtic manager dismisses any notion that Read More",
+          "link": "https://thecelticstar.com/my-thing-is-always-about-progress-ange-postecoglou-were-certainly-a-better-side-than-we-were-last-year/",
+          "publishedOn": "2022-10-07T12:56:52.000Z",
+          "wordCount": 1756,
+          "title": "“My thing is always about progress,” Postecoglou: “We’re certainly a better side than we were last year”",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/10/fbl-eur-c1-celtic-presser-18-1024x624.jpg"
+        },
+        {
+          "id": "https://celtsarehere.com/ange-delivers-carl-starfelt-latest/",
+          "author": null,
+          "description": "ANGE POSTECOGLOU has provided the latest with Carl Starfelt’s injury. The Swedish defender was injured in Celtic’s derby win, and has been sidelined ever since. His absence has been felt by the team, and fans have began to realise how important he is to the Celtic side. Ange gave a blunt response, admitting the situation […]\nSource",
+          "link": "https://celtsarehere.com/ange-delivers-carl-starfelt-latest/",
+          "publishedOn": "2022-10-07T12:44:44.000Z",
+          "wordCount": 13437,
+          "title": "Ange Delivers Carl Starfelt Latest",
+          "imageUrl": null
+        },
+        {
+          "id": "https://celticfanzine.com/away-days-celtic-fans-in-leipzig/",
+          "author": null,
+          "description": "Celtic Football Club Fans in Leipzig, Germany for the Champions League game against RB Leipzig. Celtic FC fans enjoying the sunshine in the square before backing the team for More than 90 Minutes in the stadium    \nThe post AWAY DAYS Celtic Fans in Leipzig appeared first on Celtic Fanzine.",
+          "link": "https://celticfanzine.com/away-days-celtic-fans-in-leipzig/",
+          "publishedOn": "2022-10-07T12:18:26.000Z",
+          "wordCount": 1733,
+          "title": "AWAY DAYS Celtic Fans in Leipzig",
+          "imageUrl": "https://celticfanzine.com/wp-content/uploads/Celtic-fans-Leipzig-.png"
+        },
+        {
           "id": "https://thecelticblog.com/2022/10/articles-and-features/why-we-should-ignore-the-dark-cloud-hovering-over-celtic-at-the-moment/",
           "author": null,
           "description": "We have failed to win three of our last four games. Our Champions League future hangs by a thread. We are not playing particularly well at the moment. Injuries are piling up and we’re heading into a tough series of fixtures. The impression of Celtic labouring at the moment under a dark cloud might be […]",
@@ -351,6 +411,16 @@
           "wordCount": 1796,
           "title": "The Celtic Players Who Talked To The Press Seem More Confident Than Despondent.",
           "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2022/02/2022-02-06T140936Z_831787144_UP1EI2613BX19_RTRMADP_3_SOCCER-SCOTLAND-MOT-CEL-REPORT.jpg"
+        },
+        {
+          "id": "https://celtsarehere.com/opinion-major-celtic-dressing-room-moment/",
+          "author": null,
+          "description": "The extent of Callum McGregor’s injury isn’t yet known, but the news the player will be out longterm is a massive blow to Celtic’s season. McGregor has been the leader in the Celtic dressing room and the constant through so much change. Even when Callum broke bones in his face last season, he had the […]\nSource",
+          "link": "https://celtsarehere.com/opinion-major-celtic-dressing-room-moment/",
+          "publishedOn": "2022-10-07T10:16:30.000Z",
+          "wordCount": 13563,
+          "title": "Opinion: Major Celtic Dressing Room Moment",
+          "imageUrl": null
         },
         {
           "id": "https://thecelticstar.com/celtic-v-rb-leipzig-it-will-be-a-fantastic-game-emil-forsberg/",
@@ -2768,6 +2838,16 @@
           "wordCount": 6339,
           "title": "RB Leipzig 3-1 Celtic: Christopher Nkunku scores in dramatic Champions League encounter - Sky Sports",
           "imageUrl": null
+        },
+        {
+          "id": "CAIiEICJWwAnEUdy_9DtVkiGTeYqGQgEKhAIACoHCAow_-CqCzD868IDMPLfoQc",
+          "author": null,
+          "description": "Pat Bonner says Celtic and Rangers 'are unrealistic' over Champions League hopes  Football Scotland",
+          "link": "https://www.footballscotland.co.uk/spfl/scottish-premiership/pat-bonner-says-celtic-rangers-25188047",
+          "publishedOn": "2022-10-05T17:16:55.000Z",
+          "wordCount": 2684,
+          "title": "Pat Bonner says Celtic and Rangers 'are unrealistic' over Champions League hopes - Football Scotland",
+          "imageUrl": "https://i2-prod.footballscotland.co.uk/incoming/article25180290.ece/ALTERNATES/s1200/0_Liverpool-FC-v-Rangers-FC-Group-A-UEFA-Champions-League.jpg"
         },
         {
           "id": "CAIiEINsXGwvF9oGG09jsA9KSwQqGQgEKhAIACoHCAowi76vCzCYyccDMK3zuAc",
