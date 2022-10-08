@@ -6,6 +6,26 @@
       "siteUrl": "https://www.scotsman.com//sport/football/celtic",
       "articles": [
         {
+          "id": "3872104",
+          "author": "Andrew Smith",
+          "description": "Across his 15-month tenure as Celtic manager, Ange Postecoglou has rarely upbraided his players in the fashion he did following their 3-1 Champions League loss away to RB Leipzig in midweek.",
+          "link": "https://www.scotsman.com/sport/football/celtic/my-role-is-to-intervene-at-this-moment-celtic-manager-ange-postecoglou-plans-action-in-wake-of-rb-leipzig-defeat-3872104",
+          "publishedOn": "2022-10-07T21:30:00.000Z",
+          "wordCount": 2337,
+          "title": "'My role is to intervene at this moment': Celtic manager Ange Postecoglou plans action in wake of RB Leipzig defeat",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjFlMjAyMzYxLTNlNjktNGJiYS05NzNlLTllYjMwOGVhMjRiZDowZGU1NTVkMC01NWY0LTRhMTQtYTc2MC0zOTk3N2EwNTQ5ZTY=.jpg?width=1200&enable=upscale"
+        },
+        {
+          "id": "3871841",
+          "author": "Andrew Smith",
+          "description": "No-one believes life without Callum McGregor for Celtic will be straightforward.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtics-callum-mcgregor-loss-ange-postecoglou-suggests-three-player-solution-yosuke-ideguchi-chance-we-are-different-caution-from-fitness-building-oliver-abildgaard-3871841",
+          "publishedOn": "2022-10-07T21:30:00.000Z",
+          "wordCount": 2675,
+          "title": "Celtic's Callum McGregor loss: Ange Postecoglou suggests three-player solution, Yosuke Ideguchi chance; 'we are different 'caution from fitness-building Oliver Abildgaard",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjkzMWM1NjNkLTk3NDAtNDgwMy04ODk5LWQ2ZDgzODZkNzE0MTpjYjZlY2MzZi04ZTdmLTQ3MWQtOWQ2MC04YTlmM2JjYTRiYjQ=.jpg?width=1200&enable=upscale"
+        },
+        {
           "id": "3872041",
           "author": "Mark Atkinson",
           "description": "The Scottish Professional Football League has announced which matches will be shown live on Sky Sports over the festive period.",
@@ -234,16 +254,6 @@
           "wordCount": 2507,
           "title": "Rangers, Celtic and Glasgow City win in Sky Sports League Cup as Hibs put EIGHT past Accies",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmE1ZWRhYzM1LTgyNmEtNGZiNy1iYjY3LTA4NDgzMWZmYTMyNzplY2NjY2JlOS1lNmIxLTRmYWMtYTY1ZS1hNzcwYjUzY2Y0OWQ=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3865286",
-          "author": "Mark Atkinson",
-          "description": "Liverpool manager Jurgen Klopp has hailed Rangers and Celtic and believes the quality of Scottish football has improved markedly.",
-          "link": "https://www.scotsman.com/sport/football/rangers/its-a-cool-place-to-scout-jurgen-klopp-lauds-rangers-and-celtic-and-has-say-on-ben-davies-3865286",
-          "publishedOn": "2022-10-03T12:33:24.000Z",
-          "wordCount": 1854,
-          "title": "'It's a cool place to scout': Jurgen Klopp lauds Rangers and Celtic and has say on Ben Davies",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjQwZmQ3YjllLWNmODItNDM5YS04YjEzLTk2ZDUzNWFmMzIyMjo4N2FjNTBiNC1mN2JlLTQ2ZDgtYTBiNC05ZWUyNzhmOGNkZjk=.jpg?width=1200&enable=upscale"
         }
       ]
     },
@@ -2591,126 +2601,6 @@
           "wordCount": 1459,
           "title": "A Glance At RB Leipzig As German Club’s Topsy Turvy Form Takes Another Twist",
           "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/10/rb-leipzig-v-vfl-bochum-1848-bundesliga-1024x683.jpeg"
-        },
-        {
-          "id": "https://thecelticstar.com/sandmans-view-on-kyogo-nicking-one-off-matt-oriley-and-his-unique-angle-reaction/",
-          "author": null,
-          "description": "Nice to see the return of Celtic TV’s Unique Angle today, it’s been a while. The editing team, after watching that game at the weekend must have been as bemused as the rest of us, that Celtic only managed to score three goals in the game, one of which they didn’t even have to include Read More",
-          "link": "https://thecelticstar.com/sandmans-view-on-kyogo-nicking-one-off-matt-oriley-and-his-unique-angle-reaction/",
-          "publishedOn": "2022-10-03T14:01:04.000Z",
-          "wordCount": 1385,
-          "title": "Sandman’s view on Kyogo nicking one off Matt O’Riley and his Unique Angle reaction",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/10/imago1015382841h-1024x683.jpg"
-        },
-        {
-          "id": "https://thecelticstar.com/video-unique-angle-celtic-2-1-motherwell/",
-          "author": null,
-          "description": "Celtic TV have now uploaded their unique angle footage of the weekend’s 2-1 victory over Motherwell. These clips are always hotly anticipated as fans get the chance to see the action from a pitch side view.It’s great to get a feel for the pace that the play was unfolding at, and hear the roar of Read More",
-          "link": "https://thecelticstar.com/video-unique-angle-celtic-2-1-motherwell/",
-          "publishedOn": "2022-10-03T13:45:09.000Z",
-          "wordCount": 1090,
-          "title": "Video: Unique Angle, Celtic 2-1 Motherwell",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/10/imago1015313111h-1024x683.jpg"
-        },
-        {
-          "id": "https://celtsarehere.com/scottish-football-announcement-imminent/",
-          "author": null,
-          "description": "Scottish Referee Podcast ‘Get Involved Referee’ has dropped a massive exclusive claiming VAR in Scottish football is about to be introduced ahead of schedule. We know the league has been testing VAR during selected games this season and have everything in place to begin to use the technology. The initial plan was to introduce VAR […]\nSource",
-          "link": "https://celtsarehere.com/scottish-football-announcement-imminent/",
-          "publishedOn": "2022-10-03T13:28:12.000Z",
-          "wordCount": 13441,
-          "title": "Scottish Football Announcement ‘Imminent’",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thecelticstar.com/on-this-day-late-mcdonald-strike-seals-win-over-reigning-european-champions/",
-          "author": null,
-          "description": "On This Day in 2007, Carlo Ancelotti brought his AC Milan team to Celtic Park. The previous season, Milan had broken Celtic hearts with a late extra-time winner from Kaka at the San Siro in the Last 16 second leg. Ancelotti’s Milan inevitably went on to win the Champions League in Athens that year by Read More",
-          "link": "https://thecelticstar.com/on-this-day-late-mcdonald-strike-seals-win-over-reigning-european-champions/",
-          "publishedOn": "2022-10-03T13:22:08.000Z",
-          "wordCount": 1314,
-          "title": "On This Day: Late McDonald strike seals win over reigning European Champions",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/celtic-v-ac-milan-uefa-champions-league-2-1024x656.jpg"
-        },
-        {
-          "id": "https://thecelticstar.com/15-years-on-from-a-famous-night-in-paradise/",
-          "author": null,
-          "description": "Few Celtic fans could ever forget the night Celtic toppled European champions AC Milan in dramatic fashion at Paradise. Incredibly, today marks 15 years since that unbelievable night.Celtic Park was an absolute fortress at the time. Only Barcelona had ever won at the stadium in the Champions League group stages. AC Milan would have been Read More",
-          "link": "https://thecelticstar.com/15-years-on-from-a-famous-night-in-paradise/",
-          "publishedOn": "2022-10-03T13:03:48.000Z",
-          "wordCount": 1297,
-          "title": "15 Years On From A Famous Night In Paradise",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/celtic-v-ac-milan-uefa-champions-league-5-1024x731.jpg"
-        },
-        {
-          "id": "https://thecelticblog.com/2022/10/articles-and-features/celtic-would-probably-win-a-callum-mcgregor-appeal-we-shouldnt-make-one-though/",
-          "author": null,
-          "description": "When Callum McGregor was shown the red card at the weekend, I sighed with relief. After the full time whistle, mind you, but for that incident and its consequences. Those consequences aren’t as bad as they might at first appear to be. Callum needs a break. I’m not worried about how he gets it. A […]",
-          "link": "https://thecelticblog.com/2022/10/articles-and-features/celtic-would-probably-win-a-callum-mcgregor-appeal-we-shouldnt-make-one-though/",
-          "publishedOn": "2022-10-03T12:21:59.000Z",
-          "wordCount": 1836,
-          "title": "Celtic Would Probably Win A Callum McGregor Appeal. We Shouldn’t Make One Though.",
-          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2021/07/2019-12-08T000000Z_558263896_RC27RD9BQ4YA_RTRMADP_3_SOCCER-SCOTLAND-CEL-RFC-REPORT.jpg"
-        },
-        {
-          "id": "https://www.footballtransfertavern.com/celtic-news/celtic-spl-ange-postecoglou-wolves-news-updates/",
-          "author": null,
-          "description": "Celtic manager Ange Postecoglou is being eyed up by Wolves as a possible replacement for Bruno Lage, according to a report from The Telegraph‘s John Percy. The Lowdown: Lage sacked by Wolves The 46-year-old was sacked by the Old Gold on Sunday following a 2-0 defeat away to West Ham the previous day which has […]",
-          "link": "https://www.footballtransfertavern.com/celtic-news/celtic-spl-ange-postecoglou-wolves-news-updates/",
-          "publishedOn": "2022-10-03T11:10:10.000Z",
-          "wordCount": 3371,
-          "title": "Wanted man: Premier League club have discussed possible move for key Celtic off-field figure",
-          "imageUrl": "https://cdn.footballtransfertavern.com/wp-content/uploads/2022/09/ange-postecoglou-scottish-premiership-2-scaled.jpg"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/periods-of-poor-passing/",
-          "author": null,
-          "description": "It is a classic fallacy of Scottish football.  No sooner does someone utter that a team’s second 11 could win the league, they are brought down to earth.  Ninth placed Motherwell failed to take anything from Celtic Park on Saturday, but the champions were well below par for the second successive game. If we were [...]",
-          "link": "https://www.celticquicknews.co.uk/periods-of-poor-passing/",
-          "publishedOn": "2022-10-03T11:00:05.000Z",
-          "wordCount": 4247,
-          "title": "Periods of poor passing",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
-        },
-        {
-          "id": "https://thecelticblog.com/2022/10/articles-and-features/where-was-skys-apology-to-viewers-during-the-weekends-sectarian-sing-a-thon/",
-          "author": null,
-          "description": "A couple of weeks ago, Sky Sports turned down the microphones lest a group of people exercising their freedom of speech offend its audience. It was a Celtic game, so forgive me if I assume that a lot of the viewers they were worried about offending were tuning it specifically so that they could be […]",
-          "link": "https://thecelticblog.com/2022/10/articles-and-features/where-was-skys-apology-to-viewers-during-the-weekends-sectarian-sing-a-thon/",
-          "publishedOn": "2022-10-03T10:42:34.000Z",
-          "wordCount": 2137,
-          "title": "Where Was Sky’s Apology To Viewers During The Weekend’s Sectarian Sing-A-Thon?",
-          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2020/01/2019-12-22T121407Z_1054870176_RC2C0E9TDYT7_RTRMADP_3_SOCCER-ENGLAND-WAT-MUN-REPORT.jpg"
-        },
-        {
-          "id": "https://thecelticblog.com/2022/10/articles-and-features/saturdays-game-was-a-tough-win-for-celtic-but-it-stopped-the-bleeding/",
-          "author": null,
-          "description": "On Saturday, we picked up a needed three points after the shocking performance against St Mirren two weeks ago. This was not an easy victory although it has to be said that we thoroughly deserved to win and we were the only team which even tried to. It is important, when you’ve lost a game, […]",
-          "link": "https://thecelticblog.com/2022/10/articles-and-features/saturdays-game-was-a-tough-win-for-celtic-but-it-stopped-the-bleeding/",
-          "publishedOn": "2022-10-03T10:14:11.000Z",
-          "wordCount": 2396,
-          "title": "Saturday’s Game Was A Tough Win For Celtic, But It Stopped The Bleeding.",
-          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2022/04/2022-04-09T155547Z_501744805_UP1EI49188Y0R_RTRMADP_3_SOCCER-SCOTLAND-CEL-STJ-REPORT-scaled.jpg"
-        },
-        {
-          "id": "https://celtsarehere.com/tom-rogics-west-brom-derby-doesnt-go-to-plan/",
-          "author": null,
-          "description": "Tom Rogic made his debut in English football at the weekend but failed to make any sort of impression. The former Celtic man was given the nod to make his first start at The Hawthornes against Swansea City at the weekend. Looking at the team sheets, Rogic appears to have been played as a deep […]\nSource",
-          "link": "https://celtsarehere.com/tom-rogics-west-brom-derby-doesnt-go-to-plan/",
-          "publishedOn": "2022-10-03T09:48:34.000Z",
-          "wordCount": 13427,
-          "title": "Tom Rogic’s West Brom Derby Doesn’t Go to Plan",
-          "imageUrl": null
-        },
-        {
-          "id": "https://celtsarehere.com/celtic-flop-scores-away-from-parkhead-scrutiny/",
-          "author": null,
-          "description": "Albian Ajeti was on the scoresheet for his new club Strum Graz at the weekend as they defeated Austria Wien. The Swiss striker opened the scoring in his second start for the club which has taken them to second place in the Austrian Football Bundesliga. Ajeti is currently still under contract at Celtic until the […]\nSource",
-          "link": "https://celtsarehere.com/celtic-flop-scores-away-from-parkhead-scrutiny/",
-          "publishedOn": "2022-10-03T09:34:01.000Z",
-          "wordCount": 13457,
-          "title": "Celtic Flop Scores Away From Parkhead Scrutiny",
-          "imageUrl": null
         }
       ]
     },
@@ -2719,6 +2609,16 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CAIiEIctqmkuixutcU4DnG7b1vYqGQgEKhAIACoHCAow4KKJCzCv9JoDMICkoAY",
+          "author": null,
+          "description": "Sky Sports man gives update on Ange Postecoglou’s Celtic future  The Celtic Bhoys",
+          "link": "https://thecelticbhoys.com/2022/10/07/sky-sports-man-postecoglou-celtic-future/",
+          "publishedOn": "2022-10-07T20:30:51.000Z",
+          "wordCount": 2537,
+          "title": "Sky Sports man gives update on Ange Postecoglou’s Celtic future - The Celtic Bhoys",
+          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1414794946.jpeg"
+        },
         {
           "id": "CAIiEI1B9UYacoKdYbM5DCBMoHUqGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY",
           "author": null,
@@ -2748,6 +2648,16 @@
           "wordCount": 1186,
           "title": "Photo Of The Day: That Duberry Decision At St Johnstone - The Celtic Star",
           "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/10/michael-duberry-handball-st-johnstone-v-celtic-353231090-1024x768.jpg"
+        },
+        {
+          "id": "CAIiEBnquuPoU3iYlJGB2RSRjsEqGQgEKhAIACoHCAowrueiCTDmn7gCMOjNtwU",
+          "author": null,
+          "description": "5 Rangers and Celtic fixtures reshuffled for Sky as Ibrox side set for Friday night football  Daily Record",
+          "link": "https://www.dailyrecord.co.uk/sport/football/football-news/5-rangers-celtic-fixtures-reshuffled-28181923",
+          "publishedOn": "2022-10-07T15:23:25.000Z",
+          "wordCount": 3142,
+          "title": "5 Rangers and Celtic fixtures reshuffled for Sky as Ibrox side set for Friday night football - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28059196.ece/ALTERNATES/s1200/0_Celtic-FC-v-Rangers-FC-Cinch-Scottish-Premiership.jpg"
         },
         {
           "id": "CBMiSmh0dHBzOi8vd3d3LmFmYy5jby51ay8yMDIyLzEwLzA3L2NlbHRpYy1ob21lLW1hdGNoLXRvLWtpY2stb2ZmLWF0LTEyLTMwcG0v0gEA",
@@ -3388,36 +3298,6 @@
           "wordCount": 1649,
           "title": "Celtic, Behind The Scenes – Cheryl Summers, Academy Analyst - The Celtic Star",
           "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/10/FX9lY83XwAAtCO0-1024x576.jpeg"
-        },
-        {
-          "id": "CAIiEOxhUjKcPkhRdyRUoVREjXIqGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY",
-          "author": null,
-          "description": "15 Years On From A Famous Night In Paradise  The Celtic Star",
-          "link": "https://thecelticstar.com/15-years-on-from-a-famous-night-in-paradise/",
-          "publishedOn": "2022-10-03T13:03:48.000Z",
-          "wordCount": 1297,
-          "title": "15 Years On From A Famous Night In Paradise - The Celtic Star",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/celtic-v-ac-milan-uefa-champions-league-5-1024x731.jpg"
-        },
-        {
-          "id": "CAIiEIwkTVApEnKx8vQmEc5TmqkqGQgEKhAIACoHCAowrueiCTDmn7gCMKXUtwU",
-          "author": null,
-          "description": "Celtic and Rangers battle for place among world pass masters as Manchester City record staggering figures  Daily Record",
-          "link": "https://www.dailyrecord.co.uk/sport/football/football-news/celtic-rangers-battle-place-among-28142167",
-          "publishedOn": "2022-10-03T13:01:25.000Z",
-          "wordCount": 3163,
-          "title": "Celtic and Rangers battle for place among world pass masters as Manchester City record staggering figures - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article27979577.ece/ALTERNATES/s1200/1_Celtic-FC-v-Rangers-FC-Cinch-Scottish-Premiership.jpg"
-        },
-        {
-          "id": "CAIiEFh3kzQUq4KeILEOF4HKzQgqGQgEKhAIACoHCAowrueiCTDmn7gCMIfHtwU",
-          "author": null,
-          "description": "Rangers and Celtic incidents get Ref Watch verdict as Dermot Gallagher tells Craig Gordon he got away with one  Daily Record",
-          "link": "https://www.dailyrecord.co.uk/sport/football/rangers-celtic-incidents-ref-watch-28141220",
-          "publishedOn": "2022-10-03T12:01:20.000Z",
-          "wordCount": 3338,
-          "title": "Rangers and Celtic incidents get Ref Watch verdict as Dermot Gallagher tells Craig Gordon he got away with one - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/sport/football/article27617988.ece/ALTERNATES/s1200/0_JS273421724.jpg"
         }
       ]
     },
@@ -3426,6 +3306,36 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "79365611b8a79ce86d163c53de4c86e6",
+          "author": null,
+          "description": "CALLUM MCGREGOR is irreplaceable for Celtic according to manager Ange Postecoglou, as the Celtic captain anxiously awaits news on the projected timescale of his recovery from the knee injury sustained in the Champions League loss to RB Leipzig on Wednesday night.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23031799.ange-postecoglou-admits-callum-mcgregor-impossible-replace-awaits-news-captains-lay-off/?ref=rss",
+          "publishedOn": "2022-10-07T21:30:00.000Z",
+          "wordCount": 8319,
+          "title": "Ange Postecoglou admits Callum McGregor is impossible to replace as he awaits news of captain’s lay-off",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16014726/?type=og-image"
+        },
+        {
+          "id": "1aedcd13149cc897fc5835a8acaae1d9",
+          "author": null,
+          "description": "FOOTBALL, it is often said, is a results business. Even Ange Postecoglou, who has always prioritised his process over the outcome, acknowledges that.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23032328.we-not-minimise-damage-make-impact-ange-postecoglou-vows-keep-celtic-offensive-champions-league/?ref=rss",
+          "publishedOn": "2022-10-07T21:30:00.000Z",
+          "wordCount": 8985,
+          "title": "‘We are not out there to minimise damage. We are out there to make an impact’: Ange Postecoglou vows to keep Celtic on the offensive in Champions League",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16022746/?type=og-image"
+        },
+        {
+          "id": "a340bb65af66382e20d47cb25c68d64c",
+          "author": null,
+          "description": "REPLACING Callum McGregor when he is out through injury, as has been acknowledged by manager Ange Postecoglou, is a near impossible task. So it is also impossible not to feel for whatever player is indeed charged with filling his boots, and who will be judged using the Celtic captain as the yardstick.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23032457.oliver-abildgaard-says-isnt-an-identical-copy-callum-mcgregor-asks-judged-celtic-terms/?ref=rss",
+          "publishedOn": "2022-10-07T21:30:00.000Z",
+          "wordCount": 9951,
+          "title": "Oliver Abildgaard says he isn’t ‘an identical copy’ of Callum McGregor as he asks to be judged at Celtic on his own terms",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16022966/?type=og-image"
+        },
         {
           "id": "6e5db4e07bc5fdb5555fe78c478a04ea",
           "author": null,
@@ -4045,16 +3955,6 @@
           "wordCount": 8140,
           "title": "Callum McGregor Celtic red card decision analysed by ex-Premier League ref",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16004306/?type=og-image"
-        },
-        {
-          "id": "10f531162ddee2b0ac2f054ca7279e28",
-          "author": null,
-          "description": "CHRISTOPHER JULLIEN has admitted he learned a lot from Celtic boss Ange Postecoglou even if the relationship between the pair was \"complicated\".",
-          "link": "https://www.glasgowtimes.co.uk/sport/23015047.christopher-jullien-details-complicated-ange-postecoglou-relationship-celtic/?ref=rss",
-          "publishedOn": "2022-10-03T10:27:38.000Z",
-          "wordCount": 8128,
-          "title": "Christopher Jullien details 'complicated' Ange Postecoglou relationship at Celtic",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16002664/?type=og-image"
         }
       ]
     }
