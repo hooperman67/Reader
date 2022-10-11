@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com//sport/football/celtic",
       "articles": [
         {
+          "id": "3875056",
+          "author": "Ross McLeish",
+          "description": "Celtic have been hit with two UEFA charges for recent matches in the Champions League.",
+          "link": "https://www.scotsman.com/sport/football/celtic/uefa-fines-celtic-hit-with-sanctions-not-fit-for-a-sports-event-while-rangers-and-hearts-also-have-to-pay-up-3875056",
+          "publishedOn": "2022-10-11T10:09:43.000Z",
+          "wordCount": 1846,
+          "title": "UEFA fines: Celtic hit with sanctions - 'not fit for a sports event' - while Rangers and Hearts also have to pay up",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjU0MDIyN2IyLWUwMDgtNDM5ZC1hZTcwLThjMjBmM2M0NmQ0Mzo1NzNlOWFiYi0zOWIyLTQwY2UtYWQ3Ni1lMjcxMTVmY2EyMzg=.jpg?width=1200&enable=upscale"
+        },
+        {
           "id": "3874599",
           "author": "Alan Pattullo",
           "description": "Martin O’Neill could be expected to question what exactly has changed at Parkhead since he was in charge in the early 2000s.",
@@ -374,16 +384,6 @@
           "wordCount": 2425,
           "title": "Scotland extras: How to keep crowd, one that belongs at World Cup, player ratings",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmJjNTAzYjllLTNjMjUtNDllYy04ZWM5LWM3OWM3ZTUyNTc0NjpiOWI0MzBjYi00Yzk4LTQzNjktYTZmZi0yOGNhZTkxZjBkODE=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3870816",
-          "author": "Alison McConnell",
-          "description": "Pedro Martinez Losa did not look like a man having fun as Scotland tried to keep the ball in the corner flag and well away from Austria as the minutes on the Hampden clock slowly ticked down.",
-          "link": "https://www.scotsman.com/sport/football/international/pedro-martinez-losa-i-was-emotional-and-excited-at-the-end-of-scotland-win-3870816",
-          "publishedOn": "2022-10-06T22:42:08.000Z",
-          "wordCount": 2246,
-          "title": "Pedro Martinez Losa: I was emotional and excited at the end of Scotland win",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmE0YzJiYmE2LWFiYmMtNDM0ZC05NjJhLTcxYTAzYjU4ZTY1ZTo3YzdhNTQxYS1jOTlkLTRhYmYtYjkyMi1lMzM2NGY3NzMzMWY=.jpg?width=1200&enable=upscale"
         }
       ]
     },
@@ -392,6 +392,126 @@
       "feedUrl": "http://armchaircelts.co.uk/wprss",
       "siteUrl": "http://armchaircelts.co.uk/feed/wprss/",
       "articles": [
+        {
+          "id": "https://thecelticblog.com/2022/10/articles-and-features/var-will-be-a-game-changer-for-celtic-unless-refs-see-only-what-they-want-to-see/",
+          "author": null,
+          "description": "We won the game at the weekend, and that’s the only reason that a lot of our sites weren’t giving prominence to a few key decisions, including a foul in the lead-up to St Johnstone’s equaliser and another incident where Giakoumakis was elbowed. It was also the weekend that another high dubious penalty was awarded […]",
+          "link": "https://thecelticblog.com/2022/10/articles-and-features/var-will-be-a-game-changer-for-celtic-unless-refs-see-only-what-they-want-to-see/",
+          "publishedOn": "2022-10-11T11:26:35.000Z",
+          "wordCount": 2264,
+          "title": "VAR Will Be A Game Changer For Celtic … Unless Refs See Only What They Want To See.",
+          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2022/03/2021-02-25T193627Z_242432611_UP1EH2P1IGRC6_RTRMADP_3_SOCCER-EUROPA-AJA-LIL-REPORT.jpg"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/lets-make-it-happen-this-time/",
+          "author": null,
+          "description": "I cannot tell you the exhilaration when our Champions League endeavours all started under Martin O’Neill.  Beating Ajax in Amsterdam in the play-off round, with their useful looking young striker, Zlatan Ibrahimovic, was a transformational result in our history. The group stage was due to start at home to Rosenborg, who back then were a [...]",
+          "link": "https://www.celticquicknews.co.uk/lets-make-it-happen-this-time/",
+          "publishedOn": "2022-10-11T11:03:43.000Z",
+          "wordCount": 4269,
+          "title": "Let’s make it happen this time",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
+        },
+        {
+          "id": "https://etims.net/?p=17973",
+          "author": null,
+          "description": "Here we go again, another night under the lights, which no doubt Douglas Ross, the leader of the Scottish Conservatives, will claim is the reason…",
+          "link": "https://etims.net/?p=17973",
+          "publishedOn": "2022-10-11T10:35:31.000Z",
+          "wordCount": 3144,
+          "title": "Celtic Diary Tuesday October 11: Get It Right This Time",
+          "imageUrl": "https://etims.net/wp-content/uploads/2022/10/6950461-Susan-Mallery-Quote-It-s-not-getting-it-right-the-first-time-it-s-1024x576.jpg"
+        },
+        {
+          "id": "https://celticfanzine.com/donegal-and-celtic-a-link-unbroken/",
+          "author": null,
+          "description": "As I begin to write up this month’s article for More than 90 Minutes Celtic Fanzine it is with a heavy heart as the news from Donegal filters through. A horrific accidental gas explosion ripped through a garage/shop and apartments in the small village of Creeslough in north Donegal with 10 people losing their lives. […]\nThe post Donegal and Celtic – A Link Unbroken appeared first on Celtic Fanzine.",
+          "link": "https://celticfanzine.com/donegal-and-celtic-a-link-unbroken/",
+          "publishedOn": "2022-10-11T10:16:10.000Z",
+          "wordCount": 2092,
+          "title": "Donegal and Celtic – A Link Unbroken",
+          "imageUrl": "https://celticfanzine.com/wp-content/uploads/Donegal-screen-shot-.jpg"
+        },
+        {
+          "id": "https://www.footballtransfertavern.com/celtic-news/celtic-oliver-abildgaard-doing-extra-training-at-lennoxtown/",
+          "author": null,
+          "description": "Celtic midfielder Oliver Abildgaard has been doing ‘extra training’ at Lennoxtown, according to pundit Frank McAvennie. The Lowdown: McGregor injury Ange Postecoglou looks set to be without captain Callum McGregor until after the World Cup. The 29-year-old suffered a knee injury in last week’s defeat to RB Leipzig, with Abildgaard replacing him in Germany. Abildgaard […]",
+          "link": "https://www.footballtransfertavern.com/celtic-news/celtic-oliver-abildgaard-doing-extra-training-at-lennoxtown/",
+          "publishedOn": "2022-10-11T10:15:47.000Z",
+          "wordCount": 3331,
+          "title": "\"From what I hear...\" - Pundit shares \"great\" Lennoxtown news for Celtic and Ange before Leipzig",
+          "imageUrl": "https://cdn.footballtransfertavern.com/wp-content/uploads/2022/10/oliver-abildgaard-celtic-scaled.jpg"
+        },
+        {
+          "id": "https://thecelticblog.com/2022/10/articles-and-features/record-tries-to-speak-for-frustrated-celtic-fans-in-stupid-marco-rose-piece/",
+          "author": null,
+          "description": "Who is this morning’s Record piece on Marco Rose for? It’s an attempt to speak for Celtic fans, I presume, since it quotes us as being “frustrated” and then goes on to quote a couple from Twitter who seem to want Celtic Park to be one of those grounds where players come off the pitch […]",
+          "link": "https://thecelticblog.com/2022/10/articles-and-features/record-tries-to-speak-for-frustrated-celtic-fans-in-stupid-marco-rose-piece/",
+          "publishedOn": "2022-10-11T10:13:53.000Z",
+          "wordCount": 1662,
+          "title": "Record Tries To Speak For “Frustrated Celtic Fans” In Stupid Marco Rose Piece.",
+          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2022/06/2022-04-09T150113Z_282510414_UP1EI4915PYAH_RTRMADP_3_SOCCER-SCOTLAND-CEL-STJ-REPORT-scaled.jpg"
+        },
+        {
+          "id": "https://thecelticstar.com/celtic-v-rb-leipzig-charlie-nicholas-provides-bleak-overview-of-hoops-hopes/",
+          "author": null,
+          "description": "Charlie Nicholas has given his opinion on how both Celtic and theRangers will do in Europe this week. The former Celtic striker’s views are certainly rather gloomy but he still has hope for the Hoops to get some sort of European success this season.Celtic will host RB Leipzig at Paradise tonight looking to reverse the defeat Read More",
+          "link": "https://thecelticstar.com/celtic-v-rb-leipzig-charlie-nicholas-provides-bleak-overview-of-hoops-hopes/",
+          "publishedOn": "2022-10-11T09:59:04.000Z",
+          "wordCount": 1476,
+          "title": "Celtic v RB Leipzig: Charlie Nicholas provides bleak overview of Hoops hopes",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/10/rb-leipzig-v-celtic-fc-group-f-uefa-champions-league-16-1024x682.jpeg"
+        },
+        {
+          "id": "https://www.sportsmole.co.uk/football/chelsea/champions-league/feature/tuesdays-champions-league-permutations-who-needs-what-to-progress_496671.html",
+          "author": null,
+          "description": "Sports Mole takes an in-depth look into which teams could qualify and which ones could be eliminated in the first half of Champions League matchday four's fixtures.",
+          "link": "https://www.sportsmole.co.uk/football/chelsea/champions-league/feature/tuesdays-champions-league-permutations-who-needs-what-to-progress_496671.html",
+          "publishedOn": "2022-10-11T09:49:34.000Z",
+          "wordCount": 1,
+          "title": "Tuesday&#039;s Champions League permutations: Who needs what to progress?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/uefa-fine-for-celtic/",
+          "author": null,
+          "description": "CELTIC have been issued a UEFA fine over their firework display before last month’s Champions League Group F match against Real Madrid at Parkhead. Europe’s governing football body dished out a financial penalty after the pyrotechnics performance for the encounter against the European champions on September 6. The Hoops, who have been slammed by fines [...]",
+          "link": "https://www.celticquicknews.co.uk/uefa-fine-for-celtic/",
+          "publishedOn": "2022-10-11T09:49:30.000Z",
+          "wordCount": 2493,
+          "title": "UEFA FINE FOR CELTIC",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/10/CELTIC-PARK-UNDER-LIGHTS.png"
+        },
+        {
+          "id": "https://celtsarehere.com/celtic-v-rb-leipzig-predicted-starting-xi/",
+          "author": null,
+          "description": "Ange Postecoglou has a lot of things to consider heading into matchday four of the Champions League but knows what will be required to take on RB Leipzig once again. It was a disappointing evening in Germany last week for the Hoops but they will be hoping to right the wrongs of that performance and […]\nSource",
+          "link": "https://celtsarehere.com/celtic-v-rb-leipzig-predicted-starting-xi/",
+          "publishedOn": "2022-10-11T09:48:40.000Z",
+          "wordCount": 13529,
+          "title": "Celtic v RB Leipzig: Predicted Starting XI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://celtsarehere.com/celtic-hit-with-uefa-charge/",
+          "author": null,
+          "description": "It has been revealed this morning that Celtic have been hit with a charge from UEFA over the use of pyrotechnics and the anti-monarchy banner. Sky Sports journalist Anthony Joseph confirmed the news with UEFA deeming the banner ‘not fit for a sports event’. The fine for the banner is £13,169. The Scottish champions have […]\nSource",
+          "link": "https://celtsarehere.com/celtic-hit-with-uefa-charge/",
+          "publishedOn": "2022-10-11T09:20:32.000Z",
+          "wordCount": 13427,
+          "title": "Celtic Hit With Two UEFA Fines: Anti-Monarchy Banner",
+          "imageUrl": null
+        },
+        {
+          "id": "https://celtsarehere.com/17-goals-3-assists-former-rodgers-signing-finds-his-form-away-from-celtic/",
+          "author": null,
+          "description": "LEWIS MORGAN has been named New York Red Bulls player of the year after his fantastic debut season for the club. The former Celtic winger who was sold by Celtic to Inter Miami was traded to New York RB last year. Since his move, Lewis has been a pivotal part of the squad and more […]\nSource",
+          "link": "https://celtsarehere.com/17-goals-3-assists-former-rodgers-signing-finds-his-form-away-from-celtic/",
+          "publishedOn": "2022-10-11T09:05:16.000Z",
+          "wordCount": 13406,
+          "title": "17 Goals, 3 Assists; Former Rodgers Signing Finds His Form Away From Celtic",
+          "imageUrl": null
+        },
         {
           "id": "https://thecelticstar.com/celtic-v-rb-leipzig-team-news-ko-time-and-where-to-watch/",
           "author": null,
@@ -411,6 +531,16 @@
           "wordCount": 1114,
           "title": "Former Celtic winger earns Player of the Year accolade with MLS side",
           "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2019/11/morgan_4261.jpg"
+        },
+        {
+          "id": "https://celtsarehere.com/rb-leipzig-boss-makes-celtic-park-admission/",
+          "author": null,
+          "description": "RB Leipzig boss Marco Rose has praised the environment which his side are heading into ahead of the clubs fourth match in the Champions League. The German boss has previously managed a team to victory at Celtic Park with his RB Salzburg side winning 2-1 when he last visited Glasgow four years ago. He will […]\nSource",
+          "link": "https://celtsarehere.com/rb-leipzig-boss-makes-celtic-park-admission/",
+          "publishedOn": "2022-10-11T07:40:52.000Z",
+          "wordCount": 13445,
+          "title": "RB Leipzig Boss Makes Celtic Park Admission",
+          "imageUrl": null
         },
         {
           "id": "https://celtsarehere.com/postecoglous-midfield-headache/",
@@ -2450,6 +2580,36 @@
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
         {
+          "id": "CAIiEBeJsBFOb-7f4O2Ozg8HQu8qGQgEKhAIACoHCAowrueiCTDmn7gCMOjNtwU",
+          "author": null,
+          "description": "Rangers fan in mischief mode with loaded Celtic referee joke he wants everyone to hear – Hotline  Daily Record",
+          "link": "https://www.dailyrecord.co.uk/sport/football/football-news/rangers-fan-mischief-mode-loaded-28208412",
+          "publishedOn": "2022-10-11T11:15:50.000Z",
+          "wordCount": 3429,
+          "title": "Rangers fan in mischief mode with loaded Celtic referee joke he wants everyone to hear – Hotline - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28187042.ece/ALTERNATES/s1200/0_St-Johnstone-v-Celtic-cinch-Premiership-McDiarmid-Park.jpg"
+        },
+        {
+          "id": "CAIiEK669Zj_po0VuDOoE5OmP0MqMwgEKioIACIQ8QZ4vEfbI4rZIdrmzOV4vioUCAoiEPEGeLxH2yOK2SHa5szleL4wnsOXBw",
+          "author": null,
+          "description": "Celtic donates £10000 to Creeslough fund, noting deep links with Donegal  Derry Journal",
+          "link": "https://www.derryjournal.com/news/celtic-donates-ps10000-to-creeslough-fund-noting-deep-links-with-donegal-3874335",
+          "publishedOn": "2022-10-11T09:59:23.000Z",
+          "wordCount": 1746,
+          "title": "Celtic donates £10000 to Creeslough fund, noting deep links with Donegal - Derry Journal",
+          "imageUrl": "https://www.derryjournal.com/webimg/b25lY21zOjIyZDNjMTgzLTc0NjctNGY2Zi1iNGIyLTgyNTIyMjMwNzFkMzoyNGQ2OWU4OS1hYTUwLTRkY2YtOTU3NC1jNTYxOTZiYWRhZGU=.jpg?width=1200&enable=upscale"
+        },
+        {
+          "id": "CAIiEPKZTqZeB-NIei6pWJ4ldhoqGQgEKhAIACoHCAow96D9CjDOy_QCMKzp0wU",
+          "author": null,
+          "description": "Celtic land two UEFA fines as Rangers and Hearts also hit in the pocket by governing body  Glasgow Live",
+          "link": "https://www.glasgowlive.co.uk/sport/celtic-land-two-uefa-fines-25231107",
+          "publishedOn": "2022-10-11T09:57:52.000Z",
+          "wordCount": 3733,
+          "title": "Celtic land two UEFA fines as Rangers and Hearts also hit in the pocket by governing body - Glasgow Live",
+          "imageUrl": "https://i2-prod.footballscotland.co.uk/incoming/article25230773.ece/ALTERNATES/s1200/1_Shakhtar-Donetsk-v-Celtic-FC-Group-F-UEFA-Champions-League.jpg"
+        },
+        {
           "id": "CAIiEB5YRxKG6iX7TcY_tMoC4ZsqGQgEKhAIACoHCAow96D9CjDOy_QCMKzp0wU",
           "author": null,
           "description": "Celtic hero Neil Lennon prepares for Manchester United Europa League trip with domestic frustration  Glasgow Live",
@@ -3136,6 +3296,26 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "c2fea6f47bef50815ac2963e6428611b",
+          "author": null,
+          "description": "CELTIC have been issued a heavy UEFA fine over an anti-monarchy banner displayed ahead of the Champions League clash with Shakhtar Donetsk.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23038454.celtic-handed-13k-uefa-fine-f-crown-anti-monarchy-banner/?ref=rss",
+          "publishedOn": "2022-10-11T09:46:23.000Z",
+          "wordCount": 8139,
+          "title": "Celtic handed £13k UEFA fine over 'f*** the crown' anti-monarchy banner",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16032468/?type=og-image"
+        },
+        {
+          "id": "b34a3da5021995cf1c16f3a0c77685f2",
+          "author": null,
+          "description": "CELTIC have been issued a UEFA fine over the lighting of fireworks in the Champions League.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23038338.celtic-issued-uefa-fine-lighting-fireworks-real-madrid-clash/?ref=rss",
+          "publishedOn": "2022-10-11T09:17:47.000Z",
+          "wordCount": 8041,
+          "title": "Celtic issued UEFA fine over 'lighting of fireworks' in Real Madrid clash",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16032269/?type=og-image"
+        },
         {
           "id": "07ed00ba397924b6b6b32d080ba98685",
           "author": null,
