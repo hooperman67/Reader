@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com//sport/football/celtic",
       "articles": [
         {
+          "id": "3877682",
+          "author": "Angus Wright",
+          "description": "Neil Lennon is hoping to give Manchester United another scare as the former Celtic boss leads Omonia Nicosia at Old Trafford searching for a historic Europa League win.",
+          "link": "https://www.scotsman.com/sport/football/a-bit-steep-neil-lennon-smiles-at-omonia-man-utd-odds-poser-as-he-and-another-ex-celt-prepare-for-old-trafford-3877682",
+          "publishedOn": "2022-10-12T18:35:12.000Z",
+          "wordCount": 2292,
+          "title": "'A bit steep': Neil Lennon smiles at Omonia-Man Utd odds poser as he and another ex-Celt prepare for Old Trafford",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjUzN2M5MjU2LThlOGYtNDgzYS1iYTIzLTVkNDVlNjNmODYyYjo2NDIwNTAxNC0xMWU3LTQzN2QtOTM0ZS00NjdjN2RlYmJmOGQ=.jpg?width=1200&enable=upscale"
+        },
+        {
           "id": "3877507",
           "author": "Mark Atkinson",
           "description": "VAR will be introduced into Scottish domestic football later this month after the Scottish Football Association confirmed that Hibs’ cinch Premiership match against St Johnstone on Friday, October 21 will be the first fixture to use the technology.",
@@ -394,16 +404,6 @@
           "wordCount": 1893,
           "title": "Celtic boss Ange Postecoglou reveals Callum McGregor injury timelime - 'initial reports suggest'",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjdjNWMzYTY2LWY2MGYtNDQyOC04MDkzLWUyNmI4ZTdmMWFhMTpiNjNjZmY2MC04ZWFhLTQ0OWQtYjEzZi0wYWNjZTAwM2M4ZTg=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3872285",
-          "author": "Andrew Smith",
-          "description": "Celtic could field a notably different starting XI against St Johnstone from the one selected for their midweek loss in Leipzig.",
-          "link": "https://www.scotsman.com/sport/football/celtic/celtic-late-team-news-for-st-johnstone-two-fresh-starts-earmarked-to-bring-energy-3872285",
-          "publishedOn": "2022-10-08T07:00:00.000Z",
-          "wordCount": 2108,
-          "title": "Celtic late team news for St Johnstone: Two fresh starts earmarked to 'bring energy'",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjI5MjExYzA2LTU5ZDktNGNkMS05ODZhLTExNjQ5ZjE3MmM5NjpjNThkNTM5YS1hMmM3LTRkMjctYmQ2NS04MTMzMWZlZjkwYmY=.jpg?width=1200&enable=upscale"
         }
       ]
     },
@@ -413,6 +413,26 @@
       "siteUrl": "http://armchaircelts.co.uk/feed/wprss/",
       "articles": [
         {
+          "id": "https://celtsarehere.com/var-latest-debut-revealed/",
+          "author": null,
+          "description": "VAR is set to enter Scottish Football earlier than expected, with the initial date set for after the World Cup. After it was rumoured that the release of the technology in Scotland had been brought forward to October, SunSport claims that VAR will be in operation next week. All six fixtures will have VAR in […]\nSource",
+          "link": "https://celtsarehere.com/var-latest-debut-revealed/",
+          "publishedOn": "2022-10-12T19:44:00.000Z",
+          "wordCount": 13396,
+          "title": "VAR Latest; Debut Revealed",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.67hailhail.com/news/in-love-with-this-club-sead-haksabanovic-shares-heartfelt-celtic-instagram-message/",
+          "author": null,
+          "description": "Summer Celtic signing Haksabanovic is already relishing his time at the club, taking to Instagram to share a heartfelt message this evening. Haksabanovic made his first start at Celtic Park last night, having previous started matches away to Shakhtar Donetsk and St Johnstone. He’s been left blown away by the experience, stating on his Instagram ...\nThe post \"In love with this club\"; New Celtic signing left blown away on Instagram appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/in-love-with-this-club-sead-haksabanovic-shares-heartfelt-celtic-instagram-message/",
+          "publishedOn": "2022-10-12T19:28:58.000Z",
+          "wordCount": 1737,
+          "title": "\"In love with this club\"; New Celtic signing left blown away on Instagram",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/09/GettyImages-1242997929-scaled.jpg"
+        },
+        {
           "id": "https://thecelticblog.com/2022/10/articles-and-features/online-bigots-embarrass-themselves-with-their-phony-lafferty-equivalence-arguments/",
           "author": null,
           "description": "Last night, the Irish National Women’s team had to issue an apology after its players were videoed in the dressing room singing the Celtic Symphony. I am appalled. Not by the action but that they felt the need to pander to the Goons Gallery by saying sorry for it. What I want to say those […]",
@@ -421,6 +441,16 @@
           "wordCount": 1987,
           "title": "Online Bigots Embarrass Themselves With Their Phony Lafferty Equivalence Arguments.",
           "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2020/06/2012-02-18T140504Z_1_MT1ACI9146229_RTRMADP_3_SOCCER-ENGLAND-RFC-KIL.jpg"
+        },
+        {
+          "id": "https://www.footballtransfertavern.com/celtic-news/celtic-reo-hatate-news-latest-rumours-gossip-postecoglou-praise/",
+          "author": null,
+          "description": "Celtic got ‘an absolute steal’ when they welcomed midfielder Reo Hatate to Parkhead earlier this year, according to Sky Sports reporter Anthony Joseph. The Lowdown: Hatate’s arrival Having joined the Hoops on New Year’s Day in a deal worth £1.4m, the Japan international has since played a key role in helping Ange Postecoglou’s side to […]",
+          "link": "https://www.footballtransfertavern.com/celtic-news/celtic-reo-hatate-news-latest-rumours-gossip-postecoglou-praise/",
+          "publishedOn": "2022-10-12T18:11:27.000Z",
+          "wordCount": 3345,
+          "title": "‘Absolute steal’ - Sky reporter wowed by ‘outrageous’ Celtic talent who left John McGinn stunned",
+          "imageUrl": "https://cdn.footballtransfertavern.com/wp-content/uploads/2022/09/Reo-Hatate-Celtic-SPFL-scaled.jpg"
         },
         {
           "id": "https://www.67hailhail.com/news/celtic-supporters-take-on-travel-company-after-concerning-matchday-plans/",
@@ -2761,36 +2791,6 @@
           "wordCount": 1460,
           "title": "Team’s Up – Carter-Vickers has armband, Hatate plays No 6, Giakoumakis leads the line",
           "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/10/1fd90dc0-46ef-11ed-b7bd-759e3edfe3da.jpg"
-        },
-        {
-          "id": "https://thecelticstar.com/it-was-also-my-first-proper-game-of-football-in-four-months-oliver-abildgaard/",
-          "author": null,
-          "description": "Oliver Abildgaard was the player that Celtic put up for media duties, and that is often a clue that the player in question is going to play a part, maybe even start, in the next game. So with Callum McGregor sidelined through injury (and also suspended today after that red card last weekend against Motherwell) Read More",
-          "link": "https://thecelticstar.com/it-was-also-my-first-proper-game-of-football-in-four-months-oliver-abildgaard/",
-          "publishedOn": "2022-10-08T09:07:42.000Z",
-          "wordCount": 1420,
-          "title": "“It was also my first proper game of football in four months,” Oliver Abildgaard",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/10/imago1015672532h-1024x683.jpg"
-        },
-        {
-          "id": "https://thecelticstar.com/theres-only-one-frank-mcgarvey-celtic-support-rallies-round-a-hoops-hero/",
-          "author": null,
-          "description": "Former Celtic striker Frank McGarvey has been diagnosed with cancer, his family has announced on social media. The Celtic legend’s son Scott and other members of the family posted the worrying update on social media last night confirming that McGarvey senior, aged 66, had been diagnosed on Thursday. Unfortunately our Dad received a cancer diagnosis Read More",
-          "link": "https://thecelticstar.com/theres-only-one-frank-mcgarvey-celtic-support-rallies-round-a-hoops-hero/",
-          "publishedOn": "2022-10-08T08:30:12.000Z",
-          "wordCount": 1733,
-          "title": "“There’s only one Frank McGarvey,” Celtic support rallies round a Hoops Hero",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2021/08/44659510-1024x682.jpg"
-        },
-        {
-          "id": "https://thecelticstar.com/st-johnstone-v-celtic-team-news-ko-time-and-where-to-watch/",
-          "author": null,
-          "description": "Celtic make their way up the A9 to Perth from the team’s hotel this morning for the cinch Premiership match against St Johnstone. The early kick-off certainly does Ange Postecoglou and his players no favours and the manager yesterday noted that every hour is important for recovery after a tough night playing in the Champions League Read More",
-          "link": "https://thecelticstar.com/st-johnstone-v-celtic-team-news-ko-time-and-where-to-watch/",
-          "publishedOn": "2022-10-08T07:40:11.000Z",
-          "wordCount": 1481,
-          "title": "St Johnstone v Celtic – Team News, KO time and where to watch",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/SPFL_22_23_STM_CELTIC_0119-1-1024x803.jpeg"
         }
       ]
     },
@@ -2799,6 +2799,16 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CBMiT2h0dHBzOi8vdGhlY2VsdGljYmhveXMuY29tLzIwMjIvMTAvMTIvcmItbGVpcHppZy1jZWx0aWMtcmVhbC1tYWRyaWQtY29tcGFyaXNvbi_SAVNodHRwczovL3RoZWNlbHRpY2Job3lzLmNvbS8yMDIyLzEwLzEyL3JiLWxlaXB6aWctY2VsdGljLXJlYWwtbWFkcmlkLWNvbXBhcmlzb24vYW1wLw",
+          "author": null,
+          "description": "RB Leipzig star makes massive Celtic and Real Madrid comparison  The Celtic Bhoys",
+          "link": "https://thecelticbhoys.com/2022/10/12/rb-leipzig-celtic-real-madrid-comparison/",
+          "publishedOn": "2022-10-12T19:39:24.000Z",
+          "wordCount": 2311,
+          "title": "RB Leipzig star makes massive Celtic and Real Madrid comparison - The Celtic Bhoys",
+          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1257400258.jpeg"
+        },
         {
           "id": "CAIiECWn1qTnCea89IUgZ44orDEqGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY",
           "author": null,
@@ -3508,46 +3518,6 @@
           "wordCount": 2001,
           "title": "Celtic team vs St Johnstone confirmed: Ange rings changes, global TV details, instant reaction - 67 Hail Hail - Celtic FC News",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/09/GettyImages-1243228503-scaled.jpg"
-        },
-        {
-          "id": "CBMicGh0dHBzOi8vbmV3cy5zdHYudHYvc3BvcnQvZm9ybWVyLWNlbHRpYy1zdC1taXJyZW4tYW5kLXNjb3RsYW5kLXN0cmlrZXItZnJhbmstbWNnYXJ2ZXktaGFzLWNhbmNlci1mYW1pbHktYW5ub3VuY2XSAQA",
-          "author": null,
-          "description": "Former Celtic, St Mirren and Scotland striker Frank McGarvey has cancer, family announce  STV News",
-          "link": "https://news.stv.tv/sport/former-celtic-st-mirren-and-scotland-striker-frank-mcgarvey-has-cancer-family-announce",
-          "publishedOn": "2022-10-08T09:22:30.000Z",
-          "wordCount": 2078,
-          "title": "Former Celtic, St Mirren and Scotland striker Frank McGarvey has cancer, family announce - STV News",
-          "imageUrl": "https://news.stv.tv/wp-content/uploads/2022/10/d009852f063907e586e37bc023b205ca-1665219769-social-sport.jpg"
-        },
-        {
-          "id": "CAIiEMgW6REEGFoheazkFKWNdxgqGQgEKhAIACoHCAowrueiCTDmn7gCMIfHtwU",
-          "author": null,
-          "description": "Timo Werner read the Leipzig riot act as Celtic petulance earns him a verbal warning  Daily Record",
-          "link": "https://www.dailyrecord.co.uk/sport/football/football-news/timo-werner-read-leipzig-riot-28185775",
-          "publishedOn": "2022-10-08T09:14:13.000Z",
-          "wordCount": 3172,
-          "title": "Timo Werner read the Leipzig riot act as Celtic petulance earns him a verbal warning - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28163994.ece/ALTERNATES/s1200/0_JS279628799.jpg"
-        },
-        {
-          "id": "CBMiU2h0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L2NlbHRpYy1sZWdlbmQtZnJhbmstbWNnYXJ2ZXktZGlhZ25vc2VkLTI1MjEwODI30gEA",
-          "author": null,
-          "description": "Celtic legend Frank McGarvey diagnosed with cancer as family send thanks for support over hero  Glasgow Live",
-          "link": "https://www.glasgowlive.co.uk/sport/celtic-legend-frank-mcgarvey-diagnosed-25210827",
-          "publishedOn": "2022-10-08T08:54:19.000Z",
-          "wordCount": 3390,
-          "title": "Celtic legend Frank McGarvey diagnosed with cancer as family send thanks for support over hero - Glasgow Live",
-          "imageUrl": "https://i2-prod.glasgowlive.co.uk/incoming/article25211092.ece/ALTERNATES/s1200/0_Screenshot-2022-10-08-at-095140.png"
-        },
-        {
-          "id": "CAIiEN_SuhxJOEAk7fKexVX0jn4qGQgEKhAIACoHCAowrueiCTDmn7gCMIbTtwU",
-          "author": null,
-          "description": "Ex-Celtic striker Frank McGarvey diagnosed with cancer  Daily Record",
-          "link": "https://www.dailyrecord.co.uk/news/scottish-news/ex-celtic-striker-frank-mcgarvey-28185364",
-          "publishedOn": "2022-10-08T07:49:39.000Z",
-          "wordCount": 3087,
-          "title": "Ex-Celtic striker Frank McGarvey diagnosed with cancer - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28185459.ece/ALTERNATES/s1200/0_Screen-Shot-2022-10-08-at-084841.png"
         }
       ]
     },
@@ -4155,16 +4125,6 @@
           "wordCount": 8093,
           "title": "Celtic hero Frank McGarvey diagnosed with cancer, reveals family",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16023757/?type=og-image"
-        },
-        {
-          "id": "fc4c1c064bc67a4676dd50f81255cca0",
-          "author": null,
-          "description": "CELTIC are on the road again following their Champions League defeat in Germany.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23023867.st-johnstone-vs-celtic-tv-channel-live-stream-kick-off-time/?ref=rss",
-          "publishedOn": "2022-10-08T09:08:00.000Z",
-          "wordCount": 9374,
-          "title": "St Johnstone vs Celtic: TV channel, live stream and kick-off time",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16015248/?type=og-image"
         }
       ]
     }
