@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com//sport/football/celtic",
       "articles": [
         {
+          "id": "3879242",
+          "author": "Alan Pattullo",
+          "description": "“Royal Rampant Rangers” read one banner unfurled in the Broomloan Stand at Ibrox before kick-off on Wednesday night against Liverpool. What followed can only be described as a right royal thumping.",
+          "link": "https://www.scotsman.com/sport/football/rangers/invisible-string-of-shared-shame-now-connects-two-rangers-events-celtic-horror-tavernier-explains-press-absence-and-makes-chucked-towel-statement-3879242",
+          "publishedOn": "2022-10-13T21:30:00.000Z",
+          "wordCount": 3559,
+          "title": "Invisible string of shared shame now connects two Rangers events - Celtic horror, Tavernier explains press absence and makes 'chucked towel' statement",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjg1YjFlNTEyLTQ1YmUtNDBlNi05YTQ2LTRlNWMwZWYzOThhYzo2Yzc4ZjQzOC0xMjRkLTRjMDQtOTdhMi02NTU5Yjk2NjRjNTk=.jpg?width=1200&enable=upscale"
+        },
+        {
           "id": "3879301",
           "author": "Andrew Smith",
           "description": "It might surprise to learn that Willie Collum is Scotland’s most VAR-savvy referee.",
@@ -334,16 +344,6 @@
           "wordCount": 2194,
           "title": "Former Celtic hero labels talented Rangers star 'a show pony' and wants 'immaturity' and 'naivety' to stop",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjVjNTYyMzI3LTM5YmMtNGRmNS05NmY4LWY4MzIyOTBhOGJhZDoxZjM1MGZhNy03ZGIwLTQ3NmItOWEzYi03NGQ3NjhlYjVhM2Y=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3873131",
-          "author": "Joel Sked",
-          "description": "Three words uttered by Celtic boss Ange Postecoglou were inscribed onto the club’s Scottish Premiership win last season as they took the title back from rivals Rangers.",
-          "link": "https://www.scotsman.com/sport/football/celtic/celtic-star-in-what-this-club-is-all-about-message-and-the-15-year-old-champions-league-dream-3873131",
-          "publishedOn": "2022-10-09T21:30:00.000Z",
-          "wordCount": 2640,
-          "title": "Celtic star in 'what this club is all about' message and the 15-year-old Champions League dream",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjFjYWE0MWVmLWQxOGItNDkzZi1iMjE4LTkxYzNkOTllNzVmZjo5NzExN2Q4Mi0yNjUyLTQ1YWMtOTMwYy1hZTJiMmUzNzYyZDI=.jpg?width=1200&enable=upscale"
         }
       ]
     },
@@ -352,6 +352,56 @@
       "feedUrl": "http://armchaircelts.co.uk/wprss",
       "siteUrl": "http://armchaircelts.co.uk/feed/wprss/",
       "articles": [
+        {
+          "id": "https://thecelticstar.com/performance-relative-to-their-xg-scottish-premierships-top-scorer-race/",
+          "author": null,
+          "description": "BetVictor has analysed the xG (expected goals) and xGA (expected goals against) of every Scottish Premiership side so far this season, to evaluate the performance of teams by their attacking and defensive output relative to their expected rate.xG and xGA are used to assign a value to goal-scoring chances based on past performance data. Comparing Read More",
+          "link": "https://thecelticstar.com/performance-relative-to-their-xg-scottish-premierships-top-scorer-race/",
+          "publishedOn": "2022-10-14T12:20:54.000Z",
+          "wordCount": 1301,
+          "title": "Performance Relative to Their xG, Scottish Premiership’s Top Scorer Race",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/10/SPFL_22_23_STJ_CELTIC_2476-1024x720.jpeg"
+        },
+        {
+          "id": "https://celtsarehere.com/former-celtic-youngster-on-hunt-for-new-club/",
+          "author": null,
+          "description": "Former Celtic academy graduate Calvin Miller is once again on the hunt for a new club after leaving National League side Chesterfield [Chesterfield FC].  Miller spent ten years at Celtic, after he signed for the Hoops at the age of 12. In his early years he made quite the impression in international youth football being […]\nSource",
+          "link": "https://celtsarehere.com/former-celtic-youngster-on-hunt-for-new-club/",
+          "publishedOn": "2022-10-14T12:01:01.000Z",
+          "wordCount": 13497,
+          "title": "Former Celtic Youngster On Hunt For New Club",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/soul-searching-energy-and-creativity/",
+          "author": null,
+          "description": "Until a reversal at Tannadice on Wednesday, Hibernian were the form team in Scotland.  They had collected 12 out of 12 points since August, scoring seven and conceding once.  They also secured a draw at home to Newco, the effect of which you still see in the two-point gap at the top of the league [...]",
+          "link": "https://www.celticquicknews.co.uk/soul-searching-energy-and-creativity/",
+          "publishedOn": "2022-10-14T11:01:23.000Z",
+          "wordCount": 4081,
+          "title": "Soul searching, energy and creativity",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
+        },
+        {
+          "id": "https://celtsarehere.com/kieran-tierney-draws-on-celtic-mentality/",
+          "author": null,
+          "description": "KIERAN TIERNEY is drawing on his time at Celtic as he and the Arsenal squad sit top of the English Premier League. The former hoops defender hasn’t been involved in the early going of the season after picking up an injury, but as he ramps up to make a full return, he wants to help […]\nSource",
+          "link": "https://celtsarehere.com/kieran-tierney-draws-on-celtic-mentality/",
+          "publishedOn": "2022-10-14T10:13:03.000Z",
+          "wordCount": 13665,
+          "title": "Kieran Tierney Draws on Celtic Mentality",
+          "imageUrl": null
+        },
+        {
+          "id": "https://celticfanzine.com/talk-from-the-terrace-frank-mcgarvey-hibs-preview-celtic-v-rb-leipzig-st-johnstone-home-away/",
+          "author": null,
+          "description": "Alternative View Editor, Matt McGlone joins More than 90 Minutes Editor, Andrew Milne for their regular chat to look back at Celtic’s midweek games home and away in Germany against RB Leipzig. The Bhoys also look back at Celtic’s late winner on the road in Perth v St. Johnstone and preview Saturday’s visit of Hibs […]\nThe post Talk from the Terrace Frank McGarvey, Hibs Preview, Celtic v RB Leipzig / St. Johnstone Home & Away appeared first on Celtic Fanzine.",
+          "link": "https://celticfanzine.com/talk-from-the-terrace-frank-mcgarvey-hibs-preview-celtic-v-rb-leipzig-st-johnstone-home-away/",
+          "publishedOn": "2022-10-14T09:12:22.000Z",
+          "wordCount": 1894,
+          "title": "Talk from the Terrace Frank McGarvey, Hibs Preview, Celtic v RB Leipzig / St. Johnstone Home &amp; Away",
+          "imageUrl": "https://celticfanzine.com/wp-content/uploads/IMG-4148-1.jpg"
+        },
         {
           "id": "https://thecelticblog.com/2022/10/articles-and-features/hibs-are-going-to-have-a-go-at-celtic-tomorrow-thats-plays-into-our-hands/",
           "author": null,
@@ -2481,16 +2531,6 @@
           "wordCount": 1337,
           "title": "Celtic On This Day – 10th October – David Potter’s Celtic Diary",
           "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/image-250-1024x575.jpeg"
-        },
-        {
-          "id": "https://celtsarehere.com/celtic-loan-bhoy-wins-league-title-abroad/",
-          "author": null,
-          "description": "Celtic loan bhoy Conor Hazard is celebrating title success with his loan club HJK Helsinki on Sunday evening. The team wrapped up the title with a game to spare with Hazard playing 19 league games, racking up 8 clean sheets. The goalkeeper joined Helsinki back in January and isn’t due back at Celtic until the […]\nSource",
-          "link": "https://celtsarehere.com/celtic-loan-bhoy-wins-league-title-abroad/",
-          "publishedOn": "2022-10-09T21:42:05.000Z",
-          "wordCount": 13380,
-          "title": "Celtic Loan Bhoy Wins League Title Abroad",
-          "imageUrl": null
         }
       ]
     },
@@ -2499,6 +2539,36 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CBMiRmh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9mb3JtZXItY2VsdGljLXlvdW5nc3Rlci1vbi1odW50LWZvci1uZXctY2x1Yi_SAUpodHRwczovL2NlbHRzYXJlaGVyZS5jb20vZm9ybWVyLWNlbHRpYy15b3VuZ3N0ZXItb24taHVudC1mb3ItbmV3LWNsdWIvYW1wLw",
+          "author": null,
+          "description": "Former Celtic Youngster On Hunt For New Club  CeltsAreHere",
+          "link": "https://celtsarehere.com/former-celtic-youngster-on-hunt-for-new-club/",
+          "publishedOn": "2022-10-14T12:01:01.000Z",
+          "wordCount": 13497,
+          "title": "Former Celtic Youngster On Hunt For New Club - CeltsAreHere",
+          "imageUrl": null
+        },
+        {
+          "id": "CAIiEOYDiANBWamOE0UK7GZ5uaEqGQgEKhAIACoHCAowrueiCTDmn7gCMOjNtwU",
+          "author": null,
+          "description": "Mohammad Abu Fani breaks Celtic transfer silence as he admits 'it wasn't easy' to handle failed move  Daily Record",
+          "link": "https://www.dailyrecord.co.uk/sport/football/football-news/mohammad-abu-fani-breaks-celtic-28237479",
+          "publishedOn": "2022-10-14T09:22:55.000Z",
+          "wordCount": 3182,
+          "title": "Mohammad Abu Fani breaks Celtic transfer silence as he admits 'it wasn't easy' to handle failed move - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28237525.ece/ALTERNATES/s1200/0_Juventus-v-Maccabi-Haifa-FC-Group-H-UEFA-Champions-League.jpg"
+        },
+        {
+          "id": "CAIiEJkOZ2SQWvFXfj6fG7I3LYkqMwgEKioIACIQiHVH6_fFNywK0Rnn9_pC2SoUCAoiEIh1R-v3xTcsCtEZ5_f6QtkwyJSzBw",
+          "author": null,
+          "description": "'Pro-IRA' song climbs to number 2 in UK charts after Irish women's team backlash  HeraldScotland",
+          "link": "https://www.heraldscotland.com/news/national/uk-today/23047955.itunes-charts-uk-pro-ira-song-celtic-symphony-climbs-chart-irish-womens-team-backlash/",
+          "publishedOn": "2022-10-14T09:10:03.000Z",
+          "wordCount": 8529,
+          "title": "'Pro-IRA' song climbs to number 2 in UK charts after Irish women's team backlash - HeraldScotland",
+          "imageUrl": "https://www.heraldscotland.com/resources/images/16045484/?type=og-image"
+        },
         {
           "id": "CAIiEAD0p7bJW3fvZTda5H95cF4qGQgEKhAIACoHCAow96D9CjDOy_QCMPvp0wU",
           "author": null,
@@ -3197,6 +3267,56 @@
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
         {
+          "id": "716bf4e48b541752244e834a9e7ebd3f",
+          "author": null,
+          "description": "SCOTLAND's place in the top ten for European coefficient rankings could be at risk.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23048974.celtic-rangers-hearts-poor-european-form-places-scotlands-top-ten-coefficient-ranking-risk/?ref=rss",
+          "publishedOn": "2022-10-14T12:10:33.000Z",
+          "wordCount": 8276,
+          "title": "Celtic, Rangers & Hearts' poor European form places Scotland's top ten coefficient ranking at risk",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16046476/?type=og-image"
+        },
+        {
+          "id": "77d974aba3ba8be0dc416460f94c5b79",
+          "author": null,
+          "description": "SCOTT MCTOMINAY was full of praise for ex-Celtic manager Neil Lennon after last night's close-fought Europa League encounter at Old Trafford.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23048346.scott-mctominay-praises-ex-celtic-manager-neil-lennon-great-coach-following-man-united-scare/?ref=rss",
+          "publishedOn": "2022-10-14T10:43:13.000Z",
+          "wordCount": 8571,
+          "title": "Scott McTominay praises ex-Celtic manager Neil Lennon as 'great coach' following Man United scare",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16045993/?type=og-image"
+        },
+        {
+          "id": "2679ed5fb3c18e1c7a361d1736e0f0f4",
+          "author": null,
+          "description": "SCOTLAND star Kieran Tierney admits the pressures of being top of the tree at Celtic will stand him in good stead for Arsenal's potential title tilt this season.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23048285.celtic-hero-kieran-tierney-opens-familiar-pressure-arsenal-aim-maintain-title-tilt/?ref=rss",
+          "publishedOn": "2022-10-14T10:30:27.000Z",
+          "wordCount": 8389,
+          "title": "Celtic hero Kieran Tierney opens up on 'familiar pressure' as Arsenal aim to maintain title tilt",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16045927/?type=og-image"
+        },
+        {
+          "id": "008662ca94fe5b864f4f0fbea3054896",
+          "author": null,
+          "description": "CELTIC target Mohammad Abu Fani has broken his silence about his disappointment of not clinching a transfer to Parkhead.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23048157.celtic-transfer-target-mohammad-abu-fani-breaks-silence-not-clinching-parkhead-move/?ref=rss",
+          "publishedOn": "2022-10-14T10:05:06.000Z",
+          "wordCount": 8217,
+          "title": "Celtic transfer target Mohammad Abu Fani breaks silence over not clinching Parkhead move",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16045735/?type=og-image"
+        },
+        {
+          "id": "0a0e622b13f62a328ccd4d92352bb3d5",
+          "author": null,
+          "description": "NEIL LENNON was just moments away from masterminding one of his greatest ever results as a manager.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23048009.neil-lennon-big-european-nights-admission-following-celtic-exit/?ref=rss",
+          "publishedOn": "2022-10-14T09:28:11.000Z",
+          "wordCount": 8134,
+          "title": "Neil Lennon in big European nights admission following Celtic exit",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16044740/?type=og-image"
+        },
+        {
           "id": "f1570216ec19a5b8c1df4b9c26ccb144",
           "author": null,
           "description": "NEIL LENNON was minutes away from masterminded a huge Europa League shock against Manchester United tonight.",
@@ -3685,26 +3805,6 @@
           "wordCount": 9006,
           "title": "The red flags that Celtic' s last-gasp St Johnstone win raised ahead of RB Leipzig rematch",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16027376/?type=og-image"
-        },
-        {
-          "id": "c6400422f0ed7614a8516056510068f9",
-          "author": null,
-          "description": "THE first Champions League match that Stephen Welsh ever attended at Parkhead as a seven-year-old Celtic supporter had a profound effect on him.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23034881.ac-milan-giant-killing-act-inspiring-celtic-defender-stephen-welsh-ahead-champions-league-bow-parkhead/?ref=rss",
-          "publishedOn": "2022-10-09T21:36:00.000Z",
-          "wordCount": 8683,
-          "title": "AC Milan giant-killing act inspiring Celtic defender Stephen Welsh ahead of Champions League bow at Parkhead",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16027319/?type=og-image"
-        },
-        {
-          "id": "041555f1d90cb462208b12c986cac7fd",
-          "author": null,
-          "description": "JOE Hart incurred the wrath of Celtic fans last Wednesday night when he gifted RB Leipzig a goal in a Champions League match in Germany with an underhit pass.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23034893.st-johnstone-keeper-remi-matthews-england-idol-joe-hart-able-silence-celtic-critics/?ref=rss",
-          "publishedOn": "2022-10-09T21:35:00.000Z",
-          "wordCount": 9786,
-          "title": "St Johnstone keeper Remi Matthews on why his England idol Joe Hart was able to silence his Celtic critics",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16027323/?type=og-image"
         }
       ]
     }
