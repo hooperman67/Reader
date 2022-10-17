@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com//sport/football/celtic",
       "articles": [
         {
+          "id": "3881599",
+          "author": "Mark Atkinson",
+          "description": "Ange Postecoglou cut a very contented figure following Celtic’s rampant 6-1 victory over Hibs.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtic-final-word-quintet-all-shone-but-one-should-keep-place-the-duo-that-left-hibs-boss-purring-3881599",
+          "publishedOn": "2022-10-17T06:30:00.000Z",
+          "wordCount": 2589,
+          "title": "Celtic final word: Quintet all shone but one should keep place, the duo that left Hibs boss purring",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmJiY2Q5MzIyLWYzNmYtNDEyMi1hNmFiLTU2Nzk2OWE5OTBjMzpjNDUyMTZjNy00NzE5LTRhY2ItYTdhZS05Y2M1Y2ViOWZhN2I=.jpg?width=1200&enable=upscale"
+        },
+        {
           "id": "3881512",
           "author": "Ross McLeish",
           "description": "Former Tottenham Hotspur recruitment chief Steve Hitchen is reportedly set to link up with Celtic manager Ange Postecoglou ahead of the winter transfer window.",
@@ -294,16 +304,6 @@
           "wordCount": 2616,
           "title": "David Marshall ready for 'weird' Celtic return with Hibs as he recalls time he's been back to Parkhead since departure",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjQxMTYzYmU5LTI4ODctNDI5Zi1iM2M0LWRiZDJjYWRmZmQwNTplNGVkYjUxOC1jZTc5LTQzY2ItYjk1MS0zMTY0OWIyYTBhZDQ=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3877682",
-          "author": "Angus Wright",
-          "description": "Neil Lennon is hoping to give Manchester United another scare as the former Celtic boss leads Omonia Nicosia at Old Trafford searching for a historic Europa League win.",
-          "link": "https://www.scotsman.com/sport/football/a-bit-steep-neil-lennon-smiles-at-omonia-man-utd-odds-poser-as-he-and-another-ex-celt-prepare-for-old-trafford-3877682",
-          "publishedOn": "2022-10-12T18:35:12.000Z",
-          "wordCount": 2292,
-          "title": "'A bit steep': Neil Lennon smiles at Omonia-Man Utd odds poser as he and another ex-Celt prepare for Old Trafford",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjUzN2M5MjU2LThlOGYtNDgzYS1iYTIzLTVkNDVlNjNmODYyYjo2NDIwNTAxNC0xMWU3LTQzN2QtOTM0ZS00NjdjN2RlYmJmOGQ=.jpg?width=1200&enable=upscale"
         }
       ]
     },
@@ -312,6 +312,26 @@
       "feedUrl": "http://armchaircelts.co.uk/wprss",
       "siteUrl": "http://armchaircelts.co.uk/feed/wprss/",
       "articles": [
+        {
+          "id": "https://www.celticquicknews.co.uk/i-can-learn-so-much-from-him-abada-hails-centurian-forrest/",
+          "author": null,
+          "description": "LEIL ABADA admits Celtic’s latest Centurian James Forrest is a constant source of inspiration. The 31-year-old Scotland international winger rifled a hat-trick behind David Marshall in the impressive 6-1 romp over Hibs at Parkhead at the weekend to take his tally to 100 for the Hoops. Abada, who has been competing with Forrest for the [...]",
+          "link": "https://www.celticquicknews.co.uk/i-can-learn-so-much-from-him-abada-hails-centurian-forrest/",
+          "publishedOn": "2022-10-17T06:09:09.000Z",
+          "wordCount": 2977,
+          "title": "‘I CAN LEARN SO MUCH FROM HIM,’ ABADA HAILS CENTURIAN FORREST",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/09/LIEL-ABADA-THREE-FTRD.png"
+        },
+        {
+          "id": "https://thecelticstar.com/celtic-on-this-day-17th-october-david-potters-celtic-diary/",
+          "author": null,
+          "description": "Month 3, Day 17 of Celtic Historian David Potter’s new diary on The Celtic Star which will run throughout the new season and will highlight key Celtic-related events relevant to each day, today covering 17th October…SATURDAY 17 OCTOBER 189115,000 are at Old Celtic Park to see Sandy McMahon score twice and Johnny Madden once as Read More",
+          "link": "https://thecelticstar.com/celtic-on-this-day-17th-october-david-potters-celtic-diary/",
+          "publishedOn": "2022-10-17T06:00:00.000Z",
+          "wordCount": 1427,
+          "title": "Celtic On This Day – 17th October – David Potter’s Celtic Diary",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/8dba123baf1fc495bd9aa3e965a7945e-1024x577.jpeg"
+        },
         {
           "id": "https://thecelticstar.com/video-lewis-morgan-scores-an-absolute-screamer-in-the-mls/",
           "author": null,
@@ -2351,66 +2371,6 @@
           "wordCount": 1737,
           "title": "\"In love with this club\"; New Celtic signing left blown away on Instagram",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/09/GettyImages-1242997929-scaled.jpg"
-        },
-        {
-          "id": "https://thecelticblog.com/2022/10/articles-and-features/online-bigots-embarrass-themselves-with-their-phony-lafferty-equivalence-arguments/",
-          "author": null,
-          "description": "Last night, the Irish National Women’s team had to issue an apology after its players were videoed in the dressing room singing the Celtic Symphony. I am appalled. Not by the action but that they felt the need to pander to the Goons Gallery by saying sorry for it. What I want to say those […]",
-          "link": "https://thecelticblog.com/2022/10/articles-and-features/online-bigots-embarrass-themselves-with-their-phony-lafferty-equivalence-arguments/",
-          "publishedOn": "2022-10-12T18:14:05.000Z",
-          "wordCount": 1987,
-          "title": "Online Bigots Embarrass Themselves With Their Phony Lafferty Equivalence Arguments.",
-          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2020/06/2012-02-18T140504Z_1_MT1ACI9146229_RTRMADP_3_SOCCER-ENGLAND-RFC-KIL.jpg"
-        },
-        {
-          "id": "https://www.footballtransfertavern.com/celtic-news/celtic-reo-hatate-news-latest-rumours-gossip-postecoglou-praise/",
-          "author": null,
-          "description": "Celtic got ‘an absolute steal’ when they welcomed midfielder Reo Hatate to Parkhead earlier this year, according to Sky Sports reporter Anthony Joseph. The Lowdown: Hatate’s arrival Having joined the Hoops on New Year’s Day in a deal worth £1.4m, the Japan international has since played a key role in helping Ange Postecoglou’s side to […]",
-          "link": "https://www.footballtransfertavern.com/celtic-news/celtic-reo-hatate-news-latest-rumours-gossip-postecoglou-praise/",
-          "publishedOn": "2022-10-12T18:11:27.000Z",
-          "wordCount": 3345,
-          "title": "‘Absolute steal’ - Sky reporter wowed by ‘outrageous’ Celtic talent who left John McGinn stunned",
-          "imageUrl": "https://cdn.footballtransfertavern.com/wp-content/uploads/2022/09/Reo-Hatate-Celtic-SPFL-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/news/celtic-supporters-take-on-travel-company-after-concerning-matchday-plans/",
-          "author": null,
-          "description": "Celtic supporter clubs in Ireland have been left incensed by a new P&O Ferries policy that has threatened to wreak havoc with matchday travel, The Irish News has reported. The outlet says that the travel company intend to axe Saturday 8pm sailings from Scotland next month unless stringent criteria are met that will significantly increase ...\nThe post Celtic supporters take on travel company after concerning matchday plans appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/celtic-supporters-take-on-travel-company-after-concerning-matchday-plans/",
-          "publishedOn": "2022-10-12T18:10:00.000Z",
-          "wordCount": 1829,
-          "title": "Celtic supporters take on travel company after concerning matchday plans",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/10/GettyImages-1240724309-scaled.jpg"
-        },
-        {
-          "id": "https://thecelticstar.com/coach-park-update-from-celtic-slo-one-good-thing-about-last-night/",
-          "author": null,
-          "description": "Last night was by no means a highlight of anyone’s life, but at least one good thing has come out of it, and it concerns the Emirates Bus Park. It shows that Celtic FC and the authorities are capable of listening to reasonable suggestions, and there were loads of stewards and police with barriers in Read More",
-          "link": "https://thecelticstar.com/coach-park-update-from-celtic-slo-one-good-thing-about-last-night/",
-          "publishedOn": "2022-10-12T18:06:16.000Z",
-          "wordCount": 1990,
-          "title": "Coach Park Update from Celtic SLO – One Good Thing About Last Night",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/10/imago1016127560h-1024x682.jpeg"
-        },
-        {
-          "id": "https://www.67hailhail.com/news/scottish-fa-chief-issues-bizarre-and-worrying-prediction-as-celtic-set-for-new-era/",
-          "author": null,
-          "description": "Scottish FA Chief Executive Ian Maxwell has predicted the initial few months of VAR’s use in Scottish football could be ‘horrendous’ but has re-affirmed his belief it will end up providing long-term benefits to the Premiership. Today, it was confirmed that the technology will be used in the Scottish top flight ahead of schedule, with ...\nThe post Scottish FA chief issues bizarre and worrying prediction as new era is confirmed for Celtic appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/scottish-fa-chief-issues-bizarre-and-worrying-prediction-as-celtic-set-for-new-era/",
-          "publishedOn": "2022-10-12T17:40:00.000Z",
-          "wordCount": 1937,
-          "title": "Scottish FA chief issues bizarre and worrying prediction as new era is confirmed for Celtic",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/10/GettyImages-1283584646-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/opinion/celtic-second-half-substitute-we-could-see-more-of-in-jotas-absence/",
-          "author": null,
-          "description": "It has been quite the week for Celtic full-back Alexandro Bernabei, who went on to make his first Champions League appearance for the Bhoys last night. Following his arrival in the summer transfer window, the Argentinian has found minutes hard to come by under Ange Postecoglou. That is due to the brilliant form of Greg ...\nThe post Celtic second-half substitute we could see more of in Jota&#039;s absence appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/opinion/celtic-second-half-substitute-we-could-see-more-of-in-jotas-absence/",
-          "publishedOn": "2022-10-12T17:10:00.000Z",
-          "wordCount": 2112,
-          "title": "Celtic second-half substitute we could see more of in Jota&#039;s absence",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/08/GettyImages-1242018118-scaled.jpg"
         }
       ]
     },
@@ -2419,6 +2379,26 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CAIiEPyV0W0vUAqRzEo8TrBplL4qGQgEKhAIACoHCAowr5GNCzDFxJ4DMLbFpgY",
+          "author": null,
+          "description": "Former Celtic hero Shunsuke Nakamura set to retire after incredible 26-year career  67 Hail Hail - Celtic FC News",
+          "link": "https://www.67hailhail.com/news/former-celtic-hero-shunsuke-nakamura-set-to-retire-after-incredible-26-year-career/",
+          "publishedOn": "2022-10-17T06:45:00.000Z",
+          "wordCount": 2098,
+          "title": "Former Celtic hero Shunsuke Nakamura set to retire after incredible 26-year career - 67 Hail Hail - Celtic FC News",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2020/09/GettyImages-80724079.jpg"
+        },
+        {
+          "id": "CBMiT2h0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L2NlbHRpYy1mbG9wLXZhc2lsaXMtYmFya2FzLXN1ZmZlcnMtMjUyNzg5OTDSAVNodHRwczovL3d3dy5nbGFzZ293bGl2ZS5jby51ay9zcG9ydC9jZWx0aWMtZmxvcC12YXNpbGlzLWJhcmthcy1zdWZmZXJzLTI1Mjc4OTkwLmFtcA",
+          "author": null,
+          "description": "Celtic flop Vasilis Barkas suffers PSV nightmare with Utrecht as loan side hit for six  Glasgow Live",
+          "link": "https://www.glasgowlive.co.uk/sport/celtic-flop-vasilis-barkas-suffers-25278990",
+          "publishedOn": "2022-10-17T06:39:11.000Z",
+          "wordCount": 3464,
+          "title": "Celtic flop Vasilis Barkas suffers PSV nightmare with Utrecht as loan side hit for six - Glasgow Live",
+          "imageUrl": "https://i2-prod.glasgowlive.co.uk/incoming/article25278982.ece/ALTERNATES/s1200/0_JS240135596-1.jpg"
+        },
         {
           "id": "CAIiEER_dvMjhKrjRypPbWxP65EqGQgEKhAIACoHCAowrueiCTDmn7gCMKXUtwU",
           "author": null,
@@ -3038,26 +3018,6 @@
           "wordCount": 2311,
           "title": "RB Leipzig star makes massive Celtic and Real Madrid comparison - The Celtic Bhoys",
           "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1257400258.jpeg"
-        },
-        {
-          "id": "CAIiECWn1qTnCea89IUgZ44orDEqGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY",
-          "author": null,
-          "description": "Coach Park Update from Celtic SLO – One Good Thing About Last Night  The Celtic Star",
-          "link": "https://thecelticstar.com/coach-park-update-from-celtic-slo-one-good-thing-about-last-night/",
-          "publishedOn": "2022-10-12T18:06:16.000Z",
-          "wordCount": 1990,
-          "title": "Coach Park Update from Celtic SLO – One Good Thing About Last Night - The Celtic Star",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/10/imago1016127560h-1024x682.jpeg"
-        },
-        {
-          "id": "CAIiEFqN4gUf-8Pu3kgYXhgyExsqGQgEKhAIACoHCAowr5GNCzDFxJ4DMOHTpgY",
-          "author": null,
-          "description": "Celtic second-half substitute we could see more of in Jota’s absence  67 Hail Hail - Celtic FC News",
-          "link": "https://www.67hailhail.com/opinion/celtic-second-half-substitute-we-could-see-more-of-in-jotas-absence/",
-          "publishedOn": "2022-10-12T17:10:00.000Z",
-          "wordCount": 2112,
-          "title": "Celtic second-half substitute we could see more of in Jota’s absence - 67 Hail Hail - Celtic FC News",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/08/GettyImages-1242018118-scaled.jpg"
         }
       ]
     },
