@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com//sport/football/celtic",
       "articles": [
         {
+          "id": "3884958",
+          "author": "Mark Atkinson",
+          "description": "Omonia Nicosia have sacked manager Neil Lennon after just seven months at the helm of the Cypriot outfit.",
+          "link": "https://www.scotsman.com/sport/football/celtic/neil-lennon-omonia-explain-sacking-of-former-celtic-and-hibs-manager-just-minutes-after-nea-salamis-defeat-3884958",
+          "publishedOn": "2022-10-18T18:07:43.000Z",
+          "wordCount": 1801,
+          "title": "Neil Lennon: Omonia explain sacking of former Celtic and Hibs manager just minutes after Nea Salamis defeat",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjgyOGE1OWY1LTMxMTctNDkzMS1iNzA2LTExNzcwMWMzZmVjYTo5NTAxMTNiOS0wNjBlLTQzZjgtYTQ1Ni04YTE0ODA1MzMyNTQ=.jpg?width=1200&enable=upscale"
+        },
+        {
           "id": "3884610",
           "author": "Joel Sked",
           "description": "St Johnstone's trip to Easter Road to face Hibs marks a significant point in Scottish football’s history. VAR will be introduced for the first time in a domestic fixture.",
@@ -312,6 +322,86 @@
       "feedUrl": "http://armchaircelts.co.uk/wprss",
       "siteUrl": "http://armchaircelts.co.uk/feed/wprss/",
       "articles": [
+        {
+          "id": "https://thecelticstar.com/neil-lennon-sacked-by-cypriot-side-omonoia-despite-european-success/",
+          "author": null,
+          "description": "Former Celtic manager Neil Lennon has – quite incredibly given his exploits in European football this season – tonight been sacked by Cypriot side Omonia. A statement issued on the club’s official website in Greek reads something like this: We inform you that we have agreed with Mr. Neil Lennon to stop our collaboration. Mr. Read More",
+          "link": "https://thecelticstar.com/neil-lennon-sacked-by-cypriot-side-omonoia-despite-european-success/",
+          "publishedOn": "2022-10-18T18:21:53.000Z",
+          "wordCount": 1328,
+          "title": "Neil Lennon sacked by Cypriot side Omonia, despite European success",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/10/manunited-omonoia-game4-50-1024x683.jpg"
+        },
+        {
+          "id": "https://celtsarehere.com/neil-lennon-sacked/",
+          "author": null,
+          "description": "NEIL LENNNON has been sacked by Cypriot top division side Omonia, just minutes after defeat. https://twitter.com/OMONOIAfootball/status/1582422367774871552?s=20&t=rNFfkdNWYN5Y2MP3LIA_0Q The manager’s last result with the side was a 1-0 loss to New Salamis, with the game finishing 48 minutes prior. The side sit 7th, with the poor from and inconsistency reasoned for the Northern Irishman’s dismissal. Many were under […]\nSource",
+          "link": "https://celtsarehere.com/neil-lennon-sacked/",
+          "publishedOn": "2022-10-18T18:09:34.000Z",
+          "wordCount": 13513,
+          "title": "Neil Lennon Sacked",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thecelticstar.com/should-giorgos-giakoumakis-be-our-starting-no-9/",
+          "author": null,
+          "description": "Century Bhoy James Forrest stole the headlines with his hat-trick in Saturday’s 6-1 hammering of Hibs and the one club man walked away with another match ball to add to his collection following an impressive first start of the season.However there was another player going about his business in his usual determined fashion who grabbed Read More",
+          "link": "https://thecelticstar.com/should-giorgos-giakoumakis-be-our-starting-no-9/",
+          "publishedOn": "2022-10-18T17:55:06.000Z",
+          "wordCount": 1615,
+          "title": "Should Giorgos Giakoumakis Be Our Starting No.9?",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/10/SPFL_22_23_STJ_CELTIC_1660-1024x706.jpeg"
+        },
+        {
+          "id": "https://thecelticblog.com/2022/10/articles-and-features/kyogo-v-giakoumakis-the-debate-that-might-define-celtics-whole-season/",
+          "author": null,
+          "description": "For a brief period at the weekend both of our strikers were on the pitch. It’s rare enough as to be worth commenting on. The manager, though, has shown no interest in trying to shoehorn one of them into an unfamiliar role, and thus play two up front. I think there are systems where it […]",
+          "link": "https://thecelticblog.com/2022/10/articles-and-features/kyogo-v-giakoumakis-the-debate-that-might-define-celtics-whole-season/",
+          "publishedOn": "2022-10-18T17:52:30.000Z",
+          "wordCount": 2018,
+          "title": "Kyogo v Giakoumakis: The Debate That Might Define Celtic’s Whole Season.",
+          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2022/05/2022-05-14T125659Z_889481950_UP1EI5E0ZYW4O_RTRMADP_3_SOCCER-SCOTLAND-CEL-MOT-REPORT.jpg"
+        },
+        {
+          "id": "https://celtsarehere.com/on-loan-celt-wins-player-of-the-year/",
+          "author": null,
+          "description": "Celtic goalkeeper Conor Hazard has won Supporters Association Player of the Year for his loan club Helsinki after he helped the club to win another league title. Hazard has been out on-loan since January and isn’t due back at Celtic until the end of this year. The goalkeeper made the headlines during the heights of […]\nSource",
+          "link": "https://celtsarehere.com/on-loan-celt-wins-player-of-the-year/",
+          "publishedOn": "2022-10-18T17:18:23.000Z",
+          "wordCount": 13376,
+          "title": "On-Loan Celt Wins Player of the Year",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thecelticblog.com/2022/10/articles-and-features/the-sfas-decision-to-clear-leon-king-is-another-sign-that-var-might-not-change-much/",
+          "author": null,
+          "description": "The SFA’s decision not to ban Leon King for the incident which raised some hackles at the weekend is not in the least bit surprising. There was a case to be made that he committed a professional foul, and that case was clear. It was every bit as clear as the one against Callum McGregor […]",
+          "link": "https://thecelticblog.com/2022/10/articles-and-features/the-sfas-decision-to-clear-leon-king-is-another-sign-that-var-might-not-change-much/",
+          "publishedOn": "2022-10-18T17:01:12.000Z",
+          "wordCount": 1824,
+          "title": "The SFA’s Decision To Clear Leon King Is Another Sign That VAR Might Not Change Much.",
+          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2020/01/2020-01-05T153818Z_823584294_RC2R9E98YO4Z_RTRMADP_3_SOCCER-ENGLAND-CRY-DRB-REPORT.jpg"
+        },
+        {
+          "id": "https://celtsarehere.com/super-player-cal-mac-delighted-for-celtic-teammate/",
+          "author": null,
+          "description": "Celtic captain Callum McGregor has been full of praise for his fellow academy graduate James Forrest after he struck his 100th goal for the club at the weekend. https://twitter.com/CelticFC/status/1582310521277071360 McGregor is currently out of action at the moment for the Scottish champions but it was a welcome sight for many Hoops fans to see the […]\nSource",
+          "link": "https://celtsarehere.com/super-player-cal-mac-delighted-for-celtic-teammate/",
+          "publishedOn": "2022-10-18T15:52:00.000Z",
+          "wordCount": 13581,
+          "title": "‘Super Player’ – Cal Mac Delighted for Celtic Teammate",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thecelticblog.com/2022/10/articles-and-features/desperate-anti-celtic-hacks-dream-up-another-matt-oriley-suitor/",
+          "author": null,
+          "description": "The Matt O’Riley nonsense continues today with speculative trash linking him Leicester, and in the January window no less, when he’ll have been at the club exactly one year. Where in God’s name do they get this sort of trash from? It must be great to have a job like that, a job where you […]",
+          "link": "https://thecelticblog.com/2022/10/articles-and-features/desperate-anti-celtic-hacks-dream-up-another-matt-oriley-suitor/",
+          "publishedOn": "2022-10-18T15:44:25.000Z",
+          "wordCount": 1863,
+          "title": "Desperate Anti-Celtic Hacks Dream Up Another Matt O’Riley Suitor.",
+          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2022/05/2022-04-09T153044Z_1562541037_UP1EI491735D7_RTRMADP_3_SOCCER-SCOTLAND-CEL-STJ-REPORT-scaled.jpg"
+        },
         {
           "id": "https://thecelticblog.com/2022/10/blogs/the-dark-days-1999-2000-part-1-our-nightmarish-dream-team/",
           "author": null,
@@ -2591,36 +2681,6 @@
           "wordCount": 2622,
           "title": "CELTIC FAN KOs LENNY",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/10/scott-mctominay-featurred.png"
-        },
-        {
-          "id": "https://celtsarehere.com/celtic-hero-can-reignite-his-parkhead-career-opinion/",
-          "author": null,
-          "description": "James Forrest has looked like a bright spark in the previous two matches he has came off the bench and could be a very useful player for Celtic during this hectic period of fixtures. The 31-year old made his 450th appearance for the club in the 2-0 defeat to RB Leipzig but had a decent […]\nSource",
-          "link": "https://celtsarehere.com/celtic-hero-can-reignite-his-parkhead-career-opinion/",
-          "publishedOn": "2022-10-14T06:19:00.000Z",
-          "wordCount": 13558,
-          "title": "Celtic Hero Can Reignite His Parkhead Career – Opinion",
-          "imageUrl": null
-        },
-        {
-          "id": "https://celtsarehere.com/barnes-probably-celtic-prediction/",
-          "author": null,
-          "description": "JOHN BARNES has predicted that this season will go right until the very end, with the former Celtic manager admitting that the Hoops are favourites for the title. Last season, it was the second last game before Celtic were officially champions. A draw at Dundee United was enough to see the Hoops regain their crown, […]\nSource",
-          "link": "https://celtsarehere.com/barnes-probably-celtic-prediction/",
-          "publishedOn": "2022-10-14T05:53:00.000Z",
-          "wordCount": 13522,
-          "title": "Barnes ‘Probably’ Celtic Prediction",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thecelticstar.com/celtic-on-this-day-14th-october-david-potters-celtic-diary/",
-          "author": null,
-          "description": "Month 3, Day 14 of Celtic Historian David Potter’s new diary on The Celtic Star which will run throughout the new season and will highlight key Celtic-related events relevant to each day, today covering 14th October…SATURDAY 14 OCTOBER 1893Celtic are very much indebted to Sandy McMahon for his hat-trick in the 5-2 win at Celtic Read More",
-          "link": "https://thecelticstar.com/celtic-on-this-day-14th-october-david-potters-celtic-diary/",
-          "publishedOn": "2022-10-14T05:40:00.000Z",
-          "wordCount": 1530,
-          "title": "Celtic On This Day – 14th October – David Potter’s Celtic Diary",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/imago0002222945h-1024x683.jpg"
         }
       ]
     },
@@ -2629,6 +2689,26 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CBMiTGh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9zdXBlci1wbGF5ZXItY2FsLW1hYy1kZWxpZ2h0ZWQtZm9yLWNlbHRpYy10ZWFtbWF0ZS_SAVBodHRwczovL2NlbHRzYXJlaGVyZS5jb20vc3VwZXItcGxheWVyLWNhbC1tYWMtZGVsaWdodGVkLWZvci1jZWx0aWMtdGVhbW1hdGUvYW1wLw",
+          "author": null,
+          "description": "‘Super Player’ – Cal Mac Delighted for Celtic Teammate  CeltsAreHere",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiTGh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9zdXBlci1wbGF5ZXItY2FsLW1hYy1kZWxpZ2h0ZWQtZm9yLWNlbHRpYy10ZWFtbWF0ZS_SAVBodHRwczovL2NlbHRzYXJlaGVyZS5jb20vc3VwZXItcGxheWVyLWNhbC1tYWMtZGVsaWdodGVkLWZvci1jZWx0aWMtdGVhbW1hdGUvYW1wLw?oc=5",
+          "publishedOn": "2022-10-18T15:52:00.000Z",
+          "wordCount": 13581,
+          "title": "‘Super Player’ – Cal Mac Delighted for Celtic Teammate - CeltsAreHere",
+          "imageUrl": null
+        },
+        {
+          "id": "CAIiEGE82xLonoTLKkLRABpmiK8qGQgEKhAIACoHCAowsJStCzC9n8UDMNiMswc",
+          "author": null,
+          "description": "How Celtic will cope with the busy schedule and 'planning since pre-season' - Ange Postecoglou Q+A  Celtic Way",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiPmh0dHBzOi8vd3d3LmNlbHRpY3dheS5jby51ay9uZXdzLzIzMDU4NTgxLi1hbmdlLXBvc3RlY29nbG91LXEv0gEA?oc=5",
+          "publishedOn": "2022-10-18T15:18:00.000Z",
+          "wordCount": 9238,
+          "title": "How Celtic will cope with the busy schedule and 'planning since pre-season' - Ange Postecoglou Q+A - Celtic Way",
+          "imageUrl": "https://www.celticway.co.uk/resources/images/16059410/?type=og-image"
+        },
         {
           "id": "CAIiEIRvHxNqeOf3Sr7fHurxw58qGQgEKhAIACoHCAowrueiCTDmn7gCMIfHtwU",
           "author": null,
@@ -2740,6 +2820,16 @@
           "imageUrl": "https://www.rangersnews.uk/static/uploads/24/2022/10/GettyImages-1303329784-scaled.jpg"
         },
         {
+          "id": "CAIiECxS6FT10tBLPBbuCBpLaTwqGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY",
+          "author": null,
+          "description": "Photo Of The Day: James Forrest Celebrates His First Celtic Goal  The Celtic Star",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiWmh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vcGhvdG8tb2YtdGhlLWRheS1qYW1lcy1mb3JyZXN0LWNlbGVicmF0ZXMtaGlzLWZpcnN0LWNlbHRpYy1nb2FsL9IBAA?oc=5",
+          "publishedOn": "2022-10-18T10:26:52.000Z",
+          "wordCount": 1069,
+          "title": "Photo Of The Day: James Forrest Celebrates His First Celtic Goal - The Celtic Star",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/10/james-forrest-41471524-1024x1024.jpg"
+        },
+        {
           "id": "CAIiECXAC3eK6TrePPOLQxvYchwqGQgEKhAIACoHCAow96D9CjDOy_QCMPvp0wU",
           "author": null,
           "description": "Emotional Frank McGarvey admits he may never see Celtic fans again after hospital visit  Glasgow Live",
@@ -2828,6 +2918,16 @@
           "wordCount": 3262,
           "title": "James Forrest gets Celtic legend status as Ange Postecoglou highlights unseen work from of 'one of the greats' - Daily Record",
           "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28261646.ece/ALTERNATES/s1200/0_Celtic-FC-v-Hibernian-FC-Cinch-Scottish-Premiership.jpg"
+        },
+        {
+          "id": "CAIiEMEAuHRB2LEzV_mSagZY8moqGQgEKhAIACoHCAow4KKJCzCv9JoDMICkoAY",
+          "author": null,
+          "description": "Celtic loanee has won Player of the Season award  The Celtic Bhoys",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiSGh0dHBzOi8vdGhlY2VsdGljYmhveXMuY29tLzIwMjIvMTAvMTcvY2VsdGljLWxvYW5lZS1wbGF5ZXItc2Vhc29uLWF3YXJkL9IBAA?oc=5",
+          "publishedOn": "2022-10-17T19:30:32.000Z",
+          "wordCount": 2352,
+          "title": "Celtic loanee has won Player of the Season award - The Celtic Bhoys",
+          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F630630800.jpeg"
         },
         {
           "id": "CAIiEMEAuHRB2LEzV_mSagZY8moqGQgEKhAIACoHCAow4KKJCzCv9JoDMICkoAY",
@@ -3656,6 +3756,36 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "3abf0a356c89492aed00cfed5830168b",
+          "author": null,
+          "description": "Neil Lennon has been sacked as Omonia Nicosia manager after just seven months in charge.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23059497.neil-lennon-sacked-omonia-nicosia-manager-loss-nea-salamis/?ref=rss",
+          "publishedOn": "2022-10-18T17:47:59.000Z",
+          "wordCount": 8102,
+          "title": "Neil Lennon sacked as Omonia Nicosia manager after loss to Nea Salamis",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16060187/?type=og-image"
+        },
+        {
+          "id": "b592a5d7834b0ac1f96928b05798c74d",
+          "author": null,
+          "description": "The defender hopes to make the tournament in Qatar but feels only one player in the Croatian national set-up is guaranteed a place on the plane",
+          "link": "https://www.glasgowtimes.co.uk/sport/23059365.celtic-defender-josip-juranovic-croatia-world-cup-squad-quip-jokes-one-star-guarantee/?ref=rss",
+          "publishedOn": "2022-10-18T16:39:55.000Z",
+          "wordCount": 8136,
+          "title": "Celtic defender Josip Juranovic in Croatia World Cup squad quip as he jokes that only one star is guaranteed",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16059964/?type=og-image"
+        },
+        {
+          "id": "c86d2247a6b260c5cb91adfc54357a10",
+          "author": null,
+          "description": "The defender was very complimentary of the Scotland international",
+          "link": "https://www.glasgowtimes.co.uk/sport/23059132.josip-juranovic-praises-celtic-legend-james-forrest-details-wingers-best-traits/?ref=rss",
+          "publishedOn": "2022-10-18T15:45:13.000Z",
+          "wordCount": 8101,
+          "title": "Josip Juranovic praises Celtic 'legend' James Forrest as he details importance of winger on squad",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16059563/?type=og-image"
+        },
         {
           "id": "de87f1bbbc1ce03ec96f9be69cc5e342",
           "author": null,
