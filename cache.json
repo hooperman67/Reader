@@ -6,6 +6,26 @@
       "siteUrl": "https://www.scotsman.com//sport/football/celtic",
       "articles": [
         {
+          "id": "3884758",
+          "author": "Mark Atkinson",
+          "description": "There was a great deal of excitement this summer when Celtic signed Alexandro Bernabei, a 21-year-old Argentinian left-back.",
+          "link": "https://www.scotsman.com/sport/football/celtic/why-celtic-are-really-excited-about-alexandro-bernabei-careful-game-of-patience-training-ground-work-being-measured-3884758",
+          "publishedOn": "2022-10-18T21:30:00.000Z",
+          "wordCount": 2530,
+          "title": "Why Celtic are 'really excited' about Alexandro Bernabei - careful game of patience, training-ground work, being measured",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjhiNmQ4OTk5LWZiY2ItNGI3OC04N2Q5LWNiMmI4ZWM3NjYxNzoxYzc1Yjg2ZS02NTNiLTRkNjctOWZjMC1kNzYwOGNjYWE3OTk=.jpg?width=1200&enable=upscale"
+        },
+        {
+          "id": "3884541",
+          "author": "Mark Atkinson",
+          "description": "Celtic are “well under way” in their planning for the winter transfer window, their manager Ange Postecoglou has revealed.",
+          "link": "https://www.scotsman.com/sport/football/celtic/ange-postecoglou-delivers-exciting-celtic-transfer-update-for-january-mark-lawwell-scour-world-brief-still-value-in-asia-3884541",
+          "publishedOn": "2022-10-18T21:30:00.000Z",
+          "wordCount": 2304,
+          "title": "Ange Postecoglou delivers exciting Celtic transfer update for January - Mark Lawwell, 'scour world brief', still value in Asia",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjAyNDIwMzYyLWJkN2ItNGFiYy05MmRkLWUwZTM5ZjRkYmY2ZDozOGUzMzkzMi0yMDI1LTQ2YTEtYjM5ZC1mZjIxMTQzMWM1ODM=.jpg?width=1200&enable=upscale"
+        },
+        {
           "id": "3884958",
           "author": "Mark Atkinson",
           "description": "Omonia Nicosia have sacked manager Neil Lennon after just seven months at the helm of the Cypriot outfit.",
@@ -304,16 +324,6 @@
           "wordCount": 2772,
           "title": "'Boom-bust cycle everyone loves to get into here': Ange Postecoglou riles against Champions League talk",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjRiYmViYzAzLWIxNmYtNDg5Yy04OGFkLTIyOTJlMWY2NTJkYjpiNDEzMDk4NS1lZTA1LTQyMTEtOTcwZC1hZWU0MDUyZDFhZDE=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3880545",
-          "author": "Gavin McCafferty",
-          "description": "Jota will remain out for Celtic’s cinch Premiership clash with Hibs but fellow winger Liel Abada has been passed fit.",
-          "link": "https://www.scotsman.com/sport/football/celtic/celtic-injuries-jota-still-out-carl-starfelt-update-two-fresh-knocks-as-squad-gets-stretched-3880545",
-          "publishedOn": "2022-10-14T14:20:56.000Z",
-          "wordCount": 1803,
-          "title": "Celtic injuries: Jota still out, Carl Starfelt update, two fresh knocks as squad gets stretched",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjkxNWFjNTUyLWM4ZjItNDY5ZS04YmY5LTA1MGJjMTlhNDA5NTplYWMxMGJjNC05M2ViLTQ5ODctODFjOS0yNWUyM2QyNDhmZTc=.jpg?width=1200&enable=upscale"
         }
       ]
     },
@@ -322,6 +332,16 @@
       "feedUrl": "http://armchaircelts.co.uk/wprss",
       "siteUrl": "http://armchaircelts.co.uk/feed/wprss/",
       "articles": [
+        {
+          "id": "https://thecelticblog.com/2022/10/blogs/the-dark-days-1999-2000-part-2-the-fall-of-king-kenny-dalglish/",
+          "author": null,
+          "description": "Kenny Dalglish assumed control of Celtic in the wake of the sacking of his prodigy John Barnes after the Inverness Caledonian Thistle debacle on the 10th of January 2000. A lot of events from those days don’t seem that long ago. But this one definitely does. He was actually on holiday when it happened. Needless […]",
+          "link": "https://thecelticblog.com/2022/10/blogs/the-dark-days-1999-2000-part-2-the-fall-of-king-kenny-dalglish/",
+          "publishedOn": "2022-10-18T21:04:42.000Z",
+          "wordCount": 5197,
+          "title": "The Dark Days: 1999-2000 Part 2: The Fall Of King Kenny Dalglish",
+          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2022/06/2022-04-17T123540Z_865429347_UP1EI4H0YZDYC_RTRMADP_3_SOCCER-SCOTLAND-CEL-RFC-REPORT-scaled.jpg"
+        },
         {
           "id": "https://thecelticstar.com/josip-juranovic-opens-up-on-world-cup-ambitions/",
           "author": null,
@@ -2621,136 +2641,6 @@
           "wordCount": 2617,
           "title": "TREBLE BLOW AS JOTA LEADS CROCKS",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/09/FILIPE-JOTA-ROSS-CO-FEATURED.png"
-        },
-        {
-          "id": "https://celtsarehere.com/ange-postecoglou-calls-out-agenda-driven-media-bias/",
-          "author": null,
-          "description": "Ange Postecoglou has hit back at critics who he believes his Celtic side don’t deserve to be playing the top level of European football. The Celtic boss was answering questions during his pre-match press conference before Celtic take on Hibs tomorrow afternoon. It was a disappointing evening for his side on Tuesday night as RB […]\nSource",
-          "link": "https://celtsarehere.com/ange-postecoglou-calls-out-agenda-driven-media-bias/",
-          "publishedOn": "2022-10-14T14:33:56.000Z",
-          "wordCount": 13610,
-          "title": "Ange Postecoglou Calls Out ‘Agenda’ Driven Media Bias",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thecelticstar.com/i-reckon-theyre-talking-from-an-agenda-or-some-sort-of-bias-ange-postecoglou/",
-          "author": null,
-          "description": "Great to hear Ange Postecoglou defending Celtic today and hitting out at biased, agenda driven ctitics who are eager to push Celtic into a similar category as theRangers as Champions League whipping boys with the Ibrox side losing 4-0 in Amsterdam (a result that looked much worse when Ajax then lost their next home match Read More",
-          "link": "https://thecelticstar.com/i-reckon-theyre-talking-from-an-agenda-or-some-sort-of-bias-ange-postecoglou/",
-          "publishedOn": "2022-10-14T14:31:21.000Z",
-          "wordCount": 1722,
-          "title": "“I reckon they’re talking from an agenda or some sort of bias,” Ange Postecoglou",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/10/celtic-fc-v-rb-leipzig-group-f-uefa-champions-league-2-1024x666.jpeg"
-        },
-        {
-          "id": "https://www.67hailhail.com/news/ange-postecoglou-gives-jota-update-3-missing-for-celtic-vs-hibernian/",
-          "author": null,
-          "description": "Ange Postecoglou has confirmed Jota will not be available for the match between Celtic and Hibernian in the Scottish Premiership tomorrow. The winger came off at half-time against St Johnstone last week and, despite an initial playing down of the issue, has now missed matches against RB Leipzig and Hibs. However, there is hope he ...\nThe post Ange Postecoglou gives Jota update; 3 missing for Celtic vs Hibernian appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/ange-postecoglou-gives-jota-update-3-missing-for-celtic-vs-hibernian/",
-          "publishedOn": "2022-10-14T14:19:20.000Z",
-          "wordCount": 1795,
-          "title": "Ange Postecoglou gives Jota update; 3 missing for Celtic vs Hibernian",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/10/GettyImages-1243242800-scaled.jpg"
-        },
-        {
-          "id": "https://thecelticblog.com/2022/10/articles-and-features/ange-whips-the-hacks-over-agendas-and-bias-in-their-celtic-criticism/",
-          "author": null,
-          "description": "Well, the big guy gave his latest presser today and he was not happy, not even a little bit, when he was asked if Celtic benefits from being in the Champions League. I get the impression he was also asked if we deserved to be there. I love the way this guy handles himself at […]",
-          "link": "https://thecelticblog.com/2022/10/articles-and-features/ange-whips-the-hacks-over-agendas-and-bias-in-their-celtic-criticism/",
-          "publishedOn": "2022-10-14T14:13:06.000Z",
-          "wordCount": 1789,
-          "title": "Ange Whips The Hacks Over “Agendas And Bias” In Their Celtic Criticism.",
-          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2021/12/2021-12-09T194014Z_834591493_UP1EHC91IN0DP_RTRMADP_3_SOCCER-EUROPA-CEL-BET-REPORT-1.jpg"
-        },
-        {
-          "id": "https://celtsarehere.com/jota-friday-afternoon-injury-update-two-more-missing/",
-          "author": null,
-          "description": "ANGE POSTECOGLOU has confirmed Jota remains out injured and will play no part against Hibernian on Saturday afternoon. The Celtic winger missed the past two games and will be on the sidelines again as the Easter Road side come to town. Speaking to Sky Sports ahead of the game Ange confirmed: “Jota’s not available again. […]\nSource",
-          "link": "https://celtsarehere.com/jota-friday-afternoon-injury-update-two-more-missing/",
-          "publishedOn": "2022-10-14T14:08:03.000Z",
-          "wordCount": 13424,
-          "title": "Jota Friday Afternoon Injury Update; Two More Missing",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/agenda-or-some-sort-of-bias-postecoglou-bristles/",
-          "author": null,
-          "description": "ANGE POSTECOGLOU has bristled at suggestions Celtic are not equipped to play at Europe’s elite level. The Hoops boss has seen his side lose three and draw one of their four Champions League games to topple out of the competition with two games still to play. The Greek-Australian gaffer has witnessed his side pass up [...]",
-          "link": "https://www.celticquicknews.co.uk/agenda-or-some-sort-of-bias-postecoglou-bristles/",
-          "publishedOn": "2022-10-14T14:03:01.000Z",
-          "wordCount": 2727,
-          "title": "‘AGENDA OR SOME SORT OF BIAS,’ POSTECOGLOU BRISTLES",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/10/ANGE-POSTECOGLOU-AGENDA-FEATURED.png"
-        },
-        {
-          "id": "https://www.67hailhail.com/news/celtic-boss-ange-postecoglou-comes-out-firing-against-scottish-medias-boom-bust-cycle/",
-          "author": null,
-          "description": "Ange Postecoglou has railed against the concept of UEFA Champions League football not being beneficial for Celtic despite a disappointing group-stage campaign. The Celtic boss is striving to turn the Bhoys into a team that competes at the top level and has stayed on message in that regard even though results have gone against us ...\nThe post Celtic boss Ange Postecoglou comes out firing against Scottish media&#039;s &#039;boom-bust cycle&#039; appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/celtic-boss-ange-postecoglou-comes-out-firing-against-scottish-medias-boom-bust-cycle/",
-          "publishedOn": "2022-10-14T13:46:03.000Z",
-          "wordCount": 1867,
-          "title": "Celtic boss Ange Postecoglou comes out firing against Scottish media&#039;s &#039;boom-bust cycle&#039;",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/10/GettyImages-1425717345-1-scaled.jpg"
-        },
-        {
-          "id": "https://celtsarehere.com/celtic-women-prepare-for-derby-clash/",
-          "author": null,
-          "description": "Celtic Women are back in action this Sunday as they take on Glasgow Women at Excelsior Stadium at noon. Fran Alonso’s side have made a brilliant start to the season with a 100% win rate in the league after six games having scored 32 goals and not conceded one. The contrast could not be even […]\nSource",
-          "link": "https://celtsarehere.com/celtic-women-prepare-for-derby-clash/",
-          "publishedOn": "2022-10-14T13:41:34.000Z",
-          "wordCount": 13399,
-          "title": "Celtic Women Prepare For Derby Clash",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thecelticblog.com/2022/10/articles-and-features/the-celtic-symphony-storms-up-in-the-charts-in-support-of-the-irish-womens-team/",
-          "author": null,
-          "description": "Earlier in the week, I wrote about the Ibrox fans and their despicable attempt to draw some equivalence between what Lafferty did and what the Irish women’s football team did in a changing room. Later today I’ll post about Lennon’s response when asked to draw a link between one and the other and then to […]",
-          "link": "https://thecelticblog.com/2022/10/articles-and-features/the-celtic-symphony-storms-up-in-the-charts-in-support-of-the-irish-womens-team/",
-          "publishedOn": "2022-10-14T13:10:39.000Z",
-          "wordCount": 2092,
-          "title": "The Celtic Symphony Storms Up In The Charts In Support Of The Irish Women’s Team.",
-          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2022/06/2022-04-17T123540Z_865429347_UP1EI4H0YZDYC_RTRMADP_3_SOCCER-SCOTLAND-CEL-RFC-REPORT-scaled.jpg"
-        },
-        {
-          "id": "https://thecelticstar.com/performance-relative-to-their-xg-scottish-premierships-top-scorer-race/",
-          "author": null,
-          "description": "BetVictor has analysed the xG (expected goals) and xGA (expected goals against) of every Scottish Premiership side so far this season, to evaluate the performance of teams by their attacking and defensive output relative to their expected rate.xG and xGA are used to assign a value to goal-scoring chances based on past performance data. Comparing Read More",
-          "link": "https://thecelticstar.com/performance-relative-to-their-xg-scottish-premierships-top-scorer-race/",
-          "publishedOn": "2022-10-14T12:20:54.000Z",
-          "wordCount": 1301,
-          "title": "Performance Relative to Their xG, Scottish Premiership’s Top Scorer Race",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/10/SPFL_22_23_STJ_CELTIC_2476-1024x720.jpeg"
-        },
-        {
-          "id": "https://celtsarehere.com/former-celtic-youngster-on-hunt-for-new-club/",
-          "author": null,
-          "description": "Former Celtic academy graduate Calvin Miller is once again on the hunt for a new club after leaving National League side Chesterfield [Chesterfield FC].  Miller spent ten years at Celtic, after he signed for the Hoops at the age of 12. In his early years he made quite the impression in international youth football being […]\nSource",
-          "link": "https://celtsarehere.com/former-celtic-youngster-on-hunt-for-new-club/",
-          "publishedOn": "2022-10-14T12:01:01.000Z",
-          "wordCount": 13497,
-          "title": "Former Celtic Youngster On Hunt For New Club",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/soul-searching-energy-and-creativity/",
-          "author": null,
-          "description": "Until a reversal at Tannadice on Wednesday, Hibernian were the form team in Scotland.  They had collected 12 out of 12 points since August, scoring seven and conceding once.  They also secured a draw at home to Newco, the effect of which you still see in the two-point gap at the top of the league [...]",
-          "link": "https://www.celticquicknews.co.uk/soul-searching-energy-and-creativity/",
-          "publishedOn": "2022-10-14T11:01:23.000Z",
-          "wordCount": 4081,
-          "title": "Soul searching, energy and creativity",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
-        },
-        {
-          "id": "https://celtsarehere.com/kieran-tierney-draws-on-celtic-mentality/",
-          "author": null,
-          "description": "KIERAN TIERNEY is drawing on his time at Celtic as he and the Arsenal squad sit top of the English Premier League. The former hoops defender hasn’t been involved in the early going of the season after picking up an injury, but as he ramps up to make a full return, he wants to help […]\nSource",
-          "link": "https://celtsarehere.com/kieran-tierney-draws-on-celtic-mentality/",
-          "publishedOn": "2022-10-14T10:13:03.000Z",
-          "wordCount": 13665,
-          "title": "Kieran Tierney Draws on Celtic Mentality",
-          "imageUrl": null
         }
       ]
     },
@@ -2759,6 +2649,16 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CAIiEGK7A2nhTlRrNlrrvICrTB4qGQgEKhAIACoHCAowrueiCTDmn7gCMKXUtwU",
+          "author": null,
+          "description": "Ange Postecoglou on Celtic global scouting as he searches for early deals  Daily Record",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMia2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvYW5nZS1wb3N0ZWNvZ2xvdS1jZWx0aWMtZ2xvYmFsLXNjb3V0aW5nLTI4MjczMDEw0gEA?oc=5",
+          "publishedOn": "2022-10-18T21:30:00.000Z",
+          "wordCount": 3537,
+          "title": "Ange Postecoglou on Celtic global scouting as he searches for early deals - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28273127.ece/ALTERNATES/s1200/0_Celtic-FC-Media-Access.jpg"
+        },
         {
           "id": "CAIiEF4VjGJQS8oxZV45I9GVgY0qGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY",
           "author": null,
@@ -2818,6 +2718,16 @@
           "wordCount": 3325,
           "title": "Ange Postecoglou shrugs off Celtic 'fall to pieces' post World Cup poser - Daily Record",
           "imageUrl": "https://i2-prod.dailyrecord.co.uk/sport/football/football-news/article28270547.ece/ALTERNATES/s1200/0_Screenshot-2022-10-18-at-155157.png"
+        },
+        {
+          "id": "CAIiECBEOcjrPCffYy5XNgDuOG8qGQgEKhAIACoHCAow96D9CjDOy_QCMPvp0wU",
+          "author": null,
+          "description": "Jota Celtic return timeline provided as McGregor, Starfelt and Turnbull injury updates land  Glasgow Live",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiUWh0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L2pvdGEtY2VsdGljLXJldHVybi10aW1lbGluZS1wcm92aWRlZC0yNTI5NDE1M9IBAA?oc=5",
+          "publishedOn": "2022-10-18T14:51:01.000Z",
+          "wordCount": 3426,
+          "title": "Jota Celtic return timeline provided as McGregor, Starfelt and Turnbull injury updates land - Glasgow Live",
+          "imageUrl": "https://i2-prod.glasgowlive.co.uk/incoming/article25294134.ece/ALTERNATES/s1200/0_Bayer-Leverkusen-v-Celtic-UEFA-Europa-League.jpg"
         },
         {
           "id": "CBMicGh0dHBzOi8vd3d3LmZvb3RiYWxsaW5zaWRlcjI0Ny5jb20vcHVuZGl0LWlzc3Vlcy1pbmNyZWRpYmxlLWphbWVzLWZvcnJlc3QtdmVyZGljdC1hZnRlci13aGF0LWhlcy1zZWVuLWF0LWNlbHRpYy_SAXRodHRwczovL3d3dy5mb290YmFsbGluc2lkZXIyNDcuY29tL3B1bmRpdC1pc3N1ZXMtaW5jcmVkaWJsZS1qYW1lcy1mb3JyZXN0LXZlcmRpY3QtYWZ0ZXItd2hhdC1oZXMtc2Vlbi1hdC1jZWx0aWMvP2FtcA",
@@ -3778,56 +3688,6 @@
           "wordCount": 3227,
           "title": "Ryan Porteous in Celtic transfer 'rehearsal' - Daily Record",
           "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28133548.ece/ALTERNATES/s1200/0_JS279232689.jpg"
-        },
-        {
-          "id": "CAIiEEN-14_MQtW8NMzJdNEgLOEqGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY",
-          "author": null,
-          "description": "“I reckon they’re talking from an agenda or some sort of bias,” Ange Postecoglou  The Celtic Star",
-          "link": "https://thecelticstar.com/i-reckon-theyre-talking-from-an-agenda-or-some-sort-of-bias-ange-postecoglou/",
-          "publishedOn": "2022-10-14T14:31:21.000Z",
-          "wordCount": 1722,
-          "title": "“I reckon they’re talking from an agenda or some sort of bias,” Ange Postecoglou - The Celtic Star",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/10/celtic-fc-v-rb-leipzig-group-f-uefa-champions-league-2-1024x666.jpeg"
-        },
-        {
-          "id": "CAIiENFRjJ2eF81SdP3wtg0l7AEqGQgEKhAIACoHCAowrueiCTDmn7gCMIfHtwU",
-          "author": null,
-          "description": "Ange Postecoglou blasts back at Celtic Champions League critics as he takes aim at 'agenda' against his team  Daily Record",
-          "link": "https://www.dailyrecord.co.uk/sport/football/ange-postecoglou-blasts-back-celtic-28240520",
-          "publishedOn": "2022-10-14T13:19:48.000Z",
-          "wordCount": 3130,
-          "title": "Ange Postecoglou blasts back at Celtic Champions League critics as he takes aim at 'agenda' against his team - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28178953.ece/ALTERNATES/s1200/0_Screenshot-2022-10-07-at-120545.png"
-        },
-        {
-          "id": "CAIiEI5U6tpMVlyaCJjUJJpQVAEqGQgEKhAIACoHCAowsJStCzC9n8UDMNiMswc",
-          "author": null,
-          "description": "Celtic loanee Albian Ajeti in Europa League group of death mission  Celtic Way",
-          "link": "https://www.celticway.co.uk/news/23049123.celtic-loanee-europa-league-group-death-mission/",
-          "publishedOn": "2022-10-14T12:39:56.000Z",
-          "wordCount": 8326,
-          "title": "Celtic loanee Albian Ajeti in Europa League group of death mission - Celtic Way",
-          "imageUrl": "https://www.celticway.co.uk/resources/images/16009541/?type=og-image"
-        },
-        {
-          "id": "CBMiRmh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9mb3JtZXItY2VsdGljLXlvdW5nc3Rlci1vbi1odW50LWZvci1uZXctY2x1Yi_SAUpodHRwczovL2NlbHRzYXJlaGVyZS5jb20vZm9ybWVyLWNlbHRpYy15b3VuZ3N0ZXItb24taHVudC1mb3ItbmV3LWNsdWIvYW1wLw",
-          "author": null,
-          "description": "Former Celtic Youngster On Hunt For New Club  CeltsAreHere",
-          "link": "https://celtsarehere.com/former-celtic-youngster-on-hunt-for-new-club/",
-          "publishedOn": "2022-10-14T12:01:01.000Z",
-          "wordCount": 13497,
-          "title": "Former Celtic Youngster On Hunt For New Club - CeltsAreHere",
-          "imageUrl": null
-        },
-        {
-          "id": "CBMiRWh0dHBzOi8vd3d3LmhpYmVybmlhbmZjLmNvLnVrL2FydGljbGUvam9obnNvbi1leGNpdGVkLWZvci1jZWx0aWMtdGVzdNIBAA",
-          "author": null,
-          "description": "Johnson Excited For Celtic Test  Hibernian FC",
-          "link": "https://www.hibernianfc.co.uk/article/johnson-excited-for-celtic-test",
-          "publishedOn": "2022-10-14T10:43:44.000Z",
-          "wordCount": 815,
-          "title": "Johnson Excited For Celtic Test - Hibernian FC",
-          "imageUrl": "https://d3tepru76oevpi.cloudfront.net/production/_1200x630_crop_center-center_none/20581820.jpg"
         }
       ]
     },
@@ -3836,6 +3696,46 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "aba158c5137ec95cbbfefcd4c4a0c396",
+          "author": null,
+          "description": "DURING Ange Postecoglou’s short time as Celtic manager, much has been made of his ability to spot a player who can hit the ground running. Given the sorry state of the squad he inherited, he had little margin for error if Celtic were to have any measure of success last season.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23059021.ange-postecoglou-praises-celtic-slow-burners-sead-haksabanovic-alexandro-bernabei-vowing-come/?ref=rss",
+          "publishedOn": "2022-10-18T21:30:00.000Z",
+          "wordCount": 9027,
+          "title": "Ange Postecoglou praises Celtic slow burners Sead Haksabanovic and Alexandro Bernabei, vowing there is more to come from both",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16059388/?type=og-image"
+        },
+        {
+          "id": "a9e9d95dbf242635f1ae302a2b314836",
+          "author": null,
+          "description": "ANGE POSTECOGLOU says that Celtic are scouring the world for talent as he looks to get his January transfer business done early yet again.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23058690.celtic-looking-everywhere-talent-ange-postecoglou-targets-repeat-early-january-transfer-business/?ref=rss",
+          "publishedOn": "2022-10-18T21:30:00.000Z",
+          "wordCount": 8270,
+          "title": "Celtic ‘looking everywhere’ for talent as Ange Postecoglou targets repeat of early January transfer business",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16059006/?type=og-image"
+        },
+        {
+          "id": "e446db63e3718eb2742c7ea17e061598",
+          "author": null,
+          "description": "BEING a full-back under Ange Postecoglou involves adhering to a rather different job description than the norm, and so it is to the credit of the likes of Josip Juranovic, Greg Taylor and Anthony Ralston that they have managed to adapt to the unique demands of the role placed upon them by the Celtic manager.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23059181.josip-juranovic-helping-alexandro-bernabei-adjust-full-back-role-ange-postecoglous-celtic-team/?ref=rss",
+          "publishedOn": "2022-10-18T21:30:00.000Z",
+          "wordCount": 8463,
+          "title": "Josip Juranovic helping Alexandro Bernabei adjust to full-back role in Ange Postecoglou’s Celtic team",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16059731/?type=og-image"
+        },
+        {
+          "id": "0d28e18f6965b4b62ab4132001154733",
+          "author": null,
+          "description": "ANGE POSTECOGLOU will make a late call on who will tend goal for Celtic against Motherwell in tonight’s League Cup quarter-final at Fir Park.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23059252.ange-postecoglou-make-late-celtic-keeper-call-gives-update-sead-haksabanovic-ankle-issue/?ref=rss",
+          "publishedOn": "2022-10-18T21:30:00.000Z",
+          "wordCount": 8204,
+          "title": "Ange Postecoglou to make late Celtic keeper call as he gives update on Sead Haksabanovic ankle issue",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16059811/?type=og-image"
+        },
         {
           "id": "3676bf57ebc26279102c379ac0f97f70",
           "author": null,
@@ -4215,96 +4115,6 @@
           "wordCount": 9014,
           "title": "Celtic captain Cameron Carter-Vickers relaxed about issues up front - and confident he has a solution",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16049268/?type=og-image"
-        },
-        {
-          "id": "59d4ee59a0b3dcde5a7fb2f2a5b215a9",
-          "author": null,
-          "description": "CELTIC will be without star man Jota for this weekend's game against Hibs.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23049558.celtic-injury-news-jota-ruled-hibs-game-ange-postecoglou/?ref=rss",
-          "publishedOn": "2022-10-14T14:34:00.000Z",
-          "wordCount": 8101,
-          "title": "Celtic injury news as Jota is ruled out of Hibs game by Ange Postecoglou",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16047433/?type=og-image"
-        },
-        {
-          "id": "46f78ec7f5fe54fd58c3be4fb9c0303e",
-          "author": null,
-          "description": "The Hoops manager feels staying in Europe's elite competition will help develop the club",
-          "link": "https://www.glasgowtimes.co.uk/sport/23049563.celtic-boss-ange-postecoglou-makes-the-longer-it-champions-league-claim-refuses-give-success-timeframe/?ref=rss",
-          "publishedOn": "2022-10-14T14:10:38.000Z",
-          "wordCount": 8340,
-          "title": "Celtic boss Ange Postecoglou makes 'the longer you are in it' Champions League claim as he refuses to give success timeframe",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16014583/?type=og-image"
-        },
-        {
-          "id": "6084fe2f38ebee24246104ce12a07f78",
-          "author": null,
-          "description": "CELTIC manager Ange Postecoglou has launched a strong defence of his side in Europe - claiming those who feel differently to the Hoops belonging in the Champions League have an \"agenda\".",
-          "link": "https://www.glasgowtimes.co.uk/sport/23049428.ange-postecoglou-responds-celtic-champions-league-critics-stinging-agenda-claim/?ref=rss",
-          "publishedOn": "2022-10-14T13:40:34.000Z",
-          "wordCount": 8251,
-          "title": "Ange Postecoglou responds to Celtic Champions League critics in stinging 'agenda' claim",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16047238/?type=og-image"
-        },
-        {
-          "id": "d0e538711b90730cf7c690fd78c7c487",
-          "author": null,
-          "description": "Chris Cadden believes bravery will be key to Hibernian getting a positive result against Celtic at Parkhead on Saturday.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23049019.chris-cadden-calls-hibernian-brave-take-celtic/?ref=rss",
-          "publishedOn": "2022-10-14T12:19:52.000Z",
-          "wordCount": 8714,
-          "title": "Chris Cadden calls on Hibernian to be brave when they take on Celtic",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16046678/?type=og-image"
-        },
-        {
-          "id": "716bf4e48b541752244e834a9e7ebd3f",
-          "author": null,
-          "description": "SCOTLAND's place in the top ten for European coefficient rankings could be at risk.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23048974.celtic-rangers-hearts-poor-european-form-places-scotlands-top-ten-coefficient-ranking-risk/?ref=rss",
-          "publishedOn": "2022-10-14T12:10:33.000Z",
-          "wordCount": 8276,
-          "title": "Celtic, Rangers & Hearts' poor European form places Scotland's top ten coefficient ranking at risk",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16046476/?type=og-image"
-        },
-        {
-          "id": "77d974aba3ba8be0dc416460f94c5b79",
-          "author": null,
-          "description": "SCOTT MCTOMINAY was full of praise for ex-Celtic manager Neil Lennon after last night's close-fought Europa League encounter at Old Trafford.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23048346.scott-mctominay-praises-ex-celtic-manager-neil-lennon-great-coach-following-man-united-scare/?ref=rss",
-          "publishedOn": "2022-10-14T10:43:13.000Z",
-          "wordCount": 8571,
-          "title": "Scott McTominay praises ex-Celtic manager Neil Lennon as 'great coach' following Man United scare",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16045993/?type=og-image"
-        },
-        {
-          "id": "2679ed5fb3c18e1c7a361d1736e0f0f4",
-          "author": null,
-          "description": "SCOTLAND star Kieran Tierney admits the pressures of being top of the tree at Celtic will stand him in good stead for Arsenal's potential title tilt this season.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23048285.celtic-hero-kieran-tierney-opens-familiar-pressure-arsenal-aim-maintain-title-tilt/?ref=rss",
-          "publishedOn": "2022-10-14T10:30:27.000Z",
-          "wordCount": 8389,
-          "title": "Celtic hero Kieran Tierney opens up on 'familiar pressure' as Arsenal aim to maintain title tilt",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16045927/?type=og-image"
-        },
-        {
-          "id": "008662ca94fe5b864f4f0fbea3054896",
-          "author": null,
-          "description": "CELTIC target Mohammad Abu Fani has broken his silence about his disappointment of not clinching a transfer to Parkhead.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23048157.celtic-transfer-target-mohammad-abu-fani-breaks-silence-not-clinching-parkhead-move/?ref=rss",
-          "publishedOn": "2022-10-14T10:05:06.000Z",
-          "wordCount": 8217,
-          "title": "Celtic transfer target Mohammad Abu Fani breaks silence over not clinching Parkhead move",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16045735/?type=og-image"
-        },
-        {
-          "id": "0a0e622b13f62a328ccd4d92352bb3d5",
-          "author": null,
-          "description": "NEIL LENNON was just moments away from masterminding one of his greatest ever results as a manager.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23048009.neil-lennon-big-european-nights-admission-following-celtic-exit/?ref=rss",
-          "publishedOn": "2022-10-14T09:28:11.000Z",
-          "wordCount": 8134,
-          "title": "Neil Lennon in big European nights admission following Celtic exit",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16044740/?type=og-image"
         }
       ]
     }
