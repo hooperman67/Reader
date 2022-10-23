@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com//sport/football/celtic",
       "articles": [
         {
+          "id": "3890399",
+          "author": "Alan Pattullo",
+          "description": "Hearts and Celtic put on a show at Tynecastle in the lunchtime kick-off on Saturday in the game of the season so far. The visitors earned the points in a seven-goal thriller that saw VAR play a pivotal part. Substitute Greg Taylor struck the winner to make it 4-3 with 14 minutes left in the epic Premiership contest. Lawrence Shankland, another sub, struck a hat-trick for the hosts – including two penalties.",
+          "link": "https://www.scotsman.com/sport/football/hearts/hearts-celtic-reaction-197-days-and-counting-the-incredible-celtic-penalty-stat-oooh-ahh-up-the-var-and-wheres-willie-gibson-3890399",
+          "publishedOn": "2022-10-23T06:00:00.000Z",
+          "wordCount": 3286,
+          "title": "Hearts-Celtic reaction: 197 days and counting - the incredible Celtic penalty stat; 'Oooh, ahh up the VAR' and where's Willie Gibson?",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjkwMmM0OWIzLTZkN2MtNDM2NS1hNTJkLTMwY2QyYWRmZGZiNDoyZWJlZDc2OC03MTUyLTQ5MzMtODM3My0zYTIzMzE2ODRkODk=.jpg?width=1200&enable=upscale"
+        },
+        {
           "id": "3890363",
           "author": "Ross McLeish",
           "description": "Highland League champions Fraserburgh took a league scalp on a busy day of action in the second round of the Scottish Cup.",
@@ -314,16 +324,6 @@
           "wordCount": 2304,
           "title": "Ange Postecoglou delivers exciting Celtic transfer update for January - Mark Lawwell, 'scour world brief', still value in Asia",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjAyNDIwMzYyLWJkN2ItNGFiYy05MmRkLWUwZTM5ZjRkYmY2ZDozOGUzMzkzMi0yMDI1LTQ2YTEtYjM5ZC1mZjIxMTQzMWM1ODM=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3884958",
-          "author": "Mark Atkinson",
-          "description": "Omonia Nicosia have sacked manager Neil Lennon after just seven months at the helm of the Cypriot outfit.",
-          "link": "https://www.scotsman.com/sport/football/celtic/neil-lennon-omonia-explain-sacking-of-former-celtic-and-hibs-manager-just-minutes-after-nea-salamis-defeat-3884958",
-          "publishedOn": "2022-10-18T18:07:43.000Z",
-          "wordCount": 1801,
-          "title": "Neil Lennon: Omonia explain sacking of former Celtic and Hibs manager just minutes after Nea Salamis defeat",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjgyOGE1OWY1LTMxMTctNDkzMS1iNzA2LTExNzcwMWMzZmVjYTo5NTAxMTNiOS0wNjBlLTQzZjgtYTQ1Ni04YTE0ODA1MzMyNTQ=.jpg?width=1200&enable=upscale"
         }
       ]
     },
@@ -332,6 +332,46 @@
       "feedUrl": "http://armchaircelts.co.uk/wprss",
       "siteUrl": "http://armchaircelts.co.uk/feed/wprss/",
       "articles": [
+        {
+          "id": "https://www.celticquicknews.co.uk/celtic-var-the-stonewall-penalty-kick-and-the-history-making-28-seconds/",
+          "author": null,
+          "description": "IT took exactly 28 SECONDS for VAR operator Steven McLean to review and dismiss Celtic’s valid penalty-kick claim at Tynecastle yesterday. Hearts defender Michael Smith clearly motioned his left hand to stop a pass from James Forrest in first-half stoppage-time with the game deadlocked at 1-1 following the hosts’ penalty-kick equaliser, courtesy of new technology. [...]",
+          "link": "https://www.celticquicknews.co.uk/celtic-var-the-stonewall-penalty-kick-and-the-history-making-28-seconds/",
+          "publishedOn": "2022-10-23T06:12:42.000Z",
+          "wordCount": 2993,
+          "title": "CELTIC, VAR, THE STONEWALL PENALTY-KICK AND THE HISTORY-MAKING 28 SECONDS",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/10/ANGE-POSTECOGLOU-NO-PEN-FTRD.png"
+        },
+        {
+          "id": "https://thecelticstar.com/celtic-on-this-day-23rd-october-david-potters-celtic-diary/",
+          "author": null,
+          "description": "Month 3, Day 23 of Celtic Historian David Potter’s new diary on The Celtic Star which will run throughout the new season and will highlight key Celtic-related events relevant to each day, today covering 23 October…SATURDAY 23 OCTOBER 1915A combination of war time problems and injury mean that Celtic have to take the field to-day Read More",
+          "link": "https://thecelticstar.com/celtic-on-this-day-23rd-october-david-potters-celtic-diary/",
+          "publishedOn": "2022-10-23T06:00:00.000Z",
+          "wordCount": 1591,
+          "title": "Celtic On This Day – 23rd October  – David Potter’s Celtic Diary",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/K2ZWWgjP9f-klMmOg97B2Q449777-1024x749.jpeg"
+        },
+        {
+          "id": "https://thecelticstar.com/the-referee-said-the-var-said-it-was-close-to-his-body-greg-taylor/",
+          "author": null,
+          "description": "Greg Taylor summed up yesterday’s hugely significant 4-3 win over Hearts in the media room at Tynecastle yesterday afternoon, ahead of the day getting even better for Celtic with the news that theRangers could only draw at home to Livingston.Taylor was an unlikely goalscoring hero for the Hoops but who cares a jot about that? Read More",
+          "link": "https://thecelticstar.com/the-referee-said-the-var-said-it-was-close-to-his-body-greg-taylor/",
+          "publishedOn": "2022-10-23T05:35:19.000Z",
+          "wordCount": 2621,
+          "title": "“The referee said the VAR said it was close to his body,” Greg Taylor",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/10/imago1016980137h-1-1024x673.jpg"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/bobby-murdoch-mighty-magnificent-and-a-celtic-man/",
+          "author": null,
+          "description": "BOBBY MURDOCH was the epitome of a Celtic player; a skilled ball artiste blessed with breathtaking qualities. He brought flair and adventure to proceedings when he wore his beloved green and white hoops of his favourite team. Author Alex Gordon interviewed the player many times over the years and Murdoch’s inluence on Celtic features prominently [...]",
+          "link": "https://www.celticquicknews.co.uk/bobby-murdoch-mighty-magnificent-and-a-celtic-man/",
+          "publishedOn": "2022-10-23T04:30:44.000Z",
+          "wordCount": 3258,
+          "title": "BOBBY MURDOCH: MIGHTY, MAGNIFICENT AND A CELTIC MAN",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2021/05/BOBBY-MURDOCH-LISBON.FEATUREDjpg.jpg"
+        },
         {
           "id": "https://thecelticstar.com/sandmans-definitive-ratings-celtic-at-gargoyle-grove/",
           "author": null,
@@ -1951,66 +1991,6 @@
           "wordCount": 13406,
           "title": "Celtic Handed Large Away Ticket Allocation",
           "imageUrl": null
-        },
-        {
-          "id": "https://thecelticstar.com/neil-lennon-sacked-by-cypriot-side-omonoia-despite-european-success/",
-          "author": null,
-          "description": "Former Celtic manager Neil Lennon has – quite incredibly given his exploits in European football this season – tonight been sacked by Cypriot side Omonia. A statement issued on the club’s official website in Greek reads something like this: We inform you that we have agreed with Mr. Neil Lennon to stop our collaboration. Mr. Read More",
-          "link": "https://thecelticstar.com/neil-lennon-sacked-by-cypriot-side-omonoia-despite-european-success/",
-          "publishedOn": "2022-10-18T18:21:53.000Z",
-          "wordCount": 1328,
-          "title": "Neil Lennon sacked by Cypriot side Omonia, despite European success",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/10/manunited-omonoia-game4-50-1024x683.jpg"
-        },
-        {
-          "id": "https://celtsarehere.com/neil-lennon-sacked/",
-          "author": null,
-          "description": "NEIL LENNNON has been sacked by Cypriot top division side Omonia, just minutes after defeat. https://twitter.com/OMONOIAfootball/status/1582422367774871552?s=20&t=rNFfkdNWYN5Y2MP3LIA_0Q The manager’s last result with the side was a 1-0 loss to New Salamis, with the game finishing 48 minutes prior. The side sit 7th, with the poor from and inconsistency reasoned for the Northern Irishman’s dismissal. Many were under […]\nSource",
-          "link": "https://celtsarehere.com/neil-lennon-sacked/",
-          "publishedOn": "2022-10-18T18:09:34.000Z",
-          "wordCount": 13513,
-          "title": "Neil Lennon Sacked",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thecelticstar.com/should-giorgos-giakoumakis-be-our-starting-no-9/",
-          "author": null,
-          "description": "Century Bhoy James Forrest stole the headlines with his hat-trick in Saturday’s 6-1 hammering of Hibs and the one club man walked away with another match ball to add to his collection following an impressive first start of the season.However there was another player going about his business in his usual determined fashion who grabbed Read More",
-          "link": "https://thecelticstar.com/should-giorgos-giakoumakis-be-our-starting-no-9/",
-          "publishedOn": "2022-10-18T17:55:06.000Z",
-          "wordCount": 1615,
-          "title": "Should Giorgos Giakoumakis Be Our Starting No.9?",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/10/SPFL_22_23_STJ_CELTIC_1660-1024x706.jpeg"
-        },
-        {
-          "id": "https://thecelticblog.com/2022/10/articles-and-features/kyogo-v-giakoumakis-the-debate-that-might-define-celtics-whole-season/",
-          "author": null,
-          "description": "For a brief period at the weekend both of our strikers were on the pitch. It’s rare enough as to be worth commenting on. The manager, though, has shown no interest in trying to shoehorn one of them into an unfamiliar role, and thus play two up front. I think there are systems where it […]",
-          "link": "https://thecelticblog.com/2022/10/articles-and-features/kyogo-v-giakoumakis-the-debate-that-might-define-celtics-whole-season/",
-          "publishedOn": "2022-10-18T17:52:30.000Z",
-          "wordCount": 2018,
-          "title": "Kyogo v Giakoumakis: The Debate That Might Define Celtic’s Whole Season.",
-          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2022/05/2022-05-14T125659Z_889481950_UP1EI5E0ZYW4O_RTRMADP_3_SOCCER-SCOTLAND-CEL-MOT-REPORT.jpg"
-        },
-        {
-          "id": "https://celtsarehere.com/on-loan-celt-wins-player-of-the-year/",
-          "author": null,
-          "description": "Celtic goalkeeper Conor Hazard has won Supporters Association Player of the Year for his loan club Helsinki after he helped the club to win another league title. Hazard has been out on-loan since January and isn’t due back at Celtic until the end of this year. The goalkeeper made the headlines during the heights of […]\nSource",
-          "link": "https://celtsarehere.com/on-loan-celt-wins-player-of-the-year/",
-          "publishedOn": "2022-10-18T17:18:23.000Z",
-          "wordCount": 13376,
-          "title": "On-Loan Celt Wins Player of the Year",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thecelticblog.com/2022/10/articles-and-features/the-sfas-decision-to-clear-leon-king-is-another-sign-that-var-might-not-change-much/",
-          "author": null,
-          "description": "The SFA’s decision not to ban Leon King for the incident which raised some hackles at the weekend is not in the least bit surprising. There was a case to be made that he committed a professional foul, and that case was clear. It was every bit as clear as the one against Callum McGregor […]",
-          "link": "https://thecelticblog.com/2022/10/articles-and-features/the-sfas-decision-to-clear-leon-king-is-another-sign-that-var-might-not-change-much/",
-          "publishedOn": "2022-10-18T17:01:12.000Z",
-          "wordCount": 1824,
-          "title": "The SFA’s Decision To Clear Leon King Is Another Sign That VAR Might Not Change Much.",
-          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2020/01/2020-01-05T153818Z_823584294_RC2R9E98YO4Z_RTRMADP_3_SOCCER-ENGLAND-CRY-DRB-REPORT.jpg"
         }
       ]
     },
@@ -2048,6 +2028,16 @@
           "wordCount": 3321,
           "title": "James Tavernier swerves Celtic title question as gutted Rangers skippers admits 'we can't focus on them' - Daily Record",
           "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28305436.ece/ALTERNATES/s1200/0_Rangers-FC-v-Livingston-FC-Cinch-Scottish-Premiership.jpg"
+        },
+        {
+          "id": "CAIiEKFVib9Fk9Da_2ibliU06iYqGQgEKhAIACoHCAowrueiCTDmn7gCMOjNtwU",
+          "author": null,
+          "description": "Gio van Bronckhorst confesses to Rangers pressure as embattled boss sends message to growing dissenters  Daily Record",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiaWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvZ2lvLXZhbi1icm9uY2tob3JzdC1jb25mZXNzZXMtcmFuZ2Vycy0yODMwNDk0MdIBAA?oc=5",
+          "publishedOn": "2022-10-22T17:03:18.000Z",
+          "wordCount": 3249,
+          "title": "Gio van Bronckhorst confesses to Rangers pressure as embattled boss sends message to growing dissenters - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28304898.ece/ALTERNATES/s1200/0_Rangers-FC-v-Livingston-FC-Cinch-Scottish-Premiership.jpg"
         },
         {
           "id": "CAIiEGqW3k9c_s_rFct8pk7LMg8qGQgEKhAIACoHCAowrueiCTDmn7gCMKXUtwU",
@@ -2744,7 +2734,7 @@
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
         {
           "id": "742f6681f4226684c4f762efa13762f6",
@@ -3255,36 +3245,6 @@
           "wordCount": 8204,
           "title": "Ange Postecoglou to make late Celtic keeper call as he gives update on Sead Haksabanovic ankle issue",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16059811/?type=og-image"
-        },
-        {
-          "id": "3676bf57ebc26279102c379ac0f97f70",
-          "author": null,
-          "description": "NEIL LENNON has been sacked by Omonia Nicosia.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23059543.omonia-nicosia-explain-neil-lennon-sacking-decision-following-spirited-man-united-display/?ref=rss",
-          "publishedOn": "2022-10-18T18:36:21.000Z",
-          "wordCount": 8160,
-          "title": "Omonia Nicosia explain Neil Lennon sacking decision following spirited Man United display",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16060299/?type=og-image"
-        },
-        {
-          "id": "3abf0a356c89492aed00cfed5830168b",
-          "author": null,
-          "description": "Neil Lennon has been sacked as Omonia Nicosia manager after just seven months in charge.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23059497.neil-lennon-sacked-omonia-nicosia-manager-loss-nea-salamis/?ref=rss",
-          "publishedOn": "2022-10-18T17:47:59.000Z",
-          "wordCount": 8102,
-          "title": "Neil Lennon sacked as Omonia Nicosia manager after loss to Nea Salamis",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16060187/?type=og-image"
-        },
-        {
-          "id": "b592a5d7834b0ac1f96928b05798c74d",
-          "author": null,
-          "description": "The defender hopes to make the tournament in Qatar but feels only one player in the Croatian national set-up is guaranteed a place on the plane",
-          "link": "https://www.glasgowtimes.co.uk/sport/23059365.celtic-defender-josip-juranovic-croatia-world-cup-squad-quip-jokes-one-star-guarantee/?ref=rss",
-          "publishedOn": "2022-10-18T16:39:55.000Z",
-          "wordCount": 8136,
-          "title": "Celtic defender Josip Juranovic in Croatia World Cup squad quip as he jokes that only one star is guaranteed",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16059964/?type=og-image"
         }
       ]
     }
