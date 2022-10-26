@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com//sport/football/celtic",
       "articles": [
         {
+          "id": "3893673",
+          "author": "Alan Pattullo",
+          "description": "Celtic fell short while striving for the win required to keep their European aspirations alive until Champions League matchday six next week.Giorgos Giakoumakis opened the scoring for the hosts but Shakhtar Donetsk responded with a stunning goal from the outstanding player on the pitch, Mykhailo Mudryk. The 1-1 result condemned Celtic to last place in Group F.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtic-shakhtar-reaction-danylo-sikan-miss-worse-than-peter-van-vossen-leeds-united-scouts-and-interesting-presence-in-press-box-3893673",
+          "publishedOn": "2022-10-26T06:00:00.000Z",
+          "wordCount": 3020,
+          "title": "Celtic-Shakhtar Reaction: Danylo Sikan miss - worse than Peter van Vossen? Leeds United scouts and interesting presence in press box",
+          "imageUrl": null
+        },
+        {
           "id": "3893647",
           "author": "Alan Pattullo",
           "description": "Ange Postecoglou challenged his Celtic players to win the Premiership and secure a route back to next year’s Champions League after a 1-1 draw with Shakhtar Donetsk ended their European hopes this season.",
@@ -382,6 +392,56 @@
       "feedUrl": "http://armchaircelts.co.uk/wprss",
       "siteUrl": "http://armchaircelts.co.uk/feed/wprss/",
       "articles": [
+        {
+          "id": "https://etims.net/?p=18011",
+          "author": null,
+          "description": "Celtic didn’t quite cling on to their European campaign last night as Shaktar Livingston put everyone behind the ball in an attempt to secure the…",
+          "link": "https://etims.net/?p=18011",
+          "publishedOn": "2022-10-26T06:26:45.000Z",
+          "wordCount": 3035,
+          "title": "Celtic Diary Wednesday October 26: On The One Road",
+          "imageUrl": "https://etims.net/wp-content/uploads/2022/10/on-the-one-road-41.png"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/we-want-to-be-a-champions-league-football-club-insists-ange/",
+          "author": null,
+          "description": "THE curtain will fall on Celtic’s European adventure for this season against reigning European champions Real Madrid in the Bernabeu a week today. It’s all over for another year at least following the frustrating 1-1 draw with Shakhtar Donetsk at Parkhead last night. The stalemate left the Hoops still waiting for their first Champions League [...]",
+          "link": "https://www.celticquicknews.co.uk/we-want-to-be-a-champions-league-football-club-insists-ange/",
+          "publishedOn": "2022-10-26T06:24:32.000Z",
+          "wordCount": 2835,
+          "title": "‘WE WANT TO BE A CHAMPIONS LEAGUE FOOTBALL CLUB,’ INSISTS ANGE",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/10/ANGE-POSTECOGLOU-SD-FEATURRED.png"
+        },
+        {
+          "id": "https://celtsarehere.com/outstanding-yet-again-sky-sports-man-singles-out-celtic-star/",
+          "author": null,
+          "description": "Sky Sports journalist and Celtic supporter Anthony Joseph has delivered his Celtic Champions League verdict after the Parkhead club played out a 1-1 draw with Shakhtar Donetsk. The bhoys took the lead against the Ukrainian club for the second time this season, but like the first game, the magic of Mudryk was our undoing. It […]\nSource",
+          "link": "https://celtsarehere.com/outstanding-yet-again-sky-sports-man-singles-out-celtic-star/",
+          "publishedOn": "2022-10-26T06:13:36.000Z",
+          "wordCount": 13545,
+          "title": "‘Outstanding Yet Again’ – Sky Sports Man Singles Out Celtic Star",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thecelticstar.com/celtic-on-this-day-26th-october-david-potters-celtic-diary/",
+          "author": null,
+          "description": "Month 3, Day 26 of Celtic Historian David Potter’s new diary on The Celtic Star which will run throughout the new season and will highlight key Celtic-related events relevant to each day, today covering 26th October…SATURDAY 26 OCTOBER 1895Celtic beat Dundee 11-0 at Parkhead in what is still a record score in the Scottish League. Read More",
+          "link": "https://thecelticstar.com/celtic-on-this-day-26th-october-david-potters-celtic-diary/",
+          "publishedOn": "2022-10-26T06:00:00.000Z",
+          "wordCount": 1618,
+          "title": "Celtic On This Day – 26th October – David Potter’s Celtic Diary",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/image-341-1024x702.jpeg"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/bonkers-but-bestie-wasnt-complaining-a-lisbon-lion-remembers/",
+          "author": null,
+          "description": "TOMMY GEMMELL was one of the most colourful and charismatic characters in Celtic history. In ANOTHER CQN EXCLUSIVE series, author Alex Gordon, a long-time friend of the Lisbon Lion, opens his book files to reveal some tales of the flamboyant full-back. Alex says: “When I was interviewing Tommy for his autobiography, ‘All The Best’, which [...]",
+          "link": "https://www.celticquicknews.co.uk/bonkers-but-bestie-wasnt-complaining-a-lisbon-lion-remembers/",
+          "publishedOn": "2022-10-26T05:54:02.000Z",
+          "wordCount": 3159,
+          "title": "‘BONKERS,’ BUT BESTIE WASN’T COMPLAINING, A LISBON LION REMEMBERS",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/10/GEORGE-BEST-V-TOMMY-GEMMELL-FEATURED.png"
+        },
         {
           "id": "https://celtsarehere.com/bang-average-chris-suttons-spot-on-celtic-verdict/",
           "author": null,
@@ -1971,36 +2031,6 @@
           "wordCount": 1938,
           "title": "Celtic Soul with Billy McGuinness Aslan",
           "imageUrl": "https://celticfanzine.com/wp-content/uploads/CS-Aslan-poster-twitter-.jpeg"
-        },
-        {
-          "id": "https://www.67hailhail.com/news/moritz-jenz-beams-as-he-learns-about-his-new-nickname-from-celtic-supporters/",
-          "author": null,
-          "description": "A beaming Moritz Jenz was delighted to hear he has been given a kind nickname from some Celtic supporters already after interacting with fan podcast Homebhoys at today’s media event. The HomeBhoys were one of the fan-led outlets in attendance to question Jenz and manager Ange Postecoglou, as usual, prompting interesting and entertaining answers. Asked ...\nThe post Moritz Jenz beams as he learns about his new nickname from Celtic fans in class Friday moment appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/moritz-jenz-beams-as-he-learns-about-his-new-nickname-from-celtic-supporters/",
-          "publishedOn": "2022-10-21T17:40:45.000Z",
-          "wordCount": 1818,
-          "title": "Moritz Jenz beams as he learns about his new nickname from Celtic fans in class Friday moment",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/10/GettyImages-1243954332-scaled.jpg"
-        },
-        {
-          "id": "https://celtsarehere.com/celtic-v-hearts-everything-you-need-to-know-2/",
-          "author": null,
-          "description": "CELTIC travel to Tynecastle on Saturday for a 12:30 kick-off in the capital. It’ll be the second Scottish game to use VAR; the first Celtic will compete in. Obviously, Celtic have had some experience with the equipment before, using it in Europe over the past couple of years. Its highly anticipated introduction has come sooner […]\nSource",
-          "link": "https://celtsarehere.com/celtic-v-hearts-everything-you-need-to-know-2/",
-          "publishedOn": "2022-10-21T17:00:45.000Z",
-          "wordCount": 13565,
-          "title": "Celtic v Hearts; Everything You Need to Know",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.67hailhail.com/news/celtic-team-to-wear-special-adidas-tops-at-tynecastle-in-support-of-lgbtq-communities/",
-          "author": null,
-          "description": "Celtic are showing support and raising money for LGBTQ+ communities this weekend by taking part in the ‘LOVE UNITES’ and Rainbow Laces campaigns. Love Unites is an endeavour organised by club kit manufacturers Adidas and has involved the creation of a special ‘Tiro x Pride Collection’ of training gear, which was released online for purchase ...\nThe post Celtic team to wear special Adidas tops at Tynecastle in support of LGBTQ+ communities appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/celtic-team-to-wear-special-adidas-tops-at-tynecastle-in-support-of-lgbtq-communities/",
-          "publishedOn": "2022-10-21T16:55:06.000Z",
-          "wordCount": 1854,
-          "title": "Celtic team to wear special Adidas tops at Tynecastle in support of LGBTQ+ communities",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/10/GettyImages-1242991468-3-scaled.jpg"
         }
       ]
     },
@@ -2009,6 +2039,26 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CBMiXmh0dHBzOi8vd3d3LmNlbHRpY3F1aWNrbmV3cy5jby51ay93ZS13YW50LXRvLWJlLWEtY2hhbXBpb25zLWxlYWd1ZS1mb290YmFsbC1jbHViLWluc2lzdHMtYW5nZS_SAWJodHRwczovL3d3dy5jZWx0aWNxdWlja25ld3MuY28udWsvd2Utd2FudC10by1iZS1hLWNoYW1waW9ucy1sZWFndWUtZm9vdGJhbGwtY2x1Yi1pbnNpc3RzLWFuZ2UvYW1wLw",
+          "author": null,
+          "description": "‘WE WANT TO BE A CHAMPIONS LEAGUE FOOTBALL CLUB,’ INSISTS ANGE  Celtic Quick News",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiXmh0dHBzOi8vd3d3LmNlbHRpY3F1aWNrbmV3cy5jby51ay93ZS13YW50LXRvLWJlLWEtY2hhbXBpb25zLWxlYWd1ZS1mb290YmFsbC1jbHViLWluc2lzdHMtYW5nZS_SAWJodHRwczovL3d3dy5jZWx0aWNxdWlja25ld3MuY28udWsvd2Utd2FudC10by1iZS1hLWNoYW1waW9ucy1sZWFndWUtZm9vdGJhbGwtY2x1Yi1pbnNpc3RzLWFuZ2UvYW1wLw?oc=5",
+          "publishedOn": "2022-10-26T06:24:32.000Z",
+          "wordCount": 2835,
+          "title": "‘WE WANT TO BE A CHAMPIONS LEAGUE FOOTBALL CLUB,’ INSISTS ANGE - Celtic Quick News",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/10/ANGE-POSTECOGLOU-SD-FEATURRED.png"
+        },
+        {
+          "id": "CAIiEC3MhZjxpoKWP-il7plowxwqGQgEKhAIACoHCAowrueiCTDmn7gCMIfHtwU",
+          "author": null,
+          "description": "Celtic built for rock and roll but familiar tune leaves Ange singing the blues  Daily Record",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiY2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvY2VsdGljLWJ1aWx0LXJvY2stcm9sbC1mYW1pbGlhci0yODMyOTExNdIBAA?oc=5",
+          "publishedOn": "2022-10-26T05:00:00.000Z",
+          "wordCount": 3969,
+          "title": "Celtic built for rock and roll but familiar tune leaves Ange singing the blues - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28329113.ece/ALTERNATES/s1200/0_JS281586551.jpg"
+        },
         {
           "id": "CAIiELClG4cg4-0P5wlpwcB2M6EqGQgEKhAIACoHCAow9935CjCe0eYCMNHmzAU",
           "author": null,
@@ -2658,26 +2708,6 @@
           "wordCount": 2090,
           "title": "Ange Postecoglou talks Celtic’s strategy as cash-rich teams show interest in Rocco Vata - 67 Hail Hail - Celtic FC News",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/09/GettyImages-1235752782-scaled.jpg"
-        },
-        {
-          "id": "CAIiEHLNfQSPkeBmsuDErInzY9gqGQgEKhAIACoHCAowrueiCTDmn7gCMKXUtwU",
-          "author": null,
-          "description": "Jeremie Frimpong is Manchester United transfer 'target' as former Celtic star catches Erik Ten Hag's eye  Daily Record",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMib2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvamVyZW1pZS1mcmltcG9uZy1tYW5jaGVzdGVyLXVuaXRlZC10cmFuc2Zlci0yODMwMDA0NdIBAA?oc=5",
-          "publishedOn": "2022-10-21T16:57:34.000Z",
-          "wordCount": 3196,
-          "title": "Jeremie Frimpong is Manchester United transfer 'target' as former Celtic star catches Erik Ten Hag's eye - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28299857.ece/ALTERNATES/s1200/1_Bayer-Leverkusen-v-Celtic-FC-Group-G-UEFA-Europa-League.jpg"
-        },
-        {
-          "id": "CAIiEJzZD-LlRJrT37D5OlwwaXoqGQgEKhAIACoHCAowr5GNCzDFxJ4DMLbFpgY",
-          "author": null,
-          "description": "Celtic team to wear special Adidas tops at Tynecastle in support of LGBTQ+ communities  67 Hail Hail - Celtic FC News",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMidmh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvY2VsdGljLXRlYW0tdG8td2Vhci1zcGVjaWFsLWFkaWRhcy10b3BzLWF0LXR5bmVjYXN0bGUtaW4tc3VwcG9ydC1vZi1sZ2J0cS1jb21tdW5pdGllcy_SAQA?oc=5",
-          "publishedOn": "2022-10-21T16:55:06.000Z",
-          "wordCount": 1854,
-          "title": "Celtic team to wear special Adidas tops at Tynecastle in support of LGBTQ+ communities - 67 Hail Hail - Celtic FC News",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/10/GettyImages-1242991468-3-scaled.jpg"
         }
       ]
     },
@@ -3155,26 +3185,6 @@
           "wordCount": 8122,
           "title": "Former Celtic manager Neil Lennon  a 'ready-made replacement' for Northern Ireland job",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16073988/?type=og-image"
-        },
-        {
-          "id": "1b85c3b03a2844d875b9773ed0f0b1d9",
-          "author": null,
-          "description": "TONIGHT'S match between Hibernian and St Johnstone will be a momentous one for Scottish football - as it is the first time that VAR will be in use in the cinch Premiership.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23069679.celtic-hero-chris-sutton-makes-sarcastic-var-prediction-ahead-technologys-debut/?ref=rss",
-          "publishedOn": "2022-10-21T18:21:42.000Z",
-          "wordCount": 8072,
-          "title": "Celtic hero Chris Sutton makes sarcastic VAR prediction ahead of technology's debut",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/11216223/?type=og-image"
-        },
-        {
-          "id": "13cd6455e33407733f2d66b0ce0525d1",
-          "author": null,
-          "description": "CELTIC could be in line for a windfall after Manchester United were linked with a move for Jeremie Frimpong.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23069637.celtic-line-windfall-manchester-united-eye-swoop-jeremie-frimpong/?ref=rss",
-          "publishedOn": "2022-10-21T17:31:40.000Z",
-          "wordCount": 8099,
-          "title": "Celtic in line for windfall as Manchester United eye swoop for Jeremie Frimpong",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16073636/?type=og-image"
         }
       ]
     }
