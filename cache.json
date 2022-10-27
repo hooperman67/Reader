@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com//sport/football/celtic",
       "articles": [
         {
+          "id": "3895279",
+          "author": "Benjamin Cooper",
+          "description": "Australia has become the first World Cup finals side to release a collective statement from players criticising host Qatar’s human rights record.",
+          "link": "https://www.scotsman.com/sport/football/two-hearts-players-and-former-celtic-and-hibs-men-involved-in-historic-world-cup-human-rights-video-3895279",
+          "publishedOn": "2022-10-27T09:11:34.000Z",
+          "wordCount": 3240,
+          "title": "Two Hearts players and former Celtic and Hibs men involved in historic World Cup human rights video",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjdkOGMyYTRmLTYyODMtNDU3Ny1iYjg4LWM5MDgyOWZjOTM4NTphMTI0ZGIxYS00YTFjLTRlMTUtODg2Ni03OGVjNjJmMTg0ZWQ=.jpg?width=1200&enable=upscale"
+        },
+        {
           "id": "3895025",
           "author": "Alan Pattullo",
           "description": "Who’s that team they call the Celtic? Cameron Carter-Vickers expects the words of a famous old Parkhead song to resonate inside the Bernabeu next midweek.",
@@ -314,16 +324,6 @@
           "wordCount": 3286,
           "title": "Hearts-Celtic reaction: 197 days and counting - the incredible Celtic penalty stat; 'Oooh, ahh up the VAR' and where's Willie Gibson?",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjkwMmM0OWIzLTZkN2MtNDM2NS1hNTJkLTMwY2QyYWRmZGZiNDoyZWJlZDc2OC03MTUyLTQ5MzMtODM3My0zYTIzMzE2ODRkODk=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3890363",
-          "author": "Ross McLeish",
-          "description": "Highland League champions Fraserburgh took a league scalp on a busy day of action in the second round of the Scottish Cup.",
-          "link": "https://www.scotsman.com/sport/football/scottish-cup-r2-round-up-sauchie-stun-rose-stranraers-long-journey-in-vain-four-goal-hero-r3-draw-time-3890363",
-          "publishedOn": "2022-10-22T20:05:35.000Z",
-          "wordCount": 2207,
-          "title": "Scottish Cup R2 round-up: Sauchie stun Rose, Stranraer's long journey in vain, four-goal hero, R3 draw time",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmU0YjcwZGM2LWQwMjgtNGI5YS04YjRjLTFjZDBmNGM5ZDk2NjplYmNiNmI5Ni1mN2Q3LTRjY2EtYmNkNC04MjViM2RmZTIyODM=.jpg?width=1200&enable=upscale"
         }
       ]
     },
@@ -332,6 +332,66 @@
       "feedUrl": "http://armchaircelts.co.uk/wprss",
       "siteUrl": "http://armchaircelts.co.uk/feed/wprss/",
       "articles": [
+        {
+          "id": "https://celtsarehere.com/cameron-carter-vickers-makes-celtic-champions-league-point/",
+          "author": null,
+          "description": "CAMERON CARTER-VICKERS believe Celtic have shown they can compete at Champions League level despite the results not matching up with some of the performances. It’s been a huge learning curve for the players and the manager this season and we’ve not been good enough to make it into Europe beyond Christmas. However, Celtic fans can […]\nSource",
+          "link": "https://celtsarehere.com/cameron-carter-vickers-makes-celtic-champions-league-point/",
+          "publishedOn": "2022-10-27T08:58:04.000Z",
+          "wordCount": 13727,
+          "title": "CCV Makes Celtic Champions League Vow",
+          "imageUrl": "https://cdn.celtsarehere.com/wp-content/uploads/2022/10/01EBB15E-B5F4-48FF-BB57-B707BB8072A4-scaled.jpeg"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/kyogo-hit-or-myth/",
+          "author": null,
+          "description": "KYOGO FURUHASHI’S hit-or-miss form is mystifying the Celtic fans this season. The Japanese striker has claimed only two goals in 13 games since his breathtaking first-half hat-trick in the 9-0 landslide victory over Dundee United at Tannadice on August 28. Kyogo has fired blanks in his five outings in the Champions League Group F encounters [...]",
+          "link": "https://www.celticquicknews.co.uk/kyogo-hit-or-myth/",
+          "publishedOn": "2022-10-27T08:36:06.000Z",
+          "wordCount": 3028,
+          "title": "KYOGO: HIT OR MYTH?",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/10/KYOGO-FURUHASHI-V-SD-FEATURED.png"
+        },
+        {
+          "id": "https://thecelticstar.com/well-have-a-go-at-real-madrid-promises-cameron-carter-vickers/",
+          "author": null,
+          "description": "Celtic’s stand-in skipper Cameron Carter-Vickers had a chat with Lubo98 of this parish after the 1-1 draw against Shakhtar Donetsk on Tuesday evening at Celtic Park, a result that ended Celtic’s hopes of progressing to the Europa League knock-out rounds. The Celtic Star was involved in the post match media representing the Celtic Fan media.Asked Read More",
+          "link": "https://thecelticstar.com/well-have-a-go-at-real-madrid-promises-cameron-carter-vickers/",
+          "publishedOn": "2022-10-27T08:19:19.000Z",
+          "wordCount": 1986,
+          "title": "“We’ll have a go at Real Madrid,” promises Cameron Carter Vickers",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/10/celtic-fc-v-rb-leipzig-group-f-uefa-champions-league-27-1024x640.jpeg"
+        },
+        {
+          "id": "https://celtsarehere.com/the-wildly-misleading-celtic-and-rangers-comparison/",
+          "author": null,
+          "description": "Journalist Bill Leckie has hit the nail on the head when it comes to both Glasgow clubs participation in the Champions League this season. There have been some who want to make the lazy and wildly misleading comparison about both not being up to scratch in Europe’s elite competition. In reality, we had one club […]\nSource",
+          "link": "https://celtsarehere.com/the-wildly-misleading-celtic-and-rangers-comparison/",
+          "publishedOn": "2022-10-27T07:18:10.000Z",
+          "wordCount": 13600,
+          "title": "The Wildly Misleading Celtic and Rangers Comparison",
+          "imageUrl": "https://cdn.celtsarehere.com/wp-content/uploads/2022/10/2022-10-25t210258z_610948024_up1eiap1mgvh6_rtrmadp_3_soccer-champions-cel-shk-report-scaled.jpg"
+        },
+        {
+          "id": "https://etims.net/?p=18015",
+          "author": null,
+          "description": "A couple of stories caught my eye yesterday, both of which it could be said demand immediate action.   The first comes from a reply…",
+          "link": "https://etims.net/?p=18015",
+          "publishedOn": "2022-10-27T06:54:05.000Z",
+          "wordCount": 3700,
+          "title": "Celtic Diary Thursday October 27: Time For Action",
+          "imageUrl": "https://etims.net/wp-content/uploads/2022/10/vl-2-lead-760.png"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/blaze-of-glory-well-have-a-go-at-real-madrid-vows-celtic-skipper/",
+          "author": null,
+          "description": "CAMERON CARTER-VICKERS insists Celtic will go out all guns blazing in the Bernabeu on Wednesday. The Hoops blew their last chance of remaining in Europe after the turn of the year when they could only draw 1-1 with Shakhtar Donetsk in their final Champions League encounter in front of their own fans. The stalemate against [...]",
+          "link": "https://www.celticquicknews.co.uk/blaze-of-glory-well-have-a-go-at-real-madrid-vows-celtic-skipper/",
+          "publishedOn": "2022-10-27T06:42:03.000Z",
+          "wordCount": 3002,
+          "title": "BLAZE OF GLORY: ‘WE’LL HAVE A GO AT REAL MADRID,’ VOWS CELTIC SKIPPER",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/10/cameron-carter-vickers-ftrd-bb.png"
+        },
         {
           "id": "https://thecelticstar.com/celtic-on-this-day-27th-october-david-potters-celtic-diary/",
           "author": null,
@@ -2261,86 +2321,6 @@
           "wordCount": 2680,
           "title": "Sandman’s Definitive Ratings – Celtic at Gargoyle Grove",
           "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/10/imago1017005246h-1024x682.jpeg"
-        },
-        {
-          "id": "https://thecelticstar.com/perfect-day-for-celtic-as-hoops-widen-gap/",
-          "author": null,
-          "description": "Well that was a quiet afternoon wasn’t it! I had a feeling in my gut that VAR was going to be the headline story today and so it transpired, although nothing should be taken away from what was an extremely exciting match at Tynecastle, one that proves Scottish football has a lot more to offer Read More",
-          "link": "https://thecelticstar.com/perfect-day-for-celtic-as-hoops-widen-gap/",
-          "publishedOn": "2022-10-22T20:42:23.000Z",
-          "wordCount": 2215,
-          "title": "Perfect Day for Celtic as Hoops Widen Gap",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/10/imago1016976976h-1024x673.jpg"
-        },
-        {
-          "id": "https://thecelticstar.com/the-battle-of-tynecastle-hearts-3-4-celtic-we-nevar-stop/",
-          "author": null,
-          "description": "That was action packed that one. Where to begin? After James Forrest grabbed his 101 goal for Celtic (yes that’s right, 101!), we never really took hold of the match and allowed Hearts a way into it, courtesy of an intervention by the much maligned VAR technology. Although in my opinion it was a stonewall Read More",
-          "link": "https://thecelticstar.com/the-battle-of-tynecastle-hearts-3-4-celtic-we-nevar-stop/",
-          "publishedOn": "2022-10-22T20:28:12.000Z",
-          "wordCount": 1923,
-          "title": "The Battle of Tynecastle: Hearts 3 – 4 Celtic: We NeVAR Stop",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/10/imago1016982553h-1024x682.jpeg"
-        },
-        {
-          "id": "https://celtsarehere.com/video-brilliant-post-match-greg-taylor-moment-with-celtic-teammates/",
-          "author": null,
-          "description": "GREG TAYLOR scored the goal that saw Celtic extend their lead at the top of the table. The left-back started on the bench before he replaced Alexandro Bernabei, who didn’t have his best game. He came on with the instruction to string a few passes together and settle down the game. Instead, he decided he’d […]\nSource",
-          "link": "https://celtsarehere.com/video-brilliant-post-match-greg-taylor-moment-with-celtic-teammates/",
-          "publishedOn": "2022-10-22T20:22:00.000Z",
-          "wordCount": 13374,
-          "title": "Video: Brilliant Post-match Greg Taylor Moment with Celtic Teammates",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sportsmole.co.uk/football/arsenal/transfer-talk/news/arsenal-man-city-among-clubs-interested-in-celtic-wonderkid_497643.html",
-          "author": null,
-          "description": "Arsenal and Manchester City are keeping a close eye on 17-year-old Celtic wonderkid Rocco Vata, according to a report.",
-          "link": "https://www.sportsmole.co.uk/football/arsenal/transfer-talk/news/arsenal-man-city-among-clubs-interested-in-celtic-wonderkid_497643.html",
-          "publishedOn": "2022-10-22T20:10:18.000Z",
-          "wordCount": 4526,
-          "title": "Arsenal, Manchester City &#039;among clubs interested in Celtic wonderkid&#039;",
-          "imageUrl": "//b.smimg.net/22/09/emirates-stadium.jpg"
-        },
-        {
-          "id": "https://celtsarehere.com/no-penalty-bbc-pundit-in-astonishing-celtic-take/",
-          "author": null,
-          "description": "BBC Pundit Michael Stewart believes his old side did NOT get away with one when it came to the hand ball penalty claim against Celtic on Saturday. The game was sitting at 1-1 when Hearts player Michael Smith stops the momentum of the ball with his hand which was out with a natural position. Not […]\nSource",
-          "link": "https://celtsarehere.com/no-penalty-bbc-pundit-in-astonishing-celtic-take/",
-          "publishedOn": "2022-10-22T19:52:12.000Z",
-          "wordCount": 13528,
-          "title": "No Penalty; BBC Pundit in Astonishing Celtic Take",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.67hailhail.com/news/what-a-guy-giorgos-giakoumakis-praise-for-celtic-teammate-on-instagram/",
-          "author": null,
-          "description": "Giorgos Giakoumakis is a happy man tonight after scoring another goal for Celtic and helping his team to a 4-3 victory at Tynecastle. Giakoumakis scored a fine header from an Aaron Mooy corner, his seventh of the season in all competitions despite limited starts. After the match, he uploaded a post to Instagram, lauding the ...\nThe post \"What a guy\"; Giorgos Giakoumakis&#039; praise for Celtic teammate on Instagram appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/what-a-guy-giorgos-giakoumakis-praise-for-celtic-teammate-on-instagram/",
-          "publishedOn": "2022-10-22T19:42:28.000Z",
-          "wordCount": 1738,
-          "title": "\"What a guy\"; Giorgos Giakoumakis&#039; praise for Celtic teammate on Instagram",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/09/GettyImages-1242995772-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/news/robbie-neilsons-bizarre-claim-after-celtic-beat-hearts-yet-again/",
-          "author": null,
-          "description": "Hearts manager Robbie Neilson has claimed that his team ‘absolutely rattled’ Celtic today, despite losing yet another match to the Bhoys. Neilson has faced Celtic on 16 occasions as a manager, losing 13 of them and winning just once – when Ange Postecoglou had been in the country for a matter of weeks. The Tynecastle ...\nThe post Robbie Neilson&#039;s bizarre claim after Celtic beat Hearts yet again appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/robbie-neilsons-bizarre-claim-after-celtic-beat-hearts-yet-again/",
-          "publishedOn": "2022-10-22T18:40:00.000Z",
-          "wordCount": 1801,
-          "title": "Robbie Neilson&#039;s bizarre claim after Celtic beat Hearts yet again",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/10/GettyImages-1418021928-scaled.jpg"
-        },
-        {
-          "id": "https://celtsarehere.com/3-talking-points-as-celtic-overcome-hearts-and-var/",
-          "author": null,
-          "description": "It was an action-packed day in the capital as Celtic fought hard to overcome Hearts. VAR controversy and seven goals set up a thrilling game for the naturals, maybe not the fans! Sadly, the talking points coming away from the match will be about the VAR decision and Walsh’s decision, precisely what Ange was hoping […]\nSource",
-          "link": "https://celtsarehere.com/3-talking-points-as-celtic-overcome-hearts-and-var/",
-          "publishedOn": "2022-10-22T18:32:00.000Z",
-          "wordCount": 13557,
-          "title": "3 Talking Points As Celtic Overcome Hearts and VAR",
-          "imageUrl": null
         }
       ]
     },
@@ -2888,26 +2868,6 @@
           "wordCount": 3656,
           "title": "Ange Postecoglou shuts down Celtic style 'validation' as he stands by Champions League Plan A - Daily Record",
           "imageUrl": "https://i2-prod.dailyrecord.co.uk/sport/football/article28305317.ece/ALTERNATES/s1200/0_JS281287578.jpg"
-        },
-        {
-          "id": "CAIiEO4lSYtNFt2BdWhaE_vOHvAqGQgEKhAIACoHCAowrueiCTDmn7gCMOjNtwU",
-          "author": null,
-          "description": "Chris Sutton in bemused Celtic VAR poser as operator called out over 'stonewaller' ref review  Daily Record",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiY2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvY2hyaXMtc3V0dG9uLWJlbXVzZWQtY2VsdGljLXZhci0yODMwNjUwNdIBAA?oc=5",
-          "publishedOn": "2022-10-22T20:28:27.000Z",
-          "wordCount": 3218,
-          "title": "Chris Sutton in bemused Celtic VAR poser as operator called out over 'stonewaller' ref review - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/sport/football/football-news/article28306656.ece/ALTERNATES/s1200/0_Screenshot-2022-10-22-at-212354.png"
-        },
-        {
-          "id": "CAIiEPAWbGosGh3Op8gKWW4yx_sqGQgEKhAIACoHCAowrueiCTDmn7gCMOjNtwU",
-          "author": null,
-          "description": "Kris Boyd fears Rangers end game for Gio as club hero pinpoints key reason for Ibrox fan backlash  Daily Record",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiX2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3Mva3Jpcy1ib3lkLWZlYXJzLXJhbmdlcnMtZW5kLTI4MzA0NTMz0gEA?oc=5",
-          "publishedOn": "2022-10-22T18:33:55.000Z",
-          "wordCount": 3279,
-          "title": "Kris Boyd fears Rangers end game for Gio as club hero pinpoints key reason for Ibrox fan backlash - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/sport/football/football-news/article28304584.ece/ALTERNATES/s1200/0_C73E6AC0-B736-4329-A7C1-DFED94220BFEjpeg.jpg"
         }
       ]
     },
@@ -2916,6 +2876,26 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "e192f4075411f19bd7ba24f6b3672fae",
+          "author": null,
+          "description": "ALLY MCCOIST was quick to remind Alan Brazil that Celtic are out of Europe when the talkSPORT host teased him over Rangers' horror run of form in the Champions League.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23081161.ally-mccoist-fires-cheeky-celtic-swipe-rangers-hero-bites-back-worst-ever-champions-league-record/?ref=rss",
+          "publishedOn": "2022-10-27T07:54:33.000Z",
+          "wordCount": 8244,
+          "title": "Ally McCoist fires cheeky Celtic swipe as Rangers hero bites back over worst ever Champions League record",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16090761/?type=og-image"
+        },
+        {
+          "id": "327e58f68f6694d116570a19a1cfba2c",
+          "author": null,
+          "description": "Ange Postecoglou was true to his word, for better or for worse",
+          "link": "https://www.glasgowtimes.co.uk/sport/23080519.celtic-turn-progress-team-champions-league-progression-next-time-around/?ref=rss",
+          "publishedOn": "2022-10-27T06:00:00.000Z",
+          "wordCount": 9297,
+          "title": "How do Celtic turn progress as a team into Champions League progression next time around?",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16081734/?type=og-image"
+        },
         {
           "id": "8019f7e7f06b62ed2a9c21836b87c3ef",
           "author": null,
