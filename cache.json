@@ -203,6 +203,26 @@
       "siteUrl": "http://armchaircelts.co.uk/feed/wprss/",
       "articles": [
         {
+          "id": "https://thecelticstar.com/work-continues-behind-the-scenes-to-take-celtic-to-the-next-level/",
+          "author": null,
+          "description": "With Sunday’s confident 3-0 win over Livingston, Celtic have now won eleven of their twelve league games so far and are in a strong position to retain the league title that Ange Postecoglou picked up at the first time of asking last season.Jota and Carl Starfelt have now returned to full training following recent lay-offs, Read More",
+          "link": "https://thecelticstar.com/work-continues-behind-the-scenes-to-take-celtic-to-the-next-level/",
+          "publishedOn": "2022-11-01T14:34:53.000Z",
+          "wordCount": 2257,
+          "title": "Work Continues Behind The Scenes to Take Celtic to The Next Level",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/11/Fge77boXwAA-tm-1024x576.jpeg"
+        },
+        {
+          "id": "https://thecelticstar.com/dr-michael-connollys-long-awaited-brother-walfrid-biography-is-published-today/",
+          "author": null,
+          "description": "Today sees the publication of Dr Michael Connolly’s long awaited biography of Celtic’s Founding Father titled ‘Walfrid: A Life of Faith, Community and Football’.The author, who also works as a Celtic Park Tour Guide alongside Matt Corr of this parish, received this  endorsement of the biography from Mary McAleese, former President of Ireland and current Honorary Read More",
+          "link": "https://thecelticstar.com/dr-michael-connollys-long-awaited-brother-walfrid-biography-is-published-today/",
+          "publishedOn": "2022-11-01T12:57:50.000Z",
+          "wordCount": 1511,
+          "title": "Dr Michael Connolly’s long awaited Brother Walfrid biography is published today",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/11/FgZaFHkWAAMWfbj.jpeg"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/celtic-pair-in-contract-talks/",
           "author": null,
           "description": "CELTIC are in talks with Liel Abada and Giorgos Giakoumakis over enhanced contracts. The forwards are under contract until 2026, but discussions are ongoing about new five-year extensions that would keep them at the champions until at least 2027, according to a report on Sky Sports. Ange Postecoglou brought the players to Parkhead last summer [...]",
@@ -2390,6 +2410,26 @@
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
         {
+          "id": "CAIiEIQbRSm0DOjQy9fu3nN4M3kqGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY",
+          "author": null,
+          "description": "Work Continues Behind The Scenes to Take Celtic to The Next Level  The Celtic Star",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiXGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vd29yay1jb250aW51ZXMtYmVoaW5kLXRoZS1zY2VuZXMtdG8tdGFrZS1jZWx0aWMtdG8tdGhlLW5leHQtbGV2ZWwv0gEA?oc=5",
+          "publishedOn": "2022-11-01T14:34:53.000Z",
+          "wordCount": 2257,
+          "title": "Work Continues Behind The Scenes to Take Celtic to The Next Level - The Celtic Star",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/11/Fge77boXwAA-tm-1024x576.jpeg"
+        },
+        {
+          "id": "CAIiEBmKDQqb4aJTP8PuNH9md6sqGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY",
+          "author": null,
+          "description": "Dr Michael Connolly’s long awaited Brother Walfrid biography is published today  The Celtic Star",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiaWh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vZHItbWljaGFlbC1jb25ub2xseXMtbG9uZy1hd2FpdGVkLWJyb3RoZXItd2FsZnJpZC1iaW9ncmFwaHktaXMtcHVibGlzaGVkLXRvZGF5L9IBAA?oc=5",
+          "publishedOn": "2022-11-01T12:57:50.000Z",
+          "wordCount": 1511,
+          "title": "Dr Michael Connolly’s long awaited Brother Walfrid biography is published today - The Celtic Star",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/11/FgZaFHkWAAMWfbj.jpeg"
+        },
+        {
           "id": "CAIiEIBf5hc4Tg0UcPvP2OFoIlkqGQgEKhAIACoHCAowrueiCTDmn7gCMOjNtwU",
           "author": null,
           "description": "The great Celtic and Rangers transfer study as Ibrox club trail rivals in spending by more than £30m  Daily Record",
@@ -2428,6 +2468,16 @@
           "wordCount": 13418,
           "title": "Star Celtic Duo Snubbed - CeltsAreHere",
           "imageUrl": "https://cdn.celtsarehere.com/wp-content/uploads/2022/10/2022-05-11T205700Z_339980125_UP1EI5B1M6XNR_RTRMADP_3_SOCCER-SCOTLAND-DDU-CEL-REPORT-scaled.jpg"
+        },
+        {
+          "id": "CBMiaWh0dHBzOi8vd3d3LmZvb3RiYWxsZmFuY2FzdC5jb20vY2VsdGljLW5ld3MvY2VsdGljLXBvc3RlY29nbG91LWNhcnRlci12aWNrZXJzLXByZW1pZXJzaGlwLWhvb3BzLXRvdHRlbmhhbdIBswFodHRwczovL3d3dy5mb290YmFsbGZhbmNhc3QuY29tL2NlbHRpYy1uZXdzL2NlbHRpYy1wb3N0ZWNvZ2xvdS1jYXJ0ZXItdmlja2Vycy1wcmVtaWVyc2hpcC1ob29wcy10b3R0ZW5oYW0_dXRtX3NvdXJjZT10aHVtYm5haWwmdXRtX21lZGl1bT1pbnRlcm5hbCZ1dG1fY2FtcGFpZ249cmVsYXRlZC1zdG9yaWVzJmFtcA",
+          "author": null,
+          "description": "Celtic: Postecoglou has played masterclass with Carter-Vickers  FootballFanCast.com",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiaWh0dHBzOi8vd3d3LmZvb3RiYWxsZmFuY2FzdC5jb20vY2VsdGljLW5ld3MvY2VsdGljLXBvc3RlY29nbG91LWNhcnRlci12aWNrZXJzLXByZW1pZXJzaGlwLWhvb3BzLXRvdHRlbmhhbdIBswFodHRwczovL3d3dy5mb290YmFsbGZhbmNhc3QuY29tL2NlbHRpYy1uZXdzL2NlbHRpYy1wb3N0ZWNvZ2xvdS1jYXJ0ZXItdmlja2Vycy1wcmVtaWVyc2hpcC1ob29wcy10b3R0ZW5oYW0_dXRtX3NvdXJjZT10aHVtYm5haWwmdXRtX21lZGl1bT1pbnRlcm5hbCZ1dG1fY2FtcGFpZ249cmVsYXRlZC1zdG9yaWVzJmFtcA?oc=5",
+          "publishedOn": "2022-11-01T08:35:26.000Z",
+          "wordCount": 3999,
+          "title": "Celtic: Postecoglou has played masterclass with Carter-Vickers - FootballFanCast.com",
+          "imageUrl": "https://cdn.footballfancast.com/wp-content/uploads/2022/10/carter-vickers-celtic-premiership-postecoglou-tottenham-hoops-scaled.jpg"
         },
         {
           "id": "CBMiaWh0dHBzOi8vd3d3LmZvb3RiYWxsZmFuY2FzdC5jb20vY2VsdGljLW5ld3MvY2VsdGljLXBvc3RlY29nbG91LWNhcnRlci12aWNrZXJzLXByZW1pZXJzaGlwLWhvb3BzLXRvdHRlbmhhbdIBbWh0dHBzOi8vd3d3LmZvb3RiYWxsZmFuY2FzdC5jb20vY2VsdGljLW5ld3MvY2VsdGljLXBvc3RlY29nbG91LWNhcnRlci12aWNrZXJzLXByZW1pZXJzaGlwLWhvb3BzLXRvdHRlbmhhbS9hbXA",
