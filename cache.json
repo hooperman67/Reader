@@ -3,7 +3,7 @@
     {
       "title": "The Scotsman Celtic",
       "feedUrl": "https://www.scotsman.com/sport/football/celtic/rss",
-      "siteUrl": "https://www.scotsman.com//sport/football/celtic",
+      "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
           "id": "3901994",
@@ -204,26 +204,6 @@
           "wordCount": 2688,
           "title": "Celtic manager Ange Postecoglou discusses football style - 'no right and wrong way to play the game, mate'",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjU5YTNlMjlmLTY3Y2UtNGY5Yi04MjQ0LWY3OWQ4ODZlZTQyZjpiNTJkYmJiYS01Njc1LTRjYWQtYjBmNy02MThhMTQ5ZjY0YTg=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3898152",
-          "author": "Anthony Brown",
-          "description": "Joel Nouble is hoping Livingston can capitalise on any Champions League fatigue in the Celtic ranks this weekend.",
-          "link": "https://www.scotsman.com/sport/football/celtic/how-livingston-are-planning-to-prey-on-celtic-its-definitely-going-to-affect-them-3898152",
-          "publishedOn": "2022-10-28T18:14:33.000Z",
-          "wordCount": 2273,
-          "title": "How Livingston are planning to prey on Celtic - 'it's definitely going to affect them'",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjZmMTk4ZDNiLTE2NjgtNGVmNC1hNDliLTM2ZjhkZGQ5NTkyZjo3YzQ2Y2YxZi1kZDQzLTQxYTItOTcwZC00ZDZiNjA4Mjg4Zjg=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3898073",
-          "author": "Gavin McCafferty",
-          "description": "Celtic attacker Sead Haksabanovic is preparing for his ninth match in October but the recent signing is happy to keep playing as he feels it is the best route to full fitness.",
-          "link": "https://www.scotsman.com/sport/football/celtic/celtic-summer-signing-makes-not-100-per-cent-fit-admission-and-insists-best-is-yet-to-come-3898073",
-          "publishedOn": "2022-10-28T16:43:31.000Z",
-          "wordCount": 2390,
-          "title": "Celtic summer signing makes 'not 100 per cent fit' admission and insists best is yet to come",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjMxY2U4OTNjLWQ3YWUtNGJlNC1hZGQ0LTRlNmJmZjE3Njk0MzoyODYyN2UyZC1mZDhkLTQwZjgtOTE4Ny1iYzY5ODc5NmNjNDI=.jpg?width=1200&enable=upscale"
         }
       ]
     },
@@ -232,6 +212,46 @@
       "feedUrl": "http://armchaircelts.co.uk/wprss",
       "siteUrl": "http://armchaircelts.co.uk/feed/wprss/",
       "articles": [
+        {
+          "id": "https://www.sportsmole.co.uk/football/chelsea/champions-league-predictions/feature/wednesdays-champions-league-predictions-including-juventus-vs-psg_498396.html",
+          "author": null,
+          "description": "Sports Mole provides score predictions and previews for all of today's Champions League fixtures, including Juventus vs. Paris Saint-Germain.",
+          "link": "https://www.sportsmole.co.uk/football/chelsea/champions-league-predictions/feature/wednesdays-champions-league-predictions-including-juventus-vs-psg_498396.html",
+          "publishedOn": "2022-11-02T06:00:00.000Z",
+          "wordCount": 5075,
+          "title": "Wednesday&#039;s Champions League predictions including Juventus vs. PSG",
+          "imageUrl": "//b.smimg.net/22/43/rmagir.JPG"
+        },
+        {
+          "id": "https://thecelticstar.com/celtic-on-this-day-2nd-november-david-potters-celtic-diary/",
+          "author": null,
+          "description": "David Potter’s Celtic Diary is now into its fourth month of the season and there’s plenty to report from Celtic’s long, proud and unbroken history starting on this day in 1907. Over to you, Mr Potter…SATURDAY 2nd NOVEMBER 1907 – Bad weather reduces the attendance to 7,000 but those who turn up to Parkhead see Read More",
+          "link": "https://thecelticstar.com/celtic-on-this-day-2nd-november-david-potters-celtic-diary/",
+          "publishedOn": "2022-11-02T05:56:00.000Z",
+          "wordCount": 1347,
+          "title": "Celtic On This Day – 2nd  November – David Potter’s Celtic Diary",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/10/image-133-1024x766.jpeg"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/tommy-gemmell-the-end-of-the-great-adventure/",
+          "author": null,
+          "description": "TOMMY GEMMELL brought down the curtain on his spectacular Celtic career in the unlikely setting of the Ta’ Qali stadium in Malta on pitch bereft of grass in front of a meagre crowd of 10,416. It was not the way Hollywood would have scripted the final farewell to a Hoops legend who had scored in [...]",
+          "link": "https://www.celticquicknews.co.uk/tommy-gemmell-the-end-of-the-great-adventure/",
+          "publishedOn": "2022-11-02T05:31:21.000Z",
+          "wordCount": 2824,
+          "title": "TOMMY GEMMELL: THE END OF THE GREAT ADVENTURE",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2020/06/TOMMYGEMMELLfeatured.jpg"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/tommy-gemmell-the-start-of-something-good/",
+          "author": null,
+          "description": "TOMMY GEMMELL signed for Celtic on October 25 1961 and made his Celtic debut as an unknown left-back in a First Division game against Aberdeen at Pittodrie on January 5 1963. His first appearance kicked off a rollercoaster career that catapulted the extraordinarily-gifted 19-year-old to legendary status at the Parkhead club. Gemmell was promoted to [...]",
+          "link": "https://www.celticquicknews.co.uk/tommy-gemmell-the-start-of-something-good/",
+          "publishedOn": "2022-11-02T05:30:04.000Z",
+          "wordCount": 4597,
+          "title": "TOMMY GEMMELL: THE START OF SOMETHING GOOD",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2021/11/TOMMY-GEMMELL-AT-START-FEATURED.png"
+        },
         {
           "id": "https://celtsarehere.com/moussa-dembeles-cheeky-tweet-after-ibrox-clubs-cl-humiliation/",
           "author": null,
@@ -2231,106 +2251,6 @@
           "wordCount": 13474,
           "title": "‘I don’t lie to you, and I don’t lie to the players’ – Postecoglou Responds to Livi Question",
           "imageUrl": "https://cdn.celtsarehere.com/wp-content/uploads/2022/10/2022-10-25t191912z_749126130_up1eiap1hnz9s_rtrmadp_3_soccer-champions-cel-shk-report-scaled.jpg"
-        },
-        {
-          "id": "https://thecelticblog.com/2022/10/articles-and-features/celtics-quality-is-such-that-not-a-single-ibrox-player-would-make-it-into-a-glasgow-xi/",
-          "author": null,
-          "description": "In light of where we were last season, I would have argued that any Glasgow XI would be overwhelmingly dominated by Celtic. That was readily apparent to almost every person who looked at the issue with a critical, serious eye. Right now, there is not the slightest doubt that this is the case. Not only […]",
-          "link": "https://thecelticblog.com/2022/10/articles-and-features/celtics-quality-is-such-that-not-a-single-ibrox-player-would-make-it-into-a-glasgow-xi/",
-          "publishedOn": "2022-10-28T18:32:27.000Z",
-          "wordCount": 2275,
-          "title": "Celtic’s Quality Is Such That Not A Single Ibrox Player Would Make It Into A Glasgow XI.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.67hailhail.com/news/sead-haksabanovics-message-to-celtic-supporters-bodes-well/",
-          "author": null,
-          "description": "Sead Haksabanovic has insisted there are more ‘levels’ to come from him over the coming weeks and months despite a promising start to his Celtic career. Haksabanovic has caught the eye of many supporters in his 12 appearances to date this season, six of which have come from the start of matches. His touch, dribbling ...\nThe post Best yet to come: Impressive summer signing&#039;s exciting message to Celtic fans appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/sead-haksabanovics-message-to-celtic-supporters-bodes-well/",
-          "publishedOn": "2022-10-28T18:21:23.000Z",
-          "wordCount": 1817,
-          "title": "Best yet to come: Impressive summer signing&#039;s exciting message to Celtic fans",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/10/GettyImages-1243954342-2-scaled.jpg"
-        },
-        {
-          "id": "https://celtsarehere.com/?p=92783",
-          "author": null,
-          "description": "LIEL ABADA thought he sealed the points for Celtic on Saturday after he went through one on one and hit the back of the net in the closing stages of the game. However, the linesman raised his flag, and the goal was chopped off. VAR checked the decision and agreed with the decision that was […]\nSource",
-          "link": "https://celtsarehere.com/?p=92783",
-          "publishedOn": "2022-10-28T18:20:15.000Z",
-          "wordCount": 13468,
-          "title": "Andy Walker’s Celtic Sky Sports Excuse",
-          "imageUrl": "https://cdn.celtsarehere.com/wp-content/uploads/2019/02/ANDY-WALKER.jpg"
-        },
-        {
-          "id": "https://celtsarehere.com/not-100-celtic-star-makes-fitness-confession/",
-          "author": null,
-          "description": "SEAD HAKSABANOVIC has been really impressive throughout his start at Celtic, with his direct and skilful play keeping fans on the edge of their seats. Despite not scoring a goal yet, he’s managed to get an assist, and you feel that his first goal is on the way. He’s had some terrific moments in games […]\nSource",
-          "link": "https://celtsarehere.com/not-100-celtic-star-makes-fitness-confession/",
-          "publishedOn": "2022-10-28T17:50:19.000Z",
-          "wordCount": 13532,
-          "title": "“Not 100% ” – Celtic Star Makes Fitness Confession",
-          "imageUrl": "https://cdn.celtsarehere.com/wp-content/uploads/2022/10/spfl_22_23_stj_celtic_0603-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/news/ange-postecoglou-addresses-livingston-pitch-rare-lennoxtown-session-planned-for-celtic-squad/",
-          "author": null,
-          "description": "Celtic will take part in a training session on the artificial pitch at Lennoxtown tomorrow in preparation for the match against Livingston on Sunday. David Martindale’s side play at home on a notorious plastic surface that has drawn the ire of footballers and managers up and down the country. Ange Postecoglou has never used it ...\nThe post Rare kind of Lennoxtown training session planned for Celtic squad tomorrow appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/ange-postecoglou-addresses-livingston-pitch-rare-lennoxtown-session-planned-for-celtic-squad/",
-          "publishedOn": "2022-10-28T17:43:47.000Z",
-          "wordCount": 1934,
-          "title": "Rare kind of Lennoxtown training session planned for Celtic squad tomorrow",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/03/GettyImages-1060152156-scaled.jpg"
-        },
-        {
-          "id": "https://celtsarehere.com/celtics-outstanding-gesture-during-cost-of-living-crisis/",
-          "author": null,
-          "description": "The Celtic Foundation has announced a £400,000 contribution to those in fuel crisis across Scotland. 🍀💚 @FoundationCFC and #CelticFC are both committed to helping people stay warm and feed themselves this winter ⤵️ — Celtic Football Club (@CelticFC) October 28, 2022 The initiative has been fully sponsored by Celtic and it will see 6,200 households […]\nSource",
-          "link": "https://celtsarehere.com/celtics-outstanding-gesture-during-cost-of-living-crisis/",
-          "publishedOn": "2022-10-28T17:30:49.000Z",
-          "wordCount": 13548,
-          "title": "Celtic’s Outstanding Gesture During Cost Of Living Crisis",
-          "imageUrl": "https://cdn.celtsarehere.com/wp-content/uploads/2022/10/Image-28-10-2022-at-18.28-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/news/i-dont-lie-to-you-celtic-boss-ange-postecoglous-insistent-media-response/",
-          "author": null,
-          "description": "Ange Postecoglou has again reinforced there will be no change in approach from his Celtic side despite the threat of Livingston throwing up some unique challenges this weekend. As we know, Livingston can be a very physical and combative side playing on a particularly difficult artificial pitch at their home ground. It’s often a battle ...\nThe post \"I don&#039;t lie to you\"; Celtic boss Ange Postecoglou&#039;s latest spiky media response appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/i-dont-lie-to-you-celtic-boss-ange-postecoglous-insistent-media-response/",
-          "publishedOn": "2022-10-28T17:13:11.000Z",
-          "wordCount": 1908,
-          "title": "\"I don&#039;t lie to you\"; Celtic boss Ange Postecoglou&#039;s latest spiky media response",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/10/GettyImages-1436499205-1-scaled.jpg"
-        },
-        {
-          "id": "https://thecelticstar.com/hail-hail-halloween-history-the-spooky-story-of-a-ghost-who-came-back-to-haunt-celtic/",
-          "author": null,
-          "description": "On Hallowe’en weekend, here is a ghost story that involves Celtic from Hail Hail History… It’s the true tale of how one footballer who died after a match later played against the Bhoys and came to Celtic Park.What is even stranger is that the player whose challenge was said to have struck the fatal blow was Read More",
-          "link": "https://thecelticstar.com/hail-hail-halloween-history-the-spooky-story-of-a-ghost-who-came-back-to-haunt-celtic/",
-          "publishedOn": "2022-10-28T17:00:28.000Z",
-          "wordCount": 2112,
-          "title": "Hail Hail Hallowe’en History – The Spooky Story of a Ghost who came back to Haunt Celtic",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/10/22861417_1749426491763915_5147091585801062745_o-1024x1024.jpg"
-        },
-        {
-          "id": "https://thecelticblog.com/2022/10/articles-and-features/van-bronckhorsts-biggest-problem-is-ange-the-comparison-is-killing-him/",
-          "author": null,
-          "description": "Ange’s influence on this team can be seen in many ways. But I think the real proof of how good a manager he is has been found in the players he has improved. Clearly, he arrived well aware of what the Japanese could do, but his signings outside of the country where he last managed […]",
-          "link": "https://thecelticblog.com/2022/10/articles-and-features/van-bronckhorsts-biggest-problem-is-ange-the-comparison-is-killing-him/",
-          "publishedOn": "2022-10-28T16:56:04.000Z",
-          "wordCount": 2210,
-          "title": "Van Bronckhorst’s Biggest Problem Is Ange. The Comparison Is Killing Him.",
-          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2022/09/2022-09-14T182540Z_625389332_UP1EI9E1F6Q6W_RTRMADP_3_SOCCER-CHAMPIONS-SHK-CEL-REPORT.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/news/2-4m-on-the-line-for-celtic-in-madrid-as-bhoys-scoop-up-1-6m-uefa-bonus/",
-          "author": null,
-          "description": "Celtic’s upcoming match against Real Madrid means little in football terms for the Bhoys. They’ve already gone out of the Champions League, and there is no parachute to the Europa League available. Nonetheless, it’ll be an occasion to savour for the entire squad and travelling supporters, having not faced Real competitively in over 40 years. ...\nThe post £2.4m on the line for Celtic appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/2-4m-on-the-line-for-celtic-in-madrid-as-bhoys-scoop-up-1-6m-uefa-bonus/",
-          "publishedOn": "2022-10-28T16:46:25.000Z",
-          "wordCount": 1843,
-          "title": "£2.4m on the line for Celtic",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/10/GettyImages-1430767652-scaled.jpg"
         }
       ]
     },
@@ -2339,6 +2259,16 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CAIiEPkjwigOwaKVINktlb658H4qGQgEKhAIACoHCAowrueiCTDmn7gCMKXUtwU",
+          "author": null,
+          "description": "Ange Postecoglou wants Celtic stars 'feel like kids' again for blockbuster Real Madrid test  Daily Record",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiZ2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvYW5nZS1wb3N0ZWNvZ2xvdS13YW50cy1jZWx0aWMtc3RhcnMtMjgzODUxODjSAQA?oc=5",
+          "publishedOn": "2022-11-02T06:00:00.000Z",
+          "wordCount": 3976,
+          "title": "Ange Postecoglou wants Celtic stars 'feel like kids' again for blockbuster Real Madrid test - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28385205.ece/ALTERNATES/s1200/0_JS282235465.jpg"
+        },
         {
           "id": "CBMid2h0dHBzOi8vd3d3LmVzcG4uY29tL3NvY2Nlci9jZWx0aWMvc3RvcnkvNDc4NzI2Mi9ob3ctY29ubmVjdGlvbi1hbmQtY29tbXVuaXR5LWlzLWhlbHBpbmctYW5nZS1wb3N0ZWNvZ2xvdS13aW4tYXQtY2VsdGlj0gGEAWh0dHBzOi8vd3d3LmVzcG4uY29tL3NvY2Nlci9jZWx0aWMvc3RvcnkvNDc4NzI2Mi9ob3ctY29ubmVjdGlvbi1hbmQtY29tbXVuaXR5LWlzLWhlbHBpbmctYW5nZS1wb3N0ZWNvZ2xvdS13aW4tYXQtY2VsdGljP3BsYXRmb3JtPWFtcA",
           "author": null,
@@ -3058,16 +2988,6 @@
           "wordCount": 13473,
           "title": "Chris Sutton’s Major Celtic Worry - CeltsAreHere",
           "imageUrl": "https://cdn.celtsarehere.com/wp-content/uploads/2022/10/2022-03-06T000000Z_139220652_UP1EI36118PNJ_RTRMADP_3_SOCCER-SCOTLAND-LFC-CEL-REPORT-scaled.jpg"
-        },
-        {
-          "id": "CBMiPGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL3VrLXNjb3RsYW5kLWdsYXNnb3ctd2VzdC02MzQyOTIyMNIBQGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL3VrLXNjb3RsYW5kLWdsYXNnb3ctd2VzdC02MzQyOTIyMC5hbXA",
-          "author": null,
-          "description": "Celtic charity donates £400,000 in fuel vouchers  BBC",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiPGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL3VrLXNjb3RsYW5kLWdsYXNnb3ctd2VzdC02MzQyOTIyMNIBQGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL3VrLXNjb3RsYW5kLWdsYXNnb3ctd2VzdC02MzQyOTIyMC5hbXA?oc=5",
-          "publishedOn": "2022-10-28T17:04:52.000Z",
-          "wordCount": 5099,
-          "title": "Celtic charity donates £400,000 in fuel vouchers - BBC",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/B82F/production/_127415174_celticalt.jpg"
         }
       ]
     },
