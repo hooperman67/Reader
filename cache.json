@@ -223,6 +223,56 @@
       "siteUrl": "http://armchaircelts.co.uk/feed/wprss/",
       "articles": [
         {
+          "id": "https://thecelticblog.com/2022/11/articles-and-features/fear-and-loathing-at-mcdairmad-park-ibrox-boss-on-the-brink-after-calamitous-loss/",
+          "author": null,
+          "description": "It was Leonard Cohen, of all people, who said that “success is survival.” Every football manager knows that by heart. The only certainty in that line of work is the sack. It comes to them all, even to the best of them. Giovanni Van Bronckhorst is not one of the best. I have tried to […]",
+          "link": "https://thecelticblog.com/2022/11/articles-and-features/fear-and-loathing-at-mcdairmad-park-ibrox-boss-on-the-brink-after-calamitous-loss/",
+          "publishedOn": "2022-11-06T14:19:12.000Z",
+          "wordCount": 2379,
+          "title": "Fear And Loathing At McDairmad Park: Ibrox Boss On The Brink After Calamitous Loss.",
+          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2022/09/2022-09-03T122812Z_1309229139_UP1EI930YMYZG_RTRMADP_3_SOCCER-SCOTLAND-CEL-RFC-REPORT.jpg"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/7-up-celts/",
+          "author": null,
+          "description": "CELTIC maintained their seven-point advantage at the Premiership pinnacle when their nearest challengers toppled to a 2-1 loss to St Johnstone in Perth this afternoon. Giovanni van Bronckhorst’s struggling Ibrox outfit blew the chance to cut the gap back to four after the champions made certain of a win against Dundee United yeterday when they [...]",
+          "link": "https://www.celticquicknews.co.uk/7-up-celts/",
+          "publishedOn": "2022-11-06T14:01:43.000Z",
+          "wordCount": 2628,
+          "title": "7 UP CELTS",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/11/KYOGO-FURUHASHI-FEATURED-JJJJ.png"
+        },
+        {
+          "id": "https://celtsarehere.com/celtic-youngster-adam-montgomery-helps-stun-ibrox-side/",
+          "author": null,
+          "description": "ST JOHNSTONE found themselves leading The Rangers 2-0 until a Tavinier strike pulled the Ibrox club back into the match. The Perthshire side was giving the opposition’s defence some problems, especially when Gio rolled the dice and brought Morelos on at the expense of his back four. The Celtic loanee Adam Montgomery started on the […]\nSource",
+          "link": "https://celtsarehere.com/celtic-youngster-adam-montgomery-helps-stun-ibrox-side/",
+          "publishedOn": "2022-11-06T13:53:28.000Z",
+          "wordCount": 13544,
+          "title": "Celtic Youngster Adam Montgomery Helps Stun Ibrox Side",
+          "imageUrl": "https://cdn.celtsarehere.com/wp-content/uploads/2022/11/2022-08-13T141644Z_650265723_UP1EI8D13NUIV_RTRMADP_3_SOCCER-SCOTLAND-RFC-STJ-REPORT-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/news/celtic-end-scottish-premiership-weekend-7-points-clear-as-rivals-hit-crisis-in-perth/",
+          "author": null,
+          "description": "Celtic have ended the Scottish Premiership weekend seven points clear of second-placed Rangers, after Giovanni van Bronckhorst’s side suffered defeat away to St Johnstone today. A rousing 4-2 win over Dundee United at Celtic Park yesterday sent Ange Postecoglou’s Bhoys well clear of our rivals ahead of the Sunday football. Today’s lunchtime kick-off saw a ...\nThe post Celtic end Scottish Premiership weekend 7 points clear as Rangers hit crisis in Perth appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/celtic-end-scottish-premiership-weekend-7-points-clear-as-rivals-hit-crisis-in-perth/",
+          "publishedOn": "2022-11-06T13:52:29.000Z",
+          "wordCount": 1775,
+          "title": "Celtic end Scottish Premiership weekend 7 points clear as Rangers hit crisis in Perth",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/11/GettyImages-1424606197-scaled.jpg"
+        },
+        {
+          "id": "https://thecelticstar.com/jim-spence-nails-it-over-vars-bernabei-handball-decision/",
+          "author": null,
+          "description": "Yesterday’s handball decision by the newest technological advance within football really did look incomprehensible. The man operating the VAR, Nick Walsh, has a history of questionable decisions against Celtic shall we say. How can a player possibly acknowledge where the ball is if he isn’t looking at it?And the St Johnstone manager, Callum Davidson also Read More",
+          "link": "https://thecelticstar.com/jim-spence-nails-it-over-vars-bernabei-handball-decision/",
+          "publishedOn": "2022-11-06T12:50:04.000Z",
+          "wordCount": 1406,
+          "title": "Jim Spence nails it over VAR’s Bernabei handball decision",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/11/imago1018191552h-1024x600.jpeg"
+        },
+        {
           "id": "https://thecelticstar.com/it-definitely-was-not-a-penalty-at-parkhead-yesterday-callum-davidson/",
           "author": null,
           "description": "St Johnstone boss Callum Davidson weighed into the VAR penalty row from Celtic Park yesterday afternoon ahead of this afternoon’s match at McDiarmid Park. Alexandro Bernabei was not only penalised but was also cautioned after Nick Walsh, the referee who denied Celtic a stonewall penalty at Tynecastle a fortnight ago, called the match referee over Read More",
@@ -2648,16 +2698,6 @@
           "wordCount": 3976,
           "title": "Ange Postecoglou wants Celtic stars 'feel like kids' again for blockbuster Real Madrid test - Daily Record",
           "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28385205.ece/ALTERNATES/s1200/0_JS282235465.jpg"
-        },
-        {
-          "id": "CBMid2h0dHBzOi8vd3d3LmVzcG4uY29tL3NvY2Nlci9jZWx0aWMvc3RvcnkvNDc4NzI2Mi9ob3ctY29ubmVjdGlvbi1hbmQtY29tbXVuaXR5LWlzLWhlbHBpbmctYW5nZS1wb3N0ZWNvZ2xvdS13aW4tYXQtY2VsdGlj0gGEAWh0dHBzOi8vd3d3LmVzcG4uY29tL3NvY2Nlci9jZWx0aWMvc3RvcnkvNDc4NzI2Mi9ob3ctY29ubmVjdGlvbi1hbmQtY29tbXVuaXR5LWlzLWhlbHBpbmctYW5nZS1wb3N0ZWNvZ2xvdS13aW4tYXQtY2VsdGljP3BsYXRmb3JtPWFtcA",
-          "author": null,
-          "description": "How authenticity is helping Ange Postecoglou win at Celtic  ESPN",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMid2h0dHBzOi8vd3d3LmVzcG4uY29tL3NvY2Nlci9jZWx0aWMvc3RvcnkvNDc4NzI2Mi9ob3ctY29ubmVjdGlvbi1hbmQtY29tbXVuaXR5LWlzLWhlbHBpbmctYW5nZS1wb3N0ZWNvZ2xvdS13aW4tYXQtY2VsdGlj0gGEAWh0dHBzOi8vd3d3LmVzcG4uY29tL3NvY2Nlci9jZWx0aWMvc3RvcnkvNDc4NzI2Mi9ob3ctY29ubmVjdGlvbi1hbmQtY29tbXVuaXR5LWlzLWhlbHBpbmctYW5nZS1wb3N0ZWNvZ2xvdS13aW4tYXQtY2VsdGljP3BsYXRmb3JtPWFtcA?oc=5",
-          "publishedOn": "2022-11-02T02:13:24.000Z",
-          "wordCount": 6085,
-          "title": "How authenticity is helping Ange Postecoglou win at Celtic - ESPN",
-          "imageUrl": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1101%2Fr1084741_1296x729_16%2D9.jpg"
         }
       ]
     },
