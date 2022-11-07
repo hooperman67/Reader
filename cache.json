@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "3907755",
+          "author": "Matthew Elder",
+          "description": "Dundee United goalkeeper Mark Birighitti is hopeful of securing a place in the Australia World Cup squad after earning a timely pick-me-up from his former national team boss Ange Postecoglou.",
+          "link": "https://www.scotsman.com/sport/football/celtic/ange-is-a-class-character-dundee-united-star-reveals-what-celtic-boss-said-to-him-after-4-2-defeat-3907755",
+          "publishedOn": "2022-11-07T07:00:00.000Z",
+          "wordCount": 2256,
+          "title": "'Ange is a class character' – Dundee United star reveals what Celtic boss said to him after 4-2 defeat",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjk4NzU4NWI4LTQ4OGMtNDk3NC1iZjllLWM2ZDJmNjExMWViYzo0ZWQ5Y2M0Yi03NDY2LTQzOTYtOTllYy03MjhiZDEzNGI0OWU=.jpg?width=1200&enable=upscale"
+        },
+        {
           "id": "3907735",
           "author": "Matthew Elder",
           "description": "Anthony Ralston insists VAR delays and contentious handball decisions are not going to derail Celtic in their bid to reclaim the Scottish Premiership title this season.",
@@ -184,26 +194,6 @@
           "wordCount": 2256,
           "title": "'Unbelievable' - Ange Postecoglou inspired by Celtic fans' reaction to Madrid mauling",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjU1MWM1ZjFmLWEzMzEtNDg2My05MjQ2LTJkMzNhMDZhZjdiMzo3MWFjNjgzZi01NDE3LTQ5MTktYWY0Yy0yYWJhN2QyZTE5Y2Y=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3903572",
-          "author": "Matthew Elder",
-          "description": "Joe Hart has questioned the handball decisions that saw Celtic concede two early penalties in their 5-1 defeat to Real Madrid.",
-          "link": "https://www.scotsman.com/sport/football/celtic/celtic-vexed-by-real-madrid-penalties-whats-he-to-do-chop-his-arms-off-3903572",
-          "publishedOn": "2022-11-02T20:49:51.000Z",
-          "wordCount": 2216,
-          "title": "Celtic vexed by Real Madrid penalties: 'What's he to do? Chop his arms off?'",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjVhOTQ0NzRmLTRkNDQtNDU4My04NzVjLWIwY2VjMDVhZDA4Yjo5YmI4MjdhZS0wYjcwLTQzYTItOTQ3ZS1kOWNmYWEwYzE4OWM=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3903564",
-          "author": "Andrew Smith",
-          "description": "It might sound daft to say that Celtic’s first real mauling as they closed their fruitless Champions League campaign stained what had gone before.",
-          "link": "https://www.scotsman.com/sport/football/celtic/celtic-outclassed-in-madrid-a-tale-of-three-penalties-two-sets-of-fans-and-one-second-half-collapse-3903564",
-          "publishedOn": "2022-11-02T20:33:12.000Z",
-          "wordCount": 3365,
-          "title": "Celtic outclassed in Madrid - a tale of three penalties, two sets of fans, and one second half collapse",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmFhYTM4MWQ0LWUwNzMtNGJkYS04M2NiLTliM2YwZmUwYTJmMzpjNDI1ZWFlMy01YWVkLTQ3YzUtODE0OC04NWEwZWE4NTNhMDM=.jpg?width=1200&enable=upscale"
         }
       ]
     },
@@ -212,6 +202,66 @@
       "feedUrl": "http://armchaircelts.co.uk/wprss",
       "siteUrl": "http://armchaircelts.co.uk/feed/wprss/",
       "articles": [
+        {
+          "id": "https://www.celticquicknews.co.uk/world-cup-sweat-for-celtic-hero/",
+          "author": null,
+          "description": "FORMER Celtic fans’ favourite Tom Rogic faces a sweat before Graham Arnold reveals his Australia squad for the World Cup Finals tomorrow. The stylish 29-year-old midfielder is hoping to get the nod to join the 26-player pool for the soccer showpiece in Qatar which kicks off on November 20 and concludes with the grand finale [...]",
+          "link": "https://www.celticquicknews.co.uk/world-cup-sweat-for-celtic-hero/",
+          "publishedOn": "2022-11-07T08:31:04.000Z",
+          "wordCount": 2770,
+          "title": "WORLD CUP SWEAT FOR CELTIC HERO",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/11/TOM-ROGIC-HIGH-FIVES-FEATURED.png"
+        },
+        {
+          "id": "https://etims.net/?p=18023",
+          "author": null,
+          "description": "After an absence of over a week, the most reliable, informative and entertaining Celtic page has returned,   The Diary is back as well, after…",
+          "link": "https://etims.net/?p=18023",
+          "publishedOn": "2022-11-07T08:05:19.000Z",
+          "wordCount": 3651,
+          "title": "Celtic Diary Monday November 7: Something In The Var",
+          "imageUrl": "https://etims.net/wp-content/uploads/2022/11/quote-three-things-cannot-long-be-hidden-the-sun-the-moon-and-the-truth-confucius-53-10-30.jpg"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/no-egos-no-heroes-the-team-spirit-we-need-insists-ralston/",
+          "author": null,
+          "description": "ANTHONY RALSTON insisted Celtic “always believe” even when the odds are stacked against them. The champions looked to be heading for a draw and two dropped points against Dundee United when Dylan Levitt’s freakish left-wing cross was missed by Moritz Jenz and Tony Watt as it sailed past the startled Joe Hart. That effort – [...]",
+          "link": "https://www.celticquicknews.co.uk/no-egos-no-heroes-the-team-spirit-we-need-insists-ralston/",
+          "publishedOn": "2022-11-07T07:43:56.000Z",
+          "wordCount": 3139,
+          "title": "NO EGOS, NO HEROES: ‘THE TEAM SPIRIT WE NEED,’ INSISTS RALSTON",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/11/ANTHONY-RALSTON-FTYY.png"
+        },
+        {
+          "id": "https://celtsarehere.com/enjoyed-that-one-adam-montgomery-rubs-in-rangers-defeat-scott-brown-responds/",
+          "author": null,
+          "description": "ADAM MONTGOMERY was part of the St Johnstone side who heaped more misery on Celtic’s Glasgow rivals by helping his loan club to a 2-1 victory in Perth. The Celtic academy star is on loan for the full season to our fellow SPFL club and he certainly did his parent club a favour. Adam knew […]\nSource",
+          "link": "https://celtsarehere.com/enjoyed-that-one-adam-montgomery-rubs-in-rangers-defeat-scott-brown-responds/",
+          "publishedOn": "2022-11-07T07:00:47.000Z",
+          "wordCount": 13528,
+          "title": "‘Enjoyed That One’ – Adam Montgomery Rubs in Rangers Defeat; Scott Brown Responds",
+          "imageUrl": "https://cdn.celtsarehere.com/wp-content/uploads/2022/11/2022-08-13T153158Z_1002405680_UP1EI8D1758QX_RTRMADP_3_SOCCER-SCOTLAND-RFC-STJ-REPORT-scaled-e1667785558480.jpg"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/absolutely-scandalous-mccoist-and-rival-boss-back-celtic/",
+          "author": null,
+          "description": "ALLY McCOIST insisted the decision to award a penalty-kick to Dundee United against Celtic at the weekend was the latest “absolutely scandalous” VAR decision. The Hoops were already leading 1-0 through a Sead Halsabanovic strike when a ninth-minute header from Steven Fletcher hit the elbow of Alexandro Bernabei who was looking away after challenging for [...]",
+          "link": "https://www.celticquicknews.co.uk/absolutely-scandalous-mccoist-and-rival-boss-back-celtic/",
+          "publishedOn": "2022-11-07T06:54:25.000Z",
+          "wordCount": 2990,
+          "title": "‘ABSOLUTELY SCANDALOUS,’ McCOIST AND RIVAL BOSS BACK CELTIC",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/11/ALEXANDRO-BERNABEI-PEN-FEATURED.png"
+        },
+        {
+          "id": "https://thecelticstar.com/celtic-on-this-day-7th-november-david-potters-celtic-diary/",
+          "author": null,
+          "description": "Celtic Historian David Potter each morning on The Celtic Star looks back at key Celtic events and matches on this day starting on 7th November 1908. David’s latest book The Celtic Rising ~ 1965 The Year Jock Stein Changed Everything is out now on Celtic Star Books.SATURDAY 7th NOVEMBER 1908 – James “Napoleon” McMenemy leaves Read More",
+          "link": "https://thecelticstar.com/celtic-on-this-day-7th-november-david-potters-celtic-diary/",
+          "publishedOn": "2022-11-07T06:23:00.000Z",
+          "wordCount": 1713,
+          "title": "Celtic On This Day – 7th November – David Potter’s Celtic Diary",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2020/03/MG_4958.jpeg"
+        },
         {
           "id": "https://thecelticstar.com/video-youll-never-walk-alone-who-did-it-better/",
           "author": null,
@@ -1421,126 +1471,6 @@
           "wordCount": 13523,
           "title": "Video: Hilarious Celtic Fans Moment in the Bernabeu",
           "imageUrl": "https://cdn.celtsarehere.com/wp-content/uploads/2022/11/2022-11-02T193258Z_1606179032_UP1EIB21IAW8X_RTRMADP_3_SOCCER-CHAMPIONS-MAD-CEL-REPORT-scaled.jpg"
-        },
-        {
-          "id": "https://celtsarehere.com/celtic-player-ratings-vs-madrid-poorest-performer-gets-4-10/",
-          "author": null,
-          "description": "Celtic fell to a 5-1 defeat at the Bernabeu on Wednesday to evening to European champions Real Madrid.  Penalty drama early on meant the hosts went in two up at the break and after they netted three consecutive goals on the 51st, 61st and 71st minutes, the Hoops got their deserved consolation courtesy of a […]\nSource",
-          "link": "https://celtsarehere.com/celtic-player-ratings-vs-madrid-poorest-performer-gets-4-10/",
-          "publishedOn": "2022-11-02T20:54:53.000Z",
-          "wordCount": 14240,
-          "title": "Celtic Player Ratings vs Madrid: Poorest Performer Gets 4/10",
-          "imageUrl": "https://cdn.celtsarehere.com/wp-content/uploads/2022/11/2022-11-02T194717Z_1704701068_UP1EIB21IYRAP_RTRMADP_3_SOCCER-CHAMPIONS-MAD-CEL-REPORT-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/match/ive-got-no-doubt-celtic-boss-shares-his-madrid-verdict-as-he-makes-improvement-claim/",
-          "author": null,
-          "description": "Celtic boss Ange Postecoglou has stated he was proud of his players this evening, as they suffered a 5-1 loss against Real Madrid at the Bernabeu. The 57-year-old watched on as the world-class Real Madrid side secured their top-spot status in the Champions League group stages. Although the Hoops were on the end of a ...\nThe post \"I&#039;ve got no doubt\"; Celtic boss shares his Madrid verdict as he makes improvement claim appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/match/ive-got-no-doubt-celtic-boss-shares-his-madrid-verdict-as-he-makes-improvement-claim/",
-          "publishedOn": "2022-11-02T20:54:31.000Z",
-          "wordCount": 2395,
-          "title": "\"I&#039;ve got no doubt\"; Celtic boss shares his Madrid verdict as he makes improvement claim",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/11/GettyImages-1244432231-scaled.jpg"
-        },
-        {
-          "id": "https://celtsarehere.com/joe-hart-upset-over-bernabeu-flash-point/",
-          "author": null,
-          "description": "JOE HART has criticised the decision to penalise Matt O’Riley’s handball against Real Madrid on Wednesday night. The goalkeeper was sent the wrong way by Rodrygo, who took the second penalty. Hart believes O’Riley’s hands couldn’t have gone anywhere else, posing the question of what he’s meant to do with his arms. Speaking to BT […]\nSource",
-          "link": "https://celtsarehere.com/joe-hart-upset-over-bernabeu-flash-point/",
-          "publishedOn": "2022-11-02T20:40:15.000Z",
-          "wordCount": 13477,
-          "title": "Joe Hart Upset Over Bernabeu Flash Point",
-          "imageUrl": "https://cdn.celtsarehere.com/wp-content/uploads/2022/11/5B69E527-DCE6-4642-BBE6-A2608A8A9EB6-scaled.jpeg"
-        },
-        {
-          "id": "https://celtsarehere.com/three-talking-points-as-celtic-end-their-champions-league-campaign/",
-          "author": null,
-          "description": "CELTIC finished their Champions League campaign with just two draws to their name, ending a frustrating group stage for the Bhoys. It was a decent performance in Madrid; Ange’s style of play was not lost on the players, with attacks continuing until the final whistle. Celtic’s goal came from Jota taking the ball and driving […]\nSource",
-          "link": "https://celtsarehere.com/three-talking-points-as-celtic-end-their-champions-league-campaign/",
-          "publishedOn": "2022-11-02T20:37:43.000Z",
-          "wordCount": 13624,
-          "title": "Three Talking Points As Celtic End Their Champions League Campaign",
-          "imageUrl": "https://cdn.celtsarehere.com/wp-content/uploads/2022/11/2022-11-02T183212Z_1495505657_UP1EIB21FHL51_RTRMADP_3_SOCCER-CHAMPIONS-MAD-CEL-REPORT-scaled.jpg"
-        },
-        {
-          "id": "https://celtsarehere.com/chris-suttons-honest-celtic-reaction/",
-          "author": null,
-          "description": "CHRIS SUTTON believes that Celtic were naive at times on Wednesday night but has predicted that the team will learn from the experience as they look to bounce back next year. The former Celtic man was complimentary of the squad on commentary, stating his satisfaction with the players’ character as they continued to attack the […]\nSource",
-          "link": "https://celtsarehere.com/chris-suttons-honest-celtic-reaction/",
-          "publishedOn": "2022-11-02T20:33:40.000Z",
-          "wordCount": 13464,
-          "title": "Chris Sutton’s Honest Celtic Reaction",
-          "imageUrl": "https://cdn.celtsarehere.com/wp-content/uploads/2022/11/2022-11-02T184003Z_576791317_UP1EIB21FUP5L_RTRMADP_3_SOCCER-CHAMPIONS-MAD-CEL-REPORT-scaled.jpg"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/real-madrid-5-celtic-1-moment-of-magic-amid-the-misery-in-madrid/",
-          "author": null,
-          "description": "REAL MADRID 5 CELTIC 1 AMID the misery and mediocrity in Madrid this evening there was one moment of magic. It was a mere consolation as Celtic, bereft of key players such as captain Callum McGregor and his stand-in Cameron Carter-Vickers, were swept away in the Bernabeu. With the Hoops trailing 5-0, Filipe Jota, a [...]",
-          "link": "https://www.celticquicknews.co.uk/real-madrid-5-celtic-1-moment-of-magic-amid-the-misery-in-madrid/",
-          "publishedOn": "2022-11-02T20:04:25.000Z",
-          "wordCount": 3353,
-          "title": "REAL MADRID 5 CELTIC 1: MOMENT OF MAGIC AMID THE MISERY IN MADRID",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2021/10/ALL-BLACK-CELTIC-HUDDLE-NEW.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/match/chris-sutton-delivers-level-headed-verdict-after-celtics-european-disappointment/",
-          "author": null,
-          "description": "Former Celtic striker Chris Sutton has delivered a level-headed assessment of the Hoops UEFA Champions League disappointment. The Bhoys European venture in the 2022/23 campaign came to an end this evening after six games against Real Madrid, RB Leipzig and Shakhtar Donetsk. Travelling to the Bernabeu, with Madrid still playing top spot, was also going ...\nThe post Chris Sutton delivers level-headed verdict after Celtic&#039;s European disappointment appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/match/chris-sutton-delivers-level-headed-verdict-after-celtics-european-disappointment/",
-          "publishedOn": "2022-11-02T20:03:34.000Z",
-          "wordCount": 2033,
-          "title": "Chris Sutton delivers level-headed verdict after Celtic&#039;s European disappointment",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/11/GettyImages-1244433485-scaled.jpg"
-        },
-        {
-          "id": "https://celtsarehere.com/awful-bt-pundit-jumps-to-celtics-defence/",
-          "author": null,
-          "description": "CELTIC conceded two penalties in the first twenty minutes of their match against Real Madrid. Both penalties came from handballs, which allowed Los Blancos to put themselves two goals up. That’s the frustrating part for Celtic fans; the home side didn’t have to break a sweat before they had a two-goal lead. BT had Steve […]\nSource",
-          "link": "https://celtsarehere.com/awful-bt-pundit-jumps-to-celtics-defence/",
-          "publishedOn": "2022-11-02T20:02:27.000Z",
-          "wordCount": 13575,
-          "title": "‘Awful’ – BT Pundit Jumps to Celtic’s Defence",
-          "imageUrl": "https://cdn.celtsarehere.com/wp-content/uploads/2022/11/5B69E527-DCE6-4642-BBE6-A2608A8A9EB6-scaled.jpeg"
-        },
-        {
-          "id": "https://celtsarehere.com/video-stunning-jota-free-kick/",
-          "author": null,
-          "description": "CELTIC’S only goal of their match against Real Madrid came from their winger Jota, who started the match on the bench. Celtic looked to be heading for an embarrassing scoreline, but Jota’s free-kick saved some of the blushes. It was a typical Ange Postecoglou display from Celtic, who relentlessly attacked Real Madrid despite being a […]\nSource",
-          "link": "https://celtsarehere.com/video-stunning-jota-free-kick/",
-          "publishedOn": "2022-11-02T19:58:10.000Z",
-          "wordCount": 13375,
-          "title": "Video: Stunning Jota Free Kick",
-          "imageUrl": "https://cdn.celtsarehere.com/wp-content/uploads/2022/11/2022-11-02T193303Z_1760064326_UP1EIB21IB08Z_RTRMADP_3_SOCCER-CHAMPIONS-MAD-CEL-REPORT-scaled.jpg"
-        },
-        {
-          "id": "https://www.sportsmole.co.uk/football/real-madrid/champions-league/result/result-holders-real-madrid-thump-celtic-to-secure-top-spot-in-group-f_498644.html",
-          "author": null,
-          "description": "Holders Real Madrid secure first position in their Champions League section courtesy of a 5-1 win over Celtic at Bernabeu.",
-          "link": "https://www.sportsmole.co.uk/football/real-madrid/champions-league/result/result-holders-real-madrid-thump-celtic-to-secure-top-spot-in-group-f_498644.html",
-          "publishedOn": "2022-11-02T19:38:36.000Z",
-          "wordCount": 4509,
-          "title": "Result: Holders Real Madrid thump Celtic to secure top spot in Group F",
-          "imageUrl": "//b.smimg.net/22/44/rmacel.JPG"
-        },
-        {
-          "id": "https://thecelticstar.com/video-stunning-free-kick-from-jota-as-celtic-score/",
-          "author": null,
-          "description": "Jota scored a wonderful free-kick to make it 5-1 at the Santiago Bernabeu. Despite Madrid being out of sight, the Portuguese winger gave the travelling supporters something to celebrate with a terrific right-footed strike.Having won the free-kick, the superstar from Portugal stepped up and beat Thibaut Courtois with the sheer pace on the ball. JOTA! Read More",
-          "link": "https://thecelticstar.com/video-stunning-free-kick-from-jota-as-celtic-score/",
-          "publishedOn": "2022-11-02T19:36:51.000Z",
-          "wordCount": 964,
-          "title": "Video: Stunning free-kick from Jota as Celtic score",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/11/B389E0C3-597D-442D-B359-C9AB7628720D.jpeg"
-        },
-        {
-          "id": "https://thecelticstar.com/video-celtics-penalty-woes-continue-as-juranovic-misses/",
-          "author": null,
-          "description": "Celtic passed up the opportunity to pull a goal back as Josip Juranovic saw his penalty saved by Thibaut Courtois. The Belgian Internationalist dived to his right and parried his strike out for a throw-in as Celtic’s campaign in Europe’s top competition was summed up.Liel Abada was fouled by Ferlan Mendy in the incident that Read More",
-          "link": "https://thecelticstar.com/video-celtics-penalty-woes-continue-as-juranovic-misses/",
-          "publishedOn": "2022-11-02T18:31:36.000Z",
-          "wordCount": 1070,
-          "title": "Video: Celtic’s penalty woes continue as Juranovic misses",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/11/Screenshot-2022-11-02-at-18.30.48.jpg"
         }
       ]
     },
@@ -1549,6 +1479,36 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CAIiECeBmbgQmciWoZlwZ-Ur_xAqGQgEKhAIACoHCAowrueiCTDmn7gCMOjNtwU",
+          "author": null,
+          "description": "Harry Kewell claims Celtic are one of Europe's 'most exciting' teams as he reveals Aaron Mooy wake up call  Daily Record",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiYmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvaGFycnkta2V3ZWxsLWNsYWltcy1jZWx0aWMtb25lLTI4NDI1NTMx0gEA?oc=5",
+          "publishedOn": "2022-11-07T08:45:39.000Z",
+          "wordCount": 3544,
+          "title": "Harry Kewell claims Celtic are one of Europe's 'most exciting' teams as he reveals Aaron Mooy wake up call - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28425605.ece/ALTERNATES/s1200/0_JS281203769.jpg"
+        },
+        {
+          "id": "CAIiEFajDZDr_GgnxbQ5P672FxMqGQgEKhAIACoHCAowrueiCTDmn7gCMKXUtwU",
+          "author": null,
+          "description": "Van Bronckhorst Rangers future LIVE as Ralph Hasenhuttl Southampton situation sets tongues wagging  Daily Record",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiZ2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvdmFuLWJyb25ja2hvcnN0LXJhbmdlcnMtZnV0dXJlLWxpdmUtMjg0MjUwNzjSAQA?oc=5",
+          "publishedOn": "2022-11-07T08:42:19.000Z",
+          "wordCount": 4963,
+          "title": "Van Bronckhorst Rangers future LIVE as Ralph Hasenhuttl Southampton situation sets tongues wagging - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28425079.ece/ALTERNATES/s1200/0_JS282711474.jpg"
+        },
+        {
+          "id": "CAIiEDddB_f8FG7h_6axRoQslPUqGQgEKhAIACoHCAowrueiCTDmn7gCMKXUtwU",
+          "author": null,
+          "description": "Ally McCoist shares Rangers 'rocket science' theory as he makes 'typical Celtic' comparison  Daily Record",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiZmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvYWxseS1tY2NvaXN0LXNoYXJlcy1yYW5nZXJzLXJvY2tldC0yODQyNTEzNNIBAA?oc=5",
+          "publishedOn": "2022-11-07T07:15:54.000Z",
+          "wordCount": 3374,
+          "title": "Ally McCoist shares Rangers 'rocket science' theory as he makes 'typical Celtic' comparison - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28425155.ece/ALTERNATES/s1200/0_Screenshot-2022-11-07-at-071425.png"
+        },
         {
           "id": "CAIiEASDdC7dr_3ccMFrK5qrQuUqGQgEKhAIACoHCAowrueiCTDmn7gCMIfHtwU",
           "author": null,
@@ -1578,6 +1538,16 @@
           "wordCount": 1601,
           "title": "Happy 135th Birthday, Our Beloved Celtic - The Celtic Star",
           "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2020/03/BROTHER_WALFRID.jpeg"
+        },
+        {
+          "id": "CAIiEImrcOuhrwBxlt_zXdhCYk0qGQgEKhAIACoHCAowrueiCTDmn7gCMIfHtwU",
+          "author": null,
+          "description": "Scott Brown joins Celtic stars in Rangers defeat applause as former skipper leads Adam Montgomery congrats  Daily Record",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiVGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL3Njb3R0LWJyb3duLWpvaW5zLWNlbHRpYy1zdGFycy0yODQyMzk4NNIBAA?oc=5",
+          "publishedOn": "2022-11-06T20:59:42.000Z",
+          "wordCount": 3212,
+          "title": "Scott Brown joins Celtic stars in Rangers defeat applause as former skipper leads Adam Montgomery congrats - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28424022.ece/ALTERNATES/s1200/1_St-Johnstone-FC-v-Rangers-FC-Cinch-Scottish-Premiership.jpg"
         },
         {
           "id": "1635125255",
@@ -2308,44 +2278,24 @@
           "wordCount": 1408,
           "title": "What may help is an examination of our mental attitude and approach - The Celtic Star",
           "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/11/fbl-eur-c1-real-madrid-celtic-16-1024x682.jpeg"
-        },
-        {
-          "id": "CAIiEC5Z8SBlcypP2Y1Pd258X78qGQgEKhAIACoHCAowrueiCTDmn7gCMIfHtwU",
-          "author": null,
-          "description": "Celtic player ratings as Jota provides a cheer but jittery Moritz Jenz has night to forget  Daily Record",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiZ2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvY2VsdGljLXBsYXllci1yYXRpbmdzLWpvdGEtcHJvdmlkZXMtMjgzOTQyNjTSAQA?oc=5",
-          "publishedOn": "2022-11-02T19:59:44.000Z",
-          "wordCount": 3691,
-          "title": "Celtic player ratings as Jota provides a cheer but jittery Moritz Jenz has night to forget - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28394287.ece/ALTERNATES/s1200/0_JS282338717.jpg"
-        },
-        {
-          "id": "CAIiEGXcDgaE1J9AwZZVkBSjPZcqGQgEKhAIACoHCAowjJe3CzCZss4DMM2x0wc",
-          "author": null,
-          "description": "Celtic lose out to Real Madrid in the Bernabeu  Official Celtic Football Club Website",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiXmh0dHBzOi8vd3d3LmNlbHRpY2ZjLmNvbS9uZXdzLzIwMjIvbm92ZW1iZXIvMDIvY2VsdGljLWxvc2Utb3V0LXRvLXJlYWwtbWFkcmlkLWluLXRoZS1iZXJuYWJldS_SAQA?oc=5",
-          "publishedOn": "2022-11-02T19:41:08.000Z",
-          "wordCount": 2896,
-          "title": "Celtic lose out to Real Madrid in the Bernabeu - Official Celtic Football Club Website",
-          "imageUrl": "https://images.webapi.gc.celticfc.com/fit-in/1000x1000/bd92d280-5ae5-11ed-b557-bb34db33a776.jpg"
-        },
-        {
-          "id": "1613147325",
-          "author": null,
-          "description": "Real Madrid 5 Celtic 1 RECAP as Ange and Co suffer heavy loss  Daily Record\nAnge Postecoglou reveals extent of CCV injury as Celtic absence opens up opportunity  67 Hail Hail - Celtic FC News\nInfo for supporters travelling to Madrid | celticfc.com  Official Celtic Football Club Website\nCeltic In Madrid, Media Lies And Exaggerations ... And Great Ambassadors On Tour.  TheCelticBlog.com\nReal Madrid 5-1 Celtic: Scottish champions routed in final group game  BBC\nView Full coverage on Google News",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiXmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvcmVhbC1tYWRyaWQtdnMtY2VsdGljLWxpdmUtMjgzOTAyMDLSAQA?oc=5",
-          "publishedOn": "2022-11-02T19:40:08.000Z",
-          "wordCount": 9961,
-          "title": "Real Madrid 5 Celtic 1 RECAP as Ange and Co suffer heavy loss - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28393563.ece/ALTERNATES/s1200/0_JS282332773.jpg"
         }
       ]
     },
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
       "articles": [
+        {
+          "id": "8f20b8f6a536073f2e128140f60687fe",
+          "author": null,
+          "description": "TONY Ralston has predicted that Ange Postecoglou’s plans to strengthen his squad with players who have Champions League experience will ensure that he and his team mates continue produce their “A games”.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23105365.ange-postecoglous-ambitious-transfer-plans-will-help-celtics-players-bring-a-games-says-tony-ralston/?ref=rss",
+          "publishedOn": "2022-11-07T07:03:00.000Z",
+          "wordCount": 8456,
+          "title": "Ange Postecoglou's ambitious transfer plans will help Celtic's players bring their 'A games', says Tony Ralston",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16127117/?type=og-image"
+        },
         {
           "id": "f59df956825f67e337c879b2605c3946",
           "author": null,
@@ -2885,56 +2835,6 @@
           "wordCount": 8725,
           "title": "Celtic right back Josip Juranovic brands Real Madrid keeper Thibaut Courtois 'one of the best in the world'",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16115315/?type=og-image"
-        },
-        {
-          "id": "bb59f660abc7a0993d30dde7c1a29ab3",
-          "author": null,
-          "description": "ANGE POSTECOGLOU shared his pride after watching his Celtic players keep playing their style of football despite a heavy defeat to Real Madrid.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23097395.ange-postecoglou-shares-celtic-pride-drops-hard-stop-league-remark/?ref=rss",
-          "publishedOn": "2022-11-02T21:03:08.000Z",
-          "wordCount": 8226,
-          "title": "Ange Postecoglou shares Celtic pride as he drops 'hard to stop' league remark",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16115264/?type=og-image"
-        },
-        {
-          "id": "4301bd1ba19d5bd2a3a5329955cf8ac4",
-          "author": null,
-          "description": "Celtic pay the penalty",
-          "link": "https://www.glasgowtimes.co.uk/sport/23097362.3-celtic-burning-issues-real-madrid-show-champions-league-swagger/?ref=rss",
-          "publishedOn": "2022-11-02T20:33:12.000Z",
-          "wordCount": 8275,
-          "title": "3 Celtic burning issues as Real Madrid show Champions League swagger",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16115195/?type=og-image"
-        },
-        {
-          "id": "9beb94c6cce0e3b40f61cd34349ba7c9",
-          "author": null,
-          "description": "The Hoops captain for the night gave his instant reaction after the game",
-          "link": "https://www.glasgowtimes.co.uk/sport/23097316.what-want-chop-arms-off-celtic-keeper-joe-hart-rails-var-penalty-decisions-vs-real-madrid/?ref=rss",
-          "publishedOn": "2022-11-02T20:02:10.000Z",
-          "wordCount": 8180,
-          "title": "'What do they want to do, chop his arms off?: Celtic keeper Joe Hart rails against VAR penalty decisions vs Real Madrid",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16115165/?type=og-image"
-        },
-        {
-          "id": "ddbb255bc9a8ec6c64df1a23dfa39898",
-          "author": null,
-          "description": "Joe Hart 5",
-          "link": "https://www.glasgowtimes.co.uk/sport/23097301.celtic-player-ratings-real-madrid-score-five-bernabeu/?ref=rss",
-          "publishedOn": "2022-11-02T19:58:12.000Z",
-          "wordCount": 8806,
-          "title": "Celtic player ratings as Real Madrid score five at Bernabeu",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16115128/?type=og-image"
-        },
-        {
-          "id": "0d896d4a28c8b54f97a7a9acb515465b",
-          "author": null,
-          "description": "A HEAVY 5-1 defeat to Real Madrid in the Bernabeu brought Celtic’s first Champions League campaign in five years to a close in demoralising fashion tonight.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23097288.real-madrid-5-1-celtic-penalty-calls-missed-chances-cost-ange-postecoglous-men-dear-bernabeu/?ref=rss",
-          "publishedOn": "2022-11-02T19:41:37.000Z",
-          "wordCount": 8921,
-          "title": "Real Madrid 5-1 Celtic: Penalty calls and missed chances cost Ange Postecoglou's men dear in the Bernabeu",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16115104/?type=og-image"
         }
       ]
     }
