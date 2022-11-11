@@ -6,6 +6,36 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "3914743",
+          "author": "Matthew Elder",
+          "description": "The Scottish FA has responded to concerns raised over the camera angle used to disallow a Celtic goal during the 2-1 win over Motherwell at Fir Park on Wednesday.",
+          "link": "https://www.scotsman.com/sport/football/celtic/sfa-break-silence-over-celtic-offside-goal-as-admission-made-over-var-camera-3914743",
+          "publishedOn": "2022-11-11T11:23:08.000Z",
+          "wordCount": 1940,
+          "title": "SFA break silence over Celtic offside goal as admission made over VAR camera",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmFiMTE3MTljLTQzMmYtNDIxYS1hOWQ4LTUxNGZkOGE0M2E1ZDoyMTNlZGY4My1mMTZmLTRlMTYtODFkYy0zYzI1OWU0MWQ3OGI=.jpg?width=1200&enable=upscale"
+        },
+        {
+          "id": "3914668",
+          "author": "Matthew Elder",
+          "description": "‘Human error’ has been blamed after VAR failed to show the correct camera angle for a disallowed Celtic goal during their 2-1 win over Motherwell on Wednesday night.",
+          "link": "https://www.scotsman.com/sport/football/celtic/human-error-blamed-after-jota-offside-celtic-goal-sparks-var-controversy-3914668",
+          "publishedOn": "2022-11-11T10:52:28.000Z",
+          "wordCount": 1989,
+          "title": "'Human error' blamed after Jota offside Celtic goal sparks VAR controversy",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjcxYTA5Y2FlLTg5NDUtNGQ4MS1iNWYyLThkNmRmOWIyMGRiNzo1NGQ3MWRmMi00NDEzLTQ2MDktYjM4Ny04OWZjNDk1NDlkZGQ=.jpg?width=1200&enable=upscale"
+        },
+        {
+          "id": "3914613",
+          "author": "Mark Atkinson",
+          "description": "Scotland may not be at the World Cup, by the Scottish Professional Football League will be well represented – plus there are plenty of players who once plied their trade in the leagues, or are indeed born Scots, at Qatar. Mark Atkinson talks you through them ...",
+          "link": "https://www.scotsman.com/sport/football/spfl-players-past-and-present-at-world-cup-celtic-rangers-hearts-and-dundee-utd-represented-at-qatar-3914613",
+          "publishedOn": "2022-11-11T10:25:24.000Z",
+          "wordCount": 4072,
+          "title": "SPFL players past and present at World Cup: Celtic, Rangers, Hearts and Dundee Utd represented at Qatar",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjI1ZDY3Njk3LWE1OWEtNGNhZS1iYjcwLTUzZTZjNjM4NDU5MDpmNGQxMTAyNC1mNjE4LTQ0ODItOTUzYS01NTFhZGNhN2MxZWY=.jpg?width=1200&enable=upscale"
+        },
+        {
           "id": "3913764",
           "author": "Mark Atkinson",
           "description": "David Turnbull says he had no doubts that team-mate Cameron Carter-Vickers would be included in the United States’ World Cup squad due to this season’s form with Celtic.",
@@ -164,16 +194,6 @@
           "wordCount": 2256,
           "title": "'Ange is a class character' – Dundee United star reveals what Celtic boss said to him after 4-2 defeat",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjk4NzU4NWI4LTQ4OGMtNDk3NC1iZjllLWM2ZDJmNjExMWViYzo0ZWQ5Y2M0Yi03NDY2LTQzOTYtOTllYy03MjhiZDEzNGI0OWU=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3907735",
-          "author": "Matthew Elder",
-          "description": "Anthony Ralston insists VAR delays and contentious handball decisions are not going to derail Celtic in their bid to reclaim the Scottish Premiership title this season.",
-          "link": "https://www.scotsman.com/sport/football/celtic/celtic-will-not-be-derailed-by-var-but-handball-grey-area-needs-fixed-insists-anthony-ralston-3907735",
-          "publishedOn": "2022-11-06T22:30:00.000Z",
-          "wordCount": 2682,
-          "title": "Celtic will not be derailed by VAR but handball grey area needs fixed, insists Anthony Ralston",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjQwZWYwZDZiLTE2NGMtNGY0Yy04ZmZlLTM2NmQ3M2YwZTdmNjoyNDEwOWQwNi1iZjZlLTRiNWEtOWVmYy0xN2UxZTJmODNhNTU=.jpg?width=1200&enable=upscale"
         }
       ]
     },
@@ -182,6 +202,106 @@
       "feedUrl": "http://armchaircelts.co.uk/wprss",
       "siteUrl": "http://armchaircelts.co.uk/feed/wprss/",
       "articles": [
+        {
+          "id": "https://www.celticquicknews.co.uk/demob-celtic-sfa-statement-adds-confusion/",
+          "author": null,
+          "description": "October was an horrendous month for Ross County.  They lost five of six league games and looked doomed.  Crucially, most of these games were against teams in the bottom half of the table; they took a point at home to Dundee United but lost to Kilmarnock and Motherwell left Dingwall with a 0-5 win. A [...]",
+          "link": "https://www.celticquicknews.co.uk/demob-celtic-sfa-statement-adds-confusion/",
+          "publishedOn": "2022-11-11T12:01:50.000Z",
+          "wordCount": 4027,
+          "title": "Demob Celtic, SFA statement adds confusion",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
+        },
+        {
+          "id": "https://thecelticblog.com/2022/11/articles-and-features/the-sfa-explanation-for-why-celtics-goal-wasnt-covered-by-var-is-transparent-guff/",
+          "author": null,
+          "description": "One of the most cynical acts in politics is when individuals who get caught doing something wrong try to divert the media’s attention with a half admissions of incompetence in the hope that it will satisfy them. For who would willingly volunteer his or herself as a clown? And the answer, as has been demonstrated […]",
+          "link": "https://thecelticblog.com/2022/11/articles-and-features/the-sfa-explanation-for-why-celtics-goal-wasnt-covered-by-var-is-transparent-guff/",
+          "publishedOn": "2022-11-11T11:58:27.000Z",
+          "wordCount": 2997,
+          "title": "The SFA Explanation For Why Celtic’s Goal Wasn’t Covered By VAR Is Transparent Guff.",
+          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2022/03/2021-02-25T193627Z_242432611_UP1EH2P1IGRC6_RTRMADP_3_SOCCER-EUROPA-AJA-LIL-REPORT.jpg"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/sfa-admit-jota-var-boob/",
+          "author": null,
+          "description": "THE Scottish FA have admitted the VAR camera that was in line with Filipe Jota when he was controversially flagged offside against Motherwell “did not capture an appropriate view of the incident”. The Celtic flyer thought he had doubled the champions’ advantage early in the second-half when he sped onto a superb raking pass from [...]",
+          "link": "https://www.celticquicknews.co.uk/sfa-admit-jota-var-boob/",
+          "publishedOn": "2022-11-11T11:58:22.000Z",
+          "wordCount": 2797,
+          "title": "SFA ADMIT JOTA VAR BOOB",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/11/FILIPE-JOTA-OFFSIDE-WELL-FEATURED-1.png"
+        },
+        {
+          "id": "https://celtsarehere.com/celtic-set-to-receive-frimpong-world-cup-fee/",
+          "author": null,
+          "description": "Former Celtic defender Jeremie Frimpong has been selected as part of the Netherlands World Cup squad for Qatar [@FabrizioRomano].  Official. Netherland squad for 2022 World Cup. 🚨🇳🇱 #WorldCup2022 Brobbey, Gravenberch and Botman have been left out. pic.twitter.com/9zrSP98v4Q — Fabrizio Romano (@FabrizioRomano) November 11, 2022 Louis van Gaal’s side will take on Ecuador, Qatar and Senegal […]\nSource",
+          "link": "https://celtsarehere.com/celtic-set-to-receive-frimpong-world-cup-fee/",
+          "publishedOn": "2022-11-11T11:42:33.000Z",
+          "wordCount": 13534,
+          "title": "Celtic Set To Receive Frimpong World Cup Fee",
+          "imageUrl": "https://cdn.celtsarehere.com/wp-content/uploads/2022/10/img_1116-scaled.jpg"
+        },
+        {
+          "id": "https://thecelticstar.com/scottish-fa-release-referee-operations-statement-motherwell-v-celtic/",
+          "author": null,
+          "description": "The Scottish FA have released a short statement on their official website relating to the controversial incident at Fir Park on Wednesday night surrounding the footage used to determine that Celtic star Jota was in an offside position before scoring such a wonderful goal against Motherwell.And as expected given the leaks to various newspapers, the Read More",
+          "link": "https://thecelticstar.com/scottish-fa-release-referee-operations-statement-motherwell-v-celtic/",
+          "publishedOn": "2022-11-11T11:27:29.000Z",
+          "wordCount": 1368,
+          "title": "Scottish FA release Referee Operations Statement: Motherwell v Celtic",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/11/FhJqDo7XkAEep8l-1024x711.jpeg"
+        },
+        {
+          "id": "https://celtsarehere.com/sfa-release-celtic-jota-statement/",
+          "author": null,
+          "description": "The Scottish FA has released a statement on Friday morning confirming the reason why Jota’s offside goal was taken from the most ridiculous of angles from the VAR technology. The Celtic winger was denied an outstanding goal by the TV technology, but when cameras cut to show viewers the line for the decision – it […]\nSource",
+          "link": "https://celtsarehere.com/sfa-release-celtic-jota-statement/",
+          "publishedOn": "2022-11-11T11:25:58.000Z",
+          "wordCount": 13592,
+          "title": "SFA Release Celtic Jota Statement",
+          "imageUrl": "https://cdn.celtsarehere.com/wp-content/uploads/2022/11/62A76956-A642-490B-A679-D071BED6116F-scaled.jpeg"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/celtic-hero-ready-to-rocknrole/",
+          "author": null,
+          "description": "CAMERON CARTER-VICKERS will be a wow in the World Cup Finals in Qatar, that’s the firm prediction of David Turnbull. The uncompromising Celtic centre-back was included in the USA 26-player squad for the soccer showpiece only moments after the final whistle at Fir Park on Wednesday night, as CQN reported. Carter-Vickers, the club’s stand-in captain [...]",
+          "link": "https://www.celticquicknews.co.uk/celtic-hero-ready-to-rocknrole/",
+          "publishedOn": "2022-11-11T11:19:28.000Z",
+          "wordCount": 2800,
+          "title": "CELTIC HERO READY TO ROCK’N’ROLE",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/11/CAMERON-CARTER-VICKERS-ROCK-FEATURRED-HH.png"
+        },
+        {
+          "id": "https://celtsarehere.com/former-celtic-boss-delivers-nakamura-tribute/",
+          "author": null,
+          "description": "Former Celtic manager Gordon Strachan delivered a touching tribute to former Hoops star Shunsuke Nakamura upon his retirement from the game. It was the Aberdeen legend who brought the Japanese star to the Hoops way back in 2005 from Italian side Reggina for a fee believed to be around £2.5 million. The former Japanese international […]\nSource",
+          "link": "https://celtsarehere.com/former-celtic-boss-delivers-nakamura-tribute/",
+          "publishedOn": "2022-11-11T10:33:28.000Z",
+          "wordCount": 13857,
+          "title": "Former Celtic Boss Delivers Nakamura Tribute",
+          "imageUrl": "https://cdn.celtsarehere.com/wp-content/uploads/2022/11/2009-05-24T121054Z_1_MT1ACI6067541_RTRMADP_3_SOCCER-ENGLAND-CLG-HOM-scaled.jpg"
+        },
+        {
+          "id": "https://celtsarehere.com/harry-kewell-outlines-sydney-super-cup-significance/",
+          "author": null,
+          "description": "With Celtic preparing to head down under for the Sydney Super Cup, first team coach Harry Kewell sat down with his fellow countryman Aaron Mooy to discuss the trip. Aaron Mooy will of course not be heading back to his homeland as he has been selected to be a part of Graham Arnold’s Socceroos World […]\nSource",
+          "link": "https://celtsarehere.com/harry-kewell-outlines-sydney-super-cup-significance/",
+          "publishedOn": "2022-11-11T09:54:51.000Z",
+          "wordCount": 13878,
+          "title": "Harry Kewell Outlines Sydney Super Cup Significance",
+          "imageUrl": "https://cdn.celtsarehere.com/wp-content/uploads/2022/10/AB79F4CF-AD92-46A2-B1EF-D5A1377BB4A7-scaled.jpeg"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/could-celtic-win-the-europa-league-under-ange-absolutely-definitely-insists-legend-oneill/",
+          "author": null,
+          "description": "FORMER Celtic boss Martin O’Neill is backing Ange Postecoglou to bring European glory to his old club. The Northern Irishman came so close to emulating the legendary Jock Stein whose team of all stars conquered Europe by defeating Inter Milan 2-1 in an unforgettable evening in Lisbon on May 25 1967. O’Neill led the Hoops [...]",
+          "link": "https://www.celticquicknews.co.uk/could-celtic-win-the-europa-league-under-ange-absolutely-definitely-insists-legend-oneill/",
+          "publishedOn": "2022-11-11T09:53:40.000Z",
+          "wordCount": 3087,
+          "title": "‘COULD CELTIC WIN THE EUROPA LEAGUE UNDER ANGE? ABSOLUTELY, DEFINITELY,’ INSISTS LEGEND O’NEILL",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/11/ANGE-POSTECOGLOU-AND-MARTIN-ONEILL-SKY-MAY-14-2022.png"
+        },
         {
           "id": "https://thecelticstar.com/bemused-celtic-as-vars-human-error-replaces-referees-honest-mistake/",
           "author": null,
@@ -2501,16 +2621,6 @@
           "wordCount": 1713,
           "title": "Celtic On This Day – 7th November – David Potter’s Celtic Diary",
           "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2020/03/MG_4958.jpeg"
-        },
-        {
-          "id": "https://thecelticstar.com/video-youll-never-walk-alone-who-did-it-better/",
-          "author": null,
-          "description": "Who sings ‘You’ll Never Walk Alone’ best? This a question any Celtic fan knows the real answer to.The TikTok channel LiveScore, which has just shy of a million followers posed this question to TikTok, by displaying three different clips of three different clubs singing the Gerry and the Pacemakers, 1963 hit. It opens with Borussia Read More",
-          "link": "https://thecelticstar.com/video-youll-never-walk-alone-who-did-it-better/",
-          "publishedOn": "2022-11-06T21:36:18.000Z",
-          "wordCount": 1023,
-          "title": "Video: You’ll Never Walk Alone…Who Did It Better?",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/image-47-1024x682.jpeg"
         }
       ]
     },
@@ -2519,6 +2629,46 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CAIiEKj5gLOPCdhYvho35Q3MUusqGQgEKhAIACoHCAowrueiCTDmn7gCMOjNtwU",
+          "author": null,
+          "description": "Michael Beale says Rangers would have won title if Steven Gerrard stayed  Daily Record",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiZ2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvbWljaGFlbC1iZWFsZS1pbnNpc3RzLXJhbmdlcnMtd291bGQtMjg0NjYwODHSAQA?oc=5",
+          "publishedOn": "2022-11-11T12:42:28.000Z",
+          "wordCount": 4162,
+          "title": "Michael Beale says Rangers would have won title if Steven Gerrard stayed - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article24257129.ece/ALTERNATES/s1200/2_19823298.jpg"
+        },
+        {
+          "id": "CBMiUmh0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS9uZXdzL2hvbm91cmVkLWZhbW91cy1iYW5kLXNoYXJlLWRlbGlnaHQtMTAyNDUxMzQzLmh0bWzSAVpodHRwczovL3VrLnNwb3J0cy55YWhvby5jb20vYW1waHRtbC9uZXdzL2hvbm91cmVkLWZhbW91cy1iYW5kLXNoYXJlLWRlbGlnaHQtMTAyNDUxMzQzLmh0bWw",
+          "author": null,
+          "description": "'We are HONOURED': Famous band share delight after display by Celtic fans  Yahoo Eurosport UK",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiUmh0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS9uZXdzL2hvbm91cmVkLWZhbW91cy1iYW5kLXNoYXJlLWRlbGlnaHQtMTAyNDUxMzQzLmh0bWzSAVpodHRwczovL3VrLnNwb3J0cy55YWhvby5jb20vYW1waHRtbC9uZXdzL2hvbm91cmVkLWZhbW91cy1iYW5kLXNoYXJlLWRlbGlnaHQtMTAyNDUxMzQzLmh0bWw?oc=5",
+          "publishedOn": "2022-11-11T10:24:51.000Z",
+          "wordCount": 14611,
+          "title": "'We are HONOURED': Famous band share delight after display by Celtic fans - Yahoo Eurosport UK",
+          "imageUrl": "https://media.zenfs.com/en/glasgow_times_uk_271/c168e173f1d68c5c05e998dc38b80304"
+        },
+        {
+          "id": "CAIiEEhPJxqq7qNUGXix9VGYeaUqGQgEKhAIACoHCAowrueiCTDmn7gCMIfHtwU",
+          "author": null,
+          "description": "Gordon Strachan praised Shunsuke Nakamura at his retirement press conference  Daily Record",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMia2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvZ29yZG9uLXN0cmFjaGFuLWRlbGl2ZXJzLWNlbHRpYy10cmlidXRlLTI4NDY0MTEw0gEA?oc=5",
+          "publishedOn": "2022-11-11T09:27:21.000Z",
+          "wordCount": 3309,
+          "title": "Gordon Strachan praised Shunsuke Nakamura at his retirement press conference - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/sport/football/football-news/article28463779.ece/ALTERNATES/s1200/0_IMG_0296PNG.png"
+        },
+        {
+          "id": "CAIiEDSEfUdGF6K0Thi0lIkNNuYqGQgEKhAIACoHCAowrueiCTDmn7gCMKXUtwU",
+          "author": null,
+          "description": "Harry Kewell reveals Celtic 'wow' moment as Parkhead coach outlines Sydney Super Cup importance  Daily Record",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiY2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvaGFycnkta2V3ZWxsLXJldmVhbHMtY2VsdGljLXdvdy0yODQ2Mzc4ONIBAA?oc=5",
+          "publishedOn": "2022-11-11T09:06:33.000Z",
+          "wordCount": 3693,
+          "title": "Harry Kewell reveals Celtic 'wow' moment as Parkhead coach outlines Sydney Super Cup importance - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28463846.ece/ALTERNATES/s1200/0_8778F216-E9F1-46B3-BDBF-D07393E90034jpeg.jpg"
+        },
         {
           "id": "CBMiU2h0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9mb3JtZXItY2VsdGljLWJvc3MtYmFja3MtYW5nZS10by1kZWxpdmVyLWV1cm9wZWFuLXN1Y2Nlc3Mv0gFXaHR0cHM6Ly9jZWx0c2FyZWhlcmUuY29tL2Zvcm1lci1jZWx0aWMtYm9zcy1iYWNrcy1hbmdlLXRvLWRlbGl2ZXItZXVyb3BlYW4tc3VjY2Vzcy9hbXAv",
           "author": null,
@@ -3228,16 +3378,6 @@
           "wordCount": 3374,
           "title": "Ally McCoist shares Rangers 'rocket science' theory as he makes 'typical Celtic' comparison - Daily Record",
           "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28425155.ece/ALTERNATES/s1200/0_Screenshot-2022-11-07-at-071425.png"
-        },
-        {
-          "id": "CAIiEASDdC7dr_3ccMFrK5qrQuUqGQgEKhAIACoHCAowrueiCTDmn7gCMIfHtwU",
-          "author": null,
-          "description": "Anthony Ralston welcomes Celtic transfer push as he seeks to stay out of Hoops comfort zone  Daily Record",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMibGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvYW50aG9ueS1yYWxzdG9uLXdlbGNvbWVzLWNlbHRpYy10cmFuc2Zlci0yODQyMzIzN9IBAA?oc=5",
-          "publishedOn": "2022-11-06T22:30:00.000Z",
-          "wordCount": 3644,
-          "title": "Anthony Ralston welcomes Celtic transfer push as he seeks to stay out of Hoops comfort zone - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28423247.ece/ALTERNATES/s1200/0_JS282613024.jpg"
         }
       ]
     },
@@ -3246,6 +3386,56 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "c36a9acc4966b35f9c6f65bce2b4140f",
+          "author": null,
+          "description": "VAR has been a controversial addition to Scottish football. But has it been good for the game?",
+          "link": "https://www.glasgowtimes.co.uk/sport/23118239.var-doubters-need-take-reality-check---times-talker/?ref=rss",
+          "publishedOn": "2022-11-11T11:57:48.000Z",
+          "wordCount": 8634,
+          "title": "VAR doubters need to take a reality check - Times Talker",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16145531/?type=og-image"
+        },
+        {
+          "id": "58aaf4fcae475a0c5a03894dba78f424",
+          "author": null,
+          "description": "JEREMIE FRIMPONG has been handed a dream World Cup call-up for the Netherlands.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23118139.ex-celtic-star-jeremie-frimpong-lands-netherlands-world-cup-call-up/?ref=rss",
+          "publishedOn": "2022-11-11T11:37:46.000Z",
+          "wordCount": 8016,
+          "title": "Ex-Celtic star Jeremie Frimpong lands Netherlands World Cup call-up",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16145857/?type=og-image"
+        },
+        {
+          "id": "74e399a61273497cca02417ee2d1c3e5",
+          "author": null,
+          "description": "THE Scottish FA have admitted the relevant VAR camera did not capture footage of the controversial Motherwell vs Celtic goal.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23117985.sfa-make-var-admission-jotas-celtic-offside-motherwell/?ref=rss",
+          "publishedOn": "2022-11-11T10:59:53.000Z",
+          "wordCount": 8227,
+          "title": "SFA make VAR admission on Jota's Celtic offside against Motherwell",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16144902/?type=og-image"
+        },
+        {
+          "id": "6a79d19d8c1daefaa8ffdf30d64ac7a8",
+          "author": null,
+          "description": "HARRY KEWELL has detailed his Celtic pride as he prepares to return to Australia with Ange Postecoglou.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23117836.kewell-details-celtic-pride-looks-ahead-australia-trip/?ref=rss",
+          "publishedOn": "2022-11-11T10:28:40.000Z",
+          "wordCount": 8291,
+          "title": "Kewell details Celtic pride as he looks ahead to Australia trip",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16145362/?type=og-image"
+        },
+        {
+          "id": "e9d80ab49c69259a262613ca329df5c1",
+          "author": null,
+          "description": "MARTIN O'NEILL has backed Ange Postecoglou to land a European trophy during his time at Celtic.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23117578.postecoglou-tipped-land-celtic-european-trophy-oneill/?ref=rss",
+          "publishedOn": "2022-11-11T09:28:32.000Z",
+          "wordCount": 8134,
+          "title": "Postecoglou tipped to land Celtic a European trophy by O'Neill",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16145139/?type=og-image"
+        },
         {
           "id": "bc69626883211f2381af76c3188ac634",
           "author": null,
@@ -3615,26 +3805,6 @@
           "wordCount": 8456,
           "title": "Ange Postecoglou's ambitious transfer plans will help Celtic's players bring their 'A games', says Tony Ralston",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16127117/?type=og-image"
-        },
-        {
-          "id": "f59df956825f67e337c879b2605c3946",
-          "author": null,
-          "description": "TONY Ralston has admitted that lengthy VAR check stoppages are making it more difficult for Celtic to produce their high-intensity style of play - but stressed that he and his team mates must adapt to the new technology in order to enjoy another successful season.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23105304.celtic-right-back-tony-ralston-makes-angeball-admission-voices-frustration-var-stoppages/?ref=rss",
-          "publishedOn": "2022-11-06T22:35:00.000Z",
-          "wordCount": 8680,
-          "title": "Celtic right back Tony Ralston makes 'Angeball' admission as he voices frustration over VAR stoppages",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16127020/?type=og-image"
-        },
-        {
-          "id": "f6c2153c13140c73da7b392c765a8f36",
-          "author": null,
-          "description": "WATCHING his Dundee United team mates concede nine goals when they played Celtic at Tannadice back in August was not one of the greatest experiences of Mark Birighitti’s career.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23105328.dundee-united-keeper-celtic-defeat-worse-nine-goal-mauling-respect-ange-postecoglou/?ref=rss",
-          "publishedOn": "2022-11-06T22:31:00.000Z",
-          "wordCount": 8853,
-          "title": "Dundee United keeper on why Celtic defeat was worse than nine goal mauling and his respect for Ange Postecoglou",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16127082/?type=og-image"
         }
       ]
     }
