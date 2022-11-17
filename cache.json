@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "3922133",
+          "author": "Andrew Smith",
+          "description": "Celtic defender Anthony Ralston confessed that expected standards failed to be met by Ange Postecoglou’s men in the 2-1 loss over Sydney FC and the nature of the competition does not make that fact any more palatable.",
+          "link": "https://www.scotsman.com/sport/football/celtic/no-excuse-for-that-celtic-let-down-australian-fans-with-sydney-showing-admits-anthony-ralston-3922133",
+          "publishedOn": "2022-11-17T12:51:12.000Z",
+          "wordCount": 2376,
+          "title": "'No excuse for that' - Celtic let down Australian fans with Sydney showing, admits Anthony Ralston",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmJiN2ZlNDk1LWNmMzQtNGYyMC04YTAwLWYxNmMzMmNmMGViMjozNThiZmQyYy0yOGRiLTQwMTQtYTliNC05MzhmZTNkMWMwYzU=.jpg?width=1200&enable=upscale"
+        },
+        {
           "id": "3921440",
           "author": "Joel Sked",
           "description": "Since Ange Postecoglou walked into Lennoxtown, a key part of the success in reinvigorating a club which had witnessed the dream of ten in a row foiled by their greatest rivals has been in the transfer window.",
@@ -730,6 +740,56 @@
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
         {
+          "id": "CBMiUmh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vYW50aG9ueS1yYWxzdG9uLW9uLXRoZS1iZXN0LWluLXRoZS13b3JsZC1jZWx0aWMtc3VwcG9ydC_SAVZodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL2FudGhvbnktcmFsc3Rvbi1vbi10aGUtYmVzdC1pbi10aGUtd29ybGQtY2VsdGljLXN1cHBvcnQvYW1wLw",
+          "author": null,
+          "description": "Anthony Ralston on the ‘best in the world’ Celtic Support  The Celtic Star",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiUmh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vYW50aG9ueS1yYWxzdG9uLW9uLXRoZS1iZXN0LWluLXRoZS13b3JsZC1jZWx0aWMtc3VwcG9ydC_SAVZodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL2FudGhvbnktcmFsc3Rvbi1vbi10aGUtYmVzdC1pbi10aGUtd29ybGQtY2VsdGljLXN1cHBvcnQvYW1wLw?oc=5",
+          "publishedOn": "2022-11-17T15:17:06.000Z",
+          "wordCount": 1509,
+          "title": "Anthony Ralston on the ‘best in the world’ Celtic Support - The Celtic Star",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/11/celtic-v-sydney-fc-sydney-super-cup-44-1024x682.jpeg"
+        },
+        {
+          "id": "CAIiEEUmTzIjEm3vJJ1YQBMS51oqGQgEKhAIACoHCAow96D9CjDOy_QCMKzp0wU",
+          "author": null,
+          "description": "Rare Ange Postecoglou dressing room footage as Celtic boss hits screen in Australia team rage  Glasgow Live",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiUWh0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L3dhdGNoLXJhcmUtYW5nZS1wb3N0ZWNvZ2xvdS1kcmVzc2luZy0yNTU0MTM2ONIBAA?oc=5",
+          "publishedOn": "2022-11-17T14:33:34.000Z",
+          "wordCount": 3708,
+          "title": "Rare Ange Postecoglou dressing room footage as Celtic boss hits screen in Australia team rage - Glasgow Live",
+          "imageUrl": "https://i2-prod.glasgowlive.co.uk/incoming/article25541401.ece/ALTERNATES/s1200/0_angeragePNG.png"
+        },
+        {
+          "id": "CBMiH2h0dHBzOi8vcmVhZGNlbHRpYy5jb20vP3A9OTAwMDTSAQA",
+          "author": null,
+          "description": "Virals: In-demand Celtic starlet gets first-team chance to impress  Read Celtic",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiH2h0dHBzOi8vcmVhZGNlbHRpYy5jb20vP3A9OTAwMDTSAQA?oc=5",
+          "publishedOn": "2022-11-17T14:00:00.000Z",
+          "wordCount": 2901,
+          "title": "Virals: In-demand Celtic starlet gets first-team chance to impress - Read Celtic",
+          "imageUrl": "https://cdn.readeverything.co/wp-content/uploads/sites/39/2022/11/1376555804-2-1200x800.jpg"
+        },
+        {
+          "id": "CAIiEPbztCYdx5RYjW8Vo_2JbncqGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY",
+          "author": null,
+          "description": "“No mate. I am not a violin player. We get on with it. They probably are tired. So what?” Ange Postecoglou  The Celtic Star",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMifmh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vbm8tbWF0ZS1pLWFtLW5vdC1hLXZpb2xpbi1wbGF5ZXItd2UtZ2V0LW9uLXdpdGgtaXQtdGhleS1wcm9iYWJseS1hcmUtdGlyZWQtc28td2hhdC1hbmdlLXBvc3RlY29nbG91L9IBAA?oc=5",
+          "publishedOn": "2022-11-17T13:59:43.000Z",
+          "wordCount": 1842,
+          "title": "“No mate. I am not a violin player. We get on with it. They probably are tired. So what?” Ange Postecoglou - The Celtic Star",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/11/celtic-v-sydney-fc-sydney-super-cup-58-1024x683.jpg"
+        },
+        {
+          "id": "CBMiWWh0dHBzOi8vd3d3LnNwb3J0aW5kdXN0cnkuYml6L25ld3MtY2F0ZWdvcmllcy9uZXdzL3Nob3J0cy1ldXJvLTIwMjgtbmV3LWJhbGFuY2UtbWF0Y2hmaXQv0gEA",
+          "author": null,
+          "description": "SHORTS: EURO 2028, NEW BALANCE, MATCHFIT  Sport Industry Group",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiWWh0dHBzOi8vd3d3LnNwb3J0aW5kdXN0cnkuYml6L25ld3MtY2F0ZWdvcmllcy9uZXdzL3Nob3J0cy1ldXJvLTIwMjgtbmV3LWJhbGFuY2UtbWF0Y2hmaXQv0gEA?oc=5",
+          "publishedOn": "2022-11-17T13:03:32.000Z",
+          "wordCount": 1513,
+          "title": "SHORTS: EURO 2028, NEW BALANCE, MATCHFIT - Sport Industry Group",
+          "imageUrl": "https://www.sportindustry.biz/wp-content/uploads/2022/11/shutterstock_editorial_13445196a.jpg"
+        },
+        {
           "id": "CBMibGh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvYW5nZS1wb3N0ZWNvZ2xvdS1zaG93cy1uby1jZWx0aWMtc3ltcGF0aHktYXMtaGUtZGVsaXZlcnMtY2xhc3NpYy1tZWRpYS1xdWlwL9IBcGh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvYW5nZS1wb3N0ZWNvZ2xvdS1zaG93cy1uby1jZWx0aWMtc3ltcGF0aHktYXMtaGUtZGVsaXZlcnMtY2xhc3NpYy1tZWRpYS1xdWlwLz9hbXA",
           "author": null,
           "description": "Ange Postecoglou shows no Celtic sympathy as he delivers classic media quip  67 Hail Hail - Celtic FC News",
@@ -798,6 +858,16 @@
           "wordCount": 13671,
           "title": "Giakoumakis Mystery - CeltsAreHere",
           "imageUrl": "https://cdn.celtsarehere.com/wp-content/uploads/2022/10/842A5C35-D7FF-44F0-80BE-931A3A879BDC-scaled.jpeg"
+        },
+        {
+          "id": "CBMiUmh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9mb3Jnb3R0ZW4tY2VsdGljLXN0YXItaGFuZGVkLXN0YXJ0LWNvbmZpcm1lZC1zdGFydGluZy14aS_SAZsBaHR0cHM6Ly9jZWx0c2FyZWhlcmUuY29tL2ZvcmdvdHRlbi1jZWx0aWMtc3Rhci1oYW5kZWQtc3RhcnQtY29uZmlybWVkLXN0YXJ0aW5nLXhpL2FtcC8_ZmJjbGlkPUl3QVIyajhuSk5DRVczOHlzOU1YdEJDbU9tZU1lc1hXT0JPLTJIQ3V2bW1CamZ0bk9HLUhuY1YwanZMRWs",
+          "author": null,
+          "description": "Forgotten Celtic Star Handed Start – Confirmed Starting XI  CeltsAreHere",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiUmh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9mb3Jnb3R0ZW4tY2VsdGljLXN0YXItaGFuZGVkLXN0YXJ0LWNvbmZpcm1lZC1zdGFydGluZy14aS_SAZsBaHR0cHM6Ly9jZWx0c2FyZWhlcmUuY29tL2ZvcmdvdHRlbi1jZWx0aWMtc3Rhci1oYW5kZWQtc3RhcnQtY29uZmlybWVkLXN0YXJ0aW5nLXhpL2FtcC8_ZmJjbGlkPUl3QVIyajhuSk5DRVczOHlzOU1YdEJDbU9tZU1lc1hXT0JPLTJIQ3V2bW1CamZ0bk9HLUhuY1YwanZMRWs?oc=5",
+          "publishedOn": "2022-11-17T07:49:13.000Z",
+          "wordCount": 13630,
+          "title": "Forgotten Celtic Star Handed Start – Confirmed Starting XI - CeltsAreHere",
+          "imageUrl": "https://cdn.celtsarehere.com/wp-content/uploads/2022/11/Ange.jpeg"
         },
         {
           "id": "CBMiUmh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9mb3Jnb3R0ZW4tY2VsdGljLXN0YXItaGFuZGVkLXN0YXJ0LWNvbmZpcm1lZC1zdGFydGluZy14aS_SAVZodHRwczovL2NlbHRzYXJlaGVyZS5jb20vZm9yZ290dGVuLWNlbHRpYy1zdGFyLWhhbmRlZC1zdGFydC1jb25maXJtZWQtc3RhcnRpbmcteGkvYW1wLw",
@@ -1496,6 +1566,36 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "1d22068e5438372bdfd1560520342e78",
+          "author": null,
+          "description": "The German had to go off against Ross County but has travelled to Australia",
+          "link": "https://www.glasgowtimes.co.uk/sport/23131932.celtic-issue-moritz-jenz-concussion-protocol-update/?ref=rss",
+          "publishedOn": "2022-11-17T13:33:25.000Z",
+          "wordCount": 8262,
+          "title": "Celtic issue Moritz Jenz concussion protocol update",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16168710/?type=og-image"
+        },
+        {
+          "id": "43ce45c95cbf52a258ba636f891bae01",
+          "author": null,
+          "description": "ANGE POSTECOGLOU has provided a Celtic injury update following today's defeat to Sydney in Australia.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23131879.postecoglou-provides-celtic-injury-update-giakoumakis-joe-hart/?ref=rss",
+          "publishedOn": "2022-11-17T13:19:14.000Z",
+          "wordCount": 8117,
+          "title": "Postecoglou provides Celtic injury update on Giakoumakis and Joe Hart",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16168628/?type=og-image"
+        },
+        {
+          "id": "d04746447880c3d40eb2ef75eafab3a7",
+          "author": null,
+          "description": "SYDNEY FC have fired a cheeky swipe at Rangers following their victory over Celtic today.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23131725.sydney-fire-rangers-cheeky-mind-gap-swipe-celtic-victory/?ref=rss",
+          "publishedOn": "2022-11-17T12:40:16.000Z",
+          "wordCount": 8354,
+          "title": "Sydney fire Rangers cheeky 'mind the gap' swipe after Celtic victory",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16168350/?type=og-image"
+        },
         {
           "id": "3a1836ce615d04e5d3c83ea6420a86d2",
           "author": null,
