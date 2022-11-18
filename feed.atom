@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2022-11-18T15:22:38.668Z</updated>
+    <updated>2022-11-18T18:28:48.962Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[“He can become a good player”; Sead Haksabanovic offers help to Celtic teenagers - 67 Hail Hail - Celtic FC News]]></title>
+        <id>CBMibmh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvaGUtY2FuLWJlY29tZS1hLWdvb2QtcGxheWVyLXNlYWQtaGFrc2FiYW5vdmljLW9mZmVycy1oZWxwLXRvLWNlbHRpYy10ZWVuYWdlcnMv0gFyaHR0cHM6Ly93d3cuNjdoYWlsaGFpbC5jb20vbmV3cy9oZS1jYW4tYmVjb21lLWEtZ29vZC1wbGF5ZXItc2VhZC1oYWtzYWJhbm92aWMtb2ZmZXJzLWhlbHAtdG8tY2VsdGljLXRlZW5hZ2Vycy8_YW1w</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMibmh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvaGUtY2FuLWJlY29tZS1hLWdvb2QtcGxheWVyLXNlYWQtaGFrc2FiYW5vdmljLW9mZmVycy1oZWxwLXRvLWNlbHRpYy10ZWVuYWdlcnMv0gFyaHR0cHM6Ly93d3cuNjdoYWlsaGFpbC5jb20vbmV3cy9oZS1jYW4tYmVjb21lLWEtZ29vZC1wbGF5ZXItc2VhZC1oYWtzYWJhbm92aWMtb2ZmZXJzLWhlbHAtdG8tY2VsdGljLXRlZW5hZ2Vycy8_YW1w?oc=5"/>
+        <updated>2022-11-18T18:16:57.000Z</updated>
+        <summary type="html"><![CDATA[“He can become a good player”; Sead Haksabanovic offers help to Celtic teenagers  67 Hail Hail - Celtic FC News]]></summary>
+        <author>
+            <name>"celtic fc" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic provide festive cheer with release of annual Christmas advert]]></title>
+        <id>383d8500b7f45839a5130c6845d1a1ce</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23135760.celtic-provide-festive-cheer-release-annual-christmas-advert/?ref=rss"/>
+        <updated>2022-11-18T17:08:33.000Z</updated>
+        <summary type="html"><![CDATA[Celtic have kicked off this year's festivities with the release of their annual Christmas advert.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gerrard's Wigan odds widen as ex-Celtic coach named favourite]]></title>
+        <id>9ce498fa67ef072106564d17b6bf0374</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23135686.gerrards-wigan-odds-widen-ex-celtic-coach-named-favourite/?ref=rss"/>
+        <updated>2022-11-18T16:52:43.000Z</updated>
+        <summary type="html"><![CDATA[Former Liverpool and Man City defender Kolo Toure is expected to be named as the next manager of Wigan, according to reports.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dundee United hand Charlie Mulgrew player-coach role as Liam Fox pinpoints star's professionalism]]></title>
+        <id>3924153</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/dundee-united-hand-charlie-mulgrew-player-coach-role-as-liam-fox-pinpoints-stars-professionalism-3924153"/>
+        <updated>2022-11-18T15:33:23.000Z</updated>
+        <summary type="html"><![CDATA[Charlie Mulgrew will combine playing for Dundee United with a coaching role as part of Liam Fox’s management team.]]></summary>
+        <author>
+            <name>Joel Sked</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SPFL chief Neil Doncaster warns alcohol advertising ban could be 'extremely grave' for Scottish football]]></title>
         <id>3923943</id>
@@ -2039,16 +2079,6 @@ The post Ex-Celtic prospect marks incredible week with first pro contract at Eng
         <summary type="html"><![CDATA[Ange Postecoglou seemed content in the knowledge last week that he had a nifty line to shut down those referencing Celtic’s lead over Rangers, which had just increased to seven points.]]></summary>
         <author>
             <name>Alan Pattullo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[David Cancola refutes Celtic boss Ange Postecoglou's Ross County claim]]></title>
-        <id>e3e459781c9b994e2311a60da6284b61</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23121861.david-cancola-refutes-celtic-boss-ange-postecoglous-ross-county-claim/?ref=rss"/>
-        <updated>2022-11-14T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[DAVID CANCOLA politely disagreed when quizzed on Ange Postecoglou's suggestion Ross County would only score from a penalty against Celtic.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>
