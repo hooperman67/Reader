@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2022-11-21T18:27:26.762Z</updated>
+    <updated>2022-11-21T21:21:39.006Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Wales and USA draw at World Cup - Celtic defender stays on bench but ex-forward scores]]></title>
+        <id>3926688</id>
+        <link href="https://www.scotsman.com/sport/football/wales-and-usa-draw-at-world-cup-celtic-defender-stays-on-bench-but-ex-forward-scores-3926688"/>
+        <updated>2022-11-21T21:11:37.000Z</updated>
+        <summary type="html"><![CDATA[An 84th-minute penalty from Gareth Bale rescued a draw for Wales against USA in their World Cup Group B opener in Qatar.]]></summary>
+        <author>
+            <name>Mark Atkinson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tombstone epitaph could be: 'Postecoglou broke my heart' - but Van Bronckhorst will always be welcome back at Ibrox]]></title>
+        <id>3926664</id>
+        <link href="https://www.scotsman.com/sport/football/rangers/tombstone-epitaph-could-be-postecoglou-broke-my-heart-but-van-bronckhorst-will-always-be-welcome-back-at-ibrox-3926664"/>
+        <updated>2022-11-21T20:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Sacked on the day the World Cup began in earnest. Like anyone in football, Giovanni van Bronckhorst knows that disappointment is all part of the game.]]></summary>
+        <author>
+            <name>Alan Pattullo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watch as ex-Celtic loanee Timo Weah scores for USA at World Cup]]></title>
+        <id>30a2fe85e53a7a697a029e01c88dd5bf</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23140422.watch-ex-celtic-loanee-timo-weah-scores-usa-world-cup/?ref=rss"/>
+        <updated>2022-11-21T19:57:22.000Z</updated>
+        <summary type="html"><![CDATA[The forward player spent time at Parkhead on loan from PSG.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Favourite to become next Rangers boss as they try to stop Celtic - The Celtic Bhoys]]></title>
         <id>CBMiTmh0dHBzOi8vdGhlY2VsdGljYmhveXMuY29tLzIwMjIvMTEvMjEvZmF2b3VyaXRlLW5leHQtcmFuZ2Vycy1ib3NzLXN0b3AtY2VsdGljL9IBUmh0dHBzOi8vdGhlY2VsdGljYmhveXMuY29tLzIwMjIvMTEvMjEvZmF2b3VyaXRlLW5leHQtcmFuZ2Vycy1ib3NzLXN0b3AtY2VsdGljL2FtcC8</id>
@@ -62,6 +92,16 @@
         <link href="https://news.google.com/__i/rss/rd/articles/CBMiTWh0dHBzOi8vd3d3LmNoZXN0ZXJmYy5jb20vMjAyMi8xMS8yMS9tYXRjaC1wcmV2aWV3LWZhcnNsZXktY2VsdGljLXZzLWNoZXN0ZXIv0gEA?oc=5"/>
         <updated>2022-11-21T12:02:27.000Z</updated>
         <summary type="html"><![CDATA[Chester Football Club – Official Website » MATCH PREVIEW | Farsley Celtic vs Chester  Chester Football Club]]></summary>
+        <author>
+            <name>"celtic fc" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transfer news LIVE as Rangers and Celtic plus Hibs, Aberdeen and Hearts eye signings - Daily Record]]></title>
+        <id>CAIiEMx9GHjnzllFQa97q6ZxgwoqGQgEKhAIACoHCAowrueiCTDmn7gCMKXUtwU</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMibmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLXRyYW5zZmVyLW5ld3MvdHJhbnNmZXItbmV3cy1saXZlLXJhbmdlcnMtY2VsdGljLTI4NTQyOTA50gEA?oc=5"/>
+        <updated>2022-11-21T10:02:55.000Z</updated>
+        <summary type="html"><![CDATA[Transfer news LIVE as Rangers and Celtic plus Hibs, Aberdeen and Hearts eye signings  Daily Record]]></summary>
         <author>
             <name>"celtic fc" - Google News</name>
         </author>
@@ -1473,116 +1513,6 @@ View Full coverage on Google News]]></summary>
         <summary type="html"><![CDATA[The A-League side earned a surprise 2-1 victory in the opening fixture of the Sydney Super Cup.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic January transfer plans laid bare as key positions prioritised]]></title>
-        <id>cd345759f8873ce5713c9957dbebe46d</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23130780.celtic-january-transfer-plans-laid-bare-key-positions-prioritised/?ref=rss"/>
-        <updated>2022-11-17T09:00:56.000Z</updated>
-        <summary type="html"><![CDATA[CELTIC will be in the market for a right-back and a striker in the January transfer window, according to reports.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hoops' Aussie Connections | celticfc.com - Official Celtic Football Club Website]]></title>
-        <id>CBMiQWh0dHBzOi8vd3d3LmNlbHRpY2ZjLmNvbS9zeWRuZXktc3VwZXItY3VwLTIwMjIvYXVzc2llLWNvbm5lY3Rpb25z0gEA</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiQWh0dHBzOi8vd3d3LmNlbHRpY2ZjLmNvbS9zeWRuZXktc3VwZXItY3VwLTIwMjIvYXVzc2llLWNvbm5lY3Rpb25z0gEA?oc=5"/>
-        <updated>2022-11-17T08:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Hoops' Aussie Connections | celticfc.com  Official Celtic Football Club Website]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Giakoumakis Mystery - CeltsAreHere]]></title>
-        <id>CBMiLWh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9naWFrb3VtYWtpcy1teXN0ZXJ5L9IBMWh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9naWFrb3VtYWtpcy1teXN0ZXJ5L2FtcC8</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiLWh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9naWFrb3VtYWtpcy1teXN0ZXJ5L9IBMWh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9naWFrb3VtYWtpcy1teXN0ZXJ5L2FtcC8?oc=5"/>
-        <updated>2022-11-17T08:28:23.000Z</updated>
-        <summary type="html"><![CDATA[Giakoumakis Mystery  CeltsAreHere]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ange Postecoglou reveals Rod Stewart friendship as Celtic boss quips 'he gets along with my Mrs more' - Football Scotland]]></title>
-        <id>CAIiEIa18BO-G-suT1Ho9lrnQjYqGQgEKhAIACoHCAow_-CqCzD868IDMPLfoQc</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiamh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zY290dGlzaC1wcmVtaWVyc2hpcC9hbmdlLXBvc3RlY29nbG91LXJldmVhbHMtcm9kLXN0ZXdhcnQtMjU1MzYzMzbSAQA?oc=5"/>
-        <updated>2022-11-17T07:53:58.000Z</updated>
-        <summary type="html"><![CDATA[Ange Postecoglou reveals Rod Stewart friendship as Celtic boss quips 'he gets along with my Mrs more'  Football Scotland]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Forgotten Celtic Star Handed Start – Confirmed Starting XI - CeltsAreHere]]></title>
-        <id>CBMiUmh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9mb3Jnb3R0ZW4tY2VsdGljLXN0YXItaGFuZGVkLXN0YXJ0LWNvbmZpcm1lZC1zdGFydGluZy14aS_SAZsBaHR0cHM6Ly9jZWx0c2FyZWhlcmUuY29tL2ZvcmdvdHRlbi1jZWx0aWMtc3Rhci1oYW5kZWQtc3RhcnQtY29uZmlybWVkLXN0YXJ0aW5nLXhpL2FtcC8_ZmJjbGlkPUl3QVIyaFNLZUg0ak1rbHN4V3hzMW91cjBLRlJ4d3lPSUFyam85UmMxeERYTC1TUTJXd0lmOWlpU2luQ0U</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiUmh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9mb3Jnb3R0ZW4tY2VsdGljLXN0YXItaGFuZGVkLXN0YXJ0LWNvbmZpcm1lZC1zdGFydGluZy14aS_SAZsBaHR0cHM6Ly9jZWx0c2FyZWhlcmUuY29tL2ZvcmdvdHRlbi1jZWx0aWMtc3Rhci1oYW5kZWQtc3RhcnQtY29uZmlybWVkLXN0YXJ0aW5nLXhpL2FtcC8_ZmJjbGlkPUl3QVIyaFNLZUg0ak1rbHN4V3hzMW91cjBLRlJ4d3lPSUFyam85UmMxeERYTC1TUTJXd0lmOWlpU2luQ0U?oc=5"/>
-        <updated>2022-11-17T07:49:13.000Z</updated>
-        <summary type="html"><![CDATA[Forgotten Celtic Star Handed Start – Confirmed Starting XI  CeltsAreHere]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Forgotten Celtic Star Handed Start – Confirmed Starting XI - CeltsAreHere]]></title>
-        <id>CBMiUmh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9mb3Jnb3R0ZW4tY2VsdGljLXN0YXItaGFuZGVkLXN0YXJ0LWNvbmZpcm1lZC1zdGFydGluZy14aS_SAZsBaHR0cHM6Ly9jZWx0c2FyZWhlcmUuY29tL2ZvcmdvdHRlbi1jZWx0aWMtc3Rhci1oYW5kZWQtc3RhcnQtY29uZmlybWVkLXN0YXJ0aW5nLXhpL2FtcC8_ZmJjbGlkPUl3QVIyajhuSk5DRVczOHlzOU1YdEJDbU9tZU1lc1hXT0JPLTJIQ3V2bW1CamZ0bk9HLUhuY1YwanZMRWs</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiUmh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9mb3Jnb3R0ZW4tY2VsdGljLXN0YXItaGFuZGVkLXN0YXJ0LWNvbmZpcm1lZC1zdGFydGluZy14aS_SAZsBaHR0cHM6Ly9jZWx0c2FyZWhlcmUuY29tL2ZvcmdvdHRlbi1jZWx0aWMtc3Rhci1oYW5kZWQtc3RhcnQtY29uZmlybWVkLXN0YXJ0aW5nLXhpL2FtcC8_ZmJjbGlkPUl3QVIyajhuSk5DRVczOHlzOU1YdEJDbU9tZU1lc1hXT0JPLTJIQ3V2bW1CamZ0bk9HLUhuY1YwanZMRWs?oc=5"/>
-        <updated>2022-11-17T07:49:13.000Z</updated>
-        <summary type="html"><![CDATA[Forgotten Celtic Star Handed Start – Confirmed Starting XI  CeltsAreHere]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Forgotten Celtic Star Handed Start – Confirmed Starting XI - CeltsAreHere]]></title>
-        <id>CBMiUmh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9mb3Jnb3R0ZW4tY2VsdGljLXN0YXItaGFuZGVkLXN0YXJ0LWNvbmZpcm1lZC1zdGFydGluZy14aS_SAVZodHRwczovL2NlbHRzYXJlaGVyZS5jb20vZm9yZ290dGVuLWNlbHRpYy1zdGFyLWhhbmRlZC1zdGFydC1jb25maXJtZWQtc3RhcnRpbmcteGkvYW1wLw</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiUmh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9mb3Jnb3R0ZW4tY2VsdGljLXN0YXItaGFuZGVkLXN0YXJ0LWNvbmZpcm1lZC1zdGFydGluZy14aS_SAVZodHRwczovL2NlbHRzYXJlaGVyZS5jb20vZm9yZ290dGVuLWNlbHRpYy1zdGFyLWhhbmRlZC1zdGFydC1jb25maXJtZWQtc3RhcnRpbmcteGkvYW1wLw?oc=5"/>
-        <updated>2022-11-17T07:49:13.000Z</updated>
-        <summary type="html"><![CDATA[Forgotten Celtic Star Handed Start – Confirmed Starting XI  CeltsAreHere]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ange Postecoglou makes Celtic vow amid Japan and Everton exit links]]></title>
-        <id>b388817bf1a43b80907770d89cab0a3e</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23130658.ange-postecoglou-makes-celtic-vow-amid-japan-everton-exit-links/?ref=rss"/>
-        <updated>2022-11-17T07:37:30.000Z</updated>
-        <summary type="html"><![CDATA[ANGE POSTECOGLOU insists he has unfinished business at Celtic meaning he will not be departing Parkhead anytime soon.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ange Postecoglou names Celtic team for Sydney Super Cup opener]]></title>
-        <id>c13d4ab26588124a9c2b311e59fd1cba</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23130527.ange-postecoglou-names-celtic-team-sydney-super-cup-opener/?ref=rss"/>
-        <updated>2022-11-17T07:32:00.000Z</updated>
-        <summary type="html"><![CDATA[ANGE POSTECOGLOU has named his Celtic team for the Sydney Super Cup opener.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic vs Sydney FC: TV channel, live stream & kick-off time]]></title>
-        <id>d51dfe451838a4aba57c63b7d207f2cb</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23130543.celtic-vs-sydney-fc-tv-channel-live-stream-kick-off-time/?ref=rss"/>
-        <updated>2022-11-17T07:15:00.000Z</updated>
-        <summary type="html"><![CDATA[CELTIC kick-off the Sydney Super Cup on Thursday morning with their opening match against Sydney FC.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ange Postecoglou in Celtic job declaration after Everton and Japan links as club target two in transfer window]]></title>
-        <id>3921454</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/ange-postecoglou-in-celtic-job-declaration-after-everton-and-japan-links-as-club-target-two-in-transfer-window-3921454"/>
-        <updated>2022-11-17T07:02:11.000Z</updated>
-        <summary type="html"><![CDATA[Ange Postecoglou has revealed he loves what he is doing at Celtic and “couldn't be happier” amidst speculation of interest from elsewhere.]]></summary>
-        <author>
-            <name>Angus Wright</name>
         </author>
     </entry>
 </feed>
