@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2022-11-21T09:22:24.549Z</updated>
+    <updated>2022-11-21T12:44:41.266Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -324,6 +324,21 @@
         <summary type="html"><![CDATA[For sports fans, waking up on the first day of the World Cup is supposed to feel like Christmas morning. This tournament is usually the ultimate present.]]></summary>
         <author>
             <name>Mark Atkinson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic close Sydney tour with penalty shootout defeat to Everton - Official Celtic Football Club Website]]></title>
+        <id>1640669293</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMicGh0dHBzOi8vd3d3LmNlbHRpY2ZjLmNvbS9uZXdzLzIwMjIvbm92ZW1iZXIvMjAvQ2VsdGljLWNsb3NlLVN5ZG5leS10b3VyLXdpdGgtcGVuYWx0eS1zaG9vdG91dC1kZWZlYXQtdG8tRXZlcnRvbi_SAQA?oc=5"/>
+        <updated>2022-11-20T06:00:36.000Z</updated>
+        <summary type="html"><![CDATA[Celtic close Sydney tour with penalty shootout defeat to Everton  Official Celtic Football Club Website
+Celtic 0 Everton 0 RECAP: Hatate and Giakoumakis come up short in penalty shoot-out  Daily Record
+Celtic’s hard work in Australia already looks to be paying off  67 Hail Hail - Celtic FC News
+Celtic 0-0 Everton FULL RECAP as Anthony Gordon's penalty seals shootout win despite Hoops dominance  Football Scotland
+Celtic team news as Ange Postecoglou names side for Everton friendly  Celtic Way
+View Full coverage on Google News]]></summary>
+        <author>
+            <name>"celtic fc" - Google News</name>
         </author>
     </entry>
     <entry>
@@ -1498,36 +1513,6 @@ View Full coverage on Google News]]></summary>
         <summary type="html"><![CDATA[Ange Postecoglou has revealed he loves what he is doing at Celtic and “couldn't be happier” amidst speculation of interest from elsewhere.]]></summary>
         <author>
             <name>Angus Wright</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“They can conquer anything,” Ange reckons the sky’s the limit for his Celtic stars - The Celtic Star]]></title>
-        <id>CAIiEHGw0lq8_-I2AJeAqzwrybMqGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiaWh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vdGhleS1jYW4tY29ucXVlci1hbnl0aGluZy1hbmdlLXJlY2tvbnMtdGhlLXNreXMtdGhlLWxpbWl0LWZvci1oaXMtY2VsdGljLXN0YXJzL9IBAA?oc=5"/>
-        <updated>2022-11-16T23:49:19.000Z</updated>
-        <summary type="html"><![CDATA[“They can conquer anything,” Ange reckons the sky’s the limit for his Celtic stars  The Celtic Star]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ange Postecoglou on Celtic pal Rod Stewart as boss sent wine after Rangers wins - Daily Record]]></title>
-        <id>CAIiEI7DtrZQp7Q8XxiKATD76DUqGQgEKhAIACoHCAowrueiCTDmn7gCMKXUtwU</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMibGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvYW5nZS1wb3N0ZWNvZ2xvdS1jZWx0aWMtcmVsYXRpb25zaGlwLXJvZC0yODUxMDQ0MNIBAA?oc=5"/>
-        <updated>2022-11-16T22:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Ange Postecoglou on Celtic pal Rod Stewart as boss sent wine after Rangers wins  Daily Record]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic vs Sydney FC: TV channel, live stream & kick-off time]]></title>
-        <id>d51dfe451838a4aba57c63b7d207f2cb</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23130543.celtic-vs-sydney-fc-tv-channel-live-stream-kick-off-time/?ref=rss"/>
-        <updated>2022-11-16T22:07:06.000Z</updated>
-        <summary type="html"><![CDATA[CELTIC kick-off the Sydney Super Cup on Thursday morning with their opening match against Sydney FC.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>
