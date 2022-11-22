@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "3927466",
+          "author": "Graham Falk",
+          "description": "It’s time for our annual top 30 list! Once again, we asked a panel of Scottish Women’s Premier League managers, coaches, players, journalists and experts for their top 10 SWPL players of 2022. Here is who they picked.",
+          "link": "https://www.scotsman.com/sport/football/international/swpl-the-30-best-players-in-the-scottish-womens-premier-league-2022-as-voted-for-by-players-managers-and-journalists-3927466",
+          "publishedOn": "2022-11-22T13:52:27.000Z",
+          "wordCount": 2244,
+          "title": "SWPL: The 30 best players in the Scottish Women's Premier League 2022 - as voted for by players, managers and journalists",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmM1YTgxM2FhLWFmZDQtNDljOC04OWY0LTUxYmExNGU5NDA5Zjo2ZTI3OWVkYS1mODM0LTQ5ZDktODYzYi1lNDQ4ZTc1Zjc1OTA=.jpg?width=1200&enable=upscale"
+        },
+        {
           "id": "3926688",
           "author": "Mark Atkinson",
           "description": "An 84th-minute penalty from Gareth Bale rescued a draw for Wales against USA in their World Cup Group B opener in Qatar.",
@@ -189,6 +199,16 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CAIiENPmsv1jaT6NvIWv4Rz_uyoqGQgEKhAIACoHCAow_-CqCzD868IDMPLfoQc",
+          "author": null,
+          "description": "Josip Juranovic reveals Celtic highlights as Rangers and Champions League clashes rank high on list  Football Scotland",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMib2h0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zY290dGlzaC1wcmVtaWVyc2hpcC9qb3NpcC1qdXJhbm92aWMtcmV2ZWFscy1jZWx0aWMtaGlnaGxpZ2h0cy0yNTU3ODIwMdIBAA?oc=5",
+          "publishedOn": "2022-11-22T14:17:54.000Z",
+          "wordCount": 2765,
+          "title": "Josip Juranovic reveals Celtic highlights as Rangers and Champions League clashes rank high on list - Football Scotland",
+          "imageUrl": "https://i2-prod.footballscotland.co.uk/incoming/article25578440.ece/ALTERNATES/s1200/1_JuranovicPNG.png"
+        },
         {
           "id": "CAIiEAIYecOfo4b-sjr3JsOI4pwqGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY",
           "author": null,
@@ -848,16 +868,6 @@
           "wordCount": 4023,
           "title": "Rangers facing difficult transfer window but can get back on title track before Celtic clash - Barry Ferguson - Daily Record",
           "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article25514402.ece/ALTERNATES/s1200/0_JS251276092.jpg"
-        },
-        {
-          "id": "CBMiV2h0dHBzOi8vMTBwbGF5LmNvbS5hdS9zeWRuZXktc3VwZXItY3VwL2VwaXNvZGVzLzIwMjIvc3lkbmV5LWZjLXZzLWNlbHRpYy90cHYyMjExMThpenBuY9IBAA",
-          "author": null,
-          "description": "Sydney FC vs Celtic  10Play.com.au",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiV2h0dHBzOi8vMTBwbGF5LmNvbS5hdS9zeWRuZXktc3VwZXItY3VwL2VwaXNvZGVzLzIwMjIvc3lkbmV5LWZjLXZzLWNlbHRpYy90cHYyMjExMThpenBuY9IBAA?oc=5",
-          "publishedOn": "2022-11-18T02:33:39.000Z",
-          "wordCount": 1436,
-          "title": "Sydney FC vs Celtic - 10Play.com.au",
-          "imageUrl": null
         }
       ]
     },
@@ -1155,6 +1165,16 @@
           "wordCount": 9656,
           "title": "Rangers' answer to Celtic's Postecoglou ready-made in Muscat",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16171271/?type=og-image"
+        },
+        {
+          "id": "82e1823bd6f50aae4829a37fc27a9e44",
+          "author": null,
+          "description": "CELTIC take on Everton at the Accor Stadium on Sunday.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23133368.celtic-vs-everton-tv-channel-live-stream-kick-off-time/?ref=rss",
+          "publishedOn": "2022-11-18T07:32:00.000Z",
+          "wordCount": 9724,
+          "title": "Celtic vs Everton: TV channel, live stream and kick-off time",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16145139/?type=og-image"
         }
       ]
     }
