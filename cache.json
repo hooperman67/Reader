@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "3928861",
+          "author": "Andrew Smith",
+          "description": "Matchsticks might well be required to wedge open eyelids by any scouts that choose to analyse Croatia’s World Cup opener with Morocco as they weigh up a potential move for Celtic’s Josip Juranovic.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtics-josip-juranovic-and-croatia-stymied-by-stuffy-morocco-in-world-cup-stalemate-3928861",
+          "publishedOn": "2022-11-23T12:47:09.000Z",
+          "wordCount": 2626,
+          "title": "Celtic's Josip Juranovic and Croatia stymied by stuffy Morocco in World Cup stalemate",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjEzMGVlOGJlLTMyY2EtNDQzOS05ZGNlLWZiOTc3YjQ5Nzk2ZDo2NDA2YjQ3Yy0xYWRmLTRkMjQtYmVmMS1jMjlkNzZlZmE1NWU=.jpg?width=1200&enable=upscale"
+        },
+        {
           "id": "3928785",
           "author": "Matthew Elder",
           "description": "Celtic have confirmed the signing of Japenese defender Yuki Kobayashi, subject to international clearance.",
@@ -328,6 +338,16 @@
           "wordCount": 2765,
           "title": "Josip Juranovic reveals Celtic highlights as Rangers and Champions League clashes rank high on list - Football Scotland",
           "imageUrl": "https://i2-prod.footballscotland.co.uk/incoming/article25578440.ece/ALTERNATES/s1200/1_JuranovicPNG.png"
+        },
+        {
+          "id": "CAIiECMaKsNqN6dftQQLoTzrZYEqGQgEKhAIACoHCAow96D9CjDOy_QCMKzp0wU",
+          "author": null,
+          "description": "Kyogo Furuhashi found out about Japan World Cup KO on TV as Celtic star opens up over omission  Glasgow Live",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiTGh0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L2t5b2dvLWZ1cnVoYXNoaS1mb3VuZC1vdXQtamFwYW4tMjU1Nzc3MznSAQA?oc=5",
+          "publishedOn": "2022-11-22T13:29:05.000Z",
+          "wordCount": 4158,
+          "title": "Kyogo Furuhashi found out about Japan World Cup KO on TV as Celtic star opens up over omission - Glasgow Live",
+          "imageUrl": "https://i2-prod.glasgowlive.co.uk/incoming/article25577748.ece/ALTERNATES/s1200/0_JS283599839.jpg"
         },
         {
           "id": "CAIiEAIYecOfo4b-sjr3JsOI4pwqGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY",
@@ -854,8 +874,48 @@
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "efeead7f29f601e510e49a02a7ef4a2f",
+          "author": null,
+          "description": "Here is everything you need to know about Celtic's new defender...",
+          "link": "https://www.glasgowtimes.co.uk/sport/23145001.yuki-kobayashis-celtic-profile-defensive-playing-style-revealed/?ref=rss",
+          "publishedOn": "2022-11-23T14:36:21.000Z",
+          "wordCount": 8611,
+          "title": "Yuki Kobayashi's Celtic profile as defensive playing style revealed",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16189373/?type=og-image"
+        },
+        {
+          "id": "50d5615c98682050d840b903419ecb90",
+          "author": null,
+          "description": "Ange Postecoglou has spoken of his delight after signing defender Yuki Kobayashi.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23144556.ange-postecoglou-details-celtic-getting-yuki-kobayashi/?ref=rss",
+          "publishedOn": "2022-11-23T12:43:16.000Z",
+          "wordCount": 8464,
+          "title": "Ange Postecoglou details what Celtic are getting in Yuki Kobayashi",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16145139/?type=og-image"
+        },
+        {
+          "id": "498519a569ac147e012547de40303beb",
+          "author": null,
+          "description": "Celtic have announced the signing of Japanese central defender, Yuki Kobayashi, subject to international clearance.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23144387.celtic-confirm-yuki-kobayashi-transfer-ahead-january-window/?ref=rss",
+          "publishedOn": "2022-11-23T12:09:22.000Z",
+          "wordCount": 9641,
+          "title": "Celtic confirm Yuki Kobayashi transfer ahead of January window",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16188612/?type=og-image"
+        },
+        {
+          "id": "0eef8d5cdd23307ae0a22e51566d1655",
+          "author": null,
+          "description": "Chris Sutton has backed Kyogo Furuhashi after the Celtic star was snubbed from the Japanese national team for the World Cup in Qatar.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23144357.chris-sutton-calls-head-scratching-celtic-kyogo-call-japan/?ref=rss",
+          "publishedOn": "2022-11-23T12:01:49.000Z",
+          "wordCount": 8704,
+          "title": "Chris Sutton calls out 'head scratching' Celtic Kyogo call by Japan",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/13564262/?type=og-image"
+        },
         {
           "id": "18299c76ea4be0ed6f0b6fe8744ff18a",
           "author": null,
