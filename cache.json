@@ -164,26 +164,6 @@
           "wordCount": 1965,
           "title": "Frank Lampard responds to rumours linking Celtic's Ange Postecoglou with Everton job",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjZjOGMxY2VhLTk0YWUtNGI2Ni04NmE4LTcxZThiMDQyOGZkYTo5MzhkNmZjOC03NzFjLTQ5NGItYTY0OC1jN2Y5YzFhMzIxMDA=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3924153",
-          "author": "Joel Sked",
-          "description": "Charlie Mulgrew will combine playing for Dundee United with a coaching role as part of Liam Fox’s management team.",
-          "link": "https://www.scotsman.com/sport/football/celtic/dundee-united-hand-charlie-mulgrew-player-coach-role-as-liam-fox-pinpoints-stars-professionalism-3924153",
-          "publishedOn": "2022-11-18T15:33:23.000Z",
-          "wordCount": 2316,
-          "title": "Dundee United hand Charlie Mulgrew player-coach role as Liam Fox pinpoints star's professionalism",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmVlZTRhYWM4LTI4MWUtNDM5Ny05Mzc5LThjNDUxMTkxZmFiNzoxY2RhYjgyNS04YmI5LTQ5ODktOGFiOC0xYTAzNWY0ZDUxYzE=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3923943",
-          "author": "Matthew Elder",
-          "description": "Scottish football authorities have warned that banning alcohol advertising from football matches could have “significant unintended consequences” for the game.",
-          "link": "https://www.scotsman.com/sport/football/spfl-chief-neil-doncaster-warns-alcohol-advertising-ban-could-be-extremely-grave-for-scottish-football-3923943",
-          "publishedOn": "2022-11-18T14:18:11.000Z",
-          "wordCount": 2836,
-          "title": "SPFL chief Neil Doncaster warns alcohol advertising ban could be 'extremely grave' for Scottish football",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjNlZGQyNWQ1LTg1YWItNGVmNy1hNzI3LWIyNGE3NTY4NjZjZjo0NWUwNGE4Ny1kYmMyLTRiMmQtOGE4NC04ODY2ZDQ1YTA0Y2I=.jpg?width=1200&enable=upscale"
         }
       ]
     },
@@ -219,6 +199,16 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CAIiEAMweRJVN38fzv2AI78QADsqGQgEKhAIACoHCAowrueiCTDmn7gCMIfHtwU",
+          "author": null,
+          "description": "Ange Postecoglou sparks Celtic transfer excitement as he reveals a 'couple' of signings lined up  Daily Record",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMia2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvYW5nZS1wb3N0ZWNvZ2xvdS1zcGFya3MtY2VsdGljLXRyYW5zZmVyLTI4NTU2Mjk50gEA?oc=5",
+          "publishedOn": "2022-11-22T22:30:00.000Z",
+          "wordCount": 3987,
+          "title": "Ange Postecoglou sparks Celtic transfer excitement as he reveals a 'couple' of signings lined up - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28540548.ece/ALTERNATES/s1200/0_Celtic-v-Everton-Sydney-Super-Cup.jpg"
+        },
         {
           "id": "CAIiEBeP_Y8m7lZIgM3h19yURCgqGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY",
           "author": null,
@@ -854,7 +844,7 @@
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
         {
           "id": "fe6c9c33cdb5f638232d4705dce3c54b",

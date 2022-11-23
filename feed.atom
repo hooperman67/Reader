@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2022-11-23T01:48:51.105Z</updated>
+    <updated>2022-11-23T03:34:55.906Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ange Postecoglou sparks Celtic transfer excitement as he reveals a 'couple' of signings lined up - Daily Record]]></title>
+        <id>CAIiEAMweRJVN38fzv2AI78QADsqGQgEKhAIACoHCAowrueiCTDmn7gCMIfHtwU</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMia2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvYW5nZS1wb3N0ZWNvZ2xvdS1zcGFya3MtY2VsdGljLXRyYW5zZmVyLTI4NTU2Mjk50gEA?oc=5"/>
+        <updated>2022-11-22T22:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Ange Postecoglou sparks Celtic transfer excitement as he reveals a 'couple' of signings lined up  Daily Record]]></summary>
+        <author>
+            <name>"celtic fc" - Google News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic admit early doors double transfer window move]]></title>
         <id>fe6c9c33cdb5f638232d4705dce3c54b</id>
@@ -1054,26 +1064,6 @@ View Full coverage on Google News]]></summary>
         <summary type="html"><![CDATA[Former Liverpool and Man City defender Kolo Toure is expected to be named as the next manager of Wigan, according to reports.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dundee United hand Charlie Mulgrew player-coach role as Liam Fox pinpoints star's professionalism]]></title>
-        <id>3924153</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/dundee-united-hand-charlie-mulgrew-player-coach-role-as-liam-fox-pinpoints-stars-professionalism-3924153"/>
-        <updated>2022-11-18T15:33:23.000Z</updated>
-        <summary type="html"><![CDATA[Charlie Mulgrew will combine playing for Dundee United with a coaching role as part of Liam Fox’s management team.]]></summary>
-        <author>
-            <name>Joel Sked</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SPFL chief Neil Doncaster warns alcohol advertising ban could be 'extremely grave' for Scottish football]]></title>
-        <id>3923943</id>
-        <link href="https://www.scotsman.com/sport/football/spfl-chief-neil-doncaster-warns-alcohol-advertising-ban-could-be-extremely-grave-for-scottish-football-3923943"/>
-        <updated>2022-11-18T14:18:11.000Z</updated>
-        <summary type="html"><![CDATA[Scottish football authorities have warned that banning alcohol advertising from football matches could have “significant unintended consequences” for the game.]]></summary>
-        <author>
-            <name>Matthew Elder</name>
         </author>
     </entry>
 </feed>
