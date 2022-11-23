@@ -6,6 +6,26 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "3928785",
+          "author": "Matthew Elder",
+          "description": "Celtic have confirmed the signing of Japenese defender Yuki Kobayashi, subject to international clearance.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtic-complete-first-january-signing-as-japanese-contingent-increases-to-five-3928785",
+          "publishedOn": "2022-11-23T12:14:18.000Z",
+          "wordCount": 2425,
+          "title": "Celtic complete first January signing as Japanese contingent increases to five",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjMwNTQ1NjdhLTFjZDktNDVkOC1iYzIwLTg3MTExMTYwMjVlYzo1ZTgwZjRiYS05MGZlLTQxZWItYWYwYi1kNjNjY2I2NDI4YjA=.jpg?width=1200&enable=upscale"
+        },
+        {
+          "id": "3928572",
+          "author": "Graham Falk",
+          "description": "Newcastle United and England full back Kieran Trippier has spoken about a training ground altercation with former Celtic player Ross Wallace which left him needing stitches.",
+          "link": "https://www.scotsman.com/sport/football/celtic/former-celtic-player-headbutted-me-reveals-england-world-cup-2022-star-3928572",
+          "publishedOn": "2022-11-23T10:49:32.000Z",
+          "wordCount": 2240,
+          "title": "'Former Celtic player headbutted me' reveals England World Cup 2022 star",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjRiZTZjNjgxLWQwZjgtNDljNS04YmRmLTQ3ZGJmNDgyM2U4Mzo5ZmJjOGUyOC1mYzk3LTRlYjMtYjliMS1lYzc4MzQ0MDg1YTE=.jpg?width=1200&enable=upscale"
+        },
+        {
           "id": "3928207",
           "author": "Angus Wright",
           "description": "Celtic boss Ange Postecoglou has fired an ominous warning to league rivals ahead of the January transfer window, insisting “we’ll definitely be stronger”.",
@@ -828,23 +848,13 @@
           "wordCount": 3453,
           "title": "Findlay Marshall Feature - afc.co.uk",
           "imageUrl": "https://d2cx26qpfwuhvu.cloudfront.net/aberdeen/wp-content/uploads/2022/11/18010133/20221118_findlay_marshall.jpg"
-        },
-        {
-          "id": "CAIiEKNDnpDby3OhZXA_ze_BH-cqGQgEKhAIACoHCAowzuOICzCZ4ocDMPX1qQY",
-          "author": null,
-          "description": "Incredible footage emerges of former Socceroos boss Ange Postecoglou ahead of 2018 World Cup  Daily Mail",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMilwFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvc3BvcnQvZm9vdGJhbGwvYXJ0aWNsZS0xMTQ0NTU1MS9JbmNyZWRpYmxlLWZvb3RhZ2UtZW1lcmdlcy1mb3JtZXItU29jY2Vyb29zLWJvc3MtQW5nZS1Qb3N0ZWNvZ2xvdS1haGVhZC0yMDE4LVdvcmxkLUN1cC5odG1s0gEA?oc=5",
-          "publishedOn": "2022-11-18T23:39:47.000Z",
-          "wordCount": 13364,
-          "title": "Incredible footage emerges of former Socceroos boss Ange Postecoglou ahead of 2018 World Cup - Daily Mail",
-          "imageUrl": "https://i.dailymail.co.uk/1s/2022/11/18/22/64708275-0-image-a-2_1668810391008.jpg"
         }
       ]
     },
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
       "articles": [
         {
           "id": "18299c76ea4be0ed6f0b6fe8744ff18a",
