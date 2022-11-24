@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2022-11-24T15:21:21.241Z</updated>
+    <updated>2022-11-24T18:25:59.221Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The life and times of Celtic founder Brother Walfrid finally revealed]]></title>
+        <id>cd540f54d9bc7f76c0b148c746c4e1c1</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23148204.life-times-celtic-founder-brother-walfrid-finally-revealed/?ref=rss"/>
+        <updated>2022-11-24T18:05:00.000Z</updated>
+        <summary type="html"><![CDATA[ANY Celtic supporter who knows their history could tell you that the Parkhead club was formed by Brother Walfrid in 1887 to raise money for the Catholic poor of the East End of Glasgow.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Alistair Johnston: Celtic target different to Josip Juranovic, how he fared v Eden Hazard, €6m value]]></title>
         <id>3930437</id>
@@ -994,36 +1004,6 @@
         <summary type="html"><![CDATA[For sports fans, waking up on the first day of the World Cup is supposed to feel like Christmas morning. This tournament is usually the ultimate present.]]></summary>
         <author>
             <name>Mark Atkinson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic close Sydney tour with penalty shootout defeat to Everton - Official Celtic Football Club Website]]></title>
-        <id>1640669293</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMicGh0dHBzOi8vd3d3LmNlbHRpY2ZjLmNvbS9uZXdzLzIwMjIvbm92ZW1iZXIvMjAvQ2VsdGljLWNsb3NlLVN5ZG5leS10b3VyLXdpdGgtcGVuYWx0eS1zaG9vdG91dC1kZWZlYXQtdG8tRXZlcnRvbi_SAQA?oc=5"/>
-        <updated>2022-11-20T06:00:36.000Z</updated>
-        <summary type="html"><![CDATA[Celtic close Sydney tour with penalty shootout defeat to Everton  Official Celtic Football Club Website
-Celtic 0 Everton 0 RECAP: Hatate and Giakoumakis come up short in penalty shoot-out  Daily Record
-Celtic’s hard work in Australia already looks to be paying off  67 Hail Hail - Celtic FC News
-Celtic 0-0 Everton FULL RECAP as Anthony Gordon's penalty seals shootout win despite Hoops dominance  Football Scotland
-Celtic team news as Ange Postecoglou names side for Everton friendly  Celtic Way
-View Full coverage on Google News]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic 0 Everton 0 LIVE reaction as Hatate and Giakoumakis come up short in penalty shoot-out - Daily Record]]></title>
-        <id>1640669293</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiYGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvY2VsdGljLXZzLWV2ZXJ0b24tbGl2ZS1zY29yZS0yODUzMzk3MtIBAA?oc=5"/>
-        <updated>2022-11-20T04:18:45.000Z</updated>
-        <summary type="html"><![CDATA[Celtic 0 Everton 0 LIVE reaction as Hatate and Giakoumakis come up short in penalty shoot-out  Daily Record
-Hoops lose out in opening Sydney Super Cup match  Official Celtic Football Club Website
-Celtic vs Everton: Team news, kick-off time, global broadcast details, predicted XI  67 Hail Hail - Celtic FC News
-Celtic team news as Ange Postecoglou names side for Everton friendly  Celtic Way
-What channel is Celtic v Everton on? Kick-off time after change, TV details, team news for Sydney Super Cup clash  The Scotsman
-View Full coverage on Google News]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
         </author>
     </entry>
 </feed>
