@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "3930437",
+          "author": "Joel Sked",
+          "description": "Alistair William Johnston. A name which would be perfect for a fictional Scotland national team. Yet, at the World Cup playing in Qatar, an Alistair William Johnston represents Canada.",
+          "link": "https://www.scotsman.com/sport/football/celtic/alistair-johnston-celtic-target-different-to-josip-juranovic-how-he-fared-v-eden-hazard-eu6m-value-3930437",
+          "publishedOn": "2022-11-24T14:28:08.000Z",
+          "wordCount": 2740,
+          "title": "Alistair Johnston: Celtic target different to Josip Juranovic, how he fared v Eden Hazard, €6m value",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmJhMjNiZDcyLWE3MjQtNDQxYS05ODgxLWEwMmI3OGVkODVhZjo0ZWZjOWE3YS1kYzllLTRmNWQtODA1ZS0xYWE3ODdhZWMzN2Y=.jpg?width=1200&enable=upscale"
+        },
+        {
           "id": "3930074",
           "author": "Joel Sked",
           "description": "The women’s game within Scottish football has made great strides across the last five years. There has been qualification for both the European Championship and World Cup. The national side has made Hampden Park its home and attracted big crowds, while players can be found at the likes of Real Madrid, Chelsea and in America.",
@@ -745,6 +755,26 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "a270301ba806345b1886869e1aae5f6d",
+          "author": null,
+          "description": "CELTIC defender Alexandro Bernabei is accused of drink driving and being abusive in a nightclub.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23147243.glasgow-sheriff-court-celtic-star-accused-drink-driving/?ref=rss",
+          "publishedOn": "2022-11-24T13:02:59.000Z",
+          "wordCount": 8277,
+          "title": "Glasgow Sheriff Court: Celtic star accused of drink driving",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15967077/?type=og-image"
+        },
+        {
+          "id": "2d04efb36bb34657cb88ea9819fd2403",
+          "author": null,
+          "description": "A CELTIC star will stand trial accused of careless driving.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23147168.glasgow-sheriff-court-celtic-star-accused-careless-driving/?ref=rss",
+          "publishedOn": "2022-11-24T12:44:10.000Z",
+          "wordCount": 8196,
+          "title": "Glasgow sheriff court: Celtic star accused of careless driving",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16192836/?type=og-image"
+        },
         {
           "id": "f4714ae431bf8627406b1d3a572ad20f",
           "author": null,

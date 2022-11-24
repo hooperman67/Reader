@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2022-11-24T12:41:25.570Z</updated>
+    <updated>2022-11-24T15:21:21.241Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Alistair Johnston: Celtic target different to Josip Juranovic, how he fared v Eden Hazard, €6m value]]></title>
+        <id>3930437</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/alistair-johnston-celtic-target-different-to-josip-juranovic-how-he-fared-v-eden-hazard-eu6m-value-3930437"/>
+        <updated>2022-11-24T14:28:08.000Z</updated>
+        <summary type="html"><![CDATA[Alistair William Johnston. A name which would be perfect for a fictional Scotland national team. Yet, at the World Cup playing in Qatar, an Alistair William Johnston represents Canada.]]></summary>
+        <author>
+            <name>Joel Sked</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Glasgow Sheriff Court: Celtic star accused of drink driving]]></title>
+        <id>a270301ba806345b1886869e1aae5f6d</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23147243.glasgow-sheriff-court-celtic-star-accused-drink-driving/?ref=rss"/>
+        <updated>2022-11-24T13:02:59.000Z</updated>
+        <summary type="html"><![CDATA[CELTIC defender Alexandro Bernabei is accused of drink driving and being abusive in a nightclub.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Glasgow sheriff court: Celtic star accused of careless driving]]></title>
+        <id>2d04efb36bb34657cb88ea9819fd2403</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23147168.glasgow-sheriff-court-celtic-star-accused-careless-driving/?ref=rss"/>
+        <updated>2022-11-24T12:44:10.000Z</updated>
+        <summary type="html"><![CDATA[A CELTIC star will stand trial accused of careless driving.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Glasgow and Edinburgh derbies, ultras and record attendance in store as SWPL prepares to take centre stage]]></title>
         <id>3930074</id>
