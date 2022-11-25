@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2022-11-25T18:25:32.163Z</updated>
+    <updated>2022-11-25T21:17:50.199Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Alistair Johnson breaks Celtic transfer silence - 'my phone has been blowing up']]></title>
+        <id>3932476</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/alistair-johnson-breaks-celtic-transfer-silence-my-phone-has-been-blowing-up-3932476"/>
+        <updated>2022-11-25T19:41:33.000Z</updated>
+        <summary type="html"><![CDATA[Alistair Johnson says he is “excited” to be linked with a move to Celtic and revealed that his phone has been “blowing up” with all the messages he has been receiving about the potential transfers.]]></summary>
+        <author>
+            <name>Mark Atkinson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic-daft rapper spotted at Parkhead and Hoops fans can’t handle it... - The Scottish Sun]]></title>
         <id>CAIiEDszqkTkwxHyoixq651nTjsqGQgEKhAIACoHCAowwNKVCzCxt6sDMJXwxgY</id>
@@ -984,56 +994,6 @@
         <summary type="html"><![CDATA[Aoashi Manga Teams Up With Scottish Football Team Celtic F.C. for Cute Collab  Crunchyroll News]]></summary>
         <author>
             <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ange Postecoglou on Celtic’s global reach helping to bridge gap with richer clubs - The Celtic Star]]></title>
-        <id>CAIiEBpKxXxS38buUXyGag-C-UsqGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMia2h0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vYW5nZS1wb3N0ZWNvZ2xvdS1vbi1jZWx0aWNzLWdsb2JhbC1yZWFjaC1oZWxwaW5nLXRvLWJyaWRnZS1nYXAtd2l0aC1yaWNoZXItY2x1YnMv0gEA?oc=5"/>
-        <updated>2022-11-21T08:18:31.000Z</updated>
-        <summary type="html"><![CDATA[Ange Postecoglou on Celtic’s global reach helping to bridge gap with richer clubs  The Celtic Star]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ridvan Yilmaz 'wants' Rangers transfer exit with Besiktas to test Ibrox resolve - Daily Record]]></title>
-        <id>CAIiEOQxB13cx0xK02EMrGg2H9oqGQgEKhAIACoHCAowrueiCTDmn7gCMKXUtwU</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiaGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvcmlkdmFuLXlpbG1hei13YW50cy1yYW5nZXJzLXRyYW5zZmVyLTI4NTQzMTIy0gEA?oc=5"/>
-        <updated>2022-11-21T08:04:07.000Z</updated>
-        <summary type="html"><![CDATA[Ridvan Yilmaz 'wants' Rangers transfer exit with Besiktas to test Ibrox resolve  Daily Record]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leigh Griffiths nets from own half as he returns for Hibs]]></title>
-        <id>5783a43dbc41f9f27748edcf533b83b5</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23138001.leigh-griffiths-nets-half-returns-hibs/?ref=rss"/>
-        <updated>2022-11-21T08:00:49.000Z</updated>
-        <summary type="html"><![CDATA[LEIGH GRIFFITHS scored a stunner from inside his own half as nearly 4,500 Hibernian fans flocked to Easter Road for a charity fundraiser.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic's Matt O'Riley opens up on shattered Denmark World Cup dream]]></title>
-        <id>33ae501c54db706d30c5e6c93df554b3</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23137666.celtics-matt-oriley-opens-shattered-denmark-world-cup-dream/?ref=rss"/>
-        <updated>2022-11-21T07:15:00.000Z</updated>
-        <summary type="html"><![CDATA[The 21-year-old admits he was bitterly disappointed not to be included in their squad for the tournament in Qatar]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic not rushing players to Premier League, insists Ange Postecoglou]]></title>
-        <id>4f59641024935e935d989ab5bc7d2bbf</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23137657.celtic-not-rushing-players-premier-league-insists-ange-postecoglou/?ref=rss"/>
-        <updated>2022-11-21T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Celtic's players more than matched Everton during their Sydney Super Cup loss on Sunday.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>
