@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2022-11-25T15:20:58.255Z</updated>
+    <updated>2022-11-25T18:25:32.163Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic-daft rapper spotted at Parkhead and Hoops fans can’t handle it... - The Scottish Sun]]></title>
+        <id>CAIiEDszqkTkwxHyoixq651nTjsqGQgEKhAIACoHCAowwNKVCzCxt6sDMJXwxgY</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMicGh0dHBzOi8vd3d3LnRoZXNjb3R0aXNoc3VuLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsLzk4MjQwNjgvY2VsdGljLWRhZnQtcmFwcGVyLXNwb3R0ZWQtcGFya2hlYWQtZmFucy1jYW50LWhhbmRsZS1pdC_SAQA?oc=5"/>
+        <updated>2022-11-25T17:26:14.000Z</updated>
+        <summary type="html"><![CDATA[Celtic-daft rapper spotted at Parkhead and Hoops fans can’t handle it...  The Scottish Sun]]></summary>
+        <author>
+            <name>"celtic fc" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SFA appoints Martin Black as new compliance officer - background, previous role and what he had to say on new job]]></title>
+        <id>3932165</id>
+        <link href="https://www.scotsman.com/sport/football/sfa-appoints-martin-black-as-new-compliance-officer-background-previous-role-and-what-he-had-to-say-on-new-job-3932165"/>
+        <updated>2022-11-25T15:25:09.000Z</updated>
+        <summary type="html"><![CDATA[The Scottish Football Association have announced that Martin Black has been appointed as its new compliance officer.]]></summary>
+        <author>
+            <name>Mark Atkinson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Transfer expert says Celtic have made major Alistair Johnson breakthrough - now down to 'final details']]></title>
         <id>3932088</id>
@@ -1014,16 +1034,6 @@
         <summary type="html"><![CDATA[Celtic's players more than matched Everton during their Sydney Super Cup loss on Sunday.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ange Postecoglou names next Celtic world tour stop to held bridge financial gulf - Daily Record]]></title>
-        <id>CAIiEBZcQS3aM9-8JPYw_E8ExSAqGQgEKhAIACoHCAowrueiCTDmn7gCMKXUtwU</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiZmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvYW5nZS1wb3N0ZWNvZ2xvdS1uYW1lcy1uZXh0LWNlbHRpYy0yODU0MDQ3ONIBAA?oc=5"/>
-        <updated>2022-11-21T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ange Postecoglou names next Celtic world tour stop to held bridge financial gulf  Daily Record]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
         </author>
     </entry>
 </feed>
