@@ -6,6 +6,26 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "3932551",
+          "author": "Mark Atkinson",
+          "description": "It may feel like Scottish football is in cold storage due to the World Cup, but that is far from the truth as one of the oldest competitions in the world takes centre stage this weekend.",
+          "link": "https://www.scotsman.com/sport/football/when-is-the-scottish-cup-fourth-round-draw-full-details-as-rangers-celtic-hearts-hibs-and-premiership-clubs-enter-competition-3932551",
+          "publishedOn": "2022-11-26T08:34:48.000Z",
+          "wordCount": 2243,
+          "title": "When is the Scottish Cup fourth round draw? Full details as Rangers, Celtic, Hearts, Hibs and Premiership clubs enter competition",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmM2NTUzYTEyLTNhMjQtNDcyYi04MDAzLWE0ZWJhYThiYjdmNjo1ODA5ZjUzMS00MmFmLTQwZTgtODIwNS0yZDgyMDMxY2YzN2M=.jpg?width=1200&enable=upscale"
+        },
+        {
+          "id": "3932462",
+          "author": "Alan Pattullo",
+          "description": "‘You couldn’t write the script!’ is an oft-used commentator’s observation, screeched at moments of high, unexpected drama.",
+          "link": "https://www.scotsman.com/international/scotland/scotland-v-england-the-big-missed-qatar-opportunity-but-why-world-cup-owes-everything-to-150-years-ago-3932462",
+          "publishedOn": "2022-11-26T08:00:00.000Z",
+          "wordCount": 6254,
+          "title": "Scotland v England: The big missed Qatar opportunity but why World Cup owes everything to 150 years ago",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjU0OTFhYTcyLTExZGEtNDIyYi1iODkxLWQ1MDU2YjhmNTVlMTo2NzZhNzBjOS1mZjNiLTQxYzctOWNhYS0wNzFmODYxNWVkMmM=.jpg?width=1200&enable=upscale"
+        },
+        {
           "id": "3932476",
           "author": "Mark Atkinson",
           "description": "Alistair Johnson says he is “excited” to be linked with a move to Celtic and revealed that his phone has been “blowing up” with all the messages he has been receiving about the potential transfers.",
@@ -184,26 +204,6 @@
           "wordCount": 2244,
           "title": "SWPL: The 30 best players in the Scottish Women's Premier League 2022 - as voted for by players, managers and journalists",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmM1YTgxM2FhLWFmZDQtNDljOC04OWY0LTUxYmExNGU5NDA5Zjo2ZTI3OWVkYS1mODM0LTQ5ZDktODYzYi1lNDQ4ZTc1Zjc1OTA=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3926688",
-          "author": "Mark Atkinson",
-          "description": "An 84th-minute penalty from Gareth Bale rescued a draw for Wales against USA in their World Cup Group B opener in Qatar.",
-          "link": "https://www.scotsman.com/sport/football/wales-and-usa-draw-at-world-cup-celtic-defender-stays-on-bench-but-ex-forward-scores-3926688",
-          "publishedOn": "2022-11-21T21:11:37.000Z",
-          "wordCount": 1811,
-          "title": "Wales and USA draw at World Cup - Celtic defender stays on bench but ex-forward scores",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjYzYjQwMTE4LWIyNzgtNDIzMC1hYzY4LWM0Y2YyYzUzNjNkNzo1NmE5NzIwNC1hMjhlLTQzY2UtODZiMC0xNDM4ZjQ3NjRjM2U=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3926664",
-          "author": "Alan Pattullo",
-          "description": "Sacked on the day the World Cup began in earnest. Like anyone in football, Giovanni van Bronckhorst knows that disappointment is all part of the game.",
-          "link": "https://www.scotsman.com/sport/football/rangers/tombstone-epitaph-could-be-postecoglou-broke-my-heart-but-van-bronckhorst-will-always-be-welcome-back-at-ibrox-3926664",
-          "publishedOn": "2022-11-21T20:45:00.000Z",
-          "wordCount": 2700,
-          "title": "Tombstone epitaph could be: 'Postecoglou broke my heart' - but Van Bronckhorst will always be welcome back at Ibrox",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmQwZjJkOGQ2LTY5ZTEtNGQ2ZC1iMjA2LWY5YTJkZTYyN2E1Nzo4YjM0NWFlMC1hZjZjLTQzZjAtYmU3MS0wNzIxNTk1ZTVmZjU=.jpg?width=1200&enable=upscale"
         }
       ]
     },
@@ -218,6 +218,16 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CAIiEIoxgFcXyVPfbiP8QV2ckn4qGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY",
+          "author": null,
+          "description": "It’s Glasgow Derby Day – the Rangers v Celtic : Team News, Match Officials, KO Time and Where to Watch  The Celtic Star",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiemh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vaXRzLWdsYXNnb3ctZGVyYnktZGF5LXRoZS1yYW5nZXJzLXYtY2VsdGljLXRlYW0tbmV3cy1tYXRjaC1vZmZpY2lhbHMta28tdGltZS1hbmQtd2hlcmUtdG8td2F0Y2gv0gEA?oc=5",
+          "publishedOn": "2022-11-26T08:49:09.000Z",
+          "wordCount": 1726,
+          "title": "It’s Glasgow Derby Day – the Rangers v Celtic : Team News, Match Officials, KO Time and Where to Watch - The Celtic Star",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/11/podcastGLASGOWDERBY-702x459.jpg"
+        },
         {
           "id": "CAIiEBji_xGocNRZFoB40hY4asYqGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY",
           "author": null,
@@ -944,16 +954,6 @@
           "wordCount": 8740,
           "title": "Kyogo thanks Celtic for support after World Cup 'disappointment'",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16183280/?type=og-image"
-        },
-        {
-          "id": "30a2fe85e53a7a697a029e01c88dd5bf",
-          "author": null,
-          "description": "The forward player spent time at Parkhead on loan from PSG.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23140422.watch-ex-celtic-loanee-timo-weah-scores-usa-world-cup/?ref=rss",
-          "publishedOn": "2022-11-21T19:57:22.000Z",
-          "wordCount": 8257,
-          "title": "Watch as ex-Celtic loanee Timo Weah scores for USA at World Cup",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16182591/?type=og-image"
         }
       ]
     }

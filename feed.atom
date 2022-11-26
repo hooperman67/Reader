@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2022-11-26T06:24:30.434Z</updated>
+    <updated>2022-11-26T09:18:36.330Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[It’s Glasgow Derby Day – the Rangers v Celtic : Team News, Match Officials, KO Time and Where to Watch - The Celtic Star]]></title>
+        <id>CAIiEIoxgFcXyVPfbiP8QV2ckn4qGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiemh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vaXRzLWdsYXNnb3ctZGVyYnktZGF5LXRoZS1yYW5nZXJzLXYtY2VsdGljLXRlYW0tbmV3cy1tYXRjaC1vZmZpY2lhbHMta28tdGltZS1hbmQtd2hlcmUtdG8td2F0Y2gv0gEA?oc=5"/>
+        <updated>2022-11-26T08:49:09.000Z</updated>
+        <summary type="html"><![CDATA[It’s Glasgow Derby Day – the Rangers v Celtic : Team News, Match Officials, KO Time and Where to Watch  The Celtic Star]]></summary>
+        <author>
+            <name>"celtic fc" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When is the Scottish Cup fourth round draw? Full details as Rangers, Celtic, Hearts, Hibs and Premiership clubs enter competition]]></title>
+        <id>3932551</id>
+        <link href="https://www.scotsman.com/sport/football/when-is-the-scottish-cup-fourth-round-draw-full-details-as-rangers-celtic-hearts-hibs-and-premiership-clubs-enter-competition-3932551"/>
+        <updated>2022-11-26T08:34:48.000Z</updated>
+        <summary type="html"><![CDATA[It may feel like Scottish football is in cold storage due to the World Cup, but that is far from the truth as one of the oldest competitions in the world takes centre stage this weekend.]]></summary>
+        <author>
+            <name>Mark Atkinson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scotland v England: The big missed Qatar opportunity but why World Cup owes everything to 150 years ago]]></title>
+        <id>3932462</id>
+        <link href="https://www.scotsman.com/international/scotland/scotland-v-england-the-big-missed-qatar-opportunity-but-why-world-cup-owes-everything-to-150-years-ago-3932462"/>
+        <updated>2022-11-26T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[‘You couldn’t write the script!’ is an oft-used commentator’s observation, screeched at moments of high, unexpected drama.]]></summary>
+        <author>
+            <name>Alan Pattullo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Alistair Johnston is 'honoured' by Celtic transfer interest]]></title>
         <id>1ee2bd9b8eb0d01c0b7df49a081f16e9</id>
@@ -908,36 +938,6 @@ View Full coverage on Google News]]></summary>
         <summary type="html"><![CDATA[Ten things that you might not know about Celtic legend Alec McNair  The Celtic Star]]></summary>
         <author>
             <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wales and USA draw at World Cup - Celtic defender stays on bench but ex-forward scores]]></title>
-        <id>3926688</id>
-        <link href="https://www.scotsman.com/sport/football/wales-and-usa-draw-at-world-cup-celtic-defender-stays-on-bench-but-ex-forward-scores-3926688"/>
-        <updated>2022-11-21T21:11:37.000Z</updated>
-        <summary type="html"><![CDATA[An 84th-minute penalty from Gareth Bale rescued a draw for Wales against USA in their World Cup Group B opener in Qatar.]]></summary>
-        <author>
-            <name>Mark Atkinson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tombstone epitaph could be: 'Postecoglou broke my heart' - but Van Bronckhorst will always be welcome back at Ibrox]]></title>
-        <id>3926664</id>
-        <link href="https://www.scotsman.com/sport/football/rangers/tombstone-epitaph-could-be-postecoglou-broke-my-heart-but-van-bronckhorst-will-always-be-welcome-back-at-ibrox-3926664"/>
-        <updated>2022-11-21T20:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Sacked on the day the World Cup began in earnest. Like anyone in football, Giovanni van Bronckhorst knows that disappointment is all part of the game.]]></summary>
-        <author>
-            <name>Alan Pattullo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Watch as ex-Celtic loanee Timo Weah scores for USA at World Cup]]></title>
-        <id>30a2fe85e53a7a697a029e01c88dd5bf</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23140422.watch-ex-celtic-loanee-timo-weah-scores-usa-world-cup/?ref=rss"/>
-        <updated>2022-11-21T19:57:22.000Z</updated>
-        <summary type="html"><![CDATA[The forward player spent time at Parkhead on loan from PSG.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>
