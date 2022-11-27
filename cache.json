@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "3932571",
+          "author": "Andrew Smith",
+          "description": "There will always be the biggest of black marks placed against this Qatar World Cup.",
+          "link": "https://www.scotsman.com/sport/football/world-cup-2022-how-qatar-brand-being-fed-through-the-shredder-could-yet-salvage-these-finals-3932571",
+          "publishedOn": "2022-11-27T08:00:00.000Z",
+          "wordCount": 3565,
+          "title": "World Cup 2022: How Qatar 'brand' being fed through the shredder could yet salvage these finals",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjJlYTBkNDgzLTM5NTUtNGJlNi04ZWYwLWZhN2RlMTM1ZTEyYjo3MWU5YmJkNS1lNzFlLTQ2MDAtYWZkZi02YzY1OGQ2ZDZiNDM=.jpg?width=1200&enable=upscale"
+        },
+        {
           "id": "3932815",
           "author": "Alison McConnell",
           "description": "As adverts go, this one could have done with a little airbrushing.",
@@ -214,16 +224,6 @@
           "wordCount": 2256,
           "title": "SWPL: The 30 best players in the Scottish Women's Premier League 2022 - including Rangers, Celtic, Glasgow City, Hibs and Hearts",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmM1YTgxM2FhLWFmZDQtNDljOC04OWY0LTUxYmExNGU5NDA5Zjo2NWZmNzU4OS02OTdiLTRhNmMtOGI2MC1lOGM5OGRkN2Y1ZTA=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3928077",
-          "author": "Mark Atkinson",
-          "description": "Things you thought you would never see at the World Cup: a 6ft 6in Scottish defender playing 40-yard diagonals to set up a goal, a defence made up of two Jambos plus a Dundee United left-back up against Kylian Mbappe, and Jason Cummings leading the forward line, all in the same team and in Australia colours.",
-          "link": "https://www.scotsman.com/sport/football/how-two-hearts-defenders-dundee-uniteds-duracell-bunny-celtics-aaron-mooy-and-jason-cummings-fared-on-tough-night-against-france-3928077",
-          "publishedOn": "2022-11-22T21:09:28.000Z",
-          "wordCount": 2720,
-          "title": "How two Hearts defenders, Dundee United's duracell bunny, Celtic's Aaron Mooy and Jason Cummings fared on tough night against France",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjQ3ZWIxNTc3LTczNmMtNDgzOC05NDRlLThhZDg3MWZjNDFkZjpiMGNmNmNlMS1jMGNlLTQzZTItYmJiMi00ZDBjZDhmOTJiNjg=.jpg?width=1200&enable=upscale"
         }
       ]
     },
@@ -657,26 +657,6 @@
           "wordCount": 1226,
           "title": "Another Celtic shirt seen at Qatar World Cup 2022 - The Celtic Star",
           "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/11/FiLGwZeWAAAlo3F.jpeg"
-        },
-        {
-          "id": "CAIiEJjBtClSPQBC3YptBgrt3RwqGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY",
-          "author": null,
-          "description": "Kyogo Furuhashi’s World Cup heartache after Hajime Moriyasu snub  The Celtic Star",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiWmh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20va3lvZ28tZnVydWhhc2hpcy13b3JsZC1jdXAtaGVhcnRhY2hlLWFmdGVyLWhhamltZS1tb3JpeWFzdS1zbnViL9IBAA?oc=5",
-          "publishedOn": "2022-11-22T20:08:20.000Z",
-          "wordCount": 1932,
-          "title": "Kyogo Furuhashi’s World Cup heartache after Hajime Moriyasu snub - The Celtic Star",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2021/12/LC_CELTIC_HIBS_1952-1024x801.jpeg"
-        },
-        {
-          "id": "CBMiXWh0dHBzOi8vd3d3LmNlbHRpY3dheS5jby51ay9mZWF0dXJlcy8yMzE0MjA1My5jZWx0aWMtbmVlZC1zdHJlbmd0aGVuLWphbnVhcnktdHJhbnNmZXItd2luZG93L9IBAA",
-          "author": null,
-          "description": "Where do Celtic need to strengthen in the January transfer window?  Celtic Way",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiXWh0dHBzOi8vd3d3LmNlbHRpY3dheS5jby51ay9mZWF0dXJlcy8yMzE0MjA1My5jZWx0aWMtbmVlZC1zdHJlbmd0aGVuLWphbnVhcnktdHJhbnNmZXItd2luZG93L9IBAA?oc=5",
-          "publishedOn": "2022-11-22T18:39:15.000Z",
-          "wordCount": 8805,
-          "title": "Where do Celtic need to strengthen in the January transfer window? - Celtic Way",
-          "imageUrl": "https://www.celticway.co.uk/resources/images/16185028/?type=og-image"
         }
       ]
     },
