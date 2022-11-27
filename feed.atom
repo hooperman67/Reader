@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2022-11-27T15:19:41.257Z</updated>
+    <updated>2022-11-27T18:23:51.881Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic Foundation pay tribute to Doddie Weir, champion of MND research - The Celtic Star]]></title>
+        <id>CAIiEBQQZ4Kr2ZZ9VWzeHsJ_sOEqGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiYGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vY2VsdGljLWZvdW5kYXRpb24tcGF5LXRyaWJ1dGUtdG8tZG9kZGllLXdlaXItY2hhbXBpb24tb2YtbW5kLXJlc2VhcmNoL9IBAA?oc=5"/>
+        <updated>2022-11-27T15:08:47.000Z</updated>
+        <summary type="html"><![CDATA[Celtic Foundation pay tribute to Doddie Weir, champion of MND research  The Celtic Star]]></summary>
+        <author>
+            <name>"celtic fc" - Google News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic Foundation pay tribute to Doddie Weir, champion of MND research - The Celtic Star]]></title>
         <id>CBMiYGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vY2VsdGljLWZvdW5kYXRpb24tcGF5LXRyaWJ1dGUtdG8tZG9kZGllLXdlaXItY2hhbXBpb24tb2YtbW5kLXJlc2VhcmNoL9IBZGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vY2VsdGljLWZvdW5kYXRpb24tcGF5LXRyaWJ1dGUtdG8tZG9kZGllLXdlaXItY2hhbXBpb24tb2YtbW5kLXJlc2VhcmNoL2FtcC8</id>
@@ -258,6 +268,16 @@ View Full coverage on Google News]]></summary>
         <summary type="html"><![CDATA[Alistair Johnson says he is “excited” to be linked with a move to Celtic and revealed that his phone has been “blowing up” with all the messages he has been receiving about the potential transfers.]]></summary>
         <author>
             <name>Mark Atkinson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic fans amused by Michael Beale’s viral comments - The Celtic Bhoys]]></title>
+        <id>CAIiEEAWK2znA8u5BZ0w1c8ZJpYqGQgEKhAIACoHCAow4KKJCzCv9JoDMICkoAY</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiT2h0dHBzOi8vdGhlY2VsdGljYmhveXMuY29tLzIwMjIvMTEvMjUvY2VsdGljLWZhbnMtbWljaGFlbC1iZWFsZS12aXJhbC1jb21tZW50cy_SAQA?oc=5"/>
+        <updated>2022-11-25T19:37:14.000Z</updated>
+        <summary type="html"><![CDATA[Celtic fans amused by Michael Beale’s viral comments  The Celtic Bhoys]]></summary>
+        <author>
+            <name>"celtic fc" - Google News</name>
         </author>
     </entry>
     <entry>
@@ -902,16 +922,6 @@ View Full coverage on Google News]]></summary>
         <summary type="html"><![CDATA[Celtic Closing in on Double Signing  CeltsAreHere]]></summary>
         <author>
             <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ange Postecoglou outlines Celtic's 'box clever' transfer philosophy]]></title>
-        <id>459873209569314822668b794932cc21</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23141923.celtics-ange-postecoglou-keen-cut-gap-champions-league-giants/?ref=rss"/>
-        <updated>2022-11-23T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The current campaign has been a fairly successful one so far for Celtic.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>

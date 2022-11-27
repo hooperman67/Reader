@@ -249,6 +249,16 @@
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
         {
+          "id": "CAIiEBQQZ4Kr2ZZ9VWzeHsJ_sOEqGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY",
+          "author": null,
+          "description": "Celtic Foundation pay tribute to Doddie Weir, champion of MND research  The Celtic Star",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiYGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vY2VsdGljLWZvdW5kYXRpb24tcGF5LXRyaWJ1dGUtdG8tZG9kZGllLXdlaXItY2hhbXBpb24tb2YtbW5kLXJlc2VhcmNoL9IBAA?oc=5",
+          "publishedOn": "2022-11-27T15:08:47.000Z",
+          "wordCount": 1156,
+          "title": "Celtic Foundation pay tribute to Doddie Weir, champion of MND research - The Celtic Star",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/11/imago1004102448h-1024x681.jpg"
+        },
+        {
           "id": "CBMiYGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vY2VsdGljLWZvdW5kYXRpb24tcGF5LXRyaWJ1dGUtdG8tZG9kZGllLXdlaXItY2hhbXBpb24tb2YtbW5kLXJlc2VhcmNoL9IBZGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vY2VsdGljLWZvdW5kYXRpb24tcGF5LXRyaWJ1dGUtdG8tZG9kZGllLXdlaXItY2hhbXBpb24tb2YtbW5kLXJlc2VhcmNoL2FtcC8",
           "author": null,
           "description": "Celtic Foundation pay tribute to Doddie Weir, champion of MND research  The Celtic Star",
@@ -357,6 +367,16 @@
           "wordCount": 3060,
           "title": "Glasgow Derby Special: “The motivation is to wear the Hoops in any game,” Fran Alonso - The Celtic Star",
           "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2018/03/podcastGLASGOWDERBY-1024x549.jpg"
+        },
+        {
+          "id": "CAIiEEAWK2znA8u5BZ0w1c8ZJpYqGQgEKhAIACoHCAow4KKJCzCv9JoDMICkoAY",
+          "author": null,
+          "description": "Celtic fans amused by Michael Beale’s viral comments  The Celtic Bhoys",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiT2h0dHBzOi8vdGhlY2VsdGljYmhveXMuY29tLzIwMjIvMTEvMjUvY2VsdGljLWZhbnMtbWljaGFlbC1iZWFsZS12aXJhbC1jb21tZW50cy_SAQA?oc=5",
+          "publishedOn": "2022-11-25T19:37:14.000Z",
+          "wordCount": 2599,
+          "title": "Celtic fans amused by Michael Beale’s viral comments - The Celtic Bhoys",
+          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1404021294.jpeg"
         },
         {
           "id": "CAIiEDsA3pUwI1UMoFie_x-hSSwqGQgEKhAIACoHCAowrueiCTDmn7gCMIfHtwU",
@@ -914,16 +934,6 @@
           "wordCount": 9691,
           "title": "Dylan McGeouch finds new club and makes instant impact",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16187357/?type=og-image"
-        },
-        {
-          "id": "459873209569314822668b794932cc21",
-          "author": null,
-          "description": "The current campaign has been a fairly successful one so far for Celtic.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23141923.celtics-ange-postecoglou-keen-cut-gap-champions-league-giants/?ref=rss",
-          "publishedOn": "2022-11-23T06:00:00.000Z",
-          "wordCount": 9052,
-          "title": "Ange Postecoglou outlines Celtic's 'box clever' transfer philosophy",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16184763/?type=og-image"
         }
       ]
     }
