@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "3933424",
+          "author": "Angus Wright",
+          "description": "Celtic are closing in on the signing of Canada’s World Cup star Alistair Johnston.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtic-to-pay-ps3m-for-world-cup-star-alistair-johnston-who-is-super-excited-at-parkhead-prospect-3933424",
+          "publishedOn": "2022-11-28T10:06:28.000Z",
+          "wordCount": 2008,
+          "title": "Celtic 'to pay £3m' for World Cup star Alistair Johnston who is 'super excited' at Parkhead prospect",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjc3MDJlNzI0LTU2NzgtNGJhNC1iOTQ2LTQxODFmYjcxZmFjMDoxMTNiNDUyZS0yNjBiLTQyZDQtOWY2YS02YWE4YmI5ZGM0Zjc=.jpg?width=1200&enable=upscale"
+        },
+        {
           "id": "3933152",
           "author": "Andrew Smith",
           "description": "Drumchapel United may be newbies to the Scottish Cup fourth round.",
@@ -188,6 +198,16 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CBMiR2h0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9oYXJyeS1rZXdlbGwtbGF1Z2hzLW9mZi1jb21tZW50YXJ5LXN1Z2dlc3Rpb24v0gFLaHR0cHM6Ly9jZWx0c2FyZWhlcmUuY29tL2hhcnJ5LWtld2VsbC1sYXVnaHMtb2ZmLWNvbW1lbnRhcnktc3VnZ2VzdGlvbi9hbXAv",
+          "author": null,
+          "description": "Harry Kewell Laughs Off Commentary Suggestion  CeltsAreHere",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiR2h0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9oYXJyeS1rZXdlbGwtbGF1Z2hzLW9mZi1jb21tZW50YXJ5LXN1Z2dlc3Rpb24v0gFLaHR0cHM6Ly9jZWx0c2FyZWhlcmUuY29tL2hhcnJ5LWtld2VsbC1sYXVnaHMtb2ZmLWNvbW1lbnRhcnktc3VnZ2VzdGlvbi9hbXAv?oc=5",
+          "publishedOn": "2022-11-28T11:37:52.000Z",
+          "wordCount": 13722,
+          "title": "Harry Kewell Laughs Off Commentary Suggestion - CeltsAreHere",
+          "imageUrl": "https://cdn.celtsarehere.com/wp-content/uploads/2022/10/SPFL22_23_KILLIE_CELTIC_0136-scaled.jpg"
+        },
         {
           "id": "CAIiEAiWP3BhwE_Mn31u8m8QSKwqGQgEKhAIACoHCAowuMWGCzDDuYQDMM2G0gY",
           "author": null,
@@ -527,34 +547,24 @@
           "wordCount": 8094,
           "title": "Celtic resurrect Mohamed 'Afsha' Magdy transfer interest - Celtic Way",
           "imageUrl": "https://www.celticway.co.uk/resources/images/16191823/?type=og-image"
-        },
-        {
-          "id": "CAIiEJ7ko3h9Bh06XfBrJuhhCIkqGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY",
-          "author": null,
-          "description": "Celtic On This Day – 24th November – David Potter’s Celtic Diary  The Celtic Star",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiVmh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vY2VsdGljLW9uLXRoaXMtZGF5LTI0dGgtbm92ZW1iZXItZGF2aWQtcG90dGVycy1jZWx0aWMtZGlhcnkv0gEA?oc=5",
-          "publishedOn": "2022-11-24T00:01:00.000Z",
-          "wordCount": 1565,
-          "title": "Celtic On This Day – 24th November – David Potter’s Celtic Diary - The Celtic Star",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/11/image-144.jpeg"
-        },
-        {
-          "id": "CBMiN2h0dHBzOi8vd3d3LmFmYy5jby51ay8yMDIyLzExLzIzL2FmYy1oYWxsLW9mLWZhbWUtMjAyMi_SAQA",
-          "author": null,
-          "description": "AFC Hall of Fame 2022  afc.co.uk",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiN2h0dHBzOi8vd3d3LmFmYy5jby51ay8yMDIyLzExLzIzL2FmYy1oYWxsLW9mLWZhbWUtMjAyMi_SAQA?oc=5",
-          "publishedOn": "2022-11-23T22:54:00.000Z",
-          "wordCount": 3219,
-          "title": "AFC Hall of Fame 2022 - afc.co.uk",
-          "imageUrl": "https://d2cx26qpfwuhvu.cloudfront.net/aberdeen/wp-content/uploads/2022/11/23195331/20221123_hall_of_fame5.jpg"
         }
       ]
     },
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "02ef22046bcc8ee2de344967a9f7be44",
+          "author": null,
+          "description": "THE Scottish FA has announced new heading guidelines in the adult game - banning repeated heading on the day before and the day after matches.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23153267.scottish-fa-ban-heading-day-matches-new-guidelines/?ref=rss",
+          "publishedOn": "2022-11-28T09:00:58.000Z",
+          "wordCount": 8884,
+          "title": "Scottish FA ban heading day before and after matches in new guidelines",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16202682/?type=og-image"
+        },
         {
           "id": "fc33eb6239a6c98b16cf67213dc21db4",
           "author": null,
@@ -744,16 +754,6 @@
           "wordCount": 9821,
           "title": "Celtic Cristiano Ronaldo outsiders as next club list emerges",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16191606/?type=og-image"
-        },
-        {
-          "id": "885e51d1c3af9c79db6adac12776d70e",
-          "author": null,
-          "description": "THE defender is reportedly being tracked by Parkhead chiefs over a possible January move.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23145979.celtic-tracking-canada-world-cup-standout-star-alistair-johnston/?ref=rss",
-          "publishedOn": "2022-11-23T21:39:43.000Z",
-          "wordCount": 8534,
-          "title": "Celtic 'tracking' Canada World Cup standout star Alistair Johnston",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16191225/?type=og-image"
         }
       ]
     }
