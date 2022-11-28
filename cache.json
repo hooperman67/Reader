@@ -573,7 +573,7 @@
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
       "articles": [
         {
           "id": "b9e071efe976fe9edbd606f49f862315",
@@ -784,16 +784,6 @@
           "wordCount": 9014,
           "title": "Van Bronckhorst couldn't live up to comparisons with Postecoglou",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/13642254/?type=og-image"
-        },
-        {
-          "id": "efeead7f29f601e510e49a02a7ef4a2f",
-          "author": null,
-          "description": "Here is everything you need to know about Celtic's new defender...",
-          "link": "https://www.glasgowtimes.co.uk/sport/23145001.yuki-kobayashis-celtic-profile-defensive-playing-style-revealed/?ref=rss",
-          "publishedOn": "2022-11-23T14:36:21.000Z",
-          "wordCount": 8611,
-          "title": "Yuki Kobayashi's Celtic profile as defensive playing style revealed",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16189373/?type=og-image"
         }
       ]
     }
