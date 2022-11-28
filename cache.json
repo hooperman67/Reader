@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "3933152",
+          "author": "Andrew Smith",
+          "description": "Drumchapel United may be newbies to the Scottish Cup fourth round.",
+          "link": "https://www.scotsman.com/sport/football/why-scottish-cup-minnows-dont-want-to-draw-rangers-or-celtic-3933152",
+          "publishedOn": "2022-11-27T22:30:00.000Z",
+          "wordCount": 2293,
+          "title": "Why Scottish Cup minnows don't want to draw Rangers or Celtic",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjE2MTlmNjYzLTdiZTItNDg4ZS04N2MzLTJmYTYyZTdkZWM4MzpmYTU1OWJkNi0yYTgxLTRmMjYtOWM0MS0yNGJhODZlMzc5ZDg=.jpg?width=1200&enable=upscale"
+        },
+        {
           "id": "3932884",
           "author": "Mark Atkinson",
           "description": "Darvel sprung a surprise in the third round of the Scottish Cup with a 5-2 win away at League One outfit Montrose.",
@@ -174,46 +184,6 @@
           "wordCount": 2661,
           "title": "Germany shocked by Daizen Maeda's Japan at World Cup as hands over mouth protest takes centre stage",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjE5MGRlMzQwLWE0ZTYtNDcyOC04OWRmLWRmMTdhMGRhNjE3MDo0NmQyNGEzYy1hYTkxLTQ4N2UtYTkwZi04ZDgwOTQ5NThjOWI=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3928861",
-          "author": "Andrew Smith",
-          "description": "Matchsticks might well be required to wedge open eyelids by any scouts that choose to analyse Croatia’s World Cup opener with Morocco as they weigh up a potential move for Celtic’s Josip Juranovic.",
-          "link": "https://www.scotsman.com/sport/football/celtic/josip-juranovic-celtic-sale-value-unmoved-after-croatia-world-cup-stalemate-3928861",
-          "publishedOn": "2022-11-23T12:47:09.000Z",
-          "wordCount": 2628,
-          "title": "Josip Juranovic Celtic sale value unmoved after Croatia World Cup stalemate",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjEzMGVlOGJlLTMyY2EtNDQzOS05ZGNlLWZiOTc3YjQ5Nzk2ZDo5MjhmYzJlNi1lMzllLTRmYzUtYjVjNi01YzIwZWE2ZTI5NzY=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3928861",
-          "author": "Andrew Smith",
-          "description": "Matchsticks might well be required to wedge open eyelids by any scouts that choose to analyse Croatia’s World Cup opener with Morocco as they weigh up a potential move for Celtic’s Josip Juranovic.",
-          "link": "https://www.scotsman.com/sport/football/celtic/celtics-josip-juranovic-and-croatia-stymied-by-stuffy-morocco-in-world-cup-stalemate-3928861",
-          "publishedOn": "2022-11-23T12:47:09.000Z",
-          "wordCount": 2626,
-          "title": "Celtic's Josip Juranovic and Croatia stymied by stuffy Morocco in World Cup stalemate",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjEzMGVlOGJlLTMyY2EtNDQzOS05ZGNlLWZiOTc3YjQ5Nzk2ZDo2NDA2YjQ3Yy0xYWRmLTRkMjQtYmVmMS1jMjlkNzZlZmE1NWU=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3928785",
-          "author": "Matthew Elder",
-          "description": "Celtic have confirmed the signing of Japenese defender Yuki Kobayashi, subject to international clearance.",
-          "link": "https://www.scotsman.com/sport/football/celtic/celtic-complete-first-january-signing-as-japanese-contingent-increases-to-five-3928785",
-          "publishedOn": "2022-11-23T12:14:18.000Z",
-          "wordCount": 2425,
-          "title": "Celtic complete first January signing as Japanese contingent increases to five",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjMwNTQ1NjdhLTFjZDktNDVkOC1iYzIwLTg3MTExMTYwMjVlYzo1ZTgwZjRiYS05MGZlLTQxZWItYWYwYi1kNjNjY2I2NDI4YjA=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3928572",
-          "author": "Graham Falk",
-          "description": "Newcastle United and England full back Kieran Trippier has spoken about a training ground altercation with former Celtic player Ross Wallace which left him needing stitches.",
-          "link": "https://www.scotsman.com/sport/football/celtic/former-celtic-player-headbutted-me-reveals-england-world-cup-2022-star-3928572",
-          "publishedOn": "2022-11-23T10:49:32.000Z",
-          "wordCount": 2240,
-          "title": "'Former Celtic player headbutted me' reveals England World Cup 2022 star",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjRiZTZjNjgxLWQwZjgtNDljNS04YmRmLTQ3ZGJmNDgyM2U4Mzo5ZmJjOGUyOC1mYzk3LTRlYjMtYjliMS1lYzc4MzQ0MDg1YTE=.jpg?width=1200&enable=upscale"
         }
       ]
     },
@@ -228,6 +198,16 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CAIiEAiWP3BhwE_Mn31u8m8QSKwqGQgEKhAIACoHCAowuMWGCzDDuYQDMM2G0gY",
+          "author": null,
+          "description": "Why Scottish Cup minnows don't want to draw Rangers or Celtic  The Scotsman",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMibGh0dHBzOi8vd3d3LnNjb3RzbWFuLmNvbS9zcG9ydC9mb290YmFsbC93aHktc2NvdHRpc2gtY3VwLW1pbm5vd3MtZG9udC13YW50LXRvLWRyYXctcmFuZ2Vycy1vci1jZWx0aWMtMzkzMzE1MtIBAA?oc=5",
+          "publishedOn": "2022-11-27T23:23:15.000Z",
+          "wordCount": 2293,
+          "title": "Why Scottish Cup minnows don't want to draw Rangers or Celtic - The Scotsman",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjE2MTlmNjYzLTdiZTItNDg4ZS04N2MzLTJmYTYyZTdkZWM4MzpmYTU1OWJkNi0yYTgxLTRmMjYtOWM0MS0yNGJhODZlMzc5ZDg=.jpg?width=1200&enable=upscale"
+        },
         {
           "id": "CAIiED3Hk3DptC1U_utaFszrqXEqGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY",
           "author": null,
@@ -587,56 +567,6 @@
           "wordCount": 2869,
           "title": "Sevconia: Kingdom Of Fear And Loathing. - TheCelticBlog.com",
           "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2021/11/2020-11-22T110307Z_84786678_UP1EGBM0UP730_RTRMADP_3_SOCCER-SCOTLAND-RFC-ABE-REPORT.jpg"
-        },
-        {
-          "id": "CAIiELMwfIuU5N7pfLMvZQa318YqGQgEKhAIACoHCAowr5GNCzDFxJ4DMKuxpgY",
-          "author": null,
-          "description": "Yuki Kobayashi speaks after signing 5-year deal for Celtic  67 Hail Hail - Celtic FC News",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiYGh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL3RyYW5zZmVycy95dWtpLWtvYmF5YXNoaS1zcGVha3MtYWZ0ZXItc2lnbmluZy01LXllYXItZGVhbC1mb3ItY2VsdGljL9IBAA?oc=5",
-          "publishedOn": "2022-11-23T12:23:00.000Z",
-          "wordCount": 2131,
-          "title": "Yuki Kobayashi speaks after signing 5-year deal for Celtic - 67 Hail Hail - Celtic FC News",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/10/GettyImages-1385390556-scaled.jpg"
-        },
-        {
-          "id": "CAIiEEotnqvsMewBnP857d28ze0qGQgEKhAIACoHCAowsJStCzC9n8UDMNeMswc",
-          "author": null,
-          "description": "Chris Sutton calls out 'head scratching' Celtic Kyogo call by Japan coach  Celtic Way",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiZWh0dHBzOi8vd3d3LmNlbHRpY3dheS5jby51ay9uZXdzLzIzMTQ0MzU3LmNocmlzLXN1dHRvbi1jYWxscy1oZWFkLXNjcmF0Y2hpbmctY2VsdGljLWt5b2dvLWNhbGwtamFwYW4v0gEA?oc=5",
-          "publishedOn": "2022-11-23T12:01:49.000Z",
-          "wordCount": 8530,
-          "title": "Chris Sutton calls out 'head scratching' Celtic Kyogo call by Japan coach - Celtic Way",
-          "imageUrl": "https://www.celticway.co.uk/resources/images/13564262/?type=og-image"
-        },
-        {
-          "id": "CAIiEOu-a-0Wmyw6maHGc0zQgk4qGQgEKhAIACoHCAowr5GNCzDFxJ4DMLbFpgY",
-          "author": null,
-          "description": "“I refuse”; Ange Postecoglou delivers latest defiant Celtic statement  67 Hail Hail - Celtic FC News",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiY2h0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvaS1yZWZ1c2UtYW5nZS1wb3N0ZWNvZ2xvdS1kZWxpdmVycy1sYXRlc3QtZGVmaWFudC1jZWx0aWMtc3RhdGVtZW50L9IBAA?oc=5",
-          "publishedOn": "2022-11-23T11:15:00.000Z",
-          "wordCount": 2144,
-          "title": "“I refuse”; Ange Postecoglou delivers latest defiant Celtic statement - 67 Hail Hail - Celtic FC News",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/09/GettyImages-1421408650-scaled.jpg"
-        },
-        {
-          "id": "CBMiR2h0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS90aWNrZXQtaW5mb3JtYXRpb24tZm9yLWNlbHRpYy13b21lbi12LXJhbmdlcnMv0gGQAWh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS90aWNrZXQtaW5mb3JtYXRpb24tZm9yLWNlbHRpYy13b21lbi12LXJhbmdlcnMvYW1wLz9mYmNsaWQ9UEFBYWJfb2tUcl93ZkRoUFc4WWdJT1BTdVVnRDNiMDMwVEFocE1ZSENOZ0lKanppampBNWFOYVNHaFBUQQ",
-          "author": null,
-          "description": "Tickets Released for Major Celtic Women’s Derby  CeltsAreHere",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiR2h0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS90aWNrZXQtaW5mb3JtYXRpb24tZm9yLWNlbHRpYy13b21lbi12LXJhbmdlcnMv0gGQAWh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS90aWNrZXQtaW5mb3JtYXRpb24tZm9yLWNlbHRpYy13b21lbi12LXJhbmdlcnMvYW1wLz9mYmNsaWQ9UEFBYWJfb2tUcl93ZkRoUFc4WWdJT1BTdVVnRDNiMDMwVEFocE1ZSENOZ0lKanppampBNWFOYVNHaFBUQQ?oc=5",
-          "publishedOn": "2022-11-23T09:30:00.000Z",
-          "wordCount": 13580,
-          "title": "Tickets Released for Major Celtic Women’s Derby - CeltsAreHere",
-          "imageUrl": "https://cdn.celtsarehere.com/wp-content/uploads/2022/10/celtic-women-huddle-2.jpg"
-        },
-        {
-          "id": "CBMiR2h0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS90aWNrZXQtaW5mb3JtYXRpb24tZm9yLWNlbHRpYy13b21lbi12LXJhbmdlcnMv0gFLaHR0cHM6Ly9jZWx0c2FyZWhlcmUuY29tL3RpY2tldC1pbmZvcm1hdGlvbi1mb3ItY2VsdGljLXdvbWVuLXYtcmFuZ2Vycy9hbXAv",
-          "author": null,
-          "description": "Tickets Released for Major Celtic Women’s Derby  CeltsAreHere",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiR2h0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS90aWNrZXQtaW5mb3JtYXRpb24tZm9yLWNlbHRpYy13b21lbi12LXJhbmdlcnMv0gFLaHR0cHM6Ly9jZWx0c2FyZWhlcmUuY29tL3RpY2tldC1pbmZvcm1hdGlvbi1mb3ItY2VsdGljLXdvbWVuLXYtcmFuZ2Vycy9hbXAv?oc=5",
-          "publishedOn": "2022-11-23T09:30:00.000Z",
-          "wordCount": 13578,
-          "title": "Tickets Released for Major Celtic Women’s Derby - CeltsAreHere",
-          "imageUrl": "https://cdn.celtsarehere.com/wp-content/uploads/2022/10/celtic-women-huddle-2.jpg"
         }
       ]
     },
@@ -645,6 +575,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "b9e071efe976fe9edbd606f49f862315",
+          "author": null,
+          "description": "TESSEL MIDDAG has warned her Rangers teammates that they will have to find a clinical edge if they are to come out on top of the three-way fight...",
+          "link": "https://www.glasgowtimes.co.uk/sport/23152850.tessel-middag-urges-rangers-show-ruthless-streak-stalemate/?ref=rss",
+          "publishedOn": "2022-11-27T22:30:00.000Z",
+          "wordCount": 8937,
+          "title": "Tessel Middag urges Rangers to show ruthless streak after stalemate",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16202030/?type=og-image"
+        },
         {
           "id": "2615e7bf547068620c94901f530b271a",
           "author": null,
@@ -854,36 +794,6 @@
           "wordCount": 8611,
           "title": "Yuki Kobayashi's Celtic profile as defensive playing style revealed",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16189373/?type=og-image"
-        },
-        {
-          "id": "50d5615c98682050d840b903419ecb90",
-          "author": null,
-          "description": "Ange Postecoglou has spoken of his delight after signing defender Yuki Kobayashi.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23144556.ange-postecoglou-details-celtic-getting-yuki-kobayashi/?ref=rss",
-          "publishedOn": "2022-11-23T12:43:16.000Z",
-          "wordCount": 8464,
-          "title": "Ange Postecoglou details what Celtic are getting in Yuki Kobayashi",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16145139/?type=og-image"
-        },
-        {
-          "id": "498519a569ac147e012547de40303beb",
-          "author": null,
-          "description": "Celtic have announced the signing of Japanese central defender, Yuki Kobayashi, subject to international clearance.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23144387.celtic-confirm-yuki-kobayashi-transfer-ahead-january-window/?ref=rss",
-          "publishedOn": "2022-11-23T12:09:22.000Z",
-          "wordCount": 9641,
-          "title": "Celtic confirm Yuki Kobayashi transfer ahead of January window",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16188612/?type=og-image"
-        },
-        {
-          "id": "0eef8d5cdd23307ae0a22e51566d1655",
-          "author": null,
-          "description": "Chris Sutton has backed Kyogo Furuhashi after the Celtic star was snubbed from the Japanese national team for the World Cup in Qatar.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23144357.chris-sutton-calls-head-scratching-celtic-kyogo-call-japan/?ref=rss",
-          "publishedOn": "2022-11-23T12:01:49.000Z",
-          "wordCount": 8704,
-          "title": "Chris Sutton calls out 'head scratching' Celtic Kyogo call by Japan",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/13564262/?type=og-image"
         }
       ]
     }
