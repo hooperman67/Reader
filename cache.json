@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "3934686",
+          "author": "Mark Atkinson",
+          "description": "Hibs and Hearts will meet in the Scottish Cup fourth round after the draw for the competition was made on Monday night, while holders Rangers will take on fellow cinch Premiership side St Johnstone and Celtic will host Greenock Morton.",
+          "link": "https://www.scotsman.com/sport/football/scottish-cup-r4-draw-in-full-huge-hibs-hearts-derby-rangers-land-tricky-away-tie-celtic-at-home-plum-darvel-match-3934686",
+          "publishedOn": "2022-11-28T21:56:52.000Z",
+          "wordCount": 2207,
+          "title": "Scottish Cup R4 draw in full: Huge Hibs-Hearts derby, Rangers land tricky away tie, Celtic at home, plum Darvel match",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjdjYWExM2IxLTc5ZjUtNGEzMi1hMDUyLTEyOWY3MDQyMzhmYjpiYjNiNjQxMC03ZGYyLTRmNDAtOTYyMS1kMTdjOTkxMjlhMWU=.jpg?width=1200&enable=upscale"
+        },
+        {
           "id": "3933424",
           "author": "Angus Wright",
           "description": "Celtic are closing in on the signing of Canada’s World Cup star Alistair Johnston.",
@@ -164,16 +174,6 @@
           "wordCount": 2740,
           "title": "Alistair Johnston: Celtic target different to Josip Juranovic, how he fared v Eden Hazard, €6m value",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmJhMjNiZDcyLWE3MjQtNDQxYS05ODgxLWEwMmI3OGVkODVhZjo0ZWZjOWE3YS1kYzllLTRmNWQtODA1ZS0xYWE3ODdhZWMzN2Y=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3930074",
-          "author": "Joel Sked",
-          "description": "The women’s game within Scottish football has made great strides across the last five years. There has been qualification for both the European Championship and World Cup. The national side has made Hampden Park its home and attracted big crowds, while players can be found at the likes of Real Madrid, Chelsea and in America.",
-          "link": "https://www.scotsman.com/sport/football/glasgow-and-edinburgh-derbies-ultras-and-record-attendance-in-store-as-swpl-prepares-to-take-centre-stage-3930074",
-          "publishedOn": "2022-11-24T11:52:40.000Z",
-          "wordCount": 3601,
-          "title": "Glasgow and Edinburgh derbies, ultras and record attendance in store as SWPL prepares to take centre stage",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmYyMTM5MzI2LWRmNTMtNDgwZC1hOTIzLWE5MTZmNmFiYjJlMTo5ZWY5Yjk4MS05N2ZiLTQ1YTktOWRjMC0xYjZjNmI3NjlhODg=.jpg?width=1200&enable=upscale"
         }
       ]
     },
@@ -188,6 +188,26 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CBMiPWh0dHBzOi8vd3d3LmFmYy5jby51ay8yMDIyLzExLzI4L3NjcjQtZHJhdy1kYXJ2ZWwtdi1hYmVyZGVlbi_SAQA",
+          "author": null,
+          "description": "SCR4 Draw | Darvel v Aberdeen  afc.co.uk",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiPWh0dHBzOi8vd3d3LmFmYy5jby51ay8yMDIyLzExLzI4L3NjcjQtZHJhdy1kYXJ2ZWwtdi1hYmVyZGVlbi_SAQA?oc=5",
+          "publishedOn": "2022-11-28T22:07:00.000Z",
+          "wordCount": 1973,
+          "title": "SCR4 Draw | Darvel v Aberdeen - afc.co.uk",
+          "imageUrl": "https://d2cx26qpfwuhvu.cloudfront.net/aberdeen/wp-content/uploads/2021/03/23214306/Scottish_Cup_Header.jpg"
+        },
+        {
+          "id": "CAIiEA8ebPNvmo16gU925N9iftEqGQgEKhAIACoHCAowne-jCzDg-bsDMLnLhQc",
+          "author": null,
+          "description": "Scottish Cup Draw Gives Celtic A Home Tie And A Great Chance Of Progress  TheCelticBlog.com",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiigFodHRwczovL3RoZWNlbHRpY2Jsb2cuY29tLzIwMjIvMTEvYXJ0aWNsZXMtYW5kLWZlYXR1cmVzL2FydGljbGVzL3Njb3R0aXNoLWN1cC1kcmF3LWdpdmVzLWNlbHRpYy1hLWhvbWUtdGllLWFuZC1hLWdyZWF0LWNoYW5jZS1vZi1wcm9ncmVzcy_SAQA?oc=5",
+          "publishedOn": "2022-11-28T21:50:00.000Z",
+          "wordCount": 1739,
+          "title": "Scottish Cup Draw Gives Celtic A Home Tie And A Great Chance Of Progress - TheCelticBlog.com",
+          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2022/01/2022-01-26T203102Z_1891876193_UP1EI1Q1KZN2J_RTRMADP_3_SOCCER-SCOTLAND-HOM-CEL-REPORT.jpg"
+        },
         {
           "id": "CAIiECKdGb1o8SdAoR2sdeNsraEqGQgEKhAIACoHCAowr5GNCzDFxJ4DMLbFpgY",
           "author": null,
@@ -587,16 +607,6 @@
           "wordCount": 3495,
           "title": "Alistair Johnston to Celtic transfer swerved by CF Montreal president as he offers World Cup trip explainer - Daily Record",
           "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28578785.ece/ALTERNATES/s1200/0_WCup-Canada-Soccer-Doha-Qatar-23-Nov-2022.jpg"
-        },
-        {
-          "id": "CAIiEKFHV_zJUXynsZeluOh58g4qGQgEKhAIACoHCAowsJStCzC9n8UDMNeMswc",
-          "author": null,
-          "description": "Celtic resurrect Mohamed 'Afsha' Magdy transfer interest  Celtic Way",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiYWh0dHBzOi8vd3d3LmNlbHRpY3dheS5jby51ay9uZXdzLzIzMTQ2NDI3LmNlbHRpYy1yZXN1cnJlY3QtbW9oYW1lZC1hZnNoYS1tYWdkeS10cmFuc2Zlci1pbnRlcmVzdC_SAQA?oc=5",
-          "publishedOn": "2022-11-24T09:58:10.000Z",
-          "wordCount": 8094,
-          "title": "Celtic resurrect Mohamed 'Afsha' Magdy transfer interest - Celtic Way",
-          "imageUrl": "https://www.celticway.co.uk/resources/images/16191823/?type=og-image"
         }
       ]
     },
@@ -605,6 +615,46 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "e70b2773ac3c650788740c1119c37bc9",
+          "author": null,
+          "description": "O'Riley has been in Glasgow for less than one-year, however, he has taken to life at Celtic like a duck to water.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23155592.matt-oriley-explains-celtic-v-everton-eye-opener/?ref=rss",
+          "publishedOn": "2022-11-28T22:30:00.000Z",
+          "wordCount": 10188,
+          "title": "Matt O'Riley explains why Celtic v Everton was 'eye-opener'",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16206185/?type=og-image"
+        },
+        {
+          "id": "fb0f34e0772f5c5b66e81f22aac0cb59",
+          "author": null,
+          "description": "All 16 ties were confirmed after Ayr United vs Pollok this evening.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23154887.scottish-cup-fourth-round-draw-full-premiership-teams-enter-fray/?ref=rss",
+          "publishedOn": "2022-11-28T21:50:00.000Z",
+          "wordCount": 9641,
+          "title": "Scottish Cup fourth round draw in full as Premiership teams enter fray",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16205059/?type=og-image"
+        },
+        {
+          "id": "91d624d0e241feb3f15f97823921e778",
+          "author": null,
+          "description": "The draw will take place in the aftermath of Ayr United's game against Pollok live on BBC Scotland.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23155738.scottish-cup-draw-live-fourth-round-ties-confirmed/?ref=rss",
+          "publishedOn": "2022-11-28T21:14:24.000Z",
+          "wordCount": 8013,
+          "title": "Scottish Cup draw LIVE: Fourth round ties to be confirmed",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16206405/?type=og-image"
+        },
+        {
+          "id": "e672abe81c780fa713c23b14e9d36bd0",
+          "author": null,
+          "description": "The Englishman has left Loftus Road for Ibrox just six-weeks after he appeared to commit his future to the London club.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23155707.celtic-hero-chris-sutton-rangers-michael-beale-promise-dig/?ref=rss",
+          "publishedOn": "2022-11-28T20:23:01.000Z",
+          "wordCount": 8283,
+          "title": "Celtic hero Chris Sutton in Rangers Michael Beale 'promise' dig",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16206318/?type=og-image"
+        },
         {
           "id": "47efa04de6abcfef9e4457cc2ceaafc1",
           "author": null,
@@ -784,36 +834,6 @@
           "wordCount": 9805,
           "title": "The life and times of Celtic founder Brother Walfrid finally revealed",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16195015/?type=og-image"
-        },
-        {
-          "id": "a270301ba806345b1886869e1aae5f6d",
-          "author": null,
-          "description": "CELTIC defender Alexandro Bernabei is accused of drink driving and being abusive in a nightclub.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23147243.glasgow-sheriff-court-celtic-star-accused-drink-driving/?ref=rss",
-          "publishedOn": "2022-11-24T13:02:59.000Z",
-          "wordCount": 8277,
-          "title": "Glasgow Sheriff Court: Celtic star accused of drink driving",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15967077/?type=og-image"
-        },
-        {
-          "id": "2d04efb36bb34657cb88ea9819fd2403",
-          "author": null,
-          "description": "A CELTIC star will stand trial accused of careless driving.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23147168.glasgow-sheriff-court-celtic-star-accused-careless-driving/?ref=rss",
-          "publishedOn": "2022-11-24T12:44:10.000Z",
-          "wordCount": 8196,
-          "title": "Glasgow sheriff court: Celtic star accused of careless driving",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16192836/?type=og-image"
-        },
-        {
-          "id": "f4714ae431bf8627406b1d3a572ad20f",
-          "author": null,
-          "description": "CELTIC have resurrected their interest in Egyptian hero Afsha and want to bring him to Glasgow on a loan move in January, according to reports in his homeland.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23146427.celtic-resurrect-mohamed-afsha-magdy-transfer-interest/?ref=rss",
-          "publishedOn": "2022-11-24T09:55:42.000Z",
-          "wordCount": 8268,
-          "title": "Celtic resurrect  Mohamed 'Afsha' Magdy transfer interest",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16191823/?type=og-image"
         }
       ]
     }
