@@ -209,6 +209,16 @@
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
         {
+          "id": "CAIiED3Nwyo8qPCiFsiKGaKWFEsqGQgEKhAIACoHCAow4KKJCzCv9JoDMICkoAY",
+          "author": null,
+          "description": "Kris Boyd makes Mike Beale claim as Rangers try to stop Celtic  The Celtic Bhoys",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiSmh0dHBzOi8vdGhlY2VsdGljYmhveXMuY29tLzIwMjIvMTEvMjkva3Jpcy1ib3lkLW1pa2UtYmVhbGUtcmFuZ2Vycy1jZWx0aWMv0gEA?oc=5",
+          "publishedOn": "2022-11-29T17:04:28.000Z",
+          "wordCount": 2378,
+          "title": "Kris Boyd makes Mike Beale claim as Rangers try to stop Celtic - The Celtic Bhoys",
+          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1404021294.jpeg"
+        },
+        {
           "id": "CAIiEOg6B3BzNpPoZPRz0F2Xx58qGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY",
           "author": null,
           "description": "Ibrox Pundits Clutching at Straws – “No chance, it’s not going to happen,” says Celtic Star  The Celtic Star",
@@ -675,6 +685,36 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "d7f389f0f8eabc6d99fec4a2caefeeab",
+          "author": null,
+          "description": "Fans flocked to grounds across two divisions of the women's game",
+          "link": "https://www.glasgowtimes.co.uk/sport/23158082.swpl-announce-record-breaking-weekend-attendances/?ref=rss",
+          "publishedOn": "2022-11-29T16:57:00.000Z",
+          "wordCount": 9658,
+          "title": "SWPL announce record-breaking weekend for attendances",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16210293/?type=og-image"
+        },
+        {
+          "id": "27dc0c2072547a96acdc9df71b4fe8db",
+          "author": null,
+          "description": "The Scotland international is being given more time to recover after the friendly against Turkey",
+          "link": "https://www.glasgowtimes.co.uk/sport/23157895.ex-celtic-defender-kieran-tierneys-arsenal-training-absence-detailed/?ref=rss",
+          "publishedOn": "2022-11-29T16:18:00.000Z",
+          "wordCount": 8358,
+          "title": "Ex-Celtic defender Kieran Tierney's Arsenal training absence detailed",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16209919/?type=og-image"
+        },
+        {
+          "id": "1b6ef9f1b9cc8e598670df8e12049dbb",
+          "author": null,
+          "description": "The former Manchester City and Arsenal defender today landed his first role in management with the Championship side.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23157630.kolo-toure-brendan-rodgers-celtic-experience-taking-wigan-job/?ref=rss",
+          "publishedOn": "2022-11-29T15:26:02.000Z",
+          "wordCount": 8259,
+          "title": "Kolo Toure on Brendan Rodgers Celtic experience after taking Wigan job",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16209467/?type=og-image"
+        },
         {
           "id": "5f84851bb7197828856374f78827376c",
           "author": null,
