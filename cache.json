@@ -209,6 +209,16 @@
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
         {
+          "id": "CAIiEBVxflw14qJNDo1dAHRuCzMqGQgEKhAIACoHCAowwNKVCzCxt6sDMJXwxgY",
+          "author": null,
+          "description": "Rangers SUED by Sydney Super Cup promoters as row over scrapped ‘Old Firm’ media release with Celtic laid b...  The Scottish Sun",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMicGh0dHBzOi8vd3d3LnRoZXNjb3R0aXNoc3VuLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsLzk4NDE4NjIvcmFuZ2Vycy1zdWVkLXN5ZG5leS1zdXBlci1jdXAtcHJvbW90ZXJzLW9sZC1maXJtLWNlbHRpYy_SAQA?oc=5",
+          "publishedOn": "2022-11-29T09:24:22.000Z",
+          "wordCount": 4519,
+          "title": "Rangers SUED by Sydney Super Cup promoters as row over scrapped ‘Old Firm’ media release with Celtic laid b... - The Scottish Sun",
+          "imageUrl": "https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2022/11/crop-9842161.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
+        },
+        {
           "id": "CAIiEFo8H0XglFJ3y5KxiBnxMJwqGQgEKhAIACoHCAowrueiCTDmn7gCMKXUtwU",
           "author": null,
           "description": "Transfer news LIVE as Celtic and Rangers plus Aberdeen, Hearts and Hibs eye signings  Daily Record",
@@ -217,6 +227,16 @@
           "wordCount": 7084,
           "title": "Transfer news LIVE as Celtic and Rangers plus Aberdeen, Hearts and Hibs eye signings - Daily Record",
           "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28606983.ece/ALTERNATES/s1200/0_Screenshot-2022-11-29-at-062507.png"
+        },
+        {
+          "id": "CBMiZ2h0dHBzOi8vd2lnYW5hdGhsZXRpYy5jb20vbmV3cy8yMDIyL25vdmVtYmVyLzI5L2tvbG8tdG91cmUtYXBwb2ludGVkLXdpZ2FuLWF0aGxldGljLWZpcnN0LXRlYW0tbWFuYWdlci_SAQA",
+          "author": null,
+          "description": "Kolo Touré appointed Wigan Athletic First Team Manager  Wigan Athletic",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiZ2h0dHBzOi8vd2lnYW5hdGhsZXRpYy5jb20vbmV3cy8yMDIyL25vdmVtYmVyLzI5L2tvbG8tdG91cmUtYXBwb2ludGVkLXdpZ2FuLWF0aGxldGljLWZpcnN0LXRlYW0tbWFuYWdlci_SAQA?oc=5",
+          "publishedOn": "2022-11-29T08:58:09.000Z",
+          "wordCount": 2140,
+          "title": "Kolo Touré appointed Wigan Athletic First Team Manager - Wigan Athletic",
+          "imageUrl": "https://images.webapi.wiganathletic.com/fit-in/1000x1000/4416a860-6fb6-11ed-9b46-0d6a4e7bb7b3.jpg"
         },
         {
           "id": "CAIiEDd_PcAMDg3iw4lB2I_2uwQqGQgEKhAIACoHCAowrueiCTDmn7gCMIfHtwU",
@@ -633,8 +653,38 @@
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "467e97da3e1a6e14a210d5b1117f8c11",
+          "author": null,
+          "description": "Michael Beale's coaching staff member previously worked as a scout for Celtic in London.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23156285.incoming-rangers-coach-damian-matthews-previous-celtic-role-revealed/?ref=rss",
+          "publishedOn": "2022-11-29T10:20:35.000Z",
+          "wordCount": 8352,
+          "title": "Incoming Rangers coach Damian Matthew's previous Celtic role revealed",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16207185/?type=og-image"
+        },
+        {
+          "id": "4ce5af5004bac10e6f96f749bf038b3e",
+          "author": null,
+          "description": "THE former Celtic defender has left his Leicester coaching role to take over at the Latics.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23156209.kolo-toure-named-wigan-manager-steven-gerrard-misses/?ref=rss",
+          "publishedOn": "2022-11-29T10:00:58.000Z",
+          "wordCount": 8487,
+          "title": "Kolo Toure named Wigan manager as Steven Gerrard misses out",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16207037/?type=og-image"
+        },
+        {
+          "id": "c1932be855457622de333978d7f4151d",
+          "author": null,
+          "description": "CANADA star Alistair Johnston has revealed Victor Wanyama has been in his ear about a move to Celtic.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23155949.alistair-johnston-reveals-victor-wanyama-advice-celtic-transfer/?ref=rss",
+          "publishedOn": "2022-11-29T08:33:22.000Z",
+          "wordCount": 8472,
+          "title": "Alistair Johnston reveals Victor Wanyama advice on Celtic transfer",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16202607/?type=og-image"
+        },
         {
           "id": "e70b2773ac3c650788740c1119c37bc9",
           "author": null,
@@ -824,16 +874,6 @@
           "wordCount": 8594,
           "title": "Alistair Johnston discusses potential Celtic January transfer switch",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16195620/?type=og-image"
-        },
-        {
-          "id": "27732c8f2465dd27cc81dd0184f92af6",
-          "author": null,
-          "description": "REPORTS claim Celtic are in advanced discussions with CF Montreal over a transfer deal to sign Alistair Johnston.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23148667.celtic-advanced-talks-sign-canada-star-alistair-johnston/?ref=rss",
-          "publishedOn": "2022-11-24T21:48:11.000Z",
-          "wordCount": 8527,
-          "title": "Celtic in 'advanced talks' to sign Canada star Alistair Johnston",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16195320/?type=og-image"
         }
       ]
     }
