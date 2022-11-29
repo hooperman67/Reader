@@ -179,6 +179,16 @@
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
         {
+          "id": "CAIiEDd_PcAMDg3iw4lB2I_2uwQqGQgEKhAIACoHCAowrueiCTDmn7gCMIfHtwU",
+          "author": null,
+          "description": "Matt O'Riley in ominous Celtic warning to Premiership rivals as he guarantees complacency will NEVER HAPPEN  Daily Record",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiWGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL21hdHQtb3JpbGV5LW9taW5vdXMtY2VsdGljLXdhcm5pbmctMjg2MDA4NjfSAQA?oc=5",
+          "publishedOn": "2022-11-29T06:00:00.000Z",
+          "wordCount": 4128,
+          "title": "Matt O'Riley in ominous Celtic warning to Premiership rivals as he guarantees complacency will NEVER HAPPEN - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28476314.ece/ALTERNATES/s1200/0_JS283270036.jpg"
+        },
+        {
           "id": "CBMiPWh0dHBzOi8vd3d3LmFmYy5jby51ay8yMDIyLzExLzI4L3NjcjQtZHJhdy1kYXJ2ZWwtdi1hYmVyZGVlbi_SAQA",
           "author": null,
           "description": "SCR4 Draw | Darvel v Aberdeen  afc.co.uk",
@@ -814,16 +824,6 @@
           "wordCount": 9766,
           "title": "'Without question' - Rangers need major rebuild, claims Celtic hero",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16195123/?type=og-image"
-        },
-        {
-          "id": "cd540f54d9bc7f76c0b148c746c4e1c1",
-          "author": null,
-          "description": "ANY Celtic supporter who knows their history could tell you that the Parkhead club was formed by Brother Walfrid in 1887 to raise money for the Catholic poor of the East End of Glasgow.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23148204.life-times-celtic-founder-brother-walfrid-finally-revealed/?ref=rss",
-          "publishedOn": "2022-11-24T18:05:00.000Z",
-          "wordCount": 9805,
-          "title": "The life and times of Celtic founder Brother Walfrid finally revealed",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16195015/?type=og-image"
         }
       ]
     }
