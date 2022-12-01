@@ -310,6 +310,16 @@
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
         {
+          "id": "CBMiYWh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vbHVjeS1hc2h3b3J0aC1jbGlmZm9yZC1zdWZmZXJlZC1hY2wtaW5qdXJ5LWFnYWluc3QtcmFuZ2Vycy1mcmFuLWFsb25zby_SAWVodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL2x1Y3ktYXNod29ydGgtY2xpZmZvcmQtc3VmZmVyZWQtYWNsLWluanVyeS1hZ2FpbnN0LXJhbmdlcnMtZnJhbi1hbG9uc28vYW1wLw",
+          "author": null,
+          "description": "Lucy Ashworth-Clifford suffered ACL injury against Rangers – Fran Alonso  The Celtic Star",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiYWh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vbHVjeS1hc2h3b3J0aC1jbGlmZm9yZC1zdWZmZXJlZC1hY2wtaW5qdXJ5LWFnYWluc3QtcmFuZ2Vycy1mcmFuLWFsb25zby_SAWVodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL2x1Y3ktYXNod29ydGgtY2xpZmZvcmQtc3VmZmVyZWQtYWNsLWluanVyeS1hZ2FpbnN0LXJhbmdlcnMtZnJhbi1hbG9uc28vYW1wLw?oc=5",
+          "publishedOn": "2022-12-01T13:50:47.000Z",
+          "wordCount": 1272,
+          "title": "Lucy Ashworth-Clifford suffered ACL injury against Rangers – Fran Alonso - The Celtic Star",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/11/clifford_9661-1024x682.jpeg"
+        },
+        {
           "id": "CBMibWh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL2NlbHRpYy15b3V0aC9jZWx0aWMtYi1zdGFnZS1kcmFtYXRpYy1sYXRlLWNvbWViYWNrLWFzLXRoZXktcmV0dXJuLXRvLXdpbm5pbmctd2F5cy_SAXFodHRwczovL3d3dy42N2hhaWxoYWlsLmNvbS9jZWx0aWMteW91dGgvY2VsdGljLWItc3RhZ2UtZHJhbWF0aWMtbGF0ZS1jb21lYmFjay1hcy10aGV5LXJldHVybi10by13aW5uaW5nLXdheXMvP2FtcA",
           "author": null,
           "description": "Celtic B stage dramatic late comeback as they return to winning ways  67 Hail Hail - Celtic FC News",
@@ -996,6 +1006,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "9b26e8dbe09a2038254bae42ae7de247",
+          "author": null,
+          "description": "THE Japanese forward was left out of the World Cup squad.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23162926.kyogo-furuhashi-japan-situation-explained-legend-hails-celtic-form/?ref=rss",
+          "publishedOn": "2022-12-01T13:41:19.000Z",
+          "wordCount": 8453,
+          "title": "Kyogo Furuhashi Japan situation explained as legend hails Celtic form",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16217541/?type=og-image"
+        },
         {
           "id": "5dd127077280e071f8334aa964cbb389",
           "author": null,
