@@ -470,6 +470,26 @@
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
         {
+          "id": "CBMiV2h0dHBzOi8vd3d3LmRhaWx5c3Rhci5jby51ay9zcG9ydC9mb290YmFsbC9sZWlnaC1ncmlmZml0aHMtc2VhcmNoLXBvbGljZS1wcm9iZS0yODYzNjE3MdIBW2h0dHBzOi8vd3d3LmRhaWx5c3Rhci5jby51ay9zcG9ydC9mb290YmFsbC9sZWlnaC1ncmlmZml0aHMtc2VhcmNoLXBvbGljZS1wcm9iZS0yODYzNjE3MS5hbXA",
+          "author": null,
+          "description": "Ex-Celtic star Leigh Griffiths' home raided by 10 cops in two-and-a-half hour search  Daily Star",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiV2h0dHBzOi8vd3d3LmRhaWx5c3Rhci5jby51ay9zcG9ydC9mb290YmFsbC9sZWlnaC1ncmlmZml0aHMtc2VhcmNoLXBvbGljZS1wcm9iZS0yODYzNjE3MdIBW2h0dHBzOi8vd3d3LmRhaWx5c3Rhci5jby51ay9zcG9ydC9mb290YmFsbC9sZWlnaC1ncmlmZml0aHMtc2VhcmNoLXBvbGljZS1wcm9iZS0yODYzNjE3MS5hbXA?oc=5",
+          "publishedOn": "2022-12-02T08:41:34.000Z",
+          "wordCount": 3708,
+          "title": "Ex-Celtic star Leigh Griffiths' home raided by 10 cops in two-and-a-half hour search - Daily Star",
+          "imageUrl": "https://i2-prod.mirror.co.uk/incoming/article28636272.ece/ALTERNATES/s1200/2_VSP_SDR_080721Griffiths_02JPG.jpg"
+        },
+        {
+          "id": "CBMia2h0dHBzOi8vd3d3LmNlbHRpY3dheS5jby51ay9mZWF0dXJlcy8yMzE2MjcxOS5taW5kc2V0cy1ydWxlcy1yaXNrcy1zY290dGlzaC1mYXMtaGVhZGluZy1yZXN0cmljdGlvbnMtZm9jdXMv0gEA",
+          "author": null,
+          "description": "Mindsets, rules & risks: Scottish FA's heading restrictions in focus  Celtic Way",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMia2h0dHBzOi8vd3d3LmNlbHRpY3dheS5jby51ay9mZWF0dXJlcy8yMzE2MjcxOS5taW5kc2V0cy1ydWxlcy1yaXNrcy1zY290dGlzaC1mYXMtaGVhZGluZy1yZXN0cmljdGlvbnMtZm9jdXMv0gEA?oc=5",
+          "publishedOn": "2022-12-02T07:45:00.000Z",
+          "wordCount": 9358,
+          "title": "Mindsets, rules & risks: Scottish FA's heading restrictions in focus - Celtic Way",
+          "imageUrl": "https://www.celticway.co.uk/resources/images/16222095/?type=og-image"
+        },
+        {
           "id": "CBMia2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvamFjay1maXR6d2F0ZXItaGFuZGVkLWJ1bXBlci1saXZpbmdzdG9uLTI4NjMzMzUx0gFvaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvZm9vdGJhbGwtbmV3cy9qYWNrLWZpdHp3YXRlci1oYW5kZWQtYnVtcGVyLWxpdmluZ3N0b24tMjg2MzMzNTEuYW1w",
           "author": null,
           "description": "Jack Fitzwater handed bumper Livingston transfer price tag as David Martindale makes contract confession  Daily Record",
@@ -1208,16 +1228,6 @@
           "wordCount": 3377,
           "title": "Alistair Johnston to Celtic transfer fee revealed as star to bank 10 per cent from Montreal exit - Daily Record",
           "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28597576.ece/ALTERNATES/s1200/0_WCup-Canada-Soccer-Doha-Qatar-27-Nov-2022.jpg"
-        },
-        {
-          "id": "CAIiED3Hk3DptC1U_utaFszrqXEqGQgEKhAIACoHCAow4rGVCzCzlasDMJyQxgY",
-          "author": null,
-          "description": "Hibs v Hearts smash attendance record 24 hours after Rangers fail against Celtic  The Celtic Star",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMia2h0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vaGlicy12LWhlYXJ0cy1zbWFzaC1hdHRlbmRhbmNlLXJlY29yZC0yNC1ob3Vycy1hZnRlci1yYW5nZXJzLWZhaWwtYWdhaW5zdC1jZWx0aWMv0gEA?oc=5",
-          "publishedOn": "2022-11-27T18:33:21.000Z",
-          "wordCount": 1512,
-          "title": "Hibs v Hearts smash attendance record 24 hours after Rangers fail against Celtic - The Celtic Star",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/11/hayes_8244-1024x682.jpeg"
         }
       ]
     },
@@ -1226,6 +1236,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
       "articles": [
+        {
+          "id": "72a68ad2e1ea96f2dd1aedf7a8b2ce42",
+          "author": null,
+          "description": "Ferencvaros have entered the race to sign South Korea striker Cho Gue-sung after an impressive showing at the World Cup in Qatar.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23164898.celtic-dealt-cho-gue-sung-transfer-blow-ferencvaros-enter-race/?ref=rss",
+          "publishedOn": "2022-12-02T08:33:31.000Z",
+          "wordCount": 8370,
+          "title": "Celtic dealt Cho Gue-sung transfer blow as Ferencvaros enter race",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16222519/?type=og-image"
+        },
         {
           "id": "31107fcb24d08b0fabd8811ef26132c2",
           "author": null,
