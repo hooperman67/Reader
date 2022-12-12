@@ -84,16 +84,6 @@
           "wordCount": 2820,
           "title": "Qatar World Cup has already ticked plenty boxes - can it now become one of the greats?",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjI0Mjg1ZTEzLTlkMzgtNGUwOS1iOGIwLWRmZjAyYzBhNjdjNTo5NTk0NWUwNS05ZjVkLTRhMTMtYTEwNy1jY2QwMGExNmZkZWM=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "3944856",
-          "author": "Angus Wright",
-          "description": "Celtic have already added two players to Ange Postecoglou's squad ahead of the January transfer window and it could be a busy month in the east end of Glasgow.",
-          "link": "https://www.scotsman.com/sport/football/celtic/celtic-transfer-latest-targets-hint-euro-giants-eye-parkhead-star-battle-for-ps4m-international-playmaker-3944856",
-          "publishedOn": "2022-12-07T11:08:55.000Z",
-          "wordCount": 2563,
-          "title": "Celtic transfer latest: Target's hint, Euro giants eye Parkhead star, battle for £4m international playmaker",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjg4MzY1MDNlLTRiMGYtNDRlNS1hNzY3LWVhMzRlMTcwM2FiMTowYWE2OWRhYy1iMjZkLTRlOTMtODZkZi05Y2M2NWYwNzcxMzA=.jpg?width=1200&enable=upscale"
         }
       ]
     },
@@ -259,6 +249,16 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CBMib2h0dHBzOi8vdGhlY2VsdGljYmxvZy5jb20vMjAyMi8xMi9ibG9ncy9mb3VyLXBoYXNlcy1vZi1jZWx0aWMtdGhlLXJlYWwtc3RvcnktYmVoaW5kLWxhd3dlbGxzLXJlY29yZC1vZi1zdWNjZXNzL9IBuAFodHRwczovL3RoZWNlbHRpY2Jsb2cuY29tLzIwMjIvMTIvYmxvZ3MvZm91ci1waGFzZXMtb2YtY2VsdGljLXRoZS1yZWFsLXN0b3J5LWJlaGluZC1sYXd3ZWxscy1yZWNvcmQtb2Ytc3VjY2Vzcy8_ZmJjbGlkPUl3QVIwQ1ZIeUlQTG04TFpyRmFybkZTUFJraHZ5YkgxeC0wVUNCQzY0SUdaRHljZXItd01IaUp0RG15SXMmYW1w",
+          "author": null,
+          "description": "Four Phases Of Celtic: The Real Story Behind Lawwell’s Record Of “Success.”  TheCelticBlog.com",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMib2h0dHBzOi8vdGhlY2VsdGljYmxvZy5jb20vMjAyMi8xMi9ibG9ncy9mb3VyLXBoYXNlcy1vZi1jZWx0aWMtdGhlLXJlYWwtc3RvcnktYmVoaW5kLWxhd3dlbGxzLXJlY29yZC1vZi1zdWNjZXNzL9IBuAFodHRwczovL3RoZWNlbHRpY2Jsb2cuY29tLzIwMjIvMTIvYmxvZ3MvZm91ci1waGFzZXMtb2YtY2VsdGljLXRoZS1yZWFsLXN0b3J5LWJlaGluZC1sYXd3ZWxscy1yZWNvcmQtb2Ytc3VjY2Vzcy8_ZmJjbGlkPUl3QVIwQ1ZIeUlQTG04TFpyRmFybkZTUFJraHZ5YkgxeC0wVUNCQzY0SUdaRHljZXItd01IaUp0RG15SXMmYW1w?oc=5",
+          "publishedOn": "2022-12-11T18:19:00.000Z",
+          "wordCount": 2717,
+          "title": "Four Phases Of Celtic: The Real Story Behind Lawwell’s Record Of “Success.” - TheCelticBlog.com",
+          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2019/09/2016-02-13T145735Z_1_MT1ACI14276515_RTRMADP_3_SOCCER-SCOTLAND.jpg"
+        },
         {
           "id": "CBMiWGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL3RvdWNoeS1jZWx0aWMtZmFucy1saXZlLWNvbnNwaXJhY3ktMjg3MDYxMjjSAVxodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC90b3VjaHktY2VsdGljLWZhbnMtbGl2ZS1jb25zcGlyYWN5LTI4NzA2MTI4LmFtcA",
           "author": null,
@@ -798,46 +798,6 @@
           "wordCount": 2125,
           "title": "Simon Jordan Is A Clown But He’s Not Wrong About Celtic And The Mooch. - TheCelticBlog.com",
           "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2022/12/2009-05-03T000000Z_1_MT1ACI5972458_RTRMADP_3_SOCCER-ENGLAND-CRY-SHU.jpg"
-        },
-        {
-          "id": "CBMiX2h0dHBzOi8vd3d3LmNlbHRpY3dheS5jby51ay9uZXdzLzIzMTc1ODQzLmNlbHRpYy1jYXB0YWluLW1jZ3JlZ29yLWdpZnRzLWZvcnJlc3Qtc3BlY2lhbC1qZXJzZXkv0gEA",
-          "author": null,
-          "description": "Celtic captain McGregor gifts Forrest special jersey | Celtic Way  Celtic Way",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiX2h0dHBzOi8vd3d3LmNlbHRpY3dheS5jby51ay9uZXdzLzIzMTc1ODQzLmNlbHRpYy1jYXB0YWluLW1jZ3JlZ29yLWdpZnRzLWZvcnJlc3Qtc3BlY2lhbC1qZXJzZXkv0gEA?oc=5",
-          "publishedOn": "2022-12-07T13:09:00.000Z",
-          "wordCount": 8268,
-          "title": "Celtic captain McGregor gifts Forrest special jersey | Celtic Way - Celtic Way",
-          "imageUrl": "https://www.celticway.co.uk/resources/images/16240106/?type=og-image"
-        },
-        {
-          "id": "CBMiXWh0dHBzOi8vd3d3LnNjb3R0aXNoZGFpbHlleHByZXNzLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2phbWVzLWZvcnJlc3QtMTAwLWNlbHRpYy1nb2Fscy0yODY3NTY1M9IBYWh0dHBzOi8vd3d3LnNjb3R0aXNoZGFpbHlleHByZXNzLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2phbWVzLWZvcnJlc3QtMTAwLWNlbHRpYy1nb2Fscy0yODY3NTY1My5hbXA",
-          "author": null,
-          "description": "James Forrest 100 Celtic goals honour as Callum McGregor makes special presentation to century bhoy  Scottish Daily Express",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiXWh0dHBzOi8vd3d3LnNjb3R0aXNoZGFpbHlleHByZXNzLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2phbWVzLWZvcnJlc3QtMTAwLWNlbHRpYy1nb2Fscy0yODY3NTY1M9IBYWh0dHBzOi8vd3d3LnNjb3R0aXNoZGFpbHlleHByZXNzLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2phbWVzLWZvcnJlc3QtMTAwLWNlbHRpYy1nb2Fscy0yODY3NTY1My5hbXA?oc=5",
-          "publishedOn": "2022-12-07T12:42:17.000Z",
-          "wordCount": 2830,
-          "title": "James Forrest 100 Celtic goals honour as Callum McGregor makes special presentation to century bhoy - Scottish Daily Express",
-          "imageUrl": "https://i2-prod.scottishdailyexpress.co.uk/incoming/article28675839.ece/ALTERNATES/s1200/0_Forrest-McGregor-100.jpg"
-        },
-        {
-          "id": "CBMiU2h0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L2phbWVzLWZvcnJlc3QtcHJlc2VudGVkLXNwZWNpYWwtY2VsdGljLTI1Njk0MjYy0gFXaHR0cHM6Ly93d3cuZ2xhc2dvd2xpdmUuY28udWsvc3BvcnQvamFtZXMtZm9ycmVzdC1wcmVzZW50ZWQtc3BlY2lhbC1jZWx0aWMtMjU2OTQyNjIuYW1w",
-          "author": null,
-          "description": "James Forrest presented special Celtic top by Callum McGregor to mark 100 goal milestone  Glasgow Live",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiU2h0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L2phbWVzLWZvcnJlc3QtcHJlc2VudGVkLXNwZWNpYWwtY2VsdGljLTI1Njk0MjYy0gFXaHR0cHM6Ly93d3cuZ2xhc2dvd2xpdmUuY28udWsvc3BvcnQvamFtZXMtZm9ycmVzdC1wcmVzZW50ZWQtc3BlY2lhbC1jZWx0aWMtMjU2OTQyNjIuYW1w?oc=5",
-          "publishedOn": "2022-12-07T12:09:50.000Z",
-          "wordCount": 3701,
-          "title": "James Forrest presented special Celtic top by Callum McGregor to mark 100 goal milestone - Glasgow Live",
-          "imageUrl": "https://i2-prod.glasgowlive.co.uk/incoming/article25694238.ece/ALTERNATES/s1200/0_JS285605123.jpg"
-        },
-        {
-          "id": "CBMiWmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2tlYW51LWJhY2N1cy1jZWx0aWMtcmFuZ2Vycy10cmFuc2Zlci0yODY3MzcxNNIBXmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2tlYW51LWJhY2N1cy1jZWx0aWMtcmFuZ2Vycy10cmFuc2Zlci0yODY3MzcxNC5hbXA",
-          "author": null,
-          "description": "Keanu Baccus in Celtic or Rangers transfer tease as St Mirren World Cup star told he's ready for next step  Daily Record",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiWmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2tlYW51LWJhY2N1cy1jZWx0aWMtcmFuZ2Vycy10cmFuc2Zlci0yODY3MzcxNNIBXmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2tlYW51LWJhY2N1cy1jZWx0aWMtcmFuZ2Vycy10cmFuc2Zlci0yODY3MzcxNC5hbXA?oc=5",
-          "publishedOn": "2022-12-07T10:12:26.000Z",
-          "wordCount": 3561,
-          "title": "Keanu Baccus in Celtic or Rangers transfer tease as St Mirren World Cup star told he's ready for next step - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28673751.ece/ALTERNATES/s1200/0_Argentina-v-Australia-FIFA-World-Cup-2022-Round-of-16.jpg"
         }
       ]
     },
@@ -1065,56 +1025,6 @@
           "wordCount": 8358,
           "title": "Michael Beale slated by Simon Jordan in Celtic 'miles away' verdict",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16184602/?type=og-image"
-        },
-        {
-          "id": "f96ab697d68c156a237d37b687040821",
-          "author": null,
-          "description": "The Scotland international is part of an exclusive club",
-          "link": "https://www.glasgowtimes.co.uk/sport/23175843.celtic-captain-mcgregor-gifts-forrest-special-jersey/?ref=rss",
-          "publishedOn": "2022-12-07T13:09:00.000Z",
-          "wordCount": 8414,
-          "title": "Celtic captain McGregor gifts  Forrest special jersey",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16240106/?type=og-image"
-        },
-        {
-          "id": "577c783df8d15ea5f28480a8bea37bf3",
-          "author": null,
-          "description": "The two interacted after the penalty shootout in the round of 16 fixture",
-          "link": "https://www.glasgowtimes.co.uk/sport/23175701.celtics-maeda-wishes-juranovic-well-world-cup-embrace/?ref=rss",
-          "publishedOn": "2022-12-07T12:44:00.000Z",
-          "wordCount": 8409,
-          "title": "Celtic's Maeda wishes Juranovic well after World Cup embrace",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16239902/?type=og-image"
-        },
-        {
-          "id": "9e55a9dcc72a5e686840d156b15ff7fa",
-          "author": null,
-          "description": "The Canadian has earned plaudits for his performances in the MLS and at the World Cup in Qatar",
-          "link": "https://www.glasgowtimes.co.uk/sport/23175438.new-celtic-signing-compared-club-legend-danny-mcgrain/?ref=rss",
-          "publishedOn": "2022-12-07T11:41:00.000Z",
-          "wordCount": 9687,
-          "title": "New Celtic signing compared to club legend Danny McGrain",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16235771/?type=og-image"
-        },
-        {
-          "id": "ff8467fb7aa012f5517167a66a81a402",
-          "author": null,
-          "description": "Former Celtic manager Martin O'Neill has revealed he watched court cases in Glasgow during his tenure at the club.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23175371.ex-celtic-boss-martin-oneill-watched-glasgow-high-court-cases/?ref=rss",
-          "publishedOn": "2022-12-07T11:21:09.000Z",
-          "wordCount": 8233,
-          "title": "Ex-Celtic boss Martin O'Neill watched Glasgow High Court cases",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16239372/?type=og-image"
-        },
-        {
-          "id": "bd1be9855b5ecf7b15defbd9916a954f",
-          "author": null,
-          "description": "St Mirren's World Cup star Keanu Baccus should consider a move to the Old Firm, according to Australia No.2 and former Manchester United coach Rene Meulensteen.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23175161.keanu-baccus-offered-celtic-rangers-transfer-consideration/?ref=rss",
-          "publishedOn": "2022-12-07T10:32:16.000Z",
-          "wordCount": 8452,
-          "title": "Keanu Baccus offered Celtic and Rangers transfer consideration",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16239054/?type=og-image"
         }
       ]
     }
