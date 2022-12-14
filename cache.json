@@ -159,6 +159,16 @@
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
         {
+          "id": "CBMicWh0dHBzOi8vd3d3LmhpdGMuY29tL2VuLWdiLzIwMjIvMTIvMTQvY2VsdGljLWNvdWxkLWJlLXNldC1mb3ItMy01bS1wcm9maXQtd2l0aC1taWRkbGUtZWFzdC10cmFuc2Zlci1vbi10aGUtY2FyZHMv0gF1aHR0cHM6Ly93d3cuaGl0Yy5jb20vZW4tZ2IvMjAyMi8xMi8xNC9jZWx0aWMtY291bGQtYmUtc2V0LWZvci0zLTVtLXByb2ZpdC13aXRoLW1pZGRsZS1lYXN0LXRyYW5zZmVyLW9uLXRoZS1jYXJkcy8_YW1w",
+          "author": null,
+          "description": "Celtic could be set for £3.5m profit with Middle East transfer on the cards  HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMicWh0dHBzOi8vd3d3LmhpdGMuY29tL2VuLWdiLzIwMjIvMTIvMTQvY2VsdGljLWNvdWxkLWJlLXNldC1mb3ItMy01bS1wcm9maXQtd2l0aC1taWRkbGUtZWFzdC10cmFuc2Zlci1vbi10aGUtY2FyZHMv0gF1aHR0cHM6Ly93d3cuaGl0Yy5jb20vZW4tZ2IvMjAyMi8xMi8xNC9jZWx0aWMtY291bGQtYmUtc2V0LWZvci0zLTVtLXByb2ZpdC13aXRoLW1pZGRsZS1lYXN0LXRyYW5zZmVyLW9uLXRoZS1jYXJkcy8_YW1w?oc=5",
+          "publishedOn": "2022-12-14T07:00:00.000Z",
+          "wordCount": 2545,
+          "title": "Celtic could be set for £3.5m profit with Middle East transfer on the cards - HITC - Football, Gaming, Movies, TV, Music",
+          "imageUrl": "https://www.hitc.com/static/uploads/2022/12/GettyImages-1442908566-scaled.jpg"
+        },
+        {
           "id": "CBMiY2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvY2hhc2Utc3Rhci1nZXRzLWNlbHRpYy1mb3VuZGluZy0yODcyNjQ0OdIBAA",
           "author": null,
           "description": "The Chase star gets Celtic founding father's name badly wrong in quiz gaffe  Daily Record",
@@ -187,6 +197,16 @@
           "wordCount": 2474,
           "title": "Manchester United hero sends Celtic warning to Michael Beale - The Celtic Bhoys",
           "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1429378061.jpeg"
+        },
+        {
+          "id": "CBMiWWh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vcGFyYWRpc2UtYXQtbGFzdC1hbGx5LWpvaG5zdG9uLXBvc3RzLXdvbmRlcmZ1bC10d2l0dGVyLW1lc3NhZ2Uv0gFdaHR0cHM6Ly90aGVjZWx0aWNzdGFyLmNvbS9wYXJhZGlzZS1hdC1sYXN0LWFsbHktam9obnN0b24tcG9zdHMtd29uZGVyZnVsLXR3aXR0ZXItbWVzc2FnZS9hbXAv",
+          "author": null,
+          "description": "“Paradise at last,” Ally Johnston posts wonderful Twitter message  The Celtic Star",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiWWh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vcGFyYWRpc2UtYXQtbGFzdC1hbGx5LWpvaG5zdG9uLXBvc3RzLXdvbmRlcmZ1bC10d2l0dGVyLW1lc3NhZ2Uv0gFdaHR0cHM6Ly90aGVjZWx0aWNzdGFyLmNvbS9wYXJhZGlzZS1hdC1sYXN0LWFsbHktam9obnN0b24tcG9zdHMtd29uZGVyZnVsLXR3aXR0ZXItbWVzc2FnZS9hbXAv?oc=5",
+          "publishedOn": "2022-12-13T19:09:49.000Z",
+          "wordCount": 1305,
+          "title": "“Paradise at last,” Ally Johnston posts wonderful Twitter message - The Celtic Star",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/12/Fjy7C1RXkCEojpH.jpeg"
         },
         {
           "id": "CBMiZWh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vZ3JlYXQtdGVhbW1hdGUtc3VwZXJiLXBsYXllci1sb3Zlcy1oaXMtY291bnRyeS1qb2UtaGFydC1vbi1qb3NpcC1qdXJhbm92aWMv0gFpaHR0cHM6Ly90aGVjZWx0aWNzdGFyLmNvbS9ncmVhdC10ZWFtbWF0ZS1zdXBlcmItcGxheWVyLWxvdmVzLWhpcy1jb3VudHJ5LWpvZS1oYXJ0LW9uLWpvc2lwLWp1cmFub3ZpYy9hbXAv",
@@ -647,64 +667,24 @@
           "wordCount": 26122,
           "title": "Transfer news LIVE as Rangers and Celtic plus Hibs, Aberdeen and Hearts eye signings - Daily Record",
           "imageUrl": "https://i2-prod.dailyrecord.co.uk/sport/football/article28681541.ece/ALTERNATES/s1200/0_Screenshot-2022-12-08-at-062803.png"
-        },
-        {
-          "id": "CBMiamh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvY2VsdGljLWhhbmRlZC1zdXJwcmlzZS1qb3NpcC1qdXJhbm92aWMtMjg2OTg2MjTSAW5odHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL2NlbHRpYy1oYW5kZWQtc3VycHJpc2Utam9zaXAtanVyYW5vdmljLTI4Njk4NjI0LmFtcA",
-          "author": null,
-          "description": "Celtic handed Josip Juranovic transfer advice by Kfc after World Cup showing  Daily Record",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiamh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvY2VsdGljLWhhbmRlZC1zdXJwcmlzZS1qb3NpcC1qdXJhbm92aWMtMjg2OTg2MjTSAW5odHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL2NlbHRpYy1oYW5kZWQtc3VycHJpc2Utam9zaXAtanVyYW5vdmljLTI4Njk4NjI0LmFtcA?oc=5",
-          "publishedOn": "2022-12-09T20:19:06.000Z",
-          "wordCount": 3303,
-          "title": "Celtic handed Josip Juranovic transfer advice by Kfc after World Cup showing - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28698687.ece/ALTERNATES/s1200/0_WCup-Croatia-Soccer-Al-Wakrah-Qatar-05-Dec-2022.jpg"
-        },
-        {
-          "id": "CBMicmh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvY2VsdGljLXNhbmplZXYta29obGkta2ZjLWFuZC1tb3JlLXdlaWdoLWluLWFmdGVyLWRhenpsaW5nLWpvc2lwLWp1cmFub3ZpYy1kaXNwbGF5L9IBdmh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvY2VsdGljLXNhbmplZXYta29obGkta2ZjLWFuZC1tb3JlLXdlaWdoLWluLWFmdGVyLWRhenpsaW5nLWpvc2lwLWp1cmFub3ZpYy1kaXNwbGF5Lz9hbXA",
-          "author": null,
-          "description": "Celtic, Sanjeev Kohli, KFC and more weigh in after dazzling Josip Juranovic display  67 Hail Hail - Celtic FC News",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMicmh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvY2VsdGljLXNhbmplZXYta29obGkta2ZjLWFuZC1tb3JlLXdlaWdoLWluLWFmdGVyLWRhenpsaW5nLWpvc2lwLWp1cmFub3ZpYy1kaXNwbGF5L9IBdmh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvY2VsdGljLXNhbmplZXYta29obGkta2ZjLWFuZC1tb3JlLXdlaWdoLWluLWFmdGVyLWRhenpsaW5nLWpvc2lwLWp1cmFub3ZpYy1kaXNwbGF5Lz9hbXA?oc=5",
-          "publishedOn": "2022-12-09T19:10:00.000Z",
-          "wordCount": 1898,
-          "title": "Celtic, Sanjeev Kohli, KFC and more weigh in after dazzling Josip Juranovic display - 67 Hail Hail - Celtic FC News",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/12/GettyImages-1447965941-1-scaled.jpg"
-        },
-        {
-          "id": "CBMigQFodHRwczovL3d3dy5oaXRjLmNvbS9lbi1nYi8yMDIyLzEyLzA5L25vdGhpbmctZHJpdmVzLW1lLW1vcmUtbWFkLWJiYy1wdW5kaXQtZnVyaW91cy1hdC13aGF0LTNtLWNlbHRpYy1tYW4tZGlkLWluLXdvcmxkLWN1cC1jbGFzaC_SAQA",
-          "author": null,
-          "description": "“Nothing drives me more mad”: BBC pundit furious at what £3m Celtic man did in World Cup clash  HITC - Football, Gaming, Movies, TV, Music",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMigQFodHRwczovL3d3dy5oaXRjLmNvbS9lbi1nYi8yMDIyLzEyLzA5L25vdGhpbmctZHJpdmVzLW1lLW1vcmUtbWFkLWJiYy1wdW5kaXQtZnVyaW91cy1hdC13aGF0LTNtLWNlbHRpYy1tYW4tZGlkLWluLXdvcmxkLWN1cC1jbGFzaC_SAQA?oc=5",
-          "publishedOn": "2022-12-09T18:30:00.000Z",
-          "wordCount": 2375,
-          "title": "“Nothing drives me more mad”: BBC pundit furious at what £3m Celtic man did in World Cup clash - HITC - Football, Gaming, Movies, TV, Music",
-          "imageUrl": "https://www.hitc.com/static/uploads/2022/12/GettyImages-1446238343-1-scaled.jpg"
-        },
-        {
-          "id": "CBMigQFodHRwczovL3d3dy5oaXRjLmNvbS9lbi1nYi8yMDIyLzEyLzA5L25vdGhpbmctZHJpdmVzLW1lLW1vcmUtbWFkLWJiYy1wdW5kaXQtZnVyaW91cy1hdC13aGF0LTNtLWNlbHRpYy1tYW4tZGlkLWluLXdvcmxkLWN1cC1jbGFzaC_SAYUBaHR0cHM6Ly93d3cuaGl0Yy5jb20vZW4tZ2IvMjAyMi8xMi8wOS9ub3RoaW5nLWRyaXZlcy1tZS1tb3JlLW1hZC1iYmMtcHVuZGl0LWZ1cmlvdXMtYXQtd2hhdC0zbS1jZWx0aWMtbWFuLWRpZC1pbi13b3JsZC1jdXAtY2xhc2gvP2FtcA",
-          "author": null,
-          "description": "“Nothing drives me more mad”: BBC pundit furious at what £3m Celtic man did in World Cup clash  HITC - Football, Gaming, Movies, TV, Music",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMigQFodHRwczovL3d3dy5oaXRjLmNvbS9lbi1nYi8yMDIyLzEyLzA5L25vdGhpbmctZHJpdmVzLW1lLW1vcmUtbWFkLWJiYy1wdW5kaXQtZnVyaW91cy1hdC13aGF0LTNtLWNlbHRpYy1tYW4tZGlkLWluLXdvcmxkLWN1cC1jbGFzaC_SAYUBaHR0cHM6Ly93d3cuaGl0Yy5jb20vZW4tZ2IvMjAyMi8xMi8wOS9ub3RoaW5nLWRyaXZlcy1tZS1tb3JlLW1hZC1iYmMtcHVuZGl0LWZ1cmlvdXMtYXQtd2hhdC0zbS1jZWx0aWMtbWFuLWRpZC1pbi13b3JsZC1jdXAtY2xhc2gvP2FtcA?oc=5",
-          "publishedOn": "2022-12-09T18:30:00.000Z",
-          "wordCount": 2375,
-          "title": "“Nothing drives me more mad”: BBC pundit furious at what £3m Celtic man did in World Cup clash - HITC - Football, Gaming, Movies, TV, Music",
-          "imageUrl": "https://www.hitc.com/static/uploads/2022/12/GettyImages-1446238343-1-scaled.jpg"
-        },
-        {
-          "id": "CBMiogFodHRwczovL3d3dy55b3Jrc2hpcmVldmVuaW5ncG9zdC5jby51ay9uZXdzL3dlYXRoZXIvZmFyc2xleS1jZWx0aWMtbGVlZHMtZm9vdGJhbGwtY2x1Yi1jYW5jZWwtbWF0Y2gtd2l0aC1mcm96ZW4tcGl0Y2gtYW1pZC1wbHVtbWV0aW5nLXRlbXBlcmF0dXJlcy1pbi1jaXR5LTM5NDkxOTjSAQA",
-          "author": null,
-          "description": "Leeds football club cancels match with 'frozen pitch' amid plummeting temperatures in city  Yorkshire Evening Post",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiogFodHRwczovL3d3dy55b3Jrc2hpcmVldmVuaW5ncG9zdC5jby51ay9uZXdzL3dlYXRoZXIvZmFyc2xleS1jZWx0aWMtbGVlZHMtZm9vdGJhbGwtY2x1Yi1jYW5jZWwtbWF0Y2gtd2l0aC1mcm96ZW4tcGl0Y2gtYW1pZC1wbHVtbWV0aW5nLXRlbXBlcmF0dXJlcy1pbi1jaXR5LTM5NDkxOTjSAQA?oc=5",
-          "publishedOn": "2022-12-09T18:25:08.000Z",
-          "wordCount": 1626,
-          "title": "Leeds football club cancels match with 'frozen pitch' amid plummeting temperatures in city - Yorkshire Evening Post",
-          "imageUrl": "https://www.yorkshireeveningpost.co.uk/webimg/b25lY21zOmQzNzE4NjZkLTRjYTMtNDIxNC05MjM0LTUzY2YxZGU2NzIwNzphZGEzNDlhNS01ZGNiLTRhMTctODI3Mi0wN2NjYjM1MzkzMjM=.jpg?width=1200&enable=upscale"
         }
       ]
     },
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "37676bff2bb4d269c004f70407a18b72",
+          "author": null,
+          "description": "The right-back is expected to attract serious transfer interest in the January window.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23189759.torino-hold-talks-celtic-serie-clubs-chase-josip-juranovic/?ref=rss",
+          "publishedOn": "2022-12-14T07:47:29.000Z",
+          "wordCount": 8495,
+          "title": "Torino 'hold talks' with Celtic as Serie A clubs chase Josip Juranovic",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16263221/?type=og-image"
+        },
         {
           "id": "f0668d460455e0a7b62f34f8c9085d2c",
           "author": null,
