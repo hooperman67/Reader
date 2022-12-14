@@ -159,6 +159,16 @@
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
         {
+          "id": "CBMiY2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvY2hhc2Utc3Rhci1nZXRzLWNlbHRpYy1mb3VuZGluZy0yODcyNjQ0OdIBAA",
+          "author": null,
+          "description": "The Chase star gets Celtic founding father's name badly wrong in quiz gaffe  Daily Record",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiY2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvY2hhc2Utc3Rhci1nZXRzLWNlbHRpYy1mb3VuZGluZy0yODcyNjQ0OdIBAA?oc=5",
+          "publishedOn": "2022-12-13T21:13:58.000Z",
+          "wordCount": 3379,
+          "title": "The Chase star gets Celtic founding father's name badly wrong in quiz gaffe - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28726564.ece/ALTERNATES/s1200/0_The-Chase.jpg"
+        },
+        {
           "id": "CBMiY2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvY2hhc2Utc3Rhci1nZXRzLWNlbHRpYy1mb3VuZGluZy0yODcyNjQ0OdIBZ2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvY2hhc2Utc3Rhci1nZXRzLWNlbHRpYy1mb3VuZGluZy0yODcyNjQ0OS5hbXA",
           "author": null,
           "description": "The Chase star gets Celtic founding father's name badly wrong in quiz gaffe  Daily Record",
@@ -687,33 +697,13 @@
           "wordCount": 1626,
           "title": "Leeds football club cancels match with 'frozen pitch' amid plummeting temperatures in city - Yorkshire Evening Post",
           "imageUrl": "https://www.yorkshireeveningpost.co.uk/webimg/b25lY21zOmQzNzE4NjZkLTRjYTMtNDIxNC05MjM0LTUzY2YxZGU2NzIwNzphZGEzNDlhNS01ZGNiLTRhMTctODI3Mi0wN2NjYjM1MzkzMjM=.jpg?width=1200&enable=upscale"
-        },
-        {
-          "id": "CBMiOmh0dHBzOi8vd3d3LmhpYmVybmlhbmZjLmNvLnVrL2FydGljbGUvdGlja2V0LWluZm8tY2VsdGljLWjSAQA",
-          "author": null,
-          "description": "Ticket Info: Celtic (H)  Hibernian FC",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiOmh0dHBzOi8vd3d3LmhpYmVybmlhbmZjLmNvLnVrL2FydGljbGUvdGlja2V0LWluZm8tY2VsdGljLWjSAQA?oc=5",
-          "publishedOn": "2022-12-09T16:08:58.000Z",
-          "wordCount": 567,
-          "title": "Ticket Info: Celtic (H) - Hibernian FC",
-          "imageUrl": "https://d3tepru76oevpi.cloudfront.net/production/_1200x630_crop_center-center_none/20632291.jpg"
-        },
-        {
-          "id": "CBMiUGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vcGhvdG8tb2YtdGhlLWRheS1iZWFsZS13YXRjaGVzLWFub3RoZXItY2VsdGljLXRyaXVtcGgv0gFUaHR0cHM6Ly90aGVjZWx0aWNzdGFyLmNvbS9waG90by1vZi10aGUtZGF5LWJlYWxlLXdhdGNoZXMtYW5vdGhlci1jZWx0aWMtdHJpdW1waC9hbXAv",
-          "author": null,
-          "description": "Photo Of The Day: Beale Watches Another Celtic Triumph  The Celtic Star",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiUGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vcGhvdG8tb2YtdGhlLWRheS1iZWFsZS13YXRjaGVzLWFub3RoZXItY2VsdGljLXRyaXVtcGgv0gFUaHR0cHM6Ly90aGVjZWx0aWNzdGFyLmNvbS9waG90by1vZi10aGUtZGF5LWJlYWxlLXdhdGNoZXMtYW5vdGhlci1jZWx0aWMtdHJpdW1waC9hbXAv?oc=5",
-          "publishedOn": "2022-12-09T15:42:46.000Z",
-          "wordCount": 1109,
-          "title": "Photo Of The Day: Beale Watches Another Celtic Triumph - The Celtic Star",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/12/fmqu6.jpg"
         }
       ]
     },
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
       "articles": [
         {
           "id": "f0668d460455e0a7b62f34f8c9085d2c",
@@ -1024,46 +1014,6 @@
           "wordCount": 9681,
           "title": "Giorgos Giakoumakis 'switches agent as Celtic name price'",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16251727/?type=og-image"
-        },
-        {
-          "id": "47887c9e7ed0ce4cc8aab9fbab6d1756",
-          "author": null,
-          "description": "The Hoops right-back was outstanding during the match",
-          "link": "https://www.glasgowtimes.co.uk/sport/23182586.celtic-defender-juranovic-praised-reaching-world-cup-semi-final/?ref=rss",
-          "publishedOn": "2022-12-09T18:22:00.000Z",
-          "wordCount": 8470,
-          "title": "Celtic defender Juranovic praised after reaching World Cup semi-final",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16250954/?type=og-image"
-        },
-        {
-          "id": "a0f3ee350f1e88a6db0ea488642bd9e5",
-          "author": null,
-          "description": "Croatia beat Brazil on penalties to reach the final four of the competition",
-          "link": "https://www.glasgowtimes.co.uk/sport/23182531.celtics-josip-juranovic-reaches-world-cup-semi-final/?ref=rss",
-          "publishedOn": "2022-12-09T17:55:06.000Z",
-          "wordCount": 8380,
-          "title": "Celtic's Josip Juranovic reaches World Cup semi-final",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16250890/?type=og-image"
-        },
-        {
-          "id": "448f901cb142dace20a1407bede918d4",
-          "author": null,
-          "description": "IT is highly improbable that Celtic’s mid-season recruits Yuki Kobayashi and Alistair Johnston will, regardless of how well the duo fare after they start in Scotland next month, make the same sort of impact as their January signings did last term.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23182284.celtics-mid-season-signings-boosted-title-hopes-2024/?ref=rss",
-          "publishedOn": "2022-12-09T17:02:00.000Z",
-          "wordCount": 8912,
-          "title": "Celtic’s mid-season signings have boosted their title hopes in 2024",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16250252/?type=og-image"
-        },
-        {
-          "id": "9c8e81814a37d3315fe0477b81d8b9e1",
-          "author": null,
-          "description": "The right-back has performed well against Brazil",
-          "link": "https://www.glasgowtimes.co.uk/sport/23182252.celtics-josip-juranovic-praised-pundits-world-cup-performance/?ref=rss",
-          "publishedOn": "2022-12-09T16:36:13.000Z",
-          "wordCount": 8412,
-          "title": "Celtic's Josip Juranovic praised by pundits for World Cup performance",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16250198/?type=og-image"
         }
       ]
     }
