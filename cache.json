@@ -159,6 +159,16 @@
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
         {
+          "id": "CBMiO2h0dHBzOi8vd3d3LmFmYy5jby51ay8yMDIyLzEyLzE1L3JlZC1tYXRjaGRheS0xMi1wcmV2aWV3LTMv0gEA",
+          "author": null,
+          "description": "Red Matchday 12 Preview  afc.co.uk",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiO2h0dHBzOi8vd3d3LmFmYy5jby51ay8yMDIyLzEyLzE1L3JlZC1tYXRjaGRheS0xMi1wcmV2aWV3LTMv0gEA?oc=5",
+          "publishedOn": "2022-12-15T01:48:00.000Z",
+          "wordCount": 2221,
+          "title": "Red Matchday 12 Preview - afc.co.uk",
+          "imageUrl": "https://d2cx26qpfwuhvu.cloudfront.net/aberdeen/wp-content/uploads/2022/12/15014740/rama.jpg"
+        },
+        {
           "id": "CBMiaGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvaXZhbi1mcmVzbmVkYS1jZWx0aWMtdHJhbnNmZXItdGFyZ2V0LTI4NzM2MDcw0gFsaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvZm9vdGJhbGwtbmV3cy9pdmFuLWZyZXNuZWRhLWNlbHRpYy10cmFuc2Zlci10YXJnZXQtMjg3MzYwNzAuYW1w",
           "author": null,
           "description": "Ivan Fresneda is Celtic transfer 'target' as Hoops are namechecked in race for Spanish starlet  Daily Record",
@@ -707,16 +717,6 @@
           "wordCount": 1457,
           "title": "Celtic On This Day – 11th December – David Potter’s Celtic Diary - The Celtic Star",
           "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/12/image-105.jpeg"
-        },
-        {
-          "id": "CBMiWGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vdGhlLXRvbW15LWNhbGxhZ2hhbi1zdG9yeS1mYWNpbmctZm9vdGJhbGwtbGVnZW5kcy1vbGQtYW5kLW5ldy_SAVxodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL3RoZS10b21teS1jYWxsYWdoYW4tc3RvcnktZmFjaW5nLWZvb3RiYWxsLWxlZ2VuZHMtb2xkLWFuZC1uZXcvYW1wLw",
-          "author": null,
-          "description": "The Tommy Callaghan Story – Facing Football Legends Old and New  The Celtic Star",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiWGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vdGhlLXRvbW15LWNhbGxhZ2hhbi1zdG9yeS1mYWNpbmctZm9vdGJhbGwtbGVnZW5kcy1vbGQtYW5kLW5ldy_SAVxodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL3RoZS10b21teS1jYWxsYWdoYW4tc3RvcnktZmFjaW5nLWZvb3RiYWxsLWxlZ2VuZHMtb2xkLWFuZC1uZXcvYW1wLw?oc=5",
-          "publishedOn": "2022-12-10T15:03:03.000Z",
-          "wordCount": 3012,
-          "title": "The Tommy Callaghan Story – Facing Football Legends Old and New - The Celtic Star",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/12/12645218_1122024397837464_1047740463828184239_n.jpg"
         }
       ]
     },
@@ -1054,16 +1054,6 @@
           "wordCount": 8378,
           "title": "McGregor hails 'vital' Celtic training camp as he makes injury return",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16252249/?type=og-image"
-        },
-        {
-          "id": "35a3a16013734715dc3b8b368270c3e5",
-          "author": null,
-          "description": "The Japanese defender will officially join the club in January.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23183235.ange-postecoglou-provides-yuki-kobayashi-celtic-update/?ref=rss",
-          "publishedOn": "2022-12-10T14:06:40.000Z",
-          "wordCount": 8504,
-          "title": "Ange Postecoglou provides Yuki Kobayashi Celtic update",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16251929/?type=og-image"
         }
       ]
     }
