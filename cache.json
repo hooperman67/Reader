@@ -159,6 +159,26 @@
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
         {
+          "id": "CBMiWGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vdGhpcy1zZWVtcy10by1oYXZlLWNvbWUtb3V0LW9mLXRoZS1ibHVlLXdhbGtlci1vbi1naWFrb3VtYWtpcy_SAVxodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL3RoaXMtc2VlbXMtdG8taGF2ZS1jb21lLW91dC1vZi10aGUtYmx1ZS13YWxrZXItb24tZ2lha291bWFraXMvYW1wLw",
+          "author": null,
+          "description": "“This seems to have come out of the blue,” Walker on Giakoumakis  The Celtic Star",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiWGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vdGhpcy1zZWVtcy10by1oYXZlLWNvbWUtb3V0LW9mLXRoZS1ibHVlLXdhbGtlci1vbi1naWFrb3VtYWtpcy_SAVxodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL3RoaXMtc2VlbXMtdG8taGF2ZS1jb21lLW91dC1vZi10aGUtYmx1ZS13YWxrZXItb24tZ2lha291bWFraXMvYW1wLw?oc=5",
+          "publishedOn": "2022-12-15T08:12:11.000Z",
+          "wordCount": 1767,
+          "title": "“This seems to have come out of the blue,” Walker on Giakoumakis - The Celtic Star",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/fbl-eur-c1-celtic-real-madrid-4-1024x683.jpg"
+        },
+        {
+          "id": "CBMiW2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL3Njb3R0LXJvYmVydHNvbi1yZWxpc2hpbmctY2VsdGljLWV4aXQtMjg3MzUxMzTSAV9odHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9zY290dC1yb2JlcnRzb24tcmVsaXNoaW5nLWNlbHRpYy1leGl0LTI4NzM1MTM0LmFtcA",
+          "author": null,
+          "description": "Scott Robertson relishing Celtic exit as midfielder accepts harsh contract reality of 'brutal business'  Daily Record",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiW2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL3Njb3R0LXJvYmVydHNvbi1yZWxpc2hpbmctY2VsdGljLWV4aXQtMjg3MzUxMzTSAV9odHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9zY290dC1yb2JlcnRzb24tcmVsaXNoaW5nLWNlbHRpYy1leGl0LTI4NzM1MTM0LmFtcA?oc=5",
+          "publishedOn": "2022-12-15T06:00:00.000Z",
+          "wordCount": 3851,
+          "title": "Scott Robertson relishing Celtic exit as midfielder accepts harsh contract reality of 'brutal business' - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28735151.ece/ALTERNATES/s1200/0_JS268334604.jpg"
+        },
+        {
           "id": "CBMiO2h0dHBzOi8vd3d3LmFmYy5jby51ay8yMDIyLzEyLzE1L3JlZC1tYXRjaGRheS0xMi1wcmV2aWV3LTMv0gEA",
           "author": null,
           "description": "Red Matchday 12 Preview  afc.co.uk",
@@ -723,8 +743,18 @@
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "7e1766b76b45744e31bc11410dfeaef8",
+          "author": null,
+          "description": "The defender is attracting interest from the Serie A.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23192382.celtic-juranovic-transfer-warning-torino-told-double-record-fee/?ref=rss",
+          "publishedOn": "2022-12-15T08:07:35.000Z",
+          "wordCount": 8378,
+          "title": "Celtic Juranovic transfer warning as 'Torino told double record fee'",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16267187/?type=og-image"
+        },
         {
           "id": "41505915ed30552328b494daf434ba71",
           "author": null,
