@@ -159,6 +159,16 @@
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
         {
+          "id": "CBMiZGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvY2VsdGljLXNxdWFkLXJldmVhbGVkLXJlby1oYXRhdGUtMjg3NTQ4NDjSAWhodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL2NlbHRpYy1zcXVhZC1yZXZlYWxlZC1yZW8taGF0YXRlLTI4NzU0ODQ4LmFtcA",
+          "author": null,
+          "description": "Celtic squad revealed as Reo Hatate hiding in plain sight to ease Aberdeen absence fears  Daily Record",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiZGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvY2VsdGljLXNxdWFkLXJldmVhbGVkLXJlby1oYXRhdGUtMjg3NTQ4NDjSAWhodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL2NlbHRpYy1zcXVhZC1yZXZlYWxlZC1yZW8taGF0YXRlLTI4NzU0ODQ4LmFtcA?oc=5",
+          "publishedOn": "2022-12-17T08:31:38.000Z",
+          "wordCount": 3280,
+          "title": "Celtic squad revealed as Reo Hatate hiding in plain sight to ease Aberdeen absence fears - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/sport/football/football-news/article28754823.ece/ALTERNATES/s1200/0_JS286337938.jpg"
+        },
+        {
           "id": "CBMitQFodHRwczovL3d3dy5wcmVzc2FuZGpvdXJuYWwuY28udWsvZnAvc3BvcnQvZm9vdGJhbGwvYWJlcmRlZW4tZmMvNTE3NTMxNi9hYmVyZGVlbi1uZWVkLWNvb2wtaGVhZHMtYW5kLWZpcmUtaW4tdGhlLWJlbGxpZXMtZm9yLWNlbHRpYy1hbmQtcmFuZ2Vycy1kb3VibGUtaGVhZGVyLXNheXMta2VlcGVyLWtlbGxlLXJvb3Mv0gEA",
           "author": null,
           "description": "Aberdeen need 'cool heads and fire in the bellies' for Celtic and ...  The Press & Journal",
@@ -947,16 +957,6 @@
           "wordCount": 2324,
           "title": "Are Barcelona Really Interested In Celtic’s Wanted Man? - TheCelticBlog.com",
           "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2022/12/2022-11-05T213119Z_1014220745_UP1EIB51NS5AN_RTRMADP_3_SOCCER-SPAIN-FCB-UDA-REPORT.jpg"
-        },
-        {
-          "id": "CBMibGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3Mvam9zaXAtanVyYW5vdmljLWNlbHRpYy10cmFuc2Zlci1wbGF5Ym9vay0yODcxNjkxNdIBcGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3Mvam9zaXAtanVyYW5vdmljLWNlbHRpYy10cmFuc2Zlci1wbGF5Ym9vay0yODcxNjkxNS5hbXA",
-          "author": null,
-          "description": "Josip Juranovic and the Celtic transfer playbook that Rangers 'should want' amid blank cheque prediction  Daily Record",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMibGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3Mvam9zaXAtanVyYW5vdmljLWNlbHRpYy10cmFuc2Zlci1wbGF5Ym9vay0yODcxNjkxNdIBcGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3Mvam9zaXAtanVyYW5vdmljLWNlbHRpYy10cmFuc2Zlci1wbGF5Ym9vay0yODcxNjkxNS5hbXA?oc=5",
-          "publishedOn": "2022-12-12T19:33:48.000Z",
-          "wordCount": 3272,
-          "title": "Josip Juranovic and the Celtic transfer playbook that Rangers 'should want' amid blank cheque prediction - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28716955.ece/ALTERNATES/s1200/0_WCup-Croatia-Soccer-Al-Wakrah-Qatar-05-Dec-2022.jpg"
         }
       ]
     },
@@ -1354,36 +1354,6 @@
           "wordCount": 8421,
           "title": "Celtic hero Tom Rogic nets first West Brom goal in win over Sunderland",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16259103/?type=og-image"
-        },
-        {
-          "id": "8d2d57545f270afd48bc509d3c3cd5dd",
-          "author": null,
-          "description": "The Canada international penned a five-year deal with the Parkhead side during his country's World Cup campaign.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23187010.halliday-details-johnston-prediction-prior-celtic-transfer/?ref=rss",
-          "publishedOn": "2022-12-12T20:52:31.000Z",
-          "wordCount": 9765,
-          "title": "Halliday details Johnston prediction prior to Celtic transfer",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16259033/?type=og-image"
-        },
-        {
-          "id": "21178c4881a40bac99f6bc912f77f3cb",
-          "author": null,
-          "description": "The Canadian impressed greatly for his country at the World Cup.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23186951.alistair-johnston-likened-chelsea-star-ahead-celtic-bow/?ref=rss",
-          "publishedOn": "2022-12-12T19:20:01.000Z",
-          "wordCount": 9729,
-          "title": "Alistair Johnston likened to Chelsea star ahead of Celtic bow",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16258871/?type=og-image"
-        },
-        {
-          "id": "b9e1f20801678ff7e7b682f6572a3781",
-          "author": null,
-          "description": "The Canada international recently penned a five-year contract at Parkhead.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23186914.alistair-johnston-josip-juranovic-encounter-celtic-transfer/?ref=rss",
-          "publishedOn": "2022-12-12T18:46:16.000Z",
-          "wordCount": 9737,
-          "title": "Alistair Johnston on Josip Juranovic encounter after Celtic transfer",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16258839/?type=og-image"
         }
       ]
     }
