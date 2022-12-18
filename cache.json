@@ -839,6 +839,16 @@
           "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28731723.ece/ALTERNATES/s1200/0_Japan-v-Croatia-Round-of-16-FIFA-World-Cup-Qatar-2022jp.jpg"
         },
         {
+          "id": "CBMiTmh0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL25ld3MvdHYvY2hhc2Utc3Rhci1nZXRzLWNlbHRpYy1mb3VuZGluZy0yNTc0OTA1MtIBUmh0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL25ld3MvdHYvY2hhc2Utc3Rhci1nZXRzLWNlbHRpYy1mb3VuZGluZy0yNTc0OTA1Mi5hbXA",
+          "author": null,
+          "description": "The Chase star gets Celtic founding father's name badly wrong in quiz gaffe  Glasgow Live",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiTmh0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL25ld3MvdHYvY2hhc2Utc3Rhci1nZXRzLWNlbHRpYy1mb3VuZGluZy0yNTc0OTA1MtIBUmh0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL25ld3MvdHYvY2hhc2Utc3Rhci1nZXRzLWNlbHRpYy1mb3VuZGluZy0yNTc0OTA1Mi5hbXA?oc=5",
+          "publishedOn": "2022-12-14T12:22:38.000Z",
+          "wordCount": 3607,
+          "title": "The Chase star gets Celtic founding father's name badly wrong in quiz gaffe - Glasgow Live",
+          "imageUrl": "https://i2-prod.glasgowlive.co.uk/incoming/article25749149.ece/ALTERNATES/s1200/1_The-Chase.jpg"
+        },
+        {
           "id": "CBMiZGh0dHBzOi8vd3d3LmZvb3RiYWxsaW5zaWRlcjI0Ny5jb20veW9zdWtlLWlkZWd1Y2hpLWNvdWxkLXF1aXQtY2VsdGljLWluLWphbnVhcnktYWZ0ZXItbGF0ZXN0LXB1bmRpdC_SAWhodHRwczovL3d3dy5mb290YmFsbGluc2lkZXIyNDcuY29tL3lvc3VrZS1pZGVndWNoaS1jb3VsZC1xdWl0LWNlbHRpYy1pbi1qYW51YXJ5LWFmdGVyLWxhdGVzdC1wdW5kaXQvP2FtcA",
           "author": null,
           "description": "Yosuke Ideguchi could quit Celtic in January after latest – pundit  Football Insider",
@@ -997,23 +1007,13 @@
           "wordCount": 4452,
           "title": "West Brom rediscover forgotten quality and witness 'Celtic' Tom Rogic - Birmingham Live",
           "imageUrl": "https://i2-prod.birminghammail.co.uk/incoming/article25741067.ece/ALTERNATES/s1200/0_Sunderland-v-West-Bromwich-Albion-Sky-Bet-Championship-Stadium-of-Light.jpg"
-        },
-        {
-          "id": "CBMiNmh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS90aHJlZS1uZWNlc3NhcnktY2VsdGljLWV4aXRzL9IBOmh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS90aHJlZS1uZWNlc3NhcnktY2VsdGljLWV4aXRzL2FtcC8",
-          "author": null,
-          "description": "Three Necessary Celtic Exits | Celts Are Here  CeltsAreHere",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiNmh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS90aHJlZS1uZWNlc3NhcnktY2VsdGljLWV4aXRzL9IBOmh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS90aHJlZS1uZWNlc3NhcnktY2VsdGljLWV4aXRzL2FtcC8?oc=5",
-          "publishedOn": "2022-12-13T14:13:25.000Z",
-          "wordCount": 14191,
-          "title": "Three Necessary Celtic Exits | Celts Are Here - CeltsAreHere",
-          "imageUrl": "https://cdn.celtsarehere.com/wp-content/uploads/2022/11/img_6695-1024x623.jpg"
         }
       ]
     },
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
       "articles": [
         {
           "id": "d248dc684ff08f65559fad47e1a63ff3",
@@ -1464,16 +1464,6 @@
           "wordCount": 8437,
           "title": "Celtic defender Juranovic's recent displays praised by ex-Chelsea star",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16262065/?type=og-image"
-        },
-        {
-          "id": "93e4f674103ef5b9305040b0828acc02",
-          "author": null,
-          "description": "Transfermarkt have updated their Scottish Premiership player market values.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23188605.rangers-celtic-player-values-ranked-scottish-premiership-mvp-list/?ref=rss",
-          "publishedOn": "2022-12-13T14:40:37.000Z",
-          "wordCount": 8764,
-          "title": "Rangers & Celtic player values ranked in Scottish Premiership MVP list",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16261096/?type=og-image"
         }
       ]
     }
