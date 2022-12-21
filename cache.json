@@ -159,6 +159,16 @@
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
         {
+          "id": "CBMibGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW1hdGNoLXJlcG9ydHMvY2VsdGljLXZzLWxpdmluZ3N0b24tbGl2ZS1zY29yZS0yODc5MDAyMdIBcGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW1hdGNoLXJlcG9ydHMvY2VsdGljLXZzLWxpdmluZ3N0b24tbGl2ZS1zY29yZS0yODc5MDAyMS5hbXA",
+          "author": null,
+          "description": "Celtic 2 Livingston 1 LIVE score as Anthony Ralston is forced off with an injury  Daily Record",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMibGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW1hdGNoLXJlcG9ydHMvY2VsdGljLXZzLWxpdmluZ3N0b24tbGl2ZS1zY29yZS0yODc5MDAyMdIBcGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW1hdGNoLXJlcG9ydHMvY2VsdGljLXZzLWxpdmluZ3N0b24tbGl2ZS1zY29yZS0yODc5MDAyMS5hbXA?oc=5",
+          "publishedOn": "2022-12-21T21:00:00.000Z",
+          "wordCount": 7040,
+          "title": "Celtic 2 Livingston 1 LIVE score as Anthony Ralston is forced off with an injury - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28790091.ece/ALTERNATES/s1200/0_Celtic-FC-v-St-Mirren-FC-Cinch-Scottish-Premiership.jpg"
+        },
+        {
           "id": "CBMiZmh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zY290dGlzaC1wcmVtaWVyc2hpcC9zY290dC1hcmZpZWxkLXJhdGVkLXJhbmdlcnMtYmVzdC0yNTgxMDkxMtIBamh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zY290dGlzaC1wcmVtaWVyc2hpcC9zY290dC1hcmZpZWxkLXJhdGVkLXJhbmdlcnMtYmVzdC0yNTgxMDkxMi5hbXA",
           "author": null,
           "description": "Scott Arfield rated as Rangers' best finisher as ex Celtic star baffled by lack of starts  Football Scotland",
@@ -597,6 +607,16 @@
           "wordCount": 1110,
           "title": "Photo: Joe Hart reacts to Argentina’s spectacular World Cup Win - The Celtic Star",
           "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/10/celtic-fc-v-rb-leipzig-group-f-uefa-champions-league-1024x657.jpg"
+        },
+        {
+          "id": "CBMigAFodHRwczovL3d3dy5za3lzcG9ydHMuY29tL2Zvb3RiYWxsL2xpdmUtYmxvZy8xMTA5NS8xMjc3MTUxNi9jZWx0aWMtdnMtbGl2aW5nc3Rvbi1saXZlLWFuZ2UtcG9zdGVjb2dsb3VzLWxlYWd1ZS1sZWFkZXJzLWhvc3QtbGl2adIBAA",
+          "author": null,
+          "description": "Celtic vs Livingston LIVE! Ange Postecoglou's league leaders host Livi  Sky Sports",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMigAFodHRwczovL3d3dy5za3lzcG9ydHMuY29tL2Zvb3RiYWxsL2xpdmUtYmxvZy8xMTA5NS8xMjc3MTUxNi9jZWx0aWMtdnMtbGl2aW5nc3Rvbi1saXZlLWFuZ2UtcG9zdGVjb2dsb3VzLWxlYWd1ZS1sZWFkZXJzLWhvc3QtbGl2adIBAA?oc=5",
+          "publishedOn": "2022-12-19T16:26:10.000Z",
+          "wordCount": 3076,
+          "title": "Celtic vs Livingston LIVE! Ange Postecoglou's league leaders host Livi - Sky Sports",
+          "imageUrl": "https://e0.365dm.com/22/12/1600x900/skysports-celtic-abada_6003279.jpg?20221221201852"
         },
         {
           "id": "CBMiWGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL25ld3Mvc2NvdHRpc2gtbmV3cy9jZWx0aWMtcGFyay1oaXQtZmxvb2RpbmctdmlkZW8tMjg3NzEwNjXSAVxodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9uZXdzL3Njb3R0aXNoLW5ld3MvY2VsdGljLXBhcmstaGl0LWZsb29kaW5nLXZpZGVvLTI4NzcxMDY1LmFtcA",
@@ -1047,26 +1067,6 @@
           "wordCount": 3226,
           "title": "Goalkeeper struck by a BIN as disgusting Australian pitch invasion ends in chaos - Daily Record",
           "imageUrl": "https://i2-prod.dailyrecord.co.uk/sport/football/football-news/article28755138.ece/ALTERNATES/s1200/0_Screenshot-2022-12-17-at-093515.png"
-        },
-        {
-          "id": "CBMiO2h0dHBzOi8vd3d3LmFmYy5jby51ay8yMDIyLzEyLzE3L2dhbWUtb24tYWJlcmRlZW4tdi1jZWx0aWMv0gEA",
-          "author": null,
-          "description": "GAME ON! Aberdeen v Celtic  afc.co.uk\nSame old refs, unwelcoming Aberdeen  Celtic Quick News\nJim Goodwin convinced Rangers 'bounce' makes Celtic slip up a no go at Pittodrie  Daily Record",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiO2h0dHBzOi8vd3d3LmFmYy5jby51ay8yMDIyLzEyLzE3L2dhbWUtb24tYWJlcmRlZW4tdi1jZWx0aWMv0gEA?oc=5",
-          "publishedOn": "2022-12-17T09:01:00.000Z",
-          "wordCount": 1949,
-          "title": "GAME ON! Aberdeen v Celtic - afc.co.uk",
-          "imageUrl": "https://d2cx26qpfwuhvu.cloudfront.net/aberdeen/wp-content/uploads/2022/12/17090013/221217_CELTIC_MATCH_ON_01_web-1024x573.jpg"
-        },
-        {
-          "id": "CBMiZGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvY2VsdGljLXNxdWFkLXJldmVhbGVkLXJlby1oYXRhdGUtMjg3NTQ4NDjSAWhodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL2NlbHRpYy1zcXVhZC1yZXZlYWxlZC1yZW8taGF0YXRlLTI4NzU0ODQ4LmFtcA",
-          "author": null,
-          "description": "Celtic squad revealed as Reo Hatate hiding in plain sight to ease Aberdeen absence fears  Daily Record",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiZGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvY2VsdGljLXNxdWFkLXJldmVhbGVkLXJlby1oYXRhdGUtMjg3NTQ4NDjSAWhodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL2NlbHRpYy1zcXVhZC1yZXZlYWxlZC1yZW8taGF0YXRlLTI4NzU0ODQ4LmFtcA?oc=5",
-          "publishedOn": "2022-12-17T08:31:38.000Z",
-          "wordCount": 3280,
-          "title": "Celtic squad revealed as Reo Hatate hiding in plain sight to ease Aberdeen absence fears - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/sport/football/football-news/article28754823.ece/ALTERNATES/s1200/0_JS286337938.jpg"
         }
       ]
     },
@@ -1075,6 +1075,26 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "278b463b28360b0d13257dc75f8add2c",
+          "author": null,
+          "description": "The Scottish champions will be aiming to restore their nine point gap over Rangers with a win.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23205667.celtic-team-news-livingston-encounter-revealed/?ref=rss",
+          "publishedOn": "2022-12-21T18:31:00.000Z",
+          "wordCount": 8422,
+          "title": "Celtic team news for Livingston encounter revealed",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16288710/?type=og-image"
+        },
+        {
+          "id": "8ffc757bee1bc0ccba3050ce9ec0a3e7",
+          "author": null,
+          "description": "The club confirmed the screen won't be in use for the match against Livingston.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23207073.celtic-confirm-parkhead-storm-damage-screen-not-use/?ref=rss",
+          "publishedOn": "2022-12-21T18:19:31.000Z",
+          "wordCount": 8363,
+          "title": "Celtic confirm Parkhead 'storm damage' as screen 'not in use'",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16291092/?type=og-image"
+        },
         {
           "id": "b76a39fa6b51df252fefc64fbd0879a2",
           "author": null,
