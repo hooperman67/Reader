@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "3964055",
+          "author": "Joel Sked",
+          "description": "Celtic and Hearts have fixtures rescheduled after being selected by Sky Sports for live coverage in February.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtic-and-hearts-have-february-fixtures-changed-for-sky-sports-coverage-premiership-live-games-in-2023-3964055",
+          "publishedOn": "2022-12-22T16:12:00.000Z",
+          "wordCount": null,
+          "title": "Celtic and Hearts have February fixtures changed for Sky Sports coverage - Premiership live games in 2023",
+          "imageUrl": null
+        },
+        {
           "id": "3963561",
           "author": "Angus Wright",
           "description": "Rangers have appointed a Premier League manager in Michael Beale, according to Si Ferry.",
@@ -238,6 +248,56 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CBMibmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLXRyYW5zZmVyLW5ld3MvdHJhbnNmZXItbmV3cy1saXZlLWNlbHRpYy1yYW5nZXJzLTI4NzY1NzI20gFyaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvZm9vdGJhbGwtdHJhbnNmZXItbmV3cy90cmFuc2Zlci1uZXdzLWxpdmUtY2VsdGljLXJhbmdlcnMtMjg3NjU3MjYuYW1w",
+          "author": null,
+          "description": "Transfer news LIVE as Celtic and Rangers plus Aberdeen, Hearts and Hibs eye signings  Daily Record",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMibmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLXRyYW5zZmVyLW5ld3MvdHJhbnNmZXItbmV3cy1saXZlLWNlbHRpYy1yYW5nZXJzLTI4NzY1NzI20gFyaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvZm9vdGJhbGwtdHJhbnNmZXItbmV3cy90cmFuc2Zlci1uZXdzLWxpdmUtY2VsdGljLXJhbmdlcnMtMjg3NjU3MjYuYW1w?oc=5",
+          "publishedOn": "2022-12-22T18:15:32.000Z",
+          "wordCount": 17178,
+          "title": "Transfer news LIVE as Celtic and Rangers plus Aberdeen, Hearts and Hibs eye signings - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/sport/football/football-news/article28774692.ece/ALTERNATES/s1200/0_Screenshot-2022-12-20-at-060804.png"
+        },
+        {
+          "id": "CBMidmh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvY2hhcml0eS10aGFua3MtY2x1YnMtZm9yLXdvbmRlcmZ1bC1nZXN0dXJlLWFzLWNlbHRpYy10YWtlLXBhcnQtaW4ta2l0LWNoYW5nZS1jYW1wYWlnbi_SAXpodHRwczovL3d3dy42N2hhaWxoYWlsLmNvbS9uZXdzL2NoYXJpdHktdGhhbmtzLWNsdWJzLWZvci13b25kZXJmdWwtZ2VzdHVyZS1hcy1jZWx0aWMtdGFrZS1wYXJ0LWluLWtpdC1jaGFuZ2UtY2FtcGFpZ24vP2FtcA",
+          "author": null,
+          "description": "Charity thanks clubs for ‘wonderful’ gesture as Celtic take part in kit change campaign  67 Hail Hail - Celtic FC News",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMidmh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvY2hhcml0eS10aGFua3MtY2x1YnMtZm9yLXdvbmRlcmZ1bC1nZXN0dXJlLWFzLWNlbHRpYy10YWtlLXBhcnQtaW4ta2l0LWNoYW5nZS1jYW1wYWlnbi_SAXpodHRwczovL3d3dy42N2hhaWxoYWlsLmNvbS9uZXdzL2NoYXJpdHktdGhhbmtzLWNsdWJzLWZvci13b25kZXJmdWwtZ2VzdHVyZS1hcy1jZWx0aWMtdGFrZS1wYXJ0LWluLWtpdC1jaGFuZ2UtY2FtcGFpZ24vP2FtcA?oc=5",
+          "publishedOn": "2022-12-22T17:10:00.000Z",
+          "wordCount": 2213,
+          "title": "Charity thanks clubs for ‘wonderful’ gesture as Celtic take part in kit change campaign - 67 Hail Hail - Celtic FC News",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/12/GettyImages-1438610299-scaled.jpg"
+        },
+        {
+          "id": "CBMiUmh0dHBzOi8vd3d3LnBlcnRoc3Rqb2huc3RvbmVmYy5jby51ay9uZXdzL2FydGljbGUvY2VsdGljLWdhbWUtdG8tYmUtc2hvd24tb24tc2t5LTHSAQA",
+          "author": null,
+          "description": "Celtic game to be shown on Sky Sports  St Johnstone",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiUmh0dHBzOi8vd3d3LnBlcnRoc3Rqb2huc3RvbmVmYy5jby51ay9uZXdzL2FydGljbGUvY2VsdGljLWdhbWUtdG8tYmUtc2hvd24tb24tc2t5LTHSAQA?oc=5",
+          "publishedOn": "2022-12-22T15:45:28.000Z",
+          "wordCount": 441,
+          "title": "Celtic game to be shown on Sky Sports - St Johnstone",
+          "imageUrl": "https://www.perthstjohnstonefc.co.uk//sites/perthstjohnstonefc/images/logo.png"
+        },
+        {
+          "id": "CBMiVWh0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L2NlbHRpYy1maXh0dXJlLXJlc2NoZWR1bGUtY29uZmlybWVkLWFuZ2UtMjU4MTg2ODnSAVlodHRwczovL3d3dy5nbGFzZ293bGl2ZS5jby51ay9zcG9ydC9jZWx0aWMtZml4dHVyZS1yZXNjaGVkdWxlLWNvbmZpcm1lZC1hbmdlLTI1ODE4Njg5LmFtcA",
+          "author": null,
+          "description": "Celtic fixture reschedule confirmed as Ange Postecoglou's men get TV billing with Sunday clash  Glasgow Live",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiVWh0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L2NlbHRpYy1maXh0dXJlLXJlc2NoZWR1bGUtY29uZmlybWVkLWFuZ2UtMjU4MTg2ODnSAVlodHRwczovL3d3dy5nbGFzZ293bGl2ZS5jby51ay9zcG9ydC9jZWx0aWMtZml4dHVyZS1yZXNjaGVkdWxlLWNvbmZpcm1lZC1hbmdlLTI1ODE4Njg5LmFtcA?oc=5",
+          "publishedOn": "2022-12-22T15:37:59.000Z",
+          "wordCount": 3426,
+          "title": "Celtic fixture reschedule confirmed as Ange Postecoglou's men get TV billing with Sunday clash - Glasgow Live",
+          "imageUrl": "https://i2-prod.glasgowlive.co.uk/incoming/article22267828.ece/ALTERNATES/s1200/0_Celtic-FC-v-St-Johnstone-FC-Premier-Sports-Cup.jpg"
+        },
+        {
+          "id": "CBMiV2h0dHBzOi8vd3d3LmZvb3RiYWxsdHJhbnNmZXJ0YXZlcm4uY29tL2NlbHRpYy1uZXdzL2NlbHRpYy1ld2FuLW90b28tdHJhbnNmZXItbmV3cy1zcGZsL9IBW2h0dHBzOi8vd3d3LmZvb3RiYWxsdHJhbnNmZXJ0YXZlcm4uY29tL2NlbHRpYy1uZXdzL2NlbHRpYy1ld2FuLW90b28tdHJhbnNmZXItbmV3cy1zcGZsL2FtcC8",
+          "author": null,
+          "description": "Celtic: English trio eyeing Ewan Otoo transfer move  Football Transfer Tavern",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiV2h0dHBzOi8vd3d3LmZvb3RiYWxsdHJhbnNmZXJ0YXZlcm4uY29tL2NlbHRpYy1uZXdzL2NlbHRpYy1ld2FuLW90b28tdHJhbnNmZXItbmV3cy1zcGZsL9IBW2h0dHBzOi8vd3d3LmZvb3RiYWxsdHJhbnNmZXJ0YXZlcm4uY29tL2NlbHRpYy1uZXdzL2NlbHRpYy1ld2FuLW90b28tdHJhbnNmZXItbmV3cy1zcGZsL2FtcC8?oc=5",
+          "publishedOn": "2022-12-22T14:44:13.000Z",
+          "wordCount": 3489,
+          "title": "Celtic: English trio eyeing Ewan Otoo transfer move - Football Transfer Tavern",
+          "imageUrl": "https://cdn.footballtransfertavern.com/wp-content/uploads/2022/03/2022-03-19T144918Z_1495513638_UP1EI3J1564G2_RTRMADP_3_SOCCER-SCOTLAND-CEL-ROS-REPORT-scaled.jpg"
+        },
         {
           "id": "CBMiaGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvbWljaGFlbC1iZWFsZS1yZXZlYWxzLWFudG9uaW8tY29sYWtzLTI4Nzk2NDc20gFsaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvZm9vdGJhbGwtbmV3cy9taWNoYWVsLWJlYWxlLXJldmVhbHMtYW50b25pby1jb2xha3MtMjg3OTY0NzYuYW1w",
           "author": null,
@@ -1125,6 +1185,26 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "4490cc14acab882139db82aa2c768bf5",
+          "author": null,
+          "description": "The captain’s attitude and ability left a mark on midfielder Liam Shaw",
+          "link": "https://www.glasgowtimes.co.uk/sport/23208723.ridiculous---celtic-player-callum-mcgregors-training-displays/?ref=rss",
+          "publishedOn": "2022-12-22T16:00:00.000Z",
+          "wordCount": 8491,
+          "title": "'Ridiculous' - Celtic player on Callum McGregor's training displays",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16294585/?type=og-image"
+        },
+        {
+          "id": "533c605fc6b3b636bc846a65f2b094b5",
+          "author": null,
+          "description": "The match at McDiarmid Park has been altered for television purposes",
+          "link": "https://www.glasgowtimes.co.uk/sport/23209142.st-johnstone-vs-celtic-among-fixtures-moved-sky-sports-tv-coverage/?ref=rss",
+          "publishedOn": "2022-12-22T15:50:00.000Z",
+          "wordCount": 8418,
+          "title": "St Johnstone vs Celtic among fixtures moved for Sky Sports TV coverage",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16294295/?type=og-image"
+        },
         {
           "id": "55c33be3385cf49aec155ae46560c933",
           "author": null,
