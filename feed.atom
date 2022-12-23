@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2022-12-23T06:23:54.057Z</updated>
+    <updated>2022-12-23T09:17:46.706Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Southampton 'tracking' Celtic star Liel Abada amid transfer interest]]></title>
+        <id>f0a939a4700d18eb9e6be5add222ab32</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23210029.southampton-tracking-celtic-star-liel-abada-amid-transfer-interest/?ref=rss"/>
+        <updated>2022-12-23T08:01:55.000Z</updated>
+        <summary type="html"><![CDATA[The Hoops are ready to enter contract talks with the player to fend off any immediate interest.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Former Shrewsbury goalkeeper Joe Hart not losing focus in one ... - Shropshire Star]]></title>
+        <id>CBMinQFodHRwczovL3d3dy5zaHJvcHNoaXJlc3Rhci5jb20vc3BvcnQvZm9vdGJhbGwvc2hyZXdzYnVyeS10b3duLWZjLzIwMjIvMTIvMjMvZm9ybWVyLXNocmV3c2J1cnktZ29hbGtlZXBlci1qb2UtaGFydC1ub3QtbG9zaW5nLWZvY3VzLWluLW9uZS1zaWRlZC1jZWx0aWMtZ2FtZXMv0gEA</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMinQFodHRwczovL3d3dy5zaHJvcHNoaXJlc3Rhci5jb20vc3BvcnQvZm9vdGJhbGwvc2hyZXdzYnVyeS10b3duLWZjLzIwMjIvMTIvMjMvZm9ybWVyLXNocmV3c2J1cnktZ29hbGtlZXBlci1qb2UtaGFydC1ub3QtbG9zaW5nLWZvY3VzLWluLW9uZS1zaWRlZC1jZWx0aWMtZ2FtZXMv0gEA?oc=5"/>
+        <updated>2022-12-23T07:48:40.000Z</updated>
+        <summary type="html"><![CDATA[Former Shrewsbury goalkeeper Joe Hart not losing focus in one ...  Shropshire Star]]></summary>
+        <author>
+            <name>"celtic fc" - Google News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic out on their own in runaway title charge]]></title>
         <id>f77cd73e320dc417a61a4fb6cc62a1ff</id>
@@ -24,6 +44,16 @@
         <summary type="html"><![CDATA[Footballers are often accused of failing to appreciate their, often, feather-bedded lot. It is not a charge that could be levelled at Celtic keeper Joe Hart.]]></summary>
         <author>
             <name>Andrew Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Liel Abada handed firm Celtic transfer stance as Southampton track star - Daily Record]]></title>
+        <id>CBMiaGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLXRyYW5zZmVyLW5ld3MvY2VsdGljLXRha2UtZmlybS1saWVsLWFiYWRhLTI4Nzk5NDA50gFsaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvZm9vdGJhbGwtdHJhbnNmZXItbmV3cy9jZWx0aWMtdGFrZS1maXJtLWxpZWwtYWJhZGEtMjg3OTk0MDkuYW1w</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiaGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLXRyYW5zZmVyLW5ld3MvY2VsdGljLXRha2UtZmlybS1saWVsLWFiYWRhLTI4Nzk5NDA50gFsaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvZm9vdGJhbGwtdHJhbnNmZXItbmV3cy9jZWx0aWMtdGFrZS1maXJtLWxpZWwtYWJhZGEtMjg3OTk0MDkuYW1w?oc=5"/>
+        <updated>2022-12-22T22:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Liel Abada handed firm Celtic transfer stance as Southampton track star  Daily Record]]></summary>
+        <author>
+            <name>"celtic fc" - Google News</name>
         </author>
     </entry>
     <entry>
@@ -102,6 +132,16 @@
         <link href="https://news.google.com/__i/rss/rd/articles/CBMidmh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvY2hhcml0eS10aGFua3MtY2x1YnMtZm9yLXdvbmRlcmZ1bC1nZXN0dXJlLWFzLWNlbHRpYy10YWtlLXBhcnQtaW4ta2l0LWNoYW5nZS1jYW1wYWlnbi_SAXpodHRwczovL3d3dy42N2hhaWxoYWlsLmNvbS9uZXdzL2NoYXJpdHktdGhhbmtzLWNsdWJzLWZvci13b25kZXJmdWwtZ2VzdHVyZS1hcy1jZWx0aWMtdGFrZS1wYXJ0LWluLWtpdC1jaGFuZ2UtY2FtcGFpZ24vP2FtcA?oc=5"/>
         <updated>2022-12-22T17:10:00.000Z</updated>
         <summary type="html"><![CDATA[Charity thanks clubs for ‘wonderful’ gesture as Celtic take part in kit change campaign  67 Hail Hail - Celtic FC News]]></summary>
+        <author>
+            <name>"celtic fc" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aberdeen: Jim Goodwin has faith despite Celtic & Rangers defeats - BBC]]></title>
+        <id>CBMiLWh0dHBzOi8vd3d3LmJiYy5jby51ay9zcG9ydC9mb290YmFsbC82NDA2OTMzMtIBL2h0dHBzOi8vd3d3LmJiYy5jb20vc3BvcnQvZm9vdGJhbGwvNjQwNjkzMzIuYW1w</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiLWh0dHBzOi8vd3d3LmJiYy5jby51ay9zcG9ydC9mb290YmFsbC82NDA2OTMzMtIBL2h0dHBzOi8vd3d3LmJiYy5jb20vc3BvcnQvZm9vdGJhbGwvNjQwNjkzMzIuYW1w?oc=5"/>
+        <updated>2022-12-22T17:04:03.000Z</updated>
+        <summary type="html"><![CDATA[Aberdeen: Jim Goodwin has faith despite Celtic & Rangers defeats  BBC]]></summary>
         <author>
             <name>"celtic fc" - Google News</name>
         </author>
@@ -1618,36 +1658,6 @@ Josip Juranovic Barcelona transfer links delight Carl Starfelt but Celtic star u
         <summary type="html"><![CDATA[On Wednesday, they’ll have the chance - in their first game back post the World Cup break - to repeat those heroics.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pleasing VAR Verdict After Celtic Pittodrie Victory | Celts Are Here - CeltsAreHere]]></title>
-        <id>CBMiTWh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9wbGVhc2luZy12YXItdmVyZGljdC1hZnRlci1jZWx0aWMtcGl0dG9kcmllLXZpY3Rvcnkv0gFRaHR0cHM6Ly9jZWx0c2FyZWhlcmUuY29tL3BsZWFzaW5nLXZhci12ZXJkaWN0LWFmdGVyLWNlbHRpYy1waXR0b2RyaWUtdmljdG9yeS9hbXAv</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiTWh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9wbGVhc2luZy12YXItdmVyZGljdC1hZnRlci1jZWx0aWMtcGl0dG9kcmllLXZpY3Rvcnkv0gFRaHR0cHM6Ly9jZWx0c2FyZWhlcmUuY29tL3BsZWFzaW5nLXZhci12ZXJkaWN0LWFmdGVyLWNlbHRpYy1waXR0b2RyaWUtdmljdG9yeS9hbXAv?oc=5"/>
-        <updated>2022-12-18T20:31:25.000Z</updated>
-        <summary type="html"><![CDATA[Pleasing VAR Verdict After Celtic Pittodrie Victory | Celts Are Here  CeltsAreHere]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aissa Laidouni to Celtic transfer door opened as Ferencvaros chief prepares for post World Cup bidding war - Daily Record]]></title>
-        <id>CBMicGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLXRyYW5zZmVyLW5ld3MvYWlzc2EtbGFpZG91bmktY2VsdGljLXRyYW5zZmVyLWRvb3ItMjg3NjQzMzjSAXRodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC10cmFuc2Zlci1uZXdzL2Fpc3NhLWxhaWRvdW5pLWNlbHRpYy10cmFuc2Zlci1kb29yLTI4NzY0MzM4LmFtcA</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMicGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLXRyYW5zZmVyLW5ld3MvYWlzc2EtbGFpZG91bmktY2VsdGljLXRyYW5zZmVyLWRvb3ItMjg3NjQzMzjSAXRodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC10cmFuc2Zlci1uZXdzL2Fpc3NhLWxhaWRvdW5pLWNlbHRpYy10cmFuc2Zlci1kb29yLTI4NzY0MzM4LmFtcA?oc=5"/>
-        <updated>2022-12-18T19:55:01.000Z</updated>
-        <summary type="html"><![CDATA[Aissa Laidouni to Celtic transfer door opened as Ferencvaros chief prepares for post World Cup bidding war  Daily Record]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Former Celtic star shares picture with Lionel Messi - The Celtic Bhoys]]></title>
-        <id>CBMiRmh0dHBzOi8vdGhlY2VsdGljYmhveXMuY29tLzIwMjIvMTIvMTgvZm9ybWVyLWNlbHRpYy1zdGFyLWxpb25lbC1tZXNzaS_SAUpodHRwczovL3RoZWNlbHRpY2Job3lzLmNvbS8yMDIyLzEyLzE4L2Zvcm1lci1jZWx0aWMtc3Rhci1saW9uZWwtbWVzc2kvYW1wLw</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiRmh0dHBzOi8vdGhlY2VsdGljYmhveXMuY29tLzIwMjIvMTIvMTgvZm9ybWVyLWNlbHRpYy1zdGFyLWxpb25lbC1tZXNzaS_SAUpodHRwczovL3RoZWNlbHRpY2Job3lzLmNvbS8yMDIyLzEyLzE4L2Zvcm1lci1jZWx0aWMtc3Rhci1saW9uZWwtbWVzc2kvYW1wLw?oc=5"/>
-        <updated>2022-12-18T19:53:06.000Z</updated>
-        <summary type="html"><![CDATA[Former Celtic star shares picture with Lionel Messi  The Celtic Bhoys]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
         </author>
     </entry>
 </feed>
