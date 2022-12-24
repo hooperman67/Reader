@@ -259,6 +259,16 @@
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
         {
+          "id": "CBMiWGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vdmlkZW8tY2VsdGljLWFjYWRlbXktYW5ub3VuY2UtMTgtbmV3LXNpZ25pbmdzLWluLWEtc2luZ2xlLWRheS_SAVxodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL3ZpZGVvLWNlbHRpYy1hY2FkZW15LWFubm91bmNlLTE4LW5ldy1zaWduaW5ncy1pbi1hLXNpbmdsZS1kYXkvYW1wLw",
+          "author": null,
+          "description": "Video: Celtic Academy announce 18 new signings in a single day  The Celtic Star",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiWGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vdmlkZW8tY2VsdGljLWFjYWRlbXktYW5ub3VuY2UtMTgtbmV3LXNpZ25pbmdzLWluLWEtc2luZ2xlLWRheS_SAVxodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL3ZpZGVvLWNlbHRpYy1hY2FkZW15LWFubm91bmNlLTE4LW5ldy1zaWduaW5ncy1pbi1hLXNpbmdsZS1kYXkvYW1wLw?oc=5",
+          "publishedOn": "2022-12-24T09:07:47.000Z",
+          "wordCount": 1047,
+          "title": "Video: Celtic Academy announce 18 new signings in a single day - The Celtic Star",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/12/sydney-super-cup-media-opportunity-1024x682.jpeg"
+        },
+        {
           "id": "CBMibGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vaXRzLW92ZXItcGVyc2lzdGVuY2UtYmVhdHMtcmVzaXN0YW5jZS1hcy0xMTI2Ni1pcy1kb25hdGVkLXRvLWNlbHRpYy1mYy1mb3VuZGF0aW9uL9IBcGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vaXRzLW92ZXItcGVyc2lzdGVuY2UtYmVhdHMtcmVzaXN0YW5jZS1hcy0xMTI2Ni1pcy1kb25hdGVkLXRvLWNlbHRpYy1mYy1mb3VuZGF0aW9uL2FtcC8",
           "author": null,
           "description": "It’s Over – Persistence Beats Resistance as £11,266 is donated to Celtic FC Foundation  The Celtic Star",
@@ -327,6 +337,16 @@
           "wordCount": 1818,
           "title": "Celtic announce new Japanese connection - 67 Hail Hail - Celtic FC News",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/12/GettyImages-1335413368-scaled.jpg"
+        },
+        {
+          "id": "CBMicmh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vd2UtbmVlZC10by1iZS1yZWFsbHktZGlzY2lwbGluZWQtaW4tb3VyLWFwcHJvYWNoLWFuZC1wbGF5LW91ci1mb290YmFsbC1hbmdlLXBvc3RlY29nbG91L9IBdmh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vd2UtbmVlZC10by1iZS1yZWFsbHktZGlzY2lwbGluZWQtaW4tb3VyLWFwcHJvYWNoLWFuZC1wbGF5LW91ci1mb290YmFsbC1hbmdlLXBvc3RlY29nbG91L2FtcC8",
+          "author": null,
+          "description": "“We need to be really disciplined in our approach and play our football,” Ange Postecoglou  The Celtic Star",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMicmh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vd2UtbmVlZC10by1iZS1yZWFsbHktZGlzY2lwbGluZWQtaW4tb3VyLWFwcHJvYWNoLWFuZC1wbGF5LW91ci1mb290YmFsbC1hbmdlLXBvc3RlY29nbG91L9IBdmh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vd2UtbmVlZC10by1iZS1yZWFsbHktZGlzY2lwbGluZWQtaW4tb3VyLWFwcHJvYWNoLWFuZC1wbGF5LW91ci1mb290YmFsbC1hbmdlLXBvc3RlY29nbG91L2FtcC8?oc=5",
+          "publishedOn": "2022-12-23T16:55:03.000Z",
+          "wordCount": 2058,
+          "title": "“We need to be really disciplined in our approach and play our football,” Ange Postecoglou - The Celtic Star",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/12/celtic-fc-v-livingston-fc-cinch-scottish-premiership-25-1024x683.jpg"
         },
         {
           "id": "CBMiV2h0dHBzOi8vd3d3LmNlbHRpY3dheS5jby51ay9uZXdzLzIzMjExNDA5Lm5vLWV4Y3VzZXMtLS1tYXR0LW9yaWxleS1jZWx0aWMtcmFsbHlpbmctY3J5L9IBAA",
@@ -1187,66 +1207,6 @@
           "wordCount": 1379,
           "title": "“They will contribute to the team,” Carl Starfelt on new Celtic signings - The Celtic Star",
           "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/12/imago1020486619h-1024x683.jpg"
-        },
-        {
-          "id": "CBMiWmh0dHBzOi8vd2VzdGxlZWRzZGlzcGF0Y2guY29tL3RyaWJ1dGVzLXBhaWQtdG8tZm9ybWVyLWZhcnNsZXktY2VsdGljLWNoYWlybWFuLWpvaG4tcGFsbWVyL9IBAA",
-          "author": null,
-          "description": "Tributes paid to former Farsley Celtic chairman John Palmer  West Leeds Dispatch",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiWmh0dHBzOi8vd2VzdGxlZWRzZGlzcGF0Y2guY29tL3RyaWJ1dGVzLXBhaWQtdG8tZm9ybWVyLWZhcnNsZXktY2VsdGljLWNoYWlybWFuLWpvaG4tcGFsbWVyL9IBAA?oc=5",
-          "publishedOn": "2022-12-19T20:50:41.000Z",
-          "wordCount": 16010,
-          "title": "Tributes paid to former Farsley Celtic chairman John Palmer - West Leeds Dispatch",
-          "imageUrl": "https://westleedsdispatch.com/wp-content/uploads/2022/12/john-palmer-farsley-celtic.jpeg"
-        },
-        {
-          "id": "CBMiXGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Nhcmwtc3RhcmZlbHQtY2F1dGlvdXMtY2FsbHVtLW1jZ3JlZ29yLTI4NzczMjQw0gFgaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvY2FybC1zdGFyZmVsdC1jYXV0aW91cy1jYWxsdW0tbWNncmVnb3ItMjg3NzMyNDAuYW1w",
-          "author": null,
-          "description": "Carl Starfelt in cautious response over glowing Callum McGregor verdict  Daily Record",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiXGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Nhcmwtc3RhcmZlbHQtY2F1dGlvdXMtY2FsbHVtLW1jZ3JlZ29yLTI4NzczMjQw0gFgaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvY2FybC1zdGFyZmVsdC1jYXV0aW91cy1jYWxsdW0tbWNncmVnb3ItMjg3NzMyNDAuYW1w?oc=5",
-          "publishedOn": "2022-12-19T19:56:35.000Z",
-          "wordCount": 3372,
-          "title": "Carl Starfelt in cautious response over glowing Callum McGregor verdict - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28773254.ece/ALTERNATES/s1200/0_Screenshot-2022-12-19-at-193847.png"
-        },
-        {
-          "id": "CBMia2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL2luLXlvdXItYXJlYS9sYW5hcmtzaGlyZS9sYW5hcmtzaGlyZS1jaGFyaXR5LWpvaW5zLWNlbHRpYy1mb3VuZGF0aW9uLTI4NzY5OTQ00gFvaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvaW4teW91ci1hcmVhL2xhbmFya3NoaXJlL2xhbmFya3NoaXJlLWNoYXJpdHktam9pbnMtY2VsdGljLWZvdW5kYXRpb24tMjg3Njk5NDQuYW1w",
-          "author": null,
-          "description": "Lanarkshire charity joins with Celtic foundation to provide winter warmth to the needy ahead of Christmas  Daily Record",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMia2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL2luLXlvdXItYXJlYS9sYW5hcmtzaGlyZS9sYW5hcmtzaGlyZS1jaGFyaXR5LWpvaW5zLWNlbHRpYy1mb3VuZGF0aW9uLTI4NzY5OTQ00gFvaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvaW4teW91ci1hcmVhL2xhbmFya3NoaXJlL2xhbmFya3NoaXJlLWNoYXJpdHktam9pbnMtY2VsdGljLWZvdW5kYXRpb24tMjg3Njk5NDQuYW1w?oc=5",
-          "publishedOn": "2022-12-19T19:50:00.000Z",
-          "wordCount": 3462,
-          "title": "Lanarkshire charity joins with Celtic foundation to provide winter warmth to the needy ahead of Christmas - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28769953.ece/ALTERNATES/s1200/0_LEAP.jpg"
-        },
-        {
-          "id": "CBMiamh0dHBzOi8vd3d3LmNlbHRpY3dheS5jby51ay9uZXdzLzIzMjAxNTk3LndhdGNoLWZvcm1lci1jZWx0aWMtZmF2b3VyaXRlLXRvbS1yb2dpYy1zdXBlcmItd2VzdC1icm9tLW1vbWVudC_SAQA",
-          "author": null,
-          "description": "WATCH: Former Celtic favourite Tom Rogic in superb West Brom ...  Celtic Way",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiamh0dHBzOi8vd3d3LmNlbHRpY3dheS5jby51ay9uZXdzLzIzMjAxNTk3LndhdGNoLWZvcm1lci1jZWx0aWMtZmF2b3VyaXRlLXRvbS1yb2dpYy1zdXBlcmItd2VzdC1icm9tLW1vbWVudC_SAQA?oc=5",
-          "publishedOn": "2022-12-19T19:02:00.000Z",
-          "wordCount": 8258,
-          "title": "WATCH: Former Celtic favourite Tom Rogic in superb West Brom ... - Celtic Way",
-          "imageUrl": "https://www.celticway.co.uk/resources/images/16281973/?type=og-image"
-        },
-        {
-          "id": "CBMiT2h0dHBzOi8vdGhlY2VsdGljYmhveXMuY29tLzIwMjIvMTIvMTkvbWF0dC1vcmlsZXktcmVzcG9uZHMtY2VsdGljLWV4aXQtcnVtb3Vycy_SAVNodHRwczovL3RoZWNlbHRpY2Job3lzLmNvbS8yMDIyLzEyLzE5L21hdHQtb3JpbGV5LXJlc3BvbmRzLWNlbHRpYy1leGl0LXJ1bW91cnMvYW1wLw",
-          "author": null,
-          "description": "Matt O’Riley responds to Celtic transfer exit rumours  The Celtic Bhoys",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiT2h0dHBzOi8vdGhlY2VsdGljYmhveXMuY29tLzIwMjIvMTIvMTkvbWF0dC1vcmlsZXktcmVzcG9uZHMtY2VsdGljLWV4aXQtcnVtb3Vycy_SAVNodHRwczovL3RoZWNlbHRpY2Job3lzLmNvbS8yMDIyLzEyLzE5L21hdHQtb3JpbGV5LXJlc3BvbmRzLWNlbHRpYy1leGl0LXJ1bW91cnMvYW1wLw?oc=5",
-          "publishedOn": "2022-12-19T19:00:59.000Z",
-          "wordCount": 2553,
-          "title": "Matt O’Riley responds to Celtic transfer exit rumours - The Celtic Bhoys",
-          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1242966272.jpeg"
-        },
-        {
-          "id": "CBMiQ2h0dHBzOi8vd3d3LmFmYy5jby51ay92aWRlby9qaW0tZ29vZHdpbi1yYW5nZXJzLXByZXNzLWNvbmZlcmVuY2UtMy_SAQA",
-          "author": null,
-          "description": "Jim Goodwin | Rangers Press Conference  afc.co.uk",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiQ2h0dHBzOi8vd3d3LmFmYy5jby51ay92aWRlby9qaW0tZ29vZHdpbi1yYW5nZXJzLXByZXNzLWNvbmZlcmVuY2UtMy_SAQA?oc=5",
-          "publishedOn": "2022-12-19T18:54:00.000Z",
-          "wordCount": 3089,
-          "title": "Jim Goodwin | Rangers Press Conference - afc.co.uk",
-          "imageUrl": "https://d2cx26qpfwuhvu.cloudfront.net/aberdeen/wp-content/uploads/2022/12/15144528/20221215_jim_goodwin1.jpg"
         }
       ]
     },
@@ -1255,6 +1215,36 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "d9edadfab79aaac4fbdc4cb0331a9e61",
+          "author": null,
+          "description": "The Australian was unhappy with some elements of his side's performance against Livingston on Wednesday night.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23211408.ange-postecoglou-celtics-need-learn-evolve-despite-winning/?ref=rss",
+          "publishedOn": "2022-12-24T07:00:00.000Z",
+          "wordCount": 8917,
+          "title": "Ange Postecoglou on Celtic's need to 'learn & evolve' despite winning",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16297788/?type=og-image"
+        },
+        {
+          "id": "8b5e60f36ad0d04899914e2fa22b0153",
+          "author": null,
+          "description": "The Denmark under-21 international had been playing his trade at League One side MK Dons before having his release clause met by Celtic.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23212483.matt-oriley-reflects-whirlwind-first-year-celtic/?ref=rss",
+          "publishedOn": "2022-12-24T06:30:00.000Z",
+          "wordCount": 10023,
+          "title": "Matt O'Riley reflects on whirlwind first year at Celtic",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16299514/?type=og-image"
+        },
+        {
+          "id": "8d29e0f165f69842f509003a5b101424",
+          "author": null,
+          "description": "Pensioners of a popular Glasgow charity recently enjoyed a free lunch at Celtic Park.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23211278.glasgow-golden-generation-receive-three-course-lunch-celtic-park/?ref=rss",
+          "publishedOn": "2022-12-24T06:00:00.000Z",
+          "wordCount": 8463,
+          "title": "Glasgow Golden Generation receive three-course lunch at Celtic Park",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16297729/?type=og-image"
+        },
         {
           "id": "02ac80b8ea15f2bc5e6e6c81424540fd",
           "author": null,
