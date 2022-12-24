@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2022-12-24T01:22:52.092Z</updated>
+    <updated>2022-12-24T03:19:30.804Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -1121,6 +1121,16 @@ Celtic team vs Livingston confirmed: Abada call, stream details, instant reactio
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Celtic vs Livingston: Live stream, TV channel & kick-off time]]></title>
+        <id>457795c2accb0ff1be4fe564b98772b4</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23199840.celtic-vs-livingston-live-stream-tv-channel-kick-off-time/?ref=rss"/>
+        <updated>2022-12-21T07:23:00.000Z</updated>
+        <summary type="html"><![CDATA[The Hoops are back on home soil this midweek after an away trip to Pittodrie at the weekend.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Top Celtic Injury Boost Confirmed | Celts Are Here - CeltsAreHere]]></title>
         <id>CBMiO2h0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS90b3AtY2VsdGljLWluanVyeS1ib29zdC1jb25maXJtZWQv0gE_aHR0cHM6Ly9jZWx0c2FyZWhlcmUuY29tL3RvcC1jZWx0aWMtaW5qdXJ5LWJvb3N0LWNvbmZpcm1lZC9hbXAv</id>
         <link href="https://news.google.com/__i/rss/rd/articles/CBMiO2h0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS90b3AtY2VsdGljLWluanVyeS1ib29zdC1jb25maXJtZWQv0gE_aHR0cHM6Ly9jZWx0c2FyZWhlcmUuY29tL3RvcC1jZWx0aWMtaW5qdXJ5LWJvb3N0LWNvbmZpcm1lZC9hbXAv?oc=5"/>
@@ -1700,26 +1710,6 @@ Josip Juranovic Barcelona transfer links delight Carl Starfelt but Celtic star u
         <summary type="html"><![CDATA[Celtic should sign 'no-nonsense' Moritz Jenz on permanent transfer claims Parkhead hero  Glasgow Live]]></summary>
         <author>
             <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic hero urges club to complete 'no-nonsense' transfer | Celtic Way - Celtic Way]]></title>
-        <id>CBMiX2h0dHBzOi8vd3d3LmNlbHRpY3dheS5jby51ay9uZXdzLzIzMjAwNDM2LmNlbHRpYy1oZXJvLXVyZ2VzLWNsdWItY29tcGxldGUtbm8tbm9uc2Vuc2UtdHJhbnNmZXIv0gEA</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiX2h0dHBzOi8vd3d3LmNlbHRpY3dheS5jby51ay9uZXdzLzIzMjAwNDM2LmNlbHRpYy1oZXJvLXVyZ2VzLWNsdWItY29tcGxldGUtbm8tbm9uc2Vuc2UtdHJhbnNmZXIv0gEA?oc=5"/>
-        <updated>2022-12-19T13:43:00.000Z</updated>
-        <summary type="html"><![CDATA[Celtic hero urges club to complete 'no-nonsense' transfer | Celtic Way  Celtic Way]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic hero urges club to complete 'no-nonsense' transfer]]></title>
-        <id>92949c3ee0c57f49794b116cab389c57</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23200436.celtic-hero-urges-club-complete-no-nonsense-transfer/?ref=rss"/>
-        <updated>2022-12-19T13:43:00.000Z</updated>
-        <summary type="html"><![CDATA[The former Hoops striker feels Moritz Jenz should be signed permanently]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>
