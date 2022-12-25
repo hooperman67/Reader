@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2022-12-25T15:17:41.047Z</updated>
+    <updated>2022-12-25T18:22:00.622Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Photo: North Curve’s Ange Postecoglou Christmas tribute - The Celtic Star]]></title>
+        <id>CBMiUGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vcGhvdG8tbm9ydGgtY3VydmVzLWFuZ2UtcG9zdGVjb2dsb3UtY2hyaXN0bWFzLXRyaWJ1dGUv0gFUaHR0cHM6Ly90aGVjZWx0aWNzdGFyLmNvbS9waG90by1ub3J0aC1jdXJ2ZXMtYW5nZS1wb3N0ZWNvZ2xvdS1jaHJpc3RtYXMtdHJpYnV0ZS9hbXAv</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiUGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vcGhvdG8tbm9ydGgtY3VydmVzLWFuZ2UtcG9zdGVjb2dsb3UtY2hyaXN0bWFzLXRyaWJ1dGUv0gFUaHR0cHM6Ly90aGVjZWx0aWNzdGFyLmNvbS9waG90by1ub3J0aC1jdXJ2ZXMtYW5nZS1wb3N0ZWNvZ2xvdS1jaHJpc3RtYXMtdHJpYnV0ZS9hbXAv?oc=5"/>
+        <updated>2022-12-25T16:20:47.000Z</updated>
+        <summary type="html"><![CDATA[Photo: North Curve’s Ange Postecoglou Christmas tribute  The Celtic Star]]></summary>
+        <author>
+            <name>"celtic fc" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic transfers: Exciting month awaits, another player linked, will English clubs pull trigger on duo, chase for Josip Juranovic]]></title>
+        <id>3966031</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/celtic-transfers-exciting-month-awaits-another-player-linked-will-english-clubs-pull-trigger-on-duo-chase-for-josip-juranovic-3966031"/>
+        <updated>2022-12-25T15:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Under Ange Postecoglou, there is never a dull transfer window at Celtic. Two players have already been snapped up for the start of next year – but that is likely to just be the start of a busy month at Parkhead.]]></summary>
+        <author>
+            <name>Mark Atkinson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic and Rangers duo top Prem most valuable chart at Christmas]]></title>
         <id>3216309d40f18bef05850a414a70554f</id>
@@ -1650,16 +1670,6 @@ Celtic team vs Livingston confirmed: Abada call, stream details, instant reactio
         <summary type="html"><![CDATA[Top Celtic Injury Boost Confirmed | Celts Are Here  CeltsAreHere]]></summary>
         <author>
             <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Postecoglou calls on referees to clamp down on time-wasting against Celtic]]></title>
-        <id>d92ea4ce2e2a4ec7dc032024990f252b</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23204355.ange-postecoglou-calls-referees-clamp-timewasting/?ref=rss"/>
-        <updated>2022-12-21T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[FOR fervent fans of domestic football, the mid-season World Cup in Qatar may have seemed to have lasted an age. If you are among that group though...]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>

@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "3966031",
+          "author": "Mark Atkinson",
+          "description": "Under Ange Postecoglou, there is never a dull transfer window at Celtic. Two players have already been snapped up for the start of next year – but that is likely to just be the start of a busy month at Parkhead.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtic-transfers-exciting-month-awaits-another-player-linked-will-english-clubs-pull-trigger-on-duo-chase-for-josip-juranovic-3966031",
+          "publishedOn": "2022-12-25T15:45:00.000Z",
+          "wordCount": null,
+          "title": "Celtic transfers: Exciting month awaits, another player linked, will English clubs pull trigger on duo, chase for Josip Juranovic",
+          "imageUrl": null
+        },
+        {
           "id": "3965986",
           "author": "Andrew Smith",
           "description": "Celtic were returned to their devastating selves with their 4-1 flogging of St Johnstone and we pick out three talking points from the match at Celtic Park.",
@@ -218,6 +228,16 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CBMiUGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vcGhvdG8tbm9ydGgtY3VydmVzLWFuZ2UtcG9zdGVjb2dsb3UtY2hyaXN0bWFzLXRyaWJ1dGUv0gFUaHR0cHM6Ly90aGVjZWx0aWNzdGFyLmNvbS9waG90by1ub3J0aC1jdXJ2ZXMtYW5nZS1wb3N0ZWNvZ2xvdS1jaHJpc3RtYXMtdHJpYnV0ZS9hbXAv",
+          "author": null,
+          "description": "Photo: North Curve’s Ange Postecoglou Christmas tribute  The Celtic Star",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiUGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vcGhvdG8tbm9ydGgtY3VydmVzLWFuZ2UtcG9zdGVjb2dsb3UtY2hyaXN0bWFzLXRyaWJ1dGUv0gFUaHR0cHM6Ly90aGVjZWx0aWNzdGFyLmNvbS9waG90by1ub3J0aC1jdXJ2ZXMtYW5nZS1wb3N0ZWNvZ2xvdS1jaHJpc3RtYXMtdHJpYnV0ZS9hbXAv?oc=5",
+          "publishedOn": "2022-12-25T16:20:47.000Z",
+          "wordCount": 935,
+          "title": "Photo: North Curve’s Ange Postecoglou Christmas tribute - The Celtic Star",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/12/59EF6B17-6C4E-44C7-B4D1-FB3E0728722C.jpeg"
+        },
         {
           "id": "CBMiXGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vdmlkZW8tbWVycnktY2hyaXN0bWFzLWNlbHRzLWZyb20tZXZlcnlvbmUtYXQtY2VsdGljLWZvb3RiYWxsLWNsdWIv0gFgaHR0cHM6Ly90aGVjZWx0aWNzdGFyLmNvbS92aWRlby1tZXJyeS1jaHJpc3RtYXMtY2VsdHMtZnJvbS1ldmVyeW9uZS1hdC1jZWx0aWMtZm9vdGJhbGwtY2x1Yi9hbXAv",
           "author": null,
@@ -1664,16 +1684,6 @@
           "wordCount": 9800,
           "title": "Celtic vs Livingston: Live stream, TV channel & kick-off time",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16279049/?type=og-image"
-        },
-        {
-          "id": "d92ea4ce2e2a4ec7dc032024990f252b",
-          "author": null,
-          "description": "FOR fervent fans of domestic football, the mid-season World Cup in Qatar may have seemed to have lasted an age. If you are among that group though...",
-          "link": "https://www.glasgowtimes.co.uk/sport/23204355.ange-postecoglou-calls-referees-clamp-timewasting/?ref=rss",
-          "publishedOn": "2022-12-21T06:00:00.000Z",
-          "wordCount": 10418,
-          "title": "Postecoglou calls on referees to clamp down on time-wasting against Celtic",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16286626/?type=og-image"
         }
       ]
     }
