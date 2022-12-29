@@ -239,6 +239,16 @@
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
         {
+          "id": "CBMidGh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvcmVwb3J0LXNjb3V0cy1mcm9tLWV1cm9wZWFuLWdpYW50cy1wcmVzZW50LWFzLWNlbHRpYy1wcm9zcGVjdC10YWtlcy1maXJzdC10ZWFtLXN0ZXAv0gF4aHR0cHM6Ly93d3cuNjdoYWlsaGFpbC5jb20vbmV3cy9yZXBvcnQtc2NvdXRzLWZyb20tZXVyb3BlYW4tZ2lhbnRzLXByZXNlbnQtYXMtY2VsdGljLXByb3NwZWN0LXRha2VzLWZpcnN0LXRlYW0tc3RlcC8_YW1w",
+          "author": null,
+          "description": "Report: Scouts present as Celtic prospect takes first-team step  67 Hail Hail - Celtic FC News",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMidGh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvcmVwb3J0LXNjb3V0cy1mcm9tLWV1cm9wZWFuLWdpYW50cy1wcmVzZW50LWFzLWNlbHRpYy1wcm9zcGVjdC10YWtlcy1maXJzdC10ZWFtLXN0ZXAv0gF4aHR0cHM6Ly93d3cuNjdoYWlsaGFpbC5jb20vbmV3cy9yZXBvcnQtc2NvdXRzLWZyb20tZXVyb3BlYW4tZ2lhbnRzLXByZXNlbnQtYXMtY2VsdGljLXByb3NwZWN0LXRha2VzLWZpcnN0LXRlYW0tc3RlcC8_YW1w?oc=5",
+          "publishedOn": "2022-12-29T17:45:00.000Z",
+          "wordCount": 2125,
+          "title": "Report: Scouts present as Celtic prospect takes first-team step - 67 Hail Hail - Celtic FC News",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/11/GettyImages-1442161380-scaled.jpg"
+        },
+        {
           "id": "CBMiT2h0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9rd29uLWh5ZW9rLWt5dS1wcm9maWxlZC1jZWx0aWMtMjU4NTc0NjXSAVNodHRwczovL3d3dy5mb290YmFsbHNjb3RsYW5kLmNvLnVrL3NwZmwva3dvbi1oeWVvay1reXUtcHJvZmlsZWQtY2VsdGljLTI1ODU3NDY1LmFtcA",
           "author": null,
           "description": "Who is Kwon Hyeok-kyu? Midfielder profiled as Celtic transfer 'target' provides physical and aerial threat  Football Scotland",
@@ -997,16 +1007,6 @@
           "wordCount": 3847,
           "title": "Ange Postecoglou: Celtic manager reflects on 'positive' year with nine-point lead at Christmas - Sky Sports",
           "imageUrl": "https://e0.365dm.com/22/07/1600x900/skysports-ange-postecoglou_5827540.jpg?20220708080932"
-        },
-        {
-          "id": "CBMiVmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2xvY2FsLXNwb3J0L2FjY2llcy1naXJscy1iZWF0LWNlbHRpYy1saWZ0LTI4ODA2NDc10gFaaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvbG9jYWwtc3BvcnQvYWNjaWVzLWdpcmxzLWJlYXQtY2VsdGljLWxpZnQtMjg4MDY0NzUuYW1w",
-          "author": null,
-          "description": "Accies girls beat Celtic to lift Scottish Youth Cup in jubilant scenes at Petershill  Daily Record",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiVmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2xvY2FsLXNwb3J0L2FjY2llcy1naXJscy1iZWF0LWNlbHRpYy1saWZ0LTI4ODA2NDc10gFaaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvbG9jYWwtc3BvcnQvYWNjaWVzLWdpcmxzLWJlYXQtY2VsdGljLWxpZnQtMjg4MDY0NzUuYW1w?oc=5",
-          "publishedOn": "2022-12-25T06:00:00.000Z",
-          "wordCount": 3425,
-          "title": "Accies girls beat Celtic to lift Scottish Youth Cup in jubilant scenes at Petershill - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28806507.ece/ALTERNATES/s1200/0_PTR_HAM_221222ACCIES_01jfif.jpg"
         }
       ]
     },
@@ -1015,6 +1015,66 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "bb936449d956b916f09a0765d097f71c",
+          "author": null,
+          "description": "The Northern Irishman detailed the special significance behind the digits",
+          "link": "https://www.glasgowtimes.co.uk/sport/23219062.watch-celtic-legend-oneill-explains-reason-behind-lucky-number-31/?ref=rss",
+          "publishedOn": "2022-12-29T17:16:00.000Z",
+          "wordCount": 9768,
+          "title": "WATCH: Celtic legend O'Neill explains reason behind lucky number 31",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16309090/?type=og-image"
+        },
+        {
+          "id": "2a5c3af29955c9285735c96db058a5cf",
+          "author": null,
+          "description": "The Hoops lead the Premiership title race by nine-points heading into the New Year.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23218688.celtic-selection-headache-rangers-clash-detailed-scott-allan/?ref=rss",
+          "publishedOn": "2022-12-29T15:24:09.000Z",
+          "wordCount": 8533,
+          "title": "Celtic selection headache for Rangers clash detailed by Scott Allan",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16308476/?type=og-image"
+        },
+        {
+          "id": "62a4c4dddc5d09e106af935238ba6fa5",
+          "author": null,
+          "description": "The Croatian right-back is believed to be attracting interest from clubs all over Europe.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23218588.josip-juranovic-transfer-wont-threaten-celtic-title-charge/?ref=rss",
+          "publishedOn": "2022-12-29T14:58:34.000Z",
+          "wordCount": 8466,
+          "title": "Josip Juranovic transfer won't threaten Celtic title charge",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16308329/?type=og-image"
+        },
+        {
+          "id": "e3a8d31dc8db343105d3895316ffd862",
+          "author": null,
+          "description": "He is currently playing in the second tier in South Korea",
+          "link": "https://www.glasgowtimes.co.uk/sport/23218549.celtic-linked-transfer-move-south-korean-midfielder/?ref=rss",
+          "publishedOn": "2022-12-29T14:48:00.000Z",
+          "wordCount": 9752,
+          "title": "Celtic linked with transfer move for South Korean midfielder",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16308262/?type=og-image"
+        },
+        {
+          "id": "2a6125992998a532adc946dcfc065dea",
+          "author": null,
+          "description": "The former Celtic manager is a fan of the Rangers striker.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23218523.ex-celtic-boss-neil-lennon-unlikely-alfredo-morelos-rangers-defence/?ref=rss",
+          "publishedOn": "2022-12-29T14:41:33.000Z",
+          "wordCount": 8510,
+          "title": "Ex-Celtic boss Neil Lennon in unlikely Alfredo Morelos Rangers defence",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16308197/?type=og-image"
+        },
+        {
+          "id": "fc3602fcd4ff9058ed8f24abea5a661d",
+          "author": null,
+          "description": "Neil Lennon believes the Scottish Premiership title will be in the bag for Celtic if they gain a positive result against Rangers on January 2.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23218483.neil-lennon-details-rangers-vs-celtic-clash-will-won-lost/?ref=rss",
+          "publishedOn": "2022-12-29T14:32:33.000Z",
+          "wordCount": 8546,
+          "title": "Neil Lennon details where Rangers vs Celtic clash will be won or lost",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16308118/?type=og-image"
+        },
         {
           "id": "e763bbbdf6b13962d3009d10c64897b7",
           "author": null,
