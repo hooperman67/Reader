@@ -289,6 +289,16 @@
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
         {
+          "id": "CBMikgFodHRwczovL3dlYWxsZm9sbG93dW5pdGVkLmNvbS8yMDIyLzEyLzMxL21hbmNoZXN0ZXItdW5pdGVkLXdpbGwtYmF0dGxlLWNoZWxzZWEtZm9yLXRoZS1zaWduYXR1cmUtb2YtY2VsdGljLWFuZC1jcm9hdGlhLXJpZ2h0LWJhY2stam9zaXAtanVyYW5vdmljL9IBlgFodHRwczovL3dlYWxsZm9sbG93dW5pdGVkLmNvbS8yMDIyLzEyLzMxL21hbmNoZXN0ZXItdW5pdGVkLXdpbGwtYmF0dGxlLWNoZWxzZWEtZm9yLXRoZS1zaWduYXR1cmUtb2YtY2VsdGljLWFuZC1jcm9hdGlhLXJpZ2h0LWJhY2stam9zaXAtanVyYW5vdmljL2FtcC8",
+          "author": null,
+          "description": "Transfer News: Manchester United to battle Chelsea for 27-year-old SPL star  We All Follow United",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMikgFodHRwczovL3dlYWxsZm9sbG93dW5pdGVkLmNvbS8yMDIyLzEyLzMxL21hbmNoZXN0ZXItdW5pdGVkLXdpbGwtYmF0dGxlLWNoZWxzZWEtZm9yLXRoZS1zaWduYXR1cmUtb2YtY2VsdGljLWFuZC1jcm9hdGlhLXJpZ2h0LWJhY2stam9zaXAtanVyYW5vdmljL9IBlgFodHRwczovL3dlYWxsZm9sbG93dW5pdGVkLmNvbS8yMDIyLzEyLzMxL21hbmNoZXN0ZXItdW5pdGVkLXdpbGwtYmF0dGxlLWNoZWxzZWEtZm9yLXRoZS1zaWduYXR1cmUtb2YtY2VsdGljLWFuZC1jcm9hdGlhLXJpZ2h0LWJhY2stam9zaXAtanVyYW5vdmljL2FtcC8?oc=5",
+          "publishedOn": "2022-12-31T16:30:05.000Z",
+          "wordCount": 1926,
+          "title": "Transfer News: Manchester United to battle Chelsea for 27-year-old SPL star - We All Follow United",
+          "imageUrl": "https://weallfollowunited.com/wp-content/uploads/2022/12/celtic-fc-v-aberdeen-fc-cinch-scottish-premiership-scaled.jpg"
+        },
+        {
           "id": "CBMiYWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3Mvbm9ib2R5cy1zYWZlLWNlbHRpYy1zdGFyLW1hdHQtMjg4NDY5MTnSAWVodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL25vYm9keXMtc2FmZS1jZWx0aWMtc3Rhci1tYXR0LTI4ODQ2OTE5LmFtcA",
           "author": null,
           "description": "Hotline callers give Celtic star and Hibs boss a boot up the backside  Daily Record",
@@ -869,6 +879,16 @@
           "imageUrl": "https://i2-prod.glasgowlive.co.uk/incoming/article25852650.ece/ALTERNATES/s1200/0_JS287018005.jpg"
         },
         {
+          "id": "CBMiO2h0dHBzOi8vd3d3LmNlbHRpY2ZjLmNvbS9tYXRjaC9maXJzdC10ZWFtLzIwMjItMjMvZzIyOTM0NTEv0gEA",
+          "author": null,
+          "description": "Hibernian - Celtic | 28 Dec 2022 | celticfc.com  Official Celtic Football Club Website",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiO2h0dHBzOi8vd3d3LmNlbHRpY2ZjLmNvbS9tYXRjaC9maXJzdC10ZWFtLzIwMjItMjMvZzIyOTM0NTEv0gEA?oc=5",
+          "publishedOn": "2022-12-28T21:33:45.000Z",
+          "wordCount": 2106,
+          "title": "Hibernian - Celtic | 28 Dec 2022 | celticfc.com - Official Celtic Football Club Website",
+          "imageUrl": null
+        },
+        {
           "id": "CBMiXWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvaGlicy12cy1jZWx0aWMtbGl2ZS1zY29yZS0yODgzMDIwMtIBYWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvaGlicy12cy1jZWx0aWMtbGl2ZS1zY29yZS0yODgzMDIwMi5hbXA",
           "author": null,
           "description": "Hibs 0 Celtic 2 LIVE score as second half gets under way at Easter Road  Daily Record",
@@ -1265,6 +1285,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "be281ba143c879b5a9d97e82a88afd7a",
+          "author": null,
+          "description": "Moritz Jenz has updated supporters on his plans for the future amid a possibility that he could move to Celtic on a permanent basis.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23222194.moritz-jenz-delivers-celtic-transfer-update-possible-permanent-deal/?ref=rss",
+          "publishedOn": "2022-12-31T15:56:28.000Z",
+          "wordCount": 8490,
+          "title": "Moritz Jenz delivers Celtic transfer update on possible permanent deal",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16313574/?type=og-image"
+        },
         {
           "id": "e81e05df2acad3be54cac6551c7f923d",
           "author": null,
@@ -1854,16 +1884,6 @@
           "wordCount": 9803,
           "title": "Charlie Nicholas on David Turnbull Celtic transfer concern",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16302085/?type=og-image"
-        },
-        {
-          "id": "125d24023bde436af7a057701979032d",
-          "author": null,
-          "description": "The Celtic manager believes there's even more to come from his team in 2023.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23213659.ange-postecoglou-reveals-celtic-stars-demand-never-lets/?ref=rss",
-          "publishedOn": "2022-12-27T06:00:00.000Z",
-          "wordCount": 8989,
-          "title": "Ange Postecoglou reveals Celtic stars 'demand' that he never lets up",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16301210/?type=og-image"
         }
       ]
     }
