@@ -264,16 +264,6 @@
           "wordCount": null,
           "title": "Hibs boss makes unusual Celtic remark as discusses Puntos and Formula One races",
           "imageUrl": null
-        },
-        {
-          "id": "3966464",
-          "author": "Mark Atkinson",
-          "description": "Scotland starlet Ben Doak has made his English Premier League debut after coming on as a late substitute for Liverpool in their 3-1 win over Aston Villa.",
-          "link": "https://www.scotsman.com/sport/football/international/scotland-starlet-doak-notches-up-another-liverpool-milestone-as-ex-celtic-man-continues-to-shine-3966464",
-          "publishedOn": "2022-12-26T19:29:05.000Z",
-          "wordCount": null,
-          "title": "Scotland starlet Doak notches up another Liverpool milestone as ex-Celtic man continues to shine",
-          "imageUrl": null
         }
       ]
     },
@@ -288,6 +278,16 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CBMiNmh0dHBzOi8vd3d3LmNlbHRpY3F1aWNrbmV3cy5jby51ay9tYXR0LW9yaWxleS1teXN0ZXJ5L9IBAA",
+          "author": null,
+          "description": "MATT O'RILEY MYSTERY  Celtic Quick News",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiNmh0dHBzOi8vd3d3LmNlbHRpY3F1aWNrbmV3cy5jby51ay9tYXR0LW9yaWxleS1teXN0ZXJ5L9IBAA?oc=5",
+          "publishedOn": "2022-12-31T07:00:27.000Z",
+          "wordCount": 3887,
+          "title": "MATT O'RILEY MYSTERY - Celtic Quick News",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/10/MATT-ORILEY-FEETR.png"
+        },
         {
           "id": "CBMibmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLXRyYW5zZmVyLW5ld3MvdHJhbnNmZXItbmV3cy1saXZlLWNlbHRpYy1yYW5nZXJzLTI4ODE1NTQ40gFyaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvZm9vdGJhbGwtdHJhbnNmZXItbmV3cy90cmFuc2Zlci1uZXdzLWxpdmUtY2VsdGljLXJhbmdlcnMtMjg4MTU1NDguYW1w",
           "author": null,
@@ -1187,44 +1187,54 @@
           "wordCount": 3765,
           "title": "Lee Johnson says facing Celtic is like going from a Fiat Punto to F1 race - Daily Record",
           "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28805412.ece/ALTERNATES/s1200/0_JS286287731.jpg"
-        },
-        {
-          "id": "CBMiZGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvYmVuLWRvYWstbWFrZXMtbGl2ZXJwb29sLXByZW1pZXItMjg4MTg4NDbSAWhodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL2Jlbi1kb2FrLW1ha2VzLWxpdmVycG9vbC1wcmVtaWVyLTI4ODE4ODQ2LmFtcA",
-          "author": null,
-          "description": "Ben Doak makes Liverpool Premier League debut as rapid rise since Celtic exit continues  Daily Record",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiZGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvYmVuLWRvYWstbWFrZXMtbGl2ZXJwb29sLXByZW1pZXItMjg4MTg4NDbSAWhodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL2Jlbi1kb2FrLW1ha2VzLWxpdmVycG9vbC1wcmVtaWVyLTI4ODE4ODQ2LmFtcA?oc=5",
-          "publishedOn": "2022-12-26T19:35:59.000Z",
-          "wordCount": 3398,
-          "title": "Ben Doak makes Liverpool Premier League debut as rapid rise since Celtic exit continues - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28818853.ece/ALTERNATES/s1200/0_JS286928802.jpg"
-        },
-        {
-          "id": "CBMiY2h0dHBzOi8vd3d3LnNwb3J0c2tlZWRhLmNvbS9mb290YmFsbC9oaWJlcm5pYW4tdnMtY2VsdGljLXByZWRpY3Rpb24tYmV0dGluZy10aXBzLWRlY2VtYmVyLTI4dGgtMjAyMtIBZ2h0dHBzOi8vd3d3LnNwb3J0c2tlZWRhLmNvbS9hbXAvZm9vdGJhbGwvaGliZXJuaWFuLXZzLWNlbHRpYy1wcmVkaWN0aW9uLWJldHRpbmctdGlwcy1kZWNlbWJlci0yOHRoLTIwMjI",
-          "author": null,
-          "description": "Hibernian vs Celtic Prediction and Betting Tips | December 28th 2022  Sportskeeda",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiY2h0dHBzOi8vd3d3LnNwb3J0c2tlZWRhLmNvbS9mb290YmFsbC9oaWJlcm5pYW4tdnMtY2VsdGljLXByZWRpY3Rpb24tYmV0dGluZy10aXBzLWRlY2VtYmVyLTI4dGgtMjAyMtIBZ2h0dHBzOi8vd3d3LnNwb3J0c2tlZWRhLmNvbS9hbXAvZm9vdGJhbGwvaGliZXJuaWFuLXZzLWNlbHRpYy1wcmVkaWN0aW9uLWJldHRpbmctdGlwcy1kZWNlbWJlci0yOHRoLTIwMjI?oc=5",
-          "publishedOn": "2022-12-26T18:33:09.000Z",
-          "wordCount": 33821,
-          "title": "Hibernian vs Celtic Prediction and Betting Tips | December 28th 2022 - Sportskeeda",
-          "imageUrl": "https://staticg.sportskeeda.com/editor/2022/12/254fb-16720774538477-1920.jpg"
-        },
-        {
-          "id": "CBMiX2h0dHBzOi8vd3d3LmZvb3RiYWxsaW5zaWRlcjI0Ny5jb20vY2VsdGljLWlkb2wtbW9ja3MtZGVsdXNpb25hbC1yYW5nZXJzLWZhbnMtYWZ0ZXItaHVnZS1yZXZlYWwv0gFjaHR0cHM6Ly93d3cuZm9vdGJhbGxpbnNpZGVyMjQ3LmNvbS9jZWx0aWMtaWRvbC1tb2Nrcy1kZWx1c2lvbmFsLXJhbmdlcnMtZmFucy1hZnRlci1odWdlLXJldmVhbC8_YW1w",
-          "author": null,
-          "description": "Celtic idol mocks ‘delusional’ Rangers fans after ‘huge’ reveal  Football Insider",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiX2h0dHBzOi8vd3d3LmZvb3RiYWxsaW5zaWRlcjI0Ny5jb20vY2VsdGljLWlkb2wtbW9ja3MtZGVsdXNpb25hbC1yYW5nZXJzLWZhbnMtYWZ0ZXItaHVnZS1yZXZlYWwv0gFjaHR0cHM6Ly93d3cuZm9vdGJhbGxpbnNpZGVyMjQ3LmNvbS9jZWx0aWMtaWRvbC1tb2Nrcy1kZWx1c2lvbmFsLXJhbmdlcnMtZmFucy1hZnRlci1odWdlLXJldmVhbC8_YW1w?oc=5",
-          "publishedOn": "2022-12-26T18:30:00.000Z",
-          "wordCount": 1679,
-          "title": "Celtic idol mocks ‘delusional’ Rangers fans after ‘huge’ reveal - Football Insider",
-          "imageUrl": "https://www.footballinsider247.com/static/uploads/1/2022/12/rsz_1beale.jpg"
         }
       ]
     },
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "d2f119bf11de4e83a6af280dfd6dacba",
+          "author": null,
+          "description": "The last-12 months have been packed full of highs, lows and certainly plenty of drama.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23219150.scottish-premiership-club-reviewed-2022-comes-end/?ref=rss",
+          "publishedOn": "2022-12-31T07:00:00.000Z",
+          "wordCount": 9393,
+          "title": "Each Scottish Premiership club reviewed as 2022 comes to an end",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16309204/?type=og-image"
+        },
+        {
+          "id": "e77c58aff4009422c7a1225b3dc12a84",
+          "author": null,
+          "description": "AS any Celtic fan who saw him play during the four unforgettable seasons that he spent at Parkhead will tell you, Lubomir Moravcik could do just about anything with a football at his feet.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23219763.celtic-legend-lubomir-moravcik-makes-move-slovakian-politics/?ref=rss",
+          "publishedOn": "2022-12-31T06:31:00.000Z",
+          "wordCount": 10743,
+          "title": "Celtic legend Lubomir Moravcik makes move into Slovakian politics",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16309792/?type=og-image"
+        },
+        {
+          "id": "4f20e9ff626a2d2756618e4d67cb8912",
+          "author": null,
+          "description": "The right-back will be available for selection for Monday's derby clash at Ibrox.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23221659.alistair-johnston-insists-can-handle-celtic-debut-rangers/?ref=rss",
+          "publishedOn": "2022-12-31T06:30:00.000Z",
+          "wordCount": 8407,
+          "title": "Alistair Johnston insists he can handle Celtic debut against Rangers",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16312949/?type=og-image"
+        },
+        {
+          "id": "d86b6f37a12bda118dd2189b90f05597",
+          "author": null,
+          "description": "THERE are still a couple of days to go before the second Glasgow derby/Old Firm match/ Sevco Scotland Ltd v Pacific Shelf 585 Ltd game (have I covered all of the bases there?) of the season commences at Ibrox.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23221321.rangers-managers-past-old-firm-glories-irrelevant-celtic/?ref=rss",
+          "publishedOn": "2022-12-31T06:04:00.000Z",
+          "wordCount": 8991,
+          "title": "Rangers manager's past Old Firm glories are irrelevant against Celtic",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16312427/?type=og-image"
+        },
         {
           "id": "5f0d1b4b080e68bbd82b66e52bd22129",
           "author": null,
