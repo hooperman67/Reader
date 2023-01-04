@@ -2,16 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-01-04T06:23:18.598Z</updated>
+    <updated>2023-01-04T09:18:25.256Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rangers may spend less in January after Celtic equaliser, says Thomson]]></title>
+        <id>0ab30d342a82ba0bffc883fb9aea8b23</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23227068.rangers-may-spend-less-january-celtic-equaliser-says-thomson/?ref=rss"/>
+        <updated>2023-01-04T08:35:28.000Z</updated>
+        <summary type="html"><![CDATA[A late Kyogo goal ensured a share of the spoils at Ibrox as the teams played out an entertaining 2-2 draw.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Charlie Nicholas floats Celtic bust-up theory prior to Rangers clash]]></title>
+        <id>ff3ad49e96ef224a94d74ddfe14f2b6e</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23227037.charlie-nicholas-floats-celtic-bust-up-theory-prior-rangers-clash/?ref=rss"/>
+        <updated>2023-01-04T08:12:39.000Z</updated>
+        <summary type="html"><![CDATA[The World Cup star struggled badly up against Fashion Sakala when he featured at left-back during the derby.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic 'to raise' VAR concerns with SFA after Rangers flashpoint]]></title>
+        <id>ffc184cf94bbf83b81cc92fceebbb71b</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23227020.celtic-to-raise-var-concerns-sfa-rangers-flashpoint/?ref=rss"/>
+        <updated>2023-01-04T07:53:28.000Z</updated>
+        <summary type="html"><![CDATA[Referee John Beaton chose not to award a penalty for the Hoops during Monday's 2-2 draw at Ibrox.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Charlie Nicholas shares Celtic ‘bust-up’ theory as former striker insists Rangers let Hoops ‘off the hook’ - Football Scotland]]></title>
+        <id>CBMiVGh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9jaGFybGllLW5pY2hvbGFzLXNoYXJlcy1jZWx0aWMtYnVzdC0yNTg5MDE3MtIBWGh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9jaGFybGllLW5pY2hvbGFzLXNoYXJlcy1jZWx0aWMtYnVzdC0yNTg5MDE3Mi5hbXA</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiVGh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9jaGFybGllLW5pY2hvbGFzLXNoYXJlcy1jZWx0aWMtYnVzdC0yNTg5MDE3MtIBWGh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9jaGFybGllLW5pY2hvbGFzLXNoYXJlcy1jZWx0aWMtYnVzdC0yNTg5MDE3Mi5hbXA?oc=5"/>
+        <updated>2023-01-04T07:23:14.000Z</updated>
+        <summary type="html"><![CDATA[Charlie Nicholas shares Celtic ‘bust-up’ theory as former striker insists Rangers let Hoops ‘off the hook’  Football Scotland]]></summary>
+        <author>
+            <name>"celtic fc" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why there is no chance Celtic will throw away league title]]></title>
+        <id>7f7163b226b419812867b14cb57cbc43</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23226319.no-chance-celtic-will-throw-away-league-title/?ref=rss"/>
+        <updated>2023-01-04T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If you listened very carefully on Monday, you may also just have been able to make out the sound of the fat lady clearing her throat.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[John Beaton and Willie Collum hailed for 'good team work' at Ibrox]]></title>
+        <id>0568acdbf6f56bfb972c069b5d6bfc14</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23226841.john-beaton-willie-collum-hailed-good-team-work-ibrox/?ref=rss"/>
+        <updated>2023-01-04T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The game has been overshadowed by a controversial second-half incident involving a Connor Goldson handball.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scots TikTok star has Rangers fans in stitches wearing Celtic mankini at Ibrox - Daily Record]]></title>
         <id>CBMiWWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL25ld3Mvc2NvdHRpc2gtbmV3cy90aWt0b2stc3Rhci13cmVzdGxlci1ncmFkby10ZWFtLTI4ODY3MTUz0gFdaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvbmV3cy9zY290dGlzaC1uZXdzL3Rpa3Rvay1zdGFyLXdyZXN0bGVyLWdyYWRvLXRlYW0tMjg4NjcxNTMuYW1w</id>
         <link href="https://news.google.com/__i/rss/rd/articles/CBMiWWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL25ld3Mvc2NvdHRpc2gtbmV3cy90aWt0b2stc3Rhci13cmVzdGxlci1ncmFkby10ZWFtLTI4ODY3MTUz0gFdaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvbmV3cy9zY290dGlzaC1uZXdzL3Rpa3Rvay1zdGFyLXdyZXN0bGVyLWdyYWRvLXRlYW0tMjg4NjcxNTMuYW1w?oc=5"/>
         <updated>2023-01-04T04:30:00.000Z</updated>
         <summary type="html"><![CDATA[Scots TikTok star has Rangers fans in stitches wearing Celtic mankini at Ibrox  Daily Record]]></summary>
+        <author>
+            <name>"celtic fc" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['People I've spoken to': Journalist shares what he's been told about Chelsea potentially signing Juranovic - The Chelsea Chronicle - Chelsea FC News]]></title>
+        <id>CBMimAFodHRwczovL3d3dy50aGVjaGVsc2VhY2hyb25pY2xlLmNvbS90cmFuc2Zlci1uZXdzL3Blb3BsZS1pdmUtc3Bva2VuLXRvLWpvdXJuYWxpc3Qtc2hhcmVzLXdoYXQtaGVzLWJlZW4tdG9sZC1hYm91dC1jaGVsc2VhLXBvdGVudGlhbGx5LXNpZ25pbmctanVyYW5vdmljL9IBAA</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMimAFodHRwczovL3d3dy50aGVjaGVsc2VhY2hyb25pY2xlLmNvbS90cmFuc2Zlci1uZXdzL3Blb3BsZS1pdmUtc3Bva2VuLXRvLWpvdXJuYWxpc3Qtc2hhcmVzLXdoYXQtaGVzLWJlZW4tdG9sZC1hYm91dC1jaGVsc2VhLXBvdGVudGlhbGx5LXNpZ25pbmctanVyYW5vdmljL9IBAA?oc=5"/>
+        <updated>2023-01-03T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA['People I've spoken to': Journalist shares what he's been told about Chelsea potentially signing Juranovic  The Chelsea Chronicle - Chelsea FC News]]></summary>
         <author>
             <name>"celtic fc" - Google News</name>
         </author>
@@ -604,6 +674,16 @@
         <summary type="html"><![CDATA[The Hoops had a penalty appeal waved away by the officials]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Rangers and Celtic pundits said as John Hartson unleashes on 'embarrassing' Connor Goldson handball snub - Daily Record]]></title>
+        <id>CBMiVmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL3doYXQtcmFuZ2Vycy1jZWx0aWMtcHVuZGl0cy1zYWlkLTI4ODU3MzM00gFaaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvd2hhdC1yYW5nZXJzLWNlbHRpYy1wdW5kaXRzLXNhaWQtMjg4NTczMzQuYW1w</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiVmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL3doYXQtcmFuZ2Vycy1jZWx0aWMtcHVuZGl0cy1zYWlkLTI4ODU3MzM00gFaaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvd2hhdC1yYW5nZXJzLWNlbHRpYy1wdW5kaXRzLXNhaWQtMjg4NTczMzQuYW1w?oc=5"/>
+        <updated>2023-01-02T16:37:56.000Z</updated>
+        <summary type="html"><![CDATA[What Rangers and Celtic pundits said as John Hartson unleashes on 'embarrassing' Connor Goldson handball snub  Daily Record]]></summary>
+        <author>
+            <name>"celtic fc" - Google News</name>
         </author>
     </entry>
     <entry>
@@ -1844,56 +1924,6 @@ Frank McGarvey, former Celtic and St Mirren striker, dies aged 66  The Guardia
         <link href="https://news.google.com/__i/rss/rd/articles/CBMiN2h0dHBzOi8vd3d3LmRvbmdhLmNvbS9lbi9hcnRpY2xlL2FsbC8yMDIyMTIzMS8zODYyNTc5LzHSAQA?oc=5"/>
         <updated>2022-12-30T22:25:36.000Z</updated>
         <summary type="html"><![CDATA[Oh Hyun-kyu invited to join European club  동아일보]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic squad latest ahead of Rangers as Haksabanovic, Ralston and Taylor aim for derby - 67 Hail Hail - Celtic FC News]]></title>
-        <id>CBMidmh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvY2VsdGljLXNxdWFkLWxhdGVzdC1haGVhZC1vZi1yYW5nZXJzLWFzLWhha3NhYmFub3ZpYy1yYWxzdG9uLWFuZC10YXlsb3ItYWltLWZvci1kZXJieS_SAXpodHRwczovL3d3dy42N2hhaWxoYWlsLmNvbS9uZXdzL2NlbHRpYy1zcXVhZC1sYXRlc3QtYWhlYWQtb2YtcmFuZ2Vycy1hcy1oYWtzYWJhbm92aWMtcmFsc3Rvbi1hbmQtdGF5bG9yLWFpbS1mb3ItZGVyYnkvP2FtcA</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMidmh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvY2VsdGljLXNxdWFkLWxhdGVzdC1haGVhZC1vZi1yYW5nZXJzLWFzLWhha3NhYmFub3ZpYy1yYWxzdG9uLWFuZC10YXlsb3ItYWltLWZvci1kZXJieS_SAXpodHRwczovL3d3dy42N2hhaWxoYWlsLmNvbS9uZXdzL2NlbHRpYy1zcXVhZC1sYXRlc3QtYWhlYWQtb2YtcmFuZ2Vycy1hcy1oYWtzYWJhbm92aWMtcmFsc3Rvbi1hbmQtdGF5bG9yLWFpbS1mb3ItZGVyYnkvP2FtcA?oc=5"/>
-        <updated>2022-12-30T21:11:18.000Z</updated>
-        <summary type="html"><![CDATA[Celtic squad latest ahead of Rangers as Haksabanovic, Ralston and Taylor aim for derby  67 Hail Hail - Celtic FC News]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ardon Jashari on Celtic 'transfer radar' ahead of January window]]></title>
-        <id>5f0d1b4b080e68bbd82b66e52bd22129</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23221495.ardon-jashari-celtic-transfer-radar-ahead-january-window/?ref=rss"/>
-        <updated>2022-12-30T20:01:32.000Z</updated>
-        <summary type="html"><![CDATA[The defensive midfielder is attracting interest from several clubs across Europe.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“All the boys are on the team bus singing it now”; Celtic heroes loving new supporter chant - 67 Hail Hail - Celtic FC News]]></title>
-        <id>CBMieWh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvYWxsLXRoZS1ib3lzLWFyZS1vbi10aGUtdGVhbS1idXMtc2luZ2luZy1pdC1ub3ctY2VsdGljLWhlcm9lcy1sb3ZpbmctbmV3LXN1cHBvcnRlci1jaGFudC_SAX1odHRwczovL3d3dy42N2hhaWxoYWlsLmNvbS9uZXdzL2FsbC10aGUtYm95cy1hcmUtb24tdGhlLXRlYW0tYnVzLXNpbmdpbmctaXQtbm93LWNlbHRpYy1oZXJvZXMtbG92aW5nLW5ldy1zdXBwb3J0ZXItY2hhbnQvP2FtcA</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMieWh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvYWxsLXRoZS1ib3lzLWFyZS1vbi10aGUtdGVhbS1idXMtc2luZ2luZy1pdC1ub3ctY2VsdGljLWhlcm9lcy1sb3ZpbmctbmV3LXN1cHBvcnRlci1jaGFudC_SAX1odHRwczovL3d3dy42N2hhaWxoYWlsLmNvbS9uZXdzL2FsbC10aGUtYm95cy1hcmUtb24tdGhlLXRlYW0tYnVzLXNpbmdpbmctaXQtbm93LWNlbHRpYy1oZXJvZXMtbG92aW5nLW5ldy1zdXBwb3J0ZXItY2hhbnQvP2FtcA?oc=5"/>
-        <updated>2022-12-30T19:49:36.000Z</updated>
-        <summary type="html"><![CDATA[“All the boys are on the team bus singing it now”; Celtic heroes loving new supporter chant  67 Hail Hail - Celtic FC News]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic could score ten in one game this season, says Lee Johnson]]></title>
-        <id>978b4de3e9f507d98acb9756d9b22040</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23221445.celtic-score-ten-one-game-season-says-lee-johnson/?ref=rss"/>
-        <updated>2022-12-30T18:52:01.000Z</updated>
-        <summary type="html"><![CDATA[The Hibs gaffer admits he admiration for Ange Postecoglou's side.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Video: All 5 goals as Celtic youths fight back to thrash Rangers at Celtic Park - 67 Hail Hail - Celtic FC News]]></title>
-        <id>CBMid2h0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL2NlbHRpYy15b3V0aC92aWRlby1hbGwtNS1nb2Fscy1hcy1jZWx0aWMteW91dGhzLWZpZ2h0LWJhY2stdG8tdGhyYXNoLXJhbmdlcnMtYXQtY2VsdGljLXBhcmsv0gF7aHR0cHM6Ly93d3cuNjdoYWlsaGFpbC5jb20vY2VsdGljLXlvdXRoL3ZpZGVvLWFsbC01LWdvYWxzLWFzLWNlbHRpYy15b3V0aHMtZmlnaHQtYmFjay10by10aHJhc2gtcmFuZ2Vycy1hdC1jZWx0aWMtcGFyay8_YW1w</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMid2h0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL2NlbHRpYy15b3V0aC92aWRlby1hbGwtNS1nb2Fscy1hcy1jZWx0aWMteW91dGhzLWZpZ2h0LWJhY2stdG8tdGhyYXNoLXJhbmdlcnMtYXQtY2VsdGljLXBhcmsv0gF7aHR0cHM6Ly93d3cuNjdoYWlsaGFpbC5jb20vY2VsdGljLXlvdXRoL3ZpZGVvLWFsbC01LWdvYWxzLWFzLWNlbHRpYy15b3V0aHMtZmlnaHQtYmFjay10by10aHJhc2gtcmFuZ2Vycy1hdC1jZWx0aWMtcGFyay8_YW1w?oc=5"/>
-        <updated>2022-12-30T18:23:20.000Z</updated>
-        <summary type="html"><![CDATA[Video: All 5 goals as Celtic youths fight back to thrash Rangers at Celtic Park  67 Hail Hail - Celtic FC News]]></summary>
         <author>
             <name>"celtic fc" - Google News</name>
         </author>
