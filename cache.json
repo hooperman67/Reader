@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "3976332",
+          "author": "Alison McConnell",
+          "description": "Ice-hockey was Alistair Johnston’s first love but if the relationship fizzled out, the formative imprint left its mark.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtics-alistair-johnston-glad-his-mum-did-not-witness-ibrox-toxicity-as-he-opens-up-on-old-firm-debut-3976332",
+          "publishedOn": "2023-01-06T07:00:00.000Z",
+          "wordCount": null,
+          "title": "Celtic's Alistair Johnston glad his mum did not witness Ibrox 'toxicity' as he opens up on Old Firm debut",
+          "imageUrl": null
+        },
+        {
           "id": "3976317",
           "author": "Alison McConnell",
           "description": "Celtic debutant Alistair Johnston has appealed for consistency in the application of VAR but stopped short of suggesting the Parkhead side dropped points at Ibrox because of its failure to penalise a Connor Goldson handball.",
@@ -234,16 +244,6 @@
           "wordCount": null,
           "title": "'If you lose you feel like you are going to die' - What Rangers suffering feels like against Celtic, according to captain James Tavernier",
           "imageUrl": null
-        },
-        {
-          "id": "3971182",
-          "author": "Mark Atkinson",
-          "description": "The first Old Firm clash of 2023 is upon us as Rangers welcome Celtic to Ibrox in the cinch Premiership on Monday, January 2.",
-          "link": "https://www.scotsman.com/sport/football/rangers/what-channel-is-old-firm-derby-on-how-can-i-watch-rangers-v-celtic-tv-listings-live-stream-details-3971182",
-          "publishedOn": "2023-01-01T20:02:39.000Z",
-          "wordCount": null,
-          "title": "What channel is Old Firm derby on? How can I watch Rangers v Celtic? TV listings, live stream details",
-          "imageUrl": null
         }
       ]
     },
@@ -258,6 +258,26 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CBMiT2h0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L2FsaXN0YWlyLWpvaG5zdG9ucy1jZWx0aWMtc3RhcnQtdnMtMjU5MDg3MjPSAVNodHRwczovL3d3dy5nbGFzZ293bGl2ZS5jby51ay9zcG9ydC9hbGlzdGFpci1qb2huc3RvbnMtY2VsdGljLXN0YXJ0LXZzLTI1OTA4NzIzLmFtcA",
+          "author": null,
+          "description": "Alistair Johnston's Celtic start vs Rangers lands four word reply from brother as he talks OId Firm  Glasgow Live",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiT2h0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L2FsaXN0YWlyLWpvaG5zdG9ucy1jZWx0aWMtc3RhcnQtdnMtMjU5MDg3MjPSAVNodHRwczovL3d3dy5nbGFzZ293bGl2ZS5jby51ay9zcG9ydC9hbGlzdGFpci1qb2huc3RvbnMtY2VsdGljLXN0YXJ0LXZzLTI1OTA4NzIzLmFtcA?oc=5",
+          "publishedOn": "2023-01-06T08:07:35.000Z",
+          "wordCount": 4194,
+          "title": "Alistair Johnston's Celtic start vs Rangers lands four word reply from brother as he talks OId Firm - Glasgow Live",
+          "imageUrl": "https://i2-prod.glasgowlive.co.uk/incoming/article25908690.ece/ALTERNATES/s1200/0_JS287471812.jpg"
+        },
+        {
+          "id": "CBMiOmh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9zZXJpYS1hLWludGVyZXN0LWpvc2lwLWp1cmFub3ZpYy_SAT5odHRwczovL2NlbHRzYXJlaGVyZS5jb20vc2VyaWEtYS1pbnRlcmVzdC1qb3NpcC1qdXJhbm92aWMvYW1wLw",
+          "author": null,
+          "description": "Josip Juranovic Transfer Talks | Celts Are Here  CeltsAreHere",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiOmh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9zZXJpYS1hLWludGVyZXN0LWpvc2lwLWp1cmFub3ZpYy_SAT5odHRwczovL2NlbHRzYXJlaGVyZS5jb20vc2VyaWEtYS1pbnRlcmVzdC1qb3NpcC1qdXJhbm92aWMvYW1wLw?oc=5",
+          "publishedOn": "2023-01-06T07:00:07.000Z",
+          "wordCount": 15187,
+          "title": "Josip Juranovic Transfer Talks | Celts Are Here - CeltsAreHere",
+          "imageUrl": "https://cdn.celtsarehere.com/wp-content/uploads/2023/01/2023-01-02T141822Z_809446844_UP1EJ1213QK60_RTRMADP_3_SOCCER-SCOTLAND-RFC-CEL-REPORT-scaled.jpg"
+        },
         {
           "id": "CBMibmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLXRyYW5zZmVyLW5ld3MvdHJhbnNmZXItbmV3cy1saXZlLWNlbHRpYy1yYW5nZXJzLTI4ODUwNDg00gFyaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvZm9vdGJhbGwtdHJhbnNmZXItbmV3cy90cmFuc2Zlci1uZXdzLWxpdmUtY2VsdGljLXJhbmdlcnMtMjg4NTA0ODQuYW1w",
           "author": null,
@@ -1327,36 +1347,6 @@
           "wordCount": 4704,
           "title": "Frank McGarvey, former Celtic and St Mirren striker, dies aged 66 - The Guardian",
           "imageUrl": "https://i.guim.co.uk/img/media/28e3b09fe025005e4109ed05d9e39716e912f6f4/0_97_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=08dab504f6ae443c8760f325b3a71d61"
-        },
-        {
-          "id": "CBMiZWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvcmFuZ2Vycy1mYW5zLWNsYWltLXBvbGljZS1zdG9wcGVkLTI4ODUzNjMw0gFpaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvZm9vdGJhbGwtbmV3cy9yYW5nZXJzLWZhbnMtY2xhaW0tcG9saWNlLXN0b3BwZWQtMjg4NTM2MzAuYW1w",
-          "author": null,
-          "description": "Rangers fans claim police have stopped Celtic tifo as Ibrox ultras hit out  Daily Record",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiZWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvcmFuZ2Vycy1mYW5zLWNsYWltLXBvbGljZS1zdG9wcGVkLTI4ODUzNjMw0gFpaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvZm9vdGJhbGwtbmV3cy9yYW5nZXJzLWZhbnMtY2xhaW0tcG9saWNlLXN0b3BwZWQtMjg4NTM2MzAuYW1w?oc=5",
-          "publishedOn": "2023-01-01T20:56:59.000Z",
-          "wordCount": 3241,
-          "title": "Rangers fans claim police have stopped Celtic tifo as Ibrox ultras hit out - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28224588.ece/ALTERNATES/s1200/1_JS280291827.jpg"
-        },
-        {
-          "id": "CBMiRmh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vdGhlLWludmluY2libGVzLWF0LWlicm94LXJhbmdlcnMtMS0yLWNlbHRpYy_SAUpodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL3RoZS1pbnZpbmNpYmxlcy1hdC1pYnJveC1yYW5nZXJzLTEtMi1jZWx0aWMvYW1wLw",
-          "author": null,
-          "description": "The Invincibles at Ibrox – Rangers 1-2 Celtic  The Celtic Star",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiRmh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vdGhlLWludmluY2libGVzLWF0LWlicm94LXJhbmdlcnMtMS0yLWNlbHRpYy_SAUpodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL3RoZS1pbnZpbmNpYmxlcy1hdC1pYnJveC1yYW5nZXJzLTEtMi1jZWx0aWMvYW1wLw?oc=5",
-          "publishedOn": "2023-01-01T18:34:16.000Z",
-          "wordCount": 2400,
-          "title": "The Invincibles at Ibrox – Rangers 1-2 Celtic - The Celtic Star",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2023/01/VGEO1473-1024x500.jpeg"
-        },
-        {
-          "id": "CBMiXWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3Mvd2hvLXdpbi1yYW5nZXJzLXZzLWNlbHRpYy0yODg1MjA0NtIBYWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3Mvd2hvLXdpbi1yYW5nZXJzLXZzLWNlbHRpYy0yODg1MjA0Ni5hbXA",
-          "author": null,
-          "description": "Who will win Rangers vs Celtic? Our writers make their predictions for New Year cracker  Daily Record",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiXWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3Mvd2hvLXdpbi1yYW5nZXJzLXZzLWNlbHRpYy0yODg1MjA0NtIBYWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3Mvd2hvLXdpbi1yYW5nZXJzLXZzLWNlbHRpYy0yODg1MjA0Ni5hbXA?oc=5",
-          "publishedOn": "2023-01-01T18:30:22.000Z",
-          "wordCount": 3566,
-          "title": "Who will win Rangers vs Celtic? Our writers make their predictions for New Year cracker - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article26623563.ece/ALTERNATES/s1200/0_Rangers-FC-v-Celtic-FC-Cinch-Scottish-Premiership.jpg"
         }
       ]
     },
@@ -1365,6 +1355,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "be2a2461e0fb14618f83da45a173fdc0",
+          "author": null,
+          "description": "The right-back made his debut in Monday's 2-2 Premiership draw at Ibrox.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23232073.alistair-johnstons-road-celtic-derby-debut-began-ice-rink/?ref=rss",
+          "publishedOn": "2023-01-06T06:30:00.000Z",
+          "wordCount": 10386,
+          "title": "Alistair Johnston's road to Celtic derby debut began on the ice rink",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16328383/?type=og-image"
+        },
         {
           "id": "9db7e301db11b5085db11e050671179b",
           "author": null,
