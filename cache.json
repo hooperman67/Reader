@@ -194,46 +194,6 @@
           "wordCount": null,
           "title": "Celtic fans sing 'we shall not be moved' as late Kyogo leveller keeps Rangers at bay after fine revival",
           "imageUrl": null
-        },
-        {
-          "id": "3971252",
-          "author": "Mark Atkinson",
-          "description": "Rangers and Celtic have named their teams for the lunchtime Old Firm clash at Ibrox",
-          "link": "https://www.scotsman.com/sport/football/celtic/old-firm-confirmed-team-news-celtic-spring-major-surprise-in-defence-rangers-field-attacking-line-up-3971252",
-          "publishedOn": "2023-01-02T08:09:46.000Z",
-          "wordCount": null,
-          "title": "Old Firm confirmed team news: Celtic spring major surprise in defence, Rangers field attacking line-up",
-          "imageUrl": null
-        },
-        {
-          "id": "3971252",
-          "author": "Mark Atkinson",
-          "description": "Rangers and Celtic both have selection dilemmas for their cinch Premiership match this lunchtime at Ibrox.",
-          "link": "https://www.scotsman.com/sport/football/celtic/old-firm-late-team-news-rangers-go-with-experience-huge-celtic-midfield-call-probable-starting-xis-3971252",
-          "publishedOn": "2023-01-02T08:09:46.000Z",
-          "wordCount": null,
-          "title": "Old Firm late team news: Rangers go with experience, huge Celtic midfield call, probable starting XIs",
-          "imageUrl": null
-        },
-        {
-          "id": "3971150",
-          "author": "Alan Pattullo",
-          "description": "It is sometimes easy to scoff at Michael Beale’s eagerness to present his Rangers credentials. And yet there’s no denying just how deeply he allowed the blue sea of Ibrox to seep into his bones during his first spell at the club, while first-team coach under Steven Gerrard.",
-          "link": "https://www.scotsman.com/sport/football/rangers/old-firm-derby-the-key-moments-went-again-rangers-but-scale-of-celtic-challenge-recognised-as-michael-beale-prepares-for-his-biggest-week-3971150",
-          "publishedOn": "2023-01-02T08:00:00.000Z",
-          "wordCount": null,
-          "title": "Old Firm derby: 'The key moments went again Rangers' but scale of Celtic challenge recognised as Michael Beale prepares for his biggest week",
-          "imageUrl": null
-        },
-        {
-          "id": "3971245",
-          "author": "Gavin McCafferty",
-          "description": "Celtic will wear black armbands in respect for Frank McGarvey, Pele and former Pope Benedict XVI during their encounter with Rangers after a minute’s silence is held for the victims of the 1971 Ibrox Disaster.",
-          "link": "https://www.scotsman.com/sport/football/celtic/celtic-to-pay-respects-to-trio-during-rangers-derby-after-ibrox-disaster-tribute-3971245",
-          "publishedOn": "2023-01-02T07:59:40.000Z",
-          "wordCount": null,
-          "title": "Celtic to pay respects to trio during Rangers derby after Ibrox Disaster tribute",
-          "imageUrl": null
         }
       ]
     },
@@ -248,6 +208,26 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CBMidWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW1hdGNoLXJlcG9ydHMvZ2FsbGVyeS81LXRoaW5ncy1zcG90dGVkLWNlbHRpYy10cmFpbmluZy0yODg5MzczMNIBeWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW1hdGNoLXJlcG9ydHMvZ2FsbGVyeS81LXRoaW5ncy1zcG90dGVkLWNlbHRpYy10cmFpbmluZy0yODg5MzczMC5hbXA",
+          "author": null,
+          "description": "5 things we spotted at Celtic training as Giakoumakis shuts out transfer noise  Daily Record",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMidWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW1hdGNoLXJlcG9ydHMvZ2FsbGVyeS81LXRoaW5ncy1zcG90dGVkLWNlbHRpYy10cmFpbmluZy0yODg5MzczMNIBeWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW1hdGNoLXJlcG9ydHMvZ2FsbGVyeS81LXRoaW5ncy1zcG90dGVkLWNlbHRpYy10cmFpbmluZy0yODg5MzczMC5hbXA?oc=5",
+          "publishedOn": "2023-01-06T19:47:07.000Z",
+          "wordCount": 3309,
+          "title": "5 things we spotted at Celtic training as Giakoumakis shuts out transfer noise - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28892818.ece/ALTERNATES/s1200/0_Celtic-FC-Media-Access.jpg"
+        },
+        {
+          "id": "CBMidGh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3Mva3lvZ28tZnVydWhhc2hpLW9uLWhpcy1pYnJveC1nb2FsLXJlYWN0aW9uLWFuZC1tb3JlLWphcGFuZXNlLXBsYXllcnMtam9pbmluZy1jZWx0aWMv0gF4aHR0cHM6Ly93d3cuNjdoYWlsaGFpbC5jb20vbmV3cy9reW9nby1mdXJ1aGFzaGktb24taGlzLWlicm94LWdvYWwtcmVhY3Rpb24tYW5kLW1vcmUtamFwYW5lc2UtcGxheWVycy1qb2luaW5nLWNlbHRpYy8_YW1w",
+          "author": null,
+          "description": "Kyogo Furuhashi on his Ibrox goal reaction and more Japanese players joining Celtic  67 Hail Hail - Celtic FC News",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMidGh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3Mva3lvZ28tZnVydWhhc2hpLW9uLWhpcy1pYnJveC1nb2FsLXJlYWN0aW9uLWFuZC1tb3JlLWphcGFuZXNlLXBsYXllcnMtam9pbmluZy1jZWx0aWMv0gF4aHR0cHM6Ly93d3cuNjdoYWlsaGFpbC5jb20vbmV3cy9reW9nby1mdXJ1aGFzaGktb24taGlzLWlicm94LWdvYWwtcmVhY3Rpb24tYW5kLW1vcmUtamFwYW5lc2UtcGxheWVycy1qb2luaW5nLWNlbHRpYy8_YW1w?oc=5",
+          "publishedOn": "2023-01-06T18:28:29.000Z",
+          "wordCount": 1922,
+          "title": "Kyogo Furuhashi on his Ibrox goal reaction and more Japanese players joining Celtic - 67 Hail Hail - Celtic FC News",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/01/GettyImages-1453790484-1-scaled.jpg"
+        },
         {
           "id": "CBMiaGh0dHBzOi8vd3d3LmNlbHRpY3dheS5jby51ay9uZXdzLzIzMjMzMTIyLmNlbHRpYy12YXItZGVjaXNpb25zLWdyZWctdGF5bG9ycy1pbmp1cnktLS1hbmdlLXBvc3RlY29nbG91LXEv0gEA",
           "author": null,
@@ -267,6 +247,16 @@
           "wordCount": 3296,
           "title": "Daizen Maeda on Southampton radar as Celtic star subject of transfer 'scouting mission' - Daily Record",
           "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28856797.ece/ALTERNATES/s1200/0_JS287272805.jpg"
+        },
+        {
+          "id": "CBMiSmh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9jZWx0aWMtdHJhaW5pbmctbGF0ZXN0LWhvb3BzLXN0YXItbWlzc2VzLW1pc3Npbmcv0gFOaHR0cHM6Ly9jZWx0c2FyZWhlcmUuY29tL2NlbHRpYy10cmFpbmluZy1sYXRlc3QtaG9vcHMtc3Rhci1taXNzZXMtbWlzc2luZy9hbXAv",
+          "author": null,
+          "description": "Celtic Training Latest; Hoops Star Misses Missing | Celts Are Here  CeltsAreHere",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiSmh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9jZWx0aWMtdHJhaW5pbmctbGF0ZXN0LWhvb3BzLXN0YXItbWlzc2VzLW1pc3Npbmcv0gFOaHR0cHM6Ly9jZWx0c2FyZWhlcmUuY29tL2NlbHRpYy10cmFpbmluZy1sYXRlc3QtaG9vcHMtc3Rhci1taXNzZXMtbWlzc2luZy9hbXAv?oc=5",
+          "publishedOn": "2023-01-06T12:49:58.000Z",
+          "wordCount": 15013,
+          "title": "Celtic Training Latest; Hoops Star Misses Missing | Celts Are Here - CeltsAreHere",
+          "imageUrl": "https://cdn.celtsarehere.com/wp-content/uploads/2022/10/SPFL22_23_KILLIE_CELTIC_0666-scaled.jpg"
         },
         {
           "id": "CBMiSmh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9jZWx0aWMtdHJhaW5pbmctbGF0ZXN0LWhvb3BzLXN0YXItbWlzc2VzLW1pc3Npbmcv0gEA",
@@ -1407,26 +1397,6 @@
           "wordCount": 3418,
           "title": "Chris Sutton brands Ally McCoist 'embarrassing' over Rangers ram job - Daily Record",
           "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article26615843.ece/ALTERNATES/s1200/0_Screenshot-2022-04-01-at-193049.png"
-        },
-        {
-          "id": "CBMiS2h0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L2Zvcm1lci1jZWx0aWMtYm9zcy1uZWlsLWxlbm5vbi0yNTg3NjE3MtIBT2h0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L2Zvcm1lci1jZWx0aWMtYm9zcy1uZWlsLWxlbm5vbi0yNTg3NjE3Mi5hbXA",
-          "author": null,
-          "description": "Former Celtic boss Neil Lennon names the two best players he has ever managed to date  Glasgow Live",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiS2h0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L2Zvcm1lci1jZWx0aWMtYm9zcy1uZWlsLWxlbm5vbi0yNTg3NjE3MtIBT2h0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L2Zvcm1lci1jZWx0aWMtYm9zcy1uZWlsLWxlbm5vbi0yNTg3NjE3Mi5hbXA?oc=5",
-          "publishedOn": "2023-01-02T08:17:07.000Z",
-          "wordCount": 3772,
-          "title": "Former Celtic boss Neil Lennon names the two best players he has ever managed to date - Glasgow Live",
-          "imageUrl": "https://i2-prod.glasgowlive.co.uk/incoming/article25876168.ece/ALTERNATES/s1200/0_JS225949247.jpg"
-        },
-        {
-          "id": "CBMiYmh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9sYXN0LXRoaW5nLXRoYXQtd2UtYWxsLXdhbnQtY2VsdGljLW1hbmFnZXItd2FybnMtZ2xhc2dvdy1kZXJieS1vZmZpY2lhbHMv0gFmaHR0cHM6Ly9jZWx0c2FyZWhlcmUuY29tL2xhc3QtdGhpbmctdGhhdC13ZS1hbGwtd2FudC1jZWx0aWMtbWFuYWdlci13YXJucy1nbGFzZ293LWRlcmJ5LW9mZmljaWFscy9hbXAv",
-          "author": null,
-          "description": "‘Last Thing That We All Want’ - Celtic Manager Warns Glasgow Derby Officials | Celts Are Here  CeltsAreHere",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiYmh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9sYXN0LXRoaW5nLXRoYXQtd2UtYWxsLXdhbnQtY2VsdGljLW1hbmFnZXItd2FybnMtZ2xhc2dvdy1kZXJieS1vZmZpY2lhbHMv0gFmaHR0cHM6Ly9jZWx0c2FyZWhlcmUuY29tL2xhc3QtdGhpbmctdGhhdC13ZS1hbGwtd2FudC1jZWx0aWMtbWFuYWdlci13YXJucy1nbGFzZ293LWRlcmJ5LW9mZmljaWFscy9hbXAv?oc=5",
-          "publishedOn": "2023-01-02T08:09:00.000Z",
-          "wordCount": 15219,
-          "title": "‘Last Thing That We All Want’ - Celtic Manager Warns Glasgow Derby Officials | Celts Are Here - CeltsAreHere",
-          "imageUrl": "https://cdn.celtsarehere.com/wp-content/uploads/2022/11/2022-02-02T212009Z_1922708168_UP1EI221N9JCL_RTRMADP_3_SOCCER-SCOTLAND-CEL-RFC-REPORT.jpg"
         }
       ]
     },
@@ -1435,6 +1405,26 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "0702c670fe03bc9579b580d695f62d9e",
+          "author": null,
+          "description": "The Japan international has been impressive since returning from the World Cup in Qatar",
+          "link": "https://www.glasgowtimes.co.uk/sport/23234776.celtic-winger-monitored-english-premier-league-club/?ref=rss",
+          "publishedOn": "2023-01-06T19:51:10.000Z",
+          "wordCount": 8566,
+          "title": "Celtic winger 'monitored' by English Premier League club",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16332133/?type=og-image"
+        },
+        {
+          "id": "a7405346782e9b624c28298d2ed2b120",
+          "author": null,
+          "description": "The 25-year-old has signed for the Hoops on an initial loan deal with a compulsory option to buy",
+          "link": "https://www.glasgowtimes.co.uk/sport/23234705.tomoki-iwata-expected-celtic-vs-kilmarnock/?ref=rss",
+          "publishedOn": "2023-01-06T18:51:00.000Z",
+          "wordCount": 8401,
+          "title": "Tomoki Iwata expected to be at Celtic vs Kilmarnock",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16332055/?type=og-image"
+        },
         {
           "id": "584b0308d72234cd765f8bb2bcd74601",
           "author": null,
@@ -2104,36 +2094,6 @@
           "wordCount": 8419,
           "title": "Celtic signing Tomoki Iwata earns 'unbelievable athlete' praise",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16310227/?type=og-image"
-        },
-        {
-          "id": "d4e44425e1047e403ca85ae2d2b603c0",
-          "author": null,
-          "description": "The Glasgow giants meet for the second derby of the season in the first Scottish fixture of 2023.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23219275.rangers-vs-celtic-tv-channel-live-stream-kick-off-time/?ref=rss",
-          "publishedOn": "2023-01-02T09:05:00.000Z",
-          "wordCount": 8463,
-          "title": "Rangers vs Celtic: TV channel, live stream & kick-off time",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16309343/?type=og-image"
-        },
-        {
-          "id": "d4082b344c3c365fb5b83a8f19ba8518",
-          "author": null,
-          "description": "ANGE POSTECOGLOU has rubbished the notion that Celtic striker Kyogo Furuhashi has not been at his best this season as he backed the Japanese centre-forward to score his first goal against Rangers this afternoon.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23222812.celtics-ange-postecoglou-rubbishes-kyogo-furuhashi-criticism/?ref=rss",
-          "publishedOn": "2023-01-02T07:00:00.000Z",
-          "wordCount": 8855,
-          "title": "Celtic's Ange Postecoglou rubbishes Kyogo Furuhashi criticism",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16314638/?type=og-image"
-        },
-        {
-          "id": "c6cfcaa46888ce3860d4222ec8135ee7",
-          "author": null,
-          "description": "IT was not something that he had planned in advance. His reaction when the ball struck the back of the net was instinctive. But Jota’s celebration after his goal against Rangers at Parkhead back in September has become iconic for Celtic fans.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23222677.celtic-winger-jota-impact-iconic-rangers-goal-celebration/?ref=rss",
-          "publishedOn": "2023-01-02T06:35:00.000Z",
-          "wordCount": 8980,
-          "title": "Celtic winger Jota on impact of his iconic Rangers goal celebration",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16314232/?type=og-image"
         }
       ]
     }
