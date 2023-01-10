@@ -6,6 +6,26 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "3981486",
+          "author": "Ronnie Esplin",
+          "description": "Kilmarnock boss Derek McInnes says Kyle Lafferty is desperate to be involved in Saturday’s Viaplay Cup semi-final against Celtic following his 10-game ban.",
+          "link": "https://www.scotsman.com/sport/football/celtic/kyle-lafferty-bursting-to-face-celtic-after-serving-10-game-ban-for-sectarian-slur-3981486",
+          "publishedOn": "2023-01-10T15:50:33.000Z",
+          "wordCount": null,
+          "title": "Kyle Lafferty 'bursting' to face Celtic after serving 10-game ban for sectarian slur",
+          "imageUrl": null
+        },
+        {
+          "id": "3981463",
+          "author": "Angus Wright",
+          "description": "Celtic representatives have reportedly travelled to London in an attempt to strike a deal to land South Korea international striker Cho Geu-sung.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtic-in-london-for-signing-talks-as-ex-manchester-united-star-involved-in-bid-to-land-key-target-3981463",
+          "publishedOn": "2023-01-10T15:42:35.000Z",
+          "wordCount": null,
+          "title": "Celtic 'in London' for signing talks as ex-Manchester United star involved in bid to land key target",
+          "imageUrl": null
+        },
+        {
           "id": "3981097",
           "author": "Matthew Elder",
           "description": "The referees and VAR officials for this weekend's Viaplay Cup semi-finals have been confirmed.",
@@ -259,6 +279,56 @@
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
         {
+          "id": "CBMiXGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvY2hvLWd1ZS1zdW5nLXRha2VzLXJpc2t5LTI4OTIxNTg50gFgaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvZm9vdGJhbGwtbmV3cy9jaG8tZ3VlLXN1bmctdGFrZXMtcmlza3ktMjg5MjE1ODkuYW1w",
+          "author": null,
+          "description": "Cho Gue sung in risky Celtic transfer position as his agent issues rallying call  Daily Record",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiXGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvY2hvLWd1ZS1zdW5nLXRha2VzLXJpc2t5LTI4OTIxNTg50gFgaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvZm9vdGJhbGwtbmV3cy9jaG8tZ3VlLXN1bmctdGFrZXMtcmlza3ktMjg5MjE1ODkuYW1w?oc=5",
+          "publishedOn": "2023-01-10T17:32:50.000Z",
+          "wordCount": 3267,
+          "title": "Cho Gue sung in risky Celtic transfer position as his agent issues rallying call - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28921622.ece/ALTERNATES/s1200/0_FBL-WC-2022-MATCH30-KOR-GHA.jpg"
+        },
+        {
+          "id": "CBMiZWh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL3RyYW5zZmVycy9jZWx0aWMtc2V0LXRvLW1ha2Utc29saWQtdHJhbnNmZXItcHJvZml0LW9uLWdpb3Jnb3MtZ2lha291bWFraXMv0gFpaHR0cHM6Ly93d3cuNjdoYWlsaGFpbC5jb20vdHJhbnNmZXJzL2NlbHRpYy1zZXQtdG8tbWFrZS1zb2xpZC10cmFuc2Zlci1wcm9maXQtb24tZ2lvcmdvcy1naWFrb3VtYWtpcy8_YW1w",
+          "author": null,
+          "description": "Celtic set to make solid transfer profit on Giorgos Giakoumakis  67 Hail Hail - Celtic FC News",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiZWh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL3RyYW5zZmVycy9jZWx0aWMtc2V0LXRvLW1ha2Utc29saWQtdHJhbnNmZXItcHJvZml0LW9uLWdpb3Jnb3MtZ2lha291bWFraXMv0gFpaHR0cHM6Ly93d3cuNjdoYWlsaGFpbC5jb20vdHJhbnNmZXJzL2NlbHRpYy1zZXQtdG8tbWFrZS1zb2xpZC10cmFuc2Zlci1wcm9maXQtb24tZ2lvcmdvcy1naWFrb3VtYWtpcy8_YW1w?oc=5",
+          "publishedOn": "2023-01-10T16:40:00.000Z",
+          "wordCount": 1807,
+          "title": "Celtic set to make solid transfer profit on Giorgos Giakoumakis - 67 Hail Hail - Celtic FC News",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/09/GettyImages-1242995772-1-scaled.jpg"
+        },
+        {
+          "id": "CBMiT2h0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zcGZsLXRyYW5zZmVyLW5ld3MtbGl2ZS1jZWx0aWMtMjU5MzUxMjTSAVNodHRwczovL3d3dy5mb290YmFsbHNjb3RsYW5kLmNvLnVrL3NwZmwvc3BmbC10cmFuc2Zlci1uZXdzLWxpdmUtY2VsdGljLTI1OTM1MTI0LmFtcA",
+          "author": null,
+          "description": "SPFL transfer news LIVE! No Cantwell approach from Rangers and Celtic latest  Football Scotland",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiT2h0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zcGZsLXRyYW5zZmVyLW5ld3MtbGl2ZS1jZWx0aWMtMjU5MzUxMjTSAVNodHRwczovL3d3dy5mb290YmFsbHNjb3RsYW5kLmNvLnVrL3NwZmwvc3BmbC10cmFuc2Zlci1uZXdzLWxpdmUtY2VsdGljLTI1OTM1MTI0LmFtcA?oc=5",
+          "publishedOn": "2023-01-10T16:30:28.000Z",
+          "wordCount": 6669,
+          "title": "SPFL transfer news LIVE! No Cantwell approach from Rangers and Celtic latest - Football Scotland",
+          "imageUrl": "https://i2-prod.footballscotland.co.uk/incoming/article25938831.ece/ALTERNATES/s1200/0_SPFL-transfers-live-Jan-10-blog-2.png"
+        },
+        {
+          "id": "CBMihQFodHRwczovL3RoZWNlbHRpY2Jsb2cuY29tLzIwMjMvMDEvYXJ0aWNsZXMtYW5kLWZlYXR1cmVzL2FuZ2UtaXMtdHJ5aW5nLXRvLWNyZWF0ZS1hLWRyYW1hLWZyZWUtZW52aXJvbm1lbnQtaW4td2hpY2gtY2VsdGljLWNhbi10aHJpdmUv0gGJAWh0dHBzOi8vdGhlY2VsdGljYmxvZy5jb20vMjAyMy8wMS9hcnRpY2xlcy1hbmQtZmVhdHVyZXMvYW5nZS1pcy10cnlpbmctdG8tY3JlYXRlLWEtZHJhbWEtZnJlZS1lbnZpcm9ubWVudC1pbi13aGljaC1jZWx0aWMtY2FuLXRocml2ZS9hbXAv",
+          "author": null,
+          "description": "Ange Is Trying To Create A “Drama Free Environment” In Which Celtic Can Thrive.  TheCelticBlog.com",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMihQFodHRwczovL3RoZWNlbHRpY2Jsb2cuY29tLzIwMjMvMDEvYXJ0aWNsZXMtYW5kLWZlYXR1cmVzL2FuZ2UtaXMtdHJ5aW5nLXRvLWNyZWF0ZS1hLWRyYW1hLWZyZWUtZW52aXJvbm1lbnQtaW4td2hpY2gtY2VsdGljLWNhbi10aHJpdmUv0gGJAWh0dHBzOi8vdGhlY2VsdGljYmxvZy5jb20vMjAyMy8wMS9hcnRpY2xlcy1hbmQtZmVhdHVyZXMvYW5nZS1pcy10cnlpbmctdG8tY3JlYXRlLWEtZHJhbWEtZnJlZS1lbnZpcm9ubWVudC1pbi13aGljaC1jZWx0aWMtY2FuLXRocml2ZS9hbXAv?oc=5",
+          "publishedOn": "2023-01-10T14:47:00.000Z",
+          "wordCount": 1972,
+          "title": "Ange Is Trying To Create A “Drama Free Environment” In Which Celtic Can Thrive. - TheCelticBlog.com",
+          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2023/01/2022-12-24T124630Z_957443716_UP1EICO0ZHF03_RTRMADP_3_SOCCER-SCOTLAND-CEL-STJ-REPORT-scaled.jpg"
+        },
+        {
+          "id": "CBMic2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLXRyYW5zZmVyLW5ld3MvY2FzcGVyLXRlbmdzdGVkdC10cmFuc2Zlci1mZWUtcmV2ZWFsZWQtMjg5MTgyNzPSAXdodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC10cmFuc2Zlci1uZXdzL2Nhc3Blci10ZW5nc3RlZHQtdHJhbnNmZXItZmVlLXJldmVhbGVkLTI4OTE4MjczLmFtcA",
+          "author": null,
+          "description": "Casper Tengstedt transfer fee revealed as Celtic linked star heads to Champions League big boys  Daily Record",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMic2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLXRyYW5zZmVyLW5ld3MvY2FzcGVyLXRlbmdzdGVkdC10cmFuc2Zlci1mZWUtcmV2ZWFsZWQtMjg5MTgyNzPSAXdodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC10cmFuc2Zlci1uZXdzL2Nhc3Blci10ZW5nc3RlZHQtdHJhbnNmZXItZmVlLXJldmVhbGVkLTI4OTE4MjczLmFtcA?oc=5",
+          "publishedOn": "2023-01-10T13:14:13.000Z",
+          "wordCount": 3393,
+          "title": "Casper Tengstedt transfer fee revealed as Celtic linked star heads to Champions League big boys - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28915239.ece/ALTERNATES/s1200/0_AC-Horsens-vs-Lyngby-Boldklub-Danish-3F-Superliga.jpg"
+        },
+        {
           "id": "CBMiZGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvdmFyLWdldHMtcmFuZ2Vycy10aGVtZWQtbmlja25hbWUtMjg5MTY2OTjSAWhodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL3Zhci1nZXRzLXJhbmdlcnMtdGhlbWVkLW5pY2tuYW1lLTI4OTE2Njk4LmFtcA",
           "author": null,
           "description": "Hotline callers in mischief mode with Rangers-themed nickname for VAR  Daily Record",
@@ -307,6 +377,16 @@
           "wordCount": 3588,
           "title": "Gue-Sung Cho: Celtic in talks over deal | Rangers monitoring South Korea striker - Sky Sports",
           "imageUrl": "https://e0.365dm.com/23/01/1600x900/skysports-gue-sung-cho-south-korea_6019491.jpg?20230110104956"
+        },
+        {
+          "id": "CBMiRmh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9jZWx0aWMtdG8tbGlzdGVuLXRvLW9mZmVycy1mb3Itc3RlcGhlbi13ZWxzaC_SAUpodHRwczovL2NlbHRzYXJlaGVyZS5jb20vY2VsdGljLXRvLWxpc3Rlbi10by1vZmZlcnMtZm9yLXN0ZXBoZW4td2Vsc2gvYW1wLw",
+          "author": null,
+          "description": "Celtic Open To Offers For Hoops Defender | Celts Are Here  CeltsAreHere",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiRmh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9jZWx0aWMtdG8tbGlzdGVuLXRvLW9mZmVycy1mb3Itc3RlcGhlbi13ZWxzaC_SAUpodHRwczovL2NlbHRzYXJlaGVyZS5jb20vY2VsdGljLXRvLWxpc3Rlbi10by1vZmZlcnMtZm9yLXN0ZXBoZW4td2Vsc2gvYW1wLw?oc=5",
+          "publishedOn": "2023-01-10T11:49:44.000Z",
+          "wordCount": 15041,
+          "title": "Celtic Open To Offers For Hoops Defender | Celts Are Here - CeltsAreHere",
+          "imageUrl": "https://cdn.celtsarehere.com/wp-content/uploads/2022/12/2022-11-02T162841Z_1271139647_UP1EIB219RR12_RTRMADP_3_SOCCER-CHAMPIONS-MAD-CEL-REPORT-scaled.jpg"
         },
         {
           "id": "CBMiY2h0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vZml4dHVyZS1jbGFzaC1hcy1jZWx0aWMtY29uZmlybS1yZWFycmFuZ2VkLXN3cGwtbWF0Y2gtYWdhaW5zdC1tb3RoZXJ3ZWxsL9IBZ2h0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vZml4dHVyZS1jbGFzaC1hcy1jZWx0aWMtY29uZmlybS1yZWFycmFuZ2VkLXN3cGwtbWF0Y2gtYWdhaW5zdC1tb3RoZXJ3ZWxsL2FtcC8",
@@ -407,6 +487,16 @@
           "wordCount": 1253,
           "title": "Video: Sutton And Hartson Put Rangers Out The Cup, On This Day - The Celtic Star",
           "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2021/10/scottish-cup-celtic-v-rangers-1024x1002.jpg"
+        },
+        {
+          "id": "CBMiSWh0dHBzOi8vdGhlY2VsdGljYmhveXMuY29tLzIwMjMvMDEvMDkvY2VsdGljLWZpcnN0LXRlYW0tYml6YXJyZS10cmFuc2Zlci_SAU1odHRwczovL3RoZWNlbHRpY2Job3lzLmNvbS8yMDIzLzAxLzA5L2NlbHRpYy1maXJzdC10ZWFtLWJpemFycmUtdHJhbnNmZXIvYW1wLw",
+          "author": null,
+          "description": "Celtic first-team player closing in on bizarre transfer  The Celtic Bhoys",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiSWh0dHBzOi8vdGhlY2VsdGljYmhveXMuY29tLzIwMjMvMDEvMDkvY2VsdGljLWZpcnN0LXRlYW0tYml6YXJyZS10cmFuc2Zlci_SAU1odHRwczovL3RoZWNlbHRpY2Job3lzLmNvbS8yMDIzLzAxLzA5L2NlbHRpYy1maXJzdC10ZWFtLWJpemFycmUtdHJhbnNmZXIvYW1wLw?oc=5",
+          "publishedOn": "2023-01-09T20:01:29.000Z",
+          "wordCount": 2281,
+          "title": "Celtic first-team player closing in on bizarre transfer - The Celtic Bhoys",
+          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1391926244.jpeg"
         },
         {
           "id": "CBMiZGh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvdGhleS1lbWJyYWNlLWl0LWNlbHRpYy1ib3NzLWxlZnQtcGxlYXNlZC13aXRoLXByb2dyZXNzLW9mLWJob3lzLWR1by_SAWhodHRwczovL3d3dy42N2hhaWxoYWlsLmNvbS9uZXdzL3RoZXktZW1icmFjZS1pdC1jZWx0aWMtYm9zcy1sZWZ0LXBsZWFzZWQtd2l0aC1wcm9ncmVzcy1vZi1iaG95cy1kdW8vP2FtcA",
@@ -1474,6 +1564,16 @@
           "wordCount": 8406,
           "title": "Kyle Lafferty itching to face Celtic in Viaplay Cup semi-final",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16341615/?type=og-image"
+        },
+        {
+          "id": "b07a225a66fddb4c48eddfb537b3b176",
+          "author": null,
+          "description": "The family of Celtic's oldest season ticket holder who has died aged 101 has spoken about how lucky they were to have him.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23241131.grandson-pays-tribute-incredible-celtic-fan-died-aged-101/?ref=rss",
+          "publishedOn": "2023-01-10T14:50:59.000Z",
+          "wordCount": 8834,
+          "title": "Grandson pays tribute to 'incredible' Celtic fan who died aged 101",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16341599/?type=og-image"
         },
         {
           "id": "f93e882d599c8b16d52f64f1bd6b20f0",
