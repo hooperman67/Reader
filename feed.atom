@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-01-13T12:36:12.749Z</updated>
+    <updated>2023-01-13T15:20:36.489Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Postecoglou provides Celtic injury update ahead of Kilmarnock clash]]></title>
+        <id>e477d85430dcc1c5d7db34df1dbd0d77</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23249137.postecoglou-provides-celtic-injury-update-ahead-kilmarnock-clash/?ref=rss"/>
+        <updated>2023-01-13T14:25:36.000Z</updated>
+        <summary type="html"><![CDATA[Celtic’s injury situation is easing but they will still have an unchanged squad for Saturday’s semi-final against Kilmarnock.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chris Sutton laughs off Spurs 'lifetime ban' with Rangers response]]></title>
+        <id>4bd2d0696fb3e114e52b7228812853c3</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23248709.chris-sutton-laughs-off-spurs-lifetime-ban-rangers-response/?ref=rss"/>
+        <updated>2023-01-13T12:49:43.000Z</updated>
+        <summary type="html"><![CDATA[The Celtic hero hit back at a Spurs fan on Twitter in his usual jovial fashion.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Celtic v Rangers final a formality? Have Hibs really turned a corner? - Scotsman Football Show]]></title>
+        <id>3986112</id>
+        <link href="https://www.scotsman.com/sport/football/is-celtic-v-rangers-final-a-formality-have-hibs-really-turned-a-corner-scotsman-football-show-3986112"/>
+        <updated>2023-01-13T12:46:45.000Z</updated>
+        <summary type="html"><![CDATA[Another big weekend of Scottish football is upon us with the Viaplay Cup semi-finals and four Premiership fixtures taking place across three days.]]></summary>
+        <author>
+            <name>Matthew Elder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chris Sutton aims Rangers dig as Celtic hero issues North London derby 'lifetime ban' quip - Glasgow Live]]></title>
+        <id>CBMiU2h0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2NocmlzLXN1dHRvbi1haW1zLXJhbmdlcnMtZGlnLTI1OTY5Mzgw0gFXaHR0cHM6Ly93d3cuZ2xhc2dvd2xpdmUuY28udWsvc3BvcnQvZm9vdGJhbGwvY2hyaXMtc3V0dG9uLWFpbXMtcmFuZ2Vycy1kaWctMjU5NjkzODAuYW1w</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiU2h0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2NocmlzLXN1dHRvbi1haW1zLXJhbmdlcnMtZGlnLTI1OTY5Mzgw0gFXaHR0cHM6Ly93d3cuZ2xhc2dvd2xpdmUuY28udWsvc3BvcnQvZm9vdGJhbGwvY2hyaXMtc3V0dG9uLWFpbXMtcmFuZ2Vycy1kaWctMjU5NjkzODAuYW1w?oc=5"/>
+        <updated>2023-01-13T12:22:17.000Z</updated>
+        <summary type="html"><![CDATA[Chris Sutton aims Rangers dig as Celtic hero issues North London derby 'lifetime ban' quip  Glasgow Live]]></summary>
+        <author>
+            <name>"celtic fc" - Google News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Southampton transfer news: Celtic star is Plan-B to £25m Everton target - HITC - Football, Gaming, Movies, TV, Music]]></title>
         <id>CBMibGh0dHBzOi8vd3d3LmhpdGMuY29tL2VuLWdiLzIwMjMvMDEvMTMvc291dGhhbXB0b24tdHJhbnNmZXItbmV3cy1jZWx0aWMtc3Rhci1pcy1wbGFuLWItdG8tMjVtLWV2ZXJ0b24tdGFyZ2V0L9IBcGh0dHBzOi8vd3d3LmhpdGMuY29tL2VuLWdiLzIwMjMvMDEvMTMvc291dGhhbXB0b24tdHJhbnNmZXItbmV3cy1jZWx0aWMtc3Rhci1pcy1wbGFuLWItdG8tMjVtLWV2ZXJ0b24tdGFyZ2V0Lz9hbXA</id>
@@ -54,6 +94,16 @@ Josip Juranovic given Manchester United transfer request as Celtic star urged to
         <link href="https://news.google.com/__i/rss/rd/articles/CBMiXmh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vZm9ybWFsLWFkdmljZS1vdmVyLXJ1bGUtYW5kLXRoZXktc2F5LWNlbHRpYy1zdXBwb3J0ZXJzLWFyZS1wYXJhbm9pZC_SAWJodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL2Zvcm1hbC1hZHZpY2Utb3Zlci1ydWxlLWFuZC10aGV5LXNheS1jZWx0aWMtc3VwcG9ydGVycy1hcmUtcGFyYW5vaWQvYW1wLw?oc=5"/>
         <updated>2023-01-13T11:17:27.000Z</updated>
         <summary type="html"><![CDATA[‘Formal Advice’ Over-rule and they say Celtic Supporters are Paranoid  The Celtic Star]]></summary>
+        <author>
+            <name>"celtic fc" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lubo Moravcik in Aberdeen scouting report as Celtic icon makes giddy Patrik Myslovic prediction - Daily Record]]></title>
+        <id>CBMia2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvbHViby1tb3JhdmljaWstYWJlcmRlZW4tc2NvdXRpbmctcmVwb3J0LTI4OTQ1NDU30gFvaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvZm9vdGJhbGwtbmV3cy9sdWJvLW1vcmF2aWNpay1hYmVyZGVlbi1zY291dGluZy1yZXBvcnQtMjg5NDU0NTcuYW1w</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMia2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvbHViby1tb3JhdmljaWstYWJlcmRlZW4tc2NvdXRpbmctcmVwb3J0LTI4OTQ1NDU30gFvaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvZm9vdGJhbGwtbmV3cy9sdWJvLW1vcmF2aWNpay1hYmVyZGVlbi1zY291dGluZy1yZXBvcnQtMjg5NDU0NTcuYW1w?oc=5"/>
+        <updated>2023-01-13T11:04:10.000Z</updated>
+        <summary type="html"><![CDATA[Lubo Moravcik in Aberdeen scouting report as Celtic icon makes giddy Patrik Myslovic prediction  Daily Record]]></summary>
         <author>
             <name>"celtic fc" - Google News</name>
         </author>
@@ -209,6 +259,16 @@ Josip Juranovic given Manchester United transfer request as Celtic star urged to
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Celtic legend set for International coaching role - The Celtic Star]]></title>
+        <id>CBMiTGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vY2VsdGljLWxlZ2VuZC1zZXQtZm9yLWludGVybmF0aW9uYWwtY29hY2hpbmctcm9sZS_SAVBodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL2NlbHRpYy1sZWdlbmQtc2V0LWZvci1pbnRlcm5hdGlvbmFsLWNvYWNoaW5nLXJvbGUvYW1wLw</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiTGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vY2VsdGljLWxlZ2VuZC1zZXQtZm9yLWludGVybmF0aW9uYWwtY29hY2hpbmctcm9sZS_SAVBodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL2NlbHRpYy1sZWdlbmQtc2V0LWZvci1pbnRlcm5hdGlvbmFsLWNvYWNoaW5nLXJvbGUvYW1wLw?oc=5"/>
+        <updated>2023-01-12T20:22:07.000Z</updated>
+        <summary type="html"><![CDATA[Celtic legend set for International coaching role  The Celtic Star]]></summary>
+        <author>
+            <name>"celtic fc" - Google News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Szymon Wlodarczyk in Celtic transfer 'crosshairs' as Ange Postecoglou lines up bid for 'young Lewandowski' - Daily Record]]></title>
         <id>CBMicGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3Mvc3p5bW9uLXdsb2RhcmN6eWstY2VsdGljLXRyYW5zZmVyLWNyb3NzaGFpcnMtMjg5NDEzODbSAXRodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL3N6eW1vbi13bG9kYXJjenlrLWNlbHRpYy10cmFuc2Zlci1jcm9zc2hhaXJzLTI4OTQxMzg2LmFtcA</id>
         <link href="https://news.google.com/__i/rss/rd/articles/CBMicGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3Mvc3p5bW9uLXdsb2RhcmN6eWstY2VsdGljLXRyYW5zZmVyLWNyb3NzaGFpcnMtMjg5NDEzODbSAXRodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL3N6eW1vbi13bG9kYXJjenlrLWNlbHRpYy10cmFuc2Zlci1jcm9zc2hhaXJzLTI4OTQxMzg2LmFtcA?oc=5"/>
@@ -256,6 +316,18 @@ Josip Juranovic given Manchester United transfer request as Celtic star urged to
         <summary type="html"><![CDATA[The South Korean is looking to explore all avenues in terms of her future]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Josip Juranovic given Manchester United transfer request as Celtic star urged to 'wait' - Football Scotland]]></title>
+        <id>CBMiWGh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9qb3NpcC1qdXJhbm92aWMtZ2l2ZW4tbWFuY2hlc3Rlci11bml0ZWQtMjU5NjM4MTHSAVxodHRwczovL3d3dy5mb290YmFsbHNjb3RsYW5kLmNvLnVrL3NwZmwvam9zaXAtanVyYW5vdmljLWdpdmVuLW1hbmNoZXN0ZXItdW5pdGVkLTI1OTYzODExLmFtcA</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiWGh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9qb3NpcC1qdXJhbm92aWMtZ2l2ZW4tbWFuY2hlc3Rlci11bml0ZWQtMjU5NjM4MTHSAVxodHRwczovL3d3dy5mb290YmFsbHNjb3RsYW5kLmNvLnVrL3NwZmwvam9zaXAtanVyYW5vdmljLWdpdmVuLW1hbmNoZXN0ZXItdW5pdGVkLTI1OTYzODExLmFtcA?oc=5"/>
+        <updated>2023-01-12T16:36:32.000Z</updated>
+        <summary type="html"><![CDATA[Josip Juranovic given Manchester United transfer request as Celtic star urged to 'wait'  Football Scotland
+English Premier League Club Enter Celtic Juranovic Race | Celts Are Here  CeltsAreHere
+Josip Juranovic Celtic Exit Stalls - Club Look At Alternative | Celts Are Here  CeltsAreHere]]></summary>
+        <author>
+            <name>"celtic fc" - Google News</name>
         </author>
     </entry>
     <entry>
