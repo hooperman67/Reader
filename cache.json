@@ -6,6 +6,36 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "3987357",
+          "author": "Andrew Smith",
+          "description": "Rangers manager Michael Beale concedes it is “unthinkable” for his club not to win a trophy this season when he considers the possible result of such failure.",
+          "link": "https://www.scotsman.com/sport/football/rangers/rangers-manager-michael-beales-celtic-treble-fear-unthinkable-for-us-not-to-win-a-trophy-3987357",
+          "publishedOn": "2023-01-14T22:30:00.000Z",
+          "wordCount": null,
+          "title": "Rangers manager Michael Beale's Celtic treble fear - 'unthinkable for us not to win a trophy'",
+          "imageUrl": null
+        },
+        {
+          "id": "3987346",
+          "author": "Andrew Smith",
+          "description": "It may be tempting to suggest, in heavy weather, that this is precisely what Celtic made of claiming a place in the Viaplay League Cup final.",
+          "link": "https://www.scotsman.com/sport/football/celtic/how-kilmarnock-destabilised-celtic-in-rare-struggle-for-ange-postecoglous-side-at-hampden-3987346",
+          "publishedOn": "2023-01-14T21:35:29.000Z",
+          "wordCount": null,
+          "title": "How Kilmarnock destabilised Celtic in rare struggle for Ange Postecoglou's side at Hampden",
+          "imageUrl": null
+        },
+        {
+          "id": "3987341",
+          "author": "Andrew Smith",
+          "description": "Kilmarnock manager Derek McInnes was left enraged by the failure of referee Willie Collum to award his side a 93rd minute penalty in their 2-0 Viaplay League Cup semi-final loss to Celtic.",
+          "link": "https://www.scotsman.com/sport/football/celtic/seriously-what-is-the-point-kilmarnock-enraged-as-celtic-escape-penalty-punishment-for-giakoumakis-challenge-3987341",
+          "publishedOn": "2023-01-14T21:17:20.000Z",
+          "wordCount": null,
+          "title": "'Seriously, what is the point?' - Kilmarnock enraged as Celtic escape penalty punishment for Giakoumakis challenge",
+          "imageUrl": null
+        },
+        {
           "id": "3987338",
           "author": "Andrew Smith",
           "description": "Celtic manager Ange Postecoglou gave an arch response to a question over whether his team were lucky to survive a penalty claim late on in their 2-0 Viaplay League Cup semi-final success over Kilmarnock.",
@@ -254,36 +284,6 @@
           "wordCount": null,
           "title": "Celtic 'in London' for signing talks as ex-Manchester United star involved in bid to land key target",
           "imageUrl": null
-        },
-        {
-          "id": "3981097",
-          "author": "Matthew Elder",
-          "description": "The referees and VAR officials for this weekend's Viaplay Cup semi-finals have been confirmed.",
-          "link": "https://www.scotsman.com/sport/football/celtic/referees-and-var-officials-for-celtic-and-rangers-viaplay-cup-semi-finals-confirmed-3981097",
-          "publishedOn": "2023-01-10T12:58:27.000Z",
-          "wordCount": null,
-          "title": "Referees and VAR officials for Celtic and Rangers' Viaplay Cup semi-finals confirmed",
-          "imageUrl": null
-        },
-        {
-          "id": "3980828",
-          "author": "Angus Wright",
-          "description": "Celtic are reportedly prepared to sell Stephen Welsh in the January transfer window having turned down previous approaches the defender.",
-          "link": "https://www.scotsman.com/sport/football/celtic/celtic-willing-to-listen-to-offers-for-defender-as-clubs-in-europe-and-mls-circle-3980828",
-          "publishedOn": "2023-01-10T11:12:04.000Z",
-          "wordCount": null,
-          "title": "Celtic 'willing to listen to offers' for defender as clubs in Europe and MLS circle",
-          "imageUrl": null
-        },
-        {
-          "id": "3980628",
-          "author": "Angus Wright",
-          "description": "Celtic may have to improve on their original offer to land South Korea striker Cho Gue-sung after reportedly being outbid by MLS outfit Minnesota United.",
-          "link": "https://www.scotsman.com/sport/football/celtic/celtic-and-rangers-see-transfer-rival-emerge-for-world-cup-star-as-ps42m-bid-made-3980628",
-          "publishedOn": "2023-01-10T09:46:19.000Z",
-          "wordCount": null,
-          "title": "Celtic and Rangers see transfer rival emerge for World Cup star as £4.2m bid made",
-          "imageUrl": null
         }
       ]
     },
@@ -298,6 +298,26 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CBMia2h0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL21hdGNoL3RoZS1waXRjaC13YXMtaG9ycmVuZG91cy1qb2UtaGFydC1kZWxpdmVycy12ZXJkaWN0LW9uLWNlbHRpY3MtaGFtcGRlbi13aW4v0gFvaHR0cHM6Ly93d3cuNjdoYWlsaGFpbC5jb20vbWF0Y2gvdGhlLXBpdGNoLXdhcy1ob3JyZW5kb3VzLWpvZS1oYXJ0LWRlbGl2ZXJzLXZlcmRpY3Qtb24tY2VsdGljcy1oYW1wZGVuLXdpbi8_YW1w",
+          "author": null,
+          "description": "“The pitch was horrendous”; Joe Hart delivers verdict on Celtic’s Hampden win  67 Hail Hail - Celtic FC News",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMia2h0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL21hdGNoL3RoZS1waXRjaC13YXMtaG9ycmVuZG91cy1qb2UtaGFydC1kZWxpdmVycy12ZXJkaWN0LW9uLWNlbHRpY3MtaGFtcGRlbi13aW4v0gFvaHR0cHM6Ly93d3cuNjdoYWlsaGFpbC5jb20vbWF0Y2gvdGhlLXBpdGNoLXdhcy1ob3JyZW5kb3VzLWpvZS1oYXJ0LWRlbGl2ZXJzLXZlcmRpY3Qtb24tY2VsdGljcy1oYW1wZGVuLXdpbi8_YW1w?oc=5",
+          "publishedOn": "2023-01-14T21:15:00.000Z",
+          "wordCount": 1931,
+          "title": "“The pitch was horrendous”; Joe Hart delivers verdict on Celtic’s Hampden win - 67 Hail Hail - Celtic FC News",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/01/GettyImages-1456429043-scaled.jpg"
+        },
+        {
+          "id": "CBMiWGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2NlbHRpYy1wbGF5ZXItcmF0aW5ncy1kYWl6ZW4tbWFlZGEtMjg5NTQzOTfSAVxodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9jZWx0aWMtcGxheWVyLXJhdGluZ3MtZGFpemVuLW1hZWRhLTI4OTU0Mzk3LmFtcA",
+          "author": null,
+          "description": "Celtic player ratings as Daizen Maeda proves workaholic traits and focused Josip Juranovic bounces back  Daily Record",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiWGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2NlbHRpYy1wbGF5ZXItcmF0aW5ncy1kYWl6ZW4tbWFlZGEtMjg5NTQzOTfSAVxodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9jZWx0aWMtcGxheWVyLXJhdGluZ3MtZGFpemVuLW1hZWRhLTI4OTU0Mzk3LmFtcA?oc=5",
+          "publishedOn": "2023-01-14T21:05:43.000Z",
+          "wordCount": 3629,
+          "title": "Celtic player ratings as Daizen Maeda proves workaholic traits and focused Josip Juranovic bounces back - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28956009.ece/ALTERNATES/s1200/0_Celtic-v-Kilmarnock-Viaplay-Cup.jpg"
+        },
         {
           "id": "CBMiT2h0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9jZWx0aWMtdnMta2lsbWFybm9jay12YXItd2F0Y2gtMjU5ODAzNjLSAVNodHRwczovL3d3dy5mb290YmFsbHNjb3RsYW5kLmNvLnVrL3NwZmwvY2VsdGljLXZzLWtpbG1hcm5vY2stdmFyLXdhdGNoLTI1OTgwMzYyLmFtcA",
           "author": null,
@@ -347,6 +367,16 @@
           "wordCount": 1138,
           "title": "Team’s Up – Juranovic starts, Giakoumakis on bench - The Celtic Star",
           "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2023/01/imago1021320044h-1024x683.jpg"
+        },
+        {
+          "id": "CBMiYGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvY2hvLWd1ZS1zdW5nLWNlbHRpYy10cmFuc2Zlci0yODk1NDQ3NdIBZGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvY2hvLWd1ZS1zdW5nLWNlbHRpYy10cmFuc2Zlci0yODk1NDQ3NS5hbXA",
+          "author": null,
+          "description": "Cho Gue sung to Celtic transfer collapse explained by the striker's agent  Daily Record\nThiago Santana 'tracked' for Celtic transfer as Cho Gue sung alternative  Daily Record\n£8m Giakoumakis to Urawa Reds, medical booked, it’s no-go-for-Cho but new striker is imminent  The Celtic Star",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiYGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvY2hvLWd1ZS1zdW5nLWNlbHRpYy10cmFuc2Zlci0yODk1NDQ3NdIBZGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvY2hvLWd1ZS1zdW5nLWNlbHRpYy10cmFuc2Zlci0yODk1NDQ3NS5hbXA?oc=5",
+          "publishedOn": "2023-01-14T16:08:10.000Z",
+          "wordCount": 3274,
+          "title": "Cho Gue sung to Celtic transfer collapse explained by the striker's agent - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28657087.ece/ALTERNATES/s1200/0_Korea-Republic-v-Portugal-Group-H-FIFA-World-Cup-Qatar-2022.jpg"
         },
         {
           "id": "CBMiRGh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvZ3JlZy10YXlsb3JzLWNlbHRpYy1yZXR1cm4tdGltZWxpbmUv0gFIaHR0cHM6Ly93d3cuNjdoYWlsaGFpbC5jb20vbmV3cy9ncmVnLXRheWxvcnMtY2VsdGljLXJldHVybi10aW1lbGluZS8_YW1w",
@@ -1407,126 +1437,6 @@
           "wordCount": 1972,
           "title": "Ange Is Trying To Create A “Drama Free Environment” In Which Celtic Can Thrive. - TheCelticBlog.com",
           "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2023/01/2022-12-24T124630Z_957443716_UP1EICO0ZHF03_RTRMADP_3_SOCCER-SCOTLAND-CEL-STJ-REPORT-scaled.jpg"
-        },
-        {
-          "id": "CBMic2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLXRyYW5zZmVyLW5ld3MvY2FzcGVyLXRlbmdzdGVkdC10cmFuc2Zlci1mZWUtcmV2ZWFsZWQtMjg5MTgyNzPSAXdodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC10cmFuc2Zlci1uZXdzL2Nhc3Blci10ZW5nc3RlZHQtdHJhbnNmZXItZmVlLXJldmVhbGVkLTI4OTE4MjczLmFtcA",
-          "author": null,
-          "description": "Casper Tengstedt transfer fee revealed as Celtic linked star heads to Champions League big boys  Daily Record",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMic2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLXRyYW5zZmVyLW5ld3MvY2FzcGVyLXRlbmdzdGVkdC10cmFuc2Zlci1mZWUtcmV2ZWFsZWQtMjg5MTgyNzPSAXdodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC10cmFuc2Zlci1uZXdzL2Nhc3Blci10ZW5nc3RlZHQtdHJhbnNmZXItZmVlLXJldmVhbGVkLTI4OTE4MjczLmFtcA?oc=5",
-          "publishedOn": "2023-01-10T13:14:13.000Z",
-          "wordCount": 3393,
-          "title": "Casper Tengstedt transfer fee revealed as Celtic linked star heads to Champions League big boys - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28915239.ece/ALTERNATES/s1200/0_AC-Horsens-vs-Lyngby-Boldklub-Danish-3F-Superliga.jpg"
-        },
-        {
-          "id": "CBMiZ2h0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zY290dGlzaC1wcmVtaWVyc2hpcC83LWNlbHRpYy1wbGF5ZXJzLWphbnVhcnktdHJhbnNmZXItMjU3NTExNDjSAWtodHRwczovL3d3dy5mb290YmFsbHNjb3RsYW5kLmNvLnVrL3NwZmwvc2NvdHRpc2gtcHJlbWllcnNoaXAvNy1jZWx0aWMtcGxheWVycy1qYW51YXJ5LXRyYW5zZmVyLTI1NzUxMTQ4LmFtcA",
-          "author": null,
-          "description": "7 Celtic players staring at January transfer exits as Ange Postecoglou aims to cull bulging squad  Football Scotland",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiZ2h0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zY290dGlzaC1wcmVtaWVyc2hpcC83LWNlbHRpYy1wbGF5ZXJzLWphbnVhcnktdHJhbnNmZXItMjU3NTExNDjSAWtodHRwczovL3d3dy5mb290YmFsbHNjb3RsYW5kLmNvLnVrL3NwZmwvc2NvdHRpc2gtcHJlbWllcnNoaXAvNy1jZWx0aWMtcGxheWVycy1qYW51YXJ5LXRyYW5zZmVyLTI1NzUxMTQ4LmFtcA?oc=5",
-          "publishedOn": "2023-01-10T12:25:00.000Z",
-          "wordCount": 3134,
-          "title": "7 Celtic players staring at January transfer exits as Ange Postecoglou aims to cull bulging squad - Football Scotland",
-          "imageUrl": "https://i2-prod.footballscotland.co.uk/incoming/article25751221.ece/ALTERNATES/s1200/0_Celtic-FC-v-Aberdeen-FC-Cinch-Scottish-Premiership.jpg"
-        },
-        {
-          "id": "CBMiZGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvdmFyLWdldHMtcmFuZ2Vycy10aGVtZWQtbmlja25hbWUtMjg5MTY2OTjSAWhodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL3Zhci1nZXRzLXJhbmdlcnMtdGhlbWVkLW5pY2tuYW1lLTI4OTE2Njk4LmFtcA",
-          "author": null,
-          "description": "Hotline callers in mischief mode with Rangers-themed nickname for VAR  Daily Record",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiZGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvdmFyLWdldHMtcmFuZ2Vycy10aGVtZWQtbmlja25hbWUtMjg5MTY2OTjSAWhodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL3Zhci1nZXRzLXJhbmdlcnMtdGhlbWVkLW5pY2tuYW1lLTI4OTE2Njk4LmFtcA?oc=5",
-          "publishedOn": "2023-01-10T12:20:10.000Z",
-          "wordCount": 3933,
-          "title": "Hotline callers in mischief mode with Rangers-themed nickname for VAR - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28908091.ece/ALTERNATES/s1200/0_Connor-Goldson2035JPG.jpg"
-        },
-        {
-          "id": "CBMiXWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2NlbHRpYy1raWxtYXJub2NrLXBsdXMtcmFuZ2Vycy1hYmVyZGVlbi0yODkxNzQ5MdIBYWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2NlbHRpYy1raWxtYXJub2NrLXBsdXMtcmFuZ2Vycy1hYmVyZGVlbi0yODkxNzQ5MS5hbXA",
-          "author": null,
-          "description": "Celtic and Kilmarnock plus Rangers and Aberdeen find out League Cup semi-final referees and VAR men  Daily Record",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiXWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2NlbHRpYy1raWxtYXJub2NrLXBsdXMtcmFuZ2Vycy1hYmVyZGVlbi0yODkxNzQ5MdIBYWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2NlbHRpYy1raWxtYXJub2NrLXBsdXMtcmFuZ2Vycy1hYmVyZGVlbi0yODkxNzQ5MS5hbXA?oc=5",
-          "publishedOn": "2023-01-10T12:09:14.000Z",
-          "wordCount": 3313,
-          "title": "Celtic and Kilmarnock plus Rangers and Aberdeen find out League Cup semi-final referees and VAR men - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28886737.ece/ALTERNATES/s1200/0_Heart-of-Midlothian-v-Kilmarnock-FC-Cinch-Scottish-Premiership.jpg"
-        },
-        {
-          "id": "CBMiRWh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9jZWx0aWMtaG9sZGluZy10YWxrcy1vdmVyLWNoby1ndWUtc3VuZy1kZWFsL9IBSWh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9jZWx0aWMtaG9sZGluZy10YWxrcy1vdmVyLWNoby1ndWUtc3VuZy1kZWFsL2FtcC8",
-          "author": null,
-          "description": "Celtic Hold London Transfer Talks | Celts Are Here  CeltsAreHere",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiRWh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9jZWx0aWMtaG9sZGluZy10YWxrcy1vdmVyLWNoby1ndWUtc3VuZy1kZWFsL9IBSWh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9jZWx0aWMtaG9sZGluZy10YWxrcy1vdmVyLWNoby1ndWUtc3VuZy1kZWFsL2FtcC8?oc=5",
-          "publishedOn": "2023-01-10T12:02:35.000Z",
-          "wordCount": 15063,
-          "title": "Celtic Hold London Transfer Talks | Celts Are Here - CeltsAreHere",
-          "imageUrl": "https://cdn.celtsarehere.com/wp-content/uploads/2022/11/2022-11-28T143806Z_489326334_UP1EIBS14NGTQ_RTRMADP_3_SOCCER-WORLDCUP-KOR-GHA-REPORT-scaled.jpg"
-        },
-        {
-          "id": "CBMikAFodHRwczovL3RoZWNlbHRpY2Jsb2cuY29tLzIwMjMvMDEvYXJ0aWNsZXMtYW5kLWZlYXR1cmVzL2Rlc3BlcmF0ZS1oYWNrcy10cnktdG8tZ2VuZXJhdGUtYW50aS1jZWx0aWMtaGVhZGxpbmVzLW91dC1vZi1tZWFuaW5nbGVzcy1tY2ZhZGRlbi1jbGFpbS_SAdkBaHR0cHM6Ly90aGVjZWx0aWNibG9nLmNvbS8yMDIzLzAxL2FydGljbGVzLWFuZC1mZWF0dXJlcy9kZXNwZXJhdGUtaGFja3MtdHJ5LXRvLWdlbmVyYXRlLWFudGktY2VsdGljLWhlYWRsaW5lcy1vdXQtb2YtbWVhbmluZ2xlc3MtbWNmYWRkZW4tY2xhaW0vP2ZiY2xpZD1Jd0FSMjZXZVJyQl9tcHpBQWFCdzBtVEV5UExVeFpubjRFV1h2OXRCenZ0ZVF3dEJqSzJSUnI4Q3E5UmRnJmFtcA",
-          "author": null,
-          "description": "Desperate Hacks Try To Generate Anti-Celtic Headlines Out Of Meaningless McFadden Claim.  TheCelticBlog.com",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMikAFodHRwczovL3RoZWNlbHRpY2Jsb2cuY29tLzIwMjMvMDEvYXJ0aWNsZXMtYW5kLWZlYXR1cmVzL2Rlc3BlcmF0ZS1oYWNrcy10cnktdG8tZ2VuZXJhdGUtYW50aS1jZWx0aWMtaGVhZGxpbmVzLW91dC1vZi1tZWFuaW5nbGVzcy1tY2ZhZGRlbi1jbGFpbS_SAdkBaHR0cHM6Ly90aGVjZWx0aWNibG9nLmNvbS8yMDIzLzAxL2FydGljbGVzLWFuZC1mZWF0dXJlcy9kZXNwZXJhdGUtaGFja3MtdHJ5LXRvLWdlbmVyYXRlLWFudGktY2VsdGljLWhlYWRsaW5lcy1vdXQtb2YtbWVhbmluZ2xlc3MtbWNmYWRkZW4tY2xhaW0vP2ZiY2xpZD1Jd0FSMjZXZVJyQl9tcHpBQWFCdzBtVEV5UExVeFpubjRFV1h2OXRCenZ0ZVF3dEJqSzJSUnI4Q3E5UmRnJmFtcA?oc=5",
-          "publishedOn": "2023-01-10T12:01:00.000Z",
-          "wordCount": 2349,
-          "title": "Desperate Hacks Try To Generate Anti-Celtic Headlines Out Of Meaningless McFadden Claim. - TheCelticBlog.com",
-          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2023/01/2023-01-02T123632Z_29490983_UP1EJ120Z0T0U_RTRMADP_3_SOCCER-SCOTLAND-RFC-CEL-REPORT-scaled.jpg"
-        },
-        {
-          "id": "CBMikAFodHRwczovL3RoZWNlbHRpY2Jsb2cuY29tLzIwMjMvMDEvYXJ0aWNsZXMtYW5kLWZlYXR1cmVzL2Rlc3BlcmF0ZS1oYWNrcy10cnktdG8tZ2VuZXJhdGUtYW50aS1jZWx0aWMtaGVhZGxpbmVzLW91dC1vZi1tZWFuaW5nbGVzcy1tY2ZhZGRlbi1jbGFpbS_SAZQBaHR0cHM6Ly90aGVjZWx0aWNibG9nLmNvbS8yMDIzLzAxL2FydGljbGVzLWFuZC1mZWF0dXJlcy9kZXNwZXJhdGUtaGFja3MtdHJ5LXRvLWdlbmVyYXRlLWFudGktY2VsdGljLWhlYWRsaW5lcy1vdXQtb2YtbWVhbmluZ2xlc3MtbWNmYWRkZW4tY2xhaW0vYW1wLw",
-          "author": null,
-          "description": "Desperate Hacks Try To Generate Anti-Celtic Headlines Out Of Meaningless McFadden Claim.  TheCelticBlog.com",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMikAFodHRwczovL3RoZWNlbHRpY2Jsb2cuY29tLzIwMjMvMDEvYXJ0aWNsZXMtYW5kLWZlYXR1cmVzL2Rlc3BlcmF0ZS1oYWNrcy10cnktdG8tZ2VuZXJhdGUtYW50aS1jZWx0aWMtaGVhZGxpbmVzLW91dC1vZi1tZWFuaW5nbGVzcy1tY2ZhZGRlbi1jbGFpbS_SAZQBaHR0cHM6Ly90aGVjZWx0aWNibG9nLmNvbS8yMDIzLzAxL2FydGljbGVzLWFuZC1mZWF0dXJlcy9kZXNwZXJhdGUtaGFja3MtdHJ5LXRvLWdlbmVyYXRlLWFudGktY2VsdGljLWhlYWRsaW5lcy1vdXQtb2YtbWVhbmluZ2xlc3MtbWNmYWRkZW4tY2xhaW0vYW1wLw?oc=5",
-          "publishedOn": "2023-01-10T12:01:00.000Z",
-          "wordCount": 2203,
-          "title": "Desperate Hacks Try To Generate Anti-Celtic Headlines Out Of Meaningless McFadden Claim. - TheCelticBlog.com",
-          "imageUrl": null
-        },
-        {
-          "id": "CBMihAFodHRwczovL3d3dy5za3lzcG9ydHMuY29tL2Zvb3RiYWxsL25ld3MvMzY2MjEvMTI3ODM2MDgvZ3VlLXN1bmctY2hvLWNlbHRpYy1pbi10YWxrcy1vdmVyLWRlYWwtcmFuZ2Vycy1tb25pdG9yaW5nLXNvdXRoLWtvcmVhLXN0cmlrZXLSAYgBaHR0cHM6Ly93d3cuc2t5c3BvcnRzLmNvbS9hbXAvZm9vdGJhbGwvbmV3cy8zNjYyMS8xMjc4MzYwOC9ndWUtc3VuZy1jaG8tY2VsdGljLWluLXRhbGtzLW92ZXItZGVhbC1yYW5nZXJzLW1vbml0b3Jpbmctc291dGgta29yZWEtc3RyaWtlcg",
-          "author": null,
-          "description": "Gue-Sung Cho: Celtic in talks over deal | Rangers monitoring South Korea striker  Sky Sports",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMihAFodHRwczovL3d3dy5za3lzcG9ydHMuY29tL2Zvb3RiYWxsL25ld3MvMzY2MjEvMTI3ODM2MDgvZ3VlLXN1bmctY2hvLWNlbHRpYy1pbi10YWxrcy1vdmVyLWRlYWwtcmFuZ2Vycy1tb25pdG9yaW5nLXNvdXRoLWtvcmVhLXN0cmlrZXLSAYgBaHR0cHM6Ly93d3cuc2t5c3BvcnRzLmNvbS9hbXAvZm9vdGJhbGwvbmV3cy8zNjYyMS8xMjc4MzYwOC9ndWUtc3VuZy1jaG8tY2VsdGljLWluLXRhbGtzLW92ZXItZGVhbC1yYW5nZXJzLW1vbml0b3Jpbmctc291dGgta29yZWEtc3RyaWtlcg?oc=5",
-          "publishedOn": "2023-01-10T11:50:55.000Z",
-          "wordCount": 3588,
-          "title": "Gue-Sung Cho: Celtic in talks over deal | Rangers monitoring South Korea striker - Sky Sports",
-          "imageUrl": "https://e0.365dm.com/23/01/1600x900/skysports-gue-sung-cho-south-korea_6019491.jpg?20230110104956"
-        },
-        {
-          "id": "CBMiWGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL25ld3Mvc2NvdHRpc2gtbmV3cy9jZWx0aWMtZmFuLWhhaWxlZC1jbHVicy1vbGRlc3QtMjg5MTcxNzfSAVxodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9uZXdzL3Njb3R0aXNoLW5ld3MvY2VsdGljLWZhbi1oYWlsZWQtY2x1YnMtb2xkZXN0LTI4OTE3MTc3LmFtcA",
-          "author": null,
-          "description": "Celtic fan hailed as club's oldest season ticket holder dies aged 101  Daily Record",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiWGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL25ld3Mvc2NvdHRpc2gtbmV3cy9jZWx0aWMtZmFuLWhhaWxlZC1jbHVicy1vbGRlc3QtMjg5MTcxNzfSAVxodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9uZXdzL3Njb3R0aXNoLW5ld3MvY2VsdGljLWZhbi1oYWlsZWQtY2x1YnMtb2xkZXN0LTI4OTE3MTc3LmFtcA?oc=5",
-          "publishedOn": "2023-01-10T11:50:45.000Z",
-          "wordCount": 3480,
-          "title": "Celtic fan hailed as club's oldest season ticket holder dies aged 101 - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28917286.ece/ALTERNATES/s1200/0_image.png"
-        },
-        {
-          "id": "CBMiRmh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9jZWx0aWMtdG8tbGlzdGVuLXRvLW9mZmVycy1mb3Itc3RlcGhlbi13ZWxzaC_SAUpodHRwczovL2NlbHRzYXJlaGVyZS5jb20vY2VsdGljLXRvLWxpc3Rlbi10by1vZmZlcnMtZm9yLXN0ZXBoZW4td2Vsc2gvYW1wLw",
-          "author": null,
-          "description": "Celtic Open To Offers For Hoops Defender | Celts Are Here  CeltsAreHere",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiRmh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9jZWx0aWMtdG8tbGlzdGVuLXRvLW9mZmVycy1mb3Itc3RlcGhlbi13ZWxzaC_SAUpodHRwczovL2NlbHRzYXJlaGVyZS5jb20vY2VsdGljLXRvLWxpc3Rlbi10by1vZmZlcnMtZm9yLXN0ZXBoZW4td2Vsc2gvYW1wLw?oc=5",
-          "publishedOn": "2023-01-10T11:49:44.000Z",
-          "wordCount": 15041,
-          "title": "Celtic Open To Offers For Hoops Defender | Celts Are Here - CeltsAreHere",
-          "imageUrl": "https://cdn.celtsarehere.com/wp-content/uploads/2022/12/2022-11-02T162841Z_1271139647_UP1EIB219RR12_RTRMADP_3_SOCCER-CHAMPIONS-MAD-CEL-REPORT-scaled.jpg"
-        },
-        {
-          "id": "CBMiY2h0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vZml4dHVyZS1jbGFzaC1hcy1jZWx0aWMtY29uZmlybS1yZWFycmFuZ2VkLXN3cGwtbWF0Y2gtYWdhaW5zdC1tb3RoZXJ3ZWxsL9IBZ2h0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vZml4dHVyZS1jbGFzaC1hcy1jZWx0aWMtY29uZmlybS1yZWFycmFuZ2VkLXN3cGwtbWF0Y2gtYWdhaW5zdC1tb3RoZXJ3ZWxsL2FtcC8",
-          "author": null,
-          "description": "Fixture clash as Celtic confirm rearranged SWPL match against Motherwell  The Celtic Star",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiY2h0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vZml4dHVyZS1jbGFzaC1hcy1jZWx0aWMtY29uZmlybS1yZWFycmFuZ2VkLXN3cGwtbWF0Y2gtYWdhaW5zdC1tb3RoZXJ3ZWxsL9IBZ2h0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vZml4dHVyZS1jbGFzaC1hcy1jZWx0aWMtY29uZmlybS1yZWFycmFuZ2VkLXN3cGwtbWF0Y2gtYWdhaW5zdC1tb3RoZXJ3ZWxsL2FtcC8?oc=5",
-          "publishedOn": "2023-01-10T10:54:42.000Z",
-          "wordCount": 1401,
-          "title": "Fixture clash as Celtic confirm rearranged SWPL match against Motherwell - The Celtic Star",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2023/01/alonso_2193-1024x682.jpeg"
-        },
-        {
-          "id": "CBMiY2h0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vZ2lha291bWFraXMtY2hvLWd1ZS1zdW5nLXRyYW5zZmVyLXNhZ2FzLWNlbHRpY3MtY2hpY2tlbi1hbmQtZWdnLWJ1c2luZXNzL9IBZ2h0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vZ2lha291bWFraXMtY2hvLWd1ZS1zdW5nLXRyYW5zZmVyLXNhZ2FzLWNlbHRpY3MtY2hpY2tlbi1hbmQtZWdnLWJ1c2luZXNzL2FtcC8",
-          "author": null,
-          "description": "Giakoumakis-Cho Gue-sung Transfer Sagas – Celtic’s Chicken and Egg Business  The Celtic Star",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiY2h0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vZ2lha291bWFraXMtY2hvLWd1ZS1zdW5nLXRyYW5zZmVyLXNhZ2FzLWNlbHRpY3MtY2hpY2tlbi1hbmQtZWdnLWJ1c2luZXNzL9IBZ2h0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vZ2lha291bWFraXMtY2hvLWd1ZS1zdW5nLXRyYW5zZmVyLXNhZ2FzLWNlbHRpY3MtY2hpY2tlbi1hbmQtZWdnLWJ1c2luZXNzL2FtcC8?oc=5",
-          "publishedOn": "2023-01-10T09:26:44.000Z",
-          "wordCount": 1896,
-          "title": "Giakoumakis-Cho Gue-sung Transfer Sagas – Celtic’s Chicken and Egg Business - The Celtic Star",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2023/01/fbl-wc-2022-match30-kor-gha-1024x683.jpg"
         }
       ]
     },
@@ -1535,6 +1445,26 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "95832c43485759f74cca68d1c94cb265",
+          "author": null,
+          "description": "DEREK MCINNES was proud of his players’ efforts as Kilmarnock fell to a valiant defeat to Celtic at Hampden...",
+          "link": "https://www.glasgowtimes.co.uk/sport/23251427.derek-mcinnes-says-kilmarnock-denied-clear-penalty-celtic-defeat/?ref=rss",
+          "publishedOn": "2023-01-14T21:14:46.000Z",
+          "wordCount": 8440,
+          "title": "Derek McInnes says Kilmarnock denied clear penalty in Celtic defeat",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16142998/?type=og-image"
+        },
+        {
+          "id": "60d585cc78c7a24362ea5e74475cbeb1",
+          "author": null,
+          "description": "ANGE POSTECOGLOU has hit out at the state of the Hampden pitch after his team beat Kilmarnock at the national stadium...",
+          "link": "https://www.glasgowtimes.co.uk/sport/23251417.ange-postecoglou-takes-aim-hampden-pitch-celtic-semi-win/?ref=rss",
+          "publishedOn": "2023-01-14T21:00:14.000Z",
+          "wordCount": 8466,
+          "title": "Ange Postecoglou takes aim at Hampden pitch after Celtic semi win",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16355851/?type=og-image"
+        },
         {
           "id": "a047b348248b4762dbdb0f984b420a6b",
           "author": null,
@@ -2104,76 +2034,6 @@
           "wordCount": 8834,
           "title": "Grandson pays tribute to 'incredible' Celtic fan who died aged 101",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16341599/?type=og-image"
-        },
-        {
-          "id": "f93e882d599c8b16d52f64f1bd6b20f0",
-          "author": null,
-          "description": "VAR was supposed to remove controversial decisions from Scottish football, but contentious calls remain.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23240702.scottish-premierships-7-controversial-var-calls-far/?ref=rss",
-          "publishedOn": "2023-01-10T13:07:38.000Z",
-          "wordCount": 8946,
-          "title": "Scottish Premiership's 7 most controversial VAR calls so far",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16124680/?type=og-image"
-        },
-        {
-          "id": "67af43fa2aa3a25acaf33170ce75253c",
-          "author": null,
-          "description": "Ange Postecoglou's side take on Killie on Saturday, while Rangers will battle it out with the Dons on Sunday.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23240526.celtic-vs-kilmarnock-rangers-vs-aberdeen-referees-announced/?ref=rss",
-          "publishedOn": "2023-01-10T12:28:25.000Z",
-          "wordCount": 8444,
-          "title": "Celtic vs Kilmarnock & Rangers vs Aberdeen referees announced",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16340628/?type=og-image"
-        },
-        {
-          "id": "5b8a69f401611948e8e9b46d20b71dd9",
-          "author": null,
-          "description": "Stephen Welsh has found game-time hard to come by",
-          "link": "https://www.glasgowtimes.co.uk/sport/23240509.celtic-open-offers-defender-stephen-welsh/?ref=rss",
-          "publishedOn": "2023-01-10T12:24:38.000Z",
-          "wordCount": 8396,
-          "title": "Celtic open to offers for defender Stephen Welsh",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16340666/?type=og-image"
-        },
-        {
-          "id": "61d0856186fd52cf3919d456ca53efd9",
-          "author": null,
-          "description": "Celtic's Josip Juranovic is at the centre of a huge bust-up between his former clubs in Croatia that's set to go to FIFA to resolve.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23240147.josip-juranovic-subject-transfer-bust-up-amid-celtic-interest/?ref=rss",
-          "publishedOn": "2023-01-10T11:13:03.000Z",
-          "wordCount": 8566,
-          "title": "Josip Juranovic subject of transfer bust-up amid Celtic interest",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16303914/?type=og-image"
-        },
-        {
-          "id": "4f427743a8ec7b5ae0a5a93cd978b7d3",
-          "author": null,
-          "description": "The 24-year-old has a host of clubs - including Celtic & Rangers - are chasing his signature after an impressive World Cup.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23240053.cho-gue-sung-transfer-latest-minnesota-launch-bid/?ref=rss",
-          "publishedOn": "2023-01-10T10:51:31.000Z",
-          "wordCount": 9722,
-          "title": "Cho Gue-sung transfer latest as Minnesota 'launch bid'",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16339807/?type=og-image"
-        },
-        {
-          "id": "21bb957c304dcdbe0cacdf9a2ca0c7ae",
-          "author": null,
-          "description": "The centre-back has fallen down the pecking order in defence at Parkhead this season.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23239921.celtic-defender-stephen-welsh-eyed-up-mls-sides/?ref=rss",
-          "publishedOn": "2023-01-10T10:25:21.000Z",
-          "wordCount": 8393,
-          "title": "Celtic defender Stephen Welsh 'eyed up' by MLS sides",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16339761/?type=og-image"
-        },
-        {
-          "id": "670742b0d172887b6594f9ac04fde814",
-          "author": null,
-          "description": "Michael Beale's side are monitoring the 24-year-old striker's situation.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23239815.rangers-monitoring-celtic-transfer-target-cho-gue-sung/?ref=rss",
-          "publishedOn": "2023-01-10T09:58:25.000Z",
-          "wordCount": 8443,
-          "title": "Rangers 'monitoring' Celtic transfer target Cho Gue-sung",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16339507/?type=og-image"
         }
       ]
     }
