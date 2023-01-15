@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "3987432",
+          "author": "Andrew Smith",
+          "description": "Celtic’s seventh League Cup final in the past nine editions of a competition that was earned with a hard-fought 2-0 win over Kilmarnock on Saturday prompted some unexpected musings.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtic-reaction-postecolgous-need-to-strengthen-irony-bypass-in-sectarian-slurs-towards-lafferty-final-consistency-brings-to-mind-the-lisbon-lions-3987432",
+          "publishedOn": "2023-01-15T10:23:15.000Z",
+          "wordCount": null,
+          "title": "Celtic reaction: Postecolgou’s need to strengthen; irony bypass in sectarian slurs towards Lafferty; final consistency brings to mind the Lisbon Lions",
+          "imageUrl": null
+        },
+        {
           "id": "3984498",
           "author": "Matthew Elder",
           "description": "Rangers and Aberdeen go head-to-head at Hampden Park on Sunday for a place in the Viaplay Cup final.",
@@ -264,26 +274,6 @@
           "wordCount": null,
           "title": "Cho Geu-Sung to Celtic latest as ‘50 per cent sell-on' offer made in bid to win race for key target",
           "imageUrl": null
-        },
-        {
-          "id": "3981853",
-          "author": "Alan Pattullo",
-          "description": "The puddles that had formed in the car parks outside Parkhead underlined why Tomoki Iwata, Celtic’s latest Japanese signing, regards the Scottish weather as the biggest challenge since his move west.",
-          "link": "https://www.scotsman.com/sport/football/celtic/how-celtics-tomoki-iwata-found-new-version-of-himself-with-intervention-from-ange-postecoglou-3981853",
-          "publishedOn": "2023-01-10T22:30:00.000Z",
-          "wordCount": null,
-          "title": "How Celtic's Tomoki Iwata found 'new version of himself' with intervention from Ange Postecoglou",
-          "imageUrl": null
-        },
-        {
-          "id": "3981807",
-          "author": "Andrew Smith",
-          "description": "Kilmarnock manager Derek McInnes is under no illusions about the ask from his team to prevail against Celtic in Saturday’s Viaplay League Cup semi-final.",
-          "link": "https://www.scotsman.com/sport/football/celtic/kilmarnock-manager-discusses-celtic-and-being-perfect-as-league-cup-semi-final-could-be-platform-for-personality-player-3981807",
-          "publishedOn": "2023-01-10T22:30:00.000Z",
-          "wordCount": null,
-          "title": "Kilmarnock manager discusses Celtic and being 'perfect' as League Cup semi-final could be platform for 'personality' player",
-          "imageUrl": null
         }
       ]
     },
@@ -298,6 +288,16 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CBMia2h0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zY290dGlzaC1wcmVtaWVyc2hpcC9hbmdlLXBvc3RlY29nbG91LWxpbmtlZC1jZWx0aWMtZG91YmxlLTI1OTgyMDM20gFvaHR0cHM6Ly93d3cuZm9vdGJhbGxzY290bGFuZC5jby51ay9zcGZsL3Njb3R0aXNoLXByZW1pZXJzaGlwL2FuZ2UtcG9zdGVjb2dsb3UtbGlua2VkLWNlbHRpYy1kb3VibGUtMjU5ODIwMzYuYW1w",
+          "author": null,
+          "description": "Ange Postecoglou linked with Celtic double swoop for two more J-League stars  Football Scotland",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMia2h0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zY290dGlzaC1wcmVtaWVyc2hpcC9hbmdlLXBvc3RlY29nbG91LWxpbmtlZC1jZWx0aWMtZG91YmxlLTI1OTgyMDM20gFvaHR0cHM6Ly93d3cuZm9vdGJhbGxzY290bGFuZC5jby51ay9zcGZsL3Njb3R0aXNoLXByZW1pZXJzaGlwL2FuZ2UtcG9zdGVjb2dsb3UtbGlua2VkLWNlbHRpYy1kb3VibGUtMjU5ODIwMzYuYW1w?oc=5",
+          "publishedOn": "2023-01-15T11:25:17.000Z",
+          "wordCount": 2539,
+          "title": "Ange Postecoglou linked with Celtic double swoop for two more J-League stars - Football Scotland",
+          "imageUrl": "https://i2-prod.footballscotland.co.uk/incoming/article25982081.ece/ALTERNATES/s1200/0_GettyImages-1443736508jp.jpg"
+        },
         {
           "id": "CBMiQGh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9tYWVkYXMtcmVhY3Rpb24tdG8tb2Zmc2lkZS1jZWx0aWMtZ29hbC_SAURodHRwczovL2NlbHRzYXJlaGVyZS5jb20vbWFlZGFzLXJlYWN0aW9uLXRvLW9mZnNpZGUtY2VsdGljLWdvYWwvYW1wLw",
           "author": null,
@@ -519,6 +519,16 @@
           "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2022/09/2022-09-14T182540Z_625389332_UP1EI9E1F6Q6W_RTRMADP_3_SOCCER-CHAMPIONS-SHK-CEL-REPORT.jpg"
         },
         {
+          "id": "CBMidGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vOG0tZ2lha291bWFraXMtdG8tdXJhd2EtcmVkcy1tZWRpY2FsLWJvb2tlZC1pdHMtbm8tZ28tZm9yLWNoby1idXQtbmV3LXN0cmlrZXItaXMtaW1taW5lbnQv0gF4aHR0cHM6Ly90aGVjZWx0aWNzdGFyLmNvbS84bS1naWFrb3VtYWtpcy10by11cmF3YS1yZWRzLW1lZGljYWwtYm9va2VkLWl0cy1uby1nby1mb3ItY2hvLWJ1dC1uZXctc3RyaWtlci1pcy1pbW1pbmVudC9hbXAv",
+          "author": null,
+          "description": "£8m Giakoumakis to Urawa Reds, medical booked, it’s no-go-for-Cho but new striker is imminent  The Celtic Star",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMidGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vOG0tZ2lha291bWFraXMtdG8tdXJhd2EtcmVkcy1tZWRpY2FsLWJvb2tlZC1pdHMtbm8tZ28tZm9yLWNoby1idXQtbmV3LXN0cmlrZXItaXMtaW1taW5lbnQv0gF4aHR0cHM6Ly90aGVjZWx0aWNzdGFyLmNvbS84bS1naWFrb3VtYWtpcy10by11cmF3YS1yZWRzLW1lZGljYWwtYm9va2VkLWl0cy1uby1nby1mb3ItY2hvLWJ1dC1uZXctc3RyaWtlci1pcy1pbW1pbmVudC9hbXAv?oc=5",
+          "publishedOn": "2023-01-14T10:56:12.000Z",
+          "wordCount": 1728,
+          "title": "£8m Giakoumakis to Urawa Reds, medical booked, it’s no-go-for-Cho but new striker is imminent - The Celtic Star",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/10/fbl-eur-c1-celtic-shakhtar-donetsk-9-1024x683.jpg"
+        },
+        {
           "id": "CBMicWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLXRyYW5zZmVyLW5ld3MvYWlzc2EtbGFpZG91bmktc2xhbXMtY2VsdGljLXRyYW5zZmVyLTI4OTUyODMw0gF1aHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvZm9vdGJhbGwtdHJhbnNmZXItbmV3cy9haXNzYS1sYWlkb3VuaS1zbGFtcy1jZWx0aWMtdHJhbnNmZXItMjg5NTI4MzAuYW1w",
           "author": null,
           "description": "Aissa Laidouni slams Celtic transfer door shut as he focuses on Ferencvaros perk he can't find at Parkhead  Daily Record",
@@ -647,6 +657,16 @@
           "wordCount": 3369,
           "title": "5 things we spotted at Celtic training as Sead Haksabanovic provides Hampden clue and forgotten man returns - Daily Record",
           "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28949666.ece/ALTERNATES/s1200/0_Celtic-FC-Media-Access.jpg"
+        },
+        {
+          "id": "CBMiiQFodHRwczovL3RoZWNlbHRpY2Jsb2cuY29tLzIwMjMvMDEvYXJ0aWNsZXMtYW5kLWZlYXR1cmVzL3NtaXJraW5nLW1jY29pc3QtaXMtY2xvc2VyLXRvLXRoZS1tYXJrLXRoYW4taGUtaW50ZW5kcy13aXRoLWhpcy1jZWx0aWMtdmFyLXNuYXJrL9IBAA",
+          "author": null,
+          "description": "Smirking McCoist Is Closer To The Mark Than He Intends With His ...  TheCelticBlog.com",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiiQFodHRwczovL3RoZWNlbHRpY2Jsb2cuY29tLzIwMjMvMDEvYXJ0aWNsZXMtYW5kLWZlYXR1cmVzL3NtaXJraW5nLW1jY29pc3QtaXMtY2xvc2VyLXRvLXRoZS1tYXJrLXRoYW4taGUtaW50ZW5kcy13aXRoLWhpcy1jZWx0aWMtdmFyLXNuYXJrL9IBAA?oc=5",
+          "publishedOn": "2023-01-13T19:19:00.000Z",
+          "wordCount": 2755,
+          "title": "Smirking McCoist Is Closer To The Mark Than He Intends With His ... - TheCelticBlog.com",
+          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2022/01/2018-01-13T140049Z_637004498_RC177F2DC380_RTRMADP_3_SOCCER-ENGLAND-NEW-SWA.jpg"
         },
         {
           "id": "CBMiiQFodHRwczovL3RoZWNlbHRpY2Jsb2cuY29tLzIwMjMvMDEvYXJ0aWNsZXMtYW5kLWZlYXR1cmVzL3NtaXJraW5nLW1jY29pc3QtaXMtY2xvc2VyLXRvLXRoZS1tYXJrLXRoYW4taGUtaW50ZW5kcy13aXRoLWhpcy1jZWx0aWMtdmFyLXNuYXJrL9IB0gFodHRwczovL3RoZWNlbHRpY2Jsb2cuY29tLzIwMjMvMDEvYXJ0aWNsZXMtYW5kLWZlYXR1cmVzL3NtaXJraW5nLW1jY29pc3QtaXMtY2xvc2VyLXRvLXRoZS1tYXJrLXRoYW4taGUtaW50ZW5kcy13aXRoLWhpcy1jZWx0aWMtdmFyLXNuYXJrLz9mYmNsaWQ9SXdBUjB2QnJqSzJFQ3h6ckZDTUZ2WXRwdVZaMHNGUnQ5OTdLZUxzU3diSFgyeERyMWxFajRCb1R0cGdmbyZhbXA",
@@ -1079,6 +1099,16 @@
           "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2022/11/2017-10-11T004407Z_318206875_RC1279815920_RTRMADP_3_SOCCER-AUSTRALIA-POSTECOGLOU.jpg"
         },
         {
+          "id": "CBMiZGh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zY290dGlzaC1wcmVtaWVyc2hpcC9ob3ctd2F0Y2gtY2VsdGljLXZzLWtpbG1hcm5vY2stMjU5NDg4NTfSAWhodHRwczovL3d3dy5mb290YmFsbHNjb3RsYW5kLmNvLnVrL3NwZmwvc2NvdHRpc2gtcHJlbWllcnNoaXAvaG93LXdhdGNoLWNlbHRpYy12cy1raWxtYXJub2NrLTI1OTQ4ODU3LmFtcA",
+          "author": null,
+          "description": "How to watch Celtic vs Kilmarnock LIVE: TV channel, stream and PPV details  Football Scotland\nWhat channel is Celtic v Kilmarnock? Live stream, TV and kick off details for Viaplay Cup semi-final  Daily Record\nThe rain, VAR and other things simply couldn’t stop Celtic  The Celtic Star",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiZGh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zY290dGlzaC1wcmVtaWVyc2hpcC9ob3ctd2F0Y2gtY2VsdGljLXZzLWtpbG1hcm5vY2stMjU5NDg4NTfSAWhodHRwczovL3d3dy5mb290YmFsbHNjb3RsYW5kLmNvLnVrL3NwZmwvc2NvdHRpc2gtcHJlbWllcnNoaXAvaG93LXdhdGNoLWNlbHRpYy12cy1raWxtYXJub2NrLTI1OTQ4ODU3LmFtcA?oc=5",
+          "publishedOn": "2023-01-12T10:25:00.000Z",
+          "wordCount": 2597,
+          "title": "How to watch Celtic vs Kilmarnock LIVE: TV channel, stream and PPV details - Football Scotland",
+          "imageUrl": "https://i2-prod.glasgowlive.co.uk/incoming/article25490562.ece/ALTERNATES/s1200/0_JS278292233.jpg"
+        },
+        {
           "id": "CBMiQWh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9hbmdlLXBvc3RlY29nbG91cy11bmlxdWUtY2VsdGljLXdhcm5pbmcv0gFFaHR0cHM6Ly9jZWx0c2FyZWhlcmUuY29tL2FuZ2UtcG9zdGVjb2dsb3VzLXVuaXF1ZS1jZWx0aWMtd2FybmluZy9hbXAv",
           "author": null,
           "description": "Ange Postecoglou's 'Unique' Celtic Warning | Celts Are Here  CeltsAreHere",
@@ -1317,34 +1347,34 @@
           "wordCount": 4940,
           "title": "Newcastle transfer news as Celtic ace holding out for Magpies offer amid links - Chronicle Live",
           "imageUrl": "https://i2-prod.footballscotland.co.uk/incoming/article25939102.ece/ALTERNATES/s1200/0_Celtic-Josip-Juranovic.jpg"
-        },
-        {
-          "id": "CBMiVWh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vbGVpY2VzdGVyLWZhbnMtY2FsbC1mb3ItZm9ybWVyLWNlbHRpYy1tYW5hZ2VyLXRvLWJlLXNhY2tlZC_SAVlodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL2xlaWNlc3Rlci1mYW5zLWNhbGwtZm9yLWZvcm1lci1jZWx0aWMtbWFuYWdlci10by1iZS1zYWNrZWQvYW1wLw",
-          "author": null,
-          "description": "Leicester fans call for former Celtic manager to be sacked  The Celtic Star",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiVWh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vbGVpY2VzdGVyLWZhbnMtY2FsbC1mb3ItZm9ybWVyLWNlbHRpYy1tYW5hZ2VyLXRvLWJlLXNhY2tlZC_SAVlodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL2xlaWNlc3Rlci1mYW5zLWNhbGwtZm9yLWZvcm1lci1jZWx0aWMtbWFuYWdlci10by1iZS1zYWNrZWQvYW1wLw?oc=5",
-          "publishedOn": "2023-01-10T22:59:57.000Z",
-          "wordCount": 1412,
-          "title": "Leicester fans call for former Celtic manager to be sacked - The Celtic Star",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2021/11/millwall-v-leicester-city-carabao-cup-third-round-2-1024x674.jpeg"
-        },
-        {
-          "id": "CBMicGh0dHBzOi8vZmFuYmFudGVyLmNvLnVrL3NhZC10by1zZWUtbm9ydGhlcm4tcHJlbWllci1sZWFndWUtY2x1Yi1jb25maXJtLW11Y2gtbmVlZGVkLWNoYW5nZXMtaW4tb3JkZXItdG8tc3Vydml2ZS_SAQA",
-          "author": null,
-          "description": "'Sad to see' - Northern Premier League club confirm much needed ...  FanBanter",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMicGh0dHBzOi8vZmFuYmFudGVyLmNvLnVrL3NhZC10by1zZWUtbm9ydGhlcm4tcHJlbWllci1sZWFndWUtY2x1Yi1jb25maXJtLW11Y2gtbmVlZGVkLWNoYW5nZXMtaW4tb3JkZXItdG8tc3Vydml2ZS_SAQA?oc=5",
-          "publishedOn": "2023-01-10T21:38:55.000Z",
-          "wordCount": 2544,
-          "title": "'Sad to see' - Northern Premier League club confirm much needed ... - FanBanter",
-          "imageUrl": "https://fanbanter.co.uk/wp-content/uploads/2023/01/Screen-Shot-2019-12-26-at-09.29.36-98-15.jpg"
         }
       ]
     },
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "d91b84f72ca98cddfb45417a8aab737f",
+          "author": null,
+          "description": "Celtic have been credited with an interest in another two J-League players amid reports that centre-forward Giorgos Giakoumakis is closing in on a move to Japan.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23251698.celtic-eye-j-league-duo-giakoumakis-nearing-exit/?ref=rss",
+          "publishedOn": "2023-01-15T10:40:22.000Z",
+          "wordCount": 9730,
+          "title": "Celtic eye J-League duo with Giakoumakis nearing exit",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16356373/?type=og-image"
+        },
+        {
+          "id": "0ba5de445747d9dfc9e7bcba68349507",
+          "author": null,
+          "description": "The semi-finals of the Viaplay Cup might well have taken centre stage yesterday afternoon for Celtic but when Ange Postecoglou’s side return to league action on Wednesday evening, they will do so with a score to settle in more ways than one.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23251624.joe-hart-unconcerned-celtics-earlier-defeat-st-mirren/?ref=rss",
+          "publishedOn": "2023-01-15T09:51:17.000Z",
+          "wordCount": 10320,
+          "title": "Joe Hart unconcerned by Celtic's earlier defeat to St Mirren",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16356237/?type=og-image"
+        },
         {
           "id": "95832c43485759f74cca68d1c94cb265",
           "author": null,
@@ -1894,16 +1924,6 @@
           "wordCount": 8721,
           "title": "McInnes reveals Kyle Lafferty factor he's considering for Celtic clash",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16342922/?type=og-image"
-        },
-        {
-          "id": "1e581a2b6cc460bfdd7b9943cb726635",
-          "author": null,
-          "description": "YOU would think that the first thing a new Japanese midfielder arriving at Celtic would want to do would be to distance himself from any predictable comparisons to compatriot and club legend Shunsuke Nakamura, particularly when it comes to his dead ball prowess.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23242071.tomoki-iwata-emulating-shunsuke-nakamuras-celtic-free-kick-prowess/?ref=rss",
-          "publishedOn": "2023-01-10T22:30:00.000Z",
-          "wordCount": 8962,
-          "title": "Tomoki Iwata on emulating Shunsuke Nakamura’s Celtic free kick prowess",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16343079/?type=og-image"
         }
       ]
     }
