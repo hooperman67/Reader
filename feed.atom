@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-01-17T12:38:18.766Z</updated>
+    <updated>2023-01-17T15:19:41.354Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Giorgos Giakoumakis still a Celtic player as Ange Postecoglou plays down talk of imminent departure]]></title>
+        <id>3990382</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/giorgos-giakoumakis-still-a-celtic-player-as-ange-postecoglou-plays-down-talk-of-imminent-departure-3990382"/>
+        <updated>2023-01-17T15:02:35.000Z</updated>
+        <summary type="html"><![CDATA[Giorgos Giakoumakis remains a Celtic player ahead of Wednesday’s cinch Premiership clash with St Mirren despite mounting speculation over a transfer.]]></summary>
+        <author>
+            <name>Matthew Elder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Derek McInnes blasts SFA for Celtic no penalty controversy as he lets rip at VAR failure - Daily Record]]></title>
+        <id>CBMiY2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvZGVyZWstbWNpbm5lcy1ibGFzdHMtc2ZhLWNlbHRpYy0yODk3Njg0OdIBZ2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvZGVyZWstbWNpbm5lcy1ibGFzdHMtc2ZhLWNlbHRpYy0yODk3Njg0OS5hbXA</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiY2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvZGVyZWstbWNpbm5lcy1ibGFzdHMtc2ZhLWNlbHRpYy0yODk3Njg0OdIBZ2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvZGVyZWstbWNpbm5lcy1ibGFzdHMtc2ZhLWNlbHRpYy0yODk3Njg0OS5hbXA?oc=5"/>
+        <updated>2023-01-17T14:22:52.000Z</updated>
+        <summary type="html"><![CDATA[Derek McInnes blasts SFA for Celtic no penalty controversy as he lets rip at VAR failure  Daily Record]]></summary>
+        <author>
+            <name>"celtic fc" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Glasgow streets to be affected near Celtic Park for weeks]]></title>
+        <id>d67abfa02c73a91d2db183b94993863a</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/celtic/news/23256655.glasgow-streets-affected-near-celtic-park-weeks/?ref=rss"/>
+        <updated>2023-01-17T14:08:00.000Z</updated>
+        <summary type="html"><![CDATA[A popular Glasgow road is set to undergo major works that will last a number of weeks.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic hero Nicholas calls ViaPlay semis a 'national embarrassment']]></title>
+        <id>cdc51ff1c5bf4739e65917e8a20a3148</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23256399.celtic-hero-nicholas-calls-viaplay-semis-national-embarrassment/?ref=rss"/>
+        <updated>2023-01-17T12:35:00.000Z</updated>
+        <summary type="html"><![CDATA[The former Hoops striker feels the last four of the League Cup did not reflect well on the Scottish game]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Giorgos Giakoumakis' £3m Celtic transfer good or bad business?]]></title>
+        <id>abb7b768a59bb63c1c223746a2e03b24</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/celtic/23256371.giorgos-giakoumakis-3m-celtic-transfer-good-bad-business/?ref=rss"/>
+        <updated>2023-01-17T12:24:20.000Z</updated>
+        <summary type="html"><![CDATA[Girgos Giakoumakis has been linked with a number of clubs throughout January.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Is Giorgos Giakoumakis' £3m Celtic transfer good or bad business?]]></title>
         <id>abb7b768a59bb63c1c223746a2e03b24</id>
@@ -22,6 +72,16 @@
         <link href="https://news.google.com/__i/rss/rd/articles/CBMiW2h0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vdHJhbnNmZXItbGF0ZXN0LWZyYW4tYWxvbnNvLXNpZ25zLWFtZXJpY2FuLXdpbmctYmFjay1oYW5hLWtlcm5lci_SAV9odHRwczovL3RoZWNlbHRpY3N0YXIuY29tL3RyYW5zZmVyLWxhdGVzdC1mcmFuLWFsb25zby1zaWducy1hbWVyaWNhbi13aW5nLWJhY2staGFuYS1rZXJuZXIvYW1wLw?oc=5"/>
         <updated>2023-01-17T11:59:40.000Z</updated>
         <summary type="html"><![CDATA[Transfer Latest – Fran Alonso signs American wing-back Hana Kerner  The Celtic Star]]></summary>
+        <author>
+            <name>"celtic fc" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic Youngster Pens New Deal Until 2025 | Celts Are Here - CeltsAreHere]]></title>
+        <id>CBMiQ2h0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9jZWx0aWMteW91bmdzdGVyLXBlbnMtbmV3LWRlYWwtdW50aWwtMjAyNS_SAYwBaHR0cHM6Ly9jZWx0c2FyZWhlcmUuY29tL2NlbHRpYy15b3VuZ3N0ZXItcGVucy1uZXctZGVhbC11bnRpbC0yMDI1L2FtcC8_ZmJjbGlkPUl3QVIyT1l0YmlUdWtBZXMtTU10VkthdnZYamlyMWQ5cGE2b1lTb1lZbDQ0UDVUcWJpU0hxTlBhQ2tfaFU</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiQ2h0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9jZWx0aWMteW91bmdzdGVyLXBlbnMtbmV3LWRlYWwtdW50aWwtMjAyNS_SAYwBaHR0cHM6Ly9jZWx0c2FyZWhlcmUuY29tL2NlbHRpYy15b3VuZ3N0ZXItcGVucy1uZXctZGVhbC11bnRpbC0yMDI1L2FtcC8_ZmJjbGlkPUl3QVIyT1l0YmlUdWtBZXMtTU10VkthdnZYamlyMWQ5cGE2b1lTb1lZbDQ0UDVUcWJpU0hxTlBhQ2tfaFU?oc=5"/>
+        <updated>2023-01-17T11:57:40.000Z</updated>
+        <summary type="html"><![CDATA[Celtic Youngster Pens New Deal Until 2025 | Celts Are Here  CeltsAreHere]]></summary>
         <author>
             <name>"celtic fc" - Google News</name>
         </author>
@@ -79,6 +139,16 @@
     <entry>
         <title type="html"><![CDATA[Celtic 'reignite transfer interest' in Hibs striker Nisbet]]></title>
         <id>5f6624bec0882ed759f081f31f35b33e</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/celtic/23255392.celtic-reignite-transfer-interest-hibs-striker-nisbet/?ref=rss"/>
+        <updated>2023-01-17T08:31:27.000Z</updated>
+        <summary type="html"><![CDATA[The Parkhead club were linked with a move for Nisbet previously.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic 'reignite transfer interest' in Hibs striker Nisbet]]></title>
+        <id>5f6624bec0882ed759f081f31f35b33e</id>
         <link href="https://www.glasgowtimes.co.uk/sport/23255392.celtic-reignite-transfer-interest-hibs-striker-nisbet/?ref=rss"/>
         <updated>2023-01-17T08:31:27.000Z</updated>
         <summary type="html"><![CDATA[The Parkhead club were linked with a move for Nisbet previously.]]></summary>
@@ -94,6 +164,16 @@
         <summary type="html"><![CDATA[Charlie Nicholas brands Celtic and Rangers cup semis 'national embarrassment'  Daily Record]]></summary>
         <author>
             <name>"celtic fc" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Carl Starfelt warns St Mirren that Celtic are eager for 'revenge']]></title>
+        <id>69dcbd9dee59c5f0498ea058fa22c54a</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/celtic/23254571.carl-starfelt-warns-st-mirren-celtic-coming-revenge/?ref=rss"/>
+        <updated>2023-01-17T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The Premiership champions' only domestic defeat this season came against Saints back in September.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
     <entry>
@@ -128,12 +208,32 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Celtic v Rangers: League Cup Final, Kick-Off time, allocation and Ticket Update - The Celtic Star]]></title>
+        <id>CBMiZ2h0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vY2VsdGljLXYtcmFuZ2Vycy1sZWFndWUtY3VwLWZpbmFsLWtpY2stb2ZmLXRpbWUtYWxsb2NhdGlvbi1hbmQtdGlja2V0LXVwZGF0ZS_SAWtodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL2NlbHRpYy12LXJhbmdlcnMtbGVhZ3VlLWN1cC1maW5hbC1raWNrLW9mZi10aW1lLWFsbG9jYXRpb24tYW5kLXRpY2tldC11cGRhdGUvYW1wLw</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiZ2h0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vY2VsdGljLXYtcmFuZ2Vycy1sZWFndWUtY3VwLWZpbmFsLWtpY2stb2ZmLXRpbWUtYWxsb2NhdGlvbi1hbmQtdGlja2V0LXVwZGF0ZS_SAWtodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL2NlbHRpYy12LXJhbmdlcnMtbGVhZ3VlLWN1cC1maW5hbC1raWNrLW9mZi10aW1lLWFsbG9jYXRpb24tYW5kLXRpY2tldC11cGRhdGUvYW1wLw?oc=5"/>
+        <updated>2023-01-16T23:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Celtic v Rangers: League Cup Final, Kick-Off time, allocation and Ticket Update  The Celtic Star]]></summary>
+        <author>
+            <name>"celtic fc" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic v Rangers: League Cup Final, Kick-Off time, allocation and Ticket Update - The Celtic Star]]></title>
         <id>CBMiZ2h0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vY2VsdGljLXYtcmFuZ2Vycy1sZWFndWUtY3VwLWZpbmFsLWtpY2stb2ZmLXRpbWUtYWxsb2NhdGlvbi1hbmQtdGlja2V0LXVwZGF0ZS_SAQA</id>
         <link href="https://news.google.com/__i/rss/rd/articles/CBMiZ2h0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vY2VsdGljLXYtcmFuZ2Vycy1sZWFndWUtY3VwLWZpbmFsLWtpY2stb2ZmLXRpbWUtYWxsb2NhdGlvbi1hbmQtdGlja2V0LXVwZGF0ZS_SAQA?oc=5"/>
         <updated>2023-01-16T23:04:00.000Z</updated>
         <summary type="html"><![CDATA[Celtic v Rangers: League Cup Final, Kick-Off time, allocation and Ticket Update  The Celtic Star]]></summary>
         <author>
             <name>"celtic fc" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Borna Barisic details Rangers mentality ahead of Celtic shot at glory]]></title>
+        <id>fd8cd1355074aac5ef403af2555bb9d5</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/celtic/23252385.borna-barisic-details-rangers-mentality-ahead-celtic-shot-glory/?ref=rss"/>
+        <updated>2023-01-16T22:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Victory over Aberdeen has set up a derby showpiece to settle the first silverware of the campaign.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
     <entry>
@@ -174,6 +274,16 @@
         <summary type="html"><![CDATA[Giorgos Giakoumakis Celtic transfer value rated at DOUBLE Urawa Red Diamonds offer amid release clause theory  Daily Record]]></summary>
         <author>
             <name>"celtic fc" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rangers & Celtic handed Hampden pitch pledge by SFA & SPFL]]></title>
+        <id>d9e26b4b37c59c3a4ce1064a7cb73e43</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/celtic/news/23255097.rangers-celtic-handed-hampden-pitch-pledge-sfa-spfl/?ref=rss"/>
+        <updated>2023-01-16T19:43:08.000Z</updated>
+        <summary type="html"><![CDATA[In a joint statement, the governing bodies of Scottish football insist they will look to mitigate the impact of weather on the playing surface.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
     <entry>
@@ -244,6 +354,16 @@
         <summary type="html"><![CDATA[All appeared to pitch in to slam the Hampden surface, with one of the four managers most straightforward in their scathing assessment.]]></summary>
         <author>
             <name>Andrew Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rangers vs Celtic Viaplay Cup final kick-off time revealed]]></title>
+        <id>21c1a4c4c6fdaabfcd631563174fb9a8</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/celtic/news/23254599.rangers-vs-celtic-viaplay-cup-final-kick-off-time-revealed/?ref=rss"/>
+        <updated>2023-01-16T16:31:15.000Z</updated>
+        <summary type="html"><![CDATA[Ticket information for the game has yet to be announced, but the game will of course be shown live on TV by the competition's sponsor, Viaplay.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
     <entry>
@@ -414,6 +534,16 @@
         <summary type="html"><![CDATA[Szymon Wlodarczyk kicks Celtic transfer door open as wanted man insists it's time to leave Poland  Daily Record]]></summary>
         <author>
             <name>"celtic fc" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic target Szymon Wlodarczyk opens door for Glasgow move]]></title>
+        <id>74edd202ffc535312f33988bac851fca</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/celtic/23252902.celtic-target-szymon-wlodarczyk-opens-door-glasgow-move/?ref=rss"/>
+        <updated>2023-01-16T10:41:41.000Z</updated>
+        <summary type="html"><![CDATA[Celtic target Szymon Wlodarczyk has opened the door for a move to Parkhead after admitting it's time to move on from Gornik Zabrze.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
     <entry>
