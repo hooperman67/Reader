@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "3991115",
+          "author": "Joel Sked",
+          "description": "Celtic have increased their efforts to land a striker in January with an improved bid for one target, according to reports.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtic-step-up-striker-chase-with-improved-offer-impressive-11-in-16-record-international-debut-3991115",
+          "publishedOn": "2023-01-18T09:19:26.000Z",
+          "wordCount": null,
+          "title": "Celtic step up striker chase with 'improved offer', impressive 11 in 16 record, international debut",
+          "imageUrl": null
+        },
+        {
           "id": "3990975",
           "author": "Joel Sked",
           "description": "Celtic return to Premiership action when they welcome St Mirren to Parkhead after progressing to the Viaplya Cup final – where they will face Rangers – with a 2-0 win over Kilmarnock.",
@@ -274,36 +284,6 @@
           "wordCount": null,
           "title": "What channel is Celtic v Kilmarnock on? Viaplay Cup semi-final kick-off time, TV details, referee and VAR officials",
           "imageUrl": null
-        },
-        {
-          "id": "3986891",
-          "author": "Alan Pattullo",
-          "description": "Ange Postecoglou can’t help but agree with Rangers manager Michael Beale’s contention that his Old Firm counterpart is a “lucky man”.",
-          "link": "https://www.scotsman.com/sport/football/celtic/ange-postecoglou-responds-to-michael-beales-lucky-man-comments-and-celtic-manager-agrees-with-his-rangers-counterpart-3986891",
-          "publishedOn": "2023-01-13T22:30:00.000Z",
-          "wordCount": null,
-          "title": "Ange Postecoglou responds to Michael Beale's 'lucky man' comments - and Celtic manager agrees with his Rangers counterpart",
-          "imageUrl": null
-        },
-        {
-          "id": "3986874",
-          "author": "Alan Pattullo",
-          "description": "Imagine the scene. Six Scots have signed for a J-League club, in a reversal of the current trend for Japanese players heading to the Scottish Premiership in a bid to further their career.",
-          "link": "https://www.scotsman.com/sport/football/celtic/how-celtic-are-making-sure-unique-squad-situation-is-working-after-japanese-cohort-swells-even-further-3986874",
-          "publishedOn": "2023-01-13T22:30:00.000Z",
-          "wordCount": null,
-          "title": "How Celtic are making sure 'unique' squad situation is working after Japanese cohort swells even further",
-          "imageUrl": null
-        },
-        {
-          "id": "3986819",
-          "author": "Andrew Smith",
-          "description": "Kilmarnock midfielder Rory McKenzie isn’t your common-or-garden footballer.",
-          "link": "https://www.scotsman.com/sport/football/celtic/kilmarnocks-rory-mckenzie-in-candid-admission-about-celtics-greg-taylor-as-he-recalls-2012-league-cup-final-penalty-break-3986819",
-          "publishedOn": "2023-01-13T22:30:00.000Z",
-          "wordCount": null,
-          "title": "Kilmarnock's Rory McKenzie in candid admission about Celtic's Greg Taylor as he recalls 2012 League Cup final penalty break",
-          "imageUrl": null
         }
       ]
     },
@@ -318,6 +298,36 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CBMicmh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vY2VsdGljLWZjLXdvbWVuLXYtbW90aGVyd2VsbC13ZS1nby1pbnRvLWdhbWUtZnVsbHktZm9jdXNzZWQtYW5kLXJlYWR5LXRvLWdvLWRhdmlkLWhhbGV5L9IBdmh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vY2VsdGljLWZjLXdvbWVuLXYtbW90aGVyd2VsbC13ZS1nby1pbnRvLWdhbWUtZnVsbHktZm9jdXNzZWQtYW5kLXJlYWR5LXRvLWdvLWRhdmlkLWhhbGV5L2FtcC8",
+          "author": null,
+          "description": "Celtic FC Women v Motherwell – “We go into game fully focussed and ready to go,” David Haley  The Celtic Star",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMicmh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vY2VsdGljLWZjLXdvbWVuLXYtbW90aGVyd2VsbC13ZS1nby1pbnRvLWdhbWUtZnVsbHktZm9jdXNzZWQtYW5kLXJlYWR5LXRvLWdvLWRhdmlkLWhhbGV5L9IBdmh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vY2VsdGljLWZjLXdvbWVuLXYtbW90aGVyd2VsbC13ZS1nby1pbnRvLWdhbWUtZnVsbHktZm9jdXNzZWQtYW5kLXJlYWR5LXRvLWdvLWRhdmlkLWhhbGV5L2FtcC8?oc=5",
+          "publishedOn": "2023-01-18T12:00:21.000Z",
+          "wordCount": 1699,
+          "title": "Celtic FC Women v Motherwell – “We go into game fully focussed and ready to go,” David Haley - The Celtic Star",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2023/01/alonso_haley_1231-1024x682.jpeg"
+        },
+        {
+          "id": "CBMiWmh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vY2VsdGljLXYtc3QtbWlycmVuLXRlYW0tbmV3cy1raWNrLW9mZi10aW1lLWFuZC13aGVyZS10by13YXRjaC0yL9IBXmh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vY2VsdGljLXYtc3QtbWlycmVuLXRlYW0tbmV3cy1raWNrLW9mZi10aW1lLWFuZC13aGVyZS10by13YXRjaC0yL2FtcC8",
+          "author": null,
+          "description": "Celtic v St Mirren – Team News, Kick-off Time and Where to Watch  The Celtic Star",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiWmh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vY2VsdGljLXYtc3QtbWlycmVuLXRlYW0tbmV3cy1raWNrLW9mZi10aW1lLWFuZC13aGVyZS10by13YXRjaC0yL9IBXmh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vY2VsdGljLXYtc3QtbWlycmVuLXRlYW0tbmV3cy1raWNrLW9mZi10aW1lLWFuZC13aGVyZS10by13YXRjaC0yL2FtcC8?oc=5",
+          "publishedOn": "2023-01-18T09:31:00.000Z",
+          "wordCount": 1559,
+          "title": "Celtic v St Mirren – Team News, Kick-off Time and Where to Watch - The Celtic Star",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/12/celtic-fc-v-livingston-fc-cinch-scottish-premiership-25-1024x683.jpg"
+        },
+        {
+          "id": "CBMiTGh0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L2FuZ2UtcG9zdGVjb2dsb3Utd2FudHMtb25lLW1vcmUtMjYwMDU0MDDSAVBodHRwczovL3d3dy5nbGFzZ293bGl2ZS5jby51ay9zcG9ydC9hbmdlLXBvc3RlY29nbG91LXdhbnRzLW9uZS1tb3JlLTI2MDA1NDAwLmFtcA",
+          "author": null,
+          "description": "Ange Postecoglou wants one more Celtic transfer with plans in place to counter any outgoings  Glasgow Live",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiTGh0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L2FuZ2UtcG9zdGVjb2dsb3Utd2FudHMtb25lLW1vcmUtMjYwMDU0MDDSAVBodHRwczovL3d3dy5nbGFzZ293bGl2ZS5jby51ay9zcG9ydC9hbmdlLXBvc3RlY29nbG91LXdhbnRzLW9uZS1tb3JlLTI2MDA1NDAwLmFtcA?oc=5",
+          "publishedOn": "2023-01-18T08:32:50.000Z",
+          "wordCount": 3716,
+          "title": "Ange Postecoglou wants one more Celtic transfer with plans in place to counter any outgoings - Glasgow Live",
+          "imageUrl": "https://i2-prod.glasgowlive.co.uk/incoming/article26005393.ece/ALTERNATES/s1200/0_JS288402094.jpg"
+        },
         {
           "id": "CBMiTGh0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L2FuZ2UtcG9zdGVjb2dsb3Utd2FudHMtb25lLW1vcmUtMjYwMDU0MDDSAQA",
           "author": null,
@@ -369,6 +379,16 @@
           "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28961744.ece/ALTERNATES/s1200/0_JS288139034.jpg"
         },
         {
+          "id": "CBMiT2h0dHBzOi8vd3d3LndvbHZlcy5jby51ay9uZXdzL3VuZGVyLTIxLzIwMjMwMTE3LXUyMS1yZXBvcnQtd29sdmVzLTItNC1jZWx0aWMtYi_SAQA",
+          "author": null,
+          "description": "U21 report | Wolves 2-4 Celtic B  wolves.co.uk",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiT2h0dHBzOi8vd3d3LndvbHZlcy5jby51ay9uZXdzL3VuZGVyLTIxLzIwMjMwMTE3LXUyMS1yZXBvcnQtd29sdmVzLTItNC1jZWx0aWMtYi_SAQA?oc=5",
+          "publishedOn": "2023-01-17T23:46:36.000Z",
+          "wordCount": 2158,
+          "title": "U21 report | Wolves 2-4 Celtic B - wolves.co.uk",
+          "imageUrl": "https://wolves-cdn.azureedge.net/media/28868/1701-chem.jpg"
+        },
+        {
           "id": "CBMiTmh0dHBzOi8vdGhlY2VsdGljYmhveXMuY29tLzIwMjMvMDEvMTcvY2VsdGljLWNvbnRyYWN0LWV4dGVuc2lvbi1kZWZlbmRlci0yMDI1L9IBUmh0dHBzOi8vdGhlY2VsdGljYmhveXMuY29tLzIwMjMvMDEvMTcvY2VsdGljLWNvbnRyYWN0LWV4dGVuc2lvbi1kZWZlbmRlci0yMDI1L2FtcC8",
           "author": null,
           "description": "Celtic announce contract extension for defender till 2025  The Celtic Bhoys",
@@ -377,6 +397,16 @@
           "wordCount": 2257,
           "title": "Celtic announce contract extension for defender till 2025 - The Celtic Bhoys",
           "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1342709903.jpeg"
+        },
+        {
+          "id": "CBMiZ2h0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL21hdGNoL3dlLXdhbnQtYS1saXR0bGUtYml0LW9mLXJldmVuZ2UtY2FybC1zdGFyZmVsdC1zZXRzLW91dC1jZWx0aWMtbWlzc2lvbi_SAWtodHRwczovL3d3dy42N2hhaWxoYWlsLmNvbS9tYXRjaC93ZS13YW50LWEtbGl0dGxlLWJpdC1vZi1yZXZlbmdlLWNhcmwtc3RhcmZlbHQtc2V0cy1vdXQtY2VsdGljLW1pc3Npb24vP2FtcA",
+          "author": null,
+          "description": "“We want a little bit of revenge”; Carl Starfelt sets out Celtic mission  67 Hail Hail - Celtic FC News",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiZ2h0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL21hdGNoL3dlLXdhbnQtYS1saXR0bGUtYml0LW9mLXJldmVuZ2UtY2FybC1zdGFyZmVsdC1zZXRzLW91dC1jZWx0aWMtbWlzc2lvbi_SAWtodHRwczovL3d3dy42N2hhaWxoYWlsLmNvbS9tYXRjaC93ZS13YW50LWEtbGl0dGxlLWJpdC1vZi1yZXZlbmdlLWNhcmwtc3RhcmZlbHQtc2V0cy1vdXQtY2VsdGljLW1pc3Npb24vP2FtcA?oc=5",
+          "publishedOn": "2023-01-17T20:10:44.000Z",
+          "wordCount": 1970,
+          "title": "“We want a little bit of revenge”; Carl Starfelt sets out Celtic mission - 67 Hail Hail - Celtic FC News",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/01/GettyImages-1245935695-scaled.jpg"
         },
         {
           "id": "CBMicGh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3Mva3lvZ28tZnVydWhhc2hpLWZlYXR1cmVkLWluLWdsb3NzeS1uZXctZmlmYS1kb2N1bWVudGFyeS1sYXVkcy1jZWx0aWMtc3VwcG9ydGVycy_SAXRodHRwczovL3d3dy42N2hhaWxoYWlsLmNvbS9uZXdzL2t5b2dvLWZ1cnVoYXNoaS1mZWF0dXJlZC1pbi1nbG9zc3ktbmV3LWZpZmEtZG9jdW1lbnRhcnktbGF1ZHMtY2VsdGljLXN1cHBvcnRlcnMvP2FtcA",
@@ -1237,36 +1267,6 @@
           "wordCount": 3354,
           "title": "Cho Gue sung to Celtic transfer is OFF as South Korean star wasn't 'wanted enough' with Hoops shopping around - Daily Record",
           "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28648744.ece/ALTERNATES/s1200/0_Korea-Republic-v-Ghana-Group-H-FIFA-World-Cup-Qatar-2022.jpg"
-        },
-        {
-          "id": "CBMiTWh0dHBzOi8vdGhlY2VsdGljYmhveXMuY29tLzIwMjMvMDEvMTMvY2VsdGljLXBsYXllci1jb25maXJtZWQtY29tcGxldGVkLWxvYW4v0gFRaHR0cHM6Ly90aGVjZWx0aWNiaG95cy5jb20vMjAyMy8wMS8xMy9jZWx0aWMtcGxheWVyLWNvbmZpcm1lZC1jb21wbGV0ZWQtbG9hbi9hbXAv",
-          "author": null,
-          "description": "Celtic player confirmed to have completed loan exit  The Celtic Bhoys",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiTWh0dHBzOi8vdGhlY2VsdGljYmhveXMuY29tLzIwMjMvMDEvMTMvY2VsdGljLXBsYXllci1jb25maXJtZWQtY29tcGxldGVkLWxvYW4v0gFRaHR0cHM6Ly90aGVjZWx0aWNiaG95cy5jb20vMjAyMy8wMS8xMy9jZWx0aWMtcGxheWVyLWNvbmZpcm1lZC1jb21wbGV0ZWQtbG9hbi9hbXAv?oc=5",
-          "publishedOn": "2023-01-13T23:37:30.000Z",
-          "wordCount": 2308,
-          "title": "Celtic player confirmed to have completed loan exit - The Celtic Bhoys",
-          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1453773840.jpeg"
-        },
-        {
-          "id": "CBMiaWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvYW5nZS1wb3N0ZWNvZ2xvdS1pbnNpc3RzLXJhbmdlcnMtYm9zcy0yODk1MDc5ONIBbWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvYW5nZS1wb3N0ZWNvZ2xvdS1pbnNpc3RzLXJhbmdlcnMtYm9zcy0yODk1MDc5OC5hbXA",
-          "author": null,
-          "description": "Ange Postecoglou insists Rangers boss Beale was right over 'lucky' claim  Daily Record",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiaWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvYW5nZS1wb3N0ZWNvZ2xvdS1pbnNpc3RzLXJhbmdlcnMtYm9zcy0yODk1MDc5ONIBbWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvYW5nZS1wb3N0ZWNvZ2xvdS1pbnNpc3RzLXJhbmdlcnMtYm9zcy0yODk1MDc5OC5hbXA?oc=5",
-          "publishedOn": "2023-01-13T22:30:00.000Z",
-          "wordCount": 3484,
-          "title": "Ange Postecoglou insists Rangers boss Beale was right over 'lucky' claim - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28951018.ece/ALTERNATES/s1200/0_Ange-Postecoglou-File-Photo.jpg"
-        },
-        {
-          "id": "CBMiY2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvYWxseS1tY2NvaXN0LXN0b3Jtcy1iYWNrLWNlbHRpYy0yODk1MTQwONIBZ2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvYWxseS1tY2NvaXN0LXN0b3Jtcy1iYWNrLWNlbHRpYy0yODk1MTQwOC5hbXA",
-          "author": null,
-          "description": "Ally McCoist storms back into Celtic Var row as he jokes over winning panel  Daily Record",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiY2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvYWxseS1tY2NvaXN0LXN0b3Jtcy1iYWNrLWNlbHRpYy0yODk1MTQwONIBZ2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvYWxseS1tY2NvaXN0LXN0b3Jtcy1iYWNrLWNlbHRpYy0yODk1MTQwOC5hbXA?oc=5",
-          "publishedOn": "2023-01-13T21:34:30.000Z",
-          "wordCount": 3321,
-          "title": "Ally McCoist storms back into Celtic Var row as he jokes over winning panel - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/sport/football/article28951415.ece/ALTERNATES/s1200/0_Screenshot-2023-01-13-at-213024.png"
         }
       ]
     },
@@ -1275,6 +1275,36 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "0135d50ac1e6fc29b5cd1706204ded34",
+          "author": null,
+          "description": "The Japanese forward was the only player not at the tournament who was selected by fellow pros.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23258780.celtic-star-kyogo-named-japan-best-xi-despite-world-cup-snub/?ref=rss",
+          "publishedOn": "2023-01-18T10:47:02.000Z",
+          "wordCount": 9785,
+          "title": "Celtic star Kyogo named in Japan best XI despite World Cup snub",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16366568/?type=og-image"
+        },
+        {
+          "id": "066f185c8a5f606bc7b43902ec48a37e",
+          "author": null,
+          "description": "It's claimed Celtic could turn their attention to the South Korean striker.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23258407.oh-hyeon-gyu-celtic-latest-interest-striker-continues/?ref=rss",
+          "publishedOn": "2023-01-18T09:11:30.000Z",
+          "wordCount": 8605,
+          "title": "Oh Hyeon-gyu to Celtic latest as interest in striker continues",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16366032/?type=og-image"
+        },
+        {
+          "id": "daefb79073e5b38659063e15f7186737",
+          "author": null,
+          "description": "The Saints remain the only domestic side to inflict defeat on the champions this season.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23258348.st-mirren-head-celtic-clash-full-belief-says-robinson/?ref=rss",
+          "publishedOn": "2023-01-18T08:43:25.000Z",
+          "wordCount": 8398,
+          "title": "St Mirren head into Celtic clash full of belief, says Robinson",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16365881/?type=og-image"
+        },
         {
           "id": "51b6eef6c09b805c47ea161485d6f69f",
           "author": null,
@@ -1374,6 +1404,16 @@
           "wordCount": 8365,
           "title": "Postecoglou provides Celtic injury update ahead of St Mirren clash",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16355365/?type=og-image"
+        },
+        {
+          "id": "f57b4b4d2cc49714f342e5874a61e387",
+          "author": null,
+          "description": "The Ayrshire side were denied what was a stonewall spot kick in the final moments of the semi-final clash.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23257183.derek-mcinnes-slams-sfa-kilmarnock-penalty-snub-vs-celtic/?ref=rss",
+          "publishedOn": "2023-01-17T15:32:00.000Z",
+          "wordCount": 8515,
+          "title": "Derek McInnes slams SFA over Kilmarnock penalty snub vs Celtic",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16364089/?type=og-image"
         },
         {
           "id": "f57b4b4d2cc49714f342e5874a61e387",
@@ -1854,16 +1894,6 @@
           "wordCount": 8896,
           "title": "Ange Postecoglou cites FA Cup shocks to serve a reminder to Celtic",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16354186/?type=og-image"
-        },
-        {
-          "id": "86dc310389b7308219a85e446ade7206",
-          "author": null,
-          "description": "ANGE POSTECOGLOU has brushed off comments by Rangers manager Michael Beale about Celtic’s transfer spend under his tenure...",
-          "link": "https://www.glasgowtimes.co.uk/sport/23249794.postecoglou-agrees-beale-lucky-celtic-manager/?ref=rss",
-          "publishedOn": "2023-01-13T22:30:00.000Z",
-          "wordCount": 9833,
-          "title": "Postecoglou agrees with Beale that he is 'lucky’ to be Celtic manager",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16353645/?type=og-image"
         }
       ]
     }
