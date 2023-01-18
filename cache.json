@@ -6,6 +6,36 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "3990855",
+          "author": "Matthew Elder",
+          "description": "Celtic manager Ange Postecoglou is only too aware of the importance of perception having spent most of his career trying to prove himself to those who looked down on Australian football.",
+          "link": "https://www.scotsman.com/sport/football/celtic/ange-postecoglou-no-stranger-to-pitch-complaints-as-celtic-boss-urges-sfa-to-sell-game-better-3990855",
+          "publishedOn": "2023-01-17T22:30:00.000Z",
+          "wordCount": null,
+          "title": "Ange Postecoglou no stranger to pitch complaints as Celtic boss urges SFA to sell game better",
+          "imageUrl": null
+        },
+        {
+          "id": "3990833",
+          "author": "Andrew Smith",
+          "description": "Rangers manager Michael Beale has dismissed claims Ryan Kent committed a red-card offence against Liam Scales in his club’s Viaplay Cup semi-final win over Aberdeen on Sunday.",
+          "link": "https://www.scotsman.com/sport/football/rangers/only-from-one-section-of-support-rangers-manager-michael-beale-on-claims-ryan-kent-should-face-sanction-3990833",
+          "publishedOn": "2023-01-17T22:30:00.000Z",
+          "wordCount": null,
+          "title": "'Only from one section of support' - Rangers manager Michael Beale on claims Ryan Kent should face sanction",
+          "imageUrl": null
+        },
+        {
+          "id": "3990749",
+          "author": "Matthew Elder",
+          "description": "Ange Postecoglou has insisted that Celtic are in no rush to sign a striker despite reports linking Giorgos Giakoumakis with an imminent departure from the club.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtic-transfer-plans-in-place-as-ange-postecoglou-opens-up-on-prospect-of-arrivals-and-departures-3990749",
+          "publishedOn": "2023-01-17T22:30:00.000Z",
+          "wordCount": null,
+          "title": "Celtic transfer plans in place as Ange Postecoglou opens up on prospect of arrivals and departures",
+          "imageUrl": null
+        },
+        {
           "id": "3990894",
           "author": "Angus Wright",
           "description": "Gary Lineker revealed the loud moaning noises heard during the BBC’s live coverage of the FA Cup clash between Wolves and Liverpool were caused by a hidden mobile phone “taped to the back of the set”.",
@@ -254,16 +284,6 @@
           "wordCount": null,
           "title": "Kilmarnock's Rory McKenzie in candid admission about Celtic's Greg Taylor as he recalls 2012 League Cup final penalty break",
           "imageUrl": null
-        },
-        {
-          "id": "3986112",
-          "author": "Matthew Elder",
-          "description": "Another big weekend of Scottish football is upon us with the Viaplay Cup semi-finals and four Premiership fixtures taking place across three days.",
-          "link": "https://www.scotsman.com/sport/football/is-celtic-v-rangers-final-a-formality-have-hibs-really-turned-a-corner-scotsman-football-show-3986112",
-          "publishedOn": "2023-01-13T12:46:45.000Z",
-          "wordCount": null,
-          "title": "Is Celtic v Rangers final a formality? Have Hibs really turned a corner? - Scotsman Football Show",
-          "imageUrl": null
         }
       ]
     },
@@ -287,6 +307,16 @@
           "wordCount": 2257,
           "title": "Celtic announce contract extension for defender till 2025 - The Celtic Bhoys",
           "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1342709903.jpeg"
+        },
+        {
+          "id": "CBMicGh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3Mva3lvZ28tZnVydWhhc2hpLWZlYXR1cmVkLWluLWdsb3NzeS1uZXctZmlmYS1kb2N1bWVudGFyeS1sYXVkcy1jZWx0aWMtc3VwcG9ydGVycy_SAXRodHRwczovL3d3dy42N2hhaWxoYWlsLmNvbS9uZXdzL2t5b2dvLWZ1cnVoYXNoaS1mZWF0dXJlZC1pbi1nbG9zc3ktbmV3LWZpZmEtZG9jdW1lbnRhcnktbGF1ZHMtY2VsdGljLXN1cHBvcnRlcnMvP2FtcA",
+          "author": null,
+          "description": "Kyogo Furuhashi featured in glossy new FIFA documentary; lauds Celtic supporters  67 Hail Hail - Celtic FC News",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMicGh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3Mva3lvZ28tZnVydWhhc2hpLWZlYXR1cmVkLWluLWdsb3NzeS1uZXctZmlmYS1kb2N1bWVudGFyeS1sYXVkcy1jZWx0aWMtc3VwcG9ydGVycy_SAXRodHRwczovL3d3dy42N2hhaWxoYWlsLmNvbS9uZXdzL2t5b2dvLWZ1cnVoYXNoaS1mZWF0dXJlZC1pbi1nbG9zc3ktbmV3LWZpZmEtZG9jdW1lbnRhcnktbGF1ZHMtY2VsdGljLXN1cHBvcnRlcnMvP2FtcA?oc=5",
+          "publishedOn": "2023-01-17T18:40:00.000Z",
+          "wordCount": 1847,
+          "title": "Kyogo Furuhashi featured in glossy new FIFA documentary; lauds Celtic supporters - 67 Hail Hail - Celtic FC News",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/01/GettyImages-1245939036-1.jpg"
         },
         {
           "id": "CBMihQFodHRwczovL3d3dy42N2hhaWxoYWlsLmNvbS9jZWx0aWMteW91dGgvYW5nZS1wb3N0ZWNvZ2xvdXMtcHJvbWlzaW5nLWZpcnN0LXRlYW0tdGltZWxpbmUtZm9yLWNlbHRpYy10YWxlbnRzLWNvbWluZy10aHJvdWdoLWxlbm5veHRvd24v0gGJAWh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL2NlbHRpYy15b3V0aC9hbmdlLXBvc3RlY29nbG91cy1wcm9taXNpbmctZmlyc3QtdGVhbS10aW1lbGluZS1mb3ItY2VsdGljLXRhbGVudHMtY29taW5nLXRocm91Z2gtbGVubm94dG93bi8_YW1w",
@@ -329,6 +359,16 @@
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/01/GettyImages-1432608422-scaled-e1673976659759.jpg"
         },
         {
+          "id": "CBMiZ2h0dHBzOi8vd3d3LmNlbHRpY3dheS5jby51ay9uZXdzLzIzMjU3NjExLmhha3NhYmFvdmljcy1jZWx0aWMtcmV0dXJuLW5vLXRyYW5zZmVyLXBhbmljLS0tcG9zdGVjb2dsb3UtcS_SAQA",
+          "author": null,
+          "description": "Sead Haksabaovic's return and no transfer panic - Ange ...  Celtic Way",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiZ2h0dHBzOi8vd3d3LmNlbHRpY3dheS5jby51ay9uZXdzLzIzMjU3NjExLmhha3NhYmFvdmljcy1jZWx0aWMtcmV0dXJuLW5vLXRyYW5zZmVyLXBhbmljLS0tcG9zdGVjb2dsb3UtcS_SAQA?oc=5",
+          "publishedOn": "2023-01-17T17:02:00.000Z",
+          "wordCount": 10715,
+          "title": "Sead Haksabaovic's return and no transfer panic - Ange ... - Celtic Way",
+          "imageUrl": "https://www.celticway.co.uk/resources/images/16364944/?type=og-image"
+        },
+        {
           "id": "CBMiNmh0dHBzOi8vd3d3LmNlbHRpY3F1aWNrbmV3cy5jby51ay9zdHJpa2VyLW9uLXN0YW5kLWJ5L9IBOmh0dHBzOi8vd3d3LmNlbHRpY3F1aWNrbmV3cy5jby51ay9zdHJpa2VyLW9uLXN0YW5kLWJ5L2FtcC8",
           "author": null,
           "description": "STRIKER ON STAND-BY  Celtic Quick News",
@@ -357,6 +397,16 @@
           "wordCount": 8241,
           "title": "WATCH: Celtic loanee Vasilis Barkas makes superb point-blank save - Celtic Way",
           "imageUrl": "https://www.celticway.co.uk/resources/images/16360410/?type=og-image"
+        },
+        {
+          "id": "CBMiPWh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9jZWx0aWMtc3Rhci1taXNzaW5nLWZyb20tdHJhaW5pbmctMi_SAUFodHRwczovL2NlbHRzYXJlaGVyZS5jb20vY2VsdGljLXN0YXItbWlzc2luZy1mcm9tLXRyYWluaW5nLTIvYW1wLw",
+          "author": null,
+          "description": "Celtic Star Missing From Training | Celts Are Here  CeltsAreHere",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiPWh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9jZWx0aWMtc3Rhci1taXNzaW5nLWZyb20tdHJhaW5pbmctMi_SAUFodHRwczovL2NlbHRzYXJlaGVyZS5jb20vY2VsdGljLXN0YXItbWlzc2luZy1mcm9tLXRyYWluaW5nLTIvYW1wLw?oc=5",
+          "publishedOn": "2023-01-17T16:00:02.000Z",
+          "wordCount": 15009,
+          "title": "Celtic Star Missing From Training | Celts Are Here - CeltsAreHere",
+          "imageUrl": "https://cdn.celtsarehere.com/wp-content/uploads/2022/10/2022-07-31T171656Z_1933680151_UP1EI7V1C07WO_RTRMADP_3_SOCCER-SCOTLAND-CEL-ABE-REPORT-scaled.jpg"
         },
         {
           "id": "CBMiY2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvZGVyZWstbWNpbm5lcy1ibGFzdHMtc2ZhLWNlbHRpYy0yODk3Njg0OdIBZ2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvZGVyZWstbWNpbm5lcy1ibGFzdHMtc2ZhLWNlbHRpYy0yODk3Njg0OS5hbXA",
@@ -1317,96 +1367,6 @@
           "wordCount": 3360,
           "title": "Moritz Jenz desperate for permanent Celtic transfer as he reveals the Real Madrid trait Parkhead possesses - Daily Record",
           "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28947791.ece/ALTERNATES/s1200/0_Celtic-FC-Media-Access.jpg"
-        },
-        {
-          "id": "CBMiU2h0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2NocmlzLXN1dHRvbi1haW1zLXJhbmdlcnMtZGlnLTI1OTY5Mzgw0gFXaHR0cHM6Ly93d3cuZ2xhc2dvd2xpdmUuY28udWsvc3BvcnQvZm9vdGJhbGwvY2hyaXMtc3V0dG9uLWFpbXMtcmFuZ2Vycy1kaWctMjU5NjkzODAuYW1w",
-          "author": null,
-          "description": "Chris Sutton aims Rangers dig as Celtic hero issues North London derby 'lifetime ban' quip  Glasgow Live",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiU2h0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2NocmlzLXN1dHRvbi1haW1zLXJhbmdlcnMtZGlnLTI1OTY5Mzgw0gFXaHR0cHM6Ly93d3cuZ2xhc2dvd2xpdmUuY28udWsvc3BvcnQvZm9vdGJhbGwvY2hyaXMtc3V0dG9uLWFpbXMtcmFuZ2Vycy1kaWctMjU5NjkzODAuYW1w?oc=5",
-          "publishedOn": "2023-01-13T12:22:17.000Z",
-          "wordCount": 3295,
-          "title": "Chris Sutton aims Rangers dig as Celtic hero issues North London derby 'lifetime ban' quip - Glasgow Live",
-          "imageUrl": "https://i2-prod.glasgowlive.co.uk/incoming/article25872453.ece/ALTERNATES/s1200/0_JS282692357.jpg"
-        },
-        {
-          "id": "CBMiaGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvcmFuZ2Vycy1wdW50ZXJzLXNsYW0tY2FsbHVtLW1jZ3JlZ29yLTI4OTQ1OTAy0gFsaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvZm9vdGJhbGwtbmV3cy9yYW5nZXJzLXB1bnRlcnMtc2xhbS1jYWxsdW0tbWNncmVnb3ItMjg5NDU5MDIuYW1w",
-          "author": null,
-          "description": "Rangers punters slam Callum McGregor as Celtic fans warned to exit conspiracy corner NOW – Hotline  Daily Record",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiaGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvcmFuZ2Vycy1wdW50ZXJzLXNsYW0tY2FsbHVtLW1jZ3JlZ29yLTI4OTQ1OTAy0gFsaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvZm9vdGJhbGwtbmV3cy9yYW5nZXJzLXB1bnRlcnMtc2xhbS1jYWxsdW0tbWNncmVnb3ItMjg5NDU5MDIuYW1w?oc=5",
-          "publishedOn": "2023-01-13T12:15:00.000Z",
-          "wordCount": 3690,
-          "title": "Rangers punters slam Callum McGregor as Celtic fans warned to exit conspiracy corner NOW – Hotline - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28940521.ece/ALTERNATES/s1200/0_Screenshot-2023-01-12-at-163241.png"
-        },
-        {
-          "id": "CBMibGh0dHBzOi8vd3d3LmhpdGMuY29tL2VuLWdiLzIwMjMvMDEvMTMvc291dGhhbXB0b24tdHJhbnNmZXItbmV3cy1jZWx0aWMtc3Rhci1pcy1wbGFuLWItdG8tMjVtLWV2ZXJ0b24tdGFyZ2V0L9IBcGh0dHBzOi8vd3d3LmhpdGMuY29tL2VuLWdiLzIwMjMvMDEvMTMvc291dGhhbXB0b24tdHJhbnNmZXItbmV3cy1jZWx0aWMtc3Rhci1pcy1wbGFuLWItdG8tMjVtLWV2ZXJ0b24tdGFyZ2V0Lz9hbXA",
-          "author": null,
-          "description": "Southampton transfer news: Celtic star is Plan-B to £25m Everton target  HITC - Football, Gaming, Movies, TV, Music",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMibGh0dHBzOi8vd3d3LmhpdGMuY29tL2VuLWdiLzIwMjMvMDEvMTMvc291dGhhbXB0b24tdHJhbnNmZXItbmV3cy1jZWx0aWMtc3Rhci1pcy1wbGFuLWItdG8tMjVtLWV2ZXJ0b24tdGFyZ2V0L9IBcGh0dHBzOi8vd3d3LmhpdGMuY29tL2VuLWdiLzIwMjMvMDEvMTMvc291dGhhbXB0b24tdHJhbnNmZXItbmV3cy1jZWx0aWMtc3Rhci1pcy1wbGFuLWItdG8tMjVtLWV2ZXJ0b24tdGFyZ2V0Lz9hbXA?oc=5",
-          "publishedOn": "2023-01-13T12:00:00.000Z",
-          "wordCount": 2453,
-          "title": "Southampton transfer news: Celtic star is Plan-B to £25m Everton target - HITC - Football, Gaming, Movies, TV, Music",
-          "imageUrl": "https://www.hitc.com/static/uploads/2023/01/GettyImages-1245936073-scaled.jpg"
-        },
-        {
-          "id": "CBMiV2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL3JlYWwtbWFkcmlkLWV4dHJhLWNlbHRpYy1ob21ld29yay0yODk0NjAwMtIBW2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL3JlYWwtbWFkcmlkLWV4dHJhLWNlbHRpYy1ob21ld29yay0yODk0NjAwMi5hbXA",
-          "author": null,
-          "description": "Real Madrid and the extra Celtic homework by Courtois which left Juranovic with head in his hands  Daily Record",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiV2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL3JlYWwtbWFkcmlkLWV4dHJhLWNlbHRpYy1ob21ld29yay0yODk0NjAwMtIBW2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL3JlYWwtbWFkcmlkLWV4dHJhLWNlbHRpYy1ob21ld29yay0yODk0NjAwMi5hbXA?oc=5",
-          "publishedOn": "2023-01-13T11:40:25.000Z",
-          "wordCount": 3373,
-          "title": "Real Madrid and the extra Celtic homework by Courtois which left Juranovic with head in his hands - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28945850.ece/ALTERNATES/s1200/0_Real-Madrid-v-Celtic-FC-Group-F-UEFA-Champions-League.jpg"
-        },
-        {
-          "id": "CBMiaGh0dHBzOi8vd3d3LmNlbHRpY3dheS5jby51ay9uZXdzLzIzMjQ4Mzc2LnRpZXJuZXktb2ZmZXJlZC1hcnNlbmFsLXRyYW5zZmVyLWFkdmljZS1hbWlkLXppbmNoZW5rby1iYXR0bGUv0gEA",
-          "author": null,
-          "description": "Kieran Tierney offered Arsenal transfer advice amid Zinchenko battle  Celtic Way",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiaGh0dHBzOi8vd3d3LmNlbHRpY3dheS5jby51ay9uZXdzLzIzMjQ4Mzc2LnRpZXJuZXktb2ZmZXJlZC1hcnNlbmFsLXRyYW5zZmVyLWFkdmljZS1hbWlkLXppbmNoZW5rby1iYXR0bGUv0gEA?oc=5",
-          "publishedOn": "2023-01-13T11:37:32.000Z",
-          "wordCount": 8299,
-          "title": "Kieran Tierney offered Arsenal transfer advice amid Zinchenko battle - Celtic Way",
-          "imageUrl": "https://www.celticway.co.uk/resources/images/16105589/?type=og-image"
-        },
-        {
-          "id": "CBMiWGh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9qb3NpcC1qdXJhbm92aWMtZGVhbHQtbWFuY2hlc3Rlci11bml0ZWQtMjU5Njg3OTHSAVxodHRwczovL3d3dy5mb290YmFsbHNjb3RsYW5kLmNvLnVrL3NwZmwvam9zaXAtanVyYW5vdmljLWRlYWx0LW1hbmNoZXN0ZXItdW5pdGVkLTI1OTY4NzkxLmFtcA",
-          "author": null,
-          "description": "Josip Juranovic dealt Manchester United transfer blow as Celtic star’s Premier League pathway blocked  Football Scotland\nEnglish Premier League Club Enter Celtic Juranovic Race | Celts Are Here  CeltsAreHere\nJosip Juranovic given Manchester United transfer request as Celtic star urged to 'wait'  Football Scotland",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiWGh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9qb3NpcC1qdXJhbm92aWMtZGVhbHQtbWFuY2hlc3Rlci11bml0ZWQtMjU5Njg3OTHSAVxodHRwczovL3d3dy5mb290YmFsbHNjb3RsYW5kLmNvLnVrL3NwZmwvam9zaXAtanVyYW5vdmljLWRlYWx0LW1hbmNoZXN0ZXItdW5pdGVkLTI1OTY4NzkxLmFtcA?oc=5",
-          "publishedOn": "2023-01-13T11:29:50.000Z",
-          "wordCount": 2555,
-          "title": "Josip Juranovic dealt Manchester United transfer blow as Celtic star’s Premier League pathway blocked - Football Scotland",
-          "imageUrl": "https://i2-prod.footballscotland.co.uk/incoming/article25879633.ece/ALTERNATES/s1200/0_20645141.jpg"
-        },
-        {
-          "id": "CBMiXmh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vZm9ybWFsLWFkdmljZS1vdmVyLXJ1bGUtYW5kLXRoZXktc2F5LWNlbHRpYy1zdXBwb3J0ZXJzLWFyZS1wYXJhbm9pZC_SAWJodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL2Zvcm1hbC1hZHZpY2Utb3Zlci1ydWxlLWFuZC10aGV5LXNheS1jZWx0aWMtc3VwcG9ydGVycy1hcmUtcGFyYW5vaWQvYW1wLw",
-          "author": null,
-          "description": "‘Formal Advice’ Over-rule and they say Celtic Supporters are Paranoid  The Celtic Star",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiXmh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vZm9ybWFsLWFkdmljZS1vdmVyLXJ1bGUtYW5kLXRoZXktc2F5LWNlbHRpYy1zdXBwb3J0ZXJzLWFyZS1wYXJhbm9pZC_SAWJodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL2Zvcm1hbC1hZHZpY2Utb3Zlci1ydWxlLWFuZC10aGV5LXNheS1jZWx0aWMtc3VwcG9ydGVycy1hcmUtcGFyYW5vaWQvYW1wLw?oc=5",
-          "publishedOn": "2023-01-13T11:17:27.000Z",
-          "wordCount": 2323,
-          "title": "‘Formal Advice’ Over-rule and they say Celtic Supporters are Paranoid - The Celtic Star",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/08/image-41.jpeg"
-        },
-        {
-          "id": "CBMia2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvbHViby1tb3JhdmljaWstYWJlcmRlZW4tc2NvdXRpbmctcmVwb3J0LTI4OTQ1NDU30gFvaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvZm9vdGJhbGwtbmV3cy9sdWJvLW1vcmF2aWNpay1hYmVyZGVlbi1zY291dGluZy1yZXBvcnQtMjg5NDU0NTcuYW1w",
-          "author": null,
-          "description": "Lubo Moravcik in Aberdeen scouting report as Celtic icon makes giddy Patrik Myslovic prediction  Daily Record",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMia2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvbHViby1tb3JhdmljaWstYWJlcmRlZW4tc2NvdXRpbmctcmVwb3J0LTI4OTQ1NDU30gFvaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvZm9vdGJhbGwtbmV3cy9sdWJvLW1vcmF2aWNpay1hYmVyZGVlbi1zY291dGluZy1yZXBvcnQtMjg5NDU0NTcuYW1w?oc=5",
-          "publishedOn": "2023-01-13T11:04:10.000Z",
-          "wordCount": 3493,
-          "title": "Lubo Moravcik in Aberdeen scouting report as Celtic icon makes giddy Patrik Myslovic prediction - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28945406.ece/ALTERNATES/s1200/230108_patrik_myslovixc_message_web_header-1024x573.jpg"
-        },
-        {
-          "id": "CBMihAFodHRwczovL3RoZWNlbHRpY2Jsb2cuY29tLzIwMjMvMDEvYXJ0aWNsZXMtYW5kLWZlYXR1cmVzL21hbmNoZXN0ZXItdXRkLXdvdWxkLWJlLWEtYmV0dGVyLWRlYWwtZm9yLWp1cmFub3ZpYy1hbmQtZnJvbS1jZWx0aWMtYXMtd2VsbC_SAYgBaHR0cHM6Ly90aGVjZWx0aWNibG9nLmNvbS8yMDIzLzAxL2FydGljbGVzLWFuZC1mZWF0dXJlcy9tYW5jaGVzdGVyLXV0ZC13b3VsZC1iZS1hLWJldHRlci1kZWFsLWZvci1qdXJhbm92aWMtYW5kLWZyb20tY2VsdGljLWFzLXdlbGwvYW1wLw",
-          "author": null,
-          "description": "Manchester Utd Would Be A Better Deal For Juranovic And For Celtic As Well.  TheCelticBlog.com",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMihAFodHRwczovL3RoZWNlbHRpY2Jsb2cuY29tLzIwMjMvMDEvYXJ0aWNsZXMtYW5kLWZlYXR1cmVzL21hbmNoZXN0ZXItdXRkLXdvdWxkLWJlLWEtYmV0dGVyLWRlYWwtZm9yLWp1cmFub3ZpYy1hbmQtZnJvbS1jZWx0aWMtYXMtd2VsbC_SAYgBaHR0cHM6Ly90aGVjZWx0aWNibG9nLmNvbS8yMDIzLzAxL2FydGljbGVzLWFuZC1mZWF0dXJlcy9tYW5jaGVzdGVyLXV0ZC13b3VsZC1iZS1hLWJldHRlci1kZWFsLWZvci1qdXJhbm92aWMtYW5kLWZyb20tY2VsdGljLWFzLXdlbGwvYW1wLw?oc=5",
-          "publishedOn": "2023-01-13T10:30:00.000Z",
-          "wordCount": 2403,
-          "title": "Manchester Utd Would Be A Better Deal For Juranovic And For Celtic As Well. - TheCelticBlog.com",
-          "imageUrl": null
         }
       ]
     },
@@ -1415,6 +1375,26 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "beafda1d8aaace2e6a749e3a3c5de7a7",
+          "author": null,
+          "description": "Scottish football's governing bodies insist they will have it in better condition for the Viaplay Cup final.",
+          "link": "https://www.glasgowtimes.co.uk/sport/celtic/23257949.celtic-boss-ange-postecoglou-welcomes-hampden-pitch-pledge/?ref=rss",
+          "publishedOn": "2023-01-17T22:45:00.000Z",
+          "wordCount": 10348,
+          "title": "Celtic boss Ange Postecoglou welcomes Hampden pitch pledge",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16365400/?type=og-image"
+        },
+        {
+          "id": "1e0b42db136916d610d7cb9d6f376e96",
+          "author": null,
+          "description": "The Aussie insists that a plan is in place to replace any one of his players who leaves.",
+          "link": "https://www.glasgowtimes.co.uk/sport/celtic/23257518.postecoglou-contingency-plans-giakoumakis-nears-celtic-exit/?ref=rss",
+          "publishedOn": "2023-01-17T22:30:00.000Z",
+          "wordCount": 8506,
+          "title": "Postecoglou on contingency plans as Giakoumakis nears Celtic exit",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16220985/?type=og-image"
+        },
         {
           "id": "ba469e89fae62eaf620d8dc966c3e6cd",
           "author": null,
@@ -2004,36 +1984,6 @@
           "wordCount": 9465,
           "title": "Postecoglou provides Celtic injury update ahead of Kilmarnock clash",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16300083/?type=og-image"
-        },
-        {
-          "id": "4bd2d0696fb3e114e52b7228812853c3",
-          "author": null,
-          "description": "The Celtic hero hit back at a Spurs fan on Twitter in his usual jovial fashion.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23248709.chris-sutton-laughs-off-spurs-lifetime-ban-rangers-response/?ref=rss",
-          "publishedOn": "2023-01-13T12:49:43.000Z",
-          "wordCount": 8520,
-          "title": "Chris Sutton laughs off Spurs 'lifetime ban' with Rangers response",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16351969/?type=og-image"
-        },
-        {
-          "id": "f855b1fdc2d0c0550b1a7b546af46316",
-          "author": null,
-          "description": "Bacary Sagna has urged Kieran Tierney to stay at Arsenal.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23248376.tierney-offered-arsenal-transfer-advice-amid-zinchenko-battle/?ref=rss",
-          "publishedOn": "2023-01-13T11:37:32.000Z",
-          "wordCount": 8445,
-          "title": "Tierney offered Arsenal transfer advice amid Zinchenko battle",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16105589/?type=og-image"
-        },
-        {
-          "id": "bcf1fb4080bc297044369f243025071e",
-          "author": null,
-          "description": "The Hoops lead the race to sign the South Korean World Cup star ahead of MLS side Minnesota United and Bundesliga outfit Mainz.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23248159.cho-gue-sung-transfer-exit-hint-boss-addresses-celtic-target/?ref=rss",
-          "publishedOn": "2023-01-13T10:47:23.000Z",
-          "wordCount": 8419,
-          "title": "Cho Gue-sung transfer exit hint as boss addresses Celtic target",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16351267/?type=og-image"
         }
       ]
     }
