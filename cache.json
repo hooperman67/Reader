@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "3992858",
+          "author": "Joel Sked",
+          "description": "Celtic will face Rangers in the Viaplay Cup final at the end of February, meaning two Premiership fixtures have been postponed.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtic-v-hearts-and-hibs-v-rangers-premiership-fixtures-postponed-when-they-could-be-played-3992858",
+          "publishedOn": "2023-01-19T10:27:43.000Z",
+          "wordCount": null,
+          "title": "Celtic v Hearts and Hibs v Rangers Premiership fixtures postponed - when they could be played",
+          "imageUrl": null
+        },
+        {
           "id": "3992666",
           "author": "Andrew Smith",
           "description": "Celtic’s 4-0 home thumping of St Mirren prompted some fascinating facts when goal digging into the Scottish champions’ league campaign.",
@@ -244,36 +254,6 @@
           "wordCount": null,
           "title": "What channel is Rangers v Aberdeen on? Viaplay Cup semi-final kick-off time, TV details, referee and VAR officials",
           "imageUrl": null
-        },
-        {
-          "id": "3987357",
-          "author": "Andrew Smith",
-          "description": "Rangers manager Michael Beale concedes it is “unthinkable” for his club not to win a trophy this season when he considers the possible result of such failure.",
-          "link": "https://www.scotsman.com/sport/football/rangers/rangers-manager-michael-beales-celtic-treble-fear-its-unthinkable-for-us-not-to-win-a-trophy-3987357",
-          "publishedOn": "2023-01-14T22:30:00.000Z",
-          "wordCount": null,
-          "title": "Rangers manager Michael Beale's Celtic treble fear - 'it's unthinkable for us not to win a trophy'",
-          "imageUrl": null
-        },
-        {
-          "id": "3987357",
-          "author": "Andrew Smith",
-          "description": "Rangers manager Michael Beale concedes it is “unthinkable” for his club not to win a trophy this season when he considers the possible result of such failure.",
-          "link": "https://www.scotsman.com/sport/football/rangers/rangers-manager-michael-beales-celtic-treble-fear-unthinkable-for-us-not-to-win-a-trophy-3987357",
-          "publishedOn": "2023-01-14T22:30:00.000Z",
-          "wordCount": null,
-          "title": "Rangers manager Michael Beale's Celtic treble fear - 'unthinkable for us not to win a trophy'",
-          "imageUrl": null
-        },
-        {
-          "id": "3987346",
-          "author": "Andrew Smith",
-          "description": "It may be tempting to suggest, in heavy weather, that this is precisely what Celtic made of claiming a place in the Viaplay League Cup final.",
-          "link": "https://www.scotsman.com/sport/football/celtic/how-kilmarnock-destabilised-celtic-in-rare-struggle-for-ange-postecoglous-side-at-hampden-3987346",
-          "publishedOn": "2023-01-14T21:35:29.000Z",
-          "wordCount": null,
-          "title": "How Kilmarnock destabilised Celtic in rare struggle for Ange Postecoglou's side at Hampden",
-          "imageUrl": null
         }
       ]
     },
@@ -288,6 +268,26 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CBMiaGh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zY290dGlzaC1wcmVtaWVyc2hpcC8xOC1jZWx0aWMtdHJhbnNmZXJzLW1vdXlva29sby1rYXBvLTI0MjMxMjY00gFsaHR0cHM6Ly93d3cuZm9vdGJhbGxzY290bGFuZC5jby51ay9zcGZsL3Njb3R0aXNoLXByZW1pZXJzaGlwLzE4LWNlbHRpYy10cmFuc2ZlcnMtbW91eW9rb2xvLWthcG8tMjQyMzEyNjQuYW1w",
+          "author": null,
+          "description": "The 18 Celtic transfers you probably forgot happened including Steven Mouyokolo and Olivier Kapo  Football Scotland",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiaGh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zY290dGlzaC1wcmVtaWVyc2hpcC8xOC1jZWx0aWMtdHJhbnNmZXJzLW1vdXlva29sby1rYXBvLTI0MjMxMjY00gFsaHR0cHM6Ly93d3cuZm9vdGJhbGxzY290bGFuZC5jby51ay9zcGZsL3Njb3R0aXNoLXByZW1pZXJzaGlwLzE4LWNlbHRpYy10cmFuc2ZlcnMtbW91eW9rb2xvLWthcG8tMjQyMzEyNjQuYW1w?oc=5",
+          "publishedOn": "2023-01-19T11:42:00.000Z",
+          "wordCount": 3902,
+          "title": "The 18 Celtic transfers you probably forgot happened including Steven Mouyokolo and Olivier Kapo - Football Scotland",
+          "imageUrl": "https://i2-prod.footballscotland.co.uk/incoming/article24231501.ece/ALTERNATES/s1200/1_8742739.jpg"
+        },
+        {
+          "id": "CBMiUGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vaXRzLXRpbWUtdG8taW50cm9kdWNlLWEtY2VsdGljLXRpY2tldC1leGNoYW5nZS1zY2hlbWUv0gFUaHR0cHM6Ly90aGVjZWx0aWNzdGFyLmNvbS9pdHMtdGltZS10by1pbnRyb2R1Y2UtYS1jZWx0aWMtdGlja2V0LWV4Y2hhbmdlLXNjaGVtZS9hbXAv",
+          "author": null,
+          "description": "It’s Time to Introduce a Celtic Ticket Exchange Scheme  The Celtic Star",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiUGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vaXRzLXRpbWUtdG8taW50cm9kdWNlLWEtY2VsdGljLXRpY2tldC1leGNoYW5nZS1zY2hlbWUv0gFUaHR0cHM6Ly90aGVjZWx0aWNzdGFyLmNvbS9pdHMtdGltZS10by1pbnRyb2R1Y2UtYS1jZWx0aWMtdGlja2V0LWV4Y2hhbmdlLXNjaGVtZS9hbXAv?oc=5",
+          "publishedOn": "2023-01-19T10:12:35.000Z",
+          "wordCount": 1763,
+          "title": "It’s Time to Introduce a Celtic Ticket Exchange Scheme - The Celtic Star",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2023/01/celtic-fc-v-st-mirren-fc-cinch-scottish-premiership-60-1-1024x683.jpg"
+        },
         {
           "id": "CBMiamh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvYWxhbi1icmF6aWwtcmluc2VzLXJhbmdlcnMtY29tbWVudGF0b3ItMjg5OTM5NjXSAW5odHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL2FsYW4tYnJhemlsLXJpbnNlcy1yYW5nZXJzLWNvbW1lbnRhdG9yLTI4OTkzOTY1LmFtcA",
           "author": null,
@@ -367,6 +367,16 @@
           "wordCount": 795,
           "title": "Ange, Celtic ‘making it look easy’ as striker continues stunning streak in latest rout - Fox Sports",
           "imageUrl": "https://content.api.news/v3/images/bin/fc1fbcae79afbdcce7b4f3d18a51d502"
+        },
+        {
+          "id": "CBMiTmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2NlbHRpYy12cy1zdC1taXJyZW4tbGl2ZS0yODk5MDIwMdIBAA",
+          "author": null,
+          "description": "Celtic 4 St Mirren 0 LIVE reaction as Ange's champions turn on the ...  Daily Record",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiTmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2NlbHRpYy12cy1zdC1taXJyZW4tbGl2ZS0yODk5MDIwMdIBAA?oc=5",
+          "publishedOn": "2023-01-18T21:39:49.000Z",
+          "wordCount": 7532,
+          "title": "Celtic 4 St Mirren 0 LIVE reaction as Ange's champions turn on the ... - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28790722.ece/ALTERNATES/s1200/0_Celtic-FC-v-Livingston-FC-Cinch-Scottish-Premiership.jpg"
         },
         {
           "id": "CBMicmh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL21hdGNoL3l1a2ktZGVidXQtdmVyZGljdC1reW9nby1jb25maWRlbmNlLTMtdGhpbmdzLXdlLWxlYXJuZWQtYXMtY2VsdGljLXJvdXQtc3QtbWlycmVuL9IBdmh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL21hdGNoL3l1a2ktZGVidXQtdmVyZGljdC1reW9nby1jb25maWRlbmNlLTMtdGhpbmdzLXdlLWxlYXJuZWQtYXMtY2VsdGljLXJvdXQtc3QtbWlycmVuLz9hbXA",
@@ -1187,16 +1197,6 @@
           "wordCount": 4374,
           "title": "Alan Maybury reveals how Celtic insights from old pal Harry Kewell are helping FC Edinburgh's title push - Daily Record",
           "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28953633.ece/ALTERNATES/s1200/0_GettyImages-1228863387jpgd.jpg"
-        },
-        {
-          "id": "CBMiWWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2FuZ2UtcG9zdGVjb2dsb3UtaGFuZHMtY2VsdGljLWx1Y2t5LTI4OTU3MDk00gFdaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvYW5nZS1wb3N0ZWNvZ2xvdS1oYW5kcy1jZWx0aWMtbHVja3ktMjg5NTcwOTQuYW1w",
-          "author": null,
-          "description": "Ange Postecoglou in Celtic response to Michael Beale 'lucky man' comment  Daily Record",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiWWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2FuZ2UtcG9zdGVjb2dsb3UtaGFuZHMtY2VsdGljLWx1Y2t5LTI4OTU3MDk00gFdaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvYW5nZS1wb3N0ZWNvZ2xvdS1oYW5kcy1jZWx0aWMtbHVja3ktMjg5NTcwOTQuYW1w?oc=5",
-          "publishedOn": "2023-01-14T22:44:32.000Z",
-          "wordCount": 3223,
-          "title": "Ange Postecoglou in Celtic response to Michael Beale 'lucky man' comment - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28957106.ece/ALTERNATES/s1200/0_Celtic-v-Kilmarnock-Viaplay-Cup.jpg"
         }
       ]
     },
@@ -1205,6 +1205,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "b1c300c0b8fa9e1900f8ddd1567e79e9",
+          "author": null,
+          "description": "Ladislav Almasi will remain at Banik Ostrava this season.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23261820.almasi-celtic-transfer-ruled-czech-club-claim-no-contact/?ref=rss",
+          "publishedOn": "2023-01-19T11:29:29.000Z",
+          "wordCount": 9734,
+          "title": "Almasi to Celtic transfer ruled out as Czech club claim 'no contact'",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16370860/?type=og-image"
+        },
         {
           "id": "2f6fcdcd594e1897610bb3d6d451024d",
           "author": null,
