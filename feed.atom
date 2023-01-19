@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-01-19T18:24:09.366Z</updated>
+    <updated>2023-01-19T21:16:35.516Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Scottish Cup fifth round draw: When is it, TV channel & live stream?]]></title>
+        <id>666ca538c1fa96f399d61edfa5820524</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23263735.scottish-cup-fifth-round-draw-tv-channel-live-stream/?ref=rss"/>
+        <updated>2023-01-19T20:18:32.000Z</updated>
+        <summary type="html"><![CDATA[The 32 teams remaining in the competition can begin to dream of writing their name into history this weekend.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rangers & Celtic VAR potential flashpoint detailed amid IFAB trial]]></title>
+        <id>2ef1a769e17769af661045cfcf2852e8</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23263509.rangers-celtic-var-potential-flashpoint-detailed-amid-ifab-trial/?ref=rss"/>
+        <updated>2023-01-19T18:06:00.000Z</updated>
+        <summary type="html"><![CDATA[Football's lawmakers have confirmed the move for the FIFA Club World Cup in Morocco next month.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic midfielder 'undergoes medical' at  English League One club]]></title>
         <id>8da36ce88061c185dc476b7db0bab158</id>
@@ -14,6 +34,16 @@
         <summary type="html"><![CDATA[The 21-year-old has had limited game time this season]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NEW BHOY’S A CITY SLICKER - Celtic Quick News]]></title>
+        <id>CBMiO2h0dHBzOi8vd3d3LmNlbHRpY3F1aWNrbmV3cy5jby51ay9uZXctYmhveXMtYS1jaXR5LXNsaWNrZXIv0gE_aHR0cHM6Ly93d3cuY2VsdGljcXVpY2tuZXdzLmNvLnVrL25ldy1iaG95cy1hLWNpdHktc2xpY2tlci9hbXAv</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiO2h0dHBzOi8vd3d3LmNlbHRpY3F1aWNrbmV3cy5jby51ay9uZXctYmhveXMtYS1jaXR5LXNsaWNrZXIv0gE_aHR0cHM6Ly93d3cuY2VsdGljcXVpY2tuZXdzLmNvLnVrL25ldy1iaG95cy1hLWNpdHktc2xpY2tlci9hbXAv?oc=5"/>
+        <updated>2023-01-19T14:04:33.000Z</updated>
+        <summary type="html"><![CDATA[NEW BHOY’S A CITY SLICKER  Celtic Quick News]]></summary>
+        <author>
+            <name>"celtic fc" - Google News</name>
         </author>
     </entry>
     <entry>
@@ -224,6 +254,16 @@
         <summary type="html"><![CDATA[Celtic supporters have worked themselves into a right lather over the inevitable-looking departure of Giorgos Giakoumakis.]]></summary>
         <author>
             <name>Andrew Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ange Postecoglou in 'one more' Celtic transfer admission - Daily Record]]></title>
+        <id>CBMiVmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2FuZ2UtcG9zdGVjb2dsb3Utb25lLW1vcmUtY2VsdGljLTI4OTkyODM00gFaaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvYW5nZS1wb3N0ZWNvZ2xvdS1vbmUtbW9yZS1jZWx0aWMtMjg5OTI4MzQuYW1w</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiVmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2FuZ2UtcG9zdGVjb2dsb3Utb25lLW1vcmUtY2VsdGljLTI4OTkyODM00gFaaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvYW5nZS1wb3N0ZWNvZ2xvdS1vbmUtbW9yZS1jZWx0aWMtMjg5OTI4MzQuYW1w?oc=5"/>
+        <updated>2023-01-18T22:40:36.000Z</updated>
+        <summary type="html"><![CDATA[Ange Postecoglou in 'one more' Celtic transfer admission  Daily Record]]></summary>
+        <author>
+            <name>"celtic fc" - Google News</name>
         </author>
     </entry>
     <entry>
@@ -1828,46 +1868,6 @@ What channel and time is Celtic v Kilmarnock on in the Viaplay Cup semi-final? 
         <summary type="html"><![CDATA[Ange Postecoglou aims second Celtic 'lucky' dig at Rangers boss Michael Beale after Kilmarnock win  Football Scotland]]></summary>
         <author>
             <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maeda’s Reaction To Offside Celtic Goal | Celts Are Here - CeltsAreHere]]></title>
-        <id>CBMiQGh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9tYWVkYXMtcmVhY3Rpb24tdG8tb2Zmc2lkZS1jZWx0aWMtZ29hbC_SAURodHRwczovL2NlbHRzYXJlaGVyZS5jb20vbWFlZGFzLXJlYWN0aW9uLXRvLW9mZnNpZGUtY2VsdGljLWdvYWwvYW1wLw</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiQGh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9tYWVkYXMtcmVhY3Rpb24tdG8tb2Zmc2lkZS1jZWx0aWMtZ29hbC_SAURodHRwczovL2NlbHRzYXJlaGVyZS5jb20vbWFlZGFzLXJlYWN0aW9uLXRvLW9mZnNpZGUtY2VsdGljLWdvYWwvYW1wLw?oc=5"/>
-        <updated>2023-01-15T08:17:00.000Z</updated>
-        <summary type="html"><![CDATA[Maeda’s Reaction To Offside Celtic Goal | Celts Are Here  CeltsAreHere]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ben Davies comes alive in perfect Rangers pair just like Celtic star I have doubts over – Kenny Miller - Daily Record]]></title>
-        <id>CBMiYmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvYmVuLWRhdmllcy1jb21lcy1hbGl2ZS1wZXJmZWN0LTI4OTU0MTE30gFmaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvZm9vdGJhbGwtbmV3cy9iZW4tZGF2aWVzLWNvbWVzLWFsaXZlLXBlcmZlY3QtMjg5NTQxMTcuYW1w</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiYmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvYmVuLWRhdmllcy1jb21lcy1hbGl2ZS1wZXJmZWN0LTI4OTU0MTE30gFmaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvZm9vdGJhbGwtbmV3cy9iZW4tZGF2aWVzLWNvbWVzLWFsaXZlLXBlcmZlY3QtMjg5NTQxMTcuYW1w?oc=5"/>
-        <updated>2023-01-15T07:40:52.000Z</updated>
-        <summary type="html"><![CDATA[Ben Davies comes alive in perfect Rangers pair just like Celtic star I have doubts over – Kenny Miller  Daily Record]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What channel is Rangers v Aberdeen on? When is the match? Viaplay Cup semi-final kick-off time, TV details, referee and VAR officials]]></title>
-        <id>3984498</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/what-channel-is-rangers-v-aberdeen-on-when-is-the-match-viaplay-cup-semi-final-kick-off-time-tv-details-referee-and-var-officials-3984498"/>
-        <updated>2023-01-15T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Rangers and Aberdeen go head-to-head at Hampden Park on Sunday for a place in the Viaplay Cup final.]]></summary>
-        <author>
-            <name>Matthew Elder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What channel is Rangers v Aberdeen on? Viaplay Cup semi-final kick-off time, TV details, referee and VAR officials]]></title>
-        <id>3984498</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/what-channel-is-rangers-v-aberdeen-on-viaplay-cup-semi-final-kick-off-time-tv-details-referee-and-var-officials-3984498"/>
-        <updated>2023-01-15T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Rangers and Aberdeen go head-to-head at Hampden Park on Sunday for a place in the Viaplay Cup final.]]></summary>
-        <author>
-            <name>Matthew Elder</name>
         </author>
     </entry>
 </feed>
