@@ -309,6 +309,16 @@
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
         {
+          "id": "CBMiYWh0dHBzOi8vd3d3LnNjb3R0aXNoZGFpbHlleHByZXNzLmNvLnVrL25ld3Mvc2NvdHRpc2gtbmV3cy9ib3lzLWNsdWItc3Vydml2b3Itc2F5cy1jZWx0aWMtMjg5Nzc2NTLSAQA",
+          "author": null,
+          "description": "Boys Club survivor says Celtic FC could face civil lawsuits from USA and Aus  Scottish Daily Express",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiYWh0dHBzOi8vd3d3LnNjb3R0aXNoZGFpbHlleHByZXNzLmNvLnVrL25ld3Mvc2NvdHRpc2gtbmV3cy9ib3lzLWNsdWItc3Vydml2b3Itc2F5cy1jZWx0aWMtMjg5Nzc2NTLSAQA?oc=5",
+          "publishedOn": "2023-01-19T00:01:00.000Z",
+          "wordCount": 3116,
+          "title": "Boys Club survivor says Celtic FC could face civil lawsuits from USA and Aus - Scottish Daily Express",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article25955489.ece/ALTERNATES/s1200/3_ERzSdiKXkAAk7ML.jpg"
+        },
+        {
           "id": "CBMiYWh0dHBzOi8vd3d3LnNjb3R0aXNoZGFpbHlleHByZXNzLmNvLnVrL25ld3Mvc2NvdHRpc2gtbmV3cy9ib3lzLWNsdWItc3Vydml2b3Itc2F5cy1jZWx0aWMtMjg5Nzc2NTLSAWVodHRwczovL3d3dy5zY290dGlzaGRhaWx5ZXhwcmVzcy5jby51ay9uZXdzL3Njb3R0aXNoLW5ld3MvYm95cy1jbHViLXN1cnZpdm9yLXNheXMtY2VsdGljLTI4OTc3NjUyLmFtcA",
           "author": null,
           "description": "Boys Club survivor says Celtic FC could face civil lawsuits from USA and Australia  Scottish Daily Express",
@@ -317,6 +327,16 @@
           "wordCount": 3149,
           "title": "Boys Club survivor says Celtic FC could face civil lawsuits from USA and Australia - Scottish Daily Express",
           "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article25955489.ece/ALTERNATES/s1200/3_ERzSdiKXkAAk7ML.jpg"
+        },
+        {
+          "id": "CBMiXmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2dpb3Jnb3MtZ2lha291bWFraXMtY2VsdGljLXRyYW5zZmVyLWV4aXQtMjg5OTMzOTfSAWJodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9naW9yZ29zLWdpYWtvdW1ha2lzLWNlbHRpYy10cmFuc2Zlci1leGl0LTI4OTkzMzk3LmFtcA",
+          "author": null,
+          "description": "Ange Postecoglou plays down Celtic exit fears over Giorgos Giakoumakis  Daily Record",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiXmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2dpb3Jnb3MtZ2lha291bWFraXMtY2VsdGljLXRyYW5zZmVyLWV4aXQtMjg5OTMzOTfSAWJodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9naW9yZ29zLWdpYWtvdW1ha2lzLWNlbHRpYy10cmFuc2Zlci1leGl0LTI4OTkzMzk3LmFtcA?oc=5",
+          "publishedOn": "2023-01-18T23:12:17.000Z",
+          "wordCount": 3640,
+          "title": "Ange Postecoglou plays down Celtic exit fears over Giorgos Giakoumakis - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28992514.ece/ALTERNATES/s1200/0_JS288521402.jpg"
         },
         {
           "id": "CBMiqgFodHRwczovL3d3dy5mb3hzcG9ydHMuY29tLmF1L2Zvb3RiYWxsL3Njb3R0aXNoLXByZW1pZXItbGVhZ3VlLWNlbHRpYy1kZWYtc3QtbWlycmVuLXRhYmxlLWxlYWQtYW5nZS1wb3N0ZWNvZ2xvdS1reW9nby1mdXJ1aGFzaGkvbmV3cy1zdG9yeS8yZTRlYjk0ZWIyNjdkMGI2ODhmZGFmZDNkYjBmNWRhNtIBqgFodHRwczovL3d3dy5mb3hzcG9ydHMuY29tLmF1L2Zvb3RiYWxsL3Njb3R0aXNoLXByZW1pZXItbGVhZ3VlLWNlbHRpYy1kZWYtc3QtbWlycmVuLXRhYmxlLWxlYWQtYW5nZS1wb3N0ZWNvZ2xvdS1reW9nby1mdXJ1aGFzaGkvbmV3cy1zdG9yeS8yZTRlYjk0ZWIyNjdkMGI2ODhmZGFmZDNkYjBmNWRhNg",
@@ -1257,26 +1277,6 @@
           "wordCount": 1775,
           "title": "Greg Taylor’s Celtic return timeline - 67 Hail Hail - Celtic FC News",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/01/GettyImages-1436505137-scaled.jpg"
-        },
-        {
-          "id": "CBMie2h0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL3RyYW5zZmVycy9hbmdlLXBvc3RlY29nbG91LW9mZmVycy1yZWFzc3VyYW5jZS1vbi1qdXJhbm92aWMtYW5kLWdpYWtvdW1ha2lzLXdpdGgtY2VsdGljLWV2aWRlbmNlL9IBf2h0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL3RyYW5zZmVycy9hbmdlLXBvc3RlY29nbG91LW9mZmVycy1yZWFzc3VyYW5jZS1vbi1qdXJhbm92aWMtYW5kLWdpYWtvdW1ha2lzLXdpdGgtY2VsdGljLWV2aWRlbmNlLz9hbXA",
-          "author": null,
-          "description": "Ange Postecoglou offers reassurance on Juranovic and Giakoumakis with Celtic ‘evidence’  67 Hail Hail - Celtic FC News",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMie2h0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL3RyYW5zZmVycy9hbmdlLXBvc3RlY29nbG91LW9mZmVycy1yZWFzc3VyYW5jZS1vbi1qdXJhbm92aWMtYW5kLWdpYWtvdW1ha2lzLXdpdGgtY2VsdGljLWV2aWRlbmNlL9IBf2h0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL3RyYW5zZmVycy9hbmdlLXBvc3RlY29nbG91LW9mZmVycy1yZWFzc3VyYW5jZS1vbi1qdXJhbm92aWMtYW5kLWdpYWtvdW1ha2lzLXdpdGgtY2VsdGljLWV2aWRlbmNlLz9hbXA?oc=5",
-          "publishedOn": "2023-01-14T14:11:37.000Z",
-          "wordCount": 1994,
-          "title": "Ange Postecoglou offers reassurance on Juranovic and Giakoumakis with Celtic ‘evidence’ - 67 Hail Hail - Celtic FC News",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/01/GettyImages-1245938915-scaled.jpg"
-        },
-        {
-          "id": "CBMiXWh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvY2VsdGljLWJvc3MtYW5nZS1wb3N0ZWNvZ2xvdS1sYXVnaHMtb2ZmLWJpdHRlci1yYW5nZXJzLWNsYWltL9IBYWh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvY2VsdGljLWJvc3MtYW5nZS1wb3N0ZWNvZ2xvdS1sYXVnaHMtb2ZmLWJpdHRlci1yYW5nZXJzLWNsYWltLz9hbXA",
-          "author": null,
-          "description": "Celtic boss Ange Postecoglou laughs off bitter Rangers claim  67 Hail Hail - Celtic FC News",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiXWh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvY2VsdGljLWJvc3MtYW5nZS1wb3N0ZWNvZ2xvdS1sYXVnaHMtb2ZmLWJpdHRlci1yYW5nZXJzLWNsYWltL9IBYWh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvY2VsdGljLWJvc3MtYW5nZS1wb3N0ZWNvZ2xvdS1sYXVnaHMtb2ZmLWJpdHRlci1yYW5nZXJzLWNsYWltLz9hbXA?oc=5",
-          "publishedOn": "2023-01-14T13:44:57.000Z",
-          "wordCount": 1824,
-          "title": "Celtic boss Ange Postecoglou laughs off bitter Rangers claim - 67 Hail Hail - Celtic FC News",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/01/GettyImages-1453773889-1-scaled.jpg"
         }
       ]
     },
@@ -1974,16 +1974,6 @@
           "wordCount": 8124,
           "title": "Ange Postecoglou names Celtic team for Kilmarnock semi-final",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16150427/?type=og-image"
-        },
-        {
-          "id": "e13d49bc1e9c630c10ec9110a0a34d4c",
-          "author": null,
-          "description": "Celtic target Aissa Laidouni has slammed the door shut on a possible move to Parkhead...because he wants to play in Europe this season.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23251081.celtic-target-aissa-laidouni-slams-door-possible-transfer/?ref=rss",
-          "publishedOn": "2023-01-14T14:39:33.000Z",
-          "wordCount": 8569,
-          "title": "Celtic target Aissa Laidouni slams door on possible transfer",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16355365/?type=og-image"
         }
       ]
     }
