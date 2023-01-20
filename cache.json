@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "3994853",
+          "author": "Matthew Elder",
+          "description": "Celtic are close to reaching an agreement to sign striker Oh Hyeon-gyu from K-League side Suwon Bluewings, according to reports.",
+          "link": "https://www.scotsman.com/sport/football/celtic/oh-yes-celtic-close-to-signing-striker-whose-heart-is-set-on-parkhead-move-3994853",
+          "publishedOn": "2023-01-20T11:58:59.000Z",
+          "wordCount": null,
+          "title": "Oh yes: Celtic close to signing striker whose heart is set on Parkhead move",
+          "imageUrl": null
+        },
+        {
           "id": "3994122",
           "author": "Matthew Elder",
           "description": "Celtic have been one of the more vocal critics of VAR since its introduction into Scottish football but the technology came to the club's benefit during Wednesday's 4-0 win over St Mirren.",
@@ -224,16 +234,6 @@
           "wordCount": null,
           "title": "Celtic ace nears €4m exit with Japanese agreement - but MLS club hope to complete transfer",
           "imageUrl": null
-        },
-        {
-          "id": "3987776",
-          "author": "Alan Pattullo",
-          "description": "Callum McGregor is hoping to rack up a perfect ten in February when, fitness permitting, he leads Celtic out against Rangers before the Viaplay Cup final at Hampden.",
-          "link": "https://www.scotsman.com/sport/football/celtic/what-celtic-had-to-say-about-penalty-controversy-and-another-final-both-teams-are-going-to-be-physical-3987776",
-          "publishedOn": "2023-01-15T22:30:00.000Z",
-          "wordCount": null,
-          "title": "What Celtic had to say about penalty controversy and another final - 'both teams are going to be physical'",
-          "imageUrl": null
         }
       ]
     },
@@ -248,6 +248,16 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CBMicWh0dHBzOi8vd3d3LmhpdGMuY29tL2VuLWdiLzIwMjMvMDEvMjAvY29hY2gtbWFrZXMtY2xhaW0tYWJvdXQtY2VsdGljcy1saW5rcy13aXRoLWF1c3RyYWxpYW4tYWNlLWNhbGVtLW5pZXV3ZW5ob2Yv0gF1aHR0cHM6Ly93d3cuaGl0Yy5jb20vZW4tZ2IvMjAyMy8wMS8yMC9jb2FjaC1tYWtlcy1jbGFpbS1hYm91dC1jZWx0aWNzLWxpbmtzLXdpdGgtYXVzdHJhbGlhbi1hY2UtY2FsZW0tbmlldXdlbmhvZi8_YW1w",
+          "author": null,
+          "description": "Coach makes claim about Celtic’s links with Australian ace Calem Nieuwenhof  HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMicWh0dHBzOi8vd3d3LmhpdGMuY29tL2VuLWdiLzIwMjMvMDEvMjAvY29hY2gtbWFrZXMtY2xhaW0tYWJvdXQtY2VsdGljcy1saW5rcy13aXRoLWF1c3RyYWxpYW4tYWNlLWNhbGVtLW5pZXV3ZW5ob2Yv0gF1aHR0cHM6Ly93d3cuaGl0Yy5jb20vZW4tZ2IvMjAyMy8wMS8yMC9jb2FjaC1tYWtlcy1jbGFpbS1hYm91dC1jZWx0aWNzLWxpbmtzLXdpdGgtYXVzdHJhbGlhbi1hY2UtY2FsZW0tbmlldXdlbmhvZi8_YW1w?oc=5",
+          "publishedOn": "2023-01-20T10:30:00.000Z",
+          "wordCount": 2371,
+          "title": "Coach makes claim about Celtic’s links with Australian ace Calem Nieuwenhof - HITC - Football, Gaming, Movies, TV, Music",
+          "imageUrl": "https://www.hitc.com/static/uploads/2023/01/GettyImages-1246246156-scaled.jpg"
+        },
         {
           "id": "CBMibmh0dHBzOi8vd3d3LmNhdWdodG9mZnNpZGUuY29tLzIwMjMvMDEvMjAvYXJzZW5hbHMta2llcmFuLXRpZXJuZXktZ2l2ZXMtY2VsdGljLXRyYW5zZmVyLWFkdmljZS1vbi1oaWJzLXN0cmlrZXIv0gFyaHR0cHM6Ly93d3cuY2F1Z2h0b2Zmc2lkZS5jb20vMjAyMy8wMS8yMC9hcnNlbmFscy1raWVyYW4tdGllcm5leS1naXZlcy1jZWx0aWMtdHJhbnNmZXItYWR2aWNlLW9uLWhpYnMtc3RyaWtlci9hbXAv",
           "author": null,
@@ -267,6 +277,16 @@
           "wordCount": 9129,
           "title": "Meet the Celtic fans braving the Arctic Circle for charity | Celtic Way - Celtic Way",
           "imageUrl": "https://www.celticway.co.uk/resources/images/16368521/?type=og-image"
+        },
+        {
+          "id": "CBMiYmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvY2VsdGljLXJhbmdlcnMtcGxvdHRpbmctc3BmbC0zLTI5MDAzNzcx0gFmaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvZm9vdGJhbGwtbmV3cy9jZWx0aWMtcmFuZ2Vycy1wbG90dGluZy1zcGZsLTMtMjkwMDM3NzEuYW1w",
+          "author": null,
+          "description": "Celtic and Rangers plotting 'SPFL 3' voting carve up claims Darvel boss  Daily Record",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiYmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvY2VsdGljLXJhbmdlcnMtcGxvdHRpbmctc3BmbC0zLTI5MDAzNzcx0gFmaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvZm9vdGJhbGwtbmV3cy9jZWx0aWMtcmFuZ2Vycy1wbG90dGluZy1zcGZsLTMtMjkwMDM3NzEuYW1w?oc=5",
+          "publishedOn": "2023-01-20T06:57:51.000Z",
+          "wordCount": 3599,
+          "title": "Celtic and Rangers plotting 'SPFL 3' voting carve up claims Darvel boss - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article29003773.ece/ALTERNATES/s1200/0_JS284813939.jpg"
         },
         {
           "id": "CBMiW2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2dpb3Jnb3MtZ2lha291bWFraXMtY2VsdGljLXRyYW5zZmVyLXUtMjkwMDI0NjLSAV9odHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9naW9yZ29zLWdpYWtvdW1ha2lzLWNlbHRpYy10cmFuc2Zlci11LTI5MDAyNDYyLmFtcA",
@@ -1135,6 +1155,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "7835aee52dd4329d84d93c3a24945215",
+          "author": null,
+          "description": "Oh Hyeon-gyu has revealed he asked to complete his military service as early as possible, so he could concentrate on winning a move to Europe.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23264474.oh-hyeon-gyu-celtic-latest-striker-makes-military-statement/?ref=rss",
+          "publishedOn": "2023-01-20T10:48:29.000Z",
+          "wordCount": 8469,
+          "title": "Oh Hyeon-gyu to Celtic latest as striker makes military statement",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16101333/?type=og-image"
+        },
         {
           "id": "0533af0ffae814ec4e494e486a8ed85e",
           "author": null,
