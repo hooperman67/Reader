@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-01-21T18:21:26.386Z</updated>
+    <updated>2023-01-21T21:15:07.636Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[When is the Scottish Cup draw? Fifth round details, how to watch, Celtic and Rangers in the hat]]></title>
+        <id>3992274</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/when-is-the-scottish-cup-draw-fifth-round-details-how-to-watch-celtic-and-rangers-in-the-hat-3992274"/>
+        <updated>2023-01-21T19:37:28.000Z</updated>
+        <summary type="html"><![CDATA[Details of the draw for the Scottish Cup fifth round have been announced with ten teams in the hat already.]]></summary>
+        <author>
+            <name>Joel Sked</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fabrizio Romano confirms €8 million Celtic transfer news - The Celtic Bhoys]]></title>
         <id>CBMiS2h0dHBzOi8vdGhlY2VsdGljYmhveXMuY29tLzIwMjMvMDEvMjEvZmFicml6aW8tcm9tYW5vLWNvbmZpcm1zLWNlbHRpYy1uZXdzL9IBT2h0dHBzOi8vdGhlY2VsdGljYmhveXMuY29tLzIwMjMvMDEvMjEvZmFicml6aW8tcm9tYW5vLWNvbmZpcm1zLWNlbHRpYy1uZXdzL2FtcC8</id>
@@ -34,6 +44,16 @@
         <summary type="html"><![CDATA[Morton manager Dougie Imrie accused VAR of having a ‘killing’ effect on the game after his side were on the wrong end of an inexplicable call in their 5-0 Scottish Cup defeat away to Celtic.]]></summary>
         <author>
             <name>Andrew Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ange Postecoglou sends Celtic fans Juranovic transfer exit message as Giakoumakis 'mental' factor explained - Daily Record]]></title>
+        <id>CBMiWGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2FuZ2UtcG9zdGVjb2dsb3Utc2VuZHMtY2VsdGljLWZhbnMtMjkwMTUzNDDSAVxodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9hbmdlLXBvc3RlY29nbG91LXNlbmRzLWNlbHRpYy1mYW5zLTI5MDE1MzQwLmFtcA</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiWGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2FuZ2UtcG9zdGVjb2dsb3Utc2VuZHMtY2VsdGljLWZhbnMtMjkwMTUzNDDSAVxodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9hbmdlLXBvc3RlY29nbG91LXNlbmRzLWNlbHRpYy1mYW5zLTI5MDE1MzQwLmFtcA?oc=5"/>
+        <updated>2023-01-21T15:55:29.000Z</updated>
+        <summary type="html"><![CDATA[Ange Postecoglou sends Celtic fans Juranovic transfer exit message as Giakoumakis 'mental' factor explained  Daily Record]]></summary>
+        <author>
+            <name>"celtic fc" - Google News</name>
         </author>
     </entry>
     <entry>
@@ -682,6 +702,16 @@
         <link href="https://news.google.com/__i/rss/rd/articles/CBMiYmh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zY290dGlzaC1wcmVtaWVyc2hpcC9vaC1oeWVvbi1neXUtYWR2YW5jZWQtY2VsdGljLTI2MDI2NjY10gFmaHR0cHM6Ly93d3cuZm9vdGJhbGxzY290bGFuZC5jby51ay9zcGZsL3Njb3R0aXNoLXByZW1pZXJzaGlwL29oLWh5ZW9uLWd5dS1hZHZhbmNlZC1jZWx0aWMtMjYwMjY2NjUuYW1w?oc=5"/>
         <updated>2023-01-20T09:07:48.000Z</updated>
         <summary type="html"><![CDATA[Oh Hyeon-gyu in advanced Celtic transfer talks as Hoops submit bid for South Korean striker  Football Scotland]]></summary>
+        <author>
+            <name>"celtic fc" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic v Morton TV channel, kick off time, live stream details, referee and more in Scottish Cup clash - Scottish Daily Express]]></title>
+        <id>CBMiWWh0dHBzOi8vd3d3LnNjb3R0aXNoZGFpbHlleHByZXNzLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2NlbHRpYy12LW1vcnRvbi10di1jaGFubmVsLTI5MDA0MDgy0gFdaHR0cHM6Ly93d3cuc2NvdHRpc2hkYWlseWV4cHJlc3MuY28udWsvc3BvcnQvZm9vdGJhbGwvY2VsdGljLXYtbW9ydG9uLXR2LWNoYW5uZWwtMjkwMDQwODIuYW1w</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiWWh0dHBzOi8vd3d3LnNjb3R0aXNoZGFpbHlleHByZXNzLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2NlbHRpYy12LW1vcnRvbi10di1jaGFubmVsLTI5MDA0MDgy0gFdaHR0cHM6Ly93d3cuc2NvdHRpc2hkYWlseWV4cHJlc3MuY28udWsvc3BvcnQvZm9vdGJhbGwvY2VsdGljLXYtbW9ydG9uLXR2LWNoYW5uZWwtMjkwMDQwODIuYW1w?oc=5"/>
+        <updated>2023-01-20T09:03:15.000Z</updated>
+        <summary type="html"><![CDATA[Celtic v Morton TV channel, kick off time, live stream details, referee and more in Scottish Cup clash  Scottish Daily Express]]></summary>
         <author>
             <name>"celtic fc" - Google News</name>
         </author>
@@ -2076,56 +2106,6 @@ Celtic transfer news flash as Giakoumakis fee 'agreed' amid Szymon Wlodarczyk sc
         <summary type="html"><![CDATA[Ronaldo 'serious' on Celtic or Rangers transfer but Piers Morgan’s claim dismantled on live radio  Daily Record]]></summary>
         <author>
             <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic 'reignite transfer interest' in Hibs striker Nisbet]]></title>
-        <id>5f6624bec0882ed759f081f31f35b33e</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/celtic/23255392.celtic-reignite-transfer-interest-hibs-striker-nisbet/?ref=rss"/>
-        <updated>2023-01-17T08:31:27.000Z</updated>
-        <summary type="html"><![CDATA[The Parkhead club were linked with a move for Nisbet previously.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic 'reignite transfer interest' in Hibs striker Nisbet]]></title>
-        <id>5f6624bec0882ed759f081f31f35b33e</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23255392.celtic-reignite-transfer-interest-hibs-striker-nisbet/?ref=rss"/>
-        <updated>2023-01-17T08:31:27.000Z</updated>
-        <summary type="html"><![CDATA[The Parkhead club were linked with a move for Nisbet previously.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Charlie Nicholas brands Celtic and Rangers cup semis 'national embarrassment' - Daily Record]]></title>
-        <id>CBMiamh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvY2hhcmxpZS1uaWNob2xhcy1icmFuZHMtY2VsdGljLXJhbmdlcnMtMjg5NzIyNjnSAW5odHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL2NoYXJsaWUtbmljaG9sYXMtYnJhbmRzLWNlbHRpYy1yYW5nZXJzLTI4OTcyMjY5LmFtcA</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiamh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvY2hhcmxpZS1uaWNob2xhcy1icmFuZHMtY2VsdGljLXJhbmdlcnMtMjg5NzIyNjnSAW5odHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL2NoYXJsaWUtbmljaG9sYXMtYnJhbmRzLWNlbHRpYy1yYW5nZXJzLTI4OTcyMjY5LmFtcA?oc=5"/>
-        <updated>2023-01-17T06:54:12.000Z</updated>
-        <summary type="html"><![CDATA[Charlie Nicholas brands Celtic and Rangers cup semis 'national embarrassment'  Daily Record]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Carl Starfelt warns St Mirren that Celtic are eager for 'revenge']]></title>
-        <id>69dcbd9dee59c5f0498ea058fa22c54a</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/celtic/23254571.carl-starfelt-warns-st-mirren-celtic-coming-revenge/?ref=rss"/>
-        <updated>2023-01-17T06:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The Premiership champions' only domestic defeat this season came against Saints back in September.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Carl Starfelt warns St Mirren that Celtic are eager for 'revenge']]></title>
-        <id>69dcbd9dee59c5f0498ea058fa22c54a</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23254571.carl-starfelt-warns-st-mirren-celtic-coming-revenge/?ref=rss"/>
-        <updated>2023-01-17T06:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The Premiership champions' only domestic defeat this season came against Saints back in September.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>
