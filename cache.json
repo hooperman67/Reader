@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "3998565",
+          "author": "Oliver Anderson",
+          "description": "Junior outfit Darvel produced one of the greatest upsets in the history of the Scottish Cup on Monday night with a 1-0 win over Aberdeen at Recreation Park.",
+          "link": "https://www.scotsman.com/sport/football/darvel-1-aberdeen-0-joins-celtic-rangers-and-hearts-upsets-in-list-of-greatest-ever-scottish-cup-shocks-3998565",
+          "publishedOn": "2023-01-24T10:03:47.000Z",
+          "wordCount": null,
+          "title": "Darvel 1 Aberdeen 0 joins Celtic, Rangers and Hearts upsets in list of greatest ever Scottish Cup shocks",
+          "imageUrl": null
+        },
+        {
           "id": "3998320",
           "author": "Mark Atkinson",
           "description": "Peter Grant believes that Celtic is the best place for David Turnbull to flourish despite the midfielder finding first-team football limited at the club.",
@@ -244,16 +254,6 @@
           "wordCount": null,
           "title": "Oh yes: Celtic close to signing striker whose heart is set on Parkhead move",
           "imageUrl": null
-        },
-        {
-          "id": "3994122",
-          "author": "Matthew Elder",
-          "description": "Celtic have been one of the more vocal critics of VAR since its introduction into Scottish football but the technology came to the club's benefit during Wednesday's 4-0 win over St Mirren.",
-          "link": "https://www.scotsman.com/sport/football/celtic/its-true-var-can-help-him-the-celtic-player-benefiting-from-system-that-has-caused-club-such-ire-3994122",
-          "publishedOn": "2023-01-19T22:30:00.000Z",
-          "wordCount": null,
-          "title": "'It's true VAR can help him' - the Celtic player benefiting from system that has caused club such ire",
-          "imageUrl": null
         }
       ]
     },
@@ -268,6 +268,26 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CBMiUWh0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L21pa2V5LWpvaG5zdG9uLWhhbGZ3YXktcmVwb3J0LWNlbHRpYy0yNjA1NjQwNdIBVWh0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L21pa2V5LWpvaG5zdG9uLWhhbGZ3YXktcmVwb3J0LWNlbHRpYy0yNjA1NjQwNS5hbXA",
+          "author": null,
+          "description": "Mikey Johnston halfway report as Celtic star continues Portuguese journey ahead of Parkhead return  Glasgow Live",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiUWh0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L21pa2V5LWpvaG5zdG9uLWhhbGZ3YXktcmVwb3J0LWNlbHRpYy0yNjA1NjQwNdIBVWh0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L21pa2V5LWpvaG5zdG9uLWhhbGZ3YXktcmVwb3J0LWNlbHRpYy0yNjA1NjQwNS5hbXA?oc=5",
+          "publishedOn": "2023-01-24T10:55:22.000Z",
+          "wordCount": 3855,
+          "title": "Mikey Johnston halfway report as Celtic star continues Portuguese journey ahead of Parkhead return - Glasgow Live",
+          "imageUrl": "https://i2-prod.glasgowlive.co.uk/incoming/article26056375.ece/ALTERNATES/s1200/0_JS272393584.jpg"
+        },
+        {
+          "id": "CBMiT2h0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L2phY2tzb24taXJ2aW5lLXJldmVhbHMtY2VsdGljLWhhcmQtMjYwNTU5ODTSAVNodHRwczovL3d3dy5nbGFzZ293bGl2ZS5jby51ay9zcG9ydC9qYWNrc29uLWlydmluZS1yZXZlYWxzLWNlbHRpYy1oYXJkLTI2MDU1OTg0LmFtcA",
+          "author": null,
+          "description": "Jackson Irvine reveals Celtic 'hard time' he got in cheerleading Ange Postecoglou for Parkhead job  Glasgow Live",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiT2h0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L2phY2tzb24taXJ2aW5lLXJldmVhbHMtY2VsdGljLWhhcmQtMjYwNTU5ODTSAVNodHRwczovL3d3dy5nbGFzZ293bGl2ZS5jby51ay9zcG9ydC9qYWNrc29uLWlydmluZS1yZXZlYWxzLWNlbHRpYy1oYXJkLTI2MDU1OTg0LmFtcA?oc=5",
+          "publishedOn": "2023-01-24T10:32:54.000Z",
+          "wordCount": 3651,
+          "title": "Jackson Irvine reveals Celtic 'hard time' he got in cheerleading Ange Postecoglou for Parkhead job - Glasgow Live",
+          "imageUrl": "https://i2-prod.glasgowlive.co.uk/incoming/article26055919.ece/ALTERNATES/s1200/1_Screenshot-2023-01-24-at-101036.png"
+        },
         {
           "id": "CBMidWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLXRyYW5zZmVyLW5ld3MvY2hhcmxpZS1uaWNob2xhcy1yZWFjaGVzLWNlbHRpYy10cmFuc2Zlci0yOTAzMzM5NdIBeWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLXRyYW5zZmVyLW5ld3MvY2hhcmxpZS1uaWNob2xhcy1yZWFjaGVzLWNlbHRpYy10cmFuc2Zlci0yOTAzMzM5NS5hbXA",
           "author": null,
@@ -307,6 +327,16 @@
           "wordCount": 2115,
           "title": "Oliver Abildgaard seen as ‘dream player’ for Danish club; Celtic future still to be resolved - 67 Hail Hail - Celtic FC News",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/12/GettyImages-1443348716-scaled.jpg"
+        },
+        {
+          "id": "CBMihQFodHRwczovL3RoZWNlbHRpY2Jsb2cuY29tLzIwMjMvMDEvYXJ0aWNsZXMtYW5kLWZlYXR1cmVzL2V2ZXJ0b24tYXJlLWRvb21lZC10aGlzLXNlYXNvbi1hbmQtdGhlLWNlbHRpYy1ib3NzLWlzLXNtYXJ0LWVub3VnaC10by1zZWUtaXQv0gGJAWh0dHBzOi8vdGhlY2VsdGljYmxvZy5jb20vMjAyMy8wMS9hcnRpY2xlcy1hbmQtZmVhdHVyZXMvZXZlcnRvbi1hcmUtZG9vbWVkLXRoaXMtc2Vhc29uLWFuZC10aGUtY2VsdGljLWJvc3MtaXMtc21hcnQtZW5vdWdoLXRvLXNlZS1pdC9hbXAv",
+          "author": null,
+          "description": "Everton Are Doomed This Season And The Celtic Boss Is Smart Enough To See It.  TheCelticBlog.com",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMihQFodHRwczovL3RoZWNlbHRpY2Jsb2cuY29tLzIwMjMvMDEvYXJ0aWNsZXMtYW5kLWZlYXR1cmVzL2V2ZXJ0b24tYXJlLWRvb21lZC10aGlzLXNlYXNvbi1hbmQtdGhlLWNlbHRpYy1ib3NzLWlzLXNtYXJ0LWVub3VnaC10by1zZWUtaXQv0gGJAWh0dHBzOi8vdGhlY2VsdGljYmxvZy5jb20vMjAyMy8wMS9hcnRpY2xlcy1hbmQtZmVhdHVyZXMvZXZlcnRvbi1hcmUtZG9vbWVkLXRoaXMtc2Vhc29uLWFuZC10aGUtY2VsdGljLWJvc3MtaXMtc21hcnQtZW5vdWdoLXRvLXNlZS1pdC9hbXAv?oc=5",
+          "publishedOn": "2023-01-23T17:14:00.000Z",
+          "wordCount": 2722,
+          "title": "Everton Are Doomed This Season And The Celtic Boss Is Smart Enough To See It. - TheCelticBlog.com",
+          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2022/09/2022-09-14T182540Z_625389332_UP1EI9E1F6Q6W_RTRMADP_3_SOCCER-CHAMPIONS-SHK-CEL-REPORT.jpg"
         },
         {
           "id": "CBMicmh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvY2VsdGljLWNvbmZpcm0tbmV3LWRldGFpbHMtZm9yLWhlYXJ0cy1maXh0dXJlLWFmdGVyLXBvc3Rwb25lbWVudC1kdWUtdG8tY3VwLWZpbmFsL9IBdmh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvY2VsdGljLWNvbmZpcm0tbmV3LWRldGFpbHMtZm9yLWhlYXJ0cy1maXh0dXJlLWFmdGVyLXBvc3Rwb25lbWVudC1kdWUtdG8tY3VwLWZpbmFsLz9hbXA",
@@ -1206,6 +1236,16 @@
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
         {
+          "id": "688bd1acf39b9957b9e24388ce958bf5",
+          "author": null,
+          "description": "Jackson Irvine is adamant that he always knew Ange Postecoglou would be a success at Celtic as the St Pauli midfielder gushed over the job his compatriot has done in Glasgow’s east end.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23272007.jackson-irvine-ange-postecoglou-celtic-prediction/?ref=rss",
+          "publishedOn": "2023-01-24T11:15:29.000Z",
+          "wordCount": 8441,
+          "title": "Jackson Irvine on his Ange Postecoglou Celtic prediction",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16385065/?type=og-image"
+        },
+        {
           "id": "1b234016df822f19832d3b182478743c",
           "author": null,
           "description": "ANGE POSTECOGLOU has certainly wasted no time in stamping his authority on the playing squad at Parkhead. Since the Greek-Australian arrived in Glasgow in the summer of 2021, the squad has undergone a comprehensive overhaul as the Celtic manager has effectively assembled a brand new team.",
@@ -1324,6 +1364,16 @@
           "wordCount": 8935,
           "title": "Has Aaron Mooy pushed his way into Celtic’s starting midfield?",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16379867/?type=og-image"
+        },
+        {
+          "id": "666ca538c1fa96f399d61edfa5820524",
+          "author": null,
+          "description": "The 32 teams remaining in the competition can begin to dream of writing their name into history this weekend.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23263735.scottish-cup-fifth-round-draw-tv-channel-live-stream/?ref=rss",
+          "publishedOn": "2023-01-22T16:19:00.000Z",
+          "wordCount": 8297,
+          "title": "Scottish Cup fifth round draw: When is it, TV channel & live stream?",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16373474/?type=og-image"
         },
         {
           "id": "febe8fc4d7df4b9add354c30b0b0002d",
@@ -1584,16 +1634,6 @@
           "wordCount": 9536,
           "title": "Hyeon-gyu to Celtic as striker granted exit wish after transfer plea",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16373853/?type=og-image"
-        },
-        {
-          "id": "4d32995e1044531e17bd82e553cd7414",
-          "author": null,
-          "description": "The early signs are promising for of the club's latest recruits from the J-League.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23262545.carl-starfelt-gives-verdict-new-celtic-rival-yuki-kobayashi/?ref=rss",
-          "publishedOn": "2023-01-19T22:30:00.000Z",
-          "wordCount": 8875,
-          "title": "Carl Starfelt gives verdict on new Celtic rival Yuki Kobayashi",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16369717/?type=og-image"
         }
       ]
     }
