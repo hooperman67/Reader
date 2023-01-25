@@ -264,16 +264,6 @@
           "wordCount": null,
           "title": "'Progress' - Ange Postecoglou delivers major update on Celtic comings and goings",
           "imageUrl": null
-        },
-        {
-          "id": "3994853",
-          "author": "Matthew Elder",
-          "description": "Celtic are close to reaching an agreement to sign striker Oh Hyeon-gyu from K-League side Suwon Bluewings, according to reports.",
-          "link": "https://www.scotsman.com/sport/football/celtic/oh-yes-celtic-close-to-signing-striker-whose-heart-is-set-on-parkhead-move-3994853",
-          "publishedOn": "2023-01-20T11:58:59.000Z",
-          "wordCount": null,
-          "title": "Oh yes: Celtic close to signing striker whose heart is set on Parkhead move",
-          "imageUrl": null
         }
       ]
     },
@@ -288,6 +278,16 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CBMiZmh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvY2VsdGljLWJveXMtaGVhZC1hY2N1c2VkLW9mLWFidXNlLXdhcy1oaXJlZC1ieS1qb2NrLXN0ZWluLTZoMmpjcmhxMNIBAA",
+          "author": null,
+          "description": "Celtic Boys head accused of abuse 'was hired by Jock Stein'  The Times",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiZmh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvY2VsdGljLWJveXMtaGVhZC1hY2N1c2VkLW9mLWFidXNlLXdhcy1oaXJlZC1ieS1qb2NrLXN0ZWluLTZoMmpjcmhxMNIBAA?oc=5",
+          "publishedOn": "2023-01-25T00:01:00.000Z",
+          "wordCount": 16251,
+          "title": "Celtic Boys head accused of abuse 'was hired by Jock Stein' - The Times",
+          "imageUrl": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F96c59482-9c29-11ed-8201-2ed91f44d1e8.jpg?crop=4256%2C2394%2C0%2C222&resize=1200"
+        },
         {
           "id": "CBMiT2h0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vZml4dHVyZS11cGRhdGUtY2VsdGljLXYtaGVhcnRzLXVuZGVyLXBhcmFkaXNlLWxpZ2h0cy_SAVNodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL2ZpeHR1cmUtdXBkYXRlLWNlbHRpYy12LWhlYXJ0cy11bmRlci1wYXJhZGlzZS1saWdodHMvYW1wLw",
           "author": null,
@@ -357,6 +357,16 @@
           "wordCount": 3033,
           "title": "Celtic Boys Club accused claims Jock Stein gave him job and team was 'Celtic's under 16s' - Scottish Daily Express",
           "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28990017.ece/ALTERNATES/s1200/0_Celtic-B-v-Rangers-B-Parks-Motor-Group-Scottish-Lowland-League.jpg"
+        },
+        {
+          "id": "CBMiOGh0dHBzOi8vd3d3LmNlbHRpY3F1aWNrbmV3cy5jby51ay9tb3JpdHotZGVhbC1jdXQtc2hvcnQv0gE8aHR0cHM6Ly93d3cuY2VsdGljcXVpY2tuZXdzLmNvLnVrL21vcml0ei1kZWFsLWN1dC1zaG9ydC9hbXAv",
+          "author": null,
+          "description": "MORITZ DEAL CUT SHORT  Celtic Quick News",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiOGh0dHBzOi8vd3d3LmNlbHRpY3F1aWNrbmV3cy5jby51ay9tb3JpdHotZGVhbC1jdXQtc2hvcnQv0gE8aHR0cHM6Ly93d3cuY2VsdGljcXVpY2tuZXdzLmNvLnVrL21vcml0ei1kZWFsLWN1dC1zaG9ydC9hbXAv?oc=5",
+          "publishedOn": "2023-01-24T14:56:24.000Z",
+          "wordCount": 3924,
+          "title": "MORITZ DEAL CUT SHORT - Celtic Quick News",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/01/MORITZ-JENZ-END-LOAN-FEATURED.png"
         },
         {
           "id": "CBMiYmh0dHBzOi8vd3d3LnNjb3R0aXNoZGFpbHlleHByZXNzLmNvLnVrL25ld3Mvc2NvdHRpc2gtbmV3cy9mb3JtZXItY2VsdGljLWJveXMtY2x1Yi1tYW5hZ2VyLTI5MDM4MDU00gFmaHR0cHM6Ly93d3cuc2NvdHRpc2hkYWlseWV4cHJlc3MuY28udWsvbmV3cy9zY290dGlzaC1uZXdzL2Zvcm1lci1jZWx0aWMtYm95cy1jbHViLW1hbmFnZXItMjkwMzgwNTQuYW1w",
@@ -1227,76 +1237,6 @@
           "wordCount": 15079,
           "title": "Shades Of O'Riley And McGree In Latest Celtic Transfer Saga | Celts Are Here - CeltsAreHere",
           "imageUrl": "https://cdn.celtsarehere.com/wp-content/uploads/2023/01/57112b75-bcfd-47fc-bd42-1ad0cb094ecd.png"
-        },
-        {
-          "id": "CBMiZWh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vbWVkaWNhbC1ib29rZWQtYXMtY2VsdGljLXNldC10by1zaWduLWtvcmVhcy13b3JsZC1jdXAtc3RyaWtlci1oeWVvbi1neXUtb2gv0gFpaHR0cHM6Ly90aGVjZWx0aWNzdGFyLmNvbS9tZWRpY2FsLWJvb2tlZC1hcy1jZWx0aWMtc2V0LXRvLXNpZ24ta29yZWFzLXdvcmxkLWN1cC1zdHJpa2VyLWh5ZW9uLWd5dS1vaC9hbXAv",
-          "author": null,
-          "description": "Medical booked as Celtic set to sign Korea’s World Cup striker Hyeon-gyu Oh  The Celtic Star",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiZWh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vbWVkaWNhbC1ib29rZWQtYXMtY2VsdGljLXNldC10by1zaWduLWtvcmVhcy13b3JsZC1jdXAtc3RyaWtlci1oeWVvbi1neXUtb2gv0gFpaHR0cHM6Ly90aGVjZWx0aWNzdGFyLmNvbS9tZWRpY2FsLWJvb2tlZC1hcy1jZWx0aWMtc2V0LXRvLXNpZ24ta29yZWFzLXdvcmxkLWN1cC1zdHJpa2VyLWh5ZW9uLWd5dS1vaC9hbXAv?oc=5",
-          "publishedOn": "2023-01-20T13:15:17.000Z",
-          "wordCount": 1823,
-          "title": "Medical booked as Celtic set to sign Korea’s World Cup striker Hyeon-gyu Oh - The Celtic Star",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2023/01/south-korea-v-iceland-international-friendly-1024x682.jpeg"
-        },
-        {
-          "id": "CBMiXGh0dHBzOi8vd3d3LnNjb3R0aXNoZGFpbHlleHByZXNzLmNvLnVrL25ld3Mvc2NvdHRpc2gtbmV3cy9jZWx0aWMtZmFucy1jYW4td29yay1jbHViLTI5MDA3MDM40gFgaHR0cHM6Ly93d3cuc2NvdHRpc2hkYWlseWV4cHJlc3MuY28udWsvbmV3cy9zY290dGlzaC1uZXdzL2NlbHRpYy1mYW5zLWNhbi13b3JrLWNsdWItMjkwMDcwMzguYW1w",
-          "author": null,
-          "description": "Celtic fans can work for their club in these roles currently available at Parkhead  Scottish Daily Express",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiXGh0dHBzOi8vd3d3LnNjb3R0aXNoZGFpbHlleHByZXNzLmNvLnVrL25ld3Mvc2NvdHRpc2gtbmV3cy9jZWx0aWMtZmFucy1jYW4td29yay1jbHViLTI5MDA3MDM40gFgaHR0cHM6Ly93d3cuc2NvdHRpc2hkYWlseWV4cHJlc3MuY28udWsvbmV3cy9zY290dGlzaC1uZXdzL2NlbHRpYy1mYW5zLWNhbi13b3JrLWNsdWItMjkwMDcwMzguYW1w?oc=5",
-          "publishedOn": "2023-01-20T13:10:33.000Z",
-          "wordCount": 3157,
-          "title": "Celtic fans can work for their club in these roles currently available at Parkhead - Scottish Daily Express",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article27745728.ece/ALTERNATES/s1200/1_JS161229616.jpg"
-        },
-        {
-          "id": "CBMigAFodHRwczovL3RoZWNlbHRpY2Jsb2cuY29tLzIwMjMvMDEvYXJ0aWNsZXMtYW5kLWZlYXR1cmVzL2FyZS1jZWx0aWMtZmluYWxseS1jbG9zaW5nLWluLW9uLXRoZS1zdHJpa2VyLWRlYWwtd2V2ZS1iZWVuLXdhaXRpbmctZm9yL9IBhAFodHRwczovL3RoZWNlbHRpY2Jsb2cuY29tLzIwMjMvMDEvYXJ0aWNsZXMtYW5kLWZlYXR1cmVzL2FyZS1jZWx0aWMtZmluYWxseS1jbG9zaW5nLWluLW9uLXRoZS1zdHJpa2VyLWRlYWwtd2V2ZS1iZWVuLXdhaXRpbmctZm9yL2FtcC8",
-          "author": null,
-          "description": "Are Celtic Finally Closing In On The Striker Deal We’ve Been Waiting For?  TheCelticBlog.com",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMigAFodHRwczovL3RoZWNlbHRpY2Jsb2cuY29tLzIwMjMvMDEvYXJ0aWNsZXMtYW5kLWZlYXR1cmVzL2FyZS1jZWx0aWMtZmluYWxseS1jbG9zaW5nLWluLW9uLXRoZS1zdHJpa2VyLWRlYWwtd2V2ZS1iZWVuLXdhaXRpbmctZm9yL9IBhAFodHRwczovL3RoZWNlbHRpY2Jsb2cuY29tLzIwMjMvMDEvYXJ0aWNsZXMtYW5kLWZlYXR1cmVzL2FyZS1jZWx0aWMtZmluYWxseS1jbG9zaW5nLWluLW9uLXRoZS1zdHJpa2VyLWRlYWwtd2V2ZS1iZWVuLXdhaXRpbmctZm9yL2FtcC8?oc=5",
-          "publishedOn": "2023-01-20T11:58:00.000Z",
-          "wordCount": 2344,
-          "title": "Are Celtic Finally Closing In On The Striker Deal We’ve Been Waiting For? - TheCelticBlog.com",
-          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2020/03/2011-03-05T141217Z_1_MT1ACI7911178_RTRMADP_3_SOCCER-ENGLAND-CLG-HMA.jpg"
-        },
-        {
-          "id": "CBMiXmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvY2VsdGljLXRhcmdldC1vaC1oeWVvbi1neXUtMjkwMDU1MzDSAWJodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL2NlbHRpYy10YXJnZXQtb2gtaHllb24tZ3l1LTI5MDA1NTMwLmFtcA",
-          "author": null,
-          "description": "Celtic target Oh Hyeon-gyu asks to complete military service early to concentrate on move  Daily Record",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiXmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvY2VsdGljLXRhcmdldC1vaC1oeWVvbi1neXUtMjkwMDU1MzDSAWJodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL2NlbHRpYy10YXJnZXQtb2gtaHllb24tZ3l1LTI5MDA1NTMwLmFtcA?oc=5",
-          "publishedOn": "2023-01-20T10:55:46.000Z",
-          "wordCount": 3333,
-          "title": "Celtic target Oh Hyeon-gyu asks to complete military service early to concentrate on move - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article29005605.ece/ALTERNATES/s1200/1_Screenshot-2023-01-20-at-104737.png"
-        },
-        {
-          "id": "CBMiiwFodHRwczovL3d3dy5za3lzcG9ydHMuY29tL2Zvb3RiYWxsL25ld3MvMTE3ODcvMTI3OTA4OTEvY2VsdGljLXRyYW5zZmVyLW5ld3MtaHllb24tZ3l1LW9oLWFncmVlbWVudC1jbG9zZS13aXRoLWstbGVhZ3VlLXNpZGUtc3V3b24tYmx1ZXdpbmdz0gGPAWh0dHBzOi8vd3d3LnNreXNwb3J0cy5jb20vYW1wL2Zvb3RiYWxsL25ld3MvMTE3ODcvMTI3OTA4OTEvY2VsdGljLXRyYW5zZmVyLW5ld3MtaHllb24tZ3l1LW9oLWFncmVlbWVudC1jbG9zZS13aXRoLWstbGVhZ3VlLXNpZGUtc3V3b24tYmx1ZXdpbmdz",
-          "author": null,
-          "description": "Celtic transfer news: Hyeon-Gyu Oh agreement close with K-League side Suwon Bluewings  Sky Sports",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiiwFodHRwczovL3d3dy5za3lzcG9ydHMuY29tL2Zvb3RiYWxsL25ld3MvMTE3ODcvMTI3OTA4OTEvY2VsdGljLXRyYW5zZmVyLW5ld3MtaHllb24tZ3l1LW9oLWFncmVlbWVudC1jbG9zZS13aXRoLWstbGVhZ3VlLXNpZGUtc3V3b24tYmx1ZXdpbmdz0gGPAWh0dHBzOi8vd3d3LnNreXNwb3J0cy5jb20vYW1wL2Zvb3RiYWxsL25ld3MvMTE3ODcvMTI3OTA4OTEvY2VsdGljLXRyYW5zZmVyLW5ld3MtaHllb24tZ3l1LW9oLWFncmVlbWVudC1jbG9zZS13aXRoLWstbGVhZ3VlLXNpZGUtc3V3b24tYmx1ZXdpbmdz?oc=5",
-          "publishedOn": "2023-01-20T10:49:07.000Z",
-          "wordCount": 3997,
-          "title": "Celtic transfer news: Hyeon-Gyu Oh agreement close with K-League side Suwon Bluewings - Sky Sports",
-          "imageUrl": "https://e0.365dm.com/23/01/1600x900/skysports-oh-hyeon-gyu-celtic_6030142.jpg?20230120095952"
-        },
-        {
-          "id": "CBMicWh0dHBzOi8vd3d3LmhpdGMuY29tL2VuLWdiLzIwMjMvMDEvMjAvY29hY2gtbWFrZXMtY2xhaW0tYWJvdXQtY2VsdGljcy1saW5rcy13aXRoLWF1c3RyYWxpYW4tYWNlLWNhbGVtLW5pZXV3ZW5ob2Yv0gF1aHR0cHM6Ly93d3cuaGl0Yy5jb20vZW4tZ2IvMjAyMy8wMS8yMC9jb2FjaC1tYWtlcy1jbGFpbS1hYm91dC1jZWx0aWNzLWxpbmtzLXdpdGgtYXVzdHJhbGlhbi1hY2UtY2FsZW0tbmlldXdlbmhvZi8_YW1w",
-          "author": null,
-          "description": "Coach makes claim about Celtic’s links with Australian ace Calem Nieuwenhof  HITC - Football, Gaming, Movies, TV, Music",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMicWh0dHBzOi8vd3d3LmhpdGMuY29tL2VuLWdiLzIwMjMvMDEvMjAvY29hY2gtbWFrZXMtY2xhaW0tYWJvdXQtY2VsdGljcy1saW5rcy13aXRoLWF1c3RyYWxpYW4tYWNlLWNhbGVtLW5pZXV3ZW5ob2Yv0gF1aHR0cHM6Ly93d3cuaGl0Yy5jb20vZW4tZ2IvMjAyMy8wMS8yMC9jb2FjaC1tYWtlcy1jbGFpbS1hYm91dC1jZWx0aWNzLWxpbmtzLXdpdGgtYXVzdHJhbGlhbi1hY2UtY2FsZW0tbmlldXdlbmhvZi8_YW1w?oc=5",
-          "publishedOn": "2023-01-20T10:30:00.000Z",
-          "wordCount": 2371,
-          "title": "Coach makes claim about Celtic’s links with Australian ace Calem Nieuwenhof - HITC - Football, Gaming, Movies, TV, Music",
-          "imageUrl": "https://www.hitc.com/static/uploads/2023/01/GettyImages-1246246156-scaled.jpg"
-        },
-        {
-          "id": "CBMiYWh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9jaG8tZ3VlLXN1bmdzLWFnZW50LWJyZWFrcy1zaWxlbmNlLW9uLWNlbHRpY3MtaW50ZXJlc3QtY2x1Yi1zZXQtdXAtY2FsbC_SAWVodHRwczovL2NlbHRzYXJlaGVyZS5jb20vY2hvLWd1ZS1zdW5ncy1hZ2VudC1icmVha3Mtc2lsZW5jZS1vbi1jZWx0aWNzLWludGVyZXN0LWNsdWItc2V0LXVwLWNhbGwvYW1wLw",
-          "author": null,
-          "description": "Cho Gue-sung’s Agent Breaks Silence On Celtic’s Interest: Club Set Up Call | Celts Are Here  CeltsAreHere",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiYWh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9jaG8tZ3VlLXN1bmdzLWFnZW50LWJyZWFrcy1zaWxlbmNlLW9uLWNlbHRpY3MtaW50ZXJlc3QtY2x1Yi1zZXQtdXAtY2FsbC_SAWVodHRwczovL2NlbHRzYXJlaGVyZS5jb20vY2hvLWd1ZS1zdW5ncy1hZ2VudC1icmVha3Mtc2lsZW5jZS1vbi1jZWx0aWNzLWludGVyZXN0LWNsdWItc2V0LXVwLWNhbGwvYW1wLw?oc=5",
-          "publishedOn": "2023-01-20T09:31:26.000Z",
-          "wordCount": 15326,
-          "title": "Cho Gue-sung’s Agent Breaks Silence On Celtic’s Interest: Club Set Up Call | Celts Are Here - CeltsAreHere",
-          "imageUrl": "https://cdn.celtsarehere.com/wp-content/uploads/2022/12/2022-12-05T192439Z_83780504_UP1EIC51HX118_RTRMADP_3_SOCCER-WORLDCUP-BRA-KOR-REPORT-scaled.jpg"
         }
       ]
     },
@@ -1305,6 +1245,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "d1c2bf805544838d41597215116116c1",
+          "author": null,
+          "description": "The Greek striker is expected to leave the club this month after talks over a new Celtic deal stalled.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23274007.giorgos-giakoumakis-celtic-exit-latest-atlanta-in-talks/?ref=rss",
+          "publishedOn": "2023-01-24T20:48:02.000Z",
+          "wordCount": 9472,
+          "title": "Giorgos Giakoumakis Celtic exit latest as Atlanta 'in talks'",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16387973/?type=og-image"
+        },
         {
           "id": "a6cf3ecea8dec5327d66cbe07e94e83f",
           "author": null,
@@ -1724,26 +1674,6 @@
           "wordCount": 9493,
           "title": "Ange Postecoglou issues Giorgos Giakoumakis Celtic update",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16375635/?type=og-image"
-        },
-        {
-          "id": "e12e676137c32bbf0b3e80eca5a01ff0",
-          "author": null,
-          "description": "The Darvel boss has claimed plans for an SPFL League Three will parachute Rangers and Celtic into the set-up.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23264999.celtic-rangers-b-spfl-league-three-planned-claims-darvel-boss/?ref=rss",
-          "publishedOn": "2023-01-20T12:27:13.000Z",
-          "wordCount": 8499,
-          "title": "Celtic and Rangers B 'SPFL League Three' planned claims Darvel boss",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16375040/?type=og-image"
-        },
-        {
-          "id": "7835aee52dd4329d84d93c3a24945215",
-          "author": null,
-          "description": "Oh Hyeon-gyu has revealed he asked to complete his military service as early as possible, so he could concentrate on winning a move to Europe.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23264474.oh-hyeon-gyu-celtic-latest-striker-makes-military-statement/?ref=rss",
-          "publishedOn": "2023-01-20T10:48:29.000Z",
-          "wordCount": 8469,
-          "title": "Oh Hyeon-gyu to Celtic latest as striker makes military statement",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16101333/?type=og-image"
         }
       ]
     }
