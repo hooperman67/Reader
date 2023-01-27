@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-01-27T01:41:15.819Z</updated>
+    <updated>2023-01-27T03:20:15.762Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -82,6 +82,16 @@
         <link href="https://news.google.com/__i/rss/rd/articles/CBMicGh0dHBzOi8vd3d3LmhpdGMuY29tL2VuLWdiLzIwMjMvMDEvMjYva2llcmFuLXRpZXJuZXktZXhwbGFpbnMtY2VsdGljLWRlc2lyZXMtZm9yLWFyc2VuYWwtc3Rhci10YWtlaGlyby10b21peWFzdS_SAXRodHRwczovL3d3dy5oaXRjLmNvbS9lbi1nYi8yMDIzLzAxLzI2L2tpZXJhbi10aWVybmV5LWV4cGxhaW5zLWNlbHRpYy1kZXNpcmVzLWZvci1hcnNlbmFsLXN0YXItdGFrZWhpcm8tdG9taXlhc3UvP2FtcA?oc=5"/>
         <updated>2023-01-26T18:00:00.000Z</updated>
         <summary type="html"><![CDATA[Kieran Tierney explains Celtic desires for Arsenal star Takehiro Tomiyasu  HITC - Football, Gaming, Movies, TV, Music]]></summary>
+        <author>
+            <name>"celtic fc" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Bundesliga – Where five Celtic right-backs headed after wearing the Hoops - The Celtic Star]]></title>
+        <id>CBMiZmh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vdGhlLWJ1bmRlc2xpZ2Etd2hlcmUtZml2ZS1jZWx0aWMtcmlnaHQtYmFja3MtaGVhZGVkLWFmdGVyLXdlYXJpbmctdGhlLWhvb3BzL9IBamh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vdGhlLWJ1bmRlc2xpZ2Etd2hlcmUtZml2ZS1jZWx0aWMtcmlnaHQtYmFja3MtaGVhZGVkLWFmdGVyLXdlYXJpbmctdGhlLWhvb3BzL2FtcC8</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiZmh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vdGhlLWJ1bmRlc2xpZ2Etd2hlcmUtZml2ZS1jZWx0aWMtcmlnaHQtYmFja3MtaGVhZGVkLWFmdGVyLXdlYXJpbmctdGhlLWhvb3BzL9IBamh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vdGhlLWJ1bmRlc2xpZ2Etd2hlcmUtZml2ZS1jZWx0aWMtcmlnaHQtYmFja3MtaGVhZGVkLWFmdGVyLXdlYXJpbmctdGhlLWhvb3BzL2FtcC8?oc=5"/>
+        <updated>2023-01-26T17:15:08.000Z</updated>
+        <summary type="html"><![CDATA[The Bundesliga – Where five Celtic right-backs headed after wearing the Hoops  The Celtic Star]]></summary>
         <author>
             <name>"celtic fc" - Google News</name>
         </author>
@@ -1658,56 +1668,6 @@ Josip Juranovic says emotional Celtic goodbyes after Union Berlin transfer  Da
         <link href="https://news.google.com/__i/rss/rd/articles/CBMidWh0dHBzOi8vd3d3LmNhdWdodG9mZnNpZGUuY29tLzIwMjMvMDEvMjIvanVyYW5vdmljLWxlYXZlcy1jZWx0aWMtZm9yLXVuaW9uLWJlcmxpbi1ldmVydG9uLXNob3VsZC1sb29rLWF0LWdpYWtvdW1ha2lzL9IBeWh0dHBzOi8vd3d3LmNhdWdodG9mZnNpZGUuY29tLzIwMjMvMDEvMjIvanVyYW5vdmljLWxlYXZlcy1jZWx0aWMtZm9yLXVuaW9uLWJlcmxpbi1ldmVydG9uLXNob3VsZC1sb29rLWF0LWdpYWtvdW1ha2lzL2FtcC8?oc=5"/>
         <updated>2023-01-22T15:29:57.000Z</updated>
         <summary type="html"><![CDATA[Juranovic leaves Celtic for Union Berlin, Everton should look at Giakoumakis  CaughtOffside]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic transfer confirmed as Ange Postecoglou proved wrong over Southampton and Chelsea target - Hampshire Live]]></title>
-        <id>CBMic2h0dHBzOi8vd3d3LmhhbXBzaGlyZWxpdmUubmV3cy9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL2NlbHRpYy10cmFuc2Zlci1wb3N0ZWNvZ2xvdS1zb3V0aGFtcHRvbi1jaGVsc2VhLTgwNjA0NTHSAXdodHRwczovL3d3dy5oYW1wc2hpcmVsaXZlLm5ld3Mvc3BvcnQvZm9vdGJhbGwvZm9vdGJhbGwtbmV3cy9jZWx0aWMtdHJhbnNmZXItcG9zdGVjb2dsb3Utc291dGhhbXB0b24tY2hlbHNlYS04MDYwNDUxLmFtcA</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMic2h0dHBzOi8vd3d3LmhhbXBzaGlyZWxpdmUubmV3cy9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL2NlbHRpYy10cmFuc2Zlci1wb3N0ZWNvZ2xvdS1zb3V0aGFtcHRvbi1jaGVsc2VhLTgwNjA0NTHSAXdodHRwczovL3d3dy5oYW1wc2hpcmVsaXZlLm5ld3Mvc3BvcnQvZm9vdGJhbGwvZm9vdGJhbGwtbmV3cy9jZWx0aWMtdHJhbnNmZXItcG9zdGVjb2dsb3Utc291dGhhbXB0b24tY2hlbHNlYS04MDYwNDUxLmFtcA?oc=5"/>
-        <updated>2023-01-22T14:31:14.000Z</updated>
-        <summary type="html"><![CDATA[Celtic transfer confirmed as Ange Postecoglou proved wrong over Southampton and Chelsea target  Hampshire Live]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Union Berlin Send Classy Message To Celtic Fans | Celts Are Here - CeltsAreHere]]></title>
-        <id>CBMiSWh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS91bmlvbi1iZXJsaW4tc2VuZC1jbGFzc3ktbWVzc2FnZS10by1jZWx0aWMtZmFucy_SAU1odHRwczovL2NlbHRzYXJlaGVyZS5jb20vdW5pb24tYmVybGluLXNlbmQtY2xhc3N5LW1lc3NhZ2UtdG8tY2VsdGljLWZhbnMvYW1wLw</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiSWh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS91bmlvbi1iZXJsaW4tc2VuZC1jbGFzc3ktbWVzc2FnZS10by1jZWx0aWMtZmFucy_SAU1odHRwczovL2NlbHRzYXJlaGVyZS5jb20vdW5pb24tYmVybGluLXNlbmQtY2xhc3N5LW1lc3NhZ2UtdG8tY2VsdGljLWZhbnMvYW1wLw?oc=5"/>
-        <updated>2023-01-22T14:22:59.000Z</updated>
-        <summary type="html"><![CDATA[Union Berlin Send Classy Message To Celtic Fans | Celts Are Here  CeltsAreHere]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Josip Juranovic transfer: Union Berlin complete signing of Croatia international from Celtic - Sky Sports]]></title>
-        <id>CBMikgFodHRwczovL3d3dy5za3lzcG9ydHMuY29tL2Zvb3RiYWxsL25ld3MvMTEwOTUvMTI3OTI4NTMvam9zaXAtanVyYW5vdmljLXRyYW5zZmVyLXVuaW9uLWJlcmxpbi1jb21wbGV0ZS1zaWduaW5nLW9mLWNyb2F0aWEtaW50ZXJuYXRpb25hbC1mcm9tLWNlbHRpY9IBlgFodHRwczovL3d3dy5za3lzcG9ydHMuY29tL2FtcC9mb290YmFsbC9uZXdzLzExMDk1LzEyNzkyODUzL2pvc2lwLWp1cmFub3ZpYy10cmFuc2Zlci11bmlvbi1iZXJsaW4tY29tcGxldGUtc2lnbmluZy1vZi1jcm9hdGlhLWludGVybmF0aW9uYWwtZnJvbS1jZWx0aWM</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMikgFodHRwczovL3d3dy5za3lzcG9ydHMuY29tL2Zvb3RiYWxsL25ld3MvMTEwOTUvMTI3OTI4NTMvam9zaXAtanVyYW5vdmljLXRyYW5zZmVyLXVuaW9uLWJlcmxpbi1jb21wbGV0ZS1zaWduaW5nLW9mLWNyb2F0aWEtaW50ZXJuYXRpb25hbC1mcm9tLWNlbHRpY9IBlgFodHRwczovL3d3dy5za3lzcG9ydHMuY29tL2FtcC9mb290YmFsbC9uZXdzLzExMDk1LzEyNzkyODUzL2pvc2lwLWp1cmFub3ZpYy10cmFuc2Zlci11bmlvbi1iZXJsaW4tY29tcGxldGUtc2lnbmluZy1vZi1jcm9hdGlhLWludGVybmF0aW9uYWwtZnJvbS1jZWx0aWM?oc=5"/>
-        <updated>2023-01-22T14:12:39.000Z</updated>
-        <summary type="html"><![CDATA[Josip Juranovic transfer: Union Berlin complete signing of Croatia international from Celtic  Sky Sports]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic confirm departure of Josip Juranovic - The Celtic Star]]></title>
-        <id>CBMiRmh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vY2VsdGljLWNvbmZpcm0tZGVwYXJ0dXJlLW9mLWpvc2lwLWp1cmFub3ZpYy_SAUpodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL2NlbHRpYy1jb25maXJtLWRlcGFydHVyZS1vZi1qb3NpcC1qdXJhbm92aWMvYW1wLw</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiRmh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vY2VsdGljLWNvbmZpcm0tZGVwYXJ0dXJlLW9mLWpvc2lwLWp1cmFub3ZpYy_SAUpodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL2NlbHRpYy1jb25maXJtLWRlcGFydHVyZS1vZi1qb3NpcC1qdXJhbm92aWMvYW1wLw?oc=5"/>
-        <updated>2023-01-22T13:46:34.000Z</updated>
-        <summary type="html"><![CDATA[Celtic confirm departure of Josip Juranovic  The Celtic Star]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Confirmed: Josip Juranovic Leaves Celtic | Celts Are Here - CeltsAreHere]]></title>
-        <id>CBMiQWh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9jb25maXJtZWQtam9zaXAtanVyYW5vdmljLWxlYXZlcy1jZWx0aWMv0gFFaHR0cHM6Ly9jZWx0c2FyZWhlcmUuY29tL2NvbmZpcm1lZC1qb3NpcC1qdXJhbm92aWMtbGVhdmVzLWNlbHRpYy9hbXAv</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiQWh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9jb25maXJtZWQtam9zaXAtanVyYW5vdmljLWxlYXZlcy1jZWx0aWMv0gFFaHR0cHM6Ly9jZWx0c2FyZWhlcmUuY29tL2NvbmZpcm1lZC1qb3NpcC1qdXJhbm92aWMtbGVhdmVzLWNlbHRpYy9hbXAv?oc=5"/>
-        <updated>2023-01-22T13:43:44.000Z</updated>
-        <summary type="html"><![CDATA[Confirmed: Josip Juranovic Leaves Celtic | Celts Are Here  CeltsAreHere]]></summary>
         <author>
             <name>"celtic fc" - Google News</name>
         </author>
