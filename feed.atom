@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-01-27T06:23:41.615Z</updated>
+    <updated>2023-01-27T09:18:08.971Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Giorgos Giakoumakis transfer latest as Celtic take 'hardball' stance]]></title>
+        <id>668f55130b333f2ed09a1f39168e2b69</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23279855.giorgos-giakoumakis-transfer-latest-celtic-take-hardball-stance/?ref=rss"/>
+        <updated>2023-01-27T08:05:55.000Z</updated>
+        <summary type="html"><![CDATA[The Americans have tabled an offer for the 28-year-old which comprises of a loan with an option to buy at the end of it.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SPT announce MAJOR subway update ahead of Old Firm]]></title>
+        <id>17101d50dde814425f7fb1f17324612e</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23279825.spt-announce-major-subway-update-ahead-old-firm/?ref=rss"/>
+        <updated>2023-01-27T07:31:42.000Z</updated>
+        <summary type="html"><![CDATA[SPT has announced changes to its upcoming plans of one-day Subway closures.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Liam Fox on unseen Celtic influence on Dundee United as boss reveals Ange Postecoglou pep talk - Daily Record]]></title>
         <id>CBMiZGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvbGlhbS1mb3gtdW5zZWVuLWNlbHRpYy1pbmZsdWVuY2UtMjkwNjA4OTTSAWhodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL2xpYW0tZm94LXVuc2Vlbi1jZWx0aWMtaW5mbHVlbmNlLTI5MDYwODk0LmFtcA</id>
@@ -74,6 +94,16 @@
         <summary type="html"><![CDATA[The club confirmed the boardroom decision on Thursday night.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Former Celtic Coach Sacked From Championship Club After Two Months | Celts Are Here - CeltsAreHere]]></title>
+        <id>CBMiXGh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9mb3JtZXItY2VsdGljLWNvYWNoLXNhY2tlZC1mcm9tLWNoYW1waW9uc2hpcC1jbHViLWFmdGVyLXR3by1tb250aHMv0gGlAWh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9mb3JtZXItY2VsdGljLWNvYWNoLXNhY2tlZC1mcm9tLWNoYW1waW9uc2hpcC1jbHViLWFmdGVyLXR3by1tb250aHMvYW1wLz9mYmNsaWQ9SXdBUjEwRXBKallidElVOFNzTXRScFNxMUJVVDdkUEtzWjdNdHNQQlZCbVM3dVk3dnBCaDNoaVhQWlhHWQ</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiXGh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9mb3JtZXItY2VsdGljLWNvYWNoLXNhY2tlZC1mcm9tLWNoYW1waW9uc2hpcC1jbHViLWFmdGVyLXR3by1tb250aHMv0gGlAWh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9mb3JtZXItY2VsdGljLWNvYWNoLXNhY2tlZC1mcm9tLWNoYW1waW9uc2hpcC1jbHViLWFmdGVyLXR3by1tb250aHMvYW1wLz9mYmNsaWQ9SXdBUjEwRXBKallidElVOFNzTXRScFNxMUJVVDdkUEtzWjdNdHNQQlZCbVM3dVk3dnBCaDNoaVhQWlhHWQ?oc=5"/>
+        <updated>2023-01-26T19:58:43.000Z</updated>
+        <summary type="html"><![CDATA[Former Celtic Coach Sacked From Championship Club After Two Months | Celts Are Here  CeltsAreHere]]></summary>
+        <author>
+            <name>"celtic fc" - Google News</name>
         </author>
     </entry>
     <entry>
@@ -1596,48 +1626,6 @@ Josip Juranovic: Croatia right-back joins Union Berlin from Celtic  BBC]]></su
         <link href="https://news.google.com/__i/rss/rd/articles/CBMiYGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vd2F0Y2gtYWxsLWVpZ2h0LWNlbHRpYy1nb2Fscy1mcm9tLXNoZW4tbWVuZ2x1cy1oYXBweS1jaGluZXNlLW5ldy15ZWFyL9IBZGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vd2F0Y2gtYWxsLWVpZ2h0LWNlbHRpYy1nb2Fscy1mcm9tLXNoZW4tbWVuZ2x1cy1oYXBweS1jaGluZXNlLW5ldy15ZWFyL2FtcC8?oc=5"/>
         <updated>2023-01-22T21:29:14.000Z</updated>
         <summary type="html"><![CDATA[Watch all eight Celtic goals from Shen Menglu’s Happy Chinese New Year  The Celtic Star]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic fans worried by Ange Postecoglou’s comments - The Celtic Bhoys]]></title>
-        <id>CBMiSGh0dHBzOi8vdGhlY2VsdGljYmhveXMuY29tLzIwMjMvMDEvMjIvY2VsdGljLWZhbnMtd29ycmllZC1hbmdlLWNvbW1lbnRzL9IBTGh0dHBzOi8vdGhlY2VsdGljYmhveXMuY29tLzIwMjMvMDEvMjIvY2VsdGljLWZhbnMtd29ycmllZC1hbmdlLWNvbW1lbnRzL2FtcC8</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiSGh0dHBzOi8vdGhlY2VsdGljYmhveXMuY29tLzIwMjMvMDEvMjIvY2VsdGljLWZhbnMtd29ycmllZC1hbmdlLWNvbW1lbnRzL9IBTGh0dHBzOi8vdGhlY2VsdGljYmhveXMuY29tLzIwMjMvMDEvMjIvY2VsdGljLWZhbnMtd29ycmllZC1hbmdlLWNvbW1lbnRzL2FtcC8?oc=5"/>
-        <updated>2023-01-22T20:35:25.000Z</updated>
-        <summary type="html"><![CDATA[Celtic fans worried by Ange Postecoglou’s comments  The Celtic Bhoys]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Michael Beale offers Celtic explanation over 'lucky' dig as Rangers boss applauds 'fantastic' Ange - Daily Record]]></title>
-        <id>CBMiXWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL21pY2hhZWwtYmVhbGUtb2ZmZXJzLWNlbHRpYy1leHBsYW5hdGlvbi0yOTAyMjYzNNIBYWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL21pY2hhZWwtYmVhbGUtb2ZmZXJzLWNlbHRpYy1leHBsYW5hdGlvbi0yOTAyMjYzNC5hbXA</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiXWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL21pY2hhZWwtYmVhbGUtb2ZmZXJzLWNlbHRpYy1leHBsYW5hdGlvbi0yOTAyMjYzNNIBYWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL21pY2hhZWwtYmVhbGUtb2ZmZXJzLWNlbHRpYy1leHBsYW5hdGlvbi0yOTAyMjYzNC5hbXA?oc=5"/>
-        <updated>2023-01-22T20:32:10.000Z</updated>
-        <summary type="html"><![CDATA[Michael Beale offers Celtic explanation over 'lucky' dig as Rangers boss applauds 'fantastic' Ange  Daily Record]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“You made me feel special”; Josip Juranovic sends Instagram message to Celtic fans - 67 Hail Hail - Celtic FC News]]></title>
-        <id>CBMilAFodHRwczovL3d3dy42N2hhaWxoYWlsLmNvbS90cmFuc2ZlcnMveW91LW1hZGUtbWUtZmVlbC1zcGVjaWFsLWpvc2lwLWp1cmFub3ZpYy1zZW5kcy1pbnN0YWdyYW0tbWVzc2FnZS10by1jZWx0aWMtZmFucy1hZnRlci1zaWduaW5nLWZvci11bmlvbi1iZXJsaW4v0gGYAWh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL3RyYW5zZmVycy95b3UtbWFkZS1tZS1mZWVsLXNwZWNpYWwtam9zaXAtanVyYW5vdmljLXNlbmRzLWluc3RhZ3JhbS1tZXNzYWdlLXRvLWNlbHRpYy1mYW5zLWFmdGVyLXNpZ25pbmctZm9yLXVuaW9uLWJlcmxpbi8_YW1w</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMilAFodHRwczovL3d3dy42N2hhaWxoYWlsLmNvbS90cmFuc2ZlcnMveW91LW1hZGUtbWUtZmVlbC1zcGVjaWFsLWpvc2lwLWp1cmFub3ZpYy1zZW5kcy1pbnN0YWdyYW0tbWVzc2FnZS10by1jZWx0aWMtZmFucy1hZnRlci1zaWduaW5nLWZvci11bmlvbi1iZXJsaW4v0gGYAWh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL3RyYW5zZmVycy95b3UtbWFkZS1tZS1mZWVsLXNwZWNpYWwtam9zaXAtanVyYW5vdmljLXNlbmRzLWluc3RhZ3JhbS1tZXNzYWdlLXRvLWNlbHRpYy1mYW5zLWFmdGVyLXNpZ25pbmctZm9yLXVuaW9uLWJlcmxpbi8_YW1w?oc=5"/>
-        <updated>2023-01-22T20:14:29.000Z</updated>
-        <summary type="html"><![CDATA[“You made me feel special”; Josip Juranovic sends Instagram message to Celtic fans  67 Hail Hail - Celtic FC News
-‘Very Advanced Talks’ - Josip Juranovic Closing In On Celtic Transfer Exit | Celts Are Here  CeltsAreHere
-Josip Juranovic says emotional Celtic goodbyes after Union Berlin transfer  Daily Record]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scottish Cup Fifth Round Draw - afc.co.uk]]></title>
-        <id>CBMiP2h0dHBzOi8vd3d3LmFmYy5jby51ay8yMDIzLzAxLzIyL3Njb3R0aXNoLWN1cC1maWZ0aC1yb3VuZC1kcmF3L9IBAA</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiP2h0dHBzOi8vd3d3LmFmYy5jby51ay8yMDIzLzAxLzIyL3Njb3R0aXNoLWN1cC1maWZ0aC1yb3VuZC1kcmF3L9IBAA?oc=5"/>
-        <updated>2023-01-22T18:28:00.000Z</updated>
-        <summary type="html"><![CDATA[Scottish Cup Fifth Round Draw  afc.co.uk]]></summary>
         <author>
             <name>"celtic fc" - Google News</name>
         </author>
