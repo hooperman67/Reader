@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4004967",
+          "author": "Ross McLeish",
+          "description": "Celtic have granted Greek striker Giorgos Giakoumakis permission to have a medical with Urawa Red Diamonds, according to reports.",
+          "link": "https://www.scotsman.com/sport/football/celtic/giorgios-giakoumakis-given-green-light-to-complete-big-money-move-away-from-celtic-4004967",
+          "publishedOn": "2023-01-27T20:53:04.000Z",
+          "wordCount": null,
+          "title": "Giorgios Giakoumakis 'given green light' to complete big-money move away from Celtic",
+          "imageUrl": null
+        },
+        {
           "id": "4004678",
           "author": "Mark Atkinson",
           "description": "The Scottish Professional Football League has confirmed the date and kick-off time of the third Old Firm clash of the season.",
@@ -174,16 +184,6 @@
           "wordCount": null,
           "title": "Why Celtic boss Ange Postecoglou is unlikely to be Everton-bound - next manager odds, Rangers candidate early frontrunner",
           "imageUrl": null
-        },
-        {
-          "id": "3996431",
-          "author": "Matthew Elder",
-          "description": "Kyogo Furuhashi scored a double in the 5-0 Scottish Cup win over Morton to take his season’s tally to 20 – and leave defender Jack Baird in a spin.",
-          "link": "https://www.scotsman.com/sport/football/celtic/tormented-defender-reveals-exactly-why-celtics-kyogo-furuhashi-is-so-hard-to-defend-against-3996431",
-          "publishedOn": "2023-01-23T07:30:00.000Z",
-          "wordCount": null,
-          "title": "Tormented defender reveals exactly why Celtic's Kyogo Furuhashi is 'so hard to defend against'",
-          "imageUrl": null
         }
       ]
     },
@@ -198,6 +198,46 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CBMiYmh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvYnJpbGxpYW50LW5ldy1jZWx0aWMtcGFyay1pbml0aWF0aXZlLWFubm91bmNlZC1sYXVuY2hlcy1vbi1tb25kYXkv0gFmaHR0cHM6Ly93d3cuNjdoYWlsaGFpbC5jb20vbmV3cy9icmlsbGlhbnQtbmV3LWNlbHRpYy1wYXJrLWluaXRpYXRpdmUtYW5ub3VuY2VkLWxhdW5jaGVzLW9uLW1vbmRheS8_YW1w",
+          "author": null,
+          "description": "Brilliant new Celtic Park initiative announced; launches on Monday  67 Hail Hail - Celtic FC News",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiYmh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvYnJpbGxpYW50LW5ldy1jZWx0aWMtcGFyay1pbml0aWF0aXZlLWFubm91bmNlZC1sYXVuY2hlcy1vbi1tb25kYXkv0gFmaHR0cHM6Ly93d3cuNjdoYWlsaGFpbC5jb20vbmV3cy9icmlsbGlhbnQtbmV3LWNlbHRpYy1wYXJrLWluaXRpYXRpdmUtYW5ub3VuY2VkLWxhdW5jaGVzLW9uLW1vbmRheS8_YW1w?oc=5",
+          "publishedOn": "2023-01-27T20:18:54.000Z",
+          "wordCount": 1859,
+          "title": "Brilliant new Celtic Park initiative announced; launches on Monday - 67 Hail Hail - Celtic FC News",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/01/GettyImages-1178810611-scaled.jpg"
+        },
+        {
+          "id": "CBMiVmh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vYW5nZS1wb3N0ZWNvZ2xvdS1leHBsYWlucy13aHktbW9yaXR6LWplbnotbGVmdC1jZWx0aWMtZWFybHkv0gFaaHR0cHM6Ly90aGVjZWx0aWNzdGFyLmNvbS9hbmdlLXBvc3RlY29nbG91LWV4cGxhaW5zLXdoeS1tb3JpdHotamVuei1sZWZ0LWNlbHRpYy1lYXJseS9hbXAv",
+          "author": null,
+          "description": "Ange Postecoglou explains why Moritz Jenz left Celtic early  The Celtic Star",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiVmh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vYW5nZS1wb3N0ZWNvZ2xvdS1leHBsYWlucy13aHktbW9yaXR6LWplbnotbGVmdC1jZWx0aWMtZWFybHkv0gFaaHR0cHM6Ly90aGVjZWx0aWNzdGFyLmNvbS9hbmdlLXBvc3RlY29nbG91LWV4cGxhaW5zLXdoeS1tb3JpdHotamVuei1sZWZ0LWNlbHRpYy1lYXJseS9hbXAv?oc=5",
+          "publishedOn": "2023-01-27T19:20:35.000Z",
+          "wordCount": 1583,
+          "title": "Ange Postecoglou explains why Moritz Jenz left Celtic early - The Celtic Star",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/11/fbl-eur-c1-real-madrid-celtic-3-1024x683.jpg"
+        },
+        {
+          "id": "CBMiYWh0dHBzOi8vd3d3LmNlbHRpY3dheS5jby51ay9uZXdzLzIzMjgyMjI5LmNlbHRpYy10cm9sbC1yYW5nZXJzLWFjLWRjLWNvbGFiLWJydXRhbC1iYWNrLWJsYWNrLWRpZy_SAQA",
+          "author": null,
+          "description": "Celtic ruthlessly mock Rangers commercial tie-up with sharp Twitter ...  Celtic Way",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiYWh0dHBzOi8vd3d3LmNlbHRpY3dheS5jby51ay9uZXdzLzIzMjgyMjI5LmNlbHRpYy10cm9sbC1yYW5nZXJzLWFjLWRjLWNvbGFiLWJydXRhbC1iYWNrLWJsYWNrLWRpZy_SAQA?oc=5",
+          "publishedOn": "2023-01-27T17:25:00.000Z",
+          "wordCount": 9353,
+          "title": "Celtic ruthlessly mock Rangers commercial tie-up with sharp Twitter ... - Celtic Way",
+          "imageUrl": "https://www.celticway.co.uk/resources/images/16398269/?type=og-image"
+        },
+        {
+          "id": "CBMiqgFodHRwczovL3d3dy5za3lzcG9ydHMuY29tL2Zvb3RiYWxsL25ld3MvMTE3ODEvMTI3OTY0NTkvc2NvdHRpc2gtcHJlbWllcnNoaXAtY2VsdGljLXZzLXJhbmdlcnMtcGx1cy1nYW1lcy1hdC1zdC1taXJyZW4tbW90aGVyd2VsbC1yb3NzLWNvdW50eS1hbmQtZHVuZGVlLXVuaXRlZC1saXZlLW9uLXNredIBrgFodHRwczovL3d3dy5za3lzcG9ydHMuY29tL2FtcC9mb290YmFsbC9uZXdzLzExNzgxLzEyNzk2NDU5L3Njb3R0aXNoLXByZW1pZXJzaGlwLWNlbHRpYy12cy1yYW5nZXJzLXBsdXMtZ2FtZXMtYXQtc3QtbWlycmVuLW1vdGhlcndlbGwtcm9zcy1jb3VudHktYW5kLWR1bmRlZS11bml0ZWQtbGl2ZS1vbi1za3k",
+          "author": null,
+          "description": "Scottish Premiership: Celtic vs Rangers plus games at St Mirren, Motherwell, Ross County and Dundee United live on Sky  Sky Sports",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiqgFodHRwczovL3d3dy5za3lzcG9ydHMuY29tL2Zvb3RiYWxsL25ld3MvMTE3ODEvMTI3OTY0NTkvc2NvdHRpc2gtcHJlbWllcnNoaXAtY2VsdGljLXZzLXJhbmdlcnMtcGx1cy1nYW1lcy1hdC1zdC1taXJyZW4tbW90aGVyd2VsbC1yb3NzLWNvdW50eS1hbmQtZHVuZGVlLXVuaXRlZC1saXZlLW9uLXNredIBrgFodHRwczovL3d3dy5za3lzcG9ydHMuY29tL2FtcC9mb290YmFsbC9uZXdzLzExNzgxLzEyNzk2NDU5L3Njb3R0aXNoLXByZW1pZXJzaGlwLWNlbHRpYy12cy1yYW5nZXJzLXBsdXMtZ2FtZXMtYXQtc3QtbWlycmVuLW1vdGhlcndlbGwtcm9zcy1jb3VudHktYW5kLWR1bmRlZS11bml0ZWQtbGl2ZS1vbi1za3k?oc=5",
+          "publishedOn": "2023-01-27T16:07:38.000Z",
+          "wordCount": 3731,
+          "title": "Scottish Premiership: Celtic vs Rangers plus games at St Mirren, Motherwell, Ross County and Dundee United live on Sky - Sky Sports",
+          "imageUrl": "https://e0.365dm.com/22/06/1600x900/skysports-scot-prem-spfl-badges_5814069.png?20230117180645"
+        },
         {
           "id": "CBMiZWh0dHBzOi8vd3d3LmdsYXNnb3d0aW1lcy5jby51ay9zcG9ydC8yMzI4MTE5OC5jZWx0aWMtdHJvbGwtcmFuZ2Vycy1hYy1kYy1jb2xhYi1icnV0YWwtYmFjay1ibGFjay1kaWcv0gEyaHR0cHM6Ly93d3cuZ2xhc2dvd3RpbWVzLmNvLnVrL3Nwb3J0LzIzMjgxMTk4LmFtcC8",
           "author": null,
@@ -347,6 +387,16 @@
           "wordCount": 9360,
           "title": "Kolo Toure sacked by Wigan after just 59 days in charge of ... - Celtic Way",
           "imageUrl": "https://www.celticway.co.uk/resources/images/16396181/?type=og-image"
+        },
+        {
+          "id": "CBMiXGh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9mb3JtZXItY2VsdGljLWNvYWNoLXNhY2tlZC1mcm9tLWNoYW1waW9uc2hpcC1jbHViLWFmdGVyLXR3by1tb250aHMv0gGlAWh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9mb3JtZXItY2VsdGljLWNvYWNoLXNhY2tlZC1mcm9tLWNoYW1waW9uc2hpcC1jbHViLWFmdGVyLXR3by1tb250aHMvYW1wLz9mYmNsaWQ9SXdBUjFxcGZXSEpjRm4zempWeVZOU21EZTQ4RDZNbjNQNTYwdk5qRjI0bDVNNXhzdFNiSkpQWkJIRGlqRQ",
+          "author": null,
+          "description": "Former Celtic Coach Sacked From Championship Club After Two Months | Celts Are Here  CeltsAreHere",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiXGh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9mb3JtZXItY2VsdGljLWNvYWNoLXNhY2tlZC1mcm9tLWNoYW1waW9uc2hpcC1jbHViLWFmdGVyLXR3by1tb250aHMv0gGlAWh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9mb3JtZXItY2VsdGljLWNvYWNoLXNhY2tlZC1mcm9tLWNoYW1waW9uc2hpcC1jbHViLWFmdGVyLXR3by1tb250aHMvYW1wLz9mYmNsaWQ9SXdBUjFxcGZXSEpjRm4zempWeVZOU21EZTQ4RDZNbjNQNTYwdk5qRjI0bDVNNXhzdFNiSkpQWkJIRGlqRQ?oc=5",
+          "publishedOn": "2023-01-26T19:58:43.000Z",
+          "wordCount": 15047,
+          "title": "Former Celtic Coach Sacked From Championship Club After Two Months | Celts Are Here - CeltsAreHere",
+          "imageUrl": "https://cdn.celtsarehere.com/wp-content/uploads/2018/02/KOLO-TOURE.jpg"
         },
         {
           "id": "CBMiXGh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9mb3JtZXItY2VsdGljLWNvYWNoLXNhY2tlZC1mcm9tLWNoYW1waW9uc2hpcC1jbHViLWFmdGVyLXR3by1tb250aHMv0gFgaHR0cHM6Ly9jZWx0c2FyZWhlcmUuY29tL2Zvcm1lci1jZWx0aWMtY29hY2gtc2Fja2VkLWZyb20tY2hhbXBpb25zaGlwLWNsdWItYWZ0ZXItdHdvLW1vbnRocy9hbXAv",
@@ -1343,8 +1393,18 @@
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "5d236338e1caddefe78fa3e8a662abaf",
+          "author": null,
+          "description": "The Hoops boss explained why the German left the cub",
+          "link": "https://www.glasgowtimes.co.uk/sport/23282553.postecoglou-opens-jenz-departure-frank-celtic-address/?ref=rss",
+          "publishedOn": "2023-01-27T19:30:36.000Z",
+          "wordCount": 8407,
+          "title": "Ange Postecoglou details why Moritz Jenz has left Celtic",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16400395/?type=og-image"
+        },
         {
           "id": "f1381e4b8a628e0b578b2a2600e20ab5",
           "author": null,
@@ -1744,46 +1804,6 @@
           "wordCount": 8492,
           "title": "Incoming Celtic star Oh Hyeon-gyu forced to deny Son Heung-min claim",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16381242/?type=og-image"
-        },
-        {
-          "id": "8deff7894c376abf90c74946d69297f5",
-          "author": null,
-          "description": "The right-back yesterday sealed his £10million move to Union Berlin.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23268711.josip-juranovic-emotional-celtic-goodbye-message/?ref=rss",
-          "publishedOn": "2023-01-23T09:10:16.000Z",
-          "wordCount": 8459,
-          "title": "Josip Juranovic in emotional Celtic goodbye message",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16380603/?type=og-image"
-        },
-        {
-          "id": "b4522bf0f0f1fba4192555eea5adf6cb",
-          "author": null,
-          "description": "Ange Postecoglou's side are still in the market to complete one more bit of business before the window shuts next week.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23268663.kris-commons-celtic-transfer-fear-end-window-approaches/?ref=rss",
-          "publishedOn": "2023-01-23T08:47:24.000Z",
-          "wordCount": 8444,
-          "title": "Kris Commons on his Celtic transfer fear as end of window approaches",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16380556/?type=og-image"
-        },
-        {
-          "id": "091f53d48c2b107744afe4dcd9e46dda",
-          "author": null,
-          "description": "He sparked somewhat of a row after claiming the Australian was fortunate to be able to spend so much in the transfer market.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23268603.rangers-beale-moves-clear-postecoglou-lucky-celtic-comments/?ref=rss",
-          "publishedOn": "2023-01-23T08:07:00.000Z",
-          "wordCount": 9534,
-          "title": "Rangers' Beale moves to clear up Postecoglou 'lucky' Celtic comments",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16380533/?type=og-image"
-        },
-        {
-          "id": "838fd01a54b7216f64a6813dd0b379bf",
-          "author": null,
-          "description": "The Hoops have agreed terms with the South Korean striker, who has now been given the go-ahead to travel to Glasgow.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23268585.oh-hyeon-gyu-celtic-agreed-2-5million-transfer-sealed/?ref=rss",
-          "publishedOn": "2023-01-23T07:49:53.000Z",
-          "wordCount": 8473,
-          "title": "Oh Hyeon-gyu to Celtic 'agreed' as £2.5million transfer is sealed",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16380517/?type=og-image"
         }
       ]
     }
