@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-01-28T15:18:00.705Z</updated>
+    <updated>2023-01-28T18:21:09.125Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aberdeen thrashed, Celtic loanee sent off, Lennon and Lambert decision - The Celtic Star]]></title>
+        <id>CBMiX2h0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vYWJlcmRlZW4tdGhyYXNoZWQtY2VsdGljLWxvYW5lZS1zZW50LW9mZi1sZW5ub24tYW5kLWxhbWJlcnQtZGVjaXNpb24v0gFjaHR0cHM6Ly90aGVjZWx0aWNzdGFyLmNvbS9hYmVyZGVlbi10aHJhc2hlZC1jZWx0aWMtbG9hbmVlLXNlbnQtb2ZmLWxlbm5vbi1hbmQtbGFtYmVydC1kZWNpc2lvbi9hbXAv</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiX2h0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vYWJlcmRlZW4tdGhyYXNoZWQtY2VsdGljLWxvYW5lZS1zZW50LW9mZi1sZW5ub24tYW5kLWxhbWJlcnQtZGVjaXNpb24v0gFjaHR0cHM6Ly90aGVjZWx0aWNzdGFyLmNvbS9hYmVyZGVlbi10aHJhc2hlZC1jZWx0aWMtbG9hbmVlLXNlbnQtb2ZmLWxlbm5vbi1hbmQtbGFtYmVydC1kZWNpc2lvbi9hbXAv?oc=5"/>
+        <updated>2023-01-28T17:03:54.000Z</updated>
+        <summary type="html"><![CDATA[Aberdeen thrashed, Celtic loanee sent off, Lennon and Lambert decision  The Celtic Star]]></summary>
+        <author>
+            <name>"celtic fc" - Google News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ally McCoist details Celtic fan encounter after Killie penalty snub]]></title>
         <id>dd34148e44ce85e04f78e88fd5122bc3</id>
@@ -44,6 +54,18 @@
         <summary type="html"><![CDATA[Yesterday he was given permission to finalise personal terms and undergo a medical in Amsterdam.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“He said it wasn’t Atlanta but he wouldn’t be staying,” Giakoumakis completes Urawa medical - The Celtic Star]]></title>
+        <id>CBMicWh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vaGUtc2FpZC1pdC13YXNudC1hdGxhbnRhLWJ1dC1oZS13b3VsZG50LWJlLXN0YXlpbmctZ2lha291bWFraXMtY29tcGxldGVzLXVyYXdhLW1lZGljYWwv0gF1aHR0cHM6Ly90aGVjZWx0aWNzdGFyLmNvbS9oZS1zYWlkLWl0LXdhc250LWF0bGFudGEtYnV0LWhlLXdvdWxkbnQtYmUtc3RheWluZy1naWFrb3VtYWtpcy1jb21wbGV0ZXMtdXJhd2EtbWVkaWNhbC9hbXAv</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMicWh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vaGUtc2FpZC1pdC13YXNudC1hdGxhbnRhLWJ1dC1oZS13b3VsZG50LWJlLXN0YXlpbmctZ2lha291bWFraXMtY29tcGxldGVzLXVyYXdhLW1lZGljYWwv0gF1aHR0cHM6Ly90aGVjZWx0aWNzdGFyLmNvbS9oZS1zYWlkLWl0LXdhc250LWF0bGFudGEtYnV0LWhlLXdvdWxkbnQtYmUtc3RheWluZy1naWFrb3VtYWtpcy1jb21wbGV0ZXMtdXJhd2EtbWVkaWNhbC9hbXAv?oc=5"/>
+        <updated>2023-01-28T09:48:28.000Z</updated>
+        <summary type="html"><![CDATA[“He said it wasn’t Atlanta but he wouldn’t be staying,” Giakoumakis completes Urawa medical  The Celtic Star
+The Giakoumakis Stalemate – Atlanta’s unacceptable offer and the role of new agent  The Celtic Star
+Giorgos Giakoumakis finally decides next club after Celtic  The Celtic Bhoys]]></summary>
+        <author>
+            <name>"celtic fc" - Google News</name>
         </author>
     </entry>
     <entry>
@@ -152,6 +174,16 @@
         <link href="https://news.google.com/__i/rss/rd/articles/CBMiYmh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvYnJpbGxpYW50LW5ldy1jZWx0aWMtcGFyay1pbml0aWF0aXZlLWFubm91bmNlZC1sYXVuY2hlcy1vbi1tb25kYXkv0gFmaHR0cHM6Ly93d3cuNjdoYWlsaGFpbC5jb20vbmV3cy9icmlsbGlhbnQtbmV3LWNlbHRpYy1wYXJrLWluaXRpYXRpdmUtYW5ub3VuY2VkLWxhdW5jaGVzLW9uLW1vbmRheS8_YW1w?oc=5"/>
         <updated>2023-01-27T20:18:54.000Z</updated>
         <summary type="html"><![CDATA[Brilliant new Celtic Park initiative announced; launches on Monday  67 Hail Hail - Celtic FC News]]></summary>
+        <author>
+            <name>"celtic fc" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What channel is Dundee United vs Celtic? Live stream, TV and kick-off details for Scottish Premiership clash - Daily Record]]></title>
+        <id>CBMiYWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3Mvd2hhdC1jaGFubmVsLWR1bmRlZS11bml0ZWQtdnMtMjkwNzExNTPSAWVodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL3doYXQtY2hhbm5lbC1kdW5kZWUtdW5pdGVkLXZzLTI5MDcxMTUzLmFtcA</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiYWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3Mvd2hhdC1jaGFubmVsLWR1bmRlZS11bml0ZWQtdnMtMjkwNzExNTPSAWVodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL3doYXQtY2hhbm5lbC1kdW5kZWUtdW5pdGVkLXZzLTI5MDcxMTUzLmFtcA?oc=5"/>
+        <updated>2023-01-27T20:14:55.000Z</updated>
+        <summary type="html"><![CDATA[What channel is Dundee United vs Celtic? Live stream, TV and kick-off details for Scottish Premiership clash  Daily Record]]></summary>
         <author>
             <name>"celtic fc" - Google News</name>
         </author>
@@ -292,6 +324,16 @@
         <link href="https://news.google.com/__i/rss/rd/articles/CBMiZGh0dHBzOi8vd3d3LmNvbi10ZWxlZ3JhcGguaWUvMjAyMy8wMS8yNy9tYXlvLWJhc2VkLWNlbHRpYy1mYy1zdXBwb3J0ZXJzLWNsdWItdG8taG9zdC1hLWJ1cm5zLXN1cHBlci_SAQA?oc=5"/>
         <updated>2023-01-27T13:48:27.000Z</updated>
         <summary type="html"><![CDATA[Mayo-based Celtic FC supporters’ club to host a Burns Supper  Connaught Telegraph]]></summary>
+        <author>
+            <name>"celtic fc" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic Might Not Be Done; Ange Transfer Update | Celts Are Here - CeltsAreHere]]></title>
+        <id>CBMiR2h0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9jZWx0aWMtbWlnaHQtbm90LWJlLWRvbmUtYW5nZS10cmFuc2Zlci11cGRhdGUv0gGQAWh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9jZWx0aWMtbWlnaHQtbm90LWJlLWRvbmUtYW5nZS10cmFuc2Zlci11cGRhdGUvYW1wLz9mYmNsaWQ9cGFhYXp6d2FpZGY5ZmJndHVmemh2YThwZGhnNnlkbXRpc2d6eHJoZ2RiaW51dHl5bTJ4Zms2eGxlMmM2OA</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiR2h0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9jZWx0aWMtbWlnaHQtbm90LWJlLWRvbmUtYW5nZS10cmFuc2Zlci11cGRhdGUv0gGQAWh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9jZWx0aWMtbWlnaHQtbm90LWJlLWRvbmUtYW5nZS10cmFuc2Zlci11cGRhdGUvYW1wLz9mYmNsaWQ9cGFhYXp6d2FpZGY5ZmJndHVmemh2YThwZGhnNnlkbXRpc2d6eHJoZ2RiaW51dHl5bTJ4Zms2eGxlMmM2OA?oc=5"/>
+        <updated>2023-01-27T13:43:28.000Z</updated>
+        <summary type="html"><![CDATA[Celtic Might Not Be Done; Ange Transfer Update | Celts Are Here  CeltsAreHere]]></summary>
         <author>
             <name>"celtic fc" - Google News</name>
         </author>
