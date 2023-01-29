@@ -6,6 +6,36 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4005813",
+          "author": "Andrew Smith",
+          "description": "The remarkable at Tannadice was not to be gleaned from the outcome.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtics-result-wasnt-remarkable-at-tannadice-but-jaws-will-have-dropped-at-something-else-4005813",
+          "publishedOn": "2023-01-29T20:04:57.000Z",
+          "wordCount": null,
+          "title": "Celtic's result wasn't remarkable at Tannadice - but jaws will have dropped at something else",
+          "imageUrl": null
+        },
+        {
+          "id": "4005800",
+          "author": "Andrew Smith",
+          "description": "Celtic’s new signing Oh Hyeon-ghu had a debut to dream about following his £2.5m move from Suwon Samsung Bluewings, according to his manager Ange Postecoglou. That was afforded to him because his 82nd minute arrival as substitute in the cinch Premiership leaders 2-0 win away to Dundee United earned him the sort of reception from the club’s travelling support that makes players feel “invincible”.",
+          "link": "https://www.scotsman.com/sport/football/celtic/ange-postecoglou-identifies-celtic-player-who-should-feel-invincible-as-he-basks-in-glory-of-remarkable-stat-4005800",
+          "publishedOn": "2023-01-29T19:39:28.000Z",
+          "wordCount": null,
+          "title": "Ange Postecoglou identifies Celtic player who should feel 'invincible' as he basks in glory of remarkable stat",
+          "imageUrl": null
+        },
+        {
+          "id": "4005791",
+          "author": "Andrew Smith",
+          "description": "Celtic manager Ange Postecoglou has given his strongest indication that there will be no more arrivals in this window, even should Giorgos Giakoumakis makes his expected departure in joking that chief executive Michael Nicholson is now incommunicado.",
+          "link": "https://www.scotsman.com/sport/football/celtic/not-answering-his-phone-why-celtic-are-likely-to-be-done-in-transfer-window-as-giorgos-giakoumakis-status-revealed-4005791",
+          "publishedOn": "2023-01-29T19:20:08.000Z",
+          "wordCount": null,
+          "title": "'Not answering his phone': Why Celtic are likely to be done in transfer window as Giorgos Giakoumakis' status revealed",
+          "imageUrl": null
+        },
+        {
           "id": "4005480",
           "author": "Andrew Smith",
           "description": "There were few surprises at to what claimed the focus in Rangers’ 2-0 home win over St Johnstone.",
@@ -144,16 +174,6 @@
           "wordCount": null,
           "title": "Celtic sign Hyeongyu Oh - fee, length of contract, shirt number, what player and club said",
           "imageUrl": null
-        },
-        {
-          "id": "4000084",
-          "author": "Joel Sked",
-          "description": "Celtic are closing in on the announcement of a new striker as another is set to exit ahead of the end of the January transfer window.",
-          "link": "https://www.scotsman.com/sport/football/celtic/celtic-transfers-one-striker-in-with-eu3m-fee-agreed-one-out-with-mls-switch-expected-target-bid-rejected-4000084",
-          "publishedOn": "2023-01-25T08:30:24.000Z",
-          "wordCount": null,
-          "title": "Celtic transfers: One striker in with €3m fee agreed, one out with MLS switch expected, target bid rejected",
-          "imageUrl": null
         }
       ]
     },
@@ -168,6 +188,46 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CBMiTGh0dHBzOi8vdGhlY2VsdGljYmhveXMuY29tLzIwMjMvMDEvMjkvY2VsdGljLWJvc3Mtam9rZXMtbWljaGFlbC1iZWFsZS1jbGFpbS_SAVBodHRwczovL3RoZWNlbHRpY2Job3lzLmNvbS8yMDIzLzAxLzI5L2NlbHRpYy1ib3NzLWpva2VzLW1pY2hhZWwtYmVhbGUtY2xhaW0vYW1wLw",
+          "author": null,
+          "description": "Celtic boss jokes about Michael Beale’s claim again  The Celtic Bhoys",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiTGh0dHBzOi8vdGhlY2VsdGljYmhveXMuY29tLzIwMjMvMDEvMjkvY2VsdGljLWJvc3Mtam9rZXMtbWljaGFlbC1iZWFsZS1jbGFpbS_SAVBodHRwczovL3RoZWNlbHRpY2Job3lzLmNvbS8yMDIzLzAxLzI5L2NlbHRpYy1ib3NzLWpva2VzLW1pY2hhZWwtYmVhbGUtY2xhaW0vYW1wLw?oc=5",
+          "publishedOn": "2023-01-29T21:05:12.000Z",
+          "wordCount": 2357,
+          "title": "Celtic boss jokes about Michael Beale’s claim again - The Celtic Bhoys",
+          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1458184777.jpeg"
+        },
+        {
+          "id": "CBMiamh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3Mva2llcmFuLWZyZWVtYW4taGFuZGVkLXVuYW5pbW91cy1jZWx0aWMtMjkwODEwODjSAW5odHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL2tpZXJhbi1mcmVlbWFuLWhhbmRlZC11bmFuaW1vdXMtY2VsdGljLTI5MDgxMDg4LmFtcA",
+          "author": null,
+          "description": "Kieran Freeman handed unanimous Celtic red card verdict as Dundee United detail missed during 'easy' VAR check  Daily Record",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiamh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3Mva2llcmFuLWZyZWVtYW4taGFuZGVkLXVuYW5pbW91cy1jZWx0aWMtMjkwODEwODjSAW5odHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL2tpZXJhbi1mcmVlbWFuLWhhbmRlZC11bmFuaW1vdXMtY2VsdGljLTI5MDgxMDg4LmFtcA?oc=5",
+          "publishedOn": "2023-01-29T20:22:39.000Z",
+          "wordCount": 3331,
+          "title": "Kieran Freeman handed unanimous Celtic red card verdict as Dundee United detail missed during 'easy' VAR check - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/sport/football/football-news/article29081119.ece/ALTERNATES/s1200/0_Screenshot-2023-01-29-at-195932.png"
+        },
+        {
+          "id": "CBMiTGh0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L2NlbHRpYy1wbGF5ZXItcmF0aW5ncy12cy1kdW5kZWUtMjYxMDM0MDbSAVBodHRwczovL3d3dy5nbGFzZ293bGl2ZS5jby51ay9zcG9ydC9jZWx0aWMtcGxheWVyLXJhdGluZ3MtdnMtZHVuZGVlLTI2MTAzNDA2LmFtcA",
+          "author": null,
+          "description": "Celtic player ratings vs Dundee United as Jota and Aaron Mooy shine in Tannadice triumph  Glasgow Live",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiTGh0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L2NlbHRpYy1wbGF5ZXItcmF0aW5ncy12cy1kdW5kZWUtMjYxMDM0MDbSAVBodHRwczovL3d3dy5nbGFzZ293bGl2ZS5jby51ay9zcG9ydC9jZWx0aWMtcGxheWVyLXJhdGluZ3MtdnMtZHVuZGVlLTI2MTAzNDA2LmFtcA?oc=5",
+          "publishedOn": "2023-01-29T17:57:46.000Z",
+          "wordCount": 3908,
+          "title": "Celtic player ratings vs Dundee United as Jota and Aaron Mooy shine in Tannadice triumph - Glasgow Live",
+          "imageUrl": "https://i2-prod.glasgowlive.co.uk/incoming/article26103463.ece/ALTERNATES/s1200/0_JS289518544.jpg"
+        },
+        {
+          "id": "CBMiZWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvbWljaGFlbC1zdGV3YXJ0LWNyYWlnLWxldmVpbi1qaWJlLTI5MDc5NjE10gFpaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvZm9vdGJhbGwtbmV3cy9taWNoYWVsLXN0ZXdhcnQtY3JhaWctbGV2ZWluLWppYmUtMjkwNzk2MTUuYW1w",
+          "author": null,
+          "description": "Michael Stewart takes Craig Levein Hearts swipe during on air rant  Daily Record",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiZWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvbWljaGFlbC1zdGV3YXJ0LWNyYWlnLWxldmVpbi1qaWJlLTI5MDc5NjE10gFpaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvZm9vdGJhbGwtbmV3cy9taWNoYWVsLXN0ZXdhcnQtY3JhaWctbGV2ZWluLWppYmUtMjkwNzk2MTUuYW1w?oc=5",
+          "publishedOn": "2023-01-29T16:09:49.000Z",
+          "wordCount": 3436,
+          "title": "Michael Stewart takes Craig Levein Hearts swipe during on air rant - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article29079676.ece/ALTERNATES/s1200/0_Celtic-vs-Raith-Rovers-Premier-Sports-Cupjp.jpg"
+        },
         {
           "id": "CBMiRWh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vdGVhbXMtdXAtY2FydGVyLXZpY2tlcnMtc3RhcnRzLW9oLW9uLWJlbmNoL9IBSWh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vdGVhbXMtdXAtY2FydGVyLXZpY2tlcnMtc3RhcnRzLW9oLW9uLWJlbmNoL2FtcC8",
           "author": null,
@@ -237,6 +297,26 @@
           "wordCount": 1489,
           "title": "“We don’t care what happens in the other game as we focus on ourselves,” Fran Alonso - The Celtic Star",
           "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2023/01/alonso_0197-1024x682.jpeg"
+        },
+        {
+          "id": "CBMiRmh0dHBzOi8vd3d3LnNreXNwb3J0cy5jb20vZm9vdGJhbGwvZHVuZGVlLXVuaXRlZC12cy1jZWx0aWMvbGl2ZS80NjUxNTHSAQA",
+          "author": null,
+          "description": "Live Commentary - Dundee U vs Celtic | 29.01.2023  Sky Sports",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiRmh0dHBzOi8vd3d3LnNreXNwb3J0cy5jb20vZm9vdGJhbGwvZHVuZGVlLXVuaXRlZC12cy1jZWx0aWMvbGl2ZS80NjUxNTHSAQA?oc=5",
+          "publishedOn": "2023-01-29T00:03:06.000Z",
+          "wordCount": 2973,
+          "title": "Live Commentary - Dundee U vs Celtic | 29.01.2023 - Sky Sports",
+          "imageUrl": null
+        },
+        {
+          "id": "CBMiYGh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zY290dGlzaC1wcmVtaWVyc2hpcC9ob3ctd2F0Y2gtZHVuZGVlLXVuaXRlZC12cy0yNjEwMDI0OdIBZGh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zY290dGlzaC1wcmVtaWVyc2hpcC9ob3ctd2F0Y2gtZHVuZGVlLXVuaXRlZC12cy0yNjEwMDI0OS5hbXA",
+          "author": null,
+          "description": "How to watch Dundee United vs Celtic: TV channel, live stream and team news details  Football Scotland",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiYGh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zY290dGlzaC1wcmVtaWVyc2hpcC9ob3ctd2F0Y2gtZHVuZGVlLXVuaXRlZC12cy0yNjEwMDI0OdIBZGh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zY290dGlzaC1wcmVtaWVyc2hpcC9ob3ctd2F0Y2gtZHVuZGVlLXVuaXRlZC12cy0yNjEwMDI0OS5hbXA?oc=5",
+          "publishedOn": "2023-01-28T22:37:27.000Z",
+          "wordCount": 2565,
+          "title": "How to watch Dundee United vs Celtic: TV channel, live stream and team news details - Football Scotland",
+          "imageUrl": "https://i2-prod.footballscotland.co.uk/incoming/article25923284.ece/ALTERNATES/s1200/1_Scottish-Cup-Dundee-Utd-v-Celtic.jpg"
         },
         {
           "id": "CBMiSWh0dHBzOi8vdGhlY2VsdGljYmhveXMuY29tLzIwMjMvMDEvMjgvY2VsdGljLWxpbmtlZC1yZWplY3RzLW1vdmUtZW5nbGFuZC_SAU1odHRwczovL3RoZWNlbHRpY2Job3lzLmNvbS8yMDIzLzAxLzI4L2NlbHRpYy1saW5rZWQtcmVqZWN0cy1tb3ZlLWVuZ2xhbmQvYW1wLw",
@@ -1167,54 +1247,44 @@
           "wordCount": 15070,
           "title": "Celtic Transfer Announcement Hints At A Summer Parkhead Exit | Celts Are Here - CeltsAreHere",
           "imageUrl": "https://cdn.celtsarehere.com/wp-content/uploads/2019/12/MikeyJohnstone.jpg"
-        },
-        {
-          "id": "CBMiLWh0dHBzOi8vd3d3LmJiYy5jby51ay9zcG9ydC9mb290YmFsbC82NDM3MjAxNdIBL2h0dHBzOi8vd3d3LmJiYy5jb20vc3BvcnQvZm9vdGJhbGwvNjQzNzIwMTUuYW1w",
-          "author": null,
-          "description": "Oh Hyeon-gyu: Celtic sign South Korea striker from Suwon Samsung Bluewings  BBC\nOh Hyeon Gyu Celtic transfer move receives Aaron Mooy seal of approval after Asian Champions League encounter  Daily Record\nThe Brilliant Behind The Scenes Celtic Moment Caught On Camera  CeltsAreHere",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiLWh0dHBzOi8vd3d3LmJiYy5jby51ay9zcG9ydC9mb290YmFsbC82NDM3MjAxNdIBL2h0dHBzOi8vd3d3LmJiYy5jb20vc3BvcnQvZm9vdGJhbGwvNjQzNzIwMTUuYW1w?oc=5",
-          "publishedOn": "2023-01-25T09:04:15.000Z",
-          "wordCount": 22926,
-          "title": "Oh Hyeon-gyu: Celtic sign South Korea striker from Suwon Samsung Bluewings - BBC",
-          "imageUrl": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/B541/production/_128410464_oh.jpg"
-        },
-        {
-          "id": "CBMiW2h0dHBzOi8vdGhlY2VsdGljYmhveXMuY29tLzIwMjMvMDEvMjUvZ2lvcmdvcy1naWFrb3VtYWtpcy1maW5hbGx5LWRlY2lkZXMtbmV4dC1jbHViLWNlbHRpYy_SAV9odHRwczovL3RoZWNlbHRpY2Job3lzLmNvbS8yMDIzLzAxLzI1L2dpb3Jnb3MtZ2lha291bWFraXMtZmluYWxseS1kZWNpZGVzLW5leHQtY2x1Yi1jZWx0aWMvYW1wLw",
-          "author": null,
-          "description": "Giorgos Giakoumakis finally decides next club after Celtic  The Celtic Bhoys\nAtlanta blinks as Nicholson stance forces MLS side to make £3.5m Giakoumakis bid  The Celtic Star\nGiorgos Giakoumakis Celtic exit twist as Atlanta come back in with firm bid after striker passes Urawa medical  Glasgow Live",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiW2h0dHBzOi8vdGhlY2VsdGljYmhveXMuY29tLzIwMjMvMDEvMjUvZ2lvcmdvcy1naWFrb3VtYWtpcy1maW5hbGx5LWRlY2lkZXMtbmV4dC1jbHViLWNlbHRpYy_SAV9odHRwczovL3RoZWNlbHRpY2Job3lzLmNvbS8yMDIzLzAxLzI1L2dpb3Jnb3MtZ2lha291bWFraXMtZmluYWxseS1kZWNpZGVzLW5leHQtY2x1Yi1jZWx0aWMvYW1wLw?oc=5",
-          "publishedOn": "2023-01-25T09:01:39.000Z",
-          "wordCount": 2279,
-          "title": "Giorgos Giakoumakis finally decides next club after Celtic - The Celtic Bhoys",
-          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1386511119.jpeg"
-        },
-        {
-          "id": "CBMidmh0dHBzOi8vdGhlY2VsdGljYmxvZy5jb20vMjAyMy8wMS9hcnRpY2xlcy1hbmQtZmVhdHVyZXMvY2VsdGljcy1uYW1lLWxpbmtlZC1hZ2Fpbi10by11dHRlcmx5LWRvb21lZC1zdXBlci1sZWFndWUtcGxhbi_SAXpodHRwczovL3RoZWNlbHRpY2Jsb2cuY29tLzIwMjMvMDEvYXJ0aWNsZXMtYW5kLWZlYXR1cmVzL2NlbHRpY3MtbmFtZS1saW5rZWQtYWdhaW4tdG8tdXR0ZXJseS1kb29tZWQtc3VwZXItbGVhZ3VlLXBsYW4vYW1wLw",
-          "author": null,
-          "description": "Celtic’s Name Linked, Again, To Utterly Doomed Super League Plan.  TheCelticBlog.com",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMidmh0dHBzOi8vdGhlY2VsdGljYmxvZy5jb20vMjAyMy8wMS9hcnRpY2xlcy1hbmQtZmVhdHVyZXMvY2VsdGljcy1uYW1lLWxpbmtlZC1hZ2Fpbi10by11dHRlcmx5LWRvb21lZC1zdXBlci1sZWFndWUtcGxhbi_SAXpodHRwczovL3RoZWNlbHRpY2Jsb2cuY29tLzIwMjMvMDEvYXJ0aWNsZXMtYW5kLWZlYXR1cmVzL2NlbHRpY3MtbmFtZS1saW5rZWQtYWdhaW4tdG8tdXR0ZXJseS1kb29tZWQtc3VwZXItbGVhZ3VlLXBsYW4vYW1wLw?oc=5",
-          "publishedOn": "2023-01-25T09:00:00.000Z",
-          "wordCount": 2155,
-          "title": "Celtic’s Name Linked, Again, To Utterly Doomed Super League Plan. - TheCelticBlog.com",
-          "imageUrl": "https://cdn.thecelticblog.com/wp-content/uploads/2023/01/2018-11-02T170923Z_613333169_RC1C706D8F60_RTRMADP_3_SOCCER-FILES-FAIRPLAY-scaled.jpg"
-        },
-        {
-          "id": "CBMiRmh0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L29oLWh5ZW9uLWd5dS1zZWFscy1jZWx0aWMtMjYwNTU1MDnSAUpodHRwczovL3d3dy5nbGFzZ293bGl2ZS5jby51ay9zcG9ydC9vaC1oeWVvbi1neXUtc2VhbHMtY2VsdGljLTI2MDU1NTA5LmFtcA",
-          "author": null,
-          "description": "Oh Hyeon-gyu seals Celtic transfer as Ange Postecoglou makes 'really wanted' confession over deal  Glasgow Live",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiRmh0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L29oLWh5ZW9uLWd5dS1zZWFscy1jZWx0aWMtMjYwNTU1MDnSAUpodHRwczovL3d3dy5nbGFzZ293bGl2ZS5jby51ay9zcG9ydC9vaC1oeWVvbi1neXUtc2VhbHMtY2VsdGljLTI2MDU1NTA5LmFtcA?oc=5",
-          "publishedOn": "2023-01-25T09:00:00.000Z",
-          "wordCount": 3651,
-          "title": "Oh Hyeon-gyu seals Celtic transfer as Ange Postecoglou makes 'really wanted' confession over deal - Glasgow Live",
-          "imageUrl": "https://i2-prod.glasgowlive.co.uk/incoming/article26065086.ece/ALTERNATES/s1200/0_JS288710729.jpg"
         }
       ]
     },
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
       "articles": [
+        {
+          "id": "b85c74b2f7c5d16a47ca95ab9c44ce72",
+          "author": null,
+          "description": "ANGE POSTECOGLOU paid tribute to midfield masters Aaron Mooy and Callum McGregor after Celtic’s 2-0 win over Dundee United...",
+          "link": "https://www.glasgowtimes.co.uk/sport/23284484.ange-postecoglou-jokes-a-lucky-man-praises-celtic-stars/?ref=rss",
+          "publishedOn": "2023-01-29T19:28:13.000Z",
+          "wordCount": 8491,
+          "title": "Ange Postecoglou jokes he is ‘a lucky man’ as he praises Celtic stars",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16101904/?type=og-image"
+        },
+        {
+          "id": "18e20846217b827e3f6383d93bc6ebc7",
+          "author": null,
+          "description": "Postecoglou's side continued their dominant form with a 2-0 victory away at Dundee United on Sunday.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23284451.ange-postecoglou-reveals-celtic-conscious-decision-var/?ref=rss",
+          "publishedOn": "2023-01-29T18:32:06.000Z",
+          "wordCount": 8454,
+          "title": "Ange Postecoglou reveals his Celtic 'conscious decision' on VAR",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16402704/?type=og-image"
+        },
+        {
+          "id": "50d226b0575ef4e13dd330032c458dfc",
+          "author": null,
+          "description": "Celtic deservedly came out on top of a keenly contested game at Tannadice as second half goals from Jota and a penalty from Aaron Mooy...",
+          "link": "https://www.glasgowtimes.co.uk/sport/23284425.dundee-united-0-celtic-2-five-burning-issues-var-good-day/?ref=rss",
+          "publishedOn": "2023-01-29T17:56:38.000Z",
+          "wordCount": 9167,
+          "title": "Dundee United 0 Celtic 2: Five burning issues as VAR has a good day",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16402697/?type=og-image"
+        },
         {
           "id": "b7a07607a67c54c67f89f80547c3bf61",
           "author": null,
@@ -1564,26 +1634,6 @@
           "wordCount": 8556,
           "title": "Oh Hyeon-gyu in 'movie set' Celtic admission after dream move",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16388558/?type=og-image"
-        },
-        {
-          "id": "fbeb6b81f007ea4279cf42fd8a086f5e",
-          "author": null,
-          "description": "The South Korea international has joined the Scottish champions on a five-year deal.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23274335.celtic-complete-oh-hyeon-gyu-transfer-deal-worth-2-5million/?ref=rss",
-          "publishedOn": "2023-01-25T09:04:31.000Z",
-          "wordCount": 8465,
-          "title": "Celtic complete Oh Hyeon-gyu transfer in deal worth £2.5million",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16388495/?type=og-image"
-        },
-        {
-          "id": "96af8eae3b8acdf564c9501f64c56809",
-          "author": null,
-          "description": "The South Korean striker has checked in at the Scottish champions, as the finer details of the transfers are ironed out.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23274229.oh-hyeon-gyu-celtic-transfer-latest-striker-checks-in/?ref=rss",
-          "publishedOn": "2023-01-25T07:52:21.000Z",
-          "wordCount": 8417,
-          "title": "Oh Hyeon-gyu to Celtic transfer latest as striker 'checks in'",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16388382/?type=og-image"
         }
       ]
     }
