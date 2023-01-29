@@ -169,6 +169,16 @@
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
         {
+          "id": "CBMiRWh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vdGVhbXMtdXAtY2FydGVyLXZpY2tlcnMtc3RhcnRzLW9oLW9uLWJlbmNoL9IBSWh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vdGVhbXMtdXAtY2FydGVyLXZpY2tlcnMtc3RhcnRzLW9oLW9uLWJlbmNoL2FtcC8",
+          "author": null,
+          "description": "Team’s Up – Carter-Vickers starts, Oh on bench  The Celtic Star",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiRWh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vdGVhbXMtdXAtY2FydGVyLXZpY2tlcnMtc3RhcnRzLW9oLW9uLWJlbmNoL9IBSWh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vdGVhbXMtdXAtY2FydGVyLXZpY2tlcnMtc3RhcnRzLW9oLW9uLWJlbmNoL2FtcC8?oc=5",
+          "publishedOn": "2023-01-29T14:48:59.000Z",
+          "wordCount": 1245,
+          "title": "Team’s Up – Carter-Vickers starts, Oh on bench - The Celtic Star",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2023/01/rangers-fc-v-celtic-fc-cinch-scottish-premiership-9-1-1024x698.jpg"
+        },
+        {
           "id": "CBMiU2h0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vdGVhbXMtdXAtdHdvLWNoYW5nZXMtamFjeW50YS1zdGFydHMtaGFuYS1rZXJuZXItb24tYmVuY2gv0gFXaHR0cHM6Ly90aGVjZWx0aWNzdGFyLmNvbS90ZWFtcy11cC10d28tY2hhbmdlcy1qYWN5bnRhLXN0YXJ0cy1oYW5hLWtlcm5lci1vbi1iZW5jaC9hbXAv",
           "author": null,
           "description": "Team’s Up – Two changes, Jacynta starts, Hana Kerner on bench  The Celtic Star",
@@ -1205,6 +1215,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "b7a07607a67c54c67f89f80547c3bf61",
+          "author": null,
+          "description": "The Parkhead boss has included new signing Oh in the squad but there is no Giorgos Giakoumakis.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23284122.ange-postecoglou-names-celtic-team-dundee-united-clash/?ref=rss",
+          "publishedOn": "2023-01-29T13:27:45.000Z",
+          "wordCount": 8324,
+          "title": "Ange Postecoglou names Celtic team for Dundee United clash",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16402221/?type=og-image"
+        },
         {
           "id": "6f009156212c61d2b81b5a9884748424",
           "author": null,
