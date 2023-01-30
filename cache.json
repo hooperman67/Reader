@@ -6,6 +6,36 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4006292",
+          "author": "Matthew Elder",
+          "description": "Celtic and Rangers need to leave Scottish football for the benefit of both themselves and the country as a whole.",
+          "link": "https://www.scotsman.com/sport/football/something-has-to-happen-celtic-and-rangers-urged-to-leave-scottish-football-with-england-or-super-league-move-mooted-4006292",
+          "publishedOn": "2023-01-30T11:42:59.000Z",
+          "wordCount": null,
+          "title": "'Something has to happen' - Celtic and Rangers urged to leave Scottish football with England or Super League move mooted",
+          "imageUrl": null
+        },
+        {
+          "id": "4006122",
+          "author": "Matthew Elder",
+          "description": "Former Celtic striker Tony Cascarino has opened up on his struggles at Parkhead and admitted he regretted not signing for Southampton instead.",
+          "link": "https://www.scotsman.com/sport/football/celtic/former-celtic-striker-lifts-lid-on-dressing-room-cliques-wage-issues-and-regretting-parkhead-move-4006122",
+          "publishedOn": "2023-01-30T10:44:54.000Z",
+          "wordCount": null,
+          "title": "Former Celtic striker lifts lid on dressing room 'cliques', wage issues, and regretting Parkhead move",
+          "imageUrl": null
+        },
+        {
+          "id": "4006010",
+          "author": "Andrew Smith",
+          "description": "Celtic’s comfortable 2-0 win away to Dundee United didn’t contain many stand-out moments. The statistics it extended are firmly out of the ordinary, though.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtic-reaction-stunning-winning-consistency-rangers-and-the-rest-more-super-trouper-shame-4006010",
+          "publishedOn": "2023-01-30T09:51:42.000Z",
+          "wordCount": null,
+          "title": "Celtic reaction: Stunning winning consistency; Rangers … and the rest; more Super Trouper shame",
+          "imageUrl": null
+        },
+        {
           "id": "4005850",
           "author": "Mark Atkinson",
           "description": "The accolades and milestones just keep on coming for Celtic captain Callum McGregor.",
@@ -169,6 +199,46 @@
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
         {
+          "id": "CBMiZ2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3Mvd2lsbGllLWNvbGx1bS11bml0ZXMtY2VsdGljLXJhbmdlcnMtMjkwODQ1NDLSAWtodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL3dpbGxpZS1jb2xsdW0tdW5pdGVzLWNlbHRpYy1yYW5nZXJzLTI5MDg0NTQyLmFtcA",
+          "author": null,
+          "description": "Willie Collum unites Celtic AND Rangers punters but irate Hotline regular insists 'I'm not paranoid'  Daily Record",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiZ2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3Mvd2lsbGllLWNvbGx1bS11bml0ZXMtY2VsdGljLXJhbmdlcnMtMjkwODQ1NDLSAWtodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL3dpbGxpZS1jb2xsdW0tdW5pdGVzLWNlbHRpYy1yYW5nZXJzLTI5MDg0NTQyLmFtcA?oc=5",
+          "publishedOn": "2023-01-30T12:19:09.000Z",
+          "wordCount": 3630,
+          "title": "Willie Collum unites Celtic AND Rangers punters but irate Hotline regular insists 'I'm not paranoid' - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28958172.ece/ALTERNATES/s1200/0_Celtic-v-Kilmarnock-Viaplay-Cup.jpg"
+        },
+        {
+          "id": "CBMiWWh0dHBzOi8vd3d3LnNwb3J0aW5kdXN0cnkuYml6L25ld3MtY2F0ZWdvcmllcy9uZXdzL2NlbHRpYy1zY29yZXMtb2ZmaWNpYWwtc3Bpcml0LXBhcnRuZXIv0gEA",
+          "author": null,
+          "description": "CELTIC SCORES OFFICIAL SPIRIT PARTNER  Sport Industry Group",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiWWh0dHBzOi8vd3d3LnNwb3J0aW5kdXN0cnkuYml6L25ld3MtY2F0ZWdvcmllcy9uZXdzL2NlbHRpYy1zY29yZXMtb2ZmaWNpYWwtc3Bpcml0LXBhcnRuZXIv0gEA?oc=5",
+          "publishedOn": "2023-01-30T11:49:52.000Z",
+          "wordCount": 963,
+          "title": "CELTIC SCORES OFFICIAL SPIRIT PARTNER - Sport Industry Group",
+          "imageUrl": "https://www.sportindustry.biz/wp-content/uploads/2023/01/shutterstock_editorial_13691638ad.jpg"
+        },
+        {
+          "id": "CBMiZmh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9vdGhlci1mb290YmFsbC9raWVyYW4tdGllcm5leS1hcnNlbmFsLXRyYW5zZmVyLWxhdGVzdC0yNjEwNjIyMtIBamh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9vdGhlci1mb290YmFsbC9raWVyYW4tdGllcm5leS1hcnNlbmFsLXRyYW5zZmVyLWxhdGVzdC0yNjEwNjIyMi5hbXA",
+          "author": null,
+          "description": "Kieran Tierney Arsenal transfer latest as Aston Villa urged to sign Celtic hero  Football Scotland",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiZmh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9vdGhlci1mb290YmFsbC9raWVyYW4tdGllcm5leS1hcnNlbmFsLXRyYW5zZmVyLWxhdGVzdC0yNjEwNjIyMtIBamh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9vdGhlci1mb290YmFsbC9raWVyYW4tdGllcm5leS1hcnNlbmFsLXRyYW5zZmVyLWxhdGVzdC0yNjEwNjIyMi5hbXA?oc=5",
+          "publishedOn": "2023-01-30T11:28:57.000Z",
+          "wordCount": 2456,
+          "title": "Kieran Tierney Arsenal transfer latest as Aston Villa urged to sign Celtic hero - Football Scotland",
+          "imageUrl": "https://i2-prod.footballscotland.co.uk/incoming/article26106895.ece/ALTERNATES/s1200/0_GettyImages-1460223913.jpg"
+        },
+        {
+          "id": "CBMidWh0dHBzOi8vd3d3LmlyaXNodGltZXMuY29tL3Nwb3J0L3NvY2Nlci8yMDIzLzAxLzMwL2JhY2staW4tYmxhY2stY2VsdGljLXBva2UtZnVuLWF0LXJpdmFsLXJhbmdlcnMtYWNkYy1jb2xsYWJvcmF0aW9uL9IBAA",
+          "author": null,
+          "description": "Back in black - Celtic poke fun at rival Rangers' AC/DC collaboration  The Irish Times",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMidWh0dHBzOi8vd3d3LmlyaXNodGltZXMuY29tL3Nwb3J0L3NvY2Nlci8yMDIzLzAxLzMwL2JhY2staW4tYmxhY2stY2VsdGljLXBva2UtZnVuLWF0LXJpdmFsLXJhbmdlcnMtYWNkYy1jb2xsYWJvcmF0aW9uL9IBAA?oc=5",
+          "publishedOn": "2023-01-30T10:01:08.000Z",
+          "wordCount": 8270,
+          "title": "Back in black - Celtic poke fun at rival Rangers' AC/DC collaboration - The Irish Times",
+          "imageUrl": "https://www.irishtimes.com/resizer/_wkoH7wSG0EJhGTTDiAh0KuyoSY=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/BKVZOR3OCT3ELVWBYYCIYEDO2A.jpg"
+        },
+        {
           "id": "CBMibmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLXRyYW5zZmVyLW5ld3MvdHJhbnNmZXItbmV3cy1saXZlLXJhbmdlcnMtY2VsdGljLTI5MDgyMzYy0gFyaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvZm9vdGJhbGwtdHJhbnNmZXItbmV3cy90cmFuc2Zlci1uZXdzLWxpdmUtcmFuZ2Vycy1jZWx0aWMtMjkwODIzNjIuYW1w",
           "author": null,
           "description": "Transfer news LIVE as Rangers and Celtic plus Aberdeen, Hearts and Hibs eye signings  Daily Record",
@@ -329,6 +399,16 @@
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/01/GettyImages-1454821749-2-scaled.jpg"
         },
         {
+          "id": "CBMiXGh0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL3Njb3R0LWJyb3duLWNlbHRpYy1pbnNwaXJhdGlvbi1iaWxsaW5nLTI2MTAxOTA10gFgaHR0cHM6Ly93d3cuZ2xhc2dvd2xpdmUuY28udWsvc3BvcnQvZm9vdGJhbGwvc2NvdHQtYnJvd24tY2VsdGljLWluc3BpcmF0aW9uLWJpbGxpbmctMjYxMDE5MDUuYW1w",
+          "author": null,
+          "description": "Scott Brown in Celtic 'inspiration' billing as Kieran Tierney puts ex-captain beside Parkhead legend  Glasgow Live",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiXGh0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL3Njb3R0LWJyb3duLWNlbHRpYy1pbnNwaXJhdGlvbi1iaWxsaW5nLTI2MTAxOTA10gFgaHR0cHM6Ly93d3cuZ2xhc2dvd2xpdmUuY28udWsvc3BvcnQvZm9vdGJhbGwvc2NvdHQtYnJvd24tY2VsdGljLWluc3BpcmF0aW9uLWJpbGxpbmctMjYxMDE5MDUuYW1w?oc=5",
+          "publishedOn": "2023-01-29T12:55:29.000Z",
+          "wordCount": 3569,
+          "title": "Scott Brown in Celtic 'inspiration' billing as Kieran Tierney puts ex-captain beside Parkhead legend - Glasgow Live",
+          "imageUrl": "https://i2-prod.glasgowlive.co.uk/incoming/article26101904.ece/ALTERNATES/s1200/0_JS115935801.jpg"
+        },
+        {
           "id": "CBMiWmh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vbGVhdmluZy1jZWx0aWMtd2FzLXZlcnktZGlmZmljdWx0LWZvci1tZS1hZG1pdHMtam9zaXAtanVyYW5vdmljL9IBXmh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vbGVhdmluZy1jZWx0aWMtd2FzLXZlcnktZGlmZmljdWx0LWZvci1tZS1hZG1pdHMtam9zaXAtanVyYW5vdmljL2FtcC8",
           "author": null,
           "description": "“Leaving Celtic was very difficult for me,” admits Josip Juranovic  The Celtic Star",
@@ -347,6 +427,16 @@
           "wordCount": 3722,
           "title": "Josip Juranovic details Celtic transfer exit options as he reveals why he chose Union over 'bigger' clubs - Glasgow Live",
           "imageUrl": "https://i2-prod.glasgowlive.co.uk/incoming/article26101589.ece/ALTERNATES/s1200/0_Josip-Juranovic-Croatian-international-Josip-Juranovic2092JPG.jpg"
+        },
+        {
+          "id": "CBMiUGh0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L2tpZXJhbi10aWVybmV5LWFyc2VuYWwtbGF0ZXN0LXNlcmllLTI2MTAxNTk20gFUaHR0cHM6Ly93d3cuZ2xhc2dvd2xpdmUuY28udWsvc3BvcnQva2llcmFuLXRpZXJuZXktYXJzZW5hbC1sYXRlc3Qtc2VyaWUtMjYxMDE1OTYuYW1w",
+          "author": null,
+          "description": "Kieran Tierney Arsenal latest as Serie A giants 'ready to contend' for Celtic hero if made available  Glasgow Live",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiUGh0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L2tpZXJhbi10aWVybmV5LWFyc2VuYWwtbGF0ZXN0LXNlcmllLTI2MTAxNTk20gFUaHR0cHM6Ly93d3cuZ2xhc2dvd2xpdmUuY28udWsvc3BvcnQva2llcmFuLXRpZXJuZXktYXJzZW5hbC1sYXRlc3Qtc2VyaWUtMjYxMDE1OTYuYW1w?oc=5",
+          "publishedOn": "2023-01-29T11:37:00.000Z",
+          "wordCount": 3596,
+          "title": "Kieran Tierney Arsenal latest as Serie A giants 'ready to contend' for Celtic hero if made available - Glasgow Live",
+          "imageUrl": "https://i2-prod.glasgowlive.co.uk/incoming/article26101605.ece/ALTERNATES/s1200/0_JS289357582.jpg"
         },
         {
           "id": "CBMiWGh0dHBzOi8vd2VzdGxlZWRzZGlzcGF0Y2guY29tL2ZhcnNsZXktY2VsdGljLWNyYXNoLWF0LWN1cnpvbi1pbi1jcnVuY2gtcmVsZWdhdGlvbi1maWdodC_SAQA",
@@ -447,6 +537,16 @@
           "wordCount": 1351,
           "title": "Aberdeen thrashed, Celtic loanee sent off, Lennon and Lambert decision - The Celtic Star",
           "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/12/imago1020486621h-1024x683.jpg"
+        },
+        {
+          "id": "CBMiZGh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvbGl2ZXJwb29sLWFubm91bmNlLWZpcnN0LTQtcGxheWVycy1mb3ItbGVnZW5kcy1tYXRjaC1hZ2FpbnN0LWNlbHRpYy_SAWhodHRwczovL3d3dy42N2hhaWxoYWlsLmNvbS9uZXdzL2xpdmVycG9vbC1hbm5vdW5jZS1maXJzdC00LXBsYXllcnMtZm9yLWxlZ2VuZHMtbWF0Y2gtYWdhaW5zdC1jZWx0aWMvP2FtcA",
+          "author": null,
+          "description": "Liverpool announce first 4 players for legends match against Celtic  67 Hail Hail - Celtic FC News",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiZGh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvbGl2ZXJwb29sLWFubm91bmNlLWZpcnN0LTQtcGxheWVycy1mb3ItbGVnZW5kcy1tYXRjaC1hZ2FpbnN0LWNlbHRpYy_SAWhodHRwczovL3d3dy42N2hhaWxoYWlsLmNvbS9uZXdzL2xpdmVycG9vbC1hbm5vdW5jZS1maXJzdC00LXBsYXllcnMtZm9yLWxlZ2VuZHMtbWF0Y2gtYWdhaW5zdC1jZWx0aWMvP2FtcA?oc=5",
+          "publishedOn": "2023-01-28T12:41:12.000Z",
+          "wordCount": 1837,
+          "title": "Liverpool announce first 4 players for legends match against Celtic - 67 Hail Hail - Celtic FC News",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/01/GettyImages-498179932-scaled.jpg"
         },
         {
           "id": "CBMicmh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9pbS1ub3Qtc3VyZS1oaXMtYWdlbnQtd291bGR2ZS1iZWVuLXRvby1oYXBweS1wb3N0ZWNvZ2xvdS1tYWtlcy1jZWx0aWMtdHJhbnNmZXItYWRtaXNzaW9uL9IBdmh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9pbS1ub3Qtc3VyZS1oaXMtYWdlbnQtd291bGR2ZS1iZWVuLXRvby1oYXBweS1wb3N0ZWNvZ2xvdS1tYWtlcy1jZWx0aWMtdHJhbnNmZXItYWRtaXNzaW9uL2FtcC8",
@@ -1047,43 +1147,13 @@
           "wordCount": 3584,
           "title": "Jamie McGrath warns Celtic over 'different' Dundee United from Tannadice rout - Daily Record",
           "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article29050589.ece/ALTERNATES/s1200/0_Dundee-United-v-University-of-Stirling.jpg"
-        },
-        {
-          "id": "CBMiZWh0dHBzOi8vd3d3LnNjb3R0aXNoZGFpbHlleHByZXNzLmNvLnVrL25ld3Mvc2NvdHRpc2gtbmV3cy9jZWx0aWNzLXNlcGFyYXRlLWVudGl0eS1jbGFpbS1iZWVuLTI5MDUxMTUz0gFpaHR0cHM6Ly93d3cuc2NvdHRpc2hkYWlseWV4cHJlc3MuY28udWsvbmV3cy9zY290dGlzaC1uZXdzL2NlbHRpY3Mtc2VwYXJhdGUtZW50aXR5LWNsYWltLWJlZW4tMjkwNTExNTMuYW1w",
-          "author": null,
-          "description": "Celtic Boys Club survivor says 'separate entity' claim has been 'blown to bits'  Scottish Daily Express",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiZWh0dHBzOi8vd3d3LnNjb3R0aXNoZGFpbHlleHByZXNzLmNvLnVrL25ld3Mvc2NvdHRpc2gtbmV3cy9jZWx0aWNzLXNlcGFyYXRlLWVudGl0eS1jbGFpbS1iZWVuLTI5MDUxMTUz0gFpaHR0cHM6Ly93d3cuc2NvdHRpc2hkYWlseWV4cHJlc3MuY28udWsvbmV3cy9zY290dGlzaC1uZXdzL2NlbHRpY3Mtc2VwYXJhdGUtZW50aXR5LWNsYWltLWJlZW4tMjkwNTExNTMuYW1w?oc=5",
-          "publishedOn": "2023-01-26T00:01:00.000Z",
-          "wordCount": 3404,
-          "title": "Celtic Boys Club survivor says 'separate entity' claim has been 'blown to bits' - Scottish Daily Express",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article29048214.ece/ALTERNATES/s1200/0_JS117930530-1.jpg"
-        },
-        {
-          "id": "CBMiXmh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vaG93LWRvLWNlbHRpYy1pbXByb3ZlLW9uLXRoZWlyLWNoYW1waW9ucy1sZWFndWUtcmVzdWx0cy1uZXh0LXNlYXNvbi_SAWJodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL2hvdy1kby1jZWx0aWMtaW1wcm92ZS1vbi10aGVpci1jaGFtcGlvbnMtbGVhZ3VlLXJlc3VsdHMtbmV4dC1zZWFzb24vYW1wLw",
-          "author": null,
-          "description": "How Do Celtic Improve on Their Champions League Results Next Season?  The Celtic Star",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiXmh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vaG93LWRvLWNlbHRpYy1pbXByb3ZlLW9uLXRoZWlyLWNoYW1waW9ucy1sZWFndWUtcmVzdWx0cy1uZXh0LXNlYXNvbi_SAWJodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL2hvdy1kby1jZWx0aWMtaW1wcm92ZS1vbi10aGVpci1jaGFtcGlvbnMtbGVhZ3VlLXJlc3VsdHMtbmV4dC1zZWFzb24vYW1wLw?oc=5",
-          "publishedOn": "2023-01-25T23:27:03.000Z",
-          "wordCount": 1663,
-          "title": "How Do Celtic Improve on Their Champions League Results Next Season? - The Celtic Star",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/09/fbl-eur-c1-celtic-real-madrid-13-1024x627.jpeg"
-        },
-        {
-          "id": "CBMiT2h0dHBzOi8vZGFpbHloaXZlLmNvbS92YW5jb3V2ZXIvYWxpc3RhaXItam9obnN0b24tY2VsdGljLWZjLXNsYW5nLWNhbmFkYS1zb2NjZXLSAQA",
-          "author": null,
-          "description": "Canadian World Cup star Alistair Johnston tests his Scottish slang ...  Daily Hive",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiT2h0dHBzOi8vZGFpbHloaXZlLmNvbS92YW5jb3V2ZXIvYWxpc3RhaXItam9obnN0b24tY2VsdGljLWZjLXNsYW5nLWNhbmFkYS1zb2NjZXLSAQA?oc=5",
-          "publishedOn": "2023-01-25T23:11:00.000Z",
-          "wordCount": 1037,
-          "title": "Canadian World Cup star Alistair Johnston tests his Scottish slang ... - Daily Hive",
-          "imageUrl": "https://images.dailyhive.com/20230125144811/johnston-dh-500x258.jpg"
         }
       ]
     },
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
       "articles": [
         {
           "id": "b85c74b2f7c5d16a47ca95ab9c44ce72",
