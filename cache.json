@@ -6,6 +6,26 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4008347",
+          "author": "Oliver Anderson",
+          "description": "Celtic manager Ange Postecoglou has ruled out any late deadline day signings after largely doing his business early in the month.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtic-boss-ange-postecoglou-confirms-transfer-deal-to-be-concluded-in-next-24-hours-4008347",
+          "publishedOn": "2023-01-31T14:33:37.000Z",
+          "wordCount": null,
+          "title": "Celtic boss Ange Postecoglou confirms transfer deal to be concluded 'in next 24 hours'",
+          "imageUrl": null
+        },
+        {
+          "id": "4007433",
+          "author": "Stephen Mcilkenny",
+          "description": "It’s a day that many football fans live for, with wild rumours, done deals and last minute negotiations as clubs look to strengthen on the last day of the transfer window.",
+          "link": "https://www.scotsman.com/sport/football/scottish-transfer-deadline-day-live-rangers-knocked-back-in-loan-bid-no-more-incomings-at-celtic-zak-rudden-in-st-johnstone-loan-4007433",
+          "publishedOn": "2023-01-31T14:23:55.000Z",
+          "wordCount": null,
+          "title": "Scottish Transfer Deadline Day LIVE: Rangers knocked back in loan bid | No more incomings at Celtic | Zak Rudden in St Johnstone loan?",
+          "imageUrl": null
+        },
+        {
           "id": "4007433",
           "author": "Stephen Mcilkenny",
           "description": "It’s a day that many football fans live for, with wild rumours, done deals and last minute negotiations as clubs look to strengthen on the last day of the transfer window.",
@@ -268,6 +288,36 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CBMiT2h0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vamFtZXMtbWNjYXJ0aHktYmV0dGVyLXN1aXRlZC10by1lbmdsaXNoLWNoYW1waW9uc2hpcC_SAVNodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL2phbWVzLW1jY2FydGh5LWJldHRlci1zdWl0ZWQtdG8tZW5nbGlzaC1jaGFtcGlvbnNoaXAvYW1wLw",
+          "author": null,
+          "description": "James McCarthy – Better Suited to English Championship  The Celtic Star",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiT2h0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vamFtZXMtbWNjYXJ0aHktYmV0dGVyLXN1aXRlZC10by1lbmdsaXNoLWNoYW1waW9uc2hpcC_SAVNodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL2phbWVzLW1jY2FydGh5LWJldHRlci1zdWl0ZWQtdG8tZW5nbGlzaC1jaGFtcGlvbnNoaXAvYW1wLw?oc=5",
+          "publishedOn": "2023-01-31T13:19:32.000Z",
+          "wordCount": 1685,
+          "title": "James McCarthy – Better Suited to English Championship - The Celtic Star",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2021/09/1006751158-1024x779.jpg"
+        },
+        {
+          "id": "CBMiZGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vdHJhbnNmZXItbGF0ZXN0LWFsb25zby1zaWducy0yNi15ZWFyLW9sZC1nb2FsLW1hY2hpbmUtZnJvbS1sZWljZXN0ZXItY2l0eS_SAWhodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL3RyYW5zZmVyLWxhdGVzdC1hbG9uc28tc2lnbnMtMjYteWVhci1vbGQtZ29hbC1tYWNoaW5lLWZyb20tbGVpY2VzdGVyLWNpdHkvYW1wLw",
+          "author": null,
+          "description": "Transfer Latest – Alonso signs 26 year-old ‘goal machine’ from Leicester City  The Celtic Star",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiZGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vdHJhbnNmZXItbGF0ZXN0LWFsb25zby1zaWducy0yNi15ZWFyLW9sZC1nb2FsLW1hY2hpbmUtZnJvbS1sZWljZXN0ZXItY2l0eS_SAWhodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL3RyYW5zZmVyLWxhdGVzdC1hbG9uc28tc2lnbnMtMjYteWVhci1vbGQtZ29hbC1tYWNoaW5lLWZyb20tbGVpY2VzdGVyLWNpdHkvYW1wLw?oc=5",
+          "publishedOn": "2023-01-31T12:44:12.000Z",
+          "wordCount": 1433,
+          "title": "Transfer Latest – Alonso signs 26 year-old ‘goal machine’ from Leicester City - The Celtic Star",
+          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2023/01/leicester-city-v-charlton-athletic-barclays-fa-womens-championship-1024x682.jpeg"
+        },
+        {
+          "id": "CBMiUWh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zcGZsLXRyYW5zZmVyLWRlYWRsaW5lLW5ld3MtbGl2ZS0yNjEwNDIzM9IBVWh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zcGZsLXRyYW5zZmVyLWRlYWRsaW5lLW5ld3MtbGl2ZS0yNjEwNDIzMy5hbXA",
+          "author": null,
+          "description": "SPFL transfer deadline news LIVE! Celtic, Ranger,s Hearts, Hibs and Aberdeen latest as clubs target deals  Football Scotland",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiUWh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zcGZsLXRyYW5zZmVyLWRlYWRsaW5lLW5ld3MtbGl2ZS0yNjEwNDIzM9IBVWh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zcGZsLXRyYW5zZmVyLWRlYWRsaW5lLW5ld3MtbGl2ZS0yNjEwNDIzMy5hbXA?oc=5",
+          "publishedOn": "2023-01-31T12:43:01.000Z",
+          "wordCount": 9328,
+          "title": "SPFL transfer deadline news LIVE! Celtic, Ranger,s Hearts, Hibs and Aberdeen latest as clubs target deals - Football Scotland",
+          "imageUrl": "https://i2-prod.footballscotland.co.uk/incoming/article26119961.ece/ALTERNATES/s1200/0_SPFL-transfers-live-DD-2-blog.png"
+        },
         {
           "id": "CBMiLWh0dHBzOi8vd3d3LmJiYy5jby51ay9zcG9ydC9mb290YmFsbC82NDQ2OTI5OdIBL2h0dHBzOi8vd3d3LmJiYy5jb20vc3BvcnQvZm9vdGJhbGwvNjQ0NjkyOTkuYW1w",
           "author": null,
@@ -1315,6 +1365,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "61a58a376ee426dbb561e29dfc7bc411",
+          "author": null,
+          "description": "The Scottish champions have already bolstered their squad with transfer business conducted both swiftly and professionally.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23289333.celtic-january-transfer-deadline-day-state-play/?ref=rss",
+          "publishedOn": "2023-01-31T15:09:16.000Z",
+          "wordCount": 8555,
+          "title": "Celtic January transfer deadline day state of play",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16409742/?type=og-image"
+        },
         {
           "id": "f9d50e79a5c94af1abcf01f972409654",
           "author": null,
