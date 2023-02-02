@@ -369,6 +369,16 @@
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
         {
+          "id": "CBMiVWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Jlbi1kb2FrLW1ha2luZy1yYXBpZC1saXZlcnBvb2wtMjkxMTg0NzjSAVlodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9iZW4tZG9hay1tYWtpbmctcmFwaWQtbGl2ZXJwb29sLTI5MTE4NDc4LmFtcA",
+          "author": null,
+          "description": "Ben Doak given glowing Liverpool assessment with first team chances available  Daily Record",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiVWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Jlbi1kb2FrLW1ha2luZy1yYXBpZC1saXZlcnBvb2wtMjkxMTg0NzjSAVlodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9iZW4tZG9hay1tYWtpbmctcmFwaWQtbGl2ZXJwb29sLTI5MTE4NDc4LmFtcA?oc=5",
+          "publishedOn": "2023-02-02T17:38:42.000Z",
+          "wordCount": 3270,
+          "title": "Ben Doak given glowing Liverpool assessment with first team chances available - Daily Record",
+          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article29118491.ece/ALTERNATES/s1200/0_Wolverhampton-Wanderers-v-Liverpool-Emirates-FA-Cup-Third-Round-Replay.jpg"
+        },
+        {
           "id": "CBMiTmh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vbWljay1iZWFsZXMtbmluZS1wb2ludHMtYW5kLWdvYWwtZGlmZmVyZW5jZS1wcm9ibGVtL9IBUmh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vbWljay1iZWFsZXMtbmluZS1wb2ludHMtYW5kLWdvYWwtZGlmZmVyZW5jZS1wcm9ibGVtL2FtcC8",
           "author": null,
           "description": "Mick Beale’s Nine Points and Goal Difference Problem  The Celtic Star",
@@ -1673,8 +1683,18 @@
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
       "articles": [
+        {
+          "id": "692b0f3105830e2cf5e9cc2ca20963db",
+          "author": null,
+          "description": "ANGE POSTECOGLOU’S feelings about VAR are pretty clear and obvious: while the big Australian does not oppose its use outright, he feels a more soft-touch approach from those camped in Clydesdale House should be adopted to avoid the lengthy delays that have curbed his enthusiasm this season. Maybe it’s because it’s summertime in the Celtic manager’s hometown of Melbourne at this time of year, and standing around watching referees poke their fingers in their ears and squint at TV monitors",
+          "link": "https://www.glasgowtimes.co.uk/sport/23296038.thing-clear-obvious-var-approach-must-change/?ref=rss",
+          "publishedOn": "2023-02-02T19:00:00.000Z",
+          "wordCount": 9208,
+          "title": "Only thing clear and obvious is VAR approach must change",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16420197/?type=og-image"
+        },
         {
           "id": "5092df4b0d41b1f7a2b99211ed195aa6",
           "author": null,
