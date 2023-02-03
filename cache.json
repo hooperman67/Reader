@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4013988",
+          "author": "Mark Atkinson",
+          "description": "Queen’s Park have been ejected from the Scottish Cup for fielding an ineligible player in their fourth-round victory over Inverness.",
+          "link": "https://www.scotsman.com/sport/football/queens-park-thrown-out-of-scottish-cup-for-fielding-ineligible-hearts-loanee-4013988",
+          "publishedOn": "2023-02-03T16:55:07.000Z",
+          "wordCount": null,
+          "title": "Queen's Park thrown out of Scottish Cup for fielding ineligible Hearts loanee",
+          "imageUrl": null
+        },
+        {
           "id": "4013697",
           "author": "Angus Wright",
           "description": "Celtic boss Ange Postecoglou believes the transfer taking Giorgos Giakoumakis to MLS outfit Atlanta United should be “concuded fairly soon”.",
@@ -1845,6 +1855,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "fc5de071bbe0d873affa6795e10f5788",
+          "author": null,
+          "description": "The Australian has made his opinion clear on the topic",
+          "link": "https://www.glasgowtimes.co.uk/sport/23298257.postecoglou-details-celtic-transfer-model-spelt-end-players/?ref=rss",
+          "publishedOn": "2023-02-03T15:57:31.000Z",
+          "wordCount": 8474,
+          "title": "Ange Postecoglou explains positives of Celtic's transfer model",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16398209/?type=og-image"
+        },
         {
           "id": "c731390908307029657821abe04af003",
           "author": null,
