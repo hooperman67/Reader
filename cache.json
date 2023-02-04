@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4014555",
+          "author": "Andrew Smith",
+          "description": "Ross County manager Malky Mackay believes his team’s ability to avoid Glasgow going-overs should have relegation rivals fretting.",
+          "link": "https://www.scotsman.com/sport/football/rangers/malky-mackay-makes-celtic-and-rangers-claim-as-ross-county-boss-insists-it-gives-me-evidence-4014555",
+          "publishedOn": "2023-02-04T19:16:41.000Z",
+          "wordCount": null,
+          "title": "Malky Mackay makes Celtic and Rangers claim as Ross County boss insists: 'It gives me evidence'",
+          "imageUrl": null
+        },
+        {
           "id": "4014148",
           "author": "Andrew Smith",
           "description": "Targets are anathema to Ange Postecoglou. They “kind of put a ceiling on what you want to do” is how the Celtic manager perceives them.",
@@ -254,16 +264,6 @@
           "wordCount": null,
           "title": "Scottish Transfer Deadline Day LIVE: Raskin to Rangers latest | Hibs weigh up second Jonny Williams bid  | Liam Fox in Tony Watt update",
           "imageUrl": null
-        },
-        {
-          "id": "4007433",
-          "author": "Matthew Elder",
-          "description": "It’s a day that many football fans live for, with wild rumours, done deals and last minute negotiations as clubs look to strengthen on the last day of the transfer window.",
-          "link": "https://www.scotsman.com/sport/football/scottish-transfer-deadline-day-live-raskin-to-rangers-latest-giakoumakis-nears-celtic-exit-rumours-and-done-deals-from-around-scotland-4007433",
-          "publishedOn": "2023-01-31T07:24:25.000Z",
-          "wordCount": null,
-          "title": "Scottish Transfer Deadline Day LIVE: Raskin to Rangers latest | Giakoumakis nears Celtic exit? | Rumours and done deals from around Scotland",
-          "imageUrl": null
         }
       ]
     },
@@ -278,6 +278,26 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CBMiSWh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9mb3JtZXItY2VsdGljLXN0cmlrZXItZHJlYW1zLW9mLXBhcmtoZWFkLXJldHVybi_SAU1odHRwczovL2NlbHRzYXJlaGVyZS5jb20vZm9ybWVyLWNlbHRpYy1zdHJpa2VyLWRyZWFtcy1vZi1wYXJraGVhZC1yZXR1cm4vYW1wLw",
+          "author": null,
+          "description": "Former Celtic Striker Dreams Of Parkhead Return | Celts Are Here  CeltsAreHere",
+          "link": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9mb3JtZXItY2VsdGljLXN0cmlrZXItZHJlYW1zLW9mLXBhcmtoZWFkLXJldHVybi_SAU1odHRwczovL2NlbHRzYXJlaGVyZS5jb20vZm9ybWVyLWNlbHRpYy1zdHJpa2VyLWRyZWFtcy1vZi1wYXJraGVhZC1yZXR1cm4vYW1wLw?oc=5",
+          "publishedOn": "2023-02-04T18:45:16.000Z",
+          "wordCount": 6062,
+          "title": "Former Celtic Striker Dreams Of Parkhead Return | Celts Are Here - CeltsAreHere",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiTmh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9tb3JpdHotamVuei1lYXJucy1hbXVzaW5nLW5pY2tuYW1lLXdpdGgtc2NoYWxrZS1mYW5zL9IBUmh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9tb3JpdHotamVuei1lYXJucy1hbXVzaW5nLW5pY2tuYW1lLXdpdGgtc2NoYWxrZS1mYW5zL2FtcC8",
+          "author": null,
+          "description": "Moritz Jenz Earns Amusing Nickname With Schalke Fans | Celts Are Here  CeltsAreHere",
+          "link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9tb3JpdHotamVuei1lYXJucy1hbXVzaW5nLW5pY2tuYW1lLXdpdGgtc2NoYWxrZS1mYW5zL9IBUmh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9tb3JpdHotamVuei1lYXJucy1hbXVzaW5nLW5pY2tuYW1lLXdpdGgtc2NoYWxrZS1mYW5zL2FtcC8?oc=5",
+          "publishedOn": "2023-02-04T18:14:47.000Z",
+          "wordCount": 6062,
+          "title": "Moritz Jenz Earns Amusing Nickname With Schalke Fans | Celts Are Here - CeltsAreHere",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiYmh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvamFtaWUtY2FycmFnaGVyLWFuZC01LW1vcmUtam9pbi1saXZlcnBvb2wtdnMtY2VsdGljLWFuZmllbGQtY2xhc2gv0gFmaHR0cHM6Ly93d3cuNjdoYWlsaGFpbC5jb20vbmV3cy9qYW1pZS1jYXJyYWdoZXItYW5kLTUtbW9yZS1qb2luLWxpdmVycG9vbC12cy1jZWx0aWMtYW5maWVsZC1jbGFzaC8_YW1w",
           "author": null,
@@ -516,6 +536,16 @@
           "publishedOn": "2023-02-03T08:42:17.000Z",
           "wordCount": 6062,
           "title": "Kilcock Celtic Gear Up For Top Of The Table Clash With Victory Over ... - Kildare Nationalist",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiqwFodHRwczovL3d3dy5jd21icmFubGlmZS5jby51ay92aWRlby1ob3BlZnVsbHktd2UtY2FuLWNhdXNlLWFuLXVwc2V0LWN3bWJyYW4tY2VsdGljLWZjLXByZXBhcmUtdG8tcGxheS13ZWxzaC1sZWFndWUtYW5kLWN1cC1jaGFtcGlvbnMtdGhlLW5ldy1zYWludHMtaW4tcXVhcnRlci1maW5hbC1jbGFzaC_SAQA",
+          "author": null,
+          "description": "VIDEO: 'Hopefully, we can cause an upset': Cwmbran Celtic FC ...  Cwmbran Life",
+          "link": "https://news.google.com/rss/articles/CBMiqwFodHRwczovL3d3dy5jd21icmFubGlmZS5jby51ay92aWRlby1ob3BlZnVsbHktd2UtY2FuLWNhdXNlLWFuLXVwc2V0LWN3bWJyYW4tY2VsdGljLWZjLXByZXBhcmUtdG8tcGxheS13ZWxzaC1sZWFndWUtYW5kLWN1cC1jaGFtcGlvbnMtdGhlLW5ldy1zYWludHMtaW4tcXVhcnRlci1maW5hbC1jbGFzaC_SAQA?oc=5",
+          "publishedOn": "2023-02-02T21:28:46.000Z",
+          "wordCount": 6062,
+          "title": "VIDEO: 'Hopefully, we can cause an upset': Cwmbran Celtic FC ... - Cwmbran Life",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -1567,76 +1597,6 @@
           "wordCount": 2086,
           "title": "“Aaron Mooy has silenced me and the rest of his critics,” Charlie Nicholas - The Celtic Star",
           "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2023/01/imago1022583337h-1024x697.jpg"
-        },
-        {
-          "id": "CBMiYWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2xvY2FsLXNwb3J0L2NlbHRpYy1kZWZlbmRlci1vcGVuLXNoZWZmaWVsZC13ZWRuZXNkYXktMjkwOTIyMDLSAWVodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9sb2NhbC1zcG9ydC9jZWx0aWMtZGVmZW5kZXItb3Blbi1zaGVmZmllbGQtd2VkbmVzZGF5LTI5MDkyMjAyLmFtcA",
-          "author": null,
-          "description": "Celtic defender 'open' to Sheffield Wednesday move  Daily Record",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiYWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2xvY2FsLXNwb3J0L2NlbHRpYy1kZWZlbmRlci1vcGVuLXNoZWZmaWVsZC13ZWRuZXNkYXktMjkwOTIyMDLSAWVodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9sb2NhbC1zcG9ydC9jZWx0aWMtZGVmZW5kZXItb3Blbi1zaGVmZmllbGQtd2VkbmVzZGF5LTI5MDkyMjAyLmFtcA?oc=5",
-          "publishedOn": "2023-01-31T08:47:33.000Z",
-          "wordCount": 3125,
-          "title": "Celtic defender 'open' to Sheffield Wednesday move - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28764741.ece/ALTERNATES/s1200/0_Celtic-FC-Media-Access.jpg"
-        },
-        {
-          "id": "CBMiX2h0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vc2hhdW4tbWFsb25leS1zZWVzLWF1ZGFjaW91cy1iaWQtZm9yLXJlcG9ydGVkLWNlbHRpYy10YXJnZXQtcmVqZWN0ZWQv0gFjaHR0cHM6Ly90aGVjZWx0aWNzdGFyLmNvbS9zaGF1bi1tYWxvbmV5LXNlZXMtYXVkYWNpb3VzLWJpZC1mb3ItcmVwb3J0ZWQtY2VsdGljLXRhcmdldC1yZWplY3RlZC9hbXAv",
-          "author": null,
-          "description": "Shaun Maloney sees audacious bid for reported Celtic target rejected  The Celtic Star",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiX2h0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vc2hhdW4tbWFsb25leS1zZWVzLWF1ZGFjaW91cy1iaWQtZm9yLXJlcG9ydGVkLWNlbHRpYy10YXJnZXQtcmVqZWN0ZWQv0gFjaHR0cHM6Ly90aGVjZWx0aWNzdGFyLmNvbS9zaGF1bi1tYWxvbmV5LXNlZXMtYXVkYWNpb3VzLWJpZC1mb3ItcmVwb3J0ZWQtY2VsdGljLXRhcmdldC1yZWplY3RlZC9hbXAv?oc=5",
-          "publishedOn": "2023-01-31T08:11:00.000Z",
-          "wordCount": 1357,
-          "title": "Shaun Maloney sees audacious bid for reported Celtic target rejected - The Celtic Star",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2022/01/celtic-fc-v-hibernian-fc-cinch-scottish-premiership-30-1024x683.jpg"
-        },
-        {
-          "id": "CBMiRmh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9jZWx0aWNzLWRlYWRsaW5lLWRheS1idXNpbmVzcy13aGF0LXRvLWV4cGV4dC_SAUpodHRwczovL2NlbHRzYXJlaGVyZS5jb20vY2VsdGljcy1kZWFkbGluZS1kYXktYnVzaW5lc3Mtd2hhdC10by1leHBleHQvYW1wLw",
-          "author": null,
-          "description": "Celtic’s Deadline Day Business; What To Expext | Celts Are Here  CeltsAreHere",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiRmh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9jZWx0aWNzLWRlYWRsaW5lLWRheS1idXNpbmVzcy13aGF0LXRvLWV4cGV4dC_SAUpodHRwczovL2NlbHRzYXJlaGVyZS5jb20vY2VsdGljcy1kZWFkbGluZS1kYXktYnVzaW5lc3Mtd2hhdC10by1leHBleHQvYW1wLw?oc=5",
-          "publishedOn": "2023-01-31T08:08:48.000Z",
-          "wordCount": 14969,
-          "title": "Celtic’s Deadline Day Business; What To Expext | Celts Are Here - CeltsAreHere",
-          "imageUrl": "https://cdn.celtsarehere.com/wp-content/uploads/2022/10/cropped-52E1271C-59FF-4639-BF97-0B7A204D74CD.jpeg"
-        },
-        {
-          "id": "CBMic2h0dHBzOi8vd3d3LnRoZXNjb3R0aXNoc3VuLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsLzk5NzU1MDAvdHJhbnNmZXItZGVhZGxpbmUtZGF5LW5ld3MtbGl2ZS1yYW5nZXJzLWNlbHRpYy1oZWFydHMtaGlicy_SAXdodHRwczovL3d3dy50aGVzY290dGlzaHN1bi5jby51ay9zcG9ydC9mb290YmFsbC85OTc1NTAwL3RyYW5zZmVyLWRlYWRsaW5lLWRheS1uZXdzLWxpdmUtcmFuZ2Vycy1jZWx0aWMtaGVhcnRzLWhpYnMvYW1wLw",
-          "author": null,
-          "description": "Transfer Deadline Day LIVE REACTION: Rangers, Celtic, Hearts, Hibs – Giakoumakis latest, Raskin speaks, A...  The Scottish Sun",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMic2h0dHBzOi8vd3d3LnRoZXNjb3R0aXNoc3VuLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsLzk5NzU1MDAvdHJhbnNmZXItZGVhZGxpbmUtZGF5LW5ld3MtbGl2ZS1yYW5nZXJzLWNlbHRpYy1oZWFydHMtaGlicy_SAXdodHRwczovL3d3dy50aGVzY290dGlzaHN1bi5jby51ay9zcG9ydC9mb290YmFsbC85OTc1NTAwL3RyYW5zZmVyLWRlYWRsaW5lLWRheS1uZXdzLWxpdmUtcmFuZ2Vycy1jZWx0aWMtaGVhcnRzLWhpYnMvYW1wLw?oc=5",
-          "publishedOn": "2023-01-31T07:46:26.000Z",
-          "wordCount": 22091,
-          "title": "Transfer Deadline Day LIVE REACTION: Rangers, Celtic, Hearts, Hibs – Giakoumakis latest, Raskin speaks, A... - The Scottish Sun",
-          "imageUrl": "https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2023/02/KH-OFF-PLATFORM-TRANSFER-BLOG-SCOTTISH.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
-        },
-        {
-          "id": "CBMiaGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvY2hhcmxpZS1uaWNob2xhcy1pc3N1ZXMtY2VsdGljLXNvcnJ5LTI5MDkxNzUw0gFsaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvZm9vdGJhbGwtbmV3cy9jaGFybGllLW5pY2hvbGFzLWlzc3Vlcy1jZWx0aWMtc29ycnktMjkwOTE3NTAuYW1w",
-          "author": null,
-          "description": "Charlie Nicholas issues Celtic sorry as sheepish pundit admits 'I got it wrong'  Daily Record",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiaGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvY2hhcmxpZS1uaWNob2xhcy1pc3N1ZXMtY2VsdGljLXNvcnJ5LTI5MDkxNzUw0gFsaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvZm9vdGJhbGwtbmV3cy9jaGFybGllLW5pY2hvbGFzLWlzc3Vlcy1jZWx0aWMtc29ycnktMjkwOTE3NTAuYW1w?oc=5",
-          "publishedOn": "2023-01-31T07:16:38.000Z",
-          "wordCount": 3444,
-          "title": "Charlie Nicholas issues Celtic sorry as sheepish pundit admits 'I got it wrong' - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/sport/football/football-news/article28204935.ece/ALTERNATES/s1200/0_Screen-Shot-2022-10-11-at-061356.png"
-        },
-        {
-          "id": "CBMiVGh0dHBzOi8vd3d3LmNlbHRpY3dheS5jby51ay9mZWF0dXJlcy8yMzI4NTczOC5jZWx0aWNzLWNhbGx1bS1tY2dyZWdvci1uby1vbmUtYmV0dGVyL9IBAA",
-          "author": null,
-          "description": "An ode to Callum McGregor after his 400th Celtic appearance ...  Celtic Way",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiVGh0dHBzOi8vd3d3LmNlbHRpY3dheS5jby51ay9mZWF0dXJlcy8yMzI4NTczOC5jZWx0aWNzLWNhbGx1bS1tY2dyZWdvci1uby1vbmUtYmV0dGVyL9IBAA?oc=5",
-          "publishedOn": "2023-01-31T07:15:00.000Z",
-          "wordCount": 8885,
-          "title": "An ode to Callum McGregor after his 400th Celtic appearance ... - Celtic Way",
-          "imageUrl": "https://www.celticway.co.uk/resources/images/16405902/?type=og-image"
-        },
-        {
-          "id": "CBMicmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLXRyYW5zZmVyLW5ld3MvdHJhbnNmZXItZGVhZGxpbmUtbGl2ZS1yYW5nZXJzLWNlbHRpYy0yOTA5MDUzMdIBdmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLXRyYW5zZmVyLW5ld3MvdHJhbnNmZXItZGVhZGxpbmUtbGl2ZS1yYW5nZXJzLWNlbHRpYy0yOTA5MDUzMS5hbXA",
-          "author": null,
-          "description": "Transfer deadline LIVE as Rangers and Celtic plus Aberdeen, Hearts and Hibs make final signings  Daily Record",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMicmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLXRyYW5zZmVyLW5ld3MvdHJhbnNmZXItZGVhZGxpbmUtbGl2ZS1yYW5nZXJzLWNlbHRpYy0yOTA5MDUzMdIBdmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLXRyYW5zZmVyLW5ld3MvdHJhbnNmZXItZGVhZGxpbmUtbGl2ZS1yYW5nZXJzLWNlbHRpYy0yOTA5MDUzMS5hbXA?oc=5",
-          "publishedOn": "2023-01-31T06:31:43.000Z",
-          "wordCount": 6287,
-          "title": "Transfer deadline LIVE as Rangers and Celtic plus Aberdeen, Hearts and Hibs make final signings - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/sport/football/football-news/article29090537.ece/ALTERNATES/s1200/1_DDAYjan23.jpg"
         }
       ]
     },
@@ -1994,26 +1954,6 @@
           "wordCount": 8432,
           "title": "Ideguchi 'eyed for Celtic loan exit' by clubs in Germany & Japan",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16407934/?type=og-image"
-        },
-        {
-          "id": "7cd442fa83d3f94b5e95455c805a9364",
-          "author": null,
-          "description": "Charlie Nicholas has issued an apology to Aaron Mooy after he questioned Celtic's signing of the Australian international.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23287548.charlie-nicholas-issues-aaron-mooy-celtic-apology/?ref=rss",
-          "publishedOn": "2023-01-31T08:05:25.000Z",
-          "wordCount": 8436,
-          "title": "Charlie Nicholas issues Aaron Mooy Celtic apology",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16407303/?type=og-image"
-        },
-        {
-          "id": "c9e050e2c654bc897c31028e6c102a75",
-          "author": null,
-          "description": "Deadline day is upon us and it could be a busy one for both Celtic and Rangers. Stick with us for all the latest comings and goings in the Scottish Premiership!",
-          "link": "https://www.glasgowtimes.co.uk/sport/23287505.rangers-celtic-transfer-deadline-day-live-blog/?ref=rss",
-          "publishedOn": "2023-01-31T07:18:36.000Z",
-          "wordCount": 8021,
-          "title": "Rangers and Celtic transfer deadline day LIVE blog",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16407239/?type=og-image"
         }
       ]
     }
