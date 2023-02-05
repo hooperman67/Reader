@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4014392",
+          "author": "Joel Sked",
+          "description": "Celtic will be looking to continue their long unbeaten run in the Premiership when they travel to face St Johnstone on Sunday afternoon.",
+          "link": "https://www.scotsman.com/sport/football/celtic/what-channel-is-st-johnstone-v-celtic-on-premiership-match-info-tv-details-kick-off-time-team-news-4014392",
+          "publishedOn": "2023-02-05T07:00:00.000Z",
+          "wordCount": null,
+          "title": "What channel is St Johnstone v Celtic on? Premiership match info, TV details, kick-off time, team news",
+          "imageUrl": null
+        },
+        {
           "id": "4014603",
           "author": "Andrew Smith",
           "description": "In earning his stripes as a US player at the World Cup, Celtic defender Cameron Carter-Vickers could have been forgiven for becoming starry-eyed.",
@@ -224,26 +234,6 @@
           "wordCount": null,
           "title": "Scottish Transfer Deadline Day LIVE: Rangers star update | Hibs sign international | Aberdeen linked with winger",
           "imageUrl": null
-        },
-        {
-          "id": "4007433",
-          "author": "Stephen Mcilkenny",
-          "description": "It’s a day that many football fans live for, with wild rumours, done deals and last minute negotiations as clubs look to strengthen on the last day of the transfer window.",
-          "link": "https://www.scotsman.com/sport/football/scottish-transfer-deadline-day-live-rangers-transfer-delight-celtic-exit-surprise-striker-departure-4007433",
-          "publishedOn": "2023-01-31T19:25:42.000Z",
-          "wordCount": null,
-          "title": "Scottish Transfer Deadline Day LIVE: Rangers transfer delight | Celtic exit | Surprise striker departure",
-          "imageUrl": null
-        },
-        {
-          "id": "4008896",
-          "author": "Joel Sked",
-          "description": "Celtic midfielder Oliver Abildgaard has left the club, becoming the fourth player to do so this window.",
-          "link": "https://www.scotsman.com/sport/football/celtic/celtic-midfielder-exits-serie-a-move-on-short-term-deal-more-to-follow-4008896",
-          "publishedOn": "2023-01-31T18:47:42.000Z",
-          "wordCount": null,
-          "title": "Celtic midfielder exits, Serie A move on short-term deal, more to follow",
-          "imageUrl": null
         }
       ]
     },
@@ -258,6 +248,16 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CBMikwFodHRwczovL3d3dy5zY290c21hbi5jb20vc3BvcnQvZm9vdGJhbGwvY2VsdGljL2ktY2FudC1pZ25vcmUtaXQtYW5nZS1wb3N0ZWNvZ2xvdS1hZG1pdHMtbG9zaW5nLXRlbXBlci1vdmVyLWNlcnRhaW4tY2VsdGljLXBsYXllci1iZWhhdmlvdXJzLTQwMTQ0MjPSAQA",
+          "author": null,
+          "description": "'I can't ignore it' - Ange Postecoglou admits losing temper over ...  The Scotsman",
+          "link": "https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5zY290c21hbi5jb20vc3BvcnQvZm9vdGJhbGwvY2VsdGljL2ktY2FudC1pZ25vcmUtaXQtYW5nZS1wb3N0ZWNvZ2xvdS1hZG1pdHMtbG9zaW5nLXRlbXBlci1vdmVyLWNlcnRhaW4tY2VsdGljLXBsYXllci1iZWhhdmlvdXJzLTQwMTQ0MjPSAQA?oc=5",
+          "publishedOn": "2023-02-04T23:08:56.000Z",
+          "wordCount": 6062,
+          "title": "'I can't ignore it' - Ange Postecoglou admits losing temper over ... - The Scotsman",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiT2h0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vdmlkZW8td2hhdC1hbmdlLXBvc3RlY29nbG91LXNhaWQtdG8tdGhlLWNlbHRpYy1ib2FyZC_SAVNodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL3ZpZGVvLXdoYXQtYW5nZS1wb3N0ZWNvZ2xvdS1zYWlkLXRvLXRoZS1jZWx0aWMtYm9hcmQvYW1wLw",
           "author": null,
@@ -1327,106 +1327,6 @@
           "wordCount": 1633,
           "title": "Transfer Latest – Danish forward Molli Plasmann joins Celtic from German side SC Sand - The Celtic Star",
           "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2023/01/Fn0_QvSXEAMIQMD.jpeg"
-        },
-        {
-          "id": "CBMiY2h0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9mb3JtZXItY2VsdGljLWRlZmVuZGVyLWpvaW5zLXdyZXhoYW0tcmV2b2x1dGlvbi13YXRjaC1yeWFuLXJleW5vbGRzLXRlYXNlL9IBZ2h0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9mb3JtZXItY2VsdGljLWRlZmVuZGVyLWpvaW5zLXdyZXhoYW0tcmV2b2x1dGlvbi13YXRjaC1yeWFuLXJleW5vbGRzLXRlYXNlL2FtcC8",
-          "author": null,
-          "description": "Former Celtic Defender Joins Wrexham Revolution; Watch Ryan Reynolds' Tease | Celts Are Here  CeltsAreHere",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiY2h0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9mb3JtZXItY2VsdGljLWRlZmVuZGVyLWpvaW5zLXdyZXhoYW0tcmV2b2x1dGlvbi13YXRjaC1yeWFuLXJleW5vbGRzLXRlYXNlL9IBZ2h0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9mb3JtZXItY2VsdGljLWRlZmVuZGVyLWpvaW5zLXdyZXhoYW0tcmV2b2x1dGlvbi13YXRjaC1yeWFuLXJleW5vbGRzLXRlYXNlL2FtcC8?oc=5",
-          "publishedOn": "2023-01-31T21:05:35.000Z",
-          "wordCount": 15044,
-          "title": "Former Celtic Defender Joins Wrexham Revolution; Watch Ryan Reynolds' Tease | Celts Are Here - CeltsAreHere",
-          "imageUrl": "https://cdn.celtsarehere.com/wp-content/uploads/2023/01/Screenshot-2023-01-31-at-21.30.36.png"
-        },
-        {
-          "id": "CBMicGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLXRyYW5zZmVyLW5ld3Mva2llcmFuLXRpZXJuZXktc2V0LWFyc2VuYWwtdHJhbnNmZXItMjkxMDAyNDDSAXRodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC10cmFuc2Zlci1uZXdzL2tpZXJhbi10aWVybmV5LXNldC1hcnNlbmFsLXRyYW5zZmVyLTI5MTAwMjQwLmFtcA",
-          "author": null,
-          "description": "Kieran Tierney set for Arsenal transfer auction as Celtic hope remains with have nots out of the reckoning  Daily Record",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMicGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLXRyYW5zZmVyLW5ld3Mva2llcmFuLXRpZXJuZXktc2V0LWFyc2VuYWwtdHJhbnNmZXItMjkxMDAyNDDSAXRodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC10cmFuc2Zlci1uZXdzL2tpZXJhbi10aWVybmV5LXNldC1hcnNlbmFsLXRyYW5zZmVyLTI5MTAwMjQwLmFtcA?oc=5",
-          "publishedOn": "2023-01-31T20:40:52.000Z",
-          "wordCount": 3751,
-          "title": "Kieran Tierney set for Arsenal transfer auction as Celtic hope remains with have nots out of the reckoning - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28405109.ece/ALTERNATES/s1200/0_Arsenal-FC-v-FC-Zrich-Group-A-UEFA-Europa-League.jpg"
-        },
-        {
-          "id": "CBMihQFodHRwczovL3d3dy42N2hhaWxoYWlsLmNvbS90cmFuc2ZlcnMvYW5nZS1wb3N0ZWNvZ2xvdS1kZWxpdmVycy12ZXJkaWN0LW9uLWNlbHRpY3MtamFudWFyeS13aW5kb3ctYXMtcmVwb3J0ZXItanVtcHMtYS1mZXctc3RlcHMtYWhlYWQv0gGJAWh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL3RyYW5zZmVycy9hbmdlLXBvc3RlY29nbG91LWRlbGl2ZXJzLXZlcmRpY3Qtb24tY2VsdGljcy1qYW51YXJ5LXdpbmRvdy1hcy1yZXBvcnRlci1qdW1wcy1hLWZldy1zdGVwcy1haGVhZC8_YW1w",
-          "author": null,
-          "description": "Ange Postecoglou delivers verdict on Celtic’s January window as reporter ‘jumps a few steps ahead’  67 Hail Hail - Celtic FC News\n“I want to express my gratitude to Celtic,” Oliver Abildgaard posts emotional farewell  The Celtic Star\nThe transfer exit options that are still open for Celtic midfielder Yosuke Ideguchi  67 Hail Hail - Celtic FC News",
-          "link": "https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy42N2hhaWxoYWlsLmNvbS90cmFuc2ZlcnMvYW5nZS1wb3N0ZWNvZ2xvdS1kZWxpdmVycy12ZXJkaWN0LW9uLWNlbHRpY3MtamFudWFyeS13aW5kb3ctYXMtcmVwb3J0ZXItanVtcHMtYS1mZXctc3RlcHMtYWhlYWQv0gGJAWh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL3RyYW5zZmVycy9hbmdlLXBvc3RlY29nbG91LWRlbGl2ZXJzLXZlcmRpY3Qtb24tY2VsdGljcy1qYW51YXJ5LXdpbmRvdy1hcy1yZXBvcnRlci1qdW1wcy1hLWZldy1zdGVwcy1haGVhZC8_YW1w?oc=5",
-          "publishedOn": "2023-01-31T20:14:47.000Z",
-          "wordCount": 6062,
-          "title": "Ange Postecoglou delivers verdict on Celtic’s January window as reporter ‘jumps a few steps ahead’ - 67 Hail Hail - Celtic FC News",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMihQFodHRwczovL3d3dy42N2hhaWxoYWlsLmNvbS90cmFuc2ZlcnMvYW5nZS1wb3N0ZWNvZ2xvdS1kZWxpdmVycy12ZXJkaWN0LW9uLWNlbHRpY3MtamFudWFyeS13aW5kb3ctYXMtcmVwb3J0ZXItanVtcHMtYS1mZXctc3RlcHMtYWhlYWQv0gGJAWh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL3RyYW5zZmVycy9hbmdlLXBvc3RlY29nbG91LWRlbGl2ZXJzLXZlcmRpY3Qtb24tY2VsdGljcy1qYW51YXJ5LXdpbmRvdy1hcy1yZXBvcnRlci1qdW1wcy1hLWZldy1zdGVwcy1haGVhZC8_YW1w",
-          "author": null,
-          "description": "Ange Postecoglou delivers verdict on Celtic’s January window as reporter ‘jumps a few steps ahead’  67 Hail Hail - Celtic FC News",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMihQFodHRwczovL3d3dy42N2hhaWxoYWlsLmNvbS90cmFuc2ZlcnMvYW5nZS1wb3N0ZWNvZ2xvdS1kZWxpdmVycy12ZXJkaWN0LW9uLWNlbHRpY3MtamFudWFyeS13aW5kb3ctYXMtcmVwb3J0ZXItanVtcHMtYS1mZXctc3RlcHMtYWhlYWQv0gGJAWh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL3RyYW5zZmVycy9hbmdlLXBvc3RlY29nbG91LWRlbGl2ZXJzLXZlcmRpY3Qtb24tY2VsdGljcy1qYW51YXJ5LXdpbmRvdy1hcy1yZXBvcnRlci1qdW1wcy1hLWZldy1zdGVwcy1haGVhZC8_YW1w?oc=5",
-          "publishedOn": "2023-01-31T20:14:47.000Z",
-          "wordCount": 2042,
-          "title": "Ange Postecoglou delivers verdict on Celtic’s January window as reporter ‘jumps a few steps ahead’ - 67 Hail Hail - Celtic FC News",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/01/GettyImages-1454852633-1-scaled.jpg"
-        },
-        {
-          "id": "CBMiXGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vdGlrdG9rLXZpZGVvLXRvbW9raS1pd2F0YS1zdGFycy1pbi1jZWx0aWNzLWFsYnVtLWNvdmVyLXNob290LWZhaWwv0gFgaHR0cHM6Ly90aGVjZWx0aWNzdGFyLmNvbS90aWt0b2stdmlkZW8tdG9tb2tpLWl3YXRhLXN0YXJzLWluLWNlbHRpY3MtYWxidW0tY292ZXItc2hvb3QtZmFpbC9hbXAv",
-          "author": null,
-          "description": "TikTok Video: Tomoki Iwata Stars in Celtic’s ‘Album Cover Shoot’ Fail  The Celtic Star",
-          "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vdGlrdG9rLXZpZGVvLXRvbW9raS1pd2F0YS1zdGFycy1pbi1jZWx0aWNzLWFsYnVtLWNvdmVyLXNob290LWZhaWwv0gFgaHR0cHM6Ly90aGVjZWx0aWNzdGFyLmNvbS90aWt0b2stdmlkZW8tdG9tb2tpLWl3YXRhLXN0YXJzLWluLWNlbHRpY3MtYWxidW0tY292ZXItc2hvb3QtZmFpbC9hbXAv?oc=5",
-          "publishedOn": "2023-01-31T20:07:42.000Z",
-          "wordCount": 6062,
-          "title": "TikTok Video: Tomoki Iwata Stars in Celtic’s ‘Album Cover Shoot’ Fail - The Celtic Star",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiXGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vdGlrdG9rLXZpZGVvLXRvbW9raS1pd2F0YS1zdGFycy1pbi1jZWx0aWNzLWFsYnVtLWNvdmVyLXNob290LWZhaWwv0gFgaHR0cHM6Ly90aGVjZWx0aWNzdGFyLmNvbS90aWt0b2stdmlkZW8tdG9tb2tpLWl3YXRhLXN0YXJzLWluLWNlbHRpY3MtYWxidW0tY292ZXItc2hvb3QtZmFpbC9hbXAv",
-          "author": null,
-          "description": "TikTok Video: Tomoki Iwata Stars in Celtic’s ‘Album Cover Shoot’ Fail  The Celtic Star",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiXGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vdGlrdG9rLXZpZGVvLXRvbW9raS1pd2F0YS1zdGFycy1pbi1jZWx0aWNzLWFsYnVtLWNvdmVyLXNob290LWZhaWwv0gFgaHR0cHM6Ly90aGVjZWx0aWNzdGFyLmNvbS90aWt0b2stdmlkZW8tdG9tb2tpLWl3YXRhLXN0YXJzLWluLWNlbHRpY3MtYWxidW0tY292ZXItc2hvb3QtZmFpbC9hbXAv?oc=5",
-          "publishedOn": "2023-01-31T20:07:42.000Z",
-          "wordCount": 1150,
-          "title": "TikTok Video: Tomoki Iwata Stars in Celtic’s ‘Album Cover Shoot’ Fail - The Celtic Star",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2023/01/celtic-fc-v-kilmarnock-fc-cinch-scottish-premiership-38-1024x683.jpg"
-        },
-        {
-          "id": "CBMibmh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vdHJhbnNmZXItbGF0ZXN0LWJlbnZlbnV0by1oZWxsYXMtdmVyb25hLWZjLXRha2Utb2xpdmVyLWFiaWxkZ2FhcmQtb2ZmLWNlbHRpY3MtaGFuZHMv0gFyaHR0cHM6Ly90aGVjZWx0aWNzdGFyLmNvbS90cmFuc2Zlci1sYXRlc3QtYmVudmVudXRvLWhlbGxhcy12ZXJvbmEtZmMtdGFrZS1vbGl2ZXItYWJpbGRnYWFyZC1vZmYtY2VsdGljcy1oYW5kcy9hbXAv",
-          "author": null,
-          "description": "Transfer Latest: ‘Benvenuto’ – Hellas Verona FC take Oliver Abildgaard off Celtic’s hands  The Celtic Star",
-          "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vdHJhbnNmZXItbGF0ZXN0LWJlbnZlbnV0by1oZWxsYXMtdmVyb25hLWZjLXRha2Utb2xpdmVyLWFiaWxkZ2FhcmQtb2ZmLWNlbHRpY3MtaGFuZHMv0gFyaHR0cHM6Ly90aGVjZWx0aWNzdGFyLmNvbS90cmFuc2Zlci1sYXRlc3QtYmVudmVudXRvLWhlbGxhcy12ZXJvbmEtZmMtdGFrZS1vbGl2ZXItYWJpbGRnYWFyZC1vZmYtY2VsdGljcy1oYW5kcy9hbXAv?oc=5",
-          "publishedOn": "2023-01-31T19:47:07.000Z",
-          "wordCount": 6062,
-          "title": "Transfer Latest: ‘Benvenuto’ – Hellas Verona FC take Oliver Abildgaard off Celtic’s hands - The Celtic Star",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMibmh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vdHJhbnNmZXItbGF0ZXN0LWJlbnZlbnV0by1oZWxsYXMtdmVyb25hLWZjLXRha2Utb2xpdmVyLWFiaWxkZ2FhcmQtb2ZmLWNlbHRpY3MtaGFuZHMv0gFyaHR0cHM6Ly90aGVjZWx0aWNzdGFyLmNvbS90cmFuc2Zlci1sYXRlc3QtYmVudmVudXRvLWhlbGxhcy12ZXJvbmEtZmMtdGFrZS1vbGl2ZXItYWJpbGRnYWFyZC1vZmYtY2VsdGljcy1oYW5kcy9hbXAv",
-          "author": null,
-          "description": "Transfer Latest: ‘Benvenuto’ – Hellas Verona FC take Oliver Abildgaard off Celtic’s hands  The Celtic Star",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMibmh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vdHJhbnNmZXItbGF0ZXN0LWJlbnZlbnV0by1oZWxsYXMtdmVyb25hLWZjLXRha2Utb2xpdmVyLWFiaWxkZ2FhcmQtb2ZmLWNlbHRpY3MtaGFuZHMv0gFyaHR0cHM6Ly90aGVjZWx0aWNzdGFyLmNvbS90cmFuc2Zlci1sYXRlc3QtYmVudmVudXRvLWhlbGxhcy12ZXJvbmEtZmMtdGFrZS1vbGl2ZXItYWJpbGRnYWFyZC1vZmYtY2VsdGljcy1oYW5kcy9hbXAv?oc=5",
-          "publishedOn": "2023-01-31T19:47:07.000Z",
-          "wordCount": 1503,
-          "title": "Transfer Latest: ‘Benvenuto’ – Hellas Verona FC take Oliver Abildgaard off Celtic’s hands - The Celtic Star",
-          "imageUrl": "https://icdn.thecelticstar.com/wp-content/uploads/2023/01/7UYy5EMf.jpeg"
-        },
-        {
-          "id": "CBMidWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLXRyYW5zZmVyLW5ld3MvYW50aG9ueS1zdGV3YXJ0LWhhbmRlZC1hYmVyZGVlbi10cmFuc2Zlci0yOTA5OTc3ONIBeWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLXRyYW5zZmVyLW5ld3MvYW50aG9ueS1zdGV3YXJ0LWhhbmRlZC1hYmVyZGVlbi10cmFuc2Zlci0yOTA5OTc3OC5hbXA",
-          "author": null,
-          "description": "Anthony Stewart handed Aberdeen transfer exit option as MK Dons consider late approach for Pittodrie captain  Daily Record",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMidWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLXRyYW5zZmVyLW5ld3MvYW50aG9ueS1zdGV3YXJ0LWhhbmRlZC1hYmVyZGVlbi10cmFuc2Zlci0yOTA5OTc3ONIBeWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLXRyYW5zZmVyLW5ld3MvYW50aG9ueS1zdGV3YXJ0LWhhbmRlZC1hYmVyZGVlbi10cmFuc2Zlci0yOTA5OTc3OC5hbXA?oc=5",
-          "publishedOn": "2023-01-31T19:02:40.000Z",
-          "wordCount": 3187,
-          "title": "Anthony Stewart handed Aberdeen transfer exit option as MK Dons consider late approach for Pittodrie captain - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28824575.ece/ALTERNATES/s1200/0_Aberdeen-FC-v-Celtic-FC-Cinch-Scottish-Premiership.jpg"
-        },
-        {
-          "id": "CBMib2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLXRyYW5zZmVyLW5ld3Mvb2xpdmVyLWFiaWxkZ2FhcmQtc2Vlcy1jZWx0aWMtbG9hbi0yOTA5OTYyMNIBc2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLXRyYW5zZmVyLW5ld3Mvb2xpdmVyLWFiaWxkZ2FhcmQtc2Vlcy1jZWx0aWMtbG9hbi0yOTA5OTYyMC5hbXA",
-          "author": null,
-          "description": "Oliver Abildgaard sees Celtic loan cancelled as Dane makes Serie A switch  Daily Record",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMib2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLXRyYW5zZmVyLW5ld3Mvb2xpdmVyLWFiaWxkZ2FhcmQtc2Vlcy1jZWx0aWMtbG9hbi0yOTA5OTYyMNIBc2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLXRyYW5zZmVyLW5ld3Mvb2xpdmVyLWFiaWxkZ2FhcmQtc2Vlcy1jZWx0aWMtbG9hbi0yOTA5OTYyMC5hbXA?oc=5",
-          "publishedOn": "2023-01-31T18:30:28.000Z",
-          "wordCount": 3317,
-          "title": "Oliver Abildgaard sees Celtic loan cancelled as Dane makes Serie A switch - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article28490655.ece/ALTERNATES/s1200/0_Celtic-FC-v-Hibernian-FC-Cinch-Scottish-Premiership.jpg"
         }
       ]
     },
@@ -1435,6 +1335,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "f5be6ba1350aa3f5280a4994d864a9ba",
+          "author": null,
+          "description": "The Celtic centre-back appeared at the World Cup for USA, but was far from a first pick in the team.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23298898.celtic-defender-cameron-carter-vickers-aiming-become-usa-mainstay/?ref=rss",
+          "publishedOn": "2023-02-05T07:30:00.000Z",
+          "wordCount": 10170,
+          "title": "Celtic defender Cameron Carter-Vickers aiming to become USA mainstay",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16424410/?type=og-image"
+        },
         {
           "id": "a76a47b4b0c53a07417dc2311d428d4e",
           "author": null,
@@ -1734,26 +1644,6 @@
           "wordCount": 9670,
           "title": "Giorgos Giakoumakis Celtic transfer exit delay revealed",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16411426/?type=og-image"
-        },
-        {
-          "id": "86b40791793abe163a24678416c61d5e",
-          "author": null,
-          "description": "Martindale claimed that his team would be champions of Scotland if the league was decided on a points-per-pound basis.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23290314.celtics-ange-postecoglou-cheeky-david-martindale-finances-dig/?ref=rss",
-          "publishedOn": "2023-01-31T19:42:04.000Z",
-          "wordCount": 8415,
-          "title": "Celtic's Ange Postecoglou in cheeky David Martindale finances dig",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16411246/?type=og-image"
-        },
-        {
-          "id": "33601067b9446c45af5f48607d4b8f68",
-          "author": null,
-          "description": "Celtic midfielder Oliver Abildgaard has joined Hellas Verona on loan until the end of the season.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23290243.serie-side-confirm-deadline-day-transfer-celtic-midfielder/?ref=rss",
-          "publishedOn": "2023-01-31T18:44:47.000Z",
-          "wordCount": 8472,
-          "title": "Oliver Abildgaard signs for Italian side Hellas Verona",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16411158/?type=og-image"
         }
       ]
     }
