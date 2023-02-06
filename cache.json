@@ -6,6 +6,26 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4016685",
+          "author": "Joel Sked",
+          "description": "When it comes to stats in football there are now an abundance of metrics, from xG (expected goals) to deep completions to goals prevented. Yet, they pale in significance to nutmegs completed.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtic-nutmeg-surprise-as-rangers-duo-feature-highly-but-trail-kilmarnock-ace-in-important-premiership-metric-4016685",
+          "publishedOn": "2023-02-06T20:19:44.000Z",
+          "wordCount": null,
+          "title": "Celtic nutmeg surprise as Rangers duo feature highly but trail Kilmarnock ace in important Premiership metric",
+          "imageUrl": null
+        },
+        {
+          "id": "4016671",
+          "author": "Joel Sked",
+          "description": "Yosuke Ideguchi could be set to leave Celtic after struggling to make his mark in Ange Postecoglou's midfield.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtic-set-for-fifth-winter-exit-as-trio-of-top-flight-clubs-keen-on-out-of-favour-ace-4016671",
+          "publishedOn": "2023-02-06T19:39:53.000Z",
+          "wordCount": null,
+          "title": "Celtic set for fifth winter exit as trio of top-flight clubs keen on out-of-favour ace",
+          "imageUrl": null
+        },
+        {
           "id": "4016295",
           "author": "Mark Atkinson",
           "description": "Celtic manager Ange Postecoglou has been listed as one of the contenders to become the new manager of Leeds United.",
@@ -204,16 +224,6 @@
           "wordCount": null,
           "title": "How Premiership clubs fared in January transfer window - Celtic, Rangers, Hearts, Hibs and others ranked",
           "imageUrl": null
-        },
-        {
-          "id": "4010816",
-          "author": "Andrew Smith",
-          "description": "Celtic’s 3-0 win over Livingston means they have dropped only five points across their 24 cinch Premiership encounters this season. A breathless pace, but they have form for even better…",
-          "link": "https://www.scotsman.com/sport/football/celtic/celtic-reaction-near-faultless-but-record-still-looks-out-of-reach-furuhashi-makes-every-minute-count-mcgregor-brings-out-best-in-green-brigade-4010816",
-          "publishedOn": "2023-02-02T08:26:57.000Z",
-          "wordCount": null,
-          "title": "Celtic reaction: Near faultless - but record still looks out of reach; Furuhashi makes every minute count; McGregor brings out best in Green Brigade",
-          "imageUrl": null
         }
       ]
     },
@@ -228,6 +238,36 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CBMiYWh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vb3Bpbmlvbi1kYXZpZC10dXJuYnVsbC1jYW4tbWFrZS1hbi1pbnZhbHVhYmxlLWNvbnRyaWJ1dGlvbi10by1hbmdlYmFsbC_SAQA",
+          "author": null,
+          "description": "David Turnbull can make an Invaluable Contribution to Angeball  The Celtic Star",
+          "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vb3Bpbmlvbi1kYXZpZC10dXJuYnVsbC1jYW4tbWFrZS1hbi1pbnZhbHVhYmxlLWNvbnRyaWJ1dGlvbi10by1hbmdlYmFsbC_SAQA?oc=5",
+          "publishedOn": "2023-02-06T20:57:05.000Z",
+          "wordCount": 6062,
+          "title": "David Turnbull can make an Invaluable Contribution to Angeball - The Celtic Star",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiRGh0dHBzOi8vdGhlY2VsdGljYmhveXMuY29tLzIwMjMvMDIvMDYvY2VsdGljLXBsYXllci1jbG9zZS1leGl0LWxvYW4v0gFIaHR0cHM6Ly90aGVjZWx0aWNiaG95cy5jb20vMjAyMy8wMi8wNi9jZWx0aWMtcGxheWVyLWNsb3NlLWV4aXQtbG9hbi9hbXAv",
+          "author": null,
+          "description": "Celtic player close to completing Parkhead exit on loan  The Celtic Bhoys",
+          "link": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vdGhlY2VsdGljYmhveXMuY29tLzIwMjMvMDIvMDYvY2VsdGljLXBsYXllci1jbG9zZS1leGl0LWxvYW4v0gFIaHR0cHM6Ly90aGVjZWx0aWNiaG95cy5jb20vMjAyMy8wMi8wNi9jZWx0aWMtcGxheWVyLWNsb3NlLWV4aXQtbG9hbi9hbXAv?oc=5",
+          "publishedOn": "2023-02-06T19:35:20.000Z",
+          "wordCount": 6062,
+          "title": "Celtic player close to completing Parkhead exit on loan - The Celtic Bhoys",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiXWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL3lvc3VrZS1pZGVndWNoaS1uZWFyaW5nLWNlbHRpYy10cmFuc2Zlci0yOTE0OTI1NdIBYWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL3lvc3VrZS1pZGVndWNoaS1uZWFyaW5nLWNlbHRpYy10cmFuc2Zlci0yOTE0OTI1NS5hbXA",
+          "author": null,
+          "description": "Yosuke Ideguchi moves towards Celtic transfer exit  Daily Record",
+          "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL3lvc3VrZS1pZGVndWNoaS1uZWFyaW5nLWNlbHRpYy10cmFuc2Zlci0yOTE0OTI1NdIBYWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL3lvc3VrZS1pZGVndWNoaS1uZWFyaW5nLWNlbHRpYy10cmFuc2Zlci0yOTE0OTI1NS5hbXA?oc=5",
+          "publishedOn": "2023-02-06T18:30:32.000Z",
+          "wordCount": 6062,
+          "title": "Yosuke Ideguchi moves towards Celtic transfer exit - Daily Record",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiYGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vcmljaGFyZC1rZXlzLXJhbmdlcnMtbGlxdWlkYXRpb24tYW5kLXN0YXRlbWVudC1mcm9tLWNlbHRpYy1zdXBwb3J0ZXJzL9IBZGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vcmljaGFyZC1rZXlzLXJhbmdlcnMtbGlxdWlkYXRpb24tYW5kLXN0YXRlbWVudC1mcm9tLWNlbHRpYy1zdXBwb3J0ZXJzL2FtcC8",
           "author": null,
@@ -1117,56 +1157,6 @@
           "wordCount": 6062,
           "title": "Celtic fans fume at stewarding 'shambles' with huge numbers on the touchline for Livingston clash - Daily Record",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiamh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLXRyYW5zZmVyLW5ld3MvbWF0dC1vcmlsZXktbGlmZS1hZnRlci1jZWx0aWMtMjkxMTE5NDbSAW5odHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC10cmFuc2Zlci1uZXdzL21hdHQtb3JpbGV5LWxpZmUtYWZ0ZXItY2VsdGljLTI5MTExOTQ2LmFtcA",
-          "author": null,
-          "description": "Matt O'Riley hints at post Celtic destination as he targets more Euro nights  Daily Record",
-          "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLXRyYW5zZmVyLW5ld3MvbWF0dC1vcmlsZXktbGlmZS1hZnRlci1jZWx0aWMtMjkxMTE5NDbSAW5odHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC10cmFuc2Zlci1uZXdzL21hdHQtb3JpbGV5LWxpZmUtYWZ0ZXItY2VsdGljLTI5MTExOTQ2LmFtcA?oc=5",
-          "publishedOn": "2023-02-02T08:47:10.000Z",
-          "wordCount": 6062,
-          "title": "Matt O'Riley hints at post Celtic destination as he targets more Euro nights - Daily Record",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiamh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLXRyYW5zZmVyLW5ld3MvbWF0dC1vcmlsZXktbGlmZS1hZnRlci1jZWx0aWMtMjkxMTE5NDbSAW5odHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC10cmFuc2Zlci1uZXdzL21hdHQtb3JpbGV5LWxpZmUtYWZ0ZXItY2VsdGljLTI5MTExOTQ2LmFtcA",
-          "author": null,
-          "description": "Matt O'Riley hints at post Celtic destination as he targets more Euro nights  Daily Record",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiamh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLXRyYW5zZmVyLW5ld3MvbWF0dC1vcmlsZXktbGlmZS1hZnRlci1jZWx0aWMtMjkxMTE5NDbSAW5odHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC10cmFuc2Zlci1uZXdzL21hdHQtb3JpbGV5LWxpZmUtYWZ0ZXItY2VsdGljLTI5MTExOTQ2LmFtcA?oc=5",
-          "publishedOn": "2023-02-02T08:47:10.000Z",
-          "wordCount": 3496,
-          "title": "Matt O'Riley hints at post Celtic destination as he targets more Euro nights - Daily Record",
-          "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article29112023.ece/ALTERNATES/s1200/0_Celtic-FC-Media-Access.jpg"
-        },
-        {
-          "id": "CBMiSmh0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L2NlbHRpYy1rZXktdHJhaXQtc3RhbmRzLWFwYXJ0LTI2MTM2MTE20gFOaHR0cHM6Ly93d3cuZ2xhc2dvd2xpdmUuY28udWsvc3BvcnQvY2VsdGljLWtleS10cmFpdC1zdGFuZHMtYXBhcnQtMjYxMzYxMTYuYW1w",
-          "author": null,
-          "description": "The Celtic key trait that stands them apart from Rangers and everybody else claims Michael Stewart  Glasgow Live",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiSmh0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L2NlbHRpYy1rZXktdHJhaXQtc3RhbmRzLWFwYXJ0LTI2MTM2MTE20gFOaHR0cHM6Ly93d3cuZ2xhc2dvd2xpdmUuY28udWsvc3BvcnQvY2VsdGljLWtleS10cmFpdC1zdGFuZHMtYXBhcnQtMjYxMzYxMTYuYW1w?oc=5",
-          "publishedOn": "2023-02-02T08:10:51.000Z",
-          "wordCount": 3688,
-          "title": "The Celtic key trait that stands them apart from Rangers and everybody else claims Michael Stewart - Glasgow Live",
-          "imageUrl": "https://i2-prod.glasgowlive.co.uk/incoming/article26136089.ece/ALTERNATES/s1200/0_mikeysbbcPNG.png"
-        },
-        {
-          "id": "CBMiV2h0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9wbGF5ZXItcmF0aW5ncy1jZWx0aWMtc3Rhci1yZXR1cm5zLXRvLWZvcm0tYWdhaW5zdC1saXZpbmdzdG9uL9IBW2h0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9wbGF5ZXItcmF0aW5ncy1jZWx0aWMtc3Rhci1yZXR1cm5zLXRvLWZvcm0tYWdhaW5zdC1saXZpbmdzdG9uL2FtcC8",
-          "author": null,
-          "description": "Player Ratings; Celtic Star Returns To Form Against Livingston | Celts Are Here  CeltsAreHere",
-          "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9wbGF5ZXItcmF0aW5ncy1jZWx0aWMtc3Rhci1yZXR1cm5zLXRvLWZvcm0tYWdhaW5zdC1saXZpbmdzdG9uL9IBW2h0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9wbGF5ZXItcmF0aW5ncy1jZWx0aWMtc3Rhci1yZXR1cm5zLXRvLWZvcm0tYWdhaW5zdC1saXZpbmdzdG9uL2FtcC8?oc=5",
-          "publishedOn": "2023-02-02T08:00:00.000Z",
-          "wordCount": 6062,
-          "title": "Player Ratings; Celtic Star Returns To Form Against Livingston | Celts Are Here - CeltsAreHere",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiM2h0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9naWFrb3VtYWtpcy1jZWx0aWMtc3RhdHVzL9IBN2h0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9naWFrb3VtYWtpcy1jZWx0aWMtc3RhdHVzL2FtcC8",
-          "author": null,
-          "description": "Giakoumakis’ Celtic Status | Celts Are Here  CeltsAreHere",
-          "link": "https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9naWFrb3VtYWtpcy1jZWx0aWMtc3RhdHVzL9IBN2h0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9naWFrb3VtYWtpcy1jZWx0aWMtc3RhdHVzL2FtcC8?oc=5",
-          "publishedOn": "2023-02-02T06:54:00.000Z",
-          "wordCount": 6062,
-          "title": "Giakoumakis’ Celtic Status | Celts Are Here - CeltsAreHere",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -1175,6 +1165,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "a9183e03068fb2a3a9ec28da35555f12",
+          "author": null,
+          "description": "The former Hoops gave a reason for why the Hoops have been on the end of some lengthy VAR checks",
+          "link": "https://www.glasgowtimes.co.uk/sport/23303425.higher-possibility-var-checks-celtic-goals-says-petrov/?ref=rss",
+          "publishedOn": "2023-02-06T18:33:00.000Z",
+          "wordCount": 8524,
+          "title": "Celtic hero explains factor which 'encourages' lengthy VAR checks",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16430934/?type=og-image"
+        },
         {
           "id": "4229e1c15262d9fe0519c48017e80950",
           "author": null,
@@ -1564,16 +1564,6 @@
           "wordCount": 9821,
           "title": "Celtic troll Michael Beale comments with 'Lucky Man' playlist pick",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16416764/?type=og-image"
-        },
-        {
-          "id": "e504421417009ba341e2042fd9449580",
-          "author": null,
-          "description": "The striker is still expected to complete a move away from Parkhead.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23293404.giorgos-giakoumakis-celtic-transfer-exit-state-play/?ref=rss",
-          "publishedOn": "2023-02-02T08:43:10.000Z",
-          "wordCount": 8432,
-          "title": "Giorgos Giakoumakis Celtic transfer exit state of play",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16359092/?type=og-image"
         }
       ]
     }
