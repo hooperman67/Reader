@@ -6,6 +6,36 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4017060",
+          "author": "Matthew Elder",
+          "description": "Rangers defender Connor Goldson has been branded “Teflon-coated” after two former referees insisted he was fortunate to escape conceding penalties for handball on three occasions.",
+          "link": "https://www.scotsman.com/sport/football/rangers/rangers-defender-connor-goldson-teflon-coated-as-handball-escapes-leave-former-referees-stunned-4017060",
+          "publishedOn": "2023-02-07T10:59:11.000Z",
+          "wordCount": null,
+          "title": "Rangers defender Connor Goldson 'Teflon-coated' as handball escapes leave former referees stunned",
+          "imageUrl": null
+        },
+        {
+          "id": "4016933",
+          "author": "Joel Sked",
+          "description": "Celtic have confirmed the exit of midfielder Yosuke Ideguchi – 13 months after the player joined the club on a deal until 2026.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtic-confirm-fifth-2023-exit-as-midfielder-heads-out-on-year-long-loan-4016933",
+          "publishedOn": "2023-02-07T10:05:46.000Z",
+          "wordCount": null,
+          "title": "Celtic confirm fifth 2023 exit as midfielder heads out on year-long loan",
+          "imageUrl": null
+        },
+        {
+          "id": "4016873",
+          "author": "Joel Sked",
+          "description": "Like night follows day, as soon as a Premier League job becomes vacant, Celtic boss Ange Postecoglou features heavily in speculation and bookmakers shortlists.",
+          "link": "https://www.scotsman.com/sport/football/celtic/ange-postecoglou-pundits-view-on-leeds-united-speculation-celtic-boss-ideal-fit-for-liverpool-frontrunner-4016873",
+          "publishedOn": "2023-02-07T09:40:32.000Z",
+          "wordCount": null,
+          "title": "Ange Postecoglou: Pundits view on Leeds United speculation, Celtic boss 'ideal fit' for Liverpool, frontrunner",
+          "imageUrl": null
+        },
+        {
           "id": "4016357",
           "author": "Andrew Smith",
           "description": "Celtic manager Ange Postecoglou has conceded to surprise his captain Callum McGregor has not been subject to more tempting high-profile bids from down south.",
@@ -214,16 +244,6 @@
           "wordCount": null,
           "title": "11 free agents Premiership clubs could sign - ex-Celtic trio, Rangers options, ex-Hearts star, Barca wonderkid",
           "imageUrl": null
-        },
-        {
-          "id": "4012423",
-          "author": "Matthew Elder",
-          "description": "Celtic's Greg Taylor has backed the club's four January signings to be \"major contributers\" and continue Ange Postecoglou's high strike-rate in the recruitment department.",
-          "link": "https://www.scotsman.com/sport/football/celtic/new-celtic-signings-to-be-major-contributers-as-ange-postecoglou-strike-rate-hailed-4012423",
-          "publishedOn": "2023-02-02T22:30:00.000Z",
-          "wordCount": null,
-          "title": "New Celtic signings to be 'major contributers' as Ange Postecoglou strike-rate hailed",
-          "imageUrl": null
         }
       ]
     },
@@ -238,6 +258,26 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CBMibmh0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvc3BvcnQvZm9vdGJhbGwvMTczMTYwNS9MaXZlcnBvb2wtQW5nZS1Qb3N0ZWNvZ2xvdS1DZWx0aWMtSnVyZ2VuLUtsb3BwLVByZW1pZXItTGVhZ3Vl0gFyaHR0cHM6Ly93d3cuZXhwcmVzcy5jby51ay9zcG9ydC9mb290YmFsbC8xNzMxNjA1L0xpdmVycG9vbC1BbmdlLVBvc3RlY29nbG91LUNlbHRpYy1KdXJnZW4tS2xvcHAtUHJlbWllci1MZWFndWUvYW1w",
+          "author": null,
+          "description": "Ange Postecoglou has already discussed Liverpool job as Celtic boss urged to replace Klopp  Express",
+          "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvc3BvcnQvZm9vdGJhbGwvMTczMTYwNS9MaXZlcnBvb2wtQW5nZS1Qb3N0ZWNvZ2xvdS1DZWx0aWMtSnVyZ2VuLUtsb3BwLVByZW1pZXItTGVhZ3Vl0gFyaHR0cHM6Ly93d3cuZXhwcmVzcy5jby51ay9zcG9ydC9mb290YmFsbC8xNzMxNjA1L0xpdmVycG9vbC1BbmdlLVBvc3RlY29nbG91LUNlbHRpYy1KdXJnZW4tS2xvcHAtUHJlbWllci1MZWFndWUvYW1w?oc=5",
+          "publishedOn": "2023-02-07T11:08:00.000Z",
+          "wordCount": 6062,
+          "title": "Ange Postecoglou has already discussed Liverpool job as Celtic boss urged to replace Klopp - Express",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMizgFodHRwczovL3d3dy5nbGFzZ293d29ybGQuY29tL2xpZmVzdHlsZS9mb29kLWFuZC1kcmluay9nbGFzZ293LWZvb3RiYWxsLXNjcmFuLXJhdGVkLWFuZC1zbGF0ZWQtYnktc2NvdHRpc2gtdHdpdHRlci1mZWF0dXJpbmctaWJyb3gtYW5kLXBhcmtoZWFkLWZvb3R5LXNjcmFuLXJhbmdlcnMtZmMtY2VsdGljLWZjLWNhdGVyaW5nLWhhbGZ0aW1lLWZvb2QtNDAxNjk5MdIBAA",
+          "author": null,
+          "description": "Scottish Twitter reacts to the absolute worst scran at Ibrox & Parkhead  GlasgowWorld",
+          "link": "https://news.google.com/rss/articles/CBMizgFodHRwczovL3d3dy5nbGFzZ293d29ybGQuY29tL2xpZmVzdHlsZS9mb29kLWFuZC1kcmluay9nbGFzZ293LWZvb3RiYWxsLXNjcmFuLXJhdGVkLWFuZC1zbGF0ZWQtYnktc2NvdHRpc2gtdHdpdHRlci1mZWF0dXJpbmctaWJyb3gtYW5kLXBhcmtoZWFkLWZvb3R5LXNjcmFuLXJhbmdlcnMtZmMtY2VsdGljLWZjLWNhdGVyaW5nLWhhbGZ0aW1lLWZvb2QtNDAxNjk5MdIBAA?oc=5",
+          "publishedOn": "2023-02-07T10:46:40.000Z",
+          "wordCount": 6062,
+          "title": "Scottish Twitter reacts to the absolute worst scran at Ibrox & Parkhead - GlasgowWorld",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiVGh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9hbGx5LW1jY29pc3QtYW5nZS1wb3N0ZWNvZ2xvdS1kcml2ZS0yNjE3NDIyONIBWGh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9hbGx5LW1jY29pc3QtYW5nZS1wb3N0ZWNvZ2xvdS1kcml2ZS0yNjE3NDIyOC5hbXA",
           "author": null,
@@ -1037,16 +1077,6 @@
           "wordCount": 6062,
           "title": "Kilcock Celtic Gear Up For Top Of The Table Clash With Victory Over ... - Kildare Nationalist",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiqwFodHRwczovL3d3dy5jd21icmFubGlmZS5jby51ay92aWRlby1ob3BlZnVsbHktd2UtY2FuLWNhdXNlLWFuLXVwc2V0LWN3bWJyYW4tY2VsdGljLWZjLXByZXBhcmUtdG8tcGxheS13ZWxzaC1sZWFndWUtYW5kLWN1cC1jaGFtcGlvbnMtdGhlLW5ldy1zYWludHMtaW4tcXVhcnRlci1maW5hbC1jbGFzaC_SAQA",
-          "author": null,
-          "description": "VIDEO: 'Hopefully, we can cause an upset': Cwmbran Celtic FC ...  Cwmbran Life",
-          "link": "https://news.google.com/rss/articles/CBMiqwFodHRwczovL3d3dy5jd21icmFubGlmZS5jby51ay92aWRlby1ob3BlZnVsbHktd2UtY2FuLWNhdXNlLWFuLXVwc2V0LWN3bWJyYW4tY2VsdGljLWZjLXByZXBhcmUtdG8tcGxheS13ZWxzaC1sZWFndWUtYW5kLWN1cC1jaGFtcGlvbnMtdGhlLW5ldy1zYWludHMtaW4tcXVhcnRlci1maW5hbC1jbGFzaC_SAQA?oc=5",
-          "publishedOn": "2023-02-02T21:28:46.000Z",
-          "wordCount": 6062,
-          "title": "VIDEO: 'Hopefully, we can cause an upset': Cwmbran Celtic FC ... - Cwmbran Life",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -1055,6 +1085,76 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "d0e8a1a0869fdee5b68ab765d7def752",
+          "author": null,
+          "description": "Ange Postecoglou has been touted as a potential managerial replacement for Jesse Marsch at Leeds United.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23304391.celtic-boss-postecoglou-premier-league-links-amid-leeds-speculation/?ref=rss",
+          "publishedOn": "2023-02-07T11:40:15.000Z",
+          "wordCount": 8527,
+          "title": "Celtic boss Postecoglou on Premier League links amid Leeds speculation",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16432221/?type=og-image"
+        },
+        {
+          "id": "83640484ea831ae666b57ee73b5d3789",
+          "author": null,
+          "description": "The former Japan international feels the forward should have more of a role in the squad",
+          "link": "https://www.glasgowtimes.co.uk/sport/23304244.japan-demanded-build-national-team-around-celtic-star-furuhashi/?ref=rss",
+          "publishedOn": "2023-02-07T11:15:00.000Z",
+          "wordCount": 8446,
+          "title": "Tanaka feels Celtic's Furuhashi should be at the centre of Japan team",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16431945/?type=og-image"
+        },
+        {
+          "id": "54ab7407cb293c0ac4b5429fa3e2222a",
+          "author": null,
+          "description": "Speaking with Jim White on talkSPORT this morning, Jordan assessed Postecoglou's links with the vacant Leeds United job.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23304222.simon-jordan-details-ange-postecoglou-celtic-stepping-stone-reality/?ref=rss",
+          "publishedOn": "2023-02-07T11:02:34.000Z",
+          "wordCount": 10070,
+          "title": "Simon Jordan details Ange Postecoglou Celtic 'stepping stone' reality",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16431819/?type=og-image"
+        },
+        {
+          "id": "5b3f39e4e05d1d923e36881f7b82565a",
+          "author": null,
+          "description": "American Jesse Marsch was dismissed by the Elland Road club yesterday after less than a year in charge.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23304023.ange-postecoglou-leeds-latest-celtic-boss-on-radar-epl-side/?ref=rss",
+          "publishedOn": "2023-02-07T10:13:26.000Z",
+          "wordCount": 9686,
+          "title": "Ange Postecoglou Leeds latest as Celtic boss 'on radar' of EPL side",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16431604/?type=og-image"
+        },
+        {
+          "id": "7ab7f3df6c04b0229af1e3b601a4cc72",
+          "author": null,
+          "description": "The Premier League club are on the hunt for a new gaffer after they sacked Jesse Marsch yesterday.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23303911.leeds-urged-land-celtics-ange-postecoglou-club-legend/?ref=rss",
+          "publishedOn": "2023-02-07T09:40:00.000Z",
+          "wordCount": 8466,
+          "title": "Leeds urged to land Celtic's Ange Postecoglou by club legend",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16431544/?type=og-image"
+        },
+        {
+          "id": "e6908bfb0c4f99a3bd74b55c550e9fe3",
+          "author": null,
+          "description": "The 26-year-old was one of three Japanese signings to join the Hoops in January 2022, alongside Reo Hatate and Daizen Maeda.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23303792.yosuke-ideguchi-closing-in-celtic-transfer-exit/?ref=rss",
+          "publishedOn": "2023-02-07T09:12:00.000Z",
+          "wordCount": 9665,
+          "title": "Yosuke Ideguchi seals Celtic transfer exit in Avispa Fukuoka loan",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16431422/?type=og-image"
+        },
+        {
+          "id": "fe652455b750ec20cfd020c77b873cf3",
+          "author": null,
+          "description": "Ange Postecoglou's men have been relentless in their pursuit of success since he joined in the summer of 2021.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23303737.rangers-last-chance-warning-celtic-seeds-doubt/?ref=rss",
+          "publishedOn": "2023-02-07T08:41:15.000Z",
+          "wordCount": 8708,
+          "title": "Rangers in 'last chance' warning over Celtic seeds of doubt",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16431395/?type=og-image"
+        },
         {
           "id": "a12f09c6dda2d2b635de1498a98d6eb9",
           "author": null,
@@ -1444,16 +1544,6 @@
           "wordCount": 8519,
           "title": "Reo Hatate details how Japan World Cup snub fuelled Celtic form",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16420766/?type=og-image"
-        },
-        {
-          "id": "4475df46288e0ea6fb2dfdd245ab2ef7",
-          "author": null,
-          "description": "The full back, 25, is among the longest-serving players at the club despite only joining Celtic in 2019 and his relatively tender age.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23295366.greg-taylor-reveals-celtic-squad-motivation-driving-parkhead-success/?ref=rss",
-          "publishedOn": "2023-02-02T22:30:00.000Z",
-          "wordCount": 9027,
-          "title": "Greg Taylor reveals Celtic squad motivation driving Parkhead success",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16419182/?type=og-image"
         }
       ]
     }
