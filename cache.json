@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4023687",
+          "author": "Ross McLeish",
+          "description": "There were four Scottish Cup ties played at 3pm this Saturday – with a couple of shocks as Premiership teams lost to lower ranked opposition.",
+          "link": "https://www.scotsman.com/sport/football/scottish-cup-motherwell-boss-on-brink-as-raith-fans-sing-sacked-in-morning-inverness-stun-livingston-elgin-so-close-to-upset-4023687",
+          "publishedOn": "2023-02-11T17:31:04.000Z",
+          "wordCount": null,
+          "title": "Scottish Cup: Motherwell boss on brink as Raith fans sing 'sacked in morning', Inverness stun Livingston, Elgin so close to upset",
+          "imageUrl": null
+        },
+        {
           "id": "4020602",
           "author": "Matthew Elder",
           "description": "Celtic face the only side who have beaten them in a domestic fixture this season when St Mirren travel to Parkhead for a Scottish Cup fifth round tie on Saturday.",
@@ -278,6 +288,26 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CBMiXGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvY2VsdGljLXZzLXN0LW1pcnJlbi1saXZlLTI5MTkwMDIz0gFgaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvZm9vdGJhbGwtbmV3cy9jZWx0aWMtdnMtc3QtbWlycmVuLWxpdmUtMjkxOTAwMjMuYW1w",
+          "author": null,
+          "description": "Celtic 1 St Mirren 0 LIVE score as Daizen Maeda breaks the deadlock  Daily Record",
+          "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvY2VsdGljLXZzLXN0LW1pcnJlbi1saXZlLTI5MTkwMDIz0gFgaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvZm9vdGJhbGwtbmV3cy9jZWx0aWMtdnMtc3QtbWlycmVuLWxpdmUtMjkxOTAwMjMuYW1w?oc=5",
+          "publishedOn": "2023-02-11T17:49:48.000Z",
+          "wordCount": 6069,
+          "title": "Celtic 1 St Mirren 0 LIVE score as Daizen Maeda breaks the deadlock - Daily Record",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiWGh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL21hdGNoL29uZS1jaGFuZ2UtZnVsbC1kZWJ1dC1jZWx0aWMtcHJlZGljdGVkLXhpLXZzLXN0LW1pcnJlbi_SAVxodHRwczovL3d3dy42N2hhaWxoYWlsLmNvbS9tYXRjaC9vbmUtY2hhbmdlLWZ1bGwtZGVidXQtY2VsdGljLXByZWRpY3RlZC14aS12cy1zdC1taXJyZW4vP2FtcA",
+          "author": null,
+          "description": "One change, full debut; Celtic Predicted XI vs St Mirren  67 Hail Hail - Celtic FC News",
+          "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL21hdGNoL29uZS1jaGFuZ2UtZnVsbC1kZWJ1dC1jZWx0aWMtcHJlZGljdGVkLXhpLXZzLXN0LW1pcnJlbi_SAVxodHRwczovL3d3dy42N2hhaWxoYWlsLmNvbS9tYXRjaC9vbmUtY2hhbmdlLWZ1bGwtZGVidXQtY2VsdGljLXByZWRpY3RlZC14aS12cy1zdC1taXJyZW4vP2FtcA?oc=5",
+          "publishedOn": "2023-02-11T14:57:19.000Z",
+          "wordCount": 6069,
+          "title": "One change, full debut; Celtic Predicted XI vs St Mirren - 67 Hail Hail - Celtic FC News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiYmh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vZm9ybWVyLWNlbHRpYy1taWRmaWVsZGVyLXNlcmlvdXMtY29udGVuZGVyLWZvci1hYmVyZGVlbi1qb2Itc2F5cy1yZXBvcnQv0gFmaHR0cHM6Ly90aGVjZWx0aWNzdGFyLmNvbS9mb3JtZXItY2VsdGljLW1pZGZpZWxkZXItc2VyaW91cy1jb250ZW5kZXItZm9yLWFiZXJkZWVuLWpvYi1zYXlzLXJlcG9ydC9hbXAv",
           "author": null,
@@ -1567,16 +1597,6 @@
           "wordCount": 6062,
           "title": "Ange gives off staying at Celtic 'vibe' as Ally McCoist’s Leeds United tease fails to take off - Daily Record",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMia2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvY2FsbHVtLW1jZ3JlZ29yLWNlbHRpYy10cmFuc2Zlci1zaWxlbmNlLTI5MTQ3NzY20gFvaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvZm9vdGJhbGwtbmV3cy9jYWxsdW0tbWNncmVnb3ItY2VsdGljLXRyYW5zZmVyLXNpbGVuY2UtMjkxNDc3NjYuYW1w",
-          "author": null,
-          "description": "Ange Postecoglou reveals the Celtic transfer buzz around Callum McGregor no one gets to hear  Daily Record",
-          "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvY2FsbHVtLW1jZ3JlZ29yLWNlbHRpYy10cmFuc2Zlci1zaWxlbmNlLTI5MTQ3NzY20gFvaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvZm9vdGJhbGwtbmV3cy9jYWxsdW0tbWNncmVnb3ItY2VsdGljLXRyYW5zZmVyLXNpbGVuY2UtMjkxNDc3NjYuYW1w?oc=5",
-          "publishedOn": "2023-02-07T06:00:00.000Z",
-          "wordCount": 6208,
-          "title": "Ange Postecoglou reveals the Celtic transfer buzz around Callum McGregor no one gets to hear - Daily Record",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -1585,6 +1605,36 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "bd7e381d0066d7bfea52ec5ede1705bc",
+          "author": null,
+          "description": "Ange Postecoglou has responded to speculation linking him with the managerial vacancy at Leeds United.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23315355.ange-postecoglou-responds-leeds-united-manager-links/?ref=rss",
+          "publishedOn": "2023-02-11T17:36:58.000Z",
+          "wordCount": 8286,
+          "title": "Ange Postecoglou responds to Leeds United manager links",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16412915/?type=og-image"
+        },
+        {
+          "id": "a121a9ea5119fe3d47b8ed096438a3d5",
+          "author": null,
+          "description": "The Hoops' line-up has been announced for the fixture",
+          "link": "https://www.glasgowtimes.co.uk/sport/23315046.celtic-team-announced-scottish-cup-clash-st-mirren/?ref=rss",
+          "publishedOn": "2023-02-11T16:17:00.000Z",
+          "wordCount": 9756,
+          "title": "Celtic team announced for Scottish Cup clash against St Mirren",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16447954/?type=og-image"
+        },
+        {
+          "id": "2d5b55561bee06a2dc96cc3da8e1a804",
+          "author": null,
+          "description": "Leeds United are still keeping tabs on Ange Postecoglou.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23315270.leeds-next-manager-latest-ange-postecoglou-being-tracked/?ref=rss",
+          "publishedOn": "2023-02-11T16:10:12.000Z",
+          "wordCount": 9705,
+          "title": "Leeds next manager latest as Ange Postecoglou 'being tracked'",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16434264/?type=og-image"
+        },
         {
           "id": "729a7a355933d178f50f9b4f5d9fbe06",
           "author": null,
