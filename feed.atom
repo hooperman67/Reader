@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-02-11T21:15:37.466Z</updated>
+    <updated>2023-02-12T01:44:01.905Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic's Carl Starfelt opens up on United States scholarship chance]]></title>
+        <id>9879f86845c8aa9fc27d28fe3417b86d</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23314014.celtics-carl-starfelt-opens-united-states-scholarship-chance/?ref=rss"/>
+        <updated>2023-02-11T22:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Aged 18, the defender had an offer of a football scholarship across the pond.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Quick healer' Kyogo Furuhashi to have shoulder scan as Celtic boss addresses Leeds link]]></title>
+        <id>4023795</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/quick-healer-kyogo-furuhashi-to-have-shoulder-scan-as-celtic-boss-addresses-leeds-link-4023795"/>
+        <updated>2023-02-11T21:28:33.000Z</updated>
+        <summary type="html"><![CDATA[Ange Postecoglou insisted that he has not paid any attention to the “noise” of Leeds speculation after watching Celtic beat St Mirren 5-1 in the fifth round of the Scottish Cup at Parkhead.]]></summary>
+        <author>
+            <name>Ronnie Esplin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ange Postecoglou hits back over Celtic VAR 'favour' suggestion]]></title>
         <id>56c0ddcabc5c8472c95020453ff7113d</id>
@@ -74,6 +94,16 @@
         <summary type="html"><![CDATA[Celtic stormed into the Scottish Cup quarter-finals with a 5-1 win over St Mirren after a late flurry of goals at Parkhead.]]></summary>
         <author>
             <name>Ronnie Esplin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ange Postecoglou Brilliantly Breaks Silence On Leeds Rumour | Celts Are Here - CeltsAreHere]]></title>
+        <id>CBMiVWh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9hbmdlLXBvc3RlY29nbG91LWJyaWxsaWFudGx5LWJyZWFrcy1zaWxlbmNlLW9uLWxlZWRzLXJ1bW91ci_SAVlodHRwczovL2NlbHRzYXJlaGVyZS5jb20vYW5nZS1wb3N0ZWNvZ2xvdS1icmlsbGlhbnRseS1icmVha3Mtc2lsZW5jZS1vbi1sZWVkcy1ydW1vdXIvYW1wLw</id>
+        <link href="https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9hbmdlLXBvc3RlY29nbG91LWJyaWxsaWFudGx5LWJyZWFrcy1zaWxlbmNlLW9uLWxlZWRzLXJ1bW91ci_SAVlodHRwczovL2NlbHRzYXJlaGVyZS5jb20vYW5nZS1wb3N0ZWNvZ2xvdS1icmlsbGlhbnRseS1icmVha3Mtc2lsZW5jZS1vbi1sZWVkcy1ydW1vdXIvYW1wLw?oc=5"/>
+        <updated>2023-02-11T18:35:08.000Z</updated>
+        <summary type="html"><![CDATA[Ange Postecoglou Brilliantly Breaks Silence On Leeds Rumour | Celts Are Here  CeltsAreHere]]></summary>
+        <author>
+            <name>"celtic fc" - Google News</name>
         </author>
     </entry>
     <entry>
@@ -1914,206 +1944,6 @@ Celtic confident Ange Postecoglou won't go to Leeds United as insiders believe i
         <link href="https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zY290dGlzaC1wcmVtaWVyc2hpcC81LWhlYXJ0cy1zdW1tZXItdHJhbnNmZXItb3B0aW9ucy0yNjE3ODQ2M9IBamh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zY290dGlzaC1wcmVtaWVyc2hpcC81LWhlYXJ0cy1zdW1tZXItdHJhbnNmZXItb3B0aW9ucy0yNjE3ODQ2My5hbXA?oc=5"/>
         <updated>2023-02-07T14:01:01.000Z</updated>
         <summary type="html"><![CDATA[5 Hearts summer transfer options including Callum Paterson, Celtic duo and ex Rangers star  Football Scotland]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celebrating Five Years of The Celtic Star – We Remain Obsessed by Celtic - The Celtic Star]]></title>
-        <id>CBMiYWh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vY2VsZWJyYXRpbmctZml2ZS15ZWFycy1vZi10aGUtY2VsdGljLXN0YXItd2UtcmVtYWluLW9ic2Vzc2VkLWJ5LWNlbHRpYy_SAWVodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL2NlbGVicmF0aW5nLWZpdmUteWVhcnMtb2YtdGhlLWNlbHRpYy1zdGFyLXdlLXJlbWFpbi1vYnNlc3NlZC1ieS1jZWx0aWMvYW1wLw</id>
-        <link href="https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vY2VsZWJyYXRpbmctZml2ZS15ZWFycy1vZi10aGUtY2VsdGljLXN0YXItd2UtcmVtYWluLW9ic2Vzc2VkLWJ5LWNlbHRpYy_SAWVodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL2NlbGVicmF0aW5nLWZpdmUteWVhcnMtb2YtdGhlLWNlbHRpYy1zdGFyLXdlLXJlbWFpbi1vYnNlc3NlZC1ieS1jZWx0aWMvYW1wLw?oc=5"/>
-        <updated>2023-02-07T13:27:52.000Z</updated>
-        <summary type="html"><![CDATA[Celebrating Five Years of The Celtic Star – We Remain Obsessed by Celtic  The Celtic Star]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ally McCoist in 'drive him to Leeds' Ange Postecoglou Celtic offer]]></title>
-        <id>7e2089676e517d22053200d34eebbc89</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23304779.ally-mccoist-drive-leeds-ange-postecoglou-celtic-offer/?ref=rss"/>
-        <updated>2023-02-07T12:59:43.000Z</updated>
-        <summary type="html"><![CDATA[The Hoops manager has been named as one of the frontrunners for the vacant position at Elland Road.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Loren Campbell 100 Dons Appearances - afc.co.uk]]></title>
-        <id>CBMiRWh0dHBzOi8vd3d3LmFmYy5jby51ay8yMDIzLzAyLzA3L2xvcmVuLWNhbXBiZWxsLTEwMC1kb25zLWFwcGVhcmFuY2VzL9IBAA</id>
-        <link href="https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3LmFmYy5jby51ay8yMDIzLzAyLzA3L2xvcmVuLWNhbXBiZWxsLTEwMC1kb25zLWFwcGVhcmFuY2VzL9IBAA?oc=5"/>
-        <updated>2023-02-07T12:52:00.000Z</updated>
-        <summary type="html"><![CDATA[Loren Campbell 100 Dons Appearances  afc.co.uk]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Former Celtic midfielder backs Postecoglou to stay despite Leeds links]]></title>
-        <id>0ea2dc1613386b67595bee549e0669a7</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23304680.celtic-hero-expects-postecoglou-stay-club-amid-project-claim/?ref=rss"/>
-        <updated>2023-02-07T12:42:00.000Z</updated>
-        <summary type="html"><![CDATA[He feels the Australian will be staying put]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ange 'would seriously consider' Celtic exit for Leeds United but there’s a twist in the tale - Daily Record]]></title>
-        <id>CBMiWmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2FuZ2Utd291bGQtc2VyaW91c2x5LWNvbnNpZGVyLWNlbHRpYy0yOTE1NDE0NtIBXmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2FuZ2Utd291bGQtc2VyaW91c2x5LWNvbnNpZGVyLWNlbHRpYy0yOTE1NDE0Ni5hbXA</id>
-        <link href="https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2FuZ2Utd291bGQtc2VyaW91c2x5LWNvbnNpZGVyLWNlbHRpYy0yOTE1NDE0NtIBXmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2FuZ2Utd291bGQtc2VyaW91c2x5LWNvbnNpZGVyLWNlbHRpYy0yOTE1NDE0Ni5hbXA?oc=5"/>
-        <updated>2023-02-07T12:30:17.000Z</updated>
-        <summary type="html"><![CDATA[Ange 'would seriously consider' Celtic exit for Leeds United but there’s a twist in the tale  Daily Record]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ange Postecoglou Celtic exit gossip is exhausting... why would he join Leeds United for a relegation battle? - Football Scotland]]></title>
-        <id>CBMiaWh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zY290dGlzaC1wcmVtaWVyc2hpcC9hbmdlLXBvc3RlY29nbG91LWNlbHRpYy1leGl0LWdvc3NpcC0yNjE3NjA3MNIBbWh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zY290dGlzaC1wcmVtaWVyc2hpcC9hbmdlLXBvc3RlY29nbG91LWNlbHRpYy1leGl0LWdvc3NpcC0yNjE3NjA3MC5hbXA</id>
-        <link href="https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zY290dGlzaC1wcmVtaWVyc2hpcC9hbmdlLXBvc3RlY29nbG91LWNlbHRpYy1leGl0LWdvc3NpcC0yNjE3NjA3MNIBbWh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zY290dGlzaC1wcmVtaWVyc2hpcC9hbmdlLXBvc3RlY29nbG91LWNlbHRpYy1leGl0LWdvc3NpcC0yNjE3NjA3MC5hbXA?oc=5"/>
-        <updated>2023-02-07T12:02:20.000Z</updated>
-        <summary type="html"><![CDATA[Ange Postecoglou Celtic exit gossip is exhausting... why would he join Leeds United for a relegation battle?  Football Scotland]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic boss Postecoglou on Premier League links amid Leeds speculation]]></title>
-        <id>d0e8a1a0869fdee5b68ab765d7def752</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23304391.celtic-boss-postecoglou-premier-league-links-amid-leeds-speculation/?ref=rss"/>
-        <updated>2023-02-07T11:40:15.000Z</updated>
-        <summary type="html"><![CDATA[Ange Postecoglou has been touted as a potential managerial replacement for Jesse Marsch at Leeds United.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simon Jordan addresses Ange Postecoglou Celtic Premier League ... - Celtic Way]]></title>
-        <id>CBMibmh0dHBzOi8vd3d3LmNlbHRpY3dheS5jby51ay9uZXdzLzIzMzA0MjQyLnNpbW9uLWpvcmRhbi1kZXRhaWxzLWFuZ2UtcG9zdGVjb2dsb3UtY2VsdGljLXN0ZXBwaW5nLXN0b25lLXJlYWxpdHkv0gEA</id>
-        <link href="https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmNlbHRpY3dheS5jby51ay9uZXdzLzIzMzA0MjQyLnNpbW9uLWpvcmRhbi1kZXRhaWxzLWFuZ2UtcG9zdGVjb2dsb3UtY2VsdGljLXN0ZXBwaW5nLXN0b25lLXJlYWxpdHkv0gEA?oc=5"/>
-        <updated>2023-02-07T11:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Simon Jordan addresses Ange Postecoglou Celtic Premier League ...  Celtic Way]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tanaka feels Celtic's Furuhashi should be at the centre of Japan team]]></title>
-        <id>83640484ea831ae666b57ee73b5d3789</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23304244.japan-demanded-build-national-team-around-celtic-star-furuhashi/?ref=rss"/>
-        <updated>2023-02-07T11:15:00.000Z</updated>
-        <summary type="html"><![CDATA[The former Japan international feels the forward should have more of a role in the squad]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ange Postecoglou has already discussed Liverpool job as Celtic boss urged to replace Klopp - Express]]></title>
-        <id>CBMibmh0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvc3BvcnQvZm9vdGJhbGwvMTczMTYwNS9MaXZlcnBvb2wtQW5nZS1Qb3N0ZWNvZ2xvdS1DZWx0aWMtSnVyZ2VuLUtsb3BwLVByZW1pZXItTGVhZ3Vl0gFyaHR0cHM6Ly93d3cuZXhwcmVzcy5jby51ay9zcG9ydC9mb290YmFsbC8xNzMxNjA1L0xpdmVycG9vbC1BbmdlLVBvc3RlY29nbG91LUNlbHRpYy1KdXJnZW4tS2xvcHAtUHJlbWllci1MZWFndWUvYW1w</id>
-        <link href="https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvc3BvcnQvZm9vdGJhbGwvMTczMTYwNS9MaXZlcnBvb2wtQW5nZS1Qb3N0ZWNvZ2xvdS1DZWx0aWMtSnVyZ2VuLUtsb3BwLVByZW1pZXItTGVhZ3Vl0gFyaHR0cHM6Ly93d3cuZXhwcmVzcy5jby51ay9zcG9ydC9mb290YmFsbC8xNzMxNjA1L0xpdmVycG9vbC1BbmdlLVBvc3RlY29nbG91LUNlbHRpYy1KdXJnZW4tS2xvcHAtUHJlbWllci1MZWFndWUvYW1w?oc=5"/>
-        <updated>2023-02-07T11:08:00.000Z</updated>
-        <summary type="html"><![CDATA[Ange Postecoglou has already discussed Liverpool job as Celtic boss urged to replace Klopp  Express]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simon Jordan details Ange Postecoglou Celtic 'stepping stone' reality]]></title>
-        <id>54ab7407cb293c0ac4b5429fa3e2222a</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23304222.simon-jordan-details-ange-postecoglou-celtic-stepping-stone-reality/?ref=rss"/>
-        <updated>2023-02-07T11:02:34.000Z</updated>
-        <summary type="html"><![CDATA[Speaking with Jim White on talkSPORT this morning, Jordan assessed Postecoglou's links with the vacant Leeds United job.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rangers defender Connor Goldson 'Teflon-coated' as handball escapes leave former referees stunned]]></title>
-        <id>4017060</id>
-        <link href="https://www.scotsman.com/sport/football/rangers/rangers-defender-connor-goldson-teflon-coated-as-handball-escapes-leave-former-referees-stunned-4017060"/>
-        <updated>2023-02-07T10:59:11.000Z</updated>
-        <summary type="html"><![CDATA[Rangers defender Connor Goldson has been branded “Teflon-coated” after two former referees insisted he was fortunate to escape conceding penalties for handball on three occasions.]]></summary>
-        <author>
-            <name>Matthew Elder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scottish Twitter reacts to the absolute worst scran at Ibrox & Parkhead - GlasgowWorld]]></title>
-        <id>CBMizgFodHRwczovL3d3dy5nbGFzZ293d29ybGQuY29tL2xpZmVzdHlsZS9mb29kLWFuZC1kcmluay9nbGFzZ293LWZvb3RiYWxsLXNjcmFuLXJhdGVkLWFuZC1zbGF0ZWQtYnktc2NvdHRpc2gtdHdpdHRlci1mZWF0dXJpbmctaWJyb3gtYW5kLXBhcmtoZWFkLWZvb3R5LXNjcmFuLXJhbmdlcnMtZmMtY2VsdGljLWZjLWNhdGVyaW5nLWhhbGZ0aW1lLWZvb2QtNDAxNjk5MdIBAA</id>
-        <link href="https://news.google.com/rss/articles/CBMizgFodHRwczovL3d3dy5nbGFzZ293d29ybGQuY29tL2xpZmVzdHlsZS9mb29kLWFuZC1kcmluay9nbGFzZ293LWZvb3RiYWxsLXNjcmFuLXJhdGVkLWFuZC1zbGF0ZWQtYnktc2NvdHRpc2gtdHdpdHRlci1mZWF0dXJpbmctaWJyb3gtYW5kLXBhcmtoZWFkLWZvb3R5LXNjcmFuLXJhbmdlcnMtZmMtY2VsdGljLWZjLWNhdGVyaW5nLWhhbGZ0aW1lLWZvb2QtNDAxNjk5MdIBAA?oc=5"/>
-        <updated>2023-02-07T10:46:40.000Z</updated>
-        <summary type="html"><![CDATA[Scottish Twitter reacts to the absolute worst scran at Ibrox & Parkhead  GlasgowWorld]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ange Postecoglou Leeds latest as Celtic boss 'on radar' of EPL side]]></title>
-        <id>5b3f39e4e05d1d923e36881f7b82565a</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23304023.ange-postecoglou-leeds-latest-celtic-boss-on-radar-epl-side/?ref=rss"/>
-        <updated>2023-02-07T10:13:26.000Z</updated>
-        <summary type="html"><![CDATA[American Jesse Marsch was dismissed by the Elland Road club yesterday after less than a year in charge.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic confirm fifth 2023 exit as midfielder heads out on year-long loan]]></title>
-        <id>4016933</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/celtic-confirm-fifth-2023-exit-as-midfielder-heads-out-on-year-long-loan-4016933"/>
-        <updated>2023-02-07T10:05:46.000Z</updated>
-        <summary type="html"><![CDATA[Celtic have confirmed the exit of midfielder Yosuke Ideguchi – 13 months after the player joined the club on a deal until 2026.]]></summary>
-        <author>
-            <name>Joel Sked</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Callum McGregor is like me and you – he loves Celtic too - The Celtic Star]]></title>
-        <id>CBMiUWh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vY2FsbHVtLW1jZ3JlZ29yLWlzLWxpa2UtbWUtYW5kLXlvdS1oZS1sb3Zlcy1jZWx0aWMtdG9vL9IBVWh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vY2FsbHVtLW1jZ3JlZ29yLWlzLWxpa2UtbWUtYW5kLXlvdS1oZS1sb3Zlcy1jZWx0aWMtdG9vL2FtcC8</id>
-        <link href="https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vY2FsbHVtLW1jZ3JlZ29yLWlzLWxpa2UtbWUtYW5kLXlvdS1oZS1sb3Zlcy1jZWx0aWMtdG9vL9IBVWh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vY2FsbHVtLW1jZ3JlZ29yLWlzLWxpa2UtbWUtYW5kLXlvdS1oZS1sb3Zlcy1jZWx0aWMtdG9vL2FtcC8?oc=5"/>
-        <updated>2023-02-07T10:02:19.000Z</updated>
-        <summary type="html"><![CDATA[Callum McGregor is like me and you – he loves Celtic too  The Celtic Star]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ange Postecoglou: Pundits view on Leeds United speculation, Celtic boss 'ideal fit' for Liverpool, frontrunner]]></title>
-        <id>4016873</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/ange-postecoglou-pundits-view-on-leeds-united-speculation-celtic-boss-ideal-fit-for-liverpool-frontrunner-4016873"/>
-        <updated>2023-02-07T09:40:32.000Z</updated>
-        <summary type="html"><![CDATA[Like night follows day, as soon as a Premier League job becomes vacant, Celtic boss Ange Postecoglou features heavily in speculation and bookmakers shortlists.]]></summary>
-        <author>
-            <name>Joel Sked</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leeds urged to land Celtic's Ange Postecoglou by club legend]]></title>
-        <id>7ab7f3df6c04b0229af1e3b601a4cc72</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23303911.leeds-urged-land-celtics-ange-postecoglou-club-legend/?ref=rss"/>
-        <updated>2023-02-07T09:40:00.000Z</updated>
-        <summary type="html"><![CDATA[The Premier League club are on the hunt for a new gaffer after they sacked Jesse Marsch yesterday.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Virals: Celtic announce that 26-year-old has left club for 12 months - Read Celtic]]></title>
-        <id>CBMiZmh0dHBzOi8vcmVhZGNlbHRpYy5jb20vMjAyMy8wMi8wNy92aXJhbHMtY2VsdGljLWFubm91bmNlLXRoYXQtMjYteWVhci1vbGQtaGFzLWxlZnQtY2x1Yi1mb3ItMTItbW9udGhzL9IBrwFodHRwczovL3JlYWRjZWx0aWMuY29tLzIwMjMvMDIvMDcvdmlyYWxzLWNlbHRpYy1hbm5vdW5jZS10aGF0LTI2LXllYXItb2xkLWhhcy1sZWZ0LWNsdWItZm9yLTEyLW1vbnRocy8_ZmJjbGlkPUl3QVIwS3ljdlFmUHhVNG5IUnFTVkUxSkE0RjNhN0NmcUpXVlNUaDNlenJSRXFZTlZybDNFRzVQaUoxYm8mYW1w</id>
-        <link href="https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vcmVhZGNlbHRpYy5jb20vMjAyMy8wMi8wNy92aXJhbHMtY2VsdGljLWFubm91bmNlLXRoYXQtMjYteWVhci1vbGQtaGFzLWxlZnQtY2x1Yi1mb3ItMTItbW9udGhzL9IBrwFodHRwczovL3JlYWRjZWx0aWMuY29tLzIwMjMvMDIvMDcvdmlyYWxzLWNlbHRpYy1hbm5vdW5jZS10aGF0LTI2LXllYXItb2xkLWhhcy1sZWZ0LWNsdWItZm9yLTEyLW1vbnRocy8_ZmJjbGlkPUl3QVIwS3ljdlFmUHhVNG5IUnFTVkUxSkE0RjNhN0NmcUpXVlNUaDNlenJSRXFZTlZybDNFRzVQaUoxYm8mYW1w?oc=5"/>
-        <updated>2023-02-07T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Virals: Celtic announce that 26-year-old has left club for 12 months  Read Celtic]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yosuke Ideguchi in Celtic transfer exit as he secures J-League return with Avispa Fukuoka - Glasgow Live]]></title>
-        <id>CBMiUWh0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L3lvc3VrZS1pZGVndWNoaS1jZWx0aWMtdHJhbnNmZXItZXhpdC0yNjE3NDYwNdIBVWh0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L3lvc3VrZS1pZGVndWNoaS1jZWx0aWMtdHJhbnNmZXItZXhpdC0yNjE3NDYwNS5hbXA</id>
-        <link href="https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L3lvc3VrZS1pZGVndWNoaS1jZWx0aWMtdHJhbnNmZXItZXhpdC0yNjE3NDYwNdIBVWh0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L3lvc3VrZS1pZGVndWNoaS1jZWx0aWMtdHJhbnNmZXItZXhpdC0yNjE3NDYwNS5hbXA?oc=5"/>
-        <updated>2023-02-07T09:21:52.000Z</updated>
-        <summary type="html"><![CDATA[Yosuke Ideguchi in Celtic transfer exit as he secures J-League return with Avispa Fukuoka  Glasgow Live]]></summary>
         <author>
             <name>"celtic fc" - Google News</name>
         </author>
