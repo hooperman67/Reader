@@ -279,6 +279,16 @@
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
         {
+          "id": "CBMiUWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL29oLXJldmVhbHMtam9lLWhhcnRzLWNlbHRpYy0yOTE5NjEzMtIBVWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL29oLXJldmVhbHMtam9lLWhhcnRzLWNlbHRpYy0yOTE5NjEzMi5hbXA",
+          "author": null,
+          "description": "Oh reveals Joe Hart's Celtic warning from Son Heung min as Spurs star told keeper 'look after him'  Daily Record",
+          "link": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL29oLXJldmVhbHMtam9lLWhhcnRzLWNlbHRpYy0yOTE5NjEzMtIBVWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL29oLXJldmVhbHMtam9lLWhhcnRzLWNlbHRpYy0yOTE5NjEzMi5hbXA?oc=5",
+          "publishedOn": "2023-02-13T06:00:00.000Z",
+          "wordCount": 6069,
+          "title": "Oh reveals Joe Hart's Celtic warning from Son Heung min as Spurs star told keeper 'look after him' - Daily Record",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "CBMiVWh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS90aGV5LXNob3VsZC1iZS1oYXBweS1hbmdlcy1oaWxhcmlvdXMtcmVzcG9uc2UtdG8tam9ocm5hbGlzdC_SAVlodHRwczovL2NlbHRzYXJlaGVyZS5jb20vdGhleS1zaG91bGQtYmUtaGFwcHktYW5nZXMtaGlsYXJpb3VzLXJlc3BvbnNlLXRvLWpvaHJuYWxpc3QvYW1wLw",
           "author": null,
           "description": "‘They Should Be Happy’ - Ange’s Hilarious Response To Johrnalist | Celts Are Here  CeltsAreHere",
@@ -316,6 +326,16 @@
           "publishedOn": "2023-02-12T17:30:00.000Z",
           "wordCount": 6069,
           "title": "Celtic boss Ange Postecoglou plays down links to Leeds United - HITC - Football, Gaming, Movies, TV, Music",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiaGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3Mva2VubnktZGFsZ2xpc2gtbWFrZXMtY2VsdGljLW51aXNhbmNlLTI5MTk2NDQw0gFsaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvZm9vdGJhbGwtbmV3cy9rZW5ueS1kYWxnbGlzaC1tYWtlcy1jZWx0aWMtbnVpc2FuY2UtMjkxOTY0NDAuYW1w",
+          "author": null,
+          "description": "Kenny Dalglish makes Celtic 'nuisance' claim over Ange Postecoglou Premier League links  Daily Record",
+          "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3Mva2VubnktZGFsZ2xpc2gtbWFrZXMtY2VsdGljLW51aXNhbmNlLTI5MTk2NDQw0gFsaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvZm9vdGJhbGwtbmV3cy9rZW5ueS1kYWxnbGlzaC1tYWtlcy1jZWx0aWMtbnVpc2FuY2UtMjkxOTY0NDAuYW1w?oc=5",
+          "publishedOn": "2023-02-12T12:36:59.000Z",
+          "wordCount": 6069,
+          "title": "Kenny Dalglish makes Celtic 'nuisance' claim over Ange Postecoglou Premier League links - Daily Record",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -1357,73 +1377,13 @@
           "wordCount": 6208,
           "title": "Staunch Rangers man issues definitive update on Postecoglou Celtic future amid Premier League move talk - TEAMtalk",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiQWh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9kd2lnaHQteW9ya2UtbWFrZXMtZmFudGFzeS1jZWx0aWMtY2xhaW0v0gFFaHR0cHM6Ly9jZWx0c2FyZWhlcmUuY29tL2R3aWdodC15b3JrZS1tYWtlcy1mYW50YXN5LWNlbHRpYy1jbGFpbS9hbXAv",
-          "author": null,
-          "description": "Dwight Yorke Makes Fantasy Celtic Claim | Celts Are Here  CeltsAreHere",
-          "link": "https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9kd2lnaHQteW9ya2UtbWFrZXMtZmFudGFzeS1jZWx0aWMtY2xhaW0v0gFFaHR0cHM6Ly9jZWx0c2FyZWhlcmUuY29tL2R3aWdodC15b3JrZS1tYWtlcy1mYW50YXN5LWNlbHRpYy1jbGFpbS9hbXAv?oc=5",
-          "publishedOn": "2023-02-08T17:08:00.000Z",
-          "wordCount": 6208,
-          "title": "Dwight Yorke Makes Fantasy Celtic Claim | Celts Are Here - CeltsAreHere",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiT2h0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vdmFzaWxpcy1iYXJrYXMtbG9va3MtYS1tYW4tdHJhbnNmb3JtZWQtYXQtZmMtdXRyZWNodC_SAQA",
-          "author": null,
-          "description": "Vasilis Barkas looks a man transformed at FC Utrecht  The Celtic Star",
-          "link": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vdmFzaWxpcy1iYXJrYXMtbG9va3MtYS1tYW4tdHJhbnNmb3JtZWQtYXQtZmMtdXRyZWNodC_SAQA?oc=5",
-          "publishedOn": "2023-02-08T17:07:09.000Z",
-          "wordCount": 6208,
-          "title": "Vasilis Barkas looks a man transformed at FC Utrecht - The Celtic Star",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiT2h0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vdmFzaWxpcy1iYXJrYXMtbG9va3MtYS1tYW4tdHJhbnNmb3JtZWQtYXQtZmMtdXRyZWNodC_SAVNodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL3Zhc2lsaXMtYmFya2FzLWxvb2tzLWEtbWFuLXRyYW5zZm9ybWVkLWF0LWZjLXV0cmVjaHQvYW1wLw",
-          "author": null,
-          "description": "Vasilis Barkas looks a man transformed at FC Utrecht  The Celtic Star",
-          "link": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vdmFzaWxpcy1iYXJrYXMtbG9va3MtYS1tYW4tdHJhbnNmb3JtZWQtYXQtZmMtdXRyZWNodC_SAVNodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL3Zhc2lsaXMtYmFya2FzLWxvb2tzLWEtbWFuLXRyYW5zZm9ybWVkLWF0LWZjLXV0cmVjaHQvYW1wLw?oc=5",
-          "publishedOn": "2023-02-08T17:07:09.000Z",
-          "wordCount": 6208,
-          "title": "Vasilis Barkas looks a man transformed at FC Utrecht - The Celtic Star",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMifWh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvdGhlLWJpZ2dlc3QtdGhpbmctam9obi1rZW5uZWR5LWxlZnQtaW1wcmVzc2VkLWJ5LWNydWNpYWwtYXNwZWN0LW9mLXJlY2VudC1jZWx0aWMtcGVyZm9ybWFuY2Uv0gGBAWh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvdGhlLWJpZ2dlc3QtdGhpbmctam9obi1rZW5uZWR5LWxlZnQtaW1wcmVzc2VkLWJ5LWNydWNpYWwtYXNwZWN0LW9mLXJlY2VudC1jZWx0aWMtcGVyZm9ybWFuY2UvP2FtcA",
-          "author": null,
-          "description": "“The biggest thing”; John Kennedy left impressed by maturity of Celtic’s Perth performance  67 Hail Hail - Celtic FC News",
-          "link": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvdGhlLWJpZ2dlc3QtdGhpbmctam9obi1rZW5uZWR5LWxlZnQtaW1wcmVzc2VkLWJ5LWNydWNpYWwtYXNwZWN0LW9mLXJlY2VudC1jZWx0aWMtcGVyZm9ybWFuY2Uv0gGBAWh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvdGhlLWJpZ2dlc3QtdGhpbmctam9obi1rZW5uZWR5LWxlZnQtaW1wcmVzc2VkLWJ5LWNydWNpYWwtYXNwZWN0LW9mLXJlY2VudC1jZWx0aWMtcGVyZm9ybWFuY2UvP2FtcA?oc=5",
-          "publishedOn": "2023-02-08T16:40:00.000Z",
-          "wordCount": 6208,
-          "title": "“The biggest thing”; John Kennedy left impressed by maturity of Celtic’s Perth performance - 67 Hail Hail - Celtic FC News",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiTGh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9jZWx0aWMtc3RhcnMtZmxvY2stYnJvb255cy1pbnN0YS1hZnRlci1jdXAtaGVyb2ljcy_SAVBodHRwczovL2NlbHRzYXJlaGVyZS5jb20vY2VsdGljLXN0YXJzLWZsb2NrLWJyb29ueXMtaW5zdGEtYWZ0ZXItY3VwLWhlcm9pY3MvYW1wLw",
-          "author": null,
-          "description": "Celtic Stars Flock To Broony's Insta After Cup Heroics | Celts Are Here  CeltsAreHere",
-          "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9jZWx0aWMtc3RhcnMtZmxvY2stYnJvb255cy1pbnN0YS1hZnRlci1jdXAtaGVyb2ljcy_SAVBodHRwczovL2NlbHRzYXJlaGVyZS5jb20vY2VsdGljLXN0YXJzLWZsb2NrLWJyb29ueXMtaW5zdGEtYWZ0ZXItY3VwLWhlcm9pY3MvYW1wLw?oc=5",
-          "publishedOn": "2023-02-08T16:37:25.000Z",
-          "wordCount": 6208,
-          "title": "Celtic Stars Flock To Broony's Insta After Cup Heroics | Celts Are Here - CeltsAreHere",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMihgFodHRwczovL3RoZWNlbHRpY2Jsb2cuY29tLzIwMjMvMDIvYXJ0aWNsZXMtYW5kLWZlYXR1cmVzL2NlbHRpY3MtbWFuYWdlci13YXMtdGhlLXN1YmplY3Qtb2YtYW4taG9ycmlmaWMtOTAtbWludXRlcy1vbi1yYWRpby1sYXN0LW5pZ2h0L9IBigFodHRwczovL3RoZWNlbHRpY2Jsb2cuY29tLzIwMjMvMDIvYXJ0aWNsZXMtYW5kLWZlYXR1cmVzL2NlbHRpY3MtbWFuYWdlci13YXMtdGhlLXN1YmplY3Qtb2YtYW4taG9ycmlmaWMtOTAtbWludXRlcy1vbi1yYWRpby1sYXN0LW5pZ2h0L2FtcC8",
-          "author": null,
-          "description": "Celtic’s Manager Was The Subject Of An Horrific 90 Minutes On Radio Last Night.  TheCelticBlog.com",
-          "link": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3RoZWNlbHRpY2Jsb2cuY29tLzIwMjMvMDIvYXJ0aWNsZXMtYW5kLWZlYXR1cmVzL2NlbHRpY3MtbWFuYWdlci13YXMtdGhlLXN1YmplY3Qtb2YtYW4taG9ycmlmaWMtOTAtbWludXRlcy1vbi1yYWRpby1sYXN0LW5pZ2h0L9IBigFodHRwczovL3RoZWNlbHRpY2Jsb2cuY29tLzIwMjMvMDIvYXJ0aWNsZXMtYW5kLWZlYXR1cmVzL2NlbHRpY3MtbWFuYWdlci13YXMtdGhlLXN1YmplY3Qtb2YtYW4taG9ycmlmaWMtOTAtbWludXRlcy1vbi1yYWRpby1sYXN0LW5pZ2h0L2FtcC8?oc=5",
-          "publishedOn": "2023-02-08T16:16:00.000Z",
-          "wordCount": 6208,
-          "title": "Celtic’s Manager Was The Subject Of An Horrific 90 Minutes On Radio Last Night. - TheCelticBlog.com",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
         {
           "id": "5065cf7d68d029549916937bcafc141a",
@@ -1734,16 +1694,6 @@
           "wordCount": 9636,
           "title": "Giakoumakis confirms Celtic transfer exit with emotional message",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16412524/?type=og-image"
-        },
-        {
-          "id": "d42273edefa4533036afd23b9c413950",
-          "author": null,
-          "description": "Sporting Index have tipped Celtic to claim the Scottish Premiership title by an 11-point gap over Rangers.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23308214.celtic-tipped-reach-100-points-gap-rangers-predicted/?ref=rss",
-          "publishedOn": "2023-02-08T15:25:34.000Z",
-          "wordCount": 8449,
-          "title": "Celtic tipped to reach 100 points as gap over Rangers predicted",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16437745/?type=og-image"
         }
       ]
     }
