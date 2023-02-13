@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4024489",
+          "author": "Joel Sked",
+          "description": "Leeds United appear to be closing in on naming a replacement for Jesse Marsch – ending any speculation surrounding Celtic boss Ange Postecoglou.",
+          "link": "https://www.scotsman.com/sport/football/celtic/ange-postecoglou-and-leeds-united-speculation-set-to-end-new-name-emerges-southampton-question-4024489",
+          "publishedOn": "2023-02-13T10:09:19.000Z",
+          "wordCount": null,
+          "title": "Ange Postecoglou and Leeds United speculation set to end, new name emerges, Southampton question",
+          "imageUrl": null
+        },
+        {
           "id": "4020464",
           "author": "Joel Sked",
           "description": "The fifth round of the Scottish Cup served up plenty of entertainment, shocks and controversy across seven ties. Only one encounter remains with Falkirk’s trip to face Darvel, conquerors of Aberdeen.",
@@ -269,6 +279,46 @@
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
         {
+          "id": "CBMiV2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL3Zhc2lsaXMtYmFya2FzLXJldHVybi1jZWx0aWMtaHVnZS0yOTIwMjQ5NNIBW2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL3Zhc2lsaXMtYmFya2FzLXJldHVybi1jZWx0aWMtaHVnZS0yOTIwMjQ5NC5hbXA",
+          "author": null,
+          "description": "Vasilis Barkas WILL return to Celtic with 'huge' transfer imminent as Utrecht get realistic over keeper  Daily Record",
+          "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL3Zhc2lsaXMtYmFya2FzLXJldHVybi1jZWx0aWMtaHVnZS0yOTIwMjQ5NNIBW2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL3Zhc2lsaXMtYmFya2FzLXJldHVybi1jZWx0aWMtaHVnZS0yOTIwMjQ5NC5hbXA?oc=5",
+          "publishedOn": "2023-02-13T11:01:48.000Z",
+          "wordCount": 6069,
+          "title": "Vasilis Barkas WILL return to Celtic with 'huge' transfer imminent as Utrecht get realistic over keeper - Daily Record",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZWh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vdW5pcXVlLWFuZ2xlLWhvbGRlcnMtY2VsdGljLXNjb3JlLWZpdmUtYWdhaW5zdC1ib3JvdWdobXVpci1pbi1zY290dGlzaC1jdXAv0gFpaHR0cHM6Ly90aGVjZWx0aWNzdGFyLmNvbS91bmlxdWUtYW5nbGUtaG9sZGVycy1jZWx0aWMtc2NvcmUtZml2ZS1hZ2FpbnN0LWJvcm91Z2htdWlyLWluLXNjb3R0aXNoLWN1cC9hbXAv",
+          "author": null,
+          "description": "Unique Angle – Holders Celtic score five against Boroughmuir in Scottish Cup  The Celtic Star",
+          "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vdW5pcXVlLWFuZ2xlLWhvbGRlcnMtY2VsdGljLXNjb3JlLWZpdmUtYWdhaW5zdC1ib3JvdWdobXVpci1pbi1zY290dGlzaC1jdXAv0gFpaHR0cHM6Ly90aGVjZWx0aWNzdGFyLmNvbS91bmlxdWUtYW5nbGUtaG9sZGVycy1jZWx0aWMtc2NvcmUtZml2ZS1hZ2FpbnN0LWJvcm91Z2htdWlyLWluLXNjb3R0aXNoLWN1cC9hbXAv?oc=5",
+          "publishedOn": "2023-02-13T10:51:17.000Z",
+          "wordCount": 6069,
+          "title": "Unique Angle – Holders Celtic score five against Boroughmuir in Scottish Cup - The Celtic Star",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiYWh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vZXhjbHVzaXZlLWluanVyeS1ibG93LWZvci1jZWx0aWMtYXMtamFjeW50YS1waWN0dXJlZC13ZWFyaW5nLW1vb24tYm9vdC_SAWVodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL2V4Y2x1c2l2ZS1pbmp1cnktYmxvdy1mb3ItY2VsdGljLWFzLWphY3ludGEtcGljdHVyZWQtd2VhcmluZy1tb29uLWJvb3QvYW1wLw",
+          "author": null,
+          "description": "Exclusive – Injury blow for Celtic as Jacynta pictured wearing Moon Boot  The Celtic Star",
+          "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vZXhjbHVzaXZlLWluanVyeS1ibG93LWZvci1jZWx0aWMtYXMtamFjeW50YS1waWN0dXJlZC13ZWFyaW5nLW1vb24tYm9vdC_SAWVodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL2V4Y2x1c2l2ZS1pbmp1cnktYmxvdy1mb3ItY2VsdGljLWFzLWphY3ludGEtcGljdHVyZWQtd2VhcmluZy1tb29uLWJvb3QvYW1wLw?oc=5",
+          "publishedOn": "2023-02-13T10:19:38.000Z",
+          "wordCount": 6069,
+          "title": "Exclusive – Injury blow for Celtic as Jacynta pictured wearing Moon Boot - The Celtic Star",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiSGh0dHBzOi8vd3d3LmFmYy5jby51ay8yMDIzLzAyLzEzL3RpY2tldC1idWxsZXRpbi1tb25kYXktMTN0aC1mZWJydWFyeS0yL9IBAA",
+          "author": null,
+          "description": "Ticket Bulletin | Monday 13th February  afc.co.uk",
+          "link": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LmFmYy5jby51ay8yMDIzLzAyLzEzL3RpY2tldC1idWxsZXRpbi1tb25kYXktMTN0aC1mZWJydWFyeS0yL9IBAA?oc=5",
+          "publishedOn": "2023-02-13T09:43:00.000Z",
+          "wordCount": 6069,
+          "title": "Ticket Bulletin | Monday 13th February - afc.co.uk",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "CBMiZGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3Mva3Jpcy1jb21tb25zLXZhci1yZW1pbmRlci1jZWx0aWMtMjkyMDA2NDXSAWhodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL2tyaXMtY29tbW9ucy12YXItcmVtaW5kZXItY2VsdGljLTI5MjAwNjQ1LmFtcA",
           "author": null,
           "description": "Kris Commons in VAR reminder as Celtic hero savages referees but insists problems go beyond Scotland  Daily Record",
@@ -356,6 +406,16 @@
           "publishedOn": "2023-02-12T11:31:10.000Z",
           "wordCount": 6069,
           "title": "Yosuke Ideguchi opens up on Celtic flop as he admits 'time not a success' - Football Scotland",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMimQFodHRwczovL3RoZWNlbHRpY2Jsb2cuY29tLzIwMjMvMDIvYXJ0aWNsZXMtYW5kLWZlYXR1cmVzL2FydGljbGVzL3RoZS1jZWx0aWMtYm9zcy1rbm93cy13aGF0LW91ci1tZWRpYS1pcy11cC10by1hbmQteWVzdGVyZGF5LWhlLW1hZGUtaXQtY2xlYXItdG8tdGhlLWJiYy_SAZ0BaHR0cHM6Ly90aGVjZWx0aWNibG9nLmNvbS8yMDIzLzAyL2FydGljbGVzLWFuZC1mZWF0dXJlcy9hcnRpY2xlcy90aGUtY2VsdGljLWJvc3Mta25vd3Mtd2hhdC1vdXItbWVkaWEtaXMtdXAtdG8tYW5kLXllc3RlcmRheS1oZS1tYWRlLWl0LWNsZWFyLXRvLXRoZS1iYmMvYW1wLw",
+          "author": null,
+          "description": "The Celtic Boss Knows What Our Media Is Up To, And Yesterday He Made It Clear To The BBC.  TheCelticBlog.com",
+          "link": "https://news.google.com/rss/articles/CBMimQFodHRwczovL3RoZWNlbHRpY2Jsb2cuY29tLzIwMjMvMDIvYXJ0aWNsZXMtYW5kLWZlYXR1cmVzL2FydGljbGVzL3RoZS1jZWx0aWMtYm9zcy1rbm93cy13aGF0LW91ci1tZWRpYS1pcy11cC10by1hbmQteWVzdGVyZGF5LWhlLW1hZGUtaXQtY2xlYXItdG8tdGhlLWJiYy_SAZ0BaHR0cHM6Ly90aGVjZWx0aWNibG9nLmNvbS8yMDIzLzAyL2FydGljbGVzLWFuZC1mZWF0dXJlcy9hcnRpY2xlcy90aGUtY2VsdGljLWJvc3Mta25vd3Mtd2hhdC1vdXItbWVkaWEtaXMtdXAtdG8tYW5kLXllc3RlcmRheS1oZS1tYWRlLWl0LWNsZWFyLXRvLXRoZS1iYmMvYW1wLw?oc=5",
+          "publishedOn": "2023-02-12T11:00:00.000Z",
+          "wordCount": 6069,
+          "title": "The Celtic Boss Knows What Our Media Is Up To, And Yesterday He Made It Clear To The BBC. - TheCelticBlog.com",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -1297,16 +1357,6 @@
           "wordCount": 6208,
           "title": "Liel Abada Rumours Rubbished By Former Scotland International | Celts Are Here - CeltsAreHere",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiSmh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vbGVlZHMtbm90LWJpZy1lbm91Z2gtZm9yLXBvc3RlY29nbG91LWJiYy1wdW5kaXQv0gFOaHR0cHM6Ly90aGVjZWx0aWNzdGFyLmNvbS9sZWVkcy1ub3QtYmlnLWVub3VnaC1mb3ItcG9zdGVjb2dsb3UtYmJjLXB1bmRpdC9hbXAv",
-          "author": null,
-          "description": "“Leeds not big enough for Postecoglou” – BBC Pundit  The Celtic Star",
-          "link": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vbGVlZHMtbm90LWJpZy1lbm91Z2gtZm9yLXBvc3RlY29nbG91LWJiYy1wdW5kaXQv0gFOaHR0cHM6Ly90aGVjZWx0aWNzdGFyLmNvbS9sZWVkcy1ub3QtYmlnLWVub3VnaC1mb3ItcG9zdGVjb2dsb3UtYmJjLXB1bmRpdC9hbXAv?oc=5",
-          "publishedOn": "2023-02-08T21:51:49.000Z",
-          "wordCount": 6208,
-          "title": "“Leeds not big enough for Postecoglou” – BBC Pundit - The Celtic Star",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -1315,6 +1365,26 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "59fc6494de5d969166ae800fec152713",
+          "author": null,
+          "description": "Vasilis Barkas will return to Parkhead in the summer after Utrecht confirmed they cannot afford to buy the Greek shotstopper.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23317278.vasilis-barkas-return-celtic-summer-window/?ref=rss",
+          "publishedOn": "2023-02-13T10:45:22.000Z",
+          "wordCount": 9781,
+          "title": "Vasilis Barkas to return to Celtic in the summer window",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16450601/?type=og-image"
+        },
+        {
+          "id": "b3a3de3f6f55474973c53a5e37182ad9",
+          "author": null,
+          "description": "The former Parkhead forward has been left furious with the use of the technology north and south of the border.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23316737.comically-bad---ex-celtic-ace-commons-fillets-var-implementation/?ref=rss",
+          "publishedOn": "2023-02-13T09:30:34.000Z",
+          "wordCount": 8591,
+          "title": "'Comically bad' - Ex-Celtic ace Commons fillets VAR implementation",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16450265/?type=og-image"
+        },
         {
           "id": "5065cf7d68d029549916937bcafc141a",
           "author": null,
