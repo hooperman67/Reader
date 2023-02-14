@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4025827",
+          "author": "Alan Pattullo",
+          "description": "John Kennedy admits he savours good attacking play more than good defensive play but he believes Celtic's rearguard is providing a sound basis for their current title charge.",
+          "link": "https://www.scotsman.com/sport/football/celtic/why-john-kennedy-wont-accept-any-praise-for-celtics-defensive-record-4025827",
+          "publishedOn": "2023-02-13T22:30:00.000Z",
+          "wordCount": null,
+          "title": "Why John Kennedy won't accept any praise for Celtic's defensive record",
+          "imageUrl": null
+        },
+        {
           "id": "4025843",
           "author": "Joel Sked",
           "description": "Sportsmanship or gamesmanship? Standards or sticking the fingers up? Winning fair or just winning? Sport or entertainment? Questions which were wrestled with after Rangers edged past Partick Thistle in the fifth round of the Scottish Cup.",
@@ -284,26 +294,6 @@
           "wordCount": null,
           "title": "'Yes it could happen' - Celtic and Rangers backed for Premier League move with key factor highlighted",
           "imageUrl": null
-        },
-        {
-          "id": "4020464",
-          "author": "Joel Sked",
-          "description": "The Premiership takes a break for the weekend as with the Scottish Cup fifth round taking centre stage. Eight ties are set to be played over four days with four televised fixtures.",
-          "link": "https://www.scotsman.com/sport/football/celtic/when-is-the-scottish-cup-draw-sixth-round-details-how-to-watch-celtic-hearts-rangers-expected-in-the-hat-4020464",
-          "publishedOn": "2023-02-09T11:47:56.000Z",
-          "wordCount": null,
-          "title": "When is the Scottish Cup draw? Sixth round details, how to watch, Celtic, Hearts, Rangers expected in the hat",
-          "imageUrl": null
-        },
-        {
-          "id": "4020018",
-          "author": "Mark Atkinson",
-          "description": "A new-look, open European Super League could contain up to 80 teams in a multi-divisional format, the competition’s chief executive has said, potentially opening the door to involvement for Celtic and Rangers.",
-          "link": "https://www.scotsman.com/sport/football/celtic/major-super-league-change-set-to-open-door-for-celtic-and-rangers-its-time-for-a-change-4020018",
-          "publishedOn": "2023-02-09T09:18:29.000Z",
-          "wordCount": null,
-          "title": "Major Super League change set to open door for Celtic and Rangers - 'It’s time for a change'",
-          "imageUrl": null
         }
       ]
     },
@@ -318,6 +308,36 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CBMiVGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vcGhvdG8tb2YtdGhlLWRheS1haWRlbi1tY2dlYWR5LWNlbGVicmF0ZXMtYWdhaW5zdC1iZW5maWNhL9IBWGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vcGhvdG8tb2YtdGhlLWRheS1haWRlbi1tY2dlYWR5LWNlbGVicmF0ZXMtYWdhaW5zdC1iZW5maWNhL2FtcC8",
+          "author": null,
+          "description": "Photo Of The Day: Aiden McGeady Celebrates Against Benfica  The Celtic Star",
+          "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vcGhvdG8tb2YtdGhlLWRheS1haWRlbi1tY2dlYWR5LWNlbGVicmF0ZXMtYWdhaW5zdC1iZW5maWNhL9IBWGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vcGhvdG8tb2YtdGhlLWRheS1haWRlbi1tY2dlYWR5LWNlbGVicmF0ZXMtYWdhaW5zdC1iZW5maWNhL2FtcC8?oc=5",
+          "publishedOn": "2023-02-13T23:09:17.000Z",
+          "wordCount": 6094,
+          "title": "Photo Of The Day: Aiden McGeady Celebrates Against Benfica - The Celtic Star",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiW2h0dHBzOi8vdGhlY2VsdGljYmhveXMuY29tLzIwMjMvMDIvMTMvNS1taWxsaW9uLXBsYXllci13aWxsLW1ha2UtY2VsdGljLXJldHVybi1uZXh0LXN1bW1lci_SAQA",
+          "author": null,
+          "description": "£5 million player will make Celtic return next summer  The Celtic Bhoys",
+          "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vdGhlY2VsdGljYmhveXMuY29tLzIwMjMvMDIvMTMvNS1taWxsaW9uLXBsYXllci13aWxsLW1ha2UtY2VsdGljLXJldHVybi1uZXh0LXN1bW1lci_SAQA?oc=5",
+          "publishedOn": "2023-02-13T22:32:40.000Z",
+          "wordCount": 6094,
+          "title": "£5 million player will make Celtic return next summer - The Celtic Bhoys",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiXWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL3BhdHJpY2stcm9iZXJ0cy1yZWNhcHR1cmluZy1jZWx0aWMtZm9ybS0yOTIwODkxNtIBYWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL3BhdHJpY2stcm9iZXJ0cy1yZWNhcHR1cmluZy1jZWx0aWMtZm9ybS0yOTIwODkxNi5hbXA",
+          "author": null,
+          "description": "Patrick Roberts recapturing Celtic form but star told he should be on big money  Daily Record",
+          "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL3BhdHJpY2stcm9iZXJ0cy1yZWNhcHR1cmluZy1jZWx0aWMtZm9ybS0yOTIwODkxNtIBYWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL3BhdHJpY2stcm9iZXJ0cy1yZWNhcHR1cmluZy1jZWx0aWMtZm9ybS0yOTIwODkxNi5hbXA?oc=5",
+          "publishedOn": "2023-02-13T21:41:37.000Z",
+          "wordCount": 6094,
+          "title": "Patrick Roberts recapturing Celtic form but star told he should be on big money - Daily Record",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiYWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3Mvc2NvdHRpc2gtY3VwLWRyYXctbGl2ZS1jZWx0aWMtMjkyMDUyNzHSAWVodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL3Njb3R0aXNoLWN1cC1kcmF3LWxpdmUtY2VsdGljLTI5MjA1MjcxLmFtcA",
           "author": null,
@@ -346,6 +366,16 @@
           "publishedOn": "2023-02-13T16:10:00.000Z",
           "wordCount": 6069,
           "title": "“I am ready to start”; Hyeongyu Oh primed to step in for Celtic amidst Kyogo concerns - 67 Hail Hail - Celtic FC News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiXmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2thcmFtb2tvLWRlbWJlbGUtcmV1bml0ZWQtY2VsdGljLWJyb3RoZXItMjkyMDU0MTnSAWJodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9rYXJhbW9rby1kZW1iZWxlLXJldW5pdGVkLWNlbHRpYy1icm90aGVyLTI5MjA1NDE5LmFtcA",
+          "author": null,
+          "description": "Karamoko Dembele reunited with Celtic 'brother' Christopher Jullien as they catch up ahead of Ligue 1 clash  Daily Record",
+          "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2thcmFtb2tvLWRlbWJlbGUtcmV1bml0ZWQtY2VsdGljLWJyb3RoZXItMjkyMDU0MTnSAWJodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9rYXJhbW9rby1kZW1iZWxlLXJldW5pdGVkLWNlbHRpYy1icm90aGVyLTI5MjA1NDE5LmFtcA?oc=5",
+          "publishedOn": "2023-02-13T14:47:55.000Z",
+          "wordCount": 6094,
+          "title": "Karamoko Dembele reunited with Celtic 'brother' Christopher Jullien as they catch up ahead of Ligue 1 clash - Daily Record",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -786,6 +816,16 @@
           "publishedOn": "2023-02-11T13:22:46.000Z",
           "wordCount": 6069,
           "title": "Former Celtic midfielder ‘serious contender’ for Aberdeen job, says report - The Celtic Star",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiXGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vdmlkZW8tZ2lvcmdvcy1naWFrb3VtYWtpcy1hdHRhY2tzLW1pbmRzZXQtb2Ytb3RoZXItc2NvdHRpc2gtY2x1YnMv0gFgaHR0cHM6Ly90aGVjZWx0aWNzdGFyLmNvbS92aWRlby1naW9yZ29zLWdpYWtvdW1ha2lzLWF0dGFja3MtbWluZHNldC1vZi1vdGhlci1zY290dGlzaC1jbHVicy9hbXAv",
+          "author": null,
+          "description": "Video: Giorgos Giakoumakis attacks mindset of other Scottish clubs  The Celtic Star",
+          "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vdmlkZW8tZ2lvcmdvcy1naWFrb3VtYWtpcy1hdHRhY2tzLW1pbmRzZXQtb2Ytb3RoZXItc2NvdHRpc2gtY2x1YnMv0gFgaHR0cHM6Ly90aGVjZWx0aWNzdGFyLmNvbS92aWRlby1naW9yZ29zLWdpYWtvdW1ha2lzLWF0dGFja3MtbWluZHNldC1vZi1vdGhlci1zY290dGlzaC1jbHVicy9hbXAv?oc=5",
+          "publishedOn": "2023-02-11T13:08:54.000Z",
+          "wordCount": 6094,
+          "title": "Video: Giorgos Giakoumakis attacks mindset of other Scottish clubs - The Celtic Star",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -1377,136 +1417,6 @@
           "wordCount": 6069,
           "title": "Celtic and Rangers' Super League alert prompts SPFL reaction after revamp plans emerged - Football Scotland",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMic2h0dHBzOi8vd3d3LmZvb3RiYWxsaW5zaWRlcjI0Ny5jb20veW9zdWtlLWlkZWd1Y2hpLWhhcy1wbGF5ZWQtaGlzLWxhc3QtZ2FtZS1mb3ItY2VsdGljLWFmdGVyLWNvbmZpcm1lZC1uZXdzLWV4cGVydC_SAXdodHRwczovL3d3dy5mb290YmFsbGluc2lkZXIyNDcuY29tL3lvc3VrZS1pZGVndWNoaS1oYXMtcGxheWVkLWhpcy1sYXN0LWdhbWUtZm9yLWNlbHRpYy1hZnRlci1jb25maXJtZWQtbmV3cy1leHBlcnQvP2FtcA",
-          "author": null,
-          "description": "Yosuke Ideguchi has played his last game for Celtic after confirmed news – expert  Football Insider",
-          "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmZvb3RiYWxsaW5zaWRlcjI0Ny5jb20veW9zdWtlLWlkZWd1Y2hpLWhhcy1wbGF5ZWQtaGlzLWxhc3QtZ2FtZS1mb3ItY2VsdGljLWFmdGVyLWNvbmZpcm1lZC1uZXdzLWV4cGVydC_SAXdodHRwczovL3d3dy5mb290YmFsbGluc2lkZXIyNDcuY29tL3lvc3VrZS1pZGVndWNoaS1oYXMtcGxheWVkLWhpcy1sYXN0LWdhbWUtZm9yLWNlbHRpYy1hZnRlci1jb25maXJtZWQtbmV3cy1leHBlcnQvP2FtcA?oc=5",
-          "publishedOn": "2023-02-09T13:28:29.000Z",
-          "wordCount": 6069,
-          "title": "Yosuke Ideguchi has played his last game for Celtic after confirmed news – expert - Football Insider",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiY2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3Mvc3BmbC1yZWFjdC1jZWx0aWMtcmFuZ2Vycy1zdXBlci0yOTE3MzU0NNIBAA",
-          "author": null,
-          "description": "SPFL react to Celtic and Rangers Super League 2.0 'invites' as La ...  Daily Record",
-          "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3Mvc3BmbC1yZWFjdC1jZWx0aWMtcmFuZ2Vycy1zdXBlci0yOTE3MzU0NNIBAA?oc=5",
-          "publishedOn": "2023-02-09T13:06:27.000Z",
-          "wordCount": 6069,
-          "title": "SPFL react to Celtic and Rangers Super League 2.0 'invites' as La ... - Daily Record",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiY2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3Mvc3BmbC1yZWFjdC1jZWx0aWMtcmFuZ2Vycy1zdXBlci0yOTE3MzU0NNIBZ2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3Mvc3BmbC1yZWFjdC1jZWx0aWMtcmFuZ2Vycy1zdXBlci0yOTE3MzU0NC5hbXA",
-          "author": null,
-          "description": "SPFL react to Celtic and Rangers Super League 2.0 'invites' as La Liga slam 'greed driven' project  Daily Record",
-          "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3Mvc3BmbC1yZWFjdC1jZWx0aWMtcmFuZ2Vycy1zdXBlci0yOTE3MzU0NNIBZ2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3Mvc3BmbC1yZWFjdC1jZWx0aWMtcmFuZ2Vycy1zdXBlci0yOTE3MzU0NC5hbXA?oc=5",
-          "publishedOn": "2023-02-09T13:06:27.000Z",
-          "wordCount": 6208,
-          "title": "SPFL react to Celtic and Rangers Super League 2.0 'invites' as La Liga slam 'greed driven' project - Daily Record",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiiQFodHRwczovL3RoZWNlbHRpY2Jsb2cuY29tLzIwMjMvMDIvYXJ0aWNsZXMtYW5kLWZlYXR1cmVzL2EtY2VsdGljLXNpdGUtaGFkLXRoZS1leGNsdXNpdmUtb24teWV0LWFub3RoZXItaWJyb3gtc2hhcmUtaXNzdWUtd29ydGgtMS1taWxsaW9uL9IBjQFodHRwczovL3RoZWNlbHRpY2Jsb2cuY29tLzIwMjMvMDIvYXJ0aWNsZXMtYW5kLWZlYXR1cmVzL2EtY2VsdGljLXNpdGUtaGFkLXRoZS1leGNsdXNpdmUtb24teWV0LWFub3RoZXItaWJyb3gtc2hhcmUtaXNzdWUtd29ydGgtMS1taWxsaW9uL2FtcC8",
-          "author": null,
-          "description": "A Celtic Site Had The Exclusive On Yet Another Ibrox Share Issue Worth £1 Million.  TheCelticBlog.com",
-          "link": "https://news.google.com/rss/articles/CBMiiQFodHRwczovL3RoZWNlbHRpY2Jsb2cuY29tLzIwMjMvMDIvYXJ0aWNsZXMtYW5kLWZlYXR1cmVzL2EtY2VsdGljLXNpdGUtaGFkLXRoZS1leGNsdXNpdmUtb24teWV0LWFub3RoZXItaWJyb3gtc2hhcmUtaXNzdWUtd29ydGgtMS1taWxsaW9uL9IBjQFodHRwczovL3RoZWNlbHRpY2Jsb2cuY29tLzIwMjMvMDIvYXJ0aWNsZXMtYW5kLWZlYXR1cmVzL2EtY2VsdGljLXNpdGUtaGFkLXRoZS1leGNsdXNpdmUtb24teWV0LWFub3RoZXItaWJyb3gtc2hhcmUtaXNzdWUtd29ydGgtMS1taWxsaW9uL2FtcC8?oc=5",
-          "publishedOn": "2023-02-09T13:00:00.000Z",
-          "wordCount": 6208,
-          "title": "A Celtic Site Had The Exclusive On Yet Another Ibrox Share Issue Worth £1 Million. - TheCelticBlog.com",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiamh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvZnJlc2gtZXVyb3BlYW4tc3VwZXItbGVhZ3VlLXBsYW5zLWNvdWxkLXNlZS1jZWx0aWMtYW1vbmdzdC10YXJnZXRlZC1jbHVicy_SAW5odHRwczovL3d3dy42N2hhaWxoYWlsLmNvbS9uZXdzL2ZyZXNoLWV1cm9wZWFuLXN1cGVyLWxlYWd1ZS1wbGFucy1jb3VsZC1zZWUtY2VsdGljLWFtb25nc3QtdGFyZ2V0ZWQtY2x1YnMvP2FtcA",
-          "author": null,
-          "description": "Fresh European Super League plans could see Celtic amongst targeted clubs  67 Hail Hail - Celtic FC News",
-          "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvZnJlc2gtZXVyb3BlYW4tc3VwZXItbGVhZ3VlLXBsYW5zLWNvdWxkLXNlZS1jZWx0aWMtYW1vbmdzdC10YXJnZXRlZC1jbHVicy_SAW5odHRwczovL3d3dy42N2hhaWxoYWlsLmNvbS9uZXdzL2ZyZXNoLWV1cm9wZWFuLXN1cGVyLWxlYWd1ZS1wbGFucy1jb3VsZC1zZWUtY2VsdGljLWFtb25nc3QtdGFyZ2V0ZWQtY2x1YnMvP2FtcA?oc=5",
-          "publishedOn": "2023-02-09T12:10:00.000Z",
-          "wordCount": 6069,
-          "title": "Fresh European Super League plans could see Celtic amongst targeted clubs - 67 Hail Hail - Celtic FC News",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiX2h0dHBzOi8vd3d3LmNlbHRpY3dheS5jby51ay9mZWF0dXJlcy8yMzMwOTg2MC5naW9yZ29zLWdpYWtvdW1ha2lzLWNlbHRpYy1sZWdhY3ktLS12aWRlby1kZWJhdGUv0gEA",
-          "author": null,
-          "description": "What is Giorgos Giakoumakis's Celtic legacy? - video debate  Celtic Way",
-          "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmNlbHRpY3dheS5jby51ay9mZWF0dXJlcy8yMzMwOTg2MC5naW9yZ29zLWdpYWtvdW1ha2lzLWNlbHRpYy1sZWdhY3ktLS12aWRlby1kZWJhdGUv0gEA?oc=5",
-          "publishedOn": "2023-02-09T11:33:00.000Z",
-          "wordCount": 6208,
-          "title": "What is Giorgos Giakoumakis's Celtic legacy? - video debate - Celtic Way",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiU2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2tpLXN1bmcteWV1bmctc3VnZ2VzdHMtY2VsdGljLTI5MTcyNDA20gFXaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwva2ktc3VuZy15ZXVuZy1zdWdnZXN0cy1jZWx0aWMtMjkxNzI0MDYuYW1w",
-          "author": null,
-          "description": "Ki Sung-yeung suggests Celtic life hack to Oh as he sends new star a heartwarming message  Daily Record",
-          "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2tpLXN1bmcteWV1bmctc3VnZ2VzdHMtY2VsdGljLTI5MTcyNDA20gFXaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwva2ktc3VuZy15ZXVuZy1zdWdnZXN0cy1jZWx0aWMtMjkxNzI0MDYuYW1w?oc=5",
-          "publishedOn": "2023-02-09T11:18:45.000Z",
-          "wordCount": 6208,
-          "title": "Ki Sung-yeung suggests Celtic life hack to Oh as he sends new star a heartwarming message - Daily Record",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiYWh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vc3BhcnRhbnMtMC0zLWNlbHRpYy1mYy13b21lbi1qYWN5bnRhcy1pbW1lZGlhdGUtaW1wYWN0LWJyZWFrcy1kZWFkbG9jay_SAWVodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL3NwYXJ0YW5zLTAtMy1jZWx0aWMtZmMtd29tZW4tamFjeW50YXMtaW1tZWRpYXRlLWltcGFjdC1icmVha3MtZGVhZGxvY2svYW1wLw",
-          "author": null,
-          "description": "Spartans 0-3 Celtic FC Women – Jacynta’s immediate impact breaks deadlock  The Celtic Star",
-          "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vc3BhcnRhbnMtMC0zLWNlbHRpYy1mYy13b21lbi1qYWN5bnRhcy1pbW1lZGlhdGUtaW1wYWN0LWJyZWFrcy1kZWFkbG9jay_SAWVodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL3NwYXJ0YW5zLTAtMy1jZWx0aWMtZmMtd29tZW4tamFjeW50YXMtaW1tZWRpYXRlLWltcGFjdC1icmVha3MtZGVhZGxvY2svYW1wLw?oc=5",
-          "publishedOn": "2023-02-09T10:57:57.000Z",
-          "wordCount": 6208,
-          "title": "Spartans 0-3 Celtic FC Women – Jacynta’s immediate impact breaks deadlock - The Celtic Star",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiaWh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zY290dGlzaC1wcmVtaWVyc2hpcC9jZWx0aWMtcmFuZ2Vycy1hbGVydC1ldXJvcGVhbi1zdXBlci0yNjE5NDkyN9IBbWh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zY290dGlzaC1wcmVtaWVyc2hpcC9jZWx0aWMtcmFuZ2Vycy1hbGVydC1ldXJvcGVhbi1zdXBlci0yNjE5NDkyNy5hbXA",
-          "author": null,
-          "description": "Celtic and Rangers on alert as European Super League chiefs reveal plans for 80 teams  Football Scotland",
-          "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zY290dGlzaC1wcmVtaWVyc2hpcC9jZWx0aWMtcmFuZ2Vycy1hbGVydC1ldXJvcGVhbi1zdXBlci0yNjE5NDkyN9IBbWh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zY290dGlzaC1wcmVtaWVyc2hpcC9jZWx0aWMtcmFuZ2Vycy1hbGVydC1ldXJvcGVhbi1zdXBlci0yNjE5NDkyNy5hbXA?oc=5",
-          "publishedOn": "2023-02-09T10:40:34.000Z",
-          "wordCount": 6208,
-          "title": "Celtic and Rangers on alert as European Super League chiefs reveal plans for 80 teams - Football Scotland",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiXGh0dHBzOi8vYmVsZmFzdG1lZGlhLmNvbS9zb2NjZXItc2NpbnRpbGxhdGluZy1mb3JtLWNvbnRpbnVlcy1hcy1jZWx0aWMtbWFyY2gtaW50by1jdXAtYWN0aW9u0gEA",
-          "author": null,
-          "description": "Soccer: Scintillating form continues as Celtic march into cup action  Belfast Media",
-          "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vYmVsZmFzdG1lZGlhLmNvbS9zb2NjZXItc2NpbnRpbGxhdGluZy1mb3JtLWNvbnRpbnVlcy1hcy1jZWx0aWMtbWFyY2gtaW50by1jdXAtYWN0aW9u0gEA?oc=5",
-          "publishedOn": "2023-02-09T10:34:34.000Z",
-          "wordCount": 6069,
-          "title": "Soccer: Scintillating form continues as Celtic march into cup action - Belfast Media",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMibGh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zY290dGlzaC1wcmVtaWVyc2hpcC9taWNoYWVsLWJlYWxlLWFuZ2UtcG9zdGVjb2dsb3VzLW5lZWRsZS0yNjE5NDQ0MdIBAA",
-          "author": null,
-          "description": "Michael Beale and Ange Postecoglou's 'needle' fuels Rangers and Celtic rivalry  Football Scotland",
-          "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zY290dGlzaC1wcmVtaWVyc2hpcC9taWNoYWVsLWJlYWxlLWFuZ2UtcG9zdGVjb2dsb3VzLW5lZWRsZS0yNjE5NDQ0MdIBAA?oc=5",
-          "publishedOn": "2023-02-09T10:06:09.000Z",
-          "wordCount": 6069,
-          "title": "Michael Beale and Ange Postecoglou's 'needle' fuels Rangers and Celtic rivalry - Football Scotland",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiTWh0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L2FtYWQtZGlhbGxvLXBhdHJpY2stcm9iZXJ0cy1sYW5kLTI2MTk0NjU20gEA",
-          "author": null,
-          "description": "Amad Diallo and Patrick Roberts land huge praise as duo fall short in FA Cup  Glasgow Live",
-          "link": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L2FtYWQtZGlhbGxvLXBhdHJpY2stcm9iZXJ0cy1sYW5kLTI2MTk0NjU20gEA?oc=5",
-          "publishedOn": "2023-02-09T10:01:34.000Z",
-          "wordCount": 6069,
-          "title": "Amad Diallo and Patrick Roberts land huge praise as duo fall short in FA Cup - Glasgow Live",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiSGh0dHBzOi8vdGhlY2VsdGljYmhveXMuY29tLzIwMjMvMDIvMDkvY2VsdGljLWhlcm8tbWVzc2FnZS1taWNoYWVsLWJlYWxlL9IBTGh0dHBzOi8vdGhlY2VsdGljYmhveXMuY29tLzIwMjMvMDIvMDkvY2VsdGljLWhlcm8tbWVzc2FnZS1taWNoYWVsLWJlYWxlL2FtcC8",
-          "author": null,
-          "description": "Celtic hero sends sensational message to Michael Beale  The Celtic Bhoys",
-          "link": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vdGhlY2VsdGljYmhveXMuY29tLzIwMjMvMDIvMDkvY2VsdGljLWhlcm8tbWVzc2FnZS1taWNoYWVsLWJlYWxlL9IBTGh0dHBzOi8vdGhlY2VsdGljYmhveXMuY29tLzIwMjMvMDIvMDkvY2VsdGljLWhlcm8tbWVzc2FnZS1taWNoYWVsLWJlYWxlL2FtcC8?oc=5",
-          "publishedOn": "2023-02-09T09:34:51.000Z",
-          "wordCount": 6069,
-          "title": "Celtic hero sends sensational message to Michael Beale - The Celtic Bhoys",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -1515,6 +1425,26 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "c8dca64027bc973a05060d99ad3e3615",
+          "author": null,
+          "description": "IT wasn’t so long ago that John Kennedy was part of a management team at Celtic that was being roundly panned...",
+          "link": "https://www.glasgowtimes.co.uk/sport/23318480.john-kennedy-reveals-secret-celtic-defensive-solidity/?ref=rss",
+          "publishedOn": "2023-02-13T22:30:00.000Z",
+          "wordCount": 10415,
+          "title": "John Kennedy reveals secret to Celtic defensive solidity",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16452328/?type=og-image"
+        },
+        {
+          "id": "b9579c80510371553ed39379a2bcf3da",
+          "author": null,
+          "description": "The draw for the last-eight of the competition was made this evening.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23319481.hearts-vs-celtic-scottish-cup-clue-offered-six-nations-clash/?ref=rss",
+          "publishedOn": "2023-02-13T21:14:01.000Z",
+          "wordCount": 8427,
+          "title": "Hearts vs Celtic Scottish Cup clue offered by Six Nations clash",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16453732/?type=og-image"
+        },
         {
           "id": "2c3ce4e72e2ec1056d88553c0a4440b8",
           "author": null,
@@ -1854,56 +1784,6 @@
           "wordCount": 8945,
           "title": "Are Celtic overly reliant on Kyogo Furuhashi? - Aidan Smith",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16442039/?type=og-image"
-        },
-        {
-          "id": "c1e321412fab5f4484d041b1b39c74aa",
-          "author": null,
-          "description": "Former Celtic star Ki Sung-yueng has backed his South Korean countryman Oh Hyeon-gyu to be a huge hit.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23309785.oh-hyeon-gyu-given-celtic-backing-ki-sung-yueng/?ref=rss",
-          "publishedOn": "2023-02-09T10:58:39.000Z",
-          "wordCount": 8437,
-          "title": "Oh Hyeon-gyu given Celtic backing by Ki Sung-yueng",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16440115/?type=og-image"
-        },
-        {
-          "id": "4a574839978cfbe97bec733077e33360",
-          "author": null,
-          "description": "The Premiership duo will meet in the last-16 of the Scottish Cup on Saturday, with a place in the quarter-finals at stake.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23309781.celtic-vs-st-mirren-tv-channel-live-stream-team-news/?ref=rss",
-          "publishedOn": "2023-02-09T10:56:55.000Z",
-          "wordCount": 8468,
-          "title": "Celtic vs St Mirren: TV channel, live stream & team news",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16440015/?type=og-image"
-        },
-        {
-          "id": "49d32ee48aaaa24d66c40113b887aac6",
-          "author": null,
-          "description": "Leeds United are closing in on Arne Slot as their replacement for Jesse Marsch, according to reports.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23309684.leeds-manager-latest-celtic-handed-boost-ange-postecoglou/?ref=rss",
-          "publishedOn": "2023-02-09T10:33:42.000Z",
-          "wordCount": 8471,
-          "title": "Leeds manager latest as Celtic handed boost over Ange Postecoglou",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16412915/?type=og-image"
-        },
-        {
-          "id": "24294c41f6dbc1d11065a17e63e0c074",
-          "author": null,
-          "description": "The original plans for the ESL project were met with fury from supporters of breakaway clubs.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23309552.celtic-rangers-super-league-2-0-alert-new-plans-revealed/?ref=rss",
-          "publishedOn": "2023-02-09T09:56:50.000Z",
-          "wordCount": 8565,
-          "title": "Celtic & Rangers on Super League 2.0 alert as new plans revealed",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16439672/?type=og-image"
-        },
-        {
-          "id": "fa34277734d41580849ad3245ba397f0",
-          "author": null,
-          "description": "Beale's \"lucky man\" comments directed at Postecoglou got exactly the reaction the Gers boss wanted.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23309424.barry-ferguson-enjoying-rangers-vs-celtic-manager-needle/?ref=rss",
-          "publishedOn": "2023-02-09T09:17:30.000Z",
-          "wordCount": 8752,
-          "title": "Barry Ferguson enjoying Rangers vs Celtic manager needle",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16439585/?type=og-image"
         }
       ]
     }
