@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-02-15T12:38:53.124Z</updated>
+    <updated>2023-02-15T15:20:53.262Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Moritz Jenz opens up on 'difficult' Celtic loan spell]]></title>
+        <id>401327308fe4dea5860dbb3a4d83e232</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23323930.moritz-jenz-opens-difficult-celtic-loan-spell/?ref=rss"/>
+        <updated>2023-02-15T14:23:45.000Z</updated>
+        <summary type="html"><![CDATA[The defender spent the first half of the season on loan at the Scottish champions from French outfit Lorient.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rangers vs Celtic Viaplay Cup final referee and VAR announced]]></title>
+        <id>18a2834fffb8907882f70081d711be62</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23323736.rangers-vs-celtic-viaplay-cup-final-referee-var-announced/?ref=rss"/>
+        <updated>2023-02-15T13:41:15.000Z</updated>
+        <summary type="html"><![CDATA[The referee for this year's Viaplay Cup final between Rangers and Celtic has been announced as Nick Walsh.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Scottish Premiership's impressive average attendances - Celtic, Rangers, Hearts, Hibs and Aberdeen 15k+]]></title>
         <id>4028219</id>
