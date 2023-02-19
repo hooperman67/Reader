@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-02-19T12:35:19.436Z</updated>
+    <updated>2023-02-19T15:18:22.797Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -44,6 +44,16 @@
         <summary type="html"><![CDATA[There were some eye-widening and tickling takeaways from Celtic’s latest home thumping, which left Aberdeen on the receiving end of a 4-0 beating.]]></summary>
         <author>
             <name>Andrew Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jota opens up on Celtic League Cup final injury frustration]]></title>
+        <id>324bb17c84b1b73101c068279bbf8b09</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23331744.jota-opens-celtic-league-cup-final-injury-frustration/?ref=rss"/>
+        <updated>2023-02-19T10:22:03.000Z</updated>
+        <summary type="html"><![CDATA[The Portuguese winger missed the Hampden showpiece last season and wants to make amends this time round]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
     <entry>
@@ -104,6 +114,16 @@ Celtic player ratings vs Aberdeen as Reo Hatate shines and Kyogo Furuhashi plays
         <link href="https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvYmFycnktcm9ic29uLW5leHQtYWJlcmRlZW4tbWFuYWdlci0yOTI1MjE2ONIBamh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvYmFycnktcm9ic29uLW5leHQtYWJlcmRlZW4tbWFuYWdlci0yOTI1MjE2OC5hbXA?oc=5"/>
         <updated>2023-02-18T22:30:00.000Z</updated>
         <summary type="html"><![CDATA[Barry Robson in next Aberdeen manager address as interim boss brands stars 'fragile' after Celtic demolition  Daily Record]]></summary>
+        <author>
+            <name>"celtic fc" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sandman's Definitive Ratings – Celtic v The Dosy Dandies - The Celtic Star]]></title>
+        <id>CBMiUGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vc2FuZG1hbnMtZGVmaW5pdGl2ZS1yYXRpbmdzLWNlbHRpYy12LXRoZS1kb3N5LWRhbmRpZXMv0gEA</id>
+        <link href="https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vc2FuZG1hbnMtZGVmaW5pdGl2ZS1yYXRpbmdzLWNlbHRpYy12LXRoZS1kb3N5LWRhbmRpZXMv0gEA?oc=5"/>
+        <updated>2023-02-18T21:56:05.000Z</updated>
+        <summary type="html"><![CDATA[Sandman's Definitive Ratings – Celtic v The Dosy Dandies  The Celtic Star]]></summary>
         <author>
             <name>"celtic fc" - Google News</name>
         </author>
