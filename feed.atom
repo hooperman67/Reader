@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-02-19T01:44:50.069Z</updated>
+    <updated>2023-02-19T03:23:17.936Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -124,6 +124,16 @@
         <summary type="html"><![CDATA[LOSING your leading goalscorer normally has an adverse impact on a side’s performances and can lead to some disappointing results.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LIVE: Celtic v Aberdeen - afc.co.uk]]></title>
+        <id>CBMiO2h0dHBzOi8vd3d3LmFmYy5jby51ay9jb21tZW50YXJ5L2xpdmUtY2VsdGljLXYtYWJlcmRlZW4tMTIv0gEA</id>
+        <link href="https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LmFmYy5jby51ay9jb21tZW50YXJ5L2xpdmUtY2VsdGljLXYtYWJlcmRlZW4tMTIv0gEA?oc=5"/>
+        <updated>2023-02-18T16:57:00.000Z</updated>
+        <summary type="html"><![CDATA[LIVE: Celtic v Aberdeen  afc.co.uk]]></summary>
+        <author>
+            <name>"celtic fc" - Google News</name>
         </author>
     </entry>
     <entry>
@@ -1912,36 +1922,6 @@ Celtic 5 St Mirren 1 LIVE reaction as Hoops storm into Scottish Cup quarter fina
         <summary type="html"><![CDATA[Yutaro Oda on the Celtic bond behind Hearts transfer as he reveals warm welcome from Kobayashi and Co  Daily Record]]></summary>
         <author>
             <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic hero reckons only Serie A giants could tempt Ange Postecoglou]]></title>
-        <id>6ca00126c506bc2e4bd165b144e2d1b5</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23320991.ac-milan-juventus-prompt-ange-postecoglou-celtic-exit/?ref=rss"/>
-        <updated>2023-02-14T14:18:00.000Z</updated>
-        <summary type="html"><![CDATA[The ex-Scotland international feels that the Hoops boss would only be tempted to leave by a big club in Europe]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ange Postecoglou removing stress and strain from Celtic transfers]]></title>
-        <id>5e1532827758a1dbf8cb3c5ba8254ef8</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23320969.ange-postecoglou-removing-stress-strain-celtic-transfers/?ref=rss"/>
-        <updated>2023-02-14T14:10:40.000Z</updated>
-        <summary type="html"><![CDATA[Carl Starfelt is the latest Parkhead star to be linked with a departure - but the manager has already told fans to expect this.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Postecoglou 'will not' leave Celtic for Premier League strugglers]]></title>
-        <id>09e9ba3e5c6e49ea23679f857327a6d0</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23320850.premier-league-sides-not-big-enough-ange-postecoglou-celtic-exit/?ref=rss"/>
-        <updated>2023-02-14T13:48:00.000Z</updated>
-        <summary type="html"><![CDATA[The Australian will not leave the Hoops to fight a relegation battle down south, according to the former Hoops striker]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>
