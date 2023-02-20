@@ -6,6 +6,26 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4033593",
+          "author": "Chris Andrews",
+          "description": "A new contender to become the next Aberdeen manager has emerged with Alan Burrows set to begin work as chief executive of the Dons.",
+          "link": "https://www.scotsman.com/sport/football/celtic/new-contender-for-aberdeen-job-best-coach-in-japans-j1-league-ex-celtic-boss-still-bookies-favourite-4033593",
+          "publishedOn": "2023-02-20T11:07:46.000Z",
+          "wordCount": null,
+          "title": "New contender for Aberdeen job, 'best coach in Japan's J1 League', ex-Celtic boss still bookies favourite",
+          "imageUrl": null
+        },
+        {
+          "id": "4033491",
+          "author": "Chris Andrews",
+          "description": "Former Celtic star Kris Commons believes Rangers manager Michael Beale has shown “real naivety” for comments made in the media.",
+          "link": "https://www.scotsman.com/sport/football/rangers/quite-strange-rangers-boss-michael-beale-branded-naive-over-sutton-and-lucky-postecoglou-comments-4033491",
+          "publishedOn": "2023-02-20T10:29:39.000Z",
+          "wordCount": null,
+          "title": "'Quite strange' - Rangers boss Michael Beale branded naive over Sutton and 'lucky' Postecoglou comments",
+          "imageUrl": null
+        },
+        {
           "id": "4033204",
           "author": "Graeme Macpherson",
           "description": "Ronny Deila knows what it takes to win the League Cup at Hampden but Nicolas Raskin isn’t expecting his old boss to be on the phone this week dispensing with sage advice.",
@@ -279,6 +299,46 @@
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
         {
+          "id": "CBMiWGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL25ld3Mvc2NvdHRpc2gtbmV3cy9zY290cy1icmlkZS1wcmFua3MtY2VsdGljLWRhZnQtMjkyNjIyMTPSAVxodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9uZXdzL3Njb3R0aXNoLW5ld3Mvc2NvdHMtYnJpZGUtcHJhbmtzLWNlbHRpYy1kYWZ0LTI5MjYyMjEzLmFtcA",
+          "author": null,
+          "description": "Scots bride pranks Celtic-daft groom with Rangers anthem as first dance song  Daily Record",
+          "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL25ld3Mvc2NvdHRpc2gtbmV3cy9zY290cy1icmlkZS1wcmFua3MtY2VsdGljLWRhZnQtMjkyNjIyMTPSAVxodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9uZXdzL3Njb3R0aXNoLW5ld3Mvc2NvdHMtYnJpZGUtcHJhbmtzLWNlbHRpYy1kYWZ0LTI5MjYyMjEzLmFtcA?oc=5",
+          "publishedOn": "2023-02-20T12:11:13.000Z",
+          "wordCount": 6100,
+          "title": "Scots bride pranks Celtic-daft groom with Rangers anthem as first dance song - Daily Record",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiVmh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vc2F0dXJkYXlzLXR3by10cm9waGllcy1pbi1lbGV2ZW4tc2Vhc29ucy1tZWxhbmNob2xpYy1tb21lbnQv0gFaaHR0cHM6Ly90aGVjZWx0aWNzdGFyLmNvbS9zYXR1cmRheXMtdHdvLXRyb3BoaWVzLWluLWVsZXZlbi1zZWFzb25zLW1lbGFuY2hvbGljLW1vbWVudC9hbXAv",
+          "author": null,
+          "description": "Saturday’s ‘Two Trophies in Eleven Seasons’ Melancholic Moment  The Celtic Star",
+          "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vc2F0dXJkYXlzLXR3by10cm9waGllcy1pbi1lbGV2ZW4tc2Vhc29ucy1tZWxhbmNob2xpYy1tb21lbnQv0gFaaHR0cHM6Ly90aGVjZWx0aWNzdGFyLmNvbS9zYXR1cmRheXMtdHdvLXRyb3BoaWVzLWluLWVsZXZlbi1zZWFzb25zLW1lbGFuY2hvbGljLW1vbWVudC9hbXAv?oc=5",
+          "publishedOn": "2023-02-20T09:44:13.000Z",
+          "wordCount": 6100,
+          "title": "Saturday’s ‘Two Trophies in Eleven Seasons’ Melancholic Moment - The Celtic Star",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiamh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vdGhpcy1jZWx0aWMtc2lkZS1pcy12ZXJ5LWltcHJlc3NpdmUtYWJlcmRlZW5zLXZldGVyYW4tbWlkZmllbGRlci1ncmFlbWUtc2hpbm5pZS_SAW5odHRwczovL3RoZWNlbHRpY3N0YXIuY29tL3RoaXMtY2VsdGljLXNpZGUtaXMtdmVyeS1pbXByZXNzaXZlLWFiZXJkZWVucy12ZXRlcmFuLW1pZGZpZWxkZXItZ3JhZW1lLXNoaW5uaWUvYW1wLw",
+          "author": null,
+          "description": "“This Celtic side is very impressive,” Aberdeen’s veteran midfielder Graeme Shinnie  The Celtic Star",
+          "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vdGhpcy1jZWx0aWMtc2lkZS1pcy12ZXJ5LWltcHJlc3NpdmUtYWJlcmRlZW5zLXZldGVyYW4tbWlkZmllbGRlci1ncmFlbWUtc2hpbm5pZS_SAW5odHRwczovL3RoZWNlbHRpY3N0YXIuY29tL3RoaXMtY2VsdGljLXNpZGUtaXMtdmVyeS1pbXByZXNzaXZlLWFiZXJkZWVucy12ZXRlcmFuLW1pZGZpZWxkZXItZ3JhZW1lLXNoaW5uaWUvYW1wLw?oc=5",
+          "publishedOn": "2023-02-20T09:13:21.000Z",
+          "wordCount": 6100,
+          "title": "“This Celtic side is very impressive,” Aberdeen’s veteran midfielder Graeme Shinnie - The Celtic Star",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiSmh0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L21vcml0ei1qZW56LXBvc3QtY2VsdGljLXF1aXJrLTI2MjgwMTc30gFOaHR0cHM6Ly93d3cuZ2xhc2dvd2xpdmUuY28udWsvc3BvcnQvbW9yaXR6LWplbnotcG9zdC1jZWx0aWMtcXVpcmstMjYyODAxNzcuYW1w",
+          "author": null,
+          "description": "The Moritz Jenz post-Celtic quirk as defender branded a 'blessing' after unique Schalke stat emerges  Glasgow Live",
+          "link": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L21vcml0ei1qZW56LXBvc3QtY2VsdGljLXF1aXJrLTI2MjgwMTc30gFOaHR0cHM6Ly93d3cuZ2xhc2dvd2xpdmUuY28udWsvc3BvcnQvbW9yaXR6LWplbnotcG9zdC1jZWx0aWMtcXVpcmstMjYyODAxNzcuYW1w?oc=5",
+          "publishedOn": "2023-02-20T09:06:16.000Z",
+          "wordCount": 6100,
+          "title": "The Moritz Jenz post-Celtic quirk as defender branded a 'blessing' after unique Schalke stat emerges - Glasgow Live",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "CBMiSmh0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L21vcml0ei1qZW56LXBvc3QtY2VsdGljLXF1aXJrLTI2MjgwMTc30gEA",
           "author": null,
           "description": "The Moritz Jenz post-Celtic quirk as defender branded a 'blessing ...  Glasgow Live",
@@ -386,6 +446,16 @@
           "publishedOn": "2023-02-19T16:35:43.000Z",
           "wordCount": 6100,
           "title": "Kieran Tierney 'tracked' by Newcastle United as Celtic hero offered Arsenal exit pathway - Glasgow Live",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMikwFodHRwczovL3JlYWRjZWx0aWMuY29tLzIwMjMvMDIvMTkvc2hvdWxkLWNlbHRpYy13aW4tbmV4dC1zdW5kYXktYWxsLWJlYWxlcy1wb3N0dXJpbmctYW5kLXByZWVuaW5nLXdpbGwtYW1vdW50LXRvLW5vdGhpbmctYnV0LWEtbG90LW9mLWFuZ3J5LXBlZXB1bC_SAZcBaHR0cHM6Ly9yZWFkY2VsdGljLmNvbS8yMDIzLzAyLzE5L3Nob3VsZC1jZWx0aWMtd2luLW5leHQtc3VuZGF5LWFsbC1iZWFsZXMtcG9zdHVyaW5nLWFuZC1wcmVlbmluZy13aWxsLWFtb3VudC10by1ub3RoaW5nLWJ1dC1hLWxvdC1vZi1hbmdyeS1wZWVwdWwvYW1wLw",
+          "author": null,
+          "description": "Should Celtic win next Sunday, all Beale's posturing and preening ...  Read Celtic",
+          "link": "https://news.google.com/rss/articles/CBMikwFodHRwczovL3JlYWRjZWx0aWMuY29tLzIwMjMvMDIvMTkvc2hvdWxkLWNlbHRpYy13aW4tbmV4dC1zdW5kYXktYWxsLWJlYWxlcy1wb3N0dXJpbmctYW5kLXByZWVuaW5nLXdpbGwtYW1vdW50LXRvLW5vdGhpbmctYnV0LWEtbG90LW9mLWFuZ3J5LXBlZXB1bC_SAZcBaHR0cHM6Ly9yZWFkY2VsdGljLmNvbS8yMDIzLzAyLzE5L3Nob3VsZC1jZWx0aWMtd2luLW5leHQtc3VuZGF5LWFsbC1iZWFsZXMtcG9zdHVyaW5nLWFuZC1wcmVlbmluZy13aWxsLWFtb3VudC10by1ub3RoaW5nLWJ1dC1hLWxvdC1vZi1hbmdyeS1wZWVwdWwvYW1wLw?oc=5",
+          "publishedOn": "2023-02-19T16:08:40.000Z",
+          "wordCount": 6100,
+          "title": "Should Celtic win next Sunday, all Beale's posturing and preening ... - Read Celtic",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -586,6 +656,16 @@
           "publishedOn": "2023-02-18T17:42:21.000Z",
           "wordCount": 6100,
           "title": "Ange’s Hilarious Post-Match Kyogo Remark | Celts Are Here - CeltsAreHere",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiXmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2FuZ2UtcG9zdGVjb2dsb3UtcmVsaXNoaW5nLXJhbmdlcnMtbm9pc2UtMjkyNTA2MDPSAWJodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9hbmdlLXBvc3RlY29nbG91LXJlbGlzaGluZy1yYW5nZXJzLW5vaXNlLTI5MjUwNjAzLmFtcA",
+          "author": null,
+          "description": "Ange Postecoglou relishing Rangers noise as Celtic boss issues player demands  Daily Record",
+          "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2FuZ2UtcG9zdGVjb2dsb3UtcmVsaXNoaW5nLXJhbmdlcnMtbm9pc2UtMjkyNTA2MDPSAWJodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9hbmdlLXBvc3RlY29nbG91LXJlbGlzaGluZy1yYW5nZXJzLW5vaXNlLTI5MjUwNjAzLmFtcA?oc=5",
+          "publishedOn": "2023-02-18T17:36:27.000Z",
+          "wordCount": 6100,
+          "title": "Ange Postecoglou relishing Rangers noise as Celtic boss issues player demands - Daily Record",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -1307,24 +1387,24 @@
           "wordCount": 6094,
           "title": "Nick Walsh’s Last Glasgow Derby Tie | Celts Are Here - CeltsAreHere",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiSGh0dHBzOi8vdGhlY2VsdGljYmhveXMuY29tLzIwMjMvMDIvMTUvZm9ybWVyLWNlbHRpYy1wbGF5ZXItbGVmdC1qYW51YXJ5L9IBTGh0dHBzOi8vdGhlY2VsdGljYmhveXMuY29tLzIwMjMvMDIvMTUvZm9ybWVyLWNlbHRpYy1wbGF5ZXItbGVmdC1qYW51YXJ5L2FtcC8",
-          "author": null,
-          "description": "Former Celtic player explains why he left in January  The Celtic Bhoys",
-          "link": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vdGhlY2VsdGljYmhveXMuY29tLzIwMjMvMDIvMTUvZm9ybWVyLWNlbHRpYy1wbGF5ZXItbGVmdC1qYW51YXJ5L9IBTGh0dHBzOi8vdGhlY2VsdGljYmhveXMuY29tLzIwMjMvMDIvMTUvZm9ybWVyLWNlbHRpYy1wbGF5ZXItbGVmdC1qYW51YXJ5L2FtcC8?oc=5",
-          "publishedOn": "2023-02-15T22:32:06.000Z",
-          "wordCount": 6094,
-          "title": "Former Celtic player explains why he left in January - The Celtic Bhoys",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
       "articles": [
+        {
+          "id": "2e148f66dc171931a7b26ff03d8474b5",
+          "author": null,
+          "description": "The Glasgow giants will meet at Hampden this Sunday to settle the first silverware of the season.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23333075.rangers-celtics-injury-concerns-ahead-viaplay-cup-final/?ref=rss",
+          "publishedOn": "2023-02-20T10:50:31.000Z",
+          "wordCount": 8506,
+          "title": "Rangers & Celtic's injury concerns ahead of Viaplay Cup final",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16473221/?type=og-image"
+        },
         {
           "id": "5bc63bf959cea589c05aa0eb50be3906",
           "author": null,
