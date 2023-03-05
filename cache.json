@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4050900",
+          "author": "Mark Atkinson",
+          "description": "It has been well documented that the SMiSA Stadium in Paisley has not been a happy hunting ground for Ange Postecoglou since the Australian arrived in Scottish football.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtic-not-happy-with-choice-of-strip-for-st-mirren-match-i-dont-like-it-either-but-it-is-what-it-is-mate-4050900",
+          "publishedOn": "2023-03-04T22:30:00.000Z",
+          "wordCount": null,
+          "title": "Celtic not happy with choice of strip for St Mirren match - 'I don’t like it either but it is what it is, mate'",
+          "imageUrl": null
+        },
+        {
           "id": "4044585",
           "author": "Matthew Elder",
           "description": "Celtic return to the scene of their only domestic defeat this season when they take on St Mirren in Paisley on Saturday.",
@@ -254,26 +264,6 @@
           "wordCount": null,
           "title": "Celtic's predicted title-winning margin over Rangers, Hearts & Hibs battle and surprise relegation projection",
           "imageUrl": null
-        },
-        {
-          "id": "4044238",
-          "author": "Joel Sked",
-          "description": "The work Erik ten Hag is doing at Manchester United has drawn comparisons to Ange Postecoglou and the impact he has had at Celtic.",
-          "link": "https://www.scotsman.com/sport/football/celtic/what-i-like-about-him-is-why-manchester-united-boss-has-earned-comparison-to-celtics-ange-postecoglou-4044238",
-          "publishedOn": "2023-02-28T10:42:16.000Z",
-          "wordCount": null,
-          "title": "'What I like about him is' - Why Manchester United boss has earned comparison to Celtic's Ange Postecoglou",
-          "imageUrl": null
-        },
-        {
-          "id": "4044112",
-          "author": "Joel Sked",
-          "description": "Celtic striker Kyogo Furuhashi is “clever enough to be able to adapt in the Premier League” believes Charlie Adam.",
-          "link": "https://www.scotsman.com/sport/football/celtic/the-two-premier-league-clubs-tipped-to-be-interested-in-celtic-star-kyogo-furuhashi-and-the-caveat-4044112",
-          "publishedOn": "2023-02-28T10:08:18.000Z",
-          "wordCount": null,
-          "title": "The two Premier League clubs tipped to be interested in Celtic star Kyogo Furuhashi - and the caveat",
-          "imageUrl": null
         }
       ]
     },
@@ -288,6 +278,16 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CBMiaWh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvYW5nZS1wb3N0ZWNvZ2xvdS1hZGRyZXNzZXMtamFtZXMtZm9ycmVzdC1taXNzaW5nLW91dC1vbi1jZWx0aWMtY3VwLWZpbmFsL9IBbWh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvYW5nZS1wb3N0ZWNvZ2xvdS1hZGRyZXNzZXMtamFtZXMtZm9ycmVzdC1taXNzaW5nLW91dC1vbi1jZWx0aWMtY3VwLWZpbmFsLz9hbXA",
+          "author": null,
+          "description": "Ange Postecoglou addresses James Forrest missing out on Celtic cup final  67 Hail Hail - Celtic FC News",
+          "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvYW5nZS1wb3N0ZWNvZ2xvdS1hZGRyZXNzZXMtamFtZXMtZm9ycmVzdC1taXNzaW5nLW91dC1vbi1jZWx0aWMtY3VwLWZpbmFsL9IBbWh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvYW5nZS1wb3N0ZWNvZ2xvdS1hZGRyZXNzZXMtamFtZXMtZm9ycmVzdC1taXNzaW5nLW91dC1vbi1jZWx0aWMtY3VwLWZpbmFsLz9hbXA?oc=5",
+          "publishedOn": "2023-03-04T21:16:37.000Z",
+          "wordCount": 6116,
+          "title": "Ange Postecoglou addresses James Forrest missing out on Celtic cup final - 67 Hail Hail - Celtic FC News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiV2h0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vcmVvLWhhdGF0ZS1pbS1yZWFsbHktZW5qb3lpbmctd29ya2luZy11bmRlci1hbmdlLXBvc3RlY29nbG91L9IBW2h0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vcmVvLWhhdGF0ZS1pbS1yZWFsbHktZW5qb3lpbmctd29ya2luZy11bmRlci1hbmdlLXBvc3RlY29nbG91L2FtcC8",
           "author": null,
@@ -326,6 +326,16 @@
           "publishedOn": "2023-03-04T18:12:33.000Z",
           "wordCount": 6116,
           "title": "Celtic announce PPV option for sold-out Hearts match - 67 Hail Hail - Celtic FC News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMigwFodHRwczovL3d3dy42N2hhaWxoYWlsLmNvbS9vcGluaW9uL2NsZWFyaW5nLXVwLXRoZS1ydXNoLW9mLWNhbWVyb24tY2FydGVyLXZpY2tlcnMtcmVwb3J0cy1jZWx0aWMtcmVhbGl0eS1pcy1ub3RoaW5nLXRvLXdvcnJ5LWFib3V0L9IBhwFodHRwczovL3d3dy42N2hhaWxoYWlsLmNvbS9vcGluaW9uL2NsZWFyaW5nLXVwLXRoZS1ydXNoLW9mLWNhbWVyb24tY2FydGVyLXZpY2tlcnMtcmVwb3J0cy1jZWx0aWMtcmVhbGl0eS1pcy1ub3RoaW5nLXRvLXdvcnJ5LWFib3V0Lz9hbXA",
+          "author": null,
+          "description": "Clearing up the rush of Cameron Carter-Vickers reports; Celtic reality is nothing to worry about  67 Hail Hail - Celtic FC News",
+          "link": "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy42N2hhaWxoYWlsLmNvbS9vcGluaW9uL2NsZWFyaW5nLXVwLXRoZS1ydXNoLW9mLWNhbWVyb24tY2FydGVyLXZpY2tlcnMtcmVwb3J0cy1jZWx0aWMtcmVhbGl0eS1pcy1ub3RoaW5nLXRvLXdvcnJ5LWFib3V0L9IBhwFodHRwczovL3d3dy42N2hhaWxoYWlsLmNvbS9vcGluaW9uL2NsZWFyaW5nLXVwLXRoZS1ydXNoLW9mLWNhbWVyb24tY2FydGVyLXZpY2tlcnMtcmVwb3J0cy1jZWx0aWMtcmVhbGl0eS1pcy1ub3RoaW5nLXRvLXdvcnJ5LWFib3V0Lz9hbXA?oc=5",
+          "publishedOn": "2023-03-04T14:47:23.000Z",
+          "wordCount": 6116,
+          "title": "Clearing up the rush of Cameron Carter-Vickers reports; Celtic reality is nothing to worry about - 67 Hail Hail - Celtic FC News",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -399,6 +409,16 @@
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
+          "id": "CBMiZWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3Mvb2Rzb25uZS1lZG91YXJkLWNhbGxlZC1vdXQtY2VsdGljLTI5MzcwNzgx0gFpaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvZm9vdGJhbGwtbmV3cy9vZHNvbm5lLWVkb3VhcmQtY2FsbGVkLW91dC1jZWx0aWMtMjkzNzA3ODEuYW1w",
+          "author": null,
+          "description": "Odsonne Edouard called out as Celtic hero sees Patrick Vieira go public with Crystal Palace concern  Daily Record",
+          "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3Mvb2Rzb25uZS1lZG91YXJkLWNhbGxlZC1vdXQtY2VsdGljLTI5MzcwNzgx0gFpaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvZm9vdGJhbGwtbmV3cy9vZHNvbm5lLWVkb3VhcmQtY2FsbGVkLW91dC1jZWx0aWMtMjkzNzA3ODEuYW1w?oc=5",
+          "publishedOn": "2023-03-04T08:08:23.000Z",
+          "wordCount": 6116,
+          "title": "Odsonne Edouard called out as Celtic hero sees Patrick Vieira go public with Crystal Palace concern - Daily Record",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "CBMiS2h0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L2F0bGFudGEtdW5pdGVkLWNlbHRpYy1ub2Qtb3Zlci0yNjM4ODAwMtIBT2h0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L2F0bGFudGEtdW5pdGVkLWNlbHRpYy1ub2Qtb3Zlci0yNjM4ODAwMi5hbXA",
           "author": null,
           "description": "Atlanta United in Celtic nod over Giakoumakis visa green light as he receives bizarre initiation  Glasgow Live",
@@ -426,6 +446,16 @@
           "publishedOn": "2023-03-04T06:00:00.000Z",
           "wordCount": 6116,
           "title": "The Saturday Jury answers if Rangers fighting against the odds in Celtic battle - Daily Record",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiamh0dHBzOi8vd3d3LmNlbHRpY3dheS5jby51ay9uZXdzLzIzMzYyNDAyLmNlbHRpYy1tYW5hZ2VyLWFuZ2UtcG9zdGVjb2dsb3UtZGlzbWlzc2VzLWpvY2stc3RlaW4tY29tcGFyaXNvbi_SAQA",
+          "author": null,
+          "description": "Celtic manager Ange Postecoglou dismisses Jock Stein comparison ...  Celtic Way",
+          "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmNlbHRpY3dheS5jby51ay9uZXdzLzIzMzYyNDAyLmNlbHRpYy1tYW5hZ2VyLWFuZ2UtcG9zdGVjb2dsb3UtZGlzbWlzc2VzLWpvY2stc3RlaW4tY29tcGFyaXNvbi_SAQA?oc=5",
+          "publishedOn": "2023-03-03T22:30:00.000Z",
+          "wordCount": 6116,
+          "title": "Celtic manager Ange Postecoglou dismisses Jock Stein comparison ... - Celtic Way",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -1617,94 +1647,44 @@
           "wordCount": 6134,
           "title": "Man charged with murdering young Celtic fan found fatally injured in Wishaw house - Glasgow Live",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvZGFubnktc2ltcHNvbi1yZXZlYWxzLWNlbHRpYy1kb29ycy0yOTMzNDMwNdIBamh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvZGFubnktc2ltcHNvbi1yZXZlYWxzLWNlbHRpYy1kb29ycy0yOTMzNDMwNS5hbXA",
-          "author": null,
-          "description": "Danny Simpson admits Celtic doors opened by Brendan Rodgers over potential move  Daily Record",
-          "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvZGFubnktc2ltcHNvbi1yZXZlYWxzLWNlbHRpYy1kb29ycy0yOTMzNDMwNdIBamh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvZGFubnktc2ltcHNvbi1yZXZlYWxzLWNlbHRpYy1kb29ycy0yOTMzNDMwNS5hbXA?oc=5",
-          "publishedOn": "2023-02-28T13:34:31.000Z",
-          "wordCount": 6133,
-          "title": "Danny Simpson admits Celtic doors opened by Brendan Rodgers over potential move - Daily Record",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMia2h0dHBzOi8vcmVhZGNlbHRpYy5jb20vMjAyMy8wMi8yOC92aXJhbHMtY2VsdGljLWZhbnMtc2hvdWxkLWJlLXRocmlsbGVkLWJ5LW1hbmFnZXJzLWNvbW1lbnRzLW9uLWhpcy1mdXR1cmUv0gFvaHR0cHM6Ly9yZWFkY2VsdGljLmNvbS8yMDIzLzAyLzI4L3ZpcmFscy1jZWx0aWMtZmFucy1zaG91bGQtYmUtdGhyaWxsZWQtYnktbWFuYWdlcnMtY29tbWVudHMtb24taGlzLWZ1dHVyZS9hbXAv",
-          "author": null,
-          "description": "Virals: Celtic fans should be thrilled by manager's comments on his ...  Read Celtic",
-          "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vcmVhZGNlbHRpYy5jb20vMjAyMy8wMi8yOC92aXJhbHMtY2VsdGljLWZhbnMtc2hvdWxkLWJlLXRocmlsbGVkLWJ5LW1hbmFnZXJzLWNvbW1lbnRzLW9uLWhpcy1mdXR1cmUv0gFvaHR0cHM6Ly9yZWFkY2VsdGljLmNvbS8yMDIzLzAyLzI4L3ZpcmFscy1jZWx0aWMtZmFucy1zaG91bGQtYmUtdGhyaWxsZWQtYnktbWFuYWdlcnMtY29tbWVudHMtb24taGlzLWZ1dHVyZS9hbXAv?oc=5",
-          "publishedOn": "2023-02-28T12:30:00.000Z",
-          "wordCount": 6116,
-          "title": "Virals: Celtic fans should be thrilled by manager's comments on his ... - Read Celtic",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMia2h0dHBzOi8vcmVhZGNlbHRpYy5jb20vMjAyMy8wMi8yOC92aXJhbHMtY2VsdGljLWZhbnMtc2hvdWxkLWJlLXRocmlsbGVkLWJ5LW1hbmFnZXJzLWNvbW1lbnRzLW9uLWhpcy1mdXR1cmUv0gG4AWh0dHBzOi8vcmVhZGNlbHRpYy5jb20vMjAyMy8wMi8yOC92aXJhbHMtY2VsdGljLWZhbnMtc2hvdWxkLWJlLXRocmlsbGVkLWJ5LW1hbmFnZXJzLWNvbW1lbnRzLW9uLWhpcy1mdXR1cmUvP3V0bV9tZWRpdW09b25lc2lnbmFsJnV0bV9zb3VyY2U9cHVzaF9ub3RpZmljYXRpb25zJnV0bV9jYW1wYWlnbj13ZWJfcHVzaCZhbXA",
-          "author": null,
-          "description": "Virals: Celtic fans should be thrilled by manager's comments on his ...  Read Celtic",
-          "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vcmVhZGNlbHRpYy5jb20vMjAyMy8wMi8yOC92aXJhbHMtY2VsdGljLWZhbnMtc2hvdWxkLWJlLXRocmlsbGVkLWJ5LW1hbmFnZXJzLWNvbW1lbnRzLW9uLWhpcy1mdXR1cmUv0gG4AWh0dHBzOi8vcmVhZGNlbHRpYy5jb20vMjAyMy8wMi8yOC92aXJhbHMtY2VsdGljLWZhbnMtc2hvdWxkLWJlLXRocmlsbGVkLWJ5LW1hbmFnZXJzLWNvbW1lbnRzLW9uLWhpcy1mdXR1cmUvP3V0bV9tZWRpdW09b25lc2lnbmFsJnV0bV9zb3VyY2U9cHVzaF9ub3RpZmljYXRpb25zJnV0bV9jYW1wYWlnbj13ZWJfcHVzaCZhbXA?oc=5",
-          "publishedOn": "2023-02-28T12:30:00.000Z",
-          "wordCount": 6133,
-          "title": "Virals: Celtic fans should be thrilled by manager's comments on his ... - Read Celtic",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiRWh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9jZWx0aWMtc2V0LWZvci1zb3V0aC1rb3JlYW4tcHJlLXNlYXNvbi10cmlwL9IBSWh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9jZWx0aWMtc2V0LWZvci1zb3V0aC1rb3JlYW4tcHJlLXNlYXNvbi10cmlwL2FtcC8",
-          "author": null,
-          "description": "Celtic Set For South Korean Pre Season Trip | Celts Are Here  CeltsAreHere",
-          "link": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9jZWx0aWMtc2V0LWZvci1zb3V0aC1rb3JlYW4tcHJlLXNlYXNvbi10cmlwL9IBSWh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9jZWx0aWMtc2V0LWZvci1zb3V0aC1rb3JlYW4tcHJlLXNlYXNvbi10cmlwL2FtcC8?oc=5",
-          "publishedOn": "2023-02-28T11:56:30.000Z",
-          "wordCount": 6133,
-          "title": "Celtic Set For South Korean Pre Season Trip | Celts Are Here - CeltsAreHere",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZ2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvcmFuZ2Vycy1wdW50ZXItd2FybnMtY2VsdGljLWhvdGxpbmUtMjkzMzIyNzDSAWtodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL3JhbmdlcnMtcHVudGVyLXdhcm5zLWNlbHRpYy1ob3RsaW5lLTI5MzMyMjcwLmFtcA",
-          "author": null,
-          "description": "Rangers punter warns Celtic Hotline gloaters get your laughs in now as he raids piggy bank for daring bet  Daily Record",
-          "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvcmFuZ2Vycy1wdW50ZXItd2FybnMtY2VsdGljLWhvdGxpbmUtMjkzMzIyNzDSAWtodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL3JhbmdlcnMtcHVudGVyLXdhcm5zLWNlbHRpYy1ob3RsaW5lLTI5MzMyMjcwLmFtcA?oc=5",
-          "publishedOn": "2023-02-28T11:52:45.000Z",
-          "wordCount": 6133,
-          "title": "Rangers punter warns Celtic Hotline gloaters get your laughs in now as he raids piggy bank for daring bet - Daily Record",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiUmh0dHBzOi8vd3d3LnNwb3J0aW5kdXN0cnkuYml6L25ld3MtY2F0ZWdvcmllcy9uZXdzL3Nob3J0cy1lcGNyLXF1YWRyYW50LWNlbHRpYy1mYy_SAQA",
-          "author": null,
-          "description": "SHORTS: EPCR, QUADRANT, CELTIC FC  Sport Industry Group",
-          "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LnNwb3J0aW5kdXN0cnkuYml6L25ld3MtY2F0ZWdvcmllcy9uZXdzL3Nob3J0cy1lcGNyLXF1YWRyYW50LWNlbHRpYy1mYy_SAQA?oc=5",
-          "publishedOn": "2023-02-28T11:42:25.000Z",
-          "wordCount": 6134,
-          "title": "SHORTS: EPCR, QUADRANT, CELTIC FC - Sport Industry Group",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiV2h0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vaS13YXMtYm9ybi1mb3ItdGhlc2UtZ2FtZXMtc2VhZC1oYWtzYWJhbm92aWMtdGVsbHMtY2VsdGljLXR2L9IBW2h0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vaS13YXMtYm9ybi1mb3ItdGhlc2UtZ2FtZXMtc2VhZC1oYWtzYWJhbm92aWMtdGVsbHMtY2VsdGljLXR2L2FtcC8",
-          "author": null,
-          "description": "“I was born for these games,” Sead Hakšabanović tells Celtic TV  The Celtic Star",
-          "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vaS13YXMtYm9ybi1mb3ItdGhlc2UtZ2FtZXMtc2VhZC1oYWtzYWJhbm92aWMtdGVsbHMtY2VsdGljLXR2L9IBW2h0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vaS13YXMtYm9ybi1mb3ItdGhlc2UtZ2FtZXMtc2VhZC1oYWtzYWJhbm92aWMtdGVsbHMtY2VsdGljLXR2L2FtcC8?oc=5",
-          "publishedOn": "2023-02-28T11:23:26.000Z",
-          "wordCount": 6133,
-          "title": "“I was born for these games,” Sead Hakšabanović tells Celtic TV - The Celtic Star",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMicGh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9mb290YmFsbC8yMDIzLzAyLzI4L3Njb3R0LWJyb3duLWludGVydmlldy1zaGF2ZWQtaGVhZC1sb29rLWhhcmRlci1wYW50b21pbWUtdmlsbGFpbi_SAQA",
-          "author": null,
-          "description": "Scott Brown interview: 'I shaved my head to look harder – I was a pantomime villain'  The Telegraph",
-          "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9mb290YmFsbC8yMDIzLzAyLzI4L3Njb3R0LWJyb3duLWludGVydmlldy1zaGF2ZWQtaGVhZC1sb29rLWhhcmRlci1wYW50b21pbWUtdmlsbGFpbi_SAQA?oc=5",
-          "publishedOn": "2023-02-28T11:05:00.000Z",
-          "wordCount": 6134,
-          "title": "Scott Brown interview: 'I shaved my head to look harder – I was a pantomime villain' - The Telegraph",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
       "articles": [
+        {
+          "id": "31e6bd5eeb6e880727674b7ca7bc6923",
+          "author": null,
+          "description": "ABERDEEN caretaker manager Barry Robson tonight praised his players for their performance against Dundee United on a Tannadice pitch he felt his old Celtic team mate Shunsuke Nakamura would have struggled to play on.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23363646.barry-robson-makes-shunsuke-nakamura-claim-aberdeen-triumph/?ref=rss",
+          "publishedOn": "2023-03-04T22:31:46.000Z",
+          "wordCount": 8519,
+          "title": "Barry Robson makes Shunsuke Nakamura claim after Aberdeen triumph",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16523281/?type=og-image"
+        },
+        {
+          "id": "7fb1f3db8f9805ac3be732e53455b453",
+          "author": null,
+          "description": "The Montenegrin winger was happy to get his hands on his first trophy as a Celtic player with the victory at Hampden last weekend.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23363544.sead-haksabanovics-one-regret-celtic-defeated-rangers/?ref=rss",
+          "publishedOn": "2023-03-04T22:30:00.000Z",
+          "wordCount": 10033,
+          "title": "Sead Haksabanovic's one regret after Celtic defeated Rangers",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16523148/?type=og-image"
+        },
+        {
+          "id": "1217463b4870d5254b30229214c489b9",
+          "author": null,
+          "description": "The Greek-Australian manager is always looking to improve the squad at Celtic Park.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23363535.ange-postecoglou-already-thinking-celtics-next-transfer-window/?ref=rss",
+          "publishedOn": "2023-03-04T22:30:00.000Z",
+          "wordCount": 8503,
+          "title": "Ange Postecoglou already thinking about Celtic's next transfer window",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16523130/?type=og-image"
+        },
         {
           "id": "6964de7fa541cd3122a10e03fd22e84c",
           "author": null,
@@ -2284,46 +2264,6 @@
           "wordCount": 9125,
           "title": "Ten Hag speech rings true for Rangers and key difference with Celtic",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16502742/?type=og-image"
-        },
-        {
-          "id": "4e28cac3a101d28990a2a6dee8a8164f",
-          "author": null,
-          "description": "The club are reportedly considering a trip to South Korea in the summer.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23352411.celtic-set-south-korea-pre-season-trip/?ref=rss",
-          "publishedOn": "2023-02-28T13:04:42.000Z",
-          "wordCount": 8475,
-          "title": "Celtic 'set for South Korea pre-season trip'",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16501976/?type=og-image"
-        },
-        {
-          "id": "55fa3c9a0c6423459128c0522b22aba8",
-          "author": null,
-          "description": "The former Leicester City star claims he almost signed for the Hoops a few years ago",
-          "link": "https://www.glasgowtimes.co.uk/sport/23352245.premier-league-winner-celtic-transfer-fell-apart/?ref=rss",
-          "publishedOn": "2023-02-28T12:34:00.000Z",
-          "wordCount": 8492,
-          "title": "Premier League winner on the Celtic transfer that fell apart",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16501766/?type=og-image"
-        },
-        {
-          "id": "1c438c220eb0f263f26fa008683dc013",
-          "author": null,
-          "description": "The former Scotland international can see similarities between both men",
-          "link": "https://www.glasgowtimes.co.uk/sport/23351886.former-rangers-star-compares-ange-postecoglou-erik-ten-hag/?ref=rss",
-          "publishedOn": "2023-02-28T11:25:22.000Z",
-          "wordCount": 8447,
-          "title": "Former Rangers star compares Ange Postecoglou to Erik ten Hag",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16501374/?type=og-image"
-        },
-        {
-          "id": "8f2c648661c66de95d46132307e98b75",
-          "author": null,
-          "description": "The Swiss international moved to Sturm Graz on the last day of the summer transfer window.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23351693.forgotten-celtic-star-set-return-summer-loan-setbacks/?ref=rss",
-          "publishedOn": "2023-02-28T10:45:29.000Z",
-          "wordCount": 8468,
-          "title": "Forgotten Celtic star set to return in summer after loan setbacks",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16501069/?type=og-image"
         }
       ]
     }
