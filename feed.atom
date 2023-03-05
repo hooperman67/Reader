@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-03-05T09:17:52.680Z</updated>
+    <updated>2023-03-05T12:35:12.261Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic team news as Ange Postecoglou names starting XI for St Mirren]]></title>
+        <id>f9464674dc7e4dabec9885966e9b4ac9</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23363932.celtic-team-news-ange-postecoglou-names-starting-xi-st-mirren/?ref=rss"/>
+        <updated>2023-03-05T10:49:25.000Z</updated>
+        <summary type="html"><![CDATA[Ange Postecoglou has named his Celtic team to take on St Mirren.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lyon in Moussa Dembele £20m Celtic financial disaster as club ... - Celtic Way]]></title>
+        <id>CBMiY2h0dHBzOi8vd3d3LmNlbHRpY3dheS5jby51ay9uZXdzLzIzMzYzOTEyLmx5b24tZGV0YWlsLW1vdXNzYS1kZW1iZWxlLTIwbS1jZWx0aWMtZmluYW5jaWFsLWRpc2FzdGVyL9IBAA</id>
+        <link href="https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmNlbHRpY3dheS5jby51ay9uZXdzLzIzMzYzOTEyLmx5b24tZGV0YWlsLW1vdXNzYS1kZW1iZWxlLTIwbS1jZWx0aWMtZmluYW5jaWFsLWRpc2FzdGVyL9IBAA?oc=5"/>
+        <updated>2023-03-05T10:32:47.000Z</updated>
+        <summary type="html"><![CDATA[Lyon in Moussa Dembele £20m Celtic financial disaster as club ...  Celtic Way]]></summary>
+        <author>
+            <name>"celtic fc" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lyon detail Moussa Dembele £20m Celtic financial disaster]]></title>
+        <id>df50f5b7af6333c29c3b030fea849449</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23363912.lyon-detail-moussa-dembele-20m-celtic-financial-disaster/?ref=rss"/>
+        <updated>2023-03-05T10:32:47.000Z</updated>
+        <summary type="html"><![CDATA[Lyon director of football Vincent Ponsot has admitted they regret splashing out £20 million to Celtic for Moussa Dembele.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ex-Celtic star Giakoumakis details MLS frustrations after Atlanta move]]></title>
+        <id>291fb352b2aaf7d717b2edec2e130a6e</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23363890.ex-celtic-star-giakoumakis-details-mls-frustrations-atlanta-move/?ref=rss"/>
+        <updated>2023-03-05T10:18:14.000Z</updated>
+        <summary type="html"><![CDATA[Self-confessed 'egoist' Giorgos Giakoumakis admitted he was left frustrated by his start in the MLS after red tape delayed his debut.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“There's an alignment of the vision that we have as a football club ... - The Celtic Star]]></title>
+        <id>CBMihgFodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL3RoZXJlcy1hbi1hbGlnbm1lbnQtb2YtdGhlLXZpc2lvbi10aGF0LXdlLWhhdmUtYXMtYS1mb290YmFsbC1jbHViLWFuZC10aGUtdmlzaW9uLW91ci1zdXBwb3J0ZXJzLWhhdmUtZm9yLXVzL9IBAA</id>
+        <link href="https://news.google.com/rss/articles/CBMihgFodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL3RoZXJlcy1hbi1hbGlnbm1lbnQtb2YtdGhlLXZpc2lvbi10aGF0LXdlLWhhdmUtYXMtYS1mb290YmFsbC1jbHViLWFuZC10aGUtdmlzaW9uLW91ci1zdXBwb3J0ZXJzLWhhdmUtZm9yLXVzL9IBAA?oc=5"/>
+        <updated>2023-03-05T10:05:27.000Z</updated>
+        <summary type="html"><![CDATA[“There's an alignment of the vision that we have as a football club ...  The Celtic Star]]></summary>
+        <author>
+            <name>"celtic fc" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Giorgos Giakoumakis denied dream Atlanta debut as former Celtic star suffers offside 'winner' pain - Glasgow Live]]></title>
+        <id>CBMiVWh0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L2dpb3Jnb3MtZ2lha291bWFraXMtZGVuaWVkLWRyZWFtLWF0bGFudGEtMjYzOTI0MDLSAVlodHRwczovL3d3dy5nbGFzZ293bGl2ZS5jby51ay9zcG9ydC9naW9yZ29zLWdpYWtvdW1ha2lzLWRlbmllZC1kcmVhbS1hdGxhbnRhLTI2MzkyNDAyLmFtcA</id>
+        <link href="https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L2dpb3Jnb3MtZ2lha291bWFraXMtZGVuaWVkLWRyZWFtLWF0bGFudGEtMjYzOTI0MDLSAVlodHRwczovL3d3dy5nbGFzZ293bGl2ZS5jby51ay9zcG9ydC9naW9yZ29zLWdpYWtvdW1ha2lzLWRlbmllZC1kcmVhbS1hdGxhbnRhLTI2MzkyNDAyLmFtcA?oc=5"/>
+        <updated>2023-03-05T09:58:55.000Z</updated>
+        <summary type="html"><![CDATA[Giorgos Giakoumakis denied dream Atlanta debut as former Celtic star suffers offside 'winner' pain  Glasgow Live]]></summary>
+        <author>
+            <name>"celtic fc" - Google News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic boss unhappy with one thing before facing St Mirren - The Celtic Bhoys]]></title>
         <id>CBMiRGh0dHBzOi8vdGhlY2VsdGljYmhveXMuY29tLzIwMjMvMDMvMDUvY2VsdGljLWJvc3MtdW5oYXBweS1zdC1taXJyZW4v0gFIaHR0cHM6Ly90aGVjZWx0aWNiaG95cy5jb20vMjAyMy8wMy8wNS9jZWx0aWMtYm9zcy11bmhhcHB5LXN0LW1pcnJlbi9hbXAv</id>
@@ -82,6 +142,16 @@
         <link href="https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vZ2FiYnktYWdib25sYWhvci1nbGFzZ293LWRlcmJ5LWlzLXRoZS1iaWdnZXN0LW9mLXRoZW0tYWxsL9IBWGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vZ2FiYnktYWdib25sYWhvci1nbGFzZ293LWRlcmJ5LWlzLXRoZS1iaWdnZXN0LW9mLXRoZW0tYWxsL2FtcC8?oc=5"/>
         <updated>2023-03-04T20:56:55.000Z</updated>
         <summary type="html"><![CDATA[Gabby Agbonlahor: Glasgow Derby is the biggest of them all  The Celtic Star]]></summary>
+        <author>
+            <name>"celtic fc" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ibrox And Its Officials Are Getting Away With Murder Because Only Celtic Fans Care. - TheCelticBlog.com]]></title>
+        <id>CBMiiwFodHRwczovL3RoZWNlbHRpY2Jsb2cuY29tLzIwMjMvMDMvYXJ0aWNsZXMtYW5kLWZlYXR1cmVzL2licm94LWFuZC1pdHMtb2ZmaWNpYWxzLWFyZS1nZXR0aW5nLWF3YXktd2l0aC1tdXJkZXItYmVjYXVzZS1vbmx5LWNlbHRpYy1mYW5zLWNhcmUv0gGPAWh0dHBzOi8vdGhlY2VsdGljYmxvZy5jb20vMjAyMy8wMy9hcnRpY2xlcy1hbmQtZmVhdHVyZXMvaWJyb3gtYW5kLWl0cy1vZmZpY2lhbHMtYXJlLWdldHRpbmctYXdheS13aXRoLW11cmRlci1iZWNhdXNlLW9ubHktY2VsdGljLWZhbnMtY2FyZS9hbXAv</id>
+        <link href="https://news.google.com/rss/articles/CBMiiwFodHRwczovL3RoZWNlbHRpY2Jsb2cuY29tLzIwMjMvMDMvYXJ0aWNsZXMtYW5kLWZlYXR1cmVzL2licm94LWFuZC1pdHMtb2ZmaWNpYWxzLWFyZS1nZXR0aW5nLWF3YXktd2l0aC1tdXJkZXItYmVjYXVzZS1vbmx5LWNlbHRpYy1mYW5zLWNhcmUv0gGPAWh0dHBzOi8vdGhlY2VsdGljYmxvZy5jb20vMjAyMy8wMy9hcnRpY2xlcy1hbmQtZmVhdHVyZXMvaWJyb3gtYW5kLWl0cy1vZmZpY2lhbHMtYXJlLWdldHRpbmctYXdheS13aXRoLW11cmRlci1iZWNhdXNlLW9ubHktY2VsdGljLWZhbnMtY2FyZS9hbXAv?oc=5"/>
+        <updated>2023-03-04T19:43:00.000Z</updated>
+        <summary type="html"><![CDATA[Ibrox And Its Officials Are Getting Away With Murder Because Only Celtic Fans Care.  TheCelticBlog.com]]></summary>
         <author>
             <name>"celtic fc" - Google News</name>
         </author>
@@ -262,6 +332,16 @@
         <link href="https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vdGhlLXJlYmVscy1oYXZlLXdvbi1vci1hdC1sZWFzdC1mZXJndXMtbWNjYW5uLWhhZC_SAVBodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL3RoZS1yZWJlbHMtaGF2ZS13b24tb3ItYXQtbGVhc3QtZmVyZ3VzLW1jY2Fubi1oYWQvYW1wLw?oc=5"/>
         <updated>2023-03-04T07:05:00.000Z</updated>
         <summary type="html"><![CDATA[The Rebels have won – or at least Fergus McCann had  The Celtic Star]]></summary>
+        <author>
+            <name>"celtic fc" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arthur Numan in brutal Rangers confession as Ibrox legend left feeling 'low and empty' after Celtic final flop - Daily Record]]></title>
+        <id>CBMiWWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2FydGh1ci1udW1hbi1jb25mZXNzZXMtcmFuZ2Vycy1sZWZ0LTI5MzY5NDgx0gFdaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvYXJ0aHVyLW51bWFuLWNvbmZlc3Nlcy1yYW5nZXJzLWxlZnQtMjkzNjk0ODEuYW1w</id>
+        <link href="https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2FydGh1ci1udW1hbi1jb25mZXNzZXMtcmFuZ2Vycy1sZWZ0LTI5MzY5NDgx0gFdaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvYXJ0aHVyLW51bWFuLWNvbmZlc3Nlcy1yYW5nZXJzLWxlZnQtMjkzNjk0ODEuYW1w?oc=5"/>
+        <updated>2023-03-04T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Arthur Numan in brutal Rangers confession as Ibrox legend left feeling 'low and empty' after Celtic final flop  Daily Record]]></summary>
         <author>
             <name>"celtic fc" - Google News</name>
         </author>
@@ -2036,46 +2116,6 @@ Ben Doak at centre of Liverpool brawl as ex Celtic starlet left bloodied in Port
         <link href="https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvY2hhcmxpZS1taWxsZXItZmVhcnMtcmFuZ2Vycy1tdXJhbC0yOTMzNTc1NNIBamh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvY2hhcmxpZS1taWxsZXItZmVhcnMtcmFuZ2Vycy1tdXJhbC0yOTMzNTc1NC5hbXA?oc=5"/>
         <updated>2023-03-01T06:00:00.000Z</updated>
         <summary type="html"><![CDATA[Charlie Miller fears Rangers mural may need painted over as Celtic close in on 'world's most successful' title  Daily Record]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Photo: The stunning Adidas release that will go down well with Celtic fans - The Celtic Star]]></title>
-        <id>CBMiZGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vcGhvdG8tdGhlLXN0dW5uaW5nLWFkaWRhcy1yZWxlYXNlLXRoYXQtd2lsbC1nby1kb3duLXdlbGwtd2l0aC1jZWx0aWMtZmFucy_SAWhodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL3Bob3RvLXRoZS1zdHVubmluZy1hZGlkYXMtcmVsZWFzZS10aGF0LXdpbGwtZ28tZG93bi13ZWxsLXdpdGgtY2VsdGljLWZhbnMvYW1wLw</id>
-        <link href="https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vcGhvdG8tdGhlLXN0dW5uaW5nLWFkaWRhcy1yZWxlYXNlLXRoYXQtd2lsbC1nby1kb3duLXdlbGwtd2l0aC1jZWx0aWMtZmFucy_SAWhodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL3Bob3RvLXRoZS1zdHVubmluZy1hZGlkYXMtcmVsZWFzZS10aGF0LXdpbGwtZ28tZG93bi13ZWxsLXdpdGgtY2VsdGljLWZhbnMvYW1wLw?oc=5"/>
-        <updated>2023-02-28T23:35:52.000Z</updated>
-        <summary type="html"><![CDATA[Photo: The stunning Adidas release that will go down well with Celtic fans  The Celtic Star]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Celtic habit Rangers strive for as star makes 'best feeling in the world' admission]]></title>
-        <id>4045111</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/the-celtic-habit-rangers-strive-for-as-star-makes-best-feeling-in-the-world-admission-4045111"/>
-        <updated>2023-02-28T22:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Revered American football coach Vince Lombardi once remarked that “winning is a habit”. He viewed it not as “a sometime thing” but “an all the time thing”. In the current era of Scottish football, that’s Celtic. It is their habit. Theirs and theirs only.]]></summary>
-        <author>
-            <name>Joel Sked</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic will never tire of lifting trophies as bandwagon rolls on]]></title>
-        <id>e39e525f2c74ede48c7884777b7383c7</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23353022.celtic-will-never-tire-lifting-trophies-bandwagon-rolls/?ref=rss"/>
-        <updated>2023-02-28T22:30:00.000Z</updated>
-        <summary type="html"><![CDATA[THE scale of Celtic’s dominance over Scottish football over the last decade or more was writ large...]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic news latest as Reo Hatate named Ange's best signing and 'we never stop' mantra bleeds into celebrations - Daily Record]]></title>
-        <id>CBMiYWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvY2VsdGljLW5ld3MtbGF0ZXN0LXJlby1oYXRhdGUtMjkzMzg5OTXSAWVodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL2NlbHRpYy1uZXdzLWxhdGVzdC1yZW8taGF0YXRlLTI5MzM4OTk1LmFtcA</id>
-        <link href="https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvY2VsdGljLW5ld3MtbGF0ZXN0LXJlby1oYXRhdGUtMjkzMzg5OTXSAWVodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL2NlbHRpYy1uZXdzLWxhdGVzdC1yZW8taGF0YXRlLTI5MzM4OTk1LmFtcA?oc=5"/>
-        <updated>2023-02-28T21:18:01.000Z</updated>
-        <summary type="html"><![CDATA[Celtic news latest as Reo Hatate named Ange's best signing and 'we never stop' mantra bleeds into celebrations  Daily Record]]></summary>
         <author>
             <name>"celtic fc" - Google News</name>
         </author>
