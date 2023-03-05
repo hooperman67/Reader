@@ -248,16 +248,30 @@
       ]
     },
     {
-      "title": "Latest imported feed items on ArmchairCelts",
-      "feedUrl": "http://armchaircelts.co.uk/wprss",
-      "siteUrl": "http://armchaircelts.co.uk/feed/wprss/",
-      "articles": []
-    },
-    {
       "title": "\"celtic fc\" - Google News",
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CBMiXGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3Mvc3QtbWlycmVuLXZzLWNlbHRpYy1saXZlLTI5Mzc2NTM40gFgaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvZm9vdGJhbGwtbmV3cy9zdC1taXJyZW4tdnMtY2VsdGljLWxpdmUtMjkzNzY1MzguYW1w",
+          "author": null,
+          "description": "St Mirren 1 Celtic 5 LIVE reaction as champions come from behind to smash Saints  Daily Record\nCeltic in ruthless red card response to survive St Mirren first half scare - 3 talking points  Daily Record\n“I don’t like it either”; Ange Postecoglou on Sunday Celtic kit change  67 Hail Hail - Celtic FC News",
+          "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3Mvc3QtbWlycmVuLXZzLWNlbHRpYy1saXZlLTI5Mzc2NTM40gFgaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvZm9vdGJhbGwtbmV3cy9zdC1taXJyZW4tdnMtY2VsdGljLWxpdmUtMjkzNzY1MzguYW1w?oc=5",
+          "publishedOn": "2023-03-05T13:23:21.000Z",
+          "wordCount": 6116,
+          "title": "St Mirren 1 Celtic 5 LIVE reaction as champions come from behind to smash Saints - Daily Record",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiX2h0dHBzOi8vd3d3LmJlbGZhc3RsaXZlLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvY2VsdGljLWZjLWZvdXJ0aC1raXQtbGVha2VkLTI2MzkyODQz0gFjaHR0cHM6Ly93d3cuYmVsZmFzdGxpdmUuY28udWsvc3BvcnQvZm9vdGJhbGwvZm9vdGJhbGwtbmV3cy9jZWx0aWMtZmMtZm91cnRoLWtpdC1sZWFrZWQtMjYzOTI4NDMuYW1w",
+          "author": null,
+          "description": "Celtic FC fourth kit 'leaked' including tricolour collar and four-leaf clover badge  Belfast Live",
+          "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmJlbGZhc3RsaXZlLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvY2VsdGljLWZjLWZvdXJ0aC1raXQtbGVha2VkLTI2MzkyODQz0gFjaHR0cHM6Ly93d3cuYmVsZmFzdGxpdmUuY28udWsvc3BvcnQvZm9vdGJhbGwvZm9vdGJhbGwtbmV3cy9jZWx0aWMtZmMtZm91cnRoLWtpdC1sZWFrZWQtMjYzOTI4NDMuYW1w?oc=5",
+          "publishedOn": "2023-03-05T11:44:42.000Z",
+          "wordCount": 6116,
+          "title": "Celtic FC fourth kit 'leaked' including tricolour collar and four-leaf clover badge - Belfast Live",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiY2h0dHBzOi8vd3d3LmNlbHRpY3dheS5jby51ay9uZXdzLzIzMzYzOTEyLmx5b24tZGV0YWlsLW1vdXNzYS1kZW1iZWxlLTIwbS1jZWx0aWMtZmluYW5jaWFsLWRpc2FzdGVyL9IBAA",
           "author": null,
@@ -306,6 +320,16 @@
           "publishedOn": "2023-03-05T08:33:01.000Z",
           "wordCount": 6116,
           "title": "Celtic squad revealed as Ange Postecoglou's men fighting fit ahead of Paisley payback mission vs St Mirren - Daily Record",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiaWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3Mvc2VhZC1oYWtzYWJhbm92aWMtbWFrZXMtY2VsdGljLXBsZWRnZS0yOTM3MTYyN9IBbWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3Mvc2VhZC1oYWtzYWJhbm92aWMtbWFrZXMtY2VsdGljLXBsZWRnZS0yOTM3MTYyNy5hbXA",
+          "author": null,
+          "description": "Sead Haksabanovic makes Celtic pledge after Rangers miss as he reserves special Reo Hatate praise  Daily Record",
+          "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3Mvc2VhZC1oYWtzYWJhbm92aWMtbWFrZXMtY2VsdGljLXBsZWRnZS0yOTM3MTYyN9IBbWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3Mvc2VhZC1oYWtzYWJhbm92aWMtbWFrZXMtY2VsdGljLXBsZWRnZS0yOTM3MTYyNy5hbXA?oc=5",
+          "publishedOn": "2023-03-05T06:00:00.000Z",
+          "wordCount": 6116,
+          "title": "Sead Haksabanovic makes Celtic pledge after Rangers miss as he reserves special Reo Hatate praise - Daily Record",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -1575,6 +1599,26 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "6af343d2d01f9daa867656764bbca320",
+          "author": null,
+          "description": "CELTIC turned in a five-star second-half performance to blow away 10-man St Mirren at the SMiSA Stadium to maintain their nine-point lead...",
+          "link": "https://www.glasgowtimes.co.uk/sport/23364160.st-mirren-1-celtic-5-game-two-halves-celtic-punish-saints/?ref=rss",
+          "publishedOn": "2023-03-05T14:09:06.000Z",
+          "wordCount": 9155,
+          "title": "St Mirren 1 Celtic 5: Game of two halves as Celtic punish Saints",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16524092/?type=og-image"
+        },
+        {
+          "id": "caaab5f3b7d7b801f9ab785dbe82bebc",
+          "author": null,
+          "description": "The Canada international netted his maiden strike for the club in Paisley",
+          "link": "https://www.glasgowtimes.co.uk/sport/23364126.watch-alistair-johnstons-vital-first-celtic-goal/?ref=rss",
+          "publishedOn": "2023-03-05T13:30:19.000Z",
+          "wordCount": 8545,
+          "title": "WATCH: Alistair Johnston's vital first Celtic goal",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16524045/?type=og-image"
+        },
         {
           "id": "f9464674dc7e4dabec9885966e9b4ac9",
           "author": null,
