@@ -243,6 +243,26 @@
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
         {
+          "id": "CBMiZ2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3Mvc3RldmVuLXByZXNzbGV5LXJldmVhbHMtbmVpbC1sZW5ub24tMjkzODc2NzbSAWtodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL3N0ZXZlbi1wcmVzc2xleS1yZXZlYWxzLW5laWwtbGVubm9uLTI5Mzg3Njc2LmFtcA",
+          "author": null,
+          "description": "Steven Pressley reveals the Celtic snub as Neil Lennon REFUSED to shake his hand and blasts cringey antics  Daily Record",
+          "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3Mvc3RldmVuLXByZXNzbGV5LXJldmVhbHMtbmVpbC1sZW5ub24tMjkzODc2NzbSAWtodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL3N0ZXZlbi1wcmVzc2xleS1yZXZlYWxzLW5laWwtbGVubm9uLTI5Mzg3Njc2LmFtcA?oc=5",
+          "publishedOn": "2023-03-06T22:30:00.000Z",
+          "wordCount": 6115,
+          "title": "Steven Pressley reveals the Celtic snub as Neil Lennon REFUSED to shake his hand and blasts cringey antics - Daily Record",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiW2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL3JvYmJpZS1uZWlsc29uLWRlc3BlcmF0ZS1zcG9pbC1jZWx0aWMtMjkzODY0MzLSAV9odHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9yb2JiaWUtbmVpbHNvbi1kZXNwZXJhdGUtc3BvaWwtY2VsdGljLTI5Mzg2NDMyLmFtcA",
+          "author": null,
+          "description": "Robbie Neilson desperate to spoil Celtic anniversary for Ange Postecoglou  Daily Record",
+          "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL3JvYmJpZS1uZWlsc29uLWRlc3BlcmF0ZS1zcG9pbC1jZWx0aWMtMjkzODY0MzLSAV9odHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9yb2JiaWUtbmVpbHNvbi1kZXNwZXJhdGUtc3BvaWwtY2VsdGljLTI5Mzg2NDMyLmFtcA?oc=5",
+          "publishedOn": "2023-03-06T22:30:00.000Z",
+          "wordCount": 6115,
+          "title": "Robbie Neilson desperate to spoil Celtic anniversary for Ange Postecoglou - Daily Record",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "CBMiYmh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vc2NvdHQtYnJvd24taHlkcm8tZXZlbnQtYW4tb3Bwb3J0dW5pdHktdG8tdGhhbmstY2VsdGljLXN1cHBvcnQtcHJvcGVybHkv0gFmaHR0cHM6Ly90aGVjZWx0aWNzdGFyLmNvbS9zY290dC1icm93bi1oeWRyby1ldmVudC1hbi1vcHBvcnR1bml0eS10by10aGFuay1jZWx0aWMtc3VwcG9ydC1wcm9wZXJseS9hbXAv",
           "author": null,
           "description": "Scott Brown: Hydro event an opportunity to thank Celtic support properly  The Celtic Star",
@@ -1411,56 +1431,6 @@
           "wordCount": 6116,
           "title": "Aaron Mooy names his favourite Celtic song outside of his own - 67 Hail Hail - Celtic FC News",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiXmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2xvY2FsLXNwb3J0L2Zvcm1lci1jZWx0aWMtY29hY2gtbmFtZWQtbW90aGVyd2VsbHMtMjkzNTgxODnSAWJodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9sb2NhbC1zcG9ydC9mb3JtZXItY2VsdGljLWNvYWNoLW5hbWVkLW1vdGhlcndlbGxzLTI5MzU4MTg5LmFtcA",
-          "author": null,
-          "description": "Former Celtic coach named Motherwell's new assistant manager  Daily Record",
-          "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2xvY2FsLXNwb3J0L2Zvcm1lci1jZWx0aWMtY29hY2gtbmFtZWQtbW90aGVyd2VsbHMtMjkzNTgxODnSAWJodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9sb2NhbC1zcG9ydC9mb3JtZXItY2VsdGljLWNvYWNoLW5hbWVkLW1vdGhlcndlbGxzLTI5MzU4MTg5LmFtcA?oc=5",
-          "publishedOn": "2023-03-02T17:31:03.000Z",
-          "wordCount": 6134,
-          "title": "Former Celtic coach named Motherwell's new assistant manager - Daily Record",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiRmh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9qb2huLWx1bmRzdHJhbS1tYWtlcy1kZWx1c2lvbmFsLWNlbHRpYy1jbGFpbS_SAUpodHRwczovL2NlbHRzYXJlaGVyZS5jb20vam9obi1sdW5kc3RyYW0tbWFrZXMtZGVsdXNpb25hbC1jZWx0aWMtY2xhaW0vYW1wLw",
-          "author": null,
-          "description": "John Lundstram Makes Delusional Celtic Claim | Celts Are Here  CeltsAreHere",
-          "link": "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9qb2huLWx1bmRzdHJhbS1tYWtlcy1kZWx1c2lvbmFsLWNlbHRpYy1jbGFpbS_SAUpodHRwczovL2NlbHRzYXJlaGVyZS5jb20vam9obi1sdW5kc3RyYW0tbWFrZXMtZGVsdXNpb25hbC1jZWx0aWMtY2xhaW0vYW1wLw?oc=5",
-          "publishedOn": "2023-03-02T17:12:24.000Z",
-          "wordCount": 6134,
-          "title": "John Lundstram Makes Delusional Celtic Claim | Celts Are Here - CeltsAreHere",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMicmh0dHBzOi8vd3d3LmhpdGMuY29tL2VuLWdiLzIwMjMvMDMvMDIvbGllbC1hYmFkYS10aXBwZWQtZm9yLWZ1bGhhbS1tb3ZlLWFzLWNlbHRpYy1hY2UtdXJnZWQtdG8tam9pbi1tYW5vci1zb2xvbW9uL9IBdmh0dHBzOi8vd3d3LmhpdGMuY29tL2VuLWdiLzIwMjMvMDMvMDIvbGllbC1hYmFkYS10aXBwZWQtZm9yLWZ1bGhhbS1tb3ZlLWFzLWNlbHRpYy1hY2UtdXJnZWQtdG8tam9pbi1tYW5vci1zb2xvbW9uLz9hbXA",
-          "author": null,
-          "description": "Liel Abada tipped for Fulham move as Celtic ace urged to join Manor Solomon  HITC - Football, Gaming, Movies, TV, Music",
-          "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmhpdGMuY29tL2VuLWdiLzIwMjMvMDMvMDIvbGllbC1hYmFkYS10aXBwZWQtZm9yLWZ1bGhhbS1tb3ZlLWFzLWNlbHRpYy1hY2UtdXJnZWQtdG8tam9pbi1tYW5vci1zb2xvbW9uL9IBdmh0dHBzOi8vd3d3LmhpdGMuY29tL2VuLWdiLzIwMjMvMDMvMDIvbGllbC1hYmFkYS10aXBwZWQtZm9yLWZ1bGhhbS1tb3ZlLWFzLWNlbHRpYy1hY2UtdXJnZWQtdG8tam9pbi1tYW5vci1zb2xvbW9uLz9hbXA?oc=5",
-          "publishedOn": "2023-03-02T17:00:00.000Z",
-          "wordCount": 6134,
-          "title": "Liel Abada tipped for Fulham move as Celtic ace urged to join Manor Solomon - HITC - Football, Gaming, Movies, TV, Music",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiYWh0dHBzOi8vd3d3LmNvbi10ZWxlZ3JhcGguaWUvMjAyMy8wMy8wMi9jYXN0bGViYXItY2VsdGljLWZjLWluZm9ybWF0aW9uLW5pZ2h0LWFoZWFkLW9mLWNlbnRlbmFyeS_SAQA",
-          "author": null,
-          "description": "Castlebar Celtic FC information night ahead of centenary  Connaught Telegraph",
-          "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmNvbi10ZWxlZ3JhcGguaWUvMjAyMy8wMy8wMi9jYXN0bGViYXItY2VsdGljLWZjLWluZm9ybWF0aW9uLW5pZ2h0LWFoZWFkLW9mLWNlbnRlbmFyeS_SAQA?oc=5",
-          "publishedOn": "2023-03-02T15:41:10.000Z",
-          "wordCount": 6134,
-          "title": "Castlebar Celtic FC information night ahead of centenary - Connaught Telegraph",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiXmh0dHBzOi8vd3d3LnNjb3R0aXNoZGFpbHlleHByZXNzLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2ppbS1nb29kd2luLXJhbmdlcnMtY2VsdGljLWNvc3QtMjkzNTY2ODbSAWJodHRwczovL3d3dy5zY290dGlzaGRhaWx5ZXhwcmVzcy5jby51ay9zcG9ydC9mb290YmFsbC9qaW0tZ29vZHdpbi1yYW5nZXJzLWNlbHRpYy1jb3N0LTI5MzU2Njg2LmFtcA",
-          "author": null,
-          "description": "Jim Goodwin Rangers and Celtic cost me Aberdeen job admission as he insists he can save Dundee United  Scottish Daily Express",
-          "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LnNjb3R0aXNoZGFpbHlleHByZXNzLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2ppbS1nb29kd2luLXJhbmdlcnMtY2VsdGljLWNvc3QtMjkzNTY2ODbSAWJodHRwczovL3d3dy5zY290dGlzaGRhaWx5ZXhwcmVzcy5jby51ay9zcG9ydC9mb290YmFsbC9qaW0tZ29vZHdpbi1yYW5nZXJzLWNlbHRpYy1jb3N0LTI5MzU2Njg2LmFtcA?oc=5",
-          "publishedOn": "2023-03-02T15:39:03.000Z",
-          "wordCount": 6134,
-          "title": "Jim Goodwin Rangers and Celtic cost me Aberdeen job admission as he insists he can save Dundee United - Scottish Daily Express",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -1658,6 +1628,16 @@
           "wordCount": 8473,
           "title": "Ex-Celtic star Giakoumakis details MLS frustrations after Atlanta move",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16523616/?type=og-image"
+        },
+        {
+          "id": "5d311a18ef69316cb686d4d21a892532",
+          "author": null,
+          "description": "Ange Postecoglou's side will make the short journey to Paisley to face Stephen Robinson's men.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23358673.st-mirren-vs-celtic-tv-channel-live-stream-kick-off-time/?ref=rss",
+          "publishedOn": "2023-03-05T10:00:00.000Z",
+          "wordCount": 9943,
+          "title": "St Mirren vs Celtic: TV channel, live stream & kick-off time",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16513769/?type=og-image"
         },
         {
           "id": "31e6bd5eeb6e880727674b7ca7bc6923",
@@ -1908,46 +1888,6 @@
           "wordCount": 8498,
           "title": "Kieran Tierney given 'first choice' Newcastle transfer backing",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16516214/?type=og-image"
-        },
-        {
-          "id": "663c91ab3437c4492a4c7eb8ad5e56be",
-          "author": null,
-          "description": "The Sweden international waxed lyrical about one player in particular",
-          "link": "https://www.glasgowtimes.co.uk/sport/23359436.carl-starfelt-names-strongest-celtic-player-never-hits-gym/?ref=rss",
-          "publishedOn": "2023-03-02T17:36:32.000Z",
-          "wordCount": 8506,
-          "title": "Carl Starfelt names strongest Celtic player who 'never' hits gym",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16515163/?type=og-image"
-        },
-        {
-          "id": "0eb0eedb93eaa9ec719e5c5fd21da067",
-          "author": null,
-          "description": "Last weekend's scenes in the stands at Hampden were not savoury.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23358434.authorities-must-get-tough-celtic-rangers-pyro-chaos/?ref=rss",
-          "publishedOn": "2023-03-02T17:20:00.000Z",
-          "wordCount": 8923,
-          "title": "Authorities must get tough after Hampden pyro chaos",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16513281/?type=og-image"
-        },
-        {
-          "id": "48626e3fe29e3940eea7b61abc86853a",
-          "author": null,
-          "description": "The 29-year-old admitted himself that his performance was not up to the required standard in the showpiece League Cup final.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23358965.john-lundstram-dismisses-massive-celtic-vs-rangers-gap/?ref=rss",
-          "publishedOn": "2023-03-02T15:58:19.000Z",
-          "wordCount": 8529,
-          "title": "John Lundstram dismisses 'massive' Celtic vs Rangers gap",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16514463/?type=og-image"
-        },
-        {
-          "id": "4e9e59a532ef141b4d79aa4faed662ca",
-          "author": null,
-          "description": "The Sweden international felt more than prepared for the Hampden showpiece",
-          "link": "https://www.glasgowtimes.co.uk/sport/23358940.carl-starfelt-reveals-celtics-league-cup-final-preparations-v-rangers/?ref=rss",
-          "publishedOn": "2023-03-02T15:52:45.000Z",
-          "wordCount": 8588,
-          "title": "Carl Starfelt reveals Celtic's League Cup final preparations v Rangers",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16514366/?type=og-image"
         }
       ]
     }
