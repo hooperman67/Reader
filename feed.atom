@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-03-07T01:51:07.658Z</updated>
+    <updated>2023-03-07T03:30:37.682Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -74,6 +74,16 @@
         <summary type="html"><![CDATA[He did not mince his words about the decision.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Celtic Kit ‘Leaked’, Tricolour Collar And Four Leaf Clover Badge Returns - The Celtic Star]]></title>
+        <id>CBMiZGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vbmV3LWNlbHRpYy1raXQtbGVha2VkLXRyaWNvbG91ci1jb2xsYXItYW5kLWZvdXItbGVhZi1jbG92ZXItYmFkZ2UtcmV0dXJucy_SAWhodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL25ldy1jZWx0aWMta2l0LWxlYWtlZC10cmljb2xvdXItY29sbGFyLWFuZC1mb3VyLWxlYWYtY2xvdmVyLWJhZGdlLXJldHVybnMvYW1wLw</id>
+        <link href="https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vbmV3LWNlbHRpYy1raXQtbGVha2VkLXRyaWNvbG91ci1jb2xsYXItYW5kLWZvdXItbGVhZi1jbG92ZXItYmFkZ2UtcmV0dXJucy_SAWhodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL25ldy1jZWx0aWMta2l0LWxlYWtlZC10cmljb2xvdXItY29sbGFyLWFuZC1mb3VyLWxlYWYtY2xvdmVyLWJhZGdlLXJldHVybnMvYW1wLw?oc=5"/>
+        <updated>2023-03-06T17:26:44.000Z</updated>
+        <summary type="html"><![CDATA[New Celtic Kit ‘Leaked’, Tricolour Collar And Four Leaf Clover Badge Returns  The Celtic Star]]></summary>
+        <author>
+            <name>"celtic fc" - Google News</name>
         </author>
     </entry>
     <entry>
@@ -1942,36 +1952,6 @@ Juranovic Takes Brilliant Dig At Fashion Sakala | Celts Are Here  CeltsAreHere
         <summary type="html"><![CDATA[Jim Goodwin Rangers and Celtic cost me Aberdeen job admission as he insists he can save Dundee United  Scottish Daily Express]]></summary>
         <author>
             <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic & Rangers on alert as Napoli owner talks European revamp]]></title>
-        <id>eff6af900dfadc25dc3df615379e552b</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23358799.celtic-rangers-alert-napoli-owner-talks-european-revamp/?ref=rss"/>
-        <updated>2023-03-02T15:23:04.000Z</updated>
-        <summary type="html"><![CDATA[Napoli president Aurelio de Laurentiis has revealed that he is behind campaigners to introduce a new format of European football.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[St Mirren vs Celtic: TV channel, live stream & kick-off time]]></title>
-        <id>5d311a18ef69316cb686d4d21a892532</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23358673.st-mirren-vs-celtic-tv-channel-live-stream-kick-off-time/?ref=rss"/>
-        <updated>2023-03-02T14:56:58.000Z</updated>
-        <summary type="html"><![CDATA[Ange Postecoglou's side will make the short journey to Paisley to face Stephen Robinson's men.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['I'm trying to take it all in' - Celtic star on embracing challenges]]></title>
-        <id>f97efc2db86f7da64c732f2680b352dc</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23358552.im-trying-take-in---celtic-star-embracing-challenges/?ref=rss"/>
-        <updated>2023-03-02T14:33:07.000Z</updated>
-        <summary type="html"><![CDATA[The Australian has been in fine form for the Hoops since the World Cup break]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>
