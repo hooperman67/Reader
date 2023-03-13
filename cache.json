@@ -313,6 +313,26 @@
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
         {
+          "id": "CBMiYmh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vY2VsdGljLXN0YXJ0LWF3YXktdG8tdGhlLXJhbmdlcnMtYXMtc3dwbDEtcG9zdC1zcGxpdC1maXh0dXJlcy1hbm5vdW5jZWQv0gFmaHR0cHM6Ly90aGVjZWx0aWNzdGFyLmNvbS9jZWx0aWMtc3RhcnQtYXdheS10by10aGUtcmFuZ2Vycy1hcy1zd3BsMS1wb3N0LXNwbGl0LWZpeHR1cmVzLWFubm91bmNlZC9hbXAv",
+          "author": null,
+          "description": "Celtic start away to the Rangers as SWPL1 Post Split Fixtures announced  The Celtic Star",
+          "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vY2VsdGljLXN0YXJ0LWF3YXktdG8tdGhlLXJhbmdlcnMtYXMtc3dwbDEtcG9zdC1zcGxpdC1maXh0dXJlcy1hbm5vdW5jZWQv0gFmaHR0cHM6Ly90aGVjZWx0aWNzdGFyLmNvbS9jZWx0aWMtc3RhcnQtYXdheS10by10aGUtcmFuZ2Vycy1hcy1zd3BsMS1wb3N0LXNwbGl0LWZpeHR1cmVzLWFubm91bmNlZC9hbXAv?oc=5",
+          "publishedOn": "2023-03-13T13:05:04.000Z",
+          "wordCount": 6138,
+          "title": "Celtic start away to the Rangers as SWPL1 Post Split Fixtures announced - The Celtic Star",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZ2h0dHBzOi8vd3d3LnNjb3R0aXNoZGFpbHlleHByZXNzLmNvLnVrL25ld3Mvc2NvdHRpc2gtbmV3cy9jZWx0aWMtcmFuZ2Vycy1jaGFyaXRpZXMtY2FzaC10aGFua3MtMjk0NDQ3ODTSAWtodHRwczovL3d3dy5zY290dGlzaGRhaWx5ZXhwcmVzcy5jby51ay9uZXdzL3Njb3R0aXNoLW5ld3MvY2VsdGljLXJhbmdlcnMtY2hhcml0aWVzLWNhc2gtdGhhbmtzLTI5NDQ0Nzg0LmFtcA",
+          "author": null,
+          "description": "Celtic and Rangers charities cash in thanks to millions seized from Scotland's gangsters  Scottish Daily Express",
+          "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LnNjb3R0aXNoZGFpbHlleHByZXNzLmNvLnVrL25ld3Mvc2NvdHRpc2gtbmV3cy9jZWx0aWMtcmFuZ2Vycy1jaGFyaXRpZXMtY2FzaC10aGFua3MtMjk0NDQ3ODTSAWtodHRwczovL3d3dy5zY290dGlzaGRhaWx5ZXhwcmVzcy5jby51ay9uZXdzL3Njb3R0aXNoLW5ld3MvY2VsdGljLXJhbmdlcnMtY2hhcml0aWVzLWNhc2gtdGhhbmtzLTI5NDQ0Nzg0LmFtcA?oc=5",
+          "publishedOn": "2023-03-13T12:33:12.000Z",
+          "wordCount": 6138,
+          "title": "Celtic and Rangers charities cash in thanks to millions seized from Scotland's gangsters - Scottish Daily Express",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "CBMiigFodHRwczovL3d3dy5za3lzcG9ydHMuY29tL2Zvb3RiYWxsL25ld3MvMzY2MjEvMTI4MzI3NjAvc3dwbC1yb3VuZC11cC1nbGFzZ293LWNpdHktY2VsdGljLXJhbmdlcnMtbW90aGVyd2VsbC1oZWFydHMtYW5kLXBhcnRpY2stdGhpc3RsZS13aW7SAY4BaHR0cHM6Ly93d3cuc2t5c3BvcnRzLmNvbS9hbXAvZm9vdGJhbGwvbmV3cy8zNjYyMS8xMjgzMjc2MC9zd3BsLXJvdW5kLXVwLWdsYXNnb3ctY2l0eS1jZWx0aWMtcmFuZ2Vycy1tb3RoZXJ3ZWxsLWhlYXJ0cy1hbmQtcGFydGljay10aGlzdGxlLXdpbg",
           "author": null,
           "description": "SWPL round up: Glasgow City, Celtic, Rangers, Motherwell, Hearts and Partick Thistle win  Sky Sports",
@@ -1381,26 +1401,6 @@
           "wordCount": 6138,
           "title": "An Enjoyable Evening And Good Domestic Test - The Celtic Star",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiV2h0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vc2FuZG1hbnMtZGVmaW5pdGl2ZS1yYXRpbmdzLWNlbHRpYy12LWJhbWJvcy10aGUtcnVnZ2VyLW1pbmlzL9IBW2h0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vc2FuZG1hbnMtZGVmaW5pdGl2ZS1yYXRpbmdzLWNlbHRpYy12LWJhbWJvcy10aGUtcnVnZ2VyLW1pbmlzL2FtcC8",
-          "author": null,
-          "description": "Sandman’s Definitive Ratings – Celtic v Bambos, the Rugger Minis  The Celtic Star",
-          "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vc2FuZG1hbnMtZGVmaW5pdGl2ZS1yYXRpbmdzLWNlbHRpYy12LWJhbWJvcy10aGUtcnVnZ2VyLW1pbmlzL9IBW2h0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vc2FuZG1hbnMtZGVmaW5pdGl2ZS1yYXRpbmdzLWNlbHRpYy12LWJhbWJvcy10aGUtcnVnZ2VyLW1pbmlzL2FtcC8?oc=5",
-          "publishedOn": "2023-03-09T01:19:51.000Z",
-          "wordCount": 6115,
-          "title": "Sandman’s Definitive Ratings – Celtic v Bambos, the Rugger Minis - The Celtic Star",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiV2h0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vc2FuZG1hbnMtZGVmaW5pdGl2ZS1yYXRpbmdzLWNlbHRpYy12LWJhbWJvcy10aGUtcnVnZ2VyLW1pbmlzL9IBAA",
-          "author": null,
-          "description": "Sandman's Definitive Ratings - Celtic v Rugger Minis  The Celtic Star",
-          "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vc2FuZG1hbnMtZGVmaW5pdGl2ZS1yYXRpbmdzLWNlbHRpYy12LWJhbWJvcy10aGUtcnVnZ2VyLW1pbmlzL9IBAA?oc=5",
-          "publishedOn": "2023-03-09T01:19:51.000Z",
-          "wordCount": 6115,
-          "title": "Sandman's Definitive Ratings - Celtic v Rugger Minis - The Celtic Star",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -1409,6 +1409,46 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "5d5701433667d8d230b401e60e0f7ec0",
+          "author": null,
+          "description": "The 21-year-old could be set for some minutes over the international break.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23382710.celtics-hyeon-gyu-named-klinsmanns-first-south-korea-squad/?ref=rss",
+          "publishedOn": "2023-03-13T14:46:00.000Z",
+          "wordCount": 8439,
+          "title": "Celtic's Hyeon-gyu named in Klinsmann's first South Korea squad",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16553057/?type=og-image"
+        },
+        {
+          "id": "6bdb78f58b4259ee064d9ff6368b3cac",
+          "author": null,
+          "description": "The German was happy with his new side's performance",
+          "link": "https://www.glasgowtimes.co.uk/sport/23382455.ex-celtic-defender-jenz-emotional-message-schalke-v-dortmund/?ref=rss",
+          "publishedOn": "2023-03-13T13:43:48.000Z",
+          "wordCount": 8503,
+          "title": "Ex-Celtic defender Jenz in emotional message after Schalke v Dortmund",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16552608/?type=og-image"
+        },
+        {
+          "id": "d4255656462ae7b62074864f4b79ae60",
+          "author": null,
+          "description": "Ange Postecoglou's side host Lee Johnson's squad at Parkhead in a Saturday 3pm fixture.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23382197.celtic-vs-hibs-tv-channel-live-stream-kick-off/?ref=rss",
+          "publishedOn": "2023-03-13T12:38:10.000Z",
+          "wordCount": 8445,
+          "title": "Celtic vs Hibs: TV channel, live stream & kick-off",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16552247/?type=og-image"
+        },
+        {
+          "id": "c016c5862df79561fb4f3f8e7d157407",
+          "author": null,
+          "description": "The former Hoops boss had previously expressed his delight at his relative being nominated.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23382160.celtic-legend-martin-oneills-son-in-law-wins-big-oscars/?ref=rss",
+          "publishedOn": "2023-03-13T12:29:11.000Z",
+          "wordCount": 8438,
+          "title": "Celtic legend Martin O'Neill's son-in law wins big at the Oscars",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16552181/?type=og-image"
+        },
         {
           "id": "fccdb7cd89e30c757bc9738fe5077670",
           "author": null,
