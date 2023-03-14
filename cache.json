@@ -6,6 +6,26 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4061993",
+          "author": "Andrew Smith",
+          "description": "Those of a Celtic disposition are entitled to feel good about their lot as Ange Postecoglou’s men make faultless progress in the pursuit of a clean sweep of domestic honours.",
+          "link": "https://www.scotsman.com/sport/football/celtic/i-really-miss-playing-in-those-big-games-celtics-matt-oriley-laments-being-restricted-to-tv-dates-during-the-week-4061993",
+          "publishedOn": "2023-03-13T22:30:00.000Z",
+          "wordCount": null,
+          "title": "'I really miss playing in those big games': Celtic's Matt O'Riley laments being restricted to TV dates during the week",
+          "imageUrl": null
+        },
+        {
+          "id": "4062866",
+          "author": "Mark Atkinson",
+          "description": "Rangers and Celtic will meet each other in the semi-finals of the Scottish Cup after the draw for the last four was made on Monday night.",
+          "link": "https://www.scotsman.com/sport/football/rangers/scottish-cup-semi-final-draw-rangers-and-celtic-meet-again-2015-final-repeat-for-falkirk-and-inverness-4062866",
+          "publishedOn": "2023-03-13T21:49:42.000Z",
+          "wordCount": null,
+          "title": "Scottish Cup semi-final draw: Rangers and Celtic meet again, 2015 final repeat for Falkirk and Inverness",
+          "imageUrl": null
+        },
+        {
           "id": "4062696",
           "author": "Andrew Smith",
           "description": "When discussing the Scotland national football team, concerns are often costed in.",
@@ -274,36 +294,6 @@
           "wordCount": null,
           "title": "'Do some players struggle?'- Sead Haksabanovic opens up on Celtic game-time and pressure to win",
           "imageUrl": null
-        },
-        {
-          "id": "4057316",
-          "author": "Joel Sked",
-          "description": "Scotland Under-21 boss Scot Gemmill has named a 23-man squad including players from Celtic, Rangers, Manchester City, Liverpool and Bayern Munich for the upcoming double-header with Sweden and Wales",
-          "link": "https://www.scotsman.com/sport/football/celtic/scotland-under-21s-squad-features-stars-from-bayern-munich-liverpool-manchester-city-celtic-and-rangers-4057316",
-          "publishedOn": "2023-03-09T12:52:40.000Z",
-          "wordCount": null,
-          "title": "Scotland Under-21s squad features stars from Bayern Munich, Liverpool, Manchester City, Celtic and Rangers",
-          "imageUrl": null
-        },
-        {
-          "id": "4057317",
-          "author": "Gavin McCafferty",
-          "description": "The main Scottish football authorities have teamed up to form a central marketing organisation to “revolutionise” the promotion of the game.",
-          "link": "https://www.scotsman.com/sport/football/ron-gordon-vision-realised-as-new-scottish-football-marketing-group-driven-by-late-hibs-chairman-set-to-revolutionise-game-4057317",
-          "publishedOn": "2023-03-09T12:52:32.000Z",
-          "wordCount": null,
-          "title": "Ron Gordon vision realised as new Scottish Football Marketing group driven by late Hibs chairman set to 'revolutionise' game",
-          "imageUrl": null
-        },
-        {
-          "id": "4057246",
-          "author": "Joel Sked",
-          "description": "Former SFA referee Steve Conroy believes Hearts boss Robbie Neilson was possibly “trying to noise things up ahead” of the club's meeting with Celtic in the quarter-final of the Scottish Cup.",
-          "link": "https://www.scotsman.com/sport/football/hearts/trying-to-noise-things-up-ex-ref-fires-back-at-robbie-neilson-over-hearts-boss-celtic-comments-4057246",
-          "publishedOn": "2023-03-09T12:29:12.000Z",
-          "wordCount": null,
-          "title": "'Trying to noise things up' - Ex-ref fires back at Robbie Neilson over Hearts boss' Celtic comments",
-          "imageUrl": null
         }
       ]
     },
@@ -313,6 +303,16 @@
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
         {
+          "id": "CBMiUWh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vcGhvdG8tb2YtdGhlLWRheS1jZWx0aWMtZmFucy1pbi10aGUtZW5jbG9zdXJlLWF0LWlicm94L9IBVWh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vcGhvdG8tb2YtdGhlLWRheS1jZWx0aWMtZmFucy1pbi10aGUtZW5jbG9zdXJlLWF0LWlicm94L2FtcC8",
+          "author": null,
+          "description": "Photo Of The Day: Celtic Fans In The Enclosure At Ibrox  The Celtic Star",
+          "link": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vcGhvdG8tb2YtdGhlLWRheS1jZWx0aWMtZmFucy1pbi10aGUtZW5jbG9zdXJlLWF0LWlicm94L9IBVWh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vcGhvdG8tb2YtdGhlLWRheS1jZWx0aWMtZmFucy1pbi10aGUtZW5jbG9zdXJlLWF0LWlicm94L2FtcC8?oc=5",
+          "publishedOn": "2023-03-13T22:50:48.000Z",
+          "wordCount": 6138,
+          "title": "Photo Of The Day: Celtic Fans In The Enclosure At Ibrox - The Celtic Star",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "CBMiYmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3Mvc2NvdHRpc2gtY3VwLWRyYXctbGl2ZS1yYW5nZXJzLTI5NDQ5NzA30gFmaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvZm9vdGJhbGwtbmV3cy9zY290dGlzaC1jdXAtZHJhdy1saXZlLXJhbmdlcnMtMjk0NDk3MDcuYW1w",
           "author": null,
           "description": "Scottish Cup draw LIVE as Rangers and Celtic plus Inverness await last potential semi-final opponent  Daily Record",
@@ -320,6 +320,16 @@
           "publishedOn": "2023-03-13T20:37:28.000Z",
           "wordCount": 6138,
           "title": "Scottish Cup draw LIVE as Rangers and Celtic plus Inverness await last potential semi-final opponent - Daily Record",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMieWh0dHBzOi8vd3d3LmdsYXNnb3d0aW1lcy5jby51ay9uZXdzL3Njb3R0aXNoLW5ld3MvMjMzODM3NDIuc2l4LWNlbHRpYy1wbGF5ZXJzLXZpc2l0LWdsYXNnb3ctcmVzdGF1cmFudC1zY290dGlzaC1jdXAtZ2FtZS_SAT9odHRwczovL3d3dy5nbGFzZ293dGltZXMuY28udWsvbmV3cy9zY290dGlzaC1uZXdzLzIzMzgzNzQyLmFtcC8",
+          "author": null,
+          "description": "Six Celtic players visit Glasgow restaurant after Scottish Cup game  Glasgow Times",
+          "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmdsYXNnb3d0aW1lcy5jby51ay9uZXdzL3Njb3R0aXNoLW5ld3MvMjMzODM3NDIuc2l4LWNlbHRpYy1wbGF5ZXJzLXZpc2l0LWdsYXNnb3ctcmVzdGF1cmFudC1zY290dGlzaC1jdXAtZ2FtZS_SAT9odHRwczovL3d3dy5nbGFzZ293dGltZXMuY28udWsvbmV3cy9zY290dGlzaC1uZXdzLzIzMzgzNzQyLmFtcC8?oc=5",
+          "publishedOn": "2023-03-13T20:06:05.000Z",
+          "wordCount": 6138,
+          "title": "Six Celtic players visit Glasgow restaurant after Scottish Cup game - Glasgow Times",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -380,6 +390,16 @@
           "publishedOn": "2023-03-13T16:52:02.000Z",
           "wordCount": 6138,
           "title": "Gibson: Mixed Emotions After Celtic Defeat - Hibernian FC",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMic2h0dHBzOi8vbmV3cy5zdHYudHYvc3BvcnQvY2VsdGljLWZvcndhcmQtaHllb25neXUtb2gtY2FsbGVkLXVwLXRvLXNvdXRoLWtvcmVhLXNxdWFkLWJ5LW5ldy1tYW5hZ2VyLWp1cmdlbi1rbGluc21hbm7SAQA",
+          "author": null,
+          "description": "Celtic forward Hyeongyu Oh called up to South Korea squad  STV News",
+          "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vbmV3cy5zdHYudHYvc3BvcnQvY2VsdGljLWZvcndhcmQtaHllb25neXUtb2gtY2FsbGVkLXVwLXRvLXNvdXRoLWtvcmVhLXNxdWFkLWJ5LW5ldy1tYW5hZ2VyLWp1cmdlbi1rbGluc21hbm7SAQA?oc=5",
+          "publishedOn": "2023-03-13T16:44:59.000Z",
+          "wordCount": 6138,
+          "title": "Celtic forward Hyeongyu Oh called up to South Korea squad - STV News",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -1461,76 +1481,6 @@
           "wordCount": 6115,
           "title": "Pundit issues ‘big’ Josip Juranovic claim as new Celtic details emerge - Football Insider",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiT2h0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vcGhvdG9zLWFkaWRhcy14LWNlbHRpYy1mYy1yZXZlYWwtMjAyMi0yMy1vcmlnaW5zLWtpdC_SAVNodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL3Bob3Rvcy1hZGlkYXMteC1jZWx0aWMtZmMtcmV2ZWFsLTIwMjItMjMtb3JpZ2lucy1raXQvYW1wLw",
-          "author": null,
-          "description": "Photos – adidas x Celtic FC reveal 2022/23 Origins Kit  The Celtic Star",
-          "link": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vcGhvdG9zLWFkaWRhcy14LWNlbHRpYy1mYy1yZXZlYWwtMjAyMi0yMy1vcmlnaW5zLWtpdC_SAVNodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL3Bob3Rvcy1hZGlkYXMteC1jZWx0aWMtZmMtcmV2ZWFsLTIwMjItMjMtb3JpZ2lucy1raXQvYW1wLw?oc=5",
-          "publishedOn": "2023-03-09T13:13:17.000Z",
-          "wordCount": 6115,
-          "title": "Photos – adidas x Celtic FC reveal 2022/23 Origins Kit - The Celtic Star",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiXGh0dHBzOi8vd3d3LmJlbGZhc3RsaXZlLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvY2VsdGljLWZjLXVudmVpbC1uZXcta2l0LTI2NDI3Nzkx0gFgaHR0cHM6Ly93d3cuYmVsZmFzdGxpdmUuY28udWsvc3BvcnQvZm9vdGJhbGwvZm9vdGJhbGwtbmV3cy9jZWx0aWMtZmMtdW52ZWlsLW5ldy1raXQtMjY0Mjc3OTEuYW1w",
-          "author": null,
-          "description": "Celtic FC unveil new kit which celebrates club's 'proud Irish origins'  Belfast Live",
-          "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmJlbGZhc3RsaXZlLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvY2VsdGljLWZjLXVudmVpbC1uZXcta2l0LTI2NDI3Nzkx0gFgaHR0cHM6Ly93d3cuYmVsZmFzdGxpdmUuY28udWsvc3BvcnQvZm9vdGJhbGwvZm9vdGJhbGwtbmV3cy9jZWx0aWMtZmMtdW52ZWlsLW5ldy1raXQtMjY0Mjc3OTEuYW1w?oc=5",
-          "publishedOn": "2023-03-09T11:34:28.000Z",
-          "wordCount": 6115,
-          "title": "Celtic FC unveil new kit which celebrates club's 'proud Irish origins' - Belfast Live",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3Mvc2NvdHQtYWxsYW4tY2VsdGljLWFncmVlLWRpc3B1dGUtMjk0MTI2NDXSAWhodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL3Njb3R0LWFsbGFuLWNlbHRpYy1hZ3JlZS1kaXNwdXRlLTI5NDEyNjQ1LmFtcA",
-          "author": null,
-          "description": "Scott Allan in Celtic agree AND dispute with Robbie Neilson over his Bernabei claims  Daily Record\nCeltic player ratings vs Hearts as Kyogo's crucial goal hands Ange Postecoglou win in landmark game  Glasgow Live\nAlexandro Bernabei Celtic red card defence by ex ref as Robbie Neilson slammed  Daily Record",
-          "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3Mvc2NvdHQtYWxsYW4tY2VsdGljLWFncmVlLWRpc3B1dGUtMjk0MTI2NDXSAWhodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL3Njb3R0LWFsbGFuLWNlbHRpYy1hZ3JlZS1kaXNwdXRlLTI5NDEyNjQ1LmFtcA?oc=5",
-          "publishedOn": "2023-03-09T11:26:50.000Z",
-          "wordCount": 6115,
-          "title": "Scott Allan in Celtic agree AND dispute with Robbie Neilson over his Bernabei claims - Daily Record",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiaWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvYWxpc3RhaXItam9obnN0b24tdGFrZXMtY2hhcmdlLWNhbmFkYS0yOTQxMjM5M9IBbWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvYWxpc3RhaXItam9obnN0b24tdGFrZXMtY2hhcmdlLWNhbmFkYS0yOTQxMjM5My5hbXA",
-          "author": null,
-          "description": "Alistair Johnston takes charge of Canada pay justice as Celtic star wants questions answered  Daily Record",
-          "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvYWxpc3RhaXItam9obnN0b24tdGFrZXMtY2hhcmdlLWNhbmFkYS0yOTQxMjM5M9IBbWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvYWxpc3RhaXItam9obnN0b24tdGFrZXMtY2hhcmdlLWNhbmFkYS0yOTQxMjM5My5hbXA?oc=5",
-          "publishedOn": "2023-03-09T10:49:51.000Z",
-          "wordCount": 6115,
-          "title": "Alistair Johnston takes charge of Canada pay justice as Celtic star wants questions answered - Daily Record",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvY2VsdGljLXB1bnRlcnMtcXVldWUtb3V0LXdlYnNpdGUtMjk0MTE5MjjSAWhodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL2NlbHRpYy1wdW50ZXJzLXF1ZXVlLW91dC13ZWJzaXRlLTI5NDExOTI4LmFtcA",
-          "author": null,
-          "description": "Celtic punters queue out website as 135th 'origins' anniversary shirt proves instant smash hit  Daily Record",
-          "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvY2VsdGljLXB1bnRlcnMtcXVldWUtb3V0LXdlYnNpdGUtMjk0MTE5MjjSAWhodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL2NlbHRpYy1wdW50ZXJzLXF1ZXVlLW91dC13ZWJzaXRlLTI5NDExOTI4LmFtcA?oc=5",
-          "publishedOn": "2023-03-09T10:31:41.000Z",
-          "wordCount": 6138,
-          "title": "Celtic punters queue out website as 135th 'origins' anniversary shirt proves instant smash hit - Daily Record",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPGh0dHBzOi8vd3d3LmhpYmVybmlhbmZjLmNvLnVrL2FydGljbGUvcHJldmlldy1jZWx0aWMtd29tZW4taNIBAA",
-          "author": null,
-          "description": "Preview: Celtic Women (H)  Hibernian FC",
-          "link": "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmhpYmVybmlhbmZjLmNvLnVrL2FydGljbGUvcHJldmlldy1jZWx0aWMtd29tZW4taNIBAA?oc=5",
-          "publishedOn": "2023-03-09T10:02:08.000Z",
-          "wordCount": 6115,
-          "title": "Preview: Celtic Women (H) - Hibernian FC",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOGh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9jZWx0aWMtZmFucy1jcmFzaC1jbHViLXdlYnNpdGUv0gE8aHR0cHM6Ly9jZWx0c2FyZWhlcmUuY29tL2NlbHRpYy1mYW5zLWNyYXNoLWNsdWItd2Vic2l0ZS9hbXAv",
-          "author": null,
-          "description": "Celtic Fans Crash Club Website | Celts Are Here  CeltsAreHere",
-          "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9jZWx0aWMtZmFucy1jcmFzaC1jbHViLXdlYnNpdGUv0gE8aHR0cHM6Ly9jZWx0c2FyZWhlcmUuY29tL2NlbHRpYy1mYW5zLWNyYXNoLWNsdWItd2Vic2l0ZS9hbXAv?oc=5",
-          "publishedOn": "2023-03-09T09:39:34.000Z",
-          "wordCount": 6115,
-          "title": "Celtic Fans Crash Club Website | Celts Are Here - CeltsAreHere",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -1539,6 +1489,36 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "2daf53e740bbc05b8a0a45edb9089af2",
+          "author": null,
+          "description": "The Celtic playmaker loved being involved in the group stages of Europe’s premier club competition.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23383554.matt-oriley-reveals-champions-league-factor-driving-celtics-form/?ref=rss",
+          "publishedOn": "2023-03-13T22:35:00.000Z",
+          "wordCount": 9079,
+          "title": "Matt O'Riley reveals the Champions League factor driving Celtic's form",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16554411/?type=og-image"
+        },
+        {
+          "id": "022b748448ac91c35b2f279104132993",
+          "author": null,
+          "description": "The final four will play at Hampden on the weekend of April 29/30.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23381189.scottish-cup-semi-final-draw-rangers-meet-celtic-falkirk-play-ict/?ref=rss",
+          "publishedOn": "2023-03-13T22:28:00.000Z",
+          "wordCount": 8507,
+          "title": "Scottish Cup semi-final draw as Rangers meet Celtic & Falkirk play ICT",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16550948/?type=og-image"
+        },
+        {
+          "id": "be8783001a2fbc332e9fb4d216169528",
+          "author": null,
+          "description": "The draw for the last four of the Scottish Cup will be made this evening. It's the semi-final stage next up, with all bar one of the quarter-final ties settled. Falkirk take on Ayr United tonight. We'll have you covered throughout the draw.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23383735.scottish-cup-draw-happened-semi-final-ties-revealed/?ref=rss",
+          "publishedOn": "2023-03-13T20:00:56.000Z",
+          "wordCount": 8150,
+          "title": "Scottish Cup draw as it happened: Semi-final ties revealed",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16553643/?type=og-image"
+        },
         {
           "id": "be8783001a2fbc332e9fb4d216169528",
           "author": null,
@@ -2108,36 +2088,6 @@
           "wordCount": 10010,
           "title": "Daizen Maeda injury latest as Celtic star pictured on crutches",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16540732/?type=og-image"
-        },
-        {
-          "id": "767fa9c1f176630687e194f79c389ab7",
-          "author": null,
-          "description": "Scottish Cup weekend is upon us and holders Celtic face a tough trip to Tynecastle.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23374030.hearts-vs-celtic-live-stream-tv-channel-kick-off-time-team-news/?ref=rss",
-          "publishedOn": "2023-03-09T10:38:16.000Z",
-          "wordCount": 8492,
-          "title": "Hearts vs Celtic: Live stream, TV channel, kick-off time and team news",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16539405/?type=og-image"
-        },
-        {
-          "id": "5eef72cbd5f39fe774001276248725e1",
-          "author": null,
-          "description": "The former Celtic left-back has grown unhappy over his lack of game time at The Emirates so far this season.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23374011.mikel-arteta-confirms-talks-kieran-tierneys-arsenal-future/?ref=rss",
-          "publishedOn": "2023-03-09T10:33:29.000Z",
-          "wordCount": 8400,
-          "title": "Mikel Arteta confirms talks over Kieran Tierney's Arsenal future",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16539325/?type=og-image"
-        },
-        {
-          "id": "0b15ca7cf897b579af881af2555fdbf3",
-          "author": null,
-          "description": "The Jambos boss was left fuming last night after Alexandro Bernabei escaped any form of punishment for a bad tackle on Natty Atkinson.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23373728.robbie-neilson-issues-fresh-celtic-red-card-incident-pop/?ref=rss",
-          "publishedOn": "2023-03-09T09:30:48.000Z",
-          "wordCount": 8531,
-          "title": "Robbie Neilson issues fresh Celtic red card incident pop",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16539016/?type=og-image"
         }
       ]
     }
