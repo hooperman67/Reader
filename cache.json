@@ -6,6 +6,26 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4063560",
+          "author": "Matthew Elder",
+          "description": "Steve Clarke has named his Scotland squad for the opening Euro 2024 qualifiers against Cyprus and Spain at Hampden Park.",
+          "link": "https://www.scotsman.com/sport/football/international/scotland-squad-named-as-key-celtic-rangers-hearts-and-hibs-stars-left-out-for-euro-2024-qualifiers-4063560",
+          "publishedOn": "2023-03-14T11:57:20.000Z",
+          "wordCount": null,
+          "title": "Scotland squad named as key Celtic, Rangers, Hearts and Hibs stars left out for Euro 2024 qualifiers",
+          "imageUrl": null
+        },
+        {
+          "id": "4063509",
+          "author": "Matthew Elder",
+          "description": "Craig Levein has insisted Scottish football could \"grow immeasurably\" if Celtic and Rangers left to join the Premier League in England providing they commit to sharing their wealth with clubs north of the border.",
+          "link": "https://www.scotsman.com/sport/football/celtic/craig-levein-on-why-celtic-and-rangers-should-leave-scottish-football-and-pay-back-ps100m-per-year-4063509",
+          "publishedOn": "2023-03-14T11:41:47.000Z",
+          "wordCount": null,
+          "title": "Craig Levein on why Celtic and Rangers should leave Scottish football and pay back £100m per year",
+          "imageUrl": null
+        },
+        {
           "id": "4061993",
           "author": "Andrew Smith",
           "description": "Those of a Celtic disposition are entitled to feel good about their lot as Ange Postecoglou’s men make faultless progress in the pursuit of a clean sweep of domestic honours.",
@@ -284,16 +304,6 @@
           "wordCount": null,
           "title": "Celtic boss Ange Postecoglou to be on Tottenham Hotspur manager list with 'inevitable' Antonio Conte exit",
           "imageUrl": null
-        },
-        {
-          "id": "4057751",
-          "author": "Joel Sked",
-          "description": "Sead Haksabanovic had it planned. He was going to score. Peeling left into space, he was fed by Alexandro Bernabei. It was then a case of cutting in, away from Nathaniel Atkinson and Orestis Kiomourtzoglou and curling a lovely effort past Zander Clark to make it Celtic 3–1 Hearts.",
-          "link": "https://www.scotsman.com/sport/football/celtic/do-some-players-struggle-sead-haksabanovic-opens-up-on-celtic-game-time-and-pressure-to-win-4057751",
-          "publishedOn": "2023-03-09T22:30:00.000Z",
-          "wordCount": null,
-          "title": "'Do some players struggle?'- Sead Haksabanovic opens up on Celtic game-time and pressure to win",
-          "imageUrl": null
         }
       ]
     },
@@ -302,6 +312,36 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CBMibGh0dHBzOi8vd3d3LnRoZXNjb3R0aXNoc3VuLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsLzEwMzYzNTIyL2NlbHRpYy10cmlhbC1zb3V0aC1hZnJpY2FuLWZhbWlseS1hcHBlYWwtZG9uYXRpb25zL9IBcGh0dHBzOi8vd3d3LnRoZXNjb3R0aXNoc3VuLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsLzEwMzYzNTIyL2NlbHRpYy10cmlhbC1zb3V0aC1hZnJpY2FuLWZhbWlseS1hcHBlYWwtZG9uYXRpb25zL2FtcC8",
+          "author": null,
+          "description": "Celtic offer trial to highly-rated South African as his family appeal for donations to send him for dream...  The Scottish Sun",
+          "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnRoZXNjb3R0aXNoc3VuLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsLzEwMzYzNTIyL2NlbHRpYy10cmlhbC1zb3V0aC1hZnJpY2FuLWZhbWlseS1hcHBlYWwtZG9uYXRpb25zL9IBcGh0dHBzOi8vd3d3LnRoZXNjb3R0aXNoc3VuLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsLzEwMzYzNTIyL2NlbHRpYy10cmlhbC1zb3V0aC1hZnJpY2FuLWZhbWlseS1hcHBlYWwtZG9uYXRpb25zL2FtcC8?oc=5",
+          "publishedOn": "2023-03-14T11:59:46.000Z",
+          "wordCount": 6138,
+          "title": "Celtic offer trial to highly-rated South African as his family appeal for donations to send him for dream... - The Scottish Sun",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiWmh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9vbmUtY2VsdGljLXBsYXllci1uYW1lZC1hbW9uZ3N0LXNjb3RsYW5kLXNxdWFkLXRheWxvci1taXNzZXMtb3V0L9IBXmh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9vbmUtY2VsdGljLXBsYXllci1uYW1lZC1hbW9uZ3N0LXNjb3RsYW5kLXNxdWFkLXRheWxvci1taXNzZXMtb3V0L2FtcC8",
+          "author": null,
+          "description": "One Celtic Player Named Amongst Scotland Squad; Taylor Misses Out | Celts Are Here  CeltsAreHere",
+          "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9vbmUtY2VsdGljLXBsYXllci1uYW1lZC1hbW9uZ3N0LXNjb3RsYW5kLXNxdWFkLXRheWxvci1taXNzZXMtb3V0L9IBXmh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9vbmUtY2VsdGljLXBsYXllci1uYW1lZC1hbW9uZ3N0LXNjb3RsYW5kLXNxdWFkLXRheWxvci1taXNzZXMtb3V0L2FtcC8?oc=5",
+          "publishedOn": "2023-03-14T11:43:25.000Z",
+          "wordCount": 6138,
+          "title": "One Celtic Player Named Amongst Scotland Squad; Taylor Misses Out | Celts Are Here - CeltsAreHere",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMijgFodHRwczovL3RoZWNlbHRpY2Jsb2cuY29tLzIwMjMvMDMvYXJ0aWNsZXMtYW5kLWZlYXR1cmVzL2NlbHRpYy1mYW5zLWJ1aWx0LXRoaXMtY2x1Yi1iZWNhdXNlLXdlLW5ldmVyLWV4cGVjdGVkLWFueW9uZS1lbHNlLXRvLXB1dC11cC10aGUtbW9uZXkv0gGSAWh0dHBzOi8vdGhlY2VsdGljYmxvZy5jb20vMjAyMy8wMy9hcnRpY2xlcy1hbmQtZmVhdHVyZXMvY2VsdGljLWZhbnMtYnVpbHQtdGhpcy1jbHViLWJlY2F1c2Utd2UtbmV2ZXItZXhwZWN0ZWQtYW55b25lLWVsc2UtdG8tcHV0LXVwLXRoZS1tb25leS9hbXAv",
+          "author": null,
+          "description": "Celtic Fans Built This Club. Ibrox Fans Cannot Say That About Theirs.  TheCelticBlog.com",
+          "link": "https://news.google.com/rss/articles/CBMijgFodHRwczovL3RoZWNlbHRpY2Jsb2cuY29tLzIwMjMvMDMvYXJ0aWNsZXMtYW5kLWZlYXR1cmVzL2NlbHRpYy1mYW5zLWJ1aWx0LXRoaXMtY2x1Yi1iZWNhdXNlLXdlLW5ldmVyLWV4cGVjdGVkLWFueW9uZS1lbHNlLXRvLXB1dC11cC10aGUtbW9uZXkv0gGSAWh0dHBzOi8vdGhlY2VsdGljYmxvZy5jb20vMjAyMy8wMy9hcnRpY2xlcy1hbmQtZmVhdHVyZXMvY2VsdGljLWZhbnMtYnVpbHQtdGhpcy1jbHViLWJlY2F1c2Utd2UtbmV2ZXItZXhwZWN0ZWQtYW55b25lLWVsc2UtdG8tcHV0LXVwLXRoZS1tb25leS9hbXAv?oc=5",
+          "publishedOn": "2023-03-14T11:00:00.000Z",
+          "wordCount": 6138,
+          "title": "Celtic Fans Built This Club. Ibrox Fans Cannot Say That About Theirs. - TheCelticBlog.com",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiTGh0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L2NlbHRpYy1zdGFycy1zcG90dGVkLWRpbmluZy1vdXQtMjY0NjU3ODfSAVBodHRwczovL3d3dy5nbGFzZ293bGl2ZS5jby51ay9zcG9ydC9jZWx0aWMtc3RhcnMtc3BvdHRlZC1kaW5pbmctb3V0LTI2NDY1Nzg3LmFtcA",
           "author": null,
@@ -340,6 +380,16 @@
           "publishedOn": "2023-03-13T21:57:50.000Z",
           "wordCount": 6138,
           "title": "Scottish Cup semi-final draw: Rangers to face Celtic, Inverness CT meet Falkirk - Sky Sports",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiTGh0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L3JhbmdlcnMtY2VsdGljLXNldC1zY290dGlzaC1jdXAtMjY0NTg0OTLSAVBodHRwczovL3d3dy5nbGFzZ293bGl2ZS5jby51ay9zcG9ydC9yYW5nZXJzLWNlbHRpYy1zZXQtc2NvdHRpc2gtY3VwLTI2NDU4NDkyLmFtcA",
+          "author": null,
+          "description": "Rangers and Celtic set for Scottish Cup semi-final blockbuster as Inverness and Falkirk in last four  Glasgow Live",
+          "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L3JhbmdlcnMtY2VsdGljLXNldC1zY290dGlzaC1jdXAtMjY0NTg0OTLSAVBodHRwczovL3d3dy5nbGFzZ293bGl2ZS5jby51ay9zcG9ydC9yYW5nZXJzLWNlbHRpYy1zZXQtc2NvdHRpc2gtY3VwLTI2NDU4NDkyLmFtcA?oc=5",
+          "publishedOn": "2023-03-13T21:45:08.000Z",
+          "wordCount": 6138,
+          "title": "Rangers and Celtic set for Scottish Cup semi-final blockbuster as Inverness and Falkirk in last four - Glasgow Live",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -510,6 +560,16 @@
           "publishedOn": "2023-03-13T11:11:16.000Z",
           "wordCount": 6138,
           "title": "SWPL round up: Glasgow City, Celtic, Rangers, Motherwell, Hearts and Partick Thistle win - Sky Sports",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMigAFodHRwczovL3RoZWNlbHRpY2Jsb2cuY29tLzIwMjMvMDMvYXJ0aWNsZXMtYW5kLWZlYXR1cmVzL21vb3ktaXMtYS10cmVtZW5kb3VzLWNlbHRpYy1wbGF5ZXItaXRzLWFtYXppbmctdGhhdC13ZS1nb3QtaGltLWZvci1mcmVlL9IBhAFodHRwczovL3RoZWNlbHRpY2Jsb2cuY29tLzIwMjMvMDMvYXJ0aWNsZXMtYW5kLWZlYXR1cmVzL21vb3ktaXMtYS10cmVtZW5kb3VzLWNlbHRpYy1wbGF5ZXItaXRzLWFtYXppbmctdGhhdC13ZS1nb3QtaGltLWZvci1mcmVlL2FtcC8",
+          "author": null,
+          "description": "Mooy Is A Tremendous Celtic Player. It’s Amazing That We Got Him For Free.  TheCelticBlog.com",
+          "link": "https://news.google.com/rss/articles/CBMigAFodHRwczovL3RoZWNlbHRpY2Jsb2cuY29tLzIwMjMvMDMvYXJ0aWNsZXMtYW5kLWZlYXR1cmVzL21vb3ktaXMtYS10cmVtZW5kb3VzLWNlbHRpYy1wbGF5ZXItaXRzLWFtYXppbmctdGhhdC13ZS1nb3QtaGltLWZvci1mcmVlL9IBhAFodHRwczovL3RoZWNlbHRpY2Jsb2cuY29tLzIwMjMvMDMvYXJ0aWNsZXMtYW5kLWZlYXR1cmVzL21vb3ktaXMtYS10cmVtZW5kb3VzLWNlbHRpYy1wbGF5ZXItaXRzLWFtYXppbmctdGhhdC13ZS1nb3QtaGltLWZvci1mcmVlL2FtcC8?oc=5",
+          "publishedOn": "2023-03-13T11:00:00.000Z",
+          "wordCount": 6138,
+          "title": "Mooy Is A Tremendous Celtic Player. It’s Amazing That We Got Him For Free. - TheCelticBlog.com",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -1331,36 +1391,6 @@
           "wordCount": 6138,
           "title": "Celtic and Reading FC Director of Football takes role in Israel - Reading Chronicle",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMibGh0dHBzOi8vd3d3LnRoZXNjb3R0aXNoc3VuLmNvLnVrL2NvbXBldGl0aW9ucy8xMDMzOTM4MS93aW4tY2VsdGljLXNvY2Nlci1hY2FkZW15LXNraWxscy1zY2hvb2wtc2NvdHRpc2gtc3VuL9IBcGh0dHBzOi8vd3d3LnRoZXNjb3R0aXNoc3VuLmNvLnVrL2NvbXBldGl0aW9ucy8xMDMzOTM4MS93aW4tY2VsdGljLXNvY2Nlci1hY2FkZW15LXNraWxscy1zY2hvb2wtc2NvdHRpc2gtc3VuL2FtcC8",
-          "author": null,
-          "description": "Win a place at one of the Celtic Soccer Academy’s Skills Schools with The Scottish Sun this Easter...  The Scottish Sun",
-          "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnRoZXNjb3R0aXNoc3VuLmNvLnVrL2NvbXBldGl0aW9ucy8xMDMzOTM4MS93aW4tY2VsdGljLXNvY2Nlci1hY2FkZW15LXNraWxscy1zY2hvb2wtc2NvdHRpc2gtc3VuL9IBcGh0dHBzOi8vd3d3LnRoZXNjb3R0aXNoc3VuLmNvLnVrL2NvbXBldGl0aW9ucy8xMDMzOTM4MS93aW4tY2VsdGljLXNvY2Nlci1hY2FkZW15LXNraWxscy1zY2hvb2wtc2NvdHRpc2gtc3VuL2FtcC8?oc=5",
-          "publishedOn": "2023-03-10T00:00:00.000Z",
-          "wordCount": 6138,
-          "title": "Win a place at one of the Celtic Soccer Academy’s Skills Schools with The Scottish Sun this Easter... - The Scottish Sun",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiHmh0dHBzOi8vd3d3LmNlbHRpY2ZjLmNvbS9tYXRjaNIBAA",
-          "author": null,
-          "description": "Celtic FC Score | Celtic - Heart of Midlothian | 8 Mar 2023 | Official ...  Official Celtic Football Club Website",
-          "link": "https://news.google.com/rss/articles/CBMiHmh0dHBzOi8vd3d3LmNlbHRpY2ZjLmNvbS9tYXRjaNIBAA?oc=5",
-          "publishedOn": "2023-03-09T22:54:48.000Z",
-          "wordCount": 6138,
-          "title": "Celtic FC Score | Celtic - Heart of Midlothian | 8 Mar 2023 | Official ... - Official Celtic Football Club Website",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMib2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLXRyYW5zZmVyLW5ld3MvYXJkb24tamFzaGFyaS1wdXRzLWNlbHRpYy10cmFuc2Zlci0yOTQxOTM2MdIBc2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLXRyYW5zZmVyLW5ld3MvYXJkb24tamFzaGFyaS1wdXRzLWNlbHRpYy10cmFuc2Zlci0yOTQxOTM2MS5hbXA",
-          "author": null,
-          "description": "Ardon Jashari puts Celtic on transfer alert as he sets Champions League focus  Daily Record",
-          "link": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLXRyYW5zZmVyLW5ld3MvYXJkb24tamFzaGFyaS1wdXRzLWNlbHRpYy10cmFuc2Zlci0yOTQxOTM2MdIBc2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLXRyYW5zZmVyLW5ld3MvYXJkb24tamFzaGFyaS1wdXRzLWNlbHRpYy10cmFuc2Zlci0yOTQxOTM2MS5hbXA?oc=5",
-          "publishedOn": "2023-03-09T21:35:28.000Z",
-          "wordCount": 6138,
-          "title": "Ardon Jashari puts Celtic on transfer alert as he sets Champions League focus - Daily Record",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -1369,6 +1399,26 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "c9a8749e24b994b7d53861c7bcc03e34",
+          "author": null,
+          "description": "The ex-Hoops forward was worried when the Australian first made the move to Glasgow.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23384562.former-celtic-star-highlights-key-ange-postecoglou-mindset-factor/?ref=rss",
+          "publishedOn": "2023-03-14T11:09:00.000Z",
+          "wordCount": 8510,
+          "title": "Former Celtic star highlights key Ange Postecoglou mindset factor",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16555761/?type=og-image"
+        },
+        {
+          "id": "b6b81982712bc5b28a5651e1f72c0839",
+          "author": null,
+          "description": "The former Hoops striker rates the Australian highly.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23384481.celtic-hero-makes-ange-postecoglou-sir-alex-ferguson-comparison/?ref=rss",
+          "publishedOn": "2023-03-14T10:43:16.000Z",
+          "wordCount": 8513,
+          "title": "Celtic hero makes Ange Postecoglou and Sir Alex Ferguson comparison",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16555590/?type=og-image"
+        },
         {
           "id": "667c3951b55869d3519ec6693a45953a",
           "author": null,
@@ -1888,26 +1938,6 @@
           "wordCount": 8427,
           "title": "Celtic Jashari transfer alert with Champions League desire outlined",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16543064/?type=og-image"
-        },
-        {
-          "id": "0559cacdf94ae71bed7b023b937dd64a",
-          "author": null,
-          "description": "Despite a lack of game time, Ange Postecoglou has hailed the contribution of winger Sead Haksabanovic in his Celtic squad.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23374512.ange-postecoglou-details-haksabanovic-key-celtic-role-injuries/?ref=rss",
-          "publishedOn": "2023-03-09T22:30:00.000Z",
-          "wordCount": 8812,
-          "title": "Ange Postecoglou details Haksabanovic key Celtic role after injuries",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16540198/?type=og-image"
-        },
-        {
-          "id": "a0c04f370c1658ebd94ab904904e9bbb",
-          "author": null,
-          "description": "Ange Postecoglou has been coy on his side's chances of writing themselves into the history books with a clean sweep of Scotland's three trophies.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23374576.sead-haksabanovic-eyes-celtic-treble-bolster-medal-collection/?ref=rss",
-          "publishedOn": "2023-03-09T22:30:00.000Z",
-          "wordCount": 8953,
-          "title": "Sead Haksabanovic eyes Celtic Treble to bolster to medal collection",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16540309/?type=og-image"
         }
       ]
     }
