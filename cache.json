@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4066732",
+          "author": "Matthew Elder",
+          "description": "Celtic and Rangers will know whether Falkirk or Inverness await them in the Scottish Cup final before they kick-off their semi-final clash at Hampden next month.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtic-v-rangers-set-for-sunday-as-scottish-cup-semi-final-dates-and-kick-off-times-confirmed-4066732",
+          "publishedOn": "2023-03-16T11:17:45.000Z",
+          "wordCount": null,
+          "title": "Celtic v Rangers set for Sunday as Scottish Cup semi-final dates and kick-off times confirmed",
+          "imageUrl": null
+        },
+        {
           "id": "4066226",
           "author": "Matthew Elder",
           "description": "Chasing trophies and playing Champions League football with Celtic is a far cry from Ange Postecoglou's humble beginnings coaching in Australia's lower leagues.",
@@ -154,36 +164,6 @@
           "wordCount": null,
           "title": "Hearts-Celtic reaction: The pyro banner, noxious songs, which Celt gets POTY and Jambos doubts",
           "imageUrl": null
-        },
-        {
-          "id": "4060581",
-          "author": "Andrew Smith",
-          "description": "A whole new frontier opened up for Oh Hyeon-gyu when he moved to Celtic from his Korean homeland in January.",
-          "link": "https://www.scotsman.com/sport/football/celtic/oh-hyeon-gyu-thrilled-at-prospect-of-celtic-going-to-korea-to-play-trio-of-giants-4060581",
-          "publishedOn": "2023-03-11T22:30:00.000Z",
-          "wordCount": null,
-          "title": "Oh Hyeon-gyu thrilled at prospect of Celtic going to Korea to play trio of giants",
-          "imageUrl": null
-        },
-        {
-          "id": "4060540",
-          "author": "Andrew Smith",
-          "description": "Celtic’s Aaron Mooy doesn’t care to get ahead of himself in contemplating what could be brewing in his first season at the club.",
-          "link": "https://www.scotsman.com/sport/football/celtic/celtics-aaron-mooy-explains-what-makes-his-coffee-taste-better-in-the-morning-4060540",
-          "publishedOn": "2023-03-11T22:30:00.000Z",
-          "wordCount": null,
-          "title": "Celtic's Aaron Mooy explains 'what makes his coffee taste better in the morning'",
-          "imageUrl": null
-        },
-        {
-          "id": "4060289",
-          "author": "Andrew Smith",
-          "description": "The Scottish Cup’s importance to Michael Beale and Rangers goes beyond a salvage operation for the season, and an opportunity for the Englishman to earn buy-in from the club’s fanbase with a first trophy as a frontline manager.",
-          "link": "https://www.scotsman.com/sport/football/rangers/we-play-for-rangers-there-are-things-on-the-wall-michael-beale-on-celtic-tussle-for-all-time-trophy-supremacy-4060289",
-          "publishedOn": "2023-03-11T22:30:00.000Z",
-          "wordCount": null,
-          "title": "'We play for Rangers, there are things on the wall' - Michael Beale on Celtic tussle for all-time trophy supremacy",
-          "imageUrl": null
         }
       ]
     },
@@ -193,43 +173,33 @@
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
         {
-          "id": "CBMiXmh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zY290dGlzaC1wcmVtaWVyc2hpcC9jZWx0aWMtc3Rhci1vaC1oeWVvbi1neXUtMjY0ODQxMzDSAWJodHRwczovL3d3dy5mb290YmFsbHNjb3RsYW5kLmNvLnVrL3NwZmwvc2NvdHRpc2gtcHJlbWllcnNoaXAvY2VsdGljLXN0YXItb2gtaHllb24tZ3l1LTI2NDg0MTMwLmFtcA",
+          "id": "CBMiX2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2xvY2FsLXNwb3J0L3JhbmdlcnMtY2VsdGljLWRyaXZpbmctZWFjaC1yZWxlbnRsZXNzLTI5NDcxNTQ30gFjaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvbG9jYWwtc3BvcnQvcmFuZ2Vycy1jZWx0aWMtZHJpdmluZy1lYWNoLXJlbGVudGxlc3MtMjk0NzE1NDcuYW1w",
           "author": null,
-          "description": "Celtic star Oh Hyeon gyu earns Son Heung-min status level as South Korean broadcaster makes Hoops decision  Football Scotland",
-          "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zY290dGlzaC1wcmVtaWVyc2hpcC9jZWx0aWMtc3Rhci1vaC1oeWVvbi1neXUtMjY0ODQxMzDSAWJodHRwczovL3d3dy5mb290YmFsbHNjb3RsYW5kLmNvLnVrL3NwZmwvc2NvdHRpc2gtcHJlbWllcnNoaXAvY2VsdGljLXN0YXItb2gtaHllb24tZ3l1LTI2NDg0MTMwLmFtcA?oc=5",
-          "publishedOn": "2023-03-16T08:20:35.000Z",
+          "description": "'Well boss: Gers and Celts driving each other's form, but we should embrace test  Daily Record",
+          "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2xvY2FsLXNwb3J0L3JhbmdlcnMtY2VsdGljLWRyaXZpbmctZWFjaC1yZWxlbnRsZXNzLTI5NDcxNTQ30gFjaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvbG9jYWwtc3BvcnQvcmFuZ2Vycy1jZWx0aWMtZHJpdmluZy1lYWNoLXJlbGVudGxlc3MtMjk0NzE1NDcuYW1w?oc=5",
+          "publishedOn": "2023-03-16T10:32:13.000Z",
           "wordCount": 6159,
-          "title": "Celtic star Oh Hyeon gyu earns Son Heung-min status level as South Korean broadcaster makes Hoops decision - Football Scotland",
+          "title": "'Well boss: Gers and Celts driving each other's form, but we should embrace test - Daily Record",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
-          "id": "CBMiRmh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vcGhvdG8tb2YtdGhlLWRheS1iYW5uZXJzLWFnYWluc3QtbWFuLXVuaXRlZC_SAUpodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL3Bob3RvLW9mLXRoZS1kYXktYmFubmVycy1hZ2FpbnN0LW1hbi11bml0ZWQvYW1wLw",
+          "id": "CBMiWWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2phbWVzLXNhbmRzLWV4cGxhaW5zLXJhbmdlcnMtY2VsdGljLTI5NDcxNDM40gFdaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvamFtZXMtc2FuZHMtZXhwbGFpbnMtcmFuZ2Vycy1jZWx0aWMtMjk0NzE0MzguYW1w",
           "author": null,
-          "description": "Photo Of The Day: Banners Against Man United  The Celtic Star",
-          "link": "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vcGhvdG8tb2YtdGhlLWRheS1iYW5uZXJzLWFnYWluc3QtbWFuLXVuaXRlZC_SAUpodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL3Bob3RvLW9mLXRoZS1kYXktYmFubmVycy1hZ2FpbnN0LW1hbi11bml0ZWQvYW1wLw?oc=5",
-          "publishedOn": "2023-03-16T07:45:38.000Z",
+          "description": "James Sands explains infamous Rangers and Celtic post derby dinner snap  Daily Record",
+          "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2phbWVzLXNhbmRzLWV4cGxhaW5zLXJhbmdlcnMtY2VsdGljLTI5NDcxNDM40gFdaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvamFtZXMtc2FuZHMtZXhwbGFpbnMtcmFuZ2Vycy1jZWx0aWMtMjk0NzE0MzguYW1w?oc=5",
+          "publishedOn": "2023-03-16T08:48:04.000Z",
           "wordCount": 6159,
-          "title": "Photo Of The Day: Banners Against Man United - The Celtic Star",
+          "title": "James Sands explains infamous Rangers and Celtic post derby dinner snap - Daily Record",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
-          "id": "CBMiMGh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9nb29kLW5ld3MtZm9yLW9uZS1jZWx0L9IBNGh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9nb29kLW5ld3MtZm9yLW9uZS1jZWx0L2FtcC8",
+          "id": "CBMiZ2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvYmFycnktcm9ic29uLXRocmlsbGVkLWFiZXJkZWVuLWJvc3MtMjk0Njk2NDnSAWtodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL2JhcnJ5LXJvYnNvbi10aHJpbGxlZC1hYmVyZGVlbi1ib3NzLTI5NDY5NjQ5LmFtcA",
           "author": null,
-          "description": "Good News For One Celt | Celts Are Here  CeltsAreHere",
-          "link": "https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9nb29kLW5ld3MtZm9yLW9uZS1jZWx0L9IBNGh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9nb29kLW5ld3MtZm9yLW9uZS1jZWx0L2FtcC8?oc=5",
-          "publishedOn": "2023-03-16T07:35:00.000Z",
-          "wordCount": 6159,
-          "title": "Good News For One Celt | Celts Are Here - CeltsAreHere",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiaGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvaGlicy1yZWNvcmQtY2VsdGljLWVtYmFycmFzc2luZy1sYWNrLTI5NDY2MjIy0gFsaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvZm9vdGJhbGwtbmV3cy9oaWJzLXJlY29yZC1jZWx0aWMtZW1iYXJyYXNzaW5nLWxhY2stMjk0NjYyMjIuYW1w",
-          "author": null,
-          "description": "The Hibs record at Celtic is embarrassing but lack of youngsters is more damning – Tam McManus  Daily Record",
-          "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvaGlicy1yZWNvcmQtY2VsdGljLWVtYmFycmFzc2luZy1sYWNrLTI5NDY2MjIy0gFsaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvZm9vdGJhbGwtbmV3cy9oaWJzLXJlY29yZC1jZWx0aWMtZW1iYXJyYXNzaW5nLWxhY2stMjk0NjYyMjIuYW1w?oc=5",
+          "description": "Barry Robson thrilled with Aberdeen boss backing from Scott Brown as he thanks old Celtic pal  Daily Record\nScott Brown reveals ultimate Celtic five-a-side team and best manager he worked under at Parkhead  Football Scotland\nScott Brown names Liverpool and Arsenal defenders in dream five-a-side team  The Celtic Star",
+          "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvYmFycnktcm9ic29uLXRocmlsbGVkLWFiZXJkZWVuLWJvc3MtMjk0Njk2NDnSAWtodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL2JhcnJ5LXJvYnNvbi10aHJpbGxlZC1hYmVyZGVlbi1ib3NzLTI5NDY5NjQ5LmFtcA?oc=5",
           "publishedOn": "2023-03-16T06:00:00.000Z",
           "wordCount": 6159,
-          "title": "The Hibs record at Celtic is embarrassing but lack of youngsters is more damning – Tam McManus - Daily Record",
+          "title": "Barry Robson thrilled with Aberdeen boss backing from Scott Brown as he thanks old Celtic pal - Daily Record",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -260,6 +230,16 @@
           "publishedOn": "2023-03-15T22:30:00.000Z",
           "wordCount": 6159,
           "title": "Celtic's Ange Postecoglou on earning his stripes with the Zebras 'at ... - The Scotsman",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZmh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zY290dGlzaC1wcmVtaWVyc2hpcC9oZWFydHMtc3Rhci1iYWNrcy1jZWx0aWMtcmFuZ2Vycy0yNjQ4MzEzMdIBamh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zY290dGlzaC1wcmVtaWVyc2hpcC9oZWFydHMtc3Rhci1iYWNrcy1jZWx0aWMtcmFuZ2Vycy0yNjQ4MzEzMS5hbXA",
+          "author": null,
+          "description": "Hearts star backs Celtic and Rangers' English credentials amid strong Scottish football defence  Football Scotland\nRangers draw Celtic in Scottish Cup semi final as Ange Postecoglou gets chance for revenge  Daily Record\nRangers vs Celtic Scottish Cup semi-final date and kick-off time confirmed ahead of Hampden showdown  Football Scotland",
+          "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zY290dGlzaC1wcmVtaWVyc2hpcC9oZWFydHMtc3Rhci1iYWNrcy1jZWx0aWMtcmFuZ2Vycy0yNjQ4MzEzMdIBamh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zY290dGlzaC1wcmVtaWVyc2hpcC9oZWFydHMtc3Rhci1iYWNrcy1jZWx0aWMtcmFuZ2Vycy0yNjQ4MzEzMS5hbXA?oc=5",
+          "publishedOn": "2023-03-15T22:03:46.000Z",
+          "wordCount": 6159,
+          "title": "Hearts star backs Celtic and Rangers' English credentials amid strong Scottish football defence - Football Scotland",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -300,6 +280,16 @@
           "publishedOn": "2023-03-15T16:51:40.000Z",
           "wordCount": 6159,
           "title": "‘Good times’ – Celtic legend Scott Brown posts brilliant throwback Cheltenham pic with 6 old Hoops pals... - The Scottish Sun",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiYWh0dHBzOi8vd3d3LmNlbHRpY2ZjLmNvbS9uZXdzLzIwMjMvbWFyY2gvMTUvY2VsdGljLXZpZXctc2VyaWVzLS10aGUtNjAwLWNsdWItcGFydC0zLS1hbGVjLW1jbmFpci_SAQA",
+          "author": null,
+          "description": "Celtic View series: The 600 Club Part 3: Alec McNair  Official Celtic Football Club Website",
+          "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmNlbHRpY2ZjLmNvbS9uZXdzLzIwMjMvbWFyY2gvMTUvY2VsdGljLXZpZXctc2VyaWVzLS10aGUtNjAwLWNsdWItcGFydC0zLS1hbGVjLW1jbmFpci_SAQA?oc=5",
+          "publishedOn": "2023-03-15T16:43:43.000Z",
+          "wordCount": 6159,
+          "title": "Celtic View series: The 600 Club Part 3: Alec McNair - Official Celtic Football Club Website",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -1391,46 +1381,6 @@
           "wordCount": 6138,
           "title": "Representing Liverpool and Celtic stars was great, but Motherwell No.2 role was too good to turn down - Daily Record",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiamh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvaHllb25neXUtb2gtcmVsaXNoaW5nLWNlbHRpYy1jaGFtcGlvbnMtMjk0MzI5MzbSAW5odHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL2h5ZW9uZ3l1LW9oLXJlbGlzaGluZy1jZWx0aWMtY2hhbXBpb25zLTI5NDMyOTM2LmFtcA",
-          "author": null,
-          "description": "Hyeongyu Oh relishing Celtic Champions League test as he craves crack at Karim Benzema and co  Daily Record",
-          "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvaHllb25neXUtb2gtcmVsaXNoaW5nLWNlbHRpYy1jaGFtcGlvbnMtMjk0MzI5MzbSAW5odHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL2h5ZW9uZ3l1LW9oLXJlbGlzaGluZy1jZWx0aWMtY2hhbXBpb25zLTI5NDMyOTM2LmFtcA?oc=5",
-          "publishedOn": "2023-03-11T22:30:00.000Z",
-          "wordCount": 6138,
-          "title": "Hyeongyu Oh relishing Celtic Champions League test as he craves crack at Karim Benzema and co - Daily Record",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiO2h0dHBzOi8va2lsbWFybm9ja2ZjLmNvLnVrL25ld3MvZml4dHVyZS1hbWVuZG1lbnQtY2VsdGljLWgv0gEA",
-          "author": null,
-          "description": "Fixture amendment | Celtic (H) - Kilmarnock FC  Kilmarnock FC",
-          "link": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8va2lsbWFybm9ja2ZjLmNvLnVrL25ld3MvZml4dHVyZS1hbWVuZG1lbnQtY2VsdGljLWgv0gEA?oc=5",
-          "publishedOn": "2023-03-11T21:59:09.000Z",
-          "wordCount": 6138,
-          "title": "Fixture amendment | Celtic (H) - Kilmarnock FC - Kilmarnock FC",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiUWh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9qb3RhLXNlbmRzLWNlbHRpYy1mYW5zLXNhdHVyZGF5LW5pZ2h0LWluc3RhZ3JhbS1tZXNzYWdlL9IBmgFodHRwczovL2NlbHRzYXJlaGVyZS5jb20vam90YS1zZW5kcy1jZWx0aWMtZmFucy1zYXR1cmRheS1uaWdodC1pbnN0YWdyYW0tbWVzc2FnZS9hbXAvP2ZiY2xpZD1Jd0FSM05MQWV4ODV1cnFjb3ItdHlzSU83NElGX3hVdlBUOHU5TlhuTFd3WjNyWWJORFRJUHFjT1duYi1j",
-          "author": null,
-          "description": "Jota Sends Celtic Fans Saturday Night Instagram Message | Celts Are Here  CeltsAreHere",
-          "link": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9qb3RhLXNlbmRzLWNlbHRpYy1mYW5zLXNhdHVyZGF5LW5pZ2h0LWluc3RhZ3JhbS1tZXNzYWdlL9IBmgFodHRwczovL2NlbHRzYXJlaGVyZS5jb20vam90YS1zZW5kcy1jZWx0aWMtZmFucy1zYXR1cmRheS1uaWdodC1pbnN0YWdyYW0tbWVzc2FnZS9hbXAvP2ZiY2xpZD1Jd0FSM05MQWV4ODV1cnFjb3ItdHlzSU83NElGX3hVdlBUOHU5TlhuTFd3WjNyWWJORFRJUHFjT1duYi1j?oc=5",
-          "publishedOn": "2023-03-11T21:53:47.000Z",
-          "wordCount": 6138,
-          "title": "Jota Sends Celtic Fans Saturday Night Instagram Message | Celts Are Here - CeltsAreHere",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiUWh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9qb3RhLXNlbmRzLWNlbHRpYy1mYW5zLXNhdHVyZGF5LW5pZ2h0LWluc3RhZ3JhbS1tZXNzYWdlL9IBVWh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9qb3RhLXNlbmRzLWNlbHRpYy1mYW5zLXNhdHVyZGF5LW5pZ2h0LWluc3RhZ3JhbS1tZXNzYWdlL2FtcC8",
-          "author": null,
-          "description": "Jota Sends Celtic Fans Saturday Night Instagram Message | Celts Are Here  CeltsAreHere",
-          "link": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9qb3RhLXNlbmRzLWNlbHRpYy1mYW5zLXNhdHVyZGF5LW5pZ2h0LWluc3RhZ3JhbS1tZXNzYWdlL9IBVWh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9qb3RhLXNlbmRzLWNlbHRpYy1mYW5zLXNhdHVyZGF5LW5pZ2h0LWluc3RhZ3JhbS1tZXNzYWdlL2FtcC8?oc=5",
-          "publishedOn": "2023-03-11T21:53:47.000Z",
-          "wordCount": 6138,
-          "title": "Jota Sends Celtic Fans Saturday Night Instagram Message | Celts Are Here - CeltsAreHere",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -1440,12 +1390,42 @@
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
         {
+          "id": "d73fde6b17da281f810b1ad5ad944e2f",
+          "author": null,
+          "description": "Starfelt was included for Sweden's Euro 2024's double header qualifiers against Belgium and Azerbaijan this week.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23390569.celtic-injury-boost-sweden-boss-offers-positive-starfelt-update/?ref=rss",
+          "publishedOn": "2023-03-16T11:20:36.000Z",
+          "wordCount": 8361,
+          "title": "Celtic injury boost as Sweden boss offers positive Starfelt update",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16564390/?type=og-image"
+        },
+        {
+          "id": "3ca034e7dd188903887515400007bf7a",
+          "author": null,
+          "description": "Organisers announced the details for the semi-finals between Rangers and Celtic and Falkirk and Inverness.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23390523.rangers-vs-celtic-scottish-cup-semi-final-details-confirmed/?ref=rss",
+          "publishedOn": "2023-03-16T11:11:33.000Z",
+          "wordCount": 9933,
+          "title": "Rangers vs Celtic Scottish Cup semi-final details confirmed",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16550948/?type=og-image"
+        },
+        {
+          "id": "9470584923d5ddab28682cce00acd26b",
+          "author": null,
+          "description": "He remembers one game at Parkhead fondly.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23390478.liverpool-defender-andy-robertson-names-favourite-celtic-game/?ref=rss",
+          "publishedOn": "2023-03-16T11:01:04.000Z",
+          "wordCount": 8457,
+          "title": "Liverpool defender Andy Robertson names favourite Celtic game",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16564329/?type=og-image"
+        },
+        {
           "id": "55f14840767c4920d1f213a2ecdd2fd9",
           "author": null,
           "description": "The full-back has reportedly been struggling with a lower leg knock.",
           "link": "https://www.glasgowtimes.co.uk/sport/23389969.taylor-playing-pain-celtic-scotland-absence-explained/?ref=rss",
           "publishedOn": "2023-03-16T08:23:16.000Z",
-          "wordCount": 9786,
+          "wordCount": 8461,
           "title": "Taylor 'playing through pain' for Celtic as Scotland absence explained",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16563737/?type=og-image"
         },
@@ -1455,7 +1435,7 @@
           "description": "The UEFA president insists \"nobody cares\" about the new Super League 2.0 plans as he vowed to protect football.",
           "link": "https://www.glasgowtimes.co.uk/sport/23389944.alexander-ceferin-offers-celtic-rangers-champions-league-assurance/?ref=rss",
           "publishedOn": "2023-03-16T08:02:06.000Z",
-          "wordCount": 9817,
+          "wordCount": 8550,
           "title": "Alexander Ceferin offers Celtic and Rangers Champions League assurance",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16563670/?type=og-image"
         },
@@ -1998,16 +1978,6 @@
           "wordCount": 8757,
           "title": "Cammy Devlin lifts lid on admiration for Celtic's Aaron Mooy",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16548762/?type=og-image"
-        },
-        {
-          "id": "32a8df79478110f394ea07ceb0007fd8",
-          "author": null,
-          "description": "The midfielder strolled it once again on Saturday as Celtic booked their Scottish Cup semi-final slot with a victory over Hearts.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23379936.aaron-mooy-taking-in-celtic-message-latest-masterclass/?ref=rss",
-          "publishedOn": "2023-03-11T22:30:00.000Z",
-          "wordCount": 8448,
-          "title": "Aaron Mooy 'taking it all in' Celtic message after latest masterclass",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16548794/?type=og-image"
         }
       ]
     }
