@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-03-16T12:37:58.978Z</updated>
+    <updated>2023-03-16T15:21:04.935Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ex-Celtic star Edouard issued Crystal Palace 'mindset' warning by boss]]></title>
+        <id>96626d8f94d09822d9e779ea46718a4a</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23391353.ex-celtic-star-edouard-issued-crystal-palace-mindset-warning-boss/?ref=rss"/>
+        <updated>2023-03-16T14:16:19.000Z</updated>
+        <summary type="html"><![CDATA[He is going through a tough spell down south.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic's Johnston named in first Ireland squad after Scotland move]]></title>
+        <id>26dd532e91f2e61915c83399958522eb</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23391277.mikey-johnston-named-first-ireland-squad-scotland-move/?ref=rss"/>
+        <updated>2023-03-16T13:52:00.000Z</updated>
+        <summary type="html"><![CDATA[The 23-year-old made the transition earlier this month.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Patsy Gallacher: One of Celtic's finest ever players - Official Celtic Football Club Website]]></title>
+        <id>CBMiYWh0dHBzOi8vd3d3LmNlbHRpY2ZjLmNvbS9uZXdzLzIwMjMvbWFyY2gvMTYvcGF0c3ktZ2FsbGFjaGVyLS1vbmUtb2YtY2VsdGljLXMtZmluZXN0LWV2ZXItcGxheWVycy_SAQA</id>
+        <link href="https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmNlbHRpY2ZjLmNvbS9uZXdzLzIwMjMvbWFyY2gvMTYvcGF0c3ktZ2FsbGFjaGVyLS1vbmUtb2YtY2VsdGljLXMtZmluZXN0LWV2ZXItcGxheWVycy_SAQA?oc=5"/>
+        <updated>2023-03-16T12:53:39.000Z</updated>
+        <summary type="html"><![CDATA[Patsy Gallacher: One of Celtic's finest ever players  Official Celtic Football Club Website]]></summary>
+        <author>
+            <name>"celtic fc" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fans react as Rangers vs Celtic and Falkirk vs Inverness Scottish Cup semi-final ticket prices confirmed - Football Scotland]]></title>
+        <id>CBMiYmh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zY290dGlzaC1wcmVtaWVyc2hpcC9mYW5zLXJlYWN0LXJhbmdlcnMtdnMtY2VsdGljLTI2NDg2NzUx0gFmaHR0cHM6Ly93d3cuZm9vdGJhbGxzY290bGFuZC5jby51ay9zcGZsL3Njb3R0aXNoLXByZW1pZXJzaGlwL2ZhbnMtcmVhY3QtcmFuZ2Vycy12cy1jZWx0aWMtMjY0ODY3NTEuYW1w</id>
+        <link href="https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zY290dGlzaC1wcmVtaWVyc2hpcC9mYW5zLXJlYWN0LXJhbmdlcnMtdnMtY2VsdGljLTI2NDg2NzUx0gFmaHR0cHM6Ly93d3cuZm9vdGJhbGxzY290bGFuZC5jby51ay9zcGZsL3Njb3R0aXNoLXByZW1pZXJzaGlwL2ZhbnMtcmVhY3QtcmFuZ2Vycy12cy1jZWx0aWMtMjY0ODY3NTEuYW1w?oc=5"/>
+        <updated>2023-03-16T12:41:26.000Z</updated>
+        <summary type="html"><![CDATA[Fans react as Rangers vs Celtic and Falkirk vs Inverness Scottish Cup semi-final ticket prices confirmed  Football Scotland
+Rangers v Celtic Scottish Cup semi-final date and time confirmed with TV choices made  Scottish Daily Express
+Rangers trophy maths leaves Celtic hero bemused as Michael Beale 'pressure' debate sparks on air pundit spat  Daily Record]]></summary>
+        <author>
+            <name>"celtic fc" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Callum McGregor on emotions of dramatic Celtic v Rangers youth battles]]></title>
+        <id>f39877e543c8b9ce823d667cf72c834c</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23390799.callum-mcgregor-emotions-dramatic-celtic-v-rangers-youth-battles/?ref=rss"/>
+        <updated>2023-03-16T12:09:00.000Z</updated>
+        <summary type="html"><![CDATA[The Scotland international detailed his early days at the club.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic injury boost as Sweden boss offers positive Starfelt update]]></title>
         <id>d73fde6b17da281f810b1ad5ad944e2f</id>
@@ -37,6 +89,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Rangers vs Celtic Scottish Cup semi final date revealed as Inverness and Falkirk get Saturday Hampden slot - Daily Record]]></title>
+        <id>CBMiVGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL3JhbmdlcnMtdnMtY2VsdGljLXNjb3R0aXNoLWN1cC0yOTQ1MzIwNtIBWGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL3JhbmdlcnMtdnMtY2VsdGljLXNjb3R0aXNoLWN1cC0yOTQ1MzIwNi5hbXA</id>
+        <link href="https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL3JhbmdlcnMtdnMtY2VsdGljLXNjb3R0aXNoLWN1cC0yOTQ1MzIwNtIBWGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL3JhbmdlcnMtdnMtY2VsdGljLXNjb3R0aXNoLWN1cC0yOTQ1MzIwNi5hbXA?oc=5"/>
+        <updated>2023-03-16T11:03:45.000Z</updated>
+        <summary type="html"><![CDATA[Rangers vs Celtic Scottish Cup semi final date revealed as Inverness and Falkirk get Saturday Hampden slot  Daily Record]]></summary>
+        <author>
+            <name>"celtic fc" - Google News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Liverpool defender Andy Robertson names favourite Celtic game]]></title>
         <id>9470584923d5ddab28682cce00acd26b</id>
         <link href="https://www.glasgowtimes.co.uk/sport/23390478.liverpool-defender-andy-robertson-names-favourite-celtic-game/?ref=rss"/>
@@ -52,6 +114,16 @@
         <link href="https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2xvY2FsLXNwb3J0L3JhbmdlcnMtY2VsdGljLWRyaXZpbmctZWFjaC1yZWxlbnRsZXNzLTI5NDcxNTQ30gFjaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvbG9jYWwtc3BvcnQvcmFuZ2Vycy1jZWx0aWMtZHJpdmluZy1lYWNoLXJlbGVudGxlc3MtMjk0NzE1NDcuYW1w?oc=5"/>
         <updated>2023-03-16T10:32:13.000Z</updated>
         <summary type="html"><![CDATA['Well boss: Gers and Celts driving each other's form, but we should embrace test  Daily Record]]></summary>
+        <author>
+            <name>"celtic fc" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[James Sands lifts lid on Rangers and Celtic controversial dinner date and claims SPFL is 'not high level' - Football Scotland]]></title>
+        <id>CBMiY2h0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zY290dGlzaC1wcmVtaWVyc2hpcC9qYW1lcy1zYW5kcy1saWZ0cy1saWQtcmFuZ2Vycy0yNjQ4NDQ2N9IBZ2h0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zY290dGlzaC1wcmVtaWVyc2hpcC9qYW1lcy1zYW5kcy1saWZ0cy1saWQtcmFuZ2Vycy0yNjQ4NDQ2Ny5hbXA</id>
+        <link href="https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zY290dGlzaC1wcmVtaWVyc2hpcC9qYW1lcy1zYW5kcy1saWZ0cy1saWQtcmFuZ2Vycy0yNjQ4NDQ2N9IBZ2h0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zY290dGlzaC1wcmVtaWVyc2hpcC9qYW1lcy1zYW5kcy1saWZ0cy1saWQtcmFuZ2Vycy0yNjQ4NDQ2Ny5hbXA?oc=5"/>
+        <updated>2023-03-16T09:18:23.000Z</updated>
+        <summary type="html"><![CDATA[James Sands lifts lid on Rangers and Celtic controversial dinner date and claims SPFL is 'not high level'  Football Scotland]]></summary>
         <author>
             <name>"celtic fc" - Google News</name>
         </author>
@@ -84,6 +156,16 @@
         <summary type="html"><![CDATA[The UEFA president insists "nobody cares" about the new Super League 2.0 plans as he vowed to protect football.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Photo Of The Day: Banners Against Man United - The Celtic Star]]></title>
+        <id>CBMiRmh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vcGhvdG8tb2YtdGhlLWRheS1iYW5uZXJzLWFnYWluc3QtbWFuLXVuaXRlZC_SAUpodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL3Bob3RvLW9mLXRoZS1kYXktYmFubmVycy1hZ2FpbnN0LW1hbi11bml0ZWQvYW1wLw</id>
+        <link href="https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vcGhvdG8tb2YtdGhlLWRheS1iYW5uZXJzLWFnYWluc3QtbWFuLXVuaXRlZC_SAUpodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL3Bob3RvLW9mLXRoZS1kYXktYmFubmVycy1hZ2FpbnN0LW1hbi11bml0ZWQvYW1wLw?oc=5"/>
+        <updated>2023-03-16T07:45:38.000Z</updated>
+        <summary type="html"><![CDATA[Photo Of The Day: Banners Against Man United  The Celtic Star]]></summary>
+        <author>
+            <name>"celtic fc" - Google News</name>
         </author>
     </entry>
     <entry>
@@ -178,6 +260,16 @@ Rangers vs Celtic Scottish Cup semi-final date and kick-off time confirmed ahead
         <summary type="html"><![CDATA[The defender, 25, has been outstanding for the Hoops this term and was previously included in the USA World Cup squad for Qatar 2022.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cameron Carter-Vickers joins Celtic pals in international exile - Daily Record]]></title>
+        <id>CBMiZ2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvY2FtZXJvbi1jYXJ0ZXItdmlja2Vycy1qb2lucy1jZWx0aWMtMjk0NjkxNjjSAQA</id>
+        <link href="https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvY2FtZXJvbi1jYXJ0ZXItdmlja2Vycy1qb2lucy1jZWx0aWMtMjk0NjkxNjjSAQA?oc=5"/>
+        <updated>2023-03-15T18:49:18.000Z</updated>
+        <summary type="html"><![CDATA[Cameron Carter-Vickers joins Celtic pals in international exile  Daily Record]]></summary>
+        <author>
+            <name>"celtic fc" - Google News</name>
         </author>
     </entry>
     <entry>
@@ -406,6 +498,16 @@ Rangers vs Celtic Scottish Cup semi-final date and kick-off time confirmed ahead
         <link href="https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3Mvb2Rzb25uZS1lZG91YXJkLXJldmVhbHMtY2VsdGljLXByZXNzdXJlLTI5NDYzNDI50gEA?oc=5"/>
         <updated>2023-03-15T11:26:34.000Z</updated>
         <summary type="html"><![CDATA[Odsonne Edouard reveals Celtic pressure helping him stand the heat ahead of Crystal Palace derby clash  Daily Record]]></summary>
+        <author>
+            <name>"celtic fc" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deranged Ibrox Fan Site Follows Another Mad Theory Down Its Anti-Celtic Rabbit Hole. - TheCelticBlog.com]]></title>
+        <id>CBMijAFodHRwczovL3RoZWNlbHRpY2Jsb2cuY29tLzIwMjMvMDMvYXJ0aWNsZXMtYW5kLWZlYXR1cmVzL2RlcmFuZ2VkLWlicm94LWZhbi1zaXRlLWZvbGxvd3MtYW5vdGhlci1tYWQtdGhlb3J5LWRvd24taXRzLWFudGktY2VsdGljLXJhYmJpdC1ob2xlL9IB1QFodHRwczovL3RoZWNlbHRpY2Jsb2cuY29tLzIwMjMvMDMvYXJ0aWNsZXMtYW5kLWZlYXR1cmVzL2RlcmFuZ2VkLWlicm94LWZhbi1zaXRlLWZvbGxvd3MtYW5vdGhlci1tYWQtdGhlb3J5LWRvd24taXRzLWFudGktY2VsdGljLXJhYmJpdC1ob2xlLz9mYmNsaWQ9SXdBUjNwb0xXVnNXeUpLMmJ4b1BHSUJlaFlwRE41VWRvT3RjZGJfVkczWFI0U2JvRE5kU2hZSHEzMmxkMCZhbXA</id>
+        <link href="https://news.google.com/rss/articles/CBMijAFodHRwczovL3RoZWNlbHRpY2Jsb2cuY29tLzIwMjMvMDMvYXJ0aWNsZXMtYW5kLWZlYXR1cmVzL2RlcmFuZ2VkLWlicm94LWZhbi1zaXRlLWZvbGxvd3MtYW5vdGhlci1tYWQtdGhlb3J5LWRvd24taXRzLWFudGktY2VsdGljLXJhYmJpdC1ob2xlL9IB1QFodHRwczovL3RoZWNlbHRpY2Jsb2cuY29tLzIwMjMvMDMvYXJ0aWNsZXMtYW5kLWZlYXR1cmVzL2RlcmFuZ2VkLWlicm94LWZhbi1zaXRlLWZvbGxvd3MtYW5vdGhlci1tYWQtdGhlb3J5LWRvd24taXRzLWFudGktY2VsdGljLXJhYmJpdC1ob2xlLz9mYmNsaWQ9SXdBUjNwb0xXVnNXeUpLMmJ4b1BHSUJlaFlwRE41VWRvT3RjZGJfVkczWFI0U2JvRE5kU2hZSHEzMmxkMCZhbXA?oc=5"/>
+        <updated>2023-03-15T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Deranged Ibrox Fan Site Follows Another Mad Theory Down Its Anti-Celtic Rabbit Hole.  TheCelticBlog.com]]></summary>
         <author>
             <name>"celtic fc" - Google News</name>
         </author>
@@ -748,6 +850,16 @@ Rangers vs Celtic Scottish Cup semi-final date and kick-off time confirmed ahead
         <summary type="html"><![CDATA[He has nothing but good things to say about the Hoops boss.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reo Hatate Celtic 'dive' earns Rangers semi final ban call from former ref - Daily Record]]></title>
+        <id>CBMiUmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL3Jlby1oYXRhdGUtY2VsdGljLWRpdmUtZWFybnMtMjk0NTgxMjbSAVZodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9yZW8taGF0YXRlLWNlbHRpYy1kaXZlLWVhcm5zLTI5NDU4MTI2LmFtcA</id>
+        <link href="https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL3Jlby1oYXRhdGUtY2VsdGljLWRpdmUtZWFybnMtMjk0NTgxMjbSAVZodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9yZW8taGF0YXRlLWNlbHRpYy1kaXZlLWVhcm5zLTI5NDU4MTI2LmFtcA?oc=5"/>
+        <updated>2023-03-14T17:08:55.000Z</updated>
+        <summary type="html"><![CDATA[Reo Hatate Celtic 'dive' earns Rangers semi final ban call from former ref  Daily Record]]></summary>
+        <author>
+            <name>"celtic fc" - Google News</name>
         </author>
     </entry>
     <entry>
