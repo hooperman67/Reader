@@ -213,6 +213,16 @@
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
         {
+          "id": "CBMiUGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL3JhbmdlcnMtZmFucy1yYW1wLXVwLWJvYXJkLTI5NDkxNjM50gFUaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvcmFuZ2Vycy1mYW5zLXJhbXAtdXAtYm9hcmQtMjk0OTE2MzkuYW1w",
+          "author": null,
+          "description": "Rangers fans ramp up board protest with 'time for change' display  Daily Record",
+          "link": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL3JhbmdlcnMtZmFucy1yYW1wLXVwLWJvYXJkLTI5NDkxNjM50gFUaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvcmFuZ2Vycy1mYW5zLXJhbXAtdXAtYm9hcmQtMjk0OTE2MzkuYW1w?oc=5",
+          "publishedOn": "2023-03-18T12:34:09.000Z",
+          "wordCount": 6164,
+          "title": "Rangers fans ramp up board protest with 'time for change' display - Daily Record",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "CBMif2h0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvbWljaGFlbC1iZWFsZS1yZXdyaXRlcy1oaXMtY2VsdGljLWhpc3RvcnktYXMtaGUtY29uY2VkZXMtZ3JvdW5kLXRvLXRzdW5hbWktb2YtcHJlc3N1cmUtdmVyZGljdC_SAYMBaHR0cHM6Ly93d3cuNjdoYWlsaGFpbC5jb20vbmV3cy9taWNoYWVsLWJlYWxlLXJld3JpdGVzLWhpcy1jZWx0aWMtaGlzdG9yeS1hcy1oZS1jb25jZWRlcy1ncm91bmQtdG8tdHN1bmFtaS1vZi1wcmVzc3VyZS12ZXJkaWN0Lz9hbXA",
           "author": null,
           "description": "Michael Beale rewrites his Celtic history as he concedes ground to ‘tsunami’ of pressure verdict  67 Hail Hail - Celtic FC News",
@@ -1419,6 +1429,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "206899f010fea45fdaf5decc4250f5d9",
+          "author": null,
+          "description": "The Parkhead boss has made two changes to his side for the Scottish Premiership clash.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23395887.ange-postecoglou-names-celtic-side-take-hibs/?ref=rss",
+          "publishedOn": "2023-03-18T13:45:00.000Z",
+          "wordCount": 8405,
+          "title": "Ange Postecoglou names Celtic side to take on Hibs",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16572514/?type=og-image"
+        },
         {
           "id": "3a6b68bc2e7d6efde9e197238f3166f6",
           "author": null,
