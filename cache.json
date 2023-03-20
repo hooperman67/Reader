@@ -6,6 +6,26 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4072403",
+          "author": "Joel Sked",
+          "description": "Kenny Dalglish understands why there has been reported interest in from English clubs in Ange Postecoglou – but has queried why the Australian would leave Celtic.",
+          "link": "https://www.scotsman.com/sport/football/celtic/why-would-he-go-down-to-the-premier-league-celtic-legend-in-ange-postecoglou-to-england-question-4072403",
+          "publishedOn": "2023-03-20T19:44:47.000Z",
+          "wordCount": null,
+          "title": "'Why would he go down to the Premier League' - Celtic legend in Ange Postecoglou to England question",
+          "imageUrl": null
+        },
+        {
+          "id": "4072356",
+          "author": "Joel Sked",
+          "description": "You can imagine Crawford Allan, the SFA’s head of refereeing, glancing at his phone sometime around 5pm on Saturday and thinking ‘oh, oh’. And you certainly wouldn’t have blamed him for removing the SIM card and disposing of it over the side of a bridge before driving off into the distance never to be seen or heard from ever again.",
+          "link": "https://www.scotsman.com/sport/sport-opinion/scottish-footballs-150-days-of-var-tedium-disruption-fan-responsibility-what-is-the-answer-4072356",
+          "publishedOn": "2023-03-20T18:37:53.000Z",
+          "wordCount": null,
+          "title": "Scottish football's 150 days of VAR tedium - disruption, fan responsibility, what is the answer?",
+          "imageUrl": null
+        },
+        {
           "id": "4072188",
           "author": "Matthew Elder",
           "description": "Hearts loan star Garang Kuol has opened up on the contents of a pep talk he received from Celtic boss Ange Postecoglou following a recent match at Parkhead.",
@@ -303,6 +323,36 @@
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
         {
+          "id": "CBMif2h0dHBzOi8vd3d3LmJlbGZhc3R0ZWxlZ3JhcGguY28udWsvbmV3cy9ub3J0aGVybi1pcmVsYW5kL3N0YXR1ZS1vZi1maXJzdC1jZWx0aWMtbWFuYWdlci10by1iZS11bnZlaWxlZC1pbi1uZXdyeS8xNjg2MjIxNzkxLmh0bWzSAQA",
+          "author": null,
+          "description": "Statue of first Celtic manager to be unveiled in Newry  Belfast Telegraph",
+          "link": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LmJlbGZhc3R0ZWxlZ3JhcGguY28udWsvbmV3cy9ub3J0aGVybi1pcmVsYW5kL3N0YXR1ZS1vZi1maXJzdC1jZWx0aWMtbWFuYWdlci10by1iZS11bnZlaWxlZC1pbi1uZXdyeS8xNjg2MjIxNzkxLmh0bWzSAQA?oc=5",
+          "publishedOn": "2023-03-20T19:26:44.000Z",
+          "wordCount": 6164,
+          "title": "Statue of first Celtic manager to be unveiled in Newry - Belfast Telegraph",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZ2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvYmFycnktZmVyZ3Vzb24tbmFtZXMtbmFnZ2luZy1jZWx0aWMtMjk1MDc5MDXSAWtodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL2JhcnJ5LWZlcmd1c29uLW5hbWVzLW5hZ2dpbmctY2VsdGljLTI5NTA3OTA1LmFtcA",
+          "author": null,
+          "description": "Barry Ferguson names nagging Celtic dressing concern after Tavernier pledge  Daily Record",
+          "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvYmFycnktZmVyZ3Vzb24tbmFtZXMtbmFnZ2luZy1jZWx0aWMtMjk1MDc5MDXSAWtodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL2JhcnJ5LWZlcmd1c29uLW5hbWVzLW5hZ2dpbmctY2VsdGljLTI5NTA3OTA1LmFtcA?oc=5",
+          "publishedOn": "2023-03-20T18:35:20.000Z",
+          "wordCount": 6164,
+          "title": "Barry Ferguson names nagging Celtic dressing concern after Tavernier pledge - Daily Record",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiRGh0dHBzOi8vdGhlY2VsdGljYmhveXMuY29tLzIwMjMvMDMvMjAvY2VsdGljLWluanVyeS1uZXdzLWFhcm9uLW1vb3kv0gFIaHR0cHM6Ly90aGVjZWx0aWNiaG95cy5jb20vMjAyMy8wMy8yMC9jZWx0aWMtaW5qdXJ5LW5ld3MtYWFyb24tbW9veS9hbXAv",
+          "author": null,
+          "description": "Celtic handed worrying injury news about Aaron Mooy  The Celtic Bhoys",
+          "link": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vdGhlY2VsdGljYmhveXMuY29tLzIwMjMvMDMvMjAvY2VsdGljLWluanVyeS1uZXdzLWFhcm9uLW1vb3kv0gFIaHR0cHM6Ly90aGVjZWx0aWNiaG95cy5jb20vMjAyMy8wMy8yMC9jZWx0aWMtaW5qdXJ5LW5ld3MtYWFyb24tbW9veS9hbXAv?oc=5",
+          "publishedOn": "2023-03-20T18:00:55.000Z",
+          "wordCount": 6164,
+          "title": "Celtic handed worrying injury news about Aaron Mooy - The Celtic Bhoys",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "CBMiV2h0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vcGMtbHVzdGlnLW5hbWVzLXRoZS1mdW5uaWVzdC1wbGF5ZXItaGUtcGxheWVkLXdpdGgtYXQtY2VsdGljL9IBW2h0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vcGMtbHVzdGlnLW5hbWVzLXRoZS1mdW5uaWVzdC1wbGF5ZXItaGUtcGxheWVkLXdpdGgtYXQtY2VsdGljL2FtcC8",
           "author": null,
           "description": "PC Lustig names the funniest player he played with at Celtic  The Celtic Star",
@@ -310,6 +360,16 @@
           "publishedOn": "2023-03-20T17:30:02.000Z",
           "wordCount": 6164,
           "title": "PC Lustig names the funniest player he played with at Celtic - The Celtic Star",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiYGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvMy1zdGV2ZW4tbWNsZWFuLWNhbGxzLWNlbHRpYy0yOTUwNzAwN9IBZGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvMy1zdGV2ZW4tbWNsZWFuLWNhbGxzLWNlbHRpYy0yOTUwNzAwNy5hbXA",
+          "author": null,
+          "description": "3 Steven McLean calls in Celtic vs Hibs slammed as furious Ben Kensell defended despite 'soft' penalty caveat  Daily Record\nLee Johnson's Hibs vs Celtic trick branded 'dirty tactic' after bid to slow down play  Football Scotland\nAnge Postecoglou shares what he told his players in the Celtic dressing room on Saturday  67 Hail Hail - Celtic FC News",
+          "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvMy1zdGV2ZW4tbWNsZWFuLWNhbGxzLWNlbHRpYy0yOTUwNzAwN9IBZGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvMy1zdGV2ZW4tbWNsZWFuLWNhbGxzLWNlbHRpYy0yOTUwNzAwNy5hbXA?oc=5",
+          "publishedOn": "2023-03-20T17:06:52.000Z",
+          "wordCount": 6164,
+          "title": "3 Steven McLean calls in Celtic vs Hibs slammed as furious Ben Kensell defended despite 'soft' penalty caveat - Daily Record",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -1321,36 +1381,6 @@
           "wordCount": 6159,
           "title": "James Sands lifts lid on Rangers and Celtic controversial dinner date and claims SPFL is 'not high level' - Football Scotland",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiWWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2phbWVzLXNhbmRzLWV4cGxhaW5zLXJhbmdlcnMtY2VsdGljLTI5NDcxNDM40gFdaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvamFtZXMtc2FuZHMtZXhwbGFpbnMtcmFuZ2Vycy1jZWx0aWMtMjk0NzE0MzguYW1w",
-          "author": null,
-          "description": "James Sands explains infamous Rangers and Celtic post derby dinner snap  Daily Record",
-          "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2phbWVzLXNhbmRzLWV4cGxhaW5zLXJhbmdlcnMtY2VsdGljLTI5NDcxNDM40gFdaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvamFtZXMtc2FuZHMtZXhwbGFpbnMtcmFuZ2Vycy1jZWx0aWMtMjk0NzE0MzguYW1w?oc=5",
-          "publishedOn": "2023-03-16T08:48:04.000Z",
-          "wordCount": 6159,
-          "title": "James Sands explains infamous Rangers and Celtic post derby dinner snap - Daily Record",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiRmh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vcGhvdG8tb2YtdGhlLWRheS1iYW5uZXJzLWFnYWluc3QtbWFuLXVuaXRlZC_SAUpodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL3Bob3RvLW9mLXRoZS1kYXktYmFubmVycy1hZ2FpbnN0LW1hbi11bml0ZWQvYW1wLw",
-          "author": null,
-          "description": "Photo Of The Day: Banners Against Man United  The Celtic Star",
-          "link": "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vcGhvdG8tb2YtdGhlLWRheS1iYW5uZXJzLWFnYWluc3QtbWFuLXVuaXRlZC_SAUpodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL3Bob3RvLW9mLXRoZS1kYXktYmFubmVycy1hZ2FpbnN0LW1hbi11bml0ZWQvYW1wLw?oc=5",
-          "publishedOn": "2023-03-16T07:45:38.000Z",
-          "wordCount": 6159,
-          "title": "Photo Of The Day: Banners Against Man United - The Celtic Star",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiWmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2NhbWVyb24tY2FydGVyLXZpY2tlcnMtc3BhcmtzLWNlbHRpYy0yOTQ3MTIyONIBXmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2NhbWVyb24tY2FydGVyLXZpY2tlcnMtc3BhcmtzLWNlbHRpYy0yOTQ3MTIyOC5hbXA",
-          "author": null,
-          "description": "Cameron Carter-Vickers sparks Celtic injury debate as American hero sees left field snub theory clamped  Daily Record",
-          "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2NhbWVyb24tY2FydGVyLXZpY2tlcnMtc3BhcmtzLWNlbHRpYy0yOTQ3MTIyONIBXmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2NhbWVyb24tY2FydGVyLXZpY2tlcnMtc3BhcmtzLWNlbHRpYy0yOTQ3MTIyOC5hbXA?oc=5",
-          "publishedOn": "2023-03-16T07:33:10.000Z",
-          "wordCount": 6164,
-          "title": "Cameron Carter-Vickers sparks Celtic injury debate as American hero sees left field snub theory clamped - Daily Record",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -1978,26 +2008,6 @@
           "wordCount": 8457,
           "title": "Liverpool defender Andy Robertson names favourite Celtic game",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16564329/?type=og-image"
-        },
-        {
-          "id": "55f14840767c4920d1f213a2ecdd2fd9",
-          "author": null,
-          "description": "The full-back has reportedly been struggling with a lower leg knock.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23389969.taylor-playing-pain-celtic-scotland-absence-explained/?ref=rss",
-          "publishedOn": "2023-03-16T08:23:16.000Z",
-          "wordCount": 8461,
-          "title": "Taylor 'playing through pain' for Celtic as Scotland absence explained",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16563737/?type=og-image"
-        },
-        {
-          "id": "e9449215191c9d9f15549c93e09fd5ae",
-          "author": null,
-          "description": "The UEFA president insists \"nobody cares\" about the new Super League 2.0 plans as he vowed to protect football.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23389944.alexander-ceferin-offers-celtic-rangers-champions-league-assurance/?ref=rss",
-          "publishedOn": "2023-03-16T08:02:06.000Z",
-          "wordCount": 8550,
-          "title": "Alexander Ceferin offers Celtic and Rangers Champions League assurance",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16563670/?type=og-image"
         }
       ]
     }
