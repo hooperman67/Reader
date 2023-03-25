@@ -6,6 +6,56 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4079623",
+          "author": "Alan Pattullo",
+          "description": "Steve Clarke made a point of accentuating the positives after Scotland enjoyed a winning start to a European Championships qualifying group for the first time since 2006.",
+          "link": "https://www.scotsman.com/sport/football/steve-clarke-hails-very-pleasing-scotland-win-but-concerns-arise-over-che-adams-injury-4079623",
+          "publishedOn": "2023-03-25T18:09:27.000Z",
+          "wordCount": null,
+          "title": "Steve Clarke hails 'very pleasing' Scotland win but concerns arise over Che Adams injury",
+          "imageUrl": null
+        },
+        {
+          "id": "4079613",
+          "author": "Mark Atkinson",
+          "description": "Perhaps it was the rarefied air of a Scotland home match being played on a Saturday afternoon, but for large parts of this 3-0 win over Cyprus, Hampden was in snooze mode.",
+          "link": "https://www.scotsman.com/sport/football/lethargic-dozing-hampden-tells-a-story-but-scotland-victory-over-cyprus-is-ultimately-job-well-done-4079613",
+          "publishedOn": "2023-03-25T17:59:59.000Z",
+          "wordCount": null,
+          "title": "Lethargic, dozing Hampden tells a story but Scotland victory over Cyprus is ultimately job well done",
+          "imageUrl": null
+        },
+        {
+          "id": "4079607",
+          "author": "Mark Atkinson",
+          "description": "Former Rangers manager Steven Gerrard says he had to give Celtic fans “a little bit back” after scoring for Liverpool legends in front of the travelling support during a legends match at Anfield.",
+          "link": "https://www.scotsman.com/sport/football/rangers/steven-gerrard-tells-celtic-fans-they-can-have-a-bit-back-as-ex-rangers-boss-explains-liverpool-celebration-4079607",
+          "publishedOn": "2023-03-25T17:41:24.000Z",
+          "wordCount": null,
+          "title": "Steven Gerrard tells Celtic fans 'they can have a bit back' as ex-Rangers boss explains Liverpool celebration",
+          "imageUrl": null
+        },
+        {
+          "id": "4079588",
+          "author": "Andrew Smith",
+          "description": "We give each of the Scotland players a mark out of ten for their performance against Cyprus in the Euro 2024 qualifier at Hampden ...",
+          "link": "https://www.scotsman.com/sport/football/how-the-scotland-players-rated-against-cyprus-the-heartstopper-four-6s-one-clear-stand-out-lands-8-4079588",
+          "publishedOn": "2023-03-25T17:06:50.000Z",
+          "wordCount": null,
+          "title": "How the Scotland players rated against Cyprus - the heartstopper, four 6s, one-clear stand-out lands 8",
+          "imageUrl": null
+        },
+        {
+          "id": "4079561",
+          "author": "Mark Atkinson",
+          "description": "Former Rangers manager Steven Gerrard had some fun during a charity match for Liverpool against Celtic when he scored the opening goal from the penalty spot.",
+          "link": "https://www.scotsman.com/sport/football/rangers/former-rangers-boss-steven-gerrard-goads-celtic-fans-after-scoring-for-liverpool-in-charity-match-4079561",
+          "publishedOn": "2023-03-25T16:12:22.000Z",
+          "wordCount": null,
+          "title": "Former Rangers boss Steven Gerrard goads Celtic fans after scoring for Liverpool in charity match",
+          "imageUrl": null
+        },
+        {
           "id": "4079283",
           "author": "Alan Pattullo",
           "description": "A new strip, a new pre-match training base, a new goalkeeper and a manager who admits he agonised over signing a new deal that will – hopefully – take him through to the next World Cup, at least.",
@@ -293,6 +343,26 @@
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
         {
+          "id": "CBMiTGh0dHBzOi8vd3d3LmxpdmVycG9vbGZjLmNvbS9uZXdzL3N0b3J5LWxmYy1sZWdlbmRzLTItMC1jZWx0aWMtbGVnZW5kcy1waG90b3PSAVJodHRwczovL3d3dy5saXZlcnBvb2xmYy5jb20vbmV3cy9zdG9yeS1sZmMtbGVnZW5kcy0yLTAtY2VsdGljLWxlZ2VuZHMtcGhvdG9zP2FtcD0x",
+          "author": null,
+          "description": "The story of LFC Legends 2-0 Celtic Legends in photos  Liverpool FC",
+          "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmxpdmVycG9vbGZjLmNvbS9uZXdzL3N0b3J5LWxmYy1sZWdlbmRzLTItMC1jZWx0aWMtbGVnZW5kcy1waG90b3PSAVJodHRwczovL3d3dy5saXZlcnBvb2xmYy5jb20vbmV3cy9zdG9yeS1sZmMtbGVnZW5kcy0yLTAtY2VsdGljLWxlZ2VuZHMtcGhvdG9zP2FtcD0x?oc=5",
+          "publishedOn": "2023-03-25T18:14:09.000Z",
+          "wordCount": 6172,
+          "title": "The story of LFC Legends 2-0 Celtic Legends in photos - Liverpool FC",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMie2h0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvY2VsdGljLXByb21pc2VkLXNpZ25pZmljYW50LWNhc2gtYm9vc3QtZnJvbS1ldXJvLXNoYWtlLXVwLWNsdWItYWxyZWFkeS1maXJtbHktaW4tdWVmYS1jYW1wL9IBf2h0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvY2VsdGljLXByb21pc2VkLXNpZ25pZmljYW50LWNhc2gtYm9vc3QtZnJvbS1ldXJvLXNoYWtlLXVwLWNsdWItYWxyZWFkeS1maXJtbHktaW4tdWVmYS1jYW1wLz9hbXA",
+          "author": null,
+          "description": "Celtic promised ‘significant’ cash boost from Euro shake-up; club already firmly in UEFA camp  67 Hail Hail - Celtic FC News",
+          "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvY2VsdGljLXByb21pc2VkLXNpZ25pZmljYW50LWNhc2gtYm9vc3QtZnJvbS1ldXJvLXNoYWtlLXVwLWNsdWItYWxyZWFkeS1maXJtbHktaW4tdWVmYS1jYW1wL9IBf2h0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvY2VsdGljLXByb21pc2VkLXNpZ25pZmljYW50LWNhc2gtYm9vc3QtZnJvbS1ldXJvLXNoYWtlLXVwLWNsdWItYWxyZWFkeS1maXJtbHktaW4tdWVmYS1jYW1wLz9hbXA?oc=5",
+          "publishedOn": "2023-03-25T18:12:29.000Z",
+          "wordCount": 6172,
+          "title": "Celtic promised ‘significant’ cash boost from Euro shake-up; club already firmly in UEFA camp - 67 Hail Hail - Celtic FC News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "CBMiZGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvbGl2ZXJwb29sLXZzLWNlbHRpYy1sZWdlbmRzLWxpdmUtMjk1NDgxNDLSAWhodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL2xpdmVycG9vbC12cy1jZWx0aWMtbGVnZW5kcy1saXZlLTI5NTQ4MTQyLmFtcA",
           "author": null,
           "description": "Liverpool vs Celtic legends LIVE score as Charlie Adam and Steven Gerrard get it tight from the away end  Daily Record\nWatch Liverpool FC Legends v Celtic Legends live from Anfield  Liverpool FC\nSteven Gerrard starts as Liverpool Legends name two debutants against Celtic  Liverpool Echo",
@@ -300,6 +370,36 @@
           "publishedOn": "2023-03-25T15:00:00.000Z",
           "wordCount": 6172,
           "title": "Liverpool vs Celtic legends LIVE score as Charlie Adam and Steven Gerrard get it tight from the away end - Daily Record",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiYWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL25ld3Mvc2NvdHRpc2gtbmV3cy9jZWx0aWMtZmFuLWRpc2FwcGVhcnMtbGFuemFyb3RlLXdvcnJpZWQtMjk1NDg3MjbSAWVodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9uZXdzL3Njb3R0aXNoLW5ld3MvY2VsdGljLWZhbi1kaXNhcHBlYXJzLWxhbnphcm90ZS13b3JyaWVkLTI5NTQ4NzI2LmFtcA",
+          "author": null,
+          "description": "Celtic fan disappears in Lanzarote as worried family issue desperate appeal for help  Daily Record",
+          "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL25ld3Mvc2NvdHRpc2gtbmV3cy9jZWx0aWMtZmFuLWRpc2FwcGVhcnMtbGFuemFyb3RlLXdvcnJpZWQtMjk1NDg3MjbSAWVodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9uZXdzL3Njb3R0aXNoLW5ld3MvY2VsdGljLWZhbi1kaXNhcHBlYXJzLWxhbnphcm90ZS13b3JyaWVkLTI5NTQ4NzI2LmFtcA?oc=5",
+          "publishedOn": "2023-03-25T14:30:20.000Z",
+          "wordCount": 6172,
+          "title": "Celtic fan disappears in Lanzarote as worried family issue desperate appeal for help - Daily Record",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiXmh0dHBzOi8vd3d3LmxpdmVycG9vbGZjLmNvbS9uZXdzL2NvbmZpcm1lZC1saXZlcnBvb2wtZmMtbGVnZW5kcy1zdGFydGluZy1saW5lLXYtY2VsdGljLWxlZ2VuZHPSAWRodHRwczovL3d3dy5saXZlcnBvb2xmYy5jb20vbmV3cy9jb25maXJtZWQtbGl2ZXJwb29sLWZjLWxlZ2VuZHMtc3RhcnRpbmctbGluZS12LWNlbHRpYy1sZWdlbmRzP2FtcD0x",
+          "author": null,
+          "description": "Confirmed: Liverpool FC Legends starting line-up v Celtic Legends  Liverpool FC",
+          "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmxpdmVycG9vbGZjLmNvbS9uZXdzL2NvbmZpcm1lZC1saXZlcnBvb2wtZmMtbGVnZW5kcy1zdGFydGluZy1saW5lLXYtY2VsdGljLWxlZ2VuZHPSAWRodHRwczovL3d3dy5saXZlcnBvb2xmYy5jb20vbmV3cy9jb25maXJtZWQtbGl2ZXJwb29sLWZjLWxlZ2VuZHMtc3RhcnRpbmctbGluZS12LWNlbHRpYy1sZWdlbmRzP2FtcD0x?oc=5",
+          "publishedOn": "2023-03-25T13:02:08.000Z",
+          "wordCount": 6172,
+          "title": "Confirmed: Liverpool FC Legends starting line-up v Celtic Legends - Liverpool FC",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiaWh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vc2lnbmlmaWNhbnQtbWlsZXN0b25lLWZvci1jZWx0aWMtY2FwdGFpbi01MHRoLXNjb3RsYW5kLWNhcC1mb3ItY2FsbHVtLW1jZ3JlZ29yL9IBAA",
+          "author": null,
+          "description": "Significant Milestone for Celtic Captain – 50th Scotland cap for ...  The Celtic Star",
+          "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vc2lnbmlmaWNhbnQtbWlsZXN0b25lLWZvci1jZWx0aWMtY2FwdGFpbi01MHRoLXNjb3RsYW5kLWNhcC1mb3ItY2FsbHVtLW1jZ3JlZ29yL9IBAA?oc=5",
+          "publishedOn": "2023-03-25T12:07:27.000Z",
+          "wordCount": 6172,
+          "title": "Significant Milestone for Celtic Captain – 50th Scotland cap for ... - The Celtic Star",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -320,6 +420,16 @@
           "publishedOn": "2023-03-25T10:55:46.000Z",
           "wordCount": 6172,
           "title": "From kitman to manager: East Kilbride FC appoint interim boss - Daily Record",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiaGh0dHBzOi8vd3d3LmhlcmFsZHNjb3RsYW5kLmNvbS9zcG9ydC8yMzQxMjExMC5taWtleS1qb2huc3Rvbi1kZXRhaWxzLWhvbmVzdC1jZWx0aWMtc2l0LWFuZ2UtcG9zdGVjb2dsb3Uv0gEA",
+          "author": null,
+          "description": "New Ireland cap Mikey Johnston details 'honest' Celtic sit down with Ange Postecoglou  HeraldScotland\nJohnston details Celtic future plan as he rejects McGeady criticism parallel  Football Scotland\nCeltic loan report: All 12 players profiled including Johnston & Ajeti | Celtic Way  Celtic Way",
+          "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmhlcmFsZHNjb3RsYW5kLmNvbS9zcG9ydC8yMzQxMjExMC5taWtleS1qb2huc3Rvbi1kZXRhaWxzLWhvbmVzdC1jZWx0aWMtc2l0LWFuZ2UtcG9zdGVjb2dsb3Uv0gEA?oc=5",
+          "publishedOn": "2023-03-25T10:49:31.000Z",
+          "wordCount": 6172,
+          "title": "New Ireland cap Mikey Johnston details 'honest' Celtic sit down with Ange Postecoglou - HeraldScotland",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -470,6 +580,16 @@
           "publishedOn": "2023-03-24T16:13:15.000Z",
           "wordCount": 6172,
           "title": "Celtic’s Forgotten Japanese Star, Koki Mizuno - The Celtic Star",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiYGh0dHBzOi8vd3d3LmNlbHRpY3dheS5jby51ay9uZXdzLzIzNDExMDAxLmNlbHRpYy1oZXJvLXJlZmxlY3RzLWZvb3RiYWxsaW5nLXJlZ3JldHMtb3BlbnMtZnV0dXJlL9IBAA",
+          "author": null,
+          "description": "Scott Sinclair reflects on footballing 'regrets' as he opens up on future  Celtic Way",
+          "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmNlbHRpY3dheS5jby51ay9uZXdzLzIzNDExMDAxLmNlbHRpYy1oZXJvLXJlZmxlY3RzLWZvb3RiYWxsaW5nLXJlZ3JldHMtb3BlbnMtZnV0dXJlL9IBAA?oc=5",
+          "publishedOn": "2023-03-24T16:05:00.000Z",
+          "wordCount": 6172,
+          "title": "Scott Sinclair reflects on footballing 'regrets' as he opens up on future - Celtic Way",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -760,6 +880,16 @@
           "publishedOn": "2023-03-23T13:14:42.000Z",
           "wordCount": 6172,
           "title": "Josip Juranovic makes 'right club' post Celtic admission and key Rangers stat - Daily Record",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZ2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3Mvc2NvdHQtc2luY2xhaXItZG9kZ2VzLXJhbmdlcnMtdHJvbGwtMjk1MzE3MTLSAWtodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL3Njb3R0LXNpbmNsYWlyLWRvZGdlcy1yYW5nZXJzLXRyb2xsLTI5NTMxNzEyLmFtcA",
+          "author": null,
+          "description": "Scott Sinclair dodges Rangers troll of Joey Barton after Bristol Rovers reunion  Daily Record",
+          "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3Mvc2NvdHQtc2luY2xhaXItZG9kZ2VzLXJhbmdlcnMtdHJvbGwtMjk1MzE3MTLSAWtodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL3Njb3R0LXNpbmNsYWlyLWRvZGdlcy1yYW5nZXJzLXRyb2xsLTI5NTMxNzEyLmFtcA?oc=5",
+          "publishedOn": "2023-03-23T12:55:17.000Z",
+          "wordCount": 6172,
+          "title": "Scott Sinclair dodges Rangers troll of Joey Barton after Bristol Rovers reunion - Daily Record",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -1589,6 +1719,46 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "4ae038c831ed0153404d1eeba23c9c96",
+          "author": null,
+          "description": "The former Rangers manager scored in the charity match between Liverpool and Celtic legends.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23412556.have-bit-back---steven-gerrard-explains-celtic-celebration/?ref=rss",
+          "publishedOn": "2023-03-25T17:34:55.000Z",
+          "wordCount": 10084,
+          "title": "'Have a bit back' - Steven Gerrard explains Celtic celebration",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16598585/?type=og-image"
+        },
+        {
+          "id": "2e6772c789d46bd2d83104dc00fd87f1",
+          "author": null,
+          "description": "Steven Gerrard's penalty celebration is the talk of social media tonight after he was pelted with missiles following blasting his Liverpool Legends side into a 1-0 lead against Celtic legends.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23412550.liverpool-tv-pundits-react-steven-gerrards-celtic-missile-pelting/?ref=rss",
+          "publishedOn": "2023-03-25T17:24:57.000Z",
+          "wordCount": 9740,
+          "title": "Liverpool TV pundits react to Steven Gerrard's Celtic missile pelting",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16598595/?type=og-image"
+        },
+        {
+          "id": "d1a3f4d41fb4c14630ca93fa407a1bb1",
+          "author": null,
+          "description": "The two clubs came together to raise money for charity in a friendly outing at Anfield.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23412512.steven-gerrard-nets-celtic-liverpool-charity-match/?ref=rss",
+          "publishedOn": "2023-03-25T16:48:13.000Z",
+          "wordCount": 8750,
+          "title": "Steven Gerrard nets against Celtic in Liverpool charity match",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16598560/?type=og-image"
+        },
+        {
+          "id": "156f1e12017ae8252334d9d827473499",
+          "author": null,
+          "description": "YOU can say what you like about the latest Scotland strip, and at £90 a pop numerous fans have had made some far from complimentary comments in recent days, but Andy Robertson and his team mates looked like a million dollars when they took to the field at Hampden today.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23412500.callum-mcgregor-marks-50th-scotland-cap-man-match-display/?ref=rss",
+          "publishedOn": "2023-03-25T16:35:08.000Z",
+          "wordCount": 8999,
+          "title": "Callum McGregor marks 50th Scotland cap with Man of the Match display",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16598523/?type=og-image"
+        },
         {
           "id": "52a6b9db6377d20d4d80fadffebad12f",
           "author": null,
