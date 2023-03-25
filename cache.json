@@ -6,6 +6,36 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4079316",
+          "author": "Damian Spellman",
+          "description": "Mikey Johnston has not given up on his Celtic career as he continues his battle to feel “important”.",
+          "link": "https://www.scotsman.com/sport/football/celtic/mikey-johnston-not-giving-up-on-celtic-career-after-thrilling-ireland-debut-i-just-want-to-feel-important-4079316",
+          "publishedOn": "2023-03-24T23:19:09.000Z",
+          "wordCount": null,
+          "title": "Mikey Johnston not giving up on Celtic career after thrilling Ireland debut - 'I just want to feel important'",
+          "imageUrl": null
+        },
+        {
+          "id": "4079285",
+          "author": "Alan Pattullo",
+          "description": "Skipper Andy Robertson has hailed Steve Clarke for mending the relationship between Scotland fans and the team after the manager surprised players with news of his contract extension before training yesterday.",
+          "link": "https://www.scotsman.com/sport/football/international/how-steve-clarke-fixed-scotland-as-andy-robertson-lifts-lid-on-broken-relationship-4079285",
+          "publishedOn": "2023-03-24T22:56:06.000Z",
+          "wordCount": null,
+          "title": "How Steve Clarke fixed Scotland as Andy Robertson lifts lid on 'broken' relationship",
+          "imageUrl": null
+        },
+        {
+          "id": "4079277",
+          "author": "Alan Pattullo",
+          "description": "Steve Clarke admits he has surprised himself by signing another new deal as Scotland head coach after fearing he would not last the length of his original contract.",
+          "link": "https://www.scotsman.com/sport/football/international/i-would-have-said-no-steve-clarke-admits-scotland-contract-surprise-as-he-addresses-possible-club-football-return-4079277",
+          "publishedOn": "2023-03-24T22:30:00.000Z",
+          "wordCount": null,
+          "title": "'I would have said no'  - Steve Clarke admits Scotland contract surprise as he addresses possible club football return",
+          "imageUrl": null
+        },
+        {
           "id": "4078543",
           "author": "Joel Sked",
           "description": "Celtic star Hyeongyu Oh earned his second cap for South Korea, while Daizen Maeda was an unused substitute for Japan.",
@@ -314,36 +344,6 @@
           "wordCount": null,
           "title": "Ally McCoist admits change of mind as Rangers legend urges Scottish football to ditch VAR",
           "imageUrl": null
-        },
-        {
-          "id": "4071400",
-          "author": "Matthew Elder",
-          "description": "The Tartan Army are eagerly anticipating the launch of a brand new Scotland kit marking the 150th anniversary of the national team.",
-          "link": "https://www.scotsman.com/sport/football/international/new-scotland-strip-how-much-will-it-cost-when-will-150th-anniversary-kit-be-released-4071400",
-          "publishedOn": "2023-03-20T12:40:48.000Z",
-          "wordCount": null,
-          "title": "New Scotland strip: How much will it cost? When will 150th anniversary kit be released?",
-          "imageUrl": null
-        },
-        {
-          "id": "4071116",
-          "author": "Matthew Elder",
-          "description": "Celtic fans have been warned to prepare for the departure of Liel Abada this summer after the president of his former club claimed the winger has rejected a new contract offer.",
-          "link": "https://www.scotsman.com/sport/football/celtic/celtic-90-per-cent-certain-to-lose-key-first-team-star-this-summer-after-new-contract-rejected-4071116",
-          "publishedOn": "2023-03-20T10:53:59.000Z",
-          "wordCount": null,
-          "title": "Celtic '90 per cent' certain to lose key first-team star this summer after new contract 'rejected'",
-          "imageUrl": null
-        },
-        {
-          "id": "4071019",
-          "author": "Matthew Elder",
-          "description": "Celtic’s Aaron Mooy has been forced to withdraw from the Australia squad due to injury.",
-          "link": "https://www.scotsman.com/sport/football/celtic/celtics-aaron-mooy-forced-to-withdraw-from-australia-squad-as-spfl-star-called-up-in-his-place-4071019",
-          "publishedOn": "2023-03-20T10:18:41.000Z",
-          "wordCount": null,
-          "title": "Celtic's Aaron Mooy forced to withdraw from Australia squad as SPFL star called up in his place",
-          "imageUrl": null
         }
       ]
     },
@@ -380,6 +380,16 @@
           "publishedOn": "2023-03-24T17:02:23.000Z",
           "wordCount": 6172,
           "title": "The story of Celtic’s first title win has arrived – The Bould Bhoys, ‘Glory to their name’ - The Celtic Star",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiamh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zY290dGlzaC1wcmVtaWVyc2hpcC9jZWx0aWMtcmFuZ2Vycy1jb3VsZC13aW4tcHJlbWllcnNoaXAtMjY1NTUzMjHSAW5odHRwczovL3d3dy5mb290YmFsbHNjb3RsYW5kLmNvLnVrL3NwZmwvc2NvdHRpc2gtcHJlbWllcnNoaXAvY2VsdGljLXJhbmdlcnMtY291bGQtd2luLXByZW1pZXJzaGlwLTI2NTU1MzIxLmFtcA",
+          "author": null,
+          "description": "Celtic and Rangers could WIN Premiership with B teams if they left for European Super League insists pundit  Football Scotland",
+          "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zY290dGlzaC1wcmVtaWVyc2hpcC9jZWx0aWMtcmFuZ2Vycy1jb3VsZC13aW4tcHJlbWllcnNoaXAtMjY1NTUzMjHSAW5odHRwczovL3d3dy5mb290YmFsbHNjb3RsYW5kLmNvLnVrL3NwZmwvc2NvdHRpc2gtcHJlbWllcnNoaXAvY2VsdGljLXJhbmdlcnMtY291bGQtd2luLXByZW1pZXJzaGlwLTI2NTU1MzIxLmFtcA?oc=5",
+          "publishedOn": "2023-03-24T16:55:28.000Z",
+          "wordCount": 6172,
+          "title": "Celtic and Rangers could WIN Premiership with B teams if they left for European Super League insists pundit - Football Scotland",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -1651,106 +1661,6 @@
           "wordCount": 6164,
           "title": "Former Celtic star Erik Sviatchenko set to finalise shock MLS transfer - Football Scotland",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiVmh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vdW5pcXVlLWFuZ2xlLTEyMzQ1LWNlbHRpYy1oYW1tZXItaGVhcnRzLWluLXRoZS1zY290dGlzaC1jdXAv0gFaaHR0cHM6Ly90aGVjZWx0aWNzdGFyLmNvbS91bmlxdWUtYW5nbGUtMTIzNDUtY2VsdGljLWhhbW1lci1oZWFydHMtaW4tdGhlLXNjb3R0aXNoLWN1cC9hbXAv",
-          "author": null,
-          "description": "Unique Angle 1,2,3,4,5 – Celtic Hammer Hearts in the Scottish Cup  The Celtic Star",
-          "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vdW5pcXVlLWFuZ2xlLTEyMzQ1LWNlbHRpYy1oYW1tZXItaGVhcnRzLWluLXRoZS1zY290dGlzaC1jdXAv0gFaaHR0cHM6Ly90aGVjZWx0aWNzdGFyLmNvbS91bmlxdWUtYW5nbGUtMTIzNDUtY2VsdGljLWhhbW1lci1oZWFydHMtaW4tdGhlLXNjb3R0aXNoLWN1cC9hbXAv?oc=5",
-          "publishedOn": "2023-03-20T12:34:45.000Z",
-          "wordCount": 6172,
-          "title": "Unique Angle 1,2,3,4,5 – Celtic Hammer Hearts in the Scottish Cup - The Celtic Star",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiaGh0dHBzOi8vd3d3LmNlbHRpY2ZjLmNvbS9uZXdzLzIwMjMvbWFyY2gvMjAvbXktZmF2b3VyaXRlLWdhbWUtLXRoZS1pbnZpbmNpYmxlLXRyZWJsZS1zY290dGlzaC1jdXAtZmluYWwv0gEA",
-          "author": null,
-          "description": "My Favourite Game: The Invincible Treble Scottish Cup final  Official Celtic Football Club Website",
-          "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmNlbHRpY2ZjLmNvbS9uZXdzLzIwMjMvbWFyY2gvMjAvbXktZmF2b3VyaXRlLWdhbWUtLXRoZS1pbnZpbmNpYmxlLXRyZWJsZS1zY290dGlzaC1jdXAtZmluYWwv0gEA?oc=5",
-          "publishedOn": "2023-03-20T12:16:20.000Z",
-          "wordCount": 6164,
-          "title": "My Favourite Game: The Invincible Treble Scottish Cup final - Official Celtic Football Club Website",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vYnJpbGxpYW50LWNhbGx1bS1tY2dyZWdvci1vZmZlci1mb3ItY2VsdGljLXN0YXItcmVhZGVycy1mcm9tLWNlbHRpYy1wb29scy_SAQA",
-          "author": null,
-          "description": "Brilliant Callum McGregor offer for Celtic Star readers from Celtic Pools  The Celtic Star",
-          "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vYnJpbGxpYW50LWNhbGx1bS1tY2dyZWdvci1vZmZlci1mb3ItY2VsdGljLXN0YXItcmVhZGVycy1mcm9tLWNlbHRpYy1wb29scy_SAQA?oc=5",
-          "publishedOn": "2023-03-20T11:27:06.000Z",
-          "wordCount": 6164,
-          "title": "Brilliant Callum McGregor offer for Celtic Star readers from Celtic Pools - The Celtic Star",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vYnJpbGxpYW50LWNhbGx1bS1tY2dyZWdvci1vZmZlci1mb3ItY2VsdGljLXN0YXItcmVhZGVycy1mcm9tLWNlbHRpYy1wb29scy_SAWhodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL2JyaWxsaWFudC1jYWxsdW0tbWNncmVnb3Itb2ZmZXItZm9yLWNlbHRpYy1zdGFyLXJlYWRlcnMtZnJvbS1jZWx0aWMtcG9vbHMvYW1wLw",
-          "author": null,
-          "description": "Brilliant Callum McGregor offer for Celtic Star readers from Celtic Pools  The Celtic Star",
-          "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vYnJpbGxpYW50LWNhbGx1bS1tY2dyZWdvci1vZmZlci1mb3ItY2VsdGljLXN0YXItcmVhZGVycy1mcm9tLWNlbHRpYy1wb29scy_SAWhodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL2JyaWxsaWFudC1jYWxsdW0tbWNncmVnb3Itb2ZmZXItZm9yLWNlbHRpYy1zdGFyLXJlYWRlcnMtZnJvbS1jZWx0aWMtcG9vbHMvYW1wLw?oc=5",
-          "publishedOn": "2023-03-20T11:27:06.000Z",
-          "wordCount": 6164,
-          "title": "Brilliant Callum McGregor offer for Celtic Star readers from Celtic Pools - The Celtic Star",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiVGh0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL25ld3MvY2VsZWJzL2NlbHRpYy1kYWZ0LXJvZC1zdGV3YXJ0LWFubm91bmNlcy0yNjUxMTgyNdIBWGh0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL25ld3MvY2VsZWJzL2NlbHRpYy1kYWZ0LXJvZC1zdGV3YXJ0LWFubm91bmNlcy0yNjUxMTgyNS5hbXA",
-          "author": null,
-          "description": "Celtic-daft Rod Stewart announces stage return in hoops jersey after suffering strep throat  Glasgow Live",
-          "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL25ld3MvY2VsZWJzL2NlbHRpYy1kYWZ0LXJvZC1zdGV3YXJ0LWFubm91bmNlcy0yNjUxMTgyNdIBWGh0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL25ld3MvY2VsZWJzL2NlbHRpYy1kYWZ0LXJvZC1zdGV3YXJ0LWFubm91bmNlcy0yNjUxMTgyNS5hbXA?oc=5",
-          "publishedOn": "2023-03-20T11:17:04.000Z",
-          "wordCount": 6164,
-          "title": "Celtic-daft Rod Stewart announces stage return in hoops jersey after suffering strep throat - Glasgow Live",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiYWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvaG93LXdhdGNoLWxpdmVycG9vbC12cy1jZWx0aWMtMjk1MDIxMjnSAWVodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL2hvdy13YXRjaC1saXZlcnBvb2wtdnMtY2VsdGljLTI5NTAyMTI5LmFtcA",
-          "author": null,
-          "description": "Liverpool vs Celtic legends live stream details  Daily Record",
-          "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvaG93LXdhdGNoLWxpdmVycG9vbC12cy1jZWx0aWMtMjk1MDIxMjnSAWVodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL2hvdy13YXRjaC1saXZlcnBvb2wtdnMtY2VsdGljLTI5NTAyMTI5LmFtcA?oc=5",
-          "publishedOn": "2023-03-20T11:13:55.000Z",
-          "wordCount": 6172,
-          "title": "Liverpool vs Celtic legends live stream details - Daily Record",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiR2h0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L2NlbHRpYy1ubzEtam9lLWhhcnRzLWZpcmVzLTI2NTEyMDA20gFLaHR0cHM6Ly93d3cuZ2xhc2dvd2xpdmUuY28udWsvc3BvcnQvY2VsdGljLW5vMS1qb2UtaGFydHMtZmlyZXMtMjY1MTIwMDYuYW1w",
-          "author": null,
-          "description": "Celtic No1 Joe Hart's fires cheeky one-liner at Giorgos Giakoumakis as Greek responds to online quip  Glasgow Live",
-          "link": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L2NlbHRpYy1ubzEtam9lLWhhcnRzLWZpcmVzLTI2NTEyMDA20gFLaHR0cHM6Ly93d3cuZ2xhc2dvd2xpdmUuY28udWsvc3BvcnQvY2VsdGljLW5vMS1qb2UtaGFydHMtZmlyZXMtMjY1MTIwMDYuYW1w?oc=5",
-          "publishedOn": "2023-03-20T10:57:34.000Z",
-          "wordCount": 6164,
-          "title": "Celtic No1 Joe Hart's fires cheeky one-liner at Giorgos Giakoumakis as Greek responds to online quip - Glasgow Live",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiUmh0dHBzOi8vd3d3Lmh0YWZjLmNvbS9uZXdzLzIwMjMvbWFyY2gvdmlzaXQtYS1ub24tbGVhZ3VlLWNsdWItdGhpcy1ub24tbGVhZ3VlLWRheS_SAQA",
-          "author": null,
-          "description": "SUPPORT A LOCAL NON-LEAGUE CLUB THIS WEEK!  htafc.com",
-          "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3Lmh0YWZjLmNvbS9uZXdzLzIwMjMvbWFyY2gvdmlzaXQtYS1ub24tbGVhZ3VlLWNsdWItdGhpcy1ub24tbGVhZ3VlLWRheS_SAQA?oc=5",
-          "publishedOn": "2023-03-20T10:03:09.000Z",
-          "wordCount": 6164,
-          "title": "SUPPORT A LOCAL NON-LEAGUE CLUB THIS WEEK! - htafc.com",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vbWFjY2FiaS1wZXRhaC10aWt2YS1wcmVzaWRlbnQtdGFsa3MtdXAtbGllbC1hYmFkYS1zdW1tZXItZXhpdC1mcm9tLWNlbHRpYy_SAWhodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL21hY2NhYmktcGV0YWgtdGlrdmEtcHJlc2lkZW50LXRhbGtzLXVwLWxpZWwtYWJhZGEtc3VtbWVyLWV4aXQtZnJvbS1jZWx0aWMvYW1wLw",
-          "author": null,
-          "description": "Maccabi Petah Tikva President talks up Liel Abada summer exit from Celtic  The Celtic Star",
-          "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vbWFjY2FiaS1wZXRhaC10aWt2YS1wcmVzaWRlbnQtdGFsa3MtdXAtbGllbC1hYmFkYS1zdW1tZXItZXhpdC1mcm9tLWNlbHRpYy_SAWhodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL21hY2NhYmktcGV0YWgtdGlrdmEtcHJlc2lkZW50LXRhbGtzLXVwLWxpZWwtYWJhZGEtc3VtbWVyLWV4aXQtZnJvbS1jZWx0aWMvYW1wLw?oc=5",
-          "publishedOn": "2023-03-20T09:53:15.000Z",
-          "wordCount": 6164,
-          "title": "Maccabi Petah Tikva President talks up Liel Abada summer exit from Celtic - The Celtic Star",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZGh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9yZXBvcnQtYWJhZGEta25vY2tzLWJhY2stY2VsdGljLWNvbnRyYWN0LWV4dGVuc2lvbi1wYXJraGVhZC1leGl0LWRpc2N1c3NlZC_SAWhodHRwczovL2NlbHRzYXJlaGVyZS5jb20vcmVwb3J0LWFiYWRhLWtub2Nrcy1iYWNrLWNlbHRpYy1jb250cmFjdC1leHRlbnNpb24tcGFya2hlYWQtZXhpdC1kaXNjdXNzZWQvYW1wLw",
-          "author": null,
-          "description": "Report: Abada Knocks Back Celtic Contract Extension; Parkhead Exit Discussed | Celts Are Here  CeltsAreHere",
-          "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9yZXBvcnQtYWJhZGEta25vY2tzLWJhY2stY2VsdGljLWNvbnRyYWN0LWV4dGVuc2lvbi1wYXJraGVhZC1leGl0LWRpc2N1c3NlZC_SAWhodHRwczovL2NlbHRzYXJlaGVyZS5jb20vcmVwb3J0LWFiYWRhLWtub2Nrcy1iYWNrLWNlbHRpYy1jb250cmFjdC1leHRlbnNpb24tcGFya2hlYWQtZXhpdC1kaXNjdXNzZWQvYW1wLw?oc=5",
-          "publishedOn": "2023-03-20T09:36:22.000Z",
-          "wordCount": 6164,
-          "title": "Report: Abada Knocks Back Celtic Contract Extension; Parkhead Exit Discussed | Celts Are Here - CeltsAreHere",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -1759,6 +1669,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "aa2e11d91bed3ad8744ad2346267a01d",
+          "author": null,
+          "description": "The Parkhead favourite recalled Balde \"indiscriminately hitting\" opponents in the tunnel before matches.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23411752.celtic-hero-sutton-reveals-rangers-ace-bobo-balde-used-hit/?ref=rss",
+          "publishedOn": "2023-03-24T20:42:56.000Z",
+          "wordCount": 8542,
+          "title": "Celtic hero Sutton reveals Rangers ace Bobo Balde 'used to hit'",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16597115/?type=og-image"
+        },
         {
           "id": "775e85300f4da6717b23a77632ef4f13",
           "author": null,
@@ -2248,46 +2168,6 @@
           "wordCount": 8462,
           "title": "Walker praises Celtic's squad as he pinpoints Hyeon-gyu strength",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16577233/?type=og-image"
-        },
-        {
-          "id": "c3bd94e35f0c88dfdf500135f0c96744",
-          "author": null,
-          "description": "He did not hold back when talking about the official's performance.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23398772.they-wrong---ex-celtic-hero-rips-hibs-game-officials/?ref=rss",
-          "publishedOn": "2023-03-20T13:05:15.000Z",
-          "wordCount": 8473,
-          "title": "'They were all wrong' - Ex-Celtic hero rips into Hibs game officials",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16576660/?type=og-image"
-        },
-        {
-          "id": "40f661affed45400e7d397f5ba99da72",
-          "author": null,
-          "description": "Former Arsenal defender Bacary Sagna reckons Kieran Tierney will seriously be considering leaving the club in the summer.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23398522.kieran-tierney-transfer-latest-arsenal-summer-exit-discussed/?ref=rss",
-          "publishedOn": "2023-03-20T12:10:37.000Z",
-          "wordCount": 8584,
-          "title": "Kieran Tierney transfer latest as Arsenal summer exit discussed",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16576405/?type=og-image"
-        },
-        {
-          "id": "bb84c3d2edd380c6b5d06c5f68595158",
-          "author": null,
-          "description": "The Glasgow giants will face off with each other at the national stadium in the semi-finals of the Scottish Cup.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23397978.rangers-vs-celtic-hampden-pitch-concern-amid-four-games-eight-days/?ref=rss",
-          "publishedOn": "2023-03-20T10:08:49.000Z",
-          "wordCount": 8564,
-          "title": "Rangers vs Celtic Hampden pitch concern amid four games in eight days",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16575442/?type=og-image"
-        },
-        {
-          "id": "c631219dc0f9e738782d4903d4d62d62",
-          "author": null,
-          "description": "The midfielder missed the weekend's game against Hibs, which finished 3-1 to Ange Postecoglou's men.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23397844.celtic-star-aaron-mooy-ruled-australia-squad-injury/?ref=rss",
-          "publishedOn": "2023-03-20T09:32:58.000Z",
-          "wordCount": 8460,
-          "title": "Celtic star Aaron Mooy ruled out of Australia squad through injury",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16575339/?type=og-image"
         }
       ]
     }
