@@ -6,6 +6,26 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4088631",
+          "author": "Aidan Smith",
+          "description": "Did you see the TV football reporter Jane Lewis voxpopping the Tartan Army the other night? “And so!” declared the fan wearing his Saltire as a cloak. “To sum up!” he continued in a stentorian voice, like a town cryer or the host of The Good Old Days. “We were pish!”",
+          "link": "https://www.scotsman.com/sport/sport-opinion/rodri-you-plonker-spain-taught-us-all-about-gamesmanship-and-time-wasting-4088631",
+          "publishedOn": "2023-04-02T07:00:00.000Z",
+          "wordCount": null,
+          "title": "Rodri, you plonker! Spain taught us all about gamesmanship and time-wasting",
+          "imageUrl": null
+        },
+        {
+          "id": "4088840",
+          "author": "Andrew Smith",
+          "description": "There is rarely the concept of an unsellable player for Celtic.",
+          "link": "https://www.scotsman.com/sport/football/celtic/the-celtic-player-ange-postecoglou-wont-sell-i-usually-say-my-phones-not-working-4088840",
+          "publishedOn": "2023-04-01T21:33:00.000Z",
+          "wordCount": null,
+          "title": "The Celtic player Ange Postecoglou won't sell - 'I usually say my phone’s not working'",
+          "imageUrl": null
+        },
+        {
           "id": "4088840",
           "author": "Andrew Smith",
           "description": "There is rarely the concept of an unsellable player for Celtic.",
@@ -13,6 +33,16 @@
           "publishedOn": "2023-04-01T21:33:00.000Z",
           "wordCount": null,
           "title": "The Celtic player Ange Postecoglou just won't sell - 'I usually say my phone’s not working'",
+          "imageUrl": null
+        },
+        {
+          "id": "4088829",
+          "author": "Andrew Smith",
+          "description": "Celtic manager Ange Postecoglou has revealed that his earliest raiding of the Japanse market could have had a different complexion.",
+          "link": "https://www.scotsman.com/sport/football/celtic/kaoru-mitoma-celtic-tried-to-sign-brighton-forward-as-ange-postecoglou-explains-why-it-didnt-happen-4088829",
+          "publishedOn": "2023-04-01T21:30:00.000Z",
+          "wordCount": null,
+          "title": "Kaoru Mitoma: Celtic tried to sign Brighton forward as Ange Postecoglou explains why it didn't happen",
           "imageUrl": null
         },
         {
@@ -43,6 +73,16 @@
           "publishedOn": "2023-04-01T21:30:00.000Z",
           "wordCount": null,
           "title": "Why Scotland caution is required over 'fixating' on 'sensational' Erling Haaland",
+          "imageUrl": null
+        },
+        {
+          "id": "4088965",
+          "author": "Moira Gordon",
+          "description": "Hibs boss Lee Johnson has defended himself, saying Celtic counterpart Ange Postecoglou took offence where none was intended when he responded to comments made while discussing the current gulf between Celtic and Rangers and the rest of Scottish football.",
+          "link": "https://www.scotsman.com/sport/football/hibs/hibs-boss-lee-johnson-defends-himself-after-ange-postecoglou-celtic-retort-and-blasts-stupid-rule-4088965",
+          "publishedOn": "2023-04-01T18:50:37.000Z",
+          "wordCount": null,
+          "title": "Hibs boss Lee Johnson defends himself after Ange Postecoglou Celtic retort and blasts 'stupid rule'",
           "imageUrl": null
         },
         {
@@ -294,46 +334,6 @@
           "wordCount": null,
           "title": "'They provoke you, it's rubbish': Spain captain Rodri lambasts Scotland and vows revenge",
           "imageUrl": null
-        },
-        {
-          "id": "4083422",
-          "author": "Andrew Smith",
-          "description": "We give the Scotland players a mark out of ten for their performance against Spain in the thrilling 2-0 win ….",
-          "link": "https://www.scotsman.com/sport/football/stunning-scotland-player-ratings-the-grown-up-defender-the-premonition-head-swivels-like-in-exorcist-4083422",
-          "publishedOn": "2023-03-28T21:06:01.000Z",
-          "wordCount": null,
-          "title": "Stunning Scotland player ratings: The grown-up defender, the premonition, head swivels like in Exorcist",
-          "imageUrl": null
-        },
-        {
-          "id": "4083405",
-          "author": "Mark Atkinson",
-          "description": "Scotland are in a commanding position after the first two matches of Euro 2024 qualification.",
-          "link": "https://www.scotsman.com/sport/football/when-do-scotland-play-next-euro-2024-qualifiers-in-full-as-steve-clarkes-men-look-to-reach-tournament-in-germany-4083405",
-          "publishedOn": "2023-03-28T20:40:25.000Z",
-          "wordCount": null,
-          "title": "When do Scotland play next? Euro 2024 qualifiers in full as Steve Clarke's men look to reach tournament in Germany",
-          "imageUrl": null
-        },
-        {
-          "id": "4083406",
-          "author": "Alan Pattullo",
-          "description": "Add this to your list of famous nights at this storied stadium. Hampden roared like it hasn’t done for years, Scotland sizzled and Spain – yes, Spain – were left wondering what had hit them. La Roja were rocked. Scotland soared and triumphed 2-0.",
-          "link": "https://www.scotsman.com/sport/football/sizzling-scotland-land-famous-win-over-spain-tika-taka-perishes-mctominay-is-tartan-army-darling-poor-pedro-porro-4083406",
-          "publishedOn": "2023-03-28T20:40:11.000Z",
-          "wordCount": null,
-          "title": "Sizzling Scotland land famous win over Spain - Tika-taka perishes, McTominay is Tartan Army darling, poor Pedro Porro",
-          "imageUrl": null
-        },
-        {
-          "id": "4083406",
-          "author": "Alan Pattullo",
-          "description": "Scotland recorded a famous 2-0 victory over Spain and took control of Group A in the quest to reach Euro 2024 on a seismic night at Hampden Park.",
-          "link": "https://www.scotsman.com/sport/football/sizzling-scotland-land-famous-win-over-spain-on-seismic-night-at-hampden-4083406",
-          "publishedOn": "2023-03-28T20:40:11.000Z",
-          "wordCount": null,
-          "title": "Sizzling Scotland land famous win over Spain on seismic night at Hampden",
-          "imageUrl": null
         }
       ]
     },
@@ -342,6 +342,36 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CBMiZ2h0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zY290dGlzaC1wcmVtaWVyc2hpcC9jYWxsdW0tbWNncmVnb3ItZ2l2ZW4tcmVhbC1tYWRyaWQtMjY2MTQxNzjSAWtodHRwczovL3d3dy5mb290YmFsbHNjb3RsYW5kLmNvLnVrL3NwZmwvc2NvdHRpc2gtcHJlbWllcnNoaXAvY2FsbHVtLW1jZ3JlZ29yLWdpdmVuLXJlYWwtbWFkcmlkLTI2NjE0MTc4LmFtcA",
+          "author": null,
+          "description": "Callum McGregor given Real Madrid backing with Celtic star on 'similar level' to Toni Kroos and Luka Modric  Football Scotland",
+          "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zY290dGlzaC1wcmVtaWVyc2hpcC9jYWxsdW0tbWNncmVnb3ItZ2l2ZW4tcmVhbC1tYWRyaWQtMjY2MTQxNzjSAWtodHRwczovL3d3dy5mb290YmFsbHNjb3RsYW5kLmNvLnVrL3NwZmwvc2NvdHRpc2gtcHJlbWllcnNoaXAvY2FsbHVtLW1jZ3JlZ29yLWdpdmVuLXJlYWwtbWFkcmlkLTI2NjE0MTc4LmFtcA?oc=5",
+          "publishedOn": "2023-04-02T08:07:53.000Z",
+          "wordCount": 6047,
+          "title": "Callum McGregor given Real Madrid backing with Celtic star on 'similar level' to Toni Kroos and Luka Modric - Football Scotland",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvY2VsdGljLXNxdWFkLXJldmVhbGVkLXRvbW9raS1pd2F0YS0yOTYwOTQyOdIBamh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvY2VsdGljLXNxdWFkLXJldmVhbGVkLXRvbW9raS1pd2F0YS0yOTYwOTQyOS5hbXA",
+          "author": null,
+          "description": "Celtic squad revealed as Tomoki Iwata fright eased with two out and two doubtful for Dingwall  Daily Record",
+          "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvY2VsdGljLXNxdWFkLXJldmVhbGVkLXRvbW9raS1pd2F0YS0yOTYwOTQyOdIBamh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvY2VsdGljLXNxdWFkLXJldmVhbGVkLXRvbW9raS1pd2F0YS0yOTYwOTQyOS5hbXA?oc=5",
+          "publishedOn": "2023-04-02T07:08:14.000Z",
+          "wordCount": 6047,
+          "title": "Celtic squad revealed as Tomoki Iwata fright eased with two out and two doubtful for Dingwall - Daily Record",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiV2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2thb3J1LW1pdG9tYS1jZWx0aWMtdHJhbnNmZXItbmVhci0yOTYwNTg0MdIBW2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2thb3J1LW1pdG9tYS1jZWx0aWMtdHJhbnNmZXItbmVhci0yOTYwNTg0MS5hbXA",
+          "author": null,
+          "description": "Kaoru Mitoma to Celtic transfer near miss revealed as Ange wanted Brighton breakout star alongside Kyogo  Daily Record",
+          "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2thb3J1LW1pdG9tYS1jZWx0aWMtdHJhbnNmZXItbmVhci0yOTYwNTg0MdIBW2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2thb3J1LW1pdG9tYS1jZWx0aWMtdHJhbnNmZXItbmVhci0yOTYwNTg0MS5hbXA?oc=5",
+          "publishedOn": "2023-04-02T05:00:00.000Z",
+          "wordCount": 6047,
+          "title": "Kaoru Mitoma to Celtic transfer near miss revealed as Ange wanted Brighton breakout star alongside Kyogo - Daily Record",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiVmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Rpc21heS1vdmVyLWNlbHRpYy1hcG9sb2d5LWNyYWlnLTI5NjA1OTky0gFaaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvZGlzbWF5LW92ZXItY2VsdGljLWFwb2xvZ3ktY3JhaWctMjk2MDU5OTIuYW1w",
           "author": null,
@@ -1690,56 +1720,6 @@
           "publishedOn": "2023-03-29T06:15:00.000Z",
           "wordCount": 6184,
           "title": "Willie Maley's legendary Celtic life & legacy... in numbers | Celtic Way - Celtic Way",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiTGh0dHBzOi8vdGhlY2VsdGljYmhveXMuY29tLzIwMjMvMDMvMjgvc2NvdGxhbmQtZGVmZWF0LXNwYWluLWNlbHRpYy1iYWQtbmV3cy_SAVBodHRwczovL3RoZWNlbHRpY2Job3lzLmNvbS8yMDIzLzAzLzI4L3Njb3RsYW5kLWRlZmVhdC1zcGFpbi1jZWx0aWMtYmFkLW5ld3MvYW1wLw",
-          "author": null,
-          "description": "Scotland defeat Spain but Celtic handed bad news  The Celtic Bhoys",
-          "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vdGhlY2VsdGljYmhveXMuY29tLzIwMjMvMDMvMjgvc2NvdGxhbmQtZGVmZWF0LXNwYWluLWNlbHRpYy1iYWQtbmV3cy_SAVBodHRwczovL3RoZWNlbHRpY2Job3lzLmNvbS8yMDIzLzAzLzI4L3Njb3RsYW5kLWRlZmVhdC1zcGFpbi1jZWx0aWMtYmFkLW5ld3MvYW1wLw?oc=5",
-          "publishedOn": "2023-03-28T21:01:48.000Z",
-          "wordCount": 6184,
-          "title": "Scotland defeat Spain but Celtic handed bad news - The Celtic Bhoys",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiWGh0dHBzOi8vd3d3LmxpdmVycG9vbGZjLmNvbS9uZXdzL2luc2lkZS1hbmZpZWxkLXVuc2Vlbi1zdG9yeS1sZmMtbGVnZW5kcy13aW4tb3Zlci1jZWx0aWPSAV5odHRwczovL3d3dy5saXZlcnBvb2xmYy5jb20vbmV3cy9pbnNpZGUtYW5maWVsZC11bnNlZW4tc3RvcnktbGZjLWxlZ2VuZHMtd2luLW92ZXItY2VsdGljP2FtcD0x",
-          "author": null,
-          "description": "Inside Anfield: The unseen story of LFC Legends' win over Celtic  Liverpool FC",
-          "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmxpdmVycG9vbGZjLmNvbS9uZXdzL2luc2lkZS1hbmZpZWxkLXVuc2Vlbi1zdG9yeS1sZmMtbGVnZW5kcy13aW4tb3Zlci1jZWx0aWPSAV5odHRwczovL3d3dy5saXZlcnBvb2xmYy5jb20vbmV3cy9pbnNpZGUtYW5maWVsZC11bnNlZW4tc3RvcnktbGZjLWxlZ2VuZHMtd2luLW92ZXItY2VsdGljP2FtcD0x?oc=5",
-          "publishedOn": "2023-03-28T20:51:20.000Z",
-          "wordCount": 6047,
-          "title": "Inside Anfield: The unseen story of LFC Legends' win over Celtic - Liverpool FC",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMibGh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc2NvdHMtYWJyb2FkL2VuZ2xpc2gtZm9vdGJhbGwva2llcmFuLXRpZXJuZXktYXJzZW5hbC1pbmp1cnktYmxvdy0yNjU4MTQ2OdIBcGh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc2NvdHMtYWJyb2FkL2VuZ2xpc2gtZm9vdGJhbGwva2llcmFuLXRpZXJuZXktYXJzZW5hbC1pbmp1cnktYmxvdy0yNjU4MTQ2OS5hbXA",
-          "author": null,
-          "description": "Kieran Tierney Arsenal injury blow as Scotland star forced off during Spain clash  Football Scotland",
-          "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc2NvdHMtYWJyb2FkL2VuZ2xpc2gtZm9vdGJhbGwva2llcmFuLXRpZXJuZXktYXJzZW5hbC1pbmp1cnktYmxvdy0yNjU4MTQ2OdIBcGh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc2NvdHMtYWJyb2FkL2VuZ2xpc2gtZm9vdGJhbGwva2llcmFuLXRpZXJuZXktYXJzZW5hbC1pbmp1cnktYmxvdy0yNjU4MTQ2OS5hbXA?oc=5",
-          "publishedOn": "2023-03-28T20:37:03.000Z",
-          "wordCount": 6047,
-          "title": "Kieran Tierney Arsenal injury blow as Scotland star forced off during Spain clash - Football Scotland",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiTGh0dHBzOi8vdGhlY2VsdGljYmhveXMuY29tLzIwMjMvMDMvMjgvZ2xvYmFsLXN1cGVyc3Rhci1zaGFyZXMtY2VsdGljLXBsYXllci_SAVBodHRwczovL3RoZWNlbHRpY2Job3lzLmNvbS8yMDIzLzAzLzI4L2dsb2JhbC1zdXBlcnN0YXItc2hhcmVzLWNlbHRpYy1wbGF5ZXIvYW1wLw",
-          "author": null,
-          "description": "Global superstar shares photograph with Celtic player  The Celtic Bhoys",
-          "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vdGhlY2VsdGljYmhveXMuY29tLzIwMjMvMDMvMjgvZ2xvYmFsLXN1cGVyc3Rhci1zaGFyZXMtY2VsdGljLXBsYXllci_SAVBodHRwczovL3RoZWNlbHRpY2Job3lzLmNvbS8yMDIzLzAzLzI4L2dsb2JhbC1zdXBlcnN0YXItc2hhcmVzLWNlbHRpYy1wbGF5ZXIvYW1wLw?oc=5",
-          "publishedOn": "2023-03-28T19:32:27.000Z",
-          "wordCount": 6184,
-          "title": "Global superstar shares photograph with Celtic player - The Celtic Bhoys",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiX2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvYW5nZS10ZWxscy1jZWx0aWMtZmFucy13aGF0LTI5NTc0MDYy0gFjaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvZm9vdGJhbGwtbmV3cy9hbmdlLXRlbGxzLWNlbHRpYy1mYW5zLXdoYXQtMjk1NzQwNjIuYW1w",
-          "author": null,
-          "description": "Ange tells Celtic fans what makes him a leader as he declares 'you have to be genuine'  Daily Record",
-          "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvYW5nZS10ZWxscy1jZWx0aWMtZmFucy13aGF0LTI5NTc0MDYy0gFjaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvZm9vdGJhbGwtbmV3cy9hbmdlLXRlbGxzLWNlbHRpYy1mYW5zLXdoYXQtMjk1NzQwNjIuYW1w?oc=5",
-          "publishedOn": "2023-03-28T18:55:17.000Z",
-          "wordCount": 6184,
-          "title": "Ange tells Celtic fans what makes him a leader as he declares 'you have to be genuine' - Daily Record",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
