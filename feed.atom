@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-04-03T12:34:08.425Z</updated>
+    <updated>2023-04-03T15:18:08.583Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic v Rangers team news: Postecoglou set for double boost as key Ibrox pair likely available United absence]]></title>
+        <id>4090728</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/celtic-v-rangers-team-news-postecoglou-set-for-double-boost-as-key-ibrox-pair-likely-available-united-absence-4090728"/>
+        <updated>2023-04-03T15:08:23.000Z</updated>
+        <summary type="html"><![CDATA[Celtic and Rangers meet for the fourth time this season on Saturday when the Premiership league leaders host their city rivals.]]></summary>
+        <author>
+            <name>Joel Sked</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ex-ref delivers 'very harsh' verdict on Ross County vs Celtic VAR call]]></title>
+        <id>9a61682f4b4842945acf6996e6e1c034</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23431181.ex-ref-delivers-very-harsh-verdict-ross-county-vs-celtic-var-call/?ref=rss"/>
+        <updated>2023-04-03T12:16:59.000Z</updated>
+        <summary type="html"><![CDATA[Dermot Gallagher agreed with the decision to award a penalty but conceded the law is not liked by referees]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Leicester and Chelsea next manager moves may spell summer trouble for Celtic as Ange Postecoglou stock stays high]]></title>
         <id>4090097</id>
@@ -154,6 +174,16 @@ Brendan Rodgers exits Leicester as former Celtic boss pays with his job amid nig
         <link href="https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3Mva3Jpcy1jb21tb25zLXJhbmdlcnMtaGF0LXRpcC0yOTYxNDE4MtIBZGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3Mva3Jpcy1jb21tb25zLXJhbmdlcnMtaGF0LXRpcC0yOTYxNDE4Mi5hbXA?oc=5"/>
         <updated>2023-04-03T05:51:58.000Z</updated>
         <summary type="html"><![CDATA[Kris Commons in Rangers hat tip but predicts ruthless Celtic winning machine to show everyone 'gulf in class'  Daily Record]]></summary>
+        <author>
+            <name>"celtic fc" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Would Ange Postecoglou leave Celtic for Tottenham and will Aberdeen beat Hearts to third? - Monday Jury - Daily Record]]></title>
+        <id>CBMiZ2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3Mvd291bGQtYW5nZS1wb3N0ZWNvZ2xvdS1sZWF2ZS1jZWx0aWMtMjk2MTI2NTXSAWtodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL3dvdWxkLWFuZ2UtcG9zdGVjb2dsb3UtbGVhdmUtY2VsdGljLTI5NjEyNjU1LmFtcA</id>
+        <link href="https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3Mvd291bGQtYW5nZS1wb3N0ZWNvZ2xvdS1sZWF2ZS1jZWx0aWMtMjk2MTI2NTXSAWtodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL3dvdWxkLWFuZ2UtcG9zdGVjb2dsb3UtbGVhdmUtY2VsdGljLTI5NjEyNjU1LmFtcA?oc=5"/>
+        <updated>2023-04-03T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Would Ange Postecoglou leave Celtic for Tottenham and will Aberdeen beat Hearts to third? - Monday Jury  Daily Record]]></summary>
         <author>
             <name>"celtic fc" - Google News</name>
         </author>
@@ -576,6 +606,16 @@ Live Commentary - Ross Co vs Celtic | 02.04.2023  Sky Sports]]></summary>
         <link href="https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmNlbHRpY3dheS5jby51ay9vcGluaW9uLzIzNDI5MTcwLndhdGNoLWZvcm1lci1jZWx0aWMtc3RyaWtlci1naWFrb3VtYWtpcy1zY29yZXMtYXRsYW50YS11bml0ZWQtd2lubmVyL9IBAA?oc=5"/>
         <updated>2023-04-02T09:13:22.000Z</updated>
         <summary type="html"><![CDATA[WATCH: Former Celtic striker Giakoumakis scores Atlanta United ...  Celtic Way]]></summary>
+        <author>
+            <name>"celtic fc" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Giorgos Giakoumakis borrows Steven Gerrard phrase - Glasgow Live]]></title>
+        <id>CBMiUWh0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L2dpb3Jnb3MtZ2lha291bWFraXMtcG9zdC1jZWx0aWMtbGlmdC0yNjYxNDQ2MdIBVWh0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L2dpb3Jnb3MtZ2lha291bWFraXMtcG9zdC1jZWx0aWMtbGlmdC0yNjYxNDQ2MS5hbXA</id>
+        <link href="https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L2dpb3Jnb3MtZ2lha291bWFraXMtcG9zdC1jZWx0aWMtbGlmdC0yNjYxNDQ2MdIBVWh0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L2dpb3Jnb3MtZ2lha291bWFraXMtcG9zdC1jZWx0aWMtbGlmdC0yNjYxNDQ2MS5hbXA?oc=5"/>
+        <updated>2023-04-02T09:09:26.000Z</updated>
+        <summary type="html"><![CDATA[Giorgos Giakoumakis borrows Steven Gerrard phrase  Glasgow Live]]></summary>
         <author>
             <name>"celtic fc" - Google News</name>
         </author>
