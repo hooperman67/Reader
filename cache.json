@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4090097",
+          "author": "Mark Atkinson",
+          "description": "Managerial changes in the English Premier League at this time of year are reasonably uncommon, so to have two leave on the same day is quite the event.",
+          "link": "https://www.scotsman.com/sport/football/celtic/leicester-and-chelsea-next-manager-moves-may-spell-summer-trouble-for-celtic-as-ange-postecoglou-stock-stays-high-4090097",
+          "publishedOn": "2023-04-03T11:07:33.000Z",
+          "wordCount": null,
+          "title": "Leicester and Chelsea next manager moves may spell summer trouble for Celtic as Ange Postecoglou stock stays high",
+          "imageUrl": null
+        },
+        {
           "id": "4089568",
           "author": "Andrew Smith",
           "description": "Celtic’s 2-0 win over Ross County in Dingwall caused consternation in certain quarters over the rules regarding handball penalty calls. Again.",
@@ -304,26 +314,6 @@
           "wordCount": null,
           "title": "'Could tell by his voice he was confident' - Scotland ace Aaron Hickey reveals conversation with Spain star",
           "imageUrl": null
-        },
-        {
-          "id": "4085035",
-          "author": "Alan Pattullo",
-          "description": "Steve Clarke has urged his players to keep their eye firmly on the prize following a statement win over Spain.",
-          "link": "https://www.scotsman.com/sport/football/scotland-told-to-keep-their-focus-and-that-spain-are-still-favourites-to-top-group-4085035",
-          "publishedOn": "2023-03-29T21:30:00.000Z",
-          "wordCount": null,
-          "title": "Scotland told to keep their focus and that Spain are still favourites to top group",
-          "imageUrl": null
-        },
-        {
-          "id": "4084793",
-          "author": "Joel Sked",
-          "description": "The ball landed to John McGinn. Everyone in Hampden Park knew what was coming. Everyone except Real Madrid midfielder Dani Ceballos. Invite contact, spin and turn away with the ball. He found Ryan Christie and those decked in red had to deal with the blue arrows.",
-          "link": "https://www.scotsman.com/sport/football/international/the-celtic-ace-who-could-play-for-spain-callum-mcgregors-scotlands-selfless-star-and-most-trusted-player-4084793",
-          "publishedOn": "2023-03-29T21:30:00.000Z",
-          "wordCount": null,
-          "title": "The Celtic ace who could play for Spain - Callum McGregor's Scotland's selfless star and most trusted player",
-          "imageUrl": null
         }
       ]
     },
@@ -332,6 +322,16 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CBMiamh0dHBzOi8vd3d3LmdsYXNnb3d0aW1lcy5jby51ay9zcG9ydC8yMzQzMDUwOC5rcmlzLWJveWQtcmVjcmVhdGVzLWljb25pYy1icmVuZGFuLXJvZGdlcnMtc2Fja2VkLXR2LW1vbWVudC_SATJodHRwczovL3d3dy5nbGFzZ293dGltZXMuY28udWsvc3BvcnQvMjM0MzA1MDguYW1wLw",
+          "author": null,
+          "description": "Kris Boyd recreates iconic Brendan Rodgers 'sacked' TV moment  Glasgow Times\nPostecoglou Celtic exit rubbished as Sutton brands pundit a 'fool'  Glasgow Times\nBrendan Rodgers exits Leicester as former Celtic boss pays with his job amid nightmare run of form  Daily Record",
+          "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmdsYXNnb3d0aW1lcy5jby51ay9zcG9ydC8yMzQzMDUwOC5rcmlzLWJveWQtcmVjcmVhdGVzLWljb25pYy1icmVuZGFuLXJvZGdlcnMtc2Fja2VkLXR2LW1vbWVudC_SATJodHRwczovL3d3dy5nbGFzZ293dGltZXMuY28udWsvc3BvcnQvMjM0MzA1MDguYW1wLw?oc=5",
+          "publishedOn": "2023-04-03T09:56:18.000Z",
+          "wordCount": 6047,
+          "title": "Kris Boyd recreates iconic Brendan Rodgers 'sacked' TV moment - Glasgow Times",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiWmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvNS1nb29kLWNlbHRpYy1vbWVucy12cy0yOTYxNDMyOdIBXmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvNS1nb29kLWNlbHRpYy1vbWVucy12cy0yOTYxNDMyOS5hbXA",
           "author": null,
@@ -1721,36 +1721,6 @@
           "wordCount": 6047,
           "title": "Shay Given believes Celtic's Joe Hart has future locked down as age will be no barrier for keeper - Daily Record",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZ2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3Mva2VubnktbWlsbGVyLXJldmVhbHMtcmFuZ2Vycy1yZXR1cm4tMjk1ODAwNjPSAWtodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL2tlbm55LW1pbGxlci1yZXZlYWxzLXJhbmdlcnMtcmV0dXJuLTI5NTgwMDYzLmFtcA",
-          "author": null,
-          "description": "Kenny Miller reveals Rangers return was his destiny and knew it would happen on DAY of Celtic unveiling  Daily Record",
-          "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3Mva2VubnktbWlsbGVyLXJldmVhbHMtcmFuZ2Vycy1yZXR1cm4tMjk1ODAwNjPSAWtodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL2tlbm55LW1pbGxlci1yZXZlYWxzLXJhbmdlcnMtcmV0dXJuLTI5NTgwMDYzLmFtcA?oc=5",
-          "publishedOn": "2023-03-29T21:30:00.000Z",
-          "wordCount": 6047,
-          "title": "Kenny Miller reveals Rangers return was his destiny and knew it would happen on DAY of Celtic unveiling - Daily Record",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZ2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvY2FsbHVtLW1jZ3JlZ29yLXdhcm5zLXNjb3RsYW5kLW1ha2UtMjk1ODM3MDfSAWtodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL2NhbGx1bS1tY2dyZWdvci13YXJucy1zY290bGFuZC1tYWtlLTI5NTgzNzA3LmFtcA",
-          "author": null,
-          "description": "Callum McGregor warns Scotland to make Spain glory count or famous win will become a footnote  Daily Record",
-          "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvY2FsbHVtLW1jZ3JlZ29yLXdhcm5zLXNjb3RsYW5kLW1ha2UtMjk1ODM3MDfSAWtodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL2NhbGx1bS1tY2dyZWdvci13YXJucy1zY290bGFuZC1tYWtlLTI5NTgzNzA3LmFtcA?oc=5",
-          "publishedOn": "2023-03-29T21:30:00.000Z",
-          "wordCount": 6047,
-          "title": "Callum McGregor warns Scotland to make Spain glory count or famous win will become a footnote - Daily Record",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiTGh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS93YXRjaC1jZWx0aWMtc3RhcnMtcmVhY3QtdG8tbGVnZW5kcy1pY29uaWMtbW9tZW50cy_SAVBodHRwczovL2NlbHRzYXJlaGVyZS5jb20vd2F0Y2gtY2VsdGljLXN0YXJzLXJlYWN0LXRvLWxlZ2VuZHMtaWNvbmljLW1vbWVudHMvYW1wLw",
-          "author": null,
-          "description": "Watch: Celtic Stars React To Legend's Iconic Moments | Celts Are Here  CeltsAreHere",
-          "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS93YXRjaC1jZWx0aWMtc3RhcnMtcmVhY3QtdG8tbGVnZW5kcy1pY29uaWMtbW9tZW50cy_SAVBodHRwczovL2NlbHRzYXJlaGVyZS5jb20vd2F0Y2gtY2VsdGljLXN0YXJzLXJlYWN0LXRvLWxlZ2VuZHMtaWNvbmljLW1vbWVudHMvYW1wLw?oc=5",
-          "publishedOn": "2023-03-29T21:19:59.000Z",
-          "wordCount": 6047,
-          "title": "Watch: Celtic Stars React To Legend's Iconic Moments | Celts Are Here - CeltsAreHere",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -1759,6 +1729,36 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "8805aabaf3491e7dc2c54c24cd1b1678",
+          "author": null,
+          "description": "Stuart Dougal insists those within the game, as well as supporters, need to learn to accept that the new handball rule will lead to more spot kicks.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23430849.ex-ref-change-mindset-message-celtic-penalty-incident/?ref=rss",
+          "publishedOn": "2023-04-03T10:57:59.000Z",
+          "wordCount": 8555,
+          "title": "Ex-ref in 'change your mindset' message after Celtic penalty incident",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16626353/?type=og-image"
+        },
+        {
+          "id": "89269b9dac975a653ca30948bba007ad",
+          "author": null,
+          "description": "The ex-Celtic boss leaves the Foxes in the Premier League relegation zone after a late 2-1 defeat to Crystal Palace on Saturday.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23430508.kris-boyd-recreates-iconic-brendan-rodgers-sacked-tv-moment/?ref=rss",
+          "publishedOn": "2023-04-03T09:56:18.000Z",
+          "wordCount": 8527,
+          "title": "Kris Boyd recreates iconic Brendan Rodgers 'sacked' TV moment",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16625703/?type=og-image"
+        },
+        {
+          "id": "96f08fae3634b4ab7e17f2dff638215e",
+          "author": null,
+          "description": "Robbie Savage suggested on the airwaves last night that the Australian could be tempted by a switch to Leicester City.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23430245.postecoglou-celtic-exit-rubbished-sutton-brands-pundit-fool/?ref=rss",
+          "publishedOn": "2023-04-03T09:01:44.000Z",
+          "wordCount": 8563,
+          "title": "Postecoglou Celtic exit rubbished as Sutton brands pundit a 'fool'",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16625530/?type=og-image"
+        },
         {
           "id": "515b26d816829ed71d87bda478993123",
           "author": null,
