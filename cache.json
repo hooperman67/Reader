@@ -354,16 +354,6 @@
           "wordCount": null,
           "title": "SFA seek Sky Sports VAR talks after 'easy way out' claims from former Celtic star and pundit",
           "imageUrl": null
-        },
-        {
-          "id": "4094107",
-          "author": "Joel Sked",
-          "description": "Former Rangers midfielder Alex Rae believes players from both sides of Saturday’s Old Firm clash will miss having away fans at Celtic Park.",
-          "link": "https://www.scotsman.com/sport/football/celtic/players-will-feel-the-same-ex-rangers-star-explains-why-no-away-fans-at-celtic-park-impacts-the-spectacle-4094107",
-          "publishedOn": "2023-04-05T15:02:07.000Z",
-          "wordCount": null,
-          "title": "'Players will feel the same' - Ex-Rangers star explains why no away fans at Celtic Park impacts the spectacle",
-          "imageUrl": null
         }
       ]
     },
@@ -1571,36 +1561,6 @@
           "wordCount": 6051,
           "title": "The perfect 19: Celtic can take a major step towards historic Celtic Park feat this weekend - 67 Hail Hail - Celtic FC News",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiYmh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zY290dGlzaC1wcmVtaWVyc2hpcC9hbGV4LXJhZS1zYXlzLXJhbmdlcnMtY2VsdGljLTI2NjM5MTU20gFmaHR0cHM6Ly93d3cuZm9vdGJhbGxzY290bGFuZC5jby51ay9zcGZsL3Njb3R0aXNoLXByZW1pZXJzaGlwL2FsZXgtcmFlLXNheXMtcmFuZ2Vycy1jZWx0aWMtMjY2MzkxNTYuYW1w",
-          "author": null,
-          "description": "Alex Rae says Rangers and Celtic away fan ban over safety 'doesn't stack up'  Football Scotland",
-          "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zY290dGlzaC1wcmVtaWVyc2hpcC9hbGV4LXJhZS1zYXlzLXJhbmdlcnMtY2VsdGljLTI2NjM5MTU20gFmaHR0cHM6Ly93d3cuZm9vdGJhbGxzY290bGFuZC5jby51ay9zcGZsL3Njb3R0aXNoLXByZW1pZXJzaGlwL2FsZXgtcmFlLXNheXMtcmFuZ2Vycy1jZWx0aWMtMjY2MzkxNTYuYW1w?oc=5",
-          "publishedOn": "2023-04-05T14:33:52.000Z",
-          "wordCount": 6052,
-          "title": "Alex Rae says Rangers and Celtic away fan ban over safety 'doesn't stack up' - Football Scotland",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiTGh0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L2tpZXJhbi10aWVybmV5LWVhcm5zLWNlbHRpYy1vbmUtMjY2Mzg3NTHSAVBodHRwczovL3d3dy5nbGFzZ293bGl2ZS5jby51ay9zcG9ydC9raWVyYW4tdGllcm5leS1lYXJucy1jZWx0aWMtb25lLTI2NjM4NzUxLmFtcA",
-          "author": null,
-          "description": "Kieran Tierney earns Celtic one word response from two Parkhead icons as Arsenal star a 'tough one'  Glasgow Live",
-          "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L2tpZXJhbi10aWVybmV5LWVhcm5zLWNlbHRpYy1vbmUtMjY2Mzg3NTHSAVBodHRwczovL3d3dy5nbGFzZ293bGl2ZS5jby51ay9zcG9ydC9raWVyYW4tdGllcm5leS1lYXJucy1jZWx0aWMtb25lLTI2NjM4NzUxLmFtcA?oc=5",
-          "publishedOn": "2023-04-05T14:21:35.000Z",
-          "wordCount": 6051,
-          "title": "Kieran Tierney earns Celtic one word response from two Parkhead icons as Arsenal star a 'tough one' - Glasgow Live",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMieWh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvdmlyYWwtam90YS1zb25nLXRvLWdldC10aGUtZnVsbC1jZWx0aWMtcGFyay10cmVhdG1lbnQtYXMtY2x1Yi1tYWtlLXBsZWFzaW5nLWFubm91bmNlbWVudC_SAX1odHRwczovL3d3dy42N2hhaWxoYWlsLmNvbS9uZXdzL3ZpcmFsLWpvdGEtc29uZy10by1nZXQtdGhlLWZ1bGwtY2VsdGljLXBhcmstdHJlYXRtZW50LWFzLWNsdWItbWFrZS1wbGVhc2luZy1hbm5vdW5jZW1lbnQvP2FtcA",
-          "author": null,
-          "description": "Viral Jota song to get the full Celtic Park treatment as club make Wednesday announcement  67 Hail Hail - Celtic FC News",
-          "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvdmlyYWwtam90YS1zb25nLXRvLWdldC10aGUtZnVsbC1jZWx0aWMtcGFyay10cmVhdG1lbnQtYXMtY2x1Yi1tYWtlLXBsZWFzaW5nLWFubm91bmNlbWVudC_SAX1odHRwczovL3d3dy42N2hhaWxoYWlsLmNvbS9uZXdzL3ZpcmFsLWpvdGEtc29uZy10by1nZXQtdGhlLWZ1bGwtY2VsdGljLXBhcmstdHJlYXRtZW50LWFzLWNsdWItbWFrZS1wbGVhc2luZy1hbm5vdW5jZW1lbnQvP2FtcA?oc=5",
-          "publishedOn": "2023-04-05T13:22:56.000Z",
-          "wordCount": 6051,
-          "title": "Viral Jota song to get the full Celtic Park treatment as club make Wednesday announcement - 67 Hail Hail - Celtic FC News",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -2268,16 +2228,6 @@
           "wordCount": 8546,
           "title": "Celtic hero Chris Sutton loses TV work in football coverage shake up",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16049673/?type=og-image"
-        },
-        {
-          "id": "f05b3b13b3b9059615e7153ac0cae211",
-          "author": null,
-          "description": "Celtic have confirmed that singer-songwriter Ellie Dixon will perform at Parkhead ahead of Saturday's clash with Rangers.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23437370.celtic-confirm-live-music-performer-ahead-rangers-showdown/?ref=rss",
-          "publishedOn": "2023-04-05T14:08:20.000Z",
-          "wordCount": 8537,
-          "title": "Celtic confirm live music performer ahead of Rangers showdown",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16637840/?type=og-image"
         }
       ]
     }
