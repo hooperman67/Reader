@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-04-14T03:17:50.585Z</updated>
+    <updated>2023-04-14T06:22:09.066Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dr John MacLean's front seat to Scotland, trivial pursuit v Walter Smith, Serbia realisation, dementia study]]></title>
+        <id>4103738</id>
+        <link href="https://www.scotsman.com/sport/football/international/dr-john-macleans-front-seat-to-scotland-trivial-pursuit-v-walter-smith-serbia-realisation-dementia-study-4103738"/>
+        <updated>2023-04-14T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[“That night before we played France at Hampden, we had multiple games of trivial pursuit because we weren’t allowed to go to bed until the coaches team won a game.”]]></summary>
+        <author>
+            <name>Joel Sked</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rangers went 'backwards' claim, Celtic envy as Ibrox legend names trio who could replace Ross Wilson]]></title>
+        <id>4103756</id>
+        <link href="https://www.scotsman.com/sport/football/rangers/rangers-went-backwards-claim-celtic-envy-as-ibrox-legend-names-trio-who-could-replace-ross-wilson-4103756"/>
+        <updated>2023-04-14T05:52:18.000Z</updated>
+        <summary type="html"><![CDATA[Rangers legend Barry Ferguson believes the club went “backwards” last summer as he named three options to replace Ross Wilson as sporting director.]]></summary>
+        <author>
+            <name>Joel Sked</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TikTok Video: Hakšabanović plays ‘This or That’ in Paradise - The Celtic Star]]></title>
         <id>CBMiU2h0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vdGlrdG9rLXZpZGVvLWhha3NhYmFub3ZpYy1wbGF5cy10aGlzLW9yLXRoYXQtaW4tcGFyYWRpc2Uv0gFXaHR0cHM6Ly90aGVjZWx0aWNzdGFyLmNvbS90aWt0b2stdmlkZW8taGFrc2FiYW5vdmljLXBsYXlzLXRoaXMtb3ItdGhhdC1pbi1wYXJhZGlzZS9hbXAv</id>
@@ -2522,16 +2542,6 @@ Video – Larsson, Jota, “they are the same picture”  The Celtic Star]]></
         <summary type="html"><![CDATA[The centre-back was drafted into Michael Beale’s starting XI to partner Ben Davies at the back after Connor Goldson was ruled out through injury.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Todd Cantwell claims Celtic 'didn't win' derby as Rangers winger hails Michael Beale project]]></title>
-        <id>4097912</id>
-        <link href="https://www.scotsman.com/sport/football/rangers/todd-cantwell-claims-celtic-didnt-win-derby-as-rangers-winger-hails-michael-beale-project-4097912"/>
-        <updated>2023-04-09T15:27:48.000Z</updated>
-        <summary type="html"><![CDATA[Rangers winger Todd Cantwell has claimed that Celtic's victory in the Old Firm derby on Saturday was not of their own doing after insisting that it was his own side who lost the match.]]></summary>
-        <author>
-            <name>Matthew Elder</name>
         </author>
     </entry>
 </feed>
