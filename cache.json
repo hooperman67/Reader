@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4105318",
+          "author": "Mark Atkinson",
+          "description": "Japan coach Hajime Moriyasu is planning to visit Celtic Park in the near future to watch the club’s cohort of Japanese players and hold talks with manager Ange Postecoglou.",
+          "link": "https://www.scotsman.com/sport/football/celtic/i-was-a-little-nervous-japan-coach-plots-trip-and-talks-but-admits-early-concern-over-ange-postecoglou-reaction-4105318",
+          "publishedOn": "2023-04-14T17:34:36.000Z",
+          "wordCount": null,
+          "title": "'I was a little nervous': Japan coach plots trip and talks but admits early concern over Ange Postecoglou reaction",
+          "imageUrl": null
+        },
+        {
           "id": "4105062",
           "author": "Mark Atkinson",
           "description": "Both Celtic manager Ange Postecoglou and his Rangers counterpart Michael Beale have commented on the abuse referee Kevin Clancy has received in the wake of last weekend’s Old Firm clash.",
@@ -192,6 +202,26 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CBMicWh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvYWxpc3RhaXItam9obnN0b24tY3JlZGl0cy10aGUtMi10ZWFtbWF0ZXMtd2hvLWhhdmUtc2hvd24taGltLXRoZS1yb3Blcy1hdC1jZWx0aWMv0gF1aHR0cHM6Ly93d3cuNjdoYWlsaGFpbC5jb20vbmV3cy9hbGlzdGFpci1qb2huc3Rvbi1jcmVkaXRzLXRoZS0yLXRlYW1tYXRlcy13aG8taGF2ZS1zaG93bi1oaW0tdGhlLXJvcGVzLWF0LWNlbHRpYy8_YW1w",
+          "author": null,
+          "description": "Alistair Johnston credits the 2 teammates who have ‘shown him the ropes’ at Celtic  67 Hail Hail - Celtic FC News",
+          "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvYWxpc3RhaXItam9obnN0b24tY3JlZGl0cy10aGUtMi10ZWFtbWF0ZXMtd2hvLWhhdmUtc2hvd24taGltLXRoZS1yb3Blcy1hdC1jZWx0aWMv0gF1aHR0cHM6Ly93d3cuNjdoYWlsaGFpbC5jb20vbmV3cy9hbGlzdGFpci1qb2huc3Rvbi1jcmVkaXRzLXRoZS0yLXRlYW1tYXRlcy13aG8taGF2ZS1zaG93bi1oaW0tdGhlLXJvcGVzLWF0LWNlbHRpYy8_YW1w?oc=5",
+          "publishedOn": "2023-04-14T18:17:39.000Z",
+          "wordCount": 6053,
+          "title": "Alistair Johnston credits the 2 teammates who have ‘shown him the ropes’ at Celtic - 67 Hail Hail - Celtic FC News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiWGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vY2VsdGljLXBhcmstY2xvc2VkLWZvci1hLW1vbnRoLWNlbHRpYy1pbi10aGUtc2Vjb25kLXdvcmxkLXdhci_SAVxodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL2NlbHRpYy1wYXJrLWNsb3NlZC1mb3ItYS1tb250aC1jZWx0aWMtaW4tdGhlLXNlY29uZC13b3JsZC13YXIvYW1wLw",
+          "author": null,
+          "description": "Celtic Park Closed For A Month – Celtic In The Second World War  The Celtic Star",
+          "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vY2VsdGljLXBhcmstY2xvc2VkLWZvci1hLW1vbnRoLWNlbHRpYy1pbi10aGUtc2Vjb25kLXdvcmxkLXdhci_SAVxodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL2NlbHRpYy1wYXJrLWNsb3NlZC1mb3ItYS1tb250aC1jZWx0aWMtaW4tdGhlLXNlY29uZC13b3JsZC13YXIvYW1wLw?oc=5",
+          "publishedOn": "2023-04-14T17:52:58.000Z",
+          "wordCount": 6053,
+          "title": "Celtic Park Closed For A Month – Celtic In The Second World War - The Celtic Star",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMifWh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvYW5nZS1wb3N0ZWNvZ2xvdXMtaG9uZXN0LXZlcmRpY3Qtb2YtY2VsdGljLXZzLXJhbmdlcnMtZGVyYnktbWlzdGFrZXMtYW1pZHN0LXJlZmVyZWUtc2NydXRpbnkv0gGBAWh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvYW5nZS1wb3N0ZWNvZ2xvdXMtaG9uZXN0LXZlcmRpY3Qtb2YtY2VsdGljLXZzLXJhbmdlcnMtZGVyYnktbWlzdGFrZXMtYW1pZHN0LXJlZmVyZWUtc2NydXRpbnkvP2FtcA",
           "author": null,
@@ -2071,56 +2101,6 @@
           "wordCount": 6047,
           "title": "Ex-Hearts & Celtic player John Colquhoun opens up on Masters joy - HeraldScotland",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMikgFodHRwczovL3d3dy5uemhlcmFsZC5jby5uei9uei9yb2Qtc3Rld2FydC1nZXRzLXRhdHRvby1pbi1hdWNrbGFuZC10by1jZWxlYnJhdGUtdmljdG9yeS1vZi1iZWxvdmVkLWNlbHRpYy1mb290YmFsbC1jbHViL0VSTFlYV0JLT1ZFUVBPNEVIVkg2Q0hXR0tFL9IBoQFodHRwczovL3d3dy5uemhlcmFsZC5jby5uei9uei9yb2Qtc3Rld2FydC1nZXRzLXRhdHRvby1pbi1hdWNrbGFuZC10by1jZWxlYnJhdGUtdmljdG9yeS1vZi1iZWxvdmVkLWNlbHRpYy1mb290YmFsbC1jbHViL0VSTFlYV0JLT1ZFUVBPNEVIVkg2Q0hXR0tFLz9vdXRwdXRUeXBlPWFtcA",
-          "author": null,
-          "description": "Sir Rod Stewart gets tattoo in Auckland to celebrate victory of beloved Celtic Football Club  NZ Herald",
-          "link": "https://news.google.com/rss/articles/CBMikgFodHRwczovL3d3dy5uemhlcmFsZC5jby5uei9uei9yb2Qtc3Rld2FydC1nZXRzLXRhdHRvby1pbi1hdWNrbGFuZC10by1jZWxlYnJhdGUtdmljdG9yeS1vZi1iZWxvdmVkLWNlbHRpYy1mb290YmFsbC1jbHViL0VSTFlYV0JLT1ZFUVBPNEVIVkg2Q0hXR0tFL9IBoQFodHRwczovL3d3dy5uemhlcmFsZC5jby5uei9uei9yb2Qtc3Rld2FydC1nZXRzLXRhdHRvby1pbi1hdWNrbGFuZC10by1jZWxlYnJhdGUtdmljdG9yeS1vZi1iZWxvdmVkLWNlbHRpYy1mb290YmFsbC1jbHViL0VSTFlYV0JLT1ZFUVBPNEVIVkg2Q0hXR0tFLz9vdXRwdXRUeXBlPWFtcA?oc=5",
-          "publishedOn": "2023-04-10T05:04:39.000Z",
-          "wordCount": 6047,
-          "title": "Sir Rod Stewart gets tattoo in Auckland to celebrate victory of beloved Celtic Football Club - NZ Herald",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiXmh0dHBzOi8vd3d3LmhlcmFsZHNjb3RsYW5kLmNvbS9zcG9ydC8yMzQ0NDc5OS5yYW5nZXJzLWNhbnQtYWZmb3JkLWtpZC1jZWx0aWMtZ2FwLWlzbnQtbWFzc2l2ZS_SAQA",
-          "author": null,
-          "description": "Rangers can't afford to kid themselves that gap to Celtic 'isn't massive'  HeraldScotland",
-          "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmhlcmFsZHNjb3RsYW5kLmNvbS9zcG9ydC8yMzQ0NDc5OS5yYW5nZXJzLWNhbnQtYWZmb3JkLWtpZC1jZWx0aWMtZ2FwLWlzbnQtbWFzc2l2ZS_SAQA?oc=5",
-          "publishedOn": "2023-04-10T05:00:02.000Z",
-          "wordCount": 6048,
-          "title": "Rangers can't afford to kid themselves that gap to Celtic 'isn't massive' - HeraldScotland",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiYWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3Mvam90YXMtc29uZy1sZWF2ZXMtY2VsdGljLXN0YXItMjk2Njg1NDXSAWVodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL2pvdGFzLXNvbmctbGVhdmVzLWNlbHRpYy1zdGFyLTI5NjY4NTQ1LmFtcA",
-          "author": null,
-          "description": "Jota admits his Celtic fan song leaves him in awe  Daily Record",
-          "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3Mvam90YXMtc29uZy1sZWF2ZXMtY2VsdGljLXN0YXItMjk2Njg1NDXSAWVodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL2pvdGFzLXNvbmctbGVhdmVzLWNlbHRpYy1zdGFyLTI5NjY4NTQ1LmFtcA?oc=5",
-          "publishedOn": "2023-04-10T05:00:00.000Z",
-          "wordCount": 6047,
-          "title": "Jota admits his Celtic fan song leaves him in awe - Daily Record",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiXWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL25ld3Mvc2NvdHRpc2gtbmV3cy9jZWx0aWMtbGF3eWVycy1hY2N1c2VkLXN0aWNraW5nLXR3by0yOTYzNzQzMdIBYWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL25ld3Mvc2NvdHRpc2gtbmV3cy9jZWx0aWMtbGF3eWVycy1hY2N1c2VkLXN0aWNraW5nLXR3by0yOTYzNzQzMS5hbXA",
-          "author": null,
-          "description": "Celtic lawyers accused of 'sticking two fingers up' at Boys Club sex abuse survivors  Daily Record",
-          "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL25ld3Mvc2NvdHRpc2gtbmV3cy9jZWx0aWMtbGF3eWVycy1hY2N1c2VkLXN0aWNraW5nLXR3by0yOTYzNzQzMdIBYWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL25ld3Mvc2NvdHRpc2gtbmV3cy9jZWx0aWMtbGF3eWVycy1hY2N1c2VkLXN0aWNraW5nLXR3by0yOTYzNzQzMS5hbXA?oc=5",
-          "publishedOn": "2023-04-10T03:30:00.000Z",
-          "wordCount": 6048,
-          "title": "Celtic lawyers accused of 'sticking two fingers up' at Boys Club sex abuse survivors - Daily Record",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiW2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL25ld3Mvc2NvdHRpc2gtbmV3cy9odW16YS15b3VzYWYtcHJvYmUtcHJpdmF0ZS1zY2hvb2wtMjk2NjkwMDjSAV9odHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9uZXdzL3Njb3R0aXNoLW5ld3MvaHVtemEteW91c2FmLXByb2JlLXByaXZhdGUtc2Nob29sLTI5NjY5MDA4LmFtcA",
-          "author": null,
-          "description": "How the Daily Record revealed the truth of sex attacks on Celtic Boys Club players  Daily Record",
-          "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL25ld3Mvc2NvdHRpc2gtbmV3cy9odW16YS15b3VzYWYtcHJvYmUtcHJpdmF0ZS1zY2hvb2wtMjk2NjkwMDjSAV9odHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9uZXdzL3Njb3R0aXNoLW5ld3MvaHVtemEteW91c2FmLXByb2JlLXByaXZhdGUtc2Nob29sLTI5NjY5MDA4LmFtcA?oc=5",
-          "publishedOn": "2023-04-10T03:30:00.000Z",
-          "wordCount": 6048,
-          "title": "How the Daily Record revealed the truth of sex attacks on Celtic Boys Club players - Daily Record",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -2129,6 +2109,56 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "14a8d23dfd1d333c4ac248ae613eace9",
+          "author": null,
+          "description": "Hajime Moriyasu insists he wants to strike up a better relationship with the Celtic manager with so many Japanese players in the Hoops squad now.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23457071.japan-boss-seeking-build-more-friendly-bond-celtic/?ref=rss",
+          "publishedOn": "2023-04-14T16:47:46.000Z",
+          "wordCount": 8514,
+          "title": "Japan boss seeking to build 'more friendly' bond with Celtic",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16671154/?type=og-image"
+        },
+        {
+          "id": "67fa7ddb472da070f6291f13ca5dc9d2",
+          "author": null,
+          "description": "The Australian feels the forward deserves an opportunity.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23457005.jota-backed-portugal-call-up-celtic-boss-ange-postecoglou/?ref=rss",
+          "publishedOn": "2023-04-14T16:35:00.000Z",
+          "wordCount": 8562,
+          "title": "Jota backed for Portugal call-up by Celtic boss Ange Postecoglou",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16671284/?type=og-image"
+        },
+        {
+          "id": "ae70fc510969809871b1cc3eb36a5c10",
+          "author": null,
+          "description": "The Hoops manager has made clear there is no place for such behaviour in the Scottish game.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23456869.celtic-boss-ange-postecoglou-condemns-kevin-clancy-abuse/?ref=rss",
+          "publishedOn": "2023-04-14T16:03:00.000Z",
+          "wordCount": 9645,
+          "title": "Celtic boss Ange Postecoglou condemns Kevin Clancy abuse",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16671099/?type=og-image"
+        },
+        {
+          "id": "528b00dcc542d1fbcef2b4e36fe4028c",
+          "author": null,
+          "description": "Sir Alex Ferguson was joined by a number of famous faces at a Glasgow charity event yesterday.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23456578.sir-alex-ferguson-joined-rangers-celtic-legends-glasgow/?ref=rss",
+          "publishedOn": "2023-04-14T15:03:49.000Z",
+          "wordCount": 8294,
+          "title": "Sir Alex Ferguson joined by Rangers and Celtic legends in Glasgow",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16670716/?type=og-image"
+        },
+        {
+          "id": "80283814b32f1d148371929ef27fe4e8",
+          "author": null,
+          "description": "The Ibrox boss has held up his hands over comments he made during his side's 3-2 defeat at Parkhead.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23456358.i-got-wrong-michael-beale-celtic-vs-rangers-admission/?ref=rss",
+          "publishedOn": "2023-04-14T14:23:31.000Z",
+          "wordCount": 8564,
+          "title": "'I got it wrong' - Michael Beale in Celtic vs Rangers admission",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16670223/?type=og-image"
+        },
         {
           "id": "b616d661166863796063b6149ae97ecd",
           "author": null,
