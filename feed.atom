@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-04-15T06:20:54.204Z</updated>
+    <updated>2023-04-15T09:15:40.915Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Postecoglou insists Klinsmann will get best out of Oh for South Korea]]></title>
+        <id>71172df6a44be8e80de15c55b9f869a1</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23457402.postecoglou-insists-klinsmann-will-get-best-oh-south-korea/?ref=rss"/>
+        <updated>2023-04-15T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Becoming Celtic's first-choice striker will not be easy but the South Korean has just the man to turn to for the occasional word of advice.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rangers predicted XI vs St Mirren as Michael Beale deals with six injury absentees at Ibrox - Glasgow Live]]></title>
+        <id>CBMiR2h0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L3JhbmdlcnMtcHJlZGljdGVkLXhpLXZzLXN0LTI2NjkwMDA00gFLaHR0cHM6Ly93d3cuZ2xhc2dvd2xpdmUuY28udWsvc3BvcnQvcmFuZ2Vycy1wcmVkaWN0ZWQteGktdnMtc3QtMjY2OTAwMDQuYW1w</id>
+        <link href="https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L3JhbmdlcnMtcHJlZGljdGVkLXhpLXZzLXN0LTI2NjkwMDA00gFLaHR0cHM6Ly93d3cuZ2xhc2dvd2xpdmUuY28udWsvc3BvcnQvcmFuZ2Vycy1wcmVkaWN0ZWQteGktdnMtc3QtMjY2OTAwMDQuYW1w?oc=5"/>
+        <updated>2023-04-15T07:01:32.000Z</updated>
+        <summary type="html"><![CDATA[Rangers predicted XI vs St Mirren as Michael Beale deals with six injury absentees at Ibrox  Glasgow Live]]></summary>
+        <author>
+            <name>"celtic fc" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ange Postecoglou's Grand National tip as Celtic boss pins colours to mast ahead of potential Killie pie debut]]></title>
+        <id>4105261</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/ange-postecoglous-grand-national-tip-as-celtic-boss-pins-colours-to-mast-ahead-of-potential-killie-pie-debut-4105261"/>
+        <updated>2023-04-15T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ange Postecoglou has confirmed he will not be indulging in the great British tradition of having a flutter on the Grand National on Saturday.]]></summary>
+        <author>
+            <name>Matthew Elder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jurgen Klinsmann Set To Attend Celtic Tie | Celts Are Here - CeltsAreHere]]></title>
+        <id>CBMiQ2h0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9qdXJnZW4ta2xpbnNtYW5uLXNldC10by1hdHRlbmQtY2VsdGljLXRpZS_SAUdodHRwczovL2NlbHRzYXJlaGVyZS5jb20vanVyZ2VuLWtsaW5zbWFubi1zZXQtdG8tYXR0ZW5kLWNlbHRpYy10aWUvYW1wLw</id>
+        <link href="https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9qdXJnZW4ta2xpbnNtYW5uLXNldC10by1hdHRlbmQtY2VsdGljLXRpZS_SAUdodHRwczovL2NlbHRzYXJlaGVyZS5jb20vanVyZ2VuLWtsaW5zbWFubi1zZXQtdG8tYXR0ZW5kLWNlbHRpYy10aWUvYW1wLw?oc=5"/>
+        <updated>2023-04-15T06:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Jurgen Klinsmann Set To Attend Celtic Tie | Celts Are Here  CeltsAreHere]]></summary>
+        <author>
+            <name>"celtic fc" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sam Walker hoping to dodge Kilmarnock survival mission on final day]]></title>
+        <id>a49a6325b579a766c6fb9bb61c3021bd</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23456581.sam-walker-hoping-dodge-kilmarnock-survival-mission-final-day/?ref=rss"/>
+        <updated>2023-04-15T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The goalkeeper was twice a part of a Colchester team to survive in League One on the final day of the season.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Alistair Johnston insists Celtic can vastly improve on Rangers showing]]></title>
         <id>8c41e9ddbcc249810ebbfa1b68fbdcdb</id>
@@ -2314,98 +2364,6 @@ Celtic star Kyogo gets EA Sports recognition  67 Hail Hail - Celtic FC News]]>
         <summary type="html"><![CDATA[The Japanese midfielder was again absent for Saturday's derby victory over Rangers.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ibrox Meltdown Continues; Club Demand An Apology For Celtic Flashpoint | Celts Are Here - CeltsAreHere]]></title>
-        <id>CBMiX2h0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9pYnJveC1tZWx0ZG93bi1jb250aW51ZXMtY2x1Yi1kZW1hbmQtYW4tYXBvbG9neS1mb3ItY2VsdGljLWZsYXNocG9pbnQv0gFjaHR0cHM6Ly9jZWx0c2FyZWhlcmUuY29tL2licm94LW1lbHRkb3duLWNvbnRpbnVlcy1jbHViLWRlbWFuZC1hbi1hcG9sb2d5LWZvci1jZWx0aWMtZmxhc2hwb2ludC9hbXAv</id>
-        <link href="https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9pYnJveC1tZWx0ZG93bi1jb250aW51ZXMtY2x1Yi1kZW1hbmQtYW4tYXBvbG9neS1mb3ItY2VsdGljLWZsYXNocG9pbnQv0gFjaHR0cHM6Ly9jZWx0c2FyZWhlcmUuY29tL2licm94LW1lbHRkb3duLWNvbnRpbnVlcy1jbHViLWRlbWFuZC1hbi1hcG9sb2d5LWZvci1jZWx0aWMtZmxhc2hwb2ludC9hbXAv?oc=5"/>
-        <updated>2023-04-10T20:24:46.000Z</updated>
-        <summary type="html"><![CDATA[Ibrox Meltdown Continues; Club Demand An Apology For Celtic Flashpoint | Celts Are Here  CeltsAreHere]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rangers admit astonishment at SFA response over disallowed goal v Celtic as club condemn abuse of referee]]></title>
-        <id>4098763</id>
-        <link href="https://www.scotsman.com/sport/football/rangers/rangers-admit-astonishment-at-sfa-response-over-disallowed-goal-v-celtic-as-club-condemn-abuse-of-referee-4098763"/>
-        <updated>2023-04-10T20:14:18.000Z</updated>
-        <summary type="html"><![CDATA[Rangers have confirmed their astonishment at the Scottish FA's response regarding the disallowed goal in the club’s 3-2 defeat to Celtic on Saturday.]]></summary>
-        <author>
-            <name>Joel Sked</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Video: Fan Footage, Incredible YNWA Scene Inside Celtic Park - The Celtic Star]]></title>
-        <id>CBMiVWh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vdmlkZW8tZmFuLWZvb3RhZ2UtaW5jcmVkaWJsZS15bndhLXNjZW5lLWluc2lkZS1jZWx0aWMtcGFyay_SAVlodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL3ZpZGVvLWZhbi1mb290YWdlLWluY3JlZGlibGUteW53YS1zY2VuZS1pbnNpZGUtY2VsdGljLXBhcmsvYW1wLw</id>
-        <link href="https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vdmlkZW8tZmFuLWZvb3RhZ2UtaW5jcmVkaWJsZS15bndhLXNjZW5lLWluc2lkZS1jZWx0aWMtcGFyay_SAVlodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL3ZpZGVvLWZhbi1mb290YWdlLWluY3JlZGlibGUteW53YS1zY2VuZS1pbnNpZGUtY2VsdGljLXBhcmsvYW1wLw?oc=5"/>
-        <updated>2023-04-10T20:00:40.000Z</updated>
-        <summary type="html"><![CDATA[Video: Fan Footage, Incredible YNWA Scene Inside Celtic Park  The Celtic Star]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sir Rod Stewart finishes off his New Zealand tour with a tattoo to honour Celtic Football Club - Stuff]]></title>
-        <id>CBMimgFodHRwczovL3d3dy5zdHVmZi5jby5uei9lbnRlcnRhaW5tZW50L2NlbGVicml0aWVzLzMwMDg1MDU2NS9zaXItcm9kLXN0ZXdhcnQtZmluaXNoZXMtb2ZmLWhpcy1uZXctemVhbGFuZC10b3VyLXdpdGgtYS10YXR0b28tdG8taG9ub3VyLWNlbHRpYy1mb290YmFsbC1jbHVi0gEA</id>
-        <link href="https://news.google.com/rss/articles/CBMimgFodHRwczovL3d3dy5zdHVmZi5jby5uei9lbnRlcnRhaW5tZW50L2NlbGVicml0aWVzLzMwMDg1MDU2NS9zaXItcm9kLXN0ZXdhcnQtZmluaXNoZXMtb2ZmLWhpcy1uZXctemVhbGFuZC10b3VyLXdpdGgtYS10YXR0b28tdG8taG9ub3VyLWNlbHRpYy1mb290YmFsbC1jbHVi0gEA?oc=5"/>
-        <updated>2023-04-10T19:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Sir Rod Stewart finishes off his New Zealand tour with a tattoo to honour Celtic Football Club  Stuff]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic star Alistair Johnston laps up Rangers 'against them' swipe]]></title>
-        <id>921c2d89595163c34e30259291a2f9f3</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23446541.celtic-star-alistair-johnston-laps-rangers-against-them-swipe/?ref=rss"/>
-        <updated>2023-04-10T19:35:31.000Z</updated>
-        <summary type="html"><![CDATA[The right-back played a big part in the 3-2 game, earning the man of the match award.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alistair Johnston refuses to say Rangers name as Celtic star left thrilled with win 'against them' - Football Scotland]]></title>
-        <id>CBMia2h0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zY290dGlzaC1wcmVtaWVyc2hpcC9hbGlzdGFpci1qb2huc3Rvbi1yZWZ1c2VzLXNheS1yYW5nZXJzLTI2NjY4ODk40gFvaHR0cHM6Ly93d3cuZm9vdGJhbGxzY290bGFuZC5jby51ay9zcGZsL3Njb3R0aXNoLXByZW1pZXJzaGlwL2FsaXN0YWlyLWpvaG5zdG9uLXJlZnVzZXMtc2F5LXJhbmdlcnMtMjY2Njg4OTguYW1w</id>
-        <link href="https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zY290dGlzaC1wcmVtaWVyc2hpcC9hbGlzdGFpci1qb2huc3Rvbi1yZWZ1c2VzLXNheS1yYW5nZXJzLTI2NjY4ODk40gFvaHR0cHM6Ly93d3cuZm9vdGJhbGxzY290bGFuZC5jby51ay9zcGZsL3Njb3R0aXNoLXByZW1pZXJzaGlwL2FsaXN0YWlyLWpvaG5zdG9uLXJlZnVzZXMtc2F5LXJhbmdlcnMtMjY2Njg4OTguYW1w?oc=5"/>
-        <updated>2023-04-10T19:20:09.000Z</updated>
-        <summary type="html"><![CDATA[Alistair Johnston refuses to say Rangers name as Celtic star left thrilled with win 'against them'  Football Scotland]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ange Postecoglou’s glowing Kyogo praise but with a stark warning to Celtic’s opponents - 67 Hail Hail - Celtic FC News]]></title>
-        <id>CBMidWh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvYW5nZS1wb3N0ZWNvZ2xvdXMtZ2xvd2luZy1reW9nby1wcmFpc2UtYnV0LXdpdGgtYS1zdGFyay13YXJuaW5nLXRvLWNlbHRpY3Mtb3Bwb25lbnRzL9IBeWh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvYW5nZS1wb3N0ZWNvZ2xvdXMtZ2xvd2luZy1reW9nby1wcmFpc2UtYnV0LXdpdGgtYS1zdGFyay13YXJuaW5nLXRvLWNlbHRpY3Mtb3Bwb25lbnRzLz9hbXA</id>
-        <link href="https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvYW5nZS1wb3N0ZWNvZ2xvdXMtZ2xvd2luZy1reW9nby1wcmFpc2UtYnV0LXdpdGgtYS1zdGFyay13YXJuaW5nLXRvLWNlbHRpY3Mtb3Bwb25lbnRzL9IBeWh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvYW5nZS1wb3N0ZWNvZ2xvdXMtZ2xvd2luZy1reW9nby1wcmFpc2UtYnV0LXdpdGgtYS1zdGFyay13YXJuaW5nLXRvLWNlbHRpY3Mtb3Bwb25lbnRzLz9hbXA?oc=5"/>
-        <updated>2023-04-10T19:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Ange Postecoglou’s glowing Kyogo praise but with a stark warning to Celtic’s opponents  67 Hail Hail - Celtic FC News
-Ange delivers classic one-liner to BBC journalist’s Celtic title question  67 Hail Hail - Celtic FC News
-Something doesn’t add up despite Kieran McGuire’s dig at 60,000 Celtic supporters  The Celtic Star]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rangers flop Joey Barton in Celtic hero Scott Brown Fleetwood swipe]]></title>
-        <id>e211ae66ff92715f3c005bcd18cb93a3</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23446519.rangers-flop-joey-barton-celtic-hero-scott-brown-fleetwood-swipe/?ref=rss"/>
-        <updated>2023-04-10T18:59:02.000Z</updated>
-        <summary type="html"><![CDATA[Their sides - Bristol Rovers and Fleetwood Town - faced off at the weekend, with Barton's Rovers side prevailing as 2-1 winners.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic still ‘the benchmark’ for Michael Stewart despite badly missing standout star vs Rangers - 67 Hail Hail - Celtic FC News]]></title>
-        <id>CBMifmh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvY2VsdGljLXN0aWxsLXRoZS1iZW5jaG1hcmstZm9yLW1pY2hhZWwtc3Rld2FydC1kZXNwaXRlLWJhZGx5LW1pc3Npbmctc3RhbmRvdXQtc3Rhci12cy1yYW5nZXJzL9IBggFodHRwczovL3d3dy42N2hhaWxoYWlsLmNvbS9uZXdzL2NlbHRpYy1zdGlsbC10aGUtYmVuY2htYXJrLWZvci1taWNoYWVsLXN0ZXdhcnQtZGVzcGl0ZS1iYWRseS1taXNzaW5nLXN0YW5kb3V0LXN0YXItdnMtcmFuZ2Vycy8_YW1w</id>
-        <link href="https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvY2VsdGljLXN0aWxsLXRoZS1iZW5jaG1hcmstZm9yLW1pY2hhZWwtc3Rld2FydC1kZXNwaXRlLWJhZGx5LW1pc3Npbmctc3RhbmRvdXQtc3Rhci12cy1yYW5nZXJzL9IBggFodHRwczovL3d3dy42N2hhaWxoYWlsLmNvbS9uZXdzL2NlbHRpYy1zdGlsbC10aGUtYmVuY2htYXJrLWZvci1taWNoYWVsLXN0ZXdhcnQtZGVzcGl0ZS1iYWRseS1taXNzaW5nLXN0YW5kb3V0LXN0YXItdnMtcmFuZ2Vycy8_YW1w?oc=5"/>
-        <updated>2023-04-10T18:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Celtic still ‘the benchmark’ for Michael Stewart despite badly missing standout star vs Rangers  67 Hail Hail - Celtic FC News]]></summary>
-        <author>
-            <name>"celtic fc" - Google News</name>
         </author>
     </entry>
 </feed>
