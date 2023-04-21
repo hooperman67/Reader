@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4114694",
+          "author": "Mark Atkinson",
+          "description": "Celtic manager Ange Postecoglou has lauded the impact Tomoki Iwata has had on his team.",
+          "link": "https://www.scotsman.com/sport/football/celtic/tomoki-iwatas-celtic-story-if-you-ask-the-lads-they-will-all-tell-you-the-same-thing-4114694",
+          "publishedOn": "2023-04-21T17:31:44.000Z",
+          "wordCount": null,
+          "title": "Tomoki Iwata's Celtic story: 'If you ask the lads, they will all tell you the same thing'",
+          "imageUrl": null
+        },
+        {
           "id": "4114622",
           "author": "Mark Atkinson",
           "description": "The Scottish Football Association have revealed why Aberdeen’s appeal to overturn a red card and subsequent suspension for Graeme Shinnie was rejected.",
@@ -324,16 +334,6 @@
           "wordCount": null,
           "title": "Ajax linked with Celtic forward Liel Abada as queue of suitors lengthens",
           "imageUrl": null
-        },
-        {
-          "id": "4106276",
-          "author": "Mark Atkinson",
-          "description": "We pick out three talking points from Celtic’s 4-1 win over Kilmarnock at Rugby Park.",
-          "link": "https://www.scotsman.com/sport/football/celtic/celtic-reaction-a-kyogo-furuhashi-first-scouts-in-house-but-were-leverkusen-there-ben-summers-growth-4106276",
-          "publishedOn": "2023-04-17T06:32:08.000Z",
-          "wordCount": null,
-          "title": "Celtic reaction: A Kyogo Furuhashi first, scouts in house but were Leverkusen there, Ben Summers 'growth'",
-          "imageUrl": null
         }
       ]
     },
@@ -342,6 +342,36 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CBMiY2h0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vaGVzLWEtbGl0dGxlLWJpdC1vZi1hLWh5YnJpZC1hbmdlLW9uLWphcGFuZXNlLXN0YXItYmVpbmctdHVybmVkLXNjb3R0aXNoL9IBZ2h0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vaGVzLWEtbGl0dGxlLWJpdC1vZi1hLWh5YnJpZC1hbmdlLW9uLWphcGFuZXNlLXN0YXItYmVpbmctdHVybmVkLXNjb3R0aXNoL2FtcC8",
+          "author": null,
+          "description": "“He’s a little bit of a hybrid,” Ange on Japanese star being ‘turned Scottish’  The Celtic Star",
+          "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vaGVzLWEtbGl0dGxlLWJpdC1vZi1hLWh5YnJpZC1hbmdlLW9uLWphcGFuZXNlLXN0YXItYmVpbmctdHVybmVkLXNjb3R0aXNoL9IBZ2h0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vaGVzLWEtbGl0dGxlLWJpdC1vZi1hLWh5YnJpZC1hbmdlLW9uLWphcGFuZXNlLXN0YXItYmVpbmctdHVybmVkLXNjb3R0aXNoL2FtcC8?oc=5",
+          "publishedOn": "2023-04-21T20:28:59.000Z",
+          "wordCount": 6041,
+          "title": "“He’s a little bit of a hybrid,” Ange on Japanese star being ‘turned Scottish’ - The Celtic Star",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMid2h0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvY2VsdGljLWJvc3MtYW5nZS1wb3N0ZWNvZ2xvdS1kZWxpdmVycy10aGUtbW9zdC1leGNpdGluZy1hc3Nlc3NtZW50LW9mLXRvbW9raS1pd2F0YS15ZXQv0gF7aHR0cHM6Ly93d3cuNjdoYWlsaGFpbC5jb20vbmV3cy9jZWx0aWMtYm9zcy1hbmdlLXBvc3RlY29nbG91LWRlbGl2ZXJzLXRoZS1tb3N0LWV4Y2l0aW5nLWFzc2Vzc21lbnQtb2YtdG9tb2tpLWl3YXRhLXlldC8_YW1w",
+          "author": null,
+          "description": "Celtic boss Ange Postecoglou delivers the most exciting assessment of Tomoki Iwata yet  67 Hail Hail - Celtic FC News",
+          "link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvY2VsdGljLWJvc3MtYW5nZS1wb3N0ZWNvZ2xvdS1kZWxpdmVycy10aGUtbW9zdC1leGNpdGluZy1hc3Nlc3NtZW50LW9mLXRvbW9raS1pd2F0YS15ZXQv0gF7aHR0cHM6Ly93d3cuNjdoYWlsaGFpbC5jb20vbmV3cy9jZWx0aWMtYm9zcy1hbmdlLXBvc3RlY29nbG91LWRlbGl2ZXJzLXRoZS1tb3N0LWV4Y2l0aW5nLWFzc2Vzc21lbnQtb2YtdG9tb2tpLWl3YXRhLXlldC8_YW1w?oc=5",
+          "publishedOn": "2023-04-21T19:52:27.000Z",
+          "wordCount": 6041,
+          "title": "Celtic boss Ange Postecoglou delivers the most exciting assessment of Tomoki Iwata yet - 67 Hail Hail - Celtic FC News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiTGh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3Mvc2t5LXNwb3J0cy1zY2hlZHVsZS10aHJvd3MtdXAtY2VsdGljLXJhcml0eS_SAVBodHRwczovL3d3dy42N2hhaWxoYWlsLmNvbS9uZXdzL3NreS1zcG9ydHMtc2NoZWR1bGUtdGhyb3dzLXVwLWNlbHRpYy1yYXJpdHkvP2FtcA",
+          "author": null,
+          "description": "Sky Sports schedule throws up Celtic rarity  67 Hail Hail - Celtic FC News",
+          "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3Mvc2t5LXNwb3J0cy1zY2hlZHVsZS10aHJvd3MtdXAtY2VsdGljLXJhcml0eS_SAVBodHRwczovL3d3dy42N2hhaWxoYWlsLmNvbS9uZXdzL3NreS1zcG9ydHMtc2NoZWR1bGUtdGhyb3dzLXVwLWNlbHRpYy1yYXJpdHkvP2FtcA?oc=5",
+          "publishedOn": "2023-04-21T19:22:32.000Z",
+          "wordCount": 6041,
+          "title": "Sky Sports schedule throws up Celtic rarity - 67 Hail Hail - Celtic FC News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMieWh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvbWljaGFlbC1uaWNob2xzb24tYW5kLWNlbHRpYy1vZmZpY2lhbHMtdHJhdmVsLXRvLXNvdXRoLWtvcmVhLWFzLXN1bW1lci1leGNpdGVtZW50LWJ1aWxkcy_SAX1odHRwczovL3d3dy42N2hhaWxoYWlsLmNvbS9uZXdzL21pY2hhZWwtbmljaG9sc29uLWFuZC1jZWx0aWMtb2ZmaWNpYWxzLXRyYXZlbC10by1zb3V0aC1rb3JlYS1hcy1zdW1tZXItZXhjaXRlbWVudC1idWlsZHMvP2FtcA",
           "author": null,
@@ -803,6 +833,16 @@
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
+          "id": "CBMiYmh0dHBzOi8vd3d3LmhlcmFsZHNjb3RsYW5kLmNvbS9zcG9ydC8yMzQ2Nzg2Mi5zd3BsLXJhbmdlcnMtaGVscC1jZWx0aWMtZ2Fpbi1ncm91bmQtbGVhZ3VlLWxlYWRlcnMv0gEA",
+          "author": null,
+          "description": "Celtic gain ground in title race as Rangers defeat Glasgow City  HeraldScotland",
+          "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmhlcmFsZHNjb3RsYW5kLmNvbS9zcG9ydC8yMzQ2Nzg2Mi5zd3BsLXJhbmdlcnMtaGVscC1jZWx0aWMtZ2Fpbi1ncm91bmQtbGVhZ3VlLWxlYWRlcnMv0gEA?oc=5",
+          "publishedOn": "2023-04-20T05:21:25.000Z",
+          "wordCount": 6041,
+          "title": "Celtic gain ground in title race as Rangers defeat Glasgow City - HeraldScotland",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "CBMiYmh0dHBzOi8vd3d3LmdsYXNnb3d0aW1lcy5jby51ay9zcG9ydC8yMzQ2Nzg2Mi5zd3BsLXJhbmdlcnMtaGVscC1jZWx0aWMtZ2Fpbi1ncm91bmQtbGVhZ3VlLWxlYWRlcnMv0gEyaHR0cHM6Ly93d3cuZ2xhc2dvd3RpbWVzLmNvLnVrL3Nwb3J0LzIzNDY3ODYyLmFtcC8",
           "author": null,
           "description": "SWPL: Celtic gain ground on league leaders after Rangers win  Glasgow Times",
@@ -840,6 +880,16 @@
           "publishedOn": "2023-04-19T19:48:03.000Z",
           "wordCount": 6053,
           "title": "La Liga president puts Celtic and Rangers on alert with radical Euro breakaway - Daily Record",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMifWh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvY2VsdGljcy1jdXJyZW50LXdpbm5pbmctcnVuLWlzLXVwLXRoZXJlLXdpdGgtdGhlLWJlc3QtaW4tb3VyLWhpc3RvcnktaG93LXRvLWJyZWFrLXRoZS1yZWNvcmQv0gEA",
+          "author": null,
+          "description": "Celtic's current winning run is up there with the best in our history ...  67 Hail Hail - Celtic FC News",
+          "link": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvY2VsdGljcy1jdXJyZW50LXdpbm5pbmctcnVuLWlzLXVwLXRoZXJlLXdpdGgtdGhlLWJlc3QtaW4tb3VyLWhpc3RvcnktaG93LXRvLWJyZWFrLXRoZS1yZWNvcmQv0gEA?oc=5",
+          "publishedOn": "2023-04-19T19:10:00.000Z",
+          "wordCount": 6041,
+          "title": "Celtic's current winning run is up there with the best in our history ... - 67 Hail Hail - Celtic FC News",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -1831,66 +1881,6 @@
           "wordCount": 6053,
           "title": "Celtic told substitute is better than one regular starter - The Celtic Bhoys",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiTGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vdmlkZW8tam9zaXAtanVyYW5vdmljLXNjb3Jlcy1pbmNyZWRpYmxlLWZyZWUta2ljay_SAVBodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL3ZpZGVvLWpvc2lwLWp1cmFub3ZpYy1zY29yZXMtaW5jcmVkaWJsZS1mcmVlLWtpY2svYW1wLw",
-          "author": null,
-          "description": "Video: Josip Juranovic Scores Incredible Free Kick  The Celtic Star",
-          "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vdmlkZW8tam9zaXAtanVyYW5vdmljLXNjb3Jlcy1pbmNyZWRpYmxlLWZyZWUta2ljay_SAVBodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL3ZpZGVvLWpvc2lwLWp1cmFub3ZpYy1zY29yZXMtaW5jcmVkaWJsZS1mcmVlLWtpY2svYW1wLw?oc=5",
-          "publishedOn": "2023-04-17T09:01:30.000Z",
-          "wordCount": 6053,
-          "title": "Video: Josip Juranovic Scores Incredible Free Kick - The Celtic Star",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZWh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zY290dGlzaC1wcmVtaWVyc2hpcC9jZWx0aWMtYm9zcy1mcmFuLWFsb25zby1yZXZlYWxzLTI2NzEzMTI00gFpaHR0cHM6Ly93d3cuZm9vdGJhbGxzY290bGFuZC5jby51ay9zcGZsL3Njb3R0aXNoLXByZW1pZXJzaGlwL2NlbHRpYy1ib3NzLWZyYW4tYWxvbnNvLXJldmVhbHMtMjY3MTMxMjQuYW1w",
-          "author": null,
-          "description": "Celtic boss Fran Alonso reveals Rangers headbutt apology and what Craig McPherson told him  Football Scotland",
-          "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zY290dGlzaC1wcmVtaWVyc2hpcC9jZWx0aWMtYm9zcy1mcmFuLWFsb25zby1yZXZlYWxzLTI2NzEzMTI00gFpaHR0cHM6Ly93d3cuZm9vdGJhbGxzY290bGFuZC5jby51ay9zcGZsL3Njb3R0aXNoLXByZW1pZXJzaGlwL2NlbHRpYy1ib3NzLWZyYW4tYWxvbnNvLXJldmVhbHMtMjY3MTMxMjQuYW1w?oc=5",
-          "publishedOn": "2023-04-17T08:21:38.000Z",
-          "wordCount": 6053,
-          "title": "Celtic boss Fran Alonso reveals Rangers headbutt apology and what Craig McPherson told him - Football Scotland",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiWWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL25ld3Mvc2NvdHRpc2gtbmV3cy9wb2xpY2UtbGF1bmNoLXByb2JlLXdpbGZ1bC1maXJlLTI5NzI3OTQ20gFdaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvbmV3cy9zY290dGlzaC1uZXdzL3BvbGljZS1sYXVuY2gtcHJvYmUtd2lsZnVsLWZpcmUtMjk3Mjc5NDYuYW1w",
-          "author": null,
-          "description": "Ex-Celtic star Kieran Tierney's favourite Scots pub torched as police probe 'wilful' fire  Daily Record",
-          "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL25ld3Mvc2NvdHRpc2gtbmV3cy9wb2xpY2UtbGF1bmNoLXByb2JlLXdpbGZ1bC1maXJlLTI5NzI3OTQ20gFdaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvbmV3cy9zY290dGlzaC1uZXdzL3BvbGljZS1sYXVuY2gtcHJvYmUtd2lsZnVsLWZpcmUtMjk3Mjc5NDYuYW1w?oc=5",
-          "publishedOn": "2023-04-17T08:00:21.000Z",
-          "wordCount": 6053,
-          "title": "Ex-Celtic star Kieran Tierney's favourite Scots pub torched as police probe 'wilful' fire - Daily Record",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiXmh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vc2hhZGVzLW9mLW1heS03OS1hcy00LTItd2luLWdpdmVzLWNlbHRpYy10aGF0LXRpdGxlLXdpbm5pbmctZmVlbGluZy_SAWJodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL3NoYWRlcy1vZi1tYXktNzktYXMtNC0yLXdpbi1naXZlcy1jZWx0aWMtdGhhdC10aXRsZS13aW5uaW5nLWZlZWxpbmcvYW1wLw",
-          "author": null,
-          "description": "Shades of May ’79 as 4-2 win gives Celtic that title winning feeling  The Celtic Star",
-          "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vc2hhZGVzLW9mLW1heS03OS1hcy00LTItd2luLWdpdmVzLWNlbHRpYy10aGF0LXRpdGxlLXdpbm5pbmctZmVlbGluZy_SAWJodHRwczovL3RoZWNlbHRpY3N0YXIuY29tL3NoYWRlcy1vZi1tYXktNzktYXMtNC0yLXdpbi1naXZlcy1jZWx0aWMtdGhhdC10aXRsZS13aW5uaW5nLWZlZWxpbmcvYW1wLw?oc=5",
-          "publishedOn": "2023-04-17T07:59:45.000Z",
-          "wordCount": 6053,
-          "title": "Shades of May ’79 as 4-2 win gives Celtic that title winning feeling - The Celtic Star",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiV2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2xvY2FsLXNwb3J0L2NlbHRpYy13b250LWVuam95LXBsYXlpbmctZm9ybS0yOTcyNzc4MtIBW2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2xvY2FsLXNwb3J0L2NlbHRpYy13b250LWVuam95LXBsYXlpbmctZm9ybS0yOTcyNzc4Mi5hbXA",
-          "author": null,
-          "description": "Celtic won't enjoy playing in-form Kevin van Veen, says Motherwell star Paul McGinn as they eye upset  Daily Record",
-          "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2xvY2FsLXNwb3J0L2NlbHRpYy13b250LWVuam95LXBsYXlpbmctZm9ybS0yOTcyNzc4MtIBW2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2xvY2FsLXNwb3J0L2NlbHRpYy13b250LWVuam95LXBsYXlpbmctZm9ybS0yOTcyNzc4Mi5hbXA?oc=5",
-          "publishedOn": "2023-04-17T06:52:50.000Z",
-          "wordCount": 6053,
-          "title": "Celtic won't enjoy playing in-form Kevin van Veen, says Motherwell star Paul McGinn as they eye upset - Daily Record",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMibmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLXRyYW5zZmVyLW5ld3MvdHJhbnNmZXItbmV3cy1saXZlLWNlbHRpYy1yYW5nZXJzLTI5NzI3NjUx0gFyaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvZm9vdGJhbGwtdHJhbnNmZXItbmV3cy90cmFuc2Zlci1uZXdzLWxpdmUtY2VsdGljLXJhbmdlcnMtMjk3Mjc2NTEuYW1w",
-          "author": null,
-          "description": "Transfer news LIVE as Celtic and Rangers plus Aberdeen, Hearts and Hibs eye signings  Daily Record",
-          "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLXRyYW5zZmVyLW5ld3MvdHJhbnNmZXItbmV3cy1saXZlLWNlbHRpYy1yYW5nZXJzLTI5NzI3NjUx0gFyaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvZm9vdGJhbGwtdHJhbnNmZXItbmV3cy90cmFuc2Zlci1uZXdzLWxpdmUtY2VsdGljLXJhbmdlcnMtMjk3Mjc2NTEuYW1w?oc=5",
-          "publishedOn": "2023-04-17T06:29:34.000Z",
-          "wordCount": 6053,
-          "title": "Transfer news LIVE as Celtic and Rangers plus Aberdeen, Hearts and Hibs eye signings - Daily Record",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -1899,6 +1889,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "9595ff06e1393d9b2c451e03662d468a",
+          "author": null,
+          "description": "The Parkhead idol has been named on a 25-man panel of former footballers to debate the future of VAR.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23473346.celtic-legend-henrik-larsson-lands-key-uefa-position/?ref=rss",
+          "publishedOn": "2023-04-21T19:13:43.000Z",
+          "wordCount": 8547,
+          "title": "Celtic legend Henrik Larsson lands key UEFA position",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16697612/?type=og-image"
+        },
         {
           "id": "02974a13321d4eb3e3ecb32027966750",
           "author": null,
@@ -2278,36 +2278,6 @@
           "wordCount": 8520,
           "title": "WATCH: Ex-Celtic star Juranovic scores free-kick for Union Berlin",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16676224/?type=og-image"
-        },
-        {
-          "id": "4cc5de15b09705a4c98a826df927e516",
-          "author": null,
-          "description": "Kilmarnock did manage to keep the scoring down to 4-1 after it seemed that the Hoops could possibly inflict a cricket score on them.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23459291.celtic-backed-score-ten-ange-postecoglou-kris-commons/?ref=rss",
-          "publishedOn": "2023-04-17T08:12:10.000Z",
-          "wordCount": 8515,
-          "title": "Celtic backed to score ten under Ange Postecoglou by Kris Commons",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16675488/?type=og-image"
-        },
-        {
-          "id": "7c8a7ff87a58d38a8a5aad2704810414",
-          "author": null,
-          "description": "Tierney was handed a rare start for the Gunners yesterday as the Premier League leaders surrendered a two-goal lead against West Ham.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23459231.kieran-tierney-arsenal-backing-better-zinchenko-verdict/?ref=rss",
-          "publishedOn": "2023-04-17T07:45:01.000Z",
-          "wordCount": 9645,
-          "title": "Kieran Tierney in Arsenal backing with 'better' than Zinchenko verdict",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16675409/?type=og-image"
-        },
-        {
-          "id": "704010f2fb599c482ed601ad4a21be5c",
-          "author": null,
-          "description": "The Killie boss was left unhappy at full-time with David Dickinson & VAR's decision not to show Oh a red card for a high boot tackle on Liam Donnelly.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23459153.michael-stewart-dismisses-derek-mcinnes-celtic-red-card-claim/?ref=rss",
-          "publishedOn": "2023-04-17T06:46:08.000Z",
-          "wordCount": 8536,
-          "title": "Michael Stewart dismisses Derek McInnes' Celtic red card claim",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16675360/?type=og-image"
         }
       ]
     }
