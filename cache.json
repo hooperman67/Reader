@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4114877",
+          "author": "Aidan Smith",
+          "description": "I haven’t always been a sports reporter. Pipe down, all those hollering: “We didnae ken you ever were!” My first match viewed from the pressbox, though, was a 12.15pm semi-final for Inverness Caley Thistle just about the length of the country from the Highlands, so all those fans trekking to Hampden on Saturday for such an ungodly kick-off, I feel your pain.",
+          "link": "https://www.scotsman.com/sport/sport-opinion/welcome-to-hampden-let-me-show-you-to-your-seat-actually-just-take-the-whole-row-4114877",
+          "publishedOn": "2023-04-23T05:30:00.000Z",
+          "wordCount": null,
+          "title": "Welcome to Hampden, let me show you to your seat - actually just take the whole row",
+          "imageUrl": null
+        },
+        {
           "id": "4115204",
           "author": "Matthew Elder",
           "description": "Celtic captain Callum McGregor is hopeful Ange Postecoglou will remain at Parkhead amid reports that the Australian is on the shortlist to become next Chelsea manager.",
@@ -382,6 +392,16 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CBMiuwFodHRwczovL3dlYWludGdvdG5vaGlzdG9yeS5zYm5hdGlvbi5jb20vY2hlbHNlYS1mYy10cmFuc2Zlci1ydW1vdXJzLW5ld3MvMjAyMy80LzIzLzIzNjk0NTg1L2NlbHRpYy1oZWFkLWNvYWNoLWFuZ2UtcG9zdGVjb2dsdS10aGUtc3VycHJpc2UtaW5jbHVzaW9uLW9uLWNoZWxzZWEtbWFuYWdlcmlhbC1zaG9ydGxpc3QtcmVwb3J00gHIAWh0dHBzOi8vd2VhaW50Z290bm9oaXN0b3J5LnNibmF0aW9uLmNvbS9wbGF0Zm9ybS9hbXAvY2hlbHNlYS1mYy10cmFuc2Zlci1ydW1vdXJzLW5ld3MvMjAyMy80LzIzLzIzNjk0NTg1L2NlbHRpYy1oZWFkLWNvYWNoLWFuZ2UtcG9zdGVjb2dsdS10aGUtc3VycHJpc2UtaW5jbHVzaW9uLW9uLWNoZWxzZWEtbWFuYWdlcmlhbC1zaG9ydGxpc3QtcmVwb3J0",
+          "author": null,
+          "description": "Celtic’s Ange Postecoglu the surprise inclusion on Chelsea managerial shortlist  We Ain't Got No History",
+          "link": "https://news.google.com/rss/articles/CBMiuwFodHRwczovL3dlYWludGdvdG5vaGlzdG9yeS5zYm5hdGlvbi5jb20vY2hlbHNlYS1mYy10cmFuc2Zlci1ydW1vdXJzLW5ld3MvMjAyMy80LzIzLzIzNjk0NTg1L2NlbHRpYy1oZWFkLWNvYWNoLWFuZ2UtcG9zdGVjb2dsdS10aGUtc3VycHJpc2UtaW5jbHVzaW9uLW9uLWNoZWxzZWEtbWFuYWdlcmlhbC1zaG9ydGxpc3QtcmVwb3J00gHIAWh0dHBzOi8vd2VhaW50Z290bm9oaXN0b3J5LnNibmF0aW9uLmNvbS9wbGF0Zm9ybS9hbXAvY2hlbHNlYS1mYy10cmFuc2Zlci1ydW1vdXJzLW5ld3MvMjAyMy80LzIzLzIzNjk0NTg1L2NlbHRpYy1oZWFkLWNvYWNoLWFuZ2UtcG9zdGVjb2dsdS10aGUtc3VycHJpc2UtaW5jbHVzaW9uLW9uLWNoZWxzZWEtbWFuYWdlcmlhbC1zaG9ydGxpc3QtcmVwb3J0?oc=5",
+          "publishedOn": "2023-04-23T05:23:56.000Z",
+          "wordCount": 6041,
+          "title": "Celtic’s Ange Postecoglu the surprise inclusion on Chelsea managerial shortlist - We Ain't Got No History",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMicWh0dHBzOi8vd3d3LnRoZXNjb3R0aXNoc3VuLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsLzEwNTU5MDQyL3NpbW9uLWZlcnJ5LW1pY2sta2VubmVkeS1kYXJ2ZWwtZWFzdC1raWxicmlkZS1vcGVuLWdvYWwv0gF1aHR0cHM6Ly93d3cudGhlc2NvdHRpc2hzdW4uY28udWsvc3BvcnQvZm9vdGJhbGwvMTA1NTkwNDIvc2ltb24tZmVycnktbWljay1rZW5uZWR5LWRhcnZlbC1lYXN0LWtpbGJyaWRlLW9wZW4tZ29hbC9hbXAv",
           "author": null,
@@ -1661,46 +1681,6 @@
           "wordCount": 6053,
           "title": "Rangers can add to Celtic regrets by signing Los Angeles FC midfielder Jose Cifuentes - Ibrox News",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMicWh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3Mvd2VsbC1zZWUtam9lLWhhcnQtYW5zd2Vycy1xdWVzdGlvbi1vbi1jb250cmFjdC10YWxrcy1hbmQtbG9uZy10ZXJtLWNlbHRpYy1mdXR1cmUv0gF1aHR0cHM6Ly93d3cuNjdoYWlsaGFpbC5jb20vbmV3cy93ZWxsLXNlZS1qb2UtaGFydC1hbnN3ZXJzLXF1ZXN0aW9uLW9uLWNvbnRyYWN0LXRhbGtzLWFuZC1sb25nLXRlcm0tY2VsdGljLWZ1dHVyZS8_YW1w",
-          "author": null,
-          "description": "“We’ll see”; Joe Hart answers question on contract talks and long-term Celtic future  67 Hail Hail - Celtic FC News",
-          "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3Mvd2VsbC1zZWUtam9lLWhhcnQtYW5zd2Vycy1xdWVzdGlvbi1vbi1jb250cmFjdC10YWxrcy1hbmQtbG9uZy10ZXJtLWNlbHRpYy1mdXR1cmUv0gF1aHR0cHM6Ly93d3cuNjdoYWlsaGFpbC5jb20vbmV3cy93ZWxsLXNlZS1qb2UtaGFydC1hbnN3ZXJzLXF1ZXN0aW9uLW9uLWNvbnRyYWN0LXRhbGtzLWFuZC1sb25nLXRlcm0tY2VsdGljLWZ1dHVyZS8_YW1w?oc=5",
-          "publishedOn": "2023-04-18T17:45:05.000Z",
-          "wordCount": 6053,
-          "title": "“We’ll see”; Joe Hart answers question on contract talks and long-term Celtic future - 67 Hail Hail - Celtic FC News",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiaWh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zY290dGlzaC1wcmVtaWVyc2hpcC9wcmVtaWVyc2hpcC01LW1vc3QtaW1wcm92ZWQtcGxheWVycy0yNjcyNzc0MtIBbWh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zY290dGlzaC1wcmVtaWVyc2hpcC9wcmVtaWVyc2hpcC01LW1vc3QtaW1wcm92ZWQtcGxheWVycy0yNjcyNzc0Mi5hbXA",
-          "author": null,
-          "description": "Premiership's 5 most improved this season with Celtic, Hearts & Hibs stars  Football Scotland",
-          "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zY290dGlzaC1wcmVtaWVyc2hpcC9wcmVtaWVyc2hpcC01LW1vc3QtaW1wcm92ZWQtcGxheWVycy0yNjcyNzc0MtIBbWh0dHBzOi8vd3d3LmZvb3RiYWxsc2NvdGxhbmQuY28udWsvc3BmbC9zY290dGlzaC1wcmVtaWVyc2hpcC9wcmVtaWVyc2hpcC01LW1vc3QtaW1wcm92ZWQtcGxheWVycy0yNjcyNzc0Mi5hbXA?oc=5",
-          "publishedOn": "2023-04-18T17:34:01.000Z",
-          "wordCount": 6053,
-          "title": "Premiership's 5 most improved this season with Celtic, Hearts & Hibs stars - Football Scotland",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiVmh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vc3RldmUtZ3VwcHktb24tYWxpc3RhaXItam9obnN0b24tYW5kLWhpcy1vd24tdGltZS1hdC1jZWx0aWMv0gFaaHR0cHM6Ly90aGVjZWx0aWNzdGFyLmNvbS9zdGV2ZS1ndXBweS1vbi1hbGlzdGFpci1qb2huc3Rvbi1hbmQtaGlzLW93bi10aW1lLWF0LWNlbHRpYy9hbXAv",
-          "author": null,
-          "description": "Steve Guppy on Alistair Johnston and his own time at Celtic  The Celtic Star",
-          "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vc3RldmUtZ3VwcHktb24tYWxpc3RhaXItam9obnN0b24tYW5kLWhpcy1vd24tdGltZS1hdC1jZWx0aWMv0gFaaHR0cHM6Ly90aGVjZWx0aWNzdGFyLmNvbS9zdGV2ZS1ndXBweS1vbi1hbGlzdGFpci1qb2huc3Rvbi1hbmQtaGlzLW93bi10aW1lLWF0LWNlbHRpYy9hbXAv?oc=5",
-          "publishedOn": "2023-04-18T17:03:43.000Z",
-          "wordCount": 6053,
-          "title": "Steve Guppy on Alistair Johnston and his own time at Celtic - The Celtic Star",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiU2h0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vY2VsdGljLXdpc2gtcmlzaW5nLXN0YXItcm9jY28tdmF0YS1hLWhhcHB5LTE4dGgtYmlydGhkYXkv0gFXaHR0cHM6Ly90aGVjZWx0aWNzdGFyLmNvbS9jZWx0aWMtd2lzaC1yaXNpbmctc3Rhci1yb2Njby12YXRhLWEtaGFwcHktMTh0aC1iaXJ0aGRheS9hbXAv",
-          "author": null,
-          "description": "Celtic wish rising star Rocco Vata a Happy 18th Birthday  The Celtic Star",
-          "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vY2VsdGljLXdpc2gtcmlzaW5nLXN0YXItcm9jY28tdmF0YS1hLWhhcHB5LTE4dGgtYmlydGhkYXkv0gFXaHR0cHM6Ly90aGVjZWx0aWNzdGFyLmNvbS9jZWx0aWMtd2lzaC1yaXNpbmctc3Rhci1yb2Njby12YXRhLWEtaGFwcHktMTh0aC1iaXJ0aGRheS9hbXAv?oc=5",
-          "publishedOn": "2023-04-18T16:23:03.000Z",
-          "wordCount": 6053,
-          "title": "Celtic wish rising star Rocco Vata a Happy 18th Birthday - The Celtic Star",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -2008,16 +1988,6 @@
           "wordCount": 8493,
           "title": "Ange Postecoglou declares Celtic 'ready' to tackle the transfer window",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16658653/?type=og-image"
-        },
-        {
-          "id": "7abe21eca75a9e835c6cbd8d1bc36c37",
-          "author": null,
-          "description": "The former Bulgaria international is hopeful for the future of his country.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23464788.ex-celtic-star-hails-new-generation-touching-social-media-post/?ref=rss",
-          "publishedOn": "2023-04-18T18:04:27.000Z",
-          "wordCount": 8544,
-          "title": "Ex-Celtic star hails 'new generation' in touching social media post",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16684421/?type=og-image"
         }
       ]
     }
