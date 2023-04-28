@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4122575",
+          "author": "Alan Pattullo",
+          "description": "Alex McLeish has sympathised with Michael Beale as the Rangers manager bids to secure his first win over Celtic in four attempts in this weekend’s Scottish Cup semi-final at Hampden.",
+          "link": "https://www.scotsman.com/sport/football/rangers/rangers-manager-who-lost-7-in-a-row-to-celtic-sends-michael-beale-monstrous-pressure-warning-4122575",
+          "publishedOn": "2023-04-27T21:30:00.000Z",
+          "wordCount": 2668,
+          "title": "Rangers manager who lost 7-in-a-row to Celtic sends Michael Beale 'monstrous pressure' warning",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjBmOTIxNWU5LTMyOWMtNGI3NS04NDBiLTAzZDA2MjE3M2MwYzphMmUwYzAwOC00OGZmLTQyOTAtYjI3Yi05NzMwZWVlZTE4NDg=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4122004",
           "author": "Oliver Anderson",
           "description": "Celtic are showing interest in AEK Athens forward Levi Garcia, according to a report.",
@@ -212,6 +222,26 @@
       "feedUrl": "https://news.google.com/rss/search?q=celtic%20fc&hl=en-GB&gl=GB&ceid=GB%3Aen",
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
+        {
+          "id": "CBMiXWh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vY2VsdGljLWNsb3NlLWluLW9uLW5leHQtc2Vhc29ucy11ZWZhLWNoYW1waW9ucy1sZWFndWUtZ3JvdXAtc3RhZ2VzL9IBYWh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vY2VsdGljLWNsb3NlLWluLW9uLW5leHQtc2Vhc29ucy11ZWZhLWNoYW1waW9ucy1sZWFndWUtZ3JvdXAtc3RhZ2VzL2FtcC8",
+          "author": null,
+          "description": "Celtic Close In On Next Season’s UEFA Champions League Group Stages  The Celtic Star",
+          "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vY2VsdGljLWNsb3NlLWluLW9uLW5leHQtc2Vhc29ucy11ZWZhLWNoYW1waW9ucy1sZWFndWUtZ3JvdXAtc3RhZ2VzL9IBYWh0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vY2VsdGljLWNsb3NlLWluLW9uLW5leHQtc2Vhc29ucy11ZWZhLWNoYW1waW9ucy1sZWFndWUtZ3JvdXAtc3RhZ2VzL2FtcC8?oc=5",
+          "publishedOn": "2023-04-27T21:51:35.000Z",
+          "wordCount": 6016,
+          "title": "Celtic Close In On Next Season’s UEFA Champions League Group Stages - The Celtic Star",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiU2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL21hcnRpbi1vbmVpbGwtc2Vlcy10d28tY2VsdGljLTI5ODMzMDQw0gFXaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvbWFydGluLW9uZWlsbC1zZWVzLXR3by1jZWx0aWMtMjk4MzMwNDAuYW1w",
+          "author": null,
+          "description": "Martin O'Neill sees two Celtic traits that tell him Ange will stay long term  Daily Record",
+          "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL21hcnRpbi1vbmVpbGwtc2Vlcy10d28tY2VsdGljLTI5ODMzMDQw0gFXaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvc3BvcnQvZm9vdGJhbGwvbWFydGluLW9uZWlsbC1zZWVzLXR3by1jZWx0aWMtMjk4MzMwNDAuYW1w?oc=5",
+          "publishedOn": "2023-04-27T21:30:00.000Z",
+          "wordCount": 6016,
+          "title": "Martin O'Neill sees two Celtic traits that tell him Ange will stay long term - Daily Record",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiV2h0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvY2VsdGljLXBhcmtzLWh1Z2VseS1pbXByZXNzaXZlLTIwMjItMjMtc2VsbC1vdXQtcmVjb3JkL9IBW2h0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3MvY2VsdGljLXBhcmtzLWh1Z2VseS1pbXByZXNzaXZlLTIwMjItMjMtc2VsbC1vdXQtcmVjb3JkLz9hbXA",
           "author": null,
@@ -1801,96 +1831,6 @@
           "wordCount": 6021,
           "title": "Sunday Hampden joy for Celtic; Flint goal sets up Rangers Scottish Cup final - 67 Hail Hail - Celtic FC News",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiUmh0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L3RvZGQtY2FudHdlbGwtcmV2aXNpdHMtY2VsdGljLXJhbmdlcnMtMjY3NjI0MTjSAVZodHRwczovL3d3dy5nbGFzZ293bGl2ZS5jby51ay9zcG9ydC90b2RkLWNhbnR3ZWxsLXJldmlzaXRzLWNlbHRpYy1yYW5nZXJzLTI2NzYyNDE4LmFtcA",
-          "author": null,
-          "description": "Todd Cantwell revisits Celtic Rangers social media storm as he makes 'always interact' vow  Glasgow Live",
-          "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LmdsYXNnb3dsaXZlLmNvLnVrL3Nwb3J0L3RvZGQtY2FudHdlbGwtcmV2aXNpdHMtY2VsdGljLXJhbmdlcnMtMjY3NjI0MTjSAVZodHRwczovL3d3dy5nbGFzZ293bGl2ZS5jby51ay9zcG9ydC90b2RkLWNhbnR3ZWxsLXJldmlzaXRzLWNlbHRpYy1yYW5nZXJzLTI2NzYyNDE4LmFtcA?oc=5",
-          "publishedOn": "2023-04-23T13:12:59.000Z",
-          "wordCount": 6041,
-          "title": "Todd Cantwell revisits Celtic Rangers social media storm as he makes 'always interact' vow - Glasgow Live",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3Mvd2hhdC1ncnVtcGVkLXJhbmdlcnMtYW5nZS1hbnN3ZXJzLTI5Nzg3MTM30gEA",
-          "author": null,
-          "description": "What grumped Rangers? Ange answers examined with Celtic rivals mentioned just THREE times in 14 minutes  Daily Record",
-          "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3Mvd2hhdC1ncnVtcGVkLXJhbmdlcnMtYW5nZS1hbnN3ZXJzLTI5Nzg3MTM30gEA?oc=5",
-          "publishedOn": "2023-04-23T13:08:08.000Z",
-          "wordCount": 6041,
-          "title": "What grumped Rangers? Ange answers examined with Celtic rivals mentioned just THREE times in 14 minutes - Daily Record",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMihgFodHRwczovL3d3dy5za3lzcG9ydHMuY29tL2Zvb3RiYWxsL25ld3MvMTEwOTUvMTI4NTk1MjUvY2VsdGljLTEtMS1tb3RoZXJ3ZWxsLWhvb3BzLXNpeC1wb2ludHMtYXdheS1mcm9tLXJldGFpbmluZy1zY290dGlzaC1wcmVtaWVyc2hpcNIBigFodHRwczovL3d3dy5za3lzcG9ydHMuY29tL2FtcC9mb290YmFsbC9uZXdzLzExMDk1LzEyODU5NTI1L2NlbHRpYy0xLTEtbW90aGVyd2VsbC1ob29wcy1zaXgtcG9pbnRzLWF3YXktZnJvbS1yZXRhaW5pbmctc2NvdHRpc2gtcHJlbWllcnNoaXA",
-          "author": null,
-          "description": "Celtic 1-1 Motherwell: Hoops six points away from retaining Scottish Premiership title  Sky Sports",
-          "link": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5za3lzcG9ydHMuY29tL2Zvb3RiYWxsL25ld3MvMTEwOTUvMTI4NTk1MjUvY2VsdGljLTEtMS1tb3RoZXJ3ZWxsLWhvb3BzLXNpeC1wb2ludHMtYXdheS1mcm9tLXJldGFpbmluZy1zY290dGlzaC1wcmVtaWVyc2hpcNIBigFodHRwczovL3d3dy5za3lzcG9ydHMuY29tL2FtcC9mb290YmFsbC9uZXdzLzExMDk1LzEyODU5NTI1L2NlbHRpYy0xLTEtbW90aGVyd2VsbC1ob29wcy1zaXgtcG9pbnRzLWF3YXktZnJvbS1yZXRhaW5pbmctc2NvdHRpc2gtcHJlbWllcnNoaXA?oc=5",
-          "publishedOn": "2023-04-23T12:31:28.000Z",
-          "wordCount": 6041,
-          "title": "Celtic 1-1 Motherwell: Hoops six points away from retaining Scottish Premiership title - Sky Sports",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZGh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3Mva3lvZ28tZXhwZWN0cy10b3VnaC1yYW5nZXJzLWNoYWxsZW5nZS1hcy1jZWx0aWMtc3RyaWtlci10YXJnZXRzLXdpbi_SAWhodHRwczovL3d3dy42N2hhaWxoYWlsLmNvbS9uZXdzL2t5b2dvLWV4cGVjdHMtdG91Z2gtcmFuZ2Vycy1jaGFsbGVuZ2UtYXMtY2VsdGljLXN0cmlrZXItdGFyZ2V0cy13aW4vP2FtcA",
-          "author": null,
-          "description": "Kyogo expects ‘tough’ Rangers challenge as Celtic striker targets win  67 Hail Hail - Celtic FC News",
-          "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LjY3aGFpbGhhaWwuY29tL25ld3Mva3lvZ28tZXhwZWN0cy10b3VnaC1yYW5nZXJzLWNoYWxsZW5nZS1hcy1jZWx0aWMtc3RyaWtlci10YXJnZXRzLXdpbi_SAWhodHRwczovL3d3dy42N2hhaWxoYWlsLmNvbS9uZXdzL2t5b2dvLWV4cGVjdHMtdG91Z2gtcmFuZ2Vycy1jaGFsbGVuZ2UtYXMtY2VsdGljLXN0cmlrZXItdGFyZ2V0cy13aW4vP2FtcA?oc=5",
-          "publishedOn": "2023-04-23T12:10:00.000Z",
-          "wordCount": 6041,
-          "title": "Kyogo expects ‘tough’ Rangers challenge as Celtic striker targets win - 67 Hail Hail - Celtic FC News",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiV2h0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9ob3ctdG8td2F0Y2gtY2VsdGljLXdvbWVucy1zZW1pLWZpbmFsLWFzLWxpbmUtdXAtaXMtYW5ub3VuY2VkL9IBW2h0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9ob3ctdG8td2F0Y2gtY2VsdGljLXdvbWVucy1zZW1pLWZpbmFsLWFzLWxpbmUtdXAtaXMtYW5ub3VuY2VkL2FtcC8",
-          "author": null,
-          "description": "How To Watch Celtic Women's Semi-Final As Line Up Is Announced | Celts Are Here  CeltsAreHere",
-          "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9ob3ctdG8td2F0Y2gtY2VsdGljLXdvbWVucy1zZW1pLWZpbmFsLWFzLWxpbmUtdXAtaXMtYW5ub3VuY2VkL9IBW2h0dHBzOi8vY2VsdHNhcmVoZXJlLmNvbS9ob3ctdG8td2F0Y2gtY2VsdGljLXdvbWVucy1zZW1pLWZpbmFsLWFzLWxpbmUtdXAtaXMtYW5ub3VuY2VkL2FtcC8?oc=5",
-          "publishedOn": "2023-04-23T11:13:52.000Z",
-          "wordCount": 6041,
-          "title": "How To Watch Celtic Women's Semi-Final As Line Up Is Announced | Celts Are Here - CeltsAreHere",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMia2h0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vd2hlcmUtdG8td2F0Y2gtY2VsdGljLXYtZ2xhc2dvdy1jaXR5LWluLXNjb3R0aXNoLWN1cC1zZW1pLWZpbmFsLWtpY2stb2ZmLTEyLTMwcG0v0gFvaHR0cHM6Ly90aGVjZWx0aWNzdGFyLmNvbS93aGVyZS10by13YXRjaC1jZWx0aWMtdi1nbGFzZ293LWNpdHktaW4tc2NvdHRpc2gtY3VwLXNlbWktZmluYWwta2ljay1vZmYtMTItMzBwbS9hbXAv",
-          "author": null,
-          "description": "Where to Watch Celtic v Glasgow City in Scottish Cup semi-final, kick-off 12.30pm  The Celtic Star",
-          "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vd2hlcmUtdG8td2F0Y2gtY2VsdGljLXYtZ2xhc2dvdy1jaXR5LWluLXNjb3R0aXNoLWN1cC1zZW1pLWZpbmFsLWtpY2stb2ZmLTEyLTMwcG0v0gFvaHR0cHM6Ly90aGVjZWx0aWNzdGFyLmNvbS93aGVyZS10by13YXRjaC1jZWx0aWMtdi1nbGFzZ293LWNpdHktaW4tc2NvdHRpc2gtY3VwLXNlbWktZmluYWwta2ljay1vZmYtMTItMzBwbS9hbXAv?oc=5",
-          "publishedOn": "2023-04-23T10:44:09.000Z",
-          "wordCount": 6041,
-          "title": "Where to Watch Celtic v Glasgow City in Scottish Cup semi-final, kick-off 12.30pm - The Celtic Star",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiamh0dHBzOi8vd3d3LmNlbHRpY3dheS5jby51ay9uZXdzLzIzNDc0NDY0LmZvcm1lci1jZWx0aWMtc3RyaWtlci1wYXRyeWsta2xpbWFsYS1icmVha3Mtc2lsZW5jZS1uYXppLXNhbHV0ZS_SAQA",
-          "author": null,
-          "description": "Former Celtic striker Patryk Klimala breaks silence over 'Nazi salute' | Celtic Way  Celtic Way",
-          "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmNlbHRpY3dheS5jby51ay9uZXdzLzIzNDc0NDY0LmZvcm1lci1jZWx0aWMtc3RyaWtlci1wYXRyeWsta2xpbWFsYS1icmVha3Mtc2lsZW5jZS1uYXppLXNhbHV0ZS_SAQA?oc=5",
-          "publishedOn": "2023-04-23T09:46:16.000Z",
-          "wordCount": 6041,
-          "title": "Former Celtic striker Patryk Klimala breaks silence over 'Nazi salute' | Celtic Way - Celtic Way",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiV2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2FuZ2UtY29tbWVudC1yYW5nZXJzLWxlYXZlcy10YXN0ZS0yOTc4NjE0MtIBW2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2FuZ2UtY29tbWVudC1yYW5nZXJzLWxlYXZlcy10YXN0ZS0yOTc4NjE0Mi5hbXA",
-          "author": null,
-          "description": "Ange comment about Rangers 'leaves taste in mouth' of Michael Beale lieutenant  Daily Record",
-          "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2FuZ2UtY29tbWVudC1yYW5nZXJzLWxlYXZlcy10YXN0ZS0yOTc4NjE0MtIBW2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2FuZ2UtY29tbWVudC1yYW5nZXJzLWxlYXZlcy10YXN0ZS0yOTc4NjE0Mi5hbXA?oc=5",
-          "publishedOn": "2023-04-23T09:44:37.000Z",
-          "wordCount": 6041,
-          "title": "Ange comment about Rangers 'leaves taste in mouth' of Michael Beale lieutenant - Daily Record",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiY2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvY2VsdGljLXVuYWJsZS1wdW5jaC1ob2xlcy1taW51cy0yOTc4NTk4MdIBZ2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvY2VsdGljLXVuYWJsZS1wdW5jaC1ob2xlcy1taW51cy0yOTc4NTk4MS5hbXA",
-          "author": null,
-          "description": "Celtic unable to punch holes minus wide boy with Kyogo wondering and Ange pondering  Daily Record",
-          "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvY2VsdGljLXVuYWJsZS1wdW5jaC1ob2xlcy1taW51cy0yOTc4NTk4MdIBZ2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvY2VsdGljLXVuYWJsZS1wdW5jaC1ob2xlcy1taW51cy0yOTc4NTk4MS5hbXA?oc=5",
-          "publishedOn": "2023-04-23T09:23:11.000Z",
-          "wordCount": 6041,
-          "title": "Celtic unable to punch holes minus wide boy with Kyogo wondering and Ange pondering - Daily Record",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -1899,6 +1839,26 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "a781bd1fa06881d3b3fc324bcf053c23",
+          "author": null,
+          "description": "The Parkhead manager's success in Glasgow has attracted the attention of clubs south of the border.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23486127.ange-postecoglou-happy-celtic-premier-league-hype-dismissed/?ref=rss",
+          "publishedOn": "2023-04-27T21:30:00.000Z",
+          "wordCount": 8568,
+          "title": "Ange Postecoglou 'happy' at Celtic as Premier League hype dismissed",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16718058/?type=og-image"
+        },
+        {
+          "id": "0021ba17ccb92086910ad6f124c5ac0f",
+          "author": null,
+          "description": "Michael Beale’s record against Celtic will be giving the Englishman sleepless nights – and Alex McLeish reckons the only remedy is to win an Old Firm.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23485975.rangers-michael-beale-facing-monstous-pressure-ahead-celtic-tie/?ref=rss",
+          "publishedOn": "2023-04-27T21:30:00.000Z",
+          "wordCount": 8540,
+          "title": "Rangers' Michael Beale facing 'monstous pressure' ahead of Celtic tie",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16717825/?type=og-image"
+        },
         {
           "id": "db4ca72cb0f1786cabacc8bb70d4288a",
           "author": null,
@@ -2398,26 +2358,6 @@
           "wordCount": 8751,
           "title": "Celtic set up Rangers final after Hampden victory over Glasgow City",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16700374/?type=og-image"
-        },
-        {
-          "id": "c45ff817cd79b7c881b459a0427f8c9c",
-          "author": null,
-          "description": "The Polish star insists the situation is a serious mix up rather than anything political.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23474464.former-celtic-striker-patryk-klimala-breaks-silence-nazi-salute/?ref=rss",
-          "publishedOn": "2023-04-23T09:46:16.000Z",
-          "wordCount": 8376,
-          "title": "Former Celtic striker Patryk Klimala breaks silence over 'Nazi salute'",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16699346/?type=og-image"
-        },
-        {
-          "id": "80e637e4e8149beb1c75fe829f63e1b9",
-          "author": null,
-          "description": "The striker has been singled out for praise by a compatriot.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23474458.kyogo-japans-best-celtic-hero-leaves-defenders-scared/?ref=rss",
-          "publishedOn": "2023-04-23T09:38:13.000Z",
-          "wordCount": 8405,
-          "title": "Kyogo is Japan's best because Celtic hero leaves defenders 'scared'",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16699334/?type=og-image"
         }
       ]
     }
