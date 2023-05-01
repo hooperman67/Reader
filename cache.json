@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4125766",
+          "author": "Joel Sked",
+          "description": "The SPFL will not request clubs play ‘God Save the King’ ahead of this weekend’s fixtures to mark the coronation of King Charles as the Premier League have in England.",
+          "link": "https://www.scotsman.com/sport/football/celtic/no-spfl-request-for-teams-to-play-god-save-the-king-to-mark-coronation-weekend-as-clubs-to-decide-4125766",
+          "publishedOn": "2023-05-01T14:41:31.000Z",
+          "wordCount": 2548,
+          "title": "No SPFL request for teams to play 'God Save the King' to mark coronation weekend as clubs to decide",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmY0NWMwZDlhLTkyNzctNDBiYy04NTA0LTg5ZmU1ZjIzMTBlYjpjNjJhYzQyNS1lOTgzLTQ5NzYtYWQ4Yy1lOGZmN2JlN2QwZDU=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4125331",
           "author": "Andrew Smith",
           "description": "Celtic’s 1-0 Scottish Cup semi-final win over Rangers secured by a first-half Jota header was an outcome that came with major repercussions.",
@@ -343,6 +353,36 @@
       "siteUrl": "https://news.google.com/search?q=celtic+fc&hl=en-GB&gl=GB&ceid=GB:en",
       "articles": [
         {
+          "id": "CBMiW2h0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vbGl2ZXJwb29sLXN0YXItbWFrZXMtY2hlZWt5LWNlbHRpYy1jb21tZW50LWFmdGVyLXN1bmRheXMtbWF0Y2hlcy_SAV9odHRwczovL3RoZWNlbHRpY3N0YXIuY29tL2xpdmVycG9vbC1zdGFyLW1ha2VzLWNoZWVreS1jZWx0aWMtY29tbWVudC1hZnRlci1zdW5kYXlzLW1hdGNoZXMvYW1wLw",
+          "author": null,
+          "description": "Liverpool star makes cheeky Celtic comment after Sunday’s matches  The Celtic Star",
+          "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vdGhlY2VsdGljc3Rhci5jb20vbGl2ZXJwb29sLXN0YXItbWFrZXMtY2hlZWt5LWNlbHRpYy1jb21tZW50LWFmdGVyLXN1bmRheXMtbWF0Y2hlcy_SAV9odHRwczovL3RoZWNlbHRpY3N0YXIuY29tL2xpdmVycG9vbC1zdGFyLW1ha2VzLWNoZWVreS1jZWx0aWMtY29tbWVudC1hZnRlci1zdW5kYXlzLW1hdGNoZXMvYW1wLw?oc=5",
+          "publishedOn": "2023-05-01T14:30:41.000Z",
+          "wordCount": 6016,
+          "title": "Liverpool star makes cheeky Celtic comment after Sunday’s matches - The Celtic Star",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiYWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvY2VsdGljLWJveGVkLWhlYWQtb2ZmLXJhbmdlcnMtMjk4NjA1MjnSAWVodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL2NlbHRpYy1ib3hlZC1oZWFkLW9mZi1yYW5nZXJzLTI5ODYwNTI5LmFtcA",
+          "author": null,
+          "description": "Celtic 'boxed the head off' Rangers as Irish legend offers unique take on Hampden 'bout'  Daily Record",
+          "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvY2VsdGljLWJveGVkLWhlYWQtb2ZmLXJhbmdlcnMtMjk4NjA1MjnSAWVodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL2NlbHRpYy1ib3hlZC1oZWFkLW9mZi1yYW5nZXJzLTI5ODYwNTI5LmFtcA?oc=5",
+          "publishedOn": "2023-05-01T14:19:08.000Z",
+          "wordCount": 6016,
+          "title": "Celtic 'boxed the head off' Rangers as Irish legend offers unique take on Hampden 'bout' - Daily Record",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMibGh0dHBzOi8vd3d3LmNlbHRpY3F1aWNrbmV3cy5jby51ay93aGF0LWxvb2tzLWxpa2UtZmluZS1tYXJnaW5zLWFyZS1hY3R1YWxseS1jaGFzbXMtYmV0d2Vlbi1jZWx0aWMtYW5kLW5ld2NvL9IBcGh0dHBzOi8vd3d3LmNlbHRpY3F1aWNrbmV3cy5jby51ay93aGF0LWxvb2tzLWxpa2UtZmluZS1tYXJnaW5zLWFyZS1hY3R1YWxseS1jaGFzbXMtYmV0d2Vlbi1jZWx0aWMtYW5kLW5ld2NvL2FtcC8",
+          "author": null,
+          "description": "What looks like fine margins are actually chasms between Celtic and Newco  Celtic Quick News",
+          "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmNlbHRpY3F1aWNrbmV3cy5jby51ay93aGF0LWxvb2tzLWxpa2UtZmluZS1tYXJnaW5zLWFyZS1hY3R1YWxseS1jaGFzbXMtYmV0d2Vlbi1jZWx0aWMtYW5kLW5ld2NvL9IBcGh0dHBzOi8vd3d3LmNlbHRpY3F1aWNrbmV3cy5jby51ay93aGF0LWxvb2tzLWxpa2UtZmluZS1tYXJnaW5zLWFyZS1hY3R1YWxseS1jaGFzbXMtYmV0d2Vlbi1jZWx0aWMtYW5kLW5ld2NvL2FtcC8?oc=5",
+          "publishedOn": "2023-05-01T11:28:49.000Z",
+          "wordCount": 6016,
+          "title": "What looks like fine margins are actually chasms between Celtic and Newco - Celtic Quick News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "CBMiXmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3MvamVyZW15LXZpbmUtY3JhY2tzLXVwLW92ZXItMjk4NTc1NjPSAWJodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL2plcmVteS12aW5lLWNyYWNrcy11cC1vdmVyLTI5ODU3NTYzLmFtcA",
           "author": null,
           "description": "Jeremy Vine cracks up over Celtic X-rated chant as coronation defiance sparks morning TV debate  Daily Record",
@@ -430,6 +470,16 @@
           "publishedOn": "2023-05-01T05:00:02.000Z",
           "wordCount": 6016,
           "title": "HAY HAILS ‘MODEL PRO’ McGRAIN, 73 TODAY - Celtic Quick News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiWGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL21pY2hhZWwtYmVhbGUtZGVzZXJ2ZS1yYW5nZXJzLWZsYWstMjk4NTQxMTfSAVxodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9taWNoYWVsLWJlYWxlLWRlc2VydmUtcmFuZ2Vycy1mbGFrLTI5ODU0MTE3LmFtcA",
+          "author": null,
+          "description": "Does Michael Beale deserve Rangers flak and can Inverness hope for a miracle against Celtic? Monday Jury  Daily Record",
+          "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL21pY2hhZWwtYmVhbGUtZGVzZXJ2ZS1yYW5nZXJzLWZsYWstMjk4NTQxMTfSAVxodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9taWNoYWVsLWJlYWxlLWRlc2VydmUtcmFuZ2Vycy1mbGFrLTI5ODU0MTE3LmFtcA?oc=5",
+          "publishedOn": "2023-05-01T05:00:00.000Z",
+          "wordCount": 6016,
+          "title": "Does Michael Beale deserve Rangers flak and can Inverness hope for a miracle against Celtic? Monday Jury - Daily Record",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -1849,6 +1899,36 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "2879e7be7d118a8e015436f47910a855",
+          "author": null,
+          "description": "The Portuguese winger, 24, has yet to earn a call-up to the main international squad.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23493042.jota-reacts-celtic-star-told-portugal-manager-glasgow/?ref=rss",
+          "publishedOn": "2023-05-01T14:25:29.000Z",
+          "wordCount": 8537,
+          "title": "Jota reacts as Celtic star is told Portugal manager is in Glasgow",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16729012/?type=og-image"
+        },
+        {
+          "id": "66cb711c6b409dc1e40a03b0160b5e27",
+          "author": null,
+          "description": "Eagle-eyed Celtic fans have captured Matt O'Riley's cheeky celebration after Jota opened the scoring against Rangers.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23492888.matt-oriley-cheeky-unseen-celtic-celebration-rangers-fans/?ref=rss",
+          "publishedOn": "2023-05-01T13:18:19.000Z",
+          "wordCount": 8505,
+          "title": "Matt O'Riley cheeky unseen Celtic celebration to Rangers fans",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16728792/?type=og-image"
+        },
+        {
+          "id": "5cb302e41522fa276c94a83d60542b9d",
+          "author": null,
+          "description": "The SPFL will not follow the Premier League's lead in asking clubs to play 'God Save The King' at matches this weekend.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23492675.spfl-god-save-king-update-premier-league-coronation-plans/?ref=rss",
+          "publishedOn": "2023-05-01T11:31:02.000Z",
+          "wordCount": 8461,
+          "title": "SPFL 'God Save The King' update after Premier League Coronation plans",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16728432/?type=og-image"
+        },
         {
           "id": "e04a212e5524c3d9e911960215b23391",
           "author": null,
