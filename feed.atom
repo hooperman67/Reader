@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-02T18:21:14.052Z</updated>
+    <updated>2023-05-02T21:14:28.555Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cameron Carter-Vickers' Celtic injury extent 'revealed']]></title>
+        <id>91bee60a368b0800c657a4b3af164d95</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23496259.cameron-carter-vickers-celtic-injury-extent-revealed/?ref=rss"/>
+        <updated>2023-05-02T19:30:38.000Z</updated>
+        <summary type="html"><![CDATA[The centre-back's season is now over following Sunday's victory over Rangers in the semi-finals of the Scottish Cup.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Piers Morgan blasts Celtic fans for Rangers game chants]]></title>
+        <id>70a664096e96a23baaf5cf2dfbbb8a40</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23496232.piers-morgan-blasts-celtic-fans-rangers-game-chants/?ref=rss"/>
+        <updated>2023-05-02T18:58:41.000Z</updated>
+        <summary type="html"><![CDATA[Renditions of "You can stick your coronation up your a***" were audible at various points throughout Sunday's Old Firm clash.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postecoglou 'riled' by Rangers boss Beale's lucky Celtic remarks]]></title>
+        <id>ee40453720dcab81d8126e649d26c666</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23496191.postecoglou-riled-rangers-boss-beales-lucky-celtic-remarks/?ref=rss"/>
+        <updated>2023-05-02T18:06:46.000Z</updated>
+        <summary type="html"><![CDATA[Prior to Celtic's trip to Ibrox in the New Year, Rangers boss Beale suggested Postecoglou was in a lucky position.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Just turn off Scottish football's lights now if we decide to change final time at broadcasters' whim]]></title>
         <id>4127459</id>
@@ -1034,36 +1064,6 @@
         <summary type="html"><![CDATA[Celtic and Rangers will meet for the fifth time this campaign when they compete for a place in the Scottish Cup final on Saturday.]]></summary>
         <author>
             <name>Joel Sked</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rangers transfer 'major surgery' claim as legend reveals key Celtic starting forward decision]]></title>
-        <id>4122855</id>
-        <link href="https://www.scotsman.com/sport/football/rangers/rangers-transfer-major-surgery-claim-as-legend-reveals-key-celtic-starting-forward-decision-4122855"/>
-        <updated>2023-04-28T09:02:46.000Z</updated>
-        <summary type="html"><![CDATA[Rangers legend Barry Ferguson believes his former club requires “major surgery" in the transfer window this summer as he revealed a key decision he would make for the Scottish Cup semi-final clash with Celtic.]]></summary>
-        <author>
-            <name>Joel Sked</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scottish transfers: Rangers to sign duo, Celtic eye 18-goal ace, Euro giants eye Ibrox star, Hibs appointment]]></title>
-        <id>4122772</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/scottish-transfers-rangers-to-sign-duo-celtic-eye-18-goal-ace-euro-giants-eye-ibrox-star-hibs-appointment-4122772"/>
-        <updated>2023-04-28T08:16:17.000Z</updated>
-        <summary type="html"><![CDATA[A look at some of the speculation surrounding potential transfers, managers and director of football appointments.]]></summary>
-        <author>
-            <name>Joel Sked</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alex McLeish urges Michael Beale to learn Rangers transfer lessons]]></title>
-        <id>1828eec26e64d94c3b7b045a9f40d489</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23486144.alex-mcleish-urges-michael-beale-learn-rangers-transfer-lessons/?ref=rss"/>
-        <updated>2023-04-28T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The here and now will be the Rangers manager's top priority but it is no secret that he will be casting one eye towards next season.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>
