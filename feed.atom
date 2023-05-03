@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-03T06:21:44.265Z</updated>
+    <updated>2023-05-03T09:16:18.874Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Unseen Rangers angle captures new level of Celtic finger pointing]]></title>
+        <id>7c9a76daaff8a1dae7ba50d9896f84b8</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23496526.unseen-rangers-angle-captures-new-level-celtic-finger-pointing/?ref=rss"/>
+        <updated>2023-05-03T07:29:52.000Z</updated>
+        <summary type="html"><![CDATA[New pitchside footage has captured the horror defending of Rangers in the lead-up to Celtic's Scottish Cup semi-final winner.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rangers predicted to reach Champions League group stages and be in higher pot than Celtic, possible opponents]]></title>
+        <id>4127583</id>
+        <link href="https://www.scotsman.com/sport/football/rangers/rangers-predicted-to-reach-champions-league-group-stages-and-be-in-higher-pot-than-celtic-possible-opponents-4127583"/>
+        <updated>2023-05-03T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Despite their struggles against Celtic, Rangers have been tipped to reach the Champions League group stages and to be in a higher pot than their rivals.]]></summary>
+        <author>
+            <name>Joel Sked</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic announce summer showdown against Wolves in South Korea]]></title>
+        <id>050d0f13beb76c2afa9ebb95e1731987</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23496435.celtic-announce-summer-showdown-wolves-south-korea/?ref=rss"/>
+        <updated>2023-05-03T06:19:34.000Z</updated>
+        <summary type="html"><![CDATA[Celtic will take on Wolves at the Suwon World Cup Stadium in South Korea this July as part of their summer tour of Asia.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Anthony Ralston sends Celtic message to injured Alistair Johnston]]></title>
         <id>a2e60735b7da90f00d54fd932aa29d08</id>
@@ -962,26 +992,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23489718.celtic-boss-ange-says-i-dont-care-rangers-dig-banfield/?ref=rss"/>
         <updated>2023-04-28T21:30:00.000Z</updated>
         <summary type="html"><![CDATA[The Parkhead manager gave comments from the Ibrox assistant manager a short shrift ahead of Sunday's Scottish Cup semi-final.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ally McCoist in 'wheeled out' Connor Goldson Rangers vs Celtic verdict]]></title>
-        <id>c6cf2b2f8b72dc27daa36ddbd9f6c403</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23489747.ally-mccoist-wheeled-out-connor-goldson-rangers-vs-celtic-verdict/?ref=rss"/>
-        <updated>2023-04-28T20:30:17.000Z</updated>
-        <summary type="html"><![CDATA[The Ibrox club faces Ange Postecoglou's team at the national stadium on Sunday to battle it out for a spot in the final which takes place on June 3.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rangers dominate Celtic in McCoist & Sutton's combined best XI]]></title>
-        <id>5f25f7719da7edf8c42091580ea723b6</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23489690.rangers-dominate-celtic-mccoist-suttons-combined-best-xi/?ref=rss"/>
-        <updated>2023-04-28T18:35:24.000Z</updated>
-        <summary type="html"><![CDATA[It's fair to say both strikers featured alongside some impressive players during their respective times at Ibrox and Parkhead.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>

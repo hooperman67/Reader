@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4127583",
+          "author": "Joel Sked",
+          "description": "Despite their struggles against Celtic, Rangers have been tipped to reach the Champions League group stages and to be in a higher pot than their rivals.",
+          "link": "https://www.scotsman.com/sport/football/rangers/rangers-predicted-to-reach-champions-league-group-stages-and-be-in-higher-pot-than-celtic-possible-opponents-4127583",
+          "publishedOn": "2023-05-03T06:30:00.000Z",
+          "wordCount": 2608,
+          "title": "Rangers predicted to reach Champions League group stages and be in higher pot than Celtic, possible opponents",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjQ5MzBhYWMwLWQ4YjEtNDRjNC05ZmNmLTMzMmE0MTAxODE4ZDpjNzVkN2NiOC0xZDI2LTQ3MjQtYWFiOS1jNzNhMzU0NWE2YWI=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4127555",
           "author": "Moira Gordon",
           "description": "Callum McGregor has revealed that the current crop of “special” Celtic players remind him of the men who proved themselves invincible throughout the 2016/17 season.",
@@ -388,6 +398,26 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "7c9a76daaff8a1dae7ba50d9896f84b8",
+          "author": null,
+          "description": "New pitchside footage has captured the horror defending of Rangers in the lead-up to Celtic's Scottish Cup semi-final winner.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23496526.unseen-rangers-angle-captures-new-level-celtic-finger-pointing/?ref=rss",
+          "publishedOn": "2023-05-03T07:29:52.000Z",
+          "wordCount": 8481,
+          "title": "Unseen Rangers angle captures new level of Celtic finger pointing",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16734795/?type=og-image"
+        },
+        {
+          "id": "050d0f13beb76c2afa9ebb95e1731987",
+          "author": null,
+          "description": "Celtic will take on Wolves at the Suwon World Cup Stadium in South Korea this July as part of their summer tour of Asia.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23496435.celtic-announce-summer-showdown-wolves-south-korea/?ref=rss",
+          "publishedOn": "2023-05-03T06:19:34.000Z",
+          "wordCount": 8590,
+          "title": "Celtic announce summer showdown against Wolves in South Korea",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16734692/?type=og-image"
+        },
         {
           "id": "a2e60735b7da90f00d54fd932aa29d08",
           "author": null,
@@ -977,26 +1007,6 @@
           "wordCount": 9730,
           "title": "Celtic boss Ange in brutal 'I don't care' response to Rangers coach",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16723560/?type=og-image"
-        },
-        {
-          "id": "c6cf2b2f8b72dc27daa36ddbd9f6c403",
-          "author": null,
-          "description": "The Ibrox club faces Ange Postecoglou's team at the national stadium on Sunday to battle it out for a spot in the final which takes place on June 3.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23489747.ally-mccoist-wheeled-out-connor-goldson-rangers-vs-celtic-verdict/?ref=rss",
-          "publishedOn": "2023-04-28T20:30:17.000Z",
-          "wordCount": 8621,
-          "title": "Ally McCoist in 'wheeled out' Connor Goldson Rangers vs Celtic verdict",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16723591/?type=og-image"
-        },
-        {
-          "id": "5f25f7719da7edf8c42091580ea723b6",
-          "author": null,
-          "description": "It's fair to say both strikers featured alongside some impressive players during their respective times at Ibrox and Parkhead.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23489690.rangers-dominate-celtic-mccoist-suttons-combined-best-xi/?ref=rss",
-          "publishedOn": "2023-04-28T18:35:24.000Z",
-          "wordCount": 8529,
-          "title": "Rangers dominate Celtic in McCoist & Sutton's combined best XI",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16723478/?type=og-image"
         }
       ]
     }
