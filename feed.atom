@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-03T18:21:06.985Z</updated>
+    <updated>2023-05-03T21:15:10.823Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic and Rangers serve up Hampden hijinx as Hoops edge 11-goal thriller Scottish Youth Cup final]]></title>
+        <id>4129357</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/celtic-and-rangers-serve-up-hampden-hijinx-as-hoops-edge-11-goal-thriller-scottish-youth-cup-final-4129357"/>
+        <updated>2023-05-03T20:55:44.000Z</updated>
+        <summary type="html"><![CDATA[As the goals mounted up at a head-spinning rate in the Youth Cup final, the excruciating defending implicated in all-too-many led one observer to bemoan that the encounter resembled a “playground game”.]]></summary>
+        <author>
+            <name>Andrew Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic win eleven goal Hampden thriller to beat Rangers in Youth final]]></title>
+        <id>f98bd7c2979ee10daee574e234d17e90</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23499250.celtic-win-eleven-goal-hampden-thriller-beat-rangers-youth-final/?ref=rss"/>
+        <updated>2023-05-03T20:43:30.000Z</updated>
+        <summary type="html"><![CDATA[THE facts of this fixture – the eleven goals, the red card and the victory for Celtic – will enter the Hampden record books as a footnote.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Are you a Rangers fan? Referee Bobby Madden breaks silence over club allegience rumours]]></title>
         <id>4129298</id>
@@ -22,6 +42,16 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23499106.new-law-planned-tackle-use-flares-football-matches/?ref=rss"/>
         <updated>2023-05-03T17:35:16.000Z</updated>
         <summary type="html"><![CDATA[It had been anticipated that all restrictions included in the Fireworks and Pyrotechnics Articles (Scotland) Act 2022 would be brought in this year.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rangers vs Celtic as it happened: Youth Cup final sealed]]></title>
+        <id>272c9cfd78b6e4c0bb95684a6f349815</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23499048.rangers-vs-celtic-happened-youth-cup-final-sealed/?ref=rss"/>
+        <updated>2023-05-03T16:58:13.000Z</updated>
+        <summary type="html"><![CDATA[Rangers and Celtic's first team locked horns for the fifth time this season at the national stadium on Sunday. Now, it's the turn of the clubs' young guns to take centre stage at Hampden as they fight it out to become Scottish Youth Cup winners. The game will have extra time and penalties if the youngsters cannot be separated after 90 minutes.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
@@ -1114,26 +1144,6 @@
         <summary type="html"><![CDATA[Celtic and Rangers will meet for the fifth time this campaign when they compete for a place in the Scottish Cup final on Saturday.]]></summary>
         <author>
             <name>Joel Sked</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Rangers player who won't consider Celtic semi-final as treble-ending mission]]></title>
-        <id>4124427</id>
-        <link href="https://www.scotsman.com/sport/football/rangers/the-rangers-player-who-wont-consider-celtic-semi-final-as-treble-ending-mission-4124427"/>
-        <updated>2023-04-29T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Rangers full-back Borna Barisic refuses to frame his club’s Scottish Cup semi-final against Celtic as a ‘stop the treble’ assignment.]]></summary>
-        <author>
-            <name>Andrew Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic boss Ange Postecoglou in 'no doubt' assessment as Kyogo targets 1994 Old Firm record]]></title>
-        <id>4124379</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/celtic-boss-ange-postecoglou-in-no-doubt-assessment-as-kyogo-targets-1994-old-firm-record-4124379"/>
-        <updated>2023-04-29T06:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Kyogo Furuhashi’s next goal will be his 50th in Celtic colours. Should this come against Rangers at Hampden Park in tomorrow's Scottish Cup semi-final, it will be laced with extra special significance.]]></summary>
-        <author>
-            <name>Alan Pattullo</name>
         </author>
     </entry>
 </feed>

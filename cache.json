@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4129357",
+          "author": "Andrew Smith",
+          "description": "As the goals mounted up at a head-spinning rate in the Youth Cup final, the excruciating defending implicated in all-too-many led one observer to bemoan that the encounter resembled a “playground game”.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtic-and-rangers-serve-up-hampden-hijinx-as-hoops-edge-11-goal-thriller-scottish-youth-cup-final-4129357",
+          "publishedOn": "2023-05-03T20:55:44.000Z",
+          "wordCount": 3000,
+          "title": "Celtic and Rangers serve up Hampden hijinx as Hoops edge 11-goal thriller Scottish Youth Cup final",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjA2MzhlZDM5LTJhZTktNDRlOC1iNTAzLWM2NWE3MmFhMDc2Yjo1MDdhMzZkNi0zYzBmLTQwODYtOGI5Mi1iODJkZjY5YThiNmE=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4129298",
           "author": "Matthew Elder",
           "description": "Referee Bobby Madden has revealed that he attended Rangers matches in his childhood as he addressed the rumours regarding his support of the Ibrox club.",
@@ -404,26 +414,6 @@
           "wordCount": 2613,
           "title": "What channel is Rangers v Celtic on? Kick-off time, TV details, team news, who is referee",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmVjNzk5YjNmLWRkNjEtNDc5ZC05ODZhLTJiMWY2ZDg0Nzg1ODo3NjQ5NTljZC00ZWUxLTQ5YTItODM1Mi0yNTRhYjcxNjZmMzI=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4124427",
-          "author": "Andrew Smith",
-          "description": "Rangers full-back Borna Barisic refuses to frame his club’s Scottish Cup semi-final against Celtic as a ‘stop the treble’ assignment.",
-          "link": "https://www.scotsman.com/sport/football/rangers/the-rangers-player-who-wont-consider-celtic-semi-final-as-treble-ending-mission-4124427",
-          "publishedOn": "2023-04-29T07:00:00.000Z",
-          "wordCount": 2868,
-          "title": "The Rangers player who won't consider Celtic semi-final as treble-ending mission",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmU1ZGVmOGI3LWQyMWMtNDY0My05NTA4LWJjYzI2ZWUxYzg2YjoyMjdlZDcyNy00YmRjLTQwZGUtYjMyZi0wN2RhNzE3ZTgzMzI=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4124379",
-          "author": "Alan Pattullo",
-          "description": "Kyogo Furuhashi’s next goal will be his 50th in Celtic colours. Should this come against Rangers at Hampden Park in tomorrow's Scottish Cup semi-final, it will be laced with extra special significance.",
-          "link": "https://www.scotsman.com/sport/football/celtic/celtic-boss-ange-postecoglou-in-no-doubt-assessment-as-kyogo-targets-1994-old-firm-record-4124379",
-          "publishedOn": "2023-04-29T06:30:00.000Z",
-          "wordCount": 2974,
-          "title": "Celtic boss Ange Postecoglou in 'no doubt' assessment as Kyogo targets 1994 Old Firm record",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjcxZGMwNzlkLThmMzUtNDc4Zi1iYzM0LTc4YTZiYTMyYTVmZDpiMWY0NTY5Zi02NTA4LTQ0MmItODljZS0zZjQyZjFjMzYxZTk=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
         }
       ]
     },
@@ -439,6 +429,16 @@
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
         {
+          "id": "f98bd7c2979ee10daee574e234d17e90",
+          "author": null,
+          "description": "THE facts of this fixture – the eleven goals, the red card and the victory for Celtic – will enter the Hampden record books as a footnote.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23499250.celtic-win-eleven-goal-hampden-thriller-beat-rangers-youth-final/?ref=rss",
+          "publishedOn": "2023-05-03T20:43:30.000Z",
+          "wordCount": 9116,
+          "title": "Celtic win eleven goal Hampden thriller to beat Rangers in Youth final",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16739240/?type=og-image"
+        },
+        {
           "id": "de5f0894c3e9fba227ad611ec2cc305c",
           "author": null,
           "description": "It had been anticipated that all restrictions included in the Fireworks and Pyrotechnics Articles (Scotland) Act 2022 would be brought in this year.",
@@ -447,6 +447,16 @@
           "wordCount": 8681,
           "title": "New law planned to tackle use of flares at football matches",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16739043/?type=og-image"
+        },
+        {
+          "id": "272c9cfd78b6e4c0bb95684a6f349815",
+          "author": null,
+          "description": "Rangers and Celtic's first team locked horns for the fifth time this season at the national stadium on Sunday. Now, it's the turn of the clubs' young guns to take centre stage at Hampden as they fight it out to become Scottish Youth Cup winners. The game will have extra time and penalties if the youngsters cannot be separated after 90 minutes.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23499048.rangers-vs-celtic-happened-youth-cup-final-sealed/?ref=rss",
+          "publishedOn": "2023-05-03T16:58:13.000Z",
+          "wordCount": 8095,
+          "title": "Rangers vs Celtic as it happened: Youth Cup final sealed",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16738495/?type=og-image"
         },
         {
           "id": "272c9cfd78b6e4c0bb95684a6f349815",
