@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-03T09:16:18.874Z</updated>
+    <updated>2023-05-03T12:34:05.415Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic detail keeper Vasilis Barkas transfer price]]></title>
+        <id>c937ca98f1ae002d5a30288b3f538dc1</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23497595.celtic-detail-keeper-vasilis-barkas-transfer-price/?ref=rss"/>
+        <updated>2023-05-03T11:37:09.000Z</updated>
+        <summary type="html"><![CDATA[According to Greek reports, Vasilis Barkas has had his transfer valuation calculated by Celtic]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic hero set for key role as Leeds United appoint Sam Allardyce to stave off relegation]]></title>
+        <id>4128287</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/celtic-hero-set-for-key-role-as-leeds-united-appoint-sam-allardyce-to-stave-off-relegation-4128287"/>
+        <updated>2023-05-03T11:21:54.000Z</updated>
+        <summary type="html"><![CDATA[Leeds United have appointed Sam Allardyce to save them from relegation with the ex-England manager set to draft in a former Celtic favourite to assist him.]]></summary>
+        <author>
+            <name>Matthew Elder</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unseen Rangers angle captures new level of Celtic finger pointing]]></title>
         <id>7c9a76daaff8a1dae7ba50d9896f84b8</id>
@@ -972,26 +992,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23489724.inside-celtic-reaction-rangers-cup-pain-setback-still-hurts/?ref=rss"/>
         <updated>2023-04-29T05:00:00.000Z</updated>
         <summary type="html"><![CDATA[Ange Postecoglou's side are out to avenge last season's Scottish Cup semi-final loss to their rivals.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic boss Ange Postecoglou dismisses Rangers coach Neil Banfield's comments - 'it doesn't bother me']]></title>
-        <id>4124399</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/celtic-boss-ange-postecoglou-dismisses-rangers-coach-neil-banfields-comments-it-doesnt-bother-me-4124399"/>
-        <updated>2023-04-28T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Ange Postecoglou insists he has learned to ignore any attempt to unsettle him after surviving the coolness with which he was received by Scottish football two summers ago.]]></summary>
-        <author>
-            <name>Alan Pattullo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic boss Ange in brutal 'I don't care' response to Rangers coach]]></title>
-        <id>ebeceecf84adb926ba7a6d3e3e6a31af</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23489718.celtic-boss-ange-says-i-dont-care-rangers-dig-banfield/?ref=rss"/>
-        <updated>2023-04-28T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The Parkhead manager gave comments from the Ibrox assistant manager a short shrift ahead of Sunday's Scottish Cup semi-final.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>

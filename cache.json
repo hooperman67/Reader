@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4128287",
+          "author": "Matthew Elder",
+          "description": "Leeds United have appointed Sam Allardyce to save them from relegation with the ex-England manager set to draft in a former Celtic favourite to assist him.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtic-hero-set-for-key-role-as-leeds-united-appoint-sam-allardyce-to-stave-off-relegation-4128287",
+          "publishedOn": "2023-05-03T11:21:54.000Z",
+          "wordCount": 2579,
+          "title": "Celtic hero set for key role as Leeds United appoint Sam Allardyce to stave off relegation",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjgwMzg0NGJkLWUzOWUtNGEwZS1hZWE5LTIwMDEzMDY4MTNjMTo3MWQxN2M2OC03MTk5LTRiNWQtYWRlZS1hMTg5N2M1MGJiZTY=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4127583",
           "author": "Joel Sked",
           "description": "Despite their struggles against Celtic, Rangers have been tipped to reach the Champions League group stages and to be in a higher pot than their rivals.",
@@ -374,16 +384,6 @@
           "wordCount": 2974,
           "title": "Celtic boss Ange Postecoglou in 'no doubt' assessment as Kyogo targets 1994 Old Firm record",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjcxZGMwNzlkLThmMzUtNDc4Zi1iYzM0LTc4YTZiYTMyYTVmZDpiMWY0NTY5Zi02NTA4LTQ0MmItODljZS0zZjQyZjFjMzYxZTk=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4124399",
-          "author": "Alan Pattullo",
-          "description": "Ange Postecoglou insists he has learned to ignore any attempt to unsettle him after surviving the coolness with which he was received by Scottish football two summers ago.",
-          "link": "https://www.scotsman.com/sport/football/celtic/celtic-boss-ange-postecoglou-dismisses-rangers-coach-neil-banfields-comments-it-doesnt-bother-me-4124399",
-          "publishedOn": "2023-04-28T21:30:00.000Z",
-          "wordCount": 2577,
-          "title": "Celtic boss Ange Postecoglou dismisses Rangers coach Neil Banfield's comments - 'it doesn't bother me'",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmRjMTA3MzFlLWNlMTgtNDU5ZC04YWI4LTRiMGIwOTc5ZWQ5Yjo5YmNhZmUwNi03NmExLTRmMTYtYTQ4Zi1iNzhiOTU4YzMwYjg=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
         }
       ]
     },
@@ -398,6 +398,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "c937ca98f1ae002d5a30288b3f538dc1",
+          "author": null,
+          "description": "According to Greek reports, Vasilis Barkas has had his transfer valuation calculated by Celtic",
+          "link": "https://www.glasgowtimes.co.uk/sport/23497595.celtic-detail-keeper-vasilis-barkas-transfer-price/?ref=rss",
+          "publishedOn": "2023-05-03T11:37:09.000Z",
+          "wordCount": 8495,
+          "title": "Celtic detail keeper Vasilis Barkas transfer price",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16530588/?type=og-image"
+        },
         {
           "id": "7c9a76daaff8a1dae7ba50d9896f84b8",
           "author": null,
@@ -997,16 +1007,6 @@
           "wordCount": 9467,
           "title": "Inside Celtic reaction to Rangers cup pain as setback 'still hurts'",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16723578/?type=og-image"
-        },
-        {
-          "id": "ebeceecf84adb926ba7a6d3e3e6a31af",
-          "author": null,
-          "description": "The Parkhead manager gave comments from the Ibrox assistant manager a short shrift ahead of Sunday's Scottish Cup semi-final.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23489718.celtic-boss-ange-says-i-dont-care-rangers-dig-banfield/?ref=rss",
-          "publishedOn": "2023-04-28T21:30:00.000Z",
-          "wordCount": 9730,
-          "title": "Celtic boss Ange in brutal 'I don't care' response to Rangers coach",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16723560/?type=og-image"
         }
       ]
     }
