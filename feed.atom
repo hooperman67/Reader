@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-03T01:25:21.710Z</updated>
+    <updated>2023-05-03T03:18:05.515Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -1014,46 +1014,6 @@
         <summary type="html"><![CDATA[Celtic and Rangers have both been boosted by the return of key players from injury ahead of Sunday's Scottish Cup semi-final showdown at Hampden.]]></summary>
         <author>
             <name>Matthew Elder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Michael Beale sets Rangers 'right the wrongs' challenge for Celtic tie]]></title>
-        <id>a3a7e771dba0ba6d0631f8f41a11a30f</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23488801.michael-beale-sets-rangers-right-wrongs-challenge-celtic-tie/?ref=rss"/>
-        <updated>2023-04-28T14:35:36.000Z</updated>
-        <summary type="html"><![CDATA[MICHAEL BEALE has challenged Rangers to right the wrongs of their campaign and end the season with silverware ahead of their Scottish Cup clash with Celtic.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rangers boss Michael Beale in Hampden pitch call ahead of Celtic clash]]></title>
-        <id>c5ad0d2a1743266bab78f76013e4b8f9</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23488690.rangers-boss-michael-beale-hampden-pitch-call-ahead-celtic-clash/?ref=rss"/>
-        <updated>2023-04-28T14:16:18.000Z</updated>
-        <summary type="html"><![CDATA[MICHAEL BEALE will be keeping a close eye on the Hampden weather forecast as he prays for dry skies to protect the pitch at the National Stadium.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic in huge triple injury boost as Ange Postecoglou labels key trio "available" for Rangers clash]]></title>
-        <id>4123849</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/celtic-in-huge-triple-injury-boost-as-ange-postecoglou-labels-key-trio-available-for-rangers-clash-4123849"/>
-        <updated>2023-04-28T13:50:49.000Z</updated>
-        <summary type="html"><![CDATA[Celtic have received a huge triple boost ahead of Scottish Cup semi-final against Rangers with Ange Postecoglou confirming the key trio are available.]]></summary>
-        <author>
-            <name>Joel Sked</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ange Postecoglou provides Celtic injury update ahead of Rangers clash]]></title>
-        <id>94f38517999869a512375d26f0b27eaa</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23488525.ange-postecoglou-provides-celtic-injury-update-ahead-rangers-clash/?ref=rss"/>
-        <updated>2023-04-28T13:47:00.000Z</updated>
-        <summary type="html"><![CDATA[He has explained who is available for the fixture at the national stadium.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>
