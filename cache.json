@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4128703",
+          "author": "Matthew Elder",
+          "description": "Hearts interim manager Steven Naismith insists Celtic's potential title party is \"irrelevant\" and will not form part of his team talk ahead of Sunday's Premiership clash at Tynecastle.",
+          "link": "https://www.scotsman.com/sport/football/hearts/celtic-title-party-branded-irrelevant-as-hearts-boss-steven-naismith-makes-team-talk-vow-4128703",
+          "publishedOn": "2023-05-03T14:04:14.000Z",
+          "wordCount": 2595,
+          "title": "Celtic title party branded 'irrelevant' as Hearts boss Steven Naismith makes team talk vow",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjdjZDc5YzkwLTBlZTctNGFlMi04M2VmLTZmNjRmMDkyNjNmYTpiMDI5OWYzYS1jZDUyLTQ1ZmUtYjE0MS1kZDc0ZmVhNGQwMjY=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4128287",
           "author": "Matthew Elder",
           "description": "Leeds United have appointed Sam Allardyce to save them from relegation with the ex-England manager set to draft in a former Celtic favourite to assist him.",
@@ -398,6 +408,46 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "8f45180a382b8449f1f04489a5a18c7d",
+          "author": null,
+          "description": "Should Ange Postecoglou's side defeat Hearts on Sunday afternoon, they will clinch their 53rd Scottish crown.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23498218.celtic-tipped-reach-56-titles-rangers-john-hartson/?ref=rss",
+          "publishedOn": "2023-05-03T13:54:26.000Z",
+          "wordCount": 8613,
+          "title": "Celtic tipped to reach 56 titles before Rangers by John Hartson",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16737630/?type=og-image"
+        },
+        {
+          "id": "f0ab7b49ba15453b1b1ed0508147b338",
+          "author": null,
+          "description": "The 42-year-old has previous experience being on the backroom staff at a club, having been the assistant manager of Middlesbrough.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23498131.celtic-hero-robbie-keane-set-join-sam-allardyce-leeds-united/?ref=rss",
+          "publishedOn": "2023-05-03T13:38:22.000Z",
+          "wordCount": 8455,
+          "title": "Celtic hero Robbie Keane 'set to join' Sam Allardyce at Leeds United",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16737355/?type=og-image"
+        },
+        {
+          "id": "7625721d236bc2b69767dc5c0ecf811d",
+          "author": null,
+          "description": "Steven Naismith insists delaying Celtic’s ‘irrelevant’  march towards the title will not form part of his team-talk as Hearts chase down third place.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23498018.delaying-celtic-title-party-not-part-naismiths-hearts-team-talk/?ref=rss",
+          "publishedOn": "2023-05-03T13:16:39.000Z",
+          "wordCount": 8585,
+          "title": "Delaying Celtic title party not part of Naismith's Hearts team talk",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16737286/?type=og-image"
+        },
+        {
+          "id": "62204d5a0b6608fc82b00882d47ba0b3",
+          "author": null,
+          "description": "Former Celtic stiker's strong start to life in the MLS has seen him been awarded Atlanta United's Player of the Month for April",
+          "link": "https://www.glasgowtimes.co.uk/sport/23497849.ex-celtic-ace-giakoumakis-scoops-atlanta-utd-award-strong-start/?ref=rss",
+          "publishedOn": "2023-05-03T12:32:47.000Z",
+          "wordCount": 8550,
+          "title": "Ex-Celtic ace Giakoumakis scoops Atlanta Utd award after strong start",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16447761/?type=og-image"
+        },
         {
           "id": "c937ca98f1ae002d5a30288b3f538dc1",
           "author": null,
