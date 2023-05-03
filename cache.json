@@ -374,36 +374,6 @@
           "wordCount": 2577,
           "title": "Celtic boss Ange Postecoglou dismisses Rangers coach Neil Banfield's comments - 'it doesn't bother me'",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmRjMTA3MzFlLWNlMTgtNDU5ZC04YWI4LTRiMGIwOTc5ZWQ5Yjo5YmNhZmUwNi03NmExLTRmMTYtYTQ4Zi1iNzhiOTU4YzMwYjg=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4124277",
-          "author": "Matthew Elder",
-          "description": "Chris Sutton and Ally McCoist have named their best combined starting XI from their time playing for Celtic and Rangers - with surprising results.",
-          "link": "https://www.scotsman.com/sport/football/chris-sutton-and-ally-mccoist-pick-combined-celtic-and-rangers-team-with-only-two-celtic-players-making-cut-4124277",
-          "publishedOn": "2023-04-28T16:20:49.000Z",
-          "wordCount": 2499,
-          "title": "Chris Sutton and Ally McCoist pick combined Celtic and Rangers team - with only two Celtic players making cut",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjk4YTEzYzAzLTJhMDQtNDY0Ny1iMmZlLTA3YjYyODZlNGJjMjowMzc2ODkxNC01NDg0LTQzNmQtYTZlMi1lY2UzNTEzMTZhNTA=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4124196",
-          "author": "Matthew Elder",
-          "description": "Celtic and Rangers have both been boosted by the return of key players from injury ahead of Sunday's Scottish Cup semi-final showdown at Hampden.",
-          "link": "https://www.scotsman.com/sport/football/celtic-and-rangers-likely-starting-xis-emerge-as-injured-players-return-for-hampden-showdown-4124196",
-          "publishedOn": "2023-04-28T15:52:41.000Z",
-          "wordCount": 2657,
-          "title": "Celtic and Rangers likely starting XIs emerge as injured players return for Hampden showdown",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjVkMTI0NmNmLTBmNTgtNGQ0Zi05NDI3LWU2ZmE4MDc1N2RjZDpkNWVlZWIxZC01MWY0LTRjMjctYWJmYi04ZDM0ZDFiNGYzZmI=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4124196",
-          "author": "Matthew Elder",
-          "description": "Celtic and Rangers have both been boosted by the return of key players from injury ahead of Sunday's Scottish Cup semi-final showdown at Hampden.",
-          "link": "https://www.scotsman.com/sport/football/celtic-and-rangers-probable-starting-xis-emerge-as-injured-players-return-for-hampden-showdown-4124196",
-          "publishedOn": "2023-04-28T15:52:41.000Z",
-          "wordCount": 2665,
-          "title": "Celtic and Rangers probable starting XIs emerge as injured players return for Hampden showdown",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjVkMTI0NmNmLTBmNTgtNGQ0Zi05NDI3LWU2ZmE4MDc1N2RjZDo4OTMzMjU4ZC03YzZhLTQyYzctYjI0YS00ZjQwNzg1ZDgxOTY=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
         }
       ]
     },
@@ -418,6 +388,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "a2e60735b7da90f00d54fd932aa29d08",
+          "author": null,
+          "description": "The 24-year-old right-back has been a bit-part player this season but is prepared to be called upon for upcoming games.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23494400.anthony-ralston-sends-celtic-message-injured-alistair-johnston/?ref=rss",
+          "publishedOn": "2023-05-03T05:00:00.000Z",
+          "wordCount": 9050,
+          "title": "Anthony Ralston sends Celtic message to injured Alistair Johnston",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16731159/?type=og-image"
+        },
         {
           "id": "6efdd8bcf93ffb5582b18c10440a13f9",
           "author": null,
@@ -1017,16 +997,6 @@
           "wordCount": 8529,
           "title": "Rangers dominate Celtic in McCoist & Sutton's combined best XI",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16723478/?type=og-image"
-        },
-        {
-          "id": "353fc79477b86fb14744cdf34b9a957d",
-          "author": null,
-          "description": "The Hoops boss is not over last season's defeat.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23489371.ange-postecoglou-reflects-last-seasons-celtic-v-rangers-semi-final/?ref=rss",
-          "publishedOn": "2023-04-28T16:05:11.000Z",
-          "wordCount": 9671,
-          "title": "Ange Postecoglou reflects on last season's Celtic v Rangers semi-final",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16723003/?type=og-image"
         }
       ]
     }

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-03T03:18:05.515Z</updated>
+    <updated>2023-05-03T06:21:44.265Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Anthony Ralston sends Celtic message to injured Alistair Johnston]]></title>
+        <id>a2e60735b7da90f00d54fd932aa29d08</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23494400.anthony-ralston-sends-celtic-message-injured-alistair-johnston/?ref=rss"/>
+        <updated>2023-05-03T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The 24-year-old right-back has been a bit-part player this season but is prepared to be called upon for upcoming games.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA['Sometimes you get a feeling that you have special guys in there with you' - why this current Celtic crop are cut above]]></title>
         <id>4127555</id>
@@ -974,46 +984,6 @@
         <summary type="html"><![CDATA[It's fair to say both strikers featured alongside some impressive players during their respective times at Ibrox and Parkhead.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chris Sutton and Ally McCoist pick combined Celtic and Rangers team - with only two Celtic players making cut]]></title>
-        <id>4124277</id>
-        <link href="https://www.scotsman.com/sport/football/chris-sutton-and-ally-mccoist-pick-combined-celtic-and-rangers-team-with-only-two-celtic-players-making-cut-4124277"/>
-        <updated>2023-04-28T16:20:49.000Z</updated>
-        <summary type="html"><![CDATA[Chris Sutton and Ally McCoist have named their best combined starting XI from their time playing for Celtic and Rangers - with surprising results.]]></summary>
-        <author>
-            <name>Matthew Elder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ange Postecoglou reflects on last season's Celtic v Rangers semi-final]]></title>
-        <id>353fc79477b86fb14744cdf34b9a957d</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23489371.ange-postecoglou-reflects-last-seasons-celtic-v-rangers-semi-final/?ref=rss"/>
-        <updated>2023-04-28T16:05:11.000Z</updated>
-        <summary type="html"><![CDATA[The Hoops boss is not over last season's defeat.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic and Rangers likely starting XIs emerge as injured players return for Hampden showdown]]></title>
-        <id>4124196</id>
-        <link href="https://www.scotsman.com/sport/football/celtic-and-rangers-likely-starting-xis-emerge-as-injured-players-return-for-hampden-showdown-4124196"/>
-        <updated>2023-04-28T15:52:41.000Z</updated>
-        <summary type="html"><![CDATA[Celtic and Rangers have both been boosted by the return of key players from injury ahead of Sunday's Scottish Cup semi-final showdown at Hampden.]]></summary>
-        <author>
-            <name>Matthew Elder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic and Rangers probable starting XIs emerge as injured players return for Hampden showdown]]></title>
-        <id>4124196</id>
-        <link href="https://www.scotsman.com/sport/football/celtic-and-rangers-probable-starting-xis-emerge-as-injured-players-return-for-hampden-showdown-4124196"/>
-        <updated>2023-04-28T15:52:41.000Z</updated>
-        <summary type="html"><![CDATA[Celtic and Rangers have both been boosted by the return of key players from injury ahead of Sunday's Scottish Cup semi-final showdown at Hampden.]]></summary>
-        <author>
-            <name>Matthew Elder</name>
         </author>
     </entry>
 </feed>
