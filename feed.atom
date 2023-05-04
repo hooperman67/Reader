@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-04T15:18:16.165Z</updated>
+    <updated>2023-05-04T18:20:58.470Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SWPL LIVE: Celtic host Rangers in post-split clash]]></title>
+        <id>4fe346d6c3d364d44e867c7e8bb0fa97</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23501920.swpl-live-celtic-host-rangers-post-split-clash/?ref=rss"/>
+        <updated>2023-05-04T17:16:35.000Z</updated>
+        <summary type="html"><![CDATA[Join us for our live coverage as Celtic host Rangers as the SWPL nears its conclusion.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Ange Postecoglou must do to seal legendary Celtic manager status]]></title>
+        <id>621271c972d746a8bb9aed4af2b89582</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23501767.ange-postecoglou-must-seal-legendary-celtic-manager-status/?ref=rss"/>
+        <updated>2023-05-04T16:18:58.000Z</updated>
+        <summary type="html"><![CDATA[IT began with the forging of the SPL and SFL. Seven trophies were handed down to Celtic, one to Rangers.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic midfielder in surprising Rangers admission as talk of Old Firm gap branded 'harsh']]></title>
+        <id>4130816</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/celtic-midfielder-in-surprising-rangers-admission-as-talk-of-old-firm-gap-branded-harsh-4130816"/>
+        <updated>2023-05-04T16:06:02.000Z</updated>
+        <summary type="html"><![CDATA[Matt O'Riley has insisted that talk of a sizeable gap between Celtic and Rangers is "harsh" on the Ibrox club.]]></summary>
+        <author>
+            <name>Matthew Elder</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic v Rangers: TV channel, live stream and kick-off details]]></title>
         <id>ff947f268efa350eaa0a0422dfc3efa1</id>
@@ -1144,36 +1174,6 @@
         <summary type="html"><![CDATA[Presumptiousness maketh pillocks of folk often in football.]]></summary>
         <author>
             <name>Andrew Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic star targets win over Rangers and the major personal accolade that could follow]]></title>
-        <id>4124585</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/celtic-star-targets-win-over-rangers-and-the-major-personal-accolade-that-could-follow-4124585"/>
-        <updated>2023-04-30T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Motivation will never be an issue for any Celtic player against Rangers, and vice versa. Matt O’Riley is driven by a fierce desire for success against the Ibrox side and at the same time he is also eyeing a full international cap for Denmark, perhaps as soon as this summer.]]></summary>
-        <author>
-            <name>Alan Pattullo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Matt O'Riley in Celtic vs Rangers derby 'pretty cool' admission]]></title>
-        <id>e5280ac66fb027986d7c67bdd20f6c40</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23489417.matt-oriley-celtic-vs-rangers-derby-pretty-cool-admission/?ref=rss"/>
-        <updated>2023-04-30T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Today’s derby clash between Celtic and Rangers at Hampden will be the third time the teams have met in just over two months.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Postecoglou on Kobayashi, Iwata and Oh biding their time at Celtic]]></title>
-        <id>3ad947b811288223129d6a681e3482a5</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23489657.postecoglou-kobayashi-iwata-oh-biding-time-celtic/?ref=rss"/>
-        <updated>2023-04-30T05:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Since their respective January arrivals, none have really cemented themselves in Celtic’s team on a regular basis.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>
