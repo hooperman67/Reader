@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-03T21:15:10.823Z</updated>
+    <updated>2023-05-04T01:23:19.169Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic coach reveals Ange Postecoglou factor behind Youth Cup win as Rangers seethe over red card]]></title>
+        <id>4129382</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/celtic-coach-reveals-ange-postecoglou-factor-behind-youth-cup-win-as-rangers-seethe-over-red-card-4129382"/>
+        <updated>2023-05-03T21:53:57.000Z</updated>
+        <summary type="html"><![CDATA[Celtic under-18 coach Stuart McLaren revelled in the Ange Postecoglou factor following his team’s astonishing 6-5 extra-time Youth Cup final success over rivals Rangers.]]></summary>
+        <author>
+            <name>Andrew Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Celtic message from Ange that inspired Youth Cup triumph]]></title>
+        <id>3b04b1d4a2a7536dda1de666e4c18e8c</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23499274.celtic-message-ange-inspired-youth-cup-triumph/?ref=rss"/>
+        <updated>2023-05-03T21:37:30.000Z</updated>
+        <summary type="html"><![CDATA[The Parkhead kids triumphed 6-5 over Rangers at Hampden on Wednesday night.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reality dawning on Celtic star as pre-match jitters admission made ahead of potential title clincher]]></title>
+        <id>4129338</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/reality-dawning-on-celtic-star-as-pre-match-jitters-admission-made-ahead-of-potential-title-clincher-4129338"/>
+        <updated>2023-05-03T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[For so long there has been an inevitability to Celtic’s romp towards the Premiership title - not that anyone at the club would publicly admit it.]]></summary>
+        <author>
+            <name>Moira Gordon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rangers' Cameron Campbell addresses Zak Lovelace red against Celtic]]></title>
+        <id>f19e3423675923fa4172d3d52c682c68</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23499266.rangers-cameron-campbell-addresses-zak-lovelace-red-celtic/?ref=rss"/>
+        <updated>2023-05-03T21:21:01.000Z</updated>
+        <summary type="html"><![CDATA[CAMERON CAMPBELL insists the controversial red card handed to Zak Lovelace turned the Scottish Youth Cup final away from Rangers.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic and Rangers serve up Hampden hijinx as Hoops edge 11-goal thriller Scottish Youth Cup final]]></title>
         <id>4129357</id>
@@ -1114,36 +1154,6 @@
         <summary type="html"><![CDATA[Celtic or Rangers will meet Inverness in the Scottish Cup final in June after the Championship side booked their place with a 3-0 win over Falkirk at Hampden.]]></summary>
         <author>
             <name>Matthew Elder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic fans troll Rangers with giant Kyogo sticker at training ground]]></title>
-        <id>f2dcd5b78d914e52d1628f16131b66c6</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23490258.celtic-fans-troll-rangers-giant-kyogo-sticker-training-ground/?ref=rss"/>
-        <updated>2023-04-29T12:23:12.000Z</updated>
-        <summary type="html"><![CDATA[A huge sticker of the Celtic striker with the Viaplay Cup trophy was plastered on the entrance to the training ground.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rangers manager Michael Beale warned 'no coming back' from Hampden defeat by ex-Celtic boss]]></title>
-        <id>4124571</id>
-        <link href="https://www.scotsman.com/sport/football/rangers/rangers-manager-michael-beale-warned-no-coming-back-from-hampden-defeat-by-ex-celtic-boss-4124571"/>
-        <updated>2023-04-29T12:11:30.000Z</updated>
-        <summary type="html"><![CDATA[Neil Lennon has warned Rangers manager Michael Beale that there will be "no coming back" from another defeat to Celtic in the Scottish Cup semi-final.]]></summary>
-        <author>
-            <name>Matthew Elder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What channel is Rangers v Celtic on? Kick-off time, TV details, team news, who is referee]]></title>
-        <id>4123192</id>
-        <link href="https://www.scotsman.com/sport/football/what-channel-is-rangers-v-celtic-on-kick-off-time-tv-details-team-news-who-is-referee-4123192"/>
-        <updated>2023-04-29T09:55:08.000Z</updated>
-        <summary type="html"><![CDATA[Celtic and Rangers will meet for the fifth time this campaign when they compete for a place in the Scottish Cup final on Saturday.]]></summary>
-        <author>
-            <name>Joel Sked</name>
         </author>
     </entry>
 </feed>
