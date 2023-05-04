@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4129655",
+          "author": "Graham Bean",
+          "description": "Sione Tuipulotu spent Saturday helping Glasgow Warriors reach their first European final and Sunday watching Celtic beat Rangers to book a place in the Scottish Cup equivalent.",
+          "link": "https://www.scotsman.com/sport/rugby-union/celtic-semi-final-win-was-icing-on-cake-for-sione-tuipulotu-after-glasgow-warriors-booked-cup-final-place-4129655",
+          "publishedOn": "2023-05-04T21:00:00.000Z",
+          "wordCount": 3696,
+          "title": "Celtic semi-final win was icing on cake for Sione Tuipulotu after Glasgow Warriors booked cup final place",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjQ0M2YwOGQ0LTMzNDAtNDE4Zi1hZjcxLTQ4MmMyOTRhOWE4NzpjNWQzYTA5Zi0wMDExLTQwMmMtYjMxYy0zNmFhNjA0ZWQxMGM=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4130816",
           "author": "Matthew Elder",
           "description": "Matt O'Riley has insisted that talk of a sizeable gap between Celtic and Rangers is \"harsh\" on the Ibrox club.",
@@ -354,26 +364,6 @@
           "wordCount": 2955,
           "title": "Celtic player ratings v Rangers: The rock, the anonymous presence, smattering of 6s despite win",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjc3Y2Q1Mzg5LWZlYzktNDA2ZS04ODNjLTJjYjY5MTgwZmI1YzplZDg3NjkyYS0zM2ViLTRhZWQtODZlYy1mZjMyZWZiNzZmNjI=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4124840",
-          "author": "Matthew Elder",
-          "description": "Rangers and Celtic meet at Hampden Park this afternoon in the Scottish Cup semi-final with both sides expected to make big changes as they welcome key players back from injury.",
-          "link": "https://www.scotsman.com/sport/football/rangers/rangers-v-celtic-late-team-news-big-changes-two-stars-miss-out-raskin-rumour-probable-starting-xis-4124840",
-          "publishedOn": "2023-04-30T07:00:00.000Z",
-          "wordCount": 2442,
-          "title": "Rangers v Celtic late team news: Big changes, two stars miss out, Raskin rumour, probable starting XIs",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjVhODBjMjEzLWY5NDktNDg0Yy05NzA2LWIyNWI4MjU3ZTUxODpiNTdiZDgwNi03NGMxLTQyNjEtYjFiYS04MGFlYjcxYjc1ZmY=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4124620",
-          "author": "Andrew Smith",
-          "description": "Presumptiousness maketh pillocks of folk often in football.",
-          "link": "https://www.scotsman.com/sport/football/celtic/rangers-enter-scottish-cup-pressure-cooker-as-celtic-threaten-most-successful-club-in-world-mantle-4124620",
-          "publishedOn": "2023-04-30T06:30:00.000Z",
-          "wordCount": 4776,
-          "title": "Rangers enter Scottish Cup pressure cooker as Celtic threaten 'most successful club in world' mantle",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmVkMWExM2IyLWQ5ZDAtNDU2MS1iMDZlLTMyOWU2NmI2ZDYzZjplZmQ3MTM2MC00YzQ0LTRlZDctODMyMi1hNGJkOTgzN2RhYzg=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
         }
       ]
     },
@@ -388,6 +378,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "4fe346d6c3d364d44e867c7e8bb0fa97",
+          "author": null,
+          "description": "Join us for our live coverage as Celtic host Rangers as the SWPL nears its conclusion.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23501920.celtic-0-1-rangers-howat-howitzer-seals-win/?ref=rss",
+          "publishedOn": "2023-05-04T17:16:35.000Z",
+          "wordCount": 8105,
+          "title": "Celtic 0-1 Rangers: Howat howitzer seals win",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16743772/?type=og-image"
+        },
         {
           "id": "4fe346d6c3d364d44e867c7e8bb0fa97",
           "author": null,

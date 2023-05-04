@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-04T18:20:58.470Z</updated>
+    <updated>2023-05-04T21:14:46.602Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic semi-final win was icing on cake for Sione Tuipulotu after Glasgow Warriors booked cup final place]]></title>
+        <id>4129655</id>
+        <link href="https://www.scotsman.com/sport/rugby-union/celtic-semi-final-win-was-icing-on-cake-for-sione-tuipulotu-after-glasgow-warriors-booked-cup-final-place-4129655"/>
+        <updated>2023-05-04T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sione Tuipulotu spent Saturday helping Glasgow Warriors reach their first European final and Sunday watching Celtic beat Rangers to book a place in the Scottish Cup equivalent.]]></summary>
+        <author>
+            <name>Graham Bean</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic 0-1 Rangers: Howat howitzer seals win]]></title>
+        <id>4fe346d6c3d364d44e867c7e8bb0fa97</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23501920.celtic-0-1-rangers-howat-howitzer-seals-win/?ref=rss"/>
+        <updated>2023-05-04T17:16:35.000Z</updated>
+        <summary type="html"><![CDATA[Join us for our live coverage as Celtic host Rangers as the SWPL nears its conclusion.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SWPL LIVE: Celtic host Rangers in post-split clash]]></title>
         <id>4fe346d6c3d364d44e867c7e8bb0fa97</id>
@@ -1154,26 +1174,6 @@
         <summary type="html"><![CDATA[The former Hibs boss was unable to keep Wigan in the English Championship after Reading scored an injury-time equaliser to claim a 1-1 draw.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rangers v Celtic late team news: Big changes, two stars miss out, Raskin rumour, probable starting XIs]]></title>
-        <id>4124840</id>
-        <link href="https://www.scotsman.com/sport/football/rangers/rangers-v-celtic-late-team-news-big-changes-two-stars-miss-out-raskin-rumour-probable-starting-xis-4124840"/>
-        <updated>2023-04-30T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Rangers and Celtic meet at Hampden Park this afternoon in the Scottish Cup semi-final with both sides expected to make big changes as they welcome key players back from injury.]]></summary>
-        <author>
-            <name>Matthew Elder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rangers enter Scottish Cup pressure cooker as Celtic threaten 'most successful club in world' mantle]]></title>
-        <id>4124620</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/rangers-enter-scottish-cup-pressure-cooker-as-celtic-threaten-most-successful-club-in-world-mantle-4124620"/>
-        <updated>2023-04-30T06:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Presumptiousness maketh pillocks of folk often in football.]]></summary>
-        <author>
-            <name>Andrew Smith</name>
         </author>
     </entry>
 </feed>
