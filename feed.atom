@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-05T03:18:05.609Z</updated>
+    <updated>2023-05-05T06:22:09.709Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic star Matt O'Riley on being 'seen as a footballer not a person']]></title>
+        <id>885a129102c578068fbfd6901109da16</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23501801.celtic-star-matt-oriley-seen-footballer-not-person/?ref=rss"/>
+        <updated>2023-05-05T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The 22-year-old midfielder gave a candid interview on constantly living under the spotlight at Parkhead.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kyogo Furuhashi reveals 'honour' of staying at Celtic as striker aims to keep up Hearts scoring record]]></title>
         <id>4130713</id>
@@ -982,126 +992,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23491789.chris-sutton-brutally-trolls-todd-cantwell-celtic-vs-rangers-spat/?ref=rss"/>
         <updated>2023-04-30T19:49:00.000Z</updated>
         <summary type="html"><![CDATA[Chris Sutton has continued to wind up Rangers midfielder Todd Cantwell as he took aim at the midfielder for his actions during today's semi-final.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Wonderful performance' - Celtic pundits react to win over Rangers]]></title>
-        <id>b550428bc77cea05ec4d872bd14059f7</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23491685.wonderful-performance---celtic-pundits-react-win-rangers/?ref=rss"/>
-        <updated>2023-04-30T18:03:01.000Z</updated>
-        <summary type="html"><![CDATA[Ange Postecoglou's men earned serious plaudits after the Scottish Cup semi-final win.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic manager gives update on 'significant' Alistair Johnston injury]]></title>
-        <id>4280d8ef54fe7dd7fa4fdca5a37db6cd</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23491625.celtic-manager-gives-update-significant-alistair-johnston-injury/?ref=rss"/>
-        <updated>2023-04-30T17:33:00.000Z</updated>
-        <summary type="html"><![CDATA[ANGE Postecoglou tonight paid a glowing tribute to Celtic centre half Cameron Carter-Vickers for playing through the pain barrier in the Parkhead club’s Scottish Cup semi-final win over Rangers.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why this win was so un-Celticy, their Bermuda Triangle and mad stat against Rangers]]></title>
-        <id>4125208</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/why-this-win-was-so-un-celticy-their-bermuda-triangle-and-mad-stat-against-rangers-4125208"/>
-        <updated>2023-04-30T17:24:41.000Z</updated>
-        <summary type="html"><![CDATA[There were mysteries to be interrogated in the over-arching ordinariness of Celtic as they stayed fair for total supremacy within the Scottish game.]]></summary>
-        <author>
-            <name>Andrew Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unseen Rangers vs Celtic water fight as Hatate mugs off Cantwell]]></title>
-        <id>6c0b24b3b569767725eed510d365ccaf</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23491638.unseen-rangers-vs-celtic-water-fight-hatate-mugs-off-cantwell/?ref=rss"/>
-        <updated>2023-04-30T17:08:46.000Z</updated>
-        <summary type="html"><![CDATA[The Japanese international pinched some water from the Ibrox physios despite Cantwell's attempted intervention.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Celtic defeat too far for Rangers - players waved away, different ways to pile on heartache]]></title>
-        <id>4125200</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/a-celtic-defeat-too-far-for-rangers-players-waved-away-different-ways-to-pile-on-heartache-4125200"/>
-        <updated>2023-04-30T17:05:36.000Z</updated>
-        <summary type="html"><![CDATA[Mayday will have very different connotations for Michael Beale when he wakes up at the start of this week. It might equal a Spring bank holiday for most people.]]></summary>
-        <author>
-            <name>Alan Pattullo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Michael Beale promises to oversee biggest Rangers rebuild in years]]></title>
-        <id>a3433559d8c8a571df9d5db5f59a633f</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23491574.michael-beale-promises-oversee-biggest-rangers-rebuild-years/?ref=rss"/>
-        <updated>2023-04-30T17:02:00.000Z</updated>
-        <summary type="html"><![CDATA[MICHAEL Beale tonight vowed to carry out the biggest rebuild at Rangers in years this summer and revealed that up to a dozen players could depart after a Scottish Cup semi-final defeat to Celtic.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Repeat performance from dozy Rangers as gambles fail to pay off]]></title>
-        <id>fd57fca3eee15f0c5ec72388410413b8</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23491562.repeat-performance-dozy-rangers-gambles-fail-pay-off/?ref=rss"/>
-        <updated>2023-04-30T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[IT is doubtful if there is a Rangers supporter alive that has rewatched the Viaplay Cup Final defeat to Celtic...]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic hammer home brutal difference with Rangers nearly men]]></title>
-        <id>99ccb3ba52654cd43af3c737aea24899</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23491436.celtic-hammer-home-brutal-difference-rangers-nearly-men/?ref=rss"/>
-        <updated>2023-04-30T16:21:00.000Z</updated>
-        <summary type="html"><![CDATA[Ange Postecoglou's side are into the Scottish Cup final following a 1-0 win over their rivals at Hampden]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['I'm scared of him, last game for us': Celtic boss opens up on Cameron Carter-Vickers operation]]></title>
-        <id>4125169</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/im-scared-of-him-last-game-for-us-celtic-boss-opens-up-on-cameron-carter-vickers-operation-4125169"/>
-        <updated>2023-04-30T16:19:09.000Z</updated>
-        <summary type="html"><![CDATA[Celtic manager Ange Postecoglou joked that the menacing nature of Cameron Carter-Vickers meant he couldn’t send the centre-back for necessary surgery ahead of the Scottish Cup semi-final victory over Rangers that has placed the club on the brink of a treble.]]></summary>
-        <author>
-            <name>Andrew Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['I'm scared of him, his last game for us': Celtic boss opens up on Cameron Carter-Vickers operation]]></title>
-        <id>4125169</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/im-scared-of-him-his-last-game-for-us-celtic-boss-opens-up-on-cameron-carter-vickers-operation-4125169"/>
-        <updated>2023-04-30T16:19:09.000Z</updated>
-        <summary type="html"><![CDATA[Celtic manager Ange Postecoglou joked that the menacing nature of Cameron Carter-Vickers meant he couldn’t send the centre-back for necessary surgery ahead of the Scottish Cup semi-final victory over Rangers that has placed the club on the brink of a treble.]]></summary>
-        <author>
-            <name>Andrew Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic player ratings v Rangers: The rock, the anonymous presence, smattering of 6s despite win]]></title>
-        <id>4125150</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/celtic-player-ratings-v-rangers-the-rock-the-anonymous-presence-smattering-of-6s-despite-win-4125150"/>
-        <updated>2023-04-30T16:02:23.000Z</updated>
-        <summary type="html"><![CDATA[We give the Celtic players a mark out of ten for their performance against Rangers at Hampden in the Scottish Cup semi-final.]]></summary>
-        <author>
-            <name>Moira Gordon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chris Sutton brands Alfredo Morelos an overweight 'disgrace']]></title>
-        <id>4c35eac85f44273e179bbcf58161db25</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23491545.chris-sutton-brands-alfredo-morelos-overweight-disgrace/?ref=rss"/>
-        <updated>2023-04-30T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The former Celtic forward slammed recent performances from the Colombian as he claimed he was a "passenger" at Hampden.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
