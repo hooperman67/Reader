@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-05T09:16:39.800Z</updated>
+    <updated>2023-05-05T12:32:06.567Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Arsenal ace Kieran Tierney subject of Aston Villa transfer interest]]></title>
+        <id>132bfe1f9c4a1dc5dc83cebf777c1685</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23503003.arsenal-ace-kieran-tierney-subject-aston-villa-transfer-interest/?ref=rss"/>
+        <updated>2023-05-05T10:35:37.000Z</updated>
+        <summary type="html"><![CDATA[Aston Villa are interested in former Celtic left-back Kieran Tierney, according to reports.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic furious over Rangers turning point as defender blasts - 'sometimes you have to beat the refs']]></title>
+        <id>4131454</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/celtic-furious-over-rangers-turning-point-as-defender-blasts-sometimes-you-have-to-beat-the-refs-4131454"/>
+        <updated>2023-05-05T09:24:54.000Z</updated>
+        <summary type="html"><![CDATA[Celtic defender Caitlin Hayes has slammed the decision to rule out her goal in the 1-0 defeat to Rangers in the Scottish Women's Premier League on Thursday night.]]></summary>
+        <author>
+            <name>Matthew Elder</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rangers - Celtic gap 'nowhere near as large' as Ibrox legend makes 56 'can't happen' and signings admission]]></title>
         <id>4131123</id>
@@ -1004,16 +1024,6 @@
         <summary type="html"><![CDATA[A colossal performance from the centre-back will be his last of the season as he prepares to undergo knee surgery.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['I love him, he deserves to be pain free, he's a person': Joe Hart is glad news is out about walking wounded Celtic talisman]]></title>
-        <id>4125191</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/i-love-him-he-deserves-to-be-pain-free-hes-a-person-joe-hart-is-glad-news-is-out-about-walking-wounded-celtic-talisman-4125191"/>
-        <updated>2023-04-30T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[There was good news and bad news as Celtic edged a step closer to claiming the domestic treble. The Parkhead side saw off challengers Rangers to move into the Scottish Cup final, where they will face Championship side Inverness Caledonian Thistle, but manager Ange Postecoglou then revealed that man of the match Cameron Carter-Vickers will sit out the remainder of the season as he undergoes surgery for a knee injury.]]></summary>
-        <author>
-            <name>Moira Gordon</name>
         </author>
     </entry>
 </feed>
