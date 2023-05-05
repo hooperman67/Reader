@@ -396,8 +396,28 @@
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "867a74befa66e2786d5bc74018348d48",
+          "author": null,
+          "description": "The first team star was situ at the fixture.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23504310.celtic-defender-womens-team-stars-relationship-confirmed/?ref=rss",
+          "publishedOn": "2023-05-05T17:14:00.000Z",
+          "wordCount": 8505,
+          "title": "Celtic defender and women's team star's relationship confirmed",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16747751/?type=og-image"
+        },
+        {
+          "id": "f95f6bbbd96413cfda4699b6d5874384",
+          "author": null,
+          "description": "The Australian provided a timeline for the defender's potential return to action.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23504217.ange-postecoglou-issues-alistair-johnston-celtic-injury-update/?ref=rss",
+          "publishedOn": "2023-05-05T16:54:00.000Z",
+          "wordCount": 9619,
+          "title": "Ange Postecoglou issues Alistair Johnston Celtic injury update",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16747678/?type=og-image"
+        },
         {
           "id": "132bfe1f9c4a1dc5dc83cebf777c1685",
           "author": null,
@@ -1047,16 +1067,6 @@
           "wordCount": 10062,
           "title": "Kris Commons slates Michael Beale over Rangers moment vs Celtic",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16726686/?type=og-image"
-        },
-        {
-          "id": "33862b78edab9726fdc98fab1f3f6afd",
-          "author": null,
-          "description": "A colossal performance from the centre-back will be his last of the season as he prepares to undergo knee surgery.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23491905.hart-salutes-celtic-sacrifice-ccv-proclaims-i-love-him/?ref=rss",
-          "publishedOn": "2023-05-01T05:00:00.000Z",
-          "wordCount": 9009,
-          "title": "Hart salutes Celtic sacrifice from CCV and proclaims 'I love him'",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16727241/?type=og-image"
         }
       ]
     }

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-05T15:17:18.611Z</updated>
+    <updated>2023-05-05T18:20:31.950Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic defender and women's team star's relationship confirmed]]></title>
+        <id>867a74befa66e2786d5bc74018348d48</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23504310.celtic-defender-womens-team-stars-relationship-confirmed/?ref=rss"/>
+        <updated>2023-05-05T17:14:00.000Z</updated>
+        <summary type="html"><![CDATA[The first team star was situ at the fixture.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ange Postecoglou issues Alistair Johnston Celtic injury update]]></title>
+        <id>f95f6bbbd96413cfda4699b6d5874384</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23504217.ange-postecoglou-issues-alistair-johnston-celtic-injury-update/?ref=rss"/>
+        <updated>2023-05-05T16:54:00.000Z</updated>
+        <summary type="html"><![CDATA[The Australian provided a timeline for the defender's potential return to action.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SPFL reveal when fixtures for 2023/24 will be released]]></title>
         <id>4132299</id>
@@ -1032,16 +1052,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23492049.kris-commons-slates-michael-beale-rangers-moment-vs-celtic/?ref=rss"/>
         <updated>2023-05-01T06:56:14.000Z</updated>
         <summary type="html"><![CDATA[Kris Commons has slated Rangers boss Michael Beale's decision-making following yesterday's Scottish Cup loss to Celtic.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hart salutes Celtic sacrifice from CCV and proclaims 'I love him']]></title>
-        <id>33862b78edab9726fdc98fab1f3f6afd</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23491905.hart-salutes-celtic-sacrifice-ccv-proclaims-i-love-him/?ref=rss"/>
-        <updated>2023-05-01T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A colossal performance from the centre-back will be his last of the season as he prepares to undergo knee surgery.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
