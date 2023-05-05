@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-05T06:22:09.709Z</updated>
+    <updated>2023-05-05T09:16:39.800Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rangers - Celtic gap 'nowhere near as large' as Ibrox legend makes 56 'can't happen' and signings admission]]></title>
+        <id>4131123</id>
+        <link href="https://www.scotsman.com/sport/football/rangers/rangers-celtic-gap-nowhere-near-as-large-as-ibrox-legend-makes-56-cant-happen-and-signings-admission-4131123"/>
+        <updated>2023-05-05T07:08:27.000Z</updated>
+        <summary type="html"><![CDATA[Rangers legend Barry Ferguson has claimed the gap to Celtic is “nowhere near as large as it’s been claimed” but has admitted that the number of signings required by Michael Beale is now in double figures.]]></summary>
+        <author>
+            <name>Joel Sked</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kyogo on Celtic future as he details 'honour' to pull on Hoops jersey]]></title>
+        <id>70b2b0498996b030735a5340b0ed2dff</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23502272.kyogo-celtic-future-details-honour-pull-hoops-jersey/?ref=rss"/>
+        <updated>2023-05-05T06:44:49.000Z</updated>
+        <summary type="html"><![CDATA[Kyogo insists he is "honoured" every time he gets to pull on the Celtic jersey as he opened up on his future at the club.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic Youth Cup final hero aiming to follow in footsteps of Callum McGregor - 'hopefully I'm the same']]></title>
+        <id>4130833</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/celtic-youth-cup-final-hero-aiming-to-follow-in-footsteps-of-callum-mcgregor-hopefully-im-the-same-4130833"/>
+        <updated>2023-05-05T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Kyle Ure hopes leading Celtic to a Youth Cup final win over Rangers in front of a watching Ange Postecoglou can be the first step towards emulating his idol Callum McGregor.]]></summary>
+        <author>
+            <name>Matthew Elder</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic star Matt O'Riley on being 'seen as a footballer not a person']]></title>
         <id>885a129102c578068fbfd6901109da16</id>
@@ -984,16 +1014,6 @@
         <summary type="html"><![CDATA[There was good news and bad news as Celtic edged a step closer to claiming the domestic treble. The Parkhead side saw off challengers Rangers to move into the Scottish Cup final, where they will face Championship side Inverness Caledonian Thistle, but manager Ange Postecoglou then revealed that man of the match Cameron Carter-Vickers will sit out the remainder of the season as he undergoes surgery for a knee injury.]]></summary>
         <author>
             <name>Moira Gordon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chris Sutton brutally trolls Todd Cantwell over Rangers vs Celtic spat]]></title>
-        <id>9febffb26482400832787bfd23cbfbf5</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23491789.chris-sutton-brutally-trolls-todd-cantwell-celtic-vs-rangers-spat/?ref=rss"/>
-        <updated>2023-04-30T19:49:00.000Z</updated>
-        <summary type="html"><![CDATA[Chris Sutton has continued to wind up Rangers midfielder Todd Cantwell as he took aim at the midfielder for his actions during today's semi-final.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>
