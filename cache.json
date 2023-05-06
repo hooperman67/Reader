@@ -6,6 +6,26 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4132795",
+          "author": "Andrew Smith",
+          "description": "The adulation that is being heaped on Ange Postecoglou from the Celtic faithful has rarely been witnessed in the club’s annals.",
+          "link": "https://www.scotsman.com/sport/football/celtic/im-not-in-that-ball-park-mate-ange-postecoglou-on-celtic-adulation-and-why-he-is-slow-on-fan-walk-4132795",
+          "publishedOn": "2023-05-06T07:30:00.000Z",
+          "wordCount": 2572,
+          "title": "'I’m not in that ball-park, mate': Ange Postecoglou on Celtic adulation and why he is slow on fan walk",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjUxMWM3M2Y1LTU0OGUtNDFmNC04YjMwLTU3NGNiM2EwZGFlZjpmYzNmNTgzOC1iNzkwLTQyYmItYTE0ZS1iZTRjYjcwNDg1YmU=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
+          "id": "4132784",
+          "author": "Andrew Smith",
+          "description": "Celtic’s opportunity to seal the title against Hearts at Tynecastle offers the possibility of a neat symmetry to Ange Postecoglou’s Scottish footballing odyssey.",
+          "link": "https://www.scotsman.com/sport/football/celtic/time-for-ange-postecoglou-celtic-reflection-i-had-the-energy-there-was-nothing-hanging-on-to-me-4132784",
+          "publishedOn": "2023-05-06T07:00:00.000Z",
+          "wordCount": 2954,
+          "title": "Time for Ange Postecoglou Celtic reflection: 'I had the energy. There was nothing hanging on to me'",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmU2OTVjOWNhLTQ2MzEtNDJlZi05ZWVlLTgwMGUzMzRiZDE5NDowZDdmZjY4Mi0yMzlmLTQ1ZTQtYmRmNS1mM2ZkY2FkNDUxNGI=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4132824",
           "author": "Andrew Smith",
           "description": "An evocative black-and-white photo of Celtic manager Ange Postecoglou has been doing the rounds online this week.",
@@ -354,16 +374,6 @@
           "wordCount": 2869,
           "title": "Ange Postecoglou on what got him Celtic job as he reveals term to never use for Rangers boss - or anyone else",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjgwZWRhZDVhLTRhMjQtNGRiYi04YjExLTYzNjZlNmMwMjI3OTplZjYwZmUxZi0xM2Q1LTQzMmEtODYzNy0wOTE3MmU5MmVhYTM=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4125945",
-          "author": "Chris Andrews",
-          "description": "Police Scotland will have increased powers to tackle the use of pyrotechnics come the Scottish Cup final at the start of June, the Scottish Government has confirmed.",
-          "link": "https://www.scotsman.com/sport/football/celtic/scottish-government-in-further-measures-promise-to-police-for-tackling-pyro-after-rangers-v-celtic-smoke-4125945",
-          "publishedOn": "2023-05-01T20:50:53.000Z",
-          "wordCount": 2300,
-          "title": "Scottish Government in 'further measures' promise to police for tackling pyro after Rangers v Celtic smoke",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjY5MWNlYTJlLTMxYzEtNDE1Zi04YmM4LTRkMGZlNzkyNDUzNjpmZDJlYWRlYy03M2VkLTQ5ZmUtYTU3My0xZjA0ZjJkNmUwMTI=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
         }
       ]
     },
@@ -376,8 +386,28 @@
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "7ed3c15ca8fe7dfd7b1ea99600834371",
+          "author": null,
+          "description": "SCOTLAND’S elected representatives have been understandably reluctant to involve themselves in the running of our national game since the Offensive Behaviour at Football and Threatening Communications (Scotland) Act 2012 (OBFA) was repealed at Holyrood five years ago.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23504460.police-scotlands-new-pyrotechnics-powers-obfa-disguise/?ref=rss",
+          "publishedOn": "2023-05-06T05:53:00.000Z",
+          "wordCount": 9016,
+          "title": "Are Police Scotland’s new pyrotechnics powers OBFA in disguise?",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16747940/?type=og-image"
+        },
+        {
+          "id": "d67a37e95aa62a970c8b1c48bce237e6",
+          "author": null,
+          "description": "The Parkhead manager says he will never take for granted the backing he has received in Glasgow.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23504683.emotional-ange-postecoglou-sends-heartfelt-message-celtic-fans/?ref=rss",
+          "publishedOn": "2023-05-06T05:00:00.000Z",
+          "wordCount": 9243,
+          "title": "Celtic boss Ange reacts to resurfaced viral picture from 50 years ago",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16748550/?type=og-image"
+        },
         {
           "id": "6bf7e7fbe88f3f3f6c99dc40bc4eabf4",
           "author": null,
@@ -987,16 +1017,6 @@
           "wordCount": 8801,
           "title": "Celtic manager Postecoglou dismisses Rangers counterpart’s ‘lucky’ tag",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16729397/?type=og-image"
-        },
-        {
-          "id": "73bd1437273ec3f8eba000a6677a7990",
-          "author": null,
-          "description": "Kevin Bridges and Martin Compston shared snaps of their celebrations after Celtic's 1-0 win at Hampden.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23493406.hoops-daft-celebrities-mark-celtic-scottish-cup-semi-final-win/?ref=rss",
-          "publishedOn": "2023-05-01T18:23:51.000Z",
-          "wordCount": 8238,
-          "title": "Hoops daft celebrities mark Celtic Scottish cup semi-final win",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16729716/?type=og-image"
         }
       ]
     }

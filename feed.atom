@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-06T06:20:30.108Z</updated>
+    <updated>2023-05-06T09:15:21.984Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA['I’m not in that ball-park, mate': Ange Postecoglou on Celtic adulation and why he is slow on fan walk]]></title>
+        <id>4132795</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/im-not-in-that-ball-park-mate-ange-postecoglou-on-celtic-adulation-and-why-he-is-slow-on-fan-walk-4132795"/>
+        <updated>2023-05-06T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The adulation that is being heaped on Ange Postecoglou from the Celtic faithful has rarely been witnessed in the club’s annals.]]></summary>
+        <author>
+            <name>Andrew Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Time for Ange Postecoglou Celtic reflection: 'I had the energy. There was nothing hanging on to me']]></title>
+        <id>4132784</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/time-for-ange-postecoglou-celtic-reflection-i-had-the-energy-there-was-nothing-hanging-on-to-me-4132784"/>
+        <updated>2023-05-06T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Celtic’s opportunity to seal the title against Hearts at Tynecastle offers the possibility of a neat symmetry to Ange Postecoglou’s Scottish footballing odyssey.]]></summary>
+        <author>
+            <name>Andrew Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are Police Scotland’s new pyrotechnics powers OBFA in disguise?]]></title>
+        <id>7ed3c15ca8fe7dfd7b1ea99600834371</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23504460.police-scotlands-new-pyrotechnics-powers-obfa-disguise/?ref=rss"/>
+        <updated>2023-05-06T05:53:00.000Z</updated>
+        <summary type="html"><![CDATA[SCOTLAND’S elected representatives have been understandably reluctant to involve themselves in the running of our national game since the Offensive Behaviour at Football and Threatening Communications (Scotland) Act 2012 (OBFA) was repealed at Holyrood five years ago.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic boss Ange reacts to resurfaced viral picture from 50 years ago]]></title>
+        <id>d67a37e95aa62a970c8b1c48bce237e6</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23504683.emotional-ange-postecoglou-sends-heartfelt-message-celtic-fans/?ref=rss"/>
+        <updated>2023-05-06T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Parkhead manager says he will never take for granted the backing he has received in Glasgow.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic boss Ange Postecoglou has his say on immigrant picture of him from 52 years ago]]></title>
         <id>4132824</id>
@@ -964,26 +1004,6 @@
         <summary type="html"><![CDATA[Celtic manager Ange Postecoglou is adamant that 25 years of hard work have taken him to the cusp of landing a domestic treble in his second season in charge of the club and that the notion of luck should not enter the conversation.]]></summary>
         <author>
             <name>Andrew Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scottish Government in 'further measures' promise to police for tackling pyro after Rangers v Celtic smoke]]></title>
-        <id>4125945</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/scottish-government-in-further-measures-promise-to-police-for-tackling-pyro-after-rangers-v-celtic-smoke-4125945"/>
-        <updated>2023-05-01T20:50:53.000Z</updated>
-        <summary type="html"><![CDATA[Police Scotland will have increased powers to tackle the use of pyrotechnics come the Scottish Cup final at the start of June, the Scottish Government has confirmed.]]></summary>
-        <author>
-            <name>Chris Andrews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hoops daft celebrities mark Celtic Scottish cup semi-final win]]></title>
-        <id>73bd1437273ec3f8eba000a6677a7990</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23493406.hoops-daft-celebrities-mark-celtic-scottish-cup-semi-final-win/?ref=rss"/>
-        <updated>2023-05-01T18:23:51.000Z</updated>
-        <summary type="html"><![CDATA[Kevin Bridges and Martin Compston shared snaps of their celebrations after Celtic's 1-0 win at Hampden.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>
