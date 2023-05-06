@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-06T01:20:04.733Z</updated>
+    <updated>2023-05-06T03:17:33.658Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -1022,36 +1022,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23493251.stiliyan-petrov-dangerous-scottish-football-celtic-warning/?ref=rss"/>
         <updated>2023-05-01T16:05:15.000Z</updated>
         <summary type="html"><![CDATA[It comes as Celtic look certainties to record another treble come the end of this season.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic fans lap up 'Jota Sundays' Andy Robertson remark]]></title>
-        <id>635961a6ea280dd57cea9c0e6bf1e109</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23493140.celtic-fans-lap-jota-sundays-andy-robertson-remark/?ref=rss"/>
-        <updated>2023-05-01T15:06:25.000Z</updated>
-        <summary type="html"><![CDATA[The Liverpool skipper was pleased to see his teammate Diogo score the winner against Tottenham yesterday.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No SPFL request for teams to play 'God Save the King' to mark coronation weekend as clubs to decide]]></title>
-        <id>4125766</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/no-spfl-request-for-teams-to-play-god-save-the-king-to-mark-coronation-weekend-as-clubs-to-decide-4125766"/>
-        <updated>2023-05-01T14:41:31.000Z</updated>
-        <summary type="html"><![CDATA[The SPFL will not request clubs play ‘God Save the King’ ahead of this weekend’s fixtures to mark the coronation of King Charles as the Premier League have in England.]]></summary>
-        <author>
-            <name>Joel Sked</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jota reacts as Celtic star is told Portugal manager is in Glasgow]]></title>
-        <id>2879e7be7d118a8e015436f47910a855</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23493042.jota-reacts-celtic-star-told-portugal-manager-glasgow/?ref=rss"/>
-        <updated>2023-05-01T14:25:29.000Z</updated>
-        <summary type="html"><![CDATA[The Portuguese winger, 24, has yet to earn a call-up to the main international squad.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
