@@ -356,8 +356,18 @@
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
       "articles": [
+        {
+          "id": "d2b48b336eebde70a8bae8bf415edc1e",
+          "author": null,
+          "description": "Baroness Karren Brady admits the Hoops manager has what it takes to become a success in England's top flight.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23505496.west-ham-chief-tips-celtic-boss-ange-postecoglou-epl-move/?ref=rss",
+          "publishedOn": "2023-05-06T14:35:44.000Z",
+          "wordCount": 9875,
+          "title": "West Ham chief tips Celtic boss Ange Postecoglou for EPL move",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16750233/?type=og-image"
+        },
         {
           "id": "e36a7712b26cd5fe4ef5041c148802c5",
           "author": null,
@@ -1007,26 +1017,6 @@
           "wordCount": 9669,
           "title": "Chris Sutton hauled up over Rangers 'Bealeball' jibe",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16049673/?type=og-image"
-        },
-        {
-          "id": "d41d796a9c0a99324c3f8f9c9cb5f685",
-          "author": null,
-          "description": "WITH Celtic safely through to the Scottish Cup final thanks to their hard-fought win over Rangers on Sunday and on the verge of a world record eighth treble, Ange Postecoglou could be excused if he sat back and reflected on a job well done.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23493263.ange-postecoglou-plans-make-celtic-even-stronger-next-season/?ref=rss",
-          "publishedOn": "2023-05-02T05:37:00.000Z",
-          "wordCount": 9191,
-          "title": "Ange Postecoglou on his plans to make Celtic even stronger next season",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16729508/?type=og-image"
-        },
-        {
-          "id": "1d3175719a353d39cfa79b0265a8368b",
-          "author": null,
-          "description": "The midfielder was instrumental in his side's Scottish Cup semi-final win at Hampden on Sunday.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23493425.don-robertson-told-celtic-star-oriley-jota-goal-vs-rangers/?ref=rss",
-          "publishedOn": "2023-05-02T05:00:00.000Z",
-          "wordCount": 9172,
-          "title": "What Don Robertson told Celtic star O'Riley after Jota goal vs Rangers",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16729750/?type=og-image"
         }
       ]
     }

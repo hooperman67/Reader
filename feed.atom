@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-06T15:15:57.015Z</updated>
+    <updated>2023-05-06T18:20:13.583Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[West Ham chief tips Celtic boss Ange Postecoglou for EPL move]]></title>
+        <id>d2b48b336eebde70a8bae8bf415edc1e</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23505496.west-ham-chief-tips-celtic-boss-ange-postecoglou-epl-move/?ref=rss"/>
+        <updated>2023-05-06T14:35:44.000Z</updated>
+        <summary type="html"><![CDATA[Baroness Karren Brady admits the Hoops manager has what it takes to become a success in England's top flight.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scott Brown swerves Celtic return poser as he focusses on Fleetwood]]></title>
         <id>e36a7712b26cd5fe4ef5041c148802c5</id>
@@ -992,26 +1002,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23493582.chris-sutton-hauled-rangers-bealeball-jibe/?ref=rss"/>
         <updated>2023-05-02T06:28:55.000Z</updated>
         <summary type="html"><![CDATA[Micah Richards has called out Celtic hero Chris Sutton for his tweets following Sunday's Scottish Cup clash against Rangers.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ange Postecoglou on his plans to make Celtic even stronger next season]]></title>
-        <id>d41d796a9c0a99324c3f8f9c9cb5f685</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23493263.ange-postecoglou-plans-make-celtic-even-stronger-next-season/?ref=rss"/>
-        <updated>2023-05-02T05:37:00.000Z</updated>
-        <summary type="html"><![CDATA[WITH Celtic safely through to the Scottish Cup final thanks to their hard-fought win over Rangers on Sunday and on the verge of a world record eighth treble, Ange Postecoglou could be excused if he sat back and reflected on a job well done.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Don Robertson told Celtic star O'Riley after Jota goal vs Rangers]]></title>
-        <id>1d3175719a353d39cfa79b0265a8368b</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23493425.don-robertson-told-celtic-star-oriley-jota-goal-vs-rangers/?ref=rss"/>
-        <updated>2023-05-02T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The midfielder was instrumental in his side's Scottish Cup semi-final win at Hampden on Sunday.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
