@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-06T12:30:53.855Z</updated>
+    <updated>2023-05-06T15:15:57.015Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Scott Brown swerves Celtic return poser as he focusses on Fleetwood]]></title>
+        <id>e36a7712b26cd5fe4ef5041c148802c5</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23505398.scott-brown-swerves-celtic-return-poser-focusses-fleetwood/?ref=rss"/>
+        <updated>2023-05-06T13:14:32.000Z</updated>
+        <summary type="html"><![CDATA[The Hoops legend left Parkhead nearly two years ago after well over a decade with the Scottish champions.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ally McCoist in Rangers show of faith plea to Michael Beale]]></title>
+        <id>031aa516d81371e520f1add647d3c272</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23505338.ally-mccoist-rangers-show-faith-plea-michael-beale/?ref=rss"/>
+        <updated>2023-05-06T12:11:23.000Z</updated>
+        <summary type="html"><![CDATA[Beale took over the reins at the Light Blues in November and while he's enjoyed good form in the Premiership, the season will end trophyless.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Billy Dodds on Inverness' long break plans prior to Celtic clash]]></title>
         <id>c2a34de69d3d262920a9c71919b02004</id>
