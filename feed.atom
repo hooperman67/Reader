@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-06T09:15:21.984Z</updated>
+    <updated>2023-05-06T12:30:53.855Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Billy Dodds on Inverness' long break plans prior to Celtic clash]]></title>
+        <id>c2a34de69d3d262920a9c71919b02004</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23505299.billy-dodds-inverness-long-break-plans-prior-celtic-clash/?ref=rss"/>
+        <updated>2023-05-06T11:37:19.000Z</updated>
+        <summary type="html"><![CDATA[Caley Thistle finished outside of the promotion play-off spots after their devastating late defeat at home to Ayr United last night.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ange Postecoglou in Brendan Rodgers Celtic catch up pledge]]></title>
+        <id>17d082ae9321b631bcaa80b82db2c00c</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23505183.ange-postecoglou-brendan-rodgers-celtic-catch-pledge/?ref=rss"/>
+        <updated>2023-05-06T10:29:52.000Z</updated>
+        <summary type="html"><![CDATA[The ex-Parkhead manager was spotted in the stands at the national stadium as Celtic defeated Rangers 1-0 in the semi-finals of the Scottish Cup.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic fans' Coronation chant given BBC satirical show airing]]></title>
+        <id>74f830dc0cd2fb7dd731d4b1b257ef05</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23505125.celtic-fans-coronation-chant-given-bbc-satirical-show-airing/?ref=rss"/>
+        <updated>2023-05-06T09:57:02.000Z</updated>
+        <summary type="html"><![CDATA[Discussing the Coronation, presenter Alexander Armstrong highlighted that some sections of the country are not happy with the Oath of Allegiance.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA['I’m not in that ball-park, mate': Ange Postecoglou on Celtic adulation and why he is slow on fan walk]]></title>
         <id>4132795</id>
@@ -964,46 +994,6 @@
         <summary type="html"><![CDATA[The midfielder was instrumental in his side's Scottish Cup semi-final win at Hampden on Sunday.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic's Ange Postecoglou on what keeps him 'awake at night' even as he denies being a 'one-man band']]></title>
-        <id>4125939</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/celtics-ange-postecoglou-on-what-keeps-him-awake-at-night-even-as-he-denies-being-a-one-man-band-4125939"/>
-        <updated>2023-05-01T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What was exercising the minds of Celtic supporters precisely two years ago can make that time seem as if it belongs to another age altogether.]]></summary>
-        <author>
-            <name>Andrew Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The unlikely figure in Celtic's treble chase - and why 'Inverness still have a chance']]></title>
-        <id>4125855</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/the-unlikely-figure-in-celtics-treble-chase-and-why-inverness-still-have-a-chance-4125855"/>
-        <updated>2023-05-01T21:45:00.000Z</updated>
-        <summary type="html"><![CDATA[If Celtic do go onto lift their fifth treble in seven years next month, as so many expect will happen, an unlikely figure can be deemed to have played a part in the process.]]></summary>
-        <author>
-            <name>Alan Pattullo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic manager Postecoglou dismisses Rangers counterpart’s ‘lucky’ tag]]></title>
-        <id>4f024d69bf648b5f5860b17cf9a30c59</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23493218.celtic-manager-postecoglou-dismisses-rangers-counterparts-lucky-tag/?ref=rss"/>
-        <updated>2023-05-01T21:39:00.000Z</updated>
-        <summary type="html"><![CDATA[ANGE Postecoglou has stated that he would never label a rival manager “lucky” - and stressed that it has taken him 25 years of hard work to get to a club like Celtic where he has a multi-million pound budget.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ange Postecoglou on what got him Celtic job as he reveals term to never use for Rangers boss - or anyone else]]></title>
-        <id>4125940</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/ange-postecoglou-on-what-got-him-celtic-job-as-he-reveals-term-to-never-use-for-rangers-boss-or-anyone-else-4125940"/>
-        <updated>2023-05-01T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Celtic manager Ange Postecoglou is adamant that 25 years of hard work have taken him to the cusp of landing a domestic treble in his second season in charge of the club and that the notion of luck should not enter the conversation.]]></summary>
-        <author>
-            <name>Andrew Smith</name>
         </author>
     </entry>
 </feed>
