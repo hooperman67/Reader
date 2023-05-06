@@ -6,6 +6,26 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4132824",
+          "author": "Andrew Smith",
+          "description": "An evocative black-and-white photo of Celtic manager Ange Postecoglou has been doing the rounds online this week.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtic-boss-ange-postecoglou-has-his-say-on-immigrant-picture-of-him-from-52-years-ago-4132824",
+          "publishedOn": "2023-05-05T21:35:00.000Z",
+          "wordCount": 2359,
+          "title": "Celtic boss Ange Postecoglou has his say on immigrant picture of him from 52 years ago",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmFhNGU5MzViLTYzNzgtNGE0ZC1iYzE5LTI4YzEzMGNlYzY4MjpjY2FhN2M4NS01OTA1LTQ5MDItOGNhZS05Y2U1ZGVkNjEyOTI=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
+          "id": "4132683",
+          "author": "Andrew Smith",
+          "description": "Celtic manager Ange Postecoglou has lamented the meddling with tradition that he sees as inherent in the kick-off time change for his club’s Scottish Cup final with Inverness Caledonian Thistle on June 3.",
+          "link": "https://www.scotsman.com/sport/football/celtic/i-dont-like-these-things-being-messed-about-celtic-boss-shows-his-traditionalist-side-and-provides-key-update-4132683",
+          "publishedOn": "2023-05-05T21:30:00.000Z",
+          "wordCount": 2957,
+          "title": "'I don't like these things being messed about': Celtic boss shows his traditionalist side and provides key update",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmJmMmUwNjVjLTgyNDctNDI1YS05N2MzLWQyMGM1ZGFlZWUyZDphY2VmMTBkMS03YjQ3LTQwN2QtYmVhZC0zZjA4MjkwM2Y3YjQ=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4132665",
           "author": "Matthew Elder",
           "description": "Score predictions for the first round of Scottish Premiership fixtures following the split – with major ramifications in the top and bottom half of the table.",
@@ -378,6 +398,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "6bf7e7fbe88f3f3f6c99dc40bc4eabf4",
+          "author": null,
+          "description": "The Hampden showpiece against Inverness in June has been moved from its usual 3pm slot to avoid a clash with the FA Cup final.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23504437.ange-celtic-verdict-scottish-cup-tradition-messed-about/?ref=rss",
+          "publishedOn": "2023-05-05T21:30:00.000Z",
+          "wordCount": 8531,
+          "title": "Ange in Celtic verdict on Scottish Cup tradition being 'messed about'",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16747941/?type=og-image"
+        },
         {
           "id": "e8b7416bb02b06b6308fc7729d40a567",
           "author": null,
@@ -1037,26 +1067,6 @@
           "wordCount": 8537,
           "title": "Jota reacts as Celtic star is told Portugal manager is in Glasgow",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16729012/?type=og-image"
-        },
-        {
-          "id": "66cb711c6b409dc1e40a03b0160b5e27",
-          "author": null,
-          "description": "Eagle-eyed Celtic fans have captured Matt O'Riley's cheeky celebration after Jota opened the scoring against Rangers.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23492888.matt-oriley-cheeky-unseen-celtic-celebration-rangers-fans/?ref=rss",
-          "publishedOn": "2023-05-01T13:18:19.000Z",
-          "wordCount": 8505,
-          "title": "Matt O'Riley cheeky unseen Celtic celebration to Rangers fans",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16728792/?type=og-image"
-        },
-        {
-          "id": "5cb302e41522fa276c94a83d60542b9d",
-          "author": null,
-          "description": "The SPFL will not follow the Premier League's lead in asking clubs to play 'God Save The King' at matches this weekend.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23492675.spfl-god-save-king-update-premier-league-coronation-plans/?ref=rss",
-          "publishedOn": "2023-05-01T11:31:02.000Z",
-          "wordCount": 8461,
-          "title": "SPFL 'God Save The King' update after Premier League Coronation plans",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16728432/?type=og-image"
         }
       ]
     }
