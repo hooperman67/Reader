@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-07T09:15:47.818Z</updated>
+    <updated>2023-05-07T12:30:32.312Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic team news vs Hearts as Postecoglou names starting XI]]></title>
+        <id>61135e4b51bfc6de45d51f6d823dadcc</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23506218.celtic-team-news-vs-hearts-postecoglou-names-starting-xi/?ref=rss"/>
+        <updated>2023-05-07T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ange Postecoglou has named his Celtic team to take on Hearts.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Liel Abada Celtic transfer latest as winger set for big-money move]]></title>
+        <id>2bb2495f11f87d7aab3e76e5fd7cab41</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23506137.liel-abada-celtic-transfer-latest-winger-set-big-money-move/?ref=rss"/>
+        <updated>2023-05-07T10:24:50.000Z</updated>
+        <summary type="html"><![CDATA[Celtic star Liel Abada is ready for a big-money move to the English Premier League in the summer, according to his countryman Yossi Benayoun.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic in transfer hunt for Polish superkid Szymon Wlodarczyk]]></title>
+        <id>96a62d7fca0de16738cd0f9d00c29d76</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23506111.celtic-transfer-hunt-polish-superkid-szymon-wlodarczyk/?ref=rss"/>
+        <updated>2023-05-07T10:03:45.000Z</updated>
+        <summary type="html"><![CDATA[Celtic are in the hunt for Polish superkid Szymon Wlodarczyk - dubbed the new Robert Lewandowski - according to a transfer expert.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Carl Starfelt wary of comparing Kyogo Furuhashi and Henrik Larsson]]></title>
         <id>10f4f8dd3ce126e70898fa43e981c78b</id>
@@ -872,56 +902,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23494400.anthony-ralston-sends-celtic-message-injured-alistair-johnston/?ref=rss"/>
         <updated>2023-05-03T05:00:00.000Z</updated>
         <summary type="html"><![CDATA[The 24-year-old right-back has been a bit-part player this season but is prepared to be called upon for upcoming games.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Sometimes you get a feeling that you have special guys in there with you' - why this current Celtic crop are cut above]]></title>
-        <id>4127555</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/sometimes-you-get-a-feeling-that-you-have-special-guys-in-there-with-you-why-this-current-celtic-crop-are-cut-above-4127555"/>
-        <updated>2023-05-02T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Callum McGregor has revealed that the current crop of “special” Celtic players remind him of the men who proved themselves invincible throughout the 2016/17 season.]]></summary>
-        <author>
-            <name>Moira Gordon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aberdeen 'don't want to burn place down' when it comes to disciplinary review]]></title>
-        <id>4127386</id>
-        <link href="https://www.scotsman.com/sport/football/aberdeen-dont-want-to-burn-place-down-when-it-comes-to-disciplinary-review-4127386"/>
-        <updated>2023-05-02T21:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Aberdeen desire change to Scottish football’s disciplinary system but have no intention of “burning the place down”, instead wanting to work with the SFA and other clubs to bring in change for good.]]></summary>
-        <author>
-            <name>Mark Atkinson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthony Ralston ready to fill Alistair Johnston void if defender is sidelined by injury]]></title>
-        <id>4127498</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/anthony-ralston-ready-to-fill-alistair-johnston-void-if-defender-is-sidelined-by-injury-4127498"/>
-        <updated>2023-05-02T21:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Anthony Ralston has declared himself ready to step into any void left by Alistair Johnston after the Celtic full-back hobbled out of Hampden in a moon boot and on crutches on Sunday.]]></summary>
-        <author>
-            <name>Moira Gordon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic backed to win 56 titles before Rangers as Old Firm rivals branded 'lightyears' apart]]></title>
-        <id>4127398</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/celtic-backed-to-win-56-titles-before-rangers-as-old-firm-rivals-branded-lightyears-apart-4127398"/>
-        <updated>2023-05-02T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[John Hartson has backed Celtic to overtake Rangers' record of 55 Scottish titles after insisting that his former club are "lightyears" ahead of their Glasgow rivals.]]></summary>
-        <author>
-            <name>Matthew Elder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 'special' Celtic stars giving Callum McGregor treble push deja vu]]></title>
-        <id>6efdd8bcf93ffb5582b18c10440a13f9</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23494292.special-celtic-stars-giving-callum-mcgregor-treble-push-deja-vu/?ref=rss"/>
-        <updated>2023-05-02T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The Parkhead captain was part of the side that went unbeaten in all domestic competitions in 2016/17.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
