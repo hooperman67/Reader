@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-07T03:17:43.540Z</updated>
+    <updated>2023-05-07T06:21:13.011Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -894,26 +894,6 @@
         <summary type="html"><![CDATA[Renditions of "You can stick your coronation up your a***" were audible at various points throughout Sunday's Old Firm clash.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Postecoglou 'riled' by Rangers boss Beale's lucky Celtic remarks]]></title>
-        <id>ee40453720dcab81d8126e649d26c666</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23496191.postecoglou-riled-rangers-boss-beales-lucky-celtic-remarks/?ref=rss"/>
-        <updated>2023-05-02T18:06:46.000Z</updated>
-        <summary type="html"><![CDATA[Prior to Celtic's trip to Ibrox in the New Year, Rangers boss Beale suggested Postecoglou was in a lucky position.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Just turn off Scottish football's lights now if we decide to change final time at broadcasters' whim]]></title>
-        <id>4127459</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/just-turn-off-scottish-footballs-lights-now-if-we-decide-to-change-final-time-at-broadcasters-whim-4127459"/>
-        <updated>2023-05-02T17:30:00.000Z</updated>
-        <summary type="html"><![CDATA[There was once a time when Scottish football enjoyed sufficient confidence to stand on its own two feet.]]></summary>
-        <author>
-            <name>Alan Pattullo</name>
         </author>
     </entry>
 </feed>
