@@ -6,6 +6,26 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4133706",
+          "author": "Andrew Smith",
+          "description": "Celtic’s Ange Postecoglou remained entirely true to himself and did not indulge in faux modesty as he reflected on leading his club to a second consecutive title, a success that places his team within a Scottish Cup final win of a treble and a haul of five honours across his two-season tenure.",
+          "link": "https://www.scotsman.com/sport/football/celtic/not-me-being-arrogant-just-the-truth-ange-postecoglou-says-he-always-believed-he-would-turn-celtic-around-as-tynecastle-experience-comes-full-circle-4133706",
+          "publishedOn": "2023-05-07T17:08:07.000Z",
+          "wordCount": 2898,
+          "title": "'Not me being arrogant, just the truth': Ange Postecoglou says he always believed he would turn Celtic around as Tynecastle experience comes full circle",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmU3NzhiNTY4LTU3OWMtNDE4ZC1hMDQ4LWQ0NjU2NmJhYWNlNjoxZTE5YmM5YS01ZmU0LTRlYTAtYTA0OS1lZWZjMDU2M2FlYTU=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
+          "id": "4133646",
+          "author": "Moira Gordon",
+          "description": "Celtic wrapped up their 11th Premiership title in 12 years as they defeated Hearts 2-0 to chalk up their 31st league win of a dominant season in front of a packed Tynecastle.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtic-crowned-champions-while-rangers-in-action-as-win-over-hearts-settles-title-4133646",
+          "publishedOn": "2023-05-07T15:19:27.000Z",
+          "wordCount": 2215,
+          "title": "Celtic crowned champions while Rangers in action as win over Hearts settles title",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjkwNDVjMTIzLTA0ODQtNGEwZi05ZjI5LTcyZjU1MzcyN2M3MzplNDE2Zjk0Yi0yYTNlLTQyOGMtOTJjNy03MDYxN2YzMWQ4OGU=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4133364",
           "author": "Matthew Elder",
           "description": "Celtic can clinch the Scottish Premiership title with a victory at Hearts on Sunday.",
@@ -328,6 +348,106 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "17383a89c53ed7e078ccfd0ac57c434b",
+          "author": null,
+          "description": "THE dream debut season that Ange Postecoglou enjoyed as Celtic manager left the Greek-Australian facing something of a quandry.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23506633.ange-postecoglou-made-celtic-champions/?ref=rss",
+          "publishedOn": "2023-05-07T17:28:01.000Z",
+          "wordCount": 10826,
+          "title": "How Ange Postecoglou made Celtic champions again",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16753321/?type=og-image"
+        },
+        {
+          "id": "a525893d964655cdbd44a1ff7f2276e7",
+          "author": null,
+          "description": "HEARTS caretaker manager Steven Naismith has expressed his “disbelief” at the red card his defender Alex Cochrane was shown just before half-time in the 2-0 defeat by Celtic at Tynecastle.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23506602.hearts-manager-reveals-disbelief-red-card-celtic-defeat/?ref=rss",
+          "publishedOn": "2023-05-07T16:58:32.000Z",
+          "wordCount": 8815,
+          "title": "Hearts manager reveals 'disbelief' at red card in Celtic defeat",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16753267/?type=og-image"
+        },
+        {
+          "id": "b5a351e6f3e9fb30e01d4dc190d8fdef",
+          "author": null,
+          "description": "Celtic fans took aim at the Coronation celebrations this weekend as they unveiled a protest banner.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23506589.celtic-fans-f-king-banner-blast-hearts-clash/?ref=rss",
+          "publishedOn": "2023-05-07T16:48:02.000Z",
+          "wordCount": 9449,
+          "title": "Celtic fans in 'f*** the king' banner blast during Hearts clash",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16753259/?type=og-image"
+        },
+        {
+          "id": "7003cce6a3575a2af46ee0f295e20671",
+          "author": null,
+          "description": "The American gave an update on his condition.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23506583.carter-vickers-provides-injury-update-celtic-clinch-title/?ref=rss",
+          "publishedOn": "2023-05-07T16:43:00.000Z",
+          "wordCount": 8502,
+          "title": "Carter-Vickers provides injury update after Celtic clinch title",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16753193/?type=og-image"
+        },
+        {
+          "id": "1dc69e048e6eee90addef3e8cf1a7426",
+          "author": null,
+          "description": "Ange Postecoglou was visibly emotional as he reacted to Celtic retaining the Scottish Premiership.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23506547.ange-postecoglou-fights-back-celtic-tears-reacts-title-win/?ref=rss",
+          "publishedOn": "2023-05-07T16:10:20.000Z",
+          "wordCount": 8366,
+          "title": "Ange Postecoglou fights back Celtic tears as he reacts to title win",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16753019/?type=og-image"
+        },
+        {
+          "id": "5fc53c77addbc4313aaecbc2d8f626c4",
+          "author": null,
+          "description": "CELTIC have retained the Premiership title as Ange Postecoglou backed up the success of his first season in Glasgow with a fair bit to spare...",
+          "link": "https://www.glasgowtimes.co.uk/sport/23506496.crucial-matches-won-celtic-premiership/?ref=rss",
+          "publishedOn": "2023-05-07T15:33:46.000Z",
+          "wordCount": 9254,
+          "title": "The crucial matches that won Celtic the Premiership",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16752913/?type=og-image"
+        },
+        {
+          "id": "febff11e6293bf348d7a8461bd112764",
+          "author": null,
+          "description": "Both strikers found the back of the net.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23506477.watch-celtic-goals-sealed-scottish-premiership-title/?ref=rss",
+          "publishedOn": "2023-05-07T15:17:33.000Z",
+          "wordCount": 8564,
+          "title": "WATCH: The Celtic goals that sealed the Scottish Premiership title",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16752813/?type=og-image"
+        },
+        {
+          "id": "98d5078113026bd74c8fd12805bea827",
+          "author": null,
+          "description": "THERE was one Coronation in the United Kingdom this weekend which Celtic fans rose as one to cheer and applaud.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23506474.hearts-0-celtic-2-instant-reaction-burning-issues/?ref=rss",
+          "publishedOn": "2023-05-07T15:14:55.000Z",
+          "wordCount": 10336,
+          "title": "Hearts 0 Celtic 2: Instant reaction to the burning issues",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16752881/?type=og-image"
+        },
+        {
+          "id": "62cce83439a8cfb6771520cd8927cbcd",
+          "author": null,
+          "description": "Ange Postecoglou performed his best referee VAR impression as his winger Jota wiped out Steven Naismith.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23506443.ange-postecoglou-celtic-var-duty-jota-wipes-steven-naismith/?ref=rss",
+          "publishedOn": "2023-05-07T14:50:18.000Z",
+          "wordCount": 8340,
+          "title": "Ange Postecoglou on Celtic VAR duty as Jota wipes out Steven Naismith",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16752752/?type=og-image"
+        },
+        {
+          "id": "b9a4354446592ae0686f518d545f1e14",
+          "author": null,
+          "description": "The Hoops hero was not impressed at the decision",
+          "link": "https://www.glasgowtimes.co.uk/sport/23506436.walker-stewart-slam-horrible-hearts-v-celtic-var-decision/?ref=rss",
+          "publishedOn": "2023-05-07T14:45:12.000Z",
+          "wordCount": 8546,
+          "title": "Walker and Stewart slam 'horrible' Hearts v Celtic VAR decision",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16752759/?type=og-image"
+        },
         {
           "id": "f5d0e63160e26d125f75c41d61b3144d",
           "author": null,
@@ -927,16 +1047,6 @@
           "wordCount": 8590,
           "title": "Celtic announce summer showdown against Wolves in South Korea",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16734692/?type=og-image"
-        },
-        {
-          "id": "a2e60735b7da90f00d54fd932aa29d08",
-          "author": null,
-          "description": "The 24-year-old right-back has been a bit-part player this season but is prepared to be called upon for upcoming games.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23494400.anthony-ralston-sends-celtic-message-injured-alistair-johnston/?ref=rss",
-          "publishedOn": "2023-05-03T05:00:00.000Z",
-          "wordCount": 9050,
-          "title": "Anthony Ralston sends Celtic message to injured Alistair Johnston",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16731159/?type=og-image"
         }
       ]
     }
