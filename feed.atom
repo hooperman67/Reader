@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-07T12:30:32.312Z</updated>
+    <updated>2023-05-07T15:16:26.858Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chris Sutton says Willie Collum 'pooped it' over Celtic red card call]]></title>
+        <id>f5d0e63160e26d125f75c41d61b3144d</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23506404.chris-sutton-says-willie-collum-pooped-it-celtic-red-card-call/?ref=rss"/>
+        <updated>2023-05-07T14:22:41.000Z</updated>
+        <summary type="html"><![CDATA[Chris Sutton has slated Willie Collum for his VAR intervention during Hearts vs Celtic.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boyd targeted by cheeky Celtic dig as Postecoglou meets Petrov]]></title>
+        <id>dc3517304461cade17aac766fa5b445d</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23506375.boyd-targeted-cheeky-celtic-dig-postecoglou-meets-petrov/?ref=rss"/>
+        <updated>2023-05-07T13:54:00.000Z</updated>
+        <summary type="html"><![CDATA[The former Bulgaria international poked fun at the ex-Ibrox striker prior to kick-off.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic team news vs Hearts as Postecoglou names starting XI]]></title>
         <id>61135e4b51bfc6de45d51f6d823dadcc</id>
