@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-07T06:21:13.011Z</updated>
+    <updated>2023-05-07T09:15:47.818Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Carl Starfelt wary of comparing Kyogo Furuhashi and Henrik Larsson]]></title>
+        <id>10f4f8dd3ce126e70898fa43e981c78b</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23505161.carl-starfelt-wary-comparing-kyogo-furuhashi-henrik-larsson/?ref=rss"/>
+        <updated>2023-05-07T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Swede knows his compatriot left behind a formidable legacy at Parkhead.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What channel is Hearts v Celtic on? TV details, live stream, kick-off time for possible Celtic title win]]></title>
+        <id>4133364</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/what-channel-is-hearts-v-celtic-on-tv-details-live-stream-kick-off-time-for-possible-celtic-title-win-4133364"/>
+        <updated>2023-05-07T07:40:02.000Z</updated>
+        <summary type="html"><![CDATA[Celtic can clinch the Scottish Premiership title with a victory at Hearts on Sunday.]]></summary>
+        <author>
+            <name>Matthew Elder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Celtic’s bejeweled league crowning puts Ange Postecoglou's side above Brendan Rodgers' and Steven Gerrard's invincibles]]></title>
+        <id>4133322</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/why-celtics-bejeweled-league-crowning-puts-ange-postecoglous-side-above-brendan-rodgers-and-steven-gerrards-invincibles-4133322"/>
+        <updated>2023-05-07T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Celtic’s crowning as champions this season has been their destiny for so long it has almost felt like a birthright. The natural order.]]></summary>
+        <author>
+            <name>Andrew Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ange Postecoglou's impact on Australian football laid bare - but that will count for nothing when Hearts host Celtic]]></title>
+        <id>4133333</id>
+        <link href="https://www.scotsman.com/sport/football/hearts/ange-postecoglous-impact-on-australian-football-laid-bare-but-that-will-count-for-nothing-when-hearts-host-celtic-4133333"/>
+        <updated>2023-05-07T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Early on in their respective careers in Scotland, there was a moment at the end of one encounter when Ange Posecoglou was pictured giving Cammy Devlin a pat on the head.]]></summary>
+        <author>
+            <name>Moira Gordon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ange Postecogou expects Anthony Ralston and Yuki Kobayashi to feature]]></title>
+        <id>d896a396ee2fc2e26eacbc5a3cfa0616</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23505140.ange-postecogou-expects-anthony-ralston-yuki-kobayashi-feature/?ref=rss"/>
+        <updated>2023-05-07T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With Cameron Carter-Vickers and Alistair Johnston sidelined for the foreseeable, two places in Celtic's starting XI have opened up.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ange Postecoglou details how Celtic can recruit more Asian players and earn 'millions more supporters']]></title>
         <id>4133319</id>
@@ -872,26 +922,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23494292.special-celtic-stars-giving-callum-mcgregor-treble-push-deja-vu/?ref=rss"/>
         <updated>2023-05-02T21:30:00.000Z</updated>
         <summary type="html"><![CDATA[The Parkhead captain was part of the side that went unbeaten in all domestic competitions in 2016/17.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cameron Carter-Vickers' Celtic injury extent 'revealed']]></title>
-        <id>91bee60a368b0800c657a4b3af164d95</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23496259.cameron-carter-vickers-celtic-injury-extent-revealed/?ref=rss"/>
-        <updated>2023-05-02T19:30:38.000Z</updated>
-        <summary type="html"><![CDATA[The centre-back's season is now over following Sunday's victory over Rangers in the semi-finals of the Scottish Cup.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Piers Morgan blasts Celtic fans for Rangers game chants]]></title>
-        <id>70a664096e96a23baaf5cf2dfbbb8a40</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23496232.piers-morgan-blasts-celtic-fans-rangers-game-chants/?ref=rss"/>
-        <updated>2023-05-02T18:58:41.000Z</updated>
-        <summary type="html"><![CDATA[Renditions of "You can stick your coronation up your a***" were audible at various points throughout Sunday's Old Firm clash.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
