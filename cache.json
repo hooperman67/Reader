@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4133771",
+          "author": "Andrew Smith",
+          "description": "Even the footballing aesthetes must sometimes require to become artisans when the occasion demands.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtics-coronation-graft-not-craft-at-tynecastle-as-king-kyogo-strikes-again-but-so-does-var-4133771",
+          "publishedOn": "2023-05-07T19:22:32.000Z",
+          "wordCount": 3741,
+          "title": "Celtic's coronation: Graft not craft at Tynecastle as King Kyogo strikes again - but so does VAR",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmI3MWIyOTVmLTkwM2EtNDQyYy04YmE4LWU5MGQwNDNkZjE5YToyZmI4ZmViNS05YTk4LTQ3ZTUtOTZlNC0yZDcyYTg0NTU5ZjY=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4133706",
           "author": "Andrew Smith",
           "description": "Celtic’s Ange Postecoglou remained entirely true to himself and did not indulge in faux modesty as he reflected on leading his club to a second consecutive title, a success that places his team within a Scottish Cup final win of a treble and a haul of five honours across his two-season tenure.",
@@ -324,16 +334,6 @@
           "wordCount": 2579,
           "title": "Celtic hero set for key role as Leeds United appoint Sam Allardyce to stave off relegation",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjgwMzg0NGJkLWUzOWUtNGEwZS1hZWE5LTIwMDEzMDY4MTNjMTo3MWQxN2M2OC03MTk5LTRiNWQtYWRlZS1hMTg5N2M1MGJiZTY=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4127583",
-          "author": "Joel Sked",
-          "description": "Despite their struggles against Celtic, Rangers have been tipped to reach the Champions League group stages and to be in a higher pot than their rivals.",
-          "link": "https://www.scotsman.com/sport/football/rangers/rangers-predicted-to-reach-champions-league-group-stages-and-be-in-higher-pot-than-celtic-possible-opponents-4127583",
-          "publishedOn": "2023-05-03T06:30:00.000Z",
-          "wordCount": 2608,
-          "title": "Rangers predicted to reach Champions League group stages and be in higher pot than Celtic, possible opponents",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjQ5MzBhYWMwLWQ4YjEtNDRjNC05ZmNmLTMzMmE0MTAxODE4ZDpjNzVkN2NiOC0xZDI2LTQ3MjQtYWFiOS1jNzNhMzU0NWE2YWI=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
         }
       ]
     },
@@ -346,8 +346,58 @@
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
       "articles": [
+        {
+          "id": "3b8cd2677c5692028063fe4f81507883",
+          "author": null,
+          "description": "The Australian spoke to supporters who had gathered outside the ground.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23506729.ange-postecoglous-two-word-message-mobbed-outside-paradise/?ref=rss",
+          "publishedOn": "2023-05-07T19:44:00.000Z",
+          "wordCount": 8504,
+          "title": "Ange Postecoglou's two word message as he's mobbed outside Paradise",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16753822/?type=og-image"
+        },
+        {
+          "id": "965b4f1c3ee10865fe9b0069e45b8778",
+          "author": null,
+          "description": "The Hoops fans were in fine voice outside Parkhead.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23506719.watch-incredible-celtic-park-scene-title-party-gets-underway/?ref=rss",
+          "publishedOn": "2023-05-07T19:18:00.000Z",
+          "wordCount": 8543,
+          "title": "WATCH: Incredible Celtic Park scene as title party gets underway",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16753753/?type=og-image"
+        },
+        {
+          "id": "e5dc378b89c1b32cede1b7b31b6dc162",
+          "author": null,
+          "description": "Celtic fans have been videoed surrounding Hoops star Alistair Johnston's car in celebration on London Road in Glasgow.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23506705.watch-celtic-fans-swamp-johnstons-car-celebrate-title-win/?ref=rss",
+          "publishedOn": "2023-05-07T18:55:00.000Z",
+          "wordCount": 9656,
+          "title": "WATCH: Celtic fans swamp Johnston's car to celebrate title win",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16753738/?type=og-image"
+        },
+        {
+          "id": "4676322e93fa3b799457982eb2d73f7c",
+          "author": null,
+          "description": "Supporters gathered at Parkhead after the fixture.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23506691.postecoglou-players-address-fans-celtic-park-title-win/?ref=rss",
+          "publishedOn": "2023-05-07T18:33:00.000Z",
+          "wordCount": 8493,
+          "title": "Postecoglou and players address fans at Celtic Park after title win",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16753580/?type=og-image"
+        },
+        {
+          "id": "bab2ce715e6b5a0445388f9ebfec0930",
+          "author": null,
+          "description": "The Parkhead club have been crowned Premiership champions for the second season running.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23506676.emotional-ange-postecoglou-opens-scaling-mountain-celtic/?ref=rss",
+          "publishedOn": "2023-05-07T18:07:33.000Z",
+          "wordCount": 8839,
+          "title": "Emotional Ange Postecoglou opens up on scaling 'mountain' at Celtic",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16753444/?type=og-image"
+        },
         {
           "id": "17383a89c53ed7e078ccfd0ac57c434b",
           "author": null,
@@ -397,6 +447,16 @@
           "wordCount": 8366,
           "title": "Ange Postecoglou fights back Celtic tears as he reacts to title win",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16753019/?type=og-image"
+        },
+        {
+          "id": "9a2aeeb9e4bd3430cc0539f6f8e73e33",
+          "author": null,
+          "description": "Ange Postecoglou's side have been near-flawless in the Scottish Premiership this season.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23506500.celtic-season-ratings-two-standouts-rise-rest/?ref=rss",
+          "publishedOn": "2023-05-07T15:36:40.000Z",
+          "wordCount": 10904,
+          "title": "Celtic season ratings as two standouts rise above the rest",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16752933/?type=og-image"
         },
         {
           "id": "5fc53c77addbc4313aaecbc2d8f626c4",
@@ -1027,26 +1087,6 @@
           "wordCount": 8495,
           "title": "Celtic detail keeper Vasilis Barkas transfer price",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16530588/?type=og-image"
-        },
-        {
-          "id": "7c9a76daaff8a1dae7ba50d9896f84b8",
-          "author": null,
-          "description": "New pitchside footage has captured the horror defending of Rangers in the lead-up to Celtic's Scottish Cup semi-final winner.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23496526.unseen-rangers-angle-captures-new-level-celtic-finger-pointing/?ref=rss",
-          "publishedOn": "2023-05-03T07:29:52.000Z",
-          "wordCount": 8481,
-          "title": "Unseen Rangers angle captures new level of Celtic finger pointing",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16734795/?type=og-image"
-        },
-        {
-          "id": "050d0f13beb76c2afa9ebb95e1731987",
-          "author": null,
-          "description": "Celtic will take on Wolves at the Suwon World Cup Stadium in South Korea this July as part of their summer tour of Asia.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23496435.celtic-announce-summer-showdown-wolves-south-korea/?ref=rss",
-          "publishedOn": "2023-05-03T06:19:34.000Z",
-          "wordCount": 8590,
-          "title": "Celtic announce summer showdown against Wolves in South Korea",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16734692/?type=og-image"
         }
       ]
     }
