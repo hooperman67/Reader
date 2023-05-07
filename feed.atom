@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-07T01:36:38.846Z</updated>
+    <updated>2023-05-07T03:17:43.540Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -914,16 +914,6 @@
         <summary type="html"><![CDATA[There was once a time when Scottish football enjoyed sufficient confidence to stand on its own two feet.]]></summary>
         <author>
             <name>Alan Pattullo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Greg Taylor in Celtic 'some could learn from that' Rangers dig]]></title>
-        <id>75785e81f5fb556b28280452894c7295</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23495630.greg-taylor-celtic-some-learn-that-rangers-dig/?ref=rss"/>
-        <updated>2023-05-02T15:16:54.000Z</updated>
-        <summary type="html"><![CDATA[The left-back was up against the former Norwich attacker during Sunday's fiercely contested Scottish Cup semi-final.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>
