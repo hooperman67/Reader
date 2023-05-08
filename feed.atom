@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-08T06:22:25.944Z</updated>
+    <updated>2023-05-08T09:17:23.995Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic-Hearts reaction: Postecoglou may have only just begun; one ginormous gulf; Naismith’s other VAR moment]]></title>
+        <id>4133863</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/celtic-hearts-reaction-postecoglou-may-have-only-just-begun-one-ginormous-gulf-naismiths-other-var-moment-4133863"/>
+        <updated>2023-05-08T08:16:50.000Z</updated>
+        <summary type="html"><![CDATA[Celtic have seemed on mission as they have thundered towards the title defence which they sealed with their slender 2-0 success against Hearts at Tynecastle. It prompted a few thoughts as they surely close in on a treble.]]></summary>
+        <author>
+            <name>Andrew Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neil McCann makes Celtic admission as he raves about Ange Postecoglou]]></title>
+        <id>198c92a88a82cca9bb05d581fcd92761</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23506872.neil-mccann-makes-celtic-admission-raves-ange-postecoglou/?ref=rss"/>
+        <updated>2023-05-08T06:56:20.000Z</updated>
+        <summary type="html"><![CDATA[Neil McCann has hailed the work of Ange Postecoglou at Celtic but he would love the Aussie to now depart Glasgow.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joe Hart aims Celtic ticket dig at Hearts as Hoops crowned champions]]></title>
+        <id>5146e064e6e18d01f209fd265bd0f87f</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23506862.joe-hart-aims-celtic-ticket-dig-hearts-hoops-crowned-champions/?ref=rss"/>
+        <updated>2023-05-08T06:25:57.000Z</updated>
+        <summary type="html"><![CDATA[Joe Hart admits winning the league at Hearts made it all the sweeter for Celtic.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Celtic player on cusp of world first after title triumph over Hearts]]></title>
         <id>4133721</id>
@@ -872,26 +902,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23499266.rangers-cameron-campbell-addresses-zak-lovelace-red-celtic/?ref=rss"/>
         <updated>2023-05-03T21:21:01.000Z</updated>
         <summary type="html"><![CDATA[CAMERON CAMPBELL insists the controversial red card handed to Zak Lovelace turned the Scottish Youth Cup final away from Rangers.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic and Rangers serve up Hampden hijinx as Hoops edge 11-goal thriller Scottish Youth Cup final]]></title>
-        <id>4129357</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/celtic-and-rangers-serve-up-hampden-hijinx-as-hoops-edge-11-goal-thriller-scottish-youth-cup-final-4129357"/>
-        <updated>2023-05-03T20:55:44.000Z</updated>
-        <summary type="html"><![CDATA[As the goals mounted up at a head-spinning rate in the Youth Cup final, the excruciating defending implicated in all-too-many led one observer to bemoan that the encounter resembled a “playground game”.]]></summary>
-        <author>
-            <name>Andrew Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic win eleven goal Hampden thriller to beat Rangers in Youth final]]></title>
-        <id>f98bd7c2979ee10daee574e234d17e90</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23499250.celtic-win-eleven-goal-hampden-thriller-beat-rangers-youth-final/?ref=rss"/>
-        <updated>2023-05-03T20:43:30.000Z</updated>
-        <summary type="html"><![CDATA[THE facts of this fixture – the eleven goals, the red card and the victory for Celtic – will enter the Hampden record books as a footnote.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
