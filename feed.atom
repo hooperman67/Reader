@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-07T21:15:04.805Z</updated>
+    <updated>2023-05-08T01:23:30.660Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Celtic player on cusp of world first after title triumph over Hearts]]></title>
+        <id>4133721</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/the-celtic-player-on-cusp-of-world-first-after-title-triumph-over-hearts-4133721"/>
+        <updated>2023-05-07T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[With his eighth Premiership title now secured, Celtic captain Callum McGregor can focus on another piece of history as he attempts to become the first player in world football to win five trebles.]]></summary>
+        <author>
+            <name>Moira Gordon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Callum McGregor in Celtic 'might go crazy' quip over his cup of tea]]></title>
+        <id>6f2d14a409966317d78ba284ee0bdbdf</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23506684.callum-mcgregor-celtic-might-go-crazy-quip-cup-tea/?ref=rss"/>
+        <updated>2023-05-07T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The Parkhead captain is savouring his eighth title success but says the champions will quickly refocus.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ange Postecoglou's two word message as he's mobbed outside Paradise]]></title>
         <id>3b8cd2677c5692028063fe4f81507883</id>
@@ -1034,46 +1054,6 @@
         <summary type="html"><![CDATA[The 42-year-old has previous experience being on the backroom staff at a club, having been the assistant manager of Middlesbrough.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Delaying Celtic title party not part of Naismith's Hearts team talk]]></title>
-        <id>7625721d236bc2b69767dc5c0ecf811d</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23498018.delaying-celtic-title-party-not-part-naismiths-hearts-team-talk/?ref=rss"/>
-        <updated>2023-05-03T13:16:39.000Z</updated>
-        <summary type="html"><![CDATA[Steven Naismith insists delaying Celtic’s ‘irrelevant’  march towards the title will not form part of his team-talk as Hearts chase down third place.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ex-Celtic ace Giakoumakis scoops Atlanta Utd award after strong start]]></title>
-        <id>62204d5a0b6608fc82b00882d47ba0b3</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23497849.ex-celtic-ace-giakoumakis-scoops-atlanta-utd-award-strong-start/?ref=rss"/>
-        <updated>2023-05-03T12:32:47.000Z</updated>
-        <summary type="html"><![CDATA[Former Celtic stiker's strong start to life in the MLS has seen him been awarded Atlanta United's Player of the Month for April]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic detail keeper Vasilis Barkas transfer price]]></title>
-        <id>c937ca98f1ae002d5a30288b3f538dc1</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23497595.celtic-detail-keeper-vasilis-barkas-transfer-price/?ref=rss"/>
-        <updated>2023-05-03T11:37:09.000Z</updated>
-        <summary type="html"><![CDATA[According to Greek reports, Vasilis Barkas has had his transfer valuation calculated by Celtic]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic hero set for key role as Leeds United appoint Sam Allardyce to stave off relegation]]></title>
-        <id>4128287</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/celtic-hero-set-for-key-role-as-leeds-united-appoint-sam-allardyce-to-stave-off-relegation-4128287"/>
-        <updated>2023-05-03T11:21:54.000Z</updated>
-        <summary type="html"><![CDATA[Leeds United have appointed Sam Allardyce to save them from relegation with the ex-England manager set to draft in a former Celtic favourite to assist him.]]></summary>
-        <author>
-            <name>Matthew Elder</name>
         </author>
     </entry>
 </feed>
