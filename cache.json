@@ -6,6 +6,26 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4134062",
+          "author": "Mark Atkinson",
+          "description": "Ange Postecoglou is best suited to Tottenham Hotspur out of all the teams in England looking for a permanent manager but would be best served staying at Celtic, according to former Australia internationalist Mark Bosnich.",
+          "link": "https://www.scotsman.com/sport/football/celtic/ange-postecoglou-best-suited-for-tottenham-but-celtic-boss-advised-to-remain-where-he-is-4134062",
+          "publishedOn": "2023-05-08T11:07:42.000Z",
+          "wordCount": 3327,
+          "title": "Ange Postecoglou 'best suited for Tottenham' but Celtic boss advised to remain where he is",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjljYzc5ZjJjLTNkMTAtNDNiNS05MmUzLTU5NWE0NjJkZWQ1YjoyYzVmOTRhZi05ODBjLTRlOWQtOGZmOS0zYjA5MTVlMTExNGU=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
+          "id": "4133863",
+          "author": "Andrew Smith",
+          "description": "Celtic have seemed on mission as they have thundered towards the title defence which they sealed with their slender 2-0 success against Hearts at Tynecastle. It prompted a few thoughts as they surely close in on a treble.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtic-hearts-reaction-postecoglou-future-one-ginormous-gulf-naismith-v-jota-4133863",
+          "publishedOn": "2023-05-08T08:16:50.000Z",
+          "wordCount": 3886,
+          "title": "Celtic-Hearts reaction: Postecoglou future; one ginormous gulf; Naismith v Jota",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjZiMWNhYzFiLTFmYjctNGJkNy1hNGM4LTY3Y2I3NWYzMWJhZjowMDU1M2RjOS0yNmUxLTRhMmEtYWM5My00ZDRlNTYzMDdlNDY=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4133863",
           "author": "Andrew Smith",
           "description": "Celtic have seemed on mission as they have thundered towards the title defence which they sealed with their slender 2-0 success against Hearts at Tynecastle. It prompted a few thoughts as they surely close in on a treble.",
@@ -274,26 +294,6 @@
           "wordCount": 2591,
           "title": "Celtic Women v Rangers Women TV channel: How to watch SWPL derby, kick-off time, venue",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjIyYWJlM2I3LWNlYTItNDhlZi1hMWNmLTJjODhhODcxNzlhYjpiMWNiYmNkMi03MGUxLTRhY2UtOTI0Yi00NjI3MmM4MjFhMTg=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4129382",
-          "author": "Andrew Smith",
-          "description": "Celtic under-18 coach Stuart McLaren revelled in the Ange Postecoglou factor following his team’s astonishing 6-5 extra-time Youth Cup final success over rivals Rangers.",
-          "link": "https://www.scotsman.com/sport/football/celtic/celtic-coach-reveals-ange-postecoglou-factor-behind-youth-cup-win-as-rangers-seethe-over-red-card-4129382",
-          "publishedOn": "2023-05-03T21:53:57.000Z",
-          "wordCount": 3156,
-          "title": "Celtic coach reveals Ange Postecoglou factor behind Youth Cup win as Rangers seethe over red card",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjE4ZWMzM2QwLWY0ZjAtNDFkNy1hNjRiLTFmNGUzMmQ0NzVjYTo5YjE0YmM3YS0xNTgyLTQ0Y2ItOGFiZS04ZjY1YzNmZmFkNjU=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4129338",
-          "author": "Moira Gordon",
-          "description": "For so long there has been an inevitability to Celtic’s romp towards the Premiership title - not that anyone at the club would publicly admit it.",
-          "link": "https://www.scotsman.com/sport/football/celtic/reality-dawning-on-celtic-star-as-pre-match-jitters-admission-made-ahead-of-potential-title-clincher-4129338",
-          "publishedOn": "2023-05-03T21:30:00.000Z",
-          "wordCount": 2512,
-          "title": "Reality dawning on Celtic star as pre-match jitters admission made ahead of potential title clincher",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmJhMmYxOTgxLTE3NzktNGJlMy05NTllLTFlNmRkOGYzNDJiZTpmZGZjMjVlYi02MWEyLTRjZjktOWRjZi1jNjhjNmUyY2IzYzY=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
         }
       ]
     },
@@ -306,8 +306,28 @@
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
       "articles": [
+        {
+          "id": "42f2195e3aacc1d6f691e9810e061789",
+          "author": null,
+          "description": "Stuart Dougal insists referee Nick Walsh and VAR were right to send off Alex Cochrane during yesterday's Hearts vs Celtic showdown.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23507352.stuart-dougal-delivers-hearts-vs-celtic-var-verdict-cochrane-red/?ref=rss",
+          "publishedOn": "2023-05-08T10:46:11.000Z",
+          "wordCount": 8501,
+          "title": "Stuart Dougal delivers Hearts vs Celtic VAR verdict after Cochrane red",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16755176/?type=og-image"
+        },
+        {
+          "id": "3180fc4f327cbdbaf18d1d6bd19280dc",
+          "author": null,
+          "description": "South Melbourne have congratulated Celtic on their Scottish Premiership title triumph by sharing a brilliant Ange Postecoglou throwback.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23506982.south-melbourne-congratulate-celtic-ange-postecoglou-throwback/?ref=rss",
+          "publishedOn": "2023-05-08T08:18:58.000Z",
+          "wordCount": 8662,
+          "title": "South Melbourne congratulate Celtic with Ange Postecoglou throwback",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16754431/?type=og-image"
+        },
         {
           "id": "198c92a88a82cca9bb05d581fcd92761",
           "author": null,
@@ -897,26 +917,6 @@
           "wordCount": 8455,
           "title": "Alistair Johnston Celtic injury timeline 'revealed'",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16739418/?type=og-image"
-        },
-        {
-          "id": "3b04b1d4a2a7536dda1de666e4c18e8c",
-          "author": null,
-          "description": "The Parkhead kids triumphed 6-5 over Rangers at Hampden on Wednesday night.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23499274.celtic-message-ange-inspired-youth-cup-triumph/?ref=rss",
-          "publishedOn": "2023-05-03T21:37:30.000Z",
-          "wordCount": 8460,
-          "title": "The Celtic message from Ange that inspired Youth Cup triumph",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16658653/?type=og-image"
-        },
-        {
-          "id": "f19e3423675923fa4172d3d52c682c68",
-          "author": null,
-          "description": "CAMERON CAMPBELL insists the controversial red card handed to Zak Lovelace turned the Scottish Youth Cup final away from Rangers.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23499266.rangers-cameron-campbell-addresses-zak-lovelace-red-celtic/?ref=rss",
-          "publishedOn": "2023-05-03T21:21:01.000Z",
-          "wordCount": 8529,
-          "title": "Rangers' Cameron Campbell addresses Zak Lovelace red against Celtic",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16739260/?type=og-image"
         }
       ]
     }
