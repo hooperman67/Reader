@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-08T12:34:24.249Z</updated>
+    <updated>2023-05-08T15:18:07.705Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic, Rangers & other Prem stars nominated for goal of the season]]></title>
+        <id>fd2947484b85b16eff948da117e9e021</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23507776.celtic-rangers-prem-stars-nominated-goal-season/?ref=rss"/>
+        <updated>2023-05-08T13:39:17.000Z</updated>
+        <summary type="html"><![CDATA[The winner of the competition will be announced at the PFA awards ceremony this Sunday.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dermot Gallagher delivers verdict on Alex Cochrane red card vs Celtic]]></title>
+        <id>44fc9bb0c307fedd38d1cb45f34879c9</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23507669.dermot-gallagher-delivers-verdict-alex-cochrane-red-card-vs-celtic/?ref=rss"/>
+        <updated>2023-05-08T12:48:30.000Z</updated>
+        <summary type="html"><![CDATA[The retired official discussed the decision on Sky Sports' Ref Watch this morning, as he does every Monday.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ange Postecoglou 'best suited for Tottenham' but Celtic boss advised to remain where he is]]></title>
         <id>4134062</id>

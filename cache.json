@@ -306,8 +306,28 @@
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "fd2947484b85b16eff948da117e9e021",
+          "author": null,
+          "description": "The winner of the competition will be announced at the PFA awards ceremony this Sunday.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23507776.celtic-rangers-prem-stars-nominated-goal-season/?ref=rss",
+          "publishedOn": "2023-05-08T13:39:17.000Z",
+          "wordCount": 8531,
+          "title": "Celtic, Rangers & other Prem stars nominated for goal of the season",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16756071/?type=og-image"
+        },
+        {
+          "id": "44fc9bb0c307fedd38d1cb45f34879c9",
+          "author": null,
+          "description": "The retired official discussed the decision on Sky Sports' Ref Watch this morning, as he does every Monday.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23507669.dermot-gallagher-delivers-verdict-alex-cochrane-red-card-vs-celtic/?ref=rss",
+          "publishedOn": "2023-05-08T12:48:30.000Z",
+          "wordCount": 8511,
+          "title": "Dermot Gallagher delivers verdict on Alex Cochrane red card vs Celtic",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16755831/?type=og-image"
+        },
         {
           "id": "42f2195e3aacc1d6f691e9810e061789",
           "author": null,
