@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-09T15:18:17.390Z</updated>
+    <updated>2023-05-09T18:21:33.293Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[John Hartson baffled by Celtic winger Jota's Team of the Year snub]]></title>
+        <id>19af22681fbe61e272b4f0ff7eeb2556</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23511147.john-hartson-baffled-celtic-winger-jotas-team-year-snub/?ref=rss"/>
+        <updated>2023-05-09T17:57:37.000Z</updated>
+        <summary type="html"><![CDATA[The former Hoops striker believes Parkhead winger Jota is more deserving of a place in the line-up than Malik Tillman.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 'no-stakes' Rangers-Celtic derby? Unenviable reality facing Michael Beale if Ange Postecoglou gets way]]></title>
+        <id>4136151</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/the-no-stakes-rangers-celtic-derby-unenviable-reality-facing-michael-beale-if-ange-postecoglou-gets-way-4136151"/>
+        <updated>2023-05-09T17:28:06.000Z</updated>
+        <summary type="html"><![CDATA[The fair-minded – an admittedly far-from-populous cohort in Scottish football – would recognise that definitive pronouncements on Michael Beale as Rangers manager must be reserved until next season.]]></summary>
+        <author>
+            <name>Andrew Smith</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hearts opt against appeal for Alex Cochrane's red card against Celtic]]></title>
         <id>3f0269bf7b4c372b56d550034198fefb</id>
@@ -994,16 +1014,6 @@
         <summary type="html"><![CDATA[Kyle Ure hopes leading Celtic to a Youth Cup final win over Rangers in front of a watching Ange Postecoglou can be the first step towards emulating his idol Callum McGregor.]]></summary>
         <author>
             <name>Matthew Elder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic star Matt O'Riley on being 'seen as a footballer not a person']]></title>
-        <id>885a129102c578068fbfd6901109da16</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23501801.celtic-star-matt-oriley-seen-footballer-not-person/?ref=rss"/>
-        <updated>2023-05-05T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The 22-year-old midfielder gave a candid interview on constantly living under the spotlight at Parkhead.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>
