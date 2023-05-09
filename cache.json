@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4135624",
+          "author": "Joel Sked",
+          "description": "Celtic defender Carl Starfelt is wanted by a number of clubs across Europe after another successful season with the Scottish champions.",
+          "link": "https://www.scotsman.com/sport/football/celtic/the-celtic-star-attracting-interest-from-the-premier-league-and-europe-unfinished-business-at-champions-4135624",
+          "publishedOn": "2023-05-09T13:56:30.000Z",
+          "wordCount": 2354,
+          "title": "The Celtic star attracting interest from the Premier League and Europe, unfinished business at champions?",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmFjM2E0NTNjLTE1NDUtNGMzMC04MGUyLTQ3MTFjNTQyMDBkYjoxYjBjMzI1OC02ZTc5LTRjNmYtODUwMy00OTYzYjdmZTIyMjY=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4135361",
           "author": "Gavin McCafferty",
           "description": "Former Old Firm rivals Martin O’Neill and Alex McLeish are united in their disappointment over the lack of away supporters at games between Celtic and Rangers.",
@@ -339,6 +349,26 @@
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
         {
+          "id": "3f0269bf7b4c372b56d550034198fefb",
+          "author": null,
+          "description": "The full-back was initially awarded a yellow card before it was upgraded to a red.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23510375.hearts-opt-appeal-alex-cochranes-red-card-celtic/?ref=rss",
+          "publishedOn": "2023-05-09T14:38:38.000Z",
+          "wordCount": 9799,
+          "title": "Hearts opt against appeal for Alex Cochrane's red card against Celtic",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16761176/?type=og-image"
+        },
+        {
+          "id": "8c8819b6e34717952bdd1c379317825c",
+          "author": null,
+          "description": "The 21-year-old moved permanently to Brighton & Hove Albion last summer from Chelsea for a fee of around £9million.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23509941.billy-gilmour-celtic-transfer-tip-rangers-style-doesnt-suit/?ref=rss",
+          "publishedOn": "2023-05-09T13:51:00.000Z",
+          "wordCount": 9761,
+          "title": "Billy Gilmour in Celtic transfer tip as Rangers style 'doesn't suit'",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16760274/?type=og-image"
+        },
+        {
           "id": "378253a0e5856bc8cbfbb976e76870c7",
           "author": null,
           "description": "Seven Hoops stars make the cut for the Premiership's best XI this campaign, as voted for by the players of all 12 clubs themselves.",
@@ -347,6 +377,16 @@
           "wordCount": 8512,
           "title": "Celtic dominate TOTY as Rangers, Aberdeen & Motherwell stars feature",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16760003/?type=og-image"
+        },
+        {
+          "id": "d954dbe7843cc2a94f31fe579015f21d",
+          "author": null,
+          "description": "GLASGOW cops have responded after fans revealed intentions online to gather in the city centre following Celtic's title win.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23509382.glasgow-police-respond-celtic-fans-title-celebrations-gathering/?ref=rss",
+          "publishedOn": "2023-05-09T11:04:15.000Z",
+          "wordCount": 8420,
+          "title": "Glasgow police respond over Celtic fans title celebrations gathering",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16760016/?type=og-image"
         },
         {
           "id": "9d12e519925db80765a7ff71025ad31b",
