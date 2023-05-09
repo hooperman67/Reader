@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-09T06:22:30.916Z</updated>
+    <updated>2023-05-09T09:16:57.712Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[O'Neill Celtic 'fear' factor revealed by Liverpool hero Carragher]]></title>
+        <id>e2d5927c38cd207a882b35c71fada7d9</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23508603.oneill-celtic-fear-factor-revealed-liverpool-hero-carragher/?ref=rss"/>
+        <updated>2023-05-09T08:01:31.000Z</updated>
+        <summary type="html"><![CDATA[The Sky Sports pundit has hailed the Irishman for getting the edge on his opponents while at Parkhead and Leicester City.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic 1 of 8 confirmed for Champions League group stages, £25m windfall, when is the draw, fixture dates]]></title>
+        <id>4134637</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/celtic-1-of-8-confirmed-for-champions-league-group-stages-ps25m-windfall-when-is-the-draw-fixture-dates-4134637"/>
+        <updated>2023-05-09T07:32:50.000Z</updated>
+        <summary type="html"><![CDATA[Celtic's 2-0 success at Hearts on Sunday confirmed their status as Scottish Premiership champions as they wrapped up a second title in a row under Ange Postecoglou.]]></summary>
+        <author>
+            <name>Joel Sked</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kyogo Celtic injury doubt ahead of final Rangers clash]]></title>
+        <id>5054609e76f9f4201ecef5c1aa405e2f</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23508565.kyogo-celtic-injury-doubt-ahead-final-rangers-clash/?ref=rss"/>
+        <updated>2023-05-09T07:32:25.000Z</updated>
+        <summary type="html"><![CDATA[The Hoops will make the short journey across Glasgow to take on Michael Beale's side at Ibrox this Saturday.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ange Postecoglou is firm on Celtic's next four matches and fires warning to rest of league]]></title>
+        <id>4134560</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/ange-postecoglou-is-firm-on-celtics-next-four-matches-and-fires-warning-to-rest-of-league-4134560"/>
+        <updated>2023-05-09T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Celtic manager Ange Postecolgou maintains there will be no easing up in the club’s final four league fixtures despite the title having been sewn up at the weekend.]]></summary>
+        <author>
+            <name>Andrew Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rangers hero Ally McCoist offers Celtic 'well done' in radio wind-up]]></title>
+        <id>fd01939ce404715270b533527872d1d8</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23508517.rangers-hero-ally-mccoist-offers-celtic-well-done-radio-wind-up/?ref=rss"/>
+        <updated>2023-05-09T06:44:07.000Z</updated>
+        <summary type="html"><![CDATA[The former Ibrox boss, appearing on talkSPORT this morning, claimed he missed Ange Postecoglou's side clinching the Premiership.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The 'real' reason for Celtic's success as hunger grows for more silverware]]></title>
         <id>4134558</id>
@@ -854,16 +904,6 @@
         <summary type="html"><![CDATA[The 17-year-old midfielder captained his side and was named man of the match at Hampden on Wednesday night.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic semi-final win was icing on cake for Sione Tuipulotu after Glasgow Warriors booked cup final place]]></title>
-        <id>4129655</id>
-        <link href="https://www.scotsman.com/sport/rugby-union/celtic-semi-final-win-was-icing-on-cake-for-sione-tuipulotu-after-glasgow-warriors-booked-cup-final-place-4129655"/>
-        <updated>2023-05-04T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Sione Tuipulotu spent Saturday helping Glasgow Warriors reach their first European final and Sunday watching Celtic beat Rangers to book a place in the Scottish Cup equivalent.]]></summary>
-        <author>
-            <name>Graham Bean</name>
         </author>
     </entry>
 </feed>
