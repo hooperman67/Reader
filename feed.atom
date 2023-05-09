@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-09T01:25:18.099Z</updated>
+    <updated>2023-05-09T03:18:15.035Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -894,36 +894,6 @@
         <summary type="html"><![CDATA[Matt O'Riley has insisted that talk of a sizeable gap between Celtic and Rangers is "harsh" on the Ibrox club.]]></summary>
         <author>
             <name>Matthew Elder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic v Rangers: TV channel, live stream and kick-off details]]></title>
-        <id>ff947f268efa350eaa0a0422dfc3efa1</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23501223.celtic-v-rangers-tv-channel-live-stream-kick-off-details/?ref=rss"/>
-        <updated>2023-05-04T14:31:25.000Z</updated>
-        <summary type="html"><![CDATA[The two Glasgow rivals meet on Thursday evening as the SWPL approaches it's conclusion.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic star reveals 'one positive' behind Scottish Cup final kick-off change as Billy Dodds slams decision]]></title>
-        <id>4130494</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/celtic-star-reveals-one-positive-behind-scottish-cup-final-kick-off-change-as-billy-dodds-slams-decision-4130494"/>
-        <updated>2023-05-04T14:05:06.000Z</updated>
-        <summary type="html"><![CDATA[Celtic’s Matt O'Riley revealed he has no qualms with the later Scottish Cup final kick-off time as it means he can get a few hours extra kip before the big match.]]></summary>
-        <author>
-            <name>Matthew Elder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The teams Celtic could face in Champions League group stage]]></title>
-        <id>5d90288fbff685f6b7d1fa0908bae851</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23501103.teams-celtic-face-champions-league-group-stage/?ref=rss"/>
-        <updated>2023-05-04T14:02:54.000Z</updated>
-        <summary type="html"><![CDATA[The Hoops will play in the Champions League group stage next season for the second successive year.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>
