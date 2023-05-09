@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4134557",
+          "author": "Andrew Smith",
+          "description": "It is tempting to see Ange Postecoglou as a cross between a drill sergeant and a life coach to his Celtic players.",
+          "link": "https://www.scotsman.com/sport/football/celtic/a-glimpse-into-the-celtic-family-stern-look-different-life-stages-total-alignment-4134557",
+          "publishedOn": "2023-05-08T21:30:00.000Z",
+          "wordCount": 2972,
+          "title": "A glimpse into the 'Celtic family': stern look, different life stages, total alignment",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjUyYWFkYzkyLWRkNzktNDExZC1iZTVhLTliMTBmYzhiMTMyMTowMzQxNjQ3OS1kMTQxLTRjZjctODhkYi1hZjJiOTJmMDc2YTk=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4134386",
           "author": "Joel Sked",
           "description": "Former referees Stuart Dougal and Dermot Gallagher have backed the decision to send of Alex Cochrane during Hearts’ 2-0 home defeat to Celtic on Sunday.",
@@ -294,16 +304,6 @@
           "wordCount": 2573,
           "title": "Celtic star reveals 'one positive' behind Scottish Cup final kick-off change as Billy Dodds slams decision",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmFkNGRhMWNmLWFmMGMtNDY4Ni05NTk4LWEzMmZkNzA5NmYwNDoyMDQ4YmNiMi0yNmNhLTQwM2QtYTEzNC1hYjIwY2RlNDM4MTg=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4130258",
-          "author": "Matthew Elder",
-          "description": "Celtic and Rangers are set to meet for the third time this week as the Old Firm rivals prepare to go head-to-head in a crucial Scottish Women's Premier League clash in Airdrie on Thursday.",
-          "link": "https://www.scotsman.com/sport/football/celtic/celtic-women-v-rangers-women-tv-channel-how-to-watch-swpl-derby-kick-off-time-venue-4130258",
-          "publishedOn": "2023-05-04T12:16:14.000Z",
-          "wordCount": 2591,
-          "title": "Celtic Women v Rangers Women TV channel: How to watch SWPL derby, kick-off time, venue",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjIyYWJlM2I3LWNlYTItNDhlZi1hMWNmLTJjODhhODcxNzlhYjpiMWNiYmNkMi03MGUxLTRhY2UtOTI0Yi00NjI3MmM4MjFhMTg=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
         }
       ]
     },
@@ -318,6 +318,36 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "b7a0aee92b4262b888fb071e5e3350e2",
+          "author": null,
+          "description": "THERE remains much for Greg Taylor and his Celtic team mates to keep playing for even though they wrapped up a second successive Scottish title with a hard-fought 2-0 victory over Hearts at Tynecastle on Sunday.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23508224.greg-taylor-makes-more-come-vow-celtics-latest-title-win/?ref=rss",
+          "publishedOn": "2023-05-08T21:39:00.000Z",
+          "wordCount": 9065,
+          "title": "Greg Taylor makes 'more to come' vow after Celtic's latest title win",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16757311/?type=og-image"
+        },
+        {
+          "id": "58422c6f76cc9714d693e837beb817d2",
+          "author": null,
+          "description": "HEARTS captain Lawrence Shankland yesterday called for greater clarity on VAR in the wake of the controversial red card Alex Cochrane received at Tynecastle on Sunday as he targeted a late push for third spot.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23508140.hearts-captain-reveals-reason-red-card-calls-var-clarity/?ref=rss",
+          "publishedOn": "2023-05-08T21:32:00.000Z",
+          "wordCount": 10017,
+          "title": "Hearts captain reveals reason for red card as he calls for VAR clarity",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16756999/?type=og-image"
+        },
+        {
+          "id": "ef115bb7dc590d6c49f197e4095e5a00",
+          "author": null,
+          "description": "The Parkhead manager will not allow his team to ease up after winning back-to-back Premiership titles.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23508287.ange-repeats-celtic-rallying-cry-scenario-we-cant-let-happen/?ref=rss",
+          "publishedOn": "2023-05-08T21:30:00.000Z",
+          "wordCount": 8430,
+          "title": "Ange repeats Celtic rallying cry over scenario 'we can't let happen'",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16757578/?type=og-image"
+        },
         {
           "id": "79657ebddceea6a76a6932288d073fbd",
           "author": null,
@@ -597,6 +627,16 @@
           "wordCount": 9518,
           "title": "Celtic team news vs Hearts as Postecoglou names starting XI",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16752154/?type=og-image"
+        },
+        {
+          "id": "8888c2c2a6fa3c47a48ec89b4f5b4328",
+          "author": null,
+          "description": "With the Hoops currently 13 points ahead of Rangers with only five games remaining, one more win will be enough to wrap things up.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23499760.hearts-vs-celtic-tv-channel-live-stream-kick-off-time/?ref=rss",
+          "publishedOn": "2023-05-07T10:43:00.000Z",
+          "wordCount": 9640,
+          "title": "Hearts vs Celtic: TV channel, live stream & kick-off time",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16739678/?type=og-image"
         },
         {
           "id": "2bb2495f11f87d7aab3e76e5fd7cab41",
@@ -897,16 +937,6 @@
           "wordCount": 9892,
           "title": "The teams Celtic could face in Champions League group stage",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16741613/?type=og-image"
-        },
-        {
-          "id": "ea90c870e1c8ae0ef116a6fcbcc21ad1",
-          "author": null,
-          "description": "The SFA's call has come in for some hefty criticism from fans who feel like they've been disregarded.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23500647.matt-oriley-celtic-scottish-cup-final-kick-off-time-admission/?ref=rss",
-          "publishedOn": "2023-05-04T12:20:44.000Z",
-          "wordCount": 8445,
-          "title": "Matt O'Riley in Celtic Scottish Cup final kick-off time admission",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16741065/?type=og-image"
         }
       ]
     }

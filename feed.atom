@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-08T21:14:51.872Z</updated>
+    <updated>2023-05-09T01:25:18.099Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Greg Taylor makes 'more to come' vow after Celtic's latest title win]]></title>
+        <id>b7a0aee92b4262b888fb071e5e3350e2</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23508224.greg-taylor-makes-more-come-vow-celtics-latest-title-win/?ref=rss"/>
+        <updated>2023-05-08T21:39:00.000Z</updated>
+        <summary type="html"><![CDATA[THERE remains much for Greg Taylor and his Celtic team mates to keep playing for even though they wrapped up a second successive Scottish title with a hard-fought 2-0 victory over Hearts at Tynecastle on Sunday.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hearts captain reveals reason for red card as he calls for VAR clarity]]></title>
+        <id>58422c6f76cc9714d693e837beb817d2</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23508140.hearts-captain-reveals-reason-red-card-calls-var-clarity/?ref=rss"/>
+        <updated>2023-05-08T21:32:00.000Z</updated>
+        <summary type="html"><![CDATA[HEARTS captain Lawrence Shankland yesterday called for greater clarity on VAR in the wake of the controversial red card Alex Cochrane received at Tynecastle on Sunday as he targeted a late push for third spot.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A glimpse into the 'Celtic family': stern look, different life stages, total alignment]]></title>
+        <id>4134557</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/a-glimpse-into-the-celtic-family-stern-look-different-life-stages-total-alignment-4134557"/>
+        <updated>2023-05-08T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[It is tempting to see Ange Postecoglou as a cross between a drill sergeant and a life coach to his Celtic players.]]></summary>
+        <author>
+            <name>Andrew Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ange repeats Celtic rallying cry over scenario 'we can't let happen']]></title>
+        <id>ef115bb7dc590d6c49f197e4095e5a00</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23508287.ange-repeats-celtic-rallying-cry-scenario-we-cant-let-happen/?ref=rss"/>
+        <updated>2023-05-08T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The Parkhead manager will not allow his team to ease up after winning back-to-back Premiership titles.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA['Obvious it is going to be a red' - Hearts v Celtic decision backed by referee duo who claim VAR was correct]]></title>
         <id>4134386</id>
@@ -362,6 +402,16 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23506218.celtic-team-news-vs-hearts-postecoglou-names-starting-xi/?ref=rss"/>
         <updated>2023-05-07T12:00:00.000Z</updated>
         <summary type="html"><![CDATA[Ange Postecoglou has named his Celtic team to take on Hearts.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hearts vs Celtic: TV channel, live stream & kick-off time]]></title>
+        <id>8888c2c2a6fa3c47a48ec89b4f5b4328</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23499760.hearts-vs-celtic-tv-channel-live-stream-kick-off-time/?ref=rss"/>
+        <updated>2023-05-07T10:43:00.000Z</updated>
+        <summary type="html"><![CDATA[With the Hoops currently 13 points ahead of Rangers with only five games remaining, one more win will be enough to wrap things up.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
@@ -874,26 +924,6 @@
         <summary type="html"><![CDATA[The Hoops will play in the Champions League group stage next season for the second successive year.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Matt O'Riley in Celtic Scottish Cup final kick-off time admission]]></title>
-        <id>ea90c870e1c8ae0ef116a6fcbcc21ad1</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23500647.matt-oriley-celtic-scottish-cup-final-kick-off-time-admission/?ref=rss"/>
-        <updated>2023-05-04T12:20:44.000Z</updated>
-        <summary type="html"><![CDATA[The SFA's call has come in for some hefty criticism from fans who feel like they've been disregarded.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic Women v Rangers Women TV channel: How to watch SWPL derby, kick-off time, venue]]></title>
-        <id>4130258</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/celtic-women-v-rangers-women-tv-channel-how-to-watch-swpl-derby-kick-off-time-venue-4130258"/>
-        <updated>2023-05-04T12:16:14.000Z</updated>
-        <summary type="html"><![CDATA[Celtic and Rangers are set to meet for the third time this week as the Old Firm rivals prepare to go head-to-head in a crucial Scottish Women's Premier League clash in Airdrie on Thursday.]]></summary>
-        <author>
-            <name>Matthew Elder</name>
         </author>
     </entry>
 </feed>
