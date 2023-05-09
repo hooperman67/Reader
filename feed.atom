@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-09T03:18:15.035Z</updated>
+    <updated>2023-05-09T06:22:30.916Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The 'real' reason for Celtic's success as hunger grows for more silverware]]></title>
+        <id>4134558</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/the-real-reason-for-celtics-success-as-hunger-grows-for-more-silverware-4134558"/>
+        <updated>2023-05-09T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With an 11th title from the past 12 league seasons now confirmed, the latest success has done little to sate Celtic’s hunger for glory.]]></summary>
+        <author>
+            <name>Moira Gordon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ange  tackles big Celtic question over what really sets his team apart]]></title>
+        <id>f10dea12ac059171b53da02d27e7bd9e</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23508242.ange-tackles-big-celtic-question-really-sets-team-apart/?ref=rss"/>
+        <updated>2023-05-09T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Parkhead manager says his players have set an 'unbelievable' standard en-route to retaining the Premiership title.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Greg Taylor makes 'more to come' vow after Celtic's latest title win]]></title>
         <id>b7a0aee92b4262b888fb071e5e3350e2</id>
@@ -844,56 +864,6 @@
         <summary type="html"><![CDATA[Sione Tuipulotu spent Saturday helping Glasgow Warriors reach their first European final and Sunday watching Celtic beat Rangers to book a place in the Scottish Cup equivalent.]]></summary>
         <author>
             <name>Graham Bean</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic 0-1 Rangers: Kirsty Howat thunderbolt seals win]]></title>
-        <id>4fe346d6c3d364d44e867c7e8bb0fa97</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23501920.celtic-0-1-rangers-kirsty-howat-thunderbolt-seals-win/?ref=rss"/>
-        <updated>2023-05-04T17:16:35.000Z</updated>
-        <summary type="html"><![CDATA[Join us for our live coverage as Celtic host Rangers as the SWPL nears its conclusion.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic 0-1 Rangers: Howat howitzer seals win]]></title>
-        <id>4fe346d6c3d364d44e867c7e8bb0fa97</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23501920.celtic-0-1-rangers-howat-howitzer-seals-win/?ref=rss"/>
-        <updated>2023-05-04T17:16:35.000Z</updated>
-        <summary type="html"><![CDATA[Join us for our live coverage as Celtic host Rangers as the SWPL nears its conclusion.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SWPL LIVE: Celtic host Rangers in post-split clash]]></title>
-        <id>4fe346d6c3d364d44e867c7e8bb0fa97</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23501920.swpl-live-celtic-host-rangers-post-split-clash/?ref=rss"/>
-        <updated>2023-05-04T17:16:35.000Z</updated>
-        <summary type="html"><![CDATA[Join us for our live coverage as Celtic host Rangers as the SWPL nears its conclusion.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Ange Postecoglou must do to seal legendary Celtic manager status]]></title>
-        <id>621271c972d746a8bb9aed4af2b89582</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23501767.ange-postecoglou-must-seal-legendary-celtic-manager-status/?ref=rss"/>
-        <updated>2023-05-04T16:18:58.000Z</updated>
-        <summary type="html"><![CDATA[IT began with the forging of the SPL and SFL. Seven trophies were handed down to Celtic, one to Rangers.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic midfielder in surprising Rangers admission as talk of Old Firm gap branded 'harsh']]></title>
-        <id>4130816</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/celtic-midfielder-in-surprising-rangers-admission-as-talk-of-old-firm-gap-branded-harsh-4130816"/>
-        <updated>2023-05-04T16:06:02.000Z</updated>
-        <summary type="html"><![CDATA[Matt O'Riley has insisted that talk of a sizeable gap between Celtic and Rangers is "harsh" on the Ibrox club.]]></summary>
-        <author>
-            <name>Matthew Elder</name>
         </author>
     </entry>
 </feed>
