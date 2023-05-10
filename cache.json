@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4137685",
+          "author": "Joel Sked",
+          "description": "“We won the treble that year. In fact, the only thing we didn’t win was the Boat Race. And they still gave it to Ginola! Can you believe that?!” Sir Alex Ferguson at his finest. Eight years had passed but there was still incredulity around David Ginola winning the Football Writers’ Association’s Player of the Year award, plus the PFA accolade, in 1999 rather than one of his treble-winning Manchester United stars.",
+          "link": "https://www.scotsman.com/sport/football/celtic/kevin-van-veen-why-motherwells-king-would-deserve-player-of-the-year-despite-incredible-celtic-competition-4137685",
+          "publishedOn": "2023-05-10T16:29:56.000Z",
+          "wordCount": 3780,
+          "title": "Kevin van Veen: Why Motherwell's 'King' would deserve Player of the Year despite incredible Celtic competition",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjlhZTgxNzBhLTczNmMtNGI4NS1iMWRjLTdhZjUxYzYxMWVhOTplM2FhN2U0ZS1lOTZiLTQ2ZTAtODkxMC00NTIwMzg0YjUwMWU=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4137020",
           "author": "Joel Sked",
           "description": "Celtic provide two players for PFA Scotland’s four-man shortlist for the Young Player of the Year award, with stars from Rangers and Albion Rovers making up the nominees.",
@@ -284,26 +294,6 @@
           "wordCount": 2653,
           "title": "Celtic’s Carl Starfelt has his say on the Kyogo Furuhashi v Henrik Larsson debate",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjEwMmRiMjRlLTlmZmMtNGMwMi1hMGI5LTNkNDE5ZmM3NzI1MzoxYTI3MmVjOC1kY2FkLTQ4MDYtOTlhZS03OWFkNWRkM2VhYmY=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4132795",
-          "author": "Andrew Smith",
-          "description": "The adulation that is being heaped on Ange Postecoglou from the Celtic faithful has rarely been witnessed in the club’s annals.",
-          "link": "https://www.scotsman.com/sport/football/celtic/im-not-in-that-ball-park-mate-ange-postecoglou-on-celtic-adulation-and-why-he-is-slow-on-fan-walk-4132795",
-          "publishedOn": "2023-05-06T07:30:00.000Z",
-          "wordCount": 2572,
-          "title": "'I’m not in that ball-park, mate': Ange Postecoglou on Celtic adulation and why he is slow on fan walk",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjUxMWM3M2Y1LTU0OGUtNDFmNC04YjMwLTU3NGNiM2EwZGFlZjpmYzNmNTgzOC1iNzkwLTQyYmItYTE0ZS1iZTRjYjcwNDg1YmU=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4132784",
-          "author": "Andrew Smith",
-          "description": "Celtic’s opportunity to seal the title against Hearts at Tynecastle offers the possibility of a neat symmetry to Ange Postecoglou’s Scottish footballing odyssey.",
-          "link": "https://www.scotsman.com/sport/football/celtic/time-for-ange-postecoglou-celtic-reflection-i-had-the-energy-there-was-nothing-hanging-on-to-me-4132784",
-          "publishedOn": "2023-05-06T07:00:00.000Z",
-          "wordCount": 2954,
-          "title": "Time for Ange Postecoglou Celtic reflection: 'I had the energy. There was nothing hanging on to me'",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmU2OTVjOWNhLTQ2MzEtNDJlZi05ZWVlLTgwMGUzMzRiZDE5NDowZDdmZjY4Mi0yMzlmLTQ1ZTQtYmRmNS1mM2ZkY2FkNDUxNGI=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
         }
       ]
     },
@@ -319,12 +309,62 @@
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
         {
+          "id": "3684bb623e6396d0137aeb1da3b6db1e",
+          "author": null,
+          "description": "RANGERS paid the penalty in the Glasgow Cup final as Celtic secured the silverware thanks to a shoot-out success at Ibrox. Once again, the bragging rights in the city will remain in the East End.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23514064.rangers-pay-glasgow-cup-penalty-celtic-earn-ibrox-shoot-out-win/?ref=rss",
+          "publishedOn": "2023-05-10T20:17:18.000Z",
+          "wordCount": 8936,
+          "title": "Rangers pay the Glasgow Cup penalty as Celtic earn Ibrox shoot-out win",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16767302/?type=og-image"
+        },
+        {
+          "id": "e592eff0b2ab5fc809102dd778e2eccb",
+          "author": null,
+          "description": "Join us for our live coverage as Rangers and Celtic battle it out with silverware on the line.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23513948.rangers-3-3-celtic-celtic-claim-glasgow-cup-penalties/?ref=rss",
+          "publishedOn": "2023-05-10T17:30:20.000Z",
+          "wordCount": 8107,
+          "title": "Rangers 3-3 Celtic: Celtic claim Glasgow Cup on penalties",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16767101/?type=og-image"
+        },
+        {
+          "id": "c5881af10ee159e4d4682b867bb517e0",
+          "author": null,
+          "description": "Ex-Celtic manager Neil Lennon could be set for a shock managerial return according to reports.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23513785.ex-celtic-boss-neil-lennon-shock-choice-olympiakos-job/?ref=rss",
+          "publishedOn": "2023-05-10T16:18:02.000Z",
+          "wordCount": 8471,
+          "title": "Ex-Celtic boss Neil Lennon in shock choice for Olympiakos job",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16766812/?type=og-image"
+        },
+        {
+          "id": "05d118bfe025c39542d314412082a81c",
+          "author": null,
+          "description": "According to local press, Celtic have reportedly secured their second friendly match in Japan against Gamba Osaka",
+          "link": "https://www.glasgowtimes.co.uk/sport/23513500.celtic-secure-second-japan-friendly-gamba-osaka/?ref=rss",
+          "publishedOn": "2023-05-10T15:44:00.000Z",
+          "wordCount": 8553,
+          "title": "Celtic 'secure' second Japan friendly against Gamba Osaka",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16766514/?type=og-image"
+        },
+        {
+          "id": "adde79c597aea652fc15a76d05799961",
+          "author": null,
+          "description": "The rivals' B teams will go head-to-head on Wednesday evening with silverware up for grabs.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23513554.rangers-v-celtic-tv-live-stream-details-glasgow-cup-final/?ref=rss",
+          "publishedOn": "2023-05-10T15:32:10.000Z",
+          "wordCount": 8540,
+          "title": "Rangers v Celtic: TV and live stream details for Glasgow Cup final",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16766431/?type=og-image"
+        },
+        {
           "id": "1de691e2d414a659c7a74eb7d9272140",
           "author": null,
           "description": "The Dutch defender spent 18 months at Parkhead before moving on to Bayer Leverkusen.",
           "link": "https://www.glasgowtimes.co.uk/sport/23513383.celtic-benefit-real-madrid-barcelona-enter-race-frimpong/?ref=rss",
           "publishedOn": "2023-05-10T14:56:14.000Z",
-          "wordCount": 8615,
+          "wordCount": 9827,
           "title": "Celtic to benefit as Real Madrid and Barcelona enter race for Frimpong",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16766142/?type=og-image"
         },
@@ -967,26 +1007,6 @@
           "wordCount": 8621,
           "title": "Celtic fans' Coronation chant given BBC satirical show airing",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16749167/?type=og-image"
-        },
-        {
-          "id": "7ed3c15ca8fe7dfd7b1ea99600834371",
-          "author": null,
-          "description": "SCOTLAND’S elected representatives have been understandably reluctant to involve themselves in the running of our national game since the Offensive Behaviour at Football and Threatening Communications (Scotland) Act 2012 (OBFA) was repealed at Holyrood five years ago.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23504460.police-scotlands-new-pyrotechnics-powers-obfa-disguise/?ref=rss",
-          "publishedOn": "2023-05-06T05:53:00.000Z",
-          "wordCount": 9016,
-          "title": "Are Police Scotland’s new pyrotechnics powers OBFA in disguise?",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16747940/?type=og-image"
-        },
-        {
-          "id": "d67a37e95aa62a970c8b1c48bce237e6",
-          "author": null,
-          "description": "The Parkhead manager says he will never take for granted the backing he has received in Glasgow.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23504683.emotional-ange-postecoglou-sends-heartfelt-message-celtic-fans/?ref=rss",
-          "publishedOn": "2023-05-06T05:00:00.000Z",
-          "wordCount": 9243,
-          "title": "Celtic boss Ange reacts to resurfaced viral picture from 50 years ago",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16748550/?type=og-image"
         }
       ]
     }
