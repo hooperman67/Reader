@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-10T01:22:42.461Z</updated>
+    <updated>2023-05-10T03:18:03.297Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -974,16 +974,6 @@
         <summary type="html"><![CDATA[The Australian provided a timeline for the defender's potential return to action.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SPFL reveal when fixtures for 2023/24 will be released]]></title>
-        <id>4132299</id>
-        <link href="https://www.scotsman.com/sport/football/spfl-reveal-when-fixtures-for-202324-will-be-released-4132299"/>
-        <updated>2023-05-05T14:32:07.000Z</updated>
-        <summary type="html"><![CDATA[The Scottish Professional Football League has revealed when the fixture list for next season will be published.]]></summary>
-        <author>
-            <name>Mark Atkinson</name>
         </author>
     </entry>
 </feed>
