@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-09T21:14:24.749Z</updated>
+    <updated>2023-05-10T01:22:42.461Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Joe Hart cites Celtic's Australian experience as why they will cope just fine at Rangers]]></title>
+        <id>4136199</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/joe-hart-cites-celtics-australian-experience-as-why-they-will-cope-just-fine-at-rangers-4136199"/>
+        <updated>2023-05-09T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Joe Hart says that even although Celtic fans will be locked out of Ibrox this weekend, the players will still feel their backing.]]></summary>
+        <author>
+            <name>Moira Gordon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roberto Martinez rates Jota's Celtic form amid Portugal admission]]></title>
+        <id>f02ff85128220ba8962908c2604a7c1c</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23508326.roberto-martinez-rates-jotas-celtic-form-amid-portugal-admission/?ref=rss"/>
+        <updated>2023-05-09T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The 24-year-old has played at every youth level for his national team but has yet to earn a full call-up to the Portuguese A-squad.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Play-off drama: Partick edge seven-goal thriller, Falkirk trounced by Airdrie, Adam King incident at Alloa]]></title>
+        <id>4136215</id>
+        <link href="https://www.scotsman.com/sport/football/play-off-drama-partick-edge-seven-goal-thriller-falkirk-trounced-by-airdrie-adam-king-incident-at-alloa-4136215"/>
+        <updated>2023-05-09T21:05:32.000Z</updated>
+        <summary type="html"><![CDATA[Queen’s Park were involved in another televised thriller – and it was again heartache for the Spiders as they went down 4-3 to Partick Thistle in the first leg of their Premiership play-off quarter-final tie at Firhill.]]></summary>
+        <author>
+            <name>Mark Atkinson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[John Hartson baffled by Celtic winger Jota's Team of the Year snub]]></title>
         <id>19af22681fbe61e272b4f0ff7eeb2556</id>
@@ -954,36 +984,6 @@
         <summary type="html"><![CDATA[The Scottish Professional Football League has revealed when the fixture list for next season will be published.]]></summary>
         <author>
             <name>Mark Atkinson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic reveal whether Cameron Carter-Vickers will miss the start of next season]]></title>
-        <id>4132001</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/celtic-reveal-whether-cameron-carter-vickers-will-miss-the-start-of-next-season-4132001"/>
-        <updated>2023-05-05T12:55:11.000Z</updated>
-        <summary type="html"><![CDATA[Celtic manager Ange Postecoglou has eased concerns that Cameron Carter-Vickers may miss the start of next season after undergoing knee surgery.]]></summary>
-        <author>
-            <name>Matthew Elder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arsenal ace Kieran Tierney subject of Aston Villa transfer interest]]></title>
-        <id>132bfe1f9c4a1dc5dc83cebf777c1685</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23503003.arsenal-ace-kieran-tierney-subject-aston-villa-transfer-interest/?ref=rss"/>
-        <updated>2023-05-05T10:35:37.000Z</updated>
-        <summary type="html"><![CDATA[Aston Villa are interested in former Celtic left-back Kieran Tierney, according to reports.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic furious over Rangers turning point as defender blasts - 'sometimes you have to beat the refs']]></title>
-        <id>4131454</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/celtic-furious-over-rangers-turning-point-as-defender-blasts-sometimes-you-have-to-beat-the-refs-4131454"/>
-        <updated>2023-05-05T09:24:54.000Z</updated>
-        <summary type="html"><![CDATA[Celtic defender Caitlin Hayes has slammed the decision to rule out her goal in the 1-0 defeat to Rangers in the Scottish Women's Premier League on Thursday night.]]></summary>
-        <author>
-            <name>Matthew Elder</name>
         </author>
     </entry>
 </feed>
