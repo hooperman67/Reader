@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-10T03:18:03.297Z</updated>
+    <updated>2023-05-10T06:21:52.925Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic FC fans chant at Old Firm raises £15,000 for Glasgow food bank]]></title>
+        <id>64e17bd27cc61b56d3611eb2867bc1c8</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23510070.celtic-fc-fans-chant-old-firm-raises-15-000-glasgow-food-bank/?ref=rss"/>
+        <updated>2023-05-10T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Celtic fans have raised more than £15,000 for a Glasgow food bank after their anti-monarchy chant went viral.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic star Hart reveals Ange factor even Man City didn't bring]]></title>
+        <id>367e51dd383e11b57ad57965aeaab6dc</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23511181.celtic-star-hart-reveals-ange-factor-even-man-city-didnt-bring/?ref=rss"/>
+        <updated>2023-05-10T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The 36-year-old keeper has enjoyed a new lease of life since moving to Parkhead.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Joe Hart cites Celtic's Australian experience as why they will cope just fine at Rangers]]></title>
         <id>4136199</id>
@@ -934,46 +954,6 @@
         <summary type="html"><![CDATA[Score predictions for the first round of Scottish Premiership fixtures following the split – with major ramifications in the top and bottom half of the table.]]></summary>
         <author>
             <name>Matthew Elder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Charlie Nicholas insists Rangers must learn from Celtic]]></title>
-        <id>5970c698f91b6f0b2b835884e5a37e3f</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23504391.charlie-nicholas-insists-rangers-must-learn-celtic/?ref=rss"/>
-        <updated>2023-05-05T17:53:22.000Z</updated>
-        <summary type="html"><![CDATA[With Ryan Kent and Alfredo Morelos set to leave Ibrox for nothing, Andy Walker insists Rangers should be doing better.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic's Cameron Carter-Vickers set 'to be ready' for pre-season]]></title>
-        <id>2104af7a4a309b9374b174532ff34ece</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23504335.celtics-cameron-carter-vickers-set-to-ready-pre-season/?ref=rss"/>
-        <updated>2023-05-05T17:27:00.000Z</updated>
-        <summary type="html"><![CDATA[The American international recently had successful surgery.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic defender and women's team star's relationship confirmed]]></title>
-        <id>867a74befa66e2786d5bc74018348d48</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23504310.celtic-defender-womens-team-stars-relationship-confirmed/?ref=rss"/>
-        <updated>2023-05-05T17:14:00.000Z</updated>
-        <summary type="html"><![CDATA[The first team star was situ at the fixture.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ange Postecoglou issues Alistair Johnston Celtic injury update]]></title>
-        <id>f95f6bbbd96413cfda4699b6d5874384</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23504217.ange-postecoglou-issues-alistair-johnston-celtic-injury-update/?ref=rss"/>
-        <updated>2023-05-05T16:54:00.000Z</updated>
-        <summary type="html"><![CDATA[The Australian provided a timeline for the defender's potential return to action.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>

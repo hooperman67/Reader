@@ -329,6 +329,26 @@
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
         {
+          "id": "64e17bd27cc61b56d3611eb2867bc1c8",
+          "author": null,
+          "description": "Celtic fans have raised more than £15,000 for a Glasgow food bank after their anti-monarchy chant went viral.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23510070.celtic-fc-fans-chant-old-firm-raises-15-000-glasgow-food-bank/?ref=rss",
+          "publishedOn": "2023-05-10T05:00:00.000Z",
+          "wordCount": 8648,
+          "title": "Celtic FC fans chant at Old Firm raises £15,000 for Glasgow food bank",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16760949/?type=og-image"
+        },
+        {
+          "id": "367e51dd383e11b57ad57965aeaab6dc",
+          "author": null,
+          "description": "The 36-year-old keeper has enjoyed a new lease of life since moving to Parkhead.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23511181.celtic-star-hart-reveals-ange-factor-even-man-city-didnt-bring/?ref=rss",
+          "publishedOn": "2023-05-10T05:00:00.000Z",
+          "wordCount": 10286,
+          "title": "Celtic star Hart reveals Ange factor even Man City didn't bring",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16762489/?type=og-image"
+        },
+        {
           "id": "f02ff85128220ba8962908c2604a7c1c",
           "author": null,
           "description": "The 24-year-old has played at every youth level for his national team but has yet to earn a full call-up to the Portuguese A-squad.",
@@ -947,46 +967,6 @@
           "wordCount": 9745,
           "title": "Ange Postecoglou issues reminder to Celtic youngsters",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16748081/?type=og-image"
-        },
-        {
-          "id": "5970c698f91b6f0b2b835884e5a37e3f",
-          "author": null,
-          "description": "With Ryan Kent and Alfredo Morelos set to leave Ibrox for nothing, Andy Walker insists Rangers should be doing better.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23504391.charlie-nicholas-insists-rangers-must-learn-celtic/?ref=rss",
-          "publishedOn": "2023-05-05T17:53:22.000Z",
-          "wordCount": 8506,
-          "title": "Charlie Nicholas insists Rangers must learn from Celtic",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16747891/?type=og-image"
-        },
-        {
-          "id": "2104af7a4a309b9374b174532ff34ece",
-          "author": null,
-          "description": "The American international recently had successful surgery.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23504335.celtics-cameron-carter-vickers-set-to-ready-pre-season/?ref=rss",
-          "publishedOn": "2023-05-05T17:27:00.000Z",
-          "wordCount": 8496,
-          "title": "Celtic's Cameron Carter-Vickers set 'to be ready' for pre-season",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16747808/?type=og-image"
-        },
-        {
-          "id": "867a74befa66e2786d5bc74018348d48",
-          "author": null,
-          "description": "The first team star was situ at the fixture.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23504310.celtic-defender-womens-team-stars-relationship-confirmed/?ref=rss",
-          "publishedOn": "2023-05-05T17:14:00.000Z",
-          "wordCount": 8505,
-          "title": "Celtic defender and women's team star's relationship confirmed",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16747751/?type=og-image"
-        },
-        {
-          "id": "f95f6bbbd96413cfda4699b6d5874384",
-          "author": null,
-          "description": "The Australian provided a timeline for the defender's potential return to action.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23504217.ange-postecoglou-issues-alistair-johnston-celtic-injury-update/?ref=rss",
-          "publishedOn": "2023-05-05T16:54:00.000Z",
-          "wordCount": 9619,
-          "title": "Ange Postecoglou issues Alistair Johnston Celtic injury update",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16747678/?type=og-image"
         }
       ]
     }
