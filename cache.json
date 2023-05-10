@@ -304,16 +304,6 @@
           "wordCount": 2957,
           "title": "'I don't like these things being messed about': Celtic boss shows his traditionalist side and provides key update",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmJmMmUwNjVjLTgyNDctNDI1YS05N2MzLWQyMGM1ZGFlZWUyZDphY2VmMTBkMS03YjQ3LTQwN2QtYmVhZC0zZjA4MjkwM2Y3YjQ=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4132665",
-          "author": "Matthew Elder",
-          "description": "Score predictions for the first round of Scottish Premiership fixtures following the split – with major ramifications in the top and bottom half of the table.",
-          "link": "https://www.scotsman.com/sport/football/premiership-predictions-will-hearts-stop-celtic-winning-title-can-aberdeen-pile-on-rangers-misery-4132665",
-          "publishedOn": "2023-05-05T19:10:00.000Z",
-          "wordCount": 3507,
-          "title": "Premiership predictions: Will Hearts stop Celtic winning title? Can Aberdeen pile on Rangers misery?",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmQwNjVmNTg2LTU0OTktNDcyYi1hZmQ2LWNhMDAxMTg4ZjA5MjpmY2M3ODJmZC0xOThlLTQ3M2QtYjM0My00YjFlNjJlZjg4ZWM=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
         }
       ]
     },
@@ -328,6 +318,26 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "62817c23d48a452f3c4d28ebfcc42a7c",
+          "author": null,
+          "description": "It came after the pair discussed whether rival English fans should be backing Manchester City to go all the way in this year's Champions League.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23511642.rangers-hero-ally-mccoist-baffled-laura-woods-celtic-poser/?ref=rss",
+          "publishedOn": "2023-05-10T08:34:16.000Z",
+          "wordCount": 9635,
+          "title": "Rangers hero Ally McCoist baffled by Laura Woods Celtic poser",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16762998/?type=og-image"
+        },
+        {
+          "id": "a2b46035dbbf5c7c9f937fbe18acd6cb",
+          "author": null,
+          "description": "Since his arrival in Glasgow almost two years ago, the attacker has 52 goal involvements in 79 outings.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23508383.inside-portugal-boss-roberto-martinezs-assessment-celtic-star-jota/?ref=rss",
+          "publishedOn": "2023-05-10T05:45:00.000Z",
+          "wordCount": 9143,
+          "title": "Inside Portugal boss Roberto Martinez's assessment of Celtic star Jota",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16757641/?type=og-image"
+        },
         {
           "id": "64e17bd27cc61b56d3611eb2867bc1c8",
           "author": null,
@@ -957,16 +967,6 @@
           "wordCount": 8531,
           "title": "Ange in Celtic verdict on Scottish Cup tradition being 'messed about'",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16747941/?type=og-image"
-        },
-        {
-          "id": "e8b7416bb02b06b6308fc7729d40a567",
-          "author": null,
-          "description": "The Celtic manager insists he will not bring young players into the fold unless they impress him in training.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23504530.ange-postecoglou-issues-reminder-celtic-youngsters/?ref=rss",
-          "publishedOn": "2023-05-05T19:12:27.000Z",
-          "wordCount": 9745,
-          "title": "Ange Postecoglou issues reminder to Celtic youngsters",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16748081/?type=og-image"
         }
       ]
     }

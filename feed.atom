@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-10T06:21:52.925Z</updated>
+    <updated>2023-05-10T09:16:51.201Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rangers hero Ally McCoist baffled by Laura Woods Celtic poser]]></title>
+        <id>62817c23d48a452f3c4d28ebfcc42a7c</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23511642.rangers-hero-ally-mccoist-baffled-laura-woods-celtic-poser/?ref=rss"/>
+        <updated>2023-05-10T08:34:16.000Z</updated>
+        <summary type="html"><![CDATA[It came after the pair discussed whether rival English fans should be backing Manchester City to go all the way in this year's Champions League.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inside Portugal boss Roberto Martinez's assessment of Celtic star Jota]]></title>
+        <id>a2b46035dbbf5c7c9f937fbe18acd6cb</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23508383.inside-portugal-boss-roberto-martinezs-assessment-celtic-star-jota/?ref=rss"/>
+        <updated>2023-05-10T05:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Since his arrival in Glasgow almost two years ago, the attacker has 52 goal involvements in 79 outings.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic FC fans chant at Old Firm raises £15,000 for Glasgow food bank]]></title>
         <id>64e17bd27cc61b56d3611eb2867bc1c8</id>
@@ -934,26 +954,6 @@
         <summary type="html"><![CDATA[The Hampden showpiece against Inverness in June has been moved from its usual 3pm slot to avoid a clash with the FA Cup final.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ange Postecoglou issues reminder to Celtic youngsters]]></title>
-        <id>e8b7416bb02b06b6308fc7729d40a567</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23504530.ange-postecoglou-issues-reminder-celtic-youngsters/?ref=rss"/>
-        <updated>2023-05-05T19:12:27.000Z</updated>
-        <summary type="html"><![CDATA[The Celtic manager insists he will not bring young players into the fold unless they impress him in training.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Premiership predictions: Will Hearts stop Celtic winning title? Can Aberdeen pile on Rangers misery?]]></title>
-        <id>4132665</id>
-        <link href="https://www.scotsman.com/sport/football/premiership-predictions-will-hearts-stop-celtic-winning-title-can-aberdeen-pile-on-rangers-misery-4132665"/>
-        <updated>2023-05-05T19:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Score predictions for the first round of Scottish Premiership fixtures following the split – with major ramifications in the top and bottom half of the table.]]></summary>
-        <author>
-            <name>Matthew Elder</name>
         </author>
     </entry>
 </feed>
