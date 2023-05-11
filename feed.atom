@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-11T18:20:35.117Z</updated>
+    <updated>2023-05-11T21:14:39.450Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Record crowd for SWPL set at Celtic Park with three teams involved in thrilling title fight]]></title>
+        <id>4139541</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/record-crowd-for-swpl-set-at-celtic-park-with-three-teams-involved-in-thrilling-title-fight-4139541"/>
+        <updated>2023-05-11T20:39:33.000Z</updated>
+        <summary type="html"><![CDATA[A new record attendance for a domestic women’s match was set on Thursday night during the SWPL encounter between Celtic and Glasgow City.]]></summary>
+        <author>
+            <name>Mark Atkinson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The two Celtic players who will be 'under pressure' in Rangers clash]]></title>
+        <id>886527fc2389aff9ca61aec4f3429bb5</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23516908.two-celtic-players-will-under-pressure-rangers-clash/?ref=rss"/>
+        <updated>2023-05-11T19:30:29.000Z</updated>
+        <summary type="html"><![CDATA[Andy Walker claims a Celtic duo will come under pressure in the trip to Ibrox on Saturday.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joe Hart details Ange Postecoglou encounter that sealed Celtic move]]></title>
+        <id>5eaa0b75f2f07a74790f8c05f4104dc0</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23516731.joe-hart-details-ange-postecoglou-encounter-sealed-celtic-move/?ref=rss"/>
+        <updated>2023-05-11T16:53:09.000Z</updated>
+        <summary type="html"><![CDATA[The goalkeeper revealed his initial discussion with the Celtic boss before he decided to head north.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic and Porto 'above all' in Ardon Jashari transfer pursuit]]></title>
         <id>754ff8ae1f978e5c30009e3b2b9c7885</id>
@@ -984,46 +1014,6 @@
         <summary type="html"><![CDATA[Celtic are in the hunt for Polish superkid Szymon Wlodarczyk - dubbed the new Robert Lewandowski - according to a transfer expert.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Carl Starfelt wary of comparing Kyogo Furuhashi and Henrik Larsson]]></title>
-        <id>10f4f8dd3ce126e70898fa43e981c78b</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23505161.carl-starfelt-wary-comparing-kyogo-furuhashi-henrik-larsson/?ref=rss"/>
-        <updated>2023-05-07T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Swede knows his compatriot left behind a formidable legacy at Parkhead.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What channel is Hearts v Celtic on? TV details, live stream, kick-off time for possible Celtic title win]]></title>
-        <id>4133364</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/what-channel-is-hearts-v-celtic-on-tv-details-live-stream-kick-off-time-for-possible-celtic-title-win-4133364"/>
-        <updated>2023-05-07T07:40:02.000Z</updated>
-        <summary type="html"><![CDATA[Celtic can clinch the Scottish Premiership title with a victory at Hearts on Sunday.]]></summary>
-        <author>
-            <name>Matthew Elder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Celtic’s bejeweled league crowning puts Ange Postecoglou's side above Brendan Rodgers' and Steven Gerrard's invincibles]]></title>
-        <id>4133322</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/why-celtics-bejeweled-league-crowning-puts-ange-postecoglous-side-above-brendan-rodgers-and-steven-gerrards-invincibles-4133322"/>
-        <updated>2023-05-07T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Celtic’s crowning as champions this season has been their destiny for so long it has almost felt like a birthright. The natural order.]]></summary>
-        <author>
-            <name>Andrew Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ange Postecoglou's impact on Australian football laid bare - but that will count for nothing when Hearts host Celtic]]></title>
-        <id>4133333</id>
-        <link href="https://www.scotsman.com/sport/football/hearts/ange-postecoglous-impact-on-australian-football-laid-bare-but-that-will-count-for-nothing-when-hearts-host-celtic-4133333"/>
-        <updated>2023-05-07T06:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Early on in their respective careers in Scotland, there was a moment at the end of one encounter when Ange Posecoglou was pictured giving Cammy Devlin a pat on the head.]]></summary>
-        <author>
-            <name>Moira Gordon</name>
         </author>
     </entry>
 </feed>
