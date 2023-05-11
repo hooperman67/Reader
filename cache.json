@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4138933",
+          "author": "Mark Atkinson",
+          "description": "Scotland have confirmed a friendly against France in October.",
+          "link": "https://www.scotsman.com/sport/football/international/scotland-to-play-france-in-october-location-and-exact-date-confirmed-ticket-details-to-come-4138933",
+          "publishedOn": "2023-05-11T14:16:46.000Z",
+          "wordCount": 2191,
+          "title": "Scotland to play France in October - location and exact date confirmed, ticket details to come",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjQ2OTdhNTI5LWQwZjItNDRiYi1iNWFkLWI1MGQyYmVmMTMzYjo2ZDYxMGYyYS01MzNlLTQ3OWYtODZiZi02ODc5YTFkOTA1NDk=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4137868",
           "author": "Moira Gordon",
           "description": "He is on course for a domestic treble and the kind of individual honours that write players into Scottish football folklore but, like so many of his Celtic colleagues, Kyogo Furuhashi believes he can do even better.",
@@ -328,6 +338,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "7be3c338fcd2a5435ac0a31530fa3244",
+          "author": null,
+          "description": "Hoops boss Ange Postecoglou has been called a 'king' in Glasgow, according to a pundit in Australia",
+          "link": "https://www.glasgowtimes.co.uk/sport/23515417.ange-postecoglou-crowned-king-celtic-amid-epl-exit-links/?ref=rss",
+          "publishedOn": "2023-05-11T12:13:36.000Z",
+          "wordCount": 9699,
+          "title": "Ange Postecoglou crowned 'king' of Celtic amid EPL exit links",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16769248/?type=og-image"
+        },
         {
           "id": "4abc79c39772a28a7e1459bc3552caab",
           "author": null,

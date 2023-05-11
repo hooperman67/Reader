@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-11T12:34:08.783Z</updated>
+    <updated>2023-05-11T15:17:45.422Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Scotland to play France in October - location and exact date confirmed, ticket details to come]]></title>
+        <id>4138933</id>
+        <link href="https://www.scotsman.com/sport/football/international/scotland-to-play-france-in-october-location-and-exact-date-confirmed-ticket-details-to-come-4138933"/>
+        <updated>2023-05-11T14:16:46.000Z</updated>
+        <summary type="html"><![CDATA[Scotland have confirmed a friendly against France in October.]]></summary>
+        <author>
+            <name>Mark Atkinson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ange Postecoglou crowned 'king' of Celtic amid EPL exit links]]></title>
+        <id>7be3c338fcd2a5435ac0a31530fa3244</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23515417.ange-postecoglou-crowned-king-celtic-amid-epl-exit-links/?ref=rss"/>
+        <updated>2023-05-11T12:13:36.000Z</updated>
+        <summary type="html"><![CDATA[Hoops boss Ange Postecoglou has been called a 'king' in Glasgow, according to a pundit in Australia]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rangers vs Celtic: TV channel, live stream & kick-off time]]></title>
         <id>4abc79c39772a28a7e1459bc3552caab</id>
