@@ -339,6 +339,16 @@
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
         {
+          "id": "754ff8ae1f978e5c30009e3b2b9c7885",
+          "author": null,
+          "description": "The clubs have been credited with an interest in the FC Luzern captain.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23516700.celtic-porto-above-all-ardon-jashari-transfer-pursuit/?ref=rss",
+          "publishedOn": "2023-05-11T16:38:32.000Z",
+          "wordCount": 8454,
+          "title": "Celtic and Porto 'above all' in Ardon Jashari transfer pursuit",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16771268/?type=og-image"
+        },
+        {
           "id": "7be3c338fcd2a5435ac0a31530fa3244",
           "author": null,
           "description": "Hoops boss Ange Postecoglou has been called a 'king' in Glasgow, according to a pundit in Australia",
@@ -1027,16 +1037,6 @@
           "wordCount": 9967,
           "title": "Carl Starfelt wary of comparing Kyogo Furuhashi and Henrik Larsson",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16749292/?type=og-image"
-        },
-        {
-          "id": "d896a396ee2fc2e26eacbc5a3cfa0616",
-          "author": null,
-          "description": "With Cameron Carter-Vickers and Alistair Johnston sidelined for the foreseeable, two places in Celtic's starting XI have opened up.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23505140.ange-postecogou-expects-anthony-ralston-yuki-kobayashi-feature/?ref=rss",
-          "publishedOn": "2023-05-07T06:00:00.000Z",
-          "wordCount": 10388,
-          "title": "Ange Postecogou expects Anthony Ralston and Yuki Kobayashi to feature",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16749256/?type=og-image"
         }
       ]
     }

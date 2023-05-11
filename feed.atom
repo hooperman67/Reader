@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-11T15:17:45.422Z</updated>
+    <updated>2023-05-11T18:20:35.117Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic and Porto 'above all' in Ardon Jashari transfer pursuit]]></title>
+        <id>754ff8ae1f978e5c30009e3b2b9c7885</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23516700.celtic-porto-above-all-ardon-jashari-transfer-pursuit/?ref=rss"/>
+        <updated>2023-05-11T16:38:32.000Z</updated>
+        <summary type="html"><![CDATA[The clubs have been credited with an interest in the FC Luzern captain.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scotland to play France in October - location and exact date confirmed, ticket details to come]]></title>
         <id>4138933</id>
@@ -1014,16 +1024,6 @@
         <summary type="html"><![CDATA[Early on in their respective careers in Scotland, there was a moment at the end of one encounter when Ange Posecoglou was pictured giving Cammy Devlin a pat on the head.]]></summary>
         <author>
             <name>Moira Gordon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ange Postecogou expects Anthony Ralston and Yuki Kobayashi to feature]]></title>
-        <id>d896a396ee2fc2e26eacbc5a3cfa0616</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23505140.ange-postecogou-expects-anthony-ralston-yuki-kobayashi-feature/?ref=rss"/>
-        <updated>2023-05-07T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[With Cameron Carter-Vickers and Alistair Johnston sidelined for the foreseeable, two places in Celtic's starting XI have opened up.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>
