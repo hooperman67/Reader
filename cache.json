@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4137868",
+          "author": "Moira Gordon",
+          "description": "He is on course for a domestic treble and the kind of individual honours that write players into Scottish football folklore but, like so many of his Celtic colleagues, Kyogo Furuhashi believes he can do even better.",
+          "link": "https://www.scotsman.com/sport/football/celtic/the-reason-celtics-kyogo-is-still-not-satisfied-as-he-joins-team-mates-on-pfa-scotland-player-of-the-year-shortlist-4137868",
+          "publishedOn": "2023-05-11T06:00:00.000Z",
+          "wordCount": 3049,
+          "title": "The reason Celtic's Kyogo is still not satisfied, as he joins team-mates on PFA Scotland Player of the Year shortlist",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjE5ZDVjMjczLWM2ZjYtNGU1ZC04ODczLWVmYWVhYzdjMGQxMDoyMTJhYWU0Ny1hMDViLTQ1MDItOGMyYS1mY2NjYzA5YzExMWM=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4137856",
           "author": "Moira Gordon",
           "description": "Reo Hatate has responded with bemusement after rumours about his long-term commitment to Celtic began to swirl online in the wake of the club’s title win.",
@@ -318,6 +328,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "e547920a2987be8ac8b1b8f7c3d1c06b",
+          "author": null,
+          "description": "The Parkhead favourite is among the nominees for PFA Scotland Player of the Year.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23514109.kyogo-recalls-journey-celtic-rangers-derby-different/?ref=rss",
+          "publishedOn": "2023-05-11T05:00:00.000Z",
+          "wordCount": 9123,
+          "title": "Kyogo recalls journey to Celtic and why Rangers derby is different",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16767395/?type=og-image"
+        },
         {
           "id": "5081a3e6a67de4454c7b9e6bf84efbe7",
           "author": null,
@@ -967,16 +987,6 @@
           "wordCount": 8711,
           "title": "Ange Postecoglou has high hopes for Celtic's pre-season tour of Japan",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16749219/?type=og-image"
-        },
-        {
-          "id": "988ad25cc2c72ba590b626c2fa478a96",
-          "author": null,
-          "description": "Emery brought Scottish international Tierney to the Emirates back in 2019 while he was in charge of the Gunners.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23505645.aston-villa-become-third-team-join-kieran-tierney-transfer-race/?ref=rss",
-          "publishedOn": "2023-05-06T16:38:09.000Z",
-          "wordCount": 8468,
-          "title": "Aston Villa become third team to join Kieran Tierney transfer race",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16750588/?type=og-image"
         }
       ]
     }

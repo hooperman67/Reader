@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-11T03:17:14.635Z</updated>
+    <updated>2023-05-11T06:21:29.980Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The reason Celtic's Kyogo is still not satisfied, as he joins team-mates on PFA Scotland Player of the Year shortlist]]></title>
+        <id>4137868</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/the-reason-celtics-kyogo-is-still-not-satisfied-as-he-joins-team-mates-on-pfa-scotland-player-of-the-year-shortlist-4137868"/>
+        <updated>2023-05-11T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[He is on course for a domestic treble and the kind of individual honours that write players into Scottish football folklore but, like so many of his Celtic colleagues, Kyogo Furuhashi believes he can do even better.]]></summary>
+        <author>
+            <name>Moira Gordon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kyogo recalls journey to Celtic and why Rangers derby is different]]></title>
+        <id>e547920a2987be8ac8b1b8f7c3d1c06b</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23514109.kyogo-recalls-journey-celtic-rangers-derby-different/?ref=rss"/>
+        <updated>2023-05-11T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Parkhead favourite is among the nominees for PFA Scotland Player of the Year.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PFA Scotland Play of the Year nominee Reo Hatate on missing Celtic's title celebrations: 'It’s not a big deal. People are reading too much into it']]></title>
         <id>4137856</id>
@@ -952,16 +972,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23505124.ange-postecoglou-high-hopes-celtics-pre-season-tour-japan/?ref=rss"/>
         <updated>2023-05-06T21:30:00.000Z</updated>
         <summary type="html"><![CDATA[The Greek-Australian is looking forward to returning to a part of the world that he know well.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aston Villa become third team to join Kieran Tierney transfer race]]></title>
-        <id>988ad25cc2c72ba590b626c2fa478a96</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23505645.aston-villa-become-third-team-join-kieran-tierney-transfer-race/?ref=rss"/>
-        <updated>2023-05-06T16:38:09.000Z</updated>
-        <summary type="html"><![CDATA[Emery brought Scottish international Tierney to the Emirates back in 2019 while he was in charge of the Gunners.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
