@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-10T21:18:23.651Z</updated>
+    <updated>2023-05-11T01:24:19.962Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PFA Scotland Play of the Year nominee Reo Hatate on missing Celtic's title celebrations: 'It’s not a big deal. People are reading too much into it']]></title>
+        <id>4137856</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/pfa-scotland-play-of-the-year-nominee-reo-hatate-on-missing-celtics-title-celebrations-its-not-a-big-deal-people-are-reading-too-much-into-it-4137856"/>
+        <updated>2023-05-10T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Reo Hatate has responded with bemusement after rumours about his long-term commitment to Celtic began to swirl online in the wake of the club’s title win.]]></summary>
+        <author>
+            <name>Moira Gordon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reo Hatate addresses Celtic party absence with 'leave me alone' quip]]></title>
+        <id>5081a3e6a67de4454c7b9e6bf84efbe7</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23514058.reo-hatate-addresses-celtic-party-absence-leave-alone-quip/?ref=rss"/>
+        <updated>2023-05-10T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[It had been noted on social media that the midfielder was not present for Sunday's celebrations at Celtic Park.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stephen McManus sets Celtic target as Ange Postecoglou watches cup win]]></title>
+        <id>a231582851baaa21e2bbb8561887c89e</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23514081.stephen-mcmanus-sets-celtic-target-ange-postecoglou-watches-cup-win/?ref=rss"/>
+        <updated>2023-05-10T21:02:36.000Z</updated>
+        <summary type="html"><![CDATA[STEPHEN MCMANUS has challenged his Celtic B Team stars to earn the rewards for their endeavours and catch the eye of boss Ange Postecoglou before the end of the season.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rangers pay the Glasgow Cup penalty as Celtic earn Ibrox shoot-out win]]></title>
         <id>3684bb623e6396d0137aeb1da3b6db1e</id>
@@ -942,56 +972,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23505496.west-ham-chief-tips-celtic-boss-ange-postecoglou-epl-move/?ref=rss"/>
         <updated>2023-05-06T14:35:44.000Z</updated>
         <summary type="html"><![CDATA[Baroness Karren Brady admits the Hoops manager has what it takes to become a success in England's top flight.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scott Brown swerves Celtic return poser as he focusses on Fleetwood]]></title>
-        <id>e36a7712b26cd5fe4ef5041c148802c5</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23505398.scott-brown-swerves-celtic-return-poser-focusses-fleetwood/?ref=rss"/>
-        <updated>2023-05-06T13:14:32.000Z</updated>
-        <summary type="html"><![CDATA[The Hoops legend left Parkhead nearly two years ago after well over a decade with the Scottish champions.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ally McCoist in Rangers show of faith plea to Michael Beale]]></title>
-        <id>031aa516d81371e520f1add647d3c272</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23505338.ally-mccoist-rangers-show-faith-plea-michael-beale/?ref=rss"/>
-        <updated>2023-05-06T12:11:23.000Z</updated>
-        <summary type="html"><![CDATA[Beale took over the reins at the Light Blues in November and while he's enjoyed good form in the Premiership, the season will end trophyless.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Billy Dodds on Inverness' long break plans prior to Celtic clash]]></title>
-        <id>c2a34de69d3d262920a9c71919b02004</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23505299.billy-dodds-inverness-long-break-plans-prior-celtic-clash/?ref=rss"/>
-        <updated>2023-05-06T11:37:19.000Z</updated>
-        <summary type="html"><![CDATA[Caley Thistle finished outside of the promotion play-off spots after their devastating late defeat at home to Ayr United last night.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ange Postecoglou in Brendan Rodgers Celtic catch up pledge]]></title>
-        <id>17d082ae9321b631bcaa80b82db2c00c</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23505183.ange-postecoglou-brendan-rodgers-celtic-catch-pledge/?ref=rss"/>
-        <updated>2023-05-06T10:29:52.000Z</updated>
-        <summary type="html"><![CDATA[The ex-Parkhead manager was spotted in the stands at the national stadium as Celtic defeated Rangers 1-0 in the semi-finals of the Scottish Cup.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic fans' Coronation chant given BBC satirical show airing]]></title>
-        <id>74f830dc0cd2fb7dd731d4b1b257ef05</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23505125.celtic-fans-coronation-chant-given-bbc-satirical-show-airing/?ref=rss"/>
-        <updated>2023-05-06T09:57:02.000Z</updated>
-        <summary type="html"><![CDATA[Discussing the Coronation, presenter Alexander Armstrong highlighted that some sections of the country are not happy with the Oath of Allegiance.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
