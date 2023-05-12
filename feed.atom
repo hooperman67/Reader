@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-12T18:20:22.459Z</updated>
+    <updated>2023-05-12T21:13:57.898Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rangers vs Celtic predictions from Herald & Times writers]]></title>
+        <id>630a317d9ee04946efaf7399822fead2</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23519728.rangers-vs-celtic-predictions-herald-times-writers/?ref=rss"/>
+        <updated>2023-05-12T18:39:46.000Z</updated>
+        <summary type="html"><![CDATA[Our team give their prediction for the final clash between the Glasgow rivals this season.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic have outspent Rangers by £50m - Michael Beale needs big money]]></title>
+        <id>73b082aadfbc3afb452e83aa1b31d40d</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23519703.celtic-outspent-rangers-50m---michael-beale-needs-big-money/?ref=rss"/>
+        <updated>2023-05-12T18:20:00.000Z</updated>
+        <summary type="html"><![CDATA[ANGE Postecoglou gave short shrift to the notion that having a substantially larger transfer budget than his rival managers had been the sole reason for the success he has enjoyed since moving to this country in the wake of Celtic’s win over Rangers in the Scottish Cup semi-final at Hampden last month.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sutton stuns McCoist with Rangers vs Celtic 'doesn't matter' claim]]></title>
         <id>42226a82bbffaf275275816faa8dcbc8</id>
@@ -872,56 +892,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23507352.stuart-dougal-delivers-hearts-vs-celtic-var-verdict-cochrane-red/?ref=rss"/>
         <updated>2023-05-08T10:46:11.000Z</updated>
         <summary type="html"><![CDATA[Stuart Dougal insists referee Nick Walsh and VAR were right to send off Alex Cochrane during yesterday's Hearts vs Celtic showdown.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[South Melbourne congratulate Celtic with Ange Postecoglou throwback]]></title>
-        <id>3180fc4f327cbdbaf18d1d6bd19280dc</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23506982.south-melbourne-congratulate-celtic-ange-postecoglou-throwback/?ref=rss"/>
-        <updated>2023-05-08T08:18:58.000Z</updated>
-        <summary type="html"><![CDATA[South Melbourne have congratulated Celtic on their Scottish Premiership title triumph by sharing a brilliant Ange Postecoglou throwback.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic-Hearts reaction: Postecoglou future; one ginormous gulf; Naismith v Jota]]></title>
-        <id>4133863</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/celtic-hearts-reaction-postecoglou-future-one-ginormous-gulf-naismith-v-jota-4133863"/>
-        <updated>2023-05-08T08:16:50.000Z</updated>
-        <summary type="html"><![CDATA[Celtic have seemed on mission as they have thundered towards the title defence which they sealed with their slender 2-0 success against Hearts at Tynecastle. It prompted a few thoughts as they surely close in on a treble.]]></summary>
-        <author>
-            <name>Andrew Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic-Hearts reaction: Postecoglou may have only just begun; one ginormous gulf; Naismith’s other VAR moment]]></title>
-        <id>4133863</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/celtic-hearts-reaction-postecoglou-may-have-only-just-begun-one-ginormous-gulf-naismiths-other-var-moment-4133863"/>
-        <updated>2023-05-08T08:16:50.000Z</updated>
-        <summary type="html"><![CDATA[Celtic have seemed on mission as they have thundered towards the title defence which they sealed with their slender 2-0 success against Hearts at Tynecastle. It prompted a few thoughts as they surely close in on a treble.]]></summary>
-        <author>
-            <name>Andrew Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neil McCann makes Celtic admission as he raves about Ange Postecoglou]]></title>
-        <id>198c92a88a82cca9bb05d581fcd92761</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23506872.neil-mccann-makes-celtic-admission-raves-ange-postecoglou/?ref=rss"/>
-        <updated>2023-05-08T06:56:20.000Z</updated>
-        <summary type="html"><![CDATA[Neil McCann has hailed the work of Ange Postecoglou at Celtic but he would love the Aussie to now depart Glasgow.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Joe Hart aims Celtic ticket dig at Hearts as Hoops crowned champions]]></title>
-        <id>5146e064e6e18d01f209fd265bd0f87f</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23506862.joe-hart-aims-celtic-ticket-dig-hearts-hoops-crowned-champions/?ref=rss"/>
-        <updated>2023-05-08T06:25:57.000Z</updated>
-        <summary type="html"><![CDATA[Joe Hart admits winning the league at Hearts made it all the sweeter for Celtic.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
