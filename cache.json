@@ -319,6 +319,26 @@
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
         {
+          "id": "42226a82bbffaf275275816faa8dcbc8",
+          "author": null,
+          "description": "The former Parkhead striker reckons the match is as well not being played - much to the shock of pal McCoist.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23519624.sutton-stuns-mccoist-rangers-vs-celtic-doesnt-matter-claim/?ref=rss",
+          "publishedOn": "2023-05-12T17:21:12.000Z",
+          "wordCount": 8610,
+          "title": "Sutton stuns McCoist with Rangers vs Celtic 'doesn't matter' claim",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16775792/?type=og-image"
+        },
+        {
+          "id": "ed07496de4d03030f4aa53dc6ea723f8",
+          "author": null,
+          "description": "Aaron Mooy is \"touch-and-go\" for the fixture at Ibrox.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23519270.ange-postecoglou-provides-celtic-injury-update-ahead-rangers-clash/?ref=rss",
+          "publishedOn": "2023-05-12T15:50:44.000Z",
+          "wordCount": 8509,
+          "title": "Ange Postecoglou provides Celtic injury update ahead of Rangers clash",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16775399/?type=og-image"
+        },
+        {
           "id": "999d0815a25ce59b6c6a84b227d37db8",
           "author": null,
           "description": "He was relatively coy on the topic, Cantwell seemed to back up the club's decision.",
@@ -917,16 +937,6 @@
           "wordCount": 8479,
           "title": "Joe Hart aims Celtic ticket dig at Hearts as Hoops crowned champions",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16754254/?type=og-image"
-        },
-        {
-          "id": "32cf80bcc6f1b215333905e65aafadf5",
-          "author": null,
-          "description": "Ange Postecoglou's side have again been crowned the best team in Scotland.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23506824.celtic-demand-perfection-rivals-no-small-factor-title-fate/?ref=rss",
-          "publishedOn": "2023-05-08T05:00:00.000Z",
-          "wordCount": 10274,
-          "title": "Celtic demand for perfection from rivals no small factor in title fate",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16754220/?type=og-image"
         }
       ]
     }
