@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4139723",
+          "author": "Joel Sked",
+          "description": "PFA Scotland has announced the four nominees for Manager of the Year with Ange Postecolgou in the running to retain the award he won last year. The Celtic boss is joined on the shortlist by St Mirren manager Stephen Robinson, Dunfermline Athletic’s James McPake and Darren Young of Stirling Albion.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtic-boss-amongst-4-man-manager-of-the-year-shortlist-including-premiership-top-six-rival-and-league-winners-4139723",
+          "publishedOn": "2023-05-12T08:29:58.000Z",
+          "wordCount": 2385,
+          "title": "Celtic boss amongst 4-man Manager of the Year shortlist including Premiership top-six rival and league winners",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmY4MTAwMGNlLTE3MzEtNDY1OS04NzZlLWY3ZDQ5MzBmN2Y5MjpkNWJiNmVmNy1lNDBhLTQwNWYtYjlhZC00YmE4MDRjYmE3NmY=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4139519",
           "author": "Moira Gordon",
           "description": "Despite arriving in Scotland two years ago, Celtic’s Liel Abada admits that it took him a while to learn English. But he has recently become fluent in dealing with questions about his future.",
@@ -284,16 +294,6 @@
           "wordCount": 2847,
           "title": "The Celtic player on cusp of world first after title triumph over Hearts",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmViZGNlYjUyLWM4YTYtNGQxZi1hZGFjLTYxOTk2YzY3ZTcxNDo1MjMwMGUzNC0wODkxLTRhZjMtOTI5Mi1lMjVkOWJiYzUyYzU=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4133771",
-          "author": "Andrew Smith",
-          "description": "Even the footballing aesthetes must sometimes require to become artisans when the occasion demands.",
-          "link": "https://www.scotsman.com/sport/football/celtic/celtics-coronation-graft-not-craft-at-tynecastle-as-king-kyogo-strikes-again-but-so-does-var-4133771",
-          "publishedOn": "2023-05-07T19:22:32.000Z",
-          "wordCount": 3741,
-          "title": "Celtic's coronation: Graft not craft at Tynecastle as King Kyogo strikes again - but so does VAR",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmI3MWIyOTVmLTkwM2EtNDQyYy04YmE4LWU5MGQwNDNkZjE5YToyZmI4ZmViNS05YTk4LTQ3ZTUtOTZlNC0yZDcyYTg0NTU5ZjY=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
         }
       ]
     },
@@ -308,6 +308,36 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "737f431ee998f3d8b601ea5c233aa013",
+          "author": null,
+          "description": "The four-man shortlist has been confirmed this morning, as voted for by their fellow managers in Scotland.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23517217.celtic-boss-ange-postecoglou-headlines-manager-year-shortlist/?ref=rss",
+          "publishedOn": "2023-05-12T08:11:26.000Z",
+          "wordCount": 8537,
+          "title": "Celtic boss Ange Postecoglou headlines Manager of the Year shortlist",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16772055/?type=og-image"
+        },
+        {
+          "id": "26714a9722f68486af4d9abfb2e8ca37",
+          "author": null,
+          "description": "Billy Dodds' men will face off with the treble-chasing Hoops at Hampden on Saturday, June 3.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23517179.inverness-scrambling-find-warm-up-opponent-prior-celtic-tie/?ref=rss",
+          "publishedOn": "2023-05-12T07:51:22.000Z",
+          "wordCount": 8589,
+          "title": "Inverness scrambling to find warm-up opponent prior to Celtic tie",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16771988/?type=og-image"
+        },
+        {
+          "id": "2fcbbc168f35a978d300983df9e95a3f",
+          "author": null,
+          "description": "The 25-year-old has played a key role in helping Albirex Niigata return to the J-League.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23517071.celtic-eye-latest-japan-transfer-raid-ryotaro-ito-radar/?ref=rss",
+          "publishedOn": "2023-05-12T06:44:47.000Z",
+          "wordCount": 8536,
+          "title": "Celtic 'eye' latest Japan transfer raid with Ryotaro Ito on the radar",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16771868/?type=og-image"
+        },
         {
           "id": "9e975b31e5628fc7f8b289c4d68e9371",
           "author": null,
@@ -817,46 +847,6 @@
           "wordCount": 8598,
           "title": "Callum McGregor in Celtic 'might go crazy' quip over his cup of tea",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16753601/?type=og-image"
-        },
-        {
-          "id": "3b8cd2677c5692028063fe4f81507883",
-          "author": null,
-          "description": "The Australian spoke to supporters who had gathered outside the ground.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23506729.ange-postecoglous-two-word-message-mobbed-outside-paradise/?ref=rss",
-          "publishedOn": "2023-05-07T19:44:00.000Z",
-          "wordCount": 8504,
-          "title": "Ange Postecoglou's two word message as he's mobbed outside Paradise",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16753822/?type=og-image"
-        },
-        {
-          "id": "965b4f1c3ee10865fe9b0069e45b8778",
-          "author": null,
-          "description": "The Hoops fans were in fine voice outside Parkhead.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23506719.watch-incredible-celtic-park-scene-title-party-gets-underway/?ref=rss",
-          "publishedOn": "2023-05-07T19:18:00.000Z",
-          "wordCount": 8543,
-          "title": "WATCH: Incredible Celtic Park scene as title party gets underway",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16753753/?type=og-image"
-        },
-        {
-          "id": "e5dc378b89c1b32cede1b7b31b6dc162",
-          "author": null,
-          "description": "Celtic fans have been videoed surrounding Hoops star Alistair Johnston's car in celebration on London Road in Glasgow.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23506705.watch-celtic-fans-swamp-johnstons-car-celebrate-title-win/?ref=rss",
-          "publishedOn": "2023-05-07T18:55:00.000Z",
-          "wordCount": 9656,
-          "title": "WATCH: Celtic fans swamp Johnston's car to celebrate title win",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16753738/?type=og-image"
-        },
-        {
-          "id": "4676322e93fa3b799457982eb2d73f7c",
-          "author": null,
-          "description": "Supporters gathered at Parkhead after the fixture.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23506691.postecoglou-players-address-fans-celtic-park-title-win/?ref=rss",
-          "publishedOn": "2023-05-07T18:33:00.000Z",
-          "wordCount": 8493,
-          "title": "Postecoglou and players address fans at Celtic Park after title win",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16753580/?type=og-image"
         }
       ]
     }
