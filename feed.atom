@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-11T21:14:39.450Z</updated>
+    <updated>2023-05-12T01:23:36.624Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why The Sound of Silence will be music to Liel Abada's ears at Ibrox]]></title>
+        <id>9e975b31e5628fc7f8b289c4d68e9371</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23515833.sound-silence-will-music-liel-abadas-ears-ibrox/?ref=rss"/>
+        <updated>2023-05-11T21:39:00.000Z</updated>
+        <summary type="html"><![CDATA[LIEL Abada has savoured many memorable moments during the time he has been a player at Celtic.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Right now I'm at Celtic': Liel Abada breaks silence on future and reveals constant chats with ex-teammate]]></title>
+        <id>4139519</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/right-now-im-at-celtic-liel-abada-breaks-silence-on-future-and-reveals-constant-chats-with-ex-teammate-4139519"/>
+        <updated>2023-05-11T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Despite arriving in Scotland two years ago, Celtic’s Liel Abada admits that it took him a while to learn English. But he has recently become fluent in dealing with questions about his future.]]></summary>
+        <author>
+            <name>Moira Gordon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fran Alonso proud on 'special' night as Celtic keep SWPL hopes alive]]></title>
+        <id>908420a804f170ce0b0bc13419f1b248</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23516971.fran-alonso-proud-special-night-celtic-keep-swpl-hopes-alive/?ref=rss"/>
+        <updated>2023-05-11T21:24:49.000Z</updated>
+        <summary type="html"><![CDATA[FRAN ALONSO hailed a “special” second half and insists “anything can happen”]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Record crowd for SWPL set at Celtic Park with three teams involved in thrilling title fight]]></title>
         <id>4139541</id>
@@ -972,46 +1002,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23506375.boyd-targeted-cheeky-celtic-dig-postecoglou-meets-petrov/?ref=rss"/>
         <updated>2023-05-07T13:54:00.000Z</updated>
         <summary type="html"><![CDATA[The former Bulgaria international poked fun at the ex-Ibrox striker prior to kick-off.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic team news vs Hearts as Postecoglou names starting XI]]></title>
-        <id>61135e4b51bfc6de45d51f6d823dadcc</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23506218.celtic-team-news-vs-hearts-postecoglou-names-starting-xi/?ref=rss"/>
-        <updated>2023-05-07T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ange Postecoglou has named his Celtic team to take on Hearts.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hearts vs Celtic: TV channel, live stream & kick-off time]]></title>
-        <id>8888c2c2a6fa3c47a48ec89b4f5b4328</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23499760.hearts-vs-celtic-tv-channel-live-stream-kick-off-time/?ref=rss"/>
-        <updated>2023-05-07T10:43:00.000Z</updated>
-        <summary type="html"><![CDATA[With the Hoops currently 13 points ahead of Rangers with only five games remaining, one more win will be enough to wrap things up.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liel Abada Celtic transfer latest as winger set for big-money move]]></title>
-        <id>2bb2495f11f87d7aab3e76e5fd7cab41</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23506137.liel-abada-celtic-transfer-latest-winger-set-big-money-move/?ref=rss"/>
-        <updated>2023-05-07T10:24:50.000Z</updated>
-        <summary type="html"><![CDATA[Celtic star Liel Abada is ready for a big-money move to the English Premier League in the summer, according to his countryman Yossi Benayoun.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic in transfer hunt for Polish superkid Szymon Wlodarczyk]]></title>
-        <id>96a62d7fca0de16738cd0f9d00c29d76</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23506111.celtic-transfer-hunt-polish-superkid-szymon-wlodarczyk/?ref=rss"/>
-        <updated>2023-05-07T10:03:45.000Z</updated>
-        <summary type="html"><![CDATA[Celtic are in the hunt for Polish superkid Szymon Wlodarczyk - dubbed the new Robert Lewandowski - according to a transfer expert.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>

@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4139519",
+          "author": "Moira Gordon",
+          "description": "Despite arriving in Scotland two years ago, Celtic’s Liel Abada admits that it took him a while to learn English. But he has recently become fluent in dealing with questions about his future.",
+          "link": "https://www.scotsman.com/sport/football/celtic/right-now-im-at-celtic-liel-abada-breaks-silence-on-future-and-reveals-constant-chats-with-ex-teammate-4139519",
+          "publishedOn": "2023-05-11T21:30:00.000Z",
+          "wordCount": 2918,
+          "title": "'Right now I'm at Celtic': Liel Abada breaks silence on future and reveals constant chats with ex-teammate",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmJmYzAzOWFjLTZkY2EtNDQ2Ny05NTVmLTkwMzVlMzNhMDZlZDo3YTEyY2VlZC00MmQyLTQ1MjctODljMS0wMmRkNTk2ZTNiMGY=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4139541",
           "author": "Mark Atkinson",
           "description": "A new record attendance for a domestic women’s match was set on Thursday night during the SWPL encounter between Celtic and Glasgow City.",
@@ -318,6 +328,26 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "9e975b31e5628fc7f8b289c4d68e9371",
+          "author": null,
+          "description": "LIEL Abada has savoured many memorable moments during the time he has been a player at Celtic.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23515833.sound-silence-will-music-liel-abadas-ears-ibrox/?ref=rss",
+          "publishedOn": "2023-05-11T21:39:00.000Z",
+          "wordCount": 9451,
+          "title": "Why The Sound of Silence will be music to Liel Abada's ears at Ibrox",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16769774/?type=og-image"
+        },
+        {
+          "id": "908420a804f170ce0b0bc13419f1b248",
+          "author": null,
+          "description": "FRAN ALONSO hailed a “special” second half and insists “anything can happen”",
+          "link": "https://www.glasgowtimes.co.uk/sport/23516971.fran-alonso-proud-special-night-celtic-keep-swpl-hopes-alive/?ref=rss",
+          "publishedOn": "2023-05-11T21:24:49.000Z",
+          "wordCount": 8645,
+          "title": "Fran Alonso proud on 'special' night as Celtic keep SWPL hopes alive",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16771747/?type=og-image"
+        },
         {
           "id": "886527fc2389aff9ca61aec4f3429bb5",
           "author": null,
@@ -987,46 +1017,6 @@
           "wordCount": 8484,
           "title": "Boyd targeted by cheeky Celtic dig as Postecoglou meets Petrov",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16752573/?type=og-image"
-        },
-        {
-          "id": "61135e4b51bfc6de45d51f6d823dadcc",
-          "author": null,
-          "description": "Ange Postecoglou has named his Celtic team to take on Hearts.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23506218.celtic-team-news-vs-hearts-postecoglou-names-starting-xi/?ref=rss",
-          "publishedOn": "2023-05-07T12:00:00.000Z",
-          "wordCount": 9518,
-          "title": "Celtic team news vs Hearts as Postecoglou names starting XI",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16752154/?type=og-image"
-        },
-        {
-          "id": "8888c2c2a6fa3c47a48ec89b4f5b4328",
-          "author": null,
-          "description": "With the Hoops currently 13 points ahead of Rangers with only five games remaining, one more win will be enough to wrap things up.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23499760.hearts-vs-celtic-tv-channel-live-stream-kick-off-time/?ref=rss",
-          "publishedOn": "2023-05-07T10:43:00.000Z",
-          "wordCount": 9640,
-          "title": "Hearts vs Celtic: TV channel, live stream & kick-off time",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16739678/?type=og-image"
-        },
-        {
-          "id": "2bb2495f11f87d7aab3e76e5fd7cab41",
-          "author": null,
-          "description": "Celtic star Liel Abada is ready for a big-money move to the English Premier League in the summer, according to his countryman Yossi Benayoun.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23506137.liel-abada-celtic-transfer-latest-winger-set-big-money-move/?ref=rss",
-          "publishedOn": "2023-05-07T10:24:50.000Z",
-          "wordCount": 9488,
-          "title": "Liel Abada Celtic transfer latest as winger set for big-money move",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16751903/?type=og-image"
-        },
-        {
-          "id": "96a62d7fca0de16738cd0f9d00c29d76",
-          "author": null,
-          "description": "Celtic are in the hunt for Polish superkid Szymon Wlodarczyk - dubbed the new Robert Lewandowski - according to a transfer expert.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23506111.celtic-transfer-hunt-polish-superkid-szymon-wlodarczyk/?ref=rss",
-          "publishedOn": "2023-05-07T10:03:45.000Z",
-          "wordCount": 9459,
-          "title": "Celtic in transfer hunt for Polish superkid Szymon Wlodarczyk",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16145139/?type=og-image"
         }
       ]
     }
