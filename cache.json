@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4140864",
+          "author": "Mark Atkinson",
+          "description": "Celtic manager Ange Postecoglou spoke to the broadcast media on Friday lunchtime ahead of Saturday’s final derby of the season against Rangers.",
+          "link": "https://www.scotsman.com/sport/football/celtic/they-are-taking-punts-ange-postecoglou-on-celtic-transfer-talk-impact-of-rangers-run-and-pfa-nomination-4140864",
+          "publishedOn": "2023-05-12T14:09:30.000Z",
+          "wordCount": 2587,
+          "title": "'They are taking punts': Ange Postecoglou on Celtic transfer talk, impact of Rangers run and PFA nomination",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjJlOGYyYzNjLWJlZTUtNDg5Zi1iNmQ3LThkYTNhZWY3OTU0YzpkNGMyMmFkOS1iMDUwLTRlNGEtYjc3Ny0xMGY5MzJiMzFkYWQ=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4140295",
           "author": "Joel Sked",
           "description": "Celtic face Rangers for the sixth time this season when the Scottish champions travel to Ibrox in the Scottish Premiership.",
@@ -308,6 +318,56 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "999d0815a25ce59b6c6a84b227d37db8",
+          "author": null,
+          "description": "He was relatively coy on the topic, Cantwell seemed to back up the club's decision.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23518524.todd-cantwell-defends-rangers-guard-honour-celtic-stance/?ref=rss",
+          "publishedOn": "2023-05-12T13:34:20.000Z",
+          "wordCount": 8533,
+          "title": "Todd Cantwell defends Rangers' guard of honour Celtic stance",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16774057/?type=og-image"
+        },
+        {
+          "id": "786d45fd974309181edbffc1f56cba58",
+          "author": null,
+          "description": "CELTIC’S thrilling comeback win over Glasgow City in front of a record attendance for a women’s match in Scotland has blown the SWPL title race...",
+          "link": "https://www.glasgowtimes.co.uk/sport/23518469.celtic-vs-rangers-vs-glasgow-city-swpl-title-race-can-won/?ref=rss",
+          "publishedOn": "2023-05-12T13:22:35.000Z",
+          "wordCount": 8872,
+          "title": "Celtic vs Rangers vs Glasgow City: How SWPL title race can be won",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16774079/?type=og-image"
+        },
+        {
+          "id": "dcde5e56ea993e4af0881f4f719a75f0",
+          "author": null,
+          "description": "The Rangers boss insists there is no issue between himself and the Colombian.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23518389.alfredo-morelos-part-rangers-squad-face-celtic/?ref=rss",
+          "publishedOn": "2023-05-12T13:03:52.000Z",
+          "wordCount": 8592,
+          "title": "Alfredo Morelos part of Rangers squad to face Celtic",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16773770/?type=og-image"
+        },
+        {
+          "id": "3c3c74931d1f0b51a530a1b3eaf95324",
+          "author": null,
+          "description": "The Hoops have already retained their Premiership crown heading into the sixth and final derby match of the season.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23518308.ange-postecoglou-celtic-response-rangers-guard-honour-snub/?ref=rss",
+          "publishedOn": "2023-05-12T12:42:37.000Z",
+          "wordCount": 8530,
+          "title": "Ange Postecoglou in Celtic response to Rangers guard of honour snub",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16773791/?type=og-image"
+        },
+        {
+          "id": "81ff698922e6ac2c38104b49006bea12",
+          "author": null,
+          "description": "The Hoops will arrive in Govan already as Premierhship champions having clinched their 53rd league title last week with victory over Hearts.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23518204.michael-beale-confirms-rangers-wont-give-celtic-guard-honour/?ref=rss",
+          "publishedOn": "2023-05-12T12:15:15.000Z",
+          "wordCount": 8529,
+          "title": "Michael Beale confirms Rangers won't give Celtic guard of honour",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16773688/?type=og-image"
+        },
         {
           "id": "c190026d830dd9d2e109b196d4ff018a",
           "author": null,
