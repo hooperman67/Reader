@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-13T01:22:27.838Z</updated>
+    <updated>2023-05-13T03:17:08.720Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -912,16 +912,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23508050.postecoglous-celtic-better-rodgers-invincibles-says-commons/?ref=rss"/>
         <updated>2023-05-08T15:31:51.000Z</updated>
         <summary type="html"><![CDATA[The Hoops clinch back-to-back titles on Sunday with a routine 2-0 victory over Hearts at Tynecastle.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic, Rangers & other Prem stars nominated for goal of the season]]></title>
-        <id>fd2947484b85b16eff948da117e9e021</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23507776.celtic-rangers-prem-stars-nominated-goal-season/?ref=rss"/>
-        <updated>2023-05-08T13:39:17.000Z</updated>
-        <summary type="html"><![CDATA[The winner of the competition will be announced at the PFA awards ceremony this Sunday.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
