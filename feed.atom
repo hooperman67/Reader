@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-13T09:14:42.771Z</updated>
+    <updated>2023-05-13T12:30:15.062Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic team news as Postecoglou rings changes for Rangers clash]]></title>
+        <id>ff3dd1408d5d148eb271e3777861174c</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23520097.celtic-team-news-postecoglou-rings-changes-rangers-clash/?ref=rss"/>
+        <updated>2023-05-13T10:24:56.000Z</updated>
+        <summary type="html"><![CDATA[The Parkhead boss has made sweeping changes to his side for the visit to Ibrox.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Old Firm late team news: Rangers to make huge call at both ends of pitch, Celtic's major boost, probable XIs]]></title>
         <id>4141455</id>
@@ -882,46 +892,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23508242.ange-tackles-big-celtic-question-really-sets-team-apart/?ref=rss"/>
         <updated>2023-05-09T05:00:00.000Z</updated>
         <summary type="html"><![CDATA[The Parkhead manager says his players have set an 'unbelievable' standard en-route to retaining the Premiership title.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Greg Taylor makes 'more to come' vow after Celtic's latest title win]]></title>
-        <id>b7a0aee92b4262b888fb071e5e3350e2</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23508224.greg-taylor-makes-more-come-vow-celtics-latest-title-win/?ref=rss"/>
-        <updated>2023-05-08T21:39:00.000Z</updated>
-        <summary type="html"><![CDATA[THERE remains much for Greg Taylor and his Celtic team mates to keep playing for even though they wrapped up a second successive Scottish title with a hard-fought 2-0 victory over Hearts at Tynecastle on Sunday.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hearts captain reveals reason for red card as he calls for VAR clarity]]></title>
-        <id>58422c6f76cc9714d693e837beb817d2</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23508140.hearts-captain-reveals-reason-red-card-calls-var-clarity/?ref=rss"/>
-        <updated>2023-05-08T21:32:00.000Z</updated>
-        <summary type="html"><![CDATA[HEARTS captain Lawrence Shankland yesterday called for greater clarity on VAR in the wake of the controversial red card Alex Cochrane received at Tynecastle on Sunday as he targeted a late push for third spot.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A glimpse into the 'Celtic family': stern look, different life stages, total alignment]]></title>
-        <id>4134557</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/a-glimpse-into-the-celtic-family-stern-look-different-life-stages-total-alignment-4134557"/>
-        <updated>2023-05-08T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[It is tempting to see Ange Postecoglou as a cross between a drill sergeant and a life coach to his Celtic players.]]></summary>
-        <author>
-            <name>Andrew Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ange repeats Celtic rallying cry over scenario 'we can't let happen']]></title>
-        <id>ef115bb7dc590d6c49f197e4095e5a00</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23508287.ange-repeats-celtic-rallying-cry-scenario-we-cant-let-happen/?ref=rss"/>
-        <updated>2023-05-08T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The Parkhead manager will not allow his team to ease up after winning back-to-back Premiership titles.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>

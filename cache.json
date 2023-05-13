@@ -314,16 +314,6 @@
           "wordCount": 2820,
           "title": "The 'real' reason for Celtic's success as hunger grows for more silverware",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjEyODBmYmZkLTdlOWUtNDgyNy1hYTY3LThiZTE2ZTFlOWUxODpmM2E1ZTdjZS1lOWQ5LTQzNGYtYWY1MC1hNmE1NGI1N2QzOGU=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4134557",
-          "author": "Andrew Smith",
-          "description": "It is tempting to see Ange Postecoglou as a cross between a drill sergeant and a life coach to his Celtic players.",
-          "link": "https://www.scotsman.com/sport/football/celtic/a-glimpse-into-the-celtic-family-stern-look-different-life-stages-total-alignment-4134557",
-          "publishedOn": "2023-05-08T21:30:00.000Z",
-          "wordCount": 2972,
-          "title": "A glimpse into the 'Celtic family': stern look, different life stages, total alignment",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjUyYWFkYzkyLWRkNzktNDExZC1iZTVhLTliMTBmYzhiMTMyMTowMzQxNjQ3OS1kMTQxLTRjZjctODhkYi1hZjJiOTJmMDc2YTk=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
         }
       ]
     },
@@ -338,6 +328,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "ff3dd1408d5d148eb271e3777861174c",
+          "author": null,
+          "description": "The Parkhead boss has made sweeping changes to his side for the visit to Ibrox.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23520097.celtic-team-news-postecoglou-rings-changes-rangers-clash/?ref=rss",
+          "publishedOn": "2023-05-13T10:24:56.000Z",
+          "wordCount": 8266,
+          "title": "Celtic team news as Postecoglou rings changes for Rangers clash",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16775399/?type=og-image"
+        },
         {
           "id": "cc4a44fa5d51d176a25e25a9e2c8786d",
           "author": null,
@@ -907,36 +907,6 @@
           "wordCount": 9158,
           "title": "Ange  tackles big Celtic question over what really sets his team apart",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16757372/?type=og-image"
-        },
-        {
-          "id": "b7a0aee92b4262b888fb071e5e3350e2",
-          "author": null,
-          "description": "THERE remains much for Greg Taylor and his Celtic team mates to keep playing for even though they wrapped up a second successive Scottish title with a hard-fought 2-0 victory over Hearts at Tynecastle on Sunday.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23508224.greg-taylor-makes-more-come-vow-celtics-latest-title-win/?ref=rss",
-          "publishedOn": "2023-05-08T21:39:00.000Z",
-          "wordCount": 9065,
-          "title": "Greg Taylor makes 'more to come' vow after Celtic's latest title win",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16757311/?type=og-image"
-        },
-        {
-          "id": "58422c6f76cc9714d693e837beb817d2",
-          "author": null,
-          "description": "HEARTS captain Lawrence Shankland yesterday called for greater clarity on VAR in the wake of the controversial red card Alex Cochrane received at Tynecastle on Sunday as he targeted a late push for third spot.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23508140.hearts-captain-reveals-reason-red-card-calls-var-clarity/?ref=rss",
-          "publishedOn": "2023-05-08T21:32:00.000Z",
-          "wordCount": 10017,
-          "title": "Hearts captain reveals reason for red card as he calls for VAR clarity",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16756999/?type=og-image"
-        },
-        {
-          "id": "ef115bb7dc590d6c49f197e4095e5a00",
-          "author": null,
-          "description": "The Parkhead manager will not allow his team to ease up after winning back-to-back Premiership titles.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23508287.ange-repeats-celtic-rallying-cry-scenario-we-cant-let-happen/?ref=rss",
-          "publishedOn": "2023-05-08T21:30:00.000Z",
-          "wordCount": 8430,
-          "title": "Ange repeats Celtic rallying cry over scenario 'we can't let happen'",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16757578/?type=og-image"
         }
       ]
     }
