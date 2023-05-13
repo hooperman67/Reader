@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4141455",
+          "author": "Mark Atkinson",
+          "description": "Rangers and Celtic meet for the final time in the 2022/23 campaign at Ibrox, with the newly-crowned Premiership champions looking to go a whole season undefeated against their Glasgow rivals.",
+          "link": "https://www.scotsman.com/sport/football/rangers/old-firm-late-team-news-rangers-to-make-huge-call-at-both-ends-of-pitch-celtics-major-boost-probable-xis-4141455",
+          "publishedOn": "2023-05-13T07:18:54.000Z",
+          "wordCount": 2294,
+          "title": "Old Firm late team news: Rangers to make huge call at both ends of pitch, Celtic's major boost, probable XIs",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjJhMDAwMTBiLWM0YzUtNGJmYi04ZWYzLTYxMTFkZjFiZTUwYzoxY2YwNTg0NC1jYmU4LTQ0YzMtYWNhMi1jOTBmNWQwMmExZWY=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4141376",
           "author": "Moira Gordon",
           "description": "Living in the moment, the primary concern for Celtic is Saturday afternoon’s trip to Ibrox. That’s where more bragging rights and the opportunity to navigate the season unbeaten by their Glasgow rivals is at stake.",
@@ -328,6 +338,26 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "cc4a44fa5d51d176a25e25a9e2c8786d",
+          "author": null,
+          "description": "The Parkhead manager will lead his team into the final derby of the season at Ibrox.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23519012.ange-reveals-rivals-celtic-title-texts-expands-guard-honour/?ref=rss",
+          "publishedOn": "2023-05-13T05:00:00.000Z",
+          "wordCount": 9105,
+          "title": "Ange reveals rivals' Celtic title texts and expands on guard of honour",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16775012/?type=og-image"
+        },
+        {
+          "id": "49d509ab239df1428f5312c4fadbd12d",
+          "author": null,
+          "description": "IT is one of the oldest cliches in football, but as far as this fixture goes? It really is taken literally.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23517954.callum-mcgregor-celtic-verdict-rangers-dead-rubber-claim/?ref=rss",
+          "publishedOn": "2023-05-13T05:00:00.000Z",
+          "wordCount": 9221,
+          "title": "Callum McGregor in Celtic verdict on Rangers 'dead rubber' claim",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16773360/?type=og-image"
+        },
         {
           "id": "942bef143e46e79c23cd94e6143bae93",
           "author": null,
