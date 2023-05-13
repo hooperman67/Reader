@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-13T15:15:47.421Z</updated>
+    <updated>2023-05-13T18:20:01.063Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rangers finally have their day: Ravenous Ibrox crowd devours win as Celtic resemble old bouquet of flowers]]></title>
+        <id>4141749</id>
+        <link href="https://www.scotsman.com/sport/football/rangers/rangers-finally-have-their-day-ravenous-ibrox-crowd-devours-win-as-celtic-resemble-old-bouquet-of-flowers-4141749"/>
+        <updated>2023-05-13T16:56:58.000Z</updated>
+        <summary type="html"><![CDATA[It was the day Michael Beale, whatever any public he may have made, will have craved for more than five months.]]></summary>
+        <author>
+            <name>Andrew Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Celtic fringe men showed Ange in defeat to Rangers]]></title>
+        <id>2db7b478f1cc3633bc9f3f3ff6c8f567</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23520498.celtic-fringe-men-showed-ange-defeat-rangers/?ref=rss"/>
+        <updated>2023-05-13T16:34:56.000Z</updated>
+        <summary type="html"><![CDATA[The Premiership champions made a number of changes as they were defeated 3-0 at Ibrox.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nicolas Raskin reckons Rangers built on Hampden showing with Ibrox win]]></title>
+        <id>0918d1e05f7d08056cbfe8d880930e3a</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23520413.nicolas-raskin-reckons-rangers-built-hampden-showing-ibrox-win/?ref=rss"/>
+        <updated>2023-05-13T15:19:58.000Z</updated>
+        <summary type="html"><![CDATA[Nicolas Raskin reckons Rangers built on their Hampden heartache to secure a rousing Ibrox win over Celtic.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ange Postecoglou in pointed Celtic reminder to fringe men]]></title>
+        <id>800f44ac48921ab011c2e60bc787cb78</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23520410.ange-postecoglou-pointed-celtic-reminder-fringe-men/?ref=rss"/>
+        <updated>2023-05-13T15:17:30.000Z</updated>
+        <summary type="html"><![CDATA[The Premiership champions went down 3-0 at Ibrox as Rangers deservedly claimed a first derby win of the season.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Todd Cantwell ready to be a Rangers hero after starring in Celtic win]]></title>
+        <id>cd557803bb8bac18e3afec919342b16a</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23520345.todd-cantwell-ready-rangers-hero-starring-celtic-win/?ref=rss"/>
+        <updated>2023-05-13T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[IT was an afternoon that marked an end for the old guard at Ibrox. It was one where the new faces gave an insight into a potentially brighter future.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ange Postecoglou makes stark Celtic admission after Rangers loss, comments on Oh and tells new boys 'you don't get an easy ride']]></title>
         <id>4141685</id>
@@ -932,26 +982,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23508517.rangers-hero-ally-mccoist-offers-celtic-well-done-radio-wind-up/?ref=rss"/>
         <updated>2023-05-09T06:44:07.000Z</updated>
         <summary type="html"><![CDATA[The former Ibrox boss, appearing on talkSPORT this morning, claimed he missed Ange Postecoglou's side clinching the Premiership.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 'real' reason for Celtic's success as hunger grows for more silverware]]></title>
-        <id>4134558</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/the-real-reason-for-celtics-success-as-hunger-grows-for-more-silverware-4134558"/>
-        <updated>2023-05-09T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[With an 11th title from the past 12 league seasons now confirmed, the latest success has done little to sate Celtic’s hunger for glory.]]></summary>
-        <author>
-            <name>Moira Gordon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ange  tackles big Celtic question over what really sets his team apart]]></title>
-        <id>f10dea12ac059171b53da02d27e7bd9e</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23508242.ange-tackles-big-celtic-question-really-sets-team-apart/?ref=rss"/>
-        <updated>2023-05-09T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Parkhead manager says his players have set an 'unbelievable' standard en-route to retaining the Premiership title.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>

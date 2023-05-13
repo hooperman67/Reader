@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4141749",
+          "author": "Andrew Smith",
+          "description": "It was the day Michael Beale, whatever any public he may have made, will have craved for more than five months.",
+          "link": "https://www.scotsman.com/sport/football/rangers/rangers-finally-have-their-day-ravenous-ibrox-crowd-devours-win-as-celtic-resemble-old-bouquet-of-flowers-4141749",
+          "publishedOn": "2023-05-13T16:56:58.000Z",
+          "wordCount": 3910,
+          "title": "Rangers finally have their day: Ravenous Ibrox crowd devours win as Celtic resemble old bouquet of flowers",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjg5ZjIwNjg1LTEyYWQtNDg0YS1hYWU5LWE0YmNjYTliOTU2NDplMjM3MTljMC0wYWU4LTRkMWYtOGFkZC1jNTcxODUxOWU0MTg=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4141685",
           "author": "Andrew Smith",
           "description": "Celtic manager Ange Postecoglou declared the most egregious element of his side’s 3-0 loss to Rangers was that they seemed to give up in the encounter in the second period.",
@@ -314,16 +324,6 @@
           "wordCount": 2576,
           "title": "Ange Postecoglou is firm on Celtic's next four matches and fires warning to rest of league",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjRjYjBmNGE3LTczMmUtNDc1Yy1iM2ZkLTBkMWI5YjU3NDIyMjowNTQxMDgyYi1kMzQxLTQyYzktYjRjNC1hMDYxMDE5MjM0YjE=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4134558",
-          "author": "Moira Gordon",
-          "description": "With an 11th title from the past 12 league seasons now confirmed, the latest success has done little to sate Celtic’s hunger for glory.",
-          "link": "https://www.scotsman.com/sport/football/celtic/the-real-reason-for-celtics-success-as-hunger-grows-for-more-silverware-4134558",
-          "publishedOn": "2023-05-09T05:00:00.000Z",
-          "wordCount": 2820,
-          "title": "The 'real' reason for Celtic's success as hunger grows for more silverware",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjEyODBmYmZkLTdlOWUtNDgyNy1hYTY3LThiZTE2ZTFlOWUxODpmM2E1ZTdjZS1lOWQ5LTQzNGYtYWY1MC1hNmE1NGI1N2QzOGU=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
         }
       ]
     },
@@ -338,6 +338,46 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "2db7b478f1cc3633bc9f3f3ff6c8f567",
+          "author": null,
+          "description": "The Premiership champions made a number of changes as they were defeated 3-0 at Ibrox.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23520498.celtic-fringe-men-showed-ange-defeat-rangers/?ref=rss",
+          "publishedOn": "2023-05-13T16:34:56.000Z",
+          "wordCount": 9151,
+          "title": "What Celtic fringe men showed Ange in defeat to Rangers",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16777087/?type=og-image"
+        },
+        {
+          "id": "0918d1e05f7d08056cbfe8d880930e3a",
+          "author": null,
+          "description": "Nicolas Raskin reckons Rangers built on their Hampden heartache to secure a rousing Ibrox win over Celtic.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23520413.nicolas-raskin-reckons-rangers-built-hampden-showing-ibrox-win/?ref=rss",
+          "publishedOn": "2023-05-13T15:19:58.000Z",
+          "wordCount": 8572,
+          "title": "Nicolas Raskin reckons Rangers built on Hampden showing with Ibrox win",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16776911/?type=og-image"
+        },
+        {
+          "id": "800f44ac48921ab011c2e60bc787cb78",
+          "author": null,
+          "description": "The Premiership champions went down 3-0 at Ibrox as Rangers deservedly claimed a first derby win of the season.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23520410.ange-postecoglou-pointed-celtic-reminder-fringe-men/?ref=rss",
+          "publishedOn": "2023-05-13T15:17:30.000Z",
+          "wordCount": 8831,
+          "title": "Ange Postecoglou in pointed Celtic reminder to fringe men",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16776909/?type=og-image"
+        },
+        {
+          "id": "cd557803bb8bac18e3afec919342b16a",
+          "author": null,
+          "description": "IT was an afternoon that marked an end for the old guard at Ibrox. It was one where the new faces gave an insight into a potentially brighter future.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23520345.todd-cantwell-ready-rangers-hero-starring-celtic-win/?ref=rss",
+          "publishedOn": "2023-05-13T15:00:00.000Z",
+          "wordCount": 9354,
+          "title": "Todd Cantwell ready to be a Rangers hero after starring in Celtic win",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16776832/?type=og-image"
+        },
         {
           "id": "eeefabef0e7ca8d1bbd10d3678f076b2",
           "author": null,
@@ -957,16 +997,6 @@
           "wordCount": 9660,
           "title": "Rangers hero Ally McCoist offers Celtic 'well done' in radio wind-up",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16757940/?type=og-image"
-        },
-        {
-          "id": "f10dea12ac059171b53da02d27e7bd9e",
-          "author": null,
-          "description": "The Parkhead manager says his players have set an 'unbelievable' standard en-route to retaining the Premiership title.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23508242.ange-tackles-big-celtic-question-really-sets-team-apart/?ref=rss",
-          "publishedOn": "2023-05-09T05:00:00.000Z",
-          "wordCount": 9158,
-          "title": "Ange  tackles big Celtic question over what really sets his team apart",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16757372/?type=og-image"
         }
       ]
     }
