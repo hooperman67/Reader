@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-14T03:17:03.391Z</updated>
+    <updated>2023-05-14T06:20:30.561Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -804,26 +804,6 @@
         <summary type="html"><![CDATA[Queen’s Park were involved in another televised thriller – and it was again heartache for the Spiders as they went down 4-3 to Partick Thistle in the first leg of their Premiership play-off quarter-final tie at Firhill.]]></summary>
         <author>
             <name>Mark Atkinson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[John Hartson baffled by Celtic winger Jota's Team of the Year snub]]></title>
-        <id>19af22681fbe61e272b4f0ff7eeb2556</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23511147.john-hartson-baffled-celtic-winger-jotas-team-year-snub/?ref=rss"/>
-        <updated>2023-05-09T17:57:37.000Z</updated>
-        <summary type="html"><![CDATA[The former Hoops striker believes Parkhead winger Jota is more deserving of a place in the line-up than Malik Tillman.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 'no-stakes' Rangers-Celtic derby? Unenviable reality facing Michael Beale if Ange Postecoglou gets way]]></title>
-        <id>4136151</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/the-no-stakes-rangers-celtic-derby-unenviable-reality-facing-michael-beale-if-ange-postecoglou-gets-way-4136151"/>
-        <updated>2023-05-09T17:28:06.000Z</updated>
-        <summary type="html"><![CDATA[The fair-minded – an admittedly far-from-populous cohort in Scottish football – would recognise that definitive pronouncements on Michael Beale as Rangers manager must be reserved until next season.]]></summary>
-        <author>
-            <name>Andrew Smith</name>
         </author>
     </entry>
 </feed>
