@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-14T09:14:58.256Z</updated>
+    <updated>2023-05-14T12:31:08.041Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cameron Carter-Vickers in 'positive' Celtic injury update]]></title>
+        <id>81fd6f99cda2b918e6983fa2f95dcdef</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23521007.cameron-carter-vickers-positive-celtic-injury-update/?ref=rss"/>
+        <updated>2023-05-14T10:46:56.000Z</updated>
+        <summary type="html"><![CDATA[The defender will not play again this season after having surgery on a knee injury.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['A team like Leeds' - Ange Postecoglou Premier League job claim as pundit expresses Celtic hope]]></title>
+        <id>4141910</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/a-team-like-leeds-ange-postecoglou-premier-league-job-claim-as-pundit-expresses-celtic-hope-4141910"/>
+        <updated>2023-05-14T09:39:24.000Z</updated>
+        <summary type="html"><![CDATA[Ange Postecoglou is a “good enough” manager for the Premier League and will want to manage in the English top-flight, according to Pat Nevin.]]></summary>
+        <author>
+            <name>Joel Sked</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cameron Carter-Vickers gives update on knee surgery but no date set for Celtic return]]></title>
+        <id>4141901</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/cameron-carter-vickers-gives-update-on-knee-surgery-but-no-date-set-for-celtic-return-4141901"/>
+        <updated>2023-05-14T09:30:56.000Z</updated>
+        <summary type="html"><![CDATA[Celtic defender Cameron Carter-Vickers has not a put a timeline on his return to first-team action after having knee surgery but says he is feeling “positive” about his recovery.]]></summary>
+        <author>
+            <name>Mark Atkinson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rangers-Celtic reaction: Beale will mount title challenge; Pope pilloried; Barbour’s bizarre Sky take]]></title>
         <id>4141851</id>
@@ -802,26 +832,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23511181.celtic-star-hart-reveals-ange-factor-even-man-city-didnt-bring/?ref=rss"/>
         <updated>2023-05-10T05:00:00.000Z</updated>
         <summary type="html"><![CDATA[The 36-year-old keeper has enjoyed a new lease of life since moving to Parkhead.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Joe Hart cites Celtic's Australian experience as why they will cope just fine at Rangers]]></title>
-        <id>4136199</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/joe-hart-cites-celtics-australian-experience-as-why-they-will-cope-just-fine-at-rangers-4136199"/>
-        <updated>2023-05-09T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Joe Hart says that even although Celtic fans will be locked out of Ibrox this weekend, the players will still feel their backing.]]></summary>
-        <author>
-            <name>Moira Gordon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roberto Martinez rates Jota's Celtic form amid Portugal admission]]></title>
-        <id>f02ff85128220ba8962908c2604a7c1c</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23508326.roberto-martinez-rates-jotas-celtic-form-amid-portugal-admission/?ref=rss"/>
-        <updated>2023-05-09T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The 24-year-old has played at every youth level for his national team but has yet to earn a full call-up to the Portuguese A-squad.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>

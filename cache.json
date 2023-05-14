@@ -6,6 +6,26 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4141910",
+          "author": "Joel Sked",
+          "description": "Ange Postecoglou is a “good enough” manager for the Premier League and will want to manage in the English top-flight, according to Pat Nevin.",
+          "link": "https://www.scotsman.com/sport/football/celtic/a-team-like-leeds-ange-postecoglou-premier-league-job-claim-as-pundit-expresses-celtic-hope-4141910",
+          "publishedOn": "2023-05-14T09:39:24.000Z",
+          "wordCount": 2304,
+          "title": "'A team like Leeds' - Ange Postecoglou Premier League job claim as pundit expresses Celtic hope",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjAzODZjZWVlLWJlNWItNGUxYi1hYjQzLTcxYWYxOTYzMWI4NjpmY2ZkMTk1NC0xY2IzLTRmYTctOWU0Yy04MjQ0NjliM2E4ZTU=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
+          "id": "4141901",
+          "author": "Mark Atkinson",
+          "description": "Celtic defender Cameron Carter-Vickers has not a put a timeline on his return to first-team action after having knee surgery but says he is feeling “positive” about his recovery.",
+          "link": "https://www.scotsman.com/sport/football/celtic/cameron-carter-vickers-gives-update-on-knee-surgery-but-no-date-set-for-celtic-return-4141901",
+          "publishedOn": "2023-05-14T09:30:56.000Z",
+          "wordCount": 2023,
+          "title": "Cameron Carter-Vickers gives update on knee surgery but no date set for Celtic return",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjQzNTNjYThiLWNhMGMtNDJhZi05YTc2LWEyMThlYTQzOTA1NDo1YTU0MmU5Mi1iMzY2LTQ3NGEtYTg5YS1jZmFhOTM3Nzc3ZWE=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4141851",
           "author": "Andrew Smith",
           "description": "It felt as if a collective weight was lifted off Rangers as a club courtesy of Michael Beale’s men conjuring up a zestful 3-0 slapdown of their Celtic rivals. It certainly provided respite for the Ibrox manager, and food for thought.",
@@ -244,16 +264,6 @@
           "wordCount": 2255,
           "title": "Celtic trio in Player of the Year nomination, Motherwell ace earns spot but no Rangers, Aberdeen, Hearts stars",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmY3ZGM5MmM5LTYwMzktNGY3NC05MjdmLWEyN2IzOWNkMWZjMzpkNDdkN2M0Ni0zMWI1LTRjZmUtYTliNS1kNzdjOTU3ODI5MzQ=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4136199",
-          "author": "Moira Gordon",
-          "description": "Joe Hart says that even although Celtic fans will be locked out of Ibrox this weekend, the players will still feel their backing.",
-          "link": "https://www.scotsman.com/sport/football/celtic/joe-hart-cites-celtics-australian-experience-as-why-they-will-cope-just-fine-at-rangers-4136199",
-          "publishedOn": "2023-05-09T21:30:00.000Z",
-          "wordCount": 2848,
-          "title": "Joe Hart cites Celtic's Australian experience as why they will cope just fine at Rangers",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmY3OTVhZTRjLTFmYTgtNDQ4NS1hNmMxLTQ4N2RjZGQwZjM2NDo3M2EyZjBiMS00YjNhLTQ3MzItOWEyMS0yNWFjMGJiY2M3ZDY=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
         }
       ]
     },
@@ -268,6 +278,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "81fd6f99cda2b918e6983fa2f95dcdef",
+          "author": null,
+          "description": "The defender will not play again this season after having surgery on a knee injury.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23521007.cameron-carter-vickers-positive-celtic-injury-update/?ref=rss",
+          "publishedOn": "2023-05-14T10:46:56.000Z",
+          "wordCount": 8469,
+          "title": "Cameron Carter-Vickers in 'positive' Celtic injury update",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16777740/?type=og-image"
+        },
         {
           "id": "4332f4e4e506e35ee5735fad093c57af",
           "author": null,
@@ -827,16 +847,6 @@
           "wordCount": 10286,
           "title": "Celtic star Hart reveals Ange factor even Man City didn't bring",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16762489/?type=og-image"
-        },
-        {
-          "id": "f02ff85128220ba8962908c2604a7c1c",
-          "author": null,
-          "description": "The 24-year-old has played at every youth level for his national team but has yet to earn a full call-up to the Portuguese A-squad.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23508326.roberto-martinez-rates-jotas-celtic-form-amid-portugal-admission/?ref=rss",
-          "publishedOn": "2023-05-09T21:30:00.000Z",
-          "wordCount": 8523,
-          "title": "Roberto Martinez rates Jota's Celtic form amid Portugal admission",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16757501/?type=og-image"
         }
       ]
     }
