@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-14T18:19:15.263Z</updated>
+    <updated>2023-05-14T21:15:01.237Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rangers-Celtic final word: The magnificent Cantwell, Postecoglou's deputies show weakness, Morelos and Lovelace]]></title>
+        <id>4141976</id>
+        <link href="https://www.scotsman.com/sport/football/rangers/rangers-celtic-final-word-the-magnificent-cantwell-postecoglous-deputies-show-weakness-morelos-and-lovelace-4141976"/>
+        <updated>2023-05-14T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In a season of severe disappointment for Rangers, what happened over the weekend can at least give some optimism for the 2023/24 campaign.]]></summary>
+        <author>
+            <name>Mark Atkinson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SWPL title race goes to gripping final day - Glasgow City hold slender advantage over Rangers and Celtic]]></title>
         <id>4142149</id>
@@ -812,16 +822,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23511885.celtic-ace-alexandro-bernabei-set-shock-argentina-call-up/?ref=rss"/>
         <updated>2023-05-10T09:30:58.000Z</updated>
         <summary type="html"><![CDATA[The 22-year-old signed in a £3.75 million move from Lanus last year.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rangers hero Ally McCoist baffled by Laura Woods Celtic poser]]></title>
-        <id>62817c23d48a452f3c4d28ebfcc42a7c</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23511642.rangers-hero-ally-mccoist-baffled-laura-woods-celtic-poser/?ref=rss"/>
-        <updated>2023-05-10T08:34:16.000Z</updated>
-        <summary type="html"><![CDATA[It came after the pair discussed whether rival English fans should be backing Manchester City to go all the way in this year's Champions League.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
