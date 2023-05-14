@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-14T01:35:29.398Z</updated>
+    <updated>2023-05-14T03:17:03.391Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -824,36 +824,6 @@
         <summary type="html"><![CDATA[The fair-minded – an admittedly far-from-populous cohort in Scottish football – would recognise that definitive pronouncements on Michael Beale as Rangers manager must be reserved until next season.]]></summary>
         <author>
             <name>Andrew Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hearts opt against appeal for Alex Cochrane's red card against Celtic]]></title>
-        <id>3f0269bf7b4c372b56d550034198fefb</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23510375.hearts-opt-appeal-alex-cochranes-red-card-celtic/?ref=rss"/>
-        <updated>2023-05-09T14:38:38.000Z</updated>
-        <summary type="html"><![CDATA[The full-back was initially awarded a yellow card before it was upgraded to a red.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Celtic star attracting interest from the Premier League and Europe, unfinished business at champions?]]></title>
-        <id>4135624</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/the-celtic-star-attracting-interest-from-the-premier-league-and-europe-unfinished-business-at-champions-4135624"/>
-        <updated>2023-05-09T13:56:30.000Z</updated>
-        <summary type="html"><![CDATA[Celtic defender Carl Starfelt is wanted by a number of clubs across Europe after another successful season with the Scottish champions.]]></summary>
-        <author>
-            <name>Joel Sked</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Billy Gilmour in Celtic transfer tip as Rangers style 'doesn't suit']]></title>
-        <id>8c8819b6e34717952bdd1c379317825c</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23509941.billy-gilmour-celtic-transfer-tip-rangers-style-doesnt-suit/?ref=rss"/>
-        <updated>2023-05-09T13:51:00.000Z</updated>
-        <summary type="html"><![CDATA[The 21-year-old moved permanently to Brighton & Hove Albion last summer from Chelsea for a fee of around £9million.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>
