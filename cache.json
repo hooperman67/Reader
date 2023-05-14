@@ -6,6 +6,26 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4141851",
+          "author": "Andrew Smith",
+          "description": "It felt as if a collective weight was lifted off Rangers as a club courtesy of Michael Beale’s men conjuring up a zestful 3-0 slapdown of their Celtic rivals. It certainly provided respite for the Ibrox manager, and food for thought.",
+          "link": "https://www.scotsman.com/sport/football/rangers/rangers-celtic-reaction-beale-will-mount-title-challenge-pope-pilloried-barbours-bizarre-sky-take-4141851",
+          "publishedOn": "2023-05-14T08:03:02.000Z",
+          "wordCount": 3355,
+          "title": "Rangers-Celtic reaction: Beale will mount title challenge; Pope pilloried; Barbour’s bizarre Sky take",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjhjZWQ0YTY0LTk2YWUtNDdjNS04MGJiLTE0NzU4MDFmZTE1ZjpmMTEzZjQ5Ny0yYjc0LTQ2ZTQtOWUyYi05YWYxY2Q0Njc0NGE=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
+          "id": "4141458",
+          "author": "Graeme Macpherson",
+          "description": "Charlie Reilly is the poster boy for the power of perseverance. Rubbing shoulders the other day with a clutch of Celtic players and Motherwell striker Kevin van Veen as one of the nominees for the PFA Scotland awards, the Albion Rovers forward looked as incongruous as a penguin in the Sahara.",
+          "link": "https://www.scotsman.com/sport/football/meet-the-albion-rovers-youngster-keeping-company-with-celtic-and-rangers-4141458",
+          "publishedOn": "2023-05-14T07:00:00.000Z",
+          "wordCount": 2758,
+          "title": "Meet the Albion Rovers youngster keeping company with Celtic and Rangers",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjJhYzMxZGFkLTNkZTktNDJjYS1iNWU0LTdmYzliOWZkZTNkMzo3MzgxZDgzYi0yMWQ5LTQwZGYtYTAzMi02ODNkM2FkOWEzYjc=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4141493",
           "author": "Graham Bean",
           "description": "Gregor Townsend went into this season’s Six Nations thinking it was going to be his last in charge of Scotland, and France was a realistic option for the coach before he put pen to paper on a new deal at Murrayfield.",
@@ -234,16 +254,6 @@
           "wordCount": 2848,
           "title": "Joe Hart cites Celtic's Australian experience as why they will cope just fine at Rangers",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmY3OTVhZTRjLTFmYTgtNDQ4NS1hNmMxLTQ4N2RjZGQwZjM2NDo3M2EyZjBiMS00YjNhLTQ3MzItOWEyMS0yNWFjMGJiY2M3ZDY=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4136215",
-          "author": "Mark Atkinson",
-          "description": "Queen’s Park were involved in another televised thriller – and it was again heartache for the Spiders as they went down 4-3 to Partick Thistle in the first leg of their Premiership play-off quarter-final tie at Firhill.",
-          "link": "https://www.scotsman.com/sport/football/play-off-drama-partick-edge-seven-goal-thriller-falkirk-trounced-by-airdrie-adam-king-incident-at-alloa-4136215",
-          "publishedOn": "2023-05-09T21:05:32.000Z",
-          "wordCount": 2970,
-          "title": "Play-off drama: Partick edge seven-goal thriller, Falkirk trounced by Airdrie, Adam King incident at Alloa",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmQ2ZWRjMGEyLTViODAtNDU3ZS05MWU5LWFhM2EyN2FjYTBhNTozZmI1MmZkMy1jZDUyLTQxMTktYmI3NS0yMDk5ZDFhMDZlZTY=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
         }
       ]
     },
@@ -258,6 +268,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "4332f4e4e506e35ee5735fad093c57af",
+          "author": null,
+          "description": "Two rounds of fixtures to go, starting today, and an unprecedented three sides can win the top tier title.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23520749.spwl-set-frantic-finale-three-way-battle-title/?ref=rss",
+          "publishedOn": "2023-05-14T07:00:00.000Z",
+          "wordCount": 8891,
+          "title": "SPWL set for frantic finale with three-way battle for title",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16777458/?type=og-image"
+        },
         {
           "id": "e7c6d45d777b34ef5747054c7faaebc1",
           "author": null,
