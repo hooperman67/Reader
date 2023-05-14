@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4142149",
+          "author": "Mark Atkinson",
+          "description": "The SWPL title race will go down to the final round of fixtures next weekend with Glasgow City holding the advantage after a 2-1 victory over Partick Thistle.",
+          "link": "https://www.scotsman.com/sport/football/rangers/swpl-title-race-goes-to-gripping-final-day-glasgow-city-hold-slender-advantage-over-rangers-and-celtic-4142149",
+          "publishedOn": "2023-05-14T17:06:44.000Z",
+          "wordCount": 2422,
+          "title": "SWPL title race goes to gripping final day - Glasgow City hold slender advantage over Rangers and Celtic",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjg2YzI2MGJjLWFhNTAtNDBlYS1iZjE5LTI1M2QzZDU1ZDhjNjpkNmFlMjdkNy1hYWQyLTRkNzMtYTgyNC1jOTIxMWJjMDEyMzA=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4141910",
           "author": "Joel Sked",
           "description": "Ange Postecoglou is a “good enough” manager for the Premier League and will want to manage in the English top-flight, according to Pat Nevin.",
@@ -276,8 +286,18 @@
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
       "articles": [
+        {
+          "id": "215c8650d43099e83a75c004ea717042",
+          "author": null,
+          "description": "The former Celtic boss would have loved to have worked with Kyogo at Parkhead.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23521303.kyogo-given-premier-league-seal-approval-ex-celtic-boss/?ref=rss",
+          "publishedOn": "2023-05-14T15:16:03.000Z",
+          "wordCount": 8469,
+          "title": "Kyogo given Premier League seal of approval by ex-Celtic boss",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16778374/?type=og-image"
+        },
         {
           "id": "81fd6f99cda2b918e6983fa2f95dcdef",
           "author": null,
@@ -817,36 +837,6 @@
           "wordCount": 9635,
           "title": "Rangers hero Ally McCoist baffled by Laura Woods Celtic poser",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16762998/?type=og-image"
-        },
-        {
-          "id": "a2b46035dbbf5c7c9f937fbe18acd6cb",
-          "author": null,
-          "description": "Since his arrival in Glasgow almost two years ago, the attacker has 52 goal involvements in 79 outings.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23508383.inside-portugal-boss-roberto-martinezs-assessment-celtic-star-jota/?ref=rss",
-          "publishedOn": "2023-05-10T05:45:00.000Z",
-          "wordCount": 9143,
-          "title": "Inside Portugal boss Roberto Martinez's assessment of Celtic star Jota",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16757641/?type=og-image"
-        },
-        {
-          "id": "64e17bd27cc61b56d3611eb2867bc1c8",
-          "author": null,
-          "description": "Celtic fans have raised more than £15,000 for a Glasgow food bank after their anti-monarchy chant went viral.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23510070.celtic-fc-fans-chant-old-firm-raises-15-000-glasgow-food-bank/?ref=rss",
-          "publishedOn": "2023-05-10T05:00:00.000Z",
-          "wordCount": 8648,
-          "title": "Celtic FC fans chant at Old Firm raises £15,000 for Glasgow food bank",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16760949/?type=og-image"
-        },
-        {
-          "id": "367e51dd383e11b57ad57965aeaab6dc",
-          "author": null,
-          "description": "The 36-year-old keeper has enjoyed a new lease of life since moving to Parkhead.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23511181.celtic-star-hart-reveals-ange-factor-even-man-city-didnt-bring/?ref=rss",
-          "publishedOn": "2023-05-10T05:00:00.000Z",
-          "wordCount": 10286,
-          "title": "Celtic star Hart reveals Ange factor even Man City didn't bring",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16762489/?type=og-image"
         }
       ]
     }

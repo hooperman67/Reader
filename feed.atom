@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-14T15:16:02.813Z</updated>
+    <updated>2023-05-14T18:19:15.263Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SWPL title race goes to gripping final day - Glasgow City hold slender advantage over Rangers and Celtic]]></title>
+        <id>4142149</id>
+        <link href="https://www.scotsman.com/sport/football/rangers/swpl-title-race-goes-to-gripping-final-day-glasgow-city-hold-slender-advantage-over-rangers-and-celtic-4142149"/>
+        <updated>2023-05-14T17:06:44.000Z</updated>
+        <summary type="html"><![CDATA[The SWPL title race will go down to the final round of fixtures next weekend with Glasgow City holding the advantage after a 2-1 victory over Partick Thistle.]]></summary>
+        <author>
+            <name>Mark Atkinson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kyogo given Premier League seal of approval by ex-Celtic boss]]></title>
+        <id>215c8650d43099e83a75c004ea717042</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23521303.kyogo-given-premier-league-seal-approval-ex-celtic-boss/?ref=rss"/>
+        <updated>2023-05-14T15:16:03.000Z</updated>
+        <summary type="html"><![CDATA[The former Celtic boss would have loved to have worked with Kyogo at Parkhead.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cameron Carter-Vickers in 'positive' Celtic injury update]]></title>
         <id>81fd6f99cda2b918e6983fa2f95dcdef</id>
@@ -802,36 +822,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23511642.rangers-hero-ally-mccoist-baffled-laura-woods-celtic-poser/?ref=rss"/>
         <updated>2023-05-10T08:34:16.000Z</updated>
         <summary type="html"><![CDATA[It came after the pair discussed whether rival English fans should be backing Manchester City to go all the way in this year's Champions League.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inside Portugal boss Roberto Martinez's assessment of Celtic star Jota]]></title>
-        <id>a2b46035dbbf5c7c9f937fbe18acd6cb</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23508383.inside-portugal-boss-roberto-martinezs-assessment-celtic-star-jota/?ref=rss"/>
-        <updated>2023-05-10T05:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Since his arrival in Glasgow almost two years ago, the attacker has 52 goal involvements in 79 outings.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic FC fans chant at Old Firm raises £15,000 for Glasgow food bank]]></title>
-        <id>64e17bd27cc61b56d3611eb2867bc1c8</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23510070.celtic-fc-fans-chant-old-firm-raises-15-000-glasgow-food-bank/?ref=rss"/>
-        <updated>2023-05-10T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Celtic fans have raised more than £15,000 for a Glasgow food bank after their anti-monarchy chant went viral.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic star Hart reveals Ange factor even Man City didn't bring]]></title>
-        <id>367e51dd383e11b57ad57965aeaab6dc</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23511181.celtic-star-hart-reveals-ange-factor-even-man-city-didnt-bring/?ref=rss"/>
-        <updated>2023-05-10T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The 36-year-old keeper has enjoyed a new lease of life since moving to Parkhead.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
