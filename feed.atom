@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-15T15:17:37.641Z</updated>
+    <updated>2023-05-15T18:20:46.772Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Smokin' hot Billy Gilmour - Scottish tall tales and what recent Brighton rebirth means for Rangers and Celtic chat and national team]]></title>
+        <id>4143333</id>
+        <link href="https://www.scotsman.com/sport/football/rangers/smokin-hot-billy-gilmour-scottish-tall-tales-and-what-recent-brighton-rebirth-means-for-rangers-and-celtic-chat-and-national-team-4143333"/>
+        <updated>2023-05-15T14:47:56.000Z</updated>
+        <summary type="html"><![CDATA[It is a rebirth for the nation. It is no stretch to suggest that the delirium generated within Billy Gilmour’s Scottish homeland two years ago over his long-predicted emergence assumed astronomical proportions.]]></summary>
+        <author>
+            <name>Andrew Smith</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Smokin' hot Billy Gilmour - Scottish tall tales and what recent Brighton birth means for Rangers and Celtic chat and national team]]></title>
         <id>4143333</id>
@@ -742,36 +752,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23514340.rangers-hero-mccoist-hits-back-brazil-celtic-guard-honour-troll/?ref=rss"/>
         <updated>2023-05-11T08:11:09.000Z</updated>
         <summary type="html"><![CDATA[The Light Blues host the Scottish champions at Ibrox this Saturday in the sixth and final derby match of the season.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The reason Celtic's Kyogo Furuhashi is still not satisfied despite season to remember]]></title>
-        <id>4137868</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/the-reason-celtics-kyogo-furuhashi-is-still-not-satisfied-despite-season-to-remember-4137868"/>
-        <updated>2023-05-11T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[He is on course for a domestic treble and the kind of individual honours that write players into Scottish football folklore but, like so many of his Celtic colleagues, Kyogo Furuhashi believes he can do even better.]]></summary>
-        <author>
-            <name>Moira Gordon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The reason Celtic's Kyogo is still not satisfied, as he joins team-mates on PFA Scotland Player of the Year shortlist]]></title>
-        <id>4137868</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/the-reason-celtics-kyogo-is-still-not-satisfied-as-he-joins-team-mates-on-pfa-scotland-player-of-the-year-shortlist-4137868"/>
-        <updated>2023-05-11T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[He is on course for a domestic treble and the kind of individual honours that write players into Scottish football folklore but, like so many of his Celtic colleagues, Kyogo Furuhashi believes he can do even better.]]></summary>
-        <author>
-            <name>Moira Gordon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kyogo recalls journey to Celtic and why Rangers derby is different]]></title>
-        <id>e547920a2987be8ac8b1b8f7c3d1c06b</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23514109.kyogo-recalls-journey-celtic-rangers-derby-different/?ref=rss"/>
-        <updated>2023-05-11T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Parkhead favourite is among the nominees for PFA Scotland Player of the Year.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
