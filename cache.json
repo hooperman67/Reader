@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4143722",
+          "author": "Joel Sked",
+          "description": "It was Jota’s strike against Rangers in the first Old Firm clash of the season which won Celtic’s – and PFA Scotland’s – goal of the season award. But if there was a goal which was pure Celtic, which truly summed up the campaign for Ange Postecoglou’s treble-chasing league champions it is Kyogo Furuhashi’s strike against Hearts at Tynecastle Park last weekend.",
+          "link": "https://www.scotsman.com/sport/football/celtic/kyogo-furuhashi-celtic-and-summer-dilemma-euro-interest-deserved-award-haul-incredible-goal-stats-4143722",
+          "publishedOn": "2023-05-15T19:30:00.000Z",
+          "wordCount": 3805,
+          "title": "Kyogo Furuhashi, Celtic and summer 'dilemma' - Euro interest, deserved award haul, incredible goal stats",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmIyZTlkYWYyLTMwYjAtNDI5NC1iMmE2LTU3ZGM5YTExOTU4NDo4YzdmZjEzNy1jZmZkLTQ4ZDQtOTExOC1iMjgyOTM0NzNhOTg=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4143333",
           "author": "Andrew Smith",
           "description": "It is a rebirth for the nation. It is no stretch to suggest that the delirium generated within Billy Gilmour’s Scottish homeland two years ago over his long-predicted emergence assumed astronomical proportions.",
@@ -278,6 +288,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "5ca3d501d78a2bad33c0adc3b3c2f130",
+          "author": null,
+          "description": "The 21-year-old has already earned comparisons to former Hoops far Virgil van Dijk in the budding years of his career.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23524327.xavier-mbuyamba-celtic-transfer-links-emerge-club-scouts-defender/?ref=rss",
+          "publishedOn": "2023-05-15T19:48:18.000Z",
+          "wordCount": 8447,
+          "title": "Xavier Mbuyamba Celtic transfer links emerge as club 'scouts' defender",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16783313/?type=og-image"
+        },
         {
           "id": "429c1135ac90766dad7bfa1977f0b274",
           "author": null,
@@ -757,16 +777,6 @@
           "wordCount": 9714,
           "title": "Liel Abada addresses Celtic transfer exit links amid EPL interest",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16768488/?type=og-image"
-        },
-        {
-          "id": "53aa1177f2f42b47882793b5895daba3",
-          "author": null,
-          "description": "The Light Blues host the Scottish champions at Ibrox this Saturday in the sixth and final derby match of the season.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23514340.rangers-hero-mccoist-hits-back-brazil-celtic-guard-honour-troll/?ref=rss",
-          "publishedOn": "2023-05-11T08:11:09.000Z",
-          "wordCount": 8537,
-          "title": "Rangers hero McCoist hits back at Brazil Celtic guard of honour troll",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16767614/?type=og-image"
         }
       ]
     }
