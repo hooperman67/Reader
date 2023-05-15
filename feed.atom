@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-15T01:26:25.589Z</updated>
+    <updated>2023-05-15T03:17:35.516Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -772,16 +772,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23513554.rangers-v-celtic-tv-live-stream-details-glasgow-cup-final/?ref=rss"/>
         <updated>2023-05-10T15:32:10.000Z</updated>
         <summary type="html"><![CDATA[The rivals' B teams will go head-to-head on Wednesday evening with silverware up for grabs.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic to benefit as Real Madrid and Barcelona enter race for Frimpong]]></title>
-        <id>1de691e2d414a659c7a74eb7d9272140</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23513383.celtic-benefit-real-madrid-barcelona-enter-race-frimpong/?ref=rss"/>
-        <updated>2023-05-10T14:56:14.000Z</updated>
-        <summary type="html"><![CDATA[The Dutch defender spent 18 months at Parkhead before moving on to Bayer Leverkusen.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
