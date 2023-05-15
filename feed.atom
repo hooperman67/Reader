@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-15T12:35:12.297Z</updated>
+    <updated>2023-05-15T15:17:37.641Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Smokin' hot Billy Gilmour - Scottish tall tales and what recent Brighton birth means for Rangers and Celtic chat and national team]]></title>
+        <id>4143333</id>
+        <link href="https://www.scotsman.com/sport/football/rangers/smokin-hot-billy-gilmour-scottish-tall-tales-and-what-recent-brighton-birth-means-for-rangers-and-celtic-chat-and-national-team-4143333"/>
+        <updated>2023-05-15T14:47:56.000Z</updated>
+        <summary type="html"><![CDATA[It is a rebirth for the nation. It is no stretch to suggest that the delirium generated within Billy Gilmour’s Scottish homeland two years ago over his long-predicted emergence assumed astronomical proportions.]]></summary>
+        <author>
+            <name>Andrew Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dermot Gallagher delivers Rangers vs Celtic 'handball' penalty verdict]]></title>
+        <id>429c1135ac90766dad7bfa1977f0b274</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23522997.dermot-gallagher-delivers-rangers-vs-celtic-handball-penalty-verdict/?ref=rss"/>
+        <updated>2023-05-15T12:53:50.000Z</updated>
+        <summary type="html"><![CDATA[The incident wasn't checked by Greg Aitken on VAR, despite the strong protestation from those in green and white.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Aberdeen are not following Rangers, Celtic and Hearts in B team plan]]></title>
         <id>4142596</id>
