@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4142596",
+          "author": "Mark Atkinson",
+          "description": "Aberdeen have decided against entering a ‘B’ team into a proposed new Scottish Conference League.",
+          "link": "https://www.scotsman.com/sport/football/rangers/why-aberdeen-are-not-following-rangers-celtic-and-hearts-in-b-team-plan-4142596",
+          "publishedOn": "2023-05-15T10:13:08.000Z",
+          "wordCount": 2752,
+          "title": "Why Aberdeen are not following Rangers, Celtic and Hearts in B team plan",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjI0M2M2ODhjLTQ1MTUtNDg5ZS1hNDZiLTE1ODY2MWJiOGZjMDo0ZmZmMDc2Mi0xYjZkLTRmZWYtYTliOC0wMzU5OGNjMjg4M2Y=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4142261",
           "author": "Ross McLeish",
           "description": "Former Celtic forward Kris Commons has urged the club to strengthen defensively in the wake of losing the final Old Firm derby 3-0 to Rangers.",
@@ -254,26 +264,6 @@
           "wordCount": 3049,
           "title": "The reason Celtic's Kyogo is still not satisfied, as he joins team-mates on PFA Scotland Player of the Year shortlist",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjE5ZDVjMjczLWM2ZjYtNGU1ZC04ODczLWVmYWVhYzdjMGQxMDoyMTJhYWU0Ny1hMDViLTQ1MDItOGMyYS1mY2NjYzA5YzExMWM=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4137856",
-          "author": "Moira Gordon",
-          "description": "Reo Hatate has responded with bemusement after rumours about his long-term commitment to Celtic began to swirl online in the wake of the club’s title win.",
-          "link": "https://www.scotsman.com/sport/football/celtic/celtics-reo-hatate-hits-out-at-online-rumours-and-says-people-should-leave-him-alone-4137856",
-          "publishedOn": "2023-05-10T21:30:00.000Z",
-          "wordCount": 2516,
-          "title": "Celtic's Reo Hatate hits out at online rumours and says people should leave him alone",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmIyMzAzZmQ2LTkwOTItNGRjNi1hZmJjLTIzOTE2N2RmMGU3OTphZDVmN2ZhMS1mMDYyLTRiOGYtOTZkYi1iMGY3MzcwNTRmNTc=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4137856",
-          "author": "Moira Gordon",
-          "description": "Reo Hatate has responded with bemusement after rumours about his long-term commitment to Celtic began to swirl online in the wake of the club’s title win.",
-          "link": "https://www.scotsman.com/sport/football/celtic/pfa-scotland-play-of-the-year-nominee-reo-hatate-on-missing-celtics-title-celebrations-its-not-a-big-deal-people-are-reading-too-much-into-it-4137856",
-          "publishedOn": "2023-05-10T21:30:00.000Z",
-          "wordCount": 2563,
-          "title": "PFA Scotland Play of the Year nominee Reo Hatate on missing Celtic's title celebrations: 'It’s not a big deal. People are reading too much into it'",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmIyMzAzZmQ2LTkwOTItNGRjNi1hZmJjLTIzOTE2N2RmMGU3OTphZDVmN2ZhMS1mMDYyLTRiOGYtOTZkYi1iMGY3MzcwNTRmNTc=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
         }
       ]
     },
@@ -288,6 +278,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "b5cc2587e4c3a8d20a630abb886b4b9c",
+          "author": null,
+          "description": "An image of the new kit was posted by Adidas with the shirt listed for £70.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23521946.new-celtic-kit-leaked-adidas/?ref=rss",
+          "publishedOn": "2023-05-15T08:55:59.000Z",
+          "wordCount": 8468,
+          "title": "New Celtic kit leaked by Adidas",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16779267/?type=og-image"
+        },
         {
           "id": "8e7a565fcebd6902990e2567baf7e876",
           "author": null,
@@ -767,16 +767,6 @@
           "wordCount": 9123,
           "title": "Kyogo recalls journey to Celtic and why Rangers derby is different",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16767395/?type=og-image"
-        },
-        {
-          "id": "5081a3e6a67de4454c7b9e6bf84efbe7",
-          "author": null,
-          "description": "It had been noted on social media that the midfielder was not present for Sunday's celebrations at Celtic Park.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23514058.reo-hatate-addresses-celtic-party-absence-leave-alone-quip/?ref=rss",
-          "publishedOn": "2023-05-10T21:30:00.000Z",
-          "wordCount": 8579,
-          "title": "Reo Hatate addresses Celtic party absence with 'leave me alone' quip",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16767294/?type=og-image"
         }
       ]
     }
