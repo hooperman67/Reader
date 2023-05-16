@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-16T03:17:50.658Z</updated>
+    <updated>2023-05-16T06:21:33.091Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -712,26 +712,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23516908.two-celtic-players-will-under-pressure-rangers-clash/?ref=rss"/>
         <updated>2023-05-11T19:30:29.000Z</updated>
         <summary type="html"><![CDATA[Andy Walker claims a Celtic duo will come under pressure in the trip to Ibrox on Saturday.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Joe Hart details Ange Postecoglou encounter that sealed Celtic move]]></title>
-        <id>5eaa0b75f2f07a74790f8c05f4104dc0</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23516731.joe-hart-details-ange-postecoglou-encounter-sealed-celtic-move/?ref=rss"/>
-        <updated>2023-05-11T16:53:09.000Z</updated>
-        <summary type="html"><![CDATA[The goalkeeper revealed his initial discussion with the Celtic boss before he decided to head north.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic and Porto 'above all' in Ardon Jashari transfer pursuit]]></title>
-        <id>754ff8ae1f978e5c30009e3b2b9c7885</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23516700.celtic-porto-above-all-ardon-jashari-transfer-pursuit/?ref=rss"/>
-        <updated>2023-05-11T16:38:32.000Z</updated>
-        <summary type="html"><![CDATA[The clubs have been credited with an interest in the FC Luzern captain.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
