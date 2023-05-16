@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-16T12:36:28.113Z</updated>
+    <updated>2023-05-16T15:17:44.734Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic switch title decider venue and look to create another record]]></title>
+        <id>4144456</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/celtic-switch-title-decider-venue-and-look-to-create-another-record-4144456"/>
+        <updated>2023-05-16T12:28:33.000Z</updated>
+        <summary type="html"><![CDATA[Celtic Women will play their final game of the SWPL season at Celtic Park after the club decided to switch the venue for what could be a title celebration.]]></summary>
+        <author>
+            <name>Mark Atkinson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA['Brilliant' Celtic boss Postecoglou should be targeted by Tottenham]]></title>
         <id>553f0838066d62a57192dae305910ec7</id>
