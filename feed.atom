@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-15T21:14:20.283Z</updated>
+    <updated>2023-05-16T01:26:31.200Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ange and Kyogo react to Celtic awards as striker drops hint on future]]></title>
+        <id>f62a462ecbb021bd1184d1b93ebd0195</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23524156.ange-kyogo-react-celtic-awards-striker-drops-hint-future/?ref=rss"/>
+        <updated>2023-05-15T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The Parkhead manager and star striker were victorious at Sunday's PFA Scotland awards night.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Xavier Mbuyamba Celtic transfer links emerge as club 'scouts' defender]]></title>
         <id>5ca3d501d78a2bad33c0adc3b3c2f130</id>
@@ -724,46 +734,6 @@
         <summary type="html"><![CDATA[Scotland have confirmed a friendly against France in October.]]></summary>
         <author>
             <name>Mark Atkinson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ange Postecoglou crowned 'king' of Celtic amid EPL exit links]]></title>
-        <id>7be3c338fcd2a5435ac0a31530fa3244</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23515417.ange-postecoglou-crowned-king-celtic-amid-epl-exit-links/?ref=rss"/>
-        <updated>2023-05-11T12:13:36.000Z</updated>
-        <summary type="html"><![CDATA[Hoops boss Ange Postecoglou has been called a 'king' in Glasgow, according to a pundit in Australia]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rangers vs Celtic: TV channel, live stream & kick-off time]]></title>
-        <id>4abc79c39772a28a7e1459bc3552caab</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23515190.rangers-vs-celtic-tv-channel-live-stream-kick-off-time/?ref=rss"/>
-        <updated>2023-05-11T11:30:10.000Z</updated>
-        <summary type="html"><![CDATA[The Hoops will arrive in Govan as Premiership champions having clinch their 53rd league title away at Hearts on Sunday.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic star Jacynta fumes at Sky Sports over Carl Starfelt comment]]></title>
-        <id>175f11bcb975d11a6fb7440df841b1b4</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23515014.celtic-star-jacynta-fumes-sky-sports-carl-starfelt-comment/?ref=rss"/>
-        <updated>2023-05-11T10:53:37.000Z</updated>
-        <summary type="html"><![CDATA[It happened during last week's SWPL match between Celtic and Rangers at the Excelsior.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liel Abada addresses Celtic transfer exit links amid EPL interest]]></title>
-        <id>81f0321ce764d7892ef992f826be598e</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23514946.liel-abada-addresses-celtic-transfer-exit-links-amid-epl-interest/?ref=rss"/>
-        <updated>2023-05-11T10:36:03.000Z</updated>
-        <summary type="html"><![CDATA[The 20-year-old has been the subject of serious interest from the Premier League, as well as other clubs across Europe.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>
