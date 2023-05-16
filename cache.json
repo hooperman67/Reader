@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4145099",
+          "author": "Ross McLeish",
+          "description": "Leagues around the world, including the Scottish Premiership, could be given the green light to trial referees making in-stadium announcements to explain decisions after VAR reviews before the end of the year, but broadcasting live discussions on decisions appears less likely, The Scotsman has learned.",
+          "link": "https://www.scotsman.com/sport/football/in-stadium-announcements-on-var-rulings-could-be-approved-in-leagues-by-year-end-4145099",
+          "publishedOn": "2023-05-16T15:39:08.000Z",
+          "wordCount": 2912,
+          "title": "In-stadium announcements on VAR rulings could be approved in leagues by year-end",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjAyOTlhNTY3LTk4NDktNGI2OC05YTVkLTFhNzQ4OTNjZTk4NjpmNzExZDNhMi0yNzQ4LTRkNjctOTI4Yi1iOGE4ZWQ1YzAxMGI=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4144456",
           "author": "Mark Atkinson",
           "description": "Celtic Women will play their final game of the SWPL season at Celtic Park after the club decided to switch the venue for what could be a title celebration.",
@@ -296,8 +306,38 @@
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "9c7a3b33be49a67c878d543f4f4582d3",
+          "author": null,
+          "description": "Caley Thistle will take on Ange Postecoglou's side on Saturday, June 3 at Hampden to fight it out for the final silverware of the campaign.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23527045.ex-rangers-star-helps-inverness-pre-celtic-match-friendly/?ref=rss",
+          "publishedOn": "2023-05-16T17:15:10.000Z",
+          "wordCount": 8482,
+          "title": "Ex-Rangers star helps out Inverness with pre-Celtic match friendly",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16787181/?type=og-image"
+        },
+        {
+          "id": "c932bdba27f973731b165341ea3221af",
+          "author": null,
+          "description": "A packed-out Ibrox celebrated in the sun, as the Gers team sent all of their supporters around the country and the world crazy.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23526749.watch-jason-cummings-rangers-reaction-win-celtic/?ref=rss",
+          "publishedOn": "2023-05-16T15:45:47.000Z",
+          "wordCount": 8669,
+          "title": "Watch Jason Cummings' Rangers reaction to win over Celtic",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16786813/?type=og-image"
+        },
+        {
+          "id": "cd4c897ac00a94df1717c0d803d39b1f",
+          "author": null,
+          "description": "The Volendam centre-back is reportedly on the radar of Ange Postecoglou ahead of the transfer window opening up.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23526601.xavier-mbuyamba-addresses-transfer-speculation-amid-celtic-links/?ref=rss",
+          "publishedOn": "2023-05-16T15:17:40.000Z",
+          "wordCount": 8438,
+          "title": "Xavier Mbuyamba addresses transfer speculation amid Celtic links",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16786644/?type=og-image"
+        },
         {
           "id": "553f0838066d62a57192dae305910ec7",
           "author": null,

@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-16T15:17:44.734Z</updated>
+    <updated>2023-05-16T18:20:43.028Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ex-Rangers star helps out Inverness with pre-Celtic match friendly]]></title>
+        <id>9c7a3b33be49a67c878d543f4f4582d3</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23527045.ex-rangers-star-helps-inverness-pre-celtic-match-friendly/?ref=rss"/>
+        <updated>2023-05-16T17:15:10.000Z</updated>
+        <summary type="html"><![CDATA[Caley Thistle will take on Ange Postecoglou's side on Saturday, June 3 at Hampden to fight it out for the final silverware of the campaign.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watch Jason Cummings' Rangers reaction to win over Celtic]]></title>
+        <id>c932bdba27f973731b165341ea3221af</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23526749.watch-jason-cummings-rangers-reaction-win-celtic/?ref=rss"/>
+        <updated>2023-05-16T15:45:47.000Z</updated>
+        <summary type="html"><![CDATA[A packed-out Ibrox celebrated in the sun, as the Gers team sent all of their supporters around the country and the world crazy.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In-stadium announcements on VAR rulings could be approved in leagues by year-end]]></title>
+        <id>4145099</id>
+        <link href="https://www.scotsman.com/sport/football/in-stadium-announcements-on-var-rulings-could-be-approved-in-leagues-by-year-end-4145099"/>
+        <updated>2023-05-16T15:39:08.000Z</updated>
+        <summary type="html"><![CDATA[Leagues around the world, including the Scottish Premiership, could be given the green light to trial referees making in-stadium announcements to explain decisions after VAR reviews before the end of the year, but broadcasting live discussions on decisions appears less likely, The Scotsman has learned.]]></summary>
+        <author>
+            <name>Ross McLeish</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xavier Mbuyamba addresses transfer speculation amid Celtic links]]></title>
+        <id>cd4c897ac00a94df1717c0d803d39b1f</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23526601.xavier-mbuyamba-addresses-transfer-speculation-amid-celtic-links/?ref=rss"/>
+        <updated>2023-05-16T15:17:40.000Z</updated>
+        <summary type="html"><![CDATA[The Volendam centre-back is reportedly on the radar of Ange Postecoglou ahead of the transfer window opening up.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic switch title decider venue and look to create another record]]></title>
         <id>4144456</id>
