@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-16T01:26:31.200Z</updated>
+    <updated>2023-05-16T03:17:50.658Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -387,6 +387,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Rangers vs Celtic: TV channel, live stream & kick-off time]]></title>
+        <id>4abc79c39772a28a7e1459bc3552caab</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23515190.rangers-vs-celtic-tv-channel-live-stream-kick-off-time/?ref=rss"/>
+        <updated>2023-05-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Hoops will arrive in Govan as Premiership champions having clinch their 53rd league title away at Hearts on Sunday.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Old Firm late team news: Rangers to make huge call at both ends of pitch, Celtic's major boost, probable XIs]]></title>
         <id>4141455</id>
         <link href="https://www.scotsman.com/sport/football/rangers/old-firm-late-team-news-rangers-to-make-huge-call-at-both-ends-of-pitch-celtics-major-boost-probable-xis-4141455"/>
@@ -724,16 +734,6 @@
         <summary type="html"><![CDATA[The clubs have been credited with an interest in the FC Luzern captain.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scotland to play France in October - location and exact date confirmed, ticket details to come]]></title>
-        <id>4138933</id>
-        <link href="https://www.scotsman.com/sport/football/international/scotland-to-play-france-in-october-location-and-exact-date-confirmed-ticket-details-to-come-4138933"/>
-        <updated>2023-05-11T14:16:46.000Z</updated>
-        <summary type="html"><![CDATA[Scotland have confirmed a friendly against France in October.]]></summary>
-        <author>
-            <name>Mark Atkinson</name>
         </author>
     </entry>
 </feed>
