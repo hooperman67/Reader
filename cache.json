@@ -6,6 +6,26 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4143963",
+          "author": "Joel Sked",
+          "description": "While there are three rounds of the Scottish Premiership remaining, plus the Scottish Cup final where Celtic will be aiming to complete a treble, there is a fascination about the summer transfer window with a number of clubs set for a rebuild or significant tweaks to their squad.",
+          "link": "https://www.scotsman.com/sport/football/celtic/scottish-transfers-rangers-star-agreement-with-giants-celtic-eye-6ft5in-defender-beale-target-boost-hearts-ace-deal-admission-4143963",
+          "publishedOn": "2023-05-16T09:08:24.000Z",
+          "wordCount": 2781,
+          "title": "Scottish transfers: Rangers star 'agreement' with giants, Celtic eye 6ft5in defender, Beale target boost, Hearts ace deal admission",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmMxZGQ3YWViLTAxYzYtNGFiNy05NDVmLTJhMjY5MGNmOTZkMDo5NjI0ZjU2MC1lODc0LTQwOWEtOTYwMy05OGNkOGY5MDE0ZmM=.jpg?width=1024&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
+          "id": "4143725",
+          "author": "Joel Sked",
+          "description": "St Johnstone loan star Adam Montgomery and Motherwell’s emerging teenage ace Max Johnston have been nominated for the Scottish Football Writers’ Association’s SPFL Young Player of the Year award.",
+          "link": "https://www.scotsman.com/sport/football/celtic/the-4-sfwa-scottish-young-player-of-the-year-nominees-including-celtic-loan-star-and-euro-linked-well-ace-4143725",
+          "publishedOn": "2023-05-16T06:30:00.000Z",
+          "wordCount": 2344,
+          "title": "The 4 SFWA Scottish Young Player of the Year nominees - including Celtic loan star and Euro-linked Well ace",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmUxYWU5MTVkLTljMzQtNDVlMS04NjJmLTAyOGQwM2FiOTFmZDo2ZmU3ZTg2Yy0xODA1LTQ0NDItYjlkNy1kM2Y5YmY0MjhhMDA=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4143722",
           "author": "Joel Sked",
           "description": "It was Jota’s strike against Rangers in the first Old Firm clash of the season which won Celtic’s – and PFA Scotland’s – goal of the season award. But if there was a goal which was pure Celtic, which truly summed up the campaign for Ange Postecoglou’s treble-chasing league champions it is Kyogo Furuhashi’s strike against Hearts at Tynecastle Park last weekend.",
@@ -254,16 +274,6 @@
           "wordCount": 2918,
           "title": "'Right now I'm at Celtic': Liel Abada breaks silence on future and reveals constant chats with ex-teammate",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmJmYzAzOWFjLTZkY2EtNDQ2Ny05NTVmLTkwMzVlMzNhMDZlZDo3YTEyY2VlZC00MmQyLTQ1MjctODljMS0wMmRkNTk2ZTNiMGY=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4139541",
-          "author": "Mark Atkinson",
-          "description": "A new record attendance for a domestic women’s match was set on Thursday night during the SWPL encounter between Celtic and Glasgow City.",
-          "link": "https://www.scotsman.com/sport/football/celtic/record-crowd-for-swpl-set-at-celtic-park-with-three-teams-involved-in-thrilling-title-fight-4139541",
-          "publishedOn": "2023-05-11T20:39:33.000Z",
-          "wordCount": 2090,
-          "title": "Record crowd for SWPL set at Celtic Park with three teams involved in thrilling title fight",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjJkMTNlMTZlLTY3ZDEtNGI4OS1iNjRkLWIwNGE4YmZkNzg5ZjpiYTM4NjgzZi0zNjM5LTQ1Y2MtYTM3Ni1lMTU4YjQwYzI0OTQ=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
         }
       ]
     },
@@ -278,6 +288,26 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "853b25a79899ecd25a0cbc781fa27efd",
+          "author": null,
+          "description": "The former Parkhead boss expects Ange Postecoglou to add to his squad in the summer.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23524499.neil-lennon-delivers-celtic-transfer-verdict-predicts-departures/?ref=rss",
+          "publishedOn": "2023-05-16T07:31:15.000Z",
+          "wordCount": 8505,
+          "title": "Neil Lennon delivers Celtic transfer verdict as he predicts departures",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16783571/?type=og-image"
+        },
+        {
+          "id": "1d0481fbb03749a3245311c6e6043953",
+          "author": null,
+          "description": "The Parkhead pair were big winners at Sunday's PFA Scotland awards night in Glasgow.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23524194.day-celtic-icon-kyogo-tormented-anges-team-brilliant-display/?ref=rss",
+          "publishedOn": "2023-05-16T05:00:00.000Z",
+          "wordCount": 9256,
+          "title": "The day Celtic icon Kyogo tormented Ange's team with brilliant display",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16783065/?type=og-image"
+        },
         {
           "id": "f62a462ecbb021bd1184d1b93ebd0195",
           "author": null,
@@ -717,16 +747,6 @@
           "wordCount": 8645,
           "title": "Fran Alonso proud on 'special' night as Celtic keep SWPL hopes alive",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16771747/?type=og-image"
-        },
-        {
-          "id": "886527fc2389aff9ca61aec4f3429bb5",
-          "author": null,
-          "description": "Andy Walker claims a Celtic duo will come under pressure in the trip to Ibrox on Saturday.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23516908.two-celtic-players-will-under-pressure-rangers-clash/?ref=rss",
-          "publishedOn": "2023-05-11T19:30:29.000Z",
-          "wordCount": 8584,
-          "title": "The two Celtic players who will be 'under pressure' in Rangers clash",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16771615/?type=og-image"
         }
       ]
     }
