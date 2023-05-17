@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-17T06:21:28.600Z</updated>
+    <updated>2023-05-17T09:16:46.890Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic transfers: Ange Postecolgou admits 'players will move on' as 18-goal target addresses speculation]]></title>
+        <id>4145475</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/celtic-transfers-ange-postecolgou-admits-players-will-move-on-as-18-goal-target-addresses-speculation-4145475"/>
+        <updated>2023-05-17T06:56:14.000Z</updated>
+        <summary type="html"><![CDATA[Celtic will be looking to complete a treble in the coming weeks but already there will be a focus on the summer and planning for their title defence but also the Champions League group stage where they will look to improve on from this campaign.]]></summary>
+        <author>
+            <name>Joel Sked</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ex-Celtic boss Neil Lennon nears management return at Olympiakos]]></title>
+        <id>5917b3ec0e578a3e0e653a4c3aa62588</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23527309.ex-celtic-boss-neil-lennon-nears-management-return-olympiakos/?ref=rss"/>
+        <updated>2023-05-17T06:05:07.000Z</updated>
+        <summary type="html"><![CDATA[The former Parkhead manager is reportedly in the running to take over at the Greek giants.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic winger Jota on how Fernando Chalana inspired Rangers dink]]></title>
         <id>5473b2bee6cfc6afddb1db39f2689800</id>
@@ -612,16 +632,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23519105.jota-reacts-celtic-praise-portugal-manager-roberto-martinez/?ref=rss"/>
         <updated>2023-05-12T21:30:00.000Z</updated>
         <summary type="html"><![CDATA[The 22-year-old winger has been on his international manager's radar since he took the job in January.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rangers vs Celtic predictions from Herald & Times writers]]></title>
-        <id>630a317d9ee04946efaf7399822fead2</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23519728.rangers-vs-celtic-predictions-herald-times-writers/?ref=rss"/>
-        <updated>2023-05-12T18:39:46.000Z</updated>
-        <summary type="html"><![CDATA[Our team give their prediction for the final clash between the Glasgow rivals this season.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
