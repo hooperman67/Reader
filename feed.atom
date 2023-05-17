@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-17T18:20:34.021Z</updated>
+    <updated>2023-05-17T21:14:14.012Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Rangers plan to overtake Celtic as new CEO reveals strategy to become 'dominant club in Scotland']]></title>
+        <id>4147049</id>
+        <link href="https://www.scotsman.com/sport/football/rangers/how-rangers-plan-to-overtake-celtic-as-new-ceo-reveals-strategy-to-become-dominant-club-in-scotland-4147049"/>
+        <updated>2023-05-17T19:13:17.000Z</updated>
+        <summary type="html"><![CDATA[New Rangers chief executive James Bisgrove has revealed that plans are in place for the club to become the dominant force in Scottish football across the next two years.]]></summary>
+        <author>
+            <name>Matthew Elder</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mum of Glasgow Rangers fan who died at 19 plans special tribute]]></title>
         <id>b4ad6010b1b1ef94c8d6c581724dfe27</id>
@@ -574,16 +584,6 @@
         <summary type="html"><![CDATA[The Hoops will arrive in Govan as Premiership champions having clinch their 53rd league title away at Hearts on Sunday.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Old Firm late team news: Rangers to make huge call at both ends of pitch, Celtic's major boost, probable XIs]]></title>
-        <id>4141455</id>
-        <link href="https://www.scotsman.com/sport/football/rangers/old-firm-late-team-news-rangers-to-make-huge-call-at-both-ends-of-pitch-celtics-major-boost-probable-xis-4141455"/>
-        <updated>2023-05-13T07:18:54.000Z</updated>
-        <summary type="html"><![CDATA[Rangers and Celtic meet for the final time in the 2022/23 campaign at Ibrox, with the newly-crowned Premiership champions looking to go a whole season undefeated against their Glasgow rivals.]]></summary>
-        <author>
-            <name>Mark Atkinson</name>
         </author>
     </entry>
 </feed>
