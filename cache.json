@@ -259,6 +259,16 @@
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
         {
+          "id": "b4ad6010b1b1ef94c8d6c581724dfe27",
+          "author": null,
+          "description": "An old firm charity match is set to take place this weekend in memory of a Glasgow teen who lost her life in 2020.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23528898.mum-glasgow-rangers-fan-died-19-plans-special-tribute/?ref=rss",
+          "publishedOn": "2023-05-17T15:39:00.000Z",
+          "wordCount": 8697,
+          "title": "Mum of Glasgow Rangers fan who died at 19 plans special tribute",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16791120/?type=og-image"
+        },
+        {
           "id": "5917b3ec0e578a3e0e653a4c3aa62588",
           "author": null,
           "description": "The former Parkhead manager is reportedly in the running to take over at the Greek giants.",
@@ -587,26 +597,6 @@
           "wordCount": 8474,
           "title": "Rangers vs Celtic: TV channel, live stream & kick-off time",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16768833/?type=og-image"
-        },
-        {
-          "id": "cc4a44fa5d51d176a25e25a9e2c8786d",
-          "author": null,
-          "description": "The Parkhead manager will lead his team into the final derby of the season at Ibrox.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23519012.ange-reveals-rivals-celtic-title-texts-expands-guard-honour/?ref=rss",
-          "publishedOn": "2023-05-13T05:00:00.000Z",
-          "wordCount": 9105,
-          "title": "Ange reveals rivals' Celtic title texts and expands on guard of honour",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16775012/?type=og-image"
-        },
-        {
-          "id": "49d509ab239df1428f5312c4fadbd12d",
-          "author": null,
-          "description": "IT is one of the oldest cliches in football, but as far as this fixture goes? It really is taken literally.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23517954.callum-mcgregor-celtic-verdict-rangers-dead-rubber-claim/?ref=rss",
-          "publishedOn": "2023-05-13T05:00:00.000Z",
-          "wordCount": 9221,
-          "title": "Callum McGregor in Celtic verdict on Rangers 'dead rubber' claim",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16773360/?type=og-image"
         }
       ]
     }

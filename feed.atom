@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-17T15:17:32.393Z</updated>
+    <updated>2023-05-17T18:20:34.021Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mum of Glasgow Rangers fan who died at 19 plans special tribute]]></title>
+        <id>b4ad6010b1b1ef94c8d6c581724dfe27</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23528898.mum-glasgow-rangers-fan-died-19-plans-special-tribute/?ref=rss"/>
+        <updated>2023-05-17T15:39:00.000Z</updated>
+        <summary type="html"><![CDATA[An old firm charity match is set to take place this weekend in memory of a Glasgow teen who lost her life in 2020.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic v Inverness: MSPs demand more answers over Scottish Cup final kick-off change as SFA response branded 'less than satisfactory']]></title>
         <id>4146141</id>
@@ -574,26 +584,6 @@
         <summary type="html"><![CDATA[Rangers and Celtic meet for the final time in the 2022/23 campaign at Ibrox, with the newly-crowned Premiership champions looking to go a whole season undefeated against their Glasgow rivals.]]></summary>
         <author>
             <name>Mark Atkinson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ange reveals rivals' Celtic title texts and expands on guard of honour]]></title>
-        <id>cc4a44fa5d51d176a25e25a9e2c8786d</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23519012.ange-reveals-rivals-celtic-title-texts-expands-guard-honour/?ref=rss"/>
-        <updated>2023-05-13T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Parkhead manager will lead his team into the final derby of the season at Ibrox.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Callum McGregor in Celtic verdict on Rangers 'dead rubber' claim]]></title>
-        <id>49d509ab239df1428f5312c4fadbd12d</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23517954.callum-mcgregor-celtic-verdict-rangers-dead-rubber-claim/?ref=rss"/>
-        <updated>2023-05-13T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[IT is one of the oldest cliches in football, but as far as this fixture goes? It really is taken literally.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>
