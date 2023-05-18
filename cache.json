@@ -224,16 +224,6 @@
           "wordCount": 2758,
           "title": "Meet the Albion Rovers youngster keeping company with Celtic and Rangers",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjJhYzMxZGFkLTNkZTktNDJjYS1iNWU0LTdmYzliOWZkZTNkMzo3MzgxZDgzYi0yMWQ5LTQwZGYtYTAzMi02ODNkM2FkOWEzYjc=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4141493",
-          "author": "Graham Bean",
-          "description": "Gregor Townsend went into this season’s Six Nations thinking it was going to be his last in charge of Scotland, and France was a realistic option for the coach before he put pen to paper on a new deal at Murrayfield.",
-          "link": "https://www.scotsman.com/sport/rugby-union/scotland-boss-opens-up-on-approach-from-french-club-and-ange-postecoglou-celtic-talks-4141493",
-          "publishedOn": "2023-05-13T21:00:00.000Z",
-          "wordCount": 2926,
-          "title": "Scotland boss opens up on approach from French club and Ange Postecoglou Celtic talks",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjc1OTUxNDkyLWY3ODYtNDNkZC04OGRmLTJlOGE2N2M2MDliNzoxN2E0ZDM2YS1lNGQ1LTQ2MGItYmE4NC0yN2NhYzY3ZDUzMDA=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
         }
       ]
     },
@@ -248,6 +238,36 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "3625c9f0ef9393b56fb4800af4ac8c65",
+          "author": null,
+          "description": "The Liverpool and England legend believes that black managers are not afforded the same opportunities as those who are white.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23530468.steven-gerrard-rangers-record-dug-barnes-celtic-grievance/?ref=rss",
+          "publishedOn": "2023-05-18T08:36:51.000Z",
+          "wordCount": 9713,
+          "title": "Steven Gerrard Rangers record dug out by Barnes over Celtic grievance",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16792601/?type=og-image"
+        },
+        {
+          "id": "56ce67f9426812f08f95fda09cebbaa7",
+          "author": null,
+          "description": "It's now the Scottish champions' turn to play on home soil as they welcome St Mirren to the east end of Glasgow this weekend.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23530379.celtic-vs-st-mirren-live-stream-tv-channel-team-news/?ref=rss",
+          "publishedOn": "2023-05-18T08:15:38.000Z",
+          "wordCount": 8482,
+          "title": "Celtic vs St Mirren: Live stream, TV channel & team news",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16792548/?type=og-image"
+        },
+        {
+          "id": "a24a37f0d92be90e2c6f991ac29ad4cb",
+          "author": null,
+          "description": "The defender has been an impressive figure in the Dons backline this season, particularly since Barry Robson took over the side in late January.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23530252.celtic-transfer-decision-liam-scales-hold-summer/?ref=rss",
+          "publishedOn": "2023-05-18T07:28:36.000Z",
+          "wordCount": 8594,
+          "title": "Celtic transfer decision on Liam Scales on hold until the summer",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16792397/?type=og-image"
+        },
         {
           "id": "ddf14003c32afcfd66e32c5dbf1fc9d5",
           "author": null,
