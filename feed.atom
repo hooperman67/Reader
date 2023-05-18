@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-18T12:34:05.455Z</updated>
+    <updated>2023-05-18T15:17:06.679Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Goodwin tells Dundee United fans to 'relax' after Mulgrew backlash]]></title>
+        <id>ef1c6ddb958013e1803a7b63efa3c1e9</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23532088.goodwin-tells-dundee-united-fans-relax-mulgrew-backlash/?ref=rss"/>
+        <updated>2023-05-18T14:37:00.000Z</updated>
+        <summary type="html"><![CDATA[Jim Goodwin has urged Dundee United fans to relax over Charlie Mulgrew's decision to appear at a Celtic charity evening.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Callum McGregor details Celtic 'hurt' after Rangers loss]]></title>
+        <id>ca88fbb745b58254c3540477c67aac8b</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23531966.callum-mcgregor-details-celtic-hurt-rangers-loss/?ref=rss"/>
+        <updated>2023-05-18T14:18:12.000Z</updated>
+        <summary type="html"><![CDATA[Callum McGregor has been encouraged by the reaction of his team-mates to the pain of last weekend’s defeat by Rangers.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ex-Celtic boss Ronny Deila 'set to quit' as Standard Liege gaffer]]></title>
+        <id>3ef8ce225c2f5b8314bd4fe64a034a86</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23531434.ex-celtic-boss-ronny-deila-set-quit-standard-liege-gaffer/?ref=rss"/>
+        <updated>2023-05-18T12:25:57.000Z</updated>
+        <summary type="html"><![CDATA[Reports in Belgium suggest that the Norweigan is set to join league rivals Club Brugge after making a U-turn on his future.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jota trolled by Celtic mate Alistair Johnston over Benfica game time]]></title>
         <id>e2c673c09c6bc35e0b855e63ba68e0dc</id>
@@ -24,6 +54,16 @@
         <summary type="html"><![CDATA[Rangers are closing in on the signing Ecuador international Jose Cifuentes after holding talks with the player's representatives over the past week.]]></summary>
         <author>
             <name>Matthew Elder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ex-Celtic striker Giorgos Giakoumakis scores chip in MLS]]></title>
+        <id>23529d2b8cc739a2d289a78c2576b3a6</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23531007.ex-celtic-striker-giorgos-giakoumakis-scores-chip-mls/?ref=rss"/>
+        <updated>2023-05-18T10:58:00.000Z</updated>
+        <summary type="html"><![CDATA[Ex-Celtic player Giakoumakis continued his great start in America, as he scored a chip in Atlanta United's win last night against Colorado Rapids]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
     <entry>
