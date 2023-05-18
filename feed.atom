@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-18T03:17:19.194Z</updated>
+    <updated>2023-05-18T06:22:12.973Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ange in Celtic tribute to key duo he was determined to stick with]]></title>
+        <id>ddf14003c32afcfd66e32c5dbf1fc9d5</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23529849.ange-celtic-tribute-key-duo-determined-stick/?ref=rss"/>
+        <updated>2023-05-18T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ange Postecoglou may be the frontman, but the Celtic manager is adamant his backroom team deserve just as much limelight.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Ange Postecoglou 'boom moment' that kick-started success]]></title>
         <id>c3166ae9a1dc8da9a61c87727cf8ef93</id>
@@ -474,46 +484,6 @@
         <summary type="html"><![CDATA[Gregor Townsend went into this season’s Six Nations thinking it was going to be his last in charge of Scotland, and France was a realistic option for the coach before he put pen to paper on a new deal at Murrayfield.]]></summary>
         <author>
             <name>Graham Bean</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rangers finally have their day: Ravenous Ibrox crowd devours win as Celtic resemble old bouquet of flowers]]></title>
-        <id>4141749</id>
-        <link href="https://www.scotsman.com/sport/football/rangers/rangers-finally-have-their-day-ravenous-ibrox-crowd-devours-win-as-celtic-resemble-old-bouquet-of-flowers-4141749"/>
-        <updated>2023-05-13T16:56:58.000Z</updated>
-        <summary type="html"><![CDATA[It was the day Michael Beale, whatever any public he may have made, will have craved for more than five months.]]></summary>
-        <author>
-            <name>Andrew Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Celtic fringe men showed Ange in defeat to Rangers]]></title>
-        <id>2db7b478f1cc3633bc9f3f3ff6c8f567</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23520498.celtic-fringe-men-showed-ange-defeat-rangers/?ref=rss"/>
-        <updated>2023-05-13T16:34:56.000Z</updated>
-        <summary type="html"><![CDATA[The Premiership champions made a number of changes as they were defeated 3-0 at Ibrox.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nicolas Raskin reckons Rangers built on Hampden showing with Ibrox win]]></title>
-        <id>0918d1e05f7d08056cbfe8d880930e3a</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23520413.nicolas-raskin-reckons-rangers-built-hampden-showing-ibrox-win/?ref=rss"/>
-        <updated>2023-05-13T15:19:58.000Z</updated>
-        <summary type="html"><![CDATA[Nicolas Raskin reckons Rangers built on their Hampden heartache to secure a rousing Ibrox win over Celtic.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ange Postecoglou in pointed Celtic reminder to fringe men]]></title>
-        <id>800f44ac48921ab011c2e60bc787cb78</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23520410.ange-postecoglou-pointed-celtic-reminder-fringe-men/?ref=rss"/>
-        <updated>2023-05-13T15:17:30.000Z</updated>
-        <summary type="html"><![CDATA[The Premiership champions went down 3-0 at Ibrox as Rangers deservedly claimed a first derby win of the season.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>
