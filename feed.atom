@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-18T15:17:06.679Z</updated>
+    <updated>2023-05-18T18:20:47.286Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mulgrew responds to Dundee United critics over Celtic Hydro show]]></title>
+        <id>5200682b1e766cccdece03e13c08bcb9</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23532666.mulgrew-responds-dundee-united-critics-celtic-hydro-show/?ref=rss"/>
+        <updated>2023-05-18T16:46:10.000Z</updated>
+        <summary type="html"><![CDATA[Charlie Mulgrew has responded to his Dundee United critics after his decision to appear at a Celtic charity fundraiser.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Charlie Mulgrew breaks silence on Celtic Scott Brown event - 'my full focus is on Dundee United']]></title>
+        <id>4148559</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/charlie-mulgrew-breaks-silence-on-celtic-scott-brown-event-my-full-focus-is-on-dundee-united-4148559"/>
+        <updated>2023-05-18T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Charlie Mulgrew has stressed his appearance at Thursday night’s tribute event for his former Celtic team-mate and captain Scott Brown at the OVO Hydro in Glasgow will have no bearing on Dundee United's on-going battle to avoid relegation.]]></summary>
+        <author>
+            <name>Alan Pattullo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Goodwin tells Dundee United fans to 'relax' after Mulgrew backlash]]></title>
         <id>ef1c6ddb958013e1803a7b63efa3c1e9</id>
