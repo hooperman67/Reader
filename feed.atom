@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-17T21:14:14.012Z</updated>
+    <updated>2023-05-18T01:24:53.548Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Ange Postecoglou 'boom moment' that kick-started success]]></title>
+        <id>c3166ae9a1dc8da9a61c87727cf8ef93</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23528260.ange-postecoglou-boom-moment-kick-started-success/?ref=rss"/>
+        <updated>2023-05-17T21:35:00.000Z</updated>
+        <summary type="html"><![CDATA[There is a certain art to becoming comfortable in the uncomfortable - the Celtic boss is a master.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ange Postecoglou addresses Liam Scales' Celtic future and hails the 'outstanding people' behind his success]]></title>
+        <id>4147021</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/ange-postecoglou-addresses-liam-scales-celtic-future-and-hails-the-outstanding-people-behind-his-success-4147021"/>
+        <updated>2023-05-17T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Celtic manager Ange Postecoglou has applauded Liam Scales’ efforts on loan for Aberdeen and revealed a decision on the player’s future is imminent.]]></summary>
+        <author>
+            <name>Alan Pattullo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Rangers plan to overtake Celtic as new CEO reveals strategy to become 'dominant club in Scotland']]></title>
         <id>4147049</id>
@@ -552,36 +572,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23520283.rangers-3-celtic-0-instant-reaction-cantwell-pulls-ibrox-strings/?ref=rss"/>
         <updated>2023-05-13T13:29:07.000Z</updated>
         <summary type="html"><![CDATA[VICTORY in the final Old Firm game of the season, a match which had been dubbed the Dead Rubber Derby beforehand, will not make amends for finishing the season trophyless.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jota hit by objects from Rangers stands in Celtic clash]]></title>
-        <id>4e3947317dace9f4bd4ad368b764758c</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23520260.jota-hit-objects-rangers-stands-celtic-clash/?ref=rss"/>
-        <updated>2023-05-13T13:01:39.000Z</updated>
-        <summary type="html"><![CDATA[The winger had objects thrown in his direction as he headed to take a corner at Ibrox.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic team news as Postecoglou rings changes for Rangers clash]]></title>
-        <id>ff3dd1408d5d148eb271e3777861174c</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23520097.celtic-team-news-postecoglou-rings-changes-rangers-clash/?ref=rss"/>
-        <updated>2023-05-13T10:24:56.000Z</updated>
-        <summary type="html"><![CDATA[The Parkhead boss has made sweeping changes to his side for the visit to Ibrox.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rangers vs Celtic: TV channel, live stream & kick-off time]]></title>
-        <id>4abc79c39772a28a7e1459bc3552caab</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23515190.rangers-vs-celtic-tv-channel-live-stream-kick-off-time/?ref=rss"/>
-        <updated>2023-05-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Hoops will arrive in Govan as Premiership champions having clinch their 53rd league title away at Hearts on Sunday.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
