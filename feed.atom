@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-18T21:14:37.379Z</updated>
+    <updated>2023-05-19T01:25:40.799Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Barry Robson expresses away fan desire as Aberdeen to be backed by 600 at Tynecastle for Hearts clash]]></title>
+        <id>4148563</id>
+        <link href="https://www.scotsman.com/sport/football/hearts/barry-robson-expresses-away-fan-desire-as-aberdeen-to-be-backed-by-600-at-tynecastle-for-hearts-clash-4148563"/>
+        <updated>2023-05-18T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Aberdeen boss Barry Robson has called on Scottish clubs to “get together” regarding away supporters.]]></summary>
+        <author>
+            <name>Joel Sked</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Callum McGregor issues defiant Celtic response to Rangers defeat and James Bisgrove claims]]></title>
+        <id>4148666</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/callum-mcgregor-issues-defiant-celtic-response-to-rangers-defeat-and-james-bisgrove-claims-4148666"/>
+        <updated>2023-05-18T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Callum McGregor has no doubts that Celtic can maintain their status as the top dogs in Scottish football despite Rangers outlining plans to knock them off their perch.]]></summary>
+        <author>
+            <name>Matthew Elder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic captain Callum McGregor bats away Rangers 'dominant team' claim]]></title>
+        <id>bf4a199ad65999ac63f8b4eaf028b4bb</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23532872.celtic-captain-callum-mcgregor-bats-away-rangers-dominant-team-claim/?ref=rss"/>
+        <updated>2023-05-18T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[New Ibrox CEO James Bisgrove this week said the club had a plan in place to return to the top of Scottish football by 2025.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mulgrew responds to Dundee United critics over Celtic Hydro show]]></title>
         <id>5200682b1e766cccdece03e13c08bcb9</id>
@@ -514,36 +544,6 @@
         <summary type="html"><![CDATA[The former Celtic boss would have loved to have worked with Kyogo at Parkhead.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cameron Carter-Vickers in 'positive' Celtic injury update]]></title>
-        <id>81fd6f99cda2b918e6983fa2f95dcdef</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23521007.cameron-carter-vickers-positive-celtic-injury-update/?ref=rss"/>
-        <updated>2023-05-14T10:46:56.000Z</updated>
-        <summary type="html"><![CDATA[The defender will not play again this season after having surgery on a knee injury.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['A team like Leeds' - Ange Postecoglou Premier League job claim as pundit expresses Celtic hope]]></title>
-        <id>4141910</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/a-team-like-leeds-ange-postecoglou-premier-league-job-claim-as-pundit-expresses-celtic-hope-4141910"/>
-        <updated>2023-05-14T09:39:24.000Z</updated>
-        <summary type="html"><![CDATA[Ange Postecoglou is a “good enough” manager for the Premier League and will want to manage in the English top-flight, according to Pat Nevin.]]></summary>
-        <author>
-            <name>Joel Sked</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cameron Carter-Vickers gives update on knee surgery but no date set for Celtic return]]></title>
-        <id>4141901</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/cameron-carter-vickers-gives-update-on-knee-surgery-but-no-date-set-for-celtic-return-4141901"/>
-        <updated>2023-05-14T09:30:56.000Z</updated>
-        <summary type="html"><![CDATA[Celtic defender Cameron Carter-Vickers has not a put a timeline on his return to first-team action after having knee surgery but says he is feeling “positive” about his recovery.]]></summary>
-        <author>
-            <name>Mark Atkinson</name>
         </author>
     </entry>
 </feed>

@@ -6,6 +6,26 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4148563",
+          "author": "Joel Sked",
+          "description": "Aberdeen boss Barry Robson has called on Scottish clubs to “get together” regarding away supporters.",
+          "link": "https://www.scotsman.com/sport/football/hearts/barry-robson-expresses-away-fan-desire-as-aberdeen-to-be-backed-by-600-at-tynecastle-for-hearts-clash-4148563",
+          "publishedOn": "2023-05-18T21:30:00.000Z",
+          "wordCount": 2610,
+          "title": "Barry Robson expresses away fan desire as Aberdeen to be backed by 600 at Tynecastle for Hearts clash",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmQzYWM2MDgzLTM4OGItNGNkNi1iMmFkLWQ1NTBlOTk3MTE2Zjo0ZTA5MzlmZS00ZDQ1LTQ4NTItOGM4Zi1iMzZlZjJmNmM4MDQ=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
+          "id": "4148666",
+          "author": "Matthew Elder",
+          "description": "Callum McGregor has no doubts that Celtic can maintain their status as the top dogs in Scottish football despite Rangers outlining plans to knock them off their perch.",
+          "link": "https://www.scotsman.com/sport/football/celtic/callum-mcgregor-issues-defiant-celtic-response-to-rangers-defeat-and-james-bisgrove-claims-4148666",
+          "publishedOn": "2023-05-18T21:30:00.000Z",
+          "wordCount": 2888,
+          "title": "Callum McGregor issues defiant Celtic response to Rangers defeat and James Bisgrove claims",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjEyYmJlOWJjLTIzYzYtNDdjZi04YmNiLTU3ZTg3YjdhM2QyYTozODY1ZDM3NC02YzcwLTQyZDItYTJkNC1iYzFhZmYxMWY1NjI=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4148559",
           "author": "Alan Pattullo",
           "description": "Charlie Mulgrew has stressed his appearance at Thursday night’s tribute event for his former Celtic team-mate and captain Scott Brown at the OVO Hydro in Glasgow will have no bearing on Dundee United's on-going battle to avoid relegation.",
@@ -204,26 +224,6 @@
           "wordCount": 2422,
           "title": "SWPL title race goes to gripping final day - Glasgow City hold slender advantage over Rangers and Celtic",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjg2YzI2MGJjLWFhNTAtNDBlYS1iZjE5LTI1M2QzZDU1ZDhjNjpkNmFlMjdkNy1hYWQyLTRkNzMtYTgyNC1jOTIxMWJjMDEyMzA=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4141910",
-          "author": "Joel Sked",
-          "description": "Ange Postecoglou is a “good enough” manager for the Premier League and will want to manage in the English top-flight, according to Pat Nevin.",
-          "link": "https://www.scotsman.com/sport/football/celtic/a-team-like-leeds-ange-postecoglou-premier-league-job-claim-as-pundit-expresses-celtic-hope-4141910",
-          "publishedOn": "2023-05-14T09:39:24.000Z",
-          "wordCount": 2304,
-          "title": "'A team like Leeds' - Ange Postecoglou Premier League job claim as pundit expresses Celtic hope",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjAzODZjZWVlLWJlNWItNGUxYi1hYjQzLTcxYWYxOTYzMWI4NjpmY2ZkMTk1NC0xY2IzLTRmYTctOWU0Yy04MjQ0NjliM2E4ZTU=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4141901",
-          "author": "Mark Atkinson",
-          "description": "Celtic defender Cameron Carter-Vickers has not a put a timeline on his return to first-team action after having knee surgery but says he is feeling “positive” about his recovery.",
-          "link": "https://www.scotsman.com/sport/football/celtic/cameron-carter-vickers-gives-update-on-knee-surgery-but-no-date-set-for-celtic-return-4141901",
-          "publishedOn": "2023-05-14T09:30:56.000Z",
-          "wordCount": 2023,
-          "title": "Cameron Carter-Vickers gives update on knee surgery but no date set for Celtic return",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjQzNTNjYThiLWNhMGMtNDJhZi05YTc2LWEyMThlYTQzOTA1NDo1YTU0MmU5Mi1iMzY2LTQ3NGEtYTg5YS1jZmFhOTM3Nzc3ZWE=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
         }
       ]
     },
@@ -238,6 +238,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "bf4a199ad65999ac63f8b4eaf028b4bb",
+          "author": null,
+          "description": "New Ibrox CEO James Bisgrove this week said the club had a plan in place to return to the top of Scottish football by 2025.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23532872.celtic-captain-callum-mcgregor-bats-away-rangers-dominant-team-claim/?ref=rss",
+          "publishedOn": "2023-05-18T21:30:00.000Z",
+          "wordCount": 8504,
+          "title": "Celtic captain Callum McGregor bats away Rangers 'dominant team' claim",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16777353/?type=og-image"
+        },
         {
           "id": "5200682b1e766cccdece03e13c08bcb9",
           "author": null,
@@ -547,16 +557,6 @@
           "wordCount": 8469,
           "title": "Kyogo given Premier League seal of approval by ex-Celtic boss",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16778374/?type=og-image"
-        },
-        {
-          "id": "81fd6f99cda2b918e6983fa2f95dcdef",
-          "author": null,
-          "description": "The defender will not play again this season after having surgery on a knee injury.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23521007.cameron-carter-vickers-positive-celtic-injury-update/?ref=rss",
-          "publishedOn": "2023-05-14T10:46:56.000Z",
-          "wordCount": 8469,
-          "title": "Cameron Carter-Vickers in 'positive' Celtic injury update",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16777740/?type=og-image"
         }
       ]
     }
