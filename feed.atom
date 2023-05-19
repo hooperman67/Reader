@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-19T12:31:59.507Z</updated>
+    <updated>2023-05-19T15:17:05.846Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rangers lift lid on Graeme Souness talks and confirm 'maximum' Celtic away allocation next season]]></title>
+        <id>4150160</id>
+        <link href="https://www.scotsman.com/sport/football/rangers/rangers-lift-lid-on-graeme-souness-talks-and-confirm-maximum-celtic-away-allocation-next-season-4150160"/>
+        <updated>2023-05-19T13:40:16.000Z</updated>
+        <summary type="html"><![CDATA[Graeme Souness has held “informal” talks with Rangers over the prospect of returning to the club in an ambassadorial capacity.]]></summary>
+        <author>
+            <name>Matthew Elder</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[St Mirren won't give Celtic guard of honour at Parkhead]]></title>
         <id>9105a98fdcc47efbf08c63d9f77ef6be</id>
