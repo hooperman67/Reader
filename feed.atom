@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-19T06:21:27.297Z</updated>
+    <updated>2023-05-19T09:16:06.504Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic boss Ange Postecoglou, two Premiership rivals and title winner nominated for SFWA Manager of the Year]]></title>
+        <id>4149081</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/celtic-boss-ange-postecoglou-two-premiership-rivals-and-title-winner-nominated-for-sfwa-manager-of-the-year-4149081"/>
+        <updated>2023-05-19T08:38:08.000Z</updated>
+        <summary type="html"><![CDATA[Ange Postecoglou is one of four nominees for the Scottish Football Writers’ Association’s Manager of the Year award.]]></summary>
+        <author>
+            <name>Joel Sked</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic star set for surprise 3-year-deal as EPL duo target highly-rated defender]]></title>
+        <id>4148920</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/celtic-star-set-for-surprise-3-year-deal-as-epl-duo-target-highly-rated-defender-4148920"/>
+        <updated>2023-05-19T06:36:03.000Z</updated>
+        <summary type="html"><![CDATA[Celtic are set to hand goalkeeper Scott Bain a new three-year-deal despite not having featured this season.]]></summary>
+        <author>
+            <name>Chris Andrews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Callum McGregor on key difference for Celtic in next Champions League]]></title>
+        <id>1a9d046c87bcd2643c846922c0876010</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23532912.callum-mcgregor-key-difference-celtic-next-champions-league/?ref=rss"/>
+        <updated>2023-05-19T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Parkhead skipper was in the youth academy when Martin O'Neill's iconic team reached the UEFA Cup final.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inside Callum McGregor's Celtic longevity - why no rest required ahead of the Scottish Cup final]]></title>
+        <id>4148686</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/inside-callum-mcgregors-celtic-longevity-why-no-rest-required-ahead-of-the-scottish-cup-final-4148686"/>
+        <updated>2023-05-19T03:55:00.000Z</updated>
+        <summary type="html"><![CDATA[He is one of the most relied upon players in Scottish football but you won't catch Callum McGregor asking for a rest.]]></summary>
+        <author>
+            <name>Matthew Elder</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Inside Callum McGregor's Celtic longevity - why no rest required ahead of Scottish Cup final]]></title>
         <id>4148686</id>
@@ -524,16 +564,6 @@
         <summary type="html"><![CDATA[The right-back says Celtic's performance at Ibrox on Saturday was 'not acceptable'.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rangers-Celtic final word: The magnificent Cantwell, Postecoglou's deputies show weakness, Morelos and Lovelace]]></title>
-        <id>4141976</id>
-        <link href="https://www.scotsman.com/sport/football/rangers/rangers-celtic-final-word-the-magnificent-cantwell-postecoglous-deputies-show-weakness-morelos-and-lovelace-4141976"/>
-        <updated>2023-05-14T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In a season of severe disappointment for Rangers, what happened over the weekend can at least give some optimism for the 2023/24 campaign.]]></summary>
-        <author>
-            <name>Mark Atkinson</name>
         </author>
     </entry>
 </feed>
