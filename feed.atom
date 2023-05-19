@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-19T09:16:06.504Z</updated>
+    <updated>2023-05-19T12:31:59.507Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[St Mirren won't give Celtic guard of honour at Parkhead]]></title>
+        <id>9105a98fdcc47efbf08c63d9f77ef6be</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23533476.st-mirren-wont-give-celtic-guard-honour-parkhead/?ref=rss"/>
+        <updated>2023-05-19T09:42:34.000Z</updated>
+        <summary type="html"><![CDATA[The Buddies boss confirmed the decision was made at a higher level.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic fringe player 'agrees three-year contract extension']]></title>
+        <id>669dc88cf0b65559891580e287645592</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23533316.celtic-fringe-player-agrees-three-year-contract-extension/?ref=rss"/>
+        <updated>2023-05-19T09:01:34.000Z</updated>
+        <summary type="html"><![CDATA[Keeper Scott Bain has struggled for minutes and was expected to move on after Benjamin Siegrist's arrival in the summer.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic boss Ange Postecoglou, two Premiership rivals and title winner nominated for SFWA Manager of the Year]]></title>
         <id>4149081</id>
