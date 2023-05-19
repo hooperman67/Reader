@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-19T01:25:40.799Z</updated>
+    <updated>2023-05-19T03:17:51.674Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -534,16 +534,6 @@
         <summary type="html"><![CDATA[The SWPL title race will go down to the final round of fixtures next weekend with Glasgow City holding the advantage after a 2-1 victory over Partick Thistle.]]></summary>
         <author>
             <name>Mark Atkinson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kyogo given Premier League seal of approval by ex-Celtic boss]]></title>
-        <id>215c8650d43099e83a75c004ea717042</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23521303.kyogo-given-premier-league-seal-approval-ex-celtic-boss/?ref=rss"/>
-        <updated>2023-05-14T15:16:03.000Z</updated>
-        <summary type="html"><![CDATA[The former Celtic boss would have loved to have worked with Kyogo at Parkhead.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>
