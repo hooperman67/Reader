@@ -269,6 +269,16 @@
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
         {
+          "id": "219eaa1a94d4a6a3b2dde4fdbe081ff3",
+          "author": null,
+          "description": "John Kennedy believes the defeat to Rangers last week will be a key learning experience for Celtic.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23535155.kennedy-says-rangers-defeat-learning-experience-celtic-squad/?ref=rss",
+          "publishedOn": "2023-05-19T15:42:47.000Z",
+          "wordCount": 8737,
+          "title": "Kennedy says Rangers defeat is learning experience for Celtic squad",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16800397/?type=og-image"
+        },
+        {
           "id": "9105a98fdcc47efbf08c63d9f77ef6be",
           "author": null,
           "description": "The Buddies boss confirmed the decision was made at a higher level.",
@@ -587,26 +597,6 @@
           "wordCount": 9883,
           "title": "'Evolution not revolution' - Rangers loss sparks Celtic signing demand",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16778938/?type=og-image"
-        },
-        {
-          "id": "03c2771cebde0e62fdd2dd2114dafb04",
-          "author": null,
-          "description": "The Bhoys are on track for a domestic treble.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23521615.celtic-boss-ange-postecoglou-named-pfa-scotland-manager-year/?ref=rss",
-          "publishedOn": "2023-05-15T06:05:28.000Z",
-          "wordCount": 9627,
-          "title": "Celtic boss Ange Postecoglou named PFA Scotland manager of the year",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16779065/?type=og-image"
-        },
-        {
-          "id": "1009f06e49dd457f0533285111191db6",
-          "author": null,
-          "description": "The right-back says Celtic's performance at Ibrox on Saturday was 'not acceptable'.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23521576.tony-ralston-explains-celtic-credit-bank-doesnt-matter/?ref=rss",
-          "publishedOn": "2023-05-15T05:00:00.000Z",
-          "wordCount": 10309,
-          "title": "Tony Ralston explains why Celtic 'credit in the bank' doesn't matter",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16778897/?type=og-image"
         }
       ]
     }

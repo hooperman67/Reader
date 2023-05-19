@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-19T15:17:05.846Z</updated>
+    <updated>2023-05-19T18:20:34.902Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kennedy says Rangers defeat is learning experience for Celtic squad]]></title>
+        <id>219eaa1a94d4a6a3b2dde4fdbe081ff3</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23535155.kennedy-says-rangers-defeat-learning-experience-celtic-squad/?ref=rss"/>
+        <updated>2023-05-19T15:42:47.000Z</updated>
+        <summary type="html"><![CDATA[John Kennedy believes the defeat to Rangers last week will be a key learning experience for Celtic.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rangers lift lid on Graeme Souness talks and confirm 'maximum' Celtic away allocation next season]]></title>
         <id>4150160</id>
@@ -572,26 +582,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23521633.evolution-not-revolution---rangers-loss-sparks-celtic-signing-demand/?ref=rss"/>
         <updated>2023-05-15T06:34:04.000Z</updated>
         <summary type="html"><![CDATA[Former Celtic winger Kris Commons reckons Ange Postecoglou must sign a central defender in the summer.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic boss Ange Postecoglou named PFA Scotland manager of the year]]></title>
-        <id>03c2771cebde0e62fdd2dd2114dafb04</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23521615.celtic-boss-ange-postecoglou-named-pfa-scotland-manager-year/?ref=rss"/>
-        <updated>2023-05-15T06:05:28.000Z</updated>
-        <summary type="html"><![CDATA[The Bhoys are on track for a domestic treble.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tony Ralston explains why Celtic 'credit in the bank' doesn't matter]]></title>
-        <id>1009f06e49dd457f0533285111191db6</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23521576.tony-ralston-explains-celtic-credit-bank-doesnt-matter/?ref=rss"/>
-        <updated>2023-05-15T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The right-back says Celtic's performance at Ibrox on Saturday was 'not acceptable'.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
