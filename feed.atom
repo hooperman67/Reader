@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-19T03:17:51.674Z</updated>
+    <updated>2023-05-19T06:21:27.297Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Inside Callum McGregor's Celtic longevity - why no rest required ahead of Scottish Cup final]]></title>
+        <id>4148686</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/inside-callum-mcgregors-celtic-longevity-why-no-rest-required-ahead-of-scottish-cup-final-4148686"/>
+        <updated>2023-05-19T03:55:00.000Z</updated>
+        <summary type="html"><![CDATA[He is one of the most relied upon players in Scottish football but you won't catch Callum McGregor asking for a rest.]]></summary>
+        <author>
+            <name>Matthew Elder</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Barry Robson expresses away fan desire as Aberdeen to be backed by 600 at Tynecastle for Hearts clash]]></title>
         <id>4148563</id>
@@ -522,16 +532,6 @@
         <link href="https://www.scotsman.com/sport/football/rangers/rangers-celtic-final-word-the-magnificent-cantwell-postecoglous-deputies-show-weakness-morelos-and-lovelace-4141976"/>
         <updated>2023-05-14T19:00:00.000Z</updated>
         <summary type="html"><![CDATA[In a season of severe disappointment for Rangers, what happened over the weekend can at least give some optimism for the 2023/24 campaign.]]></summary>
-        <author>
-            <name>Mark Atkinson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SWPL title race goes to gripping final day - Glasgow City hold slender advantage over Rangers and Celtic]]></title>
-        <id>4142149</id>
-        <link href="https://www.scotsman.com/sport/football/rangers/swpl-title-race-goes-to-gripping-final-day-glasgow-city-hold-slender-advantage-over-rangers-and-celtic-4142149"/>
-        <updated>2023-05-14T17:06:44.000Z</updated>
-        <summary type="html"><![CDATA[The SWPL title race will go down to the final round of fixtures next weekend with Glasgow City holding the advantage after a 2-1 victory over Partick Thistle.]]></summary>
         <author>
             <name>Mark Atkinson</name>
         </author>
