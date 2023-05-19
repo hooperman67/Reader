@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-19T18:20:34.902Z</updated>
+    <updated>2023-05-19T21:14:08.543Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ally McCoist brands Chris Sutton 'disrespectful' after Rangers dig]]></title>
+        <id>385fedafdf0e792202d465fab2ea0e68</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23535583.ally-mccoist-brands-chris-sutton-disrespectful-rangers-dig/?ref=rss"/>
+        <updated>2023-05-19T18:39:38.000Z</updated>
+        <summary type="html"><![CDATA[Ally McCoist has branded Chris Sutton 'disrespectful'.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kennedy says Rangers defeat is learning experience for Celtic squad]]></title>
         <id>219eaa1a94d4a6a3b2dde4fdbe081ff3</id>
@@ -534,56 +544,6 @@
         <summary type="html"><![CDATA[Aberdeen have decided against entering a ‘B’ team into a proposed new Scottish Conference League.]]></summary>
         <author>
             <name>Mark Atkinson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Celtic kit leaked by Adidas]]></title>
-        <id>b5cc2587e4c3a8d20a630abb886b4b9c</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23521946.new-celtic-kit-leaked-adidas/?ref=rss"/>
-        <updated>2023-05-15T08:55:59.000Z</updated>
-        <summary type="html"><![CDATA[An image of the new kit was posted by Adidas with the shirt listed for £70.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic urged to reinforce in wake of Rangers loss as one player singled out as 'disappointment']]></title>
-        <id>4142261</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/celtic-urged-to-reinforce-in-wake-of-rangers-loss-as-one-player-singled-out-as-disappointment-4142261"/>
-        <updated>2023-05-15T07:06:14.000Z</updated>
-        <summary type="html"><![CDATA[Former Celtic forward Kris Commons has urged the club to strengthen defensively in the wake of losing the final Old Firm derby 3-0 to Rangers.]]></summary>
-        <author>
-            <name>Ross McLeish</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic hoover up main awards with four gongs, Rangers land two - full list of PFA winners]]></title>
-        <id>4142254</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/celtic-hoover-up-main-awards-with-four-gongs-rangers-land-two-full-list-of-pfa-winners-4142254"/>
-        <updated>2023-05-15T06:58:30.000Z</updated>
-        <summary type="html"><![CDATA[Celtic manager Ange Postecoglou and his free-scoring forward Kyogo Furuhashi picked the main gongs at the PFA Scotland award ceremony on Sunday evening.]]></summary>
-        <author>
-            <name>Mark Atkinson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Watch Jota's Celtic vs Rangers strike named goal of the season]]></title>
-        <id>8e7a565fcebd6902990e2567baf7e876</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23521639.watch-jotas-celtic-vs-rangers-strike-named-goal-season/?ref=rss"/>
-        <updated>2023-05-15T06:38:47.000Z</updated>
-        <summary type="html"><![CDATA[The winger collected goal of the season gongs at the PFA awards as well as his own club awards night.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Evolution not revolution' - Rangers loss sparks Celtic signing demand]]></title>
-        <id>3619a94cafd8f6e392fe008c727082a8</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23521633.evolution-not-revolution---rangers-loss-sparks-celtic-signing-demand/?ref=rss"/>
-        <updated>2023-05-15T06:34:04.000Z</updated>
-        <summary type="html"><![CDATA[Former Celtic winger Kris Commons reckons Ange Postecoglou must sign a central defender in the summer.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>
