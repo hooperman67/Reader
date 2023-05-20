@@ -6,6 +6,26 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4151162",
+          "author": "Andrew Smith",
+          "description": "For a team that purports to never stop, Celtic are giving an awfully strong impression of having begun to grind to a halt.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtic-transformed-from-ferrari-to-jalopy-in-latest-misfire-4151162",
+          "publishedOn": "2023-05-20T19:39:37.000Z",
+          "wordCount": 3807,
+          "title": "Celtic transformed from Ferrari to jalopy in latest misfire",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmUwYzEyZDg4LTliOGUtNDlkYy05YWU2LTRjNTA2NjFmZGI5NDoyNmY3N2IzMC0xY2E0LTRiMGYtYjk4Zi1lNjhhNGE4OWRhOTU=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
+          "id": "4151145",
+          "author": "Andrew Smith",
+          "description": "St Mirren manager Stephen Robinson believes his players did not receive their just desserts for a fizzing display against the champions in their own backyard.",
+          "link": "https://www.scotsman.com/sport/football/celtic/st-mirren-manager-stephen-robinson-in-we-deserved-to-win-claim-following-celtic-park-showing-4151145",
+          "publishedOn": "2023-05-20T18:29:55.000Z",
+          "wordCount": 2563,
+          "title": "St Mirren manager Stephen Robinson in 'we deserved to win' claim following Celtic Park showing",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjYwN2JhNzM3LWY0ZDgtNDc4Yi1hMDk1LTg1Mzk1YjIwZjFmMzowYzA1YzZmYi1lMmI3LTQ0MDEtYTMzOS1lMzRmYmVhMjFkMWU=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4151117",
           "author": "Andrew Smith",
           "description": "Celtic manager Ange Postecoglou accepted his team have deviated from their core principles following their struggles that required them to twice come from behind to dig out a 2-2 draw with a vibrant St Mirren.",
@@ -214,26 +234,6 @@
           "wordCount": 2322,
           "title": "How Ange Postecoglou will strengthen Celtic for Champions League as Neil Lennon in 'few will be leaving' claim",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjk4OWJhMGMzLTk1YTUtNGE5MC05ODIxLTA3MmI3Y2UyN2FkMTo1ZjQwMjg0Mi1lNDA3LTRiMjQtYWI1Yy0wODQzZmZkZWM1NWE=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4143963",
-          "author": "Joel Sked",
-          "description": "While there are three rounds of the Scottish Premiership remaining, plus the Scottish Cup final where Celtic will be aiming to complete a treble, there is a fascination about the summer transfer window with a number of clubs set for a rebuild or significant tweaks to their squad.",
-          "link": "https://www.scotsman.com/sport/football/celtic/scottish-transfers-rangers-star-agreement-with-giants-celtic-eye-6ft5in-defender-beale-target-boost-hearts-ace-deal-admission-4143963",
-          "publishedOn": "2023-05-16T09:08:24.000Z",
-          "wordCount": 2781,
-          "title": "Scottish transfers: Rangers star 'agreement' with giants, Celtic eye 6ft5in defender, Beale target boost, Hearts ace deal admission",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmMxZGQ3YWViLTAxYzYtNGFiNy05NDVmLTJhMjY5MGNmOTZkMDo5NjI0ZjU2MC1lODc0LTQwOWEtOTYwMy05OGNkOGY5MDE0ZmM=.jpg?width=1024&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4143725",
-          "author": "Joel Sked",
-          "description": "St Johnstone loan star Adam Montgomery and Motherwell’s emerging teenage ace Max Johnston have been nominated for the Scottish Football Writers’ Association’s SPFL Young Player of the Year award.",
-          "link": "https://www.scotsman.com/sport/football/celtic/the-4-sfwa-scottish-young-player-of-the-year-nominees-including-celtic-loan-star-and-euro-linked-well-ace-4143725",
-          "publishedOn": "2023-05-16T06:30:00.000Z",
-          "wordCount": 2344,
-          "title": "The 4 SFWA Scottish Young Player of the Year nominees - including Celtic loan star and Euro-linked Well ace",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmUxYWU5MTVkLTljMzQtNDVlMS04NjJmLTAyOGQwM2FiOTFmZDo2ZmU3ZTg2Yy0xODA1LTQ0NDItYjlkNy1kM2Y5YmY0MjhhMDA=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
         }
       ]
     },
@@ -547,16 +547,6 @@
           "wordCount": 9752,
           "title": "'Brilliant' Celtic boss Postecoglou should be targeted by Tottenham",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16784313/?type=og-image"
-        },
-        {
-          "id": "853b25a79899ecd25a0cbc781fa27efd",
-          "author": null,
-          "description": "The former Parkhead boss expects Ange Postecoglou to add to his squad in the summer.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23524499.neil-lennon-delivers-celtic-transfer-verdict-predicts-departures/?ref=rss",
-          "publishedOn": "2023-05-16T07:31:15.000Z",
-          "wordCount": 8505,
-          "title": "Neil Lennon delivers Celtic transfer verdict as he predicts departures",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16783571/?type=og-image"
         }
       ]
     }

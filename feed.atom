@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-20T18:19:12.994Z</updated>
+    <updated>2023-05-20T21:13:32.894Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic transformed from Ferrari to jalopy in latest misfire]]></title>
+        <id>4151162</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/celtic-transformed-from-ferrari-to-jalopy-in-latest-misfire-4151162"/>
+        <updated>2023-05-20T19:39:37.000Z</updated>
+        <summary type="html"><![CDATA[For a team that purports to never stop, Celtic are giving an awfully strong impression of having begun to grind to a halt.]]></summary>
+        <author>
+            <name>Andrew Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[St Mirren manager Stephen Robinson in 'we deserved to win' claim following Celtic Park showing]]></title>
+        <id>4151145</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/st-mirren-manager-stephen-robinson-in-we-deserved-to-win-claim-following-celtic-park-showing-4151145"/>
+        <updated>2023-05-20T18:29:55.000Z</updated>
+        <summary type="html"><![CDATA[St Mirren manager Stephen Robinson believes his players did not receive their just desserts for a fizzing display against the champions in their own backyard.]]></summary>
+        <author>
+            <name>Andrew Smith</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ange Postecoglou makes 'heavyweight champion of world' comment after questions over St Mirren draw]]></title>
         <id>4151117</id>
@@ -512,36 +532,6 @@
         <link href="https://www.scotsman.com/sport/football/celtic/how-ange-postecoglou-will-strengthen-celtic-for-champions-league-as-neil-lennon-in-few-will-be-leaving-claim-4144016"/>
         <updated>2023-05-16T09:36:04.000Z</updated>
         <summary type="html"><![CDATA[Neil Lennon believes Ange Postecoglou will look to “add a bit of physicality” to his Celtic side ahead for their Champions League campaign next season.]]></summary>
-        <author>
-            <name>Joel Sked</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scottish transfers: Rangers star 'agreement' with giants, Celtic eye 6ft5in defender, Beale target boost, Hearts ace deal admission]]></title>
-        <id>4143963</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/scottish-transfers-rangers-star-agreement-with-giants-celtic-eye-6ft5in-defender-beale-target-boost-hearts-ace-deal-admission-4143963"/>
-        <updated>2023-05-16T09:08:24.000Z</updated>
-        <summary type="html"><![CDATA[While there are three rounds of the Scottish Premiership remaining, plus the Scottish Cup final where Celtic will be aiming to complete a treble, there is a fascination about the summer transfer window with a number of clubs set for a rebuild or significant tweaks to their squad.]]></summary>
-        <author>
-            <name>Joel Sked</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neil Lennon delivers Celtic transfer verdict as he predicts departures]]></title>
-        <id>853b25a79899ecd25a0cbc781fa27efd</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23524499.neil-lennon-delivers-celtic-transfer-verdict-predicts-departures/?ref=rss"/>
-        <updated>2023-05-16T07:31:15.000Z</updated>
-        <summary type="html"><![CDATA[The former Parkhead boss expects Ange Postecoglou to add to his squad in the summer.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 4 SFWA Scottish Young Player of the Year nominees - including Celtic loan star and Euro-linked Well ace]]></title>
-        <id>4143725</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/the-4-sfwa-scottish-young-player-of-the-year-nominees-including-celtic-loan-star-and-euro-linked-well-ace-4143725"/>
-        <updated>2023-05-16T06:30:00.000Z</updated>
-        <summary type="html"><![CDATA[St Johnstone loan star Adam Montgomery and Motherwell’s emerging teenage ace Max Johnston have been nominated for the Scottish Football Writers’ Association’s SPFL Young Player of the Year award.]]></summary>
         <author>
             <name>Joel Sked</name>
         </author>
