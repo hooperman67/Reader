@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4150437",
+          "author": "Joel Sked",
+          "description": "As things stand, Liam Scales will report to Celtic for pre-season after taking a much-needed holiday following an Aberdeen season which has been somewhat of a rollercoaster.",
+          "link": "https://www.scotsman.com/sport/football/celtic/what-liam-scales-said-about-aberdeen-and-celtic-future-pre-season-plans-and-his-love-playing-for-the-dons-4150437",
+          "publishedOn": "2023-05-19T21:30:00.000Z",
+          "wordCount": 2934,
+          "title": "What Liam Scales said about Aberdeen and Celtic future, pre-season plans and his 'love' playing for the Dons",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjJkY2RmZDI4LTI4YjgtNDgxZC1hZTdjLWNlNjVhMmUxYTdiODplZGZkYmM3MC1lZmEwLTRiNDktOTg1Yy1iNjMxN2UwNmU4ODg=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4150160",
           "author": "Matthew Elder",
           "description": "Graeme Souness has held “informal” talks with Rangers over the prospect of returning to the club in an ambassadorial capacity.",
@@ -224,16 +234,6 @@
           "wordCount": 3809,
           "title": "Smokin' hot Billy Gilmour - Scottish tall tales and what recent Brighton birth means for Rangers and Celtic chat and national team",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjQ4OGI1N2I5LTE0ZmUtNGMxNC05ODgxLWJhZjBhMjM4MjMyMjozMjQ4MmFhZi05MzFiLTRmMjEtYjhjNC0xNjVkYjM4ZmQ4ZmY=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4142596",
-          "author": "Mark Atkinson",
-          "description": "Aberdeen have decided against entering a ‘B’ team into a proposed new Scottish Conference League.",
-          "link": "https://www.scotsman.com/sport/football/rangers/why-aberdeen-are-not-following-rangers-celtic-and-hearts-in-b-team-plan-4142596",
-          "publishedOn": "2023-05-15T10:13:08.000Z",
-          "wordCount": 2752,
-          "title": "Why Aberdeen are not following Rangers, Celtic and Hearts in B team plan",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjI0M2M2ODhjLTQ1MTUtNDg5ZS1hNDZiLTE1ODY2MWJiOGZjMDo0ZmZmMDc2Mi0xYjZkLTRmZWYtYTliOC0wMzU5OGNjMjg4M2Y=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
         }
       ]
     },
@@ -246,7 +246,7 @@
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
       "articles": [
         {
           "id": "385fedafdf0e792202d465fab2ea0e68",
@@ -547,16 +547,6 @@
           "wordCount": 8447,
           "title": "Xavier Mbuyamba Celtic transfer links emerge as club 'scouts' defender",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16783313/?type=og-image"
-        },
-        {
-          "id": "429c1135ac90766dad7bfa1977f0b274",
-          "author": null,
-          "description": "The incident wasn't checked by Greg Aitken on VAR, despite the strong protestation from those in green and white.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23522997.dermot-gallagher-delivers-rangers-vs-celtic-handball-penalty-verdict/?ref=rss",
-          "publishedOn": "2023-05-15T12:53:50.000Z",
-          "wordCount": 8535,
-          "title": "Dermot Gallagher delivers Rangers vs Celtic 'handball' penalty verdict",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16780871/?type=og-image"
         }
       ]
     }

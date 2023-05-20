@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-19T21:14:08.543Z</updated>
+    <updated>2023-05-20T01:23:23.575Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What Liam Scales said about Aberdeen and Celtic future, pre-season plans and his 'love' playing for the Dons]]></title>
+        <id>4150437</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/what-liam-scales-said-about-aberdeen-and-celtic-future-pre-season-plans-and-his-love-playing-for-the-dons-4150437"/>
+        <updated>2023-05-19T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[As things stand, Liam Scales will report to Celtic for pre-season after taking a much-needed holiday following an Aberdeen season which has been somewhat of a rollercoaster.]]></summary>
+        <author>
+            <name>Joel Sked</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ally McCoist brands Chris Sutton 'disrespectful' after Rangers dig]]></title>
         <id>385fedafdf0e792202d465fab2ea0e68</id>
@@ -524,26 +534,6 @@
         <summary type="html"><![CDATA[It is a rebirth for the nation. It is no stretch to suggest that the delirium generated within Billy Gilmour’s Scottish homeland two years ago over his long-predicted emergence assumed astronomical proportions.]]></summary>
         <author>
             <name>Andrew Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dermot Gallagher delivers Rangers vs Celtic 'handball' penalty verdict]]></title>
-        <id>429c1135ac90766dad7bfa1977f0b274</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23522997.dermot-gallagher-delivers-rangers-vs-celtic-handball-penalty-verdict/?ref=rss"/>
-        <updated>2023-05-15T12:53:50.000Z</updated>
-        <summary type="html"><![CDATA[The incident wasn't checked by Greg Aitken on VAR, despite the strong protestation from those in green and white.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Aberdeen are not following Rangers, Celtic and Hearts in B team plan]]></title>
-        <id>4142596</id>
-        <link href="https://www.scotsman.com/sport/football/rangers/why-aberdeen-are-not-following-rangers-celtic-and-hearts-in-b-team-plan-4142596"/>
-        <updated>2023-05-15T10:13:08.000Z</updated>
-        <summary type="html"><![CDATA[Aberdeen have decided against entering a ‘B’ team into a proposed new Scottish Conference League.]]></summary>
-        <author>
-            <name>Mark Atkinson</name>
         </author>
     </entry>
 </feed>
