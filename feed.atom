@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-20T15:15:47.049Z</updated>
+    <updated>2023-05-20T18:19:12.994Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ange Postecoglou makes 'heavyweight champion of world' comment after questions over St Mirren draw]]></title>
+        <id>4151117</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/ange-postecoglou-makes-heavyweight-champion-of-world-comment-after-questions-over-st-mirren-draw-4151117"/>
+        <updated>2023-05-20T17:16:33.000Z</updated>
+        <summary type="html"><![CDATA[Celtic manager Ange Postecoglou accepted his team have deviated from their core principles following their struggles that required them to twice come from behind to dig out a 2-2 draw with a vibrant St Mirren.]]></summary>
+        <author>
+            <name>Andrew Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ange Postecoglou in Celtic 'heavyweight champion' response to critics]]></title>
+        <id>36c5a000583685123488c6506a4a45ac</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23536357.ange-postecoglou-celtic-heavyweight-champion-response-critics/?ref=rss"/>
+        <updated>2023-05-20T16:51:51.000Z</updated>
+        <summary type="html"><![CDATA[Ange Postecoglou fired back at critics as Celtic failed to defeat St Mirren.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic 2 St Mirren 2: Instant reaction to the burning issues]]></title>
+        <id>a66d3906804158cda6c6d3c93e60999a</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23536295.celtic-2-st-mirren-2-instant-reaction-burning-issues/?ref=rss"/>
+        <updated>2023-05-20T15:49:54.000Z</updated>
+        <summary type="html"><![CDATA[dsak;dnas]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic team news vs St Mirren as Postecoglou names starting XI]]></title>
         <id>c1ac1e29fba4c00fabbb975600d40dca</id>
@@ -514,16 +544,6 @@
         <summary type="html"><![CDATA[St Johnstone loan star Adam Montgomery and Motherwell’s emerging teenage ace Max Johnston have been nominated for the Scottish Football Writers’ Association’s SPFL Young Player of the Year award.]]></summary>
         <author>
             <name>Joel Sked</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The day Celtic icon Kyogo tormented Ange's team with brilliant display]]></title>
-        <id>1d0481fbb03749a3245311c6e6043953</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23524194.day-celtic-icon-kyogo-tormented-anges-team-brilliant-display/?ref=rss"/>
-        <updated>2023-05-16T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Parkhead pair were big winners at Sunday's PFA Scotland awards night in Glasgow.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>
