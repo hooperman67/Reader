@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-20T12:30:31.074Z</updated>
+    <updated>2023-05-20T15:15:47.049Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic team news vs St Mirren as Postecoglou names starting XI]]></title>
+        <id>c1ac1e29fba4c00fabbb975600d40dca</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23536118.celtic-team-news-vs-st-mirren-postecoglou-names-starting-xi/?ref=rss"/>
+        <updated>2023-05-20T12:47:00.000Z</updated>
+        <summary type="html"><![CDATA[The Scottish champions are looking to get back on track after the defeat to Rangers.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[John Kennedy draws Man City parallels with Celtic under Ange]]></title>
         <id>dc0a50d709fc1baae57c370dec572a46</id>
