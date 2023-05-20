@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-20T01:23:23.575Z</updated>
+    <updated>2023-05-20T03:17:17.106Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -514,26 +514,6 @@
         <summary type="html"><![CDATA[It was Jota’s strike against Rangers in the first Old Firm clash of the season which won Celtic’s – and PFA Scotland’s – goal of the season award. But if there was a goal which was pure Celtic, which truly summed up the campaign for Ange Postecoglou’s treble-chasing league champions it is Kyogo Furuhashi’s strike against Hearts at Tynecastle Park last weekend.]]></summary>
         <author>
             <name>Joel Sked</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smokin' hot Billy Gilmour - Scottish tall tales and what recent Brighton rebirth means for Rangers and Celtic chat and national team]]></title>
-        <id>4143333</id>
-        <link href="https://www.scotsman.com/sport/football/rangers/smokin-hot-billy-gilmour-scottish-tall-tales-and-what-recent-brighton-rebirth-means-for-rangers-and-celtic-chat-and-national-team-4143333"/>
-        <updated>2023-05-15T14:47:56.000Z</updated>
-        <summary type="html"><![CDATA[It is a rebirth for the nation. It is no stretch to suggest that the delirium generated within Billy Gilmour’s Scottish homeland two years ago over his long-predicted emergence assumed astronomical proportions.]]></summary>
-        <author>
-            <name>Andrew Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smokin' hot Billy Gilmour - Scottish tall tales and what recent Brighton birth means for Rangers and Celtic chat and national team]]></title>
-        <id>4143333</id>
-        <link href="https://www.scotsman.com/sport/football/rangers/smokin-hot-billy-gilmour-scottish-tall-tales-and-what-recent-brighton-birth-means-for-rangers-and-celtic-chat-and-national-team-4143333"/>
-        <updated>2023-05-15T14:47:56.000Z</updated>
-        <summary type="html"><![CDATA[It is a rebirth for the nation. It is no stretch to suggest that the delirium generated within Billy Gilmour’s Scottish homeland two years ago over his long-predicted emergence assumed astronomical proportions.]]></summary>
-        <author>
-            <name>Andrew Smith</name>
         </author>
     </entry>
 </feed>
