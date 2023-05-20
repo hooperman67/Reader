@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-20T09:14:52.983Z</updated>
+    <updated>2023-05-20T12:30:31.074Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -512,16 +512,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23524194.day-celtic-icon-kyogo-tormented-anges-team-brilliant-display/?ref=rss"/>
         <updated>2023-05-16T05:00:00.000Z</updated>
         <summary type="html"><![CDATA[The Parkhead pair were big winners at Sunday's PFA Scotland awards night in Glasgow.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ange and Kyogo react to Celtic awards as striker drops hint on future]]></title>
-        <id>f62a462ecbb021bd1184d1b93ebd0195</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23524156.ange-kyogo-react-celtic-awards-striker-drops-hint-future/?ref=rss"/>
-        <updated>2023-05-15T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The Parkhead manager and star striker were victorious at Sunday's PFA Scotland awards night.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
