@@ -6,6 +6,26 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4150713",
+          "author": "Andrew Smith",
+          "description": "It is an unenviable high wire act that James Bizgrove must perform as he steps into the role of Rangers chief executive.",
+          "link": "https://www.scotsman.com/sport/football/rangers/rangers-ceo-james-bisgrove-has-say-on-celtic-threat-to-most-successful-club-in-world-status-4150713",
+          "publishedOn": "2023-05-20T07:00:00.000Z",
+          "wordCount": 3300,
+          "title": "Rangers CEO James Bisgrove has say on Celtic threat to most successful club in world status",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmVlMDFmMGE2LWM4MWQtNDZmNi05NzM4LWNkM2E2ZjljYjFkOTo5OTM1YWYwNi1hMzVjLTQzNTItOTg4YS1iZDQ5MWM2ZWExYzg=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
+          "id": "4150399",
+          "author": "Mark Atkinson",
+          "description": "There should be a carnival atmosphere at Parkhead this afternoon as the majority of the Celtic support get their first chance to acclaim their freshly-crowned champions.",
+          "link": "https://www.scotsman.com/sport/football/celtic/seville-memories-and-sensational-man-city-whet-celtics-european-appetite-as-champions-prepare-to-return-home-4150399",
+          "publishedOn": "2023-05-20T07:00:00.000Z",
+          "wordCount": 2924,
+          "title": "Seville memories and 'sensational' Man City whet Celtic's European appetite as champions prepare to return home",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmEzOTFlNGViLWU3NDItNDRlZS1iMDM4LWVmOTg5OWMyZTc5ZjplODIwY2QyNS0xY2Q5LTRjMjQtOTRmYS0zZTkyNTA3NWUxYzA=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4150437",
           "author": "Joel Sked",
           "description": "As things stand, Liam Scales will report to Celtic for pre-season after taking a much-needed holiday following an Aberdeen season which has been somewhat of a rollercoaster.",
@@ -204,16 +224,6 @@
           "wordCount": 2344,
           "title": "The 4 SFWA Scottish Young Player of the Year nominees - including Celtic loan star and Euro-linked Well ace",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmUxYWU5MTVkLTljMzQtNDVlMS04NjJmLTAyOGQwM2FiOTFmZDo2ZmU3ZTg2Yy0xODA1LTQ0NDItYjlkNy1kM2Y5YmY0MjhhMDA=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4143722",
-          "author": "Joel Sked",
-          "description": "It was Jota’s strike against Rangers in the first Old Firm clash of the season which won Celtic’s – and PFA Scotland’s – goal of the season award. But if there was a goal which was pure Celtic, which truly summed up the campaign for Ange Postecoglou’s treble-chasing league champions it is Kyogo Furuhashi’s strike against Hearts at Tynecastle Park last weekend.",
-          "link": "https://www.scotsman.com/sport/football/celtic/kyogo-furuhashi-celtic-and-summer-dilemma-euro-interest-deserved-award-haul-incredible-goal-stats-4143722",
-          "publishedOn": "2023-05-15T19:30:00.000Z",
-          "wordCount": 3805,
-          "title": "Kyogo Furuhashi, Celtic and summer 'dilemma' - Euro interest, deserved award haul, incredible goal stats",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmIyZTlkYWYyLTMwYjAtNDI5NC1iMmE2LTU3ZGM5YTExOTU4NDo4YzdmZjEzNy1jZmZkLTQ4ZDQtOTExOC1iMjgyOTM0NzNhOTg=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
         }
       ]
     },
@@ -228,6 +238,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "dc0a50d709fc1baae57c370dec572a46",
+          "author": null,
+          "description": "The Parkhead assistant is looking forward to another crack at the Champions League next season.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23535731.john-kennedy-draws-man-city-parallels-celtic-ange/?ref=rss",
+          "publishedOn": "2023-05-20T07:16:38.000Z",
+          "wordCount": 9260,
+          "title": "John Kennedy draws Man City parallels with Celtic under Ange",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16800397/?type=og-image"
+        },
         {
           "id": "385fedafdf0e792202d465fab2ea0e68",
           "author": null,
@@ -517,16 +537,6 @@
           "wordCount": 9679,
           "title": "Ange and Kyogo react to Celtic awards as striker drops hint on future",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16783009/?type=og-image"
-        },
-        {
-          "id": "5ca3d501d78a2bad33c0adc3b3c2f130",
-          "author": null,
-          "description": "The 21-year-old has already earned comparisons to former Hoops far Virgil van Dijk in the budding years of his career.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23524327.xavier-mbuyamba-celtic-transfer-links-emerge-club-scouts-defender/?ref=rss",
-          "publishedOn": "2023-05-15T19:48:18.000Z",
-          "wordCount": 8447,
-          "title": "Xavier Mbuyamba Celtic transfer links emerge as club 'scouts' defender",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16783313/?type=og-image"
         }
       ]
     }

@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-20T06:20:35.468Z</updated>
+    <updated>2023-05-20T09:14:52.983Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[John Kennedy draws Man City parallels with Celtic under Ange]]></title>
+        <id>dc0a50d709fc1baae57c370dec572a46</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23535731.john-kennedy-draws-man-city-parallels-celtic-ange/?ref=rss"/>
+        <updated>2023-05-20T07:16:38.000Z</updated>
+        <summary type="html"><![CDATA[The Parkhead assistant is looking forward to another crack at the Champions League next season.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rangers CEO James Bisgrove has say on Celtic threat to most successful club in world status]]></title>
+        <id>4150713</id>
+        <link href="https://www.scotsman.com/sport/football/rangers/rangers-ceo-james-bisgrove-has-say-on-celtic-threat-to-most-successful-club-in-world-status-4150713"/>
+        <updated>2023-05-20T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It is an unenviable high wire act that James Bizgrove must perform as he steps into the role of Rangers chief executive.]]></summary>
+        <author>
+            <name>Andrew Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seville memories and 'sensational' Man City whet Celtic's European appetite as champions prepare to return home]]></title>
+        <id>4150399</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/seville-memories-and-sensational-man-city-whet-celtics-european-appetite-as-champions-prepare-to-return-home-4150399"/>
+        <updated>2023-05-20T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There should be a carnival atmosphere at Parkhead this afternoon as the majority of the Celtic support get their first chance to acclaim their freshly-crowned champions.]]></summary>
+        <author>
+            <name>Mark Atkinson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Liam Scales said about Aberdeen and Celtic future, pre-season plans and his 'love' playing for the Dons]]></title>
         <id>4150437</id>
@@ -494,26 +524,6 @@
         <summary type="html"><![CDATA[The Parkhead manager and star striker were victorious at Sunday's PFA Scotland awards night.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xavier Mbuyamba Celtic transfer links emerge as club 'scouts' defender]]></title>
-        <id>5ca3d501d78a2bad33c0adc3b3c2f130</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23524327.xavier-mbuyamba-celtic-transfer-links-emerge-club-scouts-defender/?ref=rss"/>
-        <updated>2023-05-15T19:48:18.000Z</updated>
-        <summary type="html"><![CDATA[The 21-year-old has already earned comparisons to former Hoops far Virgil van Dijk in the budding years of his career.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kyogo Furuhashi, Celtic and summer 'dilemma' - Euro interest, deserved award haul, incredible goal stats]]></title>
-        <id>4143722</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/kyogo-furuhashi-celtic-and-summer-dilemma-euro-interest-deserved-award-haul-incredible-goal-stats-4143722"/>
-        <updated>2023-05-15T19:30:00.000Z</updated>
-        <summary type="html"><![CDATA[It was Jota’s strike against Rangers in the first Old Firm clash of the season which won Celtic’s – and PFA Scotland’s – goal of the season award. But if there was a goal which was pure Celtic, which truly summed up the campaign for Ange Postecoglou’s treble-chasing league champions it is Kyogo Furuhashi’s strike against Hearts at Tynecastle Park last weekend.]]></summary>
-        <author>
-            <name>Joel Sked</name>
         </author>
     </entry>
 </feed>
