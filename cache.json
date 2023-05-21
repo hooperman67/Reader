@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4151317",
+          "author": "Matthew Elder",
+          "description": "One of Celtic, Rangers or Glasgow City will be crowned Scottish Women's Premier League champions on Sunday as an epic three-way battle for the title reaches a dramatic conclusion.",
+          "link": "https://www.scotsman.com/sport/football/what-channel-is-rangers-v-glasgow-city-what-channel-is-celtic-women-v-hearts-tv-details-for-swpl-title-deciders-4151317",
+          "publishedOn": "2023-05-21T10:54:10.000Z",
+          "wordCount": 2600,
+          "title": "What channel is Rangers v Glasgow City? What channel is Celtic Women v Hearts? TV details for SWPL title deciders",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjMwOTkwNDEzLWExZmYtNDBhNC1hZjY2LWJlYzI2MWFhMWEwOTo5MWM1NzExYy0wYzhjLTRmNjctYTFiNC1jZDMyNWRkY2ZmZmE=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4150761",
           "author": "Alison McConnell",
           "description": "There is no need for helicopters to change direction when the distance to Ibrox or Celtic Park is a simple hop, skip and a jump away. This afternoon’s motorbike outrider, however, would be better served with an abacus rather than a sat nav.",
@@ -497,16 +507,6 @@
           "wordCount": 8458,
           "title": "Ex-Celtic boss Neil Lennon nears management return at Olympiakos",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16787704/?type=og-image"
-        },
-        {
-          "id": "5473b2bee6cfc6afddb1db39f2689800",
-          "author": null,
-          "description": "IT was a goal fit to grace any game, and one that ultimately saw Jota win the PFA Scotland Goal of the Season Award.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23525220.celtic-winger-jota-fernando-chalana-inspired-rangers-dink/?ref=rss",
-          "publishedOn": "2023-05-16T21:30:00.000Z",
-          "wordCount": 8773,
-          "title": "Celtic winger Jota on how Fernando Chalana inspired Rangers dink",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16628397/?type=og-image"
         }
       ]
     }

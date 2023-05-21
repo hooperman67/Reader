@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-21T09:15:01.388Z</updated>
+    <updated>2023-05-21T12:30:30.417Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What channel is Rangers v Glasgow City? What channel is Celtic Women v Hearts? TV details for SWPL title deciders]]></title>
+        <id>4151317</id>
+        <link href="https://www.scotsman.com/sport/football/what-channel-is-rangers-v-glasgow-city-what-channel-is-celtic-women-v-hearts-tv-details-for-swpl-title-deciders-4151317"/>
+        <updated>2023-05-21T10:54:10.000Z</updated>
+        <summary type="html"><![CDATA[One of Celtic, Rangers or Glasgow City will be crowned Scottish Women's Premier League champions on Sunday as an epic three-way battle for the title reaches a dramatic conclusion.]]></summary>
+        <author>
+            <name>Matthew Elder</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SWPL final day: Glasgow City, Celtic and Rangers all set for title shootout - the numbers will add up for someone]]></title>
         <id>4150761</id>
@@ -482,16 +492,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23527309.ex-celtic-boss-neil-lennon-nears-management-return-olympiakos/?ref=rss"/>
         <updated>2023-05-17T06:05:07.000Z</updated>
         <summary type="html"><![CDATA[The former Parkhead manager is reportedly in the running to take over at the Greek giants.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic winger Jota on how Fernando Chalana inspired Rangers dink]]></title>
-        <id>5473b2bee6cfc6afddb1db39f2689800</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23525220.celtic-winger-jota-fernando-chalana-inspired-rangers-dink/?ref=rss"/>
-        <updated>2023-05-16T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[IT was a goal fit to grace any game, and one that ultimately saw Jota win the PFA Scotland Goal of the Season Award.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
