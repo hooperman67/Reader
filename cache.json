@@ -6,6 +6,26 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4150761",
+          "author": "Alison McConnell",
+          "description": "There is no need for helicopters to change direction when the distance to Ibrox or Celtic Park is a simple hop, skip and a jump away. This afternoon’s motorbike outrider, however, would be better served with an abacus rather than a sat nav.",
+          "link": "https://www.scotsman.com/sport/football/swpl-final-day-glasgow-city-celtic-and-rangers-all-set-for-title-shootout-the-numbers-will-add-up-for-someone-4150761",
+          "publishedOn": "2023-05-21T07:45:00.000Z",
+          "wordCount": 3670,
+          "title": "SWPL final day: Glasgow City, Celtic and Rangers all set for title shootout - the numbers will add up for someone",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjYyZmYyMDM5LTdiMzItNGFlZC05ZWIwLTcyYjExMDYzYjMyZjplNzNmZDcwYS03NDYwLTQ2OTgtYjIxMy1jYzg5Y2FlZjU5Y2Y=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
+          "id": "4151209",
+          "author": "Andrew Smith",
+          "description": "A dynamic St Mirren came close to giving Celtic a real bloody nose in the champions’ own backyard BY twice taking the lead before being pegged back in the clubs’ 2-2 draw. The encounter betrayed that Ange Postecoglou’s men are struggling to retain their edge post-title win and engendered some random musings.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtic-reaction-crowd-drift-telling-lisbon-lions-high-still-beatable-few-cup-final-concerns-4151209",
+          "publishedOn": "2023-05-21T07:25:50.000Z",
+          "wordCount": 2986,
+          "title": "Celtic reaction: Crowd drift telling; Lisbon Lions high still beatable; few cup final concerns",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmRhOGMxOTA0LTVjYWMtNGQ1MC05OTlkLWFmMGZjNDI3Njc0ZjpkOWRhM2MwZC05MDViLTQxMDktYTE0Mi0xZGRjNGY1YTA3MGI=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4151162",
           "author": "Andrew Smith",
           "description": "For a team that purports to never stop, Celtic are giving an awfully strong impression of having begun to grind to a halt.",
@@ -218,6 +238,26 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "8c117a4f961b1fc70115a108de56ba08",
+          "author": null,
+          "description": "On the 20th anniversary of a historic event, the fans who were there share their stories and memories.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23536446.celtic-fans-recall-skipping-exams-getting-engaged-seville/?ref=rss",
+          "publishedOn": "2023-05-21T07:00:00.000Z",
+          "wordCount": 11547,
+          "title": "Celtic fans recall skipping exams and getting engaged in Seville",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16802577/?type=og-image"
+        },
+        {
+          "id": "5e28f5dbddbba55b756e3eb6f1e285c3",
+          "author": null,
+          "description": "Three teams have a realistic chance of winning the title, and the women's domestic game may finally get its afternoon in the spotlight.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23536555.swpl-promises-deliver-final-day-drama/?ref=rss",
+          "publishedOn": "2023-05-21T07:00:00.000Z",
+          "wordCount": 8933,
+          "title": "SWPL promises to deliver final day drama",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16777458/?type=og-image"
+        },
         {
           "id": "36c5a000583685123488c6506a4a45ac",
           "author": null,
