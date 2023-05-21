@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-21T18:19:47.514Z</updated>
+    <updated>2023-05-21T21:14:01.124Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic, Rangers and Glasgow City serve up 'movie' climax as SWPL trophy arrives at Parkhead only to depart for Ibrox]]></title>
+        <id>4151576</id>
+        <link href="https://www.scotsman.com/sport/football/celtic-rangers-and-glasgow-city-serve-up-movie-climax-as-swpl-trophy-arrives-at-parkhead-only-to-depart-for-ibrox-4151576"/>
+        <updated>2023-05-21T20:24:01.000Z</updated>
+        <summary type="html"><![CDATA[Fran Alonso’s Miami Vice look was back at Celtic Park yesterday afternoon. By the time this game was over, however, the look was spoiled by the need for a sick bag.]]></summary>
+        <author>
+            <name>Alison McConnell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic and Rangers dejection as Glasgow City clinch SWPL title after stoppage time drama at Ibrox]]></title>
         <id>4151517</id>
@@ -502,16 +512,6 @@
         <link href="https://www.scotsman.com/sport/football/celtic/celtic-transfers-5-players-linked-with-move-to-scottish-champions-as-ange-postecoglou-targets-another-level-4146122"/>
         <updated>2023-05-17T11:34:38.000Z</updated>
         <summary type="html"><![CDATA[How do Celtic go to the next level? They are on course for the treble, following on from the double last season, and it is difficult to look at Ange Postecoglou’s strongest XI and pinpoint an area that should be upgraded or would be straightforward to upgrade.]]></summary>
-        <author>
-            <name>Joel Sked</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic transfers: Ange Postecolgou admits 'players will move on' as 18-goal target addresses speculation]]></title>
-        <id>4145475</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/celtic-transfers-ange-postecolgou-admits-players-will-move-on-as-18-goal-target-addresses-speculation-4145475"/>
-        <updated>2023-05-17T06:56:14.000Z</updated>
-        <summary type="html"><![CDATA[Celtic will be looking to complete a treble in the coming weeks but already there will be a focus on the summer and planning for their title defence but also the Champions League group stage where they will look to improve on from this campaign.]]></summary>
         <author>
             <name>Joel Sked</name>
         </author>
