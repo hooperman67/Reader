@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4151517",
+          "author": "Matthew Elder",
+          "description": "Glasgow City have emerged as champions with Rangers and Celtic left dejected after a thrilling climax to the Scottish Women's Premier League season.",
+          "link": "https://www.scotsman.com/sport/football/celtic-and-rangers-dejection-as-glasgow-city-clinch-swpl-title-after-stoppage-time-drama-at-ibrox-4151517",
+          "publishedOn": "2023-05-21T17:29:19.000Z",
+          "wordCount": 2161,
+          "title": "Celtic and Rangers dejection as Glasgow City clinch SWPL title after stoppage time drama at Ibrox",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmZmMjY5ZmZkLWYyMWYtNDQxOC04ZjVhLWVlMzRiNTAxMTY3ODo5YTZhNDNlNi00MjIwLTQwNDctODdlZC01N2RhZjdlNjk1ZmQ=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4151317",
           "author": "Matthew Elder",
           "description": "One of Celtic, Rangers or Glasgow City will be crowned Scottish Women's Premier League champions on Sunday as an epic three-way battle for the title reaches a dramatic conclusion.",
@@ -248,6 +258,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "e136184f3f55df9e1a761f91016c8e80",
+          "author": null,
+          "description": "The Scottish Women's Premier League draws to a close this Sunday with three clubs still in with a chance of lifting the title we are in for a huge afternoon of action. Glasgow City, Celtic and Rangers can all still become champions, but who can hold their nerve? Stay tuned on our LIVE blog to find out.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23537055.glasgow-city-win-swpl-title-celtic-rangers-fall-short/?ref=rss",
+          "publishedOn": "2023-05-21T14:15:21.000Z",
+          "wordCount": 8108,
+          "title": "Glasgow City win the SWPL title as Celtic and Rangers fall short",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16803774/?type=og-image"
+        },
         {
           "id": "e136184f3f55df9e1a761f91016c8e80",
           "author": null,
@@ -507,16 +527,6 @@
           "wordCount": 8697,
           "title": "Mum of Glasgow Rangers fan who died at 19 plans special tribute",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16791120/?type=og-image"
-        },
-        {
-          "id": "5917b3ec0e578a3e0e653a4c3aa62588",
-          "author": null,
-          "description": "The former Parkhead manager is reportedly in the running to take over at the Greek giants.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23527309.ex-celtic-boss-neil-lennon-nears-management-return-olympiakos/?ref=rss",
-          "publishedOn": "2023-05-17T06:05:07.000Z",
-          "wordCount": 8458,
-          "title": "Ex-Celtic boss Neil Lennon nears management return at Olympiakos",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16787704/?type=og-image"
         }
       ]
     }
