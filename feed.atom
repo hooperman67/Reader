@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-20T21:13:32.894Z</updated>
+    <updated>2023-05-21T01:38:11.852Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -504,36 +504,6 @@
         <summary type="html"><![CDATA[The Volendam centre-back is reportedly on the radar of Ange Postecoglou ahead of the transfer window opening up.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic switch title decider venue and look to create another record]]></title>
-        <id>4144456</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/celtic-switch-title-decider-venue-and-look-to-create-another-record-4144456"/>
-        <updated>2023-05-16T12:28:33.000Z</updated>
-        <summary type="html"><![CDATA[Celtic Women will play their final game of the SWPL season at Celtic Park after the club decided to switch the venue for what could be a title celebration.]]></summary>
-        <author>
-            <name>Mark Atkinson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Brilliant' Celtic boss Postecoglou should be targeted by Tottenham]]></title>
-        <id>553f0838066d62a57192dae305910ec7</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23525199.brilliant-celtic-boss-postecoglou-targeted-tottenham/?ref=rss"/>
-        <updated>2023-05-16T10:20:41.000Z</updated>
-        <summary type="html"><![CDATA[Former Spurs midfielder Jamie O'Hara reckons Tottenham should appoint Postecoglou in the summer.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Ange Postecoglou will strengthen Celtic for Champions League as Neil Lennon in 'few will be leaving' claim]]></title>
-        <id>4144016</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/how-ange-postecoglou-will-strengthen-celtic-for-champions-league-as-neil-lennon-in-few-will-be-leaving-claim-4144016"/>
-        <updated>2023-05-16T09:36:04.000Z</updated>
-        <summary type="html"><![CDATA[Neil Lennon believes Ange Postecoglou will look to “add a bit of physicality” to his Celtic side ahead for their Champions League campaign next season.]]></summary>
-        <author>
-            <name>Joel Sked</name>
         </author>
     </entry>
 </feed>
