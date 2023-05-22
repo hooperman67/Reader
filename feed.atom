@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-22T12:33:29.608Z</updated>
+    <updated>2023-05-22T15:17:42.133Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Referee named for Celtic vs Inverness Scottish Cup final]]></title>
+        <id>d63cea34a49fff34af2c7817137932c9</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23538525.referee-named-celtic-vs-inverness-scottish-cup-final/?ref=rss"/>
+        <updated>2023-05-22T11:43:55.000Z</updated>
+        <summary type="html"><![CDATA[The Scottish FA have confirmed the refereeing appointments for the showpiece final.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ange Postecoglou link that won't go away: Celtic manager 'on four-man shortlist' for Spurs but other candidate far likelier]]></title>
         <id>4151948</id>
