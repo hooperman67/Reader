@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-22T15:17:42.133Z</updated>
+    <updated>2023-05-22T18:20:47.960Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Scottish transfers: Rangers star in talks with EPL trio, bid for £13m-rated Celtic target. Hearts midfielder exits]]></title>
+        <id>4153097</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/scottish-transfers-rangers-star-in-talks-with-epl-trio-bid-for-ps13m-rated-celtic-target-hearts-midfielder-exits-4153097"/>
+        <updated>2023-05-22T17:42:47.000Z</updated>
+        <summary type="html"><![CDATA[There is less than a week left of the Scottish Premiership season with two rounds of fixtures over the next six days with the European and relegation places still to be decided. Meanwhile clubs are well into plans for next season regarding arrivals and departures.]]></summary>
+        <author>
+            <name>Joel Sked</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Referee named for Celtic vs Inverness Scottish Cup final]]></title>
         <id>d63cea34a49fff34af2c7817137932c9</id>
@@ -512,16 +522,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23530252.celtic-transfer-decision-liam-scales-hold-summer/?ref=rss"/>
         <updated>2023-05-18T07:28:36.000Z</updated>
         <summary type="html"><![CDATA[The defender has been an impressive figure in the Dons backline this season, particularly since Barry Robson took over the side in late January.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ange in Celtic tribute to key duo he was determined to stick with]]></title>
-        <id>ddf14003c32afcfd66e32c5dbf1fc9d5</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23529849.ange-celtic-tribute-key-duo-determined-stick/?ref=rss"/>
-        <updated>2023-05-18T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ange Postecoglou may be the frontman, but the Celtic manager is adamant his backroom team deserve just as much limelight.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
