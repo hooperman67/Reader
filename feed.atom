@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-21T21:14:01.124Z</updated>
+    <updated>2023-05-22T01:37:20.787Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[St Mirren reveal Celtic player who was deliberately targeted in 2-2 draw - 'it's not something you would ignore']]></title>
+        <id>4151526</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/st-mirren-reveal-celtic-player-who-was-deliberately-targeted-in-2-2-draw-its-not-something-you-would-ignore-4151526"/>
+        <updated>2023-05-21T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Curtis Main has revealed that St Mirren deliberately targeted Tomoki Iwata ahead of their 2-2 draw with Celtic.]]></summary>
+        <author>
+            <name>Graeme Macpherson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kyogo Furuhashi eyes permanent place on Celtic Park walls as striker spared from St Mirren criticism]]></title>
+        <id>4151455</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/kyogo-furuhashi-eyes-permanent-place-on-celtic-park-walls-as-striker-spared-from-st-mirren-criticism-4151455"/>
+        <updated>2023-05-21T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Given the almost childlike enthusiasm with which he energetically celebrates every victory, it should probably not come as a huge surprise to see Kyogo Furuhashi continue to whizz around the park in these end-of-season dead rubber contests as if his life depended on it.]]></summary>
+        <author>
+            <name>Graeme Macpherson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fran Alonso: Forget title, Celtic changed Scottish women's football]]></title>
+        <id>88dc282912bfb98f167c6ff037b4f035</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23537303.fran-alonso-forget-title-celtic-changed-scottish-womens-football/?ref=rss"/>
+        <updated>2023-05-21T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Fran Alonso has told his players that they have changed the landscape of Scottish women’s football despite failing to land a first SWPL title this season.There was heartbreak for Celtic after they came within two minutes of winning their inaugural league with an emotional Alonso left to console his visibly distraught players in the aftermath of an afternoon when they were so near yet so far.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic, Rangers and Glasgow City serve up 'movie' climax as SWPL trophy arrives at Parkhead only to depart for Ibrox]]></title>
         <id>4151576</id>
@@ -494,26 +524,6 @@
         <summary type="html"><![CDATA[An old firm charity match is set to take place this weekend in memory of a Glasgow teen who lost her life in 2020.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic v Inverness: MSPs demand more answers over Scottish Cup final kick-off change as SFA response branded 'less than satisfactory']]></title>
-        <id>4146141</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/celtic-v-inverness-msps-demand-more-answers-over-scottish-cup-final-kick-off-change-as-sfa-response-branded-less-than-satisfactory-4146141"/>
-        <updated>2023-05-17T11:43:03.000Z</updated>
-        <summary type="html"><![CDATA[MSPs have written to the Scottish FA for a second time to demand more answers after being left “disappointed” with the response received to questions relating to the decision to change kick-off time for next month's Scottish Cup final between Celtic and Inverness Caledonian Thistle.]]></summary>
-        <author>
-            <name>Matthew Elder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic transfers: 5 players linked with move to Scottish champions as Ange Postecoglou targets 'another level']]></title>
-        <id>4146122</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/celtic-transfers-5-players-linked-with-move-to-scottish-champions-as-ange-postecoglou-targets-another-level-4146122"/>
-        <updated>2023-05-17T11:34:38.000Z</updated>
-        <summary type="html"><![CDATA[How do Celtic go to the next level? They are on course for the treble, following on from the double last season, and it is difficult to look at Ange Postecoglou’s strongest XI and pinpoint an area that should be upgraded or would be straightforward to upgrade.]]></summary>
-        <author>
-            <name>Joel Sked</name>
         </author>
     </entry>
 </feed>
