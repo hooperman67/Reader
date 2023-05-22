@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-22T09:17:15.470Z</updated>
+    <updated>2023-05-22T12:33:29.608Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ange Postecoglou link that won't go away: Celtic manager 'on four-man shortlist' for Spurs but other candidate far likelier]]></title>
+        <id>4151948</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/ange-postecoglou-link-that-wont-go-away-celtic-manager-on-four-man-shortlist-for-spurs-but-other-candidate-far-likelier-4151948"/>
+        <updated>2023-05-22T09:36:36.000Z</updated>
+        <summary type="html"><![CDATA[Tottenham Hotspur continue to be linked with Celtic boss Ange Postecoglou as they mull over who to appoint as their manager for next season.]]></summary>
+        <author>
+            <name>Mark Atkinson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tottenham manager latest as Celtic's Postecoglou remains on shortlist]]></title>
         <id>6fe7677d6dcf204b8c8b607db25c9dea</id>
@@ -504,26 +514,6 @@
         <summary type="html"><![CDATA[Ange Postecoglou may be the frontman, but the Celtic manager is adamant his backroom team deserve just as much limelight.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Ange Postecoglou 'boom moment' that kick-started success]]></title>
-        <id>c3166ae9a1dc8da9a61c87727cf8ef93</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23528260.ange-postecoglou-boom-moment-kick-started-success/?ref=rss"/>
-        <updated>2023-05-17T21:35:00.000Z</updated>
-        <summary type="html"><![CDATA[There is a certain art to becoming comfortable in the uncomfortable - the Celtic boss is a master.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ange Postecoglou addresses Liam Scales' Celtic future and hails the 'outstanding people' behind his success]]></title>
-        <id>4147021</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/ange-postecoglou-addresses-liam-scales-celtic-future-and-hails-the-outstanding-people-behind-his-success-4147021"/>
-        <updated>2023-05-17T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Celtic manager Ange Postecoglou has applauded Liam Scales’ efforts on loan for Aberdeen and revealed a decision on the player’s future is imminent.]]></summary>
-        <author>
-            <name>Alan Pattullo</name>
         </author>
     </entry>
 </feed>
