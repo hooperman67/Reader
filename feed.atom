@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-22T03:18:56.092Z</updated>
+    <updated>2023-05-22T06:22:25.943Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -514,16 +514,6 @@
         <summary type="html"><![CDATA[New Rangers chief executive James Bisgrove has revealed that plans are in place for the club to become the dominant force in Scottish football across the next two years.]]></summary>
         <author>
             <name>Matthew Elder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mum of Glasgow Rangers fan who died at 19 plans special tribute]]></title>
-        <id>b4ad6010b1b1ef94c8d6c581724dfe27</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23528898.mum-glasgow-rangers-fan-died-19-plans-special-tribute/?ref=rss"/>
-        <updated>2023-05-17T15:39:00.000Z</updated>
-        <summary type="html"><![CDATA[An old firm charity match is set to take place this weekend in memory of a Glasgow teen who lost her life in 2020.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>
