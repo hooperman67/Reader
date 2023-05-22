@@ -234,16 +234,6 @@
           "wordCount": 2903,
           "title": "Ange Postecoglou addresses Liam Scales' Celtic future and hails the 'outstanding people' behind his success",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjhlMjQ1MDU4LWU2NWItNDIxZS05MjdkLTY4N2IyNzcwZmYxNDplMmNhZDA2NC1hMWYzLTQzNGQtYjM4ZS03MDBkMDYwYTFjODQ=.jpg?width=944&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4147049",
-          "author": "Matthew Elder",
-          "description": "New Rangers chief executive James Bisgrove has revealed that plans are in place for the club to become the dominant force in Scottish football across the next two years.",
-          "link": "https://www.scotsman.com/sport/football/rangers/how-rangers-plan-to-overtake-celtic-as-new-ceo-reveals-strategy-to-become-dominant-club-in-scotland-4147049",
-          "publishedOn": "2023-05-17T19:13:17.000Z",
-          "wordCount": 2805,
-          "title": "How Rangers plan to overtake Celtic as new CEO reveals strategy to become 'dominant club in Scotland'",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmE5OTNiZTUzLTMzNGItNDcxMy05MjIyLTc2MTg5MjdmYmY2ZjoxY2NjZmYyZC0zZDcwLTQ3YjItODgzMS1hYTMwMzQ5MTdmMjE=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
         }
       ]
     },
@@ -258,6 +248,26 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "6fe7677d6dcf204b8c8b607db25c9dea",
+          "author": null,
+          "description": "The Parkhead boss is included in a four-man shortlist for the Premier League position.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23537737.tottenham-manager-latest-celtics-postecoglou-remains-shortlist/?ref=rss",
+          "publishedOn": "2023-05-22T08:41:28.000Z",
+          "wordCount": 8510,
+          "title": "Tottenham manager latest as Celtic's Postecoglou remains on shortlist",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16804984/?type=og-image"
+        },
+        {
+          "id": "45592333ce217a123f00df5fb7d6753d",
+          "author": null,
+          "description": "Ange Postecoglou's side have two games remaining against Hibs and Aberdeen.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23537597.celtic-record-line-champions-surpass-lisbon-lions/?ref=rss",
+          "publishedOn": "2023-05-22T08:02:55.000Z",
+          "wordCount": 9055,
+          "title": "The Celtic record on the line as champions could surpass Lisbon Lions",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16802263/?type=og-image"
+        },
         {
           "id": "88dc282912bfb98f167c6ff037b4f035",
           "author": null,

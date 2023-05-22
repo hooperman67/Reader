@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-22T06:22:25.943Z</updated>
+    <updated>2023-05-22T09:17:15.470Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tottenham manager latest as Celtic's Postecoglou remains on shortlist]]></title>
+        <id>6fe7677d6dcf204b8c8b607db25c9dea</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23537737.tottenham-manager-latest-celtics-postecoglou-remains-shortlist/?ref=rss"/>
+        <updated>2023-05-22T08:41:28.000Z</updated>
+        <summary type="html"><![CDATA[The Parkhead boss is included in a four-man shortlist for the Premier League position.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Celtic record on the line as champions could surpass Lisbon Lions]]></title>
+        <id>45592333ce217a123f00df5fb7d6753d</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23537597.celtic-record-line-champions-surpass-lisbon-lions/?ref=rss"/>
+        <updated>2023-05-22T08:02:55.000Z</updated>
+        <summary type="html"><![CDATA[Ange Postecoglou's side have two games remaining against Hibs and Aberdeen.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[St Mirren reveal Celtic player who was deliberately targeted in 2-2 draw - 'it's not something you would ignore']]></title>
         <id>4151526</id>
@@ -504,16 +524,6 @@
         <summary type="html"><![CDATA[Celtic manager Ange Postecoglou has applauded Liam Scales’ efforts on loan for Aberdeen and revealed a decision on the player’s future is imminent.]]></summary>
         <author>
             <name>Alan Pattullo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Rangers plan to overtake Celtic as new CEO reveals strategy to become 'dominant club in Scotland']]></title>
-        <id>4147049</id>
-        <link href="https://www.scotsman.com/sport/football/rangers/how-rangers-plan-to-overtake-celtic-as-new-ceo-reveals-strategy-to-become-dominant-club-in-scotland-4147049"/>
-        <updated>2023-05-17T19:13:17.000Z</updated>
-        <summary type="html"><![CDATA[New Rangers chief executive James Bisgrove has revealed that plans are in place for the club to become the dominant force in Scottish football across the next two years.]]></summary>
-        <author>
-            <name>Matthew Elder</name>
         </author>
     </entry>
 </feed>
