@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-23T15:18:23.109Z</updated>
+    <updated>2023-05-23T18:20:27.651Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Scottish transfers: Rangers duo in demand, Kent nears deal, Hibs striker's future hint, ex-Celtic star available]]></title>
+        <id>4154917</id>
+        <link href="https://www.scotsman.com/sport/football/rangers/scottish-transfers-rangers-duo-in-demand-kent-nears-deal-hibs-strikers-future-hint-ex-celtic-star-available-4154917"/>
+        <updated>2023-05-23T18:00:09.000Z</updated>
+        <summary type="html"><![CDATA[With the Scottish Premiership season wrapping up it means the transfer market is beginning to ramp up as well as talk over managerial roles.]]></summary>
+        <author>
+            <name>Joel Sked</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alistair Johnston back in Celtic training and could face Aberdeen]]></title>
+        <id>2acd6d1d409a8019fbcfecff821228b2</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23542455.alistair-johnston-back-celtic-training-face-aberdeen/?ref=rss"/>
+        <updated>2023-05-23T15:36:13.000Z</updated>
+        <summary type="html"><![CDATA[The full-back is set to be back fit for the Scottish Cup final next month.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Does anybody really care?': Celtic boss Ange Postecoglou responds to Rangers exit and tougher challenge poser]]></title>
+        <id>4154682</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/does-anybody-really-care-celtic-boss-ange-postecoglou-responds-to-rangers-exit-and-tougher-challenge-poser-4154682"/>
+        <updated>2023-05-23T15:18:18.000Z</updated>
+        <summary type="html"><![CDATA[Celtic manager Ange Postecoglou is unmoved by news from Rangers that several experienced players will be leaving Ibrox this summer.]]></summary>
+        <author>
+            <name>Ross McLeish</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ange Postecoglou in Celtic 'who cares?' response to Rangers rebuild]]></title>
         <id>df76583cb5086c63d2bf07d68449f102</id>
@@ -434,36 +464,6 @@
         <summary type="html"><![CDATA[Celtic are set to hand goalkeeper Scott Bain a new three-year-deal despite not having featured this season.]]></summary>
         <author>
             <name>Chris Andrews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Callum McGregor on key difference for Celtic in next Champions League]]></title>
-        <id>1a9d046c87bcd2643c846922c0876010</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23532912.callum-mcgregor-key-difference-celtic-next-champions-league/?ref=rss"/>
-        <updated>2023-05-19T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Parkhead skipper was in the youth academy when Martin O'Neill's iconic team reached the UEFA Cup final.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inside Callum McGregor's Celtic longevity - why no rest required ahead of the Scottish Cup final]]></title>
-        <id>4148686</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/inside-callum-mcgregors-celtic-longevity-why-no-rest-required-ahead-of-the-scottish-cup-final-4148686"/>
-        <updated>2023-05-19T03:55:00.000Z</updated>
-        <summary type="html"><![CDATA[He is one of the most relied upon players in Scottish football but you won't catch Callum McGregor asking for a rest.]]></summary>
-        <author>
-            <name>Matthew Elder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inside Callum McGregor's Celtic longevity - why no rest required ahead of Scottish Cup final]]></title>
-        <id>4148686</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/inside-callum-mcgregors-celtic-longevity-why-no-rest-required-ahead-of-scottish-cup-final-4148686"/>
-        <updated>2023-05-19T03:55:00.000Z</updated>
-        <summary type="html"><![CDATA[He is one of the most relied upon players in Scottish football but you won't catch Callum McGregor asking for a rest.]]></summary>
-        <author>
-            <name>Matthew Elder</name>
         </author>
     </entry>
 </feed>

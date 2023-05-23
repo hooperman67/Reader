@@ -6,6 +6,26 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4154917",
+          "author": "Joel Sked",
+          "description": "With the Scottish Premiership season wrapping up it means the transfer market is beginning to ramp up as well as talk over managerial roles.",
+          "link": "https://www.scotsman.com/sport/football/rangers/scottish-transfers-rangers-duo-in-demand-kent-nears-deal-hibs-strikers-future-hint-ex-celtic-star-available-4154917",
+          "publishedOn": "2023-05-23T18:00:09.000Z",
+          "wordCount": 3081,
+          "title": "Scottish transfers: Rangers duo in demand, Kent nears deal, Hibs striker's future hint, ex-Celtic star available",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjNlMTU1NTQ3LTgxNTgtNDI2NS1iOWI1LWJmZTFhYzM5YTYwNDphYWZhZDg2Zi00MTY5LTQ2NmUtYjVjNC1hOTI5MTcwNWI4MmI=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
+          "id": "4154682",
+          "author": "Ross McLeish",
+          "description": "Celtic manager Ange Postecoglou is unmoved by news from Rangers that several experienced players will be leaving Ibrox this summer.",
+          "link": "https://www.scotsman.com/sport/football/celtic/does-anybody-really-care-celtic-boss-ange-postecoglou-responds-to-rangers-exit-and-tougher-challenge-poser-4154682",
+          "publishedOn": "2023-05-23T15:18:18.000Z",
+          "wordCount": 2117,
+          "title": "'Does anybody really care?': Celtic boss Ange Postecoglou responds to Rangers exit and tougher challenge poser",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjIxMGVhZDRlLWIyZWEtNGQwNi04M2EzLTk0YWJhZDdlMTQ0MzozZDQ2YTIwOS04MjRiLTRiMzYtOTYzNy04OTQ1MGQ1NTI0MjM=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4154223",
           "author": "Mark Atkinson",
           "description": "Celtic coach John Kennedy is one of a number of candidates Hearts will turn their attentions to should current caretaker manager Steven Naismith not land the post on a permanent basis.",
@@ -204,26 +224,6 @@
           "wordCount": 2186,
           "title": "Celtic star set for surprise 3-year-deal as EPL duo target highly-rated defender",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjNhYzRhNGEzLWM0OTMtNGNmNC05YjY2LTFjMTUxODExZDMwMjozYTQyOWFkNC04ZDAyLTRlZTMtYTE5Ny04YTkyMTZmYWM4MTM=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4148686",
-          "author": "Matthew Elder",
-          "description": "He is one of the most relied upon players in Scottish football but you won't catch Callum McGregor asking for a rest.",
-          "link": "https://www.scotsman.com/sport/football/celtic/inside-callum-mcgregors-celtic-longevity-why-no-rest-required-ahead-of-the-scottish-cup-final-4148686",
-          "publishedOn": "2023-05-19T03:55:00.000Z",
-          "wordCount": 3937,
-          "title": "Inside Callum McGregor's Celtic longevity - why no rest required ahead of the Scottish Cup final",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjFkZDkyOWI0LWJmZGMtNDRhZC1hZmQzLTE3ZGY1YmEyMjQwZjo1NWIxMTgwYy05OTAzLTQwMGQtYWNkYi0zODAxODE3MmYwYjk=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4148686",
-          "author": "Matthew Elder",
-          "description": "He is one of the most relied upon players in Scottish football but you won't catch Callum McGregor asking for a rest.",
-          "link": "https://www.scotsman.com/sport/football/celtic/inside-callum-mcgregors-celtic-longevity-why-no-rest-required-ahead-of-scottish-cup-final-4148686",
-          "publishedOn": "2023-05-19T03:55:00.000Z",
-          "wordCount": 3928,
-          "title": "Inside Callum McGregor's Celtic longevity - why no rest required ahead of Scottish Cup final",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjFkZDkyOWI0LWJmZGMtNDRhZC1hZmQzLTE3ZGY1YmEyMjQwZjozODcwZjlmNS1iZTRmLTQzMjktYjI2Yy03MTg4OTJkOGJmYTQ=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
         }
       ]
     },
@@ -238,6 +238,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "2acd6d1d409a8019fbcfecff821228b2",
+          "author": null,
+          "description": "The full-back is set to be back fit for the Scottish Cup final next month.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23542455.alistair-johnston-back-celtic-training-face-aberdeen/?ref=rss",
+          "publishedOn": "2023-05-23T15:36:13.000Z",
+          "wordCount": 9726,
+          "title": "Alistair Johnston back in Celtic training and could face Aberdeen",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16812691/?type=og-image"
+        },
         {
           "id": "df76583cb5086c63d2bf07d68449f102",
           "author": null,
@@ -467,16 +477,6 @@
           "wordCount": 8473,
           "title": "Celtic fringe player 'agrees three-year contract extension'",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16797292/?type=og-image"
-        },
-        {
-          "id": "1a9d046c87bcd2643c846922c0876010",
-          "author": null,
-          "description": "The Parkhead skipper was in the youth academy when Martin O'Neill's iconic team reached the UEFA Cup final.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23532912.callum-mcgregor-key-difference-celtic-next-champions-league/?ref=rss",
-          "publishedOn": "2023-05-19T05:00:00.000Z",
-          "wordCount": 9469,
-          "title": "Callum McGregor on key difference for Celtic in next Champions League",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16796788/?type=og-image"
         }
       ]
     }
