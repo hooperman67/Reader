@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-23T18:20:27.651Z</updated>
+    <updated>2023-05-23T21:14:21.402Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Wild Wednesday: Forget Hearts-Aberdeen Euro battle or Rangers farewells, the Mecca of Madness takes centre stage once more]]></title>
+        <id>4154541</id>
+        <link href="https://www.scotsman.com/sport/football/hearts/wild-wednesday-forget-hearts-aberdeen-euro-battle-or-rangers-farewells-the-mecca-of-madness-takes-centre-stage-once-more-4154541"/>
+        <updated>2023-05-23T20:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The City of Discovery. Famous for its jute, jam and journalism. The home of the V&A and the Beano. Experts in construction of whaling ships which earned Dundee its aforementioned moniker. Cultural touchstones and institutions which are rightly celebrated but no longer should they act as the city's biggest attractions. They have to take a backseat. A backseat to the Mecca of Madness that continues to unfold on Tannadice Street and the two clubs separated by a couple of hundred metres.]]></summary>
+        <author>
+            <name>Joel Sked</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What channel is Hibs v Celtic on? Kick-off time, team, referee and VAR news]]></title>
+        <id>4154971</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/what-channel-is-hibs-v-celtic-on-kick-off-time-team-referee-and-var-news-4154971"/>
+        <updated>2023-05-23T18:24:01.000Z</updated>
+        <summary type="html"><![CDATA[With just two cinch Premiership matches to play before Celtic turn their attention to the Scottish Cup final and the last remaining piece of the treble jigsaw, Ange Postecoglou’s champions travel to Easter Road on Wednesday night.]]></summary>
+        <author>
+            <name>Moira Gordon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scottish transfers: Rangers duo in demand, Kent nears deal, Hibs striker's future hint, ex-Celtic star available]]></title>
         <id>4154917</id>
@@ -14,6 +34,16 @@
         <summary type="html"><![CDATA[With the Scottish Premiership season wrapping up it means the transfer market is beginning to ramp up as well as talk over managerial roles.]]></summary>
         <author>
             <name>Joel Sked</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic hero leaves new club just one year after Parkhead exit]]></title>
+        <id>1d38cb58444326f0c00b20ebde48eb7e</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23542872.celtic-hero-leaves-new-club-just-one-year-parkhead-exit/?ref=rss"/>
+        <updated>2023-05-23T17:58:06.000Z</updated>
+        <summary type="html"><![CDATA[The Australian departed Glasgow last season before joining West Brom.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
     <entry>
@@ -434,36 +464,6 @@
         <summary type="html"><![CDATA[The Buddies boss confirmed the decision was made at a higher level.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic fringe player 'agrees three-year contract extension']]></title>
-        <id>669dc88cf0b65559891580e287645592</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23533316.celtic-fringe-player-agrees-three-year-contract-extension/?ref=rss"/>
-        <updated>2023-05-19T09:01:34.000Z</updated>
-        <summary type="html"><![CDATA[Keeper Scott Bain has struggled for minutes and was expected to move on after Benjamin Siegrist's arrival in the summer.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic boss Ange Postecoglou, two Premiership rivals and title winner nominated for SFWA Manager of the Year]]></title>
-        <id>4149081</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/celtic-boss-ange-postecoglou-two-premiership-rivals-and-title-winner-nominated-for-sfwa-manager-of-the-year-4149081"/>
-        <updated>2023-05-19T08:38:08.000Z</updated>
-        <summary type="html"><![CDATA[Ange Postecoglou is one of four nominees for the Scottish Football Writers’ Association’s Manager of the Year award.]]></summary>
-        <author>
-            <name>Joel Sked</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic star set for surprise 3-year-deal as EPL duo target highly-rated defender]]></title>
-        <id>4148920</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/celtic-star-set-for-surprise-3-year-deal-as-epl-duo-target-highly-rated-defender-4148920"/>
-        <updated>2023-05-19T06:36:03.000Z</updated>
-        <summary type="html"><![CDATA[Celtic are set to hand goalkeeper Scott Bain a new three-year-deal despite not having featured this season.]]></summary>
-        <author>
-            <name>Chris Andrews</name>
         </author>
     </entry>
 </feed>
