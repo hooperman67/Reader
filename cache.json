@@ -244,16 +244,6 @@
           "wordCount": 3755,
           "title": "Charlie Mulgrew breaks silence on Celtic Scott Brown event - 'my full focus is on Dundee United'",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjc1OTcwMTU2LTllODItNDIxYi1hYTFlLTMzNGE1ZDJkNTNiNjo1MzUzZWEzYS0yMmQ4LTRhOWQtYmNhOS1lOTU4NzY3OTIxYmE=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4147756",
-          "author": "Matthew Elder",
-          "description": "Rangers are closing in on the signing Ecuador international Jose Cifuentes after holding talks with the player's representatives over the past week.",
-          "link": "https://www.scotsman.com/sport/football/rangers/rangers-on-verge-of-signing-former-celtic-target-as-talks-reach-crucial-stage-but-jack-butland-deal-hits-snag-4147756",
-          "publishedOn": "2023-05-18T11:11:20.000Z",
-          "wordCount": 2567,
-          "title": "Rangers on verge of signing former Celtic target as talks reach 'crucial stage' but Jack Butland deal hits snag",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjJiODkxNTAxLTMzNjQtNDQxZC05MWJkLWRlZDgzYmNmOTVmNzo2MDgzYmZjMC1iODhhLTRjOTYtOWI0NS0yYjcyM2RhN2Q0MmY=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
         }
       ]
     },
@@ -379,6 +369,16 @@
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16801929/?type=og-image"
         },
         {
+          "id": "56ce67f9426812f08f95fda09cebbaa7",
+          "author": null,
+          "description": "It's now the Scottish champions' turn to play on home soil as they welcome St Mirren to the east end of Glasgow this weekend.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23530379.celtic-vs-st-mirren-live-stream-tv-channel-team-news/?ref=rss",
+          "publishedOn": "2023-05-20T10:21:00.000Z",
+          "wordCount": 8484,
+          "title": "Celtic vs St Mirren: Live stream, TV channel & team news",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16792548/?type=og-image"
+        },
+        {
           "id": "dc0a50d709fc1baae57c370dec572a46",
           "author": null,
           "description": "The Parkhead assistant is looking forward to another crack at the Champions League next season.",
@@ -477,46 +477,6 @@
           "wordCount": 8848,
           "title": "Callum McGregor details Celtic 'hurt' after Rangers loss",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16795292/?type=og-image"
-        },
-        {
-          "id": "3ef8ce225c2f5b8314bd4fe64a034a86",
-          "author": null,
-          "description": "Reports in Belgium suggest that the Norweigan is set to join league rivals Club Brugge after making a U-turn on his future.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23531434.ex-celtic-boss-ronny-deila-set-quit-standard-liege-gaffer/?ref=rss",
-          "publishedOn": "2023-05-18T12:25:57.000Z",
-          "wordCount": 8507,
-          "title": "Ex-Celtic boss Ronny Deila 'set to quit' as Standard Liege gaffer",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16794167/?type=og-image"
-        },
-        {
-          "id": "e2c673c09c6bc35e0b855e63ba68e0dc",
-          "author": null,
-          "description": "The Portuguese winger was on the books of his boyhood heroes before venturing to Scotland in the summer of 2021.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23531195.jota-trolled-celtic-mate-alistair-johnston-benfica-game-time/?ref=rss",
-          "publishedOn": "2023-05-18T11:29:52.000Z",
-          "wordCount": 8485,
-          "title": "Jota trolled by Celtic mate Alistair Johnston over Benfica game time",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16793507/?type=og-image"
-        },
-        {
-          "id": "23529d2b8cc739a2d289a78c2576b3a6",
-          "author": null,
-          "description": "Ex-Celtic player Giakoumakis continued his great start in America, as he scored a chip in Atlanta United's win last night against Colorado Rapids",
-          "link": "https://www.glasgowtimes.co.uk/sport/23531007.ex-celtic-striker-giorgos-giakoumakis-scores-chip-mls/?ref=rss",
-          "publishedOn": "2023-05-18T10:58:00.000Z",
-          "wordCount": 8495,
-          "title": "Ex-Celtic striker Giorgos Giakoumakis scores chip in MLS",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16793558/?type=og-image"
-        },
-        {
-          "id": "6b589f9d87b8dc23af39b5580badd8a4",
-          "author": null,
-          "description": "The Hoops majority shareholder's son, Ross, was also pictured taking part in the conversation in the foyer of Parkhead.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23530746.dermot-desmond-spotted-ange-postecoglou-celtic-park/?ref=rss",
-          "publishedOn": "2023-05-18T09:52:14.000Z",
-          "wordCount": 8485,
-          "title": "Dermot Desmond spotted with Ange Postecoglou at Celtic Park",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16792932/?type=og-image"
         }
       ]
     }

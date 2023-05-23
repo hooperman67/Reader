@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-22T21:14:16.320Z</updated>
+    <updated>2023-05-23T01:26:43.091Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -247,6 +247,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Celtic vs St Mirren: Live stream, TV channel & team news]]></title>
+        <id>56ce67f9426812f08f95fda09cebbaa7</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23530379.celtic-vs-st-mirren-live-stream-tv-channel-team-news/?ref=rss"/>
+        <updated>2023-05-20T10:21:00.000Z</updated>
+        <summary type="html"><![CDATA[It's now the Scottish champions' turn to play on home soil as they welcome St Mirren to the east end of Glasgow this weekend.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[John Kennedy draws Man City parallels with Celtic under Ange]]></title>
         <id>dc0a50d709fc1baae57c370dec572a46</id>
         <link href="https://www.glasgowtimes.co.uk/sport/23535731.john-kennedy-draws-man-city-parallels-celtic-ange/?ref=rss"/>
@@ -452,56 +462,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23531966.callum-mcgregor-details-celtic-hurt-rangers-loss/?ref=rss"/>
         <updated>2023-05-18T14:18:12.000Z</updated>
         <summary type="html"><![CDATA[Callum McGregor has been encouraged by the reaction of his team-mates to the pain of last weekend’s defeat by Rangers.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ex-Celtic boss Ronny Deila 'set to quit' as Standard Liege gaffer]]></title>
-        <id>3ef8ce225c2f5b8314bd4fe64a034a86</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23531434.ex-celtic-boss-ronny-deila-set-quit-standard-liege-gaffer/?ref=rss"/>
-        <updated>2023-05-18T12:25:57.000Z</updated>
-        <summary type="html"><![CDATA[Reports in Belgium suggest that the Norweigan is set to join league rivals Club Brugge after making a U-turn on his future.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jota trolled by Celtic mate Alistair Johnston over Benfica game time]]></title>
-        <id>e2c673c09c6bc35e0b855e63ba68e0dc</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23531195.jota-trolled-celtic-mate-alistair-johnston-benfica-game-time/?ref=rss"/>
-        <updated>2023-05-18T11:29:52.000Z</updated>
-        <summary type="html"><![CDATA[The Portuguese winger was on the books of his boyhood heroes before venturing to Scotland in the summer of 2021.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rangers on verge of signing former Celtic target as talks reach 'crucial stage' but Jack Butland deal hits snag]]></title>
-        <id>4147756</id>
-        <link href="https://www.scotsman.com/sport/football/rangers/rangers-on-verge-of-signing-former-celtic-target-as-talks-reach-crucial-stage-but-jack-butland-deal-hits-snag-4147756"/>
-        <updated>2023-05-18T11:11:20.000Z</updated>
-        <summary type="html"><![CDATA[Rangers are closing in on the signing Ecuador international Jose Cifuentes after holding talks with the player's representatives over the past week.]]></summary>
-        <author>
-            <name>Matthew Elder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ex-Celtic striker Giorgos Giakoumakis scores chip in MLS]]></title>
-        <id>23529d2b8cc739a2d289a78c2576b3a6</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23531007.ex-celtic-striker-giorgos-giakoumakis-scores-chip-mls/?ref=rss"/>
-        <updated>2023-05-18T10:58:00.000Z</updated>
-        <summary type="html"><![CDATA[Ex-Celtic player Giakoumakis continued his great start in America, as he scored a chip in Atlanta United's win last night against Colorado Rapids]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dermot Desmond spotted with Ange Postecoglou at Celtic Park]]></title>
-        <id>6b589f9d87b8dc23af39b5580badd8a4</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23530746.dermot-desmond-spotted-ange-postecoglou-celtic-park/?ref=rss"/>
-        <updated>2023-05-18T09:52:14.000Z</updated>
-        <summary type="html"><![CDATA[The Hoops majority shareholder's son, Ross, was also pictured taking part in the conversation in the foyer of Parkhead.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
