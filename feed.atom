@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-23T01:26:43.091Z</updated>
+    <updated>2023-05-23T03:17:41.575Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -444,26 +444,6 @@
         <summary type="html"><![CDATA[Charlie Mulgrew has stressed his appearance at Thursday night’s tribute event for his former Celtic team-mate and captain Scott Brown at the OVO Hydro in Glasgow will have no bearing on Dundee United's on-going battle to avoid relegation.]]></summary>
         <author>
             <name>Alan Pattullo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Goodwin tells Dundee United fans to 'relax' after Mulgrew backlash]]></title>
-        <id>ef1c6ddb958013e1803a7b63efa3c1e9</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23532088.goodwin-tells-dundee-united-fans-relax-mulgrew-backlash/?ref=rss"/>
-        <updated>2023-05-18T14:37:00.000Z</updated>
-        <summary type="html"><![CDATA[Jim Goodwin has urged Dundee United fans to relax over Charlie Mulgrew's decision to appear at a Celtic charity evening.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Callum McGregor details Celtic 'hurt' after Rangers loss]]></title>
-        <id>ca88fbb745b58254c3540477c67aac8b</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23531966.callum-mcgregor-details-celtic-hurt-rangers-loss/?ref=rss"/>
-        <updated>2023-05-18T14:18:12.000Z</updated>
-        <summary type="html"><![CDATA[Callum McGregor has been encouraged by the reaction of his team-mates to the pain of last weekend’s defeat by Rangers.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>
