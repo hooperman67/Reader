@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-23T06:22:00.311Z</updated>
+    <updated>2023-05-23T09:16:52.043Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chris Sutton mocks Kenny Miller's Celtic vs Rangers 'toe-to-toe' claim]]></title>
+        <id>38826d76a8b831c87ba0824c67e66c82</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23540187.chris-sutton-mocks-kenny-millers-celtic-vs-rangers-toe-to-toe-claim/?ref=rss"/>
+        <updated>2023-05-23T07:11:35.000Z</updated>
+        <summary type="html"><![CDATA[Rangers will finish the season trophyless after Celtic won their second successive League Cup and Premiership title.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lennon predicts future for Celtic star with 'attributes' to be manager]]></title>
         <id>716236a115e299901c79449d04601786</id>
