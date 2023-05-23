@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-23T03:17:41.575Z</updated>
+    <updated>2023-05-23T06:22:00.311Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Lennon predicts future for Celtic star with 'attributes' to be manager]]></title>
+        <id>716236a115e299901c79449d04601786</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23540048.lennon-predicts-future-celtic-star-attributes-manager/?ref=rss"/>
+        <updated>2023-05-23T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Celtic's most decorated player and an eventual place in the dugout? Neil Lennon believes anything is possible for Callum McGregor.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Celtic transfer positions Ange Postecoglou may look to address]]></title>
+        <id>8ca2d362349c4a8665feb45d0ffa839f</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23540046.celtic-transfer-positions-ange-postecoglou-may-look-address/?ref=rss"/>
+        <updated>2023-05-23T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The summer is fast approaching as Celtic look to strengthen for next season's Champions League.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What SFA chief Ian Maxwell said on VAR, Conference League, Scottish Cup final kick-off time switch]]></title>
         <id>4153130</id>
@@ -424,26 +444,6 @@
         <summary type="html"><![CDATA[New Ibrox CEO James Bisgrove this week said the club had a plan in place to return to the top of Scottish football by 2025.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mulgrew responds to Dundee United critics over Celtic Hydro show]]></title>
-        <id>5200682b1e766cccdece03e13c08bcb9</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23532666.mulgrew-responds-dundee-united-critics-celtic-hydro-show/?ref=rss"/>
-        <updated>2023-05-18T16:46:10.000Z</updated>
-        <summary type="html"><![CDATA[Charlie Mulgrew has responded to his Dundee United critics after his decision to appear at a Celtic charity fundraiser.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Charlie Mulgrew breaks silence on Celtic Scott Brown event - 'my full focus is on Dundee United']]></title>
-        <id>4148559</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/charlie-mulgrew-breaks-silence-on-celtic-scott-brown-event-my-full-focus-is-on-dundee-united-4148559"/>
-        <updated>2023-05-18T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Charlie Mulgrew has stressed his appearance at Thursday night’s tribute event for his former Celtic team-mate and captain Scott Brown at the OVO Hydro in Glasgow will have no bearing on Dundee United's on-going battle to avoid relegation.]]></summary>
-        <author>
-            <name>Alan Pattullo</name>
         </author>
     </entry>
 </feed>

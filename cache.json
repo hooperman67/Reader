@@ -234,16 +234,6 @@
           "wordCount": 2888,
           "title": "Callum McGregor issues defiant Celtic response to Rangers defeat and James Bisgrove claims",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjEyYmJlOWJjLTIzYzYtNDdjZi04YmNiLTU3ZTg3YjdhM2QyYTozODY1ZDM3NC02YzcwLTQyZDItYTJkNC1iYzFhZmYxMWY1NjI=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4148559",
-          "author": "Alan Pattullo",
-          "description": "Charlie Mulgrew has stressed his appearance at Thursday night’s tribute event for his former Celtic team-mate and captain Scott Brown at the OVO Hydro in Glasgow will have no bearing on Dundee United's on-going battle to avoid relegation.",
-          "link": "https://www.scotsman.com/sport/football/celtic/charlie-mulgrew-breaks-silence-on-celtic-scott-brown-event-my-full-focus-is-on-dundee-united-4148559",
-          "publishedOn": "2023-05-18T16:00:00.000Z",
-          "wordCount": 3755,
-          "title": "Charlie Mulgrew breaks silence on Celtic Scott Brown event - 'my full focus is on Dundee United'",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjc1OTcwMTU2LTllODItNDIxYi1hYTFlLTMzNGE1ZDJkNTNiNjo1MzUzZWEzYS0yMmQ4LTRhOWQtYmNhOS1lOTU4NzY3OTIxYmE=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
         }
       ]
     },
@@ -258,6 +248,26 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "716236a115e299901c79449d04601786",
+          "author": null,
+          "description": "Celtic's most decorated player and an eventual place in the dugout? Neil Lennon believes anything is possible for Callum McGregor.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23540048.lennon-predicts-future-celtic-star-attributes-manager/?ref=rss",
+          "publishedOn": "2023-05-23T05:00:00.000Z",
+          "wordCount": 8912,
+          "title": "Lennon predicts future for Celtic star with 'attributes' to be manager",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16809190/?type=og-image"
+        },
+        {
+          "id": "8ca2d362349c4a8665feb45d0ffa839f",
+          "author": null,
+          "description": "The summer is fast approaching as Celtic look to strengthen for next season's Champions League.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23540046.celtic-transfer-positions-ange-postecoglou-may-look-address/?ref=rss",
+          "publishedOn": "2023-05-23T05:00:00.000Z",
+          "wordCount": 10332,
+          "title": "The Celtic transfer positions Ange Postecoglou may look to address",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16809180/?type=og-image"
+        },
         {
           "id": "d63cea34a49fff34af2c7817137932c9",
           "author": null,
@@ -447,16 +457,6 @@
           "wordCount": 8504,
           "title": "Celtic captain Callum McGregor bats away Rangers 'dominant team' claim",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16777353/?type=og-image"
-        },
-        {
-          "id": "5200682b1e766cccdece03e13c08bcb9",
-          "author": null,
-          "description": "Charlie Mulgrew has responded to his Dundee United critics after his decision to appear at a Celtic charity fundraiser.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23532666.mulgrew-responds-dundee-united-critics-celtic-hydro-show/?ref=rss",
-          "publishedOn": "2023-05-18T16:46:10.000Z",
-          "wordCount": 8607,
-          "title": "Mulgrew responds to Dundee United critics over Celtic Hydro show",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16796338/?type=og-image"
         }
       ]
     }
