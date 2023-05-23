@@ -214,26 +214,6 @@
           "wordCount": 3928,
           "title": "Inside Callum McGregor's Celtic longevity - why no rest required ahead of Scottish Cup final",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjFkZDkyOWI0LWJmZGMtNDRhZC1hZmQzLTE3ZGY1YmEyMjQwZjozODcwZjlmNS1iZTRmLTQzMjktYjI2Yy03MTg4OTJkOGJmYTQ=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4148563",
-          "author": "Joel Sked",
-          "description": "Aberdeen boss Barry Robson has called on Scottish clubs to “get together” regarding away supporters.",
-          "link": "https://www.scotsman.com/sport/football/hearts/barry-robson-expresses-away-fan-desire-as-aberdeen-to-be-backed-by-600-at-tynecastle-for-hearts-clash-4148563",
-          "publishedOn": "2023-05-18T21:30:00.000Z",
-          "wordCount": 2610,
-          "title": "Barry Robson expresses away fan desire as Aberdeen to be backed by 600 at Tynecastle for Hearts clash",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmQzYWM2MDgzLTM4OGItNGNkNi1iMmFkLWQ1NTBlOTk3MTE2Zjo0ZTA5MzlmZS00ZDQ1LTQ4NTItOGM4Zi1iMzZlZjJmNmM4MDQ=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4148666",
-          "author": "Matthew Elder",
-          "description": "Callum McGregor has no doubts that Celtic can maintain their status as the top dogs in Scottish football despite Rangers outlining plans to knock them off their perch.",
-          "link": "https://www.scotsman.com/sport/football/celtic/callum-mcgregor-issues-defiant-celtic-response-to-rangers-defeat-and-james-bisgrove-claims-4148666",
-          "publishedOn": "2023-05-18T21:30:00.000Z",
-          "wordCount": 2888,
-          "title": "Callum McGregor issues defiant Celtic response to Rangers defeat and James Bisgrove claims",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjEyYmJlOWJjLTIzYzYtNDdjZi04YmNiLTU3ZTg3YjdhM2QyYTozODY1ZDM3NC02YzcwLTQyZDItYTJkNC1iYzFhZmYxMWY1NjI=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
         }
       ]
     },
@@ -248,6 +228,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "b6da43142aba3a7f2f7c8dff3d7d33d5",
+          "author": null,
+          "description": "It's no secret that Newcastle United are keen to sign Kieran Tierney this summer transfer window.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23541127.celtic-wait-tierney-windfall-howe-addresses-newcastle-transfers/?ref=rss",
+          "publishedOn": "2023-05-23T11:08:22.000Z",
+          "wordCount": 8449,
+          "title": "Celtic wait on Tierney windfall as Howe addresses Newcastle transfers",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16810017/?type=og-image"
+        },
         {
           "id": "38826d76a8b831c87ba0824c67e66c82",
           "author": null,
@@ -457,16 +447,6 @@
           "wordCount": 9469,
           "title": "Callum McGregor on key difference for Celtic in next Champions League",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16796788/?type=og-image"
-        },
-        {
-          "id": "bf4a199ad65999ac63f8b4eaf028b4bb",
-          "author": null,
-          "description": "New Ibrox CEO James Bisgrove this week said the club had a plan in place to return to the top of Scottish football by 2025.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23532872.celtic-captain-callum-mcgregor-bats-away-rangers-dominant-team-claim/?ref=rss",
-          "publishedOn": "2023-05-18T21:30:00.000Z",
-          "wordCount": 8504,
-          "title": "Celtic captain Callum McGregor bats away Rangers 'dominant team' claim",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16777353/?type=og-image"
         }
       ]
     }

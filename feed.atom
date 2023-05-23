@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-23T09:16:52.043Z</updated>
+    <updated>2023-05-23T12:33:52.569Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic wait on Tierney windfall as Howe addresses Newcastle transfers]]></title>
+        <id>b6da43142aba3a7f2f7c8dff3d7d33d5</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23541127.celtic-wait-tierney-windfall-howe-addresses-newcastle-transfers/?ref=rss"/>
+        <updated>2023-05-23T11:08:22.000Z</updated>
+        <summary type="html"><![CDATA[It's no secret that Newcastle United are keen to sign Kieran Tierney this summer transfer window.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chris Sutton mocks Kenny Miller's Celtic vs Rangers 'toe-to-toe' claim]]></title>
         <id>38826d76a8b831c87ba0824c67e66c82</id>
@@ -424,36 +434,6 @@
         <summary type="html"><![CDATA[He is one of the most relied upon players in Scottish football but you won't catch Callum McGregor asking for a rest.]]></summary>
         <author>
             <name>Matthew Elder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Barry Robson expresses away fan desire as Aberdeen to be backed by 600 at Tynecastle for Hearts clash]]></title>
-        <id>4148563</id>
-        <link href="https://www.scotsman.com/sport/football/hearts/barry-robson-expresses-away-fan-desire-as-aberdeen-to-be-backed-by-600-at-tynecastle-for-hearts-clash-4148563"/>
-        <updated>2023-05-18T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Aberdeen boss Barry Robson has called on Scottish clubs to “get together” regarding away supporters.]]></summary>
-        <author>
-            <name>Joel Sked</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Callum McGregor issues defiant Celtic response to Rangers defeat and James Bisgrove claims]]></title>
-        <id>4148666</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/callum-mcgregor-issues-defiant-celtic-response-to-rangers-defeat-and-james-bisgrove-claims-4148666"/>
-        <updated>2023-05-18T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Callum McGregor has no doubts that Celtic can maintain their status as the top dogs in Scottish football despite Rangers outlining plans to knock them off their perch.]]></summary>
-        <author>
-            <name>Matthew Elder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic captain Callum McGregor bats away Rangers 'dominant team' claim]]></title>
-        <id>bf4a199ad65999ac63f8b4eaf028b4bb</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23532872.celtic-captain-callum-mcgregor-bats-away-rangers-dominant-team-claim/?ref=rss"/>
-        <updated>2023-05-18T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[New Ibrox CEO James Bisgrove this week said the club had a plan in place to return to the top of Scottish football by 2025.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>
