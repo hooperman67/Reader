@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-24T15:18:02.382Z</updated>
+    <updated>2023-05-24T18:20:49.970Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic team news as Postecoglou names side for Hibs clash]]></title>
+        <id>08be1bebabb6e797ceffce65c7ef353f</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23545034.celtic-team-news-postecoglou-names-side-hibs-clash/?ref=rss"/>
+        <updated>2023-05-24T17:45:00.000Z</updated>
+        <summary type="html"><![CDATA[The Australian has rotated his starting eleven for the trip to the capital.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Albian Ajeti set for Celtic return as injury blows Sturm Graz chance]]></title>
         <id>94c67215c928cebe5c766417fc74aedb</id>
