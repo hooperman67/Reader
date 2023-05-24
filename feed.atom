@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-24T06:21:35.341Z</updated>
+    <updated>2023-05-24T09:16:34.846Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Scottish Premiership attendance record to be broken as Neil Doncaster hails 'hugely encouraging' figures]]></title>
+        <id>4155211</id>
+        <link href="https://www.scotsman.com/sport/football/scottish-premiership-attendance-record-to-be-broken-as-neil-doncaster-hails-hugely-encouraging-figures-4155211"/>
+        <updated>2023-05-24T08:47:23.000Z</updated>
+        <summary type="html"><![CDATA[A new attendance record will be set for the Scottish Premiership on Wednesday night with crowd figures hitting the highest ever mark for a top flight season since the inception of the SPFL nearly a decade ago.]]></summary>
+        <author>
+            <name>Matthew Elder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Early Celtic team news vs Hibernian as Postecoglou's squad revealed]]></title>
+        <id>ce8e3ddfa2a17513cc44e360201add29</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23543133.early-celtic-team-news-vs-hibernian-postecoglous-squad-revealed/?ref=rss"/>
+        <updated>2023-05-24T07:17:48.000Z</updated>
+        <summary type="html"><![CDATA[Celtic head to Hibernian tonight for their final away match of the Premiership campaign.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ange Postecoglou lifts lid on Celtic debriefs with Dermot Desmond]]></title>
         <id>5ce6d61271ba14397b3d7e476af0dba5</id>
@@ -454,16 +474,6 @@
         <summary type="html"><![CDATA[As things stand, Liam Scales will report to Celtic for pre-season after taking a much-needed holiday following an Aberdeen season which has been somewhat of a rollercoaster.]]></summary>
         <author>
             <name>Joel Sked</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ally McCoist brands Chris Sutton 'disrespectful' after Rangers dig]]></title>
-        <id>385fedafdf0e792202d465fab2ea0e68</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23535583.ally-mccoist-brands-chris-sutton-disrespectful-rangers-dig/?ref=rss"/>
-        <updated>2023-05-19T18:39:38.000Z</updated>
-        <summary type="html"><![CDATA[Ally McCoist has branded Chris Sutton 'disrespectful'.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>
