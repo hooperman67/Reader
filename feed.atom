@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-24T03:18:57.405Z</updated>
+    <updated>2023-05-24T06:21:35.341Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ange Postecoglou lifts lid on Celtic debriefs with Dermot Desmond]]></title>
+        <id>5ce6d61271ba14397b3d7e476af0dba5</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23543000.ange-postecoglou-lifts-lid-celtic-debriefs-dermot-desmond/?ref=rss"/>
+        <updated>2023-05-24T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Parkhead manager says he enjoys a strong relationship with the club's majority shareholder.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ange Postecoglou irked by Celtic scrutiny talk as boss turns deaf ear with 'doesn't penetrate' retort]]></title>
         <id>4154916</id>
@@ -452,16 +462,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23535583.ally-mccoist-brands-chris-sutton-disrespectful-rangers-dig/?ref=rss"/>
         <updated>2023-05-19T18:39:38.000Z</updated>
         <summary type="html"><![CDATA[Ally McCoist has branded Chris Sutton 'disrespectful'.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kennedy says Rangers defeat is learning experience for Celtic squad]]></title>
-        <id>219eaa1a94d4a6a3b2dde4fdbe081ff3</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23535155.kennedy-says-rangers-defeat-learning-experience-celtic-squad/?ref=rss"/>
-        <updated>2023-05-19T15:42:47.000Z</updated>
-        <summary type="html"><![CDATA[John Kennedy believes the defeat to Rangers last week will be a key learning experience for Celtic.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>

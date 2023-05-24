@@ -239,6 +239,16 @@
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
         {
+          "id": "5ce6d61271ba14397b3d7e476af0dba5",
+          "author": null,
+          "description": "The Parkhead manager says he enjoys a strong relationship with the club's majority shareholder.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23543000.ange-postecoglou-lifts-lid-celtic-debriefs-dermot-desmond/?ref=rss",
+          "publishedOn": "2023-05-24T05:00:00.000Z",
+          "wordCount": 9144,
+          "title": "Ange Postecoglou lifts lid on Celtic debriefs with Dermot Desmond",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16813656/?type=og-image"
+        },
+        {
           "id": "c61419341059920bc51e655938b35248",
           "author": null,
           "description": "The midfielder and his team-mates have two Premiership matches left before the Scottish Cup final.",
@@ -467,16 +477,6 @@
           "wordCount": 8672,
           "title": "Ally McCoist brands Chris Sutton 'disrespectful' after Rangers dig",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16801034/?type=og-image"
-        },
-        {
-          "id": "219eaa1a94d4a6a3b2dde4fdbe081ff3",
-          "author": null,
-          "description": "John Kennedy believes the defeat to Rangers last week will be a key learning experience for Celtic.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23535155.kennedy-says-rangers-defeat-learning-experience-celtic-squad/?ref=rss",
-          "publishedOn": "2023-05-19T15:42:47.000Z",
-          "wordCount": 8737,
-          "title": "Kennedy says Rangers defeat is learning experience for Celtic squad",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16800397/?type=og-image"
         }
       ]
     }
