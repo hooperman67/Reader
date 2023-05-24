@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-24T18:20:49.970Z</updated>
+    <updated>2023-05-24T21:13:16.959Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -454,36 +454,6 @@
         <summary type="html"><![CDATA[It's now the Scottish champions' turn to play on home soil as they welcome St Mirren to the east end of Glasgow this weekend.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[John Kennedy draws Man City parallels with Celtic under Ange]]></title>
-        <id>dc0a50d709fc1baae57c370dec572a46</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23535731.john-kennedy-draws-man-city-parallels-celtic-ange/?ref=rss"/>
-        <updated>2023-05-20T07:16:38.000Z</updated>
-        <summary type="html"><![CDATA[The Parkhead assistant is looking forward to another crack at the Champions League next season.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rangers CEO James Bisgrove has say on Celtic threat to most successful club in world status]]></title>
-        <id>4150713</id>
-        <link href="https://www.scotsman.com/sport/football/rangers/rangers-ceo-james-bisgrove-has-say-on-celtic-threat-to-most-successful-club-in-world-status-4150713"/>
-        <updated>2023-05-20T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It is an unenviable high wire act that James Bizgrove must perform as he steps into the role of Rangers chief executive.]]></summary>
-        <author>
-            <name>Andrew Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seville memories and 'sensational' Man City whet Celtic's European appetite as champions prepare to return home]]></title>
-        <id>4150399</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/seville-memories-and-sensational-man-city-whet-celtics-european-appetite-as-champions-prepare-to-return-home-4150399"/>
-        <updated>2023-05-20T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[There should be a carnival atmosphere at Parkhead this afternoon as the majority of the Celtic support get their first chance to acclaim their freshly-crowned champions.]]></summary>
-        <author>
-            <name>Mark Atkinson</name>
         </author>
     </entry>
 </feed>
