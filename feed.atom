@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-24T01:36:33.073Z</updated>
+    <updated>2023-05-24T03:18:57.405Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -464,16 +464,6 @@
         <summary type="html"><![CDATA[John Kennedy believes the defeat to Rangers last week will be a key learning experience for Celtic.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rangers lift lid on Graeme Souness talks and confirm 'maximum' Celtic away allocation next season]]></title>
-        <id>4150160</id>
-        <link href="https://www.scotsman.com/sport/football/rangers/rangers-lift-lid-on-graeme-souness-talks-and-confirm-maximum-celtic-away-allocation-next-season-4150160"/>
-        <updated>2023-05-19T13:40:16.000Z</updated>
-        <summary type="html"><![CDATA[Graeme Souness has held “informal” talks with Rangers over the prospect of returning to the club in an ambassadorial capacity.]]></summary>
-        <author>
-            <name>Matthew Elder</name>
         </author>
     </entry>
 </feed>
