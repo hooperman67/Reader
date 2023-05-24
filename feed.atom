@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-23T21:14:21.402Z</updated>
+    <updated>2023-05-24T01:36:33.073Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ange Postecoglou irked by Celtic scrutiny talk as boss turns deaf ear with 'doesn't penetrate' retort]]></title>
+        <id>4154916</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/ange-postecoglou-irked-by-celtic-scrutiny-talk-as-boss-turns-deaf-ear-with-doesnt-penetrate-retort-4154916"/>
+        <updated>2023-05-23T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Ange Postecoglou has shot down any notion that his Celtic side are open to scrutiny following a run of just one win in four Premiership matches either side of being declared champions.]]></summary>
+        <author>
+            <name>Matthew Elder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Matt O'Riley in Celtic admission on the mindset 'everyone should have']]></title>
+        <id>c61419341059920bc51e655938b35248</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23542955.matt-oriley-celtic-admission-mindset-everyone-have/?ref=rss"/>
+        <updated>2023-05-23T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The midfielder and his team-mates have two Premiership matches left before the Scottish Cup final.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wild Wednesday: Forget Hearts-Aberdeen Euro battle or Rangers farewells, the Mecca of Madness takes centre stage once more]]></title>
         <id>4154541</id>
@@ -454,16 +474,6 @@
         <summary type="html"><![CDATA[Graeme Souness has held “informal” talks with Rangers over the prospect of returning to the club in an ambassadorial capacity.]]></summary>
         <author>
             <name>Matthew Elder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[St Mirren won't give Celtic guard of honour at Parkhead]]></title>
-        <id>9105a98fdcc47efbf08c63d9f77ef6be</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23533476.st-mirren-wont-give-celtic-guard-honour-parkhead/?ref=rss"/>
-        <updated>2023-05-19T09:42:34.000Z</updated>
-        <summary type="html"><![CDATA[The Buddies boss confirmed the decision was made at a higher level.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>
