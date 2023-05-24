@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-24T09:16:34.846Z</updated>
+    <updated>2023-05-24T12:33:42.627Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Albian Ajeti set for Celtic return as injury blows Sturm Graz chance]]></title>
+        <id>94c67215c928cebe5c766417fc74aedb</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23543921.albian-ajeti-set-celtic-return-injury-blows-sturm-graz-chance/?ref=rss"/>
+        <updated>2023-05-24T10:48:15.000Z</updated>
+        <summary type="html"><![CDATA[Albian Ajeti looks to have blown his chance of a move to Sturm Graz after yet another injury ruled him out for the season.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scottish Premiership attendance record to be broken as Neil Doncaster hails 'hugely encouraging' figures]]></title>
         <id>4155211</id>
@@ -464,16 +474,6 @@
         <summary type="html"><![CDATA[There should be a carnival atmosphere at Parkhead this afternoon as the majority of the Celtic support get their first chance to acclaim their freshly-crowned champions.]]></summary>
         <author>
             <name>Mark Atkinson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Liam Scales said about Aberdeen and Celtic future, pre-season plans and his 'love' playing for the Dons]]></title>
-        <id>4150437</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/what-liam-scales-said-about-aberdeen-and-celtic-future-pre-season-plans-and-his-love-playing-for-the-dons-4150437"/>
-        <updated>2023-05-19T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[As things stand, Liam Scales will report to Celtic for pre-season after taking a much-needed holiday following an Aberdeen season which has been somewhat of a rollercoaster.]]></summary>
-        <author>
-            <name>Joel Sked</name>
         </author>
     </entry>
 </feed>
