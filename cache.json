@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4156914",
+          "author": "Moira Gordon",
+          "description": "Celtic boss Ange Postecoglou has taken full responsibility for Celtic’s recent stuttering run but he insists there is method in his madness, as he considers the bigger picture.",
+          "link": "https://www.scotsman.com/sport/football/celtic/ange-postecoglou-says-stuttering-celtic-form-is-on-him-as-he-addresses-daizen-maeda-red-card-and-john-kennedy-hearts-link-4156914",
+          "publishedOn": "2023-05-24T22:05:34.000Z",
+          "wordCount": 2511,
+          "title": "Ange Postecoglou says stuttering Celtic form is on him as he addresses Daizen Maeda red card and John Kennedy Hearts link",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjhiNTE4MmE5LWE5YTMtNDY1Yi1iMWEwLWJhMDgxNDRjZDZhZTpmNzlmNDRkYi1mYTUxLTQxNTAtYjE3ZC1kYjJhMDMzYTQ0NjY=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4155211",
           "author": "Matthew Elder",
           "description": "A new attendance record will be set for the Scottish Premiership on Wednesday night with crowd figures hitting the highest ever mark for a top flight season since the inception of the SPFL nearly a decade ago.",
@@ -218,6 +228,36 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "d9df4a158aa344bd37819c2cddf14868",
+          "author": null,
+          "description": "The Celtic boss was not impressed when asked whether he needed to strengthen his squad for next season.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23545800.come-mate---postecoglou-razor-sharp-response-celtic-poser/?ref=rss",
+          "publishedOn": "2023-05-24T22:04:20.000Z",
+          "wordCount": 9614,
+          "title": "'Come on mate' - Postecoglou in razor-sharp response to Celtic poser",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16818063/?type=og-image"
+        },
+        {
+          "id": "550bbfe3607ee29126ed269158a2623d",
+          "author": null,
+          "description": "Ange Postecoglou shouldered blame for Celtic's defeat at Easter Road - admitting his post-title winning rotation has 'hurt' his team.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23545789.ange-takes-celtic-blame-reacts-maeda-bain-incidents/?ref=rss",
+          "publishedOn": "2023-05-24T21:45:36.000Z",
+          "wordCount": 8747,
+          "title": "Ange takes Celtic blame as he reacts to Maeda and Bain incidents",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16818053/?type=og-image"
+        },
+        {
+          "id": "bb0d43889306ae9f56e74c56c140f82e",
+          "author": null,
+          "description": "The Montenegro international went off early on at Easter Road.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23545715.celtic-winger-sead-haksabanovic-picks-injury-hibernian/?ref=rss",
+          "publishedOn": "2023-05-24T19:20:00.000Z",
+          "wordCount": 9651,
+          "title": "Celtic winger Sead Haksabanovic picks up injury against Hibernian",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16817924/?type=og-image"
+        },
         {
           "id": "08be1bebabb6e797ceffce65c7ef353f",
           "author": null,
@@ -447,26 +487,6 @@
           "wordCount": 10335,
           "title": "Celtic 2 St Mirren 2: Instant reaction to the burning issues",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16802301/?type=og-image"
-        },
-        {
-          "id": "c1ac1e29fba4c00fabbb975600d40dca",
-          "author": null,
-          "description": "The Scottish champions are looking to get back on track after the defeat to Rangers.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23536118.celtic-team-news-vs-st-mirren-postecoglou-names-starting-xi/?ref=rss",
-          "publishedOn": "2023-05-20T12:47:00.000Z",
-          "wordCount": 8570,
-          "title": "Celtic team news vs St Mirren as Postecoglou names starting XI",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16801929/?type=og-image"
-        },
-        {
-          "id": "56ce67f9426812f08f95fda09cebbaa7",
-          "author": null,
-          "description": "It's now the Scottish champions' turn to play on home soil as they welcome St Mirren to the east end of Glasgow this weekend.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23530379.celtic-vs-st-mirren-live-stream-tv-channel-team-news/?ref=rss",
-          "publishedOn": "2023-05-20T10:21:00.000Z",
-          "wordCount": 8484,
-          "title": "Celtic vs St Mirren: Live stream, TV channel & team news",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16792548/?type=og-image"
         }
       ]
     }
