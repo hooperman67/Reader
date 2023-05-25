@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-25T15:16:22.975Z</updated>
+    <updated>2023-05-25T18:20:38.182Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic post-title form warning to Rangers over change]]></title>
+        <id>3a4c04052b2eef1f23c6a7d821f45ee4</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23547284.celtic-post-title-form-warning-rangers-change/?ref=rss"/>
+        <updated>2023-05-25T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Have Celtic offered their rivals a rare chink in their armour that Beale & Co can target next season? Or, conversely, are they demonstrating the dangers?]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scottish transfers: Rangers target confirms summer move, Celtic signing claim, Aberdeen coup hint]]></title>
+        <id>4158345</id>
+        <link href="https://www.scotsman.com/sport/football/rangers/scottish-transfers-rangers-target-confirms-summer-move-celtic-signing-claim-aberdeen-coup-hint-4158345"/>
+        <updated>2023-05-25T15:46:52.000Z</updated>
+        <summary type="html"><![CDATA[Following an action-packed evening in the Scottish Premiership, there is just one round of fixtures remaining with the campaign coming to a close on Sunday. After that, focus will surround the Scottish Cup final, pre-season and plans for next season.]]></summary>
+        <author>
+            <name>Joel Sked</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Former Celtic boss Ronny Deila lands major European job and teams up with two ex-Hoops stars]]></title>
         <id>4158050</id>

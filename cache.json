@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4158345",
+          "author": "Joel Sked",
+          "description": "Following an action-packed evening in the Scottish Premiership, there is just one round of fixtures remaining with the campaign coming to a close on Sunday. After that, focus will surround the Scottish Cup final, pre-season and plans for next season.",
+          "link": "https://www.scotsman.com/sport/football/rangers/scottish-transfers-rangers-target-confirms-summer-move-celtic-signing-claim-aberdeen-coup-hint-4158345",
+          "publishedOn": "2023-05-25T15:46:52.000Z",
+          "wordCount": 3124,
+          "title": "Scottish transfers: Rangers target confirms summer move, Celtic signing claim, Aberdeen coup hint",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjJiZWU3Yjk3LWU3OWMtNDMwOC1hNTI0LWRkOWMzZGZkZmQzODoyYTE1ZjJkOC1mNDEzLTQwMWMtODM2Ny1hNjIwN2NhMGU5ODI=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4158050",
           "author": "Matthew Elder",
           "description": "Former Celtic boss Ronny Deila has been appointed the new manager of Club Brugge.",
@@ -248,6 +258,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "3a4c04052b2eef1f23c6a7d821f45ee4",
+          "author": null,
+          "description": "Have Celtic offered their rivals a rare chink in their armour that Beale & Co can target next season? Or, conversely, are they demonstrating the dangers?",
+          "link": "https://www.glasgowtimes.co.uk/sport/23547284.celtic-post-title-form-warning-rangers-change/?ref=rss",
+          "publishedOn": "2023-05-25T16:00:00.000Z",
+          "wordCount": 9299,
+          "title": "Celtic post-title form warning to Rangers over change",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16820199/?type=og-image"
+        },
         {
           "id": "bf7ec43910f49a76be7c149f5251fd4f",
           "author": null,
