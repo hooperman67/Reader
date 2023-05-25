@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-25T09:16:42.642Z</updated>
+    <updated>2023-05-25T12:34:48.941Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ange Postecoglou favourite to become next Tottenham manager after fresh development]]></title>
+        <id>4157619</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/ange-postecoglou-favourite-to-become-next-tottenham-manager-after-fresh-development-4157619"/>
+        <updated>2023-05-25T11:16:51.000Z</updated>
+        <summary type="html"><![CDATA[Celtic manager Ange Postecoglou has emerged as the new favourite to become the next Tottenham boss.]]></summary>
+        <author>
+            <name>Matthew Elder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic announce glamour friendly for James Forrest testimonial, latest Japan fixture, ticket details]]></title>
+        <id>4157422</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/celtic-announce-glamour-friendly-for-james-forrest-testimonial-latest-japan-fixture-ticket-details-4157422"/>
+        <updated>2023-05-25T10:12:15.000Z</updated>
+        <summary type="html"><![CDATA[Celtic have revealed they will welcome Athletic Bilbao to Glasgow for a friendly to honour club legend James Forrest.]]></summary>
+        <author>
+            <name>Joel Sked</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ange Postecoglou twist as Tottenham Hotspur 'strongly considering' Celtic boss, Brendan Rodgers link]]></title>
+        <id>4157302</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/ange-postecoglou-twist-as-tottenham-hotspur-strongly-considering-celtic-boss-brendan-rodgers-link-4157302"/>
+        <updated>2023-05-25T09:53:24.000Z</updated>
+        <summary type="html"><![CDATA[Tottenham Hotspur are reported to be ‘strongly considering' Celtic boss Ange Postecoglou to become the club's new manager.]]></summary>
+        <author>
+            <name>Joel Sked</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tottenham turn attention to Ange Postecoglou after Arne Slot blow]]></title>
+        <id>60c043dcaabbdb73077e1b926c7f4e5d</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23546400.tottenham-turn-attention-ange-postecoglou-arne-slot-blow/?ref=rss"/>
+        <updated>2023-05-25T09:31:44.000Z</updated>
+        <summary type="html"><![CDATA[Tottenham target Arne Slot has committed to staying at Feyenoord for another season.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic duo Kyogo and Reo Hatate handed Japan international call-ups]]></title>
         <id>0cbd33f437f20ff2823b7d618091e0e0</id>

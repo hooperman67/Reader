@@ -6,6 +6,36 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4157619",
+          "author": "Matthew Elder",
+          "description": "Celtic manager Ange Postecoglou has emerged as the new favourite to become the next Tottenham boss.",
+          "link": "https://www.scotsman.com/sport/football/celtic/ange-postecoglou-favourite-to-become-next-tottenham-manager-after-fresh-development-4157619",
+          "publishedOn": "2023-05-25T11:16:51.000Z",
+          "wordCount": 2222,
+          "title": "Ange Postecoglou favourite to become next Tottenham manager after fresh development",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjU3NTY4MGZkLTVmNmQtNGMzNC04ZTY5LTUyZWYwODA0YmE1NDowOTNjMWE2NS05Y2U4LTQ1NTAtYWQ2Mi1lYmQxYjBmY2E3YzE=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
+          "id": "4157422",
+          "author": "Joel Sked",
+          "description": "Celtic have revealed they will welcome Athletic Bilbao to Glasgow for a friendly to honour club legend James Forrest.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtic-announce-glamour-friendly-for-james-forrest-testimonial-latest-japan-fixture-ticket-details-4157422",
+          "publishedOn": "2023-05-25T10:12:15.000Z",
+          "wordCount": 2420,
+          "title": "Celtic announce glamour friendly for James Forrest testimonial, latest Japan fixture, ticket details",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmRmZmU0NjM5LTI0NjgtNDEyMi05N2Q4LWEzMzQwODg1NGI1MzoxMGU1ZWQyOS1hMGE1LTRlODUtOTIxMC0wMDQyMWRlNTU5OTE=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
+          "id": "4157302",
+          "author": "Joel Sked",
+          "description": "Tottenham Hotspur are reported to be ‘strongly considering' Celtic boss Ange Postecoglou to become the club's new manager.",
+          "link": "https://www.scotsman.com/sport/football/celtic/ange-postecoglou-twist-as-tottenham-hotspur-strongly-considering-celtic-boss-brendan-rodgers-link-4157302",
+          "publishedOn": "2023-05-25T09:53:24.000Z",
+          "wordCount": 2496,
+          "title": "Ange Postecoglou twist as Tottenham Hotspur 'strongly considering' Celtic boss, Brendan Rodgers link",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjJjMzBhOWFlLTcyNjQtNDQ0Zi05OGRkLTY3MWJmZDEyMTMyNjo4MDYwYjg1YS02N2E5LTQ2MTMtOWNkZC0zZmE4ZDYyNjU3M2E=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4156915",
           "author": "Mark Atkinson",
           "description": "Hibs defeated Celtic 4-2 in a crazy cinch Premiership match at Easter Road to keep their prospects of finishing fourth alive.",
@@ -208,6 +238,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "60c043dcaabbdb73077e1b926c7f4e5d",
+          "author": null,
+          "description": "Tottenham target Arne Slot has committed to staying at Feyenoord for another season.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23546400.tottenham-turn-attention-ange-postecoglou-arne-slot-blow/?ref=rss",
+          "publishedOn": "2023-05-25T09:31:44.000Z",
+          "wordCount": 10184,
+          "title": "Tottenham turn attention to Ange Postecoglou after Arne Slot blow",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16762582/?type=og-image"
+        },
         {
           "id": "0cbd33f437f20ff2823b7d618091e0e0",
           "author": null,
