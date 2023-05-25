@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-25T12:34:48.941Z</updated>
+    <updated>2023-05-25T15:16:22.975Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Former Celtic boss Ronny Deila lands major European job and teams up with two ex-Hoops stars]]></title>
+        <id>4158050</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/former-celtic-boss-ronny-deila-lands-major-european-job-and-teams-up-with-two-ex-hoops-stars-4158050"/>
+        <updated>2023-05-25T14:08:21.000Z</updated>
+        <summary type="html"><![CDATA[Former Celtic boss Ronny Deila has been appointed the new manager of Club Brugge.]]></summary>
+        <author>
+            <name>Matthew Elder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deila continues post-Celtic progression as he lands major Euro job]]></title>
+        <id>bf7ec43910f49a76be7c149f5251fd4f</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23547561.deila-continues-post-celtic-progression-lands-major-euro-job/?ref=rss"/>
+        <updated>2023-05-25T13:37:31.000Z</updated>
+        <summary type="html"><![CDATA[The former Parkhead boss agreed a switch from Standard Liege to take over at Club Brugge.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Athletic Club clash confirmed for James Forrest's Celtic testimonial]]></title>
+        <id>e3376b12c70ac11c46bf8bce0323de03</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23547554.athletic-club-clash-confirmed-james-forrests-celtic-testimonial/?ref=rss"/>
+        <updated>2023-05-25T13:35:01.000Z</updated>
+        <summary type="html"><![CDATA[C]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ange Postecoglou new favourite to be next Tottenham boss]]></title>
+        <id>43105399bddfda6dc18e8d06016b02fa</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23547196.ange-postecoglou-new-favourite-next-tottenham-boss/?ref=rss"/>
+        <updated>2023-05-25T12:16:46.000Z</updated>
+        <summary type="html"><![CDATA[Betfair: Tottenham manager for first game of 2023/24 Premier League season]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ange Postecoglou favourite to become next Tottenham manager after fresh development]]></title>
         <id>4157619</id>
