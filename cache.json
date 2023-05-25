@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4156915",
+          "author": "Mark Atkinson",
+          "description": "Hibs defeated Celtic 4-2 in a crazy cinch Premiership match at Easter Road to keep their prospects of finishing fourth alive.",
+          "link": "https://www.scotsman.com/sport/football/hibs/hibs-celtic-reaction-postecoglous-cause-for-concern-boos-for-ex-rangers-mans-ball-delivery-the-enigma-4156915",
+          "publishedOn": "2023-05-25T06:45:00.000Z",
+          "wordCount": 2636,
+          "title": "Hibs-Celtic reaction: Postecoglou's cause for concern, boos for ex-Rangers man's ball delivery, the enigma",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmM2NGMyM2EwLWJiMWYtNGQ5NS1iYjFjLTU3ZjE5MDE3ZmFkZjoxMzcwYzIzZC05NzIzLTQzYjktOTM1Ni1kNWIyYmE3MDc0ODk=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4156914",
           "author": "Moira Gordon",
           "description": "Celtic boss Ange Postecoglou has taken full responsibility for Celtic’s recent stuttering run but he insists there is method in his madness, as he considers the bigger picture.",
@@ -184,26 +194,6 @@
           "wordCount": 2986,
           "title": "Celtic reaction: Crowd drift telling; Lisbon Lions high still beatable; few cup final concerns",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmRhOGMxOTA0LTVjYWMtNGQ1MC05OTlkLWFmMGZjNDI3Njc0ZjpkOWRhM2MwZC05MDViLTQxMDktYTE0Mi0xZGRjNGY1YTA3MGI=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4151162",
-          "author": "Andrew Smith",
-          "description": "For a team that purports to never stop, Celtic are giving an awfully strong impression of having begun to grind to a halt.",
-          "link": "https://www.scotsman.com/sport/football/celtic/celtic-transformed-from-ferrari-to-jalopy-in-latest-misfire-4151162",
-          "publishedOn": "2023-05-20T19:39:37.000Z",
-          "wordCount": 3807,
-          "title": "Celtic transformed from Ferrari to jalopy in latest misfire",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmUwYzEyZDg4LTliOGUtNDlkYy05YWU2LTRjNTA2NjFmZGI5NDoyNmY3N2IzMC0xY2E0LTRiMGYtYjk4Zi1lNjhhNGE4OWRhOTU=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4151145",
-          "author": "Andrew Smith",
-          "description": "St Mirren manager Stephen Robinson believes his players did not receive their just desserts for a fizzing display against the champions in their own backyard.",
-          "link": "https://www.scotsman.com/sport/football/celtic/st-mirren-manager-stephen-robinson-in-we-deserved-to-win-claim-following-celtic-park-showing-4151145",
-          "publishedOn": "2023-05-20T18:29:55.000Z",
-          "wordCount": 2563,
-          "title": "St Mirren manager Stephen Robinson in 'we deserved to win' claim following Celtic Park showing",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjYwN2JhNzM3LWY0ZDgtNDc4Yi1hMDk1LTg1Mzk1YjIwZjFmMzowYzA1YzZmYi1lMmI3LTQ0MDEtYTMzOS1lMzRmYmVhMjFkMWU=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
         }
       ]
     },
@@ -218,6 +208,26 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "0cbd33f437f20ff2823b7d618091e0e0",
+          "author": null,
+          "description": "Kyogo Furuhashi and Reo Hatate have finally been handed international call-ups for Japan.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23545958.celtic-duo-kyogo-reo-hatate-handed-japan-international-call-ups/?ref=rss",
+          "publishedOn": "2023-05-25T07:20:33.000Z",
+          "wordCount": 9534,
+          "title": "Celtic duo Kyogo and Reo Hatate handed Japan international call-ups",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16818260/?type=og-image"
+        },
+        {
+          "id": "086022389e4bfd20dc786da5b38b72f0",
+          "author": null,
+          "description": "Ange Postecoglou has broken his silence on speculation linking his assistant John Kennedy with the Hearts.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23545899.ange-postecoglou-john-kennedy-hearts-exit-talk/?ref=rss",
+          "publishedOn": "2023-05-25T06:31:38.000Z",
+          "wordCount": 9820,
+          "title": "Ange Postecoglou on John Kennedy to Hearts exit talk",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16818202/?type=og-image"
+        },
         {
           "id": "d9df4a158aa344bd37819c2cddf14868",
           "author": null,

@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-25T06:22:08.747Z</updated>
+    <updated>2023-05-25T09:16:42.642Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic duo Kyogo and Reo Hatate handed Japan international call-ups]]></title>
+        <id>0cbd33f437f20ff2823b7d618091e0e0</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23545958.celtic-duo-kyogo-reo-hatate-handed-japan-international-call-ups/?ref=rss"/>
+        <updated>2023-05-25T07:20:33.000Z</updated>
+        <summary type="html"><![CDATA[Kyogo Furuhashi and Reo Hatate have finally been handed international call-ups for Japan.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hibs-Celtic reaction: Postecoglou's cause for concern, boos for ex-Rangers man's ball delivery, the enigma]]></title>
+        <id>4156915</id>
+        <link href="https://www.scotsman.com/sport/football/hibs/hibs-celtic-reaction-postecoglous-cause-for-concern-boos-for-ex-rangers-mans-ball-delivery-the-enigma-4156915"/>
+        <updated>2023-05-25T06:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Hibs defeated Celtic 4-2 in a crazy cinch Premiership match at Easter Road to keep their prospects of finishing fourth alive.]]></summary>
+        <author>
+            <name>Mark Atkinson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ange Postecoglou on John Kennedy to Hearts exit talk]]></title>
+        <id>086022389e4bfd20dc786da5b38b72f0</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23545899.ange-postecoglou-john-kennedy-hearts-exit-talk/?ref=rss"/>
+        <updated>2023-05-25T06:31:38.000Z</updated>
+        <summary type="html"><![CDATA[Ange Postecoglou has broken his silence on speculation linking his assistant John Kennedy with the Hearts.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ange Postecoglou says stuttering Celtic form is on him as he addresses Daizen Maeda red card and John Kennedy Hearts link]]></title>
         <id>4156914</id>
@@ -424,26 +454,6 @@
         <summary type="html"><![CDATA[Three teams have a realistic chance of winning the title, and the women's domestic game may finally get its afternoon in the spotlight.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic transformed from Ferrari to jalopy in latest misfire]]></title>
-        <id>4151162</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/celtic-transformed-from-ferrari-to-jalopy-in-latest-misfire-4151162"/>
-        <updated>2023-05-20T19:39:37.000Z</updated>
-        <summary type="html"><![CDATA[For a team that purports to never stop, Celtic are giving an awfully strong impression of having begun to grind to a halt.]]></summary>
-        <author>
-            <name>Andrew Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[St Mirren manager Stephen Robinson in 'we deserved to win' claim following Celtic Park showing]]></title>
-        <id>4151145</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/st-mirren-manager-stephen-robinson-in-we-deserved-to-win-claim-following-celtic-park-showing-4151145"/>
-        <updated>2023-05-20T18:29:55.000Z</updated>
-        <summary type="html"><![CDATA[St Mirren manager Stephen Robinson believes his players did not receive their just desserts for a fizzing display against the champions in their own backyard.]]></summary>
-        <author>
-            <name>Andrew Smith</name>
         </author>
     </entry>
 </feed>
