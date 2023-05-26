@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-26T15:17:18.108Z</updated>
+    <updated>2023-05-26T18:20:26.972Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic cup final blow as key player set to miss Hampden showdown]]></title>
+        <id>4160223</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/celtic-cup-final-blow-as-key-player-set-to-miss-hampden-showdown-4160223"/>
+        <updated>2023-05-26T15:34:11.000Z</updated>
+        <summary type="html"><![CDATA[Celtic have suffered an injury blow ahead of the Scottish Cup final with the news that midfielder Aaron Mooy is likely to miss the Hampden clash with Inverness.]]></summary>
+        <author>
+            <name>Matthew Elder</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chris Sutton weighs in on Ange Postecoglou to Spurs as ex-Celtic striker offers 'smaller club' verdict]]></title>
         <id>4160121</id>
@@ -14,6 +24,16 @@
         <summary type="html"><![CDATA[Chris Sutton admits Ange Postecoglou could be tempted by a move to the Premier League but feels a move to Tottenham Hotspur would be a “downgrade” on Celtic.]]></summary>
         <author>
             <name>Matthew Elder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic hero Sutton delivers bold Postecoglou to Tottenham claim]]></title>
+        <id>af90ce61cbebf5047023f11dfb3ca1ad</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23550642.celtic-hero-sutton-delivers-bold-postecoglou-tottenham-claim/?ref=rss"/>
+        <updated>2023-05-26T14:49:06.000Z</updated>
+        <summary type="html"><![CDATA[The former Celtic striker reckons it would be a downgrade for Postecoglou if he moved to Tottenham.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
     <entry>
