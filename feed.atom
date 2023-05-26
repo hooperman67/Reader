@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-26T18:20:26.972Z</updated>
+    <updated>2023-05-26T21:14:05.307Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[McCoist & Sutton clash over Postecoglou 's******* himself' claim]]></title>
+        <id>562a90c533a650936b9a05ff8516a57e</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23551316.mccoist-sutton-clash-postecoglou-s-himself-claim/?ref=rss"/>
+        <updated>2023-05-26T18:31:15.000Z</updated>
+        <summary type="html"><![CDATA[The Celtic boss has been linked with a switch to Tottenham - but Sutton refused to accept Postecoglou is worried about Rangers.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic cup final blow as key player set to miss Hampden showdown]]></title>
         <id>4160223</id>
@@ -574,26 +584,6 @@
         <summary type="html"><![CDATA[Tottenham Hotspur continue to be linked with Celtic boss Ange Postecoglou as they mull over who to appoint as their manager for next season.]]></summary>
         <author>
             <name>Mark Atkinson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tottenham manager latest as Celtic's Postecoglou remains on shortlist]]></title>
-        <id>6fe7677d6dcf204b8c8b607db25c9dea</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23537737.tottenham-manager-latest-celtics-postecoglou-remains-shortlist/?ref=rss"/>
-        <updated>2023-05-22T08:41:28.000Z</updated>
-        <summary type="html"><![CDATA[The Parkhead boss is included in a four-man shortlist for the Premier League position.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Celtic record on the line as champions could surpass Lisbon Lions]]></title>
-        <id>45592333ce217a123f00df5fb7d6753d</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23537597.celtic-record-line-champions-surpass-lisbon-lions/?ref=rss"/>
-        <updated>2023-05-22T08:02:55.000Z</updated>
-        <summary type="html"><![CDATA[Ange Postecoglou's side have two games remaining against Hibs and Aberdeen.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>

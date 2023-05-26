@@ -236,8 +236,18 @@
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "562a90c533a650936b9a05ff8516a57e",
+          "author": null,
+          "description": "The Celtic boss has been linked with a switch to Tottenham - but Sutton refused to accept Postecoglou is worried about Rangers.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23551316.mccoist-sutton-clash-postecoglou-s-himself-claim/?ref=rss",
+          "publishedOn": "2023-05-26T18:31:15.000Z",
+          "wordCount": 9861,
+          "title": "McCoist & Sutton clash over Postecoglou 's******* himself' claim",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16826432/?type=og-image"
+        },
         {
           "id": "af90ce61cbebf5047023f11dfb3ca1ad",
           "author": null,
@@ -587,26 +597,6 @@
           "wordCount": 8243,
           "title": "Referee named for Celtic vs Inverness Scottish Cup final",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16806501/?type=og-image"
-        },
-        {
-          "id": "6fe7677d6dcf204b8c8b607db25c9dea",
-          "author": null,
-          "description": "The Parkhead boss is included in a four-man shortlist for the Premier League position.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23537737.tottenham-manager-latest-celtics-postecoglou-remains-shortlist/?ref=rss",
-          "publishedOn": "2023-05-22T08:41:28.000Z",
-          "wordCount": 8510,
-          "title": "Tottenham manager latest as Celtic's Postecoglou remains on shortlist",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16804984/?type=og-image"
-        },
-        {
-          "id": "45592333ce217a123f00df5fb7d6753d",
-          "author": null,
-          "description": "Ange Postecoglou's side have two games remaining against Hibs and Aberdeen.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23537597.celtic-record-line-champions-surpass-lisbon-lions/?ref=rss",
-          "publishedOn": "2023-05-22T08:02:55.000Z",
-          "wordCount": 9055,
-          "title": "The Celtic record on the line as champions could surpass Lisbon Lions",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16802263/?type=og-image"
         }
       ]
     }
