@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-26T03:17:18.953Z</updated>
+    <updated>2023-05-26T06:21:35.063Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Callum McGregor not concerned as Celtic suffer dip in form]]></title>
+        <id>b0259ef0a3e04b1ab312a35290b9671b</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23548533.callum-mcgregor-not-concerned-celtic-suffer-dip-form/?ref=rss"/>
+        <updated>2023-05-26T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Celtic skipper is convinced the team will be on-form by the time the Scottish Cup final comes around.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic captain Callum McGregor 'selfish' over John Kennedy Hearts link as he addresses current form]]></title>
         <id>4158389</id>
@@ -504,16 +514,6 @@
         <summary type="html"><![CDATA[Fran Alonso’s Miami Vice look was back at Celtic Park yesterday afternoon. By the time this game was over, however, the look was spoiled by the need for a sick bag.]]></summary>
         <author>
             <name>Alison McConnell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic and Rangers dejection as Glasgow City clinch SWPL title after stoppage time drama at Ibrox]]></title>
-        <id>4151517</id>
-        <link href="https://www.scotsman.com/sport/football/celtic-and-rangers-dejection-as-glasgow-city-clinch-swpl-title-after-stoppage-time-drama-at-ibrox-4151517"/>
-        <updated>2023-05-21T17:29:19.000Z</updated>
-        <summary type="html"><![CDATA[Glasgow City have emerged as champions with Rangers and Celtic left dejected after a thrilling climax to the Scottish Women's Premier League season.]]></summary>
-        <author>
-            <name>Matthew Elder</name>
         </author>
     </entry>
 </feed>
