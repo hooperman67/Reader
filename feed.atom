@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-26T12:32:37.917Z</updated>
+    <updated>2023-05-26T15:17:18.108Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chris Sutton weighs in on Ange Postecoglou to Spurs as ex-Celtic striker offers 'smaller club' verdict]]></title>
+        <id>4160121</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/chris-sutton-weighs-in-on-ange-postecoglou-to-spurs-as-ex-celtic-striker-offers-smaller-club-verdict-4160121"/>
+        <updated>2023-05-26T14:54:49.000Z</updated>
+        <summary type="html"><![CDATA[Chris Sutton admits Ange Postecoglou could be tempted by a move to the Premier League but feels a move to Tottenham Hotspur would be a “downgrade” on Celtic.]]></summary>
+        <author>
+            <name>Matthew Elder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic boss Ange Postecoglou quizzed on Tottenham job links]]></title>
+        <id>09e0c1c7c1f7e17bcb0e6a7e90b772bf</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23550049.celtic-boss-ange-postecoglou-quizzed-tottenham-job-links/?ref=rss"/>
+        <updated>2023-05-26T12:48:27.000Z</updated>
+        <summary type="html"><![CDATA[Yesterday it emerged that the Australian is high on Spurs' wishlist as they search for a new boss ahead of next season.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ange Postecoglou breaks silence on Tottenham link as Celtic boss insists: 'I've never planned anything']]></title>
+        <id>4159640</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/ange-postecoglou-breaks-silence-on-tottenham-link-as-celtic-boss-insists-ive-never-planned-anything-4159640"/>
+        <updated>2023-05-26T12:44:29.000Z</updated>
+        <summary type="html"><![CDATA[Celtic manager Ange Postecoglou insists he has paid no attention to speculation linking him with the Tottenham Hotspur vacancy and insisted his full focus is on securing the treble.]]></summary>
+        <author>
+            <name>Matthew Elder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic star Kyogo Furuhashi's message to Andres Iniesta]]></title>
+        <id>6b80ddad7012c4fb5ce4a960d442e14a</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23549988.celtic-star-kyogo-furuhashis-message-andres-iniesta/?ref=rss"/>
+        <updated>2023-05-26T12:30:53.000Z</updated>
+        <summary type="html"><![CDATA[The Hoops striker played alongside the Barcelona & Spain legend in the J League.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What TV channel is Celtic v Aberdeen on? How to watch Premiership trophy presentation]]></title>
         <id>4159555</id>
@@ -14,6 +54,36 @@
         <summary type="html"><![CDATA[Celtic will celebrate their second successive Scottish Premiership title win on Saturday when they are presented with the league trophy following their final fixture at home to Aberdeen.]]></summary>
         <author>
             <name>Matthew Elder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EPL invite never coming for Celtic or Rangers, insists Neil Lennon]]></title>
+        <id>00f149c01e1abcfe00453419fc0ddb5b</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23549700.epl-invite-never-coming-celtic-rangers-insists-neil-lennon/?ref=rss"/>
+        <updated>2023-05-26T11:20:44.000Z</updated>
+        <summary type="html"><![CDATA[The former Hoops boss is adamant that it would be like 'turkey's voting for Christmas'.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ange Postecoglou Celtic to Tottenham backing given by Harry Redknapp]]></title>
+        <id>420fdd49a8069ecee0ddfe0b416a804d</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23549145.ange-postecoglou-celtic-tottenham-backing-given-harry-redknapp/?ref=rss"/>
+        <updated>2023-05-26T09:15:08.000Z</updated>
+        <summary type="html"><![CDATA[Postecoglou has been heavily linked with a move to take over Tottenham Hotspur, who are on the hunt for yet another manager after a poor season.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ex-Celtic youth spotted in Rangers strip at Glasgow's Ibrox]]></title>
+        <id>657c7056eac6f75408cfc4cfef774d33</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23548990.ex-celtic-youth-spotted-rangers-strip-glasgows-ibrox/?ref=rss"/>
+        <updated>2023-05-26T08:35:28.000Z</updated>
+        <summary type="html"><![CDATA[A FORMER Celtic youth player has been spotted wearing a Rangers top at Ibrox.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
     <entry>
@@ -502,16 +572,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23537597.celtic-record-line-champions-surpass-lisbon-lions/?ref=rss"/>
         <updated>2023-05-22T08:02:55.000Z</updated>
         <summary type="html"><![CDATA[Ange Postecoglou's side have two games remaining against Hibs and Aberdeen.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fran Alonso: Forget title, Celtic changed Scottish women's football]]></title>
-        <id>88dc282912bfb98f167c6ff037b4f035</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23537303.fran-alonso-forget-title-celtic-changed-scottish-womens-football/?ref=rss"/>
-        <updated>2023-05-21T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Fran Alonso has told his players that they have changed the landscape of Scottish women’s football despite failing to land a first SWPL title this season.There was heartbreak for Celtic after they came within two minutes of winning their inaugural league with an emotional Alonso left to console his visibly distraught players in the aftermath of an afternoon when they were so near yet so far.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
