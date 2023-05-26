@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-26T09:16:19.014Z</updated>
+    <updated>2023-05-26T12:32:37.917Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What TV channel is Celtic v Aberdeen on? How to watch Premiership trophy presentation]]></title>
+        <id>4159555</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/what-tv-channel-is-celtic-v-aberdeen-on-how-to-watch-premiership-trophy-presentation-4159555"/>
+        <updated>2023-05-26T11:58:07.000Z</updated>
+        <summary type="html"><![CDATA[Celtic will celebrate their second successive Scottish Premiership title win on Saturday when they are presented with the league trophy following their final fixture at home to Aberdeen.]]></summary>
+        <author>
+            <name>Matthew Elder</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic vs Aberdeen: TV channel, live stream & kick-off time]]></title>
         <id>114e15ff46dd96ed2f24e4551cd70644</id>
@@ -494,26 +504,6 @@
         <summary type="html"><![CDATA[Ange Postecoglou's side have two games remaining against Hibs and Aberdeen.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[St Mirren reveal Celtic player who was deliberately targeted in 2-2 draw - 'it's not something you would ignore']]></title>
-        <id>4151526</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/st-mirren-reveal-celtic-player-who-was-deliberately-targeted-in-2-2-draw-its-not-something-you-would-ignore-4151526"/>
-        <updated>2023-05-21T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Curtis Main has revealed that St Mirren deliberately targeted Tomoki Iwata ahead of their 2-2 draw with Celtic.]]></summary>
-        <author>
-            <name>Graeme Macpherson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kyogo Furuhashi eyes permanent place on Celtic Park walls as striker spared from St Mirren criticism]]></title>
-        <id>4151455</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/kyogo-furuhashi-eyes-permanent-place-on-celtic-park-walls-as-striker-spared-from-st-mirren-criticism-4151455"/>
-        <updated>2023-05-21T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Given the almost childlike enthusiasm with which he energetically celebrates every victory, it should probably not come as a huge surprise to see Kyogo Furuhashi continue to whizz around the park in these end-of-season dead rubber contests as if his life depended on it.]]></summary>
-        <author>
-            <name>Graeme Macpherson</name>
         </author>
     </entry>
     <entry>
