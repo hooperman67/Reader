@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-26T06:21:35.063Z</updated>
+    <updated>2023-05-26T09:16:19.014Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic vs Aberdeen: TV channel, live stream & kick-off time]]></title>
+        <id>114e15ff46dd96ed2f24e4551cd70644</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23548883.celtic-vs-aberdeen-tv-channel-live-stream-kick-off-time/?ref=rss"/>
+        <updated>2023-05-26T08:04:26.000Z</updated>
+        <summary type="html"><![CDATA[The Hoops will lift their second successive Premiership crown this weekend.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chris Sutton in Ange Postecoglou Celtic to Tottenham fear]]></title>
+        <id>30bf993773cd1e68852fa367aa26a792</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23548787.chris-sutton-ange-postecoglou-celtic-tottenham-fear/?ref=rss"/>
+        <updated>2023-05-26T07:10:09.000Z</updated>
+        <summary type="html"><![CDATA[It emerged yesterday that the Celtic boss is high on Spurs' wishlist as they search for a new gaffer this summer.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Callum McGregor not concerned as Celtic suffer dip in form]]></title>
         <id>b0259ef0a3e04b1ab312a35290b9671b</id>
@@ -504,16 +524,6 @@
         <summary type="html"><![CDATA[Fran Alonso has told his players that they have changed the landscape of Scottish women’s football despite failing to land a first SWPL title this season.There was heartbreak for Celtic after they came within two minutes of winning their inaugural league with an emotional Alonso left to console his visibly distraught players in the aftermath of an afternoon when they were so near yet so far.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic, Rangers and Glasgow City serve up 'movie' climax as SWPL trophy arrives at Parkhead only to depart for Ibrox]]></title>
-        <id>4151576</id>
-        <link href="https://www.scotsman.com/sport/football/celtic-rangers-and-glasgow-city-serve-up-movie-climax-as-swpl-trophy-arrives-at-parkhead-only-to-depart-for-ibrox-4151576"/>
-        <updated>2023-05-21T20:24:01.000Z</updated>
-        <summary type="html"><![CDATA[Fran Alonso’s Miami Vice look was back at Celtic Park yesterday afternoon. By the time this game was over, however, the look was spoiled by the need for a sick bag.]]></summary>
-        <author>
-            <name>Alison McConnell</name>
         </author>
     </entry>
 </feed>
