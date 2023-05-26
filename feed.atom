@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-26T01:25:44.478Z</updated>
+    <updated>2023-05-26T03:17:18.953Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -514,26 +514,6 @@
         <summary type="html"><![CDATA[Glasgow City have emerged as champions with Rangers and Celtic left dejected after a thrilling climax to the Scottish Women's Premier League season.]]></summary>
         <author>
             <name>Matthew Elder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Glasgow City win the SWPL title as Celtic and Rangers fall short]]></title>
-        <id>e136184f3f55df9e1a761f91016c8e80</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23537055.glasgow-city-win-swpl-title-celtic-rangers-fall-short/?ref=rss"/>
-        <updated>2023-05-21T14:15:21.000Z</updated>
-        <summary type="html"><![CDATA[The Scottish Women's Premier League draws to a close this Sunday with three clubs still in with a chance of lifting the title we are in for a huge afternoon of action. Glasgow City, Celtic and Rangers can all still become champions, but who can hold their nerve? Stay tuned on our LIVE blog to find out.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rangers, Celtic & Glasgow City go for title LIVE: SWPL Helicopter Sunday]]></title>
-        <id>e136184f3f55df9e1a761f91016c8e80</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23537055.rangers-celtic-glasgow-city-go-title-live-swpl-helicopter-sunday/?ref=rss"/>
-        <updated>2023-05-21T14:15:21.000Z</updated>
-        <summary type="html"><![CDATA[The Scottish Women's Premier League draws to a close this Sunday with three clubs still in with a chance of lifting the title we are in for a huge afternoon of action. Glasgow City, Celtic and Rangers can all still become champions, but who can hold their nerve? Stay tuned on our LIVE blog to find out.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>
