@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4158389",
+          "author": "Moira Gordon",
+          "description": "Callum McGregor can understand why Hearts may be looking to lure John Kennedy to Tynecastle but, keen to keep hold of the Parkhead coach, the Celtic captain is hoping the capital job ultimately proves a less attractive option than another season with the back to back league champions.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtic-captain-callum-mcgregor-selfish-over-john-kennedy-hearts-link-as-he-addresses-current-form-4158389",
+          "publishedOn": "2023-05-25T21:30:00.000Z",
+          "wordCount": 2905,
+          "title": "Celtic captain Callum McGregor 'selfish' over John Kennedy Hearts link as he addresses current form",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjdjZGE5ODI5LTRmYjItNDY5My1iNDdiLWNhOWRkYmU2ZmRjZTplYWRiNTNiNS0wYjE4LTQ3NGEtODdiYS1hNTcwMjdhOTdjNDc=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4158345",
           "author": "Joel Sked",
           "description": "Following an action-packed evening in the Scottish Premiership, there is just one round of fixtures remaining with the campaign coming to a close on Sunday. After that, focus will surround the Scottish Cup final, pre-season and plans for next season.",
@@ -214,16 +224,6 @@
           "wordCount": 2161,
           "title": "Celtic and Rangers dejection as Glasgow City clinch SWPL title after stoppage time drama at Ibrox",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmZmMjY5ZmZkLWYyMWYtNDQxOC04ZjVhLWVlMzRiNTAxMTY3ODo5YTZhNDNlNi00MjIwLTQwNDctODdlZC01N2RhZjdlNjk1ZmQ=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4151317",
-          "author": "Matthew Elder",
-          "description": "One of Celtic, Rangers or Glasgow City will be crowned Scottish Women's Premier League champions on Sunday as an epic three-way battle for the title reaches a dramatic conclusion.",
-          "link": "https://www.scotsman.com/sport/football/what-channel-is-rangers-v-glasgow-city-what-channel-is-celtic-women-v-hearts-tv-details-for-swpl-title-deciders-4151317",
-          "publishedOn": "2023-05-21T10:54:10.000Z",
-          "wordCount": 2600,
-          "title": "What channel is Rangers v Glasgow City? What channel is Celtic Women v Hearts? TV details for SWPL title deciders",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjMwOTkwNDEzLWExZmYtNDBhNC1hZjY2LWJlYzI2MWFhMWEwOTo5MWM1NzExYy0wYzhjLTRmNjctYTFiNC1jZDMyNWRkY2ZmZmE=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
         }
       ]
     },
@@ -238,6 +238,26 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "a6a69d3a25ec443c45d85bc3bdfc2ac9",
+          "author": null,
+          "description": "The Celtic coach has been linked with a move to Hearts but McGregor hopes the former defender will stick around.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23548543.callum-mcgregor-makes-john-kennedy-management-prediction/?ref=rss",
+          "publishedOn": "2023-05-25T21:30:00.000Z",
+          "wordCount": 9688,
+          "title": "Callum McGregor makes John Kennedy management prediction",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16822352/?type=og-image"
+        },
+        {
+          "id": "21c7210e69e2b109195d49bf1bc8983e",
+          "author": null,
+          "description": "The midfielder was not present at Celtic Park for celebrations after the league title was sealed.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23548661.reo-hatate-opens-missing-celtic-title-celebrations/?ref=rss",
+          "publishedOn": "2023-05-25T20:57:32.000Z",
+          "wordCount": 8490,
+          "title": "Reo Hatate opens up on missing Celtic title celebrations",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16822518/?type=og-image"
+        },
         {
           "id": "3a4c04052b2eef1f23c6a7d821f45ee4",
           "author": null,

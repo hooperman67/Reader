@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-25T21:14:23.394Z</updated>
+    <updated>2023-05-26T01:25:44.478Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic captain Callum McGregor 'selfish' over John Kennedy Hearts link as he addresses current form]]></title>
+        <id>4158389</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/celtic-captain-callum-mcgregor-selfish-over-john-kennedy-hearts-link-as-he-addresses-current-form-4158389"/>
+        <updated>2023-05-25T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Callum McGregor can understand why Hearts may be looking to lure John Kennedy to Tynecastle but, keen to keep hold of the Parkhead coach, the Celtic captain is hoping the capital job ultimately proves a less attractive option than another season with the back to back league champions.]]></summary>
+        <author>
+            <name>Moira Gordon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Callum McGregor makes John Kennedy management prediction]]></title>
+        <id>a6a69d3a25ec443c45d85bc3bdfc2ac9</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23548543.callum-mcgregor-makes-john-kennedy-management-prediction/?ref=rss"/>
+        <updated>2023-05-25T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The Celtic coach has been linked with a move to Hearts but McGregor hopes the former defender will stick around.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reo Hatate opens up on missing Celtic title celebrations]]></title>
+        <id>21c7210e69e2b109195d49bf1bc8983e</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23548661.reo-hatate-opens-missing-celtic-title-celebrations/?ref=rss"/>
+        <updated>2023-05-25T20:57:32.000Z</updated>
+        <summary type="html"><![CDATA[The midfielder was not present at Celtic Park for celebrations after the league title was sealed.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic post-title form warning to Rangers over change]]></title>
         <id>3a4c04052b2eef1f23c6a7d821f45ee4</id>
@@ -504,16 +534,6 @@
         <summary type="html"><![CDATA[The Scottish Women's Premier League draws to a close this Sunday with three clubs still in with a chance of lifting the title we are in for a huge afternoon of action. Glasgow City, Celtic and Rangers can all still become champions, but who can hold their nerve? Stay tuned on our LIVE blog to find out.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What channel is Rangers v Glasgow City? What channel is Celtic Women v Hearts? TV details for SWPL title deciders]]></title>
-        <id>4151317</id>
-        <link href="https://www.scotsman.com/sport/football/what-channel-is-rangers-v-glasgow-city-what-channel-is-celtic-women-v-hearts-tv-details-for-swpl-title-deciders-4151317"/>
-        <updated>2023-05-21T10:54:10.000Z</updated>
-        <summary type="html"><![CDATA[One of Celtic, Rangers or Glasgow City will be crowned Scottish Women's Premier League champions on Sunday as an epic three-way battle for the title reaches a dramatic conclusion.]]></summary>
-        <author>
-            <name>Matthew Elder</name>
         </author>
     </entry>
 </feed>
