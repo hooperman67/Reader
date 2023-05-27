@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-26T21:14:05.307Z</updated>
+    <updated>2023-05-27T01:26:04.638Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ange Postecoglou 'won't put timeline' on Celtic future amid Spurs link]]></title>
+        <id>742d904d7d49d4efddc1cb7007f60d04</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23551400.ange-postecoglou-wont-put-timeline-celtic-future-amid-spurs-link/?ref=rss"/>
+        <updated>2023-05-26T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The Parkhead manager has reportedly emerged as a primary target for the Premier League side.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[McCoist & Sutton clash over Postecoglou 's******* himself' claim]]></title>
         <id>562a90c533a650936b9a05ff8516a57e</id>
@@ -564,26 +574,6 @@
         <summary type="html"><![CDATA[There is less than a week left of the Scottish Premiership season with two rounds of fixtures over the next six days with the European and relegation places still to be decided. Meanwhile clubs are well into plans for next season regarding arrivals and departures.]]></summary>
         <author>
             <name>Joel Sked</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Referee named for Celtic vs Inverness Scottish Cup final]]></title>
-        <id>d63cea34a49fff34af2c7817137932c9</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23538525.referee-named-celtic-vs-inverness-scottish-cup-final/?ref=rss"/>
-        <updated>2023-05-22T11:43:55.000Z</updated>
-        <summary type="html"><![CDATA[The Scottish FA have confirmed the refereeing appointments for the showpiece final.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ange Postecoglou link that won't go away: Celtic manager 'on four-man shortlist' for Spurs but other candidate far likelier]]></title>
-        <id>4151948</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/ange-postecoglou-link-that-wont-go-away-celtic-manager-on-four-man-shortlist-for-spurs-but-other-candidate-far-likelier-4151948"/>
-        <updated>2023-05-22T09:36:36.000Z</updated>
-        <summary type="html"><![CDATA[Tottenham Hotspur continue to be linked with Celtic boss Ange Postecoglou as they mull over who to appoint as their manager for next season.]]></summary>
-        <author>
-            <name>Mark Atkinson</name>
         </author>
     </entry>
 </feed>
