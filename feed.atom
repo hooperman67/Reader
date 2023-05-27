@@ -2,16 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-27T15:15:41.452Z</updated>
+    <updated>2023-05-27T18:20:02.842Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why Barry Robson was so angry after Aberdeen's match against Celtic]]></title>
+        <id>4160779</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/why-barry-robson-was-so-angry-after-aberdeens-match-against-celtic-4160779"/>
+        <updated>2023-05-27T17:17:13.000Z</updated>
+        <summary type="html"><![CDATA[Barry Robson admitted he was angered by Aberdeen’s performance as they went down 5-0 to Celtic in a result that had more in keeping with the side’s form earlier this year.]]></summary>
+        <author>
+            <name>Alan Pattullo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ross McCrorie snubs Celtic guard of honour prior to Aberdeen showdown]]></title>
+        <id>c8038d19713b80f43bdd652135eb87cd</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23552103.ross-mccrorie-snubs-celtic-guard-honour-prior-aberdeen-showdown/?ref=rss"/>
+        <updated>2023-05-27T16:21:44.000Z</updated>
+        <summary type="html"><![CDATA[Ross McCrorie cheekily snubbed Aberdeen's guard of honour for Celtic this afternoon.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Done final on one leg before': Kyogo Furuhashi update from Celtic boss after Japanese forward suffers injury]]></title>
+        <id>4160743</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/done-final-on-one-leg-before-kyogo-furuhashi-update-from-celtic-boss-after-japanese-forward-suffers-injury-4160743"/>
+        <updated>2023-05-27T15:47:50.000Z</updated>
+        <summary type="html"><![CDATA[Ange Postecoglou has issued a reminder that Kyogo Furuhashi can be effective even on one leg in cup finals after Scotland’s outstanding player of the year limped out of Celtic’s trophy day thrashing of Aberdeen.]]></summary>
+        <author>
+            <name>Alan Pattullo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ange Postecoglou provides Kyogo Celtic injury update]]></title>
+        <id>51e270c65d8c567f6498b8f1941961a0</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23552041.ange-postecoglou-provides-kyogo-celtici-njury-update/?ref=rss"/>
+        <updated>2023-05-27T15:16:00.000Z</updated>
+        <summary type="html"><![CDATA[The striker picked up a knock during the 5-0 rout of Aberdeen.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ange Postecoglou shuts down 'cryptic' Tottenham talk in Celtic message]]></title>
+        <id>3f8d436507019b33762f8c45c1036ab2</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23552024.ange-postecoglou-shuts-cryptic-tottenham-talk-celtic-message/?ref=rss"/>
+        <updated>2023-05-27T14:56:10.000Z</updated>
+        <summary type="html"><![CDATA[Ange Postecoglou has shut down "cryptic" Tottenham links insisting he is fully focused on landing Celtic a treble.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic boss Ange Postecoglou fires cheeky dig at Michael Beale]]></title>
         <id>8580f04f7f1b25a4d03bfc3d1062d34b</id>
         <link href="https://www.glasgowtimes.co.uk/sport/23551989.celtic-boss-ange-postecoglou-fires-cheeky-dig-michael-beale/?ref=rss"/>
         <updated>2023-05-27T14:30:15.000Z</updated>
         <summary type="html"><![CDATA[A]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Celtic 'can't wait' for another Champions League crack]]></title>
+        <id>7966fec6bd430951ad735c6d1e25cbd7</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23551974.celtic-cant-wait-another-champions-league-crack/?ref=rss"/>
+        <updated>2023-05-27T14:29:00.000Z</updated>
+        <summary type="html"><![CDATA[Callum McGregor instant reaction to the 5-0 Scottish Premiership win over Aberdeen on Trophy Presentation Day]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic fans gather in Glasgow's Trongate for trophy day celebrations]]></title>
+        <id>69dce3639a6a2a21de057320ce91a2f8</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23551981.celtic-fans-gather-glasgows-trongate-trophy-day-celebrations/?ref=rss"/>
+        <updated>2023-05-27T14:19:29.000Z</updated>
+        <summary type="html"><![CDATA[CELTIC fans have gathered in the city centre for trophy day celebrations.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
@@ -622,26 +692,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23540187.chris-sutton-mocks-kenny-millers-celtic-vs-rangers-toe-to-toe-claim/?ref=rss"/>
         <updated>2023-05-23T07:11:35.000Z</updated>
         <summary type="html"><![CDATA[Rangers will finish the season trophyless after Celtic won their second successive League Cup and Premiership title.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lennon predicts future for Celtic star with 'attributes' to be manager]]></title>
-        <id>716236a115e299901c79449d04601786</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23540048.lennon-predicts-future-celtic-star-attributes-manager/?ref=rss"/>
-        <updated>2023-05-23T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Celtic's most decorated player and an eventual place in the dugout? Neil Lennon believes anything is possible for Callum McGregor.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Celtic transfer positions Ange Postecoglou may look to address]]></title>
-        <id>8ca2d362349c4a8665feb45d0ffa839f</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23540046.celtic-transfer-positions-ange-postecoglou-may-look-address/?ref=rss"/>
-        <updated>2023-05-23T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The summer is fast approaching as Celtic look to strengthen for next season's Champions League.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
