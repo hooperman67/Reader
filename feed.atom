@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-27T09:14:50.217Z</updated>
+    <updated>2023-05-27T12:31:04.465Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic fans in stunning display to celebrate title win]]></title>
+        <id>79b8840b4b9f91dc74be0eacd4bc54d4</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23551798.celtic-fans-stunning-display-celebrate-title-win/?ref=rss"/>
+        <updated>2023-05-27T11:37:00.000Z</updated>
+        <summary type="html"><![CDATA[The supporters at Parkhead unveiled the display prior to the match.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postecoglou to Tottenham latest as Martin O'Neill delivers prediction]]></title>
+        <id>58daaedee6e6fe3f4a5e38a7836f40f2</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23551807.postecoglou-tottenham-latest-martin-oneill-delivers-prediction/?ref=rss"/>
+        <updated>2023-05-27T11:13:29.000Z</updated>
+        <summary type="html"><![CDATA[Martin O'Neill has delivered his prediction amid speculation linking Celtic manager Ange Postecoglou with a move to Tottenham.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic's Caitlin Hayes ready for Rangers Scottish Cup clash]]></title>
         <id>941720974448309699d848cf74d6217c</id>
