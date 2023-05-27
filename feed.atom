@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-27T12:31:04.465Z</updated>
+    <updated>2023-05-27T15:15:41.452Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic boss Ange Postecoglou fires cheeky dig at Michael Beale]]></title>
+        <id>8580f04f7f1b25a4d03bfc3d1062d34b</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23551989.celtic-boss-ange-postecoglou-fires-cheeky-dig-michael-beale/?ref=rss"/>
+        <updated>2023-05-27T14:30:15.000Z</updated>
+        <summary type="html"><![CDATA[A]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic boss Postecoglou channels Tommy Burns after title win]]></title>
+        <id>f3dc06aca1debeed49b3361140874160</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23551968.celtic-boss-postecoglou-channels-tommy-burns-title-win/?ref=rss"/>
+        <updated>2023-05-27T14:01:00.000Z</updated>
+        <summary type="html"><![CDATA[The Australian was speaking after the Hoops defeated Aberdeen 5-0.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic 5 Aberdeen 0: Instant reaction to the burning issues]]></title>
+        <id>4d8a63f0413f132f6c0de282a2901bcd</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23551934.celtic-5-aberdeen-0-instant-reaction-burning-issues/?ref=rss"/>
+        <updated>2023-05-27T13:24:05.000Z</updated>
+        <summary type="html"><![CDATA[Ange Postecoglou's side signed off with a performance of champions as they battered the Dons.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kyogo in Celtic Scottish Cup injury sweat as he limps off vs Aberdeen]]></title>
+        <id>ccfd796e41549fa35d342858c44e2a22</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23551905.kyogo-celtic-scottish-cup-injury-sweat-limps-off-vs-aberdeen/?ref=rss"/>
+        <updated>2023-05-27T12:47:51.000Z</updated>
+        <summary type="html"><![CDATA[Kyogo Furuhashi faces an anxious injury sweat ahead of next weekend's Scottish Cup final after he limped off against Aberdeen today.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic fans in stunning display to celebrate title win]]></title>
         <id>79b8840b4b9f91dc74be0eacd4bc54d4</id>
