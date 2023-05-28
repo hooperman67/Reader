@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-28T12:30:30.486Z</updated>
+    <updated>2023-05-28T15:16:11.557Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic 2 Rangers 0: Instant reaction to the burning issues]]></title>
+        <id>8a89ae32bb3c59fb00ecaaafa3ba4463</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23552726.celtic-2-rangers-0-instant-reaction-burning-issues/?ref=rss"/>
+        <updated>2023-05-28T14:26:04.000Z</updated>
+        <summary type="html"><![CDATA[Here's what we learned as Celtic retained their Women's Scottish Cup crown on an historic afternoon at the national stadium.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic vs Inverness set for TV switch if FA Cup goes to extra-time]]></title>
+        <id>21a08dd7e29bc327f8d9a319adee71b5</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23552661.celtic-vs-inverness-set-tv-switch-fa-cup-goes-extra-time/?ref=rss"/>
+        <updated>2023-05-28T13:29:29.000Z</updated>
+        <summary type="html"><![CDATA[The BBC have confirmed that their coverage of the Scottish Cup final may be forced into a channel switch if the FA Cup in England goes to extra time.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic: Ten people arrested during Celtic premiership celebrations as person sustains serious injuries]]></title>
         <id>4160997</id>
@@ -14,6 +34,26 @@
         <summary type="html"><![CDATA[Ten arrests were made by Police Scotland]]></summary>
         <author>
             <name>Dan Barker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ange Postecoglou's Tottenham odds slashed again despite Celtic focus]]></title>
+        <id>45ce3446d05ebaa02b513b3118de4962</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23552591.ange-postecoglous-tottenham-odds-slashed-despite-celtic-focus/?ref=rss"/>
+        <updated>2023-05-28T12:03:53.000Z</updated>
+        <summary type="html"><![CDATA[Ange Postecoglou's Tottenham odds slashed again despite Celtic focus statement]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 arrested as Celtic fans celebrate title win in Glasgow]]></title>
+        <id>8aa8f6f1e1297bcd3a8c9de4319ec02d</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23552565.10-arrested-celtic-fans-celebrate-title-win-glasgow/?ref=rss"/>
+        <updated>2023-05-28T11:45:53.000Z</updated>
+        <summary type="html"><![CDATA[10 people have been arrested and several injured as Celtic fans celebrated the trophy day party in Trongate last night.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
     <entry>
