@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4160573",
+          "author": "Alison McConnell",
+          "description": "There are no eyebrows raised when Malky Thomson’s six year-old niece, Athena, talks about being all set for football training. By Thomson’s own admission, that might not always have been the case.",
+          "link": "https://www.scotsman.com/sport/football/rangers/rangers-boss-reveals-heartbreaking-reason-for-getting-into-game-as-celtic-counterpart-welcomes-var-4160573",
+          "publishedOn": "2023-05-27T21:30:00.000Z",
+          "wordCount": 2780,
+          "title": "Rangers boss reveals heartbreaking reason for getting into game as Celtic counterpart welcomes VAR",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmI3OGZiZjMzLTMwNTQtNGQwZi1hNGRhLTllMzNiOWMwZGMwNToxZjlhMWFiNS0xZTVhLTQ5MGMtODYyYS02NzIzYzAzNDgwOTY=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4160779",
           "author": "Alan Pattullo",
           "description": "Barry Robson admitted he was angered by Aberdeen’s performance as they went down 5-0 to Celtic in a result that had more in keeping with the side’s form earlier this year.",
@@ -677,26 +687,6 @@
           "wordCount": 8538,
           "title": "Ange Postecoglou in Celtic 'who cares?' response to Rangers rebuild",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16812059/?type=og-image"
-        },
-        {
-          "id": "a28906ea14e5c913014884461db9678d",
-          "author": null,
-          "description": "The Parkhead coach reportedly features on a shortlist for the Tynecastle hotseat.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23541689.hearts-considering-swoop-celtic-coach-new-manager/?ref=rss",
-          "publishedOn": "2023-05-23T13:21:21.000Z",
-          "wordCount": 9694,
-          "title": "Hearts 'considering' swoop for Celtic coach as new manager",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16811416/?type=og-image"
-        },
-        {
-          "id": "b6da43142aba3a7f2f7c8dff3d7d33d5",
-          "author": null,
-          "description": "It's no secret that Newcastle United are keen to sign Kieran Tierney this summer transfer window.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23541127.celtic-wait-tierney-windfall-howe-addresses-newcastle-transfers/?ref=rss",
-          "publishedOn": "2023-05-23T11:08:22.000Z",
-          "wordCount": 8449,
-          "title": "Celtic wait on Tierney windfall as Howe addresses Newcastle transfers",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16810017/?type=og-image"
         }
       ]
     }

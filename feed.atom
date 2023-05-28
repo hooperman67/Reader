@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-27T21:14:40.450Z</updated>
+    <updated>2023-05-28T01:43:02.241Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rangers boss reveals heartbreaking reason for getting into game as Celtic counterpart welcomes VAR]]></title>
+        <id>4160573</id>
+        <link href="https://www.scotsman.com/sport/football/rangers/rangers-boss-reveals-heartbreaking-reason-for-getting-into-game-as-celtic-counterpart-welcomes-var-4160573"/>
+        <updated>2023-05-27T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[There are no eyebrows raised when Malky Thomson’s six year-old niece, Athena, talks about being all set for football training. By Thomson’s own admission, that might not always have been the case.]]></summary>
+        <author>
+            <name>Alison McConnell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Barry Robson was so angry after Aberdeen's match against Celtic]]></title>
         <id>4160779</id>
@@ -664,26 +674,6 @@
         <summary type="html"><![CDATA[Celtic coach John Kennedy is one of a number of candidates Hearts will turn their attentions to should current caretaker manager Steven Naismith not land the post on a permanent basis.]]></summary>
         <author>
             <name>Mark Atkinson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hearts 'considering' swoop for Celtic coach as new manager]]></title>
-        <id>a28906ea14e5c913014884461db9678d</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23541689.hearts-considering-swoop-celtic-coach-new-manager/?ref=rss"/>
-        <updated>2023-05-23T13:21:21.000Z</updated>
-        <summary type="html"><![CDATA[The Parkhead coach reportedly features on a shortlist for the Tynecastle hotseat.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic wait on Tierney windfall as Howe addresses Newcastle transfers]]></title>
-        <id>b6da43142aba3a7f2f7c8dff3d7d33d5</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23541127.celtic-wait-tierney-windfall-howe-addresses-newcastle-transfers/?ref=rss"/>
-        <updated>2023-05-23T11:08:22.000Z</updated>
-        <summary type="html"><![CDATA[It's no secret that Newcastle United are keen to sign Kieran Tierney this summer transfer window.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>
