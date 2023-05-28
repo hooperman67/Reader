@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-28T03:18:01.023Z</updated>
+    <updated>2023-05-28T06:20:44.178Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -614,46 +614,6 @@
         <summary type="html"><![CDATA[With just two cinch Premiership matches to play before Celtic turn their attention to the Scottish Cup final and the last remaining piece of the treble jigsaw, Ange Postecoglou’s champions travel to Easter Road on Wednesday night.]]></summary>
         <author>
             <name>Moira Gordon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scottish transfers: Rangers duo in demand, Kent nears deal, Hibs striker's future hint, ex-Celtic star available]]></title>
-        <id>4154917</id>
-        <link href="https://www.scotsman.com/sport/football/rangers/scottish-transfers-rangers-duo-in-demand-kent-nears-deal-hibs-strikers-future-hint-ex-celtic-star-available-4154917"/>
-        <updated>2023-05-23T18:00:09.000Z</updated>
-        <summary type="html"><![CDATA[With the Scottish Premiership season wrapping up it means the transfer market is beginning to ramp up as well as talk over managerial roles.]]></summary>
-        <author>
-            <name>Joel Sked</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic hero leaves new club just one year after Parkhead exit]]></title>
-        <id>1d38cb58444326f0c00b20ebde48eb7e</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23542872.celtic-hero-leaves-new-club-just-one-year-parkhead-exit/?ref=rss"/>
-        <updated>2023-05-23T17:58:06.000Z</updated>
-        <summary type="html"><![CDATA[The Australian departed Glasgow last season before joining West Brom.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alistair Johnston back in Celtic training and could face Aberdeen]]></title>
-        <id>2acd6d1d409a8019fbcfecff821228b2</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23542455.alistair-johnston-back-celtic-training-face-aberdeen/?ref=rss"/>
-        <updated>2023-05-23T15:36:13.000Z</updated>
-        <summary type="html"><![CDATA[The full-back is set to be back fit for the Scottish Cup final next month.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Does anybody really care?': Celtic boss Ange Postecoglou responds to Rangers exit and tougher challenge poser]]></title>
-        <id>4154682</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/does-anybody-really-care-celtic-boss-ange-postecoglou-responds-to-rangers-exit-and-tougher-challenge-poser-4154682"/>
-        <updated>2023-05-23T15:18:18.000Z</updated>
-        <summary type="html"><![CDATA[Celtic manager Ange Postecoglou is unmoved by news from Rangers that several experienced players will be leaving Ibrox this summer.]]></summary>
-        <author>
-            <name>Ross McLeish</name>
         </author>
     </entry>
 </feed>
