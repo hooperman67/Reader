@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-28T09:16:22.360Z</updated>
+    <updated>2023-05-28T12:30:30.486Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic: Ten people arrested during Celtic premiership celebrations as person sustains serious injuries]]></title>
+        <id>4160997</id>
+        <link href="https://www.scotsman.com/news/crime/celtic-ten-people-arrested-during-celtic-premiership-celebrations-as-person-sustains-serious-injuries-4160997"/>
+        <updated>2023-05-28T12:26:21.000Z</updated>
+        <summary type="html"><![CDATA[Ten arrests were made by Police Scotland]]></summary>
+        <author>
+            <name>Dan Barker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What channel is Celtic v Rangers Women's Scottish Cup final? Kick-off time, TV details, how to watch for free]]></title>
+        <id>4160911</id>
+        <link href="https://www.scotsman.com/sport/football/what-channel-is-celtic-v-rangers-womens-scottish-cup-final-kick-off-time-tv-details-how-to-watch-for-free-4160911"/>
+        <updated>2023-05-28T09:53:33.000Z</updated>
+        <summary type="html"><![CDATA[Celtic and Rangers go head-to-head in the first ever Women’s Scottish Cup final to be held at Hampden Park on Sunday.]]></summary>
+        <author>
+            <name>Matthew Elder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postecoglou Tottenham latest as Champions League caveat explained]]></title>
+        <id>58d899d4a8857733117131105bd3d5ee</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23552404.postecoglou-tottenham-latest-champions-league-caveat-explained/?ref=rss"/>
+        <updated>2023-05-28T09:17:02.000Z</updated>
+        <summary type="html"><![CDATA[Ange Postecoglou has been linked with a few jobs in England. It looks like Tottenham is the biggest one on the go right now and I have no doubt that Ange will feel he can do that job.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ex-Celtic boss Ronny Deila labelled 'traitor' in stinging banner blast]]></title>
+        <id>f491e76dcc79c20c1458ee321ebcf5f6</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23552369.ex-celtic-boss-ronny-deila-labelled-traitor-stinging-banner-blast/?ref=rss"/>
+        <updated>2023-05-28T08:44:50.000Z</updated>
+        <summary type="html"><![CDATA[Ronny Deila was labelled a 'traitor' in a stinging banner from the Standard Liege fans.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic-Aberdeen Reaction: Joe Hart not going there; Joe Lewis makes emotional gesture; plastic pitch invasion]]></title>
         <id>4160836</id>
@@ -44,6 +84,16 @@
         <summary type="html"><![CDATA[There are no eyebrows raised when Malky Thomson’s six year-old niece, Athena, talks about being all set for football training. By Thomson’s own admission, that might not always have been the case.]]></summary>
         <author>
             <name>Alison McConnell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['I thought about giving up': Kyogo Furuhashi has latest say on Celtic future and reveals his love of swimming]]></title>
+        <id>4160830</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/i-thought-about-giving-up-kyogo-furuhashi-has-latest-say-on-celtic-future-and-reveals-his-love-of-swimming-4160830"/>
+        <updated>2023-05-27T21:10:09.000Z</updated>
+        <summary type="html"><![CDATA[It would be wrong to say there is hardly a pick on Kyogo Furuhashi.]]></summary>
+        <author>
+            <name>Andrew Smith</name>
         </author>
     </entry>
     <entry>
@@ -612,26 +662,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23543000.ange-postecoglou-lifts-lid-celtic-debriefs-dermot-desmond/?ref=rss"/>
         <updated>2023-05-24T05:00:00.000Z</updated>
         <summary type="html"><![CDATA[The Parkhead manager says he enjoys a strong relationship with the club's majority shareholder.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ange Postecoglou irked by Celtic scrutiny talk as boss turns deaf ear with 'doesn't penetrate' retort]]></title>
-        <id>4154916</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/ange-postecoglou-irked-by-celtic-scrutiny-talk-as-boss-turns-deaf-ear-with-doesnt-penetrate-retort-4154916"/>
-        <updated>2023-05-23T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Ange Postecoglou has shot down any notion that his Celtic side are open to scrutiny following a run of just one win in four Premiership matches either side of being declared champions.]]></summary>
-        <author>
-            <name>Matthew Elder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Matt O'Riley in Celtic admission on the mindset 'everyone should have']]></title>
-        <id>c61419341059920bc51e655938b35248</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23542955.matt-oriley-celtic-admission-mindset-everyone-have/?ref=rss"/>
-        <updated>2023-05-23T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The midfielder and his team-mates have two Premiership matches left before the Scottish Cup final.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>

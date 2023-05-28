@@ -6,6 +6,26 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4160997",
+          "author": "Dan Barker",
+          "description": "Ten arrests were made by Police Scotland",
+          "link": "https://www.scotsman.com/news/crime/celtic-ten-people-arrested-during-celtic-premiership-celebrations-as-person-sustains-serious-injuries-4160997",
+          "publishedOn": "2023-05-28T12:26:21.000Z",
+          "wordCount": 2162,
+          "title": "Celtic: Ten people arrested during Celtic premiership celebrations as person sustains serious injuries",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjU1MmJhZWI4LTk1ZjEtNDNmNi04MDY5LTYxMjhjZGZkMzgwYzozNmQ3MDhkNC1kNThjLTQzYWYtOTY0NC04NzU0ZjJlMDU4OGI=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
+          "id": "4160911",
+          "author": "Matthew Elder",
+          "description": "Celtic and Rangers go head-to-head in the first ever Women’s Scottish Cup final to be held at Hampden Park on Sunday.",
+          "link": "https://www.scotsman.com/sport/football/what-channel-is-celtic-v-rangers-womens-scottish-cup-final-kick-off-time-tv-details-how-to-watch-for-free-4160911",
+          "publishedOn": "2023-05-28T09:53:33.000Z",
+          "wordCount": 2322,
+          "title": "What channel is Celtic v Rangers Women's Scottish Cup final? Kick-off time, TV details, how to watch for free",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjI0MzMyOWVjLTA1YjQtNGFlYi05NWQ3LTIzNmU4NGJkZWNmNTpmNTlhMGE3Mi0zZjQ1LTRmZDEtYmFlZi1jN2VjOTVhZWMwMDM=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4160836",
           "author": "Alan Pattullo",
           "description": "Champions Celtic swatted Aberdeen aside 5-0 on trophy day at Parkhead as they lifted more silverware and warmed up for Saturday’s Scottish Cup final against Inverness Caledonian Thistle, with the treble now on the line. Here are some talking points.",
@@ -24,6 +44,16 @@
           "wordCount": 2780,
           "title": "Rangers boss reveals heartbreaking reason for getting into game as Celtic counterpart welcomes VAR",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmI3OGZiZjMzLTMwNTQtNGQwZi1hNGRhLTllMzNiOWMwZGMwNToxZjlhMWFiNS0xZTVhLTQ5MGMtODYyYS02NzIzYzAzNDgwOTY=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
+          "id": "4160830",
+          "author": "Andrew Smith",
+          "description": "It would be wrong to say there is hardly a pick on Kyogo Furuhashi.",
+          "link": "https://www.scotsman.com/sport/football/celtic/i-thought-about-giving-up-kyogo-furuhashi-has-latest-say-on-celtic-future-and-reveals-his-love-of-swimming-4160830",
+          "publishedOn": "2023-05-27T21:10:09.000Z",
+          "wordCount": 2902,
+          "title": "'I thought about giving up': Kyogo Furuhashi has latest say on Celtic future and reveals his love of swimming",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjZlZjA2YTdhLTg2NDUtNDczMC04YjI4LWZlN2RlN2Q1NjVlNjo3MTNhNzE1NC02YmE3LTQ2NjUtYTE0Yi1lODU1ZmRiMWQ4NWI=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
         },
         {
           "id": "4160830",
@@ -204,16 +234,6 @@
           "wordCount": 2278,
           "title": "Scottish Premiership attendance record to be broken as Neil Doncaster hails 'hugely encouraging' figures",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjFkZTY0MWY4LTQ3MTAtNGUxNC1hMDM1LWZjYmU1NjA2YWQwZDoyNGFjMDUwMS1kNzRiLTQ3NDUtYThmMy0xZDlkY2M0MTEwODk=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4154916",
-          "author": "Matthew Elder",
-          "description": "Ange Postecoglou has shot down any notion that his Celtic side are open to scrutiny following a run of just one win in four Premiership matches either side of being declared champions.",
-          "link": "https://www.scotsman.com/sport/football/celtic/ange-postecoglou-irked-by-celtic-scrutiny-talk-as-boss-turns-deaf-ear-with-doesnt-penetrate-retort-4154916",
-          "publishedOn": "2023-05-23T21:30:00.000Z",
-          "wordCount": 2482,
-          "title": "Ange Postecoglou irked by Celtic scrutiny talk as boss turns deaf ear with 'doesn't penetrate' retort",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmFiMjhjMDhiLTliZGYtNDk0Yy1iNDJjLTYyN2U3OTU4ZTdhNzo0YjhkMDExYi0wZGUyLTQzOWItYmM2Yi1hMjVlMDFhZTI5NDM=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
         }
       ]
     },
@@ -228,6 +248,26 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "58d899d4a8857733117131105bd3d5ee",
+          "author": null,
+          "description": "Ange Postecoglou has been linked with a few jobs in England. It looks like Tottenham is the biggest one on the go right now and I have no doubt that Ange will feel he can do that job.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23552404.postecoglou-tottenham-latest-champions-league-caveat-explained/?ref=rss",
+          "publishedOn": "2023-05-28T09:17:02.000Z",
+          "wordCount": 8422,
+          "title": "Postecoglou Tottenham latest as Champions League caveat explained",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16827638/?type=og-image"
+        },
+        {
+          "id": "f491e76dcc79c20c1458ee321ebcf5f6",
+          "author": null,
+          "description": "Ronny Deila was labelled a 'traitor' in a stinging banner from the Standard Liege fans.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23552369.ex-celtic-boss-ronny-deila-labelled-traitor-stinging-banner-blast/?ref=rss",
+          "publishedOn": "2023-05-28T08:44:50.000Z",
+          "wordCount": 8542,
+          "title": "Ex-Celtic boss Ronny Deila labelled 'traitor' in stinging banner blast",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16827937/?type=og-image"
+        },
         {
           "id": "0d5d6cc80009273ae8ce972e9825504e",
           "author": null,
@@ -637,16 +677,6 @@
           "wordCount": 9144,
           "title": "Ange Postecoglou lifts lid on Celtic debriefs with Dermot Desmond",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16813656/?type=og-image"
-        },
-        {
-          "id": "c61419341059920bc51e655938b35248",
-          "author": null,
-          "description": "The midfielder and his team-mates have two Premiership matches left before the Scottish Cup final.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23542955.matt-oriley-celtic-admission-mindset-everyone-have/?ref=rss",
-          "publishedOn": "2023-05-23T21:30:00.000Z",
-          "wordCount": 9801,
-          "title": "Matt O'Riley in Celtic admission on the mindset 'everyone should have'",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16813563/?type=og-image"
         }
       ]
     }
