@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-28T01:43:02.241Z</updated>
+    <updated>2023-05-28T03:18:01.023Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -654,26 +654,6 @@
         <summary type="html"><![CDATA[Celtic manager Ange Postecoglou is unmoved by news from Rangers that several experienced players will be leaving Ibrox this summer.]]></summary>
         <author>
             <name>Ross McLeish</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ange Postecoglou in Celtic 'who cares?' response to Rangers rebuild]]></title>
-        <id>df76583cb5086c63d2bf07d68449f102</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23542111.ange-postecoglou-celtic-who-cares--response-rangers-rebuild/?ref=rss"/>
-        <updated>2023-05-23T14:38:48.000Z</updated>
-        <summary type="html"><![CDATA[The Celtic boss wasn't interested in the summer developments at Ibrox.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Next Hearts manager: Celtic coach John Kennedy a potential candidate should board decide against Steven Naismith]]></title>
-        <id>4154223</id>
-        <link href="https://www.scotsman.com/sport/football/hearts/next-hearts-manager-celtic-coach-john-kennedy-a-potential-candidate-should-board-decide-against-steven-naismith-4154223"/>
-        <updated>2023-05-23T13:45:47.000Z</updated>
-        <summary type="html"><![CDATA[Celtic coach John Kennedy is one of a number of candidates Hearts will turn their attentions to should current caretaker manager Steven Naismith not land the post on a permanent basis.]]></summary>
-        <author>
-            <name>Mark Atkinson</name>
         </author>
     </entry>
 </feed>
