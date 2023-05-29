@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4161067",
+          "author": "Alison McConnell",
+          "description": "Last season Ange Postecoglou brought the house down at Celtic Park on trophy day with his promise to be back after a summer hiatus bigger and better than ever before.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtic-dressing-room-has-tunnel-vision-over-prospect-of-losing-ange-postecoglou-to-tottenham-4161067",
+          "publishedOn": "2023-05-28T21:30:00.000Z",
+          "wordCount": 3521,
+          "title": "Celtic dressing room has 'tunnel vision' over prospect of losing Ange Postecoglou to Tottenham",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmRhMmM5NDMzLTc3NjktNDYwYS1iNTI1LTE1NTMwMmNhZjQzMDoxNzJlMGQwYy0xYzgyLTQ4NWMtYmVlMi03YjY5YWYwMmEzZWI=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4161144",
           "author": "Alison McConnell",
           "description": "The grey club suit replaced Fran Alonso’s maverick look at Hampden but there was nothing sober about the Celtic women’s manager on Sunday afternoon.",
@@ -256,7 +266,7 @@
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
       "articles": [
         {
           "id": "435be30c9f409248478e41553f9eb986",
@@ -717,16 +727,6 @@
           "wordCount": 8518,
           "title": "Celtic team news as Postecoglou names side for Hibs clash",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16816843/?type=og-image"
-        },
-        {
-          "id": "94c67215c928cebe5c766417fc74aedb",
-          "author": null,
-          "description": "Albian Ajeti looks to have blown his chance of a move to Sturm Graz after yet another injury ruled him out for the season.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23543921.albian-ajeti-set-celtic-return-injury-blows-sturm-graz-chance/?ref=rss",
-          "publishedOn": "2023-05-24T10:48:15.000Z",
-          "wordCount": 8574,
-          "title": "Albian Ajeti set for Celtic return as injury blows Sturm Graz chance",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16617562/?type=og-image"
         }
       ]
     }

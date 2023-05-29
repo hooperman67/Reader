@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-28T21:14:02.281Z</updated>
+    <updated>2023-05-29T01:36:40.443Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic dressing room has 'tunnel vision' over prospect of losing Ange Postecoglou to Tottenham]]></title>
+        <id>4161067</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/celtic-dressing-room-has-tunnel-vision-over-prospect-of-losing-ange-postecoglou-to-tottenham-4161067"/>
+        <updated>2023-05-28T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Last season Ange Postecoglou brought the house down at Celtic Park on trophy day with his promise to be back after a summer hiatus bigger and better than ever before.]]></summary>
+        <author>
+            <name>Alison McConnell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Alonso praises Celtic's resilience after cup final win]]></title>
         <id>435be30c9f409248478e41553f9eb986</id>
@@ -702,16 +712,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23545034.celtic-team-news-postecoglou-names-side-hibs-clash/?ref=rss"/>
         <updated>2023-05-24T17:45:00.000Z</updated>
         <summary type="html"><![CDATA[The Australian has rotated his starting eleven for the trip to the capital.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Albian Ajeti set for Celtic return as injury blows Sturm Graz chance]]></title>
-        <id>94c67215c928cebe5c766417fc74aedb</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23543921.albian-ajeti-set-celtic-return-injury-blows-sturm-graz-chance/?ref=rss"/>
-        <updated>2023-05-24T10:48:15.000Z</updated>
-        <summary type="html"><![CDATA[Albian Ajeti looks to have blown his chance of a move to Sturm Graz after yet another injury ruled him out for the season.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
