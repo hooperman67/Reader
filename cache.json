@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4161937",
+          "author": "Chris Andrews",
+          "description": "Celtic could struggle to land striker Levi Garcia after an AEK Athens chief revealed the club don’t want to sell him this summer.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtic-suffer-blow-in-chase-for-ps13m-rated-star-as-clubs-make-moves-for-rangers-duo-4161937",
+          "publishedOn": "2023-05-29T20:47:00.000Z",
+          "wordCount": 2348,
+          "title": "Celtic suffer blow in chase for £13m-rated star as clubs make moves for Rangers duo",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjlhMWM2YWE0LTZiMWYtNDBkNy04OTFlLTY3NmUyMzc5OGYyMjo5YjdhMDM2MC1lNzIyLTQzZjAtYTM3Yy05YTZiZDAwZjU0NDU=.jpg?width=1024&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4161873",
           "author": "Joel Sked",
           "description": "Now that the Premiership season has finished most clubs can switch their full attention to pre-season, preparation and the summer transfer market with all clubs looking to do key business before competitive action returns in July with the Viaplay Cup group stages.",
@@ -274,16 +284,6 @@
           "wordCount": 2496,
           "title": "Ange Postecoglou twist as Tottenham Hotspur 'strongly considering' Celtic boss, Brendan Rodgers link",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjJjMzBhOWFlLTcyNjQtNDQ0Zi05OGRkLTY3MWJmZDEyMTMyNjo4MDYwYjg1YS02N2E5LTQ2MTMtOWNkZC0zZmE4ZDYyNjU3M2E=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4156915",
-          "author": "Mark Atkinson",
-          "description": "Hibs defeated Celtic 4-2 in a crazy cinch Premiership match at Easter Road to keep their prospects of finishing fourth alive.",
-          "link": "https://www.scotsman.com/sport/football/hibs/hibs-celtic-reaction-postecoglous-cause-for-concern-boos-for-ex-rangers-mans-ball-delivery-the-enigma-4156915",
-          "publishedOn": "2023-05-25T06:45:00.000Z",
-          "wordCount": 2636,
-          "title": "Hibs-Celtic reaction: Postecoglou's cause for concern, boos for ex-Rangers man's ball delivery, the enigma",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmM2NGMyM2EwLWJiMWYtNGQ5NS1iYjFjLTU3ZjE5MDE3ZmFkZjoxMzcwYzIzZC05NzIzLTQzYjktOTM1Ni1kNWIyYmE3MDc0ODk=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
         }
       ]
     },
@@ -298,6 +298,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "50f62a9b809c37089d8b147e62707bc6",
+          "author": null,
+          "description": "The former Celtic star came on as a substitute in the Gunners' final day 5-0 win over Wolves yesterday.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23554469.kieran-tierney-arsenal-moment-convinces-fans-transfer-exit/?ref=rss",
+          "publishedOn": "2023-05-29T19:43:01.000Z",
+          "wordCount": 9638,
+          "title": "Kieran Tierney Arsenal moment convinces fans of transfer exit",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16832022/?type=og-image"
+        },
         {
           "id": "3533ed02210bc73098b9096f7216ab98",
           "author": null,
@@ -787,26 +797,6 @@
           "wordCount": 10184,
           "title": "Tottenham turn attention to Ange Postecoglou after Arne Slot blow",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16762582/?type=og-image"
-        },
-        {
-          "id": "0cbd33f437f20ff2823b7d618091e0e0",
-          "author": null,
-          "description": "Kyogo Furuhashi and Reo Hatate have finally been handed international call-ups for Japan.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23545958.celtic-duo-kyogo-reo-hatate-handed-japan-international-call-ups/?ref=rss",
-          "publishedOn": "2023-05-25T07:20:33.000Z",
-          "wordCount": 9534,
-          "title": "Celtic duo Kyogo and Reo Hatate handed Japan international call-ups",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16818260/?type=og-image"
-        },
-        {
-          "id": "086022389e4bfd20dc786da5b38b72f0",
-          "author": null,
-          "description": "Ange Postecoglou has broken his silence on speculation linking his assistant John Kennedy with the Hearts.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23545899.ange-postecoglou-john-kennedy-hearts-exit-talk/?ref=rss",
-          "publishedOn": "2023-05-25T06:31:38.000Z",
-          "wordCount": 9820,
-          "title": "Ange Postecoglou on John Kennedy to Hearts exit talk",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16818202/?type=og-image"
         }
       ]
     }
