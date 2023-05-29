@@ -269,6 +269,16 @@
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
         {
+          "id": "af81d5636d6b27f3c7ecf3ec8075b81a",
+          "author": null,
+          "description": "The Celtic boss couldn't contain his excitement as he belted out fan chant 'Celtic Glasgow' in an interview after the Scottish Cup win.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23553125.watch-fran-alonso-bursts-celtic-song-mid-interview/?ref=rss",
+          "publishedOn": "2023-05-29T07:35:32.000Z",
+          "wordCount": 8526,
+          "title": "Watch as Fran Alonso bursts into Celtic song mid-interview",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16829446/?type=og-image"
+        },
+        {
           "id": "539096a23402c5c484a3f150439c9522",
           "author": null,
           "description": "I admit that ChatGPT could possibly make a better fist of assessing the Scottish Cup final than this writer who is burdened by historical prejudices and conventional wisdom which indicate that Inverness Caley Thistle are travelling to Glasgow merely to be sacrificial lambs in the middle of a colourful green and white pageant.",
@@ -727,16 +737,6 @@
           "wordCount": 8747,
           "title": "Ange takes Celtic blame as he reacts to Maeda and Bain incidents",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16818053/?type=og-image"
-        },
-        {
-          "id": "bb0d43889306ae9f56e74c56c140f82e",
-          "author": null,
-          "description": "The Montenegro international went off early on at Easter Road.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23545715.celtic-winger-sead-haksabanovic-picks-injury-hibernian/?ref=rss",
-          "publishedOn": "2023-05-24T19:20:00.000Z",
-          "wordCount": 9651,
-          "title": "Celtic winger Sead Haksabanovic picks up injury against Hibernian",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16817924/?type=og-image"
         }
       ]
     }

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-29T06:22:37.504Z</updated>
+    <updated>2023-05-29T09:17:03.401Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Watch as Fran Alonso bursts into Celtic song mid-interview]]></title>
+        <id>af81d5636d6b27f3c7ecf3ec8075b81a</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23553125.watch-fran-alonso-bursts-celtic-song-mid-interview/?ref=rss"/>
+        <updated>2023-05-29T07:35:32.000Z</updated>
+        <summary type="html"><![CDATA[The Celtic boss couldn't contain his excitement as he belted out fan chant 'Celtic Glasgow' in an interview after the Scottish Cup win.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Odds are against them, but my past follies give Invernessians hope]]></title>
         <id>539096a23402c5c484a3f150439c9522</id>
@@ -712,16 +722,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23545789.ange-takes-celtic-blame-reacts-maeda-bain-incidents/?ref=rss"/>
         <updated>2023-05-24T21:45:36.000Z</updated>
         <summary type="html"><![CDATA[Ange Postecoglou shouldered blame for Celtic's defeat at Easter Road - admitting his post-title winning rotation has 'hurt' his team.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic winger Sead Haksabanovic picks up injury against Hibernian]]></title>
-        <id>bb0d43889306ae9f56e74c56c140f82e</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23545715.celtic-winger-sead-haksabanovic-picks-injury-hibernian/?ref=rss"/>
-        <updated>2023-05-24T19:20:00.000Z</updated>
-        <summary type="html"><![CDATA[The Montenegro international went off early on at Easter Road.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
