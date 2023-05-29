@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4161517",
+          "author": "Mark Atkinson",
+          "description": "Steve Clarke has named his squad for the Euro 2024 qualifiers next month against Norway and Georgia.",
+          "link": "https://www.scotsman.com/sport/football/rangers/scotland-squad-named-for-euro-2024-double-header-rangers-star-returns-three-celtic-players-hearts-hibs-presence-4161517",
+          "publishedOn": "2023-05-29T11:14:51.000Z",
+          "wordCount": 2245,
+          "title": "Scotland squad named for Euro 2024 double-header: Rangers star returns, three Celtic players, Hearts-Hibs presence",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmYxN2E2MjRjLTM5MzAtNGFmOC1hZmUyLWY2NzQ3MWE1N2MzOTphNzJkYzU2MC0wMmViLTRlZTYtODM4ZS0xYmUzMzllMTQzNjI=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4161067",
           "author": "Alison McConnell",
           "description": "Last season Ange Postecoglou brought the house down at Celtic Park on trophy day with his promise to be back after a summer hiatus bigger and better than ever before.",
@@ -244,16 +254,6 @@
           "wordCount": 2636,
           "title": "Hibs-Celtic reaction: Postecoglou's cause for concern, boos for ex-Rangers man's ball delivery, the enigma",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmM2NGMyM2EwLWJiMWYtNGQ5NS1iYjFjLTU3ZjE5MDE3ZmFkZjoxMzcwYzIzZC05NzIzLTQzYjktOTM1Ni1kNWIyYmE3MDc0ODk=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4156914",
-          "author": "Moira Gordon",
-          "description": "Celtic boss Ange Postecoglou has taken full responsibility for Celtic’s recent stuttering run but he insists there is method in his madness, as he considers the bigger picture.",
-          "link": "https://www.scotsman.com/sport/football/celtic/ange-postecoglou-says-stuttering-celtic-form-is-on-him-as-he-addresses-daizen-maeda-red-card-and-john-kennedy-hearts-link-4156914",
-          "publishedOn": "2023-05-24T22:05:34.000Z",
-          "wordCount": 2511,
-          "title": "Ange Postecoglou says stuttering Celtic form is on him as he addresses Daizen Maeda red card and John Kennedy Hearts link",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjhiNTE4MmE5LWE5YTMtNDY1Yi1iMWEwLWJhMDgxNDRjZDZhZTpmNzlmNDRkYi1mYTUxLTQxNTAtYjE3ZC1kYjJhMDMzYTQ0NjY=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
         }
       ]
     },
@@ -268,6 +268,36 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "f5b2a5e7bcdef7a88cb2e99f531e98a5",
+          "author": null,
+          "description": "Glasgow City Council have issued a statement of 'concern' following Celtics' title win celebrations this weekend.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23553633.council-admit-concern-celtic-fans-hold-glasgow-title-party/?ref=rss",
+          "publishedOn": "2023-05-29T11:35:00.000Z",
+          "wordCount": 8592,
+          "title": "Council admit 'concern' after Celtic fans hold Glasgow title party",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16830416/?type=og-image"
+        },
+        {
+          "id": "0d1798f42eb4c260b00b9f9c0eb5baa1",
+          "author": null,
+          "description": "Celtic flop Albian Ajeti is returning to Parkhead after Sturm Graz confirmed they have turned down the chance to sign him permanently after a disappointing loan spell.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23553576.albian-ajeti-makes-celtic-return-sturm-graz-confirm-no-deal/?ref=rss",
+          "publishedOn": "2023-05-29T10:29:32.000Z",
+          "wordCount": 8342,
+          "title": "Albian Ajeti makes Celtic return as Sturm Graz confirm no deal",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16617562/?type=og-image"
+        },
+        {
+          "id": "1e09bdd05810b88aef0ed577d6c25649",
+          "author": null,
+          "description": "The Premier League club have been credited with a serious interest in Postecoglou as their search for a new manager stretches on.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23553328.celtic-players-think-ange-linked-tottenham/?ref=rss",
+          "publishedOn": "2023-05-29T09:04:25.000Z",
+          "wordCount": 9116,
+          "title": "What the Celtic players think of Ange being linked with Tottenham",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16829860/?type=og-image"
+        },
         {
           "id": "af81d5636d6b27f3c7ecf3ec8075b81a",
           "author": null,
@@ -717,26 +747,6 @@
           "wordCount": 9820,
           "title": "Ange Postecoglou on John Kennedy to Hearts exit talk",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16818202/?type=og-image"
-        },
-        {
-          "id": "d9df4a158aa344bd37819c2cddf14868",
-          "author": null,
-          "description": "The Celtic boss was not impressed when asked whether he needed to strengthen his squad for next season.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23545800.come-mate---postecoglou-razor-sharp-response-celtic-poser/?ref=rss",
-          "publishedOn": "2023-05-24T22:04:20.000Z",
-          "wordCount": 9614,
-          "title": "'Come on mate' - Postecoglou in razor-sharp response to Celtic poser",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16818063/?type=og-image"
-        },
-        {
-          "id": "550bbfe3607ee29126ed269158a2623d",
-          "author": null,
-          "description": "Ange Postecoglou shouldered blame for Celtic's defeat at Easter Road - admitting his post-title winning rotation has 'hurt' his team.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23545789.ange-takes-celtic-blame-reacts-maeda-bain-incidents/?ref=rss",
-          "publishedOn": "2023-05-24T21:45:36.000Z",
-          "wordCount": 8747,
-          "title": "Ange takes Celtic blame as he reacts to Maeda and Bain incidents",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16818053/?type=og-image"
         }
       ]
     }

@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-29T09:17:03.401Z</updated>
+    <updated>2023-05-29T12:33:30.192Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Council admit 'concern' after Celtic fans hold Glasgow title party]]></title>
+        <id>f5b2a5e7bcdef7a88cb2e99f531e98a5</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23553633.council-admit-concern-celtic-fans-hold-glasgow-title-party/?ref=rss"/>
+        <updated>2023-05-29T11:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Glasgow City Council have issued a statement of 'concern' following Celtics' title win celebrations this weekend.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scotland squad named for Euro 2024 double-header: Rangers star returns, three Celtic players, Hearts-Hibs presence]]></title>
+        <id>4161517</id>
+        <link href="https://www.scotsman.com/sport/football/rangers/scotland-squad-named-for-euro-2024-double-header-rangers-star-returns-three-celtic-players-hearts-hibs-presence-4161517"/>
+        <updated>2023-05-29T11:14:51.000Z</updated>
+        <summary type="html"><![CDATA[Steve Clarke has named his squad for the Euro 2024 qualifiers next month against Norway and Georgia.]]></summary>
+        <author>
+            <name>Mark Atkinson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Albian Ajeti makes Celtic return as Sturm Graz confirm no deal]]></title>
+        <id>0d1798f42eb4c260b00b9f9c0eb5baa1</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23553576.albian-ajeti-makes-celtic-return-sturm-graz-confirm-no-deal/?ref=rss"/>
+        <updated>2023-05-29T10:29:32.000Z</updated>
+        <summary type="html"><![CDATA[Celtic flop Albian Ajeti is returning to Parkhead after Sturm Graz confirmed they have turned down the chance to sign him permanently after a disappointing loan spell.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What the Celtic players think of Ange being linked with Tottenham]]></title>
+        <id>1e09bdd05810b88aef0ed577d6c25649</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23553328.celtic-players-think-ange-linked-tottenham/?ref=rss"/>
+        <updated>2023-05-29T09:04:25.000Z</updated>
+        <summary type="html"><![CDATA[The Premier League club have been credited with a serious interest in Postecoglou as their search for a new manager stretches on.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Watch as Fran Alonso bursts into Celtic song mid-interview]]></title>
         <id>af81d5636d6b27f3c7ecf3ec8075b81a</id>
@@ -692,36 +732,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23545899.ange-postecoglou-john-kennedy-hearts-exit-talk/?ref=rss"/>
         <updated>2023-05-25T06:31:38.000Z</updated>
         <summary type="html"><![CDATA[Ange Postecoglou has broken his silence on speculation linking his assistant John Kennedy with the Hearts.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ange Postecoglou says stuttering Celtic form is on him as he addresses Daizen Maeda red card and John Kennedy Hearts link]]></title>
-        <id>4156914</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/ange-postecoglou-says-stuttering-celtic-form-is-on-him-as-he-addresses-daizen-maeda-red-card-and-john-kennedy-hearts-link-4156914"/>
-        <updated>2023-05-24T22:05:34.000Z</updated>
-        <summary type="html"><![CDATA[Celtic boss Ange Postecoglou has taken full responsibility for Celtic’s recent stuttering run but he insists there is method in his madness, as he considers the bigger picture.]]></summary>
-        <author>
-            <name>Moira Gordon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Come on mate' - Postecoglou in razor-sharp response to Celtic poser]]></title>
-        <id>d9df4a158aa344bd37819c2cddf14868</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23545800.come-mate---postecoglou-razor-sharp-response-celtic-poser/?ref=rss"/>
-        <updated>2023-05-24T22:04:20.000Z</updated>
-        <summary type="html"><![CDATA[The Celtic boss was not impressed when asked whether he needed to strengthen his squad for next season.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ange takes Celtic blame as he reacts to Maeda and Bain incidents]]></title>
-        <id>550bbfe3607ee29126ed269158a2623d</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23545789.ange-takes-celtic-blame-reacts-maeda-bain-incidents/?ref=rss"/>
-        <updated>2023-05-24T21:45:36.000Z</updated>
-        <summary type="html"><![CDATA[Ange Postecoglou shouldered blame for Celtic's defeat at Easter Road - admitting his post-title winning rotation has 'hurt' his team.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
