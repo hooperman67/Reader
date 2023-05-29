@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4161873",
+          "author": "Joel Sked",
+          "description": "Now that the Premiership season has finished most clubs can switch their full attention to pre-season, preparation and the summer transfer market with all clubs looking to do key business before competitive action returns in July with the Viaplay Cup group stages.",
+          "link": "https://www.scotsman.com/sport/football/rangers/scottish-transfers-new-deal-for-rangers-star-celtic-eye-ps35m-international-aberdeen-battle-to-sign-favourite-4161873",
+          "publishedOn": "2023-05-29T17:04:49.000Z",
+          "wordCount": 2667,
+          "title": "Scottish transfers: New deal for Rangers star, Celtic eye £3.5m international, Aberdeen battle to sign favourite",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjhiNWM1YjlkLTc2ODEtNDg4MS1iYjdiLTNmNjk2NjgxZTk5ZDpiOWE5ZmUwMS1kNTQ2LTRhZmQtOTBiZS01N2NlN2U5M2VhZTM=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4161713",
           "author": "Joel Sked",
           "description": "Sky Sports provided live coverage of 41 Scottish Premiership matches this season – but failed to take up the full allocation of 48 for the third year running.",
@@ -288,6 +298,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "3533ed02210bc73098b9096f7216ab98",
+          "author": null,
+          "description": "C",
+          "link": "https://www.glasgowtimes.co.uk/sport/23554323.celtic-set-increased-scottish-cup-final-ticket-allocation/?ref=rss",
+          "publishedOn": "2023-05-29T16:21:23.000Z",
+          "wordCount": 8435,
+          "title": "Celtic set for increased Scottish Cup final ticket allocation",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16730054/?type=og-image"
+        },
         {
           "id": "3f737ec49134e6cb3311231d1383eed8",
           "author": null,
