@@ -6,6 +6,26 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4161713",
+          "author": "Joel Sked",
+          "description": "Sky Sports provided live coverage of 41 Scottish Premiership matches this season – but failed to take up the full allocation of 48 for the third year running.",
+          "link": "https://www.scotsman.com/sport/football/celtic/sky-sports-fall-short-in-showing-full-premiership-allocation-hearts-manager-criticism-play-off-final-4161713",
+          "publishedOn": "2023-05-29T14:18:42.000Z",
+          "wordCount": 2657,
+          "title": "Sky Sports fall short in showing full Premiership allocation, Hearts manager criticism, play-off final",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmVlNGQzMzg5LTBmZTgtNDYyOC04NWM0LTVhMTUwZTgyYTRhNjo5YTQzNjI4My01OGFmLTQ5YWItYjY5Ni02N2I5ZDkyMTRmMDc=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
+          "id": "4161688",
+          "author": "Joel Sked",
+          "description": "Celtic have been linked with a move for Slovenian striker Žan Vipotnik after an impressive season for Maribor.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtics-interest-in-international-striker-confirmed-rangers-link-ps35m-price-tag-23-goal-season-4161688",
+          "publishedOn": "2023-05-29T13:52:26.000Z",
+          "wordCount": 2237,
+          "title": "Celtic's interest in international striker confirmed, Rangers link, £3.5m price tag, 23-goal season",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjJmMDg2YjdiLTFhNGYtNDRiYS1hZWZmLTk4NjFjMmFiMTg1OTpiYjI4NzEyMi1lYzQ2LTRlMjYtOGNhMy02ZDQ5MjcxYTgzZDc=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4161517",
           "author": "Mark Atkinson",
           "description": "Steve Clarke has named his squad for the Euro 2024 qualifiers next month against Norway and Georgia.",
@@ -268,6 +288,26 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "3f737ec49134e6cb3311231d1383eed8",
+          "author": null,
+          "description": "It's said that the highly-rated 21-year-old has attracted interest from the Scottish champions.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23553968.zan-vipotnik-celtic-transfer-interest-registered-agent/?ref=rss",
+          "publishedOn": "2023-05-29T13:32:16.000Z",
+          "wordCount": 8459,
+          "title": "Zan Vipotnik Celtic transfer interest 'registered' with agent",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16830882/?type=og-image"
+        },
+        {
+          "id": "f5b2a5e7bcdef7a88cb2e99f531e98a5",
+          "author": null,
+          "description": "Glasgow City Council has issued a statement of 'concern' following Celtic title win celebrations this weekend.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23553633.council-admits-concern-celtic-fans-hold-glasgow-title-party/?ref=rss",
+          "publishedOn": "2023-05-29T11:35:00.000Z",
+          "wordCount": 8593,
+          "title": "Council admits 'concern' after Celtic fans hold Glasgow title party",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16830416/?type=og-image"
+        },
         {
           "id": "f5b2a5e7bcdef7a88cb2e99f531e98a5",
           "author": null,

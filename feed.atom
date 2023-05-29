@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-29T12:33:30.192Z</updated>
+    <updated>2023-05-29T15:16:54.100Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sky Sports fall short in showing full Premiership allocation, Hearts manager criticism, play-off final]]></title>
+        <id>4161713</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/sky-sports-fall-short-in-showing-full-premiership-allocation-hearts-manager-criticism-play-off-final-4161713"/>
+        <updated>2023-05-29T14:18:42.000Z</updated>
+        <summary type="html"><![CDATA[Sky Sports provided live coverage of 41 Scottish Premiership matches this season – but failed to take up the full allocation of 48 for the third year running.]]></summary>
+        <author>
+            <name>Joel Sked</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic's interest in international striker confirmed, Rangers link, £3.5m price tag, 23-goal season]]></title>
+        <id>4161688</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/celtics-interest-in-international-striker-confirmed-rangers-link-ps35m-price-tag-23-goal-season-4161688"/>
+        <updated>2023-05-29T13:52:26.000Z</updated>
+        <summary type="html"><![CDATA[Celtic have been linked with a move for Slovenian striker Žan Vipotnik after an impressive season for Maribor.]]></summary>
+        <author>
+            <name>Joel Sked</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zan Vipotnik Celtic transfer interest 'registered' with agent]]></title>
+        <id>3f737ec49134e6cb3311231d1383eed8</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23553968.zan-vipotnik-celtic-transfer-interest-registered-agent/?ref=rss"/>
+        <updated>2023-05-29T13:32:16.000Z</updated>
+        <summary type="html"><![CDATA[It's said that the highly-rated 21-year-old has attracted interest from the Scottish champions.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Council admits 'concern' after Celtic fans hold Glasgow title party]]></title>
+        <id>f5b2a5e7bcdef7a88cb2e99f531e98a5</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23553633.council-admits-concern-celtic-fans-hold-glasgow-title-party/?ref=rss"/>
+        <updated>2023-05-29T11:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Glasgow City Council has issued a statement of 'concern' following Celtic title win celebrations this weekend.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Council admit 'concern' after Celtic fans hold Glasgow title party]]></title>
         <id>f5b2a5e7bcdef7a88cb2e99f531e98a5</id>
