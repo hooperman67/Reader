@@ -266,8 +266,28 @@
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "539096a23402c5c484a3f150439c9522",
+          "author": null,
+          "description": "I admit that ChatGPT could possibly make a better fist of assessing the Scottish Cup final than this writer who is burdened by historical prejudices and conventional wisdom which indicate that Inverness Caley Thistle are travelling to Glasgow merely to be sacrificial lambs in the middle of a colourful green and white pageant.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23552756.odds-past-follies-give-invernessians-hope/?ref=rss",
+          "publishedOn": "2023-05-29T06:00:00.000Z",
+          "wordCount": 9189,
+          "title": "Odds are against them, but my past follies give Invernessians hope",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16828784/?type=og-image"
+        },
+        {
+          "id": "ce5aa8a76a961f66f845f25ce0f91784",
+          "author": null,
+          "description": "ANYONE who was present at the Edinburgh derby on Saturday couldn’t help but be impressed by the spectacle..",
+          "link": "https://www.glasgowtimes.co.uk/sport/23552455.off-pitch-hearts-hibs-rivalry-now-eclipses-celtic-rangers/?ref=rss",
+          "publishedOn": "2023-05-29T05:00:00.000Z",
+          "wordCount": 9192,
+          "title": "Off the pitch, Hearts and Hibs rivalry now eclipses Celtic and Rangers",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16828104/?type=og-image"
+        },
         {
           "id": "435be30c9f409248478e41553f9eb986",
           "author": null,
@@ -717,16 +737,6 @@
           "wordCount": 9651,
           "title": "Celtic winger Sead Haksabanovic picks up injury against Hibernian",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16817924/?type=og-image"
-        },
-        {
-          "id": "08be1bebabb6e797ceffce65c7ef353f",
-          "author": null,
-          "description": "The Australian has rotated his starting eleven for the trip to the capital.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23545034.celtic-team-news-postecoglou-names-side-hibs-clash/?ref=rss",
-          "publishedOn": "2023-05-24T17:45:00.000Z",
-          "wordCount": 8518,
-          "title": "Celtic team news as Postecoglou names side for Hibs clash",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16816843/?type=og-image"
         }
       ]
     }

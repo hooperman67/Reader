@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-29T03:18:02.809Z</updated>
+    <updated>2023-05-29T06:22:37.504Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Odds are against them, but my past follies give Invernessians hope]]></title>
+        <id>539096a23402c5c484a3f150439c9522</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23552756.odds-past-follies-give-invernessians-hope/?ref=rss"/>
+        <updated>2023-05-29T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I admit that ChatGPT could possibly make a better fist of assessing the Scottish Cup final than this writer who is burdened by historical prejudices and conventional wisdom which indicate that Inverness Caley Thistle are travelling to Glasgow merely to be sacrificial lambs in the middle of a colourful green and white pageant.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Off the pitch, Hearts and Hibs rivalry now eclipses Celtic and Rangers]]></title>
+        <id>ce5aa8a76a961f66f845f25ce0f91784</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23552455.off-pitch-hearts-hibs-rivalry-now-eclipses-celtic-rangers/?ref=rss"/>
+        <updated>2023-05-29T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ANYONE who was present at the Edinburgh derby on Saturday couldn’t help but be impressed by the spectacle..]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic dressing room has 'tunnel vision' over prospect of losing Ange Postecoglou to Tottenham]]></title>
         <id>4161067</id>
@@ -702,16 +722,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23545715.celtic-winger-sead-haksabanovic-picks-injury-hibernian/?ref=rss"/>
         <updated>2023-05-24T19:20:00.000Z</updated>
         <summary type="html"><![CDATA[The Montenegro international went off early on at Easter Road.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic team news as Postecoglou names side for Hibs clash]]></title>
-        <id>08be1bebabb6e797ceffce65c7ef353f</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23545034.celtic-team-news-postecoglou-names-side-hibs-clash/?ref=rss"/>
-        <updated>2023-05-24T17:45:00.000Z</updated>
-        <summary type="html"><![CDATA[The Australian has rotated his starting eleven for the trip to the capital.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
