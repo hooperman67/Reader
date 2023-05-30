@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-30T09:16:37.117Z</updated>
+    <updated>2023-05-30T12:35:54.713Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Billy Dodds responds to Celtic form question with Inverness situation branded 'not ideal, but not terrible']]></title>
+        <id>4162488</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/billy-dodds-responds-to-celtic-form-question-with-inverness-situation-branded-not-ideal-but-not-terrible-4162488"/>
+        <updated>2023-05-30T10:25:13.000Z</updated>
+        <summary type="html"><![CDATA[Billy Dodds declared Inverness “ready to go” for Saturday’s Scottish Cup final even though they will have had more than four weeks without a match by the time the Hampden showdown with Celtic kicks off.]]></summary>
+        <author>
+            <name>Anthony Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic's slim Champions League Pot 3 hope - and why Rangers are one of the teams they want eliminated]]></title>
+        <id>4162321</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/celtics-slim-champions-league-pot-3-hope-and-why-rangers-are-one-of-the-teams-they-want-eliminated-4162321"/>
+        <updated>2023-05-30T09:31:22.000Z</updated>
+        <summary type="html"><![CDATA[Celtic are set for a second season of Champions League group stage football after winning the Scottish Premiership title.]]></summary>
+        <author>
+            <name>Joel Sked</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic vs Inverness: TV channel, live stream & kick-off]]></title>
         <id>5d0018d222a9ecf85a3c6557de121cbe</id>
@@ -722,26 +742,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23548533.callum-mcgregor-not-concerned-celtic-suffer-dip-form/?ref=rss"/>
         <updated>2023-05-26T06:00:00.000Z</updated>
         <summary type="html"><![CDATA[The Celtic skipper is convinced the team will be on-form by the time the Scottish Cup final comes around.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic captain Callum McGregor 'selfish' over John Kennedy Hearts link as he addresses current form]]></title>
-        <id>4158389</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/celtic-captain-callum-mcgregor-selfish-over-john-kennedy-hearts-link-as-he-addresses-current-form-4158389"/>
-        <updated>2023-05-25T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Callum McGregor can understand why Hearts may be looking to lure John Kennedy to Tynecastle but, keen to keep hold of the Parkhead coach, the Celtic captain is hoping the capital job ultimately proves a less attractive option than another season with the back to back league champions.]]></summary>
-        <author>
-            <name>Moira Gordon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Callum McGregor makes John Kennedy management prediction]]></title>
-        <id>a6a69d3a25ec443c45d85bc3bdfc2ac9</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23548543.callum-mcgregor-makes-john-kennedy-management-prediction/?ref=rss"/>
-        <updated>2023-05-25T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The Celtic coach has been linked with a move to Hearts but McGregor hopes the former defender will stick around.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>

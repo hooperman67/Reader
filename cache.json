@@ -6,6 +6,26 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4162488",
+          "author": "Anthony Brown",
+          "description": "Billy Dodds declared Inverness “ready to go” for Saturday’s Scottish Cup final even though they will have had more than four weeks without a match by the time the Hampden showdown with Celtic kicks off.",
+          "link": "https://www.scotsman.com/sport/football/celtic/billy-dodds-responds-to-celtic-form-question-with-inverness-situation-branded-not-ideal-but-not-terrible-4162488",
+          "publishedOn": "2023-05-30T10:25:13.000Z",
+          "wordCount": 2874,
+          "title": "Billy Dodds responds to Celtic form question with Inverness situation branded 'not ideal, but not terrible'",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmNiNjEyYzc0LTIxMTktNDhhNC04NDg0LTdlNmNkNjhkNGYyNTphZGQ2OTNlNC05YmEyLTQ3ODEtOTMzYS1mNDM3MjU5ZDE2Nzk=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
+          "id": "4162321",
+          "author": "Joel Sked",
+          "description": "Celtic are set for a second season of Champions League group stage football after winning the Scottish Premiership title.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtics-slim-champions-league-pot-3-hope-and-why-rangers-are-one-of-the-teams-they-want-eliminated-4162321",
+          "publishedOn": "2023-05-30T09:31:22.000Z",
+          "wordCount": 2804,
+          "title": "Celtic's slim Champions League Pot 3 hope - and why Rangers are one of the teams they want eliminated",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjQzZTVjOGRlLTUyNzQtNDA5ZC04NTMzLWJhZTAwYWQyNDA5MTpkYzhiOWJlZS1jMTI5LTRhM2QtODRiMy1jM2ZmMWUxYjA4YTY=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4161983",
           "author": "Joel Sked",
           "description": "Ange Postecoglou has been urged not to swap Celtic and Champions League football for the English Premier League’s “great non-achievers”.",
@@ -254,16 +274,6 @@
           "wordCount": 2630,
           "title": "What TV channel is Celtic v Aberdeen on? How to watch Premiership trophy presentation",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjA4YTFmMTZkLTJmOTYtNDFmMi04OWIwLTljNDFmMThmMjllZjo0NTgzNTkxMi1kYTliLTQxOTctOTY1My0wYTNlZjE4NjY5ZTY=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4158389",
-          "author": "Moira Gordon",
-          "description": "Callum McGregor can understand why Hearts may be looking to lure John Kennedy to Tynecastle but, keen to keep hold of the Parkhead coach, the Celtic captain is hoping the capital job ultimately proves a less attractive option than another season with the back to back league champions.",
-          "link": "https://www.scotsman.com/sport/football/celtic/celtic-captain-callum-mcgregor-selfish-over-john-kennedy-hearts-link-as-he-addresses-current-form-4158389",
-          "publishedOn": "2023-05-25T21:30:00.000Z",
-          "wordCount": 2905,
-          "title": "Celtic captain Callum McGregor 'selfish' over John Kennedy Hearts link as he addresses current form",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjdjZGE5ODI5LTRmYjItNDY5My1iNDdiLWNhOWRkYmU2ZmRjZTplYWRiNTNiNS0wYjE4LTQ3NGEtODdiYS1hNTcwMjdhOTdjNDc=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
         }
       ]
     },
@@ -747,16 +757,6 @@
           "wordCount": 9390,
           "title": "Callum McGregor not concerned as Celtic suffer dip in form",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16822325/?type=og-image"
-        },
-        {
-          "id": "a6a69d3a25ec443c45d85bc3bdfc2ac9",
-          "author": null,
-          "description": "The Celtic coach has been linked with a move to Hearts but McGregor hopes the former defender will stick around.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23548543.callum-mcgregor-makes-john-kennedy-management-prediction/?ref=rss",
-          "publishedOn": "2023-05-25T21:30:00.000Z",
-          "wordCount": 9688,
-          "title": "Callum McGregor makes John Kennedy management prediction",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16822352/?type=og-image"
         }
       ]
     }
