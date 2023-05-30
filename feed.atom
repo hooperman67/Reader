@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-30T15:17:16.025Z</updated>
+    <updated>2023-05-30T18:20:52.965Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Scottish transfers: Hearts in target blow, 44-goal ex-Rangers released, Hibs defender joins Premiership rivals]]></title>
+        <id>4163353</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/scottish-transfers-hearts-in-target-blow-44-goal-ex-rangers-released-hibs-defender-joins-premiership-rivals-4163353"/>
+        <updated>2023-05-30T15:50:31.000Z</updated>
+        <summary type="html"><![CDATA[A number of Premiership clubs are confirming the players who will be departing at the end of their contracts following the conclusion of the season as managers begin to tweak and overhaul their squad ahead of pre-season.]]></summary>
+        <author>
+            <name>Joel Sked</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic's Ange Postecoglou slated by Gray & Keys over Spurs links]]></title>
+        <id>eb14ec119b7b9b506487cef8f0d45a92</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23556817.celtics-ange-postecoglou-slated-gray-keys-spurs-links/?ref=rss"/>
+        <updated>2023-05-30T15:43:54.000Z</updated>
+        <summary type="html"><![CDATA[Speaking to beIN Sports, Keys said: "I do not know why Brendan Rodgers is not being considered for that job." Gray fired back: “What has Postecoglou got and done that Brendan Rodgers hasn’t bettered? Bettered."]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Humza Yousaf reacts to Celtic fan celebrations in Glasgow]]></title>
+        <id>3c86c8938594872427576827b6b8867c</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23556613.humza-yousaf-reacts-celtic-fan-celebrations-glasgow/?ref=rss"/>
+        <updated>2023-05-30T15:14:00.000Z</updated>
+        <summary type="html"><![CDATA[Humza Yousaf has spoken out thousands of Hoops fans gathered in Glasgow city centre to celebrate the team winning the Scottish Premiership.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic surpass impressive attendance milestone as Premiership average attendances revealed in record season]]></title>
+        <id>4163269</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/celtic-surpass-impressive-attendance-milestone-as-premiership-average-attendances-revealed-in-record-season-4163269"/>
+        <updated>2023-05-30T15:13:27.000Z</updated>
+        <summary type="html"><![CDATA[A total of 3,834,106 fans attended Scottish Premiership games this season with the average attendance across the league 16,816.]]></summary>
+        <author>
+            <name>Joel Sked</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Billy Dodds says Inverness need a 'miracle’ for Celtic showdown]]></title>
         <id>335e7089856c770fe9b1415cd7653014</id>
@@ -742,16 +782,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23548787.chris-sutton-ange-postecoglou-celtic-tottenham-fear/?ref=rss"/>
         <updated>2023-05-26T07:10:09.000Z</updated>
         <summary type="html"><![CDATA[It emerged yesterday that the Celtic boss is high on Spurs' wishlist as they search for a new gaffer this summer.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Callum McGregor not concerned as Celtic suffer dip in form]]></title>
-        <id>b0259ef0a3e04b1ab312a35290b9671b</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23548533.callum-mcgregor-not-concerned-celtic-suffer-dip-form/?ref=rss"/>
-        <updated>2023-05-26T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Celtic skipper is convinced the team will be on-form by the time the Scottish Cup final comes around.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
