@@ -309,6 +309,16 @@
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
         {
+          "id": "7a727bdb620330d1378b2367241a35f0",
+          "author": null,
+          "description": "John Hughes believes Ange Postecoglou will \"100 per cent\" be at Celtic next season despite recent speculation linking the Aussie with Spurs.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23557176.postecoglou-will-100--celtic-next-season-rangers-battle/?ref=rss",
+          "publishedOn": "2023-05-30T18:56:19.000Z",
+          "wordCount": 8535,
+          "title": "Postecoglou will '100%' be at Celtic next season for 'Rangers battle'",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16827638/?type=og-image"
+        },
+        {
           "id": "eb14ec119b7b9b506487cef8f0d45a92",
           "author": null,
           "description": "Speaking to beIN Sports, Keys said: \"I do not know why Brendan Rodgers is not being considered for that job.\" Gray fired back: “What has Postecoglou got and done that Brendan Rodgers hasn’t bettered? Bettered.\"",
@@ -767,36 +777,6 @@
           "wordCount": 8774,
           "title": "Ange Postecoglou Celtic to Tottenham backing given by Harry Redknapp",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16823029/?type=og-image"
-        },
-        {
-          "id": "657c7056eac6f75408cfc4cfef774d33",
-          "author": null,
-          "description": "A FORMER Celtic youth player has been spotted wearing a Rangers top at Ibrox.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23548990.ex-celtic-youth-spotted-rangers-strip-glasgows-ibrox/?ref=rss",
-          "publishedOn": "2023-05-26T08:35:28.000Z",
-          "wordCount": 8330,
-          "title": "Ex-Celtic youth spotted in Rangers strip at Glasgow's Ibrox",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/11877466/?type=og-image"
-        },
-        {
-          "id": "114e15ff46dd96ed2f24e4551cd70644",
-          "author": null,
-          "description": "The Hoops will lift their second successive Premiership crown this weekend.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23548883.celtic-vs-aberdeen-tv-channel-live-stream-kick-off-time/?ref=rss",
-          "publishedOn": "2023-05-26T08:04:26.000Z",
-          "wordCount": 9674,
-          "title": "Celtic vs Aberdeen: TV channel, live stream & kick-off time",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16822743/?type=og-image"
-        },
-        {
-          "id": "30bf993773cd1e68852fa367aa26a792",
-          "author": null,
-          "description": "It emerged yesterday that the Celtic boss is high on Spurs' wishlist as they search for a new gaffer this summer.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23548787.chris-sutton-ange-postecoglou-celtic-tottenham-fear/?ref=rss",
-          "publishedOn": "2023-05-26T07:10:09.000Z",
-          "wordCount": 8774,
-          "title": "Chris Sutton in Ange Postecoglou Celtic to Tottenham fear",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16822669/?type=og-image"
         }
       ]
     }
