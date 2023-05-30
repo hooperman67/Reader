@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4161943",
+          "author": "Alan Pattullo",
+          "description": "Manchester United, Internazionale and Scotland. Three teams whose short-term ambitions hinge on being able to shackle a pony-tailed phenomenon called Erling Haaland.",
+          "link": "https://www.scotsman.com/sport/football/stop-haaland-alliance-scotland-manchester-united-and-inter-plan-to-ruin-norway-strikers-month-as-clarke-recalls-rangers-defender-4161943",
+          "publishedOn": "2023-05-30T06:00:00.000Z",
+          "wordCount": 3846,
+          "title": "Stop Haaland Alliance: Scotland, Manchester United and Inter plan to ruin Norway striker's month as Clarke recalls Rangers defender",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjY5ZDYxYzlhLWNjMTItNDAwYi1hMmE2LTU0M2FjYWU3Yzg3MTo2NGRlZmVhMS05NTBmLTQ5YTItOWI3NC0yYTBkNWFkNTliMTE=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4161935",
           "author": "Chris Andrews",
           "description": "Celtic defender Carl Starfelt believes it is “not fair” to judge team-mate Yuki Kobayashi after just a handful of games.",
@@ -244,16 +254,6 @@
           "wordCount": 2905,
           "title": "Celtic captain Callum McGregor 'selfish' over John Kennedy Hearts link as he addresses current form",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjdjZGE5ODI5LTRmYjItNDY5My1iNDdiLWNhOWRkYmU2ZmRjZTplYWRiNTNiNS0wYjE4LTQ3NGEtODdiYS1hNTcwMjdhOTdjNDc=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4158345",
-          "author": "Joel Sked",
-          "description": "Following an action-packed evening in the Scottish Premiership, there is just one round of fixtures remaining with the campaign coming to a close on Sunday. After that, focus will surround the Scottish Cup final, pre-season and plans for next season.",
-          "link": "https://www.scotsman.com/sport/football/rangers/scottish-transfers-rangers-target-confirms-summer-move-celtic-signing-claim-aberdeen-coup-hint-4158345",
-          "publishedOn": "2023-05-25T15:46:52.000Z",
-          "wordCount": 3124,
-          "title": "Scottish transfers: Rangers target confirms summer move, Celtic signing claim, Aberdeen coup hint",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjJiZWU3Yjk3LWU3OWMtNDMwOC1hNTI0LWRkOWMzZGZkZmQzODoyYTE1ZjJkOC1mNDEzLTQwMWMtODM2Ny1hNjIwN2NhMGU5ODI=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
         }
       ]
     },
@@ -268,6 +268,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "3dd68696ad83bcf8fe3771342c74d0ec",
+          "author": null,
+          "description": "The Swedish defender is living proof that first impressions aren't always a long-term indicator in football.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23554004.carl-starfelt-says-snap-judgements-celtic-team-mate-not-fair/?ref=rss",
+          "publishedOn": "2023-05-30T05:00:00.000Z",
+          "wordCount": 9197,
+          "title": "Carl Starfelt says snap judgements on Celtic team-mate are 'not fair'",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16831232/?type=og-image"
+        },
         {
           "id": "50f62a9b809c37089d8b147e62707bc6",
           "author": null,
@@ -717,16 +727,6 @@
           "wordCount": 8490,
           "title": "Reo Hatate opens up on missing Celtic title celebrations",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16822518/?type=og-image"
-        },
-        {
-          "id": "3a4c04052b2eef1f23c6a7d821f45ee4",
-          "author": null,
-          "description": "Have Celtic offered their rivals a rare chink in their armour that Beale & Co can target next season? Or, conversely, are they demonstrating the dangers?",
-          "link": "https://www.glasgowtimes.co.uk/sport/23547284.celtic-post-title-form-warning-rangers-change/?ref=rss",
-          "publishedOn": "2023-05-25T16:00:00.000Z",
-          "wordCount": 9299,
-          "title": "Celtic post-title form warning to Rangers over change",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16820199/?type=og-image"
         }
       ]
     }
