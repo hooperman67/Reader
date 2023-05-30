@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4161983",
+          "author": "Joel Sked",
+          "description": "Ange Postecoglou has been urged not to swap Celtic and Champions League football for the English Premier League’s “great non-achievers”.",
+          "link": "https://www.scotsman.com/sport/football/celtic/ange-postecoglou-urged-not-to-swap-celtic-for-non-achievers-as-pundit-makes-spurs-fan-claim-over-aussie-4161983",
+          "publishedOn": "2023-05-30T06:47:37.000Z",
+          "wordCount": 2288,
+          "title": "Ange Postecoglou urged not to swap Celtic for 'non-achievers' as pundit makes Spurs fan claim over Aussie",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjkwNjI1NzUxLTMwMjktNDY4OS05YWJiLWFkYjFhMDJiZTE0MDozZjkyODJmZC1mODBhLTRiOTctYTNhYS0xODZmMjQ2MjA3OTY=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4161943",
           "author": "Alan Pattullo",
           "description": "Manchester United, Internazionale and Scotland. Three teams whose short-term ambitions hinge on being able to shackle a pony-tailed phenomenon called Erling Haaland.",
@@ -268,6 +278,36 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "5d0018d222a9ecf85a3c6557de121cbe",
+          "author": null,
+          "description": "Celtic and Inverness will go head to head in the final of the Scottish Cup at Hampden this weekend.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23554738.celtic-vs-inverness-tv-channel-live-stream-kick-off/?ref=rss",
+          "publishedOn": "2023-05-30T08:11:12.000Z",
+          "wordCount": 8465,
+          "title": "Celtic vs Inverness: TV channel, live stream & kick-off",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16832335/?type=og-image"
+        },
+        {
+          "id": "eea35ba4eb0624f961dc5755cd4499a6",
+          "author": null,
+          "description": "AN MP has called for football clubs to organise their own fan celebrations.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23554589.glasgow-mp-calls-football-clubs-organise-fan-celebrations/?ref=rss",
+          "publishedOn": "2023-05-30T06:42:26.000Z",
+          "wordCount": 8556,
+          "title": "Glasgow MP calls for football clubs to organise fan celebrations",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16827485/?type=og-image"
+        },
+        {
+          "id": "d55205555112838880f63ac9c0512348",
+          "author": null,
+          "description": "The Celtic manager has been linked with a possible switch to the Premier League club - but Charlie Nicholas has warned Ange Postecoglou against it.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23554571.ange-postecoglou-warned-great-non-achievers-tottenham/?ref=rss",
+          "publishedOn": "2023-05-30T06:21:21.000Z",
+          "wordCount": 8673,
+          "title": "Ange Postecoglou warned over 'great non-achievers' Tottenham",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16832241/?type=og-image"
+        },
         {
           "id": "3dd68696ad83bcf8fe3771342c74d0ec",
           "author": null,
@@ -717,16 +757,6 @@
           "wordCount": 9688,
           "title": "Callum McGregor makes John Kennedy management prediction",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16822352/?type=og-image"
-        },
-        {
-          "id": "21c7210e69e2b109195d49bf1bc8983e",
-          "author": null,
-          "description": "The midfielder was not present at Celtic Park for celebrations after the league title was sealed.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23548661.reo-hatate-opens-missing-celtic-title-celebrations/?ref=rss",
-          "publishedOn": "2023-05-25T20:57:32.000Z",
-          "wordCount": 8490,
-          "title": "Reo Hatate opens up on missing Celtic title celebrations",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16822518/?type=og-image"
         }
       ]
     }
