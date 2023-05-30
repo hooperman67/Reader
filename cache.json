@@ -286,8 +286,18 @@
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
       "articles": [
+        {
+          "id": "335e7089856c770fe9b1415cd7653014",
+          "author": null,
+          "description": "Billy Dodds says Scottish Cup is ‘all about miracles’ as Inverness face Celtic",
+          "link": "https://www.glasgowtimes.co.uk/sport/23555781.billy-dodds-says-inverness-need-miracle-celtic-showdown/?ref=rss",
+          "publishedOn": "2023-05-30T12:07:34.000Z",
+          "wordCount": 8756,
+          "title": "Billy Dodds says Inverness need a 'miracle’ for Celtic showdown",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16833889/?type=og-image"
+        },
         {
           "id": "5d0018d222a9ecf85a3c6557de121cbe",
           "author": null,

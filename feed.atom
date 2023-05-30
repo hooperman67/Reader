@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-30T12:35:54.713Z</updated>
+    <updated>2023-05-30T15:17:16.025Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Billy Dodds says Inverness need a 'miracle’ for Celtic showdown]]></title>
+        <id>335e7089856c770fe9b1415cd7653014</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23555781.billy-dodds-says-inverness-need-miracle-celtic-showdown/?ref=rss"/>
+        <updated>2023-05-30T12:07:34.000Z</updated>
+        <summary type="html"><![CDATA[Billy Dodds says Scottish Cup is ‘all about miracles’ as Inverness face Celtic]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Billy Dodds responds to Celtic form question with Inverness situation branded 'not ideal, but not terrible']]></title>
         <id>4162488</id>
