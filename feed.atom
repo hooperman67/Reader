@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-31T09:17:53.970Z</updated>
+    <updated>2023-05-31T12:35:45.916Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic braced for Ange Postecoglou approach as Tottenham prepare to 'step up' interest]]></title>
+        <id>4164242</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/celtic-braced-for-ange-postecoglou-approach-as-tottenham-prepare-to-step-up-interest-4164242"/>
+        <updated>2023-05-31T11:42:55.000Z</updated>
+        <summary type="html"><![CDATA[Tottenham Hotspur will “step up” their interest in Celtic manager Ange Postecoglou after Saturday's Scottish Cup final, according to a report.]]></summary>
+        <author>
+            <name>Matthew Elder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postecoglou to Spurs latest as Daniel Levy set to 'step up' pursuit]]></title>
+        <id>efdfd284591bddf6d8db439703a6fec0</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23558069.postecoglou-spurs-latest-daniel-levy-set-step-up-pursuit/?ref=rss"/>
+        <updated>2023-05-31T10:41:45.000Z</updated>
+        <summary type="html"><![CDATA[T]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ardon Jashari set for Luzern exit as Celtic launch transfer interest]]></title>
+        <id>830b6c1d37ab35cdb2ae2e03ab1affc1</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23557641.ardon-jashari-set-luzern-exit-celtic-launch-transfer-interest/?ref=rss"/>
+        <updated>2023-05-31T09:06:57.000Z</updated>
+        <summary type="html"><![CDATA[SWISS superkid Ardon Jashari has admitted he looks set to leave FC Luzern in the summer with interest from Celtic hotting up for the midfielder.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ange on Celtic transfer 'jenga' and why Champions League is so crucial]]></title>
         <id>f8269cd28545d5fc7c7047e5686e093b</id>
@@ -694,16 +724,6 @@
         <summary type="html"><![CDATA[Celtic manager Ange Postecoglou says he is focused only on the club’s remaining games of the season amid intense speculation linking him to the vacant Tottenham Hotpsur post.]]></summary>
         <author>
             <name>Andrew Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ange Postecoglou 'won't put timeline' on Celtic future amid Spurs link]]></title>
-        <id>742d904d7d49d4efddc1cb7007f60d04</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23551400.ange-postecoglou-wont-put-timeline-celtic-future-amid-spurs-link/?ref=rss"/>
-        <updated>2023-05-26T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The Parkhead manager has reportedly emerged as a primary target for the Premier League side.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>

@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4164242",
+          "author": "Matthew Elder",
+          "description": "Tottenham Hotspur will “step up” their interest in Celtic manager Ange Postecoglou after Saturday's Scottish Cup final, according to a report.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtic-braced-for-ange-postecoglou-approach-as-tottenham-prepare-to-step-up-interest-4164242",
+          "publishedOn": "2023-05-31T11:42:55.000Z",
+          "wordCount": 2368,
+          "title": "Celtic braced for Ange Postecoglou approach as Tottenham prepare to 'step up' interest",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjE5Y2YxY2ZkLWRiYjAtNDg0Ny05NTcwLTlkOTA4YzgxOTNlOTo2ZTM3Y2UyYy03MmYzLTRiMjMtOGM1OS0zZjIxZmU2ZDIxYTY=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4163432",
           "author": "Matthew Elder",
           "description": "Ange Postecoglou is relishing the challenge of improving Celtic again next season after warning that the club could lose key players this summer.",
@@ -278,6 +288,26 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "efdfd284591bddf6d8db439703a6fec0",
+          "author": null,
+          "description": "T",
+          "link": "https://www.glasgowtimes.co.uk/sport/23558069.postecoglou-spurs-latest-daniel-levy-set-step-up-pursuit/?ref=rss",
+          "publishedOn": "2023-05-31T10:41:45.000Z",
+          "wordCount": 9676,
+          "title": "Postecoglou to Spurs latest as Daniel Levy set to 'step up' pursuit",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16837798/?type=og-image"
+        },
+        {
+          "id": "830b6c1d37ab35cdb2ae2e03ab1affc1",
+          "author": null,
+          "description": "SWISS superkid Ardon Jashari has admitted he looks set to leave FC Luzern in the summer with interest from Celtic hotting up for the midfielder.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23557641.ardon-jashari-set-luzern-exit-celtic-launch-transfer-interest/?ref=rss",
+          "publishedOn": "2023-05-31T09:06:57.000Z",
+          "wordCount": 9458,
+          "title": "Ardon Jashari set for Luzern exit as Celtic launch transfer interest",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16837564/?type=og-image"
+        },
         {
           "id": "f8269cd28545d5fc7c7047e5686e093b",
           "author": null,
@@ -707,16 +737,6 @@
           "wordCount": 10063,
           "title": "Celtic's Caitlin Hayes ready for Rangers Scottish Cup clash",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16826837/?type=og-image"
-        },
-        {
-          "id": "742d904d7d49d4efddc1cb7007f60d04",
-          "author": null,
-          "description": "The Parkhead manager has reportedly emerged as a primary target for the Premier League side.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23551400.ange-postecoglou-wont-put-timeline-celtic-future-amid-spurs-link/?ref=rss",
-          "publishedOn": "2023-05-26T21:30:00.000Z",
-          "wordCount": 8704,
-          "title": "Ange Postecoglou 'won't put timeline' on Celtic future amid Spurs link",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16826628/?type=og-image"
         }
       ]
     }
