@@ -264,16 +264,6 @@
           "wordCount": 3791,
           "title": "Ange Postecoglou in detail as Celtic manager opens up on Tottenham link, fans' fears and big decisions",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjA5ZjhmYmFiLTY1N2YtNDg3Yy05YzM4LTIxYTAyM2VlYTEyNjpkOWU1NzhjYi1hMTYyLTQ3MjEtYmE0Ny01Mzg1YzEyZjg4ZWI=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4160223",
-          "author": "Matthew Elder",
-          "description": "Celtic have suffered an injury blow ahead of the Scottish Cup final with the news that midfielder Aaron Mooy is likely to miss the Hampden clash with Inverness.",
-          "link": "https://www.scotsman.com/sport/football/celtic/celtic-cup-final-blow-as-key-player-set-to-miss-hampden-showdown-4160223",
-          "publishedOn": "2023-05-26T15:34:11.000Z",
-          "wordCount": 2270,
-          "title": "Celtic cup final blow as key player set to miss Hampden showdown",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmFjMTVhOWQ3LTA5ZWYtNGU2NS1iYjBjLTU0YWY5NWY5NWQyMDpiZTkxMzA2Ny1lYWU3LTQ5MjYtYWQzYS04NDY3MjhhMzU5NmE=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
         }
       ]
     },
@@ -286,8 +276,18 @@
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "f8269cd28545d5fc7c7047e5686e093b",
+          "author": null,
+          "description": "The Parkhead boss has an eye on an important summer window to come.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23557273.ange-celtic-transfer-jenga-champions-league-crucial/?ref=rss",
+          "publishedOn": "2023-05-31T05:00:00.000Z",
+          "wordCount": 9144,
+          "title": "Ange on Celtic transfer 'jenga' and why Champions League is so crucial",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16757372/?type=og-image"
+        },
         {
           "id": "338d5da341075260e6831abd206d5332",
           "author": null,

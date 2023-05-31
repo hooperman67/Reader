@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-31T03:20:22.780Z</updated>
+    <updated>2023-05-31T06:23:11.735Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ange on Celtic transfer 'jenga' and why Champions League is so crucial]]></title>
+        <id>f8269cd28545d5fc7c7047e5686e093b</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23557273.ange-celtic-transfer-jenga-champions-league-crucial/?ref=rss"/>
+        <updated>2023-05-31T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Parkhead boss has an eye on an important summer window to come.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ange Postecoglou warns of incoming offers and reveals why managing Celtic is akin to Jenga]]></title>
         <id>4163432</id>
@@ -704,16 +714,6 @@
         <summary type="html"><![CDATA[The Celtic boss has been linked with a switch to Tottenham - but Sutton refused to accept Postecoglou is worried about Rangers.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic cup final blow as key player set to miss Hampden showdown]]></title>
-        <id>4160223</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/celtic-cup-final-blow-as-key-player-set-to-miss-hampden-showdown-4160223"/>
-        <updated>2023-05-26T15:34:11.000Z</updated>
-        <summary type="html"><![CDATA[Celtic have suffered an injury blow ahead of the Scottish Cup final with the news that midfielder Aaron Mooy is likely to miss the Hampden clash with Inverness.]]></summary>
-        <author>
-            <name>Matthew Elder</name>
         </author>
     </entry>
 </feed>
