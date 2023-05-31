@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-31T15:16:59.120Z</updated>
+    <updated>2023-05-31T18:21:15.474Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Scottish transfers: Rangers star in surprise Turkey link, £5m Celtic target set to leave, 'fee agreed' for Hibs ace]]></title>
+        <id>4164923</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/scottish-transfers-rangers-star-in-surprise-turkey-link-ps5m-celtic-target-set-to-leave-fee-agreed-for-hibs-ace-4164923"/>
+        <updated>2023-05-31T16:09:54.000Z</updated>
+        <summary type="html"><![CDATA[Premiership clubs have been confirming the players who will be remaining as part of the squad going into next season, while the search for a new club begins for a variety of players around the country in what is set to be a fascinating summer transfer window.]]></summary>
+        <author>
+            <name>Joel Sked</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic braced for Ange Postecoglou approach as Tottenham prepare to 'step up' interest for 'preferred candidate']]></title>
+        <id>4164242</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/celtic-braced-for-ange-postecoglou-approach-as-tottenham-prepare-to-step-up-interest-for-preferred-candidate-4164242"/>
+        <updated>2023-05-31T15:31:17.000Z</updated>
+        <summary type="html"><![CDATA[Celtic are facing the prospect of a possible approach for Ange Postecoglou amid growing reports that their treble-chasing manager is the number one candidate to replace Antonio Conte at Tottenham.]]></summary>
+        <author>
+            <name>Matthew Elder</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic braced for Ange Postecoglou approach as Tottenham prepare to 'step up' interest]]></title>
         <id>4164242</id>
