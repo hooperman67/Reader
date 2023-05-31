@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4163432",
+          "author": "Matthew Elder",
+          "description": "Ange Postecoglou is relishing the challenge of improving Celtic again next season after warning that the club could lose key players this summer.",
+          "link": "https://www.scotsman.com/sport/football/celtic/ange-postecoglou-warns-of-incoming-offers-and-reveals-why-managing-celtic-is-akin-to-jenga-4163432",
+          "publishedOn": "2023-05-30T21:30:00.000Z",
+          "wordCount": 2794,
+          "title": "Ange Postecoglou warns of incoming offers and reveals why managing Celtic is akin to Jenga",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjE0M2I3ZmJlLTRjOTUtNGUwOS1hZWMyLTFlZGMyMjU4NmVkOTo1OTg3NTU3Zi1kMmYwLTQ1OWYtOGFmZC1jYmQ5MGUxNDE1YTk=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4163353",
           "author": "Joel Sked",
           "description": "A number of Premiership clubs are confirming the players who will be departing at the end of their contracts following the conclusion of the season as managers begin to tweak and overhaul their squad ahead of pre-season.",
@@ -274,26 +284,6 @@
           "wordCount": 2205,
           "title": "Chris Sutton weighs in on Ange Postecoglou to Spurs as ex-Celtic striker offers 'smaller club' verdict",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjYzMGU5ZDgwLThlY2MtNDI1YS04ZjM4LTgzOWU3NDI0NjY5MTpiNWE2ZjEwNC0xODJkLTQxNWEtYjE2MC0xOTE0ZTBjMGFkNjg=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4159640",
-          "author": "Matthew Elder",
-          "description": "Celtic manager Ange Postecoglou insists he has paid no attention to speculation linking him with the Tottenham Hotspur vacancy and insisted his full focus is on securing the treble.",
-          "link": "https://www.scotsman.com/sport/football/celtic/ange-postecoglou-breaks-silence-on-tottenham-link-as-celtic-boss-insists-ive-never-planned-anything-4159640",
-          "publishedOn": "2023-05-26T12:44:29.000Z",
-          "wordCount": 2801,
-          "title": "Ange Postecoglou breaks silence on Tottenham link as Celtic boss insists: 'I've never planned anything'",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjVmMjllYWU0LTI3NTEtNDE2OC04NDg4LTM4YjQzMWIzMDlmMDowMTc3ZWZhNC0xNmZhLTQxNzktODgyOC1lZjA4NzJhYmFlYjc=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4159555",
-          "author": "Matthew Elder",
-          "description": "Celtic will celebrate their second successive Scottish Premiership title win on Saturday when they are presented with the league trophy following their final fixture at home to Aberdeen.",
-          "link": "https://www.scotsman.com/sport/football/celtic/what-tv-channel-is-celtic-v-aberdeen-on-how-to-watch-premiership-trophy-presentation-4159555",
-          "publishedOn": "2023-05-26T11:58:07.000Z",
-          "wordCount": 2630,
-          "title": "What TV channel is Celtic v Aberdeen on? How to watch Premiership trophy presentation",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjA4YTFmMTZkLTJmOTYtNDFmMi04OWIwLTljNDFmMThmMjllZjo0NTgzNTkxMi1kYTliLTQxOTctOTY1My0wYTNlZjE4NjY5ZTY=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
         }
       ]
     },
@@ -306,8 +296,18 @@
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
       "articles": [
+        {
+          "id": "338d5da341075260e6831abd206d5332",
+          "author": null,
+          "description": "Celtic's manager is impressed with the discipline of his star midfielder.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23555418.reo-hatate-not-kind-guy-turning-fun-celtic/?ref=rss",
+          "publishedOn": "2023-05-30T21:30:00.000Z",
+          "wordCount": 8571,
+          "title": "Reo Hatate is not 'turning up to have fun' at Celtic",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16833200/?type=og-image"
+        },
         {
           "id": "7a727bdb620330d1378b2367241a35f0",
           "author": null,
@@ -699,6 +699,16 @@
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16762582/?type=og-image"
         },
         {
+          "id": "114e15ff46dd96ed2f24e4551cd70644",
+          "author": null,
+          "description": "The Hoops will lift their second successive Premiership crown this weekend.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23548883.celtic-vs-aberdeen-tv-channel-live-stream-kick-off-time/?ref=rss",
+          "publishedOn": "2023-05-27T09:59:00.000Z",
+          "wordCount": 8578,
+          "title": "Celtic vs Aberdeen: TV channel, live stream & kick-off time",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16822743/?type=og-image"
+        },
+        {
           "id": "941720974448309699d848cf74d6217c",
           "author": null,
           "description": "The defender is hoping that Celtic finish their season on a high by lifting silverware at Hampden.",
@@ -737,46 +747,6 @@
           "wordCount": 8436,
           "title": "Celtic hero Sutton delivers bold Postecoglou to Tottenham claim",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16825367/?type=og-image"
-        },
-        {
-          "id": "09e0c1c7c1f7e17bcb0e6a7e90b772bf",
-          "author": null,
-          "description": "Yesterday it emerged that the Australian is high on Spurs' wishlist as they search for a new boss ahead of next season.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23550049.celtic-boss-ange-postecoglou-quizzed-tottenham-job-links/?ref=rss",
-          "publishedOn": "2023-05-26T12:48:27.000Z",
-          "wordCount": 8637,
-          "title": "Celtic boss Ange Postecoglou quizzed on Tottenham job links",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16824358/?type=og-image"
-        },
-        {
-          "id": "6b80ddad7012c4fb5ce4a960d442e14a",
-          "author": null,
-          "description": "The Hoops striker played alongside the Barcelona & Spain legend in the J League.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23549988.celtic-star-kyogo-furuhashis-message-andres-iniesta/?ref=rss",
-          "publishedOn": "2023-05-26T12:30:53.000Z",
-          "wordCount": 8507,
-          "title": "Celtic star Kyogo Furuhashi's message to Andres Iniesta",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16824281/?type=og-image"
-        },
-        {
-          "id": "00f149c01e1abcfe00453419fc0ddb5b",
-          "author": null,
-          "description": "The former Hoops boss is adamant that it would be like 'turkey's voting for Christmas'.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23549700.epl-invite-never-coming-celtic-rangers-insists-neil-lennon/?ref=rss",
-          "publishedOn": "2023-05-26T11:20:44.000Z",
-          "wordCount": 8562,
-          "title": "EPL invite never coming for Celtic or Rangers, insists Neil Lennon",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16823595/?type=og-image"
-        },
-        {
-          "id": "420fdd49a8069ecee0ddfe0b416a804d",
-          "author": null,
-          "description": "Postecoglou has been heavily linked with a move to take over Tottenham Hotspur, who are on the hunt for yet another manager after a poor season.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23549145.ange-postecoglou-celtic-tottenham-backing-given-harry-redknapp/?ref=rss",
-          "publishedOn": "2023-05-26T09:15:08.000Z",
-          "wordCount": 8774,
-          "title": "Ange Postecoglou Celtic to Tottenham backing given by Harry Redknapp",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16823029/?type=og-image"
         }
       ]
     }
