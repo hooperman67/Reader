@@ -6,6 +6,26 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4165066",
+          "author": "Matthew Elder",
+          "description": "Humza Yousaf has opened up on his support of Celtic and joked he would try to use ministerial powers to prevent manager Ange Postecoglou leaving for Tottenham.",
+          "link": "https://www.scotsman.com/sport/football/celtic/humza-yousaf-opens-up-on-celtic-support-as-first-minister-addresses-ange-postecoglou-exit-fears-4165066",
+          "publishedOn": "2023-05-31T19:44:02.000Z",
+          "wordCount": 2661,
+          "title": "Humza Yousaf opens up on Celtic support as First Minister addresses Ange Postecoglou exit fears",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjVlYTE1OWE1LTM5ZWMtNGQ3ZS1iZmI5LTZhMGUyMDRhZDk4Zjo3ZDY2OWFiNC1mZWJmLTRiZTktOGM4OS0zMjVjYTJhMmVmN2U=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
+          "id": "4164912",
+          "author": "Joel Sked",
+          "description": "Tuesday, June 6. A quick glance at the football calendar and there are no fixtures taking place within the Scottish football pyramid. For a football fix you will have to venture to the Copa Libertadores, South Korea’s K-League 1 or a play-off final in the Netherlands. Yet, it will be a big day in Scotland.",
+          "link": "https://www.scotsman.com/sport/football/how-scottish-footballs-conference-league-plans-are-starting-to-unravel-votes-against-fan-power-and-d-day-4164912",
+          "publishedOn": "2023-05-31T18:30:00.000Z",
+          "wordCount": 3872,
+          "title": "How Scottish football's Conference League plans are starting to unravel - votes against, fan power and D-Day",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjg1YjkzNDA1LTcwZjAtNGM0ZS04NmNlLWE3OTgyZWZkMmViYzpjYjgzMjQ0Zi1kNmU1LTQzMWItYTFmMy1iZGQzOWY5NDlhZGM=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4164923",
           "author": "Joel Sked",
           "description": "Premiership clubs have been confirming the players who will be remaining as part of the squad going into next season, while the search for a new club begins for a variety of players around the country in what is set to be a fascinating summer transfer window.",
@@ -274,26 +294,6 @@
           "wordCount": 2602,
           "title": "'Done final on one leg before': Kyogo Furuhashi update from Celtic boss after Japanese forward suffers injury",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmIxYzVmNjAyLTM4NTQtNDQzZi05MzJhLTRjOTdjZGY3NmI4NzpmNjUyMDMyYS02MjdjLTQyMDItYTdjYS03MmJhMWZiODM3MjY=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4159555",
-          "author": "Matthew Elder",
-          "description": "Celtic will celebrate their second successive Scottish Premiership title win on Saturday when they are presented with the league trophy following their final fixture at home to Aberdeen.",
-          "link": "https://www.scotsman.com/sport/football/celtic/what-channel-is-celtic-v-aberdeen-on-how-to-watch-premiership-trophy-presentation-on-tv-4159555",
-          "publishedOn": "2023-05-27T06:53:05.000Z",
-          "wordCount": 2635,
-          "title": "What channel is Celtic v Aberdeen on? How to watch Premiership trophy presentation on TV",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjA4YTFmMTZkLTJmOTYtNDFmMi04OWIwLTljNDFmMThmMjllZjo0NTgzNTkxMi1kYTliLTQxOTctOTY1My0wYTNlZjE4NjY5ZTY=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4160396",
-          "author": "Andrew Smith",
-          "description": "Celtic manager Ange Postecoglou says he is focused only on the club’s remaining games of the season amid intense speculation linking him to the vacant Tottenham Hotpsur post.",
-          "link": "https://www.scotsman.com/sport/football/celtic/ange-postecoglou-in-detail-as-celtic-manager-opens-up-on-tottenham-link-fans-fears-and-big-decisions-4160396",
-          "publishedOn": "2023-05-27T06:30:00.000Z",
-          "wordCount": 3791,
-          "title": "Ange Postecoglou in detail as Celtic manager opens up on Tottenham link, fans' fears and big decisions",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjA5ZjhmYmFiLTY1N2YtNDg3Yy05YzM4LTIxYTAyM2VlYTEyNjpkOWU1NzhjYi1hMTYyLTQ3MjEtYmE0Ny01Mzg1YzEyZjg4ZWI=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
         }
       ]
     },
@@ -306,8 +306,38 @@
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "ddc06ad7d33b54a5db79b703fed982d6",
+          "author": null,
+          "description": "The Australian, 57, is believed to be the preferred candidate for the vacant Tottenham job.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23559802.ange-postecoglou-celtic-spurs-pros-cons/?ref=rss",
+          "publishedOn": "2023-05-31T18:05:18.000Z",
+          "wordCount": 9086,
+          "title": "The Ange Postecoglou Celtic to Spurs pros and cons",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16840602/?type=og-image"
+        },
+        {
+          "id": "345c96f06f2f71e17d76cbffb9d95973",
+          "author": null,
+          "description": "Ange Postecoglou has emerged as the leading candidate for the job, with Spurs mightily impressed by the Australian's work at Celtic.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23559714.celtic-boss-ange-postecoglous-spurs-timeline-revealed/?ref=rss",
+          "publishedOn": "2023-05-31T16:55:16.000Z",
+          "wordCount": 8484,
+          "title": "Celtic boss Ange Postecoglou's Spurs timeline revealed",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16840533/?type=og-image"
+        },
+        {
+          "id": "79d733884784a4f2eec2ac1f34a58fdb",
+          "author": null,
+          "description": "The Scotland international left Parkhead for Bournemouth in the summer of 2021, six months prior to the end of his contract.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23559600.christie-celtic-transfer-reconsideration-postecoglou-impact/?ref=rss",
+          "publishedOn": "2023-05-31T16:20:28.000Z",
+          "wordCount": 8579,
+          "title": "Christie on Celtic transfer reconsideration after Postecoglou impact",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16840143/?type=og-image"
+        },
         {
           "id": "efdfd284591bddf6d8db439703a6fec0",
           "author": null,
@@ -747,16 +777,6 @@
           "wordCount": 8578,
           "title": "Celtic vs Aberdeen: TV channel, live stream & kick-off time",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16822743/?type=og-image"
-        },
-        {
-          "id": "941720974448309699d848cf74d6217c",
-          "author": null,
-          "description": "The defender is hoping that Celtic finish their season on a high by lifting silverware at Hampden.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23551581.celtics-caitlin-hayes-ready-rangers-scottish-cup-clash/?ref=rss",
-          "publishedOn": "2023-05-27T08:17:18.000Z",
-          "wordCount": 10063,
-          "title": "Celtic's Caitlin Hayes ready for Rangers Scottish Cup clash",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16826837/?type=og-image"
         }
       ]
     }
