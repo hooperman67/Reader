@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-01T09:16:56.102Z</updated>
+    <updated>2023-06-01T12:35:08.359Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ange Postecoglou: Spurs 'to announce' Celtic boss next week with Parkhead replacement search 'underway']]></title>
+        <id>4165498</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/ange-postecoglou-spurs-to-announce-celtic-boss-next-week-with-parkhead-replacement-search-underway-4165498"/>
+        <updated>2023-06-01T10:02:44.000Z</updated>
+        <summary type="html"><![CDATA[Celtic could be set to lose Ange Postecoglou as manager with reports Tottenham Hotspur will announce the Australian as their new boss next week.]]></summary>
+        <author>
+            <name>Joel Sked</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postecoglou to Tottenham latest as Celtic 'resigned' to manager search]]></title>
+        <id>e5d7599406601be6894ebd2da1e285e0</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23560504.postecoglou-tottenham-latest-celtic-resigned-manager-search/?ref=rss"/>
+        <updated>2023-06-01T09:37:07.000Z</updated>
+        <summary type="html"><![CDATA[Breaking reports claim Ange Postecoglou is in line to be named Tottenham boss with Celtic chiefs already starting a recruitment drive.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic one of 26 Champions League group stage entrants, 8 to qualify including Rangers, big names, draw details]]></title>
+        <id>4165248</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/celtic-one-of-26-champions-league-group-stage-entrants-8-to-qualify-including-rangers-big-names-draw-details-4165248"/>
+        <updated>2023-06-01T09:29:05.000Z</updated>
+        <summary type="html"><![CDATA[The 26 teams which automatically qualify for the Champions League group stages have all been confirmed – including Celtic.]]></summary>
+        <author>
+            <name>Joel Sked</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic one of confirmed 26 Champions League group stage entrants, 8 via qualifiers to be decided including Rangers]]></title>
         <id>4165248</id>
@@ -14,6 +44,16 @@
         <summary type="html"><![CDATA[The 26 teams which automatically qualify for the Champions League group stages have all been confirmed – including Celtic.]]></summary>
         <author>
             <name>Joel Sked</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yousaf in Postecoglou to Spurs quip as he opens up on Celtic support]]></title>
+        <id>f860ee08211c729fec914b45a2415262</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23560232.yousaf-postecoglou-spurs-quip-opens-celtic-support/?ref=rss"/>
+        <updated>2023-06-01T08:35:40.000Z</updated>
+        <summary type="html"><![CDATA[The First Minister opened up on his Celtic support and joked he's explored any powers which could keep Ange Postecoglou in Glasgow.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
     <entry>
@@ -644,16 +684,6 @@
         <summary type="html"><![CDATA[The Parkhead striker has been named the Scottish Football Writers Association Player of the Year.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rangers boss reveals heartbreaking reason for getting into game as Celtic counterpart welcomes VAR]]></title>
-        <id>4160573</id>
-        <link href="https://www.scotsman.com/sport/football/rangers/rangers-boss-reveals-heartbreaking-reason-for-getting-into-game-as-celtic-counterpart-welcomes-var-4160573"/>
-        <updated>2023-05-27T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[There are no eyebrows raised when Malky Thomson’s six year-old niece, Athena, talks about being all set for football training. By Thomson’s own admission, that might not always have been the case.]]></summary>
-        <author>
-            <name>Alison McConnell</name>
         </author>
     </entry>
 </feed>
