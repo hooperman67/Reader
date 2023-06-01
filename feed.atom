@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-01T06:22:51.341Z</updated>
+    <updated>2023-06-01T09:16:56.102Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic one of confirmed 26 Champions League group stage entrants, 8 via qualifiers to be decided including Rangers]]></title>
+        <id>4165248</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/celtic-one-of-confirmed-26-champions-league-group-stage-entrants-8-via-qualifiers-to-be-decided-including-rangers-4165248"/>
+        <updated>2023-06-01T08:49:09.000Z</updated>
+        <summary type="html"><![CDATA[The 26 teams which automatically qualify for the Champions League group stages have all been confirmed – including Celtic.]]></summary>
+        <author>
+            <name>Joel Sked</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sutton in 'not about Celtic' Postecoglou to Spurs verdict]]></title>
+        <id>7b2978dd2fae89b9b4dd962fdcd5f200</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23560079.sutton-not-celtic-postecoglou-spurs-verdict/?ref=rss"/>
+        <updated>2023-06-01T07:49:35.000Z</updated>
+        <summary type="html"><![CDATA[The former Parkhead striker is desperate for Ange Postecoglou to remain at Celtic but conceded he could be tempted by Tottenham.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tottenham fan hostility with Celtic boss Ange predictable but unfair]]></title>
         <id>ac131c909233dc7cb4aec00415e64b8f</id>
@@ -634,26 +654,6 @@
         <summary type="html"><![CDATA[There are no eyebrows raised when Malky Thomson’s six year-old niece, Athena, talks about being all set for football training. By Thomson’s own admission, that might not always have been the case.]]></summary>
         <author>
             <name>Alison McConnell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['I thought about giving up': Kyogo Furuhashi has latest say on Celtic future and reveals his love of swimming]]></title>
-        <id>4160830</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/i-thought-about-giving-up-kyogo-furuhashi-has-latest-say-on-celtic-future-and-reveals-his-love-of-swimming-4160830"/>
-        <updated>2023-05-27T21:10:09.000Z</updated>
-        <summary type="html"><![CDATA[It would be wrong to say there is hardly a pick on Kyogo Furuhashi.]]></summary>
-        <author>
-            <name>Andrew Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['I thought about giving up on my career': Kyogo Furuhashi reveals his love of swimming and has latest say on Celtic future]]></title>
-        <id>4160830</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/i-thought-about-giving-up-on-my-career-kyogo-furuhashi-reveals-his-love-of-swimming-and-has-latest-say-on-celtic-future-4160830"/>
-        <updated>2023-05-27T21:10:09.000Z</updated>
-        <summary type="html"><![CDATA[It would be wrong to say there is hardly a pick on Kyogo Furuhashi.]]></summary>
-        <author>
-            <name>Andrew Smith</name>
         </author>
     </entry>
 </feed>
