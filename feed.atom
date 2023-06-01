@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-05-31T21:14:34.549Z</updated>
+    <updated>2023-06-01T02:06:46.403Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Celtic can land world record at Hampden and open 20-year gap to Rangers]]></title>
+        <id>4165017</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/how-celtic-can-land-world-record-at-hampden-and-open-20-year-gap-to-rangers-4165017"/>
+        <updated>2023-05-31T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Matt O’Riley has encouraged supporters to trust the process as Celtic target a fifth treble in seven seasons – and a world record eighth in total.]]></summary>
+        <author>
+            <name>Alan Pattullo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Humza Yousaf opens up on Celtic support as First Minister addresses Ange Postecoglou exit fears]]></title>
         <id>4165066</id>
@@ -702,66 +712,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23551981.celtic-fans-gather-glasgows-trongate-trophy-day-celebrations/?ref=rss"/>
         <updated>2023-05-27T14:19:29.000Z</updated>
         <summary type="html"><![CDATA[CELTIC fans have gathered in the city centre for trophy day celebrations.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic boss Postecoglou channels Tommy Burns after title win]]></title>
-        <id>f3dc06aca1debeed49b3361140874160</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23551968.celtic-boss-postecoglou-channels-tommy-burns-title-win/?ref=rss"/>
-        <updated>2023-05-27T14:01:00.000Z</updated>
-        <summary type="html"><![CDATA[The Australian was speaking after the Hoops defeated Aberdeen 5-0.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic 5 Aberdeen 0: Instant reaction to the burning issues]]></title>
-        <id>4d8a63f0413f132f6c0de282a2901bcd</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23551934.celtic-5-aberdeen-0-instant-reaction-burning-issues/?ref=rss"/>
-        <updated>2023-05-27T13:24:05.000Z</updated>
-        <summary type="html"><![CDATA[Ange Postecoglou's side signed off with a performance of champions as they battered the Dons.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kyogo in Celtic Scottish Cup injury sweat as he limps off vs Aberdeen]]></title>
-        <id>ccfd796e41549fa35d342858c44e2a22</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23551905.kyogo-celtic-scottish-cup-injury-sweat-limps-off-vs-aberdeen/?ref=rss"/>
-        <updated>2023-05-27T12:47:51.000Z</updated>
-        <summary type="html"><![CDATA[Kyogo Furuhashi faces an anxious injury sweat ahead of next weekend's Scottish Cup final after he limped off against Aberdeen today.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic fans in stunning display to celebrate title win]]></title>
-        <id>79b8840b4b9f91dc74be0eacd4bc54d4</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23551798.celtic-fans-stunning-display-celebrate-title-win/?ref=rss"/>
-        <updated>2023-05-27T11:37:00.000Z</updated>
-        <summary type="html"><![CDATA[The supporters at Parkhead unveiled the display prior to the match.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Postecoglou to Tottenham latest as Martin O'Neill delivers prediction]]></title>
-        <id>58daaedee6e6fe3f4a5e38a7836f40f2</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23551807.postecoglou-tottenham-latest-martin-oneill-delivers-prediction/?ref=rss"/>
-        <updated>2023-05-27T11:13:29.000Z</updated>
-        <summary type="html"><![CDATA[Martin O'Neill has delivered his prediction amid speculation linking Celtic manager Ange Postecoglou with a move to Tottenham.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic vs Aberdeen: TV channel, live stream & kick-off time]]></title>
-        <id>114e15ff46dd96ed2f24e4551cd70644</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23548883.celtic-vs-aberdeen-tv-channel-live-stream-kick-off-time/?ref=rss"/>
-        <updated>2023-05-27T09:59:00.000Z</updated>
-        <summary type="html"><![CDATA[The Hoops will lift their second successive Premiership crown this weekend.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
