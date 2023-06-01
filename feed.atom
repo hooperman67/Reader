@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-01T18:22:38.785Z</updated>
+    <updated>2023-06-01T21:14:17.456Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -744,26 +744,6 @@
         <summary type="html"><![CDATA[Ange Postecoglou has been linked with a few jobs in England. It looks like Tottenham is the biggest one on the go right now and I have no doubt that Ange will feel he can do that job.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ex-Celtic boss Ronny Deila labelled 'traitor' in stinging banner blast]]></title>
-        <id>f491e76dcc79c20c1458ee321ebcf5f6</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23552369.ex-celtic-boss-ronny-deila-labelled-traitor-stinging-banner-blast/?ref=rss"/>
-        <updated>2023-05-28T08:44:50.000Z</updated>
-        <summary type="html"><![CDATA[Ronny Deila was labelled a 'traitor' in a stinging banner from the Standard Liege fans.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic-Aberdeen Reaction: Joe Hart not going there; Joe Lewis makes emotional gesture; plastic pitch invasion]]></title>
-        <id>4160836</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/celtic-aberdeen-reaction-joe-hart-not-going-there-joe-lewis-makes-emotional-gesture-plastic-pitch-invasion-4160836"/>
-        <updated>2023-05-28T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Champions Celtic swatted Aberdeen aside 5-0 on trophy day at Parkhead as they lifted more silverware and warmed up for Saturday’s Scottish Cup final against Inverness Caledonian Thistle, with the treble now on the line. Here are some talking points.]]></summary>
-        <author>
-            <name>Alan Pattullo</name>
         </author>
     </entry>
 </feed>
