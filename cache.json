@@ -284,26 +284,6 @@
           "wordCount": 2912,
           "title": "'I thought about giving up on my career': Kyogo Furuhashi reveals his love of swimming and has latest say on Celtic future",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjZlZjA2YTdhLTg2NDUtNDczMC04YjI4LWZlN2RlN2Q1NjVlNjo3MTNhNzE1NC02YmE3LTQ2NjUtYTE0Yi1lODU1ZmRiMWQ4NWI=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4160779",
-          "author": "Alan Pattullo",
-          "description": "Barry Robson admitted he was angered by Aberdeen’s performance as they went down 5-0 to Celtic in a result that had more in keeping with the side’s form earlier this year.",
-          "link": "https://www.scotsman.com/sport/football/celtic/why-barry-robson-was-so-angry-after-aberdeens-match-against-celtic-4160779",
-          "publishedOn": "2023-05-27T17:17:13.000Z",
-          "wordCount": 2481,
-          "title": "Why Barry Robson was so angry after Aberdeen's match against Celtic",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjBjMjc5M2U2LTk5ZDktNDg2MC05MWYyLWQ2YjI0YTRhMzk1ZjpjODVhNzdlNS02YWNlLTQwNDctYWZjNi0wYmFmYjg1OGZjNzc=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4160743",
-          "author": "Alan Pattullo",
-          "description": "Ange Postecoglou has issued a reminder that Kyogo Furuhashi can be effective even on one leg in cup finals after Scotland’s outstanding player of the year limped out of Celtic’s trophy day thrashing of Aberdeen.",
-          "link": "https://www.scotsman.com/sport/football/celtic/done-final-on-one-leg-before-kyogo-furuhashi-update-from-celtic-boss-after-japanese-forward-suffers-injury-4160743",
-          "publishedOn": "2023-05-27T15:47:50.000Z",
-          "wordCount": 2602,
-          "title": "'Done final on one leg before': Kyogo Furuhashi update from Celtic boss after Japanese forward suffers injury",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmIxYzVmNjAyLTM4NTQtNDQzZi05MzJhLTRjOTdjZGY3NmI4NzpmNjUyMDMyYS02MjdjLTQyMDItYTdjYS03MmJhMWZiODM3MjY=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
         }
       ]
     },
@@ -318,6 +298,26 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "ac131c909233dc7cb4aec00415e64b8f",
+          "author": null,
+          "description": "Ange Postecoglou said it himself last week: ‘Everyone thinks where they are is the centre of the universe.’",
+          "link": "https://www.glasgowtimes.co.uk/sport/23559882.tottenham-fan-hostility-celtic-boss-ange-predictable-unfair/?ref=rss",
+          "publishedOn": "2023-06-01T05:00:00.000Z",
+          "wordCount": 10505,
+          "title": "Tottenham fan hostility with Celtic boss Ange predictable but unfair",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16840769/?type=og-image"
+        },
+        {
+          "id": "7ad2ccd22176ae208aae0d31e82ec44d",
+          "author": null,
+          "description": "Ange Postecoglou stands on the brink of completing a domestic clean sweep with this weekend's Scottish Cup final.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23559873.celtic-normalised-trophy-feat-anything-normal/?ref=rss",
+          "publishedOn": "2023-06-01T05:00:00.000Z",
+          "wordCount": 9195,
+          "title": "How Celtic normalised a trophy feat that's anything but normal",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16840755/?type=og-image"
+        },
         {
           "id": "ddc06ad7d33b54a5db79b703fed982d6",
           "author": null,
@@ -667,16 +667,6 @@
           "wordCount": 9225,
           "title": "Kyogo's journey to Celtic revealed as star  almost quit football",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16827556/?type=og-image"
-        },
-        {
-          "id": "c8038d19713b80f43bdd652135eb87cd",
-          "author": null,
-          "description": "Ross McCrorie cheekily snubbed Aberdeen's guard of honour for Celtic this afternoon.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23552103.ross-mccrorie-snubs-celtic-guard-honour-prior-aberdeen-showdown/?ref=rss",
-          "publishedOn": "2023-05-27T16:21:44.000Z",
-          "wordCount": 8648,
-          "title": "Ross McCrorie snubs Celtic guard of honour prior to Aberdeen showdown",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16827563/?type=og-image"
         }
       ]
     }

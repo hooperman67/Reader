@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-01T03:30:44.371Z</updated>
+    <updated>2023-06-01T06:22:51.341Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tottenham fan hostility with Celtic boss Ange predictable but unfair]]></title>
+        <id>ac131c909233dc7cb4aec00415e64b8f</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23559882.tottenham-fan-hostility-celtic-boss-ange-predictable-unfair/?ref=rss"/>
+        <updated>2023-06-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ange Postecoglou said it himself last week: ‘Everyone thinks where they are is the centre of the universe.’]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Celtic normalised a trophy feat that's anything but normal]]></title>
+        <id>7ad2ccd22176ae208aae0d31e82ec44d</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23559873.celtic-normalised-trophy-feat-anything-normal/?ref=rss"/>
+        <updated>2023-06-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ange Postecoglou stands on the brink of completing a domestic clean sweep with this weekend's Scottish Cup final.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Celtic can land world record at Hampden and open 20-year gap to Rangers]]></title>
         <id>4165017</id>
@@ -634,36 +654,6 @@
         <summary type="html"><![CDATA[It would be wrong to say there is hardly a pick on Kyogo Furuhashi.]]></summary>
         <author>
             <name>Andrew Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Barry Robson was so angry after Aberdeen's match against Celtic]]></title>
-        <id>4160779</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/why-barry-robson-was-so-angry-after-aberdeens-match-against-celtic-4160779"/>
-        <updated>2023-05-27T17:17:13.000Z</updated>
-        <summary type="html"><![CDATA[Barry Robson admitted he was angered by Aberdeen’s performance as they went down 5-0 to Celtic in a result that had more in keeping with the side’s form earlier this year.]]></summary>
-        <author>
-            <name>Alan Pattullo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ross McCrorie snubs Celtic guard of honour prior to Aberdeen showdown]]></title>
-        <id>c8038d19713b80f43bdd652135eb87cd</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23552103.ross-mccrorie-snubs-celtic-guard-honour-prior-aberdeen-showdown/?ref=rss"/>
-        <updated>2023-05-27T16:21:44.000Z</updated>
-        <summary type="html"><![CDATA[Ross McCrorie cheekily snubbed Aberdeen's guard of honour for Celtic this afternoon.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Done final on one leg before': Kyogo Furuhashi update from Celtic boss after Japanese forward suffers injury]]></title>
-        <id>4160743</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/done-final-on-one-leg-before-kyogo-furuhashi-update-from-celtic-boss-after-japanese-forward-suffers-injury-4160743"/>
-        <updated>2023-05-27T15:47:50.000Z</updated>
-        <summary type="html"><![CDATA[Ange Postecoglou has issued a reminder that Kyogo Furuhashi can be effective even on one leg in cup finals after Scotland’s outstanding player of the year limped out of Celtic’s trophy day thrashing of Aberdeen.]]></summary>
-        <author>
-            <name>Alan Pattullo</name>
         </author>
     </entry>
 </feed>
