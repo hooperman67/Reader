@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-02T15:17:03.329Z</updated>
+    <updated>2023-06-02T18:20:14.581Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Early Celtic & Inverness team news ahead of Scottish Cup final]]></title>
+        <id>7b3295494b8594b7e3c84f3bd5f9bde0</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23565109.early-celtic-inverness-team-news-ahead-scottish-cup-final/?ref=rss"/>
+        <updated>2023-06-02T16:52:57.000Z</updated>
+        <summary type="html"><![CDATA[Celtic will make a late call on top goalscorer Kyogo Furuhashi after the striker picked up a lower leg knock against Aberdeen last weekend and did not train until Friday. Midfielder Aaron Mooy is the only definite absentee with a back problem.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic vs Inverness: Herald & Times Scottish Cup final predictions]]></title>
+        <id>f5048b49c9fdfd28463ebbb4c4b93c4f</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23564042.celtic-vs-inverness-herald-times-scottish-cup-final-predictions/?ref=rss"/>
+        <updated>2023-06-02T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Celtic and Inverness Caledonian Thistle square off at Hampden in the Scottish Cup final.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic manager odds take turn as Scott Brown favourite to replace Ange]]></title>
         <id>0dde5c7479a8490b244042b5c116f25b</id>
@@ -732,26 +752,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23553125.watch-fran-alonso-bursts-celtic-song-mid-interview/?ref=rss"/>
         <updated>2023-05-29T07:35:32.000Z</updated>
         <summary type="html"><![CDATA[The Celtic boss couldn't contain his excitement as he belted out fan chant 'Celtic Glasgow' in an interview after the Scottish Cup win.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Odds are against them, but my past follies give Invernessians hope]]></title>
-        <id>539096a23402c5c484a3f150439c9522</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23552756.odds-past-follies-give-invernessians-hope/?ref=rss"/>
-        <updated>2023-05-29T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I admit that ChatGPT could possibly make a better fist of assessing the Scottish Cup final than this writer who is burdened by historical prejudices and conventional wisdom which indicate that Inverness Caley Thistle are travelling to Glasgow merely to be sacrificial lambs in the middle of a colourful green and white pageant.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Off the pitch, Hearts and Hibs rivalry now eclipses Celtic and Rangers]]></title>
-        <id>ce5aa8a76a961f66f845f25ce0f91784</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23552455.off-pitch-hearts-hibs-rivalry-now-eclipses-celtic-rangers/?ref=rss"/>
-        <updated>2023-05-29T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ANYONE who was present at the Edinburgh derby on Saturday couldn’t help but be impressed by the spectacle..]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>

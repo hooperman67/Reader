@@ -339,6 +339,26 @@
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
         {
+          "id": "7b3295494b8594b7e3c84f3bd5f9bde0",
+          "author": null,
+          "description": "Celtic will make a late call on top goalscorer Kyogo Furuhashi after the striker picked up a lower leg knock against Aberdeen last weekend and did not train until Friday. Midfielder Aaron Mooy is the only definite absentee with a back problem.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23565109.early-celtic-inverness-team-news-ahead-scottish-cup-final/?ref=rss",
+          "publishedOn": "2023-06-02T16:52:57.000Z",
+          "wordCount": 8389,
+          "title": "Early Celtic & Inverness team news ahead of Scottish Cup final",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16849307/?type=og-image"
+        },
+        {
+          "id": "f5048b49c9fdfd28463ebbb4c4b93c4f",
+          "author": null,
+          "description": "Celtic and Inverness Caledonian Thistle square off at Hampden in the Scottish Cup final.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23564042.celtic-vs-inverness-herald-times-scottish-cup-final-predictions/?ref=rss",
+          "publishedOn": "2023-06-02T16:00:00.000Z",
+          "wordCount": 9179,
+          "title": "Celtic vs Inverness: Herald & Times Scottish Cup final predictions",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16847472/?type=og-image"
+        },
+        {
           "id": "0dde5c7479a8490b244042b5c116f25b",
           "author": null,
           "description": "Sportslens Head of News Lee Astley commented: “Celtic legend Scott Brown heads the field of contenders for the biggest job in Scotland should Ange Postecoglou decide to leave for pastures new. Brown had an impressive inaugural managerial season at Fleetwood Town and this will not have gone unnoticed by the Celtic hierarchy.",
@@ -747,26 +767,6 @@
           "wordCount": 8526,
           "title": "Watch as Fran Alonso bursts into Celtic song mid-interview",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16829446/?type=og-image"
-        },
-        {
-          "id": "539096a23402c5c484a3f150439c9522",
-          "author": null,
-          "description": "I admit that ChatGPT could possibly make a better fist of assessing the Scottish Cup final than this writer who is burdened by historical prejudices and conventional wisdom which indicate that Inverness Caley Thistle are travelling to Glasgow merely to be sacrificial lambs in the middle of a colourful green and white pageant.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23552756.odds-past-follies-give-invernessians-hope/?ref=rss",
-          "publishedOn": "2023-05-29T06:00:00.000Z",
-          "wordCount": 9189,
-          "title": "Odds are against them, but my past follies give Invernessians hope",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16828784/?type=og-image"
-        },
-        {
-          "id": "ce5aa8a76a961f66f845f25ce0f91784",
-          "author": null,
-          "description": "ANYONE who was present at the Edinburgh derby on Saturday couldn’t help but be impressed by the spectacle..",
-          "link": "https://www.glasgowtimes.co.uk/sport/23552455.off-pitch-hearts-hibs-rivalry-now-eclipses-celtic-rangers/?ref=rss",
-          "publishedOn": "2023-05-29T05:00:00.000Z",
-          "wordCount": 9192,
-          "title": "Off the pitch, Hearts and Hibs rivalry now eclipses Celtic and Rangers",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16828104/?type=og-image"
         }
       ]
     }
