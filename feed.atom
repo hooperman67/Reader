@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-02T09:16:11.481Z</updated>
+    <updated>2023-06-02T12:35:06.024Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bernabei opens up on Celtic struggles but insists 'my head is here']]></title>
+        <id>8cc2438e306968179a1e203710e4fc4c</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23563620.bernabei-opens-celtic-struggles-insists-my-head-here/?ref=rss"/>
+        <updated>2023-06-02T11:15:14.000Z</updated>
+        <summary type="html"><![CDATA[The full back joined last summer in a £3.75 million deal from Lanus in his homeland, but has been mostly used as an understudy to Greg Taylor.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[David Moyes responds to Celtic next manager favourite tag with Ange Postecoglou set for Tottenham talks]]></title>
+        <id>4167431</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/david-moyes-responds-to-celtic-next-manager-favourite-tag-with-ange-postecoglou-set-for-tottenham-talks-4167431"/>
+        <updated>2023-06-02T10:52:10.000Z</updated>
+        <summary type="html"><![CDATA[David Moyes has insisted he is happy at West Ham as he responded to speculation linking him with a move to Celtic.]]></summary>
+        <author>
+            <name>Matthew Elder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What TV channel is Celtic v Inverness Scottish Cup final and what happens if FA Cup final goes to extra-time?]]></title>
+        <id>4167338</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/what-tv-channel-is-celtic-v-inverness-scottish-cup-final-and-what-happens-if-fa-cup-final-goes-to-extra-time-4167338"/>
+        <updated>2023-06-02T10:35:45.000Z</updated>
+        <summary type="html"><![CDATA[Celtic and Inverness will be glad to get the Scottish Cup final underway at Hampden on Saturday given the build-up has been dominated by events away from the game itself.]]></summary>
+        <author>
+            <name>Matthew Elder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[David Moyes breaks silence on Celtic job speculation]]></title>
+        <id>5b4b83f3a7088cf7af1682e427636b16</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23563341.david-moyes-breaks-silence-celtic-job-speculation/?ref=rss"/>
+        <updated>2023-06-02T10:20:48.000Z</updated>
+        <summary type="html"><![CDATA[David Moyes has quickly emerged as a frontrunner for the Celtic job should Ange Postecoglou move to Tottenham.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postecoglou Celtic ray of hope amid huge Fabrizio Romano Spurs update]]></title>
+        <id>17dcd3ee234b10dbe2b1210487fb44e7</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23563219.postecoglou-celtic-ray-hope-amid-huge-fabrizio-romano-spurs-update/?ref=rss"/>
+        <updated>2023-06-02T09:52:37.000Z</updated>
+        <summary type="html"><![CDATA[Fabrizio Romano reports Ange Postecoglou will hold talks with Spurs next week but no deal has been agreed.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Next Celtic manager favourite emerges as betting suspended on Ange Postecoglou joining Tottenham]]></title>
         <id>4166995</id>
@@ -24,6 +74,16 @@
         <summary type="html"><![CDATA[Tottenham Hotspur will speak to Celtic boss Ange Postecoglou once again next week about becoming their new manager, according to respected football journalist Fabrizio Romano.]]></summary>
         <author>
             <name>Ross McLeish</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next Celtic manager odds amid Postecoglou to Spurs links]]></title>
+        <id>c5075c445108e503ce13eaa7f16f4b0b</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23563010.next-celtic-manager-odds-amid-postecoglou-spurs-links/?ref=rss"/>
+        <updated>2023-06-02T09:02:31.000Z</updated>
+        <summary type="html"><![CDATA[Ange Postecoglou has been tipped to make the move from Celtic to Tottenham after the Scottish Cup final.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
     <entry>
@@ -684,16 +744,6 @@
         <summary type="html"><![CDATA[ANYONE who was present at the Edinburgh derby on Saturday couldn’t help but be impressed by the spectacle..]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic dressing room has 'tunnel vision' over prospect of losing Ange Postecoglou to Tottenham]]></title>
-        <id>4161067</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/celtic-dressing-room-has-tunnel-vision-over-prospect-of-losing-ange-postecoglou-to-tottenham-4161067"/>
-        <updated>2023-05-28T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Last season Ange Postecoglou brought the house down at Celtic Park on trophy day with his promise to be back after a summer hiatus bigger and better than ever before.]]></summary>
-        <author>
-            <name>Alison McConnell</name>
         </author>
     </entry>
 </feed>

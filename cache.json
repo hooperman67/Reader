@@ -6,6 +6,26 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4167431",
+          "author": "Matthew Elder",
+          "description": "David Moyes has insisted he is happy at West Ham as he responded to speculation linking him with a move to Celtic.",
+          "link": "https://www.scotsman.com/sport/football/celtic/david-moyes-responds-to-celtic-next-manager-favourite-tag-with-ange-postecoglou-set-for-tottenham-talks-4167431",
+          "publishedOn": "2023-06-02T10:52:10.000Z",
+          "wordCount": 2245,
+          "title": "David Moyes responds to Celtic next manager favourite tag with Ange Postecoglou set for Tottenham talks",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjMwMGU1NjYxLWU5OTgtNDY0Zi1hMzljLWIyMzAxOWRlNjM5NToyMmQ0ZWMwYi04Zjc3LTRiZmYtYmM0OS1hMmFhYzUxMjc5ZDk=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
+          "id": "4167338",
+          "author": "Matthew Elder",
+          "description": "Celtic and Inverness will be glad to get the Scottish Cup final underway at Hampden on Saturday given the build-up has been dominated by events away from the game itself.",
+          "link": "https://www.scotsman.com/sport/football/celtic/what-tv-channel-is-celtic-v-inverness-scottish-cup-final-and-what-happens-if-fa-cup-final-goes-to-extra-time-4167338",
+          "publishedOn": "2023-06-02T10:35:45.000Z",
+          "wordCount": 2971,
+          "title": "What TV channel is Celtic v Inverness Scottish Cup final and what happens if FA Cup final goes to extra-time?",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjBlM2JiMGNiLTU5MjItNGVhYS1iZGY3LTRiYzQxZmU5Yjk0YzowNmIyMWFmZS04Y2ViLTRmZDktYjlmMC0wYWI5NjI5MWUwMTM=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4166995",
           "author": "Matthew Elder",
           "description": "Celtic could be on the look-out for a new manager as early as next week with reports claiming Ange Postecoglou is on the brink of landing the Tottenham job.",
@@ -304,16 +324,6 @@
           "wordCount": 2245,
           "title": "Scotland squad named for Euro 2024 double-header: Rangers star returns, three Celtic players, Hearts-Hibs presence",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmYxN2E2MjRjLTM5MzAtNGFmOC1hZmUyLWY2NzQ3MWE1N2MzOTphNzJkYzU2MC0wMmViLTRlZTYtODM4ZS0xYmUzMzllMTQzNjI=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4161067",
-          "author": "Alison McConnell",
-          "description": "Last season Ange Postecoglou brought the house down at Celtic Park on trophy day with his promise to be back after a summer hiatus bigger and better than ever before.",
-          "link": "https://www.scotsman.com/sport/football/celtic/celtic-dressing-room-has-tunnel-vision-over-prospect-of-losing-ange-postecoglou-to-tottenham-4161067",
-          "publishedOn": "2023-05-28T21:30:00.000Z",
-          "wordCount": 3521,
-          "title": "Celtic dressing room has 'tunnel vision' over prospect of losing Ange Postecoglou to Tottenham",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmRhMmM5NDMzLTc3NjktNDYwYS1iNTI1LTE1NTMwMmNhZjQzMDoxNzJlMGQwYy0xYzgyLTQ4NWMtYmVlMi03YjY5YWYwMmEzZWI=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
         }
       ]
     },
@@ -328,6 +338,46 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "8cc2438e306968179a1e203710e4fc4c",
+          "author": null,
+          "description": "The full back joined last summer in a £3.75 million deal from Lanus in his homeland, but has been mostly used as an understudy to Greg Taylor.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23563620.bernabei-opens-celtic-struggles-insists-my-head-here/?ref=rss",
+          "publishedOn": "2023-06-02T11:15:14.000Z",
+          "wordCount": 9868,
+          "title": "Bernabei opens up on Celtic struggles but insists 'my head is here'",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16846636/?type=og-image"
+        },
+        {
+          "id": "5b4b83f3a7088cf7af1682e427636b16",
+          "author": null,
+          "description": "David Moyes has quickly emerged as a frontrunner for the Celtic job should Ange Postecoglou move to Tottenham.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23563341.david-moyes-breaks-silence-celtic-job-speculation/?ref=rss",
+          "publishedOn": "2023-06-02T10:20:48.000Z",
+          "wordCount": 8525,
+          "title": "David Moyes breaks silence on Celtic job speculation",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16846127/?type=og-image"
+        },
+        {
+          "id": "17dcd3ee234b10dbe2b1210487fb44e7",
+          "author": null,
+          "description": "Fabrizio Romano reports Ange Postecoglou will hold talks with Spurs next week but no deal has been agreed.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23563219.postecoglou-celtic-ray-hope-amid-huge-fabrizio-romano-spurs-update/?ref=rss",
+          "publishedOn": "2023-06-02T09:52:37.000Z",
+          "wordCount": 9732,
+          "title": "Postecoglou Celtic ray of hope amid huge Fabrizio Romano Spurs update",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16845806/?type=og-image"
+        },
+        {
+          "id": "c5075c445108e503ce13eaa7f16f4b0b",
+          "author": null,
+          "description": "Ange Postecoglou has been tipped to make the move from Celtic to Tottenham after the Scottish Cup final.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23563010.next-celtic-manager-odds-amid-postecoglou-spurs-links/?ref=rss",
+          "publishedOn": "2023-06-02T09:02:31.000Z",
+          "wordCount": 9690,
+          "title": "Next Celtic manager odds amid Postecoglou to Spurs links",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16845603/?type=og-image"
+        },
         {
           "id": "65e14b77c572ac12b2b737d00cccede0",
           "author": null,
