@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-02T18:20:14.581Z</updated>
+    <updated>2023-06-02T21:14:52.885Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic fans prepare for tears of joy and sadness: Ange Postecoglou future, Spurs, Inverness' role, three clubs with vested interest]]></title>
+        <id>4168209</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/celtic-fans-prepare-for-tears-of-joy-and-sadness-ange-postecoglou-future-spurs-inverness-role-three-clubs-with-vested-interest-4168209"/>
+        <updated>2023-06-02T20:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Certainly, there have been stranger things in our game than the cloak wrapping itself around Saturday’s 2023 Scottish Cup final. Just not too many more curious adornments for an occasion, an event, supposed to provide its own striking apparel.]]></summary>
+        <author>
+            <name>Andrew Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[McCoist in 'basket case' Spurs warning to Celtic's Postecoglou]]></title>
+        <id>b163a0c700614b18d767dc102954eaad</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23565299.mccoist-basket-case-spurs-warning-celtics-postecoglou/?ref=rss"/>
+        <updated>2023-06-02T20:22:09.000Z</updated>
+        <summary type="html"><![CDATA[Some reports have suggested that the 57-year-old's move to the Tottenham Hotspur Stadium is already a done deal.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chris Sutton in Ange Postecoglou Celtic to Spurs admission]]></title>
+        <id>838ee2844fd347d6150ffd3520496496</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23565226.chris-sutton-ange-postecoglou-celtic-spurs-admission/?ref=rss"/>
+        <updated>2023-06-02T18:28:54.000Z</updated>
+        <summary type="html"><![CDATA[The Hoops manager is the No.1 target for Tottenham as they look to finally replace Antonio Conte.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Early Celtic & Inverness team news ahead of Scottish Cup final]]></title>
         <id>7b3295494b8594b7e3c84f3bd5f9bde0</id>
@@ -732,26 +762,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23553576.albian-ajeti-makes-celtic-return-sturm-graz-confirm-no-deal/?ref=rss"/>
         <updated>2023-05-29T10:29:32.000Z</updated>
         <summary type="html"><![CDATA[Celtic flop Albian Ajeti is returning to Parkhead after Sturm Graz confirmed they have turned down the chance to sign him permanently after a disappointing loan spell.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What the Celtic players think of Ange being linked with Tottenham]]></title>
-        <id>1e09bdd05810b88aef0ed577d6c25649</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23553328.celtic-players-think-ange-linked-tottenham/?ref=rss"/>
-        <updated>2023-05-29T09:04:25.000Z</updated>
-        <summary type="html"><![CDATA[The Premier League club have been credited with a serious interest in Postecoglou as their search for a new manager stretches on.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Watch as Fran Alonso bursts into Celtic song mid-interview]]></title>
-        <id>af81d5636d6b27f3c7ecf3ec8075b81a</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23553125.watch-fran-alonso-bursts-celtic-song-mid-interview/?ref=rss"/>
-        <updated>2023-05-29T07:35:32.000Z</updated>
-        <summary type="html"><![CDATA[The Celtic boss couldn't contain his excitement as he belted out fan chant 'Celtic Glasgow' in an interview after the Scottish Cup win.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
