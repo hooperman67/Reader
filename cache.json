@@ -6,6 +6,26 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4166684",
+          "author": "Andrew Smith",
+          "description": "There is a twister of affront cycloning round Celtic ahead of their Scottish Cup final on Saturday.",
+          "link": "https://www.scotsman.com/sport/football/celtic/ange-postecoglou-affronted-by-celtic-exit-talk-inside-heated-press-room-exchange-as-spurs-question-sparks-fiery-response-4166684",
+          "publishedOn": "2023-06-01T21:35:00.000Z",
+          "wordCount": 3788,
+          "title": "Ange Postecoglou affronted by Celtic exit talk - inside heated press room exchange as Spurs question sparks fiery response",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjgxZWNjMGQ2LTcwMWEtNDljZC04MGZmLTM1MTEwMWQzZDZjNzplNmRhN2Y0ZS1kOTM4LTRhMjUtOTI3OS0wODFjYzFlNDJkOWM=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
+          "id": "4166697",
+          "author": "Andrew Smith",
+          "description": "Celtic manager Ange Postecoglou has laid on the line he has held no talks this week with his representatives over a move to Tottenham Hotspur – even as speculation has ramped up that the Greek-Australian could be appointed by the London club within days of Saturday’s Scottish Cup final.",
+          "link": "https://www.scotsman.com/sport/football/celtic/they-wouldnt-dare-celtic-boss-ange-postecoglou-insists-no-tottenham-talks-held-before-cup-final-4166697",
+          "publishedOn": "2023-06-01T21:30:00.000Z",
+          "wordCount": 2614,
+          "title": "'They wouldn't dare' - Celtic boss Ange Postecoglou insists no Tottenham talks held before cup final",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjQ0OTVjNzRlLWM0M2YtNDFkNC1hMzEwLWNlODVmNWEwYzdlNTowN2RkYWE5NS04NjQ3LTQ4MmYtOTFmZC1kZWExYzFjY2Y2ZjI=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4166581",
           "author": "Joel Sked",
           "description": "Scottish football could be dominated by the future of Ange Postecoglou at Celtic with reports he is set to become the new Spurs boss with the Scottish Cup final on the horizon. It could be the biggest story of the summer, while clubs look to make key moves in the transfer market.",
@@ -294,26 +314,6 @@
           "wordCount": 2259,
           "title": "Celtic v Inverness Scottish Cup final set for BBC channel move if FA Cup final overruns",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjcyMDJlNjQwLTFjNjgtNDk4OC1hMTE4LWU5YjhlMTk5NWVmZTo1ZjRlODQ4OS1iY2EyLTQyNGEtYTQ2ZS1mNzAzNTRmMzRhMjc=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4160997",
-          "author": "Dan Barker",
-          "description": "Ten arrests were made by Police Scotland",
-          "link": "https://www.scotsman.com/news/crime/celtic-ten-people-arrested-during-celtic-premiership-celebrations-as-person-sustains-serious-injuries-4160997",
-          "publishedOn": "2023-05-28T12:26:21.000Z",
-          "wordCount": 2162,
-          "title": "Celtic: Ten people arrested during Celtic premiership celebrations as person sustains serious injuries",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjU1MmJhZWI4LTk1ZjEtNDNmNi04MDY5LTYxMjhjZGZkMzgwYzozNmQ3MDhkNC1kNThjLTQzYWYtOTY0NC04NzU0ZjJlMDU4OGI=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4160911",
-          "author": "Matthew Elder",
-          "description": "Celtic and Rangers go head-to-head in the first ever Women’s Scottish Cup final to be held at Hampden Park on Sunday.",
-          "link": "https://www.scotsman.com/sport/football/what-channel-is-celtic-v-rangers-womens-scottish-cup-final-kick-off-time-tv-details-how-to-watch-for-free-4160911",
-          "publishedOn": "2023-05-28T09:53:33.000Z",
-          "wordCount": 2322,
-          "title": "What channel is Celtic v Rangers Women's Scottish Cup final? Kick-off time, TV details, how to watch for free",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjI0MzMyOWVjLTA1YjQtNGFlYi05NWQ3LTIzNmU4NGJkZWNmNTpmNTlhMGE3Mi0zZjQ1LTRmZDEtYmFlZi1jN2VjOTVhZWMwMDM=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
         }
       ]
     },
@@ -328,6 +328,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "92c782e3592e7969850df9c353d0fa73",
+          "author": null,
+          "description": "The Celtic manager sat down with the media to address swirling speculation ahead of the Scottish Cup final.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23562335.every-word-ange-postecoglou-said-tottenham-celtic/?ref=rss",
+          "publishedOn": "2023-06-01T21:30:00.000Z",
+          "wordCount": 10588,
+          "title": "Every word Ange Postecoglou said on Tottenham and Celtic",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16844795/?type=og-image"
+        },
         {
           "id": "438136a7f51719e41c7ec82da5c4789e",
           "author": null,
@@ -707,56 +717,6 @@
           "wordCount": 9276,
           "title": "Celtic 2 Rangers 0: Instant reaction to the burning issues",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16828664/?type=og-image"
-        },
-        {
-          "id": "21a08dd7e29bc327f8d9a319adee71b5",
-          "author": null,
-          "description": "The BBC have confirmed that their coverage of the Scottish Cup final may be forced into a channel switch if the FA Cup in England goes to extra time.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23552661.celtic-vs-inverness-set-tv-switch-fa-cup-goes-extra-time/?ref=rss",
-          "publishedOn": "2023-05-28T13:29:29.000Z",
-          "wordCount": 9520,
-          "title": "Celtic vs Inverness set for TV switch if FA Cup goes to extra-time",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16730054/?type=og-image"
-        },
-        {
-          "id": "45ce3446d05ebaa02b513b3118de4962",
-          "author": null,
-          "description": "Ange Postecoglou's Tottenham odds slashed again despite Celtic focus statement",
-          "link": "https://www.glasgowtimes.co.uk/sport/23552591.ange-postecoglous-tottenham-odds-slashed-despite-celtic-focus/?ref=rss",
-          "publishedOn": "2023-05-28T12:03:53.000Z",
-          "wordCount": 9553,
-          "title": "Ange Postecoglou's Tottenham odds slashed again despite Celtic focus",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16827357/?type=og-image"
-        },
-        {
-          "id": "8aa8f6f1e1297bcd3a8c9de4319ec02d",
-          "author": null,
-          "description": "Ten people have been arrested and several injured as Celtic fans celebrated the trophy day party in Trongate last night.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23552565.ten-arrested-celtic-fans-celebrate-title-win-glasgow/?ref=rss",
-          "publishedOn": "2023-05-28T11:45:53.000Z",
-          "wordCount": 8413,
-          "title": "Ten arrested as Celtic fans celebrate title win in Glasgow",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16828471/?type=og-image"
-        },
-        {
-          "id": "8aa8f6f1e1297bcd3a8c9de4319ec02d",
-          "author": null,
-          "description": "10 people have been arrested and several injured as Celtic fans celebrated the trophy day party in Trongate last night.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23552565.10-arrested-celtic-fans-celebrate-title-win-glasgow/?ref=rss",
-          "publishedOn": "2023-05-28T11:45:53.000Z",
-          "wordCount": 8413,
-          "title": "10 arrested as Celtic fans celebrate title win in Glasgow",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16828471/?type=og-image"
-        },
-        {
-          "id": "58d899d4a8857733117131105bd3d5ee",
-          "author": null,
-          "description": "Ange Postecoglou has been linked with a few jobs in England. It looks like Tottenham is the biggest one on the go right now and I have no doubt that Ange will feel he can do that job.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23552404.postecoglou-tottenham-latest-champions-league-caveat-explained/?ref=rss",
-          "publishedOn": "2023-05-28T09:17:02.000Z",
-          "wordCount": 8422,
-          "title": "Postecoglou Tottenham latest as Champions League caveat explained",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16827638/?type=og-image"
         }
       ]
     }
