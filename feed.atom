@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-02T01:49:17.636Z</updated>
+    <updated>2023-06-02T03:17:47.503Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -694,16 +694,6 @@
         <summary type="html"><![CDATA[TV coverage of the Scottish Cup final between Celtic and Inverness on Saturday will be moved from the main BBC One Scotland channel if the FA Cup final overruns, the broadcaster has confirmed.]]></summary>
         <author>
             <name>Matthew Elder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic 2 Rangers 0: Instant reaction to the burning issues]]></title>
-        <id>8a89ae32bb3c59fb00ecaaafa3ba4463</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23552726.celtic-2-rangers-0-instant-reaction-burning-issues/?ref=rss"/>
-        <updated>2023-05-28T14:26:04.000Z</updated>
-        <summary type="html"><![CDATA[Here's what we learned as Celtic retained their Women's Scottish Cup crown on an historic afternoon at the national stadium.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>
