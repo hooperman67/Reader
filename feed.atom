@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-02T03:17:47.503Z</updated>
+    <updated>2023-06-02T06:21:23.241Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -664,36 +664,6 @@
         <summary type="html"><![CDATA[Last season Ange Postecoglou brought the house down at Celtic Park on trophy day with his promise to be back after a summer hiatus bigger and better than ever before.]]></summary>
         <author>
             <name>Alison McConnell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alonso praises Celtic's resilience after cup final win]]></title>
-        <id>435be30c9f409248478e41553f9eb986</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23552884.alonso-praises-celtics-resilience-cup-final-win/?ref=rss"/>
-        <updated>2023-05-28T17:34:00.000Z</updated>
-        <summary type="html"><![CDATA[The Spaniard was proud of his team approached the occasion at Hampden.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic despair turns to joy as Rangers left with sad goodbyes - what the managers said after Women's Scottish Cup final]]></title>
-        <id>4161144</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/celtic-despair-turns-to-joy-as-rangers-left-with-sad-goodbyes-what-the-managers-said-after-womens-scottish-cup-final-4161144"/>
-        <updated>2023-05-28T17:02:15.000Z</updated>
-        <summary type="html"><![CDATA[The grey club suit replaced Fran Alonso’s maverick look at Hampden but there was nothing sober about the Celtic women’s manager on Sunday afternoon.]]></summary>
-        <author>
-            <name>Alison McConnell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic v Inverness Scottish Cup final set for BBC channel move if FA Cup final overruns]]></title>
-        <id>4161124</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/celtic-v-inverness-scottish-cup-final-set-for-bbc-channel-move-if-fa-cup-final-overruns-4161124"/>
-        <updated>2023-05-28T16:24:50.000Z</updated>
-        <summary type="html"><![CDATA[TV coverage of the Scottish Cup final between Celtic and Inverness on Saturday will be moved from the main BBC One Scotland channel if the FA Cup final overruns, the broadcaster has confirmed.]]></summary>
-        <author>
-            <name>Matthew Elder</name>
         </author>
     </entry>
 </feed>
