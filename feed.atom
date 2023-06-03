@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-03T06:20:45.584Z</updated>
+    <updated>2023-06-03T09:14:46.815Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Three Celtic vs Inverness Caledonian Thistle key battles]]></title>
+        <id>4cd665fcf4d11fa44735f6c862f93cc1</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23564354.three-celtic-vs-inverness-caledonian-thistle-key-battles/?ref=rss"/>
+        <updated>2023-06-03T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Hoops are heavy favourites to land their eighth domestic treble, with a clear gulf between the champions and Caley Thistle.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic's manager search may be brief if Postecoglou hangs up his Spurs]]></title>
+        <id>1fd3fb60bb42704cc5d835b1cd190e56</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23565325.celtics-manager-search-may-brief-postecoglou-hangs-spurs/?ref=rss"/>
+        <updated>2023-06-03T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[THERE will still be an awful lot of good football to look forward after the final whistle blows in the Scottish Cup final between Celtic and Inverness Caledonian Thistle at Hampden this evening.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ange Postecoglou won't follow Celtic predecessors who were 'destroyed']]></title>
+        <id>64420d220eb9660f38b83167a84c1e7e</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23565344.ange-postecoglou-wont-follow-celtic-predecessors-destroyed/?ref=rss"/>
+        <updated>2023-06-03T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Parkhead manager is hellbent on securing a world-record eighth treble for his club.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alistair Johnston reveals last gasp Celtic family affair for cup final]]></title>
+        <id>4793cb3b95350bd4d46713ffb84ad9e6</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23565352.alistair-johnston-reveals-last-gasp-celtic-family-affair-cup-final/?ref=rss"/>
+        <updated>2023-06-03T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The right-back's parents will cheer him on at Hampden after a late decision to travel to Scotland.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA['I'm not going to let it happen' - Celtic's Ange Postecoglou on cup final cautionary tale as he recalls Maracana motivations]]></title>
         <id>4168333</id>
@@ -684,26 +724,6 @@
         <summary type="html"><![CDATA[Celtic defender Carl Starfelt believes it is “not fair” to judge team-mate Yuki Kobayashi after just a handful of games.]]></summary>
         <author>
             <name>Chris Andrews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic suffer blow in chase for £13m-rated star as clubs make moves for Rangers duo]]></title>
-        <id>4161937</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/celtic-suffer-blow-in-chase-for-ps13m-rated-star-as-clubs-make-moves-for-rangers-duo-4161937"/>
-        <updated>2023-05-29T20:47:00.000Z</updated>
-        <summary type="html"><![CDATA[Celtic could struggle to land striker Levi Garcia after an AEK Athens chief revealed the club don’t want to sell him this summer.]]></summary>
-        <author>
-            <name>Chris Andrews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kieran Tierney Arsenal moment convinces fans of transfer exit]]></title>
-        <id>50f62a9b809c37089d8b147e62707bc6</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23554469.kieran-tierney-arsenal-moment-convinces-fans-transfer-exit/?ref=rss"/>
-        <updated>2023-05-29T19:43:01.000Z</updated>
-        <summary type="html"><![CDATA[The former Celtic star came on as a substitute in the Gunners' final day 5-0 win over Wolves yesterday.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>
