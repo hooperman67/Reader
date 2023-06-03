@@ -314,16 +314,6 @@
           "wordCount": 2288,
           "title": "Ange Postecoglou urged not to swap Celtic for 'non-achievers' as pundit makes Spurs fan claim over Aussie",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjkwNjI1NzUxLTMwMjktNDY4OS05YWJiLWFkYjFhMDJiZTE0MDozZjkyODJmZC1mODBhLTRiOTctYTNhYS0xODZmMjQ2MjA3OTY=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4161943",
-          "author": "Alan Pattullo",
-          "description": "Manchester United, Internazionale and Scotland. Three teams whose short-term ambitions hinge on being able to shackle a pony-tailed phenomenon called Erling Haaland.",
-          "link": "https://www.scotsman.com/sport/football/stop-haaland-alliance-scotland-manchester-united-and-inter-plan-to-ruin-norway-strikers-month-as-clarke-recalls-rangers-defender-4161943",
-          "publishedOn": "2023-05-30T06:00:00.000Z",
-          "wordCount": 3846,
-          "title": "Stop Haaland Alliance: Scotland, Manchester United and Inter plan to ruin Norway striker's month as Clarke recalls Rangers defender",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjY5ZDYxYzlhLWNjMTItNDAwYi1hMmE2LTU0M2FjYWU3Yzg3MTo2NGRlZmVhMS05NTBmLTQ5YTItOWI3NC0yYTBkNWFkNTliMTE=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
         }
       ]
     },
@@ -336,8 +326,28 @@
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "823319a7d65b8e723cf81818a4bd5641",
+          "author": null,
+          "description": "The 57-year-old portrayed a relaxed figure as he spoke to the media prior to this evening's cup final showpiece against Inverness at Hampden.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23565947.ange-postecoglou-dry-celtic-spurs-pre-match-answer/?ref=rss",
+          "publishedOn": "2023-06-03T17:12:48.000Z",
+          "wordCount": 9643,
+          "title": "Ange Postecoglou in dry Celtic to Spurs pre-match answer",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16850674/?type=og-image"
+        },
+        {
+          "id": "2e3ca49617ecae9b1b6b350ecc7f6539",
+          "author": null,
+          "description": "The Hoops are chasing their eighth treble in their history this evening at the national stadium.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23564798.celtic-team-news-inverness-scottish-cup-final-revealed/?ref=rss",
+          "publishedOn": "2023-06-03T15:17:00.000Z",
+          "wordCount": 8292,
+          "title": "Celtic team news for Inverness Scottish Cup final revealed",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16848760/?type=og-image"
+        },
         {
           "id": "f8bb6730a7c35f46111afde11d20c430",
           "author": null,
@@ -757,16 +767,6 @@
           "wordCount": 8673,
           "title": "Ange Postecoglou warned over 'great non-achievers' Tottenham",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16832241/?type=og-image"
-        },
-        {
-          "id": "3dd68696ad83bcf8fe3771342c74d0ec",
-          "author": null,
-          "description": "The Swedish defender is living proof that first impressions aren't always a long-term indicator in football.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23554004.carl-starfelt-says-snap-judgements-celtic-team-mate-not-fair/?ref=rss",
-          "publishedOn": "2023-05-30T05:00:00.000Z",
-          "wordCount": 9197,
-          "title": "Carl Starfelt says snap judgements on Celtic team-mate are 'not fair'",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16831232/?type=og-image"
         }
       ]
     }

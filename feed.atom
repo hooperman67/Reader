@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-03T15:15:36.556Z</updated>
+    <updated>2023-06-03T18:19:15.949Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ange Postecoglou in dry Celtic to Spurs pre-match answer]]></title>
+        <id>823319a7d65b8e723cf81818a4bd5641</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23565947.ange-postecoglou-dry-celtic-spurs-pre-match-answer/?ref=rss"/>
+        <updated>2023-06-03T17:12:48.000Z</updated>
+        <summary type="html"><![CDATA[The 57-year-old portrayed a relaxed figure as he spoke to the media prior to this evening's cup final showpiece against Inverness at Hampden.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic team news for Inverness Scottish Cup final revealed]]></title>
+        <id>2e3ca49617ecae9b1b6b350ecc7f6539</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23564798.celtic-team-news-inverness-scottish-cup-final-revealed/?ref=rss"/>
+        <updated>2023-06-03T15:17:00.000Z</updated>
+        <summary type="html"><![CDATA[The Hoops are chasing their eighth treble in their history this evening at the national stadium.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Forgotten Celtic ace 'set for exit after contract settlement']]></title>
         <id>f8bb6730a7c35f46111afde11d20c430</id>
@@ -732,26 +752,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23554571.ange-postecoglou-warned-great-non-achievers-tottenham/?ref=rss"/>
         <updated>2023-05-30T06:21:21.000Z</updated>
         <summary type="html"><![CDATA[The Celtic manager has been linked with a possible switch to the Premier League club - but Charlie Nicholas has warned Ange Postecoglou against it.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop Haaland Alliance: Scotland, Manchester United and Inter plan to ruin Norway striker's month as Clarke recalls Rangers defender]]></title>
-        <id>4161943</id>
-        <link href="https://www.scotsman.com/sport/football/stop-haaland-alliance-scotland-manchester-united-and-inter-plan-to-ruin-norway-strikers-month-as-clarke-recalls-rangers-defender-4161943"/>
-        <updated>2023-05-30T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Manchester United, Internazionale and Scotland. Three teams whose short-term ambitions hinge on being able to shackle a pony-tailed phenomenon called Erling Haaland.]]></summary>
-        <author>
-            <name>Alan Pattullo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Carl Starfelt says snap judgements on Celtic team-mate are 'not fair']]></title>
-        <id>3dd68696ad83bcf8fe3771342c74d0ec</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23554004.carl-starfelt-says-snap-judgements-celtic-team-mate-not-fair/?ref=rss"/>
-        <updated>2023-05-30T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Swedish defender is living proof that first impressions aren't always a long-term indicator in football.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
