@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-03T09:14:46.815Z</updated>
+    <updated>2023-06-03T12:31:54.581Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Forgotten Celtic ace 'set for exit after contract settlement']]></title>
+        <id>f8bb6730a7c35f46111afde11d20c430</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23565667.forgotten-celtic-ace-set-exit-contract-settlement/?ref=rss"/>
+        <updated>2023-06-03T11:30:42.000Z</updated>
+        <summary type="html"><![CDATA[Vasilis Barkas will reportedly be a free agent in the summer after agreeing a settlement to leave Celtic.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic set to let flop leave a year early in bid to 'make significant saving on wages']]></title>
+        <id>4168486</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/celtic-set-to-let-flop-leave-a-year-early-in-bid-to-make-significant-saving-on-wages-4168486"/>
+        <updated>2023-06-03T10:05:17.000Z</updated>
+        <summary type="html"><![CDATA[Celtic goalkeeper Vasilis Barkas is set to be released from his contract a year early, according to reports in Greece.]]></summary>
+        <author>
+            <name>Ross McLeish</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Three Celtic vs Inverness Caledonian Thistle key battles]]></title>
         <id>4cd665fcf4d11fa44735f6c862f93cc1</id>
@@ -47,6 +67,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Alistair Johnston reveals family's late Celtic dash, name being Googled and Ange Postecoglou message that has come true]]></title>
+        <id>4168296</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/alistair-johnston-reveals-familys-late-celtic-dash-name-being-googled-and-ange-postecoglou-message-that-has-come-true-4168296"/>
+        <updated>2023-06-02T21:32:00.000Z</updated>
+        <summary type="html"><![CDATA[Until he arrived at Celtic, Alistair Johnston had not won a major trophy and despite picking up two in five months, the novelty still hasn’t worn off. For him or his family.]]></summary>
+        <author>
+            <name>Moira Gordon</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['I'm not going to let it happen' - Celtic's Ange Postecoglou on cup final cautionary tale as he recalls Maracana motivations]]></title>
         <id>4168333</id>
         <link href="https://www.scotsman.com/sport/football/celtic/im-not-going-to-let-it-happen-celtics-ange-postecoglou-on-cup-final-cautionary-tale-as-he-recalls-maracana-motivations-4168333"/>
@@ -74,6 +104,16 @@
         <summary type="html"><![CDATA[The Parkhead manager will lead his side out at Hampden in Saturday's Scottish Cup final.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic fans prepare for tears of joy and sadness: Postecoglou future, Spurs, Inverness' role, three clubs with vested interest]]></title>
+        <id>4168209</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/celtic-fans-prepare-for-tears-of-joy-and-sadness-postecoglou-future-spurs-inverness-role-three-clubs-with-vested-interest-4168209"/>
+        <updated>2023-06-02T20:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Certainly, there have been stranger things in our game than the cloak wrapping itself around Saturday’s 2023 Scottish Cup final. Just not too many more curious adornments for an occasion, an event, supposed to provide its own striking apparel.]]></summary>
+        <author>
+            <name>Andrew Smith</name>
         </author>
     </entry>
     <entry>
@@ -714,16 +754,6 @@
         <summary type="html"><![CDATA[The Swedish defender is living proof that first impressions aren't always a long-term indicator in football.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Carl Starfelt defends team-mate amidst criticism and reveals why it is 'not very easy at a club like Celtic']]></title>
-        <id>4161935</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/carl-starfelt-defends-team-mate-amidst-criticism-and-reveals-why-it-is-not-very-easy-at-a-club-like-celtic-4161935"/>
-        <updated>2023-05-29T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Celtic defender Carl Starfelt believes it is “not fair” to judge team-mate Yuki Kobayashi after just a handful of games.]]></summary>
-        <author>
-            <name>Chris Andrews</name>
         </author>
     </entry>
 </feed>

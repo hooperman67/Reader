@@ -6,6 +6,26 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4168486",
+          "author": "Ross McLeish",
+          "description": "Celtic goalkeeper Vasilis Barkas is set to be released from his contract a year early, according to reports in Greece.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtic-set-to-let-flop-leave-a-year-early-in-bid-to-make-significant-saving-on-wages-4168486",
+          "publishedOn": "2023-06-03T10:05:17.000Z",
+          "wordCount": 1942,
+          "title": "Celtic set to let flop leave a year early in bid to 'make significant saving on wages'",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjI4MjBmNGFhLTljZWYtNDViYi1iYjA5LWFjM2RjODNiZDg1ZToyMjJhMTA4Yi0wMTBiLTRmNDctOTQ3Zi1jODUzZGE3MDVmMjc=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
+          "id": "4168296",
+          "author": "Moira Gordon",
+          "description": "Until he arrived at Celtic, Alistair Johnston had not won a major trophy and despite picking up two in five months, the novelty still hasn’t worn off. For him or his family.",
+          "link": "https://www.scotsman.com/sport/football/celtic/alistair-johnston-reveals-familys-late-celtic-dash-name-being-googled-and-ange-postecoglou-message-that-has-come-true-4168296",
+          "publishedOn": "2023-06-02T21:32:00.000Z",
+          "wordCount": 3764,
+          "title": "Alistair Johnston reveals family's late Celtic dash, name being Googled and Ange Postecoglou message that has come true",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjcyOGU0M2EyLTE4ODMtNGRiYy05YWZhLWMyY2U0OTA4ZDk1ODpiYzFhYmQ4Yy1lOGI4LTRkYmEtOGJhZS00YzI5M2Y4MDk2MjM=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4168333",
           "author": "Andrew Smith",
           "description": "Celtic manager Ange Postecoglou has vowed he won’t “let happen” a repeat of the tenure-wrecking Scottish Cup defeat suffered by predecessor John Barnes to Inverness Caledonian Thistle in February 2000.",
@@ -24,6 +44,16 @@
           "wordCount": 3763,
           "title": "Alistair Johnston reveals family's late Celtic dash, named being Googled and Ange Postecoglou message that has come true",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjcyOGU0M2EyLTE4ODMtNGRiYy05YWZhLWMyY2U0OTA4ZDk1ODpiYzFhYmQ4Yy1lOGI4LTRkYmEtOGJhZS00YzI5M2Y4MDk2MjM=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
+          "id": "4168209",
+          "author": "Andrew Smith",
+          "description": "Certainly, there have been stranger things in our game than the cloak wrapping itself around Saturday’s 2023 Scottish Cup final. Just not too many more curious adornments for an occasion, an event, supposed to provide its own striking apparel.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtic-fans-prepare-for-tears-of-joy-and-sadness-postecoglou-future-spurs-inverness-role-three-clubs-with-vested-interest-4168209",
+          "publishedOn": "2023-06-02T20:30:00.000Z",
+          "wordCount": 3936,
+          "title": "Celtic fans prepare for tears of joy and sadness: Postecoglou future, Spurs, Inverness' role, three clubs with vested interest",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjY3Y2Q5MDFmLWU0ZjAtNDNkMS1hMWU3LTQ3OTk2ZTA4ZjBiYjphYWMyODg0ZC1kNGU1LTQ1YjUtYjIxMC0xOWIyMmI3MDA5ZDY=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
         },
         {
           "id": "4168209",
@@ -294,16 +324,6 @@
           "wordCount": 3846,
           "title": "Stop Haaland Alliance: Scotland, Manchester United and Inter plan to ruin Norway striker's month as Clarke recalls Rangers defender",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjY5ZDYxYzlhLWNjMTItNDAwYi1hMmE2LTU0M2FjYWU3Yzg3MTo2NGRlZmVhMS05NTBmLTQ5YTItOWI3NC0yYTBkNWFkNTliMTE=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4161935",
-          "author": "Chris Andrews",
-          "description": "Celtic defender Carl Starfelt believes it is “not fair” to judge team-mate Yuki Kobayashi after just a handful of games.",
-          "link": "https://www.scotsman.com/sport/football/celtic/carl-starfelt-defends-team-mate-amidst-criticism-and-reveals-why-it-is-not-very-easy-at-a-club-like-celtic-4161935",
-          "publishedOn": "2023-05-29T21:30:00.000Z",
-          "wordCount": 2719,
-          "title": "Carl Starfelt defends team-mate amidst criticism and reveals why it is 'not very easy at a club like Celtic'",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjQ5MTE2NjQ3LTk4YzItNGE3OS04MDJlLTM2MDM3MTEwZmQzZDo0MGY1MDBiMy0yODU2LTQ1MDAtYTA3Yy1kZmI0NzQxNmFiYzI=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
         }
       ]
     },
@@ -318,6 +338,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "f8bb6730a7c35f46111afde11d20c430",
+          "author": null,
+          "description": "Vasilis Barkas will reportedly be a free agent in the summer after agreeing a settlement to leave Celtic.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23565667.forgotten-celtic-ace-set-exit-contract-settlement/?ref=rss",
+          "publishedOn": "2023-06-03T11:30:42.000Z",
+          "wordCount": 8380,
+          "title": "Forgotten Celtic ace 'set for exit after contract settlement'",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16850000/?type=og-image"
+        },
         {
           "id": "4cd665fcf4d11fa44735f6c862f93cc1",
           "author": null,
