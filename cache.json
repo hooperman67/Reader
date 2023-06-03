@@ -6,6 +6,26 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4168333",
+          "author": "Andrew Smith",
+          "description": "Celtic manager Ange Postecoglou has vowed he won’t “let happen” a repeat of the tenure-wrecking Scottish Cup defeat suffered by predecessor John Barnes to Inverness Caledonian Thistle in February 2000.",
+          "link": "https://www.scotsman.com/sport/football/celtic/im-not-going-to-let-it-happen-celtics-ange-postecoglou-on-cup-final-cautionary-tale-as-he-recalls-maracana-motivations-4168333",
+          "publishedOn": "2023-06-02T21:32:00.000Z",
+          "wordCount": 3014,
+          "title": "'I'm not going to let it happen' - Celtic's Ange Postecoglou on cup final cautionary tale as he recalls Maracana motivations",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmVkOWM0OTI4LWNmYTMtNDM1OS05ODRhLWFmMWZlYzc4YTliNTo3NzVkOGMyYS05M2Y3LTQzNGItYmQxNy01YzA4NDNlNTM2ZDM=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
+          "id": "4168296",
+          "author": "Moira Gordon",
+          "description": "Until he arrived at Celtic, Alistair Johnston had not won a major trophy and despite picking up two in five months, the novelty still hasn’t worn off. For him or his family.",
+          "link": "https://www.scotsman.com/sport/football/celtic/alistair-johnston-reveals-familys-late-celtic-dash-named-being-googled-and-ange-postecoglou-message-that-has-come-true-4168296",
+          "publishedOn": "2023-06-02T21:32:00.000Z",
+          "wordCount": 3763,
+          "title": "Alistair Johnston reveals family's late Celtic dash, named being Googled and Ange Postecoglou message that has come true",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjcyOGU0M2EyLTE4ODMtNGRiYy05YWZhLWMyY2U0OTA4ZDk1ODpiYzFhYmQ4Yy1lOGI4LTRkYmEtOGJhZS00YzI5M2Y4MDk2MjM=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4168209",
           "author": "Andrew Smith",
           "description": "Certainly, there have been stranger things in our game than the cloak wrapping itself around Saturday’s 2023 Scottish Cup final. Just not too many more curious adornments for an occasion, an event, supposed to provide its own striking apparel.",
@@ -324,16 +344,6 @@
           "wordCount": 2237,
           "title": "Celtic's interest in international striker confirmed, Rangers link, £3.5m price tag, 23-goal season",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjJmMDg2YjdiLTFhNGYtNDRiYS1hZWZmLTk4NjFjMmFiMTg1OTpiYjI4NzEyMi1lYzQ2LTRlMjYtOGNhMy02ZDQ5MjcxYTgzZDc=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4161517",
-          "author": "Mark Atkinson",
-          "description": "Steve Clarke has named his squad for the Euro 2024 qualifiers next month against Norway and Georgia.",
-          "link": "https://www.scotsman.com/sport/football/rangers/scotland-squad-named-for-euro-2024-double-header-rangers-star-returns-three-celtic-players-hearts-hibs-presence-4161517",
-          "publishedOn": "2023-05-29T11:14:51.000Z",
-          "wordCount": 2245,
-          "title": "Scotland squad named for Euro 2024 double-header: Rangers star returns, three Celtic players, Hearts-Hibs presence",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmYxN2E2MjRjLTM5MzAtNGFmOC1hZmUyLWY2NzQ3MWE1N2MzOTphNzJkYzU2MC0wMmViLTRlZTYtODM4ZS0xYmUzMzllMTQzNjI=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
         }
       ]
     },
@@ -348,6 +358,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "fc2864de3fc07e95d798fbe8e10a1e4c",
+          "author": null,
+          "description": "The Parkhead manager will lead his side out at Hampden in Saturday's Scottish Cup final.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23564745.ange-postecoglou-reveals-reason-celtic-wont-complacent-ict/?ref=rss",
+          "publishedOn": "2023-06-02T21:30:00.000Z",
+          "wordCount": 9813,
+          "title": "Ange Postecoglou reveals reason Celtic won't be complacent against ICT",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16848710/?type=og-image"
+        },
         {
           "id": "b163a0c700614b18d767dc102954eaad",
           "author": null,
@@ -737,46 +757,6 @@
           "wordCount": 8435,
           "title": "Celtic set for increased Scottish Cup final ticket allocation",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16730054/?type=og-image"
-        },
-        {
-          "id": "3f737ec49134e6cb3311231d1383eed8",
-          "author": null,
-          "description": "It's said that the highly-rated 21-year-old has attracted interest from the Scottish champions.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23553968.zan-vipotnik-celtic-transfer-interest-registered-agent/?ref=rss",
-          "publishedOn": "2023-05-29T13:32:16.000Z",
-          "wordCount": 8459,
-          "title": "Zan Vipotnik Celtic transfer interest 'registered' with agent",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16830882/?type=og-image"
-        },
-        {
-          "id": "f5b2a5e7bcdef7a88cb2e99f531e98a5",
-          "author": null,
-          "description": "Glasgow City Council has issued a statement of 'concern' following Celtic title win celebrations this weekend.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23553633.council-admits-concern-celtic-fans-hold-glasgow-title-party/?ref=rss",
-          "publishedOn": "2023-05-29T11:35:00.000Z",
-          "wordCount": 8593,
-          "title": "Council admits 'concern' after Celtic fans hold Glasgow title party",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16830416/?type=og-image"
-        },
-        {
-          "id": "f5b2a5e7bcdef7a88cb2e99f531e98a5",
-          "author": null,
-          "description": "Glasgow City Council have issued a statement of 'concern' following Celtics' title win celebrations this weekend.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23553633.council-admit-concern-celtic-fans-hold-glasgow-title-party/?ref=rss",
-          "publishedOn": "2023-05-29T11:35:00.000Z",
-          "wordCount": 8592,
-          "title": "Council admit 'concern' after Celtic fans hold Glasgow title party",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16830416/?type=og-image"
-        },
-        {
-          "id": "0d1798f42eb4c260b00b9f9c0eb5baa1",
-          "author": null,
-          "description": "Celtic flop Albian Ajeti is returning to Parkhead after Sturm Graz confirmed they have turned down the chance to sign him permanently after a disappointing loan spell.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23553576.albian-ajeti-makes-celtic-return-sturm-graz-confirm-no-deal/?ref=rss",
-          "publishedOn": "2023-05-29T10:29:32.000Z",
-          "wordCount": 8342,
-          "title": "Albian Ajeti makes Celtic return as Sturm Graz confirm no deal",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16617562/?type=og-image"
         }
       ]
     }
