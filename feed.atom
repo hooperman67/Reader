@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-04T02:03:37.951Z</updated>
+    <updated>2023-06-04T03:27:27.245Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -884,26 +884,6 @@
         <summary type="html"><![CDATA[Speaking to beIN Sports, Keys said: "I do not know why Brendan Rodgers is not being considered for that job." Gray fired back: “What has Postecoglou got and done that Brendan Rodgers hasn’t bettered? Bettered."]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Humza Yousaf reacts to Celtic fan celebrations in Glasgow]]></title>
-        <id>3c86c8938594872427576827b6b8867c</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23556613.humza-yousaf-reacts-celtic-fan-celebrations-glasgow/?ref=rss"/>
-        <updated>2023-05-30T15:14:00.000Z</updated>
-        <summary type="html"><![CDATA[Humza Yousaf has spoken out thousands of Hoops fans gathered in Glasgow city centre to celebrate the team winning the Scottish Premiership.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic surpass impressive attendance milestone as Premiership average attendances revealed in record season]]></title>
-        <id>4163269</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/celtic-surpass-impressive-attendance-milestone-as-premiership-average-attendances-revealed-in-record-season-4163269"/>
-        <updated>2023-05-30T15:13:27.000Z</updated>
-        <summary type="html"><![CDATA[A total of 3,834,106 fans attended Scottish Premiership games this season with the average attendance across the league 16,816.]]></summary>
-        <author>
-            <name>Joel Sked</name>
         </author>
     </entry>
 </feed>
