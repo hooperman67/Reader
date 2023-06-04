@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4168945",
+          "author": "Alan Pattullo",
+          "description": "Celtic’s season ripened to perfection beneath a strawberry moon on Saturday night on a historic night in the southside of Glasgow.",
+          "link": "https://www.scotsman.com/sport/football/celtic/ange-postecoglou-gestures-cause-a-stir-as-celtic-treble-celebrations-shrouded-in-uncertainty-4168945",
+          "publishedOn": "2023-06-04T19:30:00.000Z",
+          "wordCount": 3727,
+          "title": "Ange Postecoglou gestures cause a stir as Celtic treble celebrations shrouded in uncertainty",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjUwOWI4ZThlLTZkNDQtNGVlYi1hZTJhLWJkOWRkOGExODc5ZjoyZDExNjUxZi1jOGU4LTQxNmQtYmUwNi0yMjExZWVjNzZhYjk=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4168778",
           "author": "Moira Gordon",
           "description": "Three morning-after observations from the Scottish Cup final as Celtic secured a world record eighth domestic treble with a 3-1 victory over Inverness at Hampden…",
@@ -907,16 +917,6 @@
           "wordCount": 9676,
           "title": "Postecoglou to Spurs latest as Daniel Levy set to 'step up' pursuit",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16837798/?type=og-image"
-        },
-        {
-          "id": "830b6c1d37ab35cdb2ae2e03ab1affc1",
-          "author": null,
-          "description": "SWISS superkid Ardon Jashari has admitted he looks set to leave FC Luzern in the summer with interest from Celtic hotting up for the midfielder.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23557641.ardon-jashari-set-luzern-exit-celtic-launch-transfer-interest/?ref=rss",
-          "publishedOn": "2023-05-31T09:06:57.000Z",
-          "wordCount": 9458,
-          "title": "Ardon Jashari set for Luzern exit as Celtic launch transfer interest",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16837564/?type=og-image"
         }
       ]
     }

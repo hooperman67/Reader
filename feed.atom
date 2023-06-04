@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-04T18:19:38.330Z</updated>
+    <updated>2023-06-04T21:14:03.740Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ange Postecoglou gestures cause a stir as Celtic treble celebrations shrouded in uncertainty]]></title>
+        <id>4168945</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/ange-postecoglou-gestures-cause-a-stir-as-celtic-treble-celebrations-shrouded-in-uncertainty-4168945"/>
+        <updated>2023-06-04T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Celtic’s season ripened to perfection beneath a strawberry moon on Saturday night on a historic night in the southside of Glasgow.]]></summary>
+        <author>
+            <name>Alan Pattullo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ange Postecoglou set to named Tottenham manager with deal 'close']]></title>
         <id>594c4a3fab6b0189e969d17bbc99ebe8</id>
@@ -892,16 +902,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23558069.postecoglou-spurs-latest-daniel-levy-set-step-up-pursuit/?ref=rss"/>
         <updated>2023-05-31T10:41:45.000Z</updated>
         <summary type="html"><![CDATA[T]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ardon Jashari set for Luzern exit as Celtic launch transfer interest]]></title>
-        <id>830b6c1d37ab35cdb2ae2e03ab1affc1</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23557641.ardon-jashari-set-luzern-exit-celtic-launch-transfer-interest/?ref=rss"/>
-        <updated>2023-05-31T09:06:57.000Z</updated>
-        <summary type="html"><![CDATA[SWISS superkid Ardon Jashari has admitted he looks set to leave FC Luzern in the summer with interest from Celtic hotting up for the midfielder.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
