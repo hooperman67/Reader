@@ -339,6 +339,26 @@
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
         {
+          "id": "594c4a3fab6b0189e969d17bbc99ebe8",
+          "author": null,
+          "description": "Tottenham are set to confirm Ange Postecoglou as their new manager.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23566701.ange-postecoglou-set-named-tottenham-manager-deal-close/?ref=rss",
+          "publishedOn": "2023-06-04T16:42:18.000Z",
+          "wordCount": 8557,
+          "title": "Ange Postecoglou set to named Tottenham manager with deal 'close'",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16852063/?type=og-image"
+        },
+        {
+          "id": "5da59bd23cfc5fa4642e439689f9cec8",
+          "author": null,
+          "description": "Celtic clinched the domestic treble with a 3-1 Scottish Cup final win over Inverness Caledonian Thistle at Hampden Park.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23566687.10-celtic-treble-pictures-including-telling-ange-postecoglou-moment/?ref=rss",
+          "publishedOn": "2023-06-04T16:23:37.000Z",
+          "wordCount": 8322,
+          "title": "10 Celtic Treble pictures including telling Ange Postecoglou moment",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16852043/?type=og-image"
+        },
+        {
           "id": "754f136bcde25b89c33e303daf994800",
           "author": null,
           "description": "\"",
@@ -897,16 +917,6 @@
           "wordCount": 9458,
           "title": "Ardon Jashari set for Luzern exit as Celtic launch transfer interest",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16837564/?type=og-image"
-        },
-        {
-          "id": "f8269cd28545d5fc7c7047e5686e093b",
-          "author": null,
-          "description": "The Parkhead boss has an eye on an important summer window to come.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23557273.ange-celtic-transfer-jenga-champions-league-crucial/?ref=rss",
-          "publishedOn": "2023-05-31T05:00:00.000Z",
-          "wordCount": 9144,
-          "title": "Ange on Celtic transfer 'jenga' and why Champions League is so crucial",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16757372/?type=og-image"
         }
       ]
     }

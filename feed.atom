@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-04T15:15:38.679Z</updated>
+    <updated>2023-06-04T18:19:38.330Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ange Postecoglou set to named Tottenham manager with deal 'close']]></title>
+        <id>594c4a3fab6b0189e969d17bbc99ebe8</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23566701.ange-postecoglou-set-named-tottenham-manager-deal-close/?ref=rss"/>
+        <updated>2023-06-04T16:42:18.000Z</updated>
+        <summary type="html"><![CDATA[Tottenham are set to confirm Ange Postecoglou as their new manager.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Celtic Treble pictures including telling Ange Postecoglou moment]]></title>
+        <id>5da59bd23cfc5fa4642e439689f9cec8</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23566687.10-celtic-treble-pictures-including-telling-ange-postecoglou-moment/?ref=rss"/>
+        <updated>2023-06-04T16:23:37.000Z</updated>
+        <summary type="html"><![CDATA[Celtic clinched the domestic treble with a 3-1 Scottish Cup final win over Inverness Caledonian Thistle at Hampden Park.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic boss Ange Postecoglou reveals 'plans' amid Tottenham links]]></title>
         <id>754f136bcde25b89c33e303daf994800</id>
@@ -882,16 +902,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23557641.ardon-jashari-set-luzern-exit-celtic-launch-transfer-interest/?ref=rss"/>
         <updated>2023-05-31T09:06:57.000Z</updated>
         <summary type="html"><![CDATA[SWISS superkid Ardon Jashari has admitted he looks set to leave FC Luzern in the summer with interest from Celtic hotting up for the midfielder.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ange on Celtic transfer 'jenga' and why Champions League is so crucial]]></title>
-        <id>f8269cd28545d5fc7c7047e5686e093b</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23557273.ange-celtic-transfer-jenga-champions-league-crucial/?ref=rss"/>
-        <updated>2023-05-31T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Parkhead boss has an eye on an important summer window to come.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
