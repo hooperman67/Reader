@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-04T06:20:23.493Z</updated>
+    <updated>2023-06-04T09:16:13.743Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ange Postecoglou in emotional tribute to Celtic fans after 'ridicule']]></title>
+        <id>1560d13da698a25c40e669dc94ecd4ed</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23566056.ange-postecoglou-emotional-tribute-celtic-fans-ridicule/?ref=rss"/>
+        <updated>2023-06-04T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ANGE Postecoglou last night paid an emotional tribute to the supporters who backed him when his appointment as Celtic manager was ridiculed after leading the Parkhead club to a historic eighth treble.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ange Postecoglou refuses to commit future to Celtic after doing treble]]></title>
         <id>27bd46f4c9596e737eb9350072270339</id>
@@ -852,16 +862,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23555418.reo-hatate-not-kind-guy-turning-fun-celtic/?ref=rss"/>
         <updated>2023-05-30T21:30:00.000Z</updated>
         <summary type="html"><![CDATA[Celtic's manager is impressed with the discipline of his star midfielder.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Postecoglou will '100%' be at Celtic next season for 'Rangers battle']]></title>
-        <id>7a727bdb620330d1378b2367241a35f0</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23557176.postecoglou-will-100--celtic-next-season-rangers-battle/?ref=rss"/>
-        <updated>2023-05-30T18:56:19.000Z</updated>
-        <summary type="html"><![CDATA[John Hughes believes Ange Postecoglou will "100 per cent" be at Celtic next season despite recent speculation linking the Aussie with Spurs.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>

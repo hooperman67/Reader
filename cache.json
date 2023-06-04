@@ -339,6 +339,16 @@
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
         {
+          "id": "1560d13da698a25c40e669dc94ecd4ed",
+          "author": null,
+          "description": "ANGE Postecoglou last night paid an emotional tribute to the supporters who backed him when his appointment as Celtic manager was ridiculed after leading the Parkhead club to a historic eighth treble.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23566056.ange-postecoglou-emotional-tribute-celtic-fans-ridicule/?ref=rss",
+          "publishedOn": "2023-06-04T06:00:00.000Z",
+          "wordCount": 8935,
+          "title": "Ange Postecoglou in emotional tribute to Celtic fans after 'ridicule'",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16850973/?type=og-image"
+        },
+        {
           "id": "27bd46f4c9596e737eb9350072270339",
           "author": null,
           "description": "ANGE Postecoglou last night refused to commit his future to Celtic after leading the Parkhead club to a world record eighth domestic treble.",
@@ -867,16 +877,6 @@
           "wordCount": 8571,
           "title": "Reo Hatate is not 'turning up to have fun' at Celtic",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16833200/?type=og-image"
-        },
-        {
-          "id": "7a727bdb620330d1378b2367241a35f0",
-          "author": null,
-          "description": "John Hughes believes Ange Postecoglou will \"100 per cent\" be at Celtic next season despite recent speculation linking the Aussie with Spurs.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23557176.postecoglou-will-100--celtic-next-season-rangers-battle/?ref=rss",
-          "publishedOn": "2023-05-30T18:56:19.000Z",
-          "wordCount": 8535,
-          "title": "Postecoglou will '100%' be at Celtic next season for 'Rangers battle'",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16827638/?type=og-image"
         }
       ]
     }
