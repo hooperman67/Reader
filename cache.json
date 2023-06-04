@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4168778",
+          "author": "Moira Gordon",
+          "description": "Three morning-after observations from the Scottish Cup final as Celtic secured a world record eighth domestic treble with a 3-1 victory over Inverness at Hampden…",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtic-reaction-ange-postecoglou-yesterdays-man-joe-hart-joins-elite-club-no-awkward-hibs-reunion-4168778",
+          "publishedOn": "2023-06-04T09:34:10.000Z",
+          "wordCount": 3704,
+          "title": "Celtic reaction: Ange Postecoglou yesterday's man, Joe Hart joins elite club, no awkward Hibs reunion",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjJmM2QzZmU4LTJkYWQtNGE4Zi04YzY5LTk0Yzk3YzNmZmM5YzpmYjU4OTA4OC04Y2JmLTQ2YzUtODIxMC1lZDY0YjZhN2I2NTE=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4168429",
           "author": "Alan Pattullo",
           "description": "Pointing out that the key to Scotland’s success against Norway might hinge on keeping Erling Haaland quiet is hardly earth-shattering tactical insight.",
@@ -314,16 +324,6 @@
           "wordCount": 2368,
           "title": "Celtic braced for Ange Postecoglou approach as Tottenham prepare to 'step up' interest",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjE5Y2YxY2ZkLWRiYjAtNDg0Ny05NTcwLTlkOTA4YzgxOTNlOTo2ZTM3Y2UyYy03MmYzLTRiMjMtOGM1OS0zZjIxZmU2ZDIxYTY=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4163432",
-          "author": "Matthew Elder",
-          "description": "Ange Postecoglou is relishing the challenge of improving Celtic again next season after warning that the club could lose key players this summer.",
-          "link": "https://www.scotsman.com/sport/football/celtic/ange-postecoglou-warns-of-incoming-offers-and-reveals-why-managing-celtic-is-akin-to-jenga-4163432",
-          "publishedOn": "2023-05-30T21:30:00.000Z",
-          "wordCount": 2794,
-          "title": "Ange Postecoglou warns of incoming offers and reveals why managing Celtic is akin to Jenga",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjE0M2I3ZmJlLTRjOTUtNGUwOS1hZWMyLTFlZGMyMjU4NmVkOTo1OTg3NTU3Zi1kMmYwLTQ1OWYtOGFmZC1jYmQ5MGUxNDE1YTk=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
         }
       ]
     },
@@ -338,6 +338,36 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "1040379dbb72a5e2f827b63acb80506a",
+          "author": null,
+          "description": "Ange Postecoglou vowed to enjoy Celtic’s record-breaking treble for as long as he could before someone “drags” him away to focus on other issues as he continued to dodge questions over his future.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23566336.postecoglous-celtic-press-conference-full-amid-tottenham-exit-talk/?ref=rss",
+          "publishedOn": "2023-06-04T10:54:52.000Z",
+          "wordCount": 9646,
+          "title": "Postecoglou's Celtic press conference in full amid Tottenham exit talk",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16851371/?type=og-image"
+        },
+        {
+          "id": "7d93d2d966517286d0b87dd4ea3b0905",
+          "author": null,
+          "description": "Celtic’s win over Inverness denied Caley Thistle a place in Europe.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23566266.celtic-rangers-aberdeen-hearts-hibs-europe---explained/?ref=rss",
+          "publishedOn": "2023-06-04T10:03:42.000Z",
+          "wordCount": 8782,
+          "title": "Celtic, Rangers, Aberdeen, Hearts and Hibs in Europe - explained",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16851283/?type=og-image"
+        },
+        {
+          "id": "f32a21b59126ae4cb599a914c51d68c1",
+          "author": null,
+          "description": "CELTIC stalwart James Forrest now has the same amount of winners' medals as Scott Brown and is the joint third most decorated Hoops player of all time.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23566238.james-forrest-closes-all-time-record-celtic-trophy-haul/?ref=rss",
+          "publishedOn": "2023-06-04T09:37:30.000Z",
+          "wordCount": 9654,
+          "title": "James Forrest closes in on all-time record with Celtic trophy haul",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16851225/?type=og-image"
+        },
         {
           "id": "1560d13da698a25c40e669dc94ecd4ed",
           "author": null,
@@ -867,16 +897,6 @@
           "wordCount": 9144,
           "title": "Ange on Celtic transfer 'jenga' and why Champions League is so crucial",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16757372/?type=og-image"
-        },
-        {
-          "id": "338d5da341075260e6831abd206d5332",
-          "author": null,
-          "description": "Celtic's manager is impressed with the discipline of his star midfielder.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23555418.reo-hatate-not-kind-guy-turning-fun-celtic/?ref=rss",
-          "publishedOn": "2023-05-30T21:30:00.000Z",
-          "wordCount": 8571,
-          "title": "Reo Hatate is not 'turning up to have fun' at Celtic",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16833200/?type=og-image"
         }
       ]
     }
