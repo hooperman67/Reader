@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-05T03:19:28.823Z</updated>
+    <updated>2023-06-05T06:22:22.952Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic treble winner reveals plans for own big day with just four days rest before the boots go back on]]></title>
+        <id>4168965</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/celtic-treble-winner-reveals-plans-for-own-big-day-with-just-four-days-rest-before-the-boots-go-back-on-4168965"/>
+        <updated>2023-06-05T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Greg Taylor admits he will have little time to dwell on Celtic's historic treble success – or his own upcoming nuptials – ahead of another big month with Scotland.]]></summary>
+        <author>
+            <name>Matthew Elder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Ange Postecoglou told Celtic after Scottish Cup final as 'decision made' on Tottenham interest]]></title>
+        <id>4169047</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/what-ange-postecoglou-told-celtic-after-scottish-cup-final-as-decision-made-on-tottenham-interest-4169047"/>
+        <updated>2023-06-05T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Ange Postecoglou looks set to depart Celtic amid reports that he informed Parkhead bosses of his desire to become the next manager of Tottenham after Saturday's Scottish Cup win over Inverness.]]></summary>
+        <author>
+            <name>Matthew Elder</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Billy Dodds reveals Ange Postecoglou's 'dignified' words after final]]></title>
         <id>b7ed70fe951882d8e5fbc1f0c6fc674c</id>
@@ -884,56 +904,6 @@
         <summary type="html"><![CDATA[Tuesday, June 6. A quick glance at the football calendar and there are no fixtures taking place within the Scottish football pyramid. For a football fix you will have to venture to the Copa Libertadores, South Korea’s K-League 1 or a play-off final in the Netherlands. Yet, it will be a big day in Scotland.]]></summary>
         <author>
             <name>Joel Sked</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Ange Postecoglou Celtic to Spurs pros and cons]]></title>
-        <id>ddc06ad7d33b54a5db79b703fed982d6</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23559802.ange-postecoglou-celtic-spurs-pros-cons/?ref=rss"/>
-        <updated>2023-05-31T18:05:18.000Z</updated>
-        <summary type="html"><![CDATA[The Australian, 57, is believed to be the preferred candidate for the vacant Tottenham job.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic boss Ange Postecoglou's Spurs timeline revealed]]></title>
-        <id>345c96f06f2f71e17d76cbffb9d95973</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23559714.celtic-boss-ange-postecoglous-spurs-timeline-revealed/?ref=rss"/>
-        <updated>2023-05-31T16:55:16.000Z</updated>
-        <summary type="html"><![CDATA[Ange Postecoglou has emerged as the leading candidate for the job, with Spurs mightily impressed by the Australian's work at Celtic.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christie on Celtic transfer reconsideration after Postecoglou impact]]></title>
-        <id>79d733884784a4f2eec2ac1f34a58fdb</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23559600.christie-celtic-transfer-reconsideration-postecoglou-impact/?ref=rss"/>
-        <updated>2023-05-31T16:20:28.000Z</updated>
-        <summary type="html"><![CDATA[The Scotland international left Parkhead for Bournemouth in the summer of 2021, six months prior to the end of his contract.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scottish transfers: Rangers star in surprise Turkey link, £5m Celtic target set to leave, 'fee agreed' for Hibs ace]]></title>
-        <id>4164923</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/scottish-transfers-rangers-star-in-surprise-turkey-link-ps5m-celtic-target-set-to-leave-fee-agreed-for-hibs-ace-4164923"/>
-        <updated>2023-05-31T16:09:54.000Z</updated>
-        <summary type="html"><![CDATA[Premiership clubs have been confirming the players who will be remaining as part of the squad going into next season, while the search for a new club begins for a variety of players around the country in what is set to be a fascinating summer transfer window.]]></summary>
-        <author>
-            <name>Joel Sked</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic braced for Ange Postecoglou approach as Tottenham prepare to 'step up' interest for 'preferred candidate']]></title>
-        <id>4164242</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/celtic-braced-for-ange-postecoglou-approach-as-tottenham-prepare-to-step-up-interest-for-preferred-candidate-4164242"/>
-        <updated>2023-05-31T15:31:17.000Z</updated>
-        <summary type="html"><![CDATA[Celtic are facing the prospect of a possible approach for Ange Postecoglou amid growing reports that their treble-chasing manager is the number one candidate to replace Antonio Conte at Tottenham.]]></summary>
-        <author>
-            <name>Matthew Elder</name>
         </author>
     </entry>
 </feed>
