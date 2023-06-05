@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-05T06:22:22.952Z</updated>
+    <updated>2023-06-05T09:16:59.660Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Brendan Rodgers favourite for shock Celtic return as familiar names appear as Ange Postecoglou replacements]]></title>
+        <id>4169303</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/brendan-rodgers-favourite-for-shock-celtic-return-as-familiar-names-appear-as-ange-postecoglou-replacements-4169303"/>
+        <updated>2023-06-05T09:03:23.000Z</updated>
+        <summary type="html"><![CDATA[Brendan Rodgers is in line for a shock Celtic return after being installed as the favourite to replace Ange Postecoglou.]]></summary>
+        <author>
+            <name>Joel Sked</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic star Kyogo 'wanted' by Tottenham along with Ange Postecoglou]]></title>
+        <id>51ec61d4b8b3edc80f1fd2f3e0cfad02</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23566972.celtic-star-kyogo-wanted-tottenham-along-ange-postecoglou/?ref=rss"/>
+        <updated>2023-06-05T07:17:00.000Z</updated>
+        <summary type="html"><![CDATA[The 28-year-old has been a sensational signing for the Scottish champions and joined as one of Postecoglou's first recruits in the summer of 2021.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ange Postecoglou 'wants' key Celtic staff to join Spurs]]></title>
+        <id>0ad8e050f046ea981a8d84d8b470a636</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23566944.ange-postecoglou-wants-key-celtic-staff-join-spurs/?ref=rss"/>
+        <updated>2023-06-05T06:47:16.000Z</updated>
+        <summary type="html"><![CDATA[Kennedy has been at the Hoops for over 25 years as a player, youth coach, and first-team assistant.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chris Sutton to join Kris Boyd as pundit on Sky Sports]]></title>
+        <id>8c3a5a1a5c97b1f019f44107082dc655</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23566925.chris-sutton-join-kris-boyd-pundit-sky-sports/?ref=rss"/>
+        <updated>2023-06-05T06:24:35.000Z</updated>
+        <summary type="html"><![CDATA[The ex-Celtic star is said to be moving to the broadcast giants in time for the start of the 2023/24 campaign.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic treble winner reveals plans for own big day with just four days rest before the boots go back on]]></title>
         <id>4168965</id>
@@ -884,26 +924,6 @@
         <summary type="html"><![CDATA[Matt O’Riley has encouraged supporters to trust the process as Celtic target a fifth treble in seven seasons – and a world record eighth in total.]]></summary>
         <author>
             <name>Alan Pattullo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Humza Yousaf opens up on Celtic support as First Minister addresses Ange Postecoglou exit fears]]></title>
-        <id>4165066</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/humza-yousaf-opens-up-on-celtic-support-as-first-minister-addresses-ange-postecoglou-exit-fears-4165066"/>
-        <updated>2023-05-31T19:44:02.000Z</updated>
-        <summary type="html"><![CDATA[Humza Yousaf has opened up on his support of Celtic and joked he would try to use ministerial powers to prevent manager Ange Postecoglou leaving for Tottenham.]]></summary>
-        <author>
-            <name>Matthew Elder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Scottish football's Conference League plans are starting to unravel - votes against, fan power and D-Day]]></title>
-        <id>4164912</id>
-        <link href="https://www.scotsman.com/sport/football/how-scottish-footballs-conference-league-plans-are-starting-to-unravel-votes-against-fan-power-and-d-day-4164912"/>
-        <updated>2023-05-31T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Tuesday, June 6. A quick glance at the football calendar and there are no fixtures taking place within the Scottish football pyramid. For a football fix you will have to venture to the Copa Libertadores, South Korea’s K-League 1 or a play-off final in the Netherlands. Yet, it will be a big day in Scotland.]]></summary>
-        <author>
-            <name>Joel Sked</name>
         </author>
     </entry>
 </feed>
