@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-04T21:14:03.740Z</updated>
+    <updated>2023-06-05T01:49:27.236Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Billy Dodds reveals Ange Postecoglou's 'dignified' words after final]]></title>
+        <id>b7ed70fe951882d8e5fbc1f0c6fc674c</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23566851.billy-dodds-reveals-ange-postecoglous-dignified-words-final/?ref=rss"/>
+        <updated>2023-06-04T21:37:00.000Z</updated>
+        <summary type="html"><![CDATA[Billy Dodds reveals Ange Postecoglou's 'dignified' touchline words after Celtic loss]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ange Postecoglou delivers Celtic 'parting gift' as Tottenham prepare to make their move]]></title>
+        <id>4168870</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/ange-postecoglou-delivers-celtic-parting-gift-as-tottenham-prepare-to-make-their-move-4168870"/>
+        <updated>2023-06-04T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Callum McGregor insists Celtic are strong enough to survive the loss of “super confident” Ange Postecoglou in the event of the manager leaving this summer.]]></summary>
+        <author>
+            <name>Alan Pattullo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic players are in the dark over Ange Postecoglou’s future]]></title>
+        <id>2414ed606206eec5d18a2ab23f5214ac</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23566435.celtic-players-dark-ange-postecoglous-future/?ref=rss"/>
+        <updated>2023-06-04T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[IT isn’t over, until it’s over, and Celtic captain Callum McGregor is desperately hoping that the passing of the Ange Postecoglou era at the club...]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pre-match nerves were a driving force for Celtic’s ‘history makers’]]></title>
+        <id>a18c66154c2f42009a3f784f6dd85ea0</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23566503.pre-match-nerves-driving-force-celtics-history-makers/?ref=rss"/>
+        <updated>2023-06-04T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[GREG TAYLOR says he was a nervous wreck as Celtic looked to avoid being on the wrong end of an almighty shock in the Scottish Cup Final...]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Danny Devine says Celtic star Kyogo doesn’t do much…until he does]]></title>
+        <id>81527279267d374af7f1d6e34a204553</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23566563.danny-devine-says-celtic-star-kyogo-doesnt-much/?ref=rss"/>
+        <updated>2023-06-04T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[DANNY DEVINE turned up at Hampden on Saturday braced to combat a masterclass in movement from Celtic hitman Kyogo Furuhashi...]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ange Postecoglou gestures cause a stir as Celtic treble celebrations shrouded in uncertainty]]></title>
         <id>4168945</id>
@@ -884,26 +934,6 @@
         <summary type="html"><![CDATA[Celtic are facing the prospect of a possible approach for Ange Postecoglou amid growing reports that their treble-chasing manager is the number one candidate to replace Antonio Conte at Tottenham.]]></summary>
         <author>
             <name>Matthew Elder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic braced for Ange Postecoglou approach as Tottenham prepare to 'step up' interest]]></title>
-        <id>4164242</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/celtic-braced-for-ange-postecoglou-approach-as-tottenham-prepare-to-step-up-interest-4164242"/>
-        <updated>2023-05-31T11:42:55.000Z</updated>
-        <summary type="html"><![CDATA[Tottenham Hotspur will “step up” their interest in Celtic manager Ange Postecoglou after Saturday's Scottish Cup final, according to a report.]]></summary>
-        <author>
-            <name>Matthew Elder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Postecoglou to Spurs latest as Daniel Levy set to 'step up' pursuit]]></title>
-        <id>efdfd284591bddf6d8db439703a6fec0</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23558069.postecoglou-spurs-latest-daniel-levy-set-step-up-pursuit/?ref=rss"/>
-        <updated>2023-05-31T10:41:45.000Z</updated>
-        <summary type="html"><![CDATA[T]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>
