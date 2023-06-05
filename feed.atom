@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-05T18:20:23.714Z</updated>
+    <updated>2023-06-05T21:14:09.085Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA["When the Celts go up to lift the Scottish Cup..." But they didn't go up. Why not? Further erosion of tradition amid 'health and safety concerns']]></title>
+        <id>4170505</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/when-the-celts-go-up-to-lift-the-scottish-cup-but-they-didnt-go-up-why-not-further-erosion-of-tradition-amid-health-and-safety-concerns-4170505"/>
+        <updated>2023-06-05T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[“When the Celts went up to lift the Scottish Cup, we were there, we were there!” echoed around Hampden during the second half of Saturday’s Scottish Cup final, with Celtic leading 2-0 against Inverness Caledonian Thistle.]]></summary>
+        <author>
+            <name>Alan Pattullo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postecoglou to Tottenham state of play as Celtic exit looms]]></title>
+        <id>9f6df43e6402a70f01ce44f8dc19b5d7</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23569412.postecoglou-tottenham-state-play-celtic-exit-looms/?ref=rss"/>
+        <updated>2023-06-05T19:55:20.000Z</updated>
+        <summary type="html"><![CDATA[Ange Postecoglou is set to join Tottenham Hotspur on a two-year deal after sealing a domestic treble at Celtic.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic, Hearts and Rangers blow as Conference League vote scrapped despite SFA chief's self interest pleas]]></title>
+        <id>4170488</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/celtic-hearts-and-rangers-blow-as-conference-league-vote-scrapped-despite-sfa-chiefs-self-interest-pleas-4170488"/>
+        <updated>2023-06-05T19:27:21.000Z</updated>
+        <summary type="html"><![CDATA[The planned vote regarding the introduction of a new fifth tier within Scottish football has been scrapped on the eve of the Scottish FA AGM.]]></summary>
+        <author>
+            <name>Joel Sked</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Ange Postecoglou is the right fit for Tottenham and where his departure leaves Celtic]]></title>
         <id>4170416</id>
@@ -1084,36 +1114,6 @@
         <summary type="html"><![CDATA[The 26 teams which automatically qualify for the Champions League group stages have all been confirmed – including Celtic.]]></summary>
         <author>
             <name>Joel Sked</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic one of confirmed 26 Champions League group stage entrants, 8 via qualifiers to be decided including Rangers]]></title>
-        <id>4165248</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/celtic-one-of-confirmed-26-champions-league-group-stage-entrants-8-via-qualifiers-to-be-decided-including-rangers-4165248"/>
-        <updated>2023-06-01T08:49:09.000Z</updated>
-        <summary type="html"><![CDATA[The 26 teams which automatically qualify for the Champions League group stages have all been confirmed – including Celtic.]]></summary>
-        <author>
-            <name>Joel Sked</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yousaf in Postecoglou to Spurs quip as he opens up on Celtic support]]></title>
-        <id>f860ee08211c729fec914b45a2415262</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23560232.yousaf-postecoglou-spurs-quip-opens-celtic-support/?ref=rss"/>
-        <updated>2023-06-01T08:35:40.000Z</updated>
-        <summary type="html"><![CDATA[The First Minister opened up on his Celtic support and joked he's explored any powers which could keep Ange Postecoglou in Glasgow.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sutton in 'not about Celtic' Postecoglou to Spurs verdict]]></title>
-        <id>7b2978dd2fae89b9b4dd962fdcd5f200</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23560079.sutton-not-celtic-postecoglou-spurs-verdict/?ref=rss"/>
-        <updated>2023-06-01T07:49:35.000Z</updated>
-        <summary type="html"><![CDATA[The former Parkhead striker is desperate for Ange Postecoglou to remain at Celtic but conceded he could be tempted by Tottenham.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>
