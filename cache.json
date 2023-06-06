@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4171571",
+          "author": "Oliver Anderson",
+          "description": "Ange Postecoglou will swap one pressure cooker for another after quitting Celtic to become the new manager of Tottenham.",
+          "link": "https://www.scotsman.com/sport/football/celtic/ange-postecoglous-5-big-tasks-at-tottenham-after-celtic-departure-including-harry-kane-future-and-winning-over-sceptics-4171571",
+          "publishedOn": "2023-06-06T13:36:54.000Z",
+          "wordCount": 2782,
+          "title": "Ange Postecoglou's 5 big tasks at Tottenham after Celtic departure including Harry Kane future and winning over sceptics",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjAwNGU2YWM1LTYwY2ItNGY0MC05NzNiLWQ4YzJjMTc4ZGZiNDozNDViMWUwYS1lNTExLTQ1MGMtYTBmNC0yZmNkZDg5OGE3NjI=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4171273",
           "author": "Andrew Smith",
           "description": "The stages of dissociation precipitated by the departure of a beloved manager will now move on to legacy where Celtic and Ange Postecoglou is concerned. The Greek-Australian’s two-year tenure in Glasgow officially ended after his switch to Tottenham Hotspur was confirmed.",
@@ -378,6 +388,46 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "57eb30c3e47dab94aa55d5d9a27c81d8",
+          "author": null,
+          "description": "Ange Postecoglou is set to lead his new club Tottenham on a pre-season Asia-Pacific tour.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23571087.postecoglou-set-homecoming-first-spurs-match-confirmed/?ref=rss",
+          "publishedOn": "2023-06-06T13:24:25.000Z",
+          "wordCount": 8484,
+          "title": "Postecoglou set for homecoming as first Spurs match confirmed",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16858740/?type=og-image"
+        },
+        {
+          "id": "d865992a06f0a0c43bb8cdc38417066b",
+          "author": null,
+          "description": "Enzo Maresca has been heavily linked with the vacant managerial position at Celtic following Ange Postecoglou's Spurs departure.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23571086.inside-enzo-marescas-glaring-parma-win-percentage-amid-celtic-links/?ref=rss",
+          "publishedOn": "2023-06-06T13:24:24.000Z",
+          "wordCount": 8637,
+          "title": "Inside Enzo Maresca's glaring Parma win percentage amid Celtic links",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16858799/?type=og-image"
+        },
+        {
+          "id": "637d54ca667560b53dafe8f1d86f2046",
+          "author": null,
+          "description": "Celtic could face a battle to land Enzo Maresca as their new manager.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23570887.celtic-face-enzo-maresca-battle-leicester-also-plotting-swoop/?ref=rss",
+          "publishedOn": "2023-06-06T12:41:16.000Z",
+          "wordCount": 8495,
+          "title": "Celtic face Enzo Maresca battle with Leicester also plotting swoop",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16858450/?type=og-image"
+        },
+        {
+          "id": "892695897c6b91a27643b193184f663a",
+          "author": null,
+          "description": "Kyogo Furuhashi was among Ange Postecoglou's first signings for Celtic - and odds have been released rating chances of a move to Spurs.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23570882.kyogo-spurs-transfer-chances-rated-postecoglou-celtic-exit/?ref=rss",
+          "publishedOn": "2023-06-06T12:40:10.000Z",
+          "wordCount": 8684,
+          "title": "Kyogo to Spurs transfer chances rated after Postecoglou Celtic exit",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16858399/?type=og-image"
+        },
         {
           "id": "18cb269b857db0eba352d022915a2055",
           "author": null,
