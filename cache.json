@@ -324,26 +324,6 @@
           "wordCount": 2614,
           "title": "'They wouldn't dare' - Celtic boss Ange Postecoglou insists no Tottenham talks held before cup final",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjQ0OTVjNzRlLWM0M2YtNDFkNC1hMzEwLWNlODVmNWEwYzdlNTowN2RkYWE5NS04NjQ3LTQ4MmYtOTFmZC1kZWExYzFjY2Y2ZjI=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4166581",
-          "author": "Joel Sked",
-          "description": "Scottish football could be dominated by the future of Ange Postecoglou at Celtic with reports he is set to become the new Spurs boss with the Scottish Cup final on the horizon. It could be the biggest story of the summer, while clubs look to make key moves in the transfer market.",
-          "link": "https://www.scotsman.com/sport/football/rangers/scottish-transfers-rangers-starlet-among-9-to-exit-aberdeens-clarkson-wait-hibs-in-line-for-windfall-4166581",
-          "publishedOn": "2023-06-01T16:33:56.000Z",
-          "wordCount": 3103,
-          "title": "Scottish transfers: Rangers starlet among 9 to exit, Aberdeen's Clarkson wait, Hibs in line for windfall",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjhkMTE1MDRlLWYyMDgtNGM4Ny1hMmQ0LTQwYmFiMzFiYzVkNDowNmMyNTFhMC00ZTlhLTRiZGMtYjFkNy02Njk4ODkyOWQ1NjM=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4166428",
-          "author": "Matthew Elder",
-          "description": "Alistair Johnston insists Celtic players are blocking out the speculation surrounding Ange Postecoglou's future amid reports the Australian is being lined up to become the next manager of Tottenham.",
-          "link": "https://www.scotsman.com/sport/football/celtic/we-have-sky-sports-on-celtic-dressing-room-reaction-to-ange-postecoglou-exit-talk-4166428",
-          "publishedOn": "2023-06-01T15:34:15.000Z",
-          "wordCount": 2499,
-          "title": "'We have Sky Sports on' - Celtic dressing room reaction to Ange Postecoglou exit talk",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjI2OTU5YWQwLWNhOWQtNGQ2OC05NzJhLWY0ZDNkMjQwNTY3NzoyOTMyYjlhOS1iYmE5LTRiYzctYTQyOS1mYTQzNmRhNDgyYzg=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
         }
       ]
     },
@@ -356,8 +336,28 @@
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
       "articles": [
+        {
+          "id": "f71a46869d96344031d1eb736071bc88",
+          "author": null,
+          "description": "The right-back has come to the end of a marathon season.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23569019.johnston-ready-celtic-reset-one-thing-already-mind/?ref=rss",
+          "publishedOn": "2023-06-06T05:00:00.000Z",
+          "wordCount": 9108,
+          "title": "Johnston ready for Celtic reset but with one thing already on his mind",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16855764/?type=og-image"
+        },
+        {
+          "id": "939edeece884dd7bf1e16b05aae52bd0",
+          "author": null,
+          "description": "The incoming Spurs manager has a track record for signing players he has previously worked with.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23568964.celtic-players-ange-postecoglou-target-tottenham/?ref=rss",
+          "publishedOn": "2023-06-06T05:00:00.000Z",
+          "wordCount": 9361,
+          "title": "The Celtic players Ange Postecoglou could target at Tottenham",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16856493/?type=og-image"
+        },
         {
           "id": "1066f64c38e779181b09c14f6c2ff7cf",
           "author": null,
@@ -1037,36 +1037,6 @@
           "wordCount": 10588,
           "title": "Every word Ange Postecoglou said on Tottenham and Celtic",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16844795/?type=og-image"
-        },
-        {
-          "id": "438136a7f51719e41c7ec82da5c4789e",
-          "author": null,
-          "description": "The game finished 1-0 to the Hoops, with Jota's headed goal separating the teams at the national stadium back in April.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23562424.ange-postecoglou-rangers-trash-talk-celtic-motivation-admission/?ref=rss",
-          "publishedOn": "2023-06-01T17:50:22.000Z",
-          "wordCount": 8500,
-          "title": "Ange Postecoglou in Rangers 'trash talk' Celtic motivation admission",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16844861/?type=og-image"
-        },
-        {
-          "id": "ffb0ee208a911937bf9413cf219a924c",
-          "author": null,
-          "description": "The Ligue 1 side are reported to have joined Tottenham in their pursuit of the Australian.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23562402.celtic-boss-ange-postecoglou-considered-marseille-job/?ref=rss",
-          "publishedOn": "2023-06-01T17:27:00.000Z",
-          "wordCount": 9725,
-          "title": "Celtic boss Ange Postecoglou 'considered' for Marseille job",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16844753/?type=og-image"
-        },
-        {
-          "id": "683c854b207269f6c7a3e28828a0c467",
-          "author": null,
-          "description": "Asked about all of the stories surrounding Postecoglou's future, the 24-year-old showed his sarcastic side.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23562105.johnston-offers-witty-postecoglou-celtic-spurs-response/?ref=rss",
-          "publishedOn": "2023-06-01T15:47:19.000Z",
-          "wordCount": 8566,
-          "title": "Johnston offers witty Postecoglou Celtic to Spurs response",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16844255/?type=og-image"
         }
       ]
     }
