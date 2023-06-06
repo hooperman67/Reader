@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-06T18:20:41.546Z</updated>
+    <updated>2023-06-06T21:15:29.005Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Guardiola hails 'exceptional' Postecoglou & reveals Celtic connection]]></title>
+        <id>e034c8b797ae10b6fc68aa57c319e5a6</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23572189.guardiola-hails-exceptional-postecoglou-reveals-celtic-connection/?ref=rss"/>
+        <updated>2023-06-06T19:25:38.000Z</updated>
+        <summary type="html"><![CDATA[Pep Guardiola branded Ange Postecoglou an "exceptional manager" after making the move from Celtic to Tottenham.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spurs to consult Ange Postecoglou over bold transfer plans]]></title>
+        <id>24b168cee7a3446b4b5576ed299605c8</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23572178.spurs-consult-ange-postecoglou-bold-transfer-plans/?ref=rss"/>
+        <updated>2023-06-06T18:55:28.000Z</updated>
+        <summary type="html"><![CDATA[Ange Postecoglou completed a move from Celtic to Tottenham on Tuesday.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The compelling Celtic case for Kjetil Knutsen as next manager]]></title>
         <id>989a986e279ad1987b536315ba02929e</id>
@@ -1222,46 +1242,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23563219.postecoglou-celtic-ray-hope-amid-huge-fabrizio-romano-spurs-update/?ref=rss"/>
         <updated>2023-06-02T09:52:37.000Z</updated>
         <summary type="html"><![CDATA[Fabrizio Romano reports Ange Postecoglou will hold talks with Spurs next week but no deal has been agreed.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Next Celtic manager favourite emerges as betting suspended on Ange Postecoglou joining Tottenham]]></title>
-        <id>4166995</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/next-celtic-manager-favourite-emerges-as-betting-suspended-on-ange-postecoglou-joining-tottenham-4166995"/>
-        <updated>2023-06-02T09:04:17.000Z</updated>
-        <summary type="html"><![CDATA[Celtic could be on the look-out for a new manager as early as next week with reports claiming Ange Postecoglou is on the brink of landing the Tottenham job.]]></summary>
-        <author>
-            <name>Matthew Elder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tottenham 'to hold fresh Ange Postecoglou talks at beginning of next week' as Celtic boss labelled leading candidate]]></title>
-        <id>4166991</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/tottenham-to-hold-fresh-ange-postecoglou-talks-at-beginning-of-next-week-as-celtic-boss-labelled-leading-candidate-4166991"/>
-        <updated>2023-06-02T09:02:37.000Z</updated>
-        <summary type="html"><![CDATA[Tottenham Hotspur will speak to Celtic boss Ange Postecoglou once again next week about becoming their new manager, according to respected football journalist Fabrizio Romano.]]></summary>
-        <author>
-            <name>Ross McLeish</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Next Celtic manager odds amid Postecoglou to Spurs links]]></title>
-        <id>c5075c445108e503ce13eaa7f16f4b0b</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23563010.next-celtic-manager-odds-amid-postecoglou-spurs-links/?ref=rss"/>
-        <updated>2023-06-02T09:02:31.000Z</updated>
-        <summary type="html"><![CDATA[Ange Postecoglou has been tipped to make the move from Celtic to Tottenham after the Scottish Cup final.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Take a punt' - Celtic boss Postecoglou's 'agent appeals to Spurs']]></title>
-        <id>65e14b77c572ac12b2b737d00cccede0</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23562661.take-punt---celtic-boss-postecoglous-agent-appeals-spurs/?ref=rss"/>
-        <updated>2023-06-02T06:50:12.000Z</updated>
-        <summary type="html"><![CDATA[Celtic manager Ange Postecoglou has reportedly emerged as a preferred candidate to take over at Tottenham.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>

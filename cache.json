@@ -354,26 +354,6 @@
           "wordCount": 2971,
           "title": "What TV channel is Celtic v Inverness Scottish Cup final and what happens if FA Cup final goes to extra-time?",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjBlM2JiMGNiLTU5MjItNGVhYS1iZGY3LTRiYzQxZmU5Yjk0YzowNmIyMWFmZS04Y2ViLTRmZDktYjlmMC0wYWI5NjI5MWUwMTM=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4166995",
-          "author": "Matthew Elder",
-          "description": "Celtic could be on the look-out for a new manager as early as next week with reports claiming Ange Postecoglou is on the brink of landing the Tottenham job.",
-          "link": "https://www.scotsman.com/sport/football/celtic/next-celtic-manager-favourite-emerges-as-betting-suspended-on-ange-postecoglou-joining-tottenham-4166995",
-          "publishedOn": "2023-06-02T09:04:17.000Z",
-          "wordCount": 2317,
-          "title": "Next Celtic manager favourite emerges as betting suspended on Ange Postecoglou joining Tottenham",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjY1OGY0ZjAxLTdiODEtNDVhZS04MDExLTc0MmJmNzljMmZiMjo3OWFkOGFkNy1jM2U2LTQwODUtOTFiNi1iOTM5MGQ3N2RlYTg=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4166991",
-          "author": "Ross McLeish",
-          "description": "Tottenham Hotspur will speak to Celtic boss Ange Postecoglou once again next week about becoming their new manager, according to respected football journalist Fabrizio Romano.",
-          "link": "https://www.scotsman.com/sport/football/celtic/tottenham-to-hold-fresh-ange-postecoglou-talks-at-beginning-of-next-week-as-celtic-boss-labelled-leading-candidate-4166991",
-          "publishedOn": "2023-06-02T09:02:37.000Z",
-          "wordCount": 1948,
-          "title": "Tottenham 'to hold fresh Ange Postecoglou talks at beginning of next week' as Celtic boss labelled leading candidate",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmI0YWE3ZDczLTYyZGQtNGY3ZC1hMDQwLTFjNzQyNDk1ZTg4Yjo2YjE1MzEwNy0yMTc5LTQ3ODUtYWFiMy01YmRhZDE4NjI3MzQ=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
         }
       ]
     },
@@ -388,6 +368,26 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "e034c8b797ae10b6fc68aa57c319e5a6",
+          "author": null,
+          "description": "Pep Guardiola branded Ange Postecoglou an \"exceptional manager\" after making the move from Celtic to Tottenham.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23572189.guardiola-hails-exceptional-postecoglou-reveals-celtic-connection/?ref=rss",
+          "publishedOn": "2023-06-06T19:25:38.000Z",
+          "wordCount": 9574,
+          "title": "Guardiola hails 'exceptional' Postecoglou & reveals Celtic connection",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16860819/?type=og-image"
+        },
+        {
+          "id": "24b168cee7a3446b4b5576ed299605c8",
+          "author": null,
+          "description": "Ange Postecoglou completed a move from Celtic to Tottenham on Tuesday.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23572178.spurs-consult-ange-postecoglou-bold-transfer-plans/?ref=rss",
+          "publishedOn": "2023-06-06T18:55:28.000Z",
+          "wordCount": 8470,
+          "title": "Spurs to consult Ange Postecoglou over bold transfer plans",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16860744/?type=og-image"
+        },
         {
           "id": "989a986e279ad1987b536315ba02929e",
           "author": null,
@@ -1257,26 +1257,6 @@
           "wordCount": 9732,
           "title": "Postecoglou Celtic ray of hope amid huge Fabrizio Romano Spurs update",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16845806/?type=og-image"
-        },
-        {
-          "id": "c5075c445108e503ce13eaa7f16f4b0b",
-          "author": null,
-          "description": "Ange Postecoglou has been tipped to make the move from Celtic to Tottenham after the Scottish Cup final.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23563010.next-celtic-manager-odds-amid-postecoglou-spurs-links/?ref=rss",
-          "publishedOn": "2023-06-02T09:02:31.000Z",
-          "wordCount": 9690,
-          "title": "Next Celtic manager odds amid Postecoglou to Spurs links",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16845603/?type=og-image"
-        },
-        {
-          "id": "65e14b77c572ac12b2b737d00cccede0",
-          "author": null,
-          "description": "Celtic manager Ange Postecoglou has reportedly emerged as a preferred candidate to take over at Tottenham.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23562661.take-punt---celtic-boss-postecoglous-agent-appeals-spurs/?ref=rss",
-          "publishedOn": "2023-06-02T06:50:12.000Z",
-          "wordCount": 9706,
-          "title": "'Take a punt' - Celtic boss Postecoglou's 'agent appeals to Spurs'",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16845236/?type=og-image"
         }
       ]
     }
