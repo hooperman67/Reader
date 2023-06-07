@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-07T12:35:08.395Z</updated>
+    <updated>2023-06-07T15:18:07.693Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Matt O'Riley agency switch could change Celtic to Spurs transfer]]></title>
+        <id>06e6e83dd8395d65dd678041ad0e4160</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23574224.matt-oriley-agency-switch-change-celtic-spurs-transfer/?ref=rss"/>
+        <updated>2023-06-07T14:46:24.000Z</updated>
+        <summary type="html"><![CDATA[It's said that the Danish playmaker's family will now negotiate any future moves and contracts for O'Riley.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moyes will be at West Ham next season amid Celtic links]]></title>
+        <id>4c45ebba80135273d8f80847c7fbab66</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23573956.moyes-will-west-ham-next-season-amid-celtic-links/?ref=rss"/>
+        <updated>2023-06-07T13:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Moyes has been heavily linked with the vacant Celtic managerial position following the departure of Ange Postecoglou to Spurs.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic-linked Des Buckingham 'pictured in Glasgow' amid manager search]]></title>
+        <id>f0d733f01a912ba078cc1892a26e5ba1</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23573950.celtic-linked-des-buckingham-pictured-glasgow-amid-manager-search/?ref=rss"/>
+        <updated>2023-06-07T13:46:33.000Z</updated>
+        <summary type="html"><![CDATA[Mumbai City]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[McCoist declares Postecoglou's Celtic exit 'excellent' for Rangers]]></title>
         <id>58cd05ec62d2ed98860d69857f6ffa64</id>
