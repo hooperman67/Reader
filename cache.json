@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4172223",
+          "author": "Andrew Smith",
+          "description": "The shelving of plans to create a fifth-tier Conference League to accommodate B teams from Celtic, Rangers and Hearts has highlighted the difficulty in satisfying the competing interests of all 270 clubs that make up the country’s pyramid, according to SFA chief executive Ian Maxwell.",
+          "link": "https://www.scotsman.com/sport/football/sfa-chief-ian-maxwell-makes-celtic-and-rangers-shouldnt-be-stopped-point-as-he-addresses-conference-league-collapse-4172223",
+          "publishedOn": "2023-06-07T06:00:00.000Z",
+          "wordCount": 2894,
+          "title": "SFA chief Ian Maxwell makes Celtic and Rangers 'shouldn't be stopped' point as he addresses Conference League collapse",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjcyMWQ0MmIxLTZmZWItNGVhNS1hYjkzLTlkMDVjODRlYjY0NDozNzEyOTllNi1kODQwLTRmOWItODdmOC1mOGM3MDNjNGE5M2I=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4172218",
           "author": "Andrew Smith",
           "description": "SFA chief executive Ian Maxwell has no fears over any approach from Celtic for Scotland manager Steve Clarke as Manchester City assistant Enzo Maresca emerged the frontrunner to replace Ange Postecoglou.",
@@ -1187,26 +1197,6 @@
           "wordCount": 9681,
           "title": "Chris Sutton in Ange Postecoglou Celtic to Spurs admission",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16849420/?type=og-image"
-        },
-        {
-          "id": "7b3295494b8594b7e3c84f3bd5f9bde0",
-          "author": null,
-          "description": "Celtic will make a late call on top goalscorer Kyogo Furuhashi after the striker picked up a lower leg knock against Aberdeen last weekend and did not train until Friday. Midfielder Aaron Mooy is the only definite absentee with a back problem.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23565109.early-celtic-inverness-team-news-ahead-scottish-cup-final/?ref=rss",
-          "publishedOn": "2023-06-02T16:52:57.000Z",
-          "wordCount": 8389,
-          "title": "Early Celtic & Inverness team news ahead of Scottish Cup final",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16849307/?type=og-image"
-        },
-        {
-          "id": "f5048b49c9fdfd28463ebbb4c4b93c4f",
-          "author": null,
-          "description": "Celtic and Inverness Caledonian Thistle square off at Hampden in the Scottish Cup final.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23564042.celtic-vs-inverness-herald-times-scottish-cup-final-predictions/?ref=rss",
-          "publishedOn": "2023-06-02T16:00:00.000Z",
-          "wordCount": 9179,
-          "title": "Celtic vs Inverness: Herald & Times Scottish Cup final predictions",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16847472/?type=og-image"
         }
       ]
     }
