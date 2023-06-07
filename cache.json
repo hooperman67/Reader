@@ -339,6 +339,16 @@
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
         {
+          "id": "dca8115dd9aa8c14dc8b3613e7f444db",
+          "author": null,
+          "description": "Jota has shared an emotional farewell message to Ange Postecoglou after the manager left Celtic to join Tottenham.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23574889.jota-emotional-ange-postecoglou-celtic-farewell/?ref=rss",
+          "publishedOn": "2023-06-07T18:43:09.000Z",
+          "wordCount": 8630,
+          "title": "Jota in emotional Ange Postecoglou Celtic farewell",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16864947/?type=og-image"
+        },
+        {
           "id": "8e86ec78aee4be88d74528bb4bb4c998",
           "author": null,
           "description": "The bookmakers have Rodgers as the current favourite to replace Ange Postecoglou after his exit for Tottenham.",
@@ -1247,16 +1257,6 @@
           "wordCount": 9697,
           "title": "Celtic vs Inverness: TV channel, live stream & kick-off",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16832335/?type=og-image"
-        },
-        {
-          "id": "4cd665fcf4d11fa44735f6c862f93cc1",
-          "author": null,
-          "description": "The Hoops are heavy favourites to land their eighth domestic treble, with a clear gulf between the champions and Caley Thistle.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23564354.three-celtic-vs-inverness-caledonian-thistle-key-battles/?ref=rss",
-          "publishedOn": "2023-06-03T07:00:00.000Z",
-          "wordCount": 8779,
-          "title": "Three Celtic vs Inverness Caledonian Thistle key battles",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16847629/?type=og-image"
         }
       ]
     }
