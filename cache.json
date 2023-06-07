@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4173662",
+          "author": "Joel Sked",
+          "description": "Celtic have prioritised finding the best candidate to replace Ange Postecoglou ahead of a swift appointment following the Australian's departure to Tottenham Hotspur.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtic-next-manager-2-surprise-names-linked-ex-manchester-united-coach-john-kennedy-latest-club-priority-4173662",
+          "publishedOn": "2023-06-07T15:52:13.000Z",
+          "wordCount": 2768,
+          "title": "Celtic next manager: 2 surprise names linked, ex-Manchester United coach, John Kennedy latest, club priority",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjVjMGI5ZmNmLWQ2NmEtNDEyNy1iZDI3LTAxZGJlM2JmNmZhYzplZDkxYjAyNi1hNzI0LTQ1ODItODYyZC03MTA3NzViNmI2Mzg=.jpg?width=1024&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4172315",
           "author": "Joel Sked",
           "description": "The transfer window in Scotland will open on a week to day, June 14, but clubs have already been completing deals and making moves to get their squad in place for a pre-season return at the end of the month. What’s been the latest transfer talk...",
@@ -328,6 +338,26 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "8e86ec78aee4be88d74528bb4bb4c998",
+          "author": null,
+          "description": "The bookmakers have Rodgers as the current favourite to replace Ange Postecoglou after his exit for Tottenham.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23574697.brendan-rodgers-celtic-betting-suspended-skybet/?ref=rss",
+          "publishedOn": "2023-06-07T16:21:22.000Z",
+          "wordCount": 8439,
+          "title": "Brendan Rodgers to Celtic betting suspended by Sky Bet",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16864656/?type=og-image"
+        },
+        {
+          "id": "e4fb8ec6dc96987b3b0970c306237f9a",
+          "author": null,
+          "description": "Mumbai City FC boss Des Buckingham has reportedly been pictured in Glasgow amid a flurry of bets on him to become the new Celtic boss.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23574225.celtic-linked-manager-des-buckingham/?ref=rss",
+          "publishedOn": "2023-06-07T14:46:38.000Z",
+          "wordCount": 10065,
+          "title": "Who is Celtic-linked manager Des Buckingham?",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16864344/?type=og-image"
+        },
         {
           "id": "06e6e83dd8395d65dd678041ad0e4160",
           "author": null,
@@ -1227,36 +1257,6 @@
           "wordCount": 8779,
           "title": "Three Celtic vs Inverness Caledonian Thistle key battles",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16847629/?type=og-image"
-        },
-        {
-          "id": "1fd3fb60bb42704cc5d835b1cd190e56",
-          "author": null,
-          "description": "THERE will still be an awful lot of good football to look forward after the final whistle blows in the Scottish Cup final between Celtic and Inverness Caledonian Thistle at Hampden this evening.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23565325.celtics-manager-search-may-brief-postecoglou-hangs-spurs/?ref=rss",
-          "publishedOn": "2023-06-03T06:00:00.000Z",
-          "wordCount": 10228,
-          "title": "Celtic's manager search may be brief if Postecoglou hangs up his Spurs",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16849588/?type=og-image"
-        },
-        {
-          "id": "64420d220eb9660f38b83167a84c1e7e",
-          "author": null,
-          "description": "The Parkhead manager is hellbent on securing a world-record eighth treble for his club.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23565344.ange-postecoglou-wont-follow-celtic-predecessors-destroyed/?ref=rss",
-          "publishedOn": "2023-06-03T05:00:00.000Z",
-          "wordCount": 10328,
-          "title": "Ange Postecoglou won't follow Celtic predecessors who were 'destroyed'",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16849637/?type=og-image"
-        },
-        {
-          "id": "4793cb3b95350bd4d46713ffb84ad9e6",
-          "author": null,
-          "description": "The right-back's parents will cheer him on at Hampden after a late decision to travel to Scotland.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23565352.alistair-johnston-reveals-last-gasp-celtic-family-affair-cup-final/?ref=rss",
-          "publishedOn": "2023-06-03T05:00:00.000Z",
-          "wordCount": 10079,
-          "title": "Alistair Johnston reveals last gasp Celtic family affair for cup final",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16849644/?type=og-image"
         }
       ]
     }
