@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-07T06:21:45.351Z</updated>
+    <updated>2023-06-07T09:16:12.757Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SFA chief Ian Maxwell on Steve Clarke’s future after Celtic link]]></title>
+        <id>87877f4522ea6866b00e03a9cc147328</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23572430.sfa-chief-ian-maxwell-steve-clarkes-future-celtic-link/?ref=rss"/>
+        <updated>2023-06-07T07:44:55.000Z</updated>
+        <summary type="html"><![CDATA[IAN Maxwell, the Scottish FA chief executive, last night expressed confidence that Steve Clarke, who has been linked with the managerial vacancy at Celtic, will remain in charge of Scotland.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kieran McKenna enters Celtic manager running to replace Postecoglou]]></title>
+        <id>2cc54e008b2cedb9ce3e2701fe0671e7</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23572403.kieran-mckenna-enters-celtic-manager-running-replace-postecoglou/?ref=rss"/>
+        <updated>2023-06-07T07:33:04.000Z</updated>
+        <summary type="html"><![CDATA[I]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scottish transfers: 4th Rangers signing near, Celtic duo wanted, £4m price tag for Ibrox star, ex-Hibs ace nears deal]]></title>
+        <id>4172315</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/scottish-transfers-4th-rangers-signing-near-celtic-duo-wanted-ps4m-price-tag-for-ibrox-star-ex-hibs-ace-nears-deal-4172315"/>
+        <updated>2023-06-07T06:58:39.000Z</updated>
+        <summary type="html"><![CDATA[The transfer window in Scotland will open on a week to day, June 14, but clubs have already been completing deals and making moves to get their squad in place for a pre-season return at the end of the month. What’s been the latest transfer talk...]]></summary>
+        <author>
+            <name>Joel Sked</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic favourite Kjetil Knutsen responds to managerial links]]></title>
+        <id>45f55de925f2c45463d0df11017f2f95</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23572348.celtic-favourite-kjetil-knutsen-responds-managerial-links/?ref=rss"/>
+        <updated>2023-06-07T06:58:13.000Z</updated>
+        <summary type="html"><![CDATA[Bodo Glimt manager Kjetil Knutsen has responded to managerial speculation linking him with Ajax, amid further links to Celtic as the Scottish champions continue their hunt for a new boss.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic manager latest as David Moyes 'destined' for Parkhead position]]></title>
+        <id>4184d1dfd68080a6a915b8341357b084</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23572337.celtic-manager-latest-david-moyes-destined-parkhead-position/?ref=rss"/>
+        <updated>2023-06-07T06:42:26.000Z</updated>
+        <summary type="html"><![CDATA[A]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Matt O'Riley to make Celtic transfer call with English clubs circling]]></title>
+        <id>aca028c427c095c8f8d25194f357c3aa</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23572321.matt-oriley-make-celtic-transfer-call-english-clubs-circling/?ref=rss"/>
+        <updated>2023-06-07T06:26:42.000Z</updated>
+        <summary type="html"><![CDATA[T]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SFA chief Ian Maxwell makes Celtic and Rangers 'shouldn't be stopped' point as he addresses Conference League collapse]]></title>
         <id>4172223</id>
@@ -14,6 +74,16 @@
         <summary type="html"><![CDATA[The shelving of plans to create a fifth-tier Conference League to accommodate B teams from Celtic, Rangers and Hearts has highlighted the difficulty in satisfying the competing interests of all 270 clubs that make up the country’s pyramid, according to SFA chief executive Ian Maxwell.]]></summary>
         <author>
             <name>Andrew Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What does Postecoglou Celtic exit mean for Rangers and Michael Beale?]]></title>
+        <id>50987e5dc30ff34038398a3e6a520131</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23571183.postecoglou-celtic-exit-mean-rangers-michael-beale/?ref=rss"/>
+        <updated>2023-06-07T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Old Firm dynamic has changed. Time will tell if the balance of power has shifted in the Premiership as a result.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
     <entry>
@@ -1142,46 +1212,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23564745.ange-postecoglou-reveals-reason-celtic-wont-complacent-ict/?ref=rss"/>
         <updated>2023-06-02T21:30:00.000Z</updated>
         <summary type="html"><![CDATA[The Parkhead manager will lead his side out at Hampden in Saturday's Scottish Cup final.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic fans prepare for tears of joy and sadness: Postecoglou future, Spurs, Inverness' role, three clubs with vested interest]]></title>
-        <id>4168209</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/celtic-fans-prepare-for-tears-of-joy-and-sadness-postecoglou-future-spurs-inverness-role-three-clubs-with-vested-interest-4168209"/>
-        <updated>2023-06-02T20:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Certainly, there have been stranger things in our game than the cloak wrapping itself around Saturday’s 2023 Scottish Cup final. Just not too many more curious adornments for an occasion, an event, supposed to provide its own striking apparel.]]></summary>
-        <author>
-            <name>Andrew Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic fans prepare for tears of joy and sadness: Ange Postecoglou future, Spurs, Inverness' role, three clubs with vested interest]]></title>
-        <id>4168209</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/celtic-fans-prepare-for-tears-of-joy-and-sadness-ange-postecoglou-future-spurs-inverness-role-three-clubs-with-vested-interest-4168209"/>
-        <updated>2023-06-02T20:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Certainly, there have been stranger things in our game than the cloak wrapping itself around Saturday’s 2023 Scottish Cup final. Just not too many more curious adornments for an occasion, an event, supposed to provide its own striking apparel.]]></summary>
-        <author>
-            <name>Andrew Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[McCoist in 'basket case' Spurs warning to Celtic's Postecoglou]]></title>
-        <id>b163a0c700614b18d767dc102954eaad</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23565299.mccoist-basket-case-spurs-warning-celtics-postecoglou/?ref=rss"/>
-        <updated>2023-06-02T20:22:09.000Z</updated>
-        <summary type="html"><![CDATA[Some reports have suggested that the 57-year-old's move to the Tottenham Hotspur Stadium is already a done deal.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chris Sutton in Ange Postecoglou Celtic to Spurs admission]]></title>
-        <id>838ee2844fd347d6150ffd3520496496</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23565226.chris-sutton-ange-postecoglou-celtic-spurs-admission/?ref=rss"/>
-        <updated>2023-06-02T18:28:54.000Z</updated>
-        <summary type="html"><![CDATA[The Hoops manager is the No.1 target for Tottenham as they look to finally replace Antonio Conte.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
