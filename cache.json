@@ -6,6 +6,26 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4174505",
+          "author": "Matthew Elder",
+          "description": "Pascal Jansen is the latest manager to be linked with the Celtic job following the departure of Ange Postecoglou to Tottenham.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtic-next-manager-highly-rated-dutch-coach-added-to-list-of-candidates-by-parkhead-board-4174505",
+          "publishedOn": "2023-06-08T11:29:29.000Z",
+          "wordCount": null,
+          "title": "Celtic next manager: Highly-rated Dutch coach 'added to list' of candidates by Parkhead board",
+          "imageUrl": null
+        },
+        {
+          "id": "4174376",
+          "author": "Joel Sked",
+          "description": "Now the season has finished for all 12 Scottish Premiership clubs, focus turns to pre-season, preparation and next season which means tweaking the squad, players coming and going.",
+          "link": "https://www.scotsman.com/sport/football/celtic/when-the-transfer-window-opens-for-scottish-premiership-clubs-when-it-closes-the-10-deals-done-so-far-4174376",
+          "publishedOn": "2023-06-08T10:41:01.000Z",
+          "wordCount": null,
+          "title": "When the transfer window opens for Scottish Premiership clubs, when it closes, the 10 deals done so far",
+          "imageUrl": null
+        },
+        {
           "id": "4173975",
           "author": "Joel Sked",
           "description": "Speculation continues to swirl around the identity of Celtic’s next manager following the departure of Ange Postecoglou to Tottenham Hotspur.",
@@ -274,16 +294,6 @@
           "wordCount": 3704,
           "title": "Celtic reaction: Ange Postecoglou yesterday's man, Joe Hart joins elite club, no awkward Hibs reunion",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjJmM2QzZmU4LTJkYWQtNGE4Zi04YzY5LTk0Yzk3YzNmZmM5YzpmYjU4OTA4OC04Y2JmLTQ2YzUtODIxMC1lZDY0YjZhN2I2NTE=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4168429",
-          "author": "Alan Pattullo",
-          "description": "Pointing out that the key to Scotland’s success against Norway might hinge on keeping Erling Haaland quiet is hardly earth-shattering tactical insight.",
-          "link": "https://www.scotsman.com/sport/football/steve-clarke-discusses-strikers-rory-wilson-ben-doak-it-would-be-nice-to-get-one-or-two-more-for-scotland-4168429",
-          "publishedOn": "2023-06-03T21:30:00.000Z",
-          "wordCount": 3859,
-          "title": "Steve Clarke discusses strikers, Rory Wilson, Ben Doak - 'it would be nice to get one or two more for Scotland'",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmJlMTFmM2QzLWM0ZTYtNDhhYS1hMGY3LTEwZmE1NDlhN2E3YTo2OTgxNjBkMS00NTQwLTQwNzQtOGU0Ni02NGRmNTU1YmE5ZDY=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
         }
       ]
     },
@@ -298,6 +308,26 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "42be40c49c4534a47a04d8751a0b9bd8",
+          "author": null,
+          "description": "The 50-year-old has never worked in the UK before but is well known for his attractive style of football.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23575600.pascal-jansen-celtic-alkmaar-boss-become-shock-contender/?ref=rss",
+          "publishedOn": "2023-06-08T09:35:01.000Z",
+          "wordCount": 8626,
+          "title": "Pascal Jansen to Celtic as Alkmaar boss become 'shock contender'",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16865825/?type=og-image"
+        },
+        {
+          "id": "1c37dadd5225e3e129df096d73d0649a",
+          "author": null,
+          "description": "The 60-year-old guided the Hammers to Europa Conference League glory last night, as they defeated Fiorentina 2-1 in Prague.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23575466.david-moyes-celtic-chances-dismissed-ally-mccoist/?ref=rss",
+          "publishedOn": "2023-06-08T09:03:17.000Z",
+          "wordCount": 9656,
+          "title": "David Moyes' Celtic chances dismissed by Ally McCoist",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16865670/?type=og-image"
+        },
         {
           "id": "a6fdb85fe7ecc7b1c66143b1cfa8f352",
           "author": null,
@@ -1087,36 +1117,6 @@
           "wordCount": 8935,
           "title": "Ange Postecoglou in emotional tribute to Celtic fans after 'ridicule'",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16850973/?type=og-image"
-        },
-        {
-          "id": "27bd46f4c9596e737eb9350072270339",
-          "author": null,
-          "description": "ANGE Postecoglou last night refused to commit his future to Celtic after leading the Parkhead club to a world record eighth domestic treble.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23566053.ange-postecoglou-refuses-commit-future-celtic-treble/?ref=rss",
-          "publishedOn": "2023-06-03T21:38:00.000Z",
-          "wordCount": 9729,
-          "title": "Ange Postecoglou refuses to commit future to Celtic after doing treble",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16850968/?type=og-image"
-        },
-        {
-          "id": "6cb69ec6a0bce21d112a44363f6b5260",
-          "author": null,
-          "description": "Carl Starfelt revealed the manager's dressing room message after clinching the treble at Hampden.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23566043.ange-told-celtic-players-full-time-amid-tottenham-uncertainty/?ref=rss",
-          "publishedOn": "2023-06-03T21:30:00.000Z",
-          "wordCount": 8647,
-          "title": "What Ange told Celtic players at full time amid Tottenham uncertainty",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16850954/?type=og-image"
-        },
-        {
-          "id": "96ee75779a560044547c1bd521514232",
-          "author": null,
-          "description": "Pictures of Celtic fans celebrating the treble with Ange Postecoglou and the players in Glasgow's Parkhead.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23566049.pictures-celtic-fans-celebrating-treble-parkhead/?ref=rss",
-          "publishedOn": "2023-06-03T21:25:36.000Z",
-          "wordCount": 9389,
-          "title": "Pictures of Celtic fans celebrating treble at Parkhead",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16850970/?type=og-image"
         }
       ]
     }

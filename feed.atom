@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-08T09:16:23.053Z</updated>
+    <updated>2023-06-08T12:32:47.182Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic next manager: Highly-rated Dutch coach 'added to list' of candidates by Parkhead board]]></title>
+        <id>4174505</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/celtic-next-manager-highly-rated-dutch-coach-added-to-list-of-candidates-by-parkhead-board-4174505"/>
+        <updated>2023-06-08T11:29:29.000Z</updated>
+        <summary type="html"><![CDATA[Pascal Jansen is the latest manager to be linked with the Celtic job following the departure of Ange Postecoglou to Tottenham.]]></summary>
+        <author>
+            <name>Matthew Elder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When the transfer window opens for Scottish Premiership clubs, when it closes, the 10 deals done so far]]></title>
+        <id>4174376</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/when-the-transfer-window-opens-for-scottish-premiership-clubs-when-it-closes-the-10-deals-done-so-far-4174376"/>
+        <updated>2023-06-08T10:41:01.000Z</updated>
+        <summary type="html"><![CDATA[Now the season has finished for all 12 Scottish Premiership clubs, focus turns to pre-season, preparation and next season which means tweaking the squad, players coming and going.]]></summary>
+        <author>
+            <name>Joel Sked</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pascal Jansen to Celtic as Alkmaar boss become 'shock contender']]></title>
+        <id>42be40c49c4534a47a04d8751a0b9bd8</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23575600.pascal-jansen-celtic-alkmaar-boss-become-shock-contender/?ref=rss"/>
+        <updated>2023-06-08T09:35:01.000Z</updated>
+        <summary type="html"><![CDATA[The 50-year-old has never worked in the UK before but is well known for his attractive style of football.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[David Moyes' Celtic chances dismissed by Ally McCoist]]></title>
+        <id>1c37dadd5225e3e129df096d73d0649a</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23575466.david-moyes-celtic-chances-dismissed-ally-mccoist/?ref=rss"/>
+        <updated>2023-06-08T09:03:17.000Z</updated>
+        <summary type="html"><![CDATA[The 60-year-old guided the Hammers to Europa Conference League glory last night, as they defeated Fiorentina 2-1 in Prague.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Next Celtic manager: Odds-on favourite, 'Massive' hint at Postecoglou replacement, ex-Spain star linked]]></title>
         <id>4173975</id>
@@ -1062,46 +1102,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23566056.ange-postecoglou-emotional-tribute-celtic-fans-ridicule/?ref=rss"/>
         <updated>2023-06-04T06:00:00.000Z</updated>
         <summary type="html"><![CDATA[ANGE Postecoglou last night paid an emotional tribute to the supporters who backed him when his appointment as Celtic manager was ridiculed after leading the Parkhead club to a historic eighth treble.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ange Postecoglou refuses to commit future to Celtic after doing treble]]></title>
-        <id>27bd46f4c9596e737eb9350072270339</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23566053.ange-postecoglou-refuses-commit-future-celtic-treble/?ref=rss"/>
-        <updated>2023-06-03T21:38:00.000Z</updated>
-        <summary type="html"><![CDATA[ANGE Postecoglou last night refused to commit his future to Celtic after leading the Parkhead club to a world record eighth domestic treble.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steve Clarke discusses strikers, Rory Wilson, Ben Doak - 'it would be nice to get one or two more for Scotland']]></title>
-        <id>4168429</id>
-        <link href="https://www.scotsman.com/sport/football/steve-clarke-discusses-strikers-rory-wilson-ben-doak-it-would-be-nice-to-get-one-or-two-more-for-scotland-4168429"/>
-        <updated>2023-06-03T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Pointing out that the key to Scotland’s success against Norway might hinge on keeping Erling Haaland quiet is hardly earth-shattering tactical insight.]]></summary>
-        <author>
-            <name>Alan Pattullo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Ange told Celtic players at full time amid Tottenham uncertainty]]></title>
-        <id>6cb69ec6a0bce21d112a44363f6b5260</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23566043.ange-told-celtic-players-full-time-amid-tottenham-uncertainty/?ref=rss"/>
-        <updated>2023-06-03T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Carl Starfelt revealed the manager's dressing room message after clinching the treble at Hampden.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pictures of Celtic fans celebrating treble at Parkhead]]></title>
-        <id>96ee75779a560044547c1bd521514232</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23566049.pictures-celtic-fans-celebrating-treble-parkhead/?ref=rss"/>
-        <updated>2023-06-03T21:25:36.000Z</updated>
-        <summary type="html"><![CDATA[Pictures of Celtic fans celebrating the treble with Ange Postecoglou and the players in Glasgow's Parkhead.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
