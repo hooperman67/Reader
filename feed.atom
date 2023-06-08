@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-08T12:32:47.182Z</updated>
+    <updated>2023-06-08T15:17:21.449Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic star Kyogo 'actually quite dirty as a player']]></title>
+        <id>6f0b51758ddb8c75dd24d5cca72cf889</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23576662.celtic-star-kyogo-actually-quite-dirty-player/?ref=rss"/>
+        <updated>2023-06-08T13:24:05.000Z</updated>
+        <summary type="html"><![CDATA[Former West Brom defender Jack Fitzwater is expected to return south of the border after allowing his contract to run down at Livingston.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iraola rumours gather steam as Celtic links continue]]></title>
+        <id>cf04ed5b9761ebffb774bad54a011d0d</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23576635.iraola-rumours-gather-steam-celtic-clinks-continue/?ref=rss"/>
+        <updated>2023-06-08T13:17:57.000Z</updated>
+        <summary type="html"><![CDATA[Following manager Ange Postecoglou’s departure from Celtic Park there has been a whirlwind of speculation as to who will replace him.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic next manager: Highly-rated Dutch coach 'added to list' of candidates by Parkhead board]]></title>
         <id>4174505</id>
