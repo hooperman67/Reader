@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-08T15:17:21.449Z</updated>
+    <updated>2023-06-08T18:20:24.632Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ange Postecoglou sent Tottenham sacking warning by Tim Sherwood]]></title>
+        <id>03cd393b469f39ac7c884a9001cc298d</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23577659.ange-postecoglou-sent-tottenham-sacking-warning-tim-sherwood/?ref=rss"/>
+        <updated>2023-06-08T17:34:25.000Z</updated>
+        <summary type="html"><![CDATA[Tim Sherwood has wished Ange Postecoglou well in his new role at Tottenham, while warning that success must be brought instantly.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic set for coaching shake up as Steven Hammell to be appointment]]></title>
+        <id>65bcc907e135b86cac1539eaa9360c81</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23577517.celtic-set-coaching-shake-steven-hammell-appointment/?ref=rss"/>
+        <updated>2023-06-08T16:22:54.000Z</updated>
+        <summary type="html"><![CDATA[Celtic are set to appoint Steven Hammell as head of coaching in a shake-up to the club's current set-up, according to reports.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic manager latest as Brendan Rodgers derailed by Ange Postecoglou]]></title>
+        <id>34a39171e729f569fcfa961b0a76abca</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23577156.celtic-manager-latest-brendan-rodgers-derailed-ange-postecoglou/?ref=rss"/>
+        <updated>2023-06-08T14:56:42.000Z</updated>
+        <summary type="html"><![CDATA[Brendan Rodgers could be derailed by Ange Postecoglou if he was to be appointed Celtic manager, according to reports.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic star Kyogo 'actually quite dirty as a player']]></title>
         <id>6f0b51758ddb8c75dd24d5cca72cf889</id>
@@ -1114,16 +1144,6 @@
         <summary type="html"><![CDATA[Three morning-after observations from the Scottish Cup final as Celtic secured a world record eighth domestic treble with a 3-1 victory over Inverness at Hampden…]]></summary>
         <author>
             <name>Moira Gordon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ange Postecoglou in emotional tribute to Celtic fans after 'ridicule']]></title>
-        <id>1560d13da698a25c40e669dc94ecd4ed</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23566056.ange-postecoglou-emotional-tribute-celtic-fans-ridicule/?ref=rss"/>
-        <updated>2023-06-04T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ANGE Postecoglou last night paid an emotional tribute to the supporters who backed him when his appointment as Celtic manager was ridiculed after leading the Parkhead club to a historic eighth treble.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>

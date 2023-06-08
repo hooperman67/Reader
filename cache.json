@@ -309,6 +309,36 @@
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
         {
+          "id": "03cd393b469f39ac7c884a9001cc298d",
+          "author": null,
+          "description": "Tim Sherwood has wished Ange Postecoglou well in his new role at Tottenham, while warning that success must be brought instantly.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23577659.ange-postecoglou-sent-tottenham-sacking-warning-tim-sherwood/?ref=rss",
+          "publishedOn": "2023-06-08T17:34:25.000Z",
+          "wordCount": 8668,
+          "title": "Ange Postecoglou sent Tottenham sacking warning by Tim Sherwood",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16855122/?type=og-image"
+        },
+        {
+          "id": "65bcc907e135b86cac1539eaa9360c81",
+          "author": null,
+          "description": "Celtic are set to appoint Steven Hammell as head of coaching in a shake-up to the club's current set-up, according to reports.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23577517.celtic-set-coaching-shake-steven-hammell-appointment/?ref=rss",
+          "publishedOn": "2023-06-08T16:22:54.000Z",
+          "wordCount": 9682,
+          "title": "Celtic set for coaching shake up as Steven Hammell to be appointment",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16868847/?type=og-image"
+        },
+        {
+          "id": "34a39171e729f569fcfa961b0a76abca",
+          "author": null,
+          "description": "Brendan Rodgers could be derailed by Ange Postecoglou if he was to be appointed Celtic manager, according to reports.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23577156.celtic-manager-latest-brendan-rodgers-derailed-ange-postecoglou/?ref=rss",
+          "publishedOn": "2023-06-08T14:56:42.000Z",
+          "wordCount": 8653,
+          "title": "Celtic manager latest as Brendan Rodgers derailed by Ange Postecoglou",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16868278/?type=og-image"
+        },
+        {
           "id": "6f0b51758ddb8c75dd24d5cca72cf889",
           "author": null,
           "description": "Former West Brom defender Jack Fitzwater is expected to return south of the border after allowing his contract to run down at Livingston.",
@@ -1127,16 +1157,6 @@
           "wordCount": 9654,
           "title": "James Forrest closes in on all-time record with Celtic trophy haul",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16851225/?type=og-image"
-        },
-        {
-          "id": "1560d13da698a25c40e669dc94ecd4ed",
-          "author": null,
-          "description": "ANGE Postecoglou last night paid an emotional tribute to the supporters who backed him when his appointment as Celtic manager was ridiculed after leading the Parkhead club to a historic eighth treble.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23566056.ange-postecoglou-emotional-tribute-celtic-fans-ridicule/?ref=rss",
-          "publishedOn": "2023-06-04T06:00:00.000Z",
-          "wordCount": 8935,
-          "title": "Ange Postecoglou in emotional tribute to Celtic fans after 'ridicule'",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16850973/?type=og-image"
         }
       ]
     }
