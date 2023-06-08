@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-08T03:20:52.054Z</updated>
+    <updated>2023-06-08T06:21:55.108Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Enzo Maresca in Celtic parallel to Ange as insider lifts lid on Parma]]></title>
+        <id>b4aa68c9108b2397d5a1b83e8cfd51f9</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23575009.enzo-maresca-celtic-parallel-ange-insider-lifts-lid-parma/?ref=rss"/>
+        <updated>2023-06-08T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Celtic managerial target had a strikingly brief spell at the Serie B side before returning to Manchester City.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic new manager timeline as club 'won't rush decision']]></title>
         <id>afe4f2a4b01df72e6009c83ac126355a</id>
@@ -1202,26 +1212,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23565975.celtic-player-ratings-parkhead-men-complete-world-record-treble/?ref=rss"/>
         <updated>2023-06-03T18:24:17.000Z</updated>
         <summary type="html"><![CDATA[Joe Hart 7]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ange Postecoglou's spiky Celtic pre-match Spurs answer]]></title>
-        <id>823319a7d65b8e723cf81818a4bd5641</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23565947.ange-postecoglous-spiky-celtic-pre-match-spurs-answer/?ref=rss"/>
-        <updated>2023-06-03T17:12:48.000Z</updated>
-        <summary type="html"><![CDATA[The 57-year-old portrayed a relaxed figure as he spoke to the media prior to this evening's cup final showpiece against Inverness at Hampden.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ange Postecoglou in dry Celtic to Spurs pre-match answer]]></title>
-        <id>823319a7d65b8e723cf81818a4bd5641</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23565947.ange-postecoglou-dry-celtic-spurs-pre-match-answer/?ref=rss"/>
-        <updated>2023-06-03T17:12:48.000Z</updated>
-        <summary type="html"><![CDATA[The 57-year-old portrayed a relaxed figure as he spoke to the media prior to this evening's cup final showpiece against Inverness at Hampden.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>

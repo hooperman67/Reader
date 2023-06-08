@@ -339,6 +339,16 @@
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
         {
+          "id": "b4aa68c9108b2397d5a1b83e8cfd51f9",
+          "author": null,
+          "description": "The Celtic managerial target had a strikingly brief spell at the Serie B side before returning to Manchester City.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23575009.enzo-maresca-celtic-parallel-ange-insider-lifts-lid-parma/?ref=rss",
+          "publishedOn": "2023-06-08T05:00:00.000Z",
+          "wordCount": 9573,
+          "title": "Enzo Maresca in Celtic parallel to Ange as insider lifts lid on Parma",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16865154/?type=og-image"
+        },
+        {
           "id": "afe4f2a4b01df72e6009c83ac126355a",
           "author": null,
           "description": "Dermot Desmond will reportedly take his time over the next appointment with Celtic fans set for wait of weeks.",
@@ -1217,26 +1227,6 @@
           "wordCount": 8716,
           "title": "Celtic player ratings as Parkhead men complete world record treble",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16850743/?type=og-image"
-        },
-        {
-          "id": "823319a7d65b8e723cf81818a4bd5641",
-          "author": null,
-          "description": "The 57-year-old portrayed a relaxed figure as he spoke to the media prior to this evening's cup final showpiece against Inverness at Hampden.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23565947.ange-postecoglous-spiky-celtic-pre-match-spurs-answer/?ref=rss",
-          "publishedOn": "2023-06-03T17:12:48.000Z",
-          "wordCount": 9643,
-          "title": "Ange Postecoglou's spiky Celtic pre-match Spurs answer",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16850674/?type=og-image"
-        },
-        {
-          "id": "823319a7d65b8e723cf81818a4bd5641",
-          "author": null,
-          "description": "The 57-year-old portrayed a relaxed figure as he spoke to the media prior to this evening's cup final showpiece against Inverness at Hampden.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23565947.ange-postecoglou-dry-celtic-spurs-pre-match-answer/?ref=rss",
-          "publishedOn": "2023-06-03T17:12:48.000Z",
-          "wordCount": 9643,
-          "title": "Ange Postecoglou in dry Celtic to Spurs pre-match answer",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16850674/?type=og-image"
         }
       ]
     }
