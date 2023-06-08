@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-08T18:20:24.632Z</updated>
+    <updated>2023-06-08T21:15:49.982Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rangers in line for lucrative Club World Cup spot - why Celtic will miss out]]></title>
+        <id>4175440</id>
+        <link href="https://www.scotsman.com/sport/football/rangers/rangers-in-line-for-lucrative-club-world-cup-spot-why-celtic-will-miss-out-4175440"/>
+        <updated>2023-06-08T19:05:11.000Z</updated>
+        <summary type="html"><![CDATA[Rangers could be in line to receive a lucrative place in a revamped Club World Cup alongside some of the world's biggest clubs in 2025.]]></summary>
+        <author>
+            <name>Matthew Elder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic manager latest as Enzo Maresca given green light by Man City]]></title>
+        <id>1223b7a2260d57c861cfbb8123ecce48</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23577713.celtic-manager-latest-enzo-maresca-given-green-light-man-city/?ref=rss"/>
+        <updated>2023-06-08T18:48:25.000Z</updated>
+        <summary type="html"><![CDATA[Enzo Maresca has been given the green light by Manchester City to join Celtic as manager, if he is given the opportunity, according to reports.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ange Postecoglou sent Tottenham sacking warning by Tim Sherwood]]></title>
         <id>03cd393b469f39ac7c884a9001cc298d</id>

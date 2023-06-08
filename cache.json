@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4175440",
+          "author": "Matthew Elder",
+          "description": "Rangers could be in line to receive a lucrative place in a revamped Club World Cup alongside some of the world's biggest clubs in 2025.",
+          "link": "https://www.scotsman.com/sport/football/rangers/rangers-in-line-for-lucrative-club-world-cup-spot-why-celtic-will-miss-out-4175440",
+          "publishedOn": "2023-06-08T19:05:11.000Z",
+          "wordCount": null,
+          "title": "Rangers in line for lucrative Club World Cup spot - why Celtic will miss out",
+          "imageUrl": null
+        },
+        {
           "id": "4174505",
           "author": "Matthew Elder",
           "description": "Pascal Jansen is the latest manager to be linked with the Celtic job following the departure of Ange Postecoglou to Tottenham.",
@@ -308,6 +318,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "1223b7a2260d57c861cfbb8123ecce48",
+          "author": null,
+          "description": "Enzo Maresca has been given the green light by Manchester City to join Celtic as manager, if he is given the opportunity, according to reports.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23577713.celtic-manager-latest-enzo-maresca-given-green-light-man-city/?ref=rss",
+          "publishedOn": "2023-06-08T18:48:25.000Z",
+          "wordCount": 9664,
+          "title": "Celtic manager latest as Enzo Maresca given green light by Man City",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16858450/?type=og-image"
+        },
         {
           "id": "03cd393b469f39ac7c884a9001cc298d",
           "author": null,
