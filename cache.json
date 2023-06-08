@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4173858",
+          "author": "Alan Pattullo",
+          "description": "David Moyes led West Ham United to European glory and in the process became only the seventh Scottish manager to lift a European trophy.",
+          "link": "https://www.scotsman.com/sport/football/david-moyes-leads-west-ham-to-european-glory-amid-celtic-links-to-join-elite-band-of-scottish-managers-4173858",
+          "publishedOn": "2023-06-07T21:33:46.000Z",
+          "wordCount": 2878,
+          "title": "David Moyes leads West Ham to European glory amid Celtic links to join elite band of Scottish managers",
+          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjExOGI5NmY5LTZiNDctNDc1Yi1iNGFmLWE5MDNjMDgxZTU1YzpmOWM3YTMzZC05NDk5LTRlZGQtYmIyZi1jNjFmZjFhYzhlNTI=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        },
+        {
           "id": "4173662",
           "author": "Joel Sked",
           "description": "Celtic have prioritised finding the best candidate to replace Ange Postecoglou ahead of a swift appointment following the Australian's departure to Tottenham Hotspur.",
@@ -314,16 +324,6 @@
           "wordCount": 3949,
           "title": "Scottish Cup player ratings: One Celtic standout, their weak link, Inverness save best for last",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmQzN2RmNjZjLWM0MzEtNDlkYi1iYmEyLWIzY2ZiMWY0NTU0Yjo0NGM0MmY0YS1hMjA0LTQ0MGEtOGFhYS1iYjViZjIxMGI4YjE=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4168486",
-          "author": "Ross McLeish",
-          "description": "Celtic goalkeeper Vasilis Barkas is set to be released from his contract a year early, according to reports in Greece.",
-          "link": "https://www.scotsman.com/sport/football/celtic/celtic-set-to-let-flop-leave-a-year-early-in-bid-to-make-significant-saving-on-wages-4168486",
-          "publishedOn": "2023-06-03T10:05:17.000Z",
-          "wordCount": 1942,
-          "title": "Celtic set to let flop leave a year early in bid to 'make significant saving on wages'",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjI4MjBmNGFhLTljZWYtNDViYi1iYjA5LWFjM2RjODNiZDg1ZToyMjJhMTA4Yi0wMTBiLTRmNDctOTQ3Zi1jODUzZGE3MDVmMjc=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
         }
       ]
     },
@@ -338,6 +338,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "afe4f2a4b01df72e6009c83ac126355a",
+          "author": null,
+          "description": "Dermot Desmond will reportedly take his time over the next appointment with Celtic fans set for wait of weeks.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23574994.celtic-next-manager-timeline-club-wont-rush-decision/?ref=rss",
+          "publishedOn": "2023-06-07T21:50:41.000Z",
+          "wordCount": 8516,
+          "title": "Celtic new manager timeline as club 'won't rush decision'",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16865101/?type=og-image"
+        },
         {
           "id": "dca8115dd9aa8c14dc8b3613e7f444db",
           "author": null,
@@ -1237,26 +1247,6 @@
           "wordCount": 8292,
           "title": "Celtic team news for Inverness Scottish Cup final revealed",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16848760/?type=og-image"
-        },
-        {
-          "id": "f8bb6730a7c35f46111afde11d20c430",
-          "author": null,
-          "description": "Vasilis Barkas will reportedly be a free agent in the summer after agreeing a settlement to leave Celtic.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23565667.forgotten-celtic-ace-set-exit-contract-settlement/?ref=rss",
-          "publishedOn": "2023-06-03T11:30:42.000Z",
-          "wordCount": 8380,
-          "title": "Forgotten Celtic ace 'set for exit after contract settlement'",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16850000/?type=og-image"
-        },
-        {
-          "id": "5d0018d222a9ecf85a3c6557de121cbe",
-          "author": null,
-          "description": "Celtic and Inverness will go head to head in the final of the Scottish Cup at Hampden this weekend.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23554738.celtic-vs-inverness-tv-channel-live-stream-kick-off/?ref=rss",
-          "publishedOn": "2023-06-03T11:30:00.000Z",
-          "wordCount": 9697,
-          "title": "Celtic vs Inverness: TV channel, live stream & kick-off",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16832335/?type=og-image"
         }
       ]
     }

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-07T21:14:31.953Z</updated>
+    <updated>2023-06-08T01:49:29.120Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic new manager timeline as club 'won't rush decision']]></title>
+        <id>afe4f2a4b01df72e6009c83ac126355a</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23574994.celtic-next-manager-timeline-club-wont-rush-decision/?ref=rss"/>
+        <updated>2023-06-07T21:50:41.000Z</updated>
+        <summary type="html"><![CDATA[Dermot Desmond will reportedly take his time over the next appointment with Celtic fans set for wait of weeks.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[David Moyes leads West Ham to European glory amid Celtic links to join elite band of Scottish managers]]></title>
+        <id>4173858</id>
+        <link href="https://www.scotsman.com/sport/football/david-moyes-leads-west-ham-to-european-glory-amid-celtic-links-to-join-elite-band-of-scottish-managers-4173858"/>
+        <updated>2023-06-07T21:33:46.000Z</updated>
+        <summary type="html"><![CDATA[David Moyes led West Ham United to European glory and in the process became only the seventh Scottish manager to lift a European trophy.]]></summary>
+        <author>
+            <name>Alan Pattullo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jota in emotional Ange Postecoglou Celtic farewell]]></title>
         <id>dca8115dd9aa8c14dc8b3613e7f444db</id>
@@ -1214,36 +1234,6 @@
         <summary type="html"><![CDATA[The Hoops are chasing their eighth treble in their history this evening at the national stadium.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Forgotten Celtic ace 'set for exit after contract settlement']]></title>
-        <id>f8bb6730a7c35f46111afde11d20c430</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23565667.forgotten-celtic-ace-set-exit-contract-settlement/?ref=rss"/>
-        <updated>2023-06-03T11:30:42.000Z</updated>
-        <summary type="html"><![CDATA[Vasilis Barkas will reportedly be a free agent in the summer after agreeing a settlement to leave Celtic.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic vs Inverness: TV channel, live stream & kick-off]]></title>
-        <id>5d0018d222a9ecf85a3c6557de121cbe</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23554738.celtic-vs-inverness-tv-channel-live-stream-kick-off/?ref=rss"/>
-        <updated>2023-06-03T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Celtic and Inverness will go head to head in the final of the Scottish Cup at Hampden this weekend.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic set to let flop leave a year early in bid to 'make significant saving on wages']]></title>
-        <id>4168486</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/celtic-set-to-let-flop-leave-a-year-early-in-bid-to-make-significant-saving-on-wages-4168486"/>
-        <updated>2023-06-03T10:05:17.000Z</updated>
-        <summary type="html"><![CDATA[Celtic goalkeeper Vasilis Barkas is set to be released from his contract a year early, according to reports in Greece.]]></summary>
-        <author>
-            <name>Ross McLeish</name>
         </author>
     </entry>
 </feed>
