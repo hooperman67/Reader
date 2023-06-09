@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-09T15:17:06.653Z</updated>
+    <updated>2023-06-09T18:20:45.505Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Stevie Hammell appointed Celtic head of academy coaching]]></title>
+        <id>3402d8e661e70302556a730f64f4d0bd</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23579878.stevie-hammell-appointed-celtic-head-academy-coaching/?ref=rss"/>
+        <updated>2023-06-09T15:14:51.000Z</updated>
+        <summary type="html"><![CDATA[Stevie Hammell has been appointed in the new position of head of academy coaching at Celtic.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ange Postecoglou delivers first Tottenham address as ex-Celtic boss promises 'team to be excited by']]></title>
+        <id>4177051</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/ange-postecoglou-delivers-first-tottenham-address-as-ex-celtic-boss-promises-team-to-be-excited-by-4177051"/>
+        <updated>2023-06-09T14:42:45.000Z</updated>
+        <summary type="html"><![CDATA[Ange Postecoglou has promised “a team to get excited by” as he strives for success after being appointed as Tottenham head coach.]]></summary>
+        <author>
+            <name>Oliver Anderson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ange Postecoglou first Spurs interview since leaving Celtic]]></title>
         <id>d0554bb97f2adbda802f9c3c36c0d3b1</id>
@@ -1124,26 +1144,6 @@
         <summary type="html"><![CDATA[The ex-Celtic star is said to be moving to the broadcast giants in time for the start of the 2023/24 campaign.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic treble winner reveals plans for own big day with just four days rest before the boots go back on]]></title>
-        <id>4168965</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/celtic-treble-winner-reveals-plans-for-own-big-day-with-just-four-days-rest-before-the-boots-go-back-on-4168965"/>
-        <updated>2023-06-05T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Greg Taylor admits he will have little time to dwell on Celtic's historic treble success – or his own upcoming nuptials – ahead of another big month with Scotland.]]></summary>
-        <author>
-            <name>Matthew Elder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Ange Postecoglou told Celtic after Scottish Cup final as 'decision made' on Tottenham interest]]></title>
-        <id>4169047</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/what-ange-postecoglou-told-celtic-after-scottish-cup-final-as-decision-made-on-tottenham-interest-4169047"/>
-        <updated>2023-06-05T05:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Ange Postecoglou looks set to depart Celtic amid reports that he informed Parkhead bosses of his desire to become the next manager of Tottenham after Saturday's Scottish Cup win over Inverness.]]></summary>
-        <author>
-            <name>Matthew Elder</name>
         </author>
     </entry>
 </feed>

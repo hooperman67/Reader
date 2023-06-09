@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4177051",
+          "author": "Oliver Anderson",
+          "description": "Ange Postecoglou has promised “a team to get excited by” as he strives for success after being appointed as Tottenham head coach.",
+          "link": "https://www.scotsman.com/sport/football/celtic/ange-postecoglou-delivers-first-tottenham-address-as-ex-celtic-boss-promises-team-to-be-excited-by-4177051",
+          "publishedOn": "2023-06-09T14:42:45.000Z",
+          "wordCount": null,
+          "title": "Ange Postecoglou delivers first Tottenham address as ex-Celtic boss promises 'team to be excited by'",
+          "imageUrl": null
+        },
+        {
           "id": "4175133",
           "author": "Andrew Smith",
           "description": "Scottish FA chief executive Ian Maxwell has defended VAR ahead of a summit with Premiership clubs by insisting it prevented a total of 27 incorrect decisions last season.",
@@ -284,26 +294,6 @@
           "wordCount": 2274,
           "title": "Brendan Rodgers favourite for shock Celtic return as familiar names appear as Ange Postecoglou replacements",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmI1ZjRlNmNhLWZlYTctNGE3Yi1iNDI4LTA2NjM4YTg0NTY4ZDozYzk1ZmY2ZS03ODc5LTQxODctOGM0Zi0wZmViZmUxY2FiMDk=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4168965",
-          "author": "Matthew Elder",
-          "description": "Greg Taylor admits he will have little time to dwell on Celtic's historic treble success – or his own upcoming nuptials – ahead of another big month with Scotland.",
-          "link": "https://www.scotsman.com/sport/football/celtic/celtic-treble-winner-reveals-plans-for-own-big-day-with-just-four-days-rest-before-the-boots-go-back-on-4168965",
-          "publishedOn": "2023-06-05T06:00:00.000Z",
-          "wordCount": 2309,
-          "title": "Celtic treble winner reveals plans for own big day with just four days rest before the boots go back on",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjFlNWMzYTAwLTg1MGItNDBkZS1hMTk1LTNmNTAyOGMwYmI1MDo5MDJiYWRjYy1iNWE5LTQ1NWMtODQzMS0wNDZiZWJjODg0MzM=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4169047",
-          "author": "Matthew Elder",
-          "description": "Ange Postecoglou looks set to depart Celtic amid reports that he informed Parkhead bosses of his desire to become the next manager of Tottenham after Saturday's Scottish Cup win over Inverness.",
-          "link": "https://www.scotsman.com/sport/football/celtic/what-ange-postecoglou-told-celtic-after-scottish-cup-final-as-decision-made-on-tottenham-interest-4169047",
-          "publishedOn": "2023-06-05T05:30:00.000Z",
-          "wordCount": 2249,
-          "title": "What Ange Postecoglou told Celtic after Scottish Cup final as 'decision made' on Tottenham interest",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjI1NTgzZmViLTc2ZGYtNDBkOS04MTk1LWEwMGEzZTc4NjEwMzpkZGM0OTM2Ni04ZTgxLTQ0MzEtOTQ5YS03ZTA2OWMxYTdkMTU=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
         }
       ]
     },
@@ -318,6 +308,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "3402d8e661e70302556a730f64f4d0bd",
+          "author": null,
+          "description": "Stevie Hammell has been appointed in the new position of head of academy coaching at Celtic.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23579878.stevie-hammell-appointed-celtic-head-academy-coaching/?ref=rss",
+          "publishedOn": "2023-06-09T15:14:51.000Z",
+          "wordCount": 8434,
+          "title": "Stevie Hammell appointed Celtic head of academy coaching",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16872560/?type=og-image"
+        },
         {
           "id": "d0554bb97f2adbda802f9c3c36c0d3b1",
           "author": null,
