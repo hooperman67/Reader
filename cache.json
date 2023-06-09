@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4175133",
+          "author": "Andrew Smith",
+          "description": "Scottish FA chief executive Ian Maxwell has defended VAR ahead of a summit with Premiership clubs by insisting it prevented a total of 27 incorrect decisions last season.",
+          "link": "https://www.scotsman.com/sport/football/sfa-chief-defends-var-ahead-of-premiership-summit-as-ian-maxwell-points-to-27-times-we-got-it-right-4175133",
+          "publishedOn": "2023-06-09T06:00:00.000Z",
+          "wordCount": null,
+          "title": "SFA chief defends VAR ahead of Premiership summit as Ian Maxwell points to '27 times we got it right'",
+          "imageUrl": null
+        },
+        {
           "id": "4175480",
           "author": "Andrew Smith",
           "description": "Former Celtic title winner Mark Wilson says there is one name being linked with the club’s vacant managerial post he would “take in a heartbeat”.",
@@ -328,6 +338,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "c6f3852da72bd2ae4935d1ef623714c4",
+          "author": null,
+          "description": "The former Celtic manager left the club abruptly in 2019 - but could there be a way back for him four years on?",
+          "link": "https://www.glasgowtimes.co.uk/sport/23577258.brendan-rodgers-celtic-redemption-trail-fans-thaw-ex-boss/?ref=rss",
+          "publishedOn": "2023-06-09T05:00:00.000Z",
+          "wordCount": 9297,
+          "title": "Brendan Rodgers on Celtic redemption trail as fans 'thaw' on ex boss",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16868484/?type=og-image"
+        },
         {
           "id": "793a59b44ed91ad71f512397611aa50a",
           "author": null,
@@ -1137,26 +1157,6 @@
           "wordCount": 8964,
           "title": "Danny Devine says Celtic star Kyogo doesn’t do much…until he does",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16851793/?type=og-image"
-        },
-        {
-          "id": "594c4a3fab6b0189e969d17bbc99ebe8",
-          "author": null,
-          "description": "Tottenham are set to confirm Ange Postecoglou as their new manager.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23566701.ange-postecoglou-set-named-tottenham-manager-deal-close/?ref=rss",
-          "publishedOn": "2023-06-04T16:42:18.000Z",
-          "wordCount": 8557,
-          "title": "Ange Postecoglou set to named Tottenham manager with deal 'close'",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16852063/?type=og-image"
-        },
-        {
-          "id": "5da59bd23cfc5fa4642e439689f9cec8",
-          "author": null,
-          "description": "Celtic clinched the domestic treble with a 3-1 Scottish Cup final win over Inverness Caledonian Thistle at Hampden Park.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23566687.10-celtic-treble-pictures-including-telling-ange-postecoglou-moment/?ref=rss",
-          "publishedOn": "2023-06-04T16:23:37.000Z",
-          "wordCount": 8322,
-          "title": "10 Celtic Treble pictures including telling Ange Postecoglou moment",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16852043/?type=og-image"
         }
       ]
     }
