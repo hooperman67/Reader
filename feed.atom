@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-08T21:15:49.982Z</updated>
+    <updated>2023-06-09T01:49:31.219Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic manager latest as AZ Alkmaar ready for Pascal Jansen fight]]></title>
+        <id>793a59b44ed91ad71f512397611aa50a</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23577794.celtic-manager-latest-az-alkmaar-ready-pascal-jansen-fight/?ref=rss"/>
+        <updated>2023-06-08T21:47:54.000Z</updated>
+        <summary type="html"><![CDATA[AZ Alkmaar are braced to do everything they can to keep manager Pascal Jansen at the club if Celtic launch a bid to bring him to Parkhead.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Calls for controversial next Celtic manager appointment – but former title winner would 'take him in a heartbeat']]></title>
+        <id>4175480</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/calls-for-controversial-next-celtic-manager-appointment-but-former-title-winner-would-take-him-in-a-heartbeat-4175480"/>
+        <updated>2023-06-08T21:37:43.000Z</updated>
+        <summary type="html"><![CDATA[Former Celtic title winner Mark Wilson says there is one name being linked with the club’s vacant managerial post he would “take in a heartbeat”.]]></summary>
+        <author>
+            <name>Andrew Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Not a one summer fix' - Rangers title chances played down by Ibrox legend despite Celtic upheaval]]></title>
+        <id>4175447</id>
+        <link href="https://www.scotsman.com/sport/football/rangers/not-a-one-summer-fix-rangers-title-chances-played-down-by-ibrox-legend-despite-celtic-upheaval-4175447"/>
+        <updated>2023-06-08T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Former Rangers striker Mark Hateley has played down suggestions the upheaval currently being experienced at rivals Celtic will enhance his old club’s title prospects.]]></summary>
+        <author>
+            <name>Andrew Smith</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rangers in line for lucrative Club World Cup spot - why Celtic will miss out]]></title>
         <id>4175440</id>
@@ -1114,56 +1144,6 @@
         <summary type="html"><![CDATA[Celtic clinched the domestic treble with a 3-1 Scottish Cup final win over Inverness Caledonian Thistle at Hampden Park.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic boss Ange Postecoglou reveals 'plans' amid Tottenham links]]></title>
-        <id>754f136bcde25b89c33e303daf994800</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23566524.celtic-boss-ange-postecoglou-reveals-plans-amid-tottenham-links/?ref=rss"/>
-        <updated>2023-06-04T13:42:29.000Z</updated>
-        <summary type="html"><![CDATA["]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Postecoglou's Celtic press conference in full amid Tottenham exit talk]]></title>
-        <id>1040379dbb72a5e2f827b63acb80506a</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23566336.postecoglous-celtic-press-conference-full-amid-tottenham-exit-talk/?ref=rss"/>
-        <updated>2023-06-04T10:54:52.000Z</updated>
-        <summary type="html"><![CDATA[Ange Postecoglou vowed to enjoy Celtic’s record-breaking treble for as long as he could before someone “drags” him away to focus on other issues as he continued to dodge questions over his future.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic, Rangers, Aberdeen, Hearts and Hibs in Europe - explained]]></title>
-        <id>7d93d2d966517286d0b87dd4ea3b0905</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23566266.celtic-rangers-aberdeen-hearts-hibs-europe---explained/?ref=rss"/>
-        <updated>2023-06-04T10:03:42.000Z</updated>
-        <summary type="html"><![CDATA[Celtic’s win over Inverness denied Caley Thistle a place in Europe.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[James Forrest closes in on all-time record with Celtic trophy haul]]></title>
-        <id>f32a21b59126ae4cb599a914c51d68c1</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23566238.james-forrest-closes-all-time-record-celtic-trophy-haul/?ref=rss"/>
-        <updated>2023-06-04T09:37:30.000Z</updated>
-        <summary type="html"><![CDATA[CELTIC stalwart James Forrest now has the same amount of winners' medals as Scott Brown and is the joint third most decorated Hoops player of all time.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic reaction: Ange Postecoglou yesterday's man, Joe Hart joins elite club, no awkward Hibs reunion]]></title>
-        <id>4168778</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/celtic-reaction-ange-postecoglou-yesterdays-man-joe-hart-joins-elite-club-no-awkward-hibs-reunion-4168778"/>
-        <updated>2023-06-04T09:34:10.000Z</updated>
-        <summary type="html"><![CDATA[Three morning-after observations from the Scottish Cup final as Celtic secured a world record eighth domestic treble with a 3-1 victory over Inverness at Hampden…]]></summary>
-        <author>
-            <name>Moira Gordon</name>
         </author>
     </entry>
 </feed>
