@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-09T09:16:18.135Z</updated>
+    <updated>2023-06-09T12:33:38.487Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic fans sweating after emotional Kyogo social media post]]></title>
+        <id>dda0bde7e9da72998495eea2b1137879</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23578987.celtic-fans-sweating-emotional-kyogo-social-media-post/?ref=rss"/>
+        <updated>2023-06-09T11:58:31.000Z</updated>
+        <summary type="html"><![CDATA[The Japanese star merely posted a message of congratulations to everyone involved with the club after the 2022/23 campaign.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Forgotten Celtic man at centre of summer transfer tussle]]></title>
         <id>30cc92e6bc591e4f2fcae9f74fabcd63</id>
@@ -1104,56 +1114,6 @@
         <summary type="html"><![CDATA[Ange Postecoglou looks set to depart Celtic amid reports that he informed Parkhead bosses of his desire to become the next manager of Tottenham after Saturday's Scottish Cup win over Inverness.]]></summary>
         <author>
             <name>Matthew Elder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Billy Dodds reveals Ange Postecoglou's 'dignified' words after final]]></title>
-        <id>b7ed70fe951882d8e5fbc1f0c6fc674c</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23566851.billy-dodds-reveals-ange-postecoglous-dignified-words-final/?ref=rss"/>
-        <updated>2023-06-04T21:37:00.000Z</updated>
-        <summary type="html"><![CDATA[Billy Dodds reveals Ange Postecoglou's 'dignified' touchline words after Celtic loss]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ange Postecoglou delivers Celtic 'parting gift' as Tottenham prepare to make their move]]></title>
-        <id>4168870</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/ange-postecoglou-delivers-celtic-parting-gift-as-tottenham-prepare-to-make-their-move-4168870"/>
-        <updated>2023-06-04T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Callum McGregor insists Celtic are strong enough to survive the loss of “super confident” Ange Postecoglou in the event of the manager leaving this summer.]]></summary>
-        <author>
-            <name>Alan Pattullo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic players are in the dark over Ange Postecoglou’s future]]></title>
-        <id>2414ed606206eec5d18a2ab23f5214ac</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23566435.celtic-players-dark-ange-postecoglous-future/?ref=rss"/>
-        <updated>2023-06-04T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[IT isn’t over, until it’s over, and Celtic captain Callum McGregor is desperately hoping that the passing of the Ange Postecoglou era at the club...]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pre-match nerves were a driving force for Celtic’s ‘history makers’]]></title>
-        <id>a18c66154c2f42009a3f784f6dd85ea0</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23566503.pre-match-nerves-driving-force-celtics-history-makers/?ref=rss"/>
-        <updated>2023-06-04T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[GREG TAYLOR says he was a nervous wreck as Celtic looked to avoid being on the wrong end of an almighty shock in the Scottish Cup Final...]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Danny Devine says Celtic star Kyogo doesn’t do much…until he does]]></title>
-        <id>81527279267d374af7f1d6e34a204553</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23566563.danny-devine-says-celtic-star-kyogo-doesnt-much/?ref=rss"/>
-        <updated>2023-06-04T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[DANNY DEVINE turned up at Hampden on Saturday braced to combat a masterclass in movement from Celtic hitman Kyogo Furuhashi...]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>
