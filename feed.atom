@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-09T06:22:05.696Z</updated>
+    <updated>2023-06-09T09:16:18.135Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Forgotten Celtic man at centre of summer transfer tussle]]></title>
+        <id>30cc92e6bc591e4f2fcae9f74fabcd63</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23578172.forgotten-celtic-man-centre-summer-transfer-tussle/?ref=rss"/>
+        <updated>2023-06-09T08:47:54.000Z</updated>
+        <summary type="html"><![CDATA[The Ivory Coast international spent the season on loan in Portugal with top flight club Arouca.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 3 jobs Ange Postecoglou rejected before Tottenham chance]]></title>
+        <id>0089a9add78adeded66b4687a22235c6</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23577887.3-jobs-ange-postecoglou-rejected-tottenham-chance/?ref=rss"/>
+        <updated>2023-06-09T06:55:10.000Z</updated>
+        <summary type="html"><![CDATA[The Australian signed a four-year deal with the North London club on Tuesday, a matter of days after he guided the Hoops to their eighth treble.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SFA chief defends VAR ahead of Premiership summit as Ian Maxwell points to '27 times we got it right']]></title>
         <id>4175133</id>
@@ -1134,16 +1154,6 @@
         <summary type="html"><![CDATA[DANNY DEVINE turned up at Hampden on Saturday braced to combat a masterclass in movement from Celtic hitman Kyogo Furuhashi...]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ange Postecoglou gestures cause a stir as Celtic treble celebrations shrouded in uncertainty]]></title>
-        <id>4168945</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/ange-postecoglou-gestures-cause-a-stir-as-celtic-treble-celebrations-shrouded-in-uncertainty-4168945"/>
-        <updated>2023-06-04T19:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Celtic’s season ripened to perfection beneath a strawberry moon on Saturday night on a historic night in the southside of Glasgow.]]></summary>
-        <author>
-            <name>Alan Pattullo</name>
         </author>
     </entry>
 </feed>
