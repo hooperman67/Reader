@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-09T12:33:38.487Z</updated>
+    <updated>2023-06-09T15:17:06.653Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ange Postecoglou first Spurs interview since leaving Celtic]]></title>
+        <id>d0554bb97f2adbda802f9c3c36c0d3b1</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23579434.ange-postecoglou-first-spurs-interview-since-leaving-celtic/?ref=rss"/>
+        <updated>2023-06-09T13:51:22.000Z</updated>
+        <summary type="html"><![CDATA[The 57-year-old joined Spurs on a four-year deal earlier this week, bringing his two year spell in Glasgow to an end.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[David Moyes Celtic latest amid doubts of West Ham future]]></title>
+        <id>48d8b1bf9c47c4ac4c40bc7ae5f34f53</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23579341.david-moyes-celtic-latest-amid-doubts-west-ham-future/?ref=rss"/>
+        <updated>2023-06-09T13:34:35.000Z</updated>
+        <summary type="html"><![CDATA[The 60-year-old has just guided the Hammers to Europa Conference League glory, as his side defeated Fiorentina on Wednesday night.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic next manager odds latest with Enzo Maresca evens]]></title>
+        <id>d62a202592df0ae36b17e9eb88520698</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23579112.celtic-next-manager-odds-latest-enzo-maresca-evens/?ref=rss"/>
+        <updated>2023-06-09T12:39:41.000Z</updated>
+        <summary type="html"><![CDATA[The Manchester City assistant has been widely touted for the vacant post at Parkhead.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic fans sweating after emotional Kyogo social media post]]></title>
         <id>dda0bde7e9da72998495eea2b1137879</id>
