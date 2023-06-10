@@ -224,16 +224,6 @@
           "wordCount": 2400,
           "title": "Ange Postecoglou: Celtic aim to land bumper windfall for Spurs move, Rodgers doubts as leading candidate emerges",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjFjZjMzZjkxLWZhNDUtNDFmYi04ZGRjLTk2YmEwMWZiNzE5ZjpmM2QyY2FlMS0wZTNiLTQ2MjgtODMwNS05MDk1NjBmZTcyNmU=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4170478",
-          "author": "Alan Pattullo",
-          "description": "Alastair Johnston has targeted Champions League improvement with Celtic as the club enter a period of uncertainty following the departure of manager Ange Postecoglou.",
-          "link": "https://www.scotsman.com/sport/football/celtic/i-feel-we-have-to-take-those-next-steps-defender-addresses-next-seasons-celtic-targets-after-whirlwind-4170478",
-          "publishedOn": "2023-06-05T21:30:00.000Z",
-          "wordCount": 2902,
-          "title": "\"I feel we have to take those next steps\" - defender addresses next season's Celtic targets after \"whirlwind\"",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjM2YWMxZTljLWYwODUtNDkwZS1hMDIwLTlmZGVjMGIyZmY2Mzo4Y2FhYzU0MC05NjUyLTQ0YjAtYWY1Ni1lNGMwNmMxZGQ2NjQ=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
         }
       ]
     },
@@ -248,6 +238,66 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "d21d5b7f88d50204b31b297f576384de",
+          "author": null,
+          "description": "A report states that Maresca is the leading candidate for the vacant job in Glasgow's east end.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23580921.enzo-maresca-celtic-latest-formal-approach-expected/?ref=rss",
+          "publishedOn": "2023-06-10T11:24:24.000Z",
+          "wordCount": 8576,
+          "title": "Enzo Maresca to Celtic latest as 'formal approach' expected",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16874215/?type=og-image"
+        },
+        {
+          "id": "7437917330a703113689b4dfe4a8fd28",
+          "author": null,
+          "description": "Ultimately, if the 42-year-old does one day earn a move to an EPL club, then Boyd believes he'll have done a good job at Ibrox.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23580896.kris-boyd-michael-beale-rangers-premier-league-admission/?ref=rss",
+          "publishedOn": "2023-06-10T10:55:25.000Z",
+          "wordCount": 8640,
+          "title": "Kris Boyd in Michael Beale Rangers Premier League admission",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16874186/?type=og-image"
+        },
+        {
+          "id": "341c77ca4e8ad2b635c388682df5dc53",
+          "author": null,
+          "description": "It comes following talks between Hammers' chiefs and the 60-year-old after the club's Europa Conference League win over Fiorentina.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23580814.david-moyes-celtic-latest-boss-set-west-ham-stay/?ref=rss",
+          "publishedOn": "2023-06-10T09:52:37.000Z",
+          "wordCount": 9628,
+          "title": "David Moyes Celtic latest with boss 'set' for West Ham stay",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16874091/?type=og-image"
+        },
+        {
+          "id": "5ac1ef906413fce66ee1ba640fe042e9",
+          "author": null,
+          "description": "The Hoops hero believes that the former Parkhead boss has too much respect for his old club.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23580786.postecoglou-celtic-guilt-floated-kyogo-spurs-transfer/?ref=rss",
+          "publishedOn": "2023-06-10T09:35:12.000Z",
+          "wordCount": 9036,
+          "title": "Postecoglou Celtic 'guilt' floated over Kyogo Spurs transfer",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16874057/?type=og-image"
+        },
+        {
+          "id": "684181dc63aa786aa52896c634c04938",
+          "author": null,
+          "description": "While some Gers fans may be celebrating Postecoglou leaving Celtic, he insists that there's no party to be had.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23580747.ferguson-rangers-restore-natural-order-celtic-message/?ref=rss",
+          "publishedOn": "2023-06-10T08:59:37.000Z",
+          "wordCount": 8844,
+          "title": "Ferguson in Rangers 'restore natural order' Celtic message",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16874006/?type=og-image"
+        },
+        {
+          "id": "be2a596f9c1c9ea9edd9d5deeebb1cc4",
+          "author": null,
+          "description": "The 47-year-old led Slavia to three Czech titles in a row and was strongly linked to Parkhead before Celtic swooped for Ange Postecoglou.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23580727.jindrich-trpisovsky-happy-slavia-prague-amid-celtic-links/?ref=rss",
+          "publishedOn": "2023-06-10T08:39:35.000Z",
+          "wordCount": 8558,
+          "title": "Jindřich Trpišovský happy at Slavia Prague amid Celtic links",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16873983/?type=og-image"
+        },
         {
           "id": "4d2ff6515ddc3a6f2a55079b1d516480",
           "author": null,
@@ -897,16 +947,6 @@
           "wordCount": 9361,
           "title": "The Celtic players Ange Postecoglou could target at Tottenham",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16856493/?type=og-image"
-        },
-        {
-          "id": "1066f64c38e779181b09c14f6c2ff7cf",
-          "author": null,
-          "description": "The chair of Scotland’s largest Tottenham Hotspur supporters’ group has urged his fellow fans in England to give Ange Postecoglou time to prove himself.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23568751.glasgow-spurs-delighted-ange-postecoglous-imminent-appointment/?ref=rss",
-          "publishedOn": "2023-06-05T21:30:00.000Z",
-          "wordCount": 8450,
-          "title": "Glasgow Spurs delighted with Ange Postecoglou's imminent appointment",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16855122/?type=og-image"
         }
       ]
     }
