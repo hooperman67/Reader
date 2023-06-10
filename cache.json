@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4177618",
+          "author": "Aidan Smith",
+          "description": "It’s Easter Road sometime in the 1980s, Hibernian are playing Aberdeen in a nothing, end-of-season affair, and during an especially long lull in proceedings supporters in the old main stand burst into song …",
+          "link": "https://www.scotsman.com/sport/football/celtics-charlie-nicholas-kicks-off-icons-of-football-as-bbc-scotland-launch-new-series-4177618",
+          "publishedOn": "2023-06-10T07:00:00.000Z",
+          "wordCount": null,
+          "title": "Celtic's Charlie Nicholas kicks off Icons of Football as BBC Scotland launch new series",
+          "imageUrl": null
+        },
+        {
           "id": "4177575",
           "author": "Alan Pattullo",
           "description": "There’s a game Pat Nevin likes to play when he meets fellow former professional footballers, which plainly happens on a regular basis.",
@@ -224,26 +234,6 @@
           "wordCount": 2902,
           "title": "\"I feel we have to take those next steps\" - defender addresses next season's Celtic targets after \"whirlwind\"",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjM2YWMxZTljLWYwODUtNDkwZS1hMDIwLTlmZGVjMGIyZmY2Mzo4Y2FhYzU0MC05NjUyLTQ0YjAtYWY1Ni1lNGMwNmMxZGQ2NjQ=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4170505",
-          "author": "Alan Pattullo",
-          "description": "“When the Celts went up to lift the Scottish Cup, we were there, we were there!” echoed around Hampden during the second half of Saturday’s Scottish Cup final, with Celtic leading 2-0 against Inverness Caledonian Thistle.",
-          "link": "https://www.scotsman.com/sport/football/celtic/when-the-celts-go-up-to-lift-the-scottish-cup-but-they-didnt-go-up-why-not-further-erosion-of-tradition-amid-health-and-safety-concerns-4170505",
-          "publishedOn": "2023-06-05T20:00:00.000Z",
-          "wordCount": 3710,
-          "title": "\"When the Celts go up to lift the Scottish Cup...\" But they didn't go up. Why not? Further erosion of tradition amid 'health and safety concerns'",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjNjYWRlOGE1LTA2ZjktNGVjZi1hNGQ2LWEwNjU4ZGM1NzI4Nzo3MWU4MDY0Yy02NTAwLTQ0N2EtYThhMS1lOTYxMzIzNWNhZGM=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4170488",
-          "author": "Joel Sked",
-          "description": "The planned vote regarding the introduction of a new fifth tier within Scottish football has been scrapped on the eve of the Scottish FA AGM.",
-          "link": "https://www.scotsman.com/sport/football/celtic/celtic-hearts-and-rangers-blow-as-conference-league-vote-scrapped-despite-sfa-chiefs-self-interest-pleas-4170488",
-          "publishedOn": "2023-06-05T19:27:21.000Z",
-          "wordCount": 2631,
-          "title": "Celtic, Hearts and Rangers blow as Conference League vote scrapped despite SFA chief's self interest pleas",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmQyNmJiMTdjLWEyOTAtNDgzYi04ODQ0LTZjZjZmNjg5MzI3MDozY2E4MjQxYy03NDFlLTQ1OGEtYTA5ZC0wZjEyMDFmYjJlZTA=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
         }
       ]
     },
@@ -917,16 +907,6 @@
           "wordCount": 8450,
           "title": "Glasgow Spurs delighted with Ange Postecoglou's imminent appointment",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16855122/?type=og-image"
-        },
-        {
-          "id": "9f6df43e6402a70f01ce44f8dc19b5d7",
-          "author": null,
-          "description": "Ange Postecoglou is set to join Tottenham Hotspur on a two-year deal after sealing a domestic treble at Celtic.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23569412.postecoglou-tottenham-state-play-celtic-exit-looms/?ref=rss",
-          "publishedOn": "2023-06-05T19:55:20.000Z",
-          "wordCount": 8693,
-          "title": "Postecoglou to Tottenham state of play as Celtic exit looms",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16856417/?type=og-image"
         }
       ]
     }
