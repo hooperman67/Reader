@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-10T12:30:08.816Z</updated>
+    <updated>2023-06-10T15:16:04.259Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic 'hold talks' with Daniel Farke over job vacancy]]></title>
+        <id>c029bb9800b5193ff0ba31c90d5c4990</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23581071.celtic-hold-talks-daniel-farke-job-vacancy/?ref=rss"/>
+        <updated>2023-06-10T14:15:23.000Z</updated>
+        <summary type="html"><![CDATA[The German was most recently sacked by Borussia Monchengladbach in May.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic chief Peter Lawwell spotted in Istanbul for UCL final]]></title>
+        <id>fc6cd5acb6dfad004b26f4e3551f940c</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23581040.celtic-chief-peter-lawwell-spotted-istanbul-ucl-final/?ref=rss"/>
+        <updated>2023-06-10T13:39:32.000Z</updated>
+        <summary type="html"><![CDATA[This could perhaps deliver a huge clue as to who the new manager of the Scottish champions could be.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bodo/Glimt's Kjetil Knutsen Celtic chances rated 50-50]]></title>
+        <id>0b8bf5103652fe994d8d89f4377410be</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23581003.bodo-glimts-kjetil-knutsen-celtic-chances-rated-50-50/?ref=rss"/>
+        <updated>2023-06-10T12:59:50.000Z</updated>
+        <summary type="html"><![CDATA[He's won two league titles with Bodo and has done relatively well in Europe, including beating Celtic in the Europa Conference League in 2022.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Enzo Maresca to Celtic latest as 'formal approach' expected]]></title>
         <id>d21d5b7f88d50204b31b297f576384de</id>
