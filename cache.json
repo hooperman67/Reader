@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4177575",
+          "author": "Alan Pattullo",
+          "description": "There’s a game Pat Nevin likes to play when he meets fellow former professional footballers, which plainly happens on a regular basis.",
+          "link": "https://www.scotsman.com/sport/football/pat-nevin-glad-he-turned-down-celtic-as-he-reveals-how-hibs-have-helped-his-son-cope-with-autism-4177575",
+          "publishedOn": "2023-06-10T06:00:00.000Z",
+          "wordCount": null,
+          "title": "Pat Nevin glad he turned down Celtic as he reveals how Hibs have helped his son cope with autism",
+          "imageUrl": null
+        },
+        {
           "id": "4177051",
           "author": "Oliver Anderson",
           "description": "Ange Postecoglou has promised “a team to get excited by” as he strives for success after being appointed as Tottenham head coach.",
@@ -234,26 +244,6 @@
           "wordCount": 2631,
           "title": "Celtic, Hearts and Rangers blow as Conference League vote scrapped despite SFA chief's self interest pleas",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmQyNmJiMTdjLWEyOTAtNDgzYi04ODQ0LTZjZjZmNjg5MzI3MDozY2E4MjQxYy03NDFlLTQ1OGEtYTA5ZC0wZjEyMDFmYjJlZTA=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4170416",
-          "author": "Andrew Smith",
-          "description": "The footballing cycle moves at a bewildering pace these days.",
-          "link": "https://www.scotsman.com/sport/football/celtic/why-ange-postecoglou-is-the-right-fit-for-tottenham-and-where-his-departure-leaves-celtic-4170416",
-          "publishedOn": "2023-06-05T16:58:26.000Z",
-          "wordCount": 3891,
-          "title": "Why Ange Postecoglou is the right fit for Tottenham and where his departure leaves Celtic",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmE0Y2QxMWMxLTYwY2QtNGM4MS04MGMyLWNhODdlZjU3ZDM3YTpkZDU2NjM0Mi0wNGRhLTQ0YmQtYjAyMS1kNDJiZDUzNThlYmM=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4169895",
-          "author": "Joel Sked",
-          "description": "Ange Postecoglou has taken a further step towards the Celtic exit door after agreeing terms with Tottenham Hotspur after the Premier League club were granted permission to speak to the Australian.",
-          "link": "https://www.scotsman.com/sport/football/celtic/ange-postecoglou-agrees-terms-with-spurs-john-kennedys-celtic-future-brendan-rodgers-return-answer-4169895",
-          "publishedOn": "2023-06-05T16:13:30.000Z",
-          "wordCount": 2848,
-          "title": "Ange Postecoglou 'agrees terms' with Spurs, John Kennedy's Celtic future, Brendan Rodgers return answer",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOmYwOTdkNTE1LTYzNDktNGYwZC04MmRjLWU2YzZjNDBjZTY0ZjpmZjIwZDhhMi1iMTM0LTQ2NTQtODlmMi01NGViMDA4YWE4Mjg=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
         }
       ]
     },
@@ -937,36 +927,6 @@
           "wordCount": 8693,
           "title": "Postecoglou to Tottenham state of play as Celtic exit looms",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16856417/?type=og-image"
-        },
-        {
-          "id": "6430442c32dd03a18414936af4a36f8e",
-          "author": null,
-          "description": "Former Celtic boss Brendan Rodgers is reportedly not interested in a return to Parkhead to succeed Ange Postecoglou.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23569269.brendan-rodgers-not-interested-celtic-return/?ref=rss",
-          "publishedOn": "2023-06-05T16:57:54.000Z",
-          "wordCount": 8383,
-          "title": "Brendan Rodgers 'not interested' in Celtic return",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16856135/?type=og-image"
-        },
-        {
-          "id": "5e22927fd5ce036e7e07d029293f6760",
-          "author": null,
-          "description": "Plans to introduce a new fifth tier of Scottish football featuring top-flight B teams have been hit by a wave of opposition in the run-up to Tuesday’s vote.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23568962.fifth-tier-plans-featuring-celtic-rangers-b-opposed-ahead-vote/?ref=rss",
-          "publishedOn": "2023-06-05T15:47:39.000Z",
-          "wordCount": 8748,
-          "title": "Fifth tier plans featuring Celtic & Rangers B opposed ahead of vote",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16855591/?type=og-image"
-        },
-        {
-          "id": "7530be1722e533b43ee770ddff0c0fd6",
-          "author": null,
-          "description": "It's reported Tottenham will have to pay just under £5million to land Postecoglou from Celtic.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23568948.ange-postecoglou-spurs-celtic-compensation-fee-revealed/?ref=rss",
-          "publishedOn": "2023-06-05T15:43:54.000Z",
-          "wordCount": 8474,
-          "title": "Ange Postecoglou to Spurs Celtic compensation fee revealed",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16855353/?type=og-image"
         }
       ]
     }

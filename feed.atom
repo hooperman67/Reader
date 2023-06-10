@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-10T03:17:03.556Z</updated>
+    <updated>2023-06-10T06:20:22.085Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pat Nevin glad he turned down Celtic as he reveals how Hibs have helped his son cope with autism]]></title>
+        <id>4177575</id>
+        <link href="https://www.scotsman.com/sport/football/pat-nevin-glad-he-turned-down-celtic-as-he-reveals-how-hibs-have-helped-his-son-cope-with-autism-4177575"/>
+        <updated>2023-06-10T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There’s a game Pat Nevin likes to play when he meets fellow former professional footballers, which plainly happens on a regular basis.]]></summary>
+        <author>
+            <name>Alan Pattullo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Spurs approach for Kennedy & Strachan 'given cold-shoulder by Celtic']]></title>
         <id>4d2ff6515ddc3a6f2a55079b1d516480</id>
@@ -904,56 +914,6 @@
         <summary type="html"><![CDATA[The planned vote regarding the introduction of a new fifth tier within Scottish football has been scrapped on the eve of the Scottish FA AGM.]]></summary>
         <author>
             <name>Joel Sked</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Ange Postecoglou is the right fit for Tottenham and where his departure leaves Celtic]]></title>
-        <id>4170416</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/why-ange-postecoglou-is-the-right-fit-for-tottenham-and-where-his-departure-leaves-celtic-4170416"/>
-        <updated>2023-06-05T16:58:26.000Z</updated>
-        <summary type="html"><![CDATA[The footballing cycle moves at a bewildering pace these days.]]></summary>
-        <author>
-            <name>Andrew Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brendan Rodgers 'not interested' in Celtic return]]></title>
-        <id>6430442c32dd03a18414936af4a36f8e</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23569269.brendan-rodgers-not-interested-celtic-return/?ref=rss"/>
-        <updated>2023-06-05T16:57:54.000Z</updated>
-        <summary type="html"><![CDATA[Former Celtic boss Brendan Rodgers is reportedly not interested in a return to Parkhead to succeed Ange Postecoglou.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ange Postecoglou 'agrees terms' with Spurs, John Kennedy's Celtic future, Brendan Rodgers return answer]]></title>
-        <id>4169895</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/ange-postecoglou-agrees-terms-with-spurs-john-kennedys-celtic-future-brendan-rodgers-return-answer-4169895"/>
-        <updated>2023-06-05T16:13:30.000Z</updated>
-        <summary type="html"><![CDATA[Ange Postecoglou has taken a further step towards the Celtic exit door after agreeing terms with Tottenham Hotspur after the Premier League club were granted permission to speak to the Australian.]]></summary>
-        <author>
-            <name>Joel Sked</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fifth tier plans featuring Celtic & Rangers B opposed ahead of vote]]></title>
-        <id>5e22927fd5ce036e7e07d029293f6760</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23568962.fifth-tier-plans-featuring-celtic-rangers-b-opposed-ahead-vote/?ref=rss"/>
-        <updated>2023-06-05T15:47:39.000Z</updated>
-        <summary type="html"><![CDATA[Plans to introduce a new fifth tier of Scottish football featuring top-flight B teams have been hit by a wave of opposition in the run-up to Tuesday’s vote.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ange Postecoglou to Spurs Celtic compensation fee revealed]]></title>
-        <id>7530be1722e533b43ee770ddff0c0fd6</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23568948.ange-postecoglou-spurs-celtic-compensation-fee-revealed/?ref=rss"/>
-        <updated>2023-06-05T15:43:54.000Z</updated>
-        <summary type="html"><![CDATA[It's reported Tottenham will have to pay just under £5million to land Postecoglou from Celtic.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>
