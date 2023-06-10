@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-10T15:16:04.259Z</updated>
+    <updated>2023-06-10T18:19:33.813Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -942,26 +942,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23569525.charlie-nicholas-hails-postecoglou-greatest-celtic-modern-day-boss/?ref=rss"/>
         <updated>2023-06-06T06:26:39.000Z</updated>
         <summary type="html"><![CDATA[Charlie Nicholas has hailed Ange Postecoglou as Celtic's "greatest" modern-day manager as he looks set to depart the club for Tottenham.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Johnston ready for Celtic reset but with one thing already on his mind]]></title>
-        <id>f71a46869d96344031d1eb736071bc88</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23569019.johnston-ready-celtic-reset-one-thing-already-mind/?ref=rss"/>
-        <updated>2023-06-06T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The right-back has come to the end of a marathon season.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Celtic players Ange Postecoglou could target at Tottenham]]></title>
-        <id>939edeece884dd7bf1e16b05aae52bd0</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23568964.celtic-players-ange-postecoglou-target-tottenham/?ref=rss"/>
-        <updated>2023-06-06T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The incoming Spurs manager has a track record for signing players he has previously worked with.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
