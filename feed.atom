@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-11T01:56:52.177Z</updated>
+    <updated>2023-06-11T03:25:48.310Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -682,26 +682,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23572178.spurs-consult-ange-postecoglou-bold-transfer-plans/?ref=rss"/>
         <updated>2023-06-06T18:55:28.000Z</updated>
         <summary type="html"><![CDATA[Ange Postecoglou completed a move from Celtic to Tottenham on Tuesday.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The compelling Celtic case for Kjetil Knutsen as next manager]]></title>
-        <id>989a986e279ad1987b536315ba02929e</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23571513.compelling-celtic-case-kjetil-knutsen-next-manager/?ref=rss"/>
-        <updated>2023-06-06T14:54:03.000Z</updated>
-        <summary type="html"><![CDATA[Ange Postecoglou's departure for Tottenham Hotspur has launched a search for the next man in the Parkhead dugout.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[John Kennedy 'informs Celtic' of Tottenham decision]]></title>
-        <id>aa55862502dcc300ac3e100e708ae65c</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23571489.john-kennedy-informs-celtic-tottenham-decision/?ref=rss"/>
-        <updated>2023-06-06T14:49:38.000Z</updated>
-        <summary type="html"><![CDATA[Ange Postecoglou is reportedly keen to take John Kennedy with him to Tottenham Hotspur.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
