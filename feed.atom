@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-11T12:31:28.721Z</updated>
+    <updated>2023-06-11T15:15:55.390Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Brendan Rodgers to Celtic 'not ruled out' as manager search narrowed]]></title>
+        <id>dd9bbb3de92f3c24d7f558d4d06cd5c1</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23581591.brendan-rodgers-celtic-not-ruled-out-manager-search-narrowed/?ref=rss"/>
+        <updated>2023-06-11T10:19:59.000Z</updated>
+        <summary type="html"><![CDATA[Brendan Rodgers hasn't ruled out a return to Celtic despite earlier reports suggestings he would take a year out from management.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ex-Celtic ace Frimpong receives stern warning over international snub]]></title>
         <id>804438702634121dda0672920dc9de72</id>
