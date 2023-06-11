@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-11T09:14:56.599Z</updated>
+    <updated>2023-06-11T12:31:28.721Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ex-Celtic ace Frimpong receives stern warning over international snub]]></title>
+        <id>804438702634121dda0672920dc9de72</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23581538.ex-celtic-ace-frimpong-receives-stern-warning-international-snub/?ref=rss"/>
+        <updated>2023-06-11T09:37:33.000Z</updated>
+        <summary type="html"><![CDATA[Dutch boss Ronal Koeman has blasted former Celtic star Jeremie Frimpong after he refused to play for Netherlands Under 21s.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The good, the bad: Celtic, Rangers, Aberdeen, Hearts and Premiership rivals' seasons rated out of 10]]></title>
         <id>4178044</id>
@@ -704,16 +714,6 @@
         <summary type="html"><![CDATA[The Old Firm dynamic has changed. Time will tell if the balance of power has shifted in the Premiership as a result.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steve Clarke to Celtic given short shrift as SFA chief hails contract timing 'masterstroke']]></title>
-        <id>4172218</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/steve-clarke-to-celtic-given-short-shrift-as-sfa-chief-hails-contract-timing-masterstroke-4172218"/>
-        <updated>2023-06-06T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[SFA chief executive Ian Maxwell has no fears over any approach from Celtic for Scotland manager Steve Clarke as Manchester City assistant Enzo Maresca emerged the frontrunner to replace Ange Postecoglou.]]></summary>
-        <author>
-            <name>Andrew Smith</name>
         </author>
     </entry>
 </feed>
