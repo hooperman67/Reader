@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-11T06:20:32.509Z</updated>
+    <updated>2023-06-11T09:14:56.599Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The good, the bad: Celtic, Rangers, Aberdeen, Hearts and Premiership rivals' seasons rated out of 10]]></title>
+        <id>4178044</id>
+        <link href="https://www.scotsman.com/sport/football/the-good-the-bad-celtic-rangers-aberdeen-hearts-and-premiership-rivals-seasons-rated-out-of-10-4178044"/>
+        <updated>2023-06-11T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[That was the season that was in the cinch Premiership. There was plenty of drama and excitement, tension and hilarity. How did each of the 12 top-flight sides fare and what rating out of 10 did their campaign deserve?]]></summary>
+        <author>
+            <name>Joel Sked</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A billion, Brazilians, bedlam - how 25 years on from France 98 opener Scotland have chance of all-time first]]></title>
+        <id>4178056</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/a-billion-brazilians-bedlam-how-25-years-on-from-france-98-opener-scotland-have-chance-of-all-time-first-4178056"/>
+        <updated>2023-06-11T06:50:27.000Z</updated>
+        <summary type="html"><![CDATA[There is nothing strange about the fact Scotland’s players wouldn’t have been sitting about their Spanish training camp this weekend gassing about one of the most wistfully-recalled days in the entire history of the national team.]]></summary>
+        <author>
+            <name>Andrew Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Glasgow City's Lisa Forrest following footsteps of Celtic star brother]]></title>
+        <id>decf628f7a73767e82dc500c5eaef34c</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23580944.glasgow-citys-lisa-forrest-following-footsteps-celtic-star-brother/?ref=rss"/>
+        <updated>2023-06-11T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The 17-year-old is forging her own path as she follows in the footballing footsteps of siblings James and Alan.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Celtic Champions League narrative Matt O'Riley isn't buying]]></title>
+        <id>79b8907982d9747adca66bc13cb9f9be</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23580928.celtic-champions-league-narrative-matt-oriley-isnt-buying/?ref=rss"/>
+        <updated>2023-06-11T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[LAST season’s Champions League campaign was a mostly chastening experience from Celtic’s perspective but Matt O’Riley can’t wait to do it all again.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mark Wilson predicts what Celtic star Ange will try to sign for Spurs]]></title>
+        <id>742cc8a9738fa63d606631b0eed9d1c2</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23581031.mark-wilson-predicts-celtic-star-ange-will-try-sign-spurs/?ref=rss"/>
+        <updated>2023-06-11T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The former Parkhead star is hoping Postecoglou will not return for any of his ex-players.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Matt O'Riley claims Celtic could win Champions League as he addresses prospect of summer exits]]></title>
         <id>4177622</id>
@@ -664,26 +714,6 @@
         <summary type="html"><![CDATA[SFA chief executive Ian Maxwell has no fears over any approach from Celtic for Scotland manager Steve Clarke as Manchester City assistant Enzo Maresca emerged the frontrunner to replace Ange Postecoglou.]]></summary>
         <author>
             <name>Andrew Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guardiola hails 'exceptional' Postecoglou & reveals Celtic connection]]></title>
-        <id>e034c8b797ae10b6fc68aa57c319e5a6</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23572189.guardiola-hails-exceptional-postecoglou-reveals-celtic-connection/?ref=rss"/>
-        <updated>2023-06-06T19:25:38.000Z</updated>
-        <summary type="html"><![CDATA[Pep Guardiola branded Ange Postecoglou an "exceptional manager" after making the move from Celtic to Tottenham.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spurs to consult Ange Postecoglou over bold transfer plans]]></title>
-        <id>24b168cee7a3446b4b5576ed299605c8</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23572178.spurs-consult-ange-postecoglou-bold-transfer-plans/?ref=rss"/>
-        <updated>2023-06-06T18:55:28.000Z</updated>
-        <summary type="html"><![CDATA[Ange Postecoglou completed a move from Celtic to Tottenham on Tuesday.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>

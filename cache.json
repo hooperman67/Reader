@@ -6,6 +6,26 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4178044",
+          "author": "Joel Sked",
+          "description": "That was the season that was in the cinch Premiership. There was plenty of drama and excitement, tension and hilarity. How did each of the 12 top-flight sides fare and what rating out of 10 did their campaign deserve?",
+          "link": "https://www.scotsman.com/sport/football/the-good-the-bad-celtic-rangers-aberdeen-hearts-and-premiership-rivals-seasons-rated-out-of-10-4178044",
+          "publishedOn": "2023-06-11T07:00:00.000Z",
+          "wordCount": null,
+          "title": "The good, the bad: Celtic, Rangers, Aberdeen, Hearts and Premiership rivals' seasons rated out of 10",
+          "imageUrl": null
+        },
+        {
+          "id": "4178056",
+          "author": "Andrew Smith",
+          "description": "There is nothing strange about the fact Scotland’s players wouldn’t have been sitting about their Spanish training camp this weekend gassing about one of the most wistfully-recalled days in the entire history of the national team.",
+          "link": "https://www.scotsman.com/sport/football/celtic/a-billion-brazilians-bedlam-how-25-years-on-from-france-98-opener-scotland-have-chance-of-all-time-first-4178056",
+          "publishedOn": "2023-06-11T06:50:27.000Z",
+          "wordCount": null,
+          "title": "A billion, Brazilians, bedlam - how 25 years on from France 98 opener Scotland have chance of all-time first",
+          "imageUrl": null
+        },
+        {
           "id": "4177622",
           "author": "Graeme Macpherson",
           "description": "Matt O’Riley remembers being recognised only once during a year spent with MK Dons. It has been somewhat different for the midfielder over the past season-and-a-half at Celtic, with acknowledgement of his talents arriving on a daily basis both from supporters but also from the growing number of clubs keen to entice him away from the Scottish champions.",
@@ -178,6 +198,36 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "decf628f7a73767e82dc500c5eaef34c",
+          "author": null,
+          "description": "The 17-year-old is forging her own path as she follows in the footballing footsteps of siblings James and Alan.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23580944.glasgow-citys-lisa-forrest-following-footsteps-celtic-star-brother/?ref=rss",
+          "publishedOn": "2023-06-11T05:00:00.000Z",
+          "wordCount": 10073,
+          "title": "Glasgow City's Lisa Forrest following footsteps of Celtic star brother",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16874297/?type=og-image"
+        },
+        {
+          "id": "79b8907982d9747adca66bc13cb9f9be",
+          "author": null,
+          "description": "LAST season’s Champions League campaign was a mostly chastening experience from Celtic’s perspective but Matt O’Riley can’t wait to do it all again.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23580928.celtic-champions-league-narrative-matt-oriley-isnt-buying/?ref=rss",
+          "publishedOn": "2023-06-11T05:00:00.000Z",
+          "wordCount": 10339,
+          "title": "The Celtic Champions League narrative Matt O'Riley isn't buying",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16874255/?type=og-image"
+        },
+        {
+          "id": "742cc8a9738fa63d606631b0eed9d1c2",
+          "author": null,
+          "description": "The former Parkhead star is hoping Postecoglou will not return for any of his ex-players.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23581031.mark-wilson-predicts-celtic-star-ange-will-try-sign-spurs/?ref=rss",
+          "publishedOn": "2023-06-11T05:00:00.000Z",
+          "wordCount": 9225,
+          "title": "Mark Wilson predicts what Celtic star Ange will try to sign for Spurs",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16874499/?type=og-image"
+        },
         {
           "id": "c029bb9800b5193ff0ba31c90d5c4990",
           "author": null,
@@ -677,26 +727,6 @@
           "wordCount": 9428,
           "title": "What does Postecoglou Celtic exit mean for Rangers and Michael Beale?",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16858993/?type=og-image"
-        },
-        {
-          "id": "e034c8b797ae10b6fc68aa57c319e5a6",
-          "author": null,
-          "description": "Pep Guardiola branded Ange Postecoglou an \"exceptional manager\" after making the move from Celtic to Tottenham.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23572189.guardiola-hails-exceptional-postecoglou-reveals-celtic-connection/?ref=rss",
-          "publishedOn": "2023-06-06T19:25:38.000Z",
-          "wordCount": 9574,
-          "title": "Guardiola hails 'exceptional' Postecoglou & reveals Celtic connection",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16860819/?type=og-image"
-        },
-        {
-          "id": "24b168cee7a3446b4b5576ed299605c8",
-          "author": null,
-          "description": "Ange Postecoglou completed a move from Celtic to Tottenham on Tuesday.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23572178.spurs-consult-ange-postecoglou-bold-transfer-plans/?ref=rss",
-          "publishedOn": "2023-06-06T18:55:28.000Z",
-          "wordCount": 8470,
-          "title": "Spurs to consult Ange Postecoglou over bold transfer plans",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16860744/?type=og-image"
         }
       ]
     }
