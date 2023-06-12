@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-11T21:14:22.738Z</updated>
+    <updated>2023-06-12T01:49:19.613Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ajax talks with Celtic managerial contender Kjetil Knutsen break down]]></title>
+        <id>c6d0d533644091a935a3573a91620cf9</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23582185.ajax-talks-celtic-managerial-contender-kjetil-knutsen-break/?ref=rss"/>
+        <updated>2023-06-11T21:22:41.000Z</updated>
+        <summary type="html"><![CDATA[CELTIC will not face any competition from Ajax if they want to appoint Kjetil Knutsen as their new manager after talks between the Norwegian and the Dutch giants broke down tonight.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Brendan Rodgers to Celtic 'not ruled out' as manager search narrowed]]></title>
         <id>dd9bbb3de92f3c24d7f558d4d06cd5c1</id>
@@ -592,46 +602,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23573956.moyes-will-west-ham-next-season-amid-celtic-links/?ref=rss"/>
         <updated>2023-06-07T13:59:00.000Z</updated>
         <summary type="html"><![CDATA[Moyes has been heavily linked with the vacant Celtic managerial position following the departure of Ange Postecoglou to Spurs.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic-linked Des Buckingham 'pictured in Glasgow' amid manager search]]></title>
-        <id>f0d733f01a912ba078cc1892a26e5ba1</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23573950.celtic-linked-des-buckingham-pictured-glasgow-amid-manager-search/?ref=rss"/>
-        <updated>2023-06-07T13:46:33.000Z</updated>
-        <summary type="html"><![CDATA[Mumbai City]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[McCoist declares Postecoglou's Celtic exit 'excellent' for Rangers]]></title>
-        <id>58cd05ec62d2ed98860d69857f6ffa64</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23573297.mccoist-declares-postecoglous-celtic-exit-excellent-rangers/?ref=rss"/>
-        <updated>2023-06-07T11:15:40.000Z</updated>
-        <summary type="html"><![CDATA[Ally McCoist thinks that the fallout from Ange Postecoglou's exit from Celtic will be "excellent" for Rangers.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Postecoglou 'to trigger' £20million transfer race for Celtic's Kyogo]]></title>
-        <id>3ff32e0ee1a10a5a85bf5946c2391657</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23572999.postecoglou-to-trigger-20million-transfer-race-celtics-kyogo/?ref=rss"/>
-        <updated>2023-06-07T10:09:38.000Z</updated>
-        <summary type="html"><![CDATA[The new Tottenham boss is said to be keen to take the Japanese star to North London with him.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic manager latest as Henrik Larsson touted for sensational return]]></title>
-        <id>d94f5b592e1fb4154dbaecb31b2db3cf</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23572820.celtic-manager-latest-henrik-larsson-touted-sensational-return/?ref=rss"/>
-        <updated>2023-06-07T09:31:01.000Z</updated>
-        <summary type="html"><![CDATA[Former Celtic star Alan Stubbs has floated a sensational return to Celtic for Henrik Larsson as a replacement for Ange Postecoglou.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>

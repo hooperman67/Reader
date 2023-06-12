@@ -166,8 +166,18 @@
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
       "articles": [
+        {
+          "id": "c6d0d533644091a935a3573a91620cf9",
+          "author": null,
+          "description": "CELTIC will not face any competition from Ajax if they want to appoint Kjetil Knutsen as their new manager after talks between the Norwegian and the Dutch giants broke down tonight.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23582185.ajax-talks-celtic-managerial-contender-kjetil-knutsen-break/?ref=rss",
+          "publishedOn": "2023-06-11T21:22:41.000Z",
+          "wordCount": 8869,
+          "title": "Ajax talks with Celtic managerial contender Kjetil Knutsen break down",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16876883/?type=og-image"
+        },
         {
           "id": "dd9bbb3de92f3c24d7f558d4d06cd5c1",
           "author": null,
@@ -607,46 +617,6 @@
           "wordCount": 9637,
           "title": "Moyes will be at West Ham next season amid Celtic links",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16863577/?type=og-image"
-        },
-        {
-          "id": "f0d733f01a912ba078cc1892a26e5ba1",
-          "author": null,
-          "description": "Mumbai City",
-          "link": "https://www.glasgowtimes.co.uk/sport/23573950.celtic-linked-des-buckingham-pictured-glasgow-amid-manager-search/?ref=rss",
-          "publishedOn": "2023-06-07T13:46:33.000Z",
-          "wordCount": 8698,
-          "title": "Celtic-linked Des Buckingham 'pictured in Glasgow' amid manager search",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16863417/?type=og-image"
-        },
-        {
-          "id": "58cd05ec62d2ed98860d69857f6ffa64",
-          "author": null,
-          "description": "Ally McCoist thinks that the fallout from Ange Postecoglou's exit from Celtic will be \"excellent\" for Rangers.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23573297.mccoist-declares-postecoglous-celtic-exit-excellent-rangers/?ref=rss",
-          "publishedOn": "2023-06-07T11:15:40.000Z",
-          "wordCount": 8570,
-          "title": "McCoist declares Postecoglou's Celtic exit 'excellent' for Rangers",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/15033311/?type=og-image"
-        },
-        {
-          "id": "3ff32e0ee1a10a5a85bf5946c2391657",
-          "author": null,
-          "description": "The new Tottenham boss is said to be keen to take the Japanese star to North London with him.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23572999.postecoglou-to-trigger-20million-transfer-race-celtics-kyogo/?ref=rss",
-          "publishedOn": "2023-06-07T10:09:38.000Z",
-          "wordCount": 8627,
-          "title": "Postecoglou 'to trigger' £20million transfer race for Celtic's Kyogo",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16861763/?type=og-image"
-        },
-        {
-          "id": "d94f5b592e1fb4154dbaecb31b2db3cf",
-          "author": null,
-          "description": "Former Celtic star Alan Stubbs has floated a sensational return to Celtic for Henrik Larsson as a replacement for Ange Postecoglou.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23572820.celtic-manager-latest-henrik-larsson-touted-sensational-return/?ref=rss",
-          "publishedOn": "2023-06-07T09:31:01.000Z",
-          "wordCount": 8578,
-          "title": "Celtic manager latest as Henrik Larsson touted for sensational return",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16861672/?type=og-image"
         }
       ]
     }
