@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-12T09:17:15.734Z</updated>
+    <updated>2023-06-12T12:33:09.890Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic's managerial hunt: Everything we know so far]]></title>
+        <id>e73165b865a8301e8033cc56029a7c8b</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23583078.celtics-managerial-hunt-everything-know-far/?ref=rss"/>
+        <updated>2023-06-12T11:14:00.000Z</updated>
+        <summary type="html"><![CDATA[All the details surrounding Celtic's search for a new manager.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reo Hatate drops major hint on Celtic future after Postecoglou exit]]></title>
+        <id>c31a6b8e7c569abf598471685b382100</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23582687.reo-hatate-drops-major-hint-celtic-future-postecoglou-exit/?ref=rss"/>
+        <updated>2023-06-12T09:22:06.000Z</updated>
+        <summary type="html"><![CDATA[Reo Hatate has dropped a hint he is not going to leave Celtic.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Next Celtic manager: Talks held with candidate as Scottish champions wait on Brendan Rodgers]]></title>
         <id>4178655</id>
@@ -544,26 +564,6 @@
         <summary type="html"><![CDATA[The Celtic managerial target had a strikingly brief spell at the Serie B side before returning to Manchester City.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic new manager timeline as club 'won't rush decision']]></title>
-        <id>afe4f2a4b01df72e6009c83ac126355a</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23574994.celtic-next-manager-timeline-club-wont-rush-decision/?ref=rss"/>
-        <updated>2023-06-07T21:50:41.000Z</updated>
-        <summary type="html"><![CDATA[Dermot Desmond will reportedly take his time over the next appointment with Celtic fans set for wait of weeks.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[David Moyes leads West Ham to European glory amid Celtic links to join elite band of Scottish managers]]></title>
-        <id>4173858</id>
-        <link href="https://www.scotsman.com/sport/football/david-moyes-leads-west-ham-to-european-glory-amid-celtic-links-to-join-elite-band-of-scottish-managers-4173858"/>
-        <updated>2023-06-07T21:33:46.000Z</updated>
-        <summary type="html"><![CDATA[David Moyes led West Ham United to European glory and in the process became only the seventh Scottish manager to lift a European trophy.]]></summary>
-        <author>
-            <name>Alan Pattullo</name>
         </author>
     </entry>
 </feed>

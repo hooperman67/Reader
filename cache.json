@@ -144,16 +144,6 @@
           "wordCount": 2459,
           "title": "Next Celtic manager: Odds-on favourite, 'Massive' hint at Postecoglou replacement, ex-Spain star linked",
           "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjY1NWRlMDViLTQxMWMtNGY1ZS05NGI2LWI1YTY1MzNjZGZlMDpmYWU4NTNjZC03ZGRjLTQ2NDYtYTE4Mi1hY2Y5NmQ4MTg0YjE=.jpg?width=1024&auto=webp&quality=75&crop=3:2,smart"
-        },
-        {
-          "id": "4173858",
-          "author": "Alan Pattullo",
-          "description": "David Moyes led West Ham United to European glory and in the process became only the seventh Scottish manager to lift a European trophy.",
-          "link": "https://www.scotsman.com/sport/football/david-moyes-leads-west-ham-to-european-glory-amid-celtic-links-to-join-elite-band-of-scottish-managers-4173858",
-          "publishedOn": "2023-06-07T21:33:46.000Z",
-          "wordCount": 2878,
-          "title": "David Moyes leads West Ham to European glory amid Celtic links to join elite band of Scottish managers",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjExOGI5NmY5LTZiNDctNDc1Yi1iNGFmLWE5MDNjMDgxZTU1YzpmOWM3YTMzZC05NDk5LTRlZGQtYmIyZi1jNjFmZjFhYzhlNTI=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
         }
       ]
     },
@@ -168,6 +158,26 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "e73165b865a8301e8033cc56029a7c8b",
+          "author": null,
+          "description": "All the details surrounding Celtic's search for a new manager.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23583078.celtics-managerial-hunt-everything-know-far/?ref=rss",
+          "publishedOn": "2023-06-12T11:14:00.000Z",
+          "wordCount": 9926,
+          "title": "Celtic's managerial hunt: Everything we know so far",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16878060/?type=og-image"
+        },
+        {
+          "id": "c31a6b8e7c569abf598471685b382100",
+          "author": null,
+          "description": "Reo Hatate has dropped a hint he is not going to leave Celtic.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23582687.reo-hatate-drops-major-hint-celtic-future-postecoglou-exit/?ref=rss",
+          "publishedOn": "2023-06-12T09:22:06.000Z",
+          "wordCount": 9032,
+          "title": "Reo Hatate drops major hint on Celtic future after Postecoglou exit",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16877403/?type=og-image"
+        },
         {
           "id": "3f7d8467c2060fa8e524fb11f71325d8",
           "author": null,
@@ -567,16 +577,6 @@
           "wordCount": 9573,
           "title": "Enzo Maresca in Celtic parallel to Ange as insider lifts lid on Parma",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16865154/?type=og-image"
-        },
-        {
-          "id": "afe4f2a4b01df72e6009c83ac126355a",
-          "author": null,
-          "description": "Dermot Desmond will reportedly take his time over the next appointment with Celtic fans set for wait of weeks.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23574994.celtic-next-manager-timeline-club-wont-rush-decision/?ref=rss",
-          "publishedOn": "2023-06-07T21:50:41.000Z",
-          "wordCount": 8516,
-          "title": "Celtic new manager timeline as club 'won't rush decision'",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16865101/?type=og-image"
         }
       ]
     }
