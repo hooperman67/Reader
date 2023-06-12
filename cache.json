@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4180025",
+          "author": "Andrew Smith",
+          "description": "As the Celtic support attempt to get their heads around the possibility of a return for Brendan Rodgers they would do well to heed the advice of the man he is now understood to have held talks over succeeding.",
+          "link": "https://www.scotsman.com/sport/football/celtic/the-day-danny-mcgrain-debunked-one-of-the-great-brendan-rodgers-celtic-myths-4180025",
+          "publishedOn": "2023-06-12T18:48:41.000Z",
+          "wordCount": null,
+          "title": "The day Danny McGrain debunked one of the great Brendan Rodgers Celtic myths",
+          "imageUrl": null
+        },
+        {
           "id": "4178655",
           "author": "Chris Andrews",
           "description": "Celtic's search for a new manager has taken a twist after Enzo Maresca held talks with Leicester City in the aftermath of the Champions League final to replace Brendan Rodgers at the King Power Stadium with a Parkhead return for the Northern Irishman increasingly likely.",
@@ -144,16 +154,6 @@
           "wordCount": null,
           "title": "When the transfer window opens for Scottish Premiership clubs, when it closes, the 10 deals done so far",
           "imageUrl": null
-        },
-        {
-          "id": "4173975",
-          "author": "Joel Sked",
-          "description": "Speculation continues to swirl around the identity of Celtic’s next manager following the departure of Ange Postecoglou to Tottenham Hotspur.",
-          "link": "https://www.scotsman.com/sport/football/celtic/next-celtic-manager-odds-on-favourite-massive-hint-at-postecoglou-replacement-ex-spain-star-linked-4173975",
-          "publishedOn": "2023-06-08T08:19:01.000Z",
-          "wordCount": 2459,
-          "title": "Next Celtic manager: Odds-on favourite, 'Massive' hint at Postecoglou replacement, ex-Spain star linked",
-          "imageUrl": "https://www.scotsman.com/webimg/b25lY21zOjY1NWRlMDViLTQxMWMtNGY1ZS05NGI2LWI1YTY1MzNjZGZlMDpmYWU4NTNjZC03ZGRjLTQ2NDYtYTE4Mi1hY2Y5NmQ4MTg0YjE=.jpg?width=1024&auto=webp&quality=75&crop=3:2,smart"
         }
       ]
     },
@@ -168,6 +168,26 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "23f8f9047f5936ef12d5bcd3478140bc",
+          "author": null,
+          "description": "T",
+          "link": "https://www.glasgowtimes.co.uk/sport/23584857.celtic-stars-jota-carl-starfelt-take-picture-italy-vacation/?ref=rss",
+          "publishedOn": "2023-06-12T19:15:40.000Z",
+          "wordCount": 9411,
+          "title": "Celtic stars Jota and Carl Starfelt take picture during Italy vacation",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16145724/?type=og-image"
+        },
+        {
+          "id": "526a5cef3aa2ea887eb951d112e618b3",
+          "author": null,
+          "description": "They say that negotiations between the Hoops and the highly-rated attacking midfielder are progressing well.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23584807.celtic-in-negotiations-odin-thiago-holm-drops-major-hint/?ref=rss",
+          "publishedOn": "2023-06-12T17:59:11.000Z",
+          "wordCount": 8530,
+          "title": "Celtic 'in negotiations' with Odin Thiago Holm as he drops major hint",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16881137/?type=og-image"
+        },
         {
           "id": "ff140acfbb9868e0f832c1f79efe30ac",
           "author": null,
@@ -587,46 +607,6 @@
           "wordCount": 8626,
           "title": "Pascal Jansen to Celtic as Alkmaar boss become 'shock contender'",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16865825/?type=og-image"
-        },
-        {
-          "id": "1c37dadd5225e3e129df096d73d0649a",
-          "author": null,
-          "description": "The 60-year-old guided the Hammers to Europa Conference League glory last night, as they defeated Fiorentina 2-1 in Prague.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23575466.david-moyes-celtic-chances-dismissed-ally-mccoist/?ref=rss",
-          "publishedOn": "2023-06-08T09:03:17.000Z",
-          "wordCount": 9656,
-          "title": "David Moyes' Celtic chances dismissed by Ally McCoist",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16865670/?type=og-image"
-        },
-        {
-          "id": "a6fdb85fe7ecc7b1c66143b1cfa8f352",
-          "author": null,
-          "description": "Andoni Iraola and Francesco Farioli have both been touted for the vacant gig at the Scottish champions.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23575174.celtic-manager-latest-two-new-names-linked-job/?ref=rss",
-          "publishedOn": "2023-06-08T07:46:04.000Z",
-          "wordCount": 8575,
-          "title": "Celtic manager latest with two new names linked with job",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16865353/?type=og-image"
-        },
-        {
-          "id": "1280ae9453d0de44b79bd8c620668503",
-          "author": null,
-          "description": "The Hoops hero has addressed his old club's search for a new gaffer, following the departure of Ange Postecoglou on Tuesday.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23575090.enzo-maresca-celtic-manager-appeal-rated-chris-sutton/?ref=rss",
-          "publishedOn": "2023-06-08T06:55:38.000Z",
-          "wordCount": 9573,
-          "title": "Enzo Maresca Celtic manager appeal rated by Chris Sutton",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16865308/?type=og-image"
-        },
-        {
-          "id": "36aea0f82f0766aee3f0a15775186f6f",
-          "author": null,
-          "description": "The talkSPORT host has suggested that Dermot Desmond is very close with Manchester City boss Pep Guardiola.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23575076.celtic-next-manager-search-inside-information-revealed/?ref=rss",
-          "publishedOn": "2023-06-08T06:33:09.000Z",
-          "wordCount": 8542,
-          "title": "Celtic next manager search inside information revealed",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16865289/?type=og-image"
         }
       ]
     }
