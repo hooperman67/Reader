@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-12T01:49:19.613Z</updated>
+    <updated>2023-06-12T03:22:38.413Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -574,36 +574,6 @@
         <summary type="html"><![CDATA[Celtic have prioritised finding the best candidate to replace Ange Postecoglou ahead of a swift appointment following the Australian's departure to Tottenham Hotspur.]]></summary>
         <author>
             <name>Joel Sked</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Who is Celtic-linked manager Des Buckingham?]]></title>
-        <id>e4fb8ec6dc96987b3b0970c306237f9a</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23574225.celtic-linked-manager-des-buckingham/?ref=rss"/>
-        <updated>2023-06-07T14:46:38.000Z</updated>
-        <summary type="html"><![CDATA[Mumbai City FC boss Des Buckingham has reportedly been pictured in Glasgow amid a flurry of bets on him to become the new Celtic boss.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Matt O'Riley agency switch could change Celtic to Spurs transfer]]></title>
-        <id>06e6e83dd8395d65dd678041ad0e4160</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23574224.matt-oriley-agency-switch-change-celtic-spurs-transfer/?ref=rss"/>
-        <updated>2023-06-07T14:46:24.000Z</updated>
-        <summary type="html"><![CDATA[It's said that the Danish playmaker's family will now negotiate any future moves and contracts for O'Riley.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moyes will be at West Ham next season amid Celtic links]]></title>
-        <id>4c45ebba80135273d8f80847c7fbab66</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23573956.moyes-will-west-ham-next-season-amid-celtic-links/?ref=rss"/>
-        <updated>2023-06-07T13:59:00.000Z</updated>
-        <summary type="html"><![CDATA[Moyes has been heavily linked with the vacant Celtic managerial position following the departure of Ange Postecoglou to Spurs.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>
