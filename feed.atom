@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-12T03:22:38.413Z</updated>
+    <updated>2023-06-12T06:22:43.119Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -554,26 +554,6 @@
         <summary type="html"><![CDATA[Jota has shared an emotional farewell message to Ange Postecoglou after the manager left Celtic to join Tottenham.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brendan Rodgers to Celtic betting suspended by Sky Bet]]></title>
-        <id>8e86ec78aee4be88d74528bb4bb4c998</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23574697.brendan-rodgers-celtic-betting-suspended-skybet/?ref=rss"/>
-        <updated>2023-06-07T16:21:22.000Z</updated>
-        <summary type="html"><![CDATA[The bookmakers have Rodgers as the current favourite to replace Ange Postecoglou after his exit for Tottenham.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic next manager: 2 surprise names linked, ex-Manchester United coach, John Kennedy latest, club priority]]></title>
-        <id>4173662</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/celtic-next-manager-2-surprise-names-linked-ex-manchester-united-coach-john-kennedy-latest-club-priority-4173662"/>
-        <updated>2023-06-07T15:52:13.000Z</updated>
-        <summary type="html"><![CDATA[Celtic have prioritised finding the best candidate to replace Ange Postecoglou ahead of a swift appointment following the Australian's departure to Tottenham Hotspur.]]></summary>
-        <author>
-            <name>Joel Sked</name>
         </author>
     </entry>
 </feed>
