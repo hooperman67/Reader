@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-12T06:22:43.119Z</updated>
+    <updated>2023-06-12T09:17:15.734Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Next Celtic manager: Talks held with candidate as Scottish champions wait on Brendan Rodgers]]></title>
+        <id>4178655</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/next-celtic-manager-talks-held-with-candidate-as-scottish-champions-wait-on-brendan-rodgers-4178655"/>
+        <updated>2023-06-12T08:58:39.000Z</updated>
+        <summary type="html"><![CDATA[Celtic are continuing their search for Ange Postecoglou’s replacement following the Australian’s move to Tottenham Hotspur after guiding the club to a domestic treble.]]></summary>
+        <author>
+            <name>Chris Andrews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic 'hold face-to-face talks' with Brendan Rodgers]]></title>
+        <id>3f7d8467c2060fa8e524fb11f71325d8</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23582267.celtic-hold-face-to-face-talks-brendan-rodgers/?ref=rss"/>
+        <updated>2023-06-12T06:21:01.000Z</updated>
+        <summary type="html"><![CDATA[Celtic chiefs flew to Mallorca to hold face-to-face talks with Brendan Rodgers over a return to Parkhead.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ajax talks with Celtic managerial contender Kjetil Knutsen break down]]></title>
         <id>c6d0d533644091a935a3573a91620cf9</id>
@@ -544,16 +564,6 @@
         <summary type="html"><![CDATA[David Moyes led West Ham United to European glory and in the process became only the seventh Scottish manager to lift a European trophy.]]></summary>
         <author>
             <name>Alan Pattullo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jota in emotional Ange Postecoglou Celtic farewell]]></title>
-        <id>dca8115dd9aa8c14dc8b3613e7f444db</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23574889.jota-emotional-ange-postecoglou-celtic-farewell/?ref=rss"/>
-        <updated>2023-06-07T18:43:09.000Z</updated>
-        <summary type="html"><![CDATA[Jota has shared an emotional farewell message to Ange Postecoglou after the manager left Celtic to join Tottenham.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>
