@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-12T15:17:50.292Z</updated>
+    <updated>2023-06-12T18:22:24.216Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kyogo addresses Celtic to Spurs transfer speculation]]></title>
+        <id>ff140acfbb9868e0f832c1f79efe30ac</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23584625.kyogo-addresses-celtic-spurs-transfer-speculation/?ref=rss"/>
+        <updated>2023-06-12T16:23:04.000Z</updated>
+        <summary type="html"><![CDATA[The 28-year-old has been heavily linked with a move to Tottenham this summer.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next Celtic manager: Rodgers odds-on favourite, talks with candidate, Enzo Maresca speaks to Leicester City]]></title>
+        <id>4178655</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/next-celtic-manager-rodgers-odds-on-favourite-talks-with-candidate-enzo-maresca-speaks-to-leicester-city-4178655"/>
+        <updated>2023-06-12T16:18:24.000Z</updated>
+        <summary type="html"><![CDATA[Celtic's search for a new manager has taken a twist after Enzo Maresca held talks with Leicester City in the aftermath of the Champions League final to replace Brendan Rodgers at the King Power Stadium with a Parkhead return for the Northern Irishman increasingly likely.]]></summary>
+        <author>
+            <name>Chris Andrews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enzo Maresca Celtic update amid Leicester 'interview']]></title>
+        <id>ebd99e4ee1517e494fb254dc12aad5e4</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23584077.enzo-maresca-celtic-update-amid-leicester-interview/?ref=rss"/>
+        <updated>2023-06-12T14:27:20.000Z</updated>
+        <summary type="html"><![CDATA[The Italian is also high on Celtic's wishlist and is currently the second-favourite to replace Ange Postecoglou in Glasgow.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic star Reo Hatate 'monitored' by Tottenham Hotspur]]></title>
+        <id>6e12fb080a87bfdade02dea6d04f0b5e</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23583956.celtic-star-reo-hatate-monitored-tottenham-hotspur/?ref=rss"/>
+        <updated>2023-06-12T13:59:06.000Z</updated>
+        <summary type="html"><![CDATA[The 25-year-old was signed for the Scottish champions by Ange Postecoglou in January 2022.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brendan Rodgers Celtic return leaves Simon Jordan baffled]]></title>
+        <id>28efffcef38df8c8a4fcb384a59d1f85</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23583832.brendan-rodgers-celtic-return-leaves-simon-jordan-baffled/?ref=rss"/>
+        <updated>2023-06-12T13:35:55.000Z</updated>
+        <summary type="html"><![CDATA[The former Crystal Palace owner can't see the logic in the Irishman returning to the Premiership champions.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic manager latest as Brendan Rodgers odds-on favourite]]></title>
+        <id>b33e5d8956a61134c878929292d6ef86</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23583552.celtic-manager-latest-brendan-rodgers-odds-on-favourite/?ref=rss"/>
+        <updated>2023-06-12T12:37:00.000Z</updated>
+        <summary type="html"><![CDATA[Brendan Rodgers is the huge odds-on favourite to return to Celtic as the club's next manager.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postecoglou Spurs staff alternative as Kennedy Celtic wait continues]]></title>
+        <id>2b4bfdd1e6880e2f02b3b4c3eec4b42a</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23583590.postecoglou-spurs-staff-alternative-kennedy-celtic-wait-continues/?ref=rss"/>
+        <updated>2023-06-12T12:32:53.000Z</updated>
+        <summary type="html"><![CDATA[It's said that Spurs are ready to ramp up their backroom staff appointments after Postecoglou was announced as the club's new boss last week.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic's managerial hunt: Everything we know so far]]></title>
         <id>e73165b865a8301e8033cc56029a7c8b</id>
@@ -542,26 +612,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23575076.celtic-next-manager-search-inside-information-revealed/?ref=rss"/>
         <updated>2023-06-08T06:33:09.000Z</updated>
         <summary type="html"><![CDATA[The talkSPORT host has suggested that Dermot Desmond is very close with Manchester City boss Pep Guardiola.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Moravcik factor that makes Knutsen the ‘right coach’ for Celtic]]></title>
-        <id>d531d2cfd0d41bf760a67e19495a8eed</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23574816.moravcik-factor-makes-knutsen-right-coach-celtic/?ref=rss"/>
-        <updated>2023-06-08T06:05:00.000Z</updated>
-        <summary type="html"><![CDATA[The Lubomir Moravcik factor that makes Kjetil Knutsen the ‘right coach’ for Celtic]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enzo Maresca in Celtic parallel to Ange as insider lifts lid on Parma]]></title>
-        <id>b4aa68c9108b2397d5a1b83e8cfd51f9</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23575009.enzo-maresca-celtic-parallel-ange-insider-lifts-lid-parma/?ref=rss"/>
-        <updated>2023-06-08T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Celtic managerial target had a strikingly brief spell at the Serie B side before returning to Manchester City.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
