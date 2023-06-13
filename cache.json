@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4180066",
+          "author": "Alan Pattullo",
+          "description": "Celebrations were still in full swing after Celtic successfully derailed Rangers’ ten-in-a-row bid when manager Wim Jansen put a dampener on things by confirming he was leaving.",
+          "link": "https://www.scotsman.com/sport/football/celtic/there-is-always-disruption-when-a-manager-leavesharald-brattbakk-on-flux-at-celtic-and-potential-norwegian-transfer-coup-4180066",
+          "publishedOn": "2023-06-13T06:00:00.000Z",
+          "wordCount": null,
+          "title": "\"There is always disruption when a manager leaves\"..Harald Brattbakk on flux at Celtic and potential Norwegian transfer coup",
+          "imageUrl": null
+        },
+        {
           "id": "4180025",
           "author": "Andrew Smith",
           "description": "As the Celtic support attempt to get their heads around the possibility of a return for Brendan Rodgers they would do well to heed the advice of the man he is now understood to have held talks over succeeding.",
@@ -146,8 +156,18 @@
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "c6ca76c82a11abb0e3b8b57c4aa0ed11",
+          "author": null,
+          "description": "Reports from Norway have linked the Valerenga midfielder with a move to Glasgow.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23584934.odin-thiago-holm-bring-celtic-revealed/?ref=rss",
+          "publishedOn": "2023-06-13T05:00:00.000Z",
+          "wordCount": 8893,
+          "title": "What Odin Thiago Holm would bring to Celtic revealed",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16881436/?type=og-image"
+        },
         {
           "id": "1df5fe35507eeab9461ba91b30aac069",
           "author": null,
@@ -537,26 +557,6 @@
           "wordCount": 9664,
           "title": "Celtic manager latest as Enzo Maresca given green light by Man City",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16858450/?type=og-image"
-        },
-        {
-          "id": "03cd393b469f39ac7c884a9001cc298d",
-          "author": null,
-          "description": "Tim Sherwood has wished Ange Postecoglou well in his new role at Tottenham, while warning that success must be brought instantly.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23577659.ange-postecoglou-sent-tottenham-sacking-warning-tim-sherwood/?ref=rss",
-          "publishedOn": "2023-06-08T17:34:25.000Z",
-          "wordCount": 8668,
-          "title": "Ange Postecoglou sent Tottenham sacking warning by Tim Sherwood",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16855122/?type=og-image"
-        },
-        {
-          "id": "65bcc907e135b86cac1539eaa9360c81",
-          "author": null,
-          "description": "Celtic are set to appoint Steven Hammell as head of coaching in a shake-up to the club's current set-up, according to reports.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23577517.celtic-set-coaching-shake-steven-hammell-appointment/?ref=rss",
-          "publishedOn": "2023-06-08T16:22:54.000Z",
-          "wordCount": 9682,
-          "title": "Celtic set for coaching shake up as Steven Hammell to be appointment",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16868847/?type=og-image"
         }
       ]
     }

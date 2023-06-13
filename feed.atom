@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-13T03:18:03.381Z</updated>
+    <updated>2023-06-13T06:21:33.849Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA["There is always disruption when a manager leaves"..Harald Brattbakk on flux at Celtic and potential Norwegian transfer coup]]></title>
+        <id>4180066</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/there-is-always-disruption-when-a-manager-leavesharald-brattbakk-on-flux-at-celtic-and-potential-norwegian-transfer-coup-4180066"/>
+        <updated>2023-06-13T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Celebrations were still in full swing after Celtic successfully derailed Rangers’ ten-in-a-row bid when manager Wim Jansen put a dampener on things by confirming he was leaving.]]></summary>
+        <author>
+            <name>Alan Pattullo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Odin Thiago Holm would bring to Celtic revealed]]></title>
+        <id>c6ca76c82a11abb0e3b8b57c4aa0ed11</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23584934.odin-thiago-holm-bring-celtic-revealed/?ref=rss"/>
+        <updated>2023-06-13T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Reports from Norway have linked the Valerenga midfielder with a move to Glasgow.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kjetil Knutsen gets Celtic recommendation over European credentials]]></title>
         <id>1df5fe35507eeab9461ba91b30aac069</id>
@@ -522,26 +542,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23577713.celtic-manager-latest-enzo-maresca-given-green-light-man-city/?ref=rss"/>
         <updated>2023-06-08T18:48:25.000Z</updated>
         <summary type="html"><![CDATA[Enzo Maresca has been given the green light by Manchester City to join Celtic as manager, if he is given the opportunity, according to reports.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ange Postecoglou sent Tottenham sacking warning by Tim Sherwood]]></title>
-        <id>03cd393b469f39ac7c884a9001cc298d</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23577659.ange-postecoglou-sent-tottenham-sacking-warning-tim-sherwood/?ref=rss"/>
-        <updated>2023-06-08T17:34:25.000Z</updated>
-        <summary type="html"><![CDATA[Tim Sherwood has wished Ange Postecoglou well in his new role at Tottenham, while warning that success must be brought instantly.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic set for coaching shake up as Steven Hammell to be appointment]]></title>
-        <id>65bcc907e135b86cac1539eaa9360c81</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23577517.celtic-set-coaching-shake-steven-hammell-appointment/?ref=rss"/>
-        <updated>2023-06-08T16:22:54.000Z</updated>
-        <summary type="html"><![CDATA[Celtic are set to appoint Steven Hammell as head of coaching in a shake-up to the club's current set-up, according to reports.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
