@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-13T01:42:53.609Z</updated>
+    <updated>2023-06-13T03:18:03.381Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -542,16 +542,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23577517.celtic-set-coaching-shake-steven-hammell-appointment/?ref=rss"/>
         <updated>2023-06-08T16:22:54.000Z</updated>
         <summary type="html"><![CDATA[Celtic are set to appoint Steven Hammell as head of coaching in a shake-up to the club's current set-up, according to reports.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic manager latest as Brendan Rodgers derailed by Ange Postecoglou]]></title>
-        <id>34a39171e729f569fcfa961b0a76abca</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23577156.celtic-manager-latest-brendan-rodgers-derailed-ange-postecoglou/?ref=rss"/>
-        <updated>2023-06-08T14:56:42.000Z</updated>
-        <summary type="html"><![CDATA[Brendan Rodgers could be derailed by Ange Postecoglou if he was to be appointed Celtic manager, according to reports.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
