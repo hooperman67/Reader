@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-13T12:34:24.693Z</updated>
+    <updated>2023-06-13T15:16:44.930Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Five Celtic players included in SPFL Team of the Season]]></title>
+        <id>3cf693805cafdba288ca5df08ad439fd</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23586852.five-celtic-players-included-spfl-team-season/?ref=rss"/>
+        <updated>2023-06-13T14:27:27.000Z</updated>
+        <summary type="html"><![CDATA[Celtic have made up the majority of spots in the SPFL Team of the Season, with five representatives]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brendan Rodgers Celtic latest as he considers 'various options']]></title>
+        <id>58e9b19cc1257759954ae5fddf0a4523</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23586847.brendan-rodgers-celtic-latest-considers-various-options/?ref=rss"/>
+        <updated>2023-06-13T14:26:26.000Z</updated>
+        <summary type="html"><![CDATA[The Irishman has this week emerged as the clear favourite to take over the reins at Parkhead.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Callum McGregor lauds Celtic supporters for treble party]]></title>
+        <id>c71a8311b96de7ba19c7b2084b1fa792</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23586703.callum-mcgregor-lauds-celtic-supporters-treble-party/?ref=rss"/>
+        <updated>2023-06-13T13:56:07.000Z</updated>
+        <summary type="html"><![CDATA[The captain has hailed the Celtic supporters for their celebrations after securing their eighth treble]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic captain Callum McGregor confesses emotional highlight]]></title>
+        <id>fb933be48c44a0e8ed5cf3bf58666e95</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23586505.celtic-captain-callum-mcgregor-confesses-emotional-highlight/?ref=rss"/>
+        <updated>2023-06-13T13:16:06.000Z</updated>
+        <summary type="html"><![CDATA[The captain admitted that Jota's goal was the most emotion he had ever felt in his career]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dermot Desmond lands in Glasgow as Celtic new manager search ramps up]]></title>
+        <id>4180896</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/dermot-desmond-lands-in-glasgow-as-celtic-new-manager-search-ramps-up-4180896"/>
+        <updated>2023-06-13T13:13:17.000Z</updated>
+        <summary type="html"><![CDATA[Celtic majority shareholder Dermot Desmond has landed Glasgow as the club's search for a new manager gathers pace.]]></summary>
+        <author>
+            <name>Matthew Elder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brendan Rodgers Celtic manager odds latest with talks in the pipeline]]></title>
+        <id>bd0534dba26894e9d42133450b22c57a</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23586481.brendan-rodgers-celtic-manager-odds-latest-talks-pipeline/?ref=rss"/>
+        <updated>2023-06-13T13:11:25.000Z</updated>
+        <summary type="html"><![CDATA[Brendan Rodgers is the odds-on favourite to be named the next manager of Celtic.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic's Jota earns top rating in Team of the Season squad]]></title>
         <id>f9de2358c7541e9e7cd3a160c0551448</id>

@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4180896",
+          "author": "Matthew Elder",
+          "description": "Celtic majority shareholder Dermot Desmond has landed Glasgow as the club's search for a new manager gathers pace.",
+          "link": "https://www.scotsman.com/sport/football/celtic/dermot-desmond-lands-in-glasgow-as-celtic-new-manager-search-ramps-up-4180896",
+          "publishedOn": "2023-06-13T13:13:17.000Z",
+          "wordCount": null,
+          "title": "Dermot Desmond lands in Glasgow as Celtic new manager search ramps up",
+          "imageUrl": null
+        },
+        {
           "id": "4180227",
           "author": "Chris Andrews",
           "description": "Brendan Rodgers is the No.1 candidate for the Celtic job with the Scottish champions set to make the Northern Irishman a tempting offer – and a club legend could also return.",
@@ -148,6 +158,56 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "3cf693805cafdba288ca5df08ad439fd",
+          "author": null,
+          "description": "Celtic have made up the majority of spots in the SPFL Team of the Season, with five representatives",
+          "link": "https://www.glasgowtimes.co.uk/sport/23586852.five-celtic-players-included-spfl-team-season/?ref=rss",
+          "publishedOn": "2023-06-13T14:27:27.000Z",
+          "wordCount": 8519,
+          "title": "Five Celtic players included in SPFL Team of the Season",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16884345/?type=og-image"
+        },
+        {
+          "id": "58e9b19cc1257759954ae5fddf0a4523",
+          "author": null,
+          "description": "The Irishman has this week emerged as the clear favourite to take over the reins at Parkhead.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23586847.brendan-rodgers-celtic-latest-considers-various-options/?ref=rss",
+          "publishedOn": "2023-06-13T14:26:26.000Z",
+          "wordCount": 8489,
+          "title": "Brendan Rodgers Celtic latest as he considers 'various options'",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16884199/?type=og-image"
+        },
+        {
+          "id": "c71a8311b96de7ba19c7b2084b1fa792",
+          "author": null,
+          "description": "The captain has hailed the Celtic supporters for their celebrations after securing their eighth treble",
+          "link": "https://www.glasgowtimes.co.uk/sport/23586703.callum-mcgregor-lauds-celtic-supporters-treble-party/?ref=rss",
+          "publishedOn": "2023-06-13T13:56:07.000Z",
+          "wordCount": 8551,
+          "title": "Callum McGregor lauds Celtic supporters for treble party",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16884042/?type=og-image"
+        },
+        {
+          "id": "fb933be48c44a0e8ed5cf3bf58666e95",
+          "author": null,
+          "description": "The captain admitted that Jota's goal was the most emotion he had ever felt in his career",
+          "link": "https://www.glasgowtimes.co.uk/sport/23586505.celtic-captain-callum-mcgregor-confesses-emotional-highlight/?ref=rss",
+          "publishedOn": "2023-06-13T13:16:06.000Z",
+          "wordCount": 8494,
+          "title": "Celtic captain Callum McGregor confesses emotional highlight",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16883731/?type=og-image"
+        },
+        {
+          "id": "bd0534dba26894e9d42133450b22c57a",
+          "author": null,
+          "description": "Brendan Rodgers is the odds-on favourite to be named the next manager of Celtic.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23586481.brendan-rodgers-celtic-manager-odds-latest-talks-pipeline/?ref=rss",
+          "publishedOn": "2023-06-13T13:11:25.000Z",
+          "wordCount": 8667,
+          "title": "Brendan Rodgers Celtic manager odds latest with talks in the pipeline",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16883706/?type=og-image"
+        },
         {
           "id": "f9de2358c7541e9e7cd3a160c0551448",
           "author": null,
