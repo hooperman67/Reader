@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-13T15:16:44.930Z</updated>
+    <updated>2023-06-13T18:20:45.208Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Scott Brown Celtic return latest with 'no contact' made]]></title>
+        <id>f94993ecc316d7646b342386d74537ba</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23587488.scott-brown-celtic-return-latest-no-contact-made/?ref=rss"/>
+        <updated>2023-06-13T16:46:34.000Z</updated>
+        <summary type="html"><![CDATA[Reports earlier this week had suggested that Broony would be brought back to serve as No.2 under Rodgers.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scottish Premiership transfers to watch as window opens - in-demand Celtic star, key Rangers target, Hearts & Aberdeen aces]]></title>
+        <id>4181355</id>
+        <link href="https://www.scotsman.com/sport/football/scottish-premiership-transfers-to-watch-as-window-opens-in-demand-celtic-star-key-rangers-target-hearts-aberdeen-aces-4181355"/>
+        <updated>2023-06-13T15:37:00.000Z</updated>
+        <summary type="html"><![CDATA[Scottish Premiership clubs have already started shaping their squads for next season and activity will only increase when the transfer window opens on Wednesday, June 14. The Scotsman picks out some of the high-profile moves which could happen, both in terms of incomings and outgoings.]]></summary>
+        <author>
+            <name>Joel Sked</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic's Daizen Maeda credits Postecoglou to personal growth]]></title>
+        <id>67ae2e6f8c2cf0d253ee5e7e1d2e0308</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23587150.celtics-daizen-maeda-credits-postecoglou-personal-growth/?ref=rss"/>
+        <updated>2023-06-13T15:25:16.000Z</updated>
+        <summary type="html"><![CDATA[The Celtic winger shared his thanks to how the former manager helped improve his overall game]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brendan Rodgers to Celtic 'on verge' of completion]]></title>
+        <id>731ea03fb2aac17a95d3f8ae1e670f9f</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23587107.brendan-rodgers-celtic-on-verge-completion/?ref=rss"/>
+        <updated>2023-06-13T15:15:44.000Z</updated>
+        <summary type="html"><![CDATA[The Irishman is set to re-joined the Scottish champions just four years after leaving the club in 2019.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Five Celtic players included in SPFL Team of the Season]]></title>
         <id>3cf693805cafdba288ca5df08ad439fd</id>
@@ -652,26 +692,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23577887.3-jobs-ange-postecoglou-rejected-tottenham-chance/?ref=rss"/>
         <updated>2023-06-09T06:55:10.000Z</updated>
         <summary type="html"><![CDATA[The Australian signed a four-year deal with the North London club on Tuesday, a matter of days after he guided the Hoops to their eighth treble.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SFA chief defends VAR ahead of Premiership summit as Ian Maxwell points to '27 times we got it right']]></title>
-        <id>4175133</id>
-        <link href="https://www.scotsman.com/sport/football/sfa-chief-defends-var-ahead-of-premiership-summit-as-ian-maxwell-points-to-27-times-we-got-it-right-4175133"/>
-        <updated>2023-06-09T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Scottish FA chief executive Ian Maxwell has defended VAR ahead of a summit with Premiership clubs by insisting it prevented a total of 27 incorrect decisions last season.]]></summary>
-        <author>
-            <name>Andrew Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brendan Rodgers on Celtic redemption trail as fans 'thaw' on ex boss]]></title>
-        <id>c6f3852da72bd2ae4935d1ef623714c4</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23577258.brendan-rodgers-celtic-redemption-trail-fans-thaw-ex-boss/?ref=rss"/>
-        <updated>2023-06-09T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The former Celtic manager left the club abruptly in 2019 - but could there be a way back for him four years on?]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>

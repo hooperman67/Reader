@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4181355",
+          "author": "Joel Sked",
+          "description": "Scottish Premiership clubs have already started shaping their squads for next season and activity will only increase when the transfer window opens on Wednesday, June 14. The Scotsman picks out some of the high-profile moves which could happen, both in terms of incomings and outgoings.",
+          "link": "https://www.scotsman.com/sport/football/scottish-premiership-transfers-to-watch-as-window-opens-in-demand-celtic-star-key-rangers-target-hearts-aberdeen-aces-4181355",
+          "publishedOn": "2023-06-13T15:37:00.000Z",
+          "wordCount": null,
+          "title": "Scottish Premiership transfers to watch as window opens - in-demand Celtic star, key Rangers target, Hearts & Aberdeen aces",
+          "imageUrl": null
+        },
+        {
           "id": "4180896",
           "author": "Matthew Elder",
           "description": "Celtic majority shareholder Dermot Desmond has landed Glasgow as the club's search for a new manager gathers pace.",
@@ -134,16 +144,6 @@
           "wordCount": null,
           "title": "Ange Postecoglou delivers first Tottenham address as ex-Celtic boss promises 'team to be excited by'",
           "imageUrl": null
-        },
-        {
-          "id": "4175133",
-          "author": "Andrew Smith",
-          "description": "Scottish FA chief executive Ian Maxwell has defended VAR ahead of a summit with Premiership clubs by insisting it prevented a total of 27 incorrect decisions last season.",
-          "link": "https://www.scotsman.com/sport/football/sfa-chief-defends-var-ahead-of-premiership-summit-as-ian-maxwell-points-to-27-times-we-got-it-right-4175133",
-          "publishedOn": "2023-06-09T06:00:00.000Z",
-          "wordCount": null,
-          "title": "SFA chief defends VAR ahead of Premiership summit as Ian Maxwell points to '27 times we got it right'",
-          "imageUrl": null
         }
       ]
     },
@@ -158,6 +158,36 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "f94993ecc316d7646b342386d74537ba",
+          "author": null,
+          "description": "Reports earlier this week had suggested that Broony would be brought back to serve as No.2 under Rodgers.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23587488.scott-brown-celtic-return-latest-no-contact-made/?ref=rss",
+          "publishedOn": "2023-06-13T16:46:34.000Z",
+          "wordCount": 8539,
+          "title": "Scott Brown Celtic return latest with 'no contact' made",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16885258/?type=og-image"
+        },
+        {
+          "id": "67ae2e6f8c2cf0d253ee5e7e1d2e0308",
+          "author": null,
+          "description": "The Celtic winger shared his thanks to how the former manager helped improve his overall game",
+          "link": "https://www.glasgowtimes.co.uk/sport/23587150.celtics-daizen-maeda-credits-postecoglou-personal-growth/?ref=rss",
+          "publishedOn": "2023-06-13T15:25:16.000Z",
+          "wordCount": 8525,
+          "title": "Celtic's Daizen Maeda credits Postecoglou to personal growth",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16884818/?type=og-image"
+        },
+        {
+          "id": "731ea03fb2aac17a95d3f8ae1e670f9f",
+          "author": null,
+          "description": "The Irishman is set to re-joined the Scottish champions just four years after leaving the club in 2019.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23587107.brendan-rodgers-celtic-on-verge-completion/?ref=rss",
+          "publishedOn": "2023-06-13T15:15:44.000Z",
+          "wordCount": 8576,
+          "title": "Brendan Rodgers to Celtic 'on verge' of completion",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16884708/?type=og-image"
+        },
         {
           "id": "3cf693805cafdba288ca5df08ad439fd",
           "author": null,
@@ -677,16 +707,6 @@
           "wordCount": 8495,
           "title": "The 3 jobs Ange Postecoglou rejected before Tottenham chance",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16869437/?type=og-image"
-        },
-        {
-          "id": "c6f3852da72bd2ae4935d1ef623714c4",
-          "author": null,
-          "description": "The former Celtic manager left the club abruptly in 2019 - but could there be a way back for him four years on?",
-          "link": "https://www.glasgowtimes.co.uk/sport/23577258.brendan-rodgers-celtic-redemption-trail-fans-thaw-ex-boss/?ref=rss",
-          "publishedOn": "2023-06-09T05:00:00.000Z",
-          "wordCount": 9297,
-          "title": "Brendan Rodgers on Celtic redemption trail as fans 'thaw' on ex boss",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16868484/?type=og-image"
         }
       ]
     }
