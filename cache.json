@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4180227",
+          "author": "Chris Andrews",
+          "description": "Brendan Rodgers is the No.1 candidate for the Celtic job with the Scottish champions set to make the Northern Irishman a tempting offer – and a club legend could also return.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtic-to-make-brendan-rodgers-move-as-former-boss-no1-candidate-and-legend-could-return-4180227",
+          "publishedOn": "2023-06-13T08:27:24.000Z",
+          "wordCount": null,
+          "title": "Celtic to make Brendan Rodgers move as former boss No.1 candidate and legend could return",
+          "imageUrl": null
+        },
+        {
           "id": "4180066",
           "author": "Alan Pattullo",
           "description": "Celebrations were still in full swing after Celtic successfully derailed Rangers’ ten-in-a-row bid when manager Wim Jansen put a dampener on things by confirming he was leaving.",
@@ -134,16 +144,6 @@
           "wordCount": null,
           "title": "'Not a one summer fix' - Rangers title chances played down by Ibrox legend despite Celtic upheaval",
           "imageUrl": null
-        },
-        {
-          "id": "4175440",
-          "author": "Matthew Elder",
-          "description": "Rangers could be in line to receive a lucrative place in a revamped Club World Cup alongside some of the world's biggest clubs in 2025.",
-          "link": "https://www.scotsman.com/sport/football/rangers/rangers-in-line-for-lucrative-club-world-cup-spot-why-celtic-will-miss-out-4175440",
-          "publishedOn": "2023-06-08T19:05:11.000Z",
-          "wordCount": null,
-          "title": "Rangers in line for lucrative Club World Cup spot - why Celtic will miss out",
-          "imageUrl": null
         }
       ]
     },
@@ -158,6 +158,56 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "e7a42c5c3de9ee296dd13c27cf36af50",
+          "author": null,
+          "description": "CELTIC striker Oh Hyeon-gyu has backed Ange Postecoglou to be a hit at Spurs after revealing Son Heung-min has quizzed him about his new manager.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23585400.oh-backs-ange-postecoglou-spurs-success-son-scouting-mission/?ref=rss",
+          "publishedOn": "2023-06-13T09:03:34.000Z",
+          "wordCount": 8583,
+          "title": "Oh backs Ange Postecoglou for Spurs success after Son scouting mission",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16881953/?type=og-image"
+        },
+        {
+          "id": "8e9a010658397fc66711b2c6ee9be98a",
+          "author": null,
+          "description": "Ally McCoist believes Brendan Rodgers would be a \"brilliant\" appointment for Celtic as the Scottish champions continue their hunt to replace Ange Postecoglou.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23585255.ally-mccoist-delivers-celtic-fan-prediction-rodgers-appointment/?ref=rss",
+          "publishedOn": "2023-06-13T08:27:47.000Z",
+          "wordCount": 8604,
+          "title": "Ally McCoist delivers Celtic fan prediction over Rodgers appointment",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16090761/?type=og-image"
+        },
+        {
+          "id": "afe10e0142053f4e9c5acad753443ac1",
+          "author": null,
+          "description": "Celtic will do all they can to keep Reo Hatate at the club this summer transfer window.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23585081.reo-hatate-celtic-transfer-latest-hoops-ready-fight/?ref=rss",
+          "publishedOn": "2023-06-13T07:29:35.000Z",
+          "wordCount": 9693,
+          "title": "Reo Hatate Celtic transfer latest with Hoops ready for a fight",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16881578/?type=og-image"
+        },
+        {
+          "id": "5187273788fae31a7ea503c5558a6adc",
+          "author": null,
+          "description": "Celtic are set to table a bumper offer to bring Brendan Rodgers in as manager - and Hoops chiefs want Scott Brown to join him, according to reports.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23585034.celtic-manager-latest-scott-brown-lined-sensational-return/?ref=rss",
+          "publishedOn": "2023-06-13T06:49:32.000Z",
+          "wordCount": 8539,
+          "title": "Celtic manager latest as Scott Brown lined up for sensational return",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16881532/?type=og-image"
+        },
+        {
+          "id": "9ccf1fefa9f88d32699f1e05a030d00d",
+          "author": null,
+          "description": "Charlie Nicholas shares his major Brendan Rodgers fear",
+          "link": "https://www.glasgowtimes.co.uk/sport/23585011.charlie-nicholas-shares-brendan-rodgers-celtic-fear-factor/?ref=rss",
+          "publishedOn": "2023-06-13T06:22:57.000Z",
+          "wordCount": 8595,
+          "title": "Charlie Nicholas shares Brendan Rodgers Celtic fear factor",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16856658/?type=og-image"
+        },
         {
           "id": "c6ca76c82a11abb0e3b8b57c4aa0ed11",
           "author": null,
@@ -547,16 +597,6 @@
           "wordCount": 8513,
           "title": "Celtic manager latest as AZ Alkmaar ready for Pascal Jansen fight",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16869293/?type=og-image"
-        },
-        {
-          "id": "1223b7a2260d57c861cfbb8123ecce48",
-          "author": null,
-          "description": "Enzo Maresca has been given the green light by Manchester City to join Celtic as manager, if he is given the opportunity, according to reports.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23577713.celtic-manager-latest-enzo-maresca-given-green-light-man-city/?ref=rss",
-          "publishedOn": "2023-06-08T18:48:25.000Z",
-          "wordCount": 9664,
-          "title": "Celtic manager latest as Enzo Maresca given green light by Man City",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16858450/?type=og-image"
         }
       ]
     }
