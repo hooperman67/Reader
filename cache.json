@@ -134,26 +134,6 @@
           "wordCount": null,
           "title": "Rangers in line for lucrative Club World Cup spot - why Celtic will miss out",
           "imageUrl": null
-        },
-        {
-          "id": "4174505",
-          "author": "Matthew Elder",
-          "description": "Pascal Jansen is the latest manager to be linked with the Celtic job following the departure of Ange Postecoglou to Tottenham.",
-          "link": "https://www.scotsman.com/sport/football/celtic/celtic-next-manager-highly-rated-dutch-coach-added-to-list-of-candidates-by-parkhead-board-4174505",
-          "publishedOn": "2023-06-08T11:29:29.000Z",
-          "wordCount": null,
-          "title": "Celtic next manager: Highly-rated Dutch coach 'added to list' of candidates by Parkhead board",
-          "imageUrl": null
-        },
-        {
-          "id": "4174376",
-          "author": "Joel Sked",
-          "description": "Now the season has finished for all 12 Scottish Premiership clubs, focus turns to pre-season, preparation and next season which means tweaking the squad, players coming and going.",
-          "link": "https://www.scotsman.com/sport/football/celtic/when-the-transfer-window-opens-for-scottish-premiership-clubs-when-it-closes-the-10-deals-done-so-far-4174376",
-          "publishedOn": "2023-06-08T10:41:01.000Z",
-          "wordCount": null,
-          "title": "When the transfer window opens for Scottish Premiership clubs, when it closes, the 10 deals done so far",
-          "imageUrl": null
         }
       ]
     },
@@ -166,8 +146,18 @@
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
       "articles": [
+        {
+          "id": "1df5fe35507eeab9461ba91b30aac069",
+          "author": null,
+          "description": "The Bodo/Glimt manager is among a host of names being linked to the vacant Parkhead job.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23584902.kjetil-knutsen-gets-celtic-recommendation-european-credentials/?ref=rss",
+          "publishedOn": "2023-06-12T21:30:00.000Z",
+          "wordCount": 9555,
+          "title": "Kjetil Knutsen gets Celtic recommendation over European credentials",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16859674/?type=og-image"
+        },
         {
           "id": "23f8f9047f5936ef12d5bcd3478140bc",
           "author": null,
@@ -577,36 +567,6 @@
           "wordCount": 8653,
           "title": "Celtic manager latest as Brendan Rodgers derailed by Ange Postecoglou",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16868278/?type=og-image"
-        },
-        {
-          "id": "6f0b51758ddb8c75dd24d5cca72cf889",
-          "author": null,
-          "description": "Former West Brom defender Jack Fitzwater is expected to return south of the border after allowing his contract to run down at Livingston.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23576662.celtic-star-kyogo-actually-quite-dirty-player/?ref=rss",
-          "publishedOn": "2023-06-08T13:24:05.000Z",
-          "wordCount": 8567,
-          "title": "Celtic star Kyogo 'actually quite dirty as a player'",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16867566/?type=og-image"
-        },
-        {
-          "id": "cf04ed5b9761ebffb774bad54a011d0d",
-          "author": null,
-          "description": "Following manager Ange Postecoglou’s departure from Celtic Park there has been a whirlwind of speculation as to who will replace him.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23576635.iraola-rumours-gather-steam-celtic-clinks-continue/?ref=rss",
-          "publishedOn": "2023-06-08T13:17:57.000Z",
-          "wordCount": 8559,
-          "title": "Iraola rumours gather steam as Celtic links continue",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16867896/?type=og-image"
-        },
-        {
-          "id": "42be40c49c4534a47a04d8751a0b9bd8",
-          "author": null,
-          "description": "The 50-year-old has never worked in the UK before but is well known for his attractive style of football.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23575600.pascal-jansen-celtic-alkmaar-boss-become-shock-contender/?ref=rss",
-          "publishedOn": "2023-06-08T09:35:01.000Z",
-          "wordCount": 8626,
-          "title": "Pascal Jansen to Celtic as Alkmaar boss become 'shock contender'",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16865825/?type=og-image"
         }
       ]
     }
