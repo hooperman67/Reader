@@ -6,6 +6,26 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4181598",
+          "author": "Andrew Smith",
+          "description": "Scotland assistant John Carver has revealed he has been provided with personal intel that has confirmed potential problems with the Oslo pitch that will host the country’s crucial Euro 2024 qualifier against Norway on Saturday.",
+          "link": "https://www.scotsman.com/sport/football/international/scotland-concerns-over-norway-pitch-as-surface-branded-horrible-and-covered-in-sand-4181598",
+          "publishedOn": "2023-06-14T06:00:00.000Z",
+          "wordCount": null,
+          "title": "Scotland concerns over Norway pitch as surface branded 'horrible' and covered in 'sand'",
+          "imageUrl": null
+        },
+        {
+          "id": "4181626",
+          "author": "Matthew Elder",
+          "description": "It’s official – the transfer window is now open in Scotland. Clubs can now buy and sell players but for Celtic the focus is on appointing a manager to oversee their transfer business ...",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtic-transfer-window-midfielder-linked-possible-brendan-rodgers-targets-ange-postecoglou-ps20m-raid-4181626",
+          "publishedOn": "2023-06-14T05:45:00.000Z",
+          "wordCount": null,
+          "title": "Celtic transfer window: Midfielder linked, possible Brendan Rodgers targets, Ange Postecoglou £20m raid",
+          "imageUrl": null
+        },
+        {
           "id": "4181614",
           "author": "Oliver Anderson",
           "description": "Brendan Rodgers is closing in on a sensational return to Celtic amid reports that he has held positive talks with the club heirarchy over succeeding Ange Postecoglou.",
@@ -156,8 +176,18 @@
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "39cfc03c0af29ba7b2a795336c14d959",
+          "author": null,
+          "description": "The formerly all-conquering Parkhead manager is the frontrunner to succeed Ange Postecoglou.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23587715.celtic-pros-cons-brendan-rodgers-nears-sensational-return/?ref=rss",
+          "publishedOn": "2023-06-14T05:00:00.000Z",
+          "wordCount": 9379,
+          "title": "The Celtic pros and cons as Brendan Rodgers nears sensational return",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16885837/?type=og-image"
+        },
         {
           "id": "f94993ecc316d7646b342386d74537ba",
           "author": null,
