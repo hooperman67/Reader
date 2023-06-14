@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-14T06:21:45.649Z</updated>
+    <updated>2023-06-14T09:16:17.914Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic reveal black away kit with Scottish heritage for new season]]></title>
+        <id>1ba29d946ed7e0b718947916cc842089</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23587847.celtic-reveal-black-away-kit-scottish-heritage-new-season/?ref=rss"/>
+        <updated>2023-06-14T07:22:13.000Z</updated>
+        <summary type="html"><![CDATA[The Celts head into the new season at the top of their game, as history-making, Treble-winning champions of Scotland.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brendan Rodgers to Celtic latest as details emerge of talks]]></title>
+        <id>bda5c8ad7a8eb9afccb8a40b15212d21</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23587790.brendan-rodgers-celtic-latest-details-emerge-talks/?ref=rss"/>
+        <updated>2023-06-14T06:32:18.000Z</updated>
+        <summary type="html"><![CDATA[Brendan Rodgers has reportedly told Celtic chiefs that turning the Scottish champions into a Champions League force would be at the top of his agenda.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scotland concerns over Norway pitch as surface branded 'horrible' and covered in 'sand']]></title>
         <id>4181598</id>
@@ -642,16 +662,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23580575.spurs-approach-kennedy-strachan-given-cold-shoulder-celtic/?ref=rss"/>
         <updated>2023-06-09T21:41:48.000Z</updated>
         <summary type="html"><![CDATA[Ange Postecoglou is keen to take John Kennedy and Gavin Strachan to Tottenham with him from Celtic.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Andy Walker confirms Sky Sports Scotland shake-up rumours]]></title>
-        <id>2523096141def558a27cb9544ad977a1</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23580504.andy-walker-confirms-sky-sports-scotland-shake-up-rumours/?ref=rss"/>
-        <updated>2023-06-09T19:23:48.000Z</updated>
-        <summary type="html"><![CDATA[Andy Walker has confirmed he won't cover games in Scotland for Sky Sports next season.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>

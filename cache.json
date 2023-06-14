@@ -179,6 +179,26 @@
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
         {
+          "id": "1ba29d946ed7e0b718947916cc842089",
+          "author": null,
+          "description": "The Celts head into the new season at the top of their game, as history-making, Treble-winning champions of Scotland.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23587847.celtic-reveal-black-away-kit-scottish-heritage-new-season/?ref=rss",
+          "publishedOn": "2023-06-14T07:22:13.000Z",
+          "wordCount": 8410,
+          "title": "Celtic reveal black away kit with Scottish heritage for new season",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16886013/?type=og-image"
+        },
+        {
+          "id": "bda5c8ad7a8eb9afccb8a40b15212d21",
+          "author": null,
+          "description": "Brendan Rodgers has reportedly told Celtic chiefs that turning the Scottish champions into a Champions League force would be at the top of his agenda.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23587790.brendan-rodgers-celtic-latest-details-emerge-talks/?ref=rss",
+          "publishedOn": "2023-06-14T06:32:18.000Z",
+          "wordCount": 8541,
+          "title": "Brendan Rodgers to Celtic latest as details emerge of talks",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16881530/?type=og-image"
+        },
+        {
           "id": "39cfc03c0af29ba7b2a795336c14d959",
           "author": null,
           "description": "The formerly all-conquering Parkhead manager is the frontrunner to succeed Ange Postecoglou.",
@@ -657,16 +677,6 @@
           "wordCount": 8487,
           "title": "Spurs approach for Kennedy & Strachan 'given cold-shoulder by Celtic'",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16873784/?type=og-image"
-        },
-        {
-          "id": "2523096141def558a27cb9544ad977a1",
-          "author": null,
-          "description": "Andy Walker has confirmed he won't cover games in Scotland for Sky Sports next season.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23580504.andy-walker-confirms-sky-sports-scotland-shake-up-rumours/?ref=rss",
-          "publishedOn": "2023-06-09T19:23:48.000Z",
-          "wordCount": 8562,
-          "title": "Andy Walker confirms Sky Sports Scotland shake-up rumours",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16873704/?type=og-image"
         }
       ]
     }
