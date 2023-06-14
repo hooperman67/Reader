@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4181614",
+          "author": "Oliver Anderson",
+          "description": "Brendan Rodgers is closing in on a sensational return to Celtic amid reports that he has held positive talks with the club heirarchy over succeeding Ange Postecoglou.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtic-confident-over-brendan-rodgers-return-as-timeline-set-out-for-managerial-appointment-4181614",
+          "publishedOn": "2023-06-13T21:29:57.000Z",
+          "wordCount": null,
+          "title": "Celtic 'confident' over Brendan Rodgers return as timeline set out for managerial appointment",
+          "imageUrl": null
+        },
+        {
           "id": "4181355",
           "author": "Joel Sked",
           "description": "Scottish Premiership clubs have already started shaping their squads for next season and activity will only increase when the transfer window opens on Wednesday, June 14. The Scotsman picks out some of the high-profile moves which could happen, both in terms of incomings and outgoings.",
@@ -156,7 +166,7 @@
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
       "articles": [
         {
           "id": "f94993ecc316d7646b342386d74537ba",
@@ -657,36 +667,6 @@
           "wordCount": 8548,
           "title": "Ange Postecoglou first Spurs interview since leaving Celtic",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16871846/?type=og-image"
-        },
-        {
-          "id": "48d8b1bf9c47c4ac4c40bc7ae5f34f53",
-          "author": null,
-          "description": "The 60-year-old has just guided the Hammers to Europa Conference League glory, as his side defeated Fiorentina on Wednesday night.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23579341.david-moyes-celtic-latest-amid-doubts-west-ham-future/?ref=rss",
-          "publishedOn": "2023-06-09T13:34:35.000Z",
-          "wordCount": 9570,
-          "title": "David Moyes Celtic latest amid doubts of West Ham future",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16871694/?type=og-image"
-        },
-        {
-          "id": "d62a202592df0ae36b17e9eb88520698",
-          "author": null,
-          "description": "The Manchester City assistant has been widely touted for the vacant post at Parkhead.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23579112.celtic-next-manager-odds-latest-enzo-maresca-evens/?ref=rss",
-          "publishedOn": "2023-06-09T12:39:41.000Z",
-          "wordCount": 9591,
-          "title": "Celtic next manager odds latest with Enzo Maresca evens",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16871268/?type=og-image"
-        },
-        {
-          "id": "dda0bde7e9da72998495eea2b1137879",
-          "author": null,
-          "description": "The Japanese star merely posted a message of congratulations to everyone involved with the club after the 2022/23 campaign.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23578987.celtic-fans-sweating-emotional-kyogo-social-media-post/?ref=rss",
-          "publishedOn": "2023-06-09T11:58:31.000Z",
-          "wordCount": 8511,
-          "title": "Celtic fans sweating after emotional Kyogo social media post",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16871020/?type=og-image"
         }
       ]
     }
