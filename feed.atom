@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-14T01:41:47.341Z</updated>
+    <updated>2023-06-14T03:17:51.239Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -622,36 +622,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23580504.andy-walker-confirms-sky-sports-scotland-shake-up-rumours/?ref=rss"/>
         <updated>2023-06-09T19:23:48.000Z</updated>
         <summary type="html"><![CDATA[Andy Walker has confirmed he won't cover games in Scotland for Sky Sports next season.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stevie Hammell appointed Celtic head of academy coaching]]></title>
-        <id>3402d8e661e70302556a730f64f4d0bd</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23579878.stevie-hammell-appointed-celtic-head-academy-coaching/?ref=rss"/>
-        <updated>2023-06-09T15:14:51.000Z</updated>
-        <summary type="html"><![CDATA[Stevie Hammell has been appointed in the new position of head of academy coaching at Celtic.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ange Postecoglou delivers first Tottenham address as ex-Celtic boss promises 'team to be excited by']]></title>
-        <id>4177051</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/ange-postecoglou-delivers-first-tottenham-address-as-ex-celtic-boss-promises-team-to-be-excited-by-4177051"/>
-        <updated>2023-06-09T14:42:45.000Z</updated>
-        <summary type="html"><![CDATA[Ange Postecoglou has promised “a team to get excited by” as he strives for success after being appointed as Tottenham head coach.]]></summary>
-        <author>
-            <name>Oliver Anderson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ange Postecoglou first Spurs interview since leaving Celtic]]></title>
-        <id>d0554bb97f2adbda802f9c3c36c0d3b1</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23579434.ange-postecoglou-first-spurs-interview-since-leaving-celtic/?ref=rss"/>
-        <updated>2023-06-09T13:51:22.000Z</updated>
-        <summary type="html"><![CDATA[The 57-year-old joined Spurs on a four-year deal earlier this week, bringing his two year spell in Glasgow to an end.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
