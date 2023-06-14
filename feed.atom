@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-14T12:34:30.033Z</updated>
+    <updated>2023-06-14T15:17:10.104Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Scottish transfers: Rangers target wanted, Celtic's star admission, Hearts, Hibs and Aberdeen latest]]></title>
+        <id>4182889</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/scottish-transfers-rangers-target-wanted-celtics-star-admission-hearts-hibs-and-aberdeen-latest-4182889"/>
+        <updated>2023-06-14T14:33:02.000Z</updated>
+        <summary type="html"><![CDATA[The transfer window has officially opened in Scotland which means clubs can complete deals ahead of the new season. Some transfers have already been confirmed.]]></summary>
+        <author>
+            <name>Joel Sked</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Five potential Brendan Rodgers Celtic assistant candidates]]></title>
+        <id>861340d353241da47ba044f72b79cc37</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23588913.five-potential-brendan-rodgers-celtic-assistant-candidates/?ref=rss"/>
+        <updated>2023-06-14T13:20:00.000Z</updated>
+        <summary type="html"><![CDATA[There are several candidates who could join the 50-year-old's backroom staff.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Megan McKenna announces engagement to former Celtic player]]></title>
+        <id>246edc87a96fd5207057ecb928244b4f</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23589201.megan-mckenna-announces-engagement-former-celtic-player/?ref=rss"/>
+        <updated>2023-06-14T13:16:06.000Z</updated>
+        <summary type="html"><![CDATA[The former Celtic player popped the question while on holiday with girlfriend Megan McKenna.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brendan Rodgers should be excited by Celtic squad - former stars and Leicester players could be targets]]></title>
+        <id>4182635</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/brendan-rodgers-should-be-excited-by-celtic-squad-former-stars-and-leicester-players-could-be-targets-4182635"/>
+        <updated>2023-06-14T12:46:44.000Z</updated>
+        <summary type="html"><![CDATA[When Celtic fans unfurled a banner at Tynecastle Park in February 2019 calling Brendan Rodgers a “fraud” after his decision to move to Leicester City it was difficult to see a return at any point for the Northern Irishman.]]></summary>
+        <author>
+            <name>Joel Sked</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brendan Rodgers to Celtic latest as fresh talks set for today]]></title>
+        <id>c55a4f91431f2bebe078822ceba24006</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23588917.brendan-rodgers-celtic-latest-fresh-talks-set-today/?ref=rss"/>
+        <updated>2023-06-14T11:58:38.000Z</updated>
+        <summary type="html"><![CDATA[Brendan Rodgers is set to hold fresh talks with Celtic supremo Dermot Desmond today, according to reports.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Brendan Rodgers to Celtic latest as Leeds reports 'wide of the mark']]></title>
         <id>8bfee12901ba64b1b19e2a8566c49e30</id>

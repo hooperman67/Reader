@@ -6,6 +6,26 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4182889",
+          "author": "Joel Sked",
+          "description": "The transfer window has officially opened in Scotland which means clubs can complete deals ahead of the new season. Some transfers have already been confirmed.",
+          "link": "https://www.scotsman.com/sport/football/celtic/scottish-transfers-rangers-target-wanted-celtics-star-admission-hearts-hibs-and-aberdeen-latest-4182889",
+          "publishedOn": "2023-06-14T14:33:02.000Z",
+          "wordCount": null,
+          "title": "Scottish transfers: Rangers target wanted, Celtic's star admission, Hearts, Hibs and Aberdeen latest",
+          "imageUrl": null
+        },
+        {
+          "id": "4182635",
+          "author": "Joel Sked",
+          "description": "When Celtic fans unfurled a banner at Tynecastle Park in February 2019 calling Brendan Rodgers a “fraud” after his decision to move to Leicester City it was difficult to see a return at any point for the Northern Irishman.",
+          "link": "https://www.scotsman.com/sport/football/celtic/brendan-rodgers-should-be-excited-by-celtic-squad-former-stars-and-leicester-players-could-be-targets-4182635",
+          "publishedOn": "2023-06-14T12:46:44.000Z",
+          "wordCount": null,
+          "title": "Brendan Rodgers should be excited by Celtic squad - former stars and Leicester players could be targets",
+          "imageUrl": null
+        },
+        {
           "id": "4181598",
           "author": "Andrew Smith",
           "description": "Scotland assistant John Carver has revealed he has been provided with personal intel that has confirmed potential problems with the Oslo pitch that will host the country’s crucial Euro 2024 qualifier against Norway on Saturday.",
@@ -178,6 +198,36 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "861340d353241da47ba044f72b79cc37",
+          "author": null,
+          "description": "There are several candidates who could join the 50-year-old's backroom staff.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23588913.five-potential-brendan-rodgers-celtic-assistant-candidates/?ref=rss",
+          "publishedOn": "2023-06-14T13:20:00.000Z",
+          "wordCount": 9175,
+          "title": "Five potential Brendan Rodgers Celtic assistant candidates",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16888008/?type=og-image"
+        },
+        {
+          "id": "246edc87a96fd5207057ecb928244b4f",
+          "author": null,
+          "description": "The former Celtic player popped the question while on holiday with girlfriend Megan McKenna.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23589201.megan-mckenna-announces-engagement-former-celtic-player/?ref=rss",
+          "publishedOn": "2023-06-14T13:16:06.000Z",
+          "wordCount": 8318,
+          "title": "Megan McKenna announces engagement to former Celtic player",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16888061/?type=og-image"
+        },
+        {
+          "id": "c55a4f91431f2bebe078822ceba24006",
+          "author": null,
+          "description": "Brendan Rodgers is set to hold fresh talks with Celtic supremo Dermot Desmond today, according to reports.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23588917.brendan-rodgers-celtic-latest-fresh-talks-set-today/?ref=rss",
+          "publishedOn": "2023-06-14T11:58:38.000Z",
+          "wordCount": 8558,
+          "title": "Brendan Rodgers to Celtic latest as fresh talks set for today",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/11502511/?type=og-image"
+        },
         {
           "id": "8bfee12901ba64b1b19e2a8566c49e30",
           "author": null,
