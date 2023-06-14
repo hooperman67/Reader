@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4183286",
+          "author": "Matthew Elder",
+          "description": "Rangers will no longer enter a B team into the Scottish Lowland League after expressing frustration at the collapse of a proposed new Conference League vote.",
+          "link": "https://www.scotsman.com/sport/football/rangers/rangers-withdraw-b-team-from-lowland-league-amid-frustration-over-collapse-of-conference-league-vote-4183286",
+          "publishedOn": "2023-06-14T19:47:19.000Z",
+          "wordCount": null,
+          "title": "Rangers withdraw B team from Lowland League amid frustration over collapse of Conference League vote",
+          "imageUrl": null
+        },
+        {
           "id": "4182889",
           "author": "Joel Sked",
           "description": "The transfer window has officially opened in Scotland which means clubs can complete deals ahead of the new season. Some transfers have already been confirmed.",
@@ -173,16 +183,6 @@
           "publishedOn": "2023-06-10T21:30:00.000Z",
           "wordCount": null,
           "title": "Matt O'Riley claims Celtic could win Champions League as he addresses prospect of summer exits",
-          "imageUrl": null
-        },
-        {
-          "id": "4177618",
-          "author": "Aidan Smith",
-          "description": "It’s Easter Road sometime in the 1980s, Hibernian are playing Aberdeen in a nothing, end-of-season affair, and during an especially long lull in proceedings supporters in the old main stand burst into song …",
-          "link": "https://www.scotsman.com/sport/football/celtics-charlie-nicholas-kicks-off-icons-of-football-as-bbc-scotland-launch-new-series-4177618",
-          "publishedOn": "2023-06-10T07:00:00.000Z",
-          "wordCount": null,
-          "title": "Celtic's Charlie Nicholas kicks off Icons of Football as BBC Scotland launch new series",
           "imageUrl": null
         }
       ]
@@ -727,26 +727,6 @@
           "wordCount": 9036,
           "title": "Postecoglou Celtic 'guilt' floated over Kyogo Spurs transfer",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16874057/?type=og-image"
-        },
-        {
-          "id": "684181dc63aa786aa52896c634c04938",
-          "author": null,
-          "description": "While some Gers fans may be celebrating Postecoglou leaving Celtic, he insists that there's no party to be had.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23580747.ferguson-rangers-restore-natural-order-celtic-message/?ref=rss",
-          "publishedOn": "2023-06-10T08:59:37.000Z",
-          "wordCount": 8844,
-          "title": "Ferguson in Rangers 'restore natural order' Celtic message",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16874006/?type=og-image"
-        },
-        {
-          "id": "be2a596f9c1c9ea9edd9d5deeebb1cc4",
-          "author": null,
-          "description": "The 47-year-old led Slavia to three Czech titles in a row and was strongly linked to Parkhead before Celtic swooped for Ange Postecoglou.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23580727.jindrich-trpisovsky-happy-slavia-prague-amid-celtic-links/?ref=rss",
-          "publishedOn": "2023-06-10T08:39:35.000Z",
-          "wordCount": 8558,
-          "title": "Jindřich Trpišovský happy at Slavia Prague amid Celtic links",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16873983/?type=og-image"
         }
       ]
     }

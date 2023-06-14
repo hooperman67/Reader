@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-14T18:20:37.194Z</updated>
+    <updated>2023-06-14T21:14:45.008Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rangers withdraw B team from Lowland League amid frustration over collapse of Conference League vote]]></title>
+        <id>4183286</id>
+        <link href="https://www.scotsman.com/sport/football/rangers/rangers-withdraw-b-team-from-lowland-league-amid-frustration-over-collapse-of-conference-league-vote-4183286"/>
+        <updated>2023-06-14T19:47:19.000Z</updated>
+        <summary type="html"><![CDATA[Rangers will no longer enter a B team into the Scottish Lowland League after expressing frustration at the collapse of a proposed new Conference League vote.]]></summary>
+        <author>
+            <name>Matthew Elder</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Simon Jordan blasts incoming Celtic manager Brendan Rodgers]]></title>
         <id>0cb598c9ae5f3f49039e7bb33aae3718</id>
@@ -704,36 +714,6 @@
         <summary type="html"><![CDATA[The Hoops hero believes that the former Parkhead boss has too much respect for his old club.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferguson in Rangers 'restore natural order' Celtic message]]></title>
-        <id>684181dc63aa786aa52896c634c04938</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23580747.ferguson-rangers-restore-natural-order-celtic-message/?ref=rss"/>
-        <updated>2023-06-10T08:59:37.000Z</updated>
-        <summary type="html"><![CDATA[While some Gers fans may be celebrating Postecoglou leaving Celtic, he insists that there's no party to be had.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jindřich Trpišovský happy at Slavia Prague amid Celtic links]]></title>
-        <id>be2a596f9c1c9ea9edd9d5deeebb1cc4</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23580727.jindrich-trpisovsky-happy-slavia-prague-amid-celtic-links/?ref=rss"/>
-        <updated>2023-06-10T08:39:35.000Z</updated>
-        <summary type="html"><![CDATA[The 47-year-old led Slavia to three Czech titles in a row and was strongly linked to Parkhead before Celtic swooped for Ange Postecoglou.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic's Charlie Nicholas kicks off Icons of Football as BBC Scotland launch new series]]></title>
-        <id>4177618</id>
-        <link href="https://www.scotsman.com/sport/football/celtics-charlie-nicholas-kicks-off-icons-of-football-as-bbc-scotland-launch-new-series-4177618"/>
-        <updated>2023-06-10T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It’s Easter Road sometime in the 1980s, Hibernian are playing Aberdeen in a nothing, end-of-season affair, and during an especially long lull in proceedings supporters in the old main stand burst into song …]]></summary>
-        <author>
-            <name>Aidan Smith</name>
         </author>
     </entry>
 </feed>
