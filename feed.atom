@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-14T09:16:17.914Z</updated>
+    <updated>2023-06-14T12:34:30.033Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Brendan Rodgers to Celtic latest as Leeds reports 'wide of the mark']]></title>
+        <id>8bfee12901ba64b1b19e2a8566c49e30</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23588151.brendan-rodgers-celtic-latest-leeds-reports-wide-mark/?ref=rss"/>
+        <updated>2023-06-14T11:12:00.000Z</updated>
+        <summary type="html"><![CDATA[The Northern Irishman is the favourite to replace Ange Postecoglou at Parkhead.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reo Hatate transfer latest as Spurs linked star opens up on future]]></title>
+        <id>df624eb5a83cb9774895eaedd327846e</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23588157.reo-hatate-transfer-latest-spurs-linked-star-opens-future/?ref=rss"/>
+        <updated>2023-06-14T08:55:44.000Z</updated>
+        <summary type="html"><![CDATA[He responded: "If there is a chance to step up, I would like to play in various leagues.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic reveal black away kit with Scottish heritage for new season]]></title>
         <id>1ba29d946ed7e0b718947916cc842089</id>
@@ -654,16 +674,6 @@
         <summary type="html"><![CDATA[There’s a game Pat Nevin likes to play when he meets fellow former professional footballers, which plainly happens on a regular basis.]]></summary>
         <author>
             <name>Alan Pattullo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spurs approach for Kennedy & Strachan 'given cold-shoulder by Celtic']]></title>
-        <id>4d2ff6515ddc3a6f2a55079b1d516480</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23580575.spurs-approach-kennedy-strachan-given-cold-shoulder-celtic/?ref=rss"/>
-        <updated>2023-06-09T21:41:48.000Z</updated>
-        <summary type="html"><![CDATA[Ange Postecoglou is keen to take John Kennedy and Gavin Strachan to Tottenham with him from Celtic.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>

@@ -179,6 +179,26 @@
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
         {
+          "id": "8bfee12901ba64b1b19e2a8566c49e30",
+          "author": null,
+          "description": "The Northern Irishman is the favourite to replace Ange Postecoglou at Parkhead.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23588151.brendan-rodgers-celtic-latest-leeds-reports-wide-mark/?ref=rss",
+          "publishedOn": "2023-06-14T11:12:00.000Z",
+          "wordCount": 8523,
+          "title": "Brendan Rodgers to Celtic latest as Leeds reports 'wide of the mark'",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16882877/?type=og-image"
+        },
+        {
+          "id": "df624eb5a83cb9774895eaedd327846e",
+          "author": null,
+          "description": "He responded: \"If there is a chance to step up, I would like to play in various leagues.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23588157.reo-hatate-transfer-latest-spurs-linked-star-opens-future/?ref=rss",
+          "publishedOn": "2023-06-14T08:55:44.000Z",
+          "wordCount": 8609,
+          "title": "Reo Hatate transfer latest as Spurs linked star opens up on future",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16886358/?type=og-image"
+        },
+        {
           "id": "1ba29d946ed7e0b718947916cc842089",
           "author": null,
           "description": "The Celts head into the new season at the top of their game, as history-making, Treble-winning champions of Scotland.",
@@ -667,16 +687,6 @@
           "wordCount": 8558,
           "title": "Jindřich Trpišovský happy at Slavia Prague amid Celtic links",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16873983/?type=og-image"
-        },
-        {
-          "id": "4d2ff6515ddc3a6f2a55079b1d516480",
-          "author": null,
-          "description": "Ange Postecoglou is keen to take John Kennedy and Gavin Strachan to Tottenham with him from Celtic.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23580575.spurs-approach-kennedy-strachan-given-cold-shoulder-celtic/?ref=rss",
-          "publishedOn": "2023-06-09T21:41:48.000Z",
-          "wordCount": 8487,
-          "title": "Spurs approach for Kennedy & Strachan 'given cold-shoulder by Celtic'",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16873784/?type=og-image"
         }
       ]
     }
