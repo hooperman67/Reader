@@ -6,6 +6,26 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4184335",
+          "author": "Joel Sked",
+          "description": "Scotland travel to Norway on Saturday  as they go in search of a result which could see them take a huge step towards qualification for Euro 2024.",
+          "link": "https://www.scotsman.com/sport/football/what-channel-is-norway-v-scotland-on-euro-2024-qualifying-info-tv-details-kick-off-time-team-news-referee-4184335",
+          "publishedOn": "2023-06-15T13:45:38.000Z",
+          "wordCount": null,
+          "title": "What channel is Norway v Scotland on? Euro 2024 qualifying info, TV details, kick-off time, team news, referee",
+          "imageUrl": null
+        },
+        {
+          "id": "4184199",
+          "author": "Mark Atkinson",
+          "description": "Celtic forward Kyogo Furuhashi marked his return to the Japanese national team with a goal as the Blue Samurai trounced El Salvador 6-0 in the Kirin Challenge Cup.",
+          "link": "https://www.scotsman.com/sport/football/celtic/kyogo-furuhashi-scores-on-japan-return-as-celtic-team-mate-gets-rare-run-out-4184199",
+          "publishedOn": "2023-06-15T12:38:34.000Z",
+          "wordCount": null,
+          "title": "Kyogo Furuhashi scores on Japan return as Celtic team-mate gets rare run-out",
+          "imageUrl": null
+        },
+        {
           "id": "4183654",
           "author": "Joel Sked",
           "description": "Brendan Rodgers is on the cusp of a dramatic return to Celtic, replacing Ange Postecoglou. He will face plenty of decisions over his playing squad with around 35 players after a number returned from a loan deal. Some of those face an uncertain future...",
@@ -208,6 +228,56 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "f1c157c763e76ca9459eae20434c1df9",
+          "author": null,
+          "description": "The Italian coach has previously been linked with a move to Scotland, but looks set to join Leicester in the Championship",
+          "link": "https://www.glasgowtimes.co.uk/sport/23592017.celtic-target-enzo-maresca-close-leicester-city-move/?ref=rss",
+          "publishedOn": "2023-06-15T14:29:00.000Z",
+          "wordCount": 8597,
+          "title": "Celtic target Enzo Maresca 'close' to Leicester City move",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16804856/?type=og-image"
+        },
+        {
+          "id": "82362c1b3e2ff65553539eddb6059a83",
+          "author": null,
+          "description": "The former Celtic boss made the switch south last Tuesday as he aims to make his mark in the Premier League.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23591765.postecoglou-spurs-submit-50m-joint-bid-maddison-barnes/?ref=rss",
+          "publishedOn": "2023-06-15T13:07:26.000Z",
+          "wordCount": 8623,
+          "title": "Postecoglou and Spurs 'submit £50m joint bid' for Maddison and Barnes",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16852063/?type=og-image"
+        },
+        {
+          "id": "34ce7057e50b864909b34989dcd5da28",
+          "author": null,
+          "description": "The Japan striker scored a second-half header for his country in their 6-0 win over El Salvador",
+          "link": "https://www.glasgowtimes.co.uk/sport/23591692.celtic-stars-kyogo-reo-hatate-shine-japan-thump-el-salvador/?ref=rss",
+          "publishedOn": "2023-06-15T12:45:17.000Z",
+          "wordCount": 8557,
+          "title": "Celtic stars Kyogo and Reo Hatate shine as Japan thump El Salvador",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16892080/?type=og-image"
+        },
+        {
+          "id": "69db71f61d5b28088d12a41deb13fe2c",
+          "author": null,
+          "description": "This is the moment Kyogo Furuhashi netted for Japan against El Salvador in an international friendly clash this afternoon.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23591691.watch-celtic-star-kyogo-furuhashi-net-impressive-goal-japan-return/?ref=rss",
+          "publishedOn": "2023-06-15T12:45:09.000Z",
+          "wordCount": 8689,
+          "title": "Watch Celtic star Kyogo Furuhashi net impressive goal on Japan return",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16892084/?type=og-image"
+        },
+        {
+          "id": "5221b7567e67bc35e1349105cf30605e",
+          "author": null,
+          "description": "The Celtic youngster looks set to move to the Championship side following a successful loan spell",
+          "link": "https://www.glasgowtimes.co.uk/sport/23591430.celtic-youth-ewan-otoo-agrees-move-dunfermline/?ref=rss",
+          "publishedOn": "2023-06-15T11:42:49.000Z",
+          "wordCount": 8531,
+          "title": "Celtic youth Ewan Otoo 'agrees' move to Dunfermline",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16452506/?type=og-image"
+        },
         {
           "id": "41fda381336144531ad00d56425fcd3e",
           "author": null,
