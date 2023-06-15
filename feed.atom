@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-14T21:14:45.008Z</updated>
+    <updated>2023-06-15T01:41:07.717Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA['I back myself' - why Jack Hendry could be Scotland's answer to Erling Haaland threat]]></title>
+        <id>4183152</id>
+        <link href="https://www.scotsman.com/sport/football/international/i-back-myself-why-jack-hendry-could-be-scotlands-answer-to-erling-haaland-threat-4183152"/>
+        <updated>2023-06-14T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Jack Hendry cannot add prophecy to his many qualities although he knows he stands a good chance of being handed one of the toughest assignments in football on Saturday night in Oslo.]]></summary>
+        <author>
+            <name>Alan Pattullo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rangers withdraw B team from Lowland League amid frustration over collapse of Conference League vote]]></title>
         <id>4183286</id>
@@ -652,66 +662,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23581071.celtic-hold-talks-daniel-farke-job-vacancy/?ref=rss"/>
         <updated>2023-06-10T14:15:23.000Z</updated>
         <summary type="html"><![CDATA[The German was most recently sacked by Borussia Monchengladbach in May.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic chief Peter Lawwell spotted in Istanbul for UCL final]]></title>
-        <id>fc6cd5acb6dfad004b26f4e3551f940c</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23581040.celtic-chief-peter-lawwell-spotted-istanbul-ucl-final/?ref=rss"/>
-        <updated>2023-06-10T13:39:32.000Z</updated>
-        <summary type="html"><![CDATA[This could perhaps deliver a huge clue as to who the new manager of the Scottish champions could be.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bodo/Glimt's Kjetil Knutsen Celtic chances rated 50-50]]></title>
-        <id>0b8bf5103652fe994d8d89f4377410be</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23581003.bodo-glimts-kjetil-knutsen-celtic-chances-rated-50-50/?ref=rss"/>
-        <updated>2023-06-10T12:59:50.000Z</updated>
-        <summary type="html"><![CDATA[He's won two league titles with Bodo and has done relatively well in Europe, including beating Celtic in the Europa Conference League in 2022.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enzo Maresca to Celtic latest as 'formal approach' expected]]></title>
-        <id>d21d5b7f88d50204b31b297f576384de</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23580921.enzo-maresca-celtic-latest-formal-approach-expected/?ref=rss"/>
-        <updated>2023-06-10T11:24:24.000Z</updated>
-        <summary type="html"><![CDATA[A report states that Maresca is the leading candidate for the vacant job in Glasgow's east end.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kris Boyd in Michael Beale Rangers Premier League admission]]></title>
-        <id>7437917330a703113689b4dfe4a8fd28</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23580896.kris-boyd-michael-beale-rangers-premier-league-admission/?ref=rss"/>
-        <updated>2023-06-10T10:55:25.000Z</updated>
-        <summary type="html"><![CDATA[Ultimately, if the 42-year-old does one day earn a move to an EPL club, then Boyd believes he'll have done a good job at Ibrox.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[David Moyes Celtic latest with boss 'set' for West Ham stay]]></title>
-        <id>341c77ca4e8ad2b635c388682df5dc53</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23580814.david-moyes-celtic-latest-boss-set-west-ham-stay/?ref=rss"/>
-        <updated>2023-06-10T09:52:37.000Z</updated>
-        <summary type="html"><![CDATA[It comes following talks between Hammers' chiefs and the 60-year-old after the club's Europa Conference League win over Fiorentina.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Postecoglou Celtic 'guilt' floated over Kyogo Spurs transfer]]></title>
-        <id>5ac1ef906413fce66ee1ba640fe042e9</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23580786.postecoglou-celtic-guilt-floated-kyogo-spurs-transfer/?ref=rss"/>
-        <updated>2023-06-10T09:35:12.000Z</updated>
-        <summary type="html"><![CDATA[The Hoops hero believes that the former Parkhead boss has too much respect for his old club.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>

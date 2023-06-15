@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4183152",
+          "author": "Alan Pattullo",
+          "description": "Jack Hendry cannot add prophecy to his many qualities although he knows he stands a good chance of being handed one of the toughest assignments in football on Saturday night in Oslo.",
+          "link": "https://www.scotsman.com/sport/football/international/i-back-myself-why-jack-hendry-could-be-scotlands-answer-to-erling-haaland-threat-4183152",
+          "publishedOn": "2023-06-14T21:30:00.000Z",
+          "wordCount": null,
+          "title": "'I back myself' - why Jack Hendry could be Scotland's answer to Erling Haaland threat",
+          "imageUrl": null
+        },
+        {
           "id": "4183286",
           "author": "Matthew Elder",
           "description": "Rangers will no longer enter a B team into the Scottish Lowland League after expressing frustration at the collapse of a proposed new Conference League vote.",
@@ -667,66 +677,6 @@
           "wordCount": 8522,
           "title": "Celtic 'hold talks' with Daniel Farke over job vacancy",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16874456/?type=og-image"
-        },
-        {
-          "id": "fc6cd5acb6dfad004b26f4e3551f940c",
-          "author": null,
-          "description": "This could perhaps deliver a huge clue as to who the new manager of the Scottish champions could be.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23581040.celtic-chief-peter-lawwell-spotted-istanbul-ucl-final/?ref=rss",
-          "publishedOn": "2023-06-10T13:39:32.000Z",
-          "wordCount": 8580,
-          "title": "Celtic chief Peter Lawwell spotted in Istanbul for UCL final",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16874395/?type=og-image"
-        },
-        {
-          "id": "0b8bf5103652fe994d8d89f4377410be",
-          "author": null,
-          "description": "He's won two league titles with Bodo and has done relatively well in Europe, including beating Celtic in the Europa Conference League in 2022.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23581003.bodo-glimts-kjetil-knutsen-celtic-chances-rated-50-50/?ref=rss",
-          "publishedOn": "2023-06-10T12:59:50.000Z",
-          "wordCount": 8475,
-          "title": "Bodo/Glimt's Kjetil Knutsen Celtic chances rated 50-50",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16874343/?type=og-image"
-        },
-        {
-          "id": "d21d5b7f88d50204b31b297f576384de",
-          "author": null,
-          "description": "A report states that Maresca is the leading candidate for the vacant job in Glasgow's east end.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23580921.enzo-maresca-celtic-latest-formal-approach-expected/?ref=rss",
-          "publishedOn": "2023-06-10T11:24:24.000Z",
-          "wordCount": 8576,
-          "title": "Enzo Maresca to Celtic latest as 'formal approach' expected",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16874215/?type=og-image"
-        },
-        {
-          "id": "7437917330a703113689b4dfe4a8fd28",
-          "author": null,
-          "description": "Ultimately, if the 42-year-old does one day earn a move to an EPL club, then Boyd believes he'll have done a good job at Ibrox.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23580896.kris-boyd-michael-beale-rangers-premier-league-admission/?ref=rss",
-          "publishedOn": "2023-06-10T10:55:25.000Z",
-          "wordCount": 8640,
-          "title": "Kris Boyd in Michael Beale Rangers Premier League admission",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16874186/?type=og-image"
-        },
-        {
-          "id": "341c77ca4e8ad2b635c388682df5dc53",
-          "author": null,
-          "description": "It comes following talks between Hammers' chiefs and the 60-year-old after the club's Europa Conference League win over Fiorentina.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23580814.david-moyes-celtic-latest-boss-set-west-ham-stay/?ref=rss",
-          "publishedOn": "2023-06-10T09:52:37.000Z",
-          "wordCount": 9628,
-          "title": "David Moyes Celtic latest with boss 'set' for West Ham stay",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16874091/?type=og-image"
-        },
-        {
-          "id": "5ac1ef906413fce66ee1ba640fe042e9",
-          "author": null,
-          "description": "The Hoops hero believes that the former Parkhead boss has too much respect for his old club.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23580786.postecoglou-celtic-guilt-floated-kyogo-spurs-transfer/?ref=rss",
-          "publishedOn": "2023-06-10T09:35:12.000Z",
-          "wordCount": 9036,
-          "title": "Postecoglou Celtic 'guilt' floated over Kyogo Spurs transfer",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16874057/?type=og-image"
         }
       ]
     }
