@@ -229,6 +229,26 @@
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
         {
+          "id": "cb37f2075d292c3850a3ed65c679297d",
+          "author": null,
+          "description": "Tottenham announced their retained list on Thursday evening.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23592665.ange-postecoglou-makes-first-major-tottenham-player-decision/?ref=rss",
+          "publishedOn": "2023-06-15T16:23:43.000Z",
+          "wordCount": 9569,
+          "title": "Ange Postecoglou makes first major Tottenham player decision",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16893576/?type=og-image"
+        },
+        {
+          "id": "432dced39b914b522b6c51b648f5cdca",
+          "author": null,
+          "description": "In a blow to Ange Postecoglou, John Kennedy looks set to stay at the club following attempts from Spurs to lure him down south",
+          "link": "https://www.glasgowtimes.co.uk/sport/23592505.latest-celtic-no2-twist-kennedy-to-stay-spurs-admit-defeat/?ref=rss",
+          "publishedOn": "2023-06-15T15:44:43.000Z",
+          "wordCount": 8619,
+          "title": "Latest Celtic No2 twist as Kennedy 'to stay as Spurs admit defeat'",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16800397/?type=og-image"
+        },
+        {
           "id": "f1c157c763e76ca9459eae20434c1df9",
           "author": null,
           "description": "The Italian coach has previously been linked with a move to Scotland, but looks set to join Leicester in the Championship",
@@ -797,36 +817,6 @@
           "wordCount": 8485,
           "title": "Ex-Celtic ace Frimpong receives stern warning over international snub",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16875298/?type=og-image"
-        },
-        {
-          "id": "decf628f7a73767e82dc500c5eaef34c",
-          "author": null,
-          "description": "The 17-year-old is forging her own path as she follows in the footballing footsteps of siblings James and Alan.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23580944.glasgow-citys-lisa-forrest-following-footsteps-celtic-star-brother/?ref=rss",
-          "publishedOn": "2023-06-11T05:00:00.000Z",
-          "wordCount": 10073,
-          "title": "Glasgow City's Lisa Forrest following footsteps of Celtic star brother",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16874297/?type=og-image"
-        },
-        {
-          "id": "79b8907982d9747adca66bc13cb9f9be",
-          "author": null,
-          "description": "LAST season’s Champions League campaign was a mostly chastening experience from Celtic’s perspective but Matt O’Riley can’t wait to do it all again.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23580928.celtic-champions-league-narrative-matt-oriley-isnt-buying/?ref=rss",
-          "publishedOn": "2023-06-11T05:00:00.000Z",
-          "wordCount": 10339,
-          "title": "The Celtic Champions League narrative Matt O'Riley isn't buying",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16874255/?type=og-image"
-        },
-        {
-          "id": "742cc8a9738fa63d606631b0eed9d1c2",
-          "author": null,
-          "description": "The former Parkhead star is hoping Postecoglou will not return for any of his ex-players.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23581031.mark-wilson-predicts-celtic-star-ange-will-try-sign-spurs/?ref=rss",
-          "publishedOn": "2023-06-11T05:00:00.000Z",
-          "wordCount": 9225,
-          "title": "Mark Wilson predicts what Celtic star Ange will try to sign for Spurs",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16874499/?type=og-image"
         }
       ]
     }

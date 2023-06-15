@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-15T15:17:18.940Z</updated>
+    <updated>2023-06-15T18:20:41.587Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ange Postecoglou makes first major Tottenham player decision]]></title>
+        <id>cb37f2075d292c3850a3ed65c679297d</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23592665.ange-postecoglou-makes-first-major-tottenham-player-decision/?ref=rss"/>
+        <updated>2023-06-15T16:23:43.000Z</updated>
+        <summary type="html"><![CDATA[Tottenham announced their retained list on Thursday evening.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Latest Celtic No2 twist as Kennedy 'to stay as Spurs admit defeat']]></title>
+        <id>432dced39b914b522b6c51b648f5cdca</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23592505.latest-celtic-no2-twist-kennedy-to-stay-spurs-admit-defeat/?ref=rss"/>
+        <updated>2023-06-15T15:44:43.000Z</updated>
+        <summary type="html"><![CDATA[In a blow to Ange Postecoglou, John Kennedy looks set to stay at the club following attempts from Spurs to lure him down south]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic target Enzo Maresca 'close' to Leicester City move]]></title>
         <id>f1c157c763e76ca9459eae20434c1df9</id>
@@ -784,36 +804,6 @@
         <summary type="html"><![CDATA[There is nothing strange about the fact Scotland’s players wouldn’t have been sitting about their Spanish training camp this weekend gassing about one of the most wistfully-recalled days in the entire history of the national team.]]></summary>
         <author>
             <name>Andrew Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Glasgow City's Lisa Forrest following footsteps of Celtic star brother]]></title>
-        <id>decf628f7a73767e82dc500c5eaef34c</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23580944.glasgow-citys-lisa-forrest-following-footsteps-celtic-star-brother/?ref=rss"/>
-        <updated>2023-06-11T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The 17-year-old is forging her own path as she follows in the footballing footsteps of siblings James and Alan.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Celtic Champions League narrative Matt O'Riley isn't buying]]></title>
-        <id>79b8907982d9747adca66bc13cb9f9be</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23580928.celtic-champions-league-narrative-matt-oriley-isnt-buying/?ref=rss"/>
-        <updated>2023-06-11T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[LAST season’s Champions League campaign was a mostly chastening experience from Celtic’s perspective but Matt O’Riley can’t wait to do it all again.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mark Wilson predicts what Celtic star Ange will try to sign for Spurs]]></title>
-        <id>742cc8a9738fa63d606631b0eed9d1c2</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23581031.mark-wilson-predicts-celtic-star-ange-will-try-sign-spurs/?ref=rss"/>
-        <updated>2023-06-11T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The former Parkhead star is hoping Postecoglou will not return for any of his ex-players.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>
