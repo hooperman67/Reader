@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-15T01:41:07.717Z</updated>
+    <updated>2023-06-15T03:17:59.656Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -654,16 +654,6 @@
         <summary type="html"><![CDATA[Matt O’Riley remembers being recognised only once during a year spent with MK Dons. It has been somewhat different for the midfielder over the past season-and-a-half at Celtic, with acknowledgement of his talents arriving on a daily basis both from supporters but also from the growing number of clubs keen to entice him away from the Scottish champions.]]></summary>
         <author>
             <name>Graeme Macpherson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic 'hold talks' with Daniel Farke over job vacancy]]></title>
-        <id>c029bb9800b5193ff0ba31c90d5c4990</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23581071.celtic-hold-talks-daniel-farke-job-vacancy/?ref=rss"/>
-        <updated>2023-06-10T14:15:23.000Z</updated>
-        <summary type="html"><![CDATA[The German was most recently sacked by Borussia Monchengladbach in May.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>
