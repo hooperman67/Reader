@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-15T09:16:23.668Z</updated>
+    <updated>2023-06-15T12:34:18.718Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic B team's options weighed up after Rangers exit]]></title>
+        <id>41fda381336144531ad00d56425fcd3e</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23591220.celtic-b-teams-options-weighed-rangers-exit/?ref=rss"/>
+        <updated>2023-06-15T10:55:13.000Z</updated>
+        <summary type="html"><![CDATA[The club are believed to be considering their stance on whether or not to continue in the Lowland League next season]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rod Stewart left raging by Ange Postecoglou's Celtic departure]]></title>
+        <id>0c8aac21b896ac08ecdc5b9e04152b07</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23591086.rod-stewart-left-raging-ange-postecoglous-celtic-departure/?ref=rss"/>
+        <updated>2023-06-15T10:28:25.000Z</updated>
+        <summary type="html"><![CDATA[Appearing on talkSPORT alongside Rangers legend Ally McCoist and fellow Celtic fan Alan Brazil, Stewart, with an amusing comparison, said: "I don't know.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Former Celtic boss Neil Lennon 'offered' to Marseille as manager]]></title>
+        <id>4befb8dbdcdd20b00cca20c15eff78e4</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23591000.former-celtic-boss-neil-lennon-offered-marseille-manager/?ref=rss"/>
+        <updated>2023-06-15T10:06:53.000Z</updated>
+        <summary type="html"><![CDATA[N]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ex-Celtic recruitment chief Nick Hammond lands new role at Leeds]]></title>
+        <id>2e3e76a69e44b63d1f94b1c3bf83cb40</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23590864.ex-celtic-recruitment-chief-nick-hammond-lands-new-role-leeds/?ref=rss"/>
+        <updated>2023-06-15T09:35:32.000Z</updated>
+        <summary type="html"><![CDATA[Leeds have appointed former Celtic head of football operations Nick Hammond as “interim football advisor on a short-term contract”.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Celtic players who face an uncertain future over the summer with Brendan Rodgers set to arrive]]></title>
+        <id>4183654</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/10-celtic-players-who-face-an-uncertain-future-over-the-summer-with-brendan-rodgers-set-to-arrive-4183654"/>
+        <updated>2023-06-15T09:31:22.000Z</updated>
+        <summary type="html"><![CDATA[Brendan Rodgers is on the cusp of a dramatic return to Celtic, replacing Ange Postecoglou. He will face plenty of decisions over his playing squad with around 35 players after a number returned from a loan deal. Some of those face an uncertain future...]]></summary>
+        <author>
+            <name>Joel Sked</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scott Brown rinses 'graceless' Rodri over Scotland 'rubbish' rant]]></title>
+        <id>7b6d2373b8440e6f6866dc8fdc5fd087</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23590730.scott-brown-rinses-graceless-rodri-scotland-rubbish-rant/?ref=rss"/>
+        <updated>2023-06-15T09:07:27.000Z</updated>
+        <summary type="html"><![CDATA["I really enjoyed the win over Spain," Brown told the Daily Record. "But I actually enjoyed the comments after the game from the Spanish lads even more!]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Brendan Rodgers can win round Celtic fans who branded him 'a rat']]></title>
         <id>18379a072f0c5e2dbab026d53bcefe46</id>
@@ -684,16 +744,6 @@
         <summary type="html"><![CDATA[The former Parkhead star is hoping Postecoglou will not return for any of his ex-players.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Matt O'Riley claims Celtic could win Champions League as he addresses prospect of summer exits]]></title>
-        <id>4177622</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/matt-oriley-claims-celtic-could-win-champions-league-as-he-addresses-prospect-of-summer-exits-4177622"/>
-        <updated>2023-06-10T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Matt O’Riley remembers being recognised only once during a year spent with MK Dons. It has been somewhat different for the midfielder over the past season-and-a-half at Celtic, with acknowledgement of his talents arriving on a daily basis both from supporters but also from the growing number of clubs keen to entice him away from the Scottish champions.]]></summary>
-        <author>
-            <name>Graeme Macpherson</name>
         </author>
     </entry>
 </feed>
