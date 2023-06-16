@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-16T12:34:06.566Z</updated>
+    <updated>2023-06-16T15:16:54.946Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[When is Ange Postecoglou's first Tottenham match? Ex-Celtic boss set for live TV Premier League opener after Australia homecoming]]></title>
+        <id>4186181</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/when-is-ange-postecoglous-first-tottenham-match-ex-celtic-boss-set-for-live-tv-premier-league-opener-after-australia-homecoming-4186181"/>
+        <updated>2023-06-16T14:12:45.000Z</updated>
+        <summary type="html"><![CDATA[Ange Postecoglou has learned who he will face in his first competitive match as Tottenham manager following the release of the new Premier League fixtures for the 2023-24 campaign.]]></summary>
+        <author>
+            <name>Matthew Elder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postecoglou dealt transfer blow as £60m target urged against Spurs]]></title>
+        <id>cf7a4718f948c4b7ba69ff80465985dc</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23594528.postecoglou-dealt-transfer-blow-60m-target-urged-spurs/?ref=rss"/>
+        <updated>2023-06-16T13:45:31.000Z</updated>
+        <summary type="html"><![CDATA[Ange Postecoglou is aiming to get his business done early in the transfer window.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Former Celtic winger Armstrong Oko-Flex released by West Ham]]></title>
+        <id>d49aaea4c82b2967c0c4645ec0e5df41</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23594513.former-celtic-winger-armstrong-oko-flex-released-west-ham/?ref=rss"/>
+        <updated>2023-06-16T13:43:56.000Z</updated>
+        <summary type="html"><![CDATA[The attacker departs the London club after only two years down south]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elyounoussi opens up on next move as Celtic transfer links emerge]]></title>
+        <id>d28576309ec7ed465b6f8304dbbb4f57</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23594427.elyounoussi-opens-next-move-celtic-transfer-links-emerge/?ref=rss"/>
+        <updated>2023-06-16T13:28:32.000Z</updated>
+        <summary type="html"><![CDATA[Mohamed Elyounoussi is a free agent this summer after his contract expired at Southampton.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ange Postecoglou drops Celtic touch in first interview as Spurs boss]]></title>
         <id>25347ac712a263e958a7b43d588b3e8c</id>

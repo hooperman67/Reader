@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4186181",
+          "author": "Matthew Elder",
+          "description": "Ange Postecoglou has learned who he will face in his first competitive match as Tottenham manager following the release of the new Premier League fixtures for the 2023-24 campaign.",
+          "link": "https://www.scotsman.com/sport/football/celtic/when-is-ange-postecoglous-first-tottenham-match-ex-celtic-boss-set-for-live-tv-premier-league-opener-after-australia-homecoming-4186181",
+          "publishedOn": "2023-06-16T14:12:45.000Z",
+          "wordCount": null,
+          "title": "When is Ange Postecoglou's first Tottenham match? Ex-Celtic boss set for live TV Premier League opener after Australia homecoming",
+          "imageUrl": null
+        },
+        {
           "id": "4185332",
           "author": "Matthew Elder",
           "description": "Enzo Maresca, the former favourite for the Celtic managerial vacancy, is set to be appointed as the new head coach of Leicester City.",
@@ -228,6 +238,36 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "cf7a4718f948c4b7ba69ff80465985dc",
+          "author": null,
+          "description": "Ange Postecoglou is aiming to get his business done early in the transfer window.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23594528.postecoglou-dealt-transfer-blow-60m-target-urged-spurs/?ref=rss",
+          "publishedOn": "2023-06-16T13:45:31.000Z",
+          "wordCount": 8665,
+          "title": "Postecoglou dealt transfer blow as £60m target urged against Spurs",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16896798/?type=og-image"
+        },
+        {
+          "id": "d49aaea4c82b2967c0c4645ec0e5df41",
+          "author": null,
+          "description": "The attacker departs the London club after only two years down south",
+          "link": "https://www.glasgowtimes.co.uk/sport/23594513.former-celtic-winger-armstrong-oko-flex-released-west-ham/?ref=rss",
+          "publishedOn": "2023-06-16T13:43:56.000Z",
+          "wordCount": 8549,
+          "title": "Former Celtic winger Armstrong Oko-Flex released by West Ham",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16896807/?type=og-image"
+        },
+        {
+          "id": "d28576309ec7ed465b6f8304dbbb4f57",
+          "author": null,
+          "description": "Mohamed Elyounoussi is a free agent this summer after his contract expired at Southampton.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23594427.elyounoussi-opens-next-move-celtic-transfer-links-emerge/?ref=rss",
+          "publishedOn": "2023-06-16T13:28:32.000Z",
+          "wordCount": 8470,
+          "title": "Elyounoussi opens up on next move as Celtic transfer links emerge",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16896532/?type=og-image"
+        },
         {
           "id": "25347ac712a263e958a7b43d588b3e8c",
           "author": null,
