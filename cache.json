@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4186666",
+          "author": "Gavin McCafferty",
+          "description": "Scotland manager Steve Clarke stressed the need to focus on “Norway the team” rather than become obsessed with trying to stop Erling Haaland.",
+          "link": "https://www.scotsman.com/sport/football/steve-clarke-has-his-say-on-erling-haaland-mania-and-gives-scotland-squad-update-ahead-of-norway-clash-4186666",
+          "publishedOn": "2023-06-16T19:42:15.000Z",
+          "wordCount": null,
+          "title": "Steve Clarke has his say on Erling Haaland mania and gives Scotland squad update ahead of Norway clash",
+          "imageUrl": null
+        },
+        {
           "id": "4186181",
           "author": "Matthew Elder",
           "description": "Ange Postecoglou has learned who he will face in his first competitive match as Tottenham manager following the release of the new Premier League fixtures for the 2023-24 campaign.",
@@ -214,16 +224,6 @@
           "wordCount": null,
           "title": "Next Celtic manager: Rodgers odds-on favourite, talks with candidate, Enzo Maresca speaks to Leicester City",
           "imageUrl": null
-        },
-        {
-          "id": "4178655",
-          "author": "Chris Andrews",
-          "description": "Celtic are continuing their search for Ange Postecoglou’s replacement following the Australian’s move to Tottenham Hotspur after guiding the club to a domestic treble.",
-          "link": "https://www.scotsman.com/sport/football/celtic/next-celtic-manager-talks-held-with-candidate-as-scottish-champions-wait-on-brendan-rodgers-4178655",
-          "publishedOn": "2023-06-12T08:58:39.000Z",
-          "wordCount": null,
-          "title": "Next Celtic manager: Talks held with candidate as Scottish champions wait on Brendan Rodgers",
-          "imageUrl": null
         }
       ]
     },
@@ -238,6 +238,26 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "a9da78f195db3331837c510f7fdc2527",
+          "author": null,
+          "description": "Ange Postecoglou's first signing as Spurs manager could be Dejan Kulusevski - who was on loan at the club last season.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23595662.postecoglou-set-land-first-spurs-signing-contract-agreed/?ref=rss",
+          "publishedOn": "2023-06-16T19:32:33.000Z",
+          "wordCount": 8452,
+          "title": "Postecoglou set to land first Spurs transfer with 'contract signed'",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16898632/?type=og-image"
+        },
+        {
+          "id": "3f2bc70561ca2ae02d96bdd844d6541e",
+          "author": null,
+          "description": "Enzo Maresca has been appointed as Leicester manager after being linked with the Celtic job.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23595529.former-celtic-contender-enzo-maresca-named-leicester-manager/?ref=rss",
+          "publishedOn": "2023-06-16T17:41:12.000Z",
+          "wordCount": 9609,
+          "title": "Former Celtic contender Enzo Maresca named Leicester manager",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16898467/?type=og-image"
+        },
         {
           "id": "e70a81f6a70cd72c1949ded45b97b593",
           "author": null,
@@ -917,16 +937,6 @@
           "wordCount": 9032,
           "title": "Reo Hatate drops major hint on Celtic future after Postecoglou exit",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16877403/?type=og-image"
-        },
-        {
-          "id": "3f7d8467c2060fa8e524fb11f71325d8",
-          "author": null,
-          "description": "Celtic chiefs flew to Mallorca to hold face-to-face talks with Brendan Rodgers over a return to Parkhead.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23582267.celtic-hold-face-to-face-talks-brendan-rodgers/?ref=rss",
-          "publishedOn": "2023-06-12T06:21:01.000Z",
-          "wordCount": 8497,
-          "title": "Celtic 'hold face-to-face talks' with Brendan Rodgers",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16877023/?type=og-image"
         }
       ]
     }

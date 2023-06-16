@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-16T18:20:29.951Z</updated>
+    <updated>2023-06-16T21:14:14.870Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Steve Clarke has his say on Erling Haaland mania and gives Scotland squad update ahead of Norway clash]]></title>
+        <id>4186666</id>
+        <link href="https://www.scotsman.com/sport/football/steve-clarke-has-his-say-on-erling-haaland-mania-and-gives-scotland-squad-update-ahead-of-norway-clash-4186666"/>
+        <updated>2023-06-16T19:42:15.000Z</updated>
+        <summary type="html"><![CDATA[Scotland manager Steve Clarke stressed the need to focus on “Norway the team” rather than become obsessed with trying to stop Erling Haaland.]]></summary>
+        <author>
+            <name>Gavin McCafferty</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postecoglou set to land first Spurs transfer with 'contract signed']]></title>
+        <id>a9da78f195db3331837c510f7fdc2527</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23595662.postecoglou-set-land-first-spurs-signing-contract-agreed/?ref=rss"/>
+        <updated>2023-06-16T19:32:33.000Z</updated>
+        <summary type="html"><![CDATA[Ange Postecoglou's first signing as Spurs manager could be Dejan Kulusevski - who was on loan at the club last season.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Former Celtic contender Enzo Maresca named Leicester manager]]></title>
+        <id>3f2bc70561ca2ae02d96bdd844d6541e</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23595529.former-celtic-contender-enzo-maresca-named-leicester-manager/?ref=rss"/>
+        <updated>2023-06-16T17:41:12.000Z</updated>
+        <summary type="html"><![CDATA[Enzo Maresca has been appointed as Leicester manager after being linked with the Celtic job.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic fans and Brendan Rodgers - mass amnesia or sensible pragmatism?]]></title>
         <id>e70a81f6a70cd72c1949ded45b97b593</id>
@@ -892,26 +922,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23582687.reo-hatate-drops-major-hint-celtic-future-postecoglou-exit/?ref=rss"/>
         <updated>2023-06-12T09:22:06.000Z</updated>
         <summary type="html"><![CDATA[Reo Hatate has dropped a hint he is not going to leave Celtic.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Next Celtic manager: Talks held with candidate as Scottish champions wait on Brendan Rodgers]]></title>
-        <id>4178655</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/next-celtic-manager-talks-held-with-candidate-as-scottish-champions-wait-on-brendan-rodgers-4178655"/>
-        <updated>2023-06-12T08:58:39.000Z</updated>
-        <summary type="html"><![CDATA[Celtic are continuing their search for Ange Postecoglou’s replacement following the Australian’s move to Tottenham Hotspur after guiding the club to a domestic treble.]]></summary>
-        <author>
-            <name>Chris Andrews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic 'hold face-to-face talks' with Brendan Rodgers]]></title>
-        <id>3f7d8467c2060fa8e524fb11f71325d8</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23582267.celtic-hold-face-to-face-talks-brendan-rodgers/?ref=rss"/>
-        <updated>2023-06-12T06:21:01.000Z</updated>
-        <summary type="html"><![CDATA[Celtic chiefs flew to Mallorca to hold face-to-face talks with Brendan Rodgers over a return to Parkhead.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
