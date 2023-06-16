@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-16T15:16:54.946Z</updated>
+    <updated>2023-06-16T18:20:29.951Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic fans and Brendan Rodgers - mass amnesia or sensible pragmatism?]]></title>
+        <id>e70a81f6a70cd72c1949ded45b97b593</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23595110.celtic-fans-brendan-rodgers---mass-amnesia-sensible-pragmatism/?ref=rss"/>
+        <updated>2023-06-16T15:23:18.000Z</updated>
+        <summary type="html"><![CDATA[ACROSS Scotland’s sun-soaked beer gardens this week, there will have been a Celtic fan or two on the defensive.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postecoglou 'plots Spurs transfer swoop' for Japan duo]]></title>
+        <id>2799508d6b8803f93a1426493596b64c</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23594990.postecoglou-plots-double-spurs-transfer-swoop-japan-duo/?ref=rss"/>
+        <updated>2023-06-16T15:03:25.000Z</updated>
+        <summary type="html"><![CDATA[Ange Postecoglou is reportedly keen on Japan international Hiroki Ito.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ex-Celtic defender Moritz Jenz completes Wolfsburg transfer]]></title>
+        <id>1c5108dd9f56a3442aa9e5f2edb8e1c8</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23594710.ex-celtic-defender-moritz-jenz-completes-wolfsburg-transfer/?ref=rss"/>
+        <updated>2023-06-16T14:19:26.000Z</updated>
+        <summary type="html"><![CDATA[The German defender has signed for Wolfsburg on a four-year-deal]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[When is Ange Postecoglou's first Tottenham match? Ex-Celtic boss set for live TV Premier League opener after Australia homecoming]]></title>
         <id>4186181</id>
