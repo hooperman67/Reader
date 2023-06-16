@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4184997",
+          "author": "Mark Atkinson",
+          "description": "The transfer window is in full swing with Rangers, Aberdeen and Hibs all looking to be active, while Celtic are in the midst of appointing a new manager.",
+          "link": "https://www.scotsman.com/sport/football/scottish-transfers-positive-celtic-news-two-new-suitors-for-morelos-aberdeen-to-land-striker-hibs-eye-veteran-4184997",
+          "publishedOn": "2023-06-16T07:35:39.000Z",
+          "wordCount": null,
+          "title": "Scottish transfers: Positive Celtic news, two new suitors for Morelos, Aberdeen to land striker, Hibs eye veteran",
+          "imageUrl": null
+        },
+        {
           "id": "4184335",
           "author": "Joel Sked",
           "description": "Scotland travel to Norway on Saturday  as they go in search of a result which could see them take a huge step towards qualification for Euro 2024.",
@@ -206,8 +216,48 @@
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "8e890aad6e36c2a672e42c5a32588c64",
+          "author": null,
+          "description": "When you leave Celtic, it stays with you and it is such a big club. If he does return then I’m sure he would be so happy to be their manager once again. Could they have another Invincible season under him? Definitely. I’m a big fan of Celtic, so I am always watching what they are doing.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23593001.scott-sinclair-backs-brendan-rodgers-celtic-return/?ref=rss",
+          "publishedOn": "2023-06-16T07:39:50.000Z",
+          "wordCount": 8546,
+          "title": "Scott Sinclair backs Brendan Rodgers' Celtic return",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16894262/?type=og-image"
+        },
+        {
+          "id": "d0077b7a5c8d37a4ca3b4c793c732281",
+          "author": null,
+          "description": "Kyogo Furuhashi's agent and translator have revealed the offers the striker had on the table before he secured his switch to Celtic.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23592948.celtic-kyogo-transfer-offers-detailed-agent-translator/?ref=rss",
+          "publishedOn": "2023-06-16T06:56:46.000Z",
+          "wordCount": 8598,
+          "title": "Celtic Kyogo transfer offers detailed by agent and translator",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16894204/?type=og-image"
+        },
+        {
+          "id": "207d3921325617e6fb877fd6b51fb23e",
+          "author": null,
+          "description": "Postecoglou is quickly getting to work with his new squad at Tottenham.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23592920.postecoglou-spurs-50m-double-swoop-labelled-wide-mark/?ref=rss",
+          "publishedOn": "2023-06-16T06:29:00.000Z",
+          "wordCount": 9651,
+          "title": "Postecoglou and Spurs' £50m double swoop labelled 'wide of the mark'",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16855122/?type=og-image"
+        },
+        {
+          "id": "c59e129dba9a139494967e133be7d421",
+          "author": null,
+          "description": "BRENDAN RODGERS is a man who once said that his greatest mentor was himself, and among his favourite sayings to impart to his players...",
+          "link": "https://www.glasgowtimes.co.uk/sport/23592682.behind-the-brodge-brent-isms-covering-brendan-rodgers-celtic/?ref=rss",
+          "publishedOn": "2023-06-16T05:00:00.000Z",
+          "wordCount": 9304,
+          "title": "Behind ‘The Brodge’ and Brent-isms: Covering Brendan Rodgers at Celtic",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16893694/?type=og-image"
+        },
         {
           "id": "2951d2c79d67dcab03fd071f5219eab9",
           "author": null,
