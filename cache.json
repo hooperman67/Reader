@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4185332",
+          "author": "Matthew Elder",
+          "description": "Enzo Maresca, the former favourite for the Celtic managerial vacancy, is set to be appointed as the new head coach of Leicester City.",
+          "link": "https://www.scotsman.com/sport/football/celtic/former-celtic-next-manager-favourite-set-to-be-appointed-new-boss-of-leicester-city-4185332",
+          "publishedOn": "2023-06-16T09:52:54.000Z",
+          "wordCount": null,
+          "title": "Former Celtic next manager favourite set to be appointed new boss of Leicester City",
+          "imageUrl": null
+        },
+        {
           "id": "4184997",
           "author": "Mark Atkinson",
           "description": "The transfer window is in full swing with Rangers, Aberdeen and Hibs all looking to be active, while Celtic are in the midst of appointing a new manager.",
@@ -218,6 +228,26 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "25347ac712a263e958a7b43d588b3e8c",
+          "author": null,
+          "description": "The Aussie was quick to refer to Spurs as his team as he discussed his plans for the summer.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23593780.ange-postecoglou-drops-celtic-touch-first-interview-spurs-boss/?ref=rss",
+          "publishedOn": "2023-06-16T11:01:01.000Z",
+          "wordCount": 8565,
+          "title": "Ange Postecoglou drops Celtic touch in first interview as Spurs boss",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16895502/?type=og-image"
+        },
+        {
+          "id": "877b6d3345ef90c0b3e983487dcdc665",
+          "author": null,
+          "description": "The Hoops have been on the hunt for a new boss since Ange Postecoglou sealed his move to Tottenham last Tuesday.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23593237.barry-ferguson-makes-rangers-reaction-call-brendan-rodgers/?ref=rss",
+          "publishedOn": "2023-06-16T08:56:49.000Z",
+          "wordCount": 9875,
+          "title": "Barry Ferguson makes Rangers reaction call on Brendan Rodgers",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16883706/?type=og-image"
+        },
         {
           "id": "8e890aad6e36c2a672e42c5a32588c64",
           "author": null,
@@ -827,16 +857,6 @@
           "wordCount": 8497,
           "title": "Celtic 'hold face-to-face talks' with Brendan Rodgers",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16877023/?type=og-image"
-        },
-        {
-          "id": "c6d0d533644091a935a3573a91620cf9",
-          "author": null,
-          "description": "CELTIC will not face any competition from Ajax if they want to appoint Kjetil Knutsen as their new manager after talks between the Norwegian and the Dutch giants broke down tonight.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23582185.ajax-talks-celtic-managerial-contender-kjetil-knutsen-break/?ref=rss",
-          "publishedOn": "2023-06-11T21:22:41.000Z",
-          "wordCount": 8869,
-          "title": "Ajax talks with Celtic managerial contender Kjetil Knutsen break down",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16876883/?type=og-image"
         }
       ]
     }

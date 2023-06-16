@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-16T09:16:05.898Z</updated>
+    <updated>2023-06-16T12:34:06.566Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ange Postecoglou drops Celtic touch in first interview as Spurs boss]]></title>
+        <id>25347ac712a263e958a7b43d588b3e8c</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23593780.ange-postecoglou-drops-celtic-touch-first-interview-spurs-boss/?ref=rss"/>
+        <updated>2023-06-16T11:01:01.000Z</updated>
+        <summary type="html"><![CDATA[The Aussie was quick to refer to Spurs as his team as he discussed his plans for the summer.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Former Celtic next manager favourite set to be appointed new boss of Leicester City]]></title>
+        <id>4185332</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/former-celtic-next-manager-favourite-set-to-be-appointed-new-boss-of-leicester-city-4185332"/>
+        <updated>2023-06-16T09:52:54.000Z</updated>
+        <summary type="html"><![CDATA[Enzo Maresca, the former favourite for the Celtic managerial vacancy, is set to be appointed as the new head coach of Leicester City.]]></summary>
+        <author>
+            <name>Matthew Elder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Barry Ferguson makes Rangers reaction call on Brendan Rodgers]]></title>
+        <id>877b6d3345ef90c0b3e983487dcdc665</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23593237.barry-ferguson-makes-rangers-reaction-call-brendan-rodgers/?ref=rss"/>
+        <updated>2023-06-16T08:56:49.000Z</updated>
+        <summary type="html"><![CDATA[The Hoops have been on the hunt for a new boss since Ange Postecoglou sealed his move to Tottenham last Tuesday.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scott Sinclair backs Brendan Rodgers' Celtic return]]></title>
         <id>8e890aad6e36c2a672e42c5a32588c64</id>
@@ -812,16 +842,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23582267.celtic-hold-face-to-face-talks-brendan-rodgers/?ref=rss"/>
         <updated>2023-06-12T06:21:01.000Z</updated>
         <summary type="html"><![CDATA[Celtic chiefs flew to Mallorca to hold face-to-face talks with Brendan Rodgers over a return to Parkhead.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ajax talks with Celtic managerial contender Kjetil Knutsen break down]]></title>
-        <id>c6d0d533644091a935a3573a91620cf9</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23582185.ajax-talks-celtic-managerial-contender-kjetil-knutsen-break/?ref=rss"/>
-        <updated>2023-06-11T21:22:41.000Z</updated>
-        <summary type="html"><![CDATA[CELTIC will not face any competition from Ajax if they want to appoint Kjetil Knutsen as their new manager after talks between the Norwegian and the Dutch giants broke down tonight.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
