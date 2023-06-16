@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-16T03:18:11.172Z</updated>
+    <updated>2023-06-16T06:21:56.744Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The story of Brendan Rodgers at Leicester as Celtic return nears]]></title>
+        <id>2951d2c79d67dcab03fd071f5219eab9</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23592868.story-brendan-rodgers-leicester-celtic-return-nears/?ref=rss"/>
+        <updated>2023-06-16T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The 50-year-old is closing in on a dramatic return to Glasgow.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ange Postecoglou makes first major Tottenham player decision]]></title>
         <id>cb37f2075d292c3850a3ed65c679297d</id>
