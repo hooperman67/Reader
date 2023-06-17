@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-17T06:20:35.532Z</updated>
+    <updated>2023-06-17T09:15:22.015Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Conference League compromise is needed if Scotland are to thrive]]></title>
+        <id>0ea12adf499e3f49591ff413a191316f</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23595290.conference-league-compromise-needed-scotland-thrive/?ref=rss"/>
+        <updated>2023-06-17T06:04:00.000Z</updated>
+        <summary type="html"><![CDATA[HIS team may be sitting on top of their Euro 2024 qualifying section after opening victories over Cyprus and Spain at Hampden back in March.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ex-Celtic player on why Norway are much more than a two man team]]></title>
+        <id>ca5775794d2ff377ec22634b62edc0b4</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23595180.ex-celtic-player-norway-much-two-man-team/?ref=rss"/>
+        <updated>2023-06-17T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[FANS of most major footballing nations would be deeply unhappy and possibly even clamouring for a change of manager if their team had started a qualifying campaign without a victory in their opening two matches.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Steve Clarke has his say on Erling Haaland mania and gives Scotland squad update ahead of Norway clash]]></title>
         <id>4186666</id>
@@ -804,26 +824,6 @@
         <summary type="html"><![CDATA[The Bodo/Glimt manager is among a host of names being linked to the vacant Parkhead job.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic stars Jota and Carl Starfelt take picture during Italy vacation]]></title>
-        <id>23f8f9047f5936ef12d5bcd3478140bc</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23584857.celtic-stars-jota-carl-starfelt-take-picture-italy-vacation/?ref=rss"/>
-        <updated>2023-06-12T19:15:40.000Z</updated>
-        <summary type="html"><![CDATA[T]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The day Danny McGrain debunked one of the great Brendan Rodgers Celtic myths]]></title>
-        <id>4180025</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/the-day-danny-mcgrain-debunked-one-of-the-great-brendan-rodgers-celtic-myths-4180025"/>
-        <updated>2023-06-12T18:48:41.000Z</updated>
-        <summary type="html"><![CDATA[As the Celtic support attempt to get their heads around the possibility of a return for Brendan Rodgers they would do well to heed the advice of the man he is now understood to have held talks over succeeding.]]></summary>
-        <author>
-            <name>Andrew Smith</name>
         </author>
     </entry>
 </feed>
