@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-17T01:37:48.260Z</updated>
+    <updated>2023-06-17T03:18:01.352Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -854,26 +854,6 @@
         <summary type="html"><![CDATA[Celtic's search for a new manager has taken a twist after Enzo Maresca held talks with Leicester City in the aftermath of the Champions League final to replace Brendan Rodgers at the King Power Stadium with a Parkhead return for the Northern Irishman increasingly likely.]]></summary>
         <author>
             <name>Chris Andrews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enzo Maresca Celtic update amid Leicester 'interview']]></title>
-        <id>ebd99e4ee1517e494fb254dc12aad5e4</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23584077.enzo-maresca-celtic-update-amid-leicester-interview/?ref=rss"/>
-        <updated>2023-06-12T14:27:20.000Z</updated>
-        <summary type="html"><![CDATA[The Italian is also high on Celtic's wishlist and is currently the second-favourite to replace Ange Postecoglou in Glasgow.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic star Reo Hatate 'monitored' by Tottenham Hotspur]]></title>
-        <id>6e12fb080a87bfdade02dea6d04f0b5e</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23583956.celtic-star-reo-hatate-monitored-tottenham-hotspur/?ref=rss"/>
-        <updated>2023-06-12T13:59:06.000Z</updated>
-        <summary type="html"><![CDATA[The 25-year-old was signed for the Scottish champions by Ange Postecoglou in January 2022.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>
