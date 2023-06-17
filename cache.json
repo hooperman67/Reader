@@ -6,6 +6,46 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4187003",
+          "author": "Matthew Elder",
+          "description": "Andy Robertson admitted qualifying for the European Championships in Germany next year is now a must for Scotland after the stunning comeback win over Norway in Oslo.",
+          "link": "https://www.scotsman.com/sport/football/international/andy-robertson-admits-scotland-have-to-qualify-for-euro-2024-after-epic-late-win-over-norway-4187003",
+          "publishedOn": "2023-06-17T20:57:48.000Z",
+          "wordCount": null,
+          "title": "Andy Robertson admits Scotland 'have to qualify' for Euro 2024 after epic late win over Norway",
+          "imageUrl": null
+        },
+        {
+          "id": "4186995",
+          "author": "Alan Pattullo",
+          "description": "A tight, compact stadium full of expectant home fans. A returning hero. Stiflingly muggy conditions and hosts in dire need of a victory.",
+          "link": "https://www.scotsman.com/sport/football/international/scotland-eclipse-spain-win-with-norway-comeback-as-erling-haaland-demoted-to-surprise-spectator-4186995",
+          "publishedOn": "2023-06-17T20:08:48.000Z",
+          "wordCount": null,
+          "title": "Scotland eclipse Spain win with Norway comeback as Erling Haaland demoted to surprise spectator",
+          "imageUrl": null
+        },
+        {
+          "id": "4186992",
+          "author": "Matthew Elder",
+          "description": "Steve Clarke may have worried about sunburn in Oslo but any concerns over a Euro 2024 qualification slip-up were obliterated with a stunning late comeback as his Scotland side claimed a dramatic 2-1 victory over Norway.",
+          "link": "https://www.scotsman.com/sport/football/international/steve-clarke-revels-in-scotlands-huge-norway-win-and-reveals-why-tracksuit-top-stayed-on-in-30-degree-heat-4186992",
+          "publishedOn": "2023-06-17T19:57:19.000Z",
+          "wordCount": null,
+          "title": "Steve Clarke revels in Scotland's huge Norway win - and reveals why tracksuit top stayed on in 30 degree heat",
+          "imageUrl": null
+        },
+        {
+          "id": "4186985",
+          "author": "Andrew Smith",
+          "description": "Scotland gave their Euro 2024 qualification hopes a huge boost with a 2-1 victory in Norway after a dramatic late comeback. Here is how the Scotland players rated out of 10…",
+          "link": "https://www.scotsman.com/sport/football/international/scotland-player-ratings-the-defender-who-stood-up-to-haaland-and-the-standout-who-did-the-work-of-two-men-4186985",
+          "publishedOn": "2023-06-17T19:17:59.000Z",
+          "wordCount": null,
+          "title": "Scotland player ratings: the defender who stood up to Haaland and the standout who did the work of two men",
+          "imageUrl": null
+        },
+        {
           "id": "4186964",
           "author": "Oliver Anderson",
           "description": "Brendan Rodgers is in line to be confirmed as the next manager of Celtic within the next 48 hours, according to a report.",
@@ -184,16 +224,6 @@
           "wordCount": null,
           "title": "Dermot Desmond lands in Glasgow as Celtic new manager search ramps up",
           "imageUrl": null
-        },
-        {
-          "id": "4180227",
-          "author": "Chris Andrews",
-          "description": "Brendan Rodgers is the No.1 candidate for the Celtic job with the Scottish champions set to make the Northern Irishman a tempting offer – and a club legend could also return.",
-          "link": "https://www.scotsman.com/sport/football/celtic/celtic-to-make-brendan-rodgers-move-as-former-boss-no1-candidate-and-legend-could-return-4180227",
-          "publishedOn": "2023-06-13T08:27:24.000Z",
-          "wordCount": null,
-          "title": "Celtic to make Brendan Rodgers move as former boss No.1 candidate and legend could return",
-          "imageUrl": null
         }
       ]
     },
@@ -208,6 +238,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "f3473f01bf1c2761dc5cb9fd416fc06a",
+          "author": null,
+          "description": "Brendan Rodgers is reportedly set to be named as Celtic manager on Monday.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23596466.brendan-rodgers-return-celtic-timeline-revealed/?ref=rss",
+          "publishedOn": "2023-06-17T18:21:14.000Z",
+          "wordCount": 9601,
+          "title": "Brendan Rodgers return to Celtic timeline 'revealed'",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16900118/?type=og-image"
+        },
         {
           "id": "0986bbe39eb366c90f5c41f7af895bae",
           "author": null,
@@ -767,56 +807,6 @@
           "wordCount": 9615,
           "title": "Celtic 'agree deal' to sign midfielder Odin Thiago Holm",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16882129/?type=og-image"
-        },
-        {
-          "id": "e7a42c5c3de9ee296dd13c27cf36af50",
-          "author": null,
-          "description": "CELTIC striker Oh Hyeon-gyu has backed Ange Postecoglou to be a hit at Spurs after revealing Son Heung-min has quizzed him about his new manager.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23585400.oh-backs-ange-postecoglou-spurs-success-son-scouting-mission/?ref=rss",
-          "publishedOn": "2023-06-13T09:03:34.000Z",
-          "wordCount": 8583,
-          "title": "Oh backs Ange Postecoglou for Spurs success after Son scouting mission",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16881953/?type=og-image"
-        },
-        {
-          "id": "8e9a010658397fc66711b2c6ee9be98a",
-          "author": null,
-          "description": "Ally McCoist believes Brendan Rodgers would be a \"brilliant\" appointment for Celtic as the Scottish champions continue their hunt to replace Ange Postecoglou.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23585255.ally-mccoist-delivers-celtic-fan-prediction-rodgers-appointment/?ref=rss",
-          "publishedOn": "2023-06-13T08:27:47.000Z",
-          "wordCount": 8604,
-          "title": "Ally McCoist delivers Celtic fan prediction over Rodgers appointment",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16090761/?type=og-image"
-        },
-        {
-          "id": "afe10e0142053f4e9c5acad753443ac1",
-          "author": null,
-          "description": "Celtic will do all they can to keep Reo Hatate at the club this summer transfer window.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23585081.reo-hatate-celtic-transfer-latest-hoops-ready-fight/?ref=rss",
-          "publishedOn": "2023-06-13T07:29:35.000Z",
-          "wordCount": 9693,
-          "title": "Reo Hatate Celtic transfer latest with Hoops ready for a fight",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16881578/?type=og-image"
-        },
-        {
-          "id": "5187273788fae31a7ea503c5558a6adc",
-          "author": null,
-          "description": "Celtic are set to table a bumper offer to bring Brendan Rodgers in as manager - and Hoops chiefs want Scott Brown to join him, according to reports.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23585034.celtic-manager-latest-scott-brown-lined-sensational-return/?ref=rss",
-          "publishedOn": "2023-06-13T06:49:32.000Z",
-          "wordCount": 8539,
-          "title": "Celtic manager latest as Scott Brown lined up for sensational return",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16881532/?type=og-image"
-        },
-        {
-          "id": "9ccf1fefa9f88d32699f1e05a030d00d",
-          "author": null,
-          "description": "Charlie Nicholas shares his major Brendan Rodgers fear",
-          "link": "https://www.glasgowtimes.co.uk/sport/23585011.charlie-nicholas-shares-brendan-rodgers-celtic-fear-factor/?ref=rss",
-          "publishedOn": "2023-06-13T06:22:57.000Z",
-          "wordCount": 8595,
-          "title": "Charlie Nicholas shares Brendan Rodgers Celtic fear factor",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16856658/?type=og-image"
         }
       ]
     }
