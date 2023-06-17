@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-17T15:15:53.312Z</updated>
+    <updated>2023-06-17T18:19:34.745Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Brendan Rodgers' Celtic return set to be confirmed with appointment date revealed]]></title>
+        <id>4186964</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/brendan-rodgers-celtic-return-set-to-be-confirmed-with-appointment-date-revealed-4186964"/>
+        <updated>2023-06-17T17:15:17.000Z</updated>
+        <summary type="html"><![CDATA[Brendan Rodgers is in line to be confirmed as the next manager of Celtic within the next 48 hours, according to a report.]]></summary>
+        <author>
+            <name>Oliver Anderson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brendan Rodgers' 'five-year plan at Celtic revealed']]></title>
+        <id>0986bbe39eb366c90f5c41f7af895bae</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23596312.brendan-rodgers-five-year-plan-celtic-revealed/?ref=rss"/>
+        <updated>2023-06-17T14:29:13.000Z</updated>
+        <summary type="html"><![CDATA[Brendan Rodgers has reportedly been given assurances over backing should he return to Celtic.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Conference League compromise is needed if Scotland are to thrive]]></title>
         <id>0ea12adf499e3f49591ff413a191316f</id>
@@ -782,36 +802,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23585011.charlie-nicholas-shares-brendan-rodgers-celtic-fear-factor/?ref=rss"/>
         <updated>2023-06-13T06:22:57.000Z</updated>
         <summary type="html"><![CDATA[Charlie Nicholas shares his major Brendan Rodgers fear]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Harald Brattbakk on flux at Celtic and potential Norwegian transfer coup]]></title>
-        <id>4180066</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/harald-brattbakk-on-flux-at-celtic-and-potential-norwegian-transfer-coup-4180066"/>
-        <updated>2023-06-13T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Celebrations were still in full swing after Celtic successfully derailed Rangers’ ten-in-a-row bid when manager Wim Jansen put a dampener on things by confirming he was leaving.]]></summary>
-        <author>
-            <name>Alan Pattullo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["There is always disruption when a manager leaves"..Harald Brattbakk on flux at Celtic and potential Norwegian transfer coup]]></title>
-        <id>4180066</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/there-is-always-disruption-when-a-manager-leavesharald-brattbakk-on-flux-at-celtic-and-potential-norwegian-transfer-coup-4180066"/>
-        <updated>2023-06-13T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Celebrations were still in full swing after Celtic successfully derailed Rangers’ ten-in-a-row bid when manager Wim Jansen put a dampener on things by confirming he was leaving.]]></summary>
-        <author>
-            <name>Alan Pattullo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Odin Thiago Holm would bring to Celtic revealed]]></title>
-        <id>c6ca76c82a11abb0e3b8b57c4aa0ed11</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23584934.odin-thiago-holm-bring-celtic-revealed/?ref=rss"/>
-        <updated>2023-06-13T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Reports from Norway have linked the Valerenga midfielder with a move to Glasgow.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>

@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4186964",
+          "author": "Oliver Anderson",
+          "description": "Brendan Rodgers is in line to be confirmed as the next manager of Celtic within the next 48 hours, according to a report.",
+          "link": "https://www.scotsman.com/sport/football/celtic/brendan-rodgers-celtic-return-set-to-be-confirmed-with-appointment-date-revealed-4186964",
+          "publishedOn": "2023-06-17T17:15:17.000Z",
+          "wordCount": null,
+          "title": "Brendan Rodgers' Celtic return set to be confirmed with appointment date revealed",
+          "imageUrl": null
+        },
+        {
           "id": "4186666",
           "author": "Gavin McCafferty",
           "description": "Scotland manager Steve Clarke stressed the need to focus on “Norway the team” rather than become obsessed with trying to stop Erling Haaland.",
@@ -184,26 +194,6 @@
           "wordCount": null,
           "title": "Celtic to make Brendan Rodgers move as former boss No.1 candidate and legend could return",
           "imageUrl": null
-        },
-        {
-          "id": "4180066",
-          "author": "Alan Pattullo",
-          "description": "Celebrations were still in full swing after Celtic successfully derailed Rangers’ ten-in-a-row bid when manager Wim Jansen put a dampener on things by confirming he was leaving.",
-          "link": "https://www.scotsman.com/sport/football/celtic/harald-brattbakk-on-flux-at-celtic-and-potential-norwegian-transfer-coup-4180066",
-          "publishedOn": "2023-06-13T06:00:00.000Z",
-          "wordCount": null,
-          "title": "Harald Brattbakk on flux at Celtic and potential Norwegian transfer coup",
-          "imageUrl": null
-        },
-        {
-          "id": "4180066",
-          "author": "Alan Pattullo",
-          "description": "Celebrations were still in full swing after Celtic successfully derailed Rangers’ ten-in-a-row bid when manager Wim Jansen put a dampener on things by confirming he was leaving.",
-          "link": "https://www.scotsman.com/sport/football/celtic/there-is-always-disruption-when-a-manager-leavesharald-brattbakk-on-flux-at-celtic-and-potential-norwegian-transfer-coup-4180066",
-          "publishedOn": "2023-06-13T06:00:00.000Z",
-          "wordCount": null,
-          "title": "\"There is always disruption when a manager leaves\"..Harald Brattbakk on flux at Celtic and potential Norwegian transfer coup",
-          "imageUrl": null
         }
       ]
     },
@@ -218,6 +208,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "0986bbe39eb366c90f5c41f7af895bae",
+          "author": null,
+          "description": "Brendan Rodgers has reportedly been given assurances over backing should he return to Celtic.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23596312.brendan-rodgers-five-year-plan-celtic-revealed/?ref=rss",
+          "publishedOn": "2023-06-17T14:29:13.000Z",
+          "wordCount": 8595,
+          "title": "Brendan Rodgers' 'five-year plan at Celtic revealed'",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16899570/?type=og-image"
+        },
         {
           "id": "0ea12adf499e3f49591ff413a191316f",
           "author": null,
@@ -817,16 +817,6 @@
           "wordCount": 8595,
           "title": "Charlie Nicholas shares Brendan Rodgers Celtic fear factor",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16856658/?type=og-image"
-        },
-        {
-          "id": "c6ca76c82a11abb0e3b8b57c4aa0ed11",
-          "author": null,
-          "description": "Reports from Norway have linked the Valerenga midfielder with a move to Glasgow.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23584934.odin-thiago-holm-bring-celtic-revealed/?ref=rss",
-          "publishedOn": "2023-06-13T05:00:00.000Z",
-          "wordCount": 8893,
-          "title": "What Odin Thiago Holm would bring to Celtic revealed",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16881436/?type=og-image"
         }
       ]
     }
