@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-17T09:15:22.015Z</updated>
+    <updated>2023-06-17T12:30:35.717Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -812,16 +812,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23584934.odin-thiago-holm-bring-celtic-revealed/?ref=rss"/>
         <updated>2023-06-13T05:00:00.000Z</updated>
         <summary type="html"><![CDATA[Reports from Norway have linked the Valerenga midfielder with a move to Glasgow.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kjetil Knutsen gets Celtic recommendation over European credentials]]></title>
-        <id>1df5fe35507eeab9461ba91b30aac069</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23584902.kjetil-knutsen-gets-celtic-recommendation-european-credentials/?ref=rss"/>
-        <updated>2023-06-12T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The Bodo/Glimt manager is among a host of names being linked to the vacant Parkhead job.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
