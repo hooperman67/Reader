@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-18T15:16:01.640Z</updated>
+    <updated>2023-06-18T18:19:42.932Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA['I know I'm not supposed to' - John McGinn admission over Scotland inspiration behind Norway comeback win]]></title>
+        <id>4187258</id>
+        <link href="https://www.scotsman.com/sport/football/international/i-know-im-not-supposed-to-john-mcginn-admission-over-scotland-inspiration-behind-norway-comeback-win-4187258"/>
+        <updated>2023-06-18T16:12:12.000Z</updated>
+        <summary type="html"><![CDATA[John McGinn has stressed the need for Scotland to back up their stunning victory in Oslo with another three points against Georgia at Hampden on Tuesday.]]></summary>
+        <author>
+            <name>Matthew Elder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scotland Under-21s almost emulate seniors after coming from behind against Norway - two Celtic and two Rangers starlets start]]></title>
+        <id>4187245</id>
+        <link href="https://www.scotsman.com/sport/football/international/scotland-under-21s-almost-emulate-seniors-after-coming-from-behind-against-norway-two-celtic-and-two-rangers-starlets-start-4187245"/>
+        <updated>2023-06-18T15:45:22.000Z</updated>
+        <summary type="html"><![CDATA[Scotland Under-21s followed their senior counterparts in coming from behind to claim a result against Norway.]]></summary>
+        <author>
+            <name>Oliver Anderson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kenny Dalglish delivers Brendan Rodgers Celtic prediction]]></title>
         <id>d1a7ee100b0f848e7c8eb98f42bc5eac</id>
@@ -662,36 +682,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23587790.brendan-rodgers-celtic-latest-details-emerge-talks/?ref=rss"/>
         <updated>2023-06-14T06:32:18.000Z</updated>
         <summary type="html"><![CDATA[Brendan Rodgers has reportedly told Celtic chiefs that turning the Scottish champions into a Champions League force would be at the top of his agenda.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scotland concerns over Norway pitch as surface branded 'horrible' and covered in 'sand']]></title>
-        <id>4181598</id>
-        <link href="https://www.scotsman.com/sport/football/international/scotland-concerns-over-norway-pitch-as-surface-branded-horrible-and-covered-in-sand-4181598"/>
-        <updated>2023-06-14T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Scotland assistant John Carver has revealed he has been provided with personal intel that has confirmed potential problems with the Oslo pitch that will host the country’s crucial Euro 2024 qualifier against Norway on Saturday.]]></summary>
-        <author>
-            <name>Andrew Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic transfer window: Midfielder linked, possible Brendan Rodgers targets, Ange Postecoglou £20m raid]]></title>
-        <id>4181626</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/celtic-transfer-window-midfielder-linked-possible-brendan-rodgers-targets-ange-postecoglou-ps20m-raid-4181626"/>
-        <updated>2023-06-14T05:45:00.000Z</updated>
-        <summary type="html"><![CDATA[It’s official – the transfer window is now open in Scotland. Clubs can now buy and sell players but for Celtic the focus is on appointing a manager to oversee their transfer business ...]]></summary>
-        <author>
-            <name>Matthew Elder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Celtic pros and cons as Brendan Rodgers nears sensational return]]></title>
-        <id>39cfc03c0af29ba7b2a795336c14d959</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23587715.celtic-pros-cons-brendan-rodgers-nears-sensational-return/?ref=rss"/>
-        <updated>2023-06-14T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The formerly all-conquering Parkhead manager is the frontrunner to succeed Ange Postecoglou.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
