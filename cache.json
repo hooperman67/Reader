@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4187018",
+          "author": "Andrew Smith",
+          "description": "As an explanation for the, from-nowhere, tsunami that resulted in Scotland sweeping away Norway in Oslo, you had to hand it to Steve Clarke for finding just the right words.",
+          "link": "https://www.scotsman.com/sport/football/international/an-ode-to-steve-clarke-the-man-with-unshakeable-belief-who-has-changed-everything-for-scotland-4187018",
+          "publishedOn": "2023-06-18T07:00:00.000Z",
+          "wordCount": null,
+          "title": "An ode to Steve Clarke - the man with unshakeable belief who has changed everything for Scotland",
+          "imageUrl": null
+        },
+        {
           "id": "4186781",
           "author": "Aidan Smith",
           "description": "As Hibernian were preparing to unveil the new slogan on the front of the shirts, I’m imagining there might have been some nervous excitement down Easter Road way. The sponsorship deal would be “the biggest of its kind” for the club, but, er, what about that name?",
@@ -238,6 +248,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "b9536191f8dc59a9dd87e0a0a48b1fe1",
+          "author": null,
+          "description": "Aberdeen chairman Dave Cormack has explained his Twitter blunder as he tweeted about Celtic goalkeeper Conor Hazard.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23596607.aberdeen-chairman-dave-cormack-deletes-celtic-transfer-link-tweet/?ref=rss",
+          "publishedOn": "2023-06-18T07:52:57.000Z",
+          "wordCount": 8635,
+          "title": "Aberdeen chairman Dave Cormack deletes Celtic transfer link tweet",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16900380/?type=og-image"
+        },
         {
           "id": "f3473f01bf1c2761dc5cb9fd416fc06a",
           "author": null,

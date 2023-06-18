@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-18T06:21:05.567Z</updated>
+    <updated>2023-06-18T09:15:36.883Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aberdeen chairman Dave Cormack deletes Celtic transfer link tweet]]></title>
+        <id>b9536191f8dc59a9dd87e0a0a48b1fe1</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23596607.aberdeen-chairman-dave-cormack-deletes-celtic-transfer-link-tweet/?ref=rss"/>
+        <updated>2023-06-18T07:52:57.000Z</updated>
+        <summary type="html"><![CDATA[Aberdeen chairman Dave Cormack has explained his Twitter blunder as he tweeted about Celtic goalkeeper Conor Hazard.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An ode to Steve Clarke - the man with unshakeable belief who has changed everything for Scotland]]></title>
+        <id>4187018</id>
+        <link href="https://www.scotsman.com/sport/football/international/an-ode-to-steve-clarke-the-man-with-unshakeable-belief-who-has-changed-everything-for-scotland-4187018"/>
+        <updated>2023-06-18T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As an explanation for the, from-nowhere, tsunami that resulted in Scotland sweeping away Norway in Oslo, you had to hand it to Steve Clarke for finding just the right words.]]></summary>
+        <author>
+            <name>Andrew Smith</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aidan Smith: No 10 has “wine-time Fridays” but will football ever get its “beer-time Saturdays” back?]]></title>
         <id>4186781</id>
