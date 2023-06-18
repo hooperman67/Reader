@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-18T12:31:25.223Z</updated>
+    <updated>2023-06-18T15:16:01.640Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kenny Dalglish delivers Brendan Rodgers Celtic prediction]]></title>
+        <id>d1a7ee100b0f848e7c8eb98f42bc5eac</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23597069.kenny-dalglish-delivers-brendan-rodgers-celtic-prediction/?ref=rss"/>
+        <updated>2023-06-18T14:11:08.000Z</updated>
+        <summary type="html"><![CDATA[Speaking to the Sunday Post, he said: "I said last week Celtic should be looking for someone similar to Ange in terms of the style of football, and that's why I can see the logic in this move. Brendan will look to be very successful again and want to make an impact in the Champions League.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reo Hatate reveals Premier League scouting mission to improve his game]]></title>
+        <id>03ca73000bc21b2da23342b57484a282</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23597007.reo-hatate-reveals-premier-league-scouting-mission-improve-game/?ref=rss"/>
+        <updated>2023-06-18T13:20:35.000Z</updated>
+        <summary type="html"><![CDATA[Speaking to Soccer Digest, he said: “I think Kaoru is leading the national team, so I want to show my value when I go out too. I don’t want to be pulled along, I want to be an equal.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aberdeen chairman Dave Cormack deletes Celtic transfer link tweet]]></title>
         <id>b9536191f8dc59a9dd87e0a0a48b1fe1</id>
