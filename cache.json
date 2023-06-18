@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4187006",
+          "author": "Matthew Elder",
+          "description": "While there was delirium in the Scotland camp after the stunning comeback win in Oslo, there was anguish for Norway at the realisation their Euro 2024 qualifying hopes may have suffered a fatal blow.",
+          "link": "https://www.scotsman.com/sport/football/international/arsenals-martin-odegaard-unimpressed-with-scotland-as-norway-talisman-insists-better-team-lost-4187006",
+          "publishedOn": "2023-06-17T21:17:15.000Z",
+          "wordCount": null,
+          "title": "Arsenal's Martin Odegaard unimpressed with Scotland as Norway talisman insists 'better team lost'",
+          "imageUrl": null
+        },
+        {
           "id": "4187003",
           "author": "Matthew Elder",
           "description": "Andy Robertson admitted qualifying for the European Championships in Germany next year is now a must for Scotland after the stunning comeback win over Norway in Oslo.",
@@ -213,16 +223,6 @@
           "publishedOn": "2023-06-13T15:37:00.000Z",
           "wordCount": null,
           "title": "Scottish Premiership transfers to watch as window opens - in-demand Celtic star, key Rangers target, Hearts & Aberdeen aces",
-          "imageUrl": null
-        },
-        {
-          "id": "4180896",
-          "author": "Matthew Elder",
-          "description": "Celtic majority shareholder Dermot Desmond has landed Glasgow as the club's search for a new manager gathers pace.",
-          "link": "https://www.scotsman.com/sport/football/celtic/dermot-desmond-lands-in-glasgow-as-celtic-new-manager-search-ramps-up-4180896",
-          "publishedOn": "2023-06-13T13:13:17.000Z",
-          "wordCount": null,
-          "title": "Dermot Desmond lands in Glasgow as Celtic new manager search ramps up",
           "imageUrl": null
         }
       ]
@@ -737,76 +737,6 @@
           "wordCount": 8551,
           "title": "Callum McGregor lauds Celtic supporters for treble party",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16884042/?type=og-image"
-        },
-        {
-          "id": "fb933be48c44a0e8ed5cf3bf58666e95",
-          "author": null,
-          "description": "The captain admitted that Jota's goal was the most emotion he had ever felt in his career",
-          "link": "https://www.glasgowtimes.co.uk/sport/23586505.celtic-captain-callum-mcgregor-confesses-emotional-highlight/?ref=rss",
-          "publishedOn": "2023-06-13T13:16:06.000Z",
-          "wordCount": 8494,
-          "title": "Celtic captain Callum McGregor confesses emotional highlight",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16883731/?type=og-image"
-        },
-        {
-          "id": "bd0534dba26894e9d42133450b22c57a",
-          "author": null,
-          "description": "Brendan Rodgers is the odds-on favourite to be named the next manager of Celtic.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23586481.brendan-rodgers-celtic-manager-odds-latest-talks-pipeline/?ref=rss",
-          "publishedOn": "2023-06-13T13:11:25.000Z",
-          "wordCount": 8667,
-          "title": "Brendan Rodgers Celtic manager odds latest with talks in the pipeline",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16883706/?type=og-image"
-        },
-        {
-          "id": "f9de2358c7541e9e7cd3a160c0551448",
-          "author": null,
-          "description": "The Celtic winger has earned the highest rating in FIFA 23's Team of the Season",
-          "link": "https://www.glasgowtimes.co.uk/sport/23586169.celtics-jota-earns-top-rating-team-season-squad/?ref=rss",
-          "publishedOn": "2023-06-13T11:54:07.000Z",
-          "wordCount": 8500,
-          "title": "Celtic's Jota earns top rating in Team of the Season squad",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16883178/?type=og-image"
-        },
-        {
-          "id": "e27fa1e213619fae9d09e9b2a661bf89",
-          "author": null,
-          "description": "Brendan Rodgers has been linked to Leeds United, as their American ownership wants a quick return to the Premier League",
-          "link": "https://www.glasgowtimes.co.uk/sport/23585921.celtic-linked-manager-brendan-rodgers-wanted-leeds/?ref=rss",
-          "publishedOn": "2023-06-13T11:03:20.000Z",
-          "wordCount": 8538,
-          "title": "Celtic linked manager Brendan Rodgers 'wanted' by Leeds",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16882877/?type=og-image"
-        },
-        {
-          "id": "5f88cca47a19ad4ca07dda53725ab9bf",
-          "author": null,
-          "description": "The Celtic supremo arrived at Glasgow Airport today as Hoops chiefs are set to sit down with Rodgers over the possibility of him replacing Ange Postecoglou.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23585819.rodgers-celtic-latest-dermot-desmond-jets-glasgow-talks/?ref=rss",
-          "publishedOn": "2023-06-13T10:44:32.000Z",
-          "wordCount": 8541,
-          "title": "Rodgers to Celtic latest as Dermot Desmond jets into Glasgow for talks",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16882639/?type=og-image"
-        },
-        {
-          "id": "48522ef42abe6a57421aef3e79d5178e",
-          "author": null,
-          "description": "The Dutchman could be on the move this summer.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23585597.barcelona-bayern-munich-among-sides-hunt-sign-ex-celtic-star/?ref=rss",
-          "publishedOn": "2023-06-13T09:54:00.000Z",
-          "wordCount": 8579,
-          "title": "Barcelona and Bayern Munich among sides in hunt to sign ex-Celtic star",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16882282/?type=og-image"
-        },
-        {
-          "id": "f7c3c45fa9c1753506057913dca773e6",
-          "author": null,
-          "description": "The Scottish champions are poised to clinch their first signing of the summer.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23585469.celtic-agree-deal-sign-midfielder-odin-thiago-holm/?ref=rss",
-          "publishedOn": "2023-06-13T09:27:00.000Z",
-          "wordCount": 9615,
-          "title": "Celtic 'agree deal' to sign midfielder Odin Thiago Holm",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16882129/?type=og-image"
         }
       ]
     }

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-17T21:13:39.234Z</updated>
+    <updated>2023-06-18T01:55:18.589Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Arsenal's Martin Odegaard unimpressed with Scotland as Norway talisman insists 'better team lost']]></title>
+        <id>4187006</id>
+        <link href="https://www.scotsman.com/sport/football/international/arsenals-martin-odegaard-unimpressed-with-scotland-as-norway-talisman-insists-better-team-lost-4187006"/>
+        <updated>2023-06-17T21:17:15.000Z</updated>
+        <summary type="html"><![CDATA[While there was delirium in the Scotland camp after the stunning comeback win in Oslo, there was anguish for Norway at the realisation their Euro 2024 qualifying hopes may have suffered a fatal blow.]]></summary>
+        <author>
+            <name>Matthew Elder</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Andy Robertson admits Scotland 'have to qualify' for Euro 2024 after epic late win over Norway]]></title>
         <id>4187003</id>
@@ -712,86 +722,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23586703.callum-mcgregor-lauds-celtic-supporters-treble-party/?ref=rss"/>
         <updated>2023-06-13T13:56:07.000Z</updated>
         <summary type="html"><![CDATA[The captain has hailed the Celtic supporters for their celebrations after securing their eighth treble]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic captain Callum McGregor confesses emotional highlight]]></title>
-        <id>fb933be48c44a0e8ed5cf3bf58666e95</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23586505.celtic-captain-callum-mcgregor-confesses-emotional-highlight/?ref=rss"/>
-        <updated>2023-06-13T13:16:06.000Z</updated>
-        <summary type="html"><![CDATA[The captain admitted that Jota's goal was the most emotion he had ever felt in his career]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dermot Desmond lands in Glasgow as Celtic new manager search ramps up]]></title>
-        <id>4180896</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/dermot-desmond-lands-in-glasgow-as-celtic-new-manager-search-ramps-up-4180896"/>
-        <updated>2023-06-13T13:13:17.000Z</updated>
-        <summary type="html"><![CDATA[Celtic majority shareholder Dermot Desmond has landed Glasgow as the club's search for a new manager gathers pace.]]></summary>
-        <author>
-            <name>Matthew Elder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brendan Rodgers Celtic manager odds latest with talks in the pipeline]]></title>
-        <id>bd0534dba26894e9d42133450b22c57a</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23586481.brendan-rodgers-celtic-manager-odds-latest-talks-pipeline/?ref=rss"/>
-        <updated>2023-06-13T13:11:25.000Z</updated>
-        <summary type="html"><![CDATA[Brendan Rodgers is the odds-on favourite to be named the next manager of Celtic.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic's Jota earns top rating in Team of the Season squad]]></title>
-        <id>f9de2358c7541e9e7cd3a160c0551448</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23586169.celtics-jota-earns-top-rating-team-season-squad/?ref=rss"/>
-        <updated>2023-06-13T11:54:07.000Z</updated>
-        <summary type="html"><![CDATA[The Celtic winger has earned the highest rating in FIFA 23's Team of the Season]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic linked manager Brendan Rodgers 'wanted' by Leeds]]></title>
-        <id>e27fa1e213619fae9d09e9b2a661bf89</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23585921.celtic-linked-manager-brendan-rodgers-wanted-leeds/?ref=rss"/>
-        <updated>2023-06-13T11:03:20.000Z</updated>
-        <summary type="html"><![CDATA[Brendan Rodgers has been linked to Leeds United, as their American ownership wants a quick return to the Premier League]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rodgers to Celtic latest as Dermot Desmond jets into Glasgow for talks]]></title>
-        <id>5f88cca47a19ad4ca07dda53725ab9bf</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23585819.rodgers-celtic-latest-dermot-desmond-jets-glasgow-talks/?ref=rss"/>
-        <updated>2023-06-13T10:44:32.000Z</updated>
-        <summary type="html"><![CDATA[The Celtic supremo arrived at Glasgow Airport today as Hoops chiefs are set to sit down with Rodgers over the possibility of him replacing Ange Postecoglou.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Barcelona and Bayern Munich among sides in hunt to sign ex-Celtic star]]></title>
-        <id>48522ef42abe6a57421aef3e79d5178e</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23585597.barcelona-bayern-munich-among-sides-hunt-sign-ex-celtic-star/?ref=rss"/>
-        <updated>2023-06-13T09:54:00.000Z</updated>
-        <summary type="html"><![CDATA[The Dutchman could be on the move this summer.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic 'agree deal' to sign midfielder Odin Thiago Holm]]></title>
-        <id>f7c3c45fa9c1753506057913dca773e6</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23585469.celtic-agree-deal-sign-midfielder-odin-thiago-holm/?ref=rss"/>
-        <updated>2023-06-13T09:27:00.000Z</updated>
-        <summary type="html"><![CDATA[The Scottish champions are poised to clinch their first signing of the summer.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
