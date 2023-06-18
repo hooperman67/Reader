@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-18T03:20:53.121Z</updated>
+    <updated>2023-06-18T06:21:05.567Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aidan Smith: No 10 has “wine-time Fridays” but will football ever get its “beer-time Saturdays” back?]]></title>
+        <id>4186781</id>
+        <link href="https://www.scotsman.com/sport/sport-opinion/aidan-smith-no-10-has-wine-time-fridays-but-will-football-ever-get-its-beer-time-saturdays-back-4186781"/>
+        <updated>2023-06-18T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As Hibernian were preparing to unveil the new slogan on the front of the shirts, I’m imagining there might have been some nervous excitement down Easter Road way. The sponsorship deal would be “the biggest of its kind” for the club, but, er, what about that name?]]></summary>
+        <author>
+            <name>Aidan Smith</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Arsenal's Martin Odegaard unimpressed with Scotland as Norway talisman insists 'better team lost']]></title>
         <id>4187006</id>
@@ -654,36 +664,6 @@
         <summary type="html"><![CDATA[Brendan Rodgers is closing in on a sensational return to Celtic amid reports that he has held positive talks with the club heirarchy over succeeding Ange Postecoglou.]]></summary>
         <author>
             <name>Oliver Anderson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scott Brown Celtic return latest with 'no contact' made]]></title>
-        <id>f94993ecc316d7646b342386d74537ba</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23587488.scott-brown-celtic-return-latest-no-contact-made/?ref=rss"/>
-        <updated>2023-06-13T16:46:34.000Z</updated>
-        <summary type="html"><![CDATA[Reports earlier this week had suggested that Broony would be brought back to serve as No.2 under Rodgers.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scottish Premiership transfers to watch as window opens - in-demand Celtic star, key Rangers target, Hearts & Aberdeen aces]]></title>
-        <id>4181355</id>
-        <link href="https://www.scotsman.com/sport/football/scottish-premiership-transfers-to-watch-as-window-opens-in-demand-celtic-star-key-rangers-target-hearts-aberdeen-aces-4181355"/>
-        <updated>2023-06-13T15:37:00.000Z</updated>
-        <summary type="html"><![CDATA[Scottish Premiership clubs have already started shaping their squads for next season and activity will only increase when the transfer window opens on Wednesday, June 14. The Scotsman picks out some of the high-profile moves which could happen, both in terms of incomings and outgoings.]]></summary>
-        <author>
-            <name>Joel Sked</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic's Daizen Maeda credits Postecoglou to personal growth]]></title>
-        <id>67ae2e6f8c2cf0d253ee5e7e1d2e0308</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23587150.celtics-daizen-maeda-credits-postecoglou-personal-growth/?ref=rss"/>
-        <updated>2023-06-13T15:25:16.000Z</updated>
-        <summary type="html"><![CDATA[The Celtic winger shared his thanks to how the former manager helped improve his overall game]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>
