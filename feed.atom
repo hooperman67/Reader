@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-18T09:15:36.883Z</updated>
+    <updated>2023-06-18T12:31:25.223Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -674,16 +674,6 @@
         <summary type="html"><![CDATA[The formerly all-conquering Parkhead manager is the frontrunner to succeed Ange Postecoglou.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic 'confident' over Brendan Rodgers return as timeline set out for managerial appointment]]></title>
-        <id>4181614</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/celtic-confident-over-brendan-rodgers-return-as-timeline-set-out-for-managerial-appointment-4181614"/>
-        <updated>2023-06-13T21:29:57.000Z</updated>
-        <summary type="html"><![CDATA[Brendan Rodgers is closing in on a sensational return to Celtic amid reports that he has held positive talks with the club heirarchy over succeeding Ange Postecoglou.]]></summary>
-        <author>
-            <name>Oliver Anderson</name>
         </author>
     </entry>
 </feed>
