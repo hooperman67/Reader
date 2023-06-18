@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-18T18:19:42.932Z</updated>
+    <updated>2023-06-18T21:14:22.764Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Scotland have been here before - but Steve Clarke's side have shown they can heed 2006 warning]]></title>
+        <id>4187315</id>
+        <link href="https://www.scotsman.com/sport/football/international/scotland-have-been-here-before-but-steve-clarkes-side-have-shown-they-can-heed-2006-warning-4187315"/>
+        <updated>2023-06-18T19:40:48.000Z</updated>
+        <summary type="html"><![CDATA[Nights like the one Scotland savoured in the Ullevaal Stadium on Saturday do not come around often but, thanks to this squad and national boss Steve Clarke, they are becoming far less infrequent than they once were.]]></summary>
+        <author>
+            <name>Moira Gordon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brendan Rodgers set for Celtic unveiling as dramatic return 'agreed']]></title>
+        <id>6475884677899f4b74d035f297e04e87</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23597332.brendan-rodgers-set-celtic-unveiling-dramatic-return-agreed/?ref=rss"/>
+        <updated>2023-06-18T19:10:41.000Z</updated>
+        <summary type="html"><![CDATA[The 50-year-old is expected to be announced as the successor to Ange Postecoglou.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA['I know I'm not supposed to' - John McGinn admission over Scotland inspiration behind Norway comeback win]]></title>
         <id>4187258</id>
@@ -652,36 +672,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23588151.brendan-rodgers-celtic-latest-leeds-reports-wide-mark/?ref=rss"/>
         <updated>2023-06-14T11:12:00.000Z</updated>
         <summary type="html"><![CDATA[The Northern Irishman is the favourite to replace Ange Postecoglou at Parkhead.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reo Hatate transfer latest as Spurs linked star opens up on future]]></title>
-        <id>df624eb5a83cb9774895eaedd327846e</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23588157.reo-hatate-transfer-latest-spurs-linked-star-opens-future/?ref=rss"/>
-        <updated>2023-06-14T08:55:44.000Z</updated>
-        <summary type="html"><![CDATA[He responded: "If there is a chance to step up, I would like to play in various leagues.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic reveal black away kit with Scottish heritage for new season]]></title>
-        <id>1ba29d946ed7e0b718947916cc842089</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23587847.celtic-reveal-black-away-kit-scottish-heritage-new-season/?ref=rss"/>
-        <updated>2023-06-14T07:22:13.000Z</updated>
-        <summary type="html"><![CDATA[The Celts head into the new season at the top of their game, as history-making, Treble-winning champions of Scotland.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brendan Rodgers to Celtic latest as details emerge of talks]]></title>
-        <id>bda5c8ad7a8eb9afccb8a40b15212d21</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23587790.brendan-rodgers-celtic-latest-details-emerge-talks/?ref=rss"/>
-        <updated>2023-06-14T06:32:18.000Z</updated>
-        <summary type="html"><![CDATA[Brendan Rodgers has reportedly told Celtic chiefs that turning the Scottish champions into a Champions League force would be at the top of his agenda.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>

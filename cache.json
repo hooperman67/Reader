@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4187315",
+          "author": "Moira Gordon",
+          "description": "Nights like the one Scotland savoured in the Ullevaal Stadium on Saturday do not come around often but, thanks to this squad and national boss Steve Clarke, they are becoming far less infrequent than they once were.",
+          "link": "https://www.scotsman.com/sport/football/international/scotland-have-been-here-before-but-steve-clarkes-side-have-shown-they-can-heed-2006-warning-4187315",
+          "publishedOn": "2023-06-18T19:40:48.000Z",
+          "wordCount": null,
+          "title": "Scotland have been here before - but Steve Clarke's side have shown they can heed 2006 warning",
+          "imageUrl": null
+        },
+        {
           "id": "4187258",
           "author": "Matthew Elder",
           "description": "John McGinn has stressed the need for Scotland to back up their stunning victory in Oslo with another three points against Georgia at Hampden on Tuesday.",
@@ -238,6 +248,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "6475884677899f4b74d035f297e04e87",
+          "author": null,
+          "description": "The 50-year-old is expected to be announced as the successor to Ange Postecoglou.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23597332.brendan-rodgers-set-celtic-unveiling-dramatic-return-agreed/?ref=rss",
+          "publishedOn": "2023-06-18T19:10:41.000Z",
+          "wordCount": 8578,
+          "title": "Brendan Rodgers set for Celtic unveiling as dramatic return 'agreed'",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16901935/?type=og-image"
+        },
         {
           "id": "d1a7ee100b0f848e7c8eb98f42bc5eac",
           "author": null,
@@ -667,36 +687,6 @@
           "wordCount": 8523,
           "title": "Brendan Rodgers to Celtic latest as Leeds reports 'wide of the mark'",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16882877/?type=og-image"
-        },
-        {
-          "id": "df624eb5a83cb9774895eaedd327846e",
-          "author": null,
-          "description": "He responded: \"If there is a chance to step up, I would like to play in various leagues.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23588157.reo-hatate-transfer-latest-spurs-linked-star-opens-future/?ref=rss",
-          "publishedOn": "2023-06-14T08:55:44.000Z",
-          "wordCount": 8609,
-          "title": "Reo Hatate transfer latest as Spurs linked star opens up on future",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16886358/?type=og-image"
-        },
-        {
-          "id": "1ba29d946ed7e0b718947916cc842089",
-          "author": null,
-          "description": "The Celts head into the new season at the top of their game, as history-making, Treble-winning champions of Scotland.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23587847.celtic-reveal-black-away-kit-scottish-heritage-new-season/?ref=rss",
-          "publishedOn": "2023-06-14T07:22:13.000Z",
-          "wordCount": 8410,
-          "title": "Celtic reveal black away kit with Scottish heritage for new season",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16886013/?type=og-image"
-        },
-        {
-          "id": "bda5c8ad7a8eb9afccb8a40b15212d21",
-          "author": null,
-          "description": "Brendan Rodgers has reportedly told Celtic chiefs that turning the Scottish champions into a Champions League force would be at the top of his agenda.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23587790.brendan-rodgers-celtic-latest-details-emerge-talks/?ref=rss",
-          "publishedOn": "2023-06-14T06:32:18.000Z",
-          "wordCount": 8541,
-          "title": "Brendan Rodgers to Celtic latest as details emerge of talks",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16881530/?type=og-image"
         }
       ]
     }
