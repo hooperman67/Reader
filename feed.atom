@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-19T01:42:00.765Z</updated>
+    <updated>2023-06-19T03:17:59.325Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -604,26 +604,6 @@
         <summary type="html"><![CDATA[Brendan Rodgers has had the blame put on him for Leicester City's relegation by TalkSPORT pundit Simon Jordan]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scottish transfers: Rangers target wanted, Celtic star's admission, Hearts, Hibs and Aberdeen latest]]></title>
-        <id>4182889</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/scottish-transfers-rangers-target-wanted-celtic-stars-admission-hearts-hibs-and-aberdeen-latest-4182889"/>
-        <updated>2023-06-14T14:33:02.000Z</updated>
-        <summary type="html"><![CDATA[The transfer window has officially opened in Scotland which means clubs can complete deals ahead of the new season. Some transfers have already been confirmed.]]></summary>
-        <author>
-            <name>Joel Sked</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scottish transfers: Rangers target wanted, Celtic's star admission, Hearts, Hibs and Aberdeen latest]]></title>
-        <id>4182889</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/scottish-transfers-rangers-target-wanted-celtics-star-admission-hearts-hibs-and-aberdeen-latest-4182889"/>
-        <updated>2023-06-14T14:33:02.000Z</updated>
-        <summary type="html"><![CDATA[The transfer window has officially opened in Scotland which means clubs can complete deals ahead of the new season. Some transfers have already been confirmed.]]></summary>
-        <author>
-            <name>Joel Sked</name>
         </author>
     </entry>
 </feed>
