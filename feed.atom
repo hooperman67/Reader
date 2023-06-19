@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-19T03:17:59.325Z</updated>
+    <updated>2023-06-19T06:23:00.635Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -594,16 +594,6 @@
         <summary type="html"><![CDATA[Rangers will no longer enter a B team into the Scottish Lowland League after expressing frustration at the collapse of a proposed new Conference League vote.]]></summary>
         <author>
             <name>Matthew Elder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simon Jordan blasts incoming Celtic manager Brendan Rodgers]]></title>
-        <id>0cb598c9ae5f3f49039e7bb33aae3718</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23589780.simon-jordan-blasts-incoming-celtic-manager-brendan-rodgers/?ref=rss"/>
-        <updated>2023-06-14T15:23:17.000Z</updated>
-        <summary type="html"><![CDATA[Brendan Rodgers has had the blame put on him for Leicester City's relegation by TalkSPORT pundit Simon Jordan]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>
