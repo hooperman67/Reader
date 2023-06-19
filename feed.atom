@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-19T18:21:18.221Z</updated>
+    <updated>2023-06-19T21:15:25.370Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why Brendan Rodgers, not Celtic and supporters should be grateful - Safe bet, Rangers record, Gerrard link]]></title>
+        <id>4188719</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/why-brendan-rodgers-not-celtic-and-supporters-should-be-grateful-safe-bet-rangers-record-gerrard-link-4188719"/>
+        <updated>2023-06-19T20:22:00.000Z</updated>
+        <summary type="html"><![CDATA[‘Brendan Rodgers’ Green and White Army’ was the chant from the estimated 10,000 fans at Celtic Park seven years ago. The club were unveiling their new manager in May 2016 and it was a huge deal.]]></summary>
+        <author>
+            <name>Joel Sked</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Date set for Brendan Rodgers first press conference back at Celtic]]></title>
         <id>afa99981921887c94a1a88035aae20e3</id>
@@ -734,56 +744,6 @@
         <summary type="html"><![CDATA[Brendan Rodgers is on the cusp of a dramatic return to Celtic, replacing Ange Postecoglou. He will face plenty of decisions over his playing squad with around 35 players after a number returned from a loan deal. Some of those face an uncertain future...]]></summary>
         <author>
             <name>Joel Sked</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scott Brown rinses 'graceless' Rodri over Scotland 'rubbish' rant]]></title>
-        <id>7b6d2373b8440e6f6866dc8fdc5fd087</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23590730.scott-brown-rinses-graceless-rodri-scotland-rubbish-rant/?ref=rss"/>
-        <updated>2023-06-15T09:07:27.000Z</updated>
-        <summary type="html"><![CDATA["I really enjoyed the win over Spain," Brown told the Daily Record. "But I actually enjoyed the comments after the game from the Spanish lads even more!]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Brendan Rodgers can win round Celtic fans who branded him 'a rat']]></title>
-        <id>18379a072f0c5e2dbab026d53bcefe46</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23590561.brendan-rodgers-can-win-round-celtic-fans-branded-a-rat/?ref=rss"/>
-        <updated>2023-06-15T08:26:38.000Z</updated>
-        <summary type="html"><![CDATA[THERE were emotional scenes at Ibrox following Rangers’ final cinch Premiership game of the season against Hearts last month as Allan McGregor hung up his gloves.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mikey Johnston hails 'unreal' Rodgers ahead of possible Celtic return]]></title>
-        <id>2028fcca859a929820886633fd3e0771</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23590453.mikey-johnston-hails-unreal-rodgers-ahead-possible-celtic-return/?ref=rss"/>
-        <updated>2023-06-15T07:54:20.000Z</updated>
-        <summary type="html"><![CDATA[Mikey Johnston insists it would be "unreal" to see Brendan Rodgers back at Celtic as manager.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brendan Rodgers Celtic state of play as contract details emerge]]></title>
-        <id>6188e0d76406f7bc12b7b794f1b0a22f</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23590376.brendan-rodgers-celtic-state-play-contract-details-emerge/?ref=rss"/>
-        <updated>2023-06-15T07:00:13.000Z</updated>
-        <summary type="html"><![CDATA[Celtic appear close to securing the services of Brendan Rodgers for a second time after pushing the boat out to bring their former manager back as Ange Postecoglou’s successor.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic handed Hatate transfer boost as Postecoglou makes Spurs call]]></title>
-        <id>e585a7cc3358218bc18613c47e44e932</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23590352.celtic-handed-hatate-transfer-boost-postecoglou-makes-spurs-call/?ref=rss"/>
-        <updated>2023-06-15T06:36:54.000Z</updated>
-        <summary type="html"><![CDATA[Celtic have been handed a Reo Hatate transfer boost, according to reports in London.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>
