@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-19T15:18:07.040Z</updated>
+    <updated>2023-06-19T18:21:18.221Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Date set for Brendan Rodgers first press conference back at Celtic]]></title>
+        <id>afa99981921887c94a1a88035aae20e3</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23599829.date-set-brendan-rodgers-first-press-conference-back-celtic/?ref=rss"/>
+        <updated>2023-06-19T16:17:56.000Z</updated>
+        <summary type="html"><![CDATA[Brendan Rodgers will face the media for the first time since his return later this week.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brendan Rodgers Celtic return start date 'revealed']]></title>
+        <id>62de2260387d501a2e29fdb7025ca06e</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23599516.brendan-rodgers-celtic-return-start-date-revealed/?ref=rss"/>
+        <updated>2023-06-19T15:19:11.000Z</updated>
+        <summary type="html"><![CDATA[Brendan Rodgers has officially been confirmed as the new Celtic manager on a three year deal.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What are Scotland's chances of qualifying for Euro 2024 - and the surprise seeding likelihood]]></title>
         <id>4188370</id>
