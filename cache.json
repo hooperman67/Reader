@@ -6,6 +6,26 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4188370",
+          "author": "Joel Sked",
+          "description": "Scotland took a huge step towards qualifying for Euro 2024 on Saturday when they came from 1-0 down to defeat Norway 2-1 in Oslo.",
+          "link": "https://www.scotsman.com/sport/football/what-are-scotlands-chances-of-qualifying-for-euro-2024-and-the-surprise-seeding-likelihood-4188370",
+          "publishedOn": "2023-06-19T14:25:30.000Z",
+          "wordCount": null,
+          "title": "What are Scotland's chances of qualifying for Euro 2024 - and the surprise seeding likelihood",
+          "imageUrl": null
+        },
+        {
+          "id": "4188227",
+          "author": "Joel Sked",
+          "description": "Scotland go in search of a fourth consecutive win in qualification for Euro 2024 when they host Georgia on Tuesday night.",
+          "link": "https://www.scotsman.com/sport/football/what-channel-is-scotland-v-georgia-on-euro-2024-info-tv-details-kick-off-time-team-news-referee-4188227",
+          "publishedOn": "2023-06-19T13:30:45.000Z",
+          "wordCount": null,
+          "title": "What channel is Scotland v Georgia on? Euro 2024 info, TV details, kick-off time, team news, referee",
+          "imageUrl": null
+        },
+        {
           "id": "4187892",
           "author": "Joel Sked",
           "description": "Celtic have confirmed the return of Brendan Rodgers as the club’s new manager, taking over from Ange Postecoglou.",
@@ -228,6 +248,46 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "b4ccc8b3dff93167a98c1bc61cb4a5fe",
+          "author": null,
+          "description": "Celtic fans gathered at Celtic Park as the club announced Brendan Rodgers to replace Ange Postecoglou as manager..",
+          "link": "https://www.glasgowtimes.co.uk/sport/23599089.all-forgiven-celtic-fans-speak-brendan-rodgers-return/?ref=rss",
+          "publishedOn": "2023-06-19T13:55:00.000Z",
+          "wordCount": 9780,
+          "title": "'All is forgiven': Celtic fans speak out about Brendan Rodgers return",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16905142/?type=og-image"
+        },
+        {
+          "id": "a16b5eaed405116c7a3ff85de6848b9c",
+          "author": null,
+          "description": "The former Celtic boss was in charge of Omonia Nicosia, but he left the club in October and has been out of work since.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23599067.ex-celtic-boss-neil-lennon-details-return-management-offers/?ref=rss",
+          "publishedOn": "2023-06-19T13:52:02.000Z",
+          "wordCount": 9811,
+          "title": "Ex-Celtic boss Neil Lennon details return to management offers",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16904680/?type=og-image"
+        },
+        {
+          "id": "d82318dbedac33d549254735210eef23",
+          "author": null,
+          "description": "The Parkhead board explained why they brought the Northern Irishman back to Glasgow.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23598700.celtics-board-react-brendan-rodgers-appointment/?ref=rss",
+          "publishedOn": "2023-06-19T12:35:00.000Z",
+          "wordCount": 8535,
+          "title": "Celtic's board react to Brendan Rodgers appointment",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16904109/?type=og-image"
+        },
+        {
+          "id": "233ee7de606e54c9b547651f537a4b53",
+          "author": null,
+          "description": "Brendan Rodgers has returned to Celtic to become manager after Ange Postecoglou's exit for Tottenham.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23598688.celtic-fans-react-brendan-rodgers-completes-return/?ref=rss",
+          "publishedOn": "2023-06-19T12:23:14.000Z",
+          "wordCount": 9808,
+          "title": "Celtic fans react as Brendan Rodgers completes return",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16904008/?type=og-image"
+        },
         {
           "id": "af0e8fb47ba9c68b01d3de24fc4629df",
           "author": null,
