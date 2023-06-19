@@ -194,16 +194,6 @@
           "wordCount": null,
           "title": "'I back myself' - why Jack Hendry could be Scotland's answer to Erling Haaland threat",
           "imageUrl": null
-        },
-        {
-          "id": "4183286",
-          "author": "Matthew Elder",
-          "description": "Rangers will no longer enter a B team into the Scottish Lowland League after expressing frustration at the collapse of a proposed new Conference League vote.",
-          "link": "https://www.scotsman.com/sport/football/rangers/rangers-withdraw-b-team-from-lowland-league-amid-frustration-over-collapse-of-conference-league-vote-4183286",
-          "publishedOn": "2023-06-14T19:47:19.000Z",
-          "wordCount": null,
-          "title": "Rangers withdraw B team from Lowland League amid frustration over collapse of Conference League vote",
-          "imageUrl": null
         }
       ]
     },
@@ -218,6 +208,36 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "4bbd145fe074ca1574263d239faa30b7",
+          "author": null,
+          "description": "The former Gers defender penned a four-year deal with O'Neil's side after a £7.5million transfer had been agreed with the Ibrox club.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23597601.cuellar-details-martin-oneills-cheeky-rangers-dig-villa-move/?ref=rss",
+          "publishedOn": "2023-06-19T07:52:19.000Z",
+          "wordCount": 9696,
+          "title": "Cuellar details Martin O'Neill's cheeky Rangers dig after Villa move",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16902382/?type=og-image"
+        },
+        {
+          "id": "e5d79428c56df16a21c81b38d39f0b13",
+          "author": null,
+          "description": "Celtic fans have been handed a clue as to when Brendan Rodgers could be announced as the club's new manager.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23597520.celtic-fans-given-brendan-rodgers-announcement-clue-timing-revealed/?ref=rss",
+          "publishedOn": "2023-06-19T07:10:56.000Z",
+          "wordCount": 8762,
+          "title": "Celtic fans given Brendan Rodgers announcement clue as timing revealed",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16881530/?type=og-image"
+        },
+        {
+          "id": "128b7c1a1c049013313b4fd21f60c4ab",
+          "author": null,
+          "description": "The Northern Irishman will replace Ange Postecoglou who departed Parkhead for Spurs two weeks ago.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23597501.suarez-hails-brendan-rodgers-celtic-champions-league-prediction/?ref=rss",
+          "publishedOn": "2023-06-19T06:47:00.000Z",
+          "wordCount": 9604,
+          "title": "Suarez hails Brendan Rodgers in Celtic Champions League prediction",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16902267/?type=og-image"
+        },
         {
           "id": "6475884677899f4b74d035f297e04e87",
           "author": null,

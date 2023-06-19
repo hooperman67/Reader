@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-19T06:23:00.635Z</updated>
+    <updated>2023-06-19T09:17:31.964Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cuellar details Martin O'Neill's cheeky Rangers dig after Villa move]]></title>
+        <id>4bbd145fe074ca1574263d239faa30b7</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23597601.cuellar-details-martin-oneills-cheeky-rangers-dig-villa-move/?ref=rss"/>
+        <updated>2023-06-19T07:52:19.000Z</updated>
+        <summary type="html"><![CDATA[The former Gers defender penned a four-year deal with O'Neil's side after a £7.5million transfer had been agreed with the Ibrox club.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic fans given Brendan Rodgers announcement clue as timing revealed]]></title>
+        <id>e5d79428c56df16a21c81b38d39f0b13</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23597520.celtic-fans-given-brendan-rodgers-announcement-clue-timing-revealed/?ref=rss"/>
+        <updated>2023-06-19T07:10:56.000Z</updated>
+        <summary type="html"><![CDATA[Celtic fans have been handed a clue as to when Brendan Rodgers could be announced as the club's new manager.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Suarez hails Brendan Rodgers in Celtic Champions League prediction]]></title>
+        <id>128b7c1a1c049013313b4fd21f60c4ab</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23597501.suarez-hails-brendan-rodgers-celtic-champions-league-prediction/?ref=rss"/>
+        <updated>2023-06-19T06:47:00.000Z</updated>
+        <summary type="html"><![CDATA[The Northern Irishman will replace Ange Postecoglou who departed Parkhead for Spurs two weeks ago.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scotland have been here before - but Steve Clarke's side have shown they can heed 2006 warning]]></title>
         <id>4187315</id>
@@ -584,16 +614,6 @@
         <summary type="html"><![CDATA[Jack Hendry cannot add prophecy to his many qualities although he knows he stands a good chance of being handed one of the toughest assignments in football on Saturday night in Oslo.]]></summary>
         <author>
             <name>Alan Pattullo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rangers withdraw B team from Lowland League amid frustration over collapse of Conference League vote]]></title>
-        <id>4183286</id>
-        <link href="https://www.scotsman.com/sport/football/rangers/rangers-withdraw-b-team-from-lowland-league-amid-frustration-over-collapse-of-conference-league-vote-4183286"/>
-        <updated>2023-06-14T19:47:19.000Z</updated>
-        <summary type="html"><![CDATA[Rangers will no longer enter a B team into the Scottish Lowland League after expressing frustration at the collapse of a proposed new Conference League vote.]]></summary>
-        <author>
-            <name>Matthew Elder</name>
         </author>
     </entry>
 </feed>
