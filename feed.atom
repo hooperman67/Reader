@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-20T15:17:15.757Z</updated>
+    <updated>2023-06-20T18:19:50.012Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -712,26 +712,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23592920.postecoglou-spurs-50m-double-swoop-labelled-wide-mark/?ref=rss"/>
         <updated>2023-06-16T06:29:00.000Z</updated>
         <summary type="html"><![CDATA[Postecoglou is quickly getting to work with his new squad at Tottenham.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Behind ‘The Brodge’ and Brent-isms: Covering Brendan Rodgers at Celtic]]></title>
-        <id>c59e129dba9a139494967e133be7d421</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23592682.behind-the-brodge-brent-isms-covering-brendan-rodgers-celtic/?ref=rss"/>
-        <updated>2023-06-16T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[BRENDAN RODGERS is a man who once said that his greatest mentor was himself, and among his favourite sayings to impart to his players...]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The story of Brendan Rodgers at Leicester as Celtic return nears]]></title>
-        <id>2951d2c79d67dcab03fd071f5219eab9</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23592868.story-brendan-rodgers-leicester-celtic-return-nears/?ref=rss"/>
-        <updated>2023-06-16T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The 50-year-old is closing in on a dramatic return to Glasgow.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
