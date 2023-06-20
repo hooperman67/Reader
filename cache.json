@@ -246,8 +246,18 @@
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "3d412bf3b5d9dd0b0db91fdd7d04f40f",
+          "author": null,
+          "description": "Michael Beale and Brendan Rodgers both have the gift of the gab. Soon it will be time to do their talking on pitch.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23599081.michael-beales-rangers-must-provide-rodgers-toughest-celtic-task/?ref=rss",
+          "publishedOn": "2023-06-20T06:00:00.000Z",
+          "wordCount": 9049,
+          "title": "Michael Beale's Rangers must provide Rodgers with toughest Celtic task",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16904721/?type=og-image"
+        },
         {
           "id": "afa99981921887c94a1a88035aae20e3",
           "author": null,
@@ -637,26 +647,6 @@
           "wordCount": 9632,
           "title": "The story of Brendan Rodgers at Leicester as Celtic return nears",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16894095/?type=og-image"
-        },
-        {
-          "id": "cb37f2075d292c3850a3ed65c679297d",
-          "author": null,
-          "description": "Tottenham announced their retained list on Thursday evening.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23592665.ange-postecoglou-makes-first-major-tottenham-player-decision/?ref=rss",
-          "publishedOn": "2023-06-15T16:23:43.000Z",
-          "wordCount": 9569,
-          "title": "Ange Postecoglou makes first major Tottenham player decision",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16893576/?type=og-image"
-        },
-        {
-          "id": "432dced39b914b522b6c51b648f5cdca",
-          "author": null,
-          "description": "In a blow to Ange Postecoglou, John Kennedy looks set to stay at the club following attempts from Spurs to lure him down south",
-          "link": "https://www.glasgowtimes.co.uk/sport/23592505.latest-celtic-no2-twist-kennedy-to-stay-spurs-admit-defeat/?ref=rss",
-          "publishedOn": "2023-06-15T15:44:43.000Z",
-          "wordCount": 8619,
-          "title": "Latest Celtic No2 twist as Kennedy 'to stay as Spurs admit defeat'",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16800397/?type=og-image"
         }
       ]
     }

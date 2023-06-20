@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-20T03:17:56.825Z</updated>
+    <updated>2023-06-20T06:22:53.483Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Michael Beale's Rangers must provide Rodgers with toughest Celtic task]]></title>
+        <id>3d412bf3b5d9dd0b0db91fdd7d04f40f</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23599081.michael-beales-rangers-must-provide-rodgers-toughest-celtic-task/?ref=rss"/>
+        <updated>2023-06-20T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Michael Beale and Brendan Rodgers both have the gift of the gab. Soon it will be time to do their talking on pitch.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scotland’s Aaron Hickey on hanging out at the Beckhams and staying humble]]></title>
         <id>4188798</id>
@@ -622,26 +632,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23592868.story-brendan-rodgers-leicester-celtic-return-nears/?ref=rss"/>
         <updated>2023-06-16T05:00:00.000Z</updated>
         <summary type="html"><![CDATA[The 50-year-old is closing in on a dramatic return to Glasgow.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ange Postecoglou makes first major Tottenham player decision]]></title>
-        <id>cb37f2075d292c3850a3ed65c679297d</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23592665.ange-postecoglou-makes-first-major-tottenham-player-decision/?ref=rss"/>
-        <updated>2023-06-15T16:23:43.000Z</updated>
-        <summary type="html"><![CDATA[Tottenham announced their retained list on Thursday evening.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Latest Celtic No2 twist as Kennedy 'to stay as Spurs admit defeat']]></title>
-        <id>432dced39b914b522b6c51b648f5cdca</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23592505.latest-celtic-no2-twist-kennedy-to-stay-spurs-admit-defeat/?ref=rss"/>
-        <updated>2023-06-15T15:44:43.000Z</updated>
-        <summary type="html"><![CDATA[In a blow to Ange Postecoglou, John Kennedy looks set to stay at the club following attempts from Spurs to lure him down south]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
