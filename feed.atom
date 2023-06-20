@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-20T01:36:55.633Z</updated>
+    <updated>2023-06-20T03:17:56.825Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -644,26 +644,6 @@
         <summary type="html"><![CDATA[In a blow to Ange Postecoglou, John Kennedy looks set to stay at the club following attempts from Spurs to lure him down south]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic target Enzo Maresca 'close' to Leicester City move]]></title>
-        <id>f1c157c763e76ca9459eae20434c1df9</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23592017.celtic-target-enzo-maresca-close-leicester-city-move/?ref=rss"/>
-        <updated>2023-06-15T14:29:00.000Z</updated>
-        <summary type="html"><![CDATA[The Italian coach has previously been linked with a move to Scotland, but looks set to join Leicester in the Championship]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What channel is Norway v Scotland on? Euro 2024 qualifying info, TV details, kick-off time, team news, referee]]></title>
-        <id>4184335</id>
-        <link href="https://www.scotsman.com/sport/football/what-channel-is-norway-v-scotland-on-euro-2024-qualifying-info-tv-details-kick-off-time-team-news-referee-4184335"/>
-        <updated>2023-06-15T13:45:38.000Z</updated>
-        <summary type="html"><![CDATA[Scotland travel to Norway on Saturday  as they go in search of a result which could see them take a huge step towards qualification for Euro 2024.]]></summary>
-        <author>
-            <name>Joel Sked</name>
         </author>
     </entry>
 </feed>
