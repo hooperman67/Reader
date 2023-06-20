@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-20T18:19:50.012Z</updated>
+    <updated>2023-06-20T21:13:54.037Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Erling Haaland-inspired Norway recover from Scotland defeat with comfortable win over Cyprus]]></title>
+        <id>4190618</id>
+        <link href="https://www.scotsman.com/sport/football/erling-haaland-inspired-norway-recover-from-scotland-defeat-with-comfortable-win-over-cyprus-4190618"/>
+        <updated>2023-06-20T21:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Norway picked up their first victory in Group A of the Euro 2024 qualifiers, with star striker Erling Haaland scoring twice in the 3-1 triumph over Cyprus in Oslo.]]></summary>
+        <author>
+            <name>Mark Atkinson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scotland v Georgia finally recommences after waterlogged pitch and dressingroom lock-in]]></title>
+        <id>4190579</id>
+        <link href="https://www.scotsman.com/sport/football/scotland-v-georgia-finally-recommences-after-waterlogged-pitch-and-dressingroom-lock-in-4190579"/>
+        <updated>2023-06-20T19:06:03.000Z</updated>
+        <summary type="html"><![CDATA[Scotland’s match against Georgia recommended at 9.30pm following a near 90-minute delay to the match due to a waterlogged pitch.]]></summary>
+        <author>
+            <name>Mark Atkinson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scotland v Georgia: Sagnol's mind games nonsense, Clarke's selection question, threat of 5, cusp of history]]></title>
         <id>4190051</id>
@@ -664,56 +684,6 @@
         <summary type="html"><![CDATA[Enzo Maresca, the former favourite for the Celtic managerial vacancy, is set to be appointed as the new head coach of Leicester City.]]></summary>
         <author>
             <name>Matthew Elder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Barry Ferguson makes Rangers reaction call on Brendan Rodgers]]></title>
-        <id>877b6d3345ef90c0b3e983487dcdc665</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23593237.barry-ferguson-makes-rangers-reaction-call-brendan-rodgers/?ref=rss"/>
-        <updated>2023-06-16T08:56:49.000Z</updated>
-        <summary type="html"><![CDATA[The Hoops have been on the hunt for a new boss since Ange Postecoglou sealed his move to Tottenham last Tuesday.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scott Sinclair backs Brendan Rodgers' Celtic return]]></title>
-        <id>8e890aad6e36c2a672e42c5a32588c64</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23593001.scott-sinclair-backs-brendan-rodgers-celtic-return/?ref=rss"/>
-        <updated>2023-06-16T07:39:50.000Z</updated>
-        <summary type="html"><![CDATA[When you leave Celtic, it stays with you and it is such a big club. If he does return then I’m sure he would be so happy to be their manager once again. Could they have another Invincible season under him? Definitely. I’m a big fan of Celtic, so I am always watching what they are doing.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scottish transfers: Positive Celtic news, two new suitors for Morelos, Aberdeen to land striker, Hibs eye veteran]]></title>
-        <id>4184997</id>
-        <link href="https://www.scotsman.com/sport/football/scottish-transfers-positive-celtic-news-two-new-suitors-for-morelos-aberdeen-to-land-striker-hibs-eye-veteran-4184997"/>
-        <updated>2023-06-16T07:35:39.000Z</updated>
-        <summary type="html"><![CDATA[The transfer window is in full swing with Rangers, Aberdeen and Hibs all looking to be active, while Celtic are in the midst of appointing a new manager.]]></summary>
-        <author>
-            <name>Mark Atkinson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic Kyogo transfer offers detailed by agent and translator]]></title>
-        <id>d0077b7a5c8d37a4ca3b4c793c732281</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23592948.celtic-kyogo-transfer-offers-detailed-agent-translator/?ref=rss"/>
-        <updated>2023-06-16T06:56:46.000Z</updated>
-        <summary type="html"><![CDATA[Kyogo Furuhashi's agent and translator have revealed the offers the striker had on the table before he secured his switch to Celtic.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Postecoglou and Spurs' £50m double swoop labelled 'wide of the mark']]></title>
-        <id>207d3921325617e6fb877fd6b51fb23e</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23592920.postecoglou-spurs-50m-double-swoop-labelled-wide-mark/?ref=rss"/>
-        <updated>2023-06-16T06:29:00.000Z</updated>
-        <summary type="html"><![CDATA[Postecoglou is quickly getting to work with his new squad at Tottenham.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>

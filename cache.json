@@ -6,6 +6,26 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4190618",
+          "author": "Mark Atkinson",
+          "description": "Norway picked up their first victory in Group A of the Euro 2024 qualifiers, with star striker Erling Haaland scoring twice in the 3-1 triumph over Cyprus in Oslo.",
+          "link": "https://www.scotsman.com/sport/football/erling-haaland-inspired-norway-recover-from-scotland-defeat-with-comfortable-win-over-cyprus-4190618",
+          "publishedOn": "2023-06-20T21:00:04.000Z",
+          "wordCount": null,
+          "title": "Erling Haaland-inspired Norway recover from Scotland defeat with comfortable win over Cyprus",
+          "imageUrl": null
+        },
+        {
+          "id": "4190579",
+          "author": "Mark Atkinson",
+          "description": "Scotland’s match against Georgia recommended at 9.30pm following a near 90-minute delay to the match due to a waterlogged pitch.",
+          "link": "https://www.scotsman.com/sport/football/scotland-v-georgia-finally-recommences-after-waterlogged-pitch-and-dressingroom-lock-in-4190579",
+          "publishedOn": "2023-06-20T19:06:03.000Z",
+          "wordCount": null,
+          "title": "Scotland v Georgia finally recommences after waterlogged pitch and dressingroom lock-in",
+          "imageUrl": null
+        },
+        {
           "id": "4190051",
           "author": "Joel Sked",
           "description": "Scotland go in search of history at Hampden Park this evening against Georgia. Never has the national team started a qualifying campaign with four straight wins. Steve Clarke’s men have the opportunity to do just that with Cyprus, Spain and Norway in the rearview mirror.",
@@ -243,16 +263,6 @@
           "publishedOn": "2023-06-16T09:52:54.000Z",
           "wordCount": null,
           "title": "Former Celtic next manager favourite set to be appointed new boss of Leicester City",
-          "imageUrl": null
-        },
-        {
-          "id": "4184997",
-          "author": "Mark Atkinson",
-          "description": "The transfer window is in full swing with Rangers, Aberdeen and Hibs all looking to be active, while Celtic are in the midst of appointing a new manager.",
-          "link": "https://www.scotsman.com/sport/football/scottish-transfers-positive-celtic-news-two-new-suitors-for-morelos-aberdeen-to-land-striker-hibs-eye-veteran-4184997",
-          "publishedOn": "2023-06-16T07:35:39.000Z",
-          "wordCount": null,
-          "title": "Scottish transfers: Positive Celtic news, two new suitors for Morelos, Aberdeen to land striker, Hibs eye veteran",
           "imageUrl": null
         }
       ]
@@ -687,46 +697,6 @@
           "wordCount": 8565,
           "title": "Ange Postecoglou drops Celtic touch in first interview as Spurs boss",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16895502/?type=og-image"
-        },
-        {
-          "id": "877b6d3345ef90c0b3e983487dcdc665",
-          "author": null,
-          "description": "The Hoops have been on the hunt for a new boss since Ange Postecoglou sealed his move to Tottenham last Tuesday.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23593237.barry-ferguson-makes-rangers-reaction-call-brendan-rodgers/?ref=rss",
-          "publishedOn": "2023-06-16T08:56:49.000Z",
-          "wordCount": 9875,
-          "title": "Barry Ferguson makes Rangers reaction call on Brendan Rodgers",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16883706/?type=og-image"
-        },
-        {
-          "id": "8e890aad6e36c2a672e42c5a32588c64",
-          "author": null,
-          "description": "When you leave Celtic, it stays with you and it is such a big club. If he does return then I’m sure he would be so happy to be their manager once again. Could they have another Invincible season under him? Definitely. I’m a big fan of Celtic, so I am always watching what they are doing.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23593001.scott-sinclair-backs-brendan-rodgers-celtic-return/?ref=rss",
-          "publishedOn": "2023-06-16T07:39:50.000Z",
-          "wordCount": 8546,
-          "title": "Scott Sinclair backs Brendan Rodgers' Celtic return",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16894262/?type=og-image"
-        },
-        {
-          "id": "d0077b7a5c8d37a4ca3b4c793c732281",
-          "author": null,
-          "description": "Kyogo Furuhashi's agent and translator have revealed the offers the striker had on the table before he secured his switch to Celtic.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23592948.celtic-kyogo-transfer-offers-detailed-agent-translator/?ref=rss",
-          "publishedOn": "2023-06-16T06:56:46.000Z",
-          "wordCount": 8598,
-          "title": "Celtic Kyogo transfer offers detailed by agent and translator",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16894204/?type=og-image"
-        },
-        {
-          "id": "207d3921325617e6fb877fd6b51fb23e",
-          "author": null,
-          "description": "Postecoglou is quickly getting to work with his new squad at Tottenham.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23592920.postecoglou-spurs-50m-double-swoop-labelled-wide-mark/?ref=rss",
-          "publishedOn": "2023-06-16T06:29:00.000Z",
-          "wordCount": 9651,
-          "title": "Postecoglou and Spurs' £50m double swoop labelled 'wide of the mark'",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16855122/?type=og-image"
         }
       ]
     }
