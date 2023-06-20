@@ -6,6 +6,26 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4188798",
+          "author": "Andrew Smith",
+          "description": "It would be easy for Aaron Hickey to feel like a real high-roller.",
+          "link": "https://www.scotsman.com/sport/football/celtic/scotlands-aaron-hickey-on-hanging-out-at-the-beckhams-and-staying-humble-4188798",
+          "publishedOn": "2023-06-19T21:34:00.000Z",
+          "wordCount": null,
+          "title": "Scotland’s Aaron Hickey on hanging out at the Beckhams and staying humble",
+          "imageUrl": null
+        },
+        {
+          "id": "4188743",
+          "author": "Andrew Smith",
+          "description": "Scotland manager Steve Clarke refuses to allow the national team’s fateful history with Georgia to give him the fear - or place any store in a qualification first that would be accomplished against these opponents were his men to extend their faultless record to four wins in the tilt for Euro 2024.",
+          "link": "https://www.scotsman.com/sport/football/celtic/what-scotland-manager-steve-clarke-had-to-say-on-georgia-collywobbles-and-making-history-4188743",
+          "publishedOn": "2023-06-19T21:31:00.000Z",
+          "wordCount": null,
+          "title": "What Scotland manager Steve Clarke had to say on Georgia 'collywobbles' and making history",
+          "imageUrl": null
+        },
+        {
           "id": "4188719",
           "author": "Joel Sked",
           "description": "‘Brendan Rodgers’ Green and White Army’ was the chant from the estimated 10,000 fans at Celtic Park seven years ago. The club were unveiling their new manager in May 2016 and it was a huge deal.",
@@ -224,26 +244,6 @@
           "wordCount": null,
           "title": "What channel is Norway v Scotland on? Euro 2024 qualifying info, TV details, kick-off time, team news, referee",
           "imageUrl": null
-        },
-        {
-          "id": "4184199",
-          "author": "Mark Atkinson",
-          "description": "Celtic forward Kyogo Furuhashi marked his return to the Japanese national team with a goal as the Blue Samurai trounced El Salvador 6-0 in the Kirin Challenge Cup.",
-          "link": "https://www.scotsman.com/sport/football/celtic/kyogo-furuhashi-scores-on-japan-return-as-celtic-team-mate-gets-rare-run-out-4184199",
-          "publishedOn": "2023-06-15T12:38:34.000Z",
-          "wordCount": null,
-          "title": "Kyogo Furuhashi scores on Japan return as Celtic team-mate gets rare run-out",
-          "imageUrl": null
-        },
-        {
-          "id": "4183654",
-          "author": "Joel Sked",
-          "description": "Brendan Rodgers is on the cusp of a dramatic return to Celtic, replacing Ange Postecoglou. He will face plenty of decisions over his playing squad with around 35 players after a number returned from a loan deal. Some of those face an uncertain future...",
-          "link": "https://www.scotsman.com/sport/football/celtic/10-celtic-players-who-face-an-uncertain-future-over-the-summer-with-brendan-rodgers-set-to-arrive-4183654",
-          "publishedOn": "2023-06-15T09:31:22.000Z",
-          "wordCount": null,
-          "title": "10 Celtic players who face an uncertain future over the summer with Brendan Rodgers set to arrive",
-          "imageUrl": null
         }
       ]
     },
@@ -256,7 +256,7 @@
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
       "articles": [
         {
           "id": "afa99981921887c94a1a88035aae20e3",
@@ -677,86 +677,6 @@
           "wordCount": 8597,
           "title": "Celtic target Enzo Maresca 'close' to Leicester City move",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16804856/?type=og-image"
-        },
-        {
-          "id": "82362c1b3e2ff65553539eddb6059a83",
-          "author": null,
-          "description": "The former Celtic boss made the switch south last Tuesday as he aims to make his mark in the Premier League.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23591765.postecoglou-spurs-submit-50m-joint-bid-maddison-barnes/?ref=rss",
-          "publishedOn": "2023-06-15T13:07:26.000Z",
-          "wordCount": 8623,
-          "title": "Postecoglou and Spurs 'submit £50m joint bid' for Maddison and Barnes",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16852063/?type=og-image"
-        },
-        {
-          "id": "34ce7057e50b864909b34989dcd5da28",
-          "author": null,
-          "description": "The Japan striker scored a second-half header for his country in their 6-0 win over El Salvador",
-          "link": "https://www.glasgowtimes.co.uk/sport/23591692.celtic-stars-kyogo-reo-hatate-shine-japan-thump-el-salvador/?ref=rss",
-          "publishedOn": "2023-06-15T12:45:17.000Z",
-          "wordCount": 8557,
-          "title": "Celtic stars Kyogo and Reo Hatate shine as Japan thump El Salvador",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16892080/?type=og-image"
-        },
-        {
-          "id": "69db71f61d5b28088d12a41deb13fe2c",
-          "author": null,
-          "description": "This is the moment Kyogo Furuhashi netted for Japan against El Salvador in an international friendly clash this afternoon.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23591691.watch-celtic-star-kyogo-furuhashi-net-impressive-goal-japan-return/?ref=rss",
-          "publishedOn": "2023-06-15T12:45:09.000Z",
-          "wordCount": 8689,
-          "title": "Watch Celtic star Kyogo Furuhashi net impressive goal on Japan return",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16892084/?type=og-image"
-        },
-        {
-          "id": "5221b7567e67bc35e1349105cf30605e",
-          "author": null,
-          "description": "The Celtic youngster looks set to move to the Championship side following a successful loan spell",
-          "link": "https://www.glasgowtimes.co.uk/sport/23591430.celtic-youth-ewan-otoo-agrees-move-dunfermline/?ref=rss",
-          "publishedOn": "2023-06-15T11:42:49.000Z",
-          "wordCount": 8531,
-          "title": "Celtic youth Ewan Otoo 'agrees' move to Dunfermline",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16452506/?type=og-image"
-        },
-        {
-          "id": "41fda381336144531ad00d56425fcd3e",
-          "author": null,
-          "description": "The club are believed to be considering their stance on whether or not to continue in the Lowland League next season",
-          "link": "https://www.glasgowtimes.co.uk/sport/23591220.celtic-b-teams-options-weighed-rangers-exit/?ref=rss",
-          "publishedOn": "2023-06-15T10:55:13.000Z",
-          "wordCount": 9681,
-          "title": "Celtic B team's options weighed up after Rangers exit",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16891361/?type=og-image"
-        },
-        {
-          "id": "0c8aac21b896ac08ecdc5b9e04152b07",
-          "author": null,
-          "description": "Appearing on talkSPORT alongside Rangers legend Ally McCoist and fellow Celtic fan Alan Brazil, Stewart, with an amusing comparison, said: \"I don't know.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23591086.rod-stewart-left-raging-ange-postecoglous-celtic-departure/?ref=rss",
-          "publishedOn": "2023-06-15T10:28:25.000Z",
-          "wordCount": 8678,
-          "title": "Rod Stewart left raging by Ange Postecoglou's Celtic departure",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16891208/?type=og-image"
-        },
-        {
-          "id": "4befb8dbdcdd20b00cca20c15eff78e4",
-          "author": null,
-          "description": "N",
-          "link": "https://www.glasgowtimes.co.uk/sport/23591000.former-celtic-boss-neil-lennon-offered-marseille-manager/?ref=rss",
-          "publishedOn": "2023-06-15T10:06:53.000Z",
-          "wordCount": 8616,
-          "title": "Former Celtic boss Neil Lennon 'offered' to Marseille as manager",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16891048/?type=og-image"
-        },
-        {
-          "id": "2e3e76a69e44b63d1f94b1c3bf83cb40",
-          "author": null,
-          "description": "Leeds have appointed former Celtic head of football operations Nick Hammond as “interim football advisor on a short-term contract”.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23590864.ex-celtic-recruitment-chief-nick-hammond-lands-new-role-leeds/?ref=rss",
-          "publishedOn": "2023-06-15T09:35:32.000Z",
-          "wordCount": 9594,
-          "title": "Ex-Celtic recruitment chief Nick Hammond lands new role at Leeds",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16890785/?type=og-image"
         }
       ]
     }
