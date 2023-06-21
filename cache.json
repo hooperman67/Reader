@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4190642",
+          "author": "Alan Pattullo and Mark Atkinson",
+          "description": "It was quite the night at Hampden as Scotland defeated Georgia 2-0 to maintain their 100 per cent record in Group A of the Euro 2024 qualifiers.",
+          "link": "https://www.scotsman.com/sport/football/scotland-reaction-georgia-boss-massive-uefa-pressure-claim-clarkes-longest-day-midfielders-rattled-verdict-4190642",
+          "publishedOn": "2023-06-21T06:30:00.000Z",
+          "wordCount": null,
+          "title": "Scotland reaction: Georgia boss' 'massive UEFA pressure claim', Clarke's longest day, midfielder's 'rattled' verdict",
+          "imageUrl": null
+        },
+        {
           "id": "4190637",
           "author": "Moira Gordon",
           "description": "Scotland kept up their 100 per cent record in Group A of the Euro 2024 qualifiers with a win over Georgia.",
@@ -244,16 +254,6 @@
           "wordCount": null,
           "title": "Brendan Rodgers' Celtic return set to be confirmed with appointment date revealed",
           "imageUrl": null
-        },
-        {
-          "id": "4186666",
-          "author": "Gavin McCafferty",
-          "description": "Scotland manager Steve Clarke stressed the need to focus on “Norway the team” rather than become obsessed with trying to stop Erling Haaland.",
-          "link": "https://www.scotsman.com/sport/football/steve-clarke-has-his-say-on-erling-haaland-mania-and-gives-scotland-squad-update-ahead-of-norway-clash-4186666",
-          "publishedOn": "2023-06-16T19:42:15.000Z",
-          "wordCount": null,
-          "title": "Steve Clarke has his say on Erling Haaland mania and gives Scotland squad update ahead of Norway clash",
-          "imageUrl": null
         }
       ]
     },
@@ -266,8 +266,28 @@
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "2902e510b00d435fd576af9a7dabea0c",
+          "author": null,
+          "description": "Celtic confirmed Rodgers had signed a three-year contract to replace Ange Postecoglou as manager.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23603446.callum-mcgregor-calls-celtic-unity-reacts-rodgers-return/?ref=rss",
+          "publishedOn": "2023-06-21T07:55:46.000Z",
+          "wordCount": 8705,
+          "title": "Callum McGregor calls for Celtic unity as he reacts to Rodgers return",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16912532/?type=og-image"
+        },
+        {
+          "id": "61408587d3303e9965e686654835ec39",
+          "author": null,
+          "description": "The new Parkhead manager will be tasked with improving a squad which won the treble last season.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23603101.celtic-transfers-brendan-rodgers-target-summer/?ref=rss",
+          "publishedOn": "2023-06-21T05:00:00.000Z",
+          "wordCount": 9331,
+          "title": "The Celtic transfers Brendan Rodgers could target this summer",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16912040/?type=og-image"
+        },
         {
           "id": "8c2351d373a2d2fd3dd7a4fbd0f63fb1",
           "author": null,
@@ -607,16 +627,6 @@
           "wordCount": 10354,
           "title": "Ex-Celtic player on why Norway are much more than a two man team",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16897689/?type=og-image"
-        },
-        {
-          "id": "a9da78f195db3331837c510f7fdc2527",
-          "author": null,
-          "description": "Ange Postecoglou's first signing as Spurs manager could be Dejan Kulusevski - who was on loan at the club last season.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23595662.postecoglou-set-land-first-spurs-signing-contract-agreed/?ref=rss",
-          "publishedOn": "2023-06-16T19:32:33.000Z",
-          "wordCount": 8452,
-          "title": "Postecoglou set to land first Spurs transfer with 'contract signed'",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16898632/?type=og-image"
         }
       ]
     }

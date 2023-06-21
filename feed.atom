@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-21T06:22:03.264Z</updated>
+    <updated>2023-06-21T09:16:24.610Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Callum McGregor calls for Celtic unity as he reacts to Rodgers return]]></title>
+        <id>2902e510b00d435fd576af9a7dabea0c</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23603446.callum-mcgregor-calls-celtic-unity-reacts-rodgers-return/?ref=rss"/>
+        <updated>2023-06-21T07:55:46.000Z</updated>
+        <summary type="html"><![CDATA[Celtic confirmed Rodgers had signed a three-year contract to replace Ange Postecoglou as manager.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scotland reaction: Georgia boss' 'massive UEFA pressure claim', Clarke's longest day, midfielder's 'rattled' verdict]]></title>
+        <id>4190642</id>
+        <link href="https://www.scotsman.com/sport/football/scotland-reaction-georgia-boss-massive-uefa-pressure-claim-clarkes-longest-day-midfielders-rattled-verdict-4190642"/>
+        <updated>2023-06-21T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[It was quite the night at Hampden as Scotland defeated Georgia 2-0 to maintain their 100 per cent record in Group A of the Euro 2024 qualifiers.]]></summary>
+        <author>
+            <name>Alan Pattullo and Mark Atkinson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Celtic transfers Brendan Rodgers could target this summer]]></title>
+        <id>61408587d3303e9965e686654835ec39</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23603101.celtic-transfers-brendan-rodgers-target-summer/?ref=rss"/>
+        <updated>2023-06-21T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The new Parkhead manager will be tasked with improving a squad which won the treble last season.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[McGregor details Scotland vs Georgia delay discussions]]></title>
         <id>8c2351d373a2d2fd3dd7a4fbd0f63fb1</id>
@@ -582,26 +612,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23595180.ex-celtic-player-norway-much-two-man-team/?ref=rss"/>
         <updated>2023-06-17T06:00:00.000Z</updated>
         <summary type="html"><![CDATA[FANS of most major footballing nations would be deeply unhappy and possibly even clamouring for a change of manager if their team had started a qualifying campaign without a victory in their opening two matches.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steve Clarke has his say on Erling Haaland mania and gives Scotland squad update ahead of Norway clash]]></title>
-        <id>4186666</id>
-        <link href="https://www.scotsman.com/sport/football/steve-clarke-has-his-say-on-erling-haaland-mania-and-gives-scotland-squad-update-ahead-of-norway-clash-4186666"/>
-        <updated>2023-06-16T19:42:15.000Z</updated>
-        <summary type="html"><![CDATA[Scotland manager Steve Clarke stressed the need to focus on “Norway the team” rather than become obsessed with trying to stop Erling Haaland.]]></summary>
-        <author>
-            <name>Gavin McCafferty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Postecoglou set to land first Spurs transfer with 'contract signed']]></title>
-        <id>a9da78f195db3331837c510f7fdc2527</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23595662.postecoglou-set-land-first-spurs-signing-contract-agreed/?ref=rss"/>
-        <updated>2023-06-16T19:32:33.000Z</updated>
-        <summary type="html"><![CDATA[Ange Postecoglou's first signing as Spurs manager could be Dejan Kulusevski - who was on loan at the club last season.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
