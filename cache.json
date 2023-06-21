@@ -266,8 +266,18 @@
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
       "articles": [
+        {
+          "id": "8c2351d373a2d2fd3dd7a4fbd0f63fb1",
+          "author": null,
+          "description": "Callum McGregor last night admitted he was adamant the match against Georgia be played to a conclusion - so that his opener would count.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23603260.mcgregor-details-scotland-vs-georgia-delay-reveals-break-plans/?ref=rss",
+          "publishedOn": "2023-06-20T23:05:49.000Z",
+          "wordCount": 8514,
+          "title": "McGregor details Scotland vs Georgia delay discussions",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16912297/?type=og-image"
+        },
         {
           "id": "46635764990a4782e7db4eae622b4c9e",
           "author": null,
@@ -607,26 +617,6 @@
           "wordCount": 8452,
           "title": "Postecoglou set to land first Spurs transfer with 'contract signed'",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16898632/?type=og-image"
-        },
-        {
-          "id": "3f2bc70561ca2ae02d96bdd844d6541e",
-          "author": null,
-          "description": "Enzo Maresca has been appointed as Leicester manager after being linked with the Celtic job.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23595529.former-celtic-contender-enzo-maresca-named-leicester-manager/?ref=rss",
-          "publishedOn": "2023-06-16T17:41:12.000Z",
-          "wordCount": 9609,
-          "title": "Former Celtic contender Enzo Maresca named Leicester manager",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16898467/?type=og-image"
-        },
-        {
-          "id": "e70a81f6a70cd72c1949ded45b97b593",
-          "author": null,
-          "description": "ACROSS Scotland’s sun-soaked beer gardens this week, there will have been a Celtic fan or two on the defensive.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23595110.celtic-fans-brendan-rodgers---mass-amnesia-sensible-pragmatism/?ref=rss",
-          "publishedOn": "2023-06-16T15:23:18.000Z",
-          "wordCount": 10631,
-          "title": "Celtic fans and Brendan Rodgers - mass amnesia or sensible pragmatism?",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16897760/?type=og-image"
         }
       ]
     }
