@@ -269,6 +269,16 @@
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
         {
+          "id": "d75ec73f63fad7bd5fcdccd5c6f297f5",
+          "author": null,
+          "description": "The Parkhead manager has a rebuilding job on his hands in North London.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23605811.ex-celtic-boss-ange-postecoglous-tottenham-transfer-kitty-revealed/?ref=rss",
+          "publishedOn": "2023-06-21T16:46:35.000Z",
+          "wordCount": 8620,
+          "title": "Ex Celtic boss Ange Postecoglou's Tottenham transfer kitty 'revealed'",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16874499/?type=og-image"
+        },
+        {
           "id": "02501887c117888d6a3fd09b0830a892",
           "author": null,
           "description": "The Scottish champions look to be on the cusp of their first signing of the summer.",
@@ -637,26 +647,6 @@
           "wordCount": 8595,
           "title": "Brendan Rodgers' 'five-year plan at Celtic revealed'",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16899570/?type=og-image"
-        },
-        {
-          "id": "0ea12adf499e3f49591ff413a191316f",
-          "author": null,
-          "description": "HIS team may be sitting on top of their Euro 2024 qualifying section after opening victories over Cyprus and Spain at Hampden back in March.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23595290.conference-league-compromise-needed-scotland-thrive/?ref=rss",
-          "publishedOn": "2023-06-17T06:04:00.000Z",
-          "wordCount": 9125,
-          "title": "Conference League compromise is needed if Scotland are to thrive",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16897994/?type=og-image"
-        },
-        {
-          "id": "ca5775794d2ff377ec22634b62edc0b4",
-          "author": null,
-          "description": "FANS of most major footballing nations would be deeply unhappy and possibly even clamouring for a change of manager if their team had started a qualifying campaign without a victory in their opening two matches.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23595180.ex-celtic-player-norway-much-two-man-team/?ref=rss",
-          "publishedOn": "2023-06-17T06:00:00.000Z",
-          "wordCount": 10354,
-          "title": "Ex-Celtic player on why Norway are much more than a two man team",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16897689/?type=og-image"
         }
       ]
     }

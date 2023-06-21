@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-21T15:16:58.519Z</updated>
+    <updated>2023-06-21T18:20:51.190Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ex Celtic boss Ange Postecoglou's Tottenham transfer kitty 'revealed']]></title>
+        <id>d75ec73f63fad7bd5fcdccd5c6f297f5</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23605811.ex-celtic-boss-ange-postecoglous-tottenham-transfer-kitty-revealed/?ref=rss"/>
+        <updated>2023-06-21T16:46:35.000Z</updated>
+        <summary type="html"><![CDATA[The Parkhead manager has a rebuilding job on his hands in North London.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic transfer target 'set' for medical in London]]></title>
         <id>02501887c117888d6a3fd09b0830a892</id>
@@ -622,26 +632,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23596312.brendan-rodgers-five-year-plan-celtic-revealed/?ref=rss"/>
         <updated>2023-06-17T14:29:13.000Z</updated>
         <summary type="html"><![CDATA[Brendan Rodgers has reportedly been given assurances over backing should he return to Celtic.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Conference League compromise is needed if Scotland are to thrive]]></title>
-        <id>0ea12adf499e3f49591ff413a191316f</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23595290.conference-league-compromise-needed-scotland-thrive/?ref=rss"/>
-        <updated>2023-06-17T06:04:00.000Z</updated>
-        <summary type="html"><![CDATA[HIS team may be sitting on top of their Euro 2024 qualifying section after opening victories over Cyprus and Spain at Hampden back in March.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ex-Celtic player on why Norway are much more than a two man team]]></title>
-        <id>ca5775794d2ff377ec22634b62edc0b4</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23595180.ex-celtic-player-norway-much-two-man-team/?ref=rss"/>
-        <updated>2023-06-17T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[FANS of most major footballing nations would be deeply unhappy and possibly even clamouring for a change of manager if their team had started a qualifying campaign without a victory in their opening two matches.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
