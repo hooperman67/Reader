@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-20T21:13:54.037Z</updated>
+    <updated>2023-06-21T01:38:32.890Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Scotland player ratings: the men who had Tartan Army dancing in rain as only three players dip below 8]]></title>
+        <id>4190637</id>
+        <link href="https://www.scotsman.com/sport/football/scotland-player-ratings-the-men-who-had-tartan-army-dancing-in-rain-as-only-three-players-dip-below-8-4190637"/>
+        <updated>2023-06-20T22:35:12.000Z</updated>
+        <summary type="html"><![CDATA[Scotland kept up their 100 per cent record in Group A of the Euro 2024 qualifiers with a win over Georgia.]]></summary>
+        <author>
+            <name>Moira Gordon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Erling Haaland-inspired Norway recover from Scotland defeat with comfortable win over Cyprus]]></title>
         <id>4190618</id>
@@ -654,36 +664,6 @@
         <summary type="html"><![CDATA[The attacker departs the London club after only two years down south]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elyounoussi opens up on next move as Celtic transfer links emerge]]></title>
-        <id>d28576309ec7ed465b6f8304dbbb4f57</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23594427.elyounoussi-opens-next-move-celtic-transfer-links-emerge/?ref=rss"/>
-        <updated>2023-06-16T13:28:32.000Z</updated>
-        <summary type="html"><![CDATA[Mohamed Elyounoussi is a free agent this summer after his contract expired at Southampton.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ange Postecoglou drops Celtic touch in first interview as Spurs boss]]></title>
-        <id>25347ac712a263e958a7b43d588b3e8c</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23593780.ange-postecoglou-drops-celtic-touch-first-interview-spurs-boss/?ref=rss"/>
-        <updated>2023-06-16T11:01:01.000Z</updated>
-        <summary type="html"><![CDATA[The Aussie was quick to refer to Spurs as his team as he discussed his plans for the summer.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Former Celtic next manager favourite set to be appointed new boss of Leicester City]]></title>
-        <id>4185332</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/former-celtic-next-manager-favourite-set-to-be-appointed-new-boss-of-leicester-city-4185332"/>
-        <updated>2023-06-16T09:52:54.000Z</updated>
-        <summary type="html"><![CDATA[Enzo Maresca, the former favourite for the Celtic managerial vacancy, is set to be appointed as the new head coach of Leicester City.]]></summary>
-        <author>
-            <name>Matthew Elder</name>
         </author>
     </entry>
 </feed>

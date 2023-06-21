@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4190637",
+          "author": "Moira Gordon",
+          "description": "Scotland kept up their 100 per cent record in Group A of the Euro 2024 qualifiers with a win over Georgia.",
+          "link": "https://www.scotsman.com/sport/football/scotland-player-ratings-the-men-who-had-tartan-army-dancing-in-rain-as-only-three-players-dip-below-8-4190637",
+          "publishedOn": "2023-06-20T22:35:12.000Z",
+          "wordCount": null,
+          "title": "Scotland player ratings: the men who had Tartan Army dancing in rain as only three players dip below 8",
+          "imageUrl": null
+        },
+        {
           "id": "4190618",
           "author": "Mark Atkinson",
           "description": "Norway picked up their first victory in Group A of the Euro 2024 qualifiers, with star striker Erling Haaland scoring twice in the 3-1 triumph over Cyprus in Oslo.",
@@ -253,16 +263,6 @@
           "publishedOn": "2023-06-16T14:12:45.000Z",
           "wordCount": null,
           "title": "When is Ange Postecoglou's first Tottenham match? Ex-Celtic boss set for live TV Premier League opener after Australia homecoming",
-          "imageUrl": null
-        },
-        {
-          "id": "4185332",
-          "author": "Matthew Elder",
-          "description": "Enzo Maresca, the former favourite for the Celtic managerial vacancy, is set to be appointed as the new head coach of Leicester City.",
-          "link": "https://www.scotsman.com/sport/football/celtic/former-celtic-next-manager-favourite-set-to-be-appointed-new-boss-of-leicester-city-4185332",
-          "publishedOn": "2023-06-16T09:52:54.000Z",
-          "wordCount": null,
-          "title": "Former Celtic next manager favourite set to be appointed new boss of Leicester City",
           "imageUrl": null
         }
       ]
@@ -677,26 +677,6 @@
           "wordCount": 8549,
           "title": "Former Celtic winger Armstrong Oko-Flex released by West Ham",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16896807/?type=og-image"
-        },
-        {
-          "id": "d28576309ec7ed465b6f8304dbbb4f57",
-          "author": null,
-          "description": "Mohamed Elyounoussi is a free agent this summer after his contract expired at Southampton.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23594427.elyounoussi-opens-next-move-celtic-transfer-links-emerge/?ref=rss",
-          "publishedOn": "2023-06-16T13:28:32.000Z",
-          "wordCount": 8470,
-          "title": "Elyounoussi opens up on next move as Celtic transfer links emerge",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16896532/?type=og-image"
-        },
-        {
-          "id": "25347ac712a263e958a7b43d588b3e8c",
-          "author": null,
-          "description": "The Aussie was quick to refer to Spurs as his team as he discussed his plans for the summer.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23593780.ange-postecoglou-drops-celtic-touch-first-interview-spurs-boss/?ref=rss",
-          "publishedOn": "2023-06-16T11:01:01.000Z",
-          "wordCount": 8565,
-          "title": "Ange Postecoglou drops Celtic touch in first interview as Spurs boss",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16895502/?type=og-image"
         }
       ]
     }
