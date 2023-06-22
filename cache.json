@@ -6,6 +6,36 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4192226",
+          "author": "Alan Pattullo",
+          "description": "Steve Clarke will have turned 60 by the time Scotland are next in action. It’s fair to say he has not experienced a night like he did on Tuesday in a long career as both a player and manager.",
+          "link": "https://www.scotsman.com/sport/football/international/steve-clarke-reveals-just-how-close-scotland-came-to-georgia-call-off-as-he-admits-to-changing-his-tune-4192226",
+          "publishedOn": "2023-06-21T21:40:00.000Z",
+          "wordCount": null,
+          "title": "Steve Clarke reveals just how close Scotland came to Georgia call-off as he admits to changing his tune",
+          "imageUrl": null
+        },
+        {
+          "id": "4192100",
+          "author": "Andrew Smith",
+          "description": "There was a willingness of John McGinn to put a new spin on pitching in when it came to the rain-submerged Hampden surface for Tuesday night’s momentous 2-0 Euro 2024 qualifying victory over Georgia.",
+          "link": "https://www.scotsman.com/sport/football/international/john-mcginn-reveals-tricky-situation-scotland-players-faced-had-georgia-match-been-put-back-24-hours-4192100",
+          "publishedOn": "2023-06-21T21:30:00.000Z",
+          "wordCount": null,
+          "title": "John McGinn reveals 'tricky' situation Scotland players faced had Georgia match been put back 24 hours",
+          "imageUrl": null
+        },
+        {
+          "id": "4192208",
+          "author": "Andrew Smith",
+          "description": "Scotland midfielder Billy Gilmour sees no reason why the country shouldn’t now be targeting top spot in their Euro 2024 section.",
+          "link": "https://www.scotsman.com/sport/football/international/billy-gilmour-on-why-its-a-great-feeling-to-be-scottish-as-national-side-target-42-year-first-4192208",
+          "publishedOn": "2023-06-21T21:30:00.000Z",
+          "wordCount": null,
+          "title": "Billy Gilmour on why 'it's a great feeling to be Scottish' as national side target 42 year first",
+          "imageUrl": null
+        },
+        {
           "id": "4190642",
           "author": "Alan Pattullo and Mark Atkinson",
           "description": "It was quite the night at Hampden as Scotland defeated Georgia 2-0 to maintain their 100 per cent record in Group A of the Euro 2024 qualifiers.",
@@ -266,7 +296,7 @@
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
         {
           "id": "d75ec73f63fad7bd5fcdccd5c6f297f5",

@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-21T21:15:53.294Z</updated>
+    <updated>2023-06-22T01:43:07.509Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Steve Clarke reveals just how close Scotland came to Georgia call-off as he admits to changing his tune]]></title>
+        <id>4192226</id>
+        <link href="https://www.scotsman.com/sport/football/international/steve-clarke-reveals-just-how-close-scotland-came-to-georgia-call-off-as-he-admits-to-changing-his-tune-4192226"/>
+        <updated>2023-06-21T21:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Steve Clarke will have turned 60 by the time Scotland are next in action. It’s fair to say he has not experienced a night like he did on Tuesday in a long career as both a player and manager.]]></summary>
+        <author>
+            <name>Alan Pattullo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[John McGinn reveals 'tricky' situation Scotland players faced had Georgia match been put back 24 hours]]></title>
+        <id>4192100</id>
+        <link href="https://www.scotsman.com/sport/football/international/john-mcginn-reveals-tricky-situation-scotland-players-faced-had-georgia-match-been-put-back-24-hours-4192100"/>
+        <updated>2023-06-21T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[There was a willingness of John McGinn to put a new spin on pitching in when it came to the rain-submerged Hampden surface for Tuesday night’s momentous 2-0 Euro 2024 qualifying victory over Georgia.]]></summary>
+        <author>
+            <name>Andrew Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Billy Gilmour on why 'it's a great feeling to be Scottish' as national side target 42 year first]]></title>
+        <id>4192208</id>
+        <link href="https://www.scotsman.com/sport/football/international/billy-gilmour-on-why-its-a-great-feeling-to-be-scottish-as-national-side-target-42-year-first-4192208"/>
+        <updated>2023-06-21T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Scotland midfielder Billy Gilmour sees no reason why the country shouldn’t now be targeting top spot in their Euro 2024 section.]]></summary>
+        <author>
+            <name>Andrew Smith</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ex Celtic boss Ange Postecoglou's Tottenham transfer kitty 'revealed']]></title>
         <id>d75ec73f63fad7bd5fcdccd5c6f297f5</id>
