@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4193943",
+          "author": "Andrew Smith",
+          "description": "Brendan Rodgers sought to park the “nostalgia” of his first spell that yielded two trebles and seven straight trophies as he targeted opening up a new frontier across his second stint at Celtic.",
+          "link": "https://www.scotsman.com/sport/football/celtic/brendan-rodgers-reveals-how-secret-callum-mcgregor-meeting-was-key-to-celtic-return-4193943",
+          "publishedOn": "2023-06-22T20:43:42.000Z",
+          "wordCount": null,
+          "title": "Brendan Rodgers reveals how secret Callum McGregor meeting was key to Celtic return",
+          "imageUrl": null
+        },
+        {
           "id": "4193797",
           "author": "Joel Sked",
           "description": "Brendan Rodgers will be back in the Celtic dugout next season, four-and-a-half years after leaving the club for Leicester City. In doing so, he will encounter a very different squad and atmosphere to when he was appointed for his first spell in 2016.",
@@ -263,16 +273,6 @@
           "publishedOn": "2023-06-18T15:45:22.000Z",
           "wordCount": null,
           "title": "Scotland Under-21s almost emulate seniors after coming from behind against Norway - two Celtic and two Rangers starlets start",
-          "imageUrl": null
-        },
-        {
-          "id": "4187018",
-          "author": "Andrew Smith",
-          "description": "As an explanation for the, from-nowhere, tsunami that resulted in Scotland sweeping away Norway in Oslo, you had to hand it to Steve Clarke for finding just the right words.",
-          "link": "https://www.scotsman.com/sport/football/international/an-ode-to-steve-clarke-the-man-with-unshakeable-belief-who-has-changed-everything-for-scotland-4187018",
-          "publishedOn": "2023-06-18T07:00:00.000Z",
-          "wordCount": null,
-          "title": "An ode to Steve Clarke - the man with unshakeable belief who has changed everything for Scotland",
           "imageUrl": null
         }
       ]
@@ -747,16 +747,6 @@
           "wordCount": 8495,
           "title": "Reo Hatate reveals Premier League scouting mission to improve his game",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16901142/?type=og-image"
-        },
-        {
-          "id": "b9536191f8dc59a9dd87e0a0a48b1fe1",
-          "author": null,
-          "description": "Aberdeen chairman Dave Cormack has explained his Twitter blunder as he tweeted about Celtic goalkeeper Conor Hazard.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23596607.aberdeen-chairman-dave-cormack-deletes-celtic-transfer-link-tweet/?ref=rss",
-          "publishedOn": "2023-06-18T07:52:57.000Z",
-          "wordCount": 8635,
-          "title": "Aberdeen chairman Dave Cormack deletes Celtic transfer link tweet",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16900380/?type=og-image"
         }
       ]
     }

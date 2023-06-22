@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-22T18:21:07.503Z</updated>
+    <updated>2023-06-22T21:16:56.548Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Brendan Rodgers reveals how secret Callum McGregor meeting was key to Celtic return]]></title>
+        <id>4193943</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/brendan-rodgers-reveals-how-secret-callum-mcgregor-meeting-was-key-to-celtic-return-4193943"/>
+        <updated>2023-06-22T20:43:42.000Z</updated>
+        <summary type="html"><![CDATA[Brendan Rodgers sought to park the “nostalgia” of his first spell that yielded two trebles and seven straight trophies as he targeted opening up a new frontier across his second stint at Celtic.]]></summary>
+        <author>
+            <name>Andrew Smith</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Brendan Rodgers addresses fans in first Celtic message]]></title>
         <id>f8a621596c0bb93e8db43cc24d5deb1e</id>
@@ -724,26 +734,6 @@
         <summary type="html"><![CDATA[Speaking to Soccer Digest, he said: “I think Kaoru is leading the national team, so I want to show my value when I go out too. I don’t want to be pulled along, I want to be an equal.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aberdeen chairman Dave Cormack deletes Celtic transfer link tweet]]></title>
-        <id>b9536191f8dc59a9dd87e0a0a48b1fe1</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23596607.aberdeen-chairman-dave-cormack-deletes-celtic-transfer-link-tweet/?ref=rss"/>
-        <updated>2023-06-18T07:52:57.000Z</updated>
-        <summary type="html"><![CDATA[Aberdeen chairman Dave Cormack has explained his Twitter blunder as he tweeted about Celtic goalkeeper Conor Hazard.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An ode to Steve Clarke - the man with unshakeable belief who has changed everything for Scotland]]></title>
-        <id>4187018</id>
-        <link href="https://www.scotsman.com/sport/football/international/an-ode-to-steve-clarke-the-man-with-unshakeable-belief-who-has-changed-everything-for-scotland-4187018"/>
-        <updated>2023-06-18T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As an explanation for the, from-nowhere, tsunami that resulted in Scotland sweeping away Norway in Oslo, you had to hand it to Steve Clarke for finding just the right words.]]></summary>
-        <author>
-            <name>Andrew Smith</name>
         </author>
     </entry>
 </feed>
