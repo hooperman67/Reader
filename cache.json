@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4192239",
+          "author": "Moira Gordon",
+          "description": "Scottish football clubs need to find a more equitable way of working if the industry is to thrive.",
+          "link": "https://www.scotsman.com/sport/football/scottish-football-review-calls-for-independent-regulator-to-drive-change-and-end-self-interest-4192239",
+          "publishedOn": "2023-06-22T06:00:00.000Z",
+          "wordCount": null,
+          "title": "Scottish football review calls for independent regulator to drive change and end self-interest",
+          "imageUrl": null
+        },
+        {
           "id": "4192226",
           "author": "Alan Pattullo",
           "description": "Steve Clarke will have turned 60 by the time Scotland are next in action. It’s fair to say he has not experienced a night like he did on Tuesday in a long career as both a player and manager.",
@@ -273,16 +283,6 @@
           "publishedOn": "2023-06-17T19:17:59.000Z",
           "wordCount": null,
           "title": "Scotland player ratings: the defender who stood up to Haaland and the standout who did the work of two men",
-          "imageUrl": null
-        },
-        {
-          "id": "4186964",
-          "author": "Oliver Anderson",
-          "description": "Brendan Rodgers is in line to be confirmed as the next manager of Celtic within the next 48 hours, according to a report.",
-          "link": "https://www.scotsman.com/sport/football/celtic/brendan-rodgers-celtic-return-set-to-be-confirmed-with-appointment-date-revealed-4186964",
-          "publishedOn": "2023-06-17T17:15:17.000Z",
-          "wordCount": null,
-          "title": "Brendan Rodgers' Celtic return set to be confirmed with appointment date revealed",
           "imageUrl": null
         }
       ]
@@ -657,16 +657,6 @@
           "wordCount": 8635,
           "title": "Aberdeen chairman Dave Cormack deletes Celtic transfer link tweet",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16900380/?type=og-image"
-        },
-        {
-          "id": "f3473f01bf1c2761dc5cb9fd416fc06a",
-          "author": null,
-          "description": "Brendan Rodgers is reportedly set to be named as Celtic manager on Monday.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23596466.brendan-rodgers-return-celtic-timeline-revealed/?ref=rss",
-          "publishedOn": "2023-06-17T18:21:14.000Z",
-          "wordCount": 9601,
-          "title": "Brendan Rodgers return to Celtic timeline 'revealed'",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16900118/?type=og-image"
         }
       ]
     }
