@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4193797",
+          "author": "Joel Sked",
+          "description": "Brendan Rodgers will be back in the Celtic dugout next season, four-and-a-half years after leaving the club for Leicester City. In doing so, he will encounter a very different squad and atmosphere to when he was appointed for his first spell in 2016.",
+          "link": "https://www.scotsman.com/sport/football/celtic/5-key-celtic-questions-for-brendan-rodgers-media-unveiling-rangers-challenge-transfer-plans-4193797",
+          "publishedOn": "2023-06-22T16:27:08.000Z",
+          "wordCount": null,
+          "title": "5 key Celtic questions for Brendan Rodgers - media unveiling, Rangers challenge, transfer plans",
+          "imageUrl": null
+        },
+        {
           "id": "4193617",
           "author": "Matthew Elder",
           "description": "Brendan Rodgers has made his first signing of his second spell as Celtic manager in the shape of Norwegian midfielder Odin Thiago Holm.",
@@ -264,16 +274,6 @@
           "wordCount": null,
           "title": "An ode to Steve Clarke - the man with unshakeable belief who has changed everything for Scotland",
           "imageUrl": null
-        },
-        {
-          "id": "4186781",
-          "author": "Aidan Smith",
-          "description": "As Hibernian were preparing to unveil the new slogan on the front of the shirts, I’m imagining there might have been some nervous excitement down Easter Road way. The sponsorship deal would be “the biggest of its kind” for the club, but, er, what about that name?",
-          "link": "https://www.scotsman.com/sport/sport-opinion/aidan-smith-no-10-has-wine-time-fridays-but-will-football-ever-get-its-beer-time-saturdays-back-4186781",
-          "publishedOn": "2023-06-18T06:00:00.000Z",
-          "wordCount": null,
-          "title": "Aidan Smith: No 10 has “wine-time Fridays” but will football ever get its “beer-time Saturdays” back?",
-          "imageUrl": null
         }
       ]
     },
@@ -288,6 +288,26 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "f8a621596c0bb93e8db43cc24d5deb1e",
+          "author": null,
+          "description": "Brendan Rodgers vowed to make the supporters dream again in his first interview since returning to Celtic.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23608570.brendan-rodgers-addresses-fans-first-celtic-message/?ref=rss",
+          "publishedOn": "2023-06-22T16:55:02.000Z",
+          "wordCount": 8502,
+          "title": "Brendan Rodgers addresses fans in first Celtic message",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16920617/?type=og-image"
+        },
+        {
+          "id": "595439f62472a81c2970c52477e5cd89",
+          "author": null,
+          "description": "THAT immortal line earned a good old airing again this week when news of Brendan Rodgers' Celtic homecoming was confirmed: the prodigal son returns.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23608088.fans-get-behind-brendan-rodgers-celtic-return/?ref=rss",
+          "publishedOn": "2023-06-22T16:00:00.000Z",
+          "wordCount": 9344,
+          "title": "All fans should get behind Brendan Rodgers on Celtic return",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/12413108/?type=og-image"
+        },
         {
           "id": "1b6061dd18b6d9942c3d8859f36d92c2",
           "author": null,
