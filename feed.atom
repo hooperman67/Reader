@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-22T09:16:06.516Z</updated>
+    <updated>2023-06-22T12:34:52.719Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Scotland's Euro 2024 chances after Georgia win, Pot 1 hope, the German cities the team could play in]]></title>
+        <id>4193083</id>
+        <link href="https://www.scotsman.com/sport/football/scotlands-euro-2024-chances-after-georgia-win-pot-1-hope-the-german-cities-the-team-could-play-in-4193083"/>
+        <updated>2023-06-22T12:12:54.000Z</updated>
+        <summary type="html"><![CDATA[Scotland are, to quote captain Andy Robertson, within touching distance of qualifying for Euro 2024 after Tuesday night's 2-0 win over Georgia.]]></summary>
+        <author>
+            <name>Joel Sked</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raskin says Rangers' mauling of Celtic has set down a marker]]></title>
+        <id>03e552bd388a874e0d676b595795142f</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23606480.raskin-says-rangers-mauling-celtic-set-marker/?ref=rss"/>
+        <updated>2023-06-22T09:03:20.000Z</updated>
+        <summary type="html"><![CDATA[Nicolas Raskin insists Rangers' mauling of Celtic in their last Old Firm meeting has put down a marker for next season's title race.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ally McCoist admits Rangers fear with Brendan Rodgers back at Celtic]]></title>
         <id>8e12052170c92ec2ab7d1316fd8ae90e</id>
@@ -644,16 +664,6 @@
         <summary type="html"><![CDATA[As Hibernian were preparing to unveil the new slogan on the front of the shirts, I’m imagining there might have been some nervous excitement down Easter Road way. The sponsorship deal would be “the biggest of its kind” for the club, but, er, what about that name?]]></summary>
         <author>
             <name>Aidan Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arsenal's Martin Odegaard unimpressed with Scotland as Norway talisman insists 'better team lost']]></title>
-        <id>4187006</id>
-        <link href="https://www.scotsman.com/sport/football/international/arsenals-martin-odegaard-unimpressed-with-scotland-as-norway-talisman-insists-better-team-lost-4187006"/>
-        <updated>2023-06-17T21:17:15.000Z</updated>
-        <summary type="html"><![CDATA[While there was delirium in the Scotland camp after the stunning comeback win in Oslo, there was anguish for Norway at the realisation their Euro 2024 qualifying hopes may have suffered a fatal blow.]]></summary>
-        <author>
-            <name>Matthew Elder</name>
         </author>
     </entry>
 </feed>
