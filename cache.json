@@ -6,6 +6,26 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4194242",
+          "author": "Joel Sked",
+          "description": "Celtic’s appointment of Brendan Rodgers was to ensure continued domestic dominance rather than for an impact in European football, claims Kris Boyd.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtics-brendan-rodgers-appointment-because-of-rangers-threat-as-pundit-makes-miles-off-it-euro-claim-4194242",
+          "publishedOn": "2023-06-23T08:19:39.000Z",
+          "wordCount": null,
+          "title": "Celtic's Brendan Rodgers appointment because of Rangers 'threat' as pundit makes 'miles off it' Euro claim",
+          "imageUrl": null
+        },
+        {
+          "id": "4194141",
+          "author": "Joel Sked",
+          "description": "Scottish Premiership clubs are returning to pre-season and the transfer window has been open for over a week which means there is increased activity as managers look to make additions early ahead of the new campaign.",
+          "link": "https://www.scotsman.com/sport/football/celtic/scottish-transfers-rangers-ace-wanted-celtic-eye-trio-plus-12-goal-midfielder-hearts-make-right-back-move-4194141",
+          "publishedOn": "2023-06-23T07:54:15.000Z",
+          "wordCount": null,
+          "title": "Scottish transfers: Rangers ace wanted, Celtic eye trio plus 12-goal midfielder, Hearts make right-back move",
+          "imageUrl": null
+        },
+        {
           "id": "4193943",
           "author": "Andrew Smith",
           "description": "Brendan Rodgers sought to park the “nostalgia” of his first spell that yielded two trebles and seven straight trophies as he targeted opening up a new frontier across his second stint at Celtic.",
@@ -254,16 +274,6 @@
           "wordCount": null,
           "title": "The Scotland qualification record which will be broken with a win over Georgia - 151 years, five in row in 1995",
           "imageUrl": null
-        },
-        {
-          "id": "4187315",
-          "author": "Moira Gordon",
-          "description": "Nights like the one Scotland savoured in the Ullevaal Stadium on Saturday do not come around often but, thanks to this squad and national boss Steve Clarke, they are becoming far less infrequent than they once were.",
-          "link": "https://www.scotsman.com/sport/football/international/scotland-have-been-here-before-but-steve-clarkes-side-have-shown-they-can-heed-2006-warning-4187315",
-          "publishedOn": "2023-06-18T19:40:48.000Z",
-          "wordCount": null,
-          "title": "Scotland have been here before - but Steve Clarke's side have shown they can heed 2006 warning",
-          "imageUrl": null
         }
       ]
     },
@@ -278,6 +288,46 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "4794eb96cb5f820a92dc308dd26c4f57",
+          "author": null,
+          "description": "The Celtic star shared a series of photos from his holiday in Greece.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23609015.celtic-star-matt-oriley-shows-off-abs-lush-holiday-snaps/?ref=rss",
+          "publishedOn": "2023-06-23T07:54:50.000Z",
+          "wordCount": 8372,
+          "title": "Celtic star Matt O'Riley shows off abs in lush holiday snaps",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16921255/?type=og-image"
+        },
+        {
+          "id": "210f6f70f84c8dcdc8532318125fff69",
+          "author": null,
+          "description": "Brendan Rodgers is reportedly plotting a Celtic K-League raid in the summer.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23608990.celtic-warned-k-league-side-wont-sanction-yang-transfer-exit/?ref=rss",
+          "publishedOn": "2023-06-23T07:44:25.000Z",
+          "wordCount": 8477,
+          "title": "Celtic warned K-League side 'won't sanction Yang transfer exit'",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16921122/?type=og-image"
+        },
+        {
+          "id": "40776f20610dd22c79add2083dc055ca",
+          "author": null,
+          "description": "Chris Sutton has slammed the Green Brigade's \"petted lip\" response to Brendan Rodgers' Celtic return.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23608872.chris-sutton-blasts-green-brigade-response-rodgers-celtic-return/?ref=rss",
+          "publishedOn": "2023-06-23T06:27:53.000Z",
+          "wordCount": 8711,
+          "title": "Chris Sutton blasts Green Brigade response to Rodgers Celtic return",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16921095/?type=og-image"
+        },
+        {
+          "id": "893cacd19c207b15292d9d83efa725bb",
+          "author": null,
+          "description": "MOVING from his native Iran to Scotland when he was just a teenager back in the early 2000s was challenging for Pedram Ardalany for a multitude of reasons.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23608605.celtic-great-tommy-burns-iranian-refugee-scotlands-future/?ref=rss",
+          "publishedOn": "2023-06-23T06:05:00.000Z",
+          "wordCount": 9507,
+          "title": "Celtic great Tommy Burns, the Iranian refugee and Scotland's future",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16920684/?type=og-image"
+        },
         {
           "id": "34a3a168bffe5c350d5ed37394ff0960",
           "author": null,
@@ -727,16 +777,6 @@
           "wordCount": 9604,
           "title": "Suarez hails Brendan Rodgers in Celtic Champions League prediction",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16902267/?type=og-image"
-        },
-        {
-          "id": "6475884677899f4b74d035f297e04e87",
-          "author": null,
-          "description": "The 50-year-old is expected to be announced as the successor to Ange Postecoglou.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23597332.brendan-rodgers-set-celtic-unveiling-dramatic-return-agreed/?ref=rss",
-          "publishedOn": "2023-06-18T19:10:41.000Z",
-          "wordCount": 8578,
-          "title": "Brendan Rodgers set for Celtic unveiling as dramatic return 'agreed'",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16901935/?type=og-image"
         }
       ]
     }
