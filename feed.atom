@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-22T21:16:56.548Z</updated>
+    <updated>2023-06-23T01:52:48.510Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Brendan Rodgers eyes new Celtic heights as he lifts lid on 'clear change' in recruitment and secret Callum McGregor lunch]]></title>
+        <id>4193943</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/brendan-rodgers-eyes-new-celtic-heights-as-he-lifts-lid-on-clear-change-in-recruitment-and-secret-callum-mcgregor-lunch-4193943"/>
+        <updated>2023-06-22T20:43:42.000Z</updated>
+        <summary type="html"><![CDATA[Brendan Rodgers sought to park the “nostalgia” of his first spell that yielded two trebles and seven straight trophies as he targeted opening up a new frontier across his second stint at Celtic.]]></summary>
+        <author>
+            <name>Andrew Smith</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Brendan Rodgers reveals how secret Callum McGregor meeting was key to Celtic return]]></title>
         <id>4193943</id>
@@ -14,6 +24,16 @@
         <summary type="html"><![CDATA[Brendan Rodgers sought to park the “nostalgia” of his first spell that yielded two trebles and seven straight trophies as he targeted opening up a new frontier across his second stint at Celtic.]]></summary>
         <author>
             <name>Andrew Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brendan Rodgers reveals secret Celtic briefing with Callum McGregor]]></title>
+        <id>dcf14b8222f342d48d76900569598d01</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23608756.brendan-rodgers-reveals-secret-celtic-briefing-callum-mcgregor/?ref=rss"/>
+        <updated>2023-06-22T20:19:00.000Z</updated>
+        <summary type="html"><![CDATA[Brendan Rodgers has revealed he met with club captain Callum McGregor in Majorca.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
     <entry>
@@ -722,16 +742,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23597069.kenny-dalglish-delivers-brendan-rodgers-celtic-prediction/?ref=rss"/>
         <updated>2023-06-18T14:11:08.000Z</updated>
         <summary type="html"><![CDATA[Speaking to the Sunday Post, he said: "I said last week Celtic should be looking for someone similar to Ange in terms of the style of football, and that's why I can see the logic in this move. Brendan will look to be very successful again and want to make an impact in the Champions League.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reo Hatate reveals Premier League scouting mission to improve his game]]></title>
-        <id>03ca73000bc21b2da23342b57484a282</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23597007.reo-hatate-reveals-premier-league-scouting-mission-improve-game/?ref=rss"/>
-        <updated>2023-06-18T13:20:35.000Z</updated>
-        <summary type="html"><![CDATA[Speaking to Soccer Digest, he said: “I think Kaoru is leading the national team, so I want to show my value when I go out too. I don’t want to be pulled along, I want to be an equal.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
