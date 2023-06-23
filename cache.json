@@ -6,6 +6,36 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4194722",
+          "author": "Joel Sked",
+          "description": "The SPFL have confirmed more than five million fans attended matches in all competitions last season, setting a new record.",
+          "link": "https://www.scotsman.com/sport/football/celtic/the-spfl-attendance-record-revealed-as-scotland-has-highest-number-of-match-going-supporters-in-europe-again-4194722",
+          "publishedOn": "2023-06-23T11:28:49.000Z",
+          "wordCount": null,
+          "title": "The SPFL attendance record revealed as Scotland has highest number of match-going supporters in Europe again",
+          "imageUrl": null
+        },
+        {
+          "id": "4194636",
+          "author": "Joel Sked",
+          "description": "Celtic manager Brendan Rodgers will be unveiled to the media this afternoon as he gets to work for his second spell leading the Scottish champions – and he may look to recruit for four different positions.",
+          "link": "https://www.scotsman.com/sport/football/celtic/ex-celtic-star-pinpoints-the-4-positions-brendan-rodgers-may-look-to-strengthen-with-ps30m-war-chest-4194636",
+          "publishedOn": "2023-06-23T10:54:15.000Z",
+          "wordCount": null,
+          "title": "Ex-Celtic star pinpoints the 4 positions Brendan Rodgers may look to strengthen with £30m war chest",
+          "imageUrl": null
+        },
+        {
+          "id": "4194242",
+          "author": "Joel Sked",
+          "description": "Celtic’s appointment of Brendan Rodgers was to ensure continued domestic dominance rather than for an impact in European football, claims Kris Boyd.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtics-brendan-rodgers-appointment-because-of-rangers-threat-as-kris-boyd-makes-miles-off-it-euro-claim-4194242",
+          "publishedOn": "2023-06-23T08:19:39.000Z",
+          "wordCount": null,
+          "title": "Celtic's Brendan Rodgers appointment because of Rangers 'threat' as Kris Boyd makes 'miles off it' Euro claim",
+          "imageUrl": null
+        },
+        {
           "id": "4194242",
           "author": "Joel Sked",
           "description": "Celtic’s appointment of Brendan Rodgers was to ensure continued domestic dominance rather than for an impact in European football, claims Kris Boyd.",
@@ -288,6 +318,46 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "41723efb2d3f9a3f5b05cfa5d3fc552d",
+          "author": null,
+          "description": "Celtic are set to form a partnership with Austrian second-tier side Admira Wacker.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23609855.celtic-set-form-feeder-club-partnership-european-side/?ref=rss",
+          "publishedOn": "2023-06-23T11:23:59.000Z",
+          "wordCount": 8475,
+          "title": "Celtic set to form feeder club partnership with European side",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16922533/?type=og-image"
+        },
+        {
+          "id": "2ec0026286a39d22f3713bb407f58974",
+          "author": null,
+          "description": "A major Celtic backer has taken over Glasgow's iconic North Rotunda, home to Cranside Kitchen.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23609830.celtic-fc-investor-takes-home-glasgow-cranside-kitchen/?ref=rss",
+          "publishedOn": "2023-06-23T11:17:49.000Z",
+          "wordCount": 8440,
+          "title": "Celtic FC  investor takes over home of Glasgow Cranside Kitchen",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16922514/?type=og-image"
+        },
+        {
+          "id": "b2956d1f9d1578a755c39253a8bc4053",
+          "author": null,
+          "description": "Tang Hyun-jun's agents have accused his club of moving the goalposts after they blocked his dream move to Celtic.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23609198.yang-extremely-frustrated-dream-celtic-transfer-blocked/?ref=rss",
+          "publishedOn": "2023-06-23T08:51:30.000Z",
+          "wordCount": 8468,
+          "title": "Yang 'extremely frustrated' as dream Celtic transfer blocked",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16921550/?type=og-image"
+        },
+        {
+          "id": "eae5ac5cc7adb1565692fdc64725d81c",
+          "author": null,
+          "description": "Celtic Park has been rated as the best stadium in Europe in a new report.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23609151.celtic-park-rated-best-stadium-europe-rangers-ibrox-ranked/?ref=rss",
+          "publishedOn": "2023-06-23T08:36:16.000Z",
+          "wordCount": 8562,
+          "title": "Celtic Park rated best stadium in Europe as Rangers' Ibrox ranked",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16921339/?type=og-image"
+        },
         {
           "id": "4794eb96cb5f820a92dc308dd26c4f57",
           "author": null,
