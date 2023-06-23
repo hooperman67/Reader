@@ -264,26 +264,6 @@
           "wordCount": null,
           "title": "Scotland have been here before - but Steve Clarke's side have shown they can heed 2006 warning",
           "imageUrl": null
-        },
-        {
-          "id": "4187258",
-          "author": "Matthew Elder",
-          "description": "John McGinn has stressed the need for Scotland to back up their stunning victory in Oslo with another three points against Georgia at Hampden on Tuesday.",
-          "link": "https://www.scotsman.com/sport/football/international/i-know-im-not-supposed-to-john-mcginn-admission-over-scotland-inspiration-behind-norway-comeback-win-4187258",
-          "publishedOn": "2023-06-18T16:12:12.000Z",
-          "wordCount": null,
-          "title": "'I know I'm not supposed to' - John McGinn admission over Scotland inspiration behind Norway comeback win",
-          "imageUrl": null
-        },
-        {
-          "id": "4187245",
-          "author": "Oliver Anderson",
-          "description": "Scotland Under-21s followed their senior counterparts in coming from behind to claim a result against Norway.",
-          "link": "https://www.scotsman.com/sport/football/international/scotland-under-21s-almost-emulate-seniors-after-coming-from-behind-against-norway-two-celtic-and-two-rangers-starlets-start-4187245",
-          "publishedOn": "2023-06-18T15:45:22.000Z",
-          "wordCount": null,
-          "title": "Scotland Under-21s almost emulate seniors after coming from behind against Norway - two Celtic and two Rangers starlets start",
-          "imageUrl": null
         }
       ]
     },
@@ -298,6 +278,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "34a3a168bffe5c350d5ed37394ff0960",
+          "author": null,
+          "description": "The returning Parkhead manager will sit down with the media on Friday afternoon.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23608819.5-things-expect-brendan-rodgers-celtic-unveiling/?ref=rss",
+          "publishedOn": "2023-06-23T05:00:00.000Z",
+          "wordCount": 9330,
+          "title": "5 things to expect from Brendan Rodgers' Celtic unveiling",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16921023/?type=og-image"
+        },
         {
           "id": "dcf14b8222f342d48d76900569598d01",
           "author": null,
