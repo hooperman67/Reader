@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4195646",
+          "author": "Andrew Smith",
+          "description": "Brendan Rodgers has delivered a riposte to the Green Brigade over their tweeted objection to his return as Celtic manager.",
+          "link": "https://www.scotsman.com/sport/football/celtic/brendan-rodgers-breaks-silence-on-green-brigade-tweet-as-celtic-boss-addresses-fraud-and-mediocrity-banner-4195646",
+          "publishedOn": "2023-06-23T21:30:00.000Z",
+          "wordCount": null,
+          "title": "Brendan Rodgers breaks silence on Green Brigade tweet as Celtic boss addresses 'fraud' and 'mediocrity' banner",
+          "imageUrl": null
+        },
+        {
           "id": "4195651",
           "author": "Alan Pattullo",
           "description": "There have been few more dynamic illustrations of football’s crazily-paved path than the re-unveiling of a Celtic manager four years after he staged a midnight flit to Leicester City.",
@@ -293,46 +303,6 @@
           "publishedOn": "2023-06-19T14:25:30.000Z",
           "wordCount": null,
           "title": "What are Scotland's chances of qualifying for Euro 2024 - and the surprise seeding likelihood",
-          "imageUrl": null
-        },
-        {
-          "id": "4188227",
-          "author": "Joel Sked",
-          "description": "Scotland go in search of a fourth consecutive win in qualification for Euro 2024 when they host Georgia on Tuesday night.",
-          "link": "https://www.scotsman.com/sport/football/what-channel-is-scotland-v-georgia-on-euro-2024-info-tv-details-kick-off-time-team-news-referee-4188227",
-          "publishedOn": "2023-06-19T13:30:45.000Z",
-          "wordCount": null,
-          "title": "What channel is Scotland v Georgia on? Euro 2024 info, TV details, kick-off time, team news, referee",
-          "imageUrl": null
-        },
-        {
-          "id": "4187892",
-          "author": "Joel Sked",
-          "description": "Celtic have confirmed the return of Brendan Rodgers as the club’s new manager, taking over from Ange Postecoglou.",
-          "link": "https://www.scotsman.com/sport/football/celtic/celtic-confirm-brendan-rodgers-return-contract-length-what-he-said-coaching-staff-revealed-4187892",
-          "publishedOn": "2023-06-19T12:29:56.000Z",
-          "wordCount": null,
-          "title": "Celtic confirm Brendan Rodgers return - contract length, what he said, coaching staff revealed",
-          "imageUrl": null
-        },
-        {
-          "id": "4188063",
-          "author": "Joel Sked",
-          "description": "Celtic chairman Peter Lawwell has hailed Brendan Rodgers as the “outstanding candidate” to replace Ange Postecoglou.",
-          "link": "https://www.scotsman.com/sport/football/celtic/why-brendan-rodgers-is-outstanding-candidate-for-celtic-board-as-many-potential-options-considered-4188063",
-          "publishedOn": "2023-06-19T12:18:55.000Z",
-          "wordCount": null,
-          "title": "Why Brendan Rodgers is 'outstanding candidate' for Celtic board as 'many' potential options considered",
-          "imageUrl": null
-        },
-        {
-          "id": "4187678",
-          "author": "Joel Sked",
-          "description": "Later this year Scotland will host England at Hampden Park in, as the Scottish FA put it, “a special 150th Anniversary Heritage Match to mark the first meeting between the two sides in 1872”.",
-          "link": "https://www.scotsman.com/sport/football/the-scotland-qualification-record-which-will-be-broken-with-a-win-over-georgia-151-years-five-in-row-in-1995-4187678",
-          "publishedOn": "2023-06-19T09:44:34.000Z",
-          "wordCount": null,
-          "title": "The Scotland qualification record which will be broken with a win over Georgia - 151 years, five in row in 1995",
           "imageUrl": null
         }
       ]
@@ -857,96 +827,6 @@
           "wordCount": 9811,
           "title": "Ex-Celtic boss Neil Lennon details return to management offers",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16904680/?type=og-image"
-        },
-        {
-          "id": "d82318dbedac33d549254735210eef23",
-          "author": null,
-          "description": "The Parkhead board explained why they brought the Northern Irishman back to Glasgow.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23598700.celtics-board-react-brendan-rodgers-appointment/?ref=rss",
-          "publishedOn": "2023-06-19T12:35:00.000Z",
-          "wordCount": 8535,
-          "title": "Celtic's board react to Brendan Rodgers appointment",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16904109/?type=og-image"
-        },
-        {
-          "id": "233ee7de606e54c9b547651f537a4b53",
-          "author": null,
-          "description": "Brendan Rodgers has returned to Celtic to become manager after Ange Postecoglou's exit for Tottenham.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23598688.celtic-fans-react-brendan-rodgers-completes-return/?ref=rss",
-          "publishedOn": "2023-06-19T12:23:14.000Z",
-          "wordCount": 9808,
-          "title": "Celtic fans react as Brendan Rodgers completes return",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16904008/?type=og-image"
-        },
-        {
-          "id": "af0e8fb47ba9c68b01d3de24fc4629df",
-          "author": null,
-          "description": "The Northern Irishman has penned a three-year deal at Parkhead and he replaces Ange Postecoglou who left for Tottenham Hotspur two weeks ago.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23598555.chris-sutton-reacts-celtics-brendan-rodgers-appointment/?ref=rss",
-          "publishedOn": "2023-06-19T11:51:55.000Z",
-          "wordCount": 8491,
-          "title": "Chris Sutton reacts to Celtic's Brendan Rodgers appointment",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16049673/?type=og-image"
-        },
-        {
-          "id": "cbc6a5e5586df364a7dd92f8c79218e9",
-          "author": null,
-          "description": "Rodgers replaces Ange Postecoglou four years and four months after his sudden departure to Leicester.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23598519.brendan-rodgers-celtic-appointment-met-green-brigade-fury/?ref=rss",
-          "publishedOn": "2023-06-19T11:44:23.000Z",
-          "wordCount": 9571,
-          "title": "Brendan Rodgers Celtic appointment met with Green Brigade fury",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16903844/?type=og-image"
-        },
-        {
-          "id": "446de8a707caef92d589b23ecf450a1f",
-          "author": null,
-          "description": "Brendan Rodgers' backroom team has been confirmed",
-          "link": "https://www.glasgowtimes.co.uk/sport/23598481.celtic-confirm-brendan-rodgers-backroom-team-lineup/?ref=rss",
-          "publishedOn": "2023-06-19T11:33:42.000Z",
-          "wordCount": 8537,
-          "title": "Celtic confirm Brendan Rodgers' backroom team lineup",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16903779/?type=og-image"
-        },
-        {
-          "id": "c771b488c96dca4cddd52daa26f1d883",
-          "author": null,
-          "description": "The Northern Irishman has signed a three-year deal at Parkhead, where he returns after a hugely successful first spell at the club.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23598446.peter-lawwell-hails-outstanding-brendan-rodgers-celtic-return/?ref=rss",
-          "publishedOn": "2023-06-19T11:24:34.000Z",
-          "wordCount": 9581,
-          "title": "Peter Lawwell hails 'outstanding' Brendan Rodgers after Celtic return",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16882877/?type=og-image"
-        },
-        {
-          "id": "9b62a24b0a29f096c92764af21be8610",
-          "author": null,
-          "description": "The 50-year-old has signed a three-year deal to take over at Parkhead for a second time.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23598404.brendan-rodgers-addresses-celtic-fans-makes-return-promise/?ref=rss",
-          "publishedOn": "2023-06-19T11:14:58.000Z",
-          "wordCount": 8609,
-          "title": "Brendan Rodgers addresses Celtic fans as he makes return promise",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16903976/?type=og-image"
-        },
-        {
-          "id": "ac70998b73dca456517eef624e68a982",
-          "author": null,
-          "description": "The Arsenal defender limped out of Saturday's stunning win over Norway.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23598183.kieran-tierney-injury-fears-eased-arsenal-star-trains-scotland/?ref=rss",
-          "publishedOn": "2023-06-19T10:26:20.000Z",
-          "wordCount": 8703,
-          "title": "Kieran Tierney injury fears eased as Arsenal star trains for Scotland",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16903254/?type=og-image"
-        },
-        {
-          "id": "4d9667d93f97e8eca7615e5cf6faeaff",
-          "author": null,
-          "description": "The 20-year-old left-back was one of Saints' key performers last season, working under both Callum Davidson and Steven MacLean.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23598125.scott-brown-eyes-adam-montgomery-celtic-swoop-successful-loans/?ref=rss",
-          "publishedOn": "2023-06-19T10:12:58.000Z",
-          "wordCount": 8817,
-          "title": "Scott Brown eyes Adam Montgomery Celtic swoop after successful loans",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16903127/?type=og-image"
         }
       ]
     }
