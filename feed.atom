@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-24T06:24:22.752Z</updated>
+    <updated>2023-06-24T09:17:44.628Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[John Hartson in Brendan Rodgers U-turn after Celtic return]]></title>
+        <id>98f6d7549f1ebccee6ae23372cd88735</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23611659.john-hartson-brendan-rodgers-u-turn-celtic-return/?ref=rss"/>
+        <updated>2023-06-24T08:38:47.000Z</updated>
+        <summary type="html"><![CDATA[John Hartson has backtracked on his comments suggesting Brendan Rodgers had "made a fool" of him by leaving Celtic for Leicester.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brendan Rodgers explains his lack of Celtic apology for Leicester move and points to Kieran Tierney parallel]]></title>
+        <id>4195663</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/brendan-rodgers-explains-his-lack-of-celtic-apology-for-leicester-move-and-points-to-kieran-tierney-parallel-4195663"/>
+        <updated>2023-06-24T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There is a little known fact that relates to Brendan Rodgers’ first stint at Celtic.]]></summary>
+        <author>
+            <name>Andrew Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scottish transfers: Rangers ace admission, Celtic close in on highly-rated star, Dundee United duo to exit]]></title>
+        <id>4195694</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/scottish-transfers-rangers-ace-admission-celtic-close-in-on-highly-rated-star-dundee-united-duo-to-exit-4195694"/>
+        <updated>2023-06-24T06:42:35.000Z</updated>
+        <summary type="html"><![CDATA[It is just three weeks until the new Scottish football season gets under way with the Viaplay Cup group stages. That leaves clubs plenty of time to get transfer business done.]]></summary>
+        <author>
+            <name>Joel Sked</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Every word from Brendan Rodgers' gripping Celtic Q&A]]></title>
         <id>e15f69304b2641e0f83f42babf8180d7</id>
@@ -764,16 +794,6 @@
         <summary type="html"><![CDATA[Scotland manager Steve Clarke refuses to allow the national team’s fateful history with Georgia to give him the fear - or place any store in a qualification first that would be accomplished against these opponents were his men to extend their faultless record to four wins in the tilt for Euro 2024.]]></summary>
         <author>
             <name>Andrew Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Brendan Rodgers, not Celtic and supporters should be grateful - Safe bet, Rangers record, Gerrard link]]></title>
-        <id>4188719</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/why-brendan-rodgers-not-celtic-and-supporters-should-be-grateful-safe-bet-rangers-record-gerrard-link-4188719"/>
-        <updated>2023-06-19T20:22:00.000Z</updated>
-        <summary type="html"><![CDATA[‘Brendan Rodgers’ Green and White Army’ was the chant from the estimated 10,000 fans at Celtic Park seven years ago. The club were unveiling their new manager in May 2016 and it was a huge deal.]]></summary>
-        <author>
-            <name>Joel Sked</name>
         </author>
     </entry>
 </feed>
