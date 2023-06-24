@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4195899",
+          "author": "Joel Sked",
+          "description": "Scottish FA chief Ian Maxwell has revealed he was fielding calls from UEFA during the suspension of Scotland’s Euro 2024 qualifier with Georgia on Tuesday night.",
+          "link": "https://www.scotsman.com/international/scotland/scotland-v-georgia-desperation-to-finish-the-game-revealed-sfas-ps15m-concern-player-insurance-issue-4195899",
+          "publishedOn": "2023-06-24T16:00:04.000Z",
+          "wordCount": null,
+          "title": "Scotland v Georgia: Desperation to finish the game revealed, SFA's £1.5m concern, player insurance issue",
+          "imageUrl": null
+        },
+        {
           "id": "4195813",
           "author": "Joel Sked",
           "description": "Scotland will travel to Seville for their Euro 2024 qualifier with Spain later this year, it has been confirmed.",
@@ -318,6 +328,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "76a3bfb2955bb12170884208006ae58a",
+          "author": null,
+          "description": "Brendan Rodgers was \"better than Leicester\", that's the opinion of John Collins.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23612108.brendan-rodgers-better-leicester-claims-pundit/?ref=rss",
+          "publishedOn": "2023-06-24T15:44:29.000Z",
+          "wordCount": 8596,
+          "title": "Brendan Rodgers was 'better than Leicester' claims pundit",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16926435/?type=og-image"
+        },
         {
           "id": "2f202cb9a97f1c4e16528994f9604b8f",
           "author": null,
@@ -807,16 +827,6 @@
           "wordCount": 9712,
           "title": "Charlie Nicholas reveals 'his issue' with Celtic chief Dermot Desmond",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16907232/?type=og-image"
-        },
-        {
-          "id": "3d412bf3b5d9dd0b0db91fdd7d04f40f",
-          "author": null,
-          "description": "Michael Beale and Brendan Rodgers both have the gift of the gab. Soon it will be time to do their talking on pitch.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23599081.michael-beales-rangers-must-provide-rodgers-toughest-celtic-task/?ref=rss",
-          "publishedOn": "2023-06-20T06:00:00.000Z",
-          "wordCount": 9049,
-          "title": "Michael Beale's Rangers must provide Rodgers with toughest Celtic task",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16904721/?type=og-image"
         }
       ]
     }

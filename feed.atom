@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-24T15:18:40.504Z</updated>
+    <updated>2023-06-24T18:23:15.198Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Scotland v Georgia: Desperation to finish the game revealed, SFA's £1.5m concern, player insurance issue]]></title>
+        <id>4195899</id>
+        <link href="https://www.scotsman.com/international/scotland/scotland-v-georgia-desperation-to-finish-the-game-revealed-sfas-ps15m-concern-player-insurance-issue-4195899"/>
+        <updated>2023-06-24T16:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Scottish FA chief Ian Maxwell has revealed he was fielding calls from UEFA during the suspension of Scotland’s Euro 2024 qualifier with Georgia on Tuesday night.]]></summary>
+        <author>
+            <name>Joel Sked</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brendan Rodgers was 'better than Leicester' claims pundit]]></title>
+        <id>76a3bfb2955bb12170884208006ae58a</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23612108.brendan-rodgers-better-leicester-claims-pundit/?ref=rss"/>
+        <updated>2023-06-24T15:44:29.000Z</updated>
+        <summary type="html"><![CDATA[Brendan Rodgers was "better than Leicester", that's the opinion of John Collins.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Reason behind Celtic Brendan Rodgers contract length explained]]></title>
         <id>2f202cb9a97f1c4e16528994f9604b8f</id>
@@ -792,16 +812,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23600278.charlie-nicholas-reveals-his-issue-celtic-chief-dermot-desmond/?ref=rss"/>
         <updated>2023-06-20T06:46:26.000Z</updated>
         <summary type="html"><![CDATA[Charlie Nicholas has given his take on Celtic's decision to appoint Brendan Rodgers as manager as he took aim at majority shareholder Dermot Desmond.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Michael Beale's Rangers must provide Rodgers with toughest Celtic task]]></title>
-        <id>3d412bf3b5d9dd0b0db91fdd7d04f40f</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23599081.michael-beales-rangers-must-provide-rodgers-toughest-celtic-task/?ref=rss"/>
-        <updated>2023-06-20T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Michael Beale and Brendan Rodgers both have the gift of the gab. Soon it will be time to do their talking on pitch.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
