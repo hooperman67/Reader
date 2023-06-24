@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-24T18:23:15.198Z</updated>
+    <updated>2023-06-24T21:16:13.898Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -782,36 +782,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23600772.watch-celtic-winger-mikey-johnston-net-first-ireland-goal/?ref=rss"/>
         <updated>2023-06-20T09:40:28.000Z</updated>
         <summary type="html"><![CDATA[The winger chose to represent the Republic of Ireland this year after receiving a call-up.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brendan Rodgers' Celtic salary and transfer pot revealed]]></title>
-        <id>82c6b9f818753c9b70b1d60c46d14695</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23600355.brendan-rodgers-celtic-salary-transfer-pot-revealed/?ref=rss"/>
-        <updated>2023-06-20T07:46:21.000Z</updated>
-        <summary type="html"><![CDATA[Celtic confirmed Rodgers had signed a three-year contract to replace Ange Postecoglou as manager yesterday.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Martin O'Neill details how Brendan Rodgers can win over Celtic fans]]></title>
-        <id>90dce1ab79a4973c0e8a2913a5cfa3bf</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23600299.martin-oneill-details-brendan-rodgers-can-win-celtic-fans/?ref=rss"/>
-        <updated>2023-06-20T07:04:38.000Z</updated>
-        <summary type="html"><![CDATA[Former Celtic manager Martin O’Neill believes winning games will soon win over fans who are sceptical about the return of Brendan Rodgers.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Charlie Nicholas reveals 'his issue' with Celtic chief Dermot Desmond]]></title>
-        <id>a0af0c9bcefd2dfc8753128fdf6e384e</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23600278.charlie-nicholas-reveals-his-issue-celtic-chief-dermot-desmond/?ref=rss"/>
-        <updated>2023-06-20T06:46:26.000Z</updated>
-        <summary type="html"><![CDATA[Charlie Nicholas has given his take on Celtic's decision to appoint Brendan Rodgers as manager as he took aim at majority shareholder Dermot Desmond.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
