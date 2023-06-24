@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-24T03:28:40.406Z</updated>
+    <updated>2023-06-24T06:24:22.752Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Every word from Brendan Rodgers' gripping Celtic Q&A]]></title>
+        <id>e15f69304b2641e0f83f42babf8180d7</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23611440.every-word-brendan-rodgers-gripping-celtic-q/?ref=rss"/>
+        <updated>2023-06-24T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The returning Parkhead manager sat down with daily newspapers for a wide-ranging interview.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Brendan Rodgers breaks silence on Green Brigade tweet as Celtic boss addresses 'fraud' and 'mediocrity' banner]]></title>
         <id>4195646</id>
@@ -764,16 +774,6 @@
         <summary type="html"><![CDATA[‘Brendan Rodgers’ Green and White Army’ was the chant from the estimated 10,000 fans at Celtic Park seven years ago. The club were unveiling their new manager in May 2016 and it was a huge deal.]]></summary>
         <author>
             <name>Joel Sked</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Date set for Brendan Rodgers first press conference back at Celtic]]></title>
-        <id>afa99981921887c94a1a88035aae20e3</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23599829.date-set-brendan-rodgers-first-press-conference-back-celtic/?ref=rss"/>
-        <updated>2023-06-19T16:17:56.000Z</updated>
-        <summary type="html"><![CDATA[Brendan Rodgers will face the media for the first time since his return later this week.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>

@@ -309,6 +309,16 @@
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
         {
+          "id": "e15f69304b2641e0f83f42babf8180d7",
+          "author": null,
+          "description": "The returning Parkhead manager sat down with daily newspapers for a wide-ranging interview.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23611440.every-word-brendan-rodgers-gripping-celtic-q/?ref=rss",
+          "publishedOn": "2023-06-24T05:00:00.000Z",
+          "wordCount": 9899,
+          "title": "Every word from Brendan Rodgers' gripping Celtic Q&A",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16925409/?type=og-image"
+        },
+        {
           "id": "191d51b3b5d422c7f44e79ae16219d13",
           "author": null,
           "description": "Rodgers has usually taken charge of clubs at the end of a difficult period, but he believes it is different this time at Celtic.",
@@ -777,16 +787,6 @@
           "wordCount": 9049,
           "title": "Michael Beale's Rangers must provide Rodgers with toughest Celtic task",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16904721/?type=og-image"
-        },
-        {
-          "id": "afa99981921887c94a1a88035aae20e3",
-          "author": null,
-          "description": "Brendan Rodgers will face the media for the first time since his return later this week.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23599829.date-set-brendan-rodgers-first-press-conference-back-celtic/?ref=rss",
-          "publishedOn": "2023-06-19T16:17:56.000Z",
-          "wordCount": 9673,
-          "title": "Date set for Brendan Rodgers first press conference back at Celtic",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16906356/?type=og-image"
         }
       ]
     }
