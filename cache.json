@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4196052",
+          "author": "Matthew Elder",
+          "description": "With the new campaign not for away, Celtic and Rangers are ramping up their transfer activity in their bid to become the dominant force in Scottish football next season...",
+          "link": "https://www.scotsman.com/sport/football/old-firm-transfers-celtic-to-swoop-for-striker-after-rangers-rejection-but-ps7m-forward-set-for-ibrox-this-week-4196052",
+          "publishedOn": "2023-06-25T09:45:15.000Z",
+          "wordCount": null,
+          "title": "Old Firm transfers: Celtic to swoop for striker after Rangers rejection - but £7m forward set for Ibrox 'this week'",
+          "imageUrl": null
+        },
+        {
           "id": "4195768",
           "author": "Andrew Smith",
           "description": "It is not heretical to suggest Celtic supporters could find more favour with the credo expressed by Brendan Rodgers than predecessor Ange Postecoglou over the club’s playing approach in European competition.",
@@ -304,16 +314,6 @@
           "wordCount": null,
           "title": "Scotland reaction: Georgia boss' 'massive UEFA pressure claim', Clarke's longest day, midfielder's 'rattled' verdict",
           "imageUrl": null
-        },
-        {
-          "id": "4190637",
-          "author": "Moira Gordon",
-          "description": "Scotland kept up their 100 per cent record in Group A of the Euro 2024 qualifiers with a win over Georgia.",
-          "link": "https://www.scotsman.com/sport/football/scotland-player-ratings-the-men-who-had-tartan-army-dancing-in-rain-as-only-three-players-dip-below-8-4190637",
-          "publishedOn": "2023-06-20T22:35:12.000Z",
-          "wordCount": null,
-          "title": "Scotland player ratings: the men who had Tartan Army dancing in rain as only three players dip below 8",
-          "imageUrl": null
         }
       ]
     },
@@ -328,6 +328,26 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "c964adc277c2a0ce6f68cd105fe4ab3f",
+          "author": null,
+          "description": "The Japanese international is a wanted man after a stunning treble-winning campaign for the Hoops.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23612595.kyogos-celtic-price-tag-detailed-postecoglou-plots-tottenham-raid/?ref=rss",
+          "publishedOn": "2023-06-25T11:12:30.000Z",
+          "wordCount": 8575,
+          "title": "Kyogo's Celtic price tag detailed as Postecoglou plots Tottenham raid",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16927285/?type=og-image"
+        },
+        {
+          "id": "4956212eff826e14140cb41ee513ef4f",
+          "author": null,
+          "description": "Brendan Rodgers insists James Forrest still has a big future at Celtic, despite game time being limited last term.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23612507.brendan-rodgers-offers-james-forrest-celtic-future-clue/?ref=rss",
+          "publishedOn": "2023-06-25T09:45:57.000Z",
+          "wordCount": 8524,
+          "title": "Brendan Rodgers offers James Forrest Celtic future clue",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16927160/?type=og-image"
+        },
         {
           "id": "5c093e180f5055add9e40f7a65376ad1",
           "author": null,
@@ -777,16 +797,6 @@
           "wordCount": 9331,
           "title": "The Celtic transfers Brendan Rodgers could target this summer",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16912040/?type=og-image"
-        },
-        {
-          "id": "8c2351d373a2d2fd3dd7a4fbd0f63fb1",
-          "author": null,
-          "description": "Callum McGregor last night admitted he was adamant the match against Georgia be played to a conclusion - so that his opener would count.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23603260.mcgregor-details-scotland-vs-georgia-delay-reveals-break-plans/?ref=rss",
-          "publishedOn": "2023-06-20T23:05:49.000Z",
-          "wordCount": 8514,
-          "title": "McGregor details Scotland vs Georgia delay discussions",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16912297/?type=og-image"
         }
       ]
     }
