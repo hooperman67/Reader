@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-25T15:18:49.527Z</updated>
+    <updated>2023-06-25T18:23:08.697Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -784,16 +784,6 @@
         <summary type="html"><![CDATA[It was quite the night at Hampden as Scotland defeated Georgia 2-0 to maintain their 100 per cent record in Group A of the Euro 2024 qualifiers.]]></summary>
         <author>
             <name>Alan Pattullo and Mark Atkinson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Celtic transfers Brendan Rodgers could target this summer]]></title>
-        <id>61408587d3303e9965e686654835ec39</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23603101.celtic-transfers-brendan-rodgers-target-summer/?ref=rss"/>
-        <updated>2023-06-21T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The new Parkhead manager will be tasked with improving a squad which won the treble last season.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>
