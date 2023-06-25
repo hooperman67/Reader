@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-25T18:23:08.697Z</updated>
+    <updated>2023-06-25T21:16:20.071Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -764,26 +764,6 @@
         <summary type="html"><![CDATA[Kyogo Furuhashi insists he hasn't thought about his future under Brendan Rodgers at Celtic and is just desperate for a holiday.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Callum McGregor calls for Celtic unity as he reacts to Rodgers return]]></title>
-        <id>2902e510b00d435fd576af9a7dabea0c</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23603446.callum-mcgregor-calls-celtic-unity-reacts-rodgers-return/?ref=rss"/>
-        <updated>2023-06-21T07:55:46.000Z</updated>
-        <summary type="html"><![CDATA[Celtic confirmed Rodgers had signed a three-year contract to replace Ange Postecoglou as manager.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scotland reaction: Georgia boss' 'massive UEFA pressure claim', Clarke's longest day, midfielder's 'rattled' verdict]]></title>
-        <id>4190642</id>
-        <link href="https://www.scotsman.com/sport/football/scotland-reaction-georgia-boss-massive-uefa-pressure-claim-clarkes-longest-day-midfielders-rattled-verdict-4190642"/>
-        <updated>2023-06-21T06:30:00.000Z</updated>
-        <summary type="html"><![CDATA[It was quite the night at Hampden as Scotland defeated Georgia 2-0 to maintain their 100 per cent record in Group A of the Euro 2024 qualifiers.]]></summary>
-        <author>
-            <name>Alan Pattullo and Mark Atkinson</name>
         </author>
     </entry>
 </feed>
