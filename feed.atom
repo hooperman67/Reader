@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-25T12:37:20.913Z</updated>
+    <updated>2023-06-25T15:18:49.527Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ange Postecoglou and Spurs 'targeting third Celtic transfer']]></title>
+        <id>4feceac51575bb6f9bd829621f7b116f</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23612701.ange-postecoglou-spurs-targeting-third-celtic-transfer/?ref=rss"/>
+        <updated>2023-06-25T13:24:46.000Z</updated>
+        <summary type="html"><![CDATA[After the Aussie's move from Glasgow to London, star duo Kyogo Furuhashi and Reo Hatate have already been heavily linked to Spurs.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kyogo's Celtic price tag detailed as Postecoglou plots Tottenham raid]]></title>
         <id>c964adc277c2a0ce6f68cd105fe4ab3f</id>
