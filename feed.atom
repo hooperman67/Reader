@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-25T02:04:04.605Z</updated>
+    <updated>2023-06-25T03:34:53.075Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -744,16 +744,6 @@
         <summary type="html"><![CDATA[Scotland’s match against Georgia recommended at 9.30pm following a near 90-minute delay to the match due to a waterlogged pitch.]]></summary>
         <author>
             <name>Mark Atkinson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scotland v Georgia: Sagnol's mind games nonsense, Clarke's selection question, threat of 5, cusp of history]]></title>
-        <id>4190051</id>
-        <link href="https://www.scotsman.com/sport/football/scotland-v-georgia-sagnols-mind-games-nonsense-clarkes-selection-question-threat-of-5-cusp-of-history-4190051"/>
-        <updated>2023-06-20T14:44:42.000Z</updated>
-        <summary type="html"><![CDATA[Scotland go in search of history at Hampden Park this evening against Georgia. Never has the national team started a qualifying campaign with four straight wins. Steve Clarke’s men have the opportunity to do just that with Cyprus, Spain and Norway in the rearview mirror.]]></summary>
-        <author>
-            <name>Joel Sked</name>
         </author>
     </entry>
 </feed>
