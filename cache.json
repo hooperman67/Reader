@@ -6,6 +6,36 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4195768",
+          "author": "Andrew Smith",
+          "description": "It is not heretical to suggest Celtic supporters could find more favour with the credo expressed by Brendan Rodgers than predecessor Ange Postecoglou over the club’s playing approach in European competition.",
+          "link": "https://www.scotsman.com/sport/football/celtic/brendan-rodgers-breaks-with-ange-postecoglou-over-celtics-approach-in-europe-i-wont-be-averse-to-a-bit-of-pragmatism-4195768",
+          "publishedOn": "2023-06-25T07:00:00.000Z",
+          "wordCount": null,
+          "title": "Brendan Rodgers breaks with Ange Postecoglou over Celtic's approach in Europe - 'I won't be averse to a bit of pragmatism'",
+          "imageUrl": null
+        },
+        {
+          "id": "4195881",
+          "author": "Joel Sked",
+          "description": "The transfer window has been open for less than two weeks but cinch Premiership sides have already been active, some more than others. In total 26 signings have been confirmed. Many of the names are familiar to Scottish football fans but there are some who will be new to the game north of the border. The Scotsman looks at some of those newcomers and what we can expect...",
+          "link": "https://www.scotsman.com/sport/football/celtic/5-most-interesting-premiership-newcomers-celtics-in-demand-star-eu9m-rangers-striker-hibs-aberdeen-recruits-4195881",
+          "publishedOn": "2023-06-25T07:00:00.000Z",
+          "wordCount": null,
+          "title": "5 most interesting Premiership newcomers - Celtic's in-demand star, €9m Rangers striker, Hibs & Aberdeen recruits",
+          "imageUrl": null
+        },
+        {
+          "id": "4195776",
+          "author": "Andrew Smith",
+          "description": "In Callum McGregor, Celtic are led by a captain easily talented enough to thrive for a top six club in the English Premier League, returning manager Brendan Rodgers has insisted.",
+          "link": "https://www.scotsman.com/sport/football/celtic/brendan-rodgers-relieved-he-failed-in-bid-to-sign-celtics-callum-mcgregor-for-leicester-4195776",
+          "publishedOn": "2023-06-24T21:30:00.000Z",
+          "wordCount": null,
+          "title": "Brendan Rodgers relieved he failed in bid to sign Celtic's Callum McGregor for Leicester",
+          "imageUrl": null
+        },
+        {
           "id": "4195776",
           "author": "Andrew Smith",
           "description": "In Callum McGregor, Celtic are led by a captain easily talented enough to thrive for a top six club in the English Premier League, returning manager Brendan Rodgers has insisted.",
@@ -284,26 +314,6 @@
           "wordCount": null,
           "title": "Scotland player ratings: the men who had Tartan Army dancing in rain as only three players dip below 8",
           "imageUrl": null
-        },
-        {
-          "id": "4190618",
-          "author": "Mark Atkinson",
-          "description": "Norway picked up their first victory in Group A of the Euro 2024 qualifiers, with star striker Erling Haaland scoring twice in the 3-1 triumph over Cyprus in Oslo.",
-          "link": "https://www.scotsman.com/sport/football/erling-haaland-inspired-norway-recover-from-scotland-defeat-with-comfortable-win-over-cyprus-4190618",
-          "publishedOn": "2023-06-20T21:00:04.000Z",
-          "wordCount": null,
-          "title": "Erling Haaland-inspired Norway recover from Scotland defeat with comfortable win over Cyprus",
-          "imageUrl": null
-        },
-        {
-          "id": "4190579",
-          "author": "Mark Atkinson",
-          "description": "Scotland’s match against Georgia recommended at 9.30pm following a near 90-minute delay to the match due to a waterlogged pitch.",
-          "link": "https://www.scotsman.com/sport/football/scotland-v-georgia-finally-recommences-after-waterlogged-pitch-and-dressingroom-lock-in-4190579",
-          "publishedOn": "2023-06-20T19:06:03.000Z",
-          "wordCount": null,
-          "title": "Scotland v Georgia finally recommences after waterlogged pitch and dressingroom lock-in",
-          "imageUrl": null
         }
       ]
     },
@@ -318,6 +328,26 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "5c093e180f5055add9e40f7a65376ad1",
+          "author": null,
+          "description": "The Japanese international has been in stunning form since moving to Scotland under Ange Postecoglou in 2021.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23612425.burnley-eye-kyogo-transfer-deal-amid-ange-postecoglou-spurs-link/?ref=rss",
+          "publishedOn": "2023-06-25T08:39:42.000Z",
+          "wordCount": 8738,
+          "title": "Burnley eye Kyogo transfer deal amid Ange Postecoglou Spurs link",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16927069/?type=og-image"
+        },
+        {
+          "id": "c9a08871ba341f7ba3e70847a9528a3b",
+          "author": null,
+          "description": "BRENDAN Rodgers has admitted he is relishing the prospect of coming up against Michael Beale next season and predicted the challenge of beating his former colleague’s new-look Rangers team to silverware will bring out the best in him at Celtic.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23612228.relish-playing-michael-beales-new-rangers-says-brendan-rodgers/?ref=rss",
+          "publishedOn": "2023-06-25T06:02:00.000Z",
+          "wordCount": 8784,
+          "title": "I'll relish playing Michael Beale's new Rangers, says Brendan Rodgers",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16926797/?type=og-image"
+        },
         {
           "id": "bed2d9638ca53bb274d816de81fc733a",
           "author": null,
