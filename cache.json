@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4195776",
+          "author": "Andrew Smith",
+          "description": "In Callum McGregor, Celtic are led by a captain easily talented enough to thrive for a top six club in the English Premier League, returning manager Brendan Rodgers has insisted.",
+          "link": "https://www.scotsman.com/sport/football/celtic/brendan-rodgers-relieved-he-failed-in-bid-to-sign-celtics-epl-top-six-performer-for-leicester-4195776",
+          "publishedOn": "2023-06-24T21:30:00.000Z",
+          "wordCount": null,
+          "title": "Brendan Rodgers relieved he failed in bid to sign Celtic's EPL 'top six' performer for Leicester",
+          "imageUrl": null
+        },
+        {
           "id": "4195899",
           "author": "Joel Sked",
           "description": "Scottish FA chief Ian Maxwell has revealed he was fielding calls from UEFA during the suspension of Scotland’s Euro 2024 qualifier with Georgia on Tuesday night.",
@@ -304,16 +314,6 @@
           "wordCount": null,
           "title": "Scotland v Georgia: Sagnol's mind games nonsense, Clarke's selection question, threat of 5, cusp of history",
           "imageUrl": null
-        },
-        {
-          "id": "4189491",
-          "author": "Chris Andrews",
-          "description": "Brendan Rodgers is set to have a transfer war chest available to him after being confirmed as Celtic boss.",
-          "link": "https://www.scotsman.com/sport/football/celtic/the-celtic-transfer-war-chest-brendan-rodgers-will-have-to-keep-rangers-at-arms-length-and-make-euro-impact-4189491",
-          "publishedOn": "2023-06-20T10:42:11.000Z",
-          "wordCount": null,
-          "title": "The Celtic transfer war chest Brendan Rodgers will have to keep Rangers at arm's length and make Euro impact",
-          "imageUrl": null
         }
       ]
     },
@@ -328,6 +328,26 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "bed2d9638ca53bb274d816de81fc733a",
+          "author": null,
+          "description": "THE heavy defeats his side suffered at the hands of Barcelona and Paris Saint-Germain during his first spell in the dugout at Celtic did nothing to convince Brendan Rodgers that he needed to alter his attacking game plan in Europe.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23612178.brendan-rodgers-take-new-pragmatic-approach-celtic-europe/?ref=rss",
+          "publishedOn": "2023-06-24T21:34:00.000Z",
+          "wordCount": 9281,
+          "title": "Brendan Rodgers to take new pragmatic approach with Celtic in Europe",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16926649/?type=og-image"
+        },
+        {
+          "id": "0a384116266e7b91265ba3d6646763bb",
+          "author": null,
+          "description": "Celtic manager Brendan Rodgers on failed Leicester City bid to sign Callum McGregor",
+          "link": "https://www.glasgowtimes.co.uk/sport/23612214.celtic-manager-failed-leicester-city-bid-sign-callum-mcgregor/?ref=rss",
+          "publishedOn": "2023-06-24T21:31:00.000Z",
+          "wordCount": 8902,
+          "title": "Celtic manager on failed Leicester City bid to sign Callum McGregor",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16926783/?type=og-image"
+        },
         {
           "id": "76a3bfb2955bb12170884208006ae58a",
           "author": null,
@@ -747,56 +767,6 @@
           "wordCount": 8514,
           "title": "McGregor details Scotland vs Georgia delay discussions",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16912297/?type=og-image"
-        },
-        {
-          "id": "46635764990a4782e7db4eae622b4c9e",
-          "author": null,
-          "description": "Two Celtic stars have given fans a look into their dreamy European holiday today.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23601742.celtic-stars-jacynta-galabadaarachchi-carl-starfelt-italy/?ref=rss",
-          "publishedOn": "2023-06-20T12:31:38.000Z",
-          "wordCount": 8275,
-          "title": "Celtic stars Jacynta Galabadaarachchi and Carl Starfelt in Italy",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16382287/?type=og-image"
-        },
-        {
-          "id": "cbb6df7798c659b83f7bff7c5e8c0c85",
-          "author": null,
-          "description": "The Australia midfielder has praised the Celtic board for the reappointment of Brendan Rodgers",
-          "link": "https://www.glasgowtimes.co.uk/sport/23601379.ex-celtic-pro-jackson-irvine-hails-return-brendan-rodgers/?ref=rss",
-          "publishedOn": "2023-06-20T11:31:00.000Z",
-          "wordCount": 9631,
-          "title": "Ex-Celtic pro Jackson Irvine hails return of Brendan Rodgers",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16908707/?type=og-image"
-        },
-        {
-          "id": "8e82723ffa7e7a32f089341344e95251",
-          "author": null,
-          "description": "The talkSPORT pundit was vocal about the fan group following their tweet yesterday regarding Brendan Rodgers.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23600857.simon-jordan-tells-celtics-green-brigade-grow-up/?ref=rss",
-          "publishedOn": "2023-06-20T10:22:00.000Z",
-          "wordCount": 8561,
-          "title": "Simon Jordan tells Celtic's Green Brigade to 'grow up'",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/9817412/?type=og-image"
-        },
-        {
-          "id": "ae7dca863256b21fc4a4dd134de8b85e",
-          "author": null,
-          "description": "Celtic star Alistair Johnston has been left out of Canada's Gold Cup squad so he can fully recover from injury, his national boss revealed.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23600878.alistair-johnston-celtic-injury-revealed-canada-update-defender/?ref=rss",
-          "publishedOn": "2023-06-20T09:59:36.000Z",
-          "wordCount": 8374,
-          "title": "Alistair Johnston Celtic injury revealed as Canada update on defender",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16908010/?type=og-image"
-        },
-        {
-          "id": "cc0eec2c94c4ba96fdc7236500f97969",
-          "author": null,
-          "description": "The winger chose to represent the Republic of Ireland this year after receiving a call-up.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23600772.watch-celtic-winger-mikey-johnston-net-first-ireland-goal/?ref=rss",
-          "publishedOn": "2023-06-20T09:40:28.000Z",
-          "wordCount": 8568,
-          "title": "Watch Celtic winger Mikey Johnston net first Ireland goal",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16907837/?type=og-image"
         }
       ]
     }
