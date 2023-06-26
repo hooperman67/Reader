@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4196174",
+          "author": "Andrew Smith",
+          "description": "Scottish football can feel far removed from the inner sanctums where the strategic planning happens at the top end across the continent.",
+          "link": "https://www.scotsman.com/sport/football/celtic/how-celtics-peter-lawwell-helped-save-football-from-super-league-and-the-growing-influence-of-rangers-at-europes-top-table-4196174",
+          "publishedOn": "2023-06-25T21:30:00.000Z",
+          "wordCount": null,
+          "title": "How Celtic's Peter Lawwell helped save football from Super League - and the growing influence of Rangers at Europe's top table",
+          "imageUrl": null
+        },
+        {
           "id": "4196052",
           "author": "Matthew Elder",
           "description": "With the new campaign not for away, Celtic and Rangers are ramping up their transfer activity in their bid to become the dominant force in Scottish football next season...",
@@ -316,8 +326,28 @@
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
       "articles": [
+        {
+          "id": "d6e55a33e52f80d0653e5770f5453012",
+          "author": null,
+          "description": "After guiding Leicester City to a Europa Conference League semi-final last year, Brendan Rodgers now has a taste for success on the European stage.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23612636.brendan-rodgers-not-worried-potential-spurs-transfer-raid-celtic/?ref=rss",
+          "publishedOn": "2023-06-25T21:30:00.000Z",
+          "wordCount": 9043,
+          "title": "Brendan Rodgers not worried by potential Spurs transfer raid of Celtic",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16927375/?type=og-image"
+        },
+        {
+          "id": "76957cbd18592deeebcf79f3ccbb1eaf",
+          "author": null,
+          "description": "Never mind ten in a row - Neil Lennon believes that Celtic would be attempting to win a 13th consecutive Premiership title next season if it hadn’t been for the coronavirus.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23612756.neil-lennon-makes-celtic-covid-claim-13-in-a-row-statement/?ref=rss",
+          "publishedOn": "2023-06-25T21:30:00.000Z",
+          "wordCount": 8832,
+          "title": "Neil Lennon makes Celtic Covid claim in 13-in-a-row statement",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/13549157/?type=og-image"
+        },
         {
           "id": "4feceac51575bb6f9bd829621f7b116f",
           "author": null,
@@ -747,36 +777,6 @@
           "wordCount": 8620,
           "title": "Ex Celtic boss Ange Postecoglou's Tottenham transfer kitty 'revealed'",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16874499/?type=og-image"
-        },
-        {
-          "id": "02501887c117888d6a3fd09b0830a892",
-          "author": null,
-          "description": "The Scottish champions look to be on the cusp of their first signing of the summer.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23604089.celtic-transfer-target-set-medical-london/?ref=rss",
-          "publishedOn": "2023-06-21T10:26:09.000Z",
-          "wordCount": 8564,
-          "title": "Celtic transfer target 'set' for medical in London",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16913555/?type=og-image"
-        },
-        {
-          "id": "716a8dc309901a15fed19b86826e428a",
-          "author": null,
-          "description": "He is concerned about his old club.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23603903.ex-rangers-boss-details-worries-rodgers-celtic-return/?ref=rss",
-          "publishedOn": "2023-06-21T09:50:00.000Z",
-          "wordCount": 8609,
-          "title": "Ex-Rangers boss details 'worries' over Rodgers' Celtic return",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16913271/?type=og-image"
-        },
-        {
-          "id": "2e7d6260a6fa63427678a25641e4f6e1",
-          "author": null,
-          "description": "Kyogo Furuhashi insists he hasn't thought about his future under Brendan Rodgers at Celtic and is just desperate for a holiday.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23603778.kyogo-maeda-comment-celtic-futures-rodgers-appointment/?ref=rss",
-          "publishedOn": "2023-06-21T09:16:18.000Z",
-          "wordCount": 8704,
-          "title": "Kyogo and Maeda comment on Celtic futures after Rodgers appointment",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16913000/?type=og-image"
         }
       ]
     }

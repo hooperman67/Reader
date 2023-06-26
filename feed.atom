@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-25T21:16:20.071Z</updated>
+    <updated>2023-06-26T01:56:55.211Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Celtic's Peter Lawwell helped save football from Super League - and the growing influence of Rangers at Europe's top table]]></title>
+        <id>4196174</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/how-celtics-peter-lawwell-helped-save-football-from-super-league-and-the-growing-influence-of-rangers-at-europes-top-table-4196174"/>
+        <updated>2023-06-25T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Scottish football can feel far removed from the inner sanctums where the strategic planning happens at the top end across the continent.]]></summary>
+        <author>
+            <name>Andrew Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brendan Rodgers not worried by potential Spurs transfer raid of Celtic]]></title>
+        <id>d6e55a33e52f80d0653e5770f5453012</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23612636.brendan-rodgers-not-worried-potential-spurs-transfer-raid-celtic/?ref=rss"/>
+        <updated>2023-06-25T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[After guiding Leicester City to a Europa Conference League semi-final last year, Brendan Rodgers now has a taste for success on the European stage.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neil Lennon makes Celtic Covid claim in 13-in-a-row statement]]></title>
+        <id>76957cbd18592deeebcf79f3ccbb1eaf</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23612756.neil-lennon-makes-celtic-covid-claim-13-in-a-row-statement/?ref=rss"/>
+        <updated>2023-06-25T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Never mind ten in a row - Neil Lennon believes that Celtic would be attempting to win a 13th consecutive Premiership title next season if it hadn’t been for the coronavirus.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ange Postecoglou and Spurs 'targeting third Celtic transfer']]></title>
         <id>4feceac51575bb6f9bd829621f7b116f</id>
@@ -732,36 +762,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23605811.ex-celtic-boss-ange-postecoglous-tottenham-transfer-kitty-revealed/?ref=rss"/>
         <updated>2023-06-21T16:46:35.000Z</updated>
         <summary type="html"><![CDATA[The Parkhead manager has a rebuilding job on his hands in North London.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic transfer target 'set' for medical in London]]></title>
-        <id>02501887c117888d6a3fd09b0830a892</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23604089.celtic-transfer-target-set-medical-london/?ref=rss"/>
-        <updated>2023-06-21T10:26:09.000Z</updated>
-        <summary type="html"><![CDATA[The Scottish champions look to be on the cusp of their first signing of the summer.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ex-Rangers boss details 'worries' over Rodgers' Celtic return]]></title>
-        <id>716a8dc309901a15fed19b86826e428a</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23603903.ex-rangers-boss-details-worries-rodgers-celtic-return/?ref=rss"/>
-        <updated>2023-06-21T09:50:00.000Z</updated>
-        <summary type="html"><![CDATA[He is concerned about his old club.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kyogo and Maeda comment on Celtic futures after Rodgers appointment]]></title>
-        <id>2e7d6260a6fa63427678a25641e4f6e1</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23603778.kyogo-maeda-comment-celtic-futures-rodgers-appointment/?ref=rss"/>
-        <updated>2023-06-21T09:16:18.000Z</updated>
-        <summary type="html"><![CDATA[Kyogo Furuhashi insists he hasn't thought about his future under Brendan Rodgers at Celtic and is just desperate for a holiday.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
