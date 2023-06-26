@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-26T15:19:25.955Z</updated>
+    <updated>2023-06-26T18:24:21.373Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Craig Brown: What former players, colleagues and friends said about one of Scottish football's greatest icons]]></title>
+        <id>4197642</id>
+        <link href="https://www.scotsman.com/sport/football/rangers/craig-brown-what-former-players-colleagues-and-friends-said-about-one-of-scottish-footballs-greatest-icons-4197642"/>
+        <updated>2023-06-26T16:24:14.000Z</updated>
+        <summary type="html"><![CDATA[Former Scotland boss Craig Brown’s death aged 82 following a short illness has led to a flood of tributes from around Scottish football and beyond. The ex-Aberdeen and Motherwell manager was the last man to lead the national team to a World Cup and he holds the record for the number of international matches managed by a Scotland coach.]]></summary>
+        <author>
+            <name>Joel Sked</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postecoglou set for Spurs transfer chaos after behind the scenes move]]></title>
+        <id>2c9f6a350ebd4d942e405401b06e8b91</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23615175.postecoglou-set-spurs-transfer-chaos-behind-scenes-move/?ref=rss"/>
+        <updated>2023-06-26T15:34:08.000Z</updated>
+        <summary type="html"><![CDATA[The Aussie made the move to the Premier League giants after securing a treble with Celtic last season.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Craig Brown: Scotland legend dies aged 82 as tributes flood in for ex-Aberdeen and Motherwell boss]]></title>
         <id>4197138</id>
@@ -824,16 +844,6 @@
         <summary type="html"><![CDATA[The Celtic first-team coach was wanted by Ange Postecoglou as he looked to build his coaching team at Tottenham Hotspur]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scottish football review calls for independent regulator to drive change and end self-interest]]></title>
-        <id>4192239</id>
-        <link href="https://www.scotsman.com/sport/football/scottish-football-review-calls-for-independent-regulator-to-drive-change-and-end-self-interest-4192239"/>
-        <updated>2023-06-22T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Scottish football clubs need to find a more equitable way of working if the industry is to thrive.]]></summary>
-        <author>
-            <name>Moira Gordon</name>
         </author>
     </entry>
 </feed>

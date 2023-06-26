@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4197642",
+          "author": "Joel Sked",
+          "description": "Former Scotland boss Craig Brown’s death aged 82 following a short illness has led to a flood of tributes from around Scottish football and beyond. The ex-Aberdeen and Motherwell manager was the last man to lead the national team to a World Cup and he holds the record for the number of international matches managed by a Scotland coach.",
+          "link": "https://www.scotsman.com/sport/football/rangers/craig-brown-what-former-players-colleagues-and-friends-said-about-one-of-scottish-footballs-greatest-icons-4197642",
+          "publishedOn": "2023-06-26T16:24:14.000Z",
+          "wordCount": null,
+          "title": "Craig Brown: What former players, colleagues and friends said about one of Scottish football's greatest icons",
+          "imageUrl": null
+        },
+        {
           "id": "4197138",
           "author": "Joel Sked",
           "description": "Scottish football has been paying tribute to one of its most popular, beloved and respected figures Craig Brown following his death on Monday aged 82.",
@@ -314,16 +324,6 @@
           "wordCount": null,
           "title": "Euro 2024: How Scotland fans can get tickets, when they go on sale, key dates, draw, host cities, final",
           "imageUrl": null
-        },
-        {
-          "id": "4192239",
-          "author": "Moira Gordon",
-          "description": "Scottish football clubs need to find a more equitable way of working if the industry is to thrive.",
-          "link": "https://www.scotsman.com/sport/football/scottish-football-review-calls-for-independent-regulator-to-drive-change-and-end-self-interest-4192239",
-          "publishedOn": "2023-06-22T06:00:00.000Z",
-          "wordCount": null,
-          "title": "Scottish football review calls for independent regulator to drive change and end self-interest",
-          "imageUrl": null
         }
       ]
     },
@@ -338,6 +338,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "2c9f6a350ebd4d942e405401b06e8b91",
+          "author": null,
+          "description": "The Aussie made the move to the Premier League giants after securing a treble with Celtic last season.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23615175.postecoglou-set-spurs-transfer-chaos-behind-scenes-move/?ref=rss",
+          "publishedOn": "2023-06-26T15:34:08.000Z",
+          "wordCount": 8625,
+          "title": "Postecoglou set for Spurs transfer chaos after behind the scenes move",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16894348/?type=og-image"
+        },
         {
           "id": "87205cf4f2d74d27efcb322ffab36078",
           "author": null,
