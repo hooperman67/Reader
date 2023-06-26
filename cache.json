@@ -304,26 +304,6 @@
           "wordCount": null,
           "title": "Scotland's Euro 2024 chances after Georgia win, Pot 1 hope, the German cities the team could play in",
           "imageUrl": null
-        },
-        {
-          "id": "4192382",
-          "author": "Joel Sked",
-          "description": "Aaron Mooy is understood to be considering his Celtic future following Ange Postecoglou’s departure.",
-          "link": "https://www.scotsman.com/sport/football/celtic/popular-celtic-star-considering-future-after-ange-postecoglou-departure-one-of-the-clubs-top-earners-4192382",
-          "publishedOn": "2023-06-22T08:00:22.000Z",
-          "wordCount": null,
-          "title": "Popular Celtic star considering future after Ange Postecoglou departure, one of the club's 'top earners'",
-          "imageUrl": null
-        },
-        {
-          "id": "4192340",
-          "author": "Joel Sked",
-          "description": "Scotland are closing in on automatic qualification for Euro 2024 after winning the first four games of their qualifying campaign.",
-          "link": "https://www.scotsman.com/sport/football/euro-2024-how-scotland-fans-can-get-tickets-when-they-go-on-sale-key-dates-draw-host-cities-final-4192340",
-          "publishedOn": "2023-06-22T07:30:59.000Z",
-          "wordCount": null,
-          "title": "Euro 2024: How Scotland fans can get tickets, when they go on sale, key dates, draw, host cities, final",
-          "imageUrl": null
         }
       ]
     },
@@ -338,6 +318,26 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "c1983802367186b4eb95a7e7fd32b969",
+          "author": null,
+          "description": "It has been theorised for some time that the Hoops hero has a Twitter account and uses it to defend his record while as manager of the club.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23615583.neil-lennon-rubbishes-celtic-burner-account-claims/?ref=rss",
+          "publishedOn": "2023-06-26T18:33:17.000Z",
+          "wordCount": 8508,
+          "title": "Neil Lennon rubbishes Celtic 'burner' account claims",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16932184/?type=og-image"
+        },
+        {
+          "id": "1b834bacf3392d43186d550eaa8aeef8",
+          "author": null,
+          "description": "The teaser images seem to confirm that the 'snakeskin' pattern will feature on the latest edition of the club's green and white hooped top.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23615569.celtic-snake-pattern-leak-confirmed-club-kit-teaser/?ref=rss",
+          "publishedOn": "2023-06-26T18:16:11.000Z",
+          "wordCount": 8598,
+          "title": "Celtic 'snake' pattern leak confirmed by club in kit teaser",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16932151/?type=og-image"
+        },
         {
           "id": "2c9f6a350ebd4d942e405401b06e8b91",
           "author": null,
@@ -817,46 +817,6 @@
           "wordCount": 8599,
           "title": "Celtic linked with South Korea winger Yang Hyun-jun",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16918720/?type=og-image"
-        },
-        {
-          "id": "03e552bd388a874e0d676b595795142f",
-          "author": null,
-          "description": "Nicolas Raskin insists Rangers' mauling of Celtic in their last Old Firm meeting has put down a marker for next season's title race.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23606480.raskin-says-rangers-mauling-celtic-set-marker/?ref=rss",
-          "publishedOn": "2023-06-22T09:03:20.000Z",
-          "wordCount": 9653,
-          "title": "Raskin says Rangers' mauling of Celtic has set down a marker",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16917419/?type=og-image"
-        },
-        {
-          "id": "8e12052170c92ec2ab7d1316fd8ae90e",
-          "author": null,
-          "description": "The Northern Irishman was confirmed as Hoops boss this week as he replaces Ange Postecoglou who departed Glasgow for Tottenham Hotspur.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23606337.ally-mccoist-admits-rangers-fear-brendan-rodgers-back-celtic/?ref=rss",
-          "publishedOn": "2023-06-22T08:24:53.000Z",
-          "wordCount": 8743,
-          "title": "Ally McCoist admits Rangers fear with Brendan Rodgers back at Celtic",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16917239/?type=og-image"
-        },
-        {
-          "id": "fc55a0e3e5009c3592ddd37d9547a29a",
-          "author": null,
-          "description": "The Aussie ace played a key role as the Hoops landed a historic treble last term.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23606144.aaron-mooy-considering-celtic-future-ange-postecoglou-exit/?ref=rss",
-          "publishedOn": "2023-06-22T07:04:22.000Z",
-          "wordCount": 8594,
-          "title": "Aaron Mooy considering Celtic future after Ange Postecoglou exit",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16894348/?type=og-image"
-        },
-        {
-          "id": "9d9095cdbd1472bfeb98091a4944f4a7",
-          "author": null,
-          "description": "The Celtic first-team coach was wanted by Ange Postecoglou as he looked to build his coaching team at Tottenham Hotspur",
-          "link": "https://www.glasgowtimes.co.uk/sport/23606103.gavin-strachan-turns-shrewsbury-bid-remain-celtic/?ref=rss",
-          "publishedOn": "2023-06-22T06:33:44.000Z",
-          "wordCount": 9639,
-          "title": "Gavin Strachan turns down Shrewsbury bid to remain at Celtic",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16917028/?type=og-image"
         }
       ]
     }
