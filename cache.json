@@ -326,8 +326,18 @@
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "af312f4aa3d55ea7f9c57a28c45e3919",
+          "author": null,
+          "description": "Back in 2017 the Celtic support believed that Brendan Rodgers walked on water after the former Liverpool manager put himself in the history books by claiming a first-ever Invincible treble immediately after arriving in Glasgow.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23612762.lennon-makes-rodgers-title-prediction-fan-forgiveness-statement/?ref=rss",
+          "publishedOn": "2023-06-26T05:00:00.000Z",
+          "wordCount": 9073,
+          "title": "Lennon makes Rodgers title prediction in fan forgiveness statement",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16927588/?type=og-image"
+        },
         {
           "id": "d6e55a33e52f80d0653e5770f5453012",
           "author": null,
@@ -767,16 +777,6 @@
           "wordCount": 9639,
           "title": "Gavin Strachan turns down Shrewsbury bid to remain at Celtic",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16917028/?type=og-image"
-        },
-        {
-          "id": "d75ec73f63fad7bd5fcdccd5c6f297f5",
-          "author": null,
-          "description": "The Parkhead manager has a rebuilding job on his hands in North London.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23605811.ex-celtic-boss-ange-postecoglous-tottenham-transfer-kitty-revealed/?ref=rss",
-          "publishedOn": "2023-06-21T16:46:35.000Z",
-          "wordCount": 8620,
-          "title": "Ex Celtic boss Ange Postecoglou's Tottenham transfer kitty 'revealed'",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16874499/?type=og-image"
         }
       ]
     }

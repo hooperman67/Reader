@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-26T03:32:11.671Z</updated>
+    <updated>2023-06-26T06:26:53.157Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Lennon makes Rodgers title prediction in fan forgiveness statement]]></title>
+        <id>af312f4aa3d55ea7f9c57a28c45e3919</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23612762.lennon-makes-rodgers-title-prediction-fan-forgiveness-statement/?ref=rss"/>
+        <updated>2023-06-26T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Back in 2017 the Celtic support believed that Brendan Rodgers walked on water after the former Liverpool manager put himself in the history books by claiming a first-ever Invincible treble immediately after arriving in Glasgow.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Celtic's Peter Lawwell helped save football from Super League - and the growing influence of Rangers at Europe's top table]]></title>
         <id>4196174</id>
@@ -754,16 +764,6 @@
         <summary type="html"><![CDATA[Scotland midfielder Billy Gilmour sees no reason why the country shouldn’t now be targeting top spot in their Euro 2024 section.]]></summary>
         <author>
             <name>Andrew Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ex Celtic boss Ange Postecoglou's Tottenham transfer kitty 'revealed']]></title>
-        <id>d75ec73f63fad7bd5fcdccd5c6f297f5</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23605811.ex-celtic-boss-ange-postecoglous-tottenham-transfer-kitty-revealed/?ref=rss"/>
-        <updated>2023-06-21T16:46:35.000Z</updated>
-        <summary type="html"><![CDATA[The Parkhead manager has a rebuilding job on his hands in North London.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>
