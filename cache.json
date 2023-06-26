@@ -6,6 +6,36 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4196715",
+          "author": "Joel Sked",
+          "description": "Former Celtic forward Robbie Keane has made a surprise managerial move, taking over Israeli giants Maccabi Tel Aviv.",
+          "link": "https://www.scotsman.com/sport/football/celtic/ex-celtic-star-in-surprise-managerial-move-israeli-giants-link-up-with-former-parkhead-favourite-4196715",
+          "publishedOn": "2023-06-26T10:22:14.000Z",
+          "wordCount": null,
+          "title": "Ex-Celtic star in surprise managerial move, Israeli giants, link-up with former Parkhead favourite",
+          "imageUrl": null
+        },
+        {
+          "id": "4196635",
+          "author": "Joel Sked",
+          "description": "Livingston boss David Martindale has admitted he expects to sell Joel Nouble before the start of the league season.",
+          "link": "https://www.scotsman.com/sport/football/rangers/livingston-boss-reveals-when-joel-nouble-could-be-sold-ps1m-valuation-and-why-he-could-play-premier-league-4196635",
+          "publishedOn": "2023-06-26T09:54:23.000Z",
+          "wordCount": null,
+          "title": "Livingston boss reveals when Joel Nouble could be sold, £1m valuation and why he could play Premier League",
+          "imageUrl": null
+        },
+        {
+          "id": "4196528",
+          "author": "Joel Sked",
+          "description": "By the end of the week all 12 Scottish Premiership sides are expected to be back for pre-season before heading off to Europe and beyond for training camps or tours. Managers will be keen to bring in signings across the coming days and weeks.",
+          "link": "https://www.scotsman.com/sport/football/celtic/scottish-transfers-serie-a-side-want-celtic-ace-rangers-to-sign-eu8m-forward-aberdeen-eye-2nd-liverpool-deal-4196528",
+          "publishedOn": "2023-06-26T09:31:10.000Z",
+          "wordCount": null,
+          "title": "Scottish transfers: Serie A side want Celtic ace, Rangers to sign €8m forward, Aberdeen eye 2nd Liverpool deal",
+          "imageUrl": null
+        },
+        {
           "id": "4196174",
           "author": "Andrew Smith",
           "description": "Scottish football can feel far removed from the inner sanctums where the strategic planning happens at the top end across the continent.",
@@ -284,36 +314,6 @@
           "wordCount": null,
           "title": "Scottish football review calls for independent regulator to drive change and end self-interest",
           "imageUrl": null
-        },
-        {
-          "id": "4192226",
-          "author": "Alan Pattullo",
-          "description": "Steve Clarke will have turned 60 by the time Scotland are next in action. It’s fair to say he has not experienced a night like he did on Tuesday in a long career as both a player and manager.",
-          "link": "https://www.scotsman.com/sport/football/international/steve-clarke-reveals-just-how-close-scotland-came-to-georgia-call-off-as-he-admits-to-changing-his-tune-4192226",
-          "publishedOn": "2023-06-21T21:40:00.000Z",
-          "wordCount": null,
-          "title": "Steve Clarke reveals just how close Scotland came to Georgia call-off as he admits to changing his tune",
-          "imageUrl": null
-        },
-        {
-          "id": "4192100",
-          "author": "Andrew Smith",
-          "description": "There was a willingness of John McGinn to put a new spin on pitching in when it came to the rain-submerged Hampden surface for Tuesday night’s momentous 2-0 Euro 2024 qualifying victory over Georgia.",
-          "link": "https://www.scotsman.com/sport/football/international/john-mcginn-reveals-tricky-situation-scotland-players-faced-had-georgia-match-been-put-back-24-hours-4192100",
-          "publishedOn": "2023-06-21T21:30:00.000Z",
-          "wordCount": null,
-          "title": "John McGinn reveals 'tricky' situation Scotland players faced had Georgia match been put back 24 hours",
-          "imageUrl": null
-        },
-        {
-          "id": "4192208",
-          "author": "Andrew Smith",
-          "description": "Scotland midfielder Billy Gilmour sees no reason why the country shouldn’t now be targeting top spot in their Euro 2024 section.",
-          "link": "https://www.scotsman.com/sport/football/international/billy-gilmour-on-why-its-a-great-feeling-to-be-scottish-as-national-side-target-42-year-first-4192208",
-          "publishedOn": "2023-06-21T21:30:00.000Z",
-          "wordCount": null,
-          "title": "Billy Gilmour on why 'it's a great feeling to be Scottish' as national side target 42 year first",
-          "imageUrl": null
         }
       ]
     },
@@ -328,6 +328,36 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "87205cf4f2d74d27efcb322ffab36078",
+          "author": null,
+          "description": "The 26-year-old was a bit-part player for Arsenal last term under Mikel Arteta as the Gunners missed out on the Premier League title.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23614174.tierney-arsenal-transfer-latest-odds-slashed-celtic-return/?ref=rss",
+          "publishedOn": "2023-06-26T11:42:54.000Z",
+          "wordCount": 9757,
+          "title": "Tierney Arsenal transfer latest as odds slashed on Celtic return",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16929887/?type=og-image"
+        },
+        {
+          "id": "85d18ccc58875f5a61521a54f2abb687",
+          "author": null,
+          "description": "Simon Jordan reckons Brendan Rodgers must follow the European standards set by Rangers in recent seasons.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23613697.brendan-rodgers-urged-follow-rangers-model-second-celtic-stint/?ref=rss",
+          "publishedOn": "2023-06-26T10:02:31.000Z",
+          "wordCount": 8675,
+          "title": "Brendan Rodgers urged to follow Rangers model in second Celtic stint",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16929086/?type=og-image"
+        },
+        {
+          "id": "e532f3e9cc7f81436d2fdb092802721b",
+          "author": null,
+          "description": "Melbourne City boss Rado Vidosic has all but confirmed incoming Celtic starlet Marco Tilio's arrival at the Hoops.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23613668.marco-tilio-celtic-transfer-confirmed-manager/?ref=rss",
+          "publishedOn": "2023-06-26T09:55:02.000Z",
+          "wordCount": 8487,
+          "title": "Marco Tilio to Celtic transfer all but confirmed by manager",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16928893/?type=og-image"
+        },
         {
           "id": "e4719c1489da9f798e4e5e27dbd7a606",
           "author": null,
