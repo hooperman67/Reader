@@ -6,6 +6,36 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4198022",
+          "author": "Matthew Elder",
+          "description": "Tottenham have announced Ange Postecoglou’s coaching staff after he failed in a bid to take his former Celtic assistants with him.",
+          "link": "https://www.scotsman.com/sport/football/celtic/tottenham-confirm-ange-postecoglous-coaching-staff-including-former-celtic-assistant-4198022",
+          "publishedOn": "2023-06-27T09:43:02.000Z",
+          "wordCount": null,
+          "title": "Tottenham confirm Ange Postecoglou's coaching staff including former Celtic assistant",
+          "imageUrl": null
+        },
+        {
+          "id": "4197782",
+          "author": "Alan Pattullo",
+          "description": "The last man to take the Scotland men’s team to a World Cup. This achievement alone would have ensured a slew of tributes.",
+          "link": "https://www.scotsman.com/sport/football/international/craig-brown-was-much-more-than-the-last-man-to-take-scotland-to-a-world-cup-dignity-could-have-been-his-middle-name-4197782",
+          "publishedOn": "2023-06-27T06:00:00.000Z",
+          "wordCount": null,
+          "title": "Craig Brown was much more than the last man to take Scotland to a World Cup: dignity could have been his middle name",
+          "imageUrl": null
+        },
+        {
+          "id": "4197774",
+          "author": "Pat Nevin",
+          "description": "I would never have been a professional footballer without Craig Brown. It really is that simple.",
+          "link": "https://www.scotsman.com/sport/football/international/craig-brown-telegram-gesture-pat-nevin-wont-ever-forget-how-many-managers-would-do-that-4197774",
+          "publishedOn": "2023-06-26T21:00:00.000Z",
+          "wordCount": null,
+          "title": "Craig Brown telegram gesture Pat Nevin won't ever forget: 'How many managers would do that?",
+          "imageUrl": null
+        },
+        {
           "id": "4197642",
           "author": "Joel Sked",
           "description": "Former Scotland boss Craig Brown’s death aged 82 following a short illness has led to a flood of tributes from around Scottish football and beyond. The ex-Aberdeen and Motherwell manager was the last man to lead the national team to a World Cup and he holds the record for the number of international matches managed by a Scotland coach.",
@@ -268,6 +298,66 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "3229611f0e77ba2797e7957d9b804c37",
+          "author": null,
+          "description": "Reports in Saudi suggested that the Japanese international was close to a move to Saudi Pro League club Al-Ittihad.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23616762.reo-hatate-celtic-transfer-latest-agent-speaks-saudi-links/?ref=rss",
+          "publishedOn": "2023-06-27T11:08:03.000Z",
+          "wordCount": 9665,
+          "title": "Reo Hatate Celtic transfer latest as agent speaks out on Saudi links",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16933883/?type=og-image"
+        },
+        {
+          "id": "35255bb82c2023532d76df6e7849562b",
+          "author": null,
+          "description": "Bayern have submitted and official bid to try and sign Harry Kane from Tottenham.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23616607.postecoglou-spurs-plans-rocked--60m-plus-kane-bid/?ref=rss",
+          "publishedOn": "2023-06-27T10:37:28.000Z",
+          "wordCount": 8633,
+          "title": "Postecoglou Spurs plans rocked by '£60m-plus Kane bid'",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16933578/?type=og-image"
+        },
+        {
+          "id": "a083d6b1f849f05100eb1520199129af",
+          "author": null,
+          "description": "The Aussie is set to add to his Spurs squad ahead of starting in the job on July 1.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23616555.postecoglou-set-second-tottenham-signing-bumper-50m-deal-close/?ref=rss",
+          "publishedOn": "2023-06-27T10:29:49.000Z",
+          "wordCount": 9919,
+          "title": "Postecoglou set for second Tottenham signing as bumper £50m deal close",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16855122/?type=og-image"
+        },
+        {
+          "id": "4fbb869126c1d8f15099e37deead098d",
+          "author": null,
+          "description": "Yang Hyun-jun has admitted he could be forced to wait until the winter transfer window to seal a dream move to Celtic.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23616250.yang-face-lengthy-wait-seal-dream-celtic-transfer/?ref=rss",
+          "publishedOn": "2023-06-27T09:34:09.000Z",
+          "wordCount": 8616,
+          "title": "Yang could face lengthy wait to seal dream Celtic transfer",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16933141/?type=og-image"
+        },
+        {
+          "id": "f4d9b3053f1008098d5f01c887fabf3f",
+          "author": null,
+          "description": "Tottenham Hotspur have confirmed Ange Postecoglou's backroom staff.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23616119.tottenham-finally-confirm-ange-postecoglous-coaching-team/?ref=rss",
+          "publishedOn": "2023-06-27T09:07:41.000Z",
+          "wordCount": 9693,
+          "title": "Tottenham finally confirm Ange Postecoglou's coaching team",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16895502/?type=og-image"
+        },
+        {
+          "id": "9c43c440231b0442c1ab19e07651a26b",
+          "author": null,
+          "description": "He told Record Sport: “Brendan will bring in his own players, some managers inherit a squad and don’t have the budget to change things but the opposite is true at Celtic. He’s coming in with the intention of bringing new faces in and he’ll want two or three into the building who are his type of player. He’ll also tweak things slightly. Ange was stubborn with his 4-3-3 and was very successful with that.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23615946.brendan-rodgers-celtic-protest-banners-predicted/?ref=rss",
+          "publishedOn": "2023-06-27T08:25:44.000Z",
+          "wordCount": 8975,
+          "title": "Further Brendan Rodgers Celtic protest banners predicted",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16932742/?type=og-image"
+        },
         {
           "id": "57084d6d8491a6e397aecb68fd8454bc",
           "author": null,
