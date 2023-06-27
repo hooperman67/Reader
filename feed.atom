@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-27T06:25:38.080Z</updated>
+    <updated>2023-06-27T09:19:18.844Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Postecoglou & Spurs to submit £40m transfer bid for 'priority target']]></title>
+        <id>57084d6d8491a6e397aecb68fd8454bc</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23615790.postecoglou-spurs-submit-40m-transfer-bid-priority-target/?ref=rss"/>
+        <updated>2023-06-27T07:03:30.000Z</updated>
+        <summary type="html"><![CDATA[Tottenham are set to table a formal offer for James Maddison - but it's initially £20 short of Leicester's valuation.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reo Hatate linked with shock Saudi Celtic transfer exit]]></title>
+        <id>9cf7b1d305f03d66bd58e33c42b60343</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23615768.reo-hatate-linked-shock-saudi-celtic-transfer-exit/?ref=rss"/>
+        <updated>2023-06-27T06:35:50.000Z</updated>
+        <summary type="html"><![CDATA[Celtic midfielder Reo Hatate has been linked with a move to Al Ittihad in Saudi Arabia.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic & Rangers values ranked in Premiership MVP list]]></title>
         <id>0f98565490275e4546bcfdb34c68430d</id>
@@ -682,36 +702,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23608819.5-things-expect-brendan-rodgers-celtic-unveiling/?ref=rss"/>
         <updated>2023-06-23T05:00:00.000Z</updated>
         <summary type="html"><![CDATA[The returning Parkhead manager will sit down with the media on Friday afternoon.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brendan Rodgers eyes new Celtic heights as he lifts lid on 'clear change' in recruitment and secret Callum McGregor lunch]]></title>
-        <id>4193943</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/brendan-rodgers-eyes-new-celtic-heights-as-he-lifts-lid-on-clear-change-in-recruitment-and-secret-callum-mcgregor-lunch-4193943"/>
-        <updated>2023-06-22T20:43:42.000Z</updated>
-        <summary type="html"><![CDATA[Brendan Rodgers sought to park the “nostalgia” of his first spell that yielded two trebles and seven straight trophies as he targeted opening up a new frontier across his second stint at Celtic.]]></summary>
-        <author>
-            <name>Andrew Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brendan Rodgers reveals how secret Callum McGregor meeting was key to Celtic return]]></title>
-        <id>4193943</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/brendan-rodgers-reveals-how-secret-callum-mcgregor-meeting-was-key-to-celtic-return-4193943"/>
-        <updated>2023-06-22T20:43:42.000Z</updated>
-        <summary type="html"><![CDATA[Brendan Rodgers sought to park the “nostalgia” of his first spell that yielded two trebles and seven straight trophies as he targeted opening up a new frontier across his second stint at Celtic.]]></summary>
-        <author>
-            <name>Andrew Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brendan Rodgers reveals secret Celtic briefing with Callum McGregor]]></title>
-        <id>dcf14b8222f342d48d76900569598d01</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23608756.brendan-rodgers-reveals-secret-celtic-briefing-callum-mcgregor/?ref=rss"/>
-        <updated>2023-06-22T20:19:00.000Z</updated>
-        <summary type="html"><![CDATA[Brendan Rodgers has revealed he met with club captain Callum McGregor in Majorca.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>

@@ -254,26 +254,6 @@
           "wordCount": null,
           "title": "Scottish transfers: Rangers ace wanted, Celtic eye trio plus 12-goal midfielder, Hearts make right-back move",
           "imageUrl": null
-        },
-        {
-          "id": "4193943",
-          "author": "Andrew Smith",
-          "description": "Brendan Rodgers sought to park the “nostalgia” of his first spell that yielded two trebles and seven straight trophies as he targeted opening up a new frontier across his second stint at Celtic.",
-          "link": "https://www.scotsman.com/sport/football/celtic/brendan-rodgers-eyes-new-celtic-heights-as-he-lifts-lid-on-clear-change-in-recruitment-and-secret-callum-mcgregor-lunch-4193943",
-          "publishedOn": "2023-06-22T20:43:42.000Z",
-          "wordCount": null,
-          "title": "Brendan Rodgers eyes new Celtic heights as he lifts lid on 'clear change' in recruitment and secret Callum McGregor lunch",
-          "imageUrl": null
-        },
-        {
-          "id": "4193943",
-          "author": "Andrew Smith",
-          "description": "Brendan Rodgers sought to park the “nostalgia” of his first spell that yielded two trebles and seven straight trophies as he targeted opening up a new frontier across his second stint at Celtic.",
-          "link": "https://www.scotsman.com/sport/football/celtic/brendan-rodgers-reveals-how-secret-callum-mcgregor-meeting-was-key-to-celtic-return-4193943",
-          "publishedOn": "2023-06-22T20:43:42.000Z",
-          "wordCount": null,
-          "title": "Brendan Rodgers reveals how secret Callum McGregor meeting was key to Celtic return",
-          "imageUrl": null
         }
       ]
     },
@@ -288,6 +268,26 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "57084d6d8491a6e397aecb68fd8454bc",
+          "author": null,
+          "description": "Tottenham are set to table a formal offer for James Maddison - but it's initially £20 short of Leicester's valuation.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23615790.postecoglou-spurs-submit-40m-transfer-bid-priority-target/?ref=rss",
+          "publishedOn": "2023-06-27T07:03:30.000Z",
+          "wordCount": 8639,
+          "title": "Postecoglou & Spurs to submit £40m transfer bid for 'priority target'",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16932509/?type=og-image"
+        },
+        {
+          "id": "9cf7b1d305f03d66bd58e33c42b60343",
+          "author": null,
+          "description": "Celtic midfielder Reo Hatate has been linked with a move to Al Ittihad in Saudi Arabia.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23615768.reo-hatate-linked-shock-saudi-celtic-transfer-exit/?ref=rss",
+          "publishedOn": "2023-06-27T06:35:50.000Z",
+          "wordCount": 9909,
+          "title": "Reo Hatate linked with shock Saudi Celtic transfer exit",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16932494/?type=og-image"
+        },
         {
           "id": "0f98565490275e4546bcfdb34c68430d",
           "author": null,
@@ -717,16 +717,6 @@
           "wordCount": 9330,
           "title": "5 things to expect from Brendan Rodgers' Celtic unveiling",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16921023/?type=og-image"
-        },
-        {
-          "id": "dcf14b8222f342d48d76900569598d01",
-          "author": null,
-          "description": "Brendan Rodgers has revealed he met with club captain Callum McGregor in Majorca.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23608756.brendan-rodgers-reveals-secret-celtic-briefing-callum-mcgregor/?ref=rss",
-          "publishedOn": "2023-06-22T20:19:00.000Z",
-          "wordCount": 8660,
-          "title": "Brendan Rodgers reveals secret Celtic briefing with Callum McGregor",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16920915/?type=og-image"
         }
       ]
     }
