@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-27T01:54:49.368Z</updated>
+    <updated>2023-06-27T03:29:28.827Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -742,36 +742,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23608088.fans-get-behind-brendan-rodgers-celtic-return/?ref=rss"/>
         <updated>2023-06-22T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[THAT immortal line earned a good old airing again this week when news of Brendan Rodgers' Celtic homecoming was confirmed: the prodigal son returns.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brendan Rodgers unveils his first Celtic signing and tips midfielder to make 'big impact']]></title>
-        <id>4193617</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/brendan-rodgers-unveils-his-first-celtic-signing-and-tips-midfielder-to-make-big-impact-4193617"/>
-        <updated>2023-06-22T15:02:10.000Z</updated>
-        <summary type="html"><![CDATA[Brendan Rodgers has made his first signing of his second spell as Celtic manager in the shape of Norwegian midfielder Odin Thiago Holm.]]></summary>
-        <author>
-            <name>Matthew Elder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brendan Rodgers completes first Celtic transfer signing]]></title>
-        <id>1b6061dd18b6d9942c3d8859f36d92c2</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23608099.brendan-rodgers-completes-first-celtic-transfer-signing/?ref=rss"/>
-        <updated>2023-06-22T14:58:12.000Z</updated>
-        <summary type="html"><![CDATA[Odin Thiago Holm has completed a transfer move to Celtic.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rangers and Celtic fans face Old Firm ticket wait ahead of new term]]></title>
-        <id>507cb25c9c558e9a22f0661386de722b</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23607802.rangers-celtic-fans-face-old-firm-ticket-wait-ahead-new-term/?ref=rss"/>
-        <updated>2023-06-22T13:59:51.000Z</updated>
-        <summary type="html"><![CDATA[Rangers and Celtic have yet to hold discussions regarding away allocations for the upcoming Old Firm fixtures this season.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
