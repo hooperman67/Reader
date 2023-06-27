@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-26T21:16:37.782Z</updated>
+    <updated>2023-06-27T01:54:49.368Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic & Rangers values ranked in Premiership MVP list]]></title>
+        <id>0f98565490275e4546bcfdb34c68430d</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23615648.celtic-rangers-values-ranked-premiership-mvp-list/?ref=rss"/>
+        <updated>2023-06-26T20:22:09.000Z</updated>
+        <summary type="html"><![CDATA[Football information site Transfermarkt has updated the market value of 99 players in the Scottish Premiership to formulate an MVP list.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Neil Lennon rubbishes Celtic 'burner' account claims]]></title>
         <id>c1983802367186b4eb95a7e7fd32b969</id>
@@ -762,46 +772,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23607802.rangers-celtic-fans-face-old-firm-ticket-wait-ahead-new-term/?ref=rss"/>
         <updated>2023-06-22T13:59:51.000Z</updated>
         <summary type="html"><![CDATA[Rangers and Celtic have yet to hold discussions regarding away allocations for the upcoming Old Firm fixtures this season.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic youth star Ronan Ferns set for Brighton switch]]></title>
-        <id>53946ab0f01d195f4cb1354631a28448</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23607390.celtic-youth-star-ronan-ferns-set-brighton-switch/?ref=rss"/>
-        <updated>2023-06-22T12:34:00.000Z</updated>
-        <summary type="html"><![CDATA[The 16-year-old looks to swap Scotland for England as the Seagulls swoop in to acquire the young defender.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Date and time of Brendan Rodgers Celtic return press conference]]></title>
-        <id>3ea71383c7c57cf8520956308b25fec8</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23607382.date-time-brendan-rodgers-celtic-return-press-conference/?ref=rss"/>
-        <updated>2023-06-22T12:22:04.000Z</updated>
-        <summary type="html"><![CDATA[Brendan Rodgers will face the media on Friday after being unveiled as Celtic manager.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scotland's Euro 2024 chances after Georgia win, Pot 1 hope, the German cities the team could play in]]></title>
-        <id>4193083</id>
-        <link href="https://www.scotsman.com/sport/football/scotlands-euro-2024-chances-after-georgia-win-pot-1-hope-the-german-cities-the-team-could-play-in-4193083"/>
-        <updated>2023-06-22T12:12:54.000Z</updated>
-        <summary type="html"><![CDATA[Scotland are, to quote captain Andy Robertson, within touching distance of qualifying for Euro 2024 after Tuesday night's 2-0 win over Georgia.]]></summary>
-        <author>
-            <name>Joel Sked</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic linked with South Korea winger Yang Hyun-jun]]></title>
-        <id>fd4a3626b3d43f85d957919ddb82f154</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23607242.celtic-linked-south-korea-winger-yang-hyun-jun/?ref=rss"/>
-        <updated>2023-06-22T11:52:00.000Z</updated>
-        <summary type="html"><![CDATA[The 21-year-old is a mainstay for Gangwon FC in the K1 League in his homeland.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
