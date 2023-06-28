@@ -274,16 +274,6 @@
           "wordCount": null,
           "title": "BBC Scotland respond after being banned from Brendan Rodgers' Celtic unveiling along with second broadcaster",
           "imageUrl": null
-        },
-        {
-          "id": "4195471",
-          "author": "Matthew Elder",
-          "description": "Brendan Rodgers has addressed his acriminous exit from Celtic in 2019 – insisting he regrets the “hurt\" it caused but not the decision that he made.",
-          "link": "https://www.scotsman.com/sport/football/celtic/i-dont-regret-it-brendan-rodgers-addresses-celtic-fan-anger-in-message-to-people-who-dont-want-me-here-4195471",
-          "publishedOn": "2023-06-23T15:43:16.000Z",
-          "wordCount": null,
-          "title": "'I don't regret it' - Brendan Rodgers addresses Celtic fan anger in message to 'people who don't want me here'",
-          "imageUrl": null
         }
       ]
     },
@@ -298,6 +288,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "7491c086732c4dc5292d0f80dc1d0e2e",
+          "author": null,
+          "description": "The 21-year-old Melbourne City star is set to leave the A-League this summer.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23617725.marco-tilio-bring-celtic-move-edges-closer/?ref=rss",
+          "publishedOn": "2023-06-28T05:00:00.000Z",
+          "wordCount": 9333,
+          "title": "What Marco Tilio would bring to Celtic as move edges closer",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16935841/?type=og-image"
+        },
         {
           "id": "df173b97e997842e2d777e3e5cab5320",
           "author": null,
@@ -747,76 +747,6 @@
           "wordCount": 9240,
           "title": "Brendan Rodgers is not The Messiah - but he's a very regretful boy",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16925378/?type=og-image"
-        },
-        {
-          "id": "df9fd016e86c8245f616e92e24e9b68b",
-          "author": null,
-          "description": "BBC Scotland announced on Friday that it had been denied access to Celtic's media event - and the broadcaster was not alone.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23611398.second-media-outlet-banned-celtic-media-conference/?ref=rss",
-          "publishedOn": "2023-06-23T18:16:48.000Z",
-          "wordCount": 9758,
-          "title": "Second media outlet was banned from Celtic media conference",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16925301/?type=og-image"
-        },
-        {
-          "id": "40a9908ef818cbdeb993db81e0b40509",
-          "author": null,
-          "description": "The winger, formerly on the books at Celtic, is excited to take his first steps in the senior Scottish game.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23611343.bayern-munich-youngster-seals-queens-park-loan-switch/?ref=rss",
-          "publishedOn": "2023-06-23T17:38:28.000Z",
-          "wordCount": 8564,
-          "title": "Bayern Munich youngster seals Queen's Park loan switch",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16925238/?type=og-image"
-        },
-        {
-          "id": "623f1a95adf4d5b412683f50ce96bd75",
-          "author": null,
-          "description": "The broadcaster was denied access to the new Celtic manager's first media conference back in Scotland.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23611275.bbc-scotland-banned-celtic-brendan-rodgers-conference/?ref=rss",
-          "publishedOn": "2023-06-23T17:00:40.000Z",
-          "wordCount": 8609,
-          "title": "BBC Scotland banned by Celtic for Brendan Rodgers conference",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16925151/?type=og-image"
-        },
-        {
-          "id": "9476dfd5e73902dacb75d336d53ce8d9",
-          "author": null,
-          "description": "The broadcaster was denied access to the new Celtic manager's first media conference back in Scotland.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23611274.bbc-scotland-denied-access-celtic-brendan-rodgers-conference/?ref=rss",
-          "publishedOn": "2023-06-23T17:00:33.000Z",
-          "wordCount": 8633,
-          "title": "BBC Scotland 'denied access' by Celtic for Brendan Rodgers conference",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16925151/?type=og-image"
-        },
-        {
-          "id": "9476dfd5e73902dacb75d336d53ce8d9",
-          "author": null,
-          "description": "The broadcaster was denied access to the new Celtic manager's first media conference back in Scotland.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23611274.bbc-scotland-banned-celtic-brendan-rodgers-conference/?ref=rss",
-          "publishedOn": "2023-06-23T17:00:33.000Z",
-          "wordCount": 8609,
-          "title": "BBC Scotland banned by Celtic for Brendan Rodgers conference",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16925151/?type=og-image"
-        },
-        {
-          "id": "d5ce3fa17ebfc12220540d5fceee5734",
-          "author": null,
-          "description": "The Northern Irishman sealed a return to Parkhead earlier this week for a second stint in charge of the Glasgow club.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23611196.celtic-manager-brendan-rodgers-insists-will-honour-contract/?ref=rss",
-          "publishedOn": "2023-06-23T16:30:25.000Z",
-          "wordCount": 8643,
-          "title": "Celtic manager Brendan Rodgers insists he will honour contract",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16925064/?type=og-image"
-        },
-        {
-          "id": "86e72de322461d517a053013d51f5dee",
-          "author": null,
-          "description": "The newly-appointed Celtic manager spoke to the media for the first time since his return to Glasgow was confirmed.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23610982.brendan-rodgers-reveals-one-regret-celtic-exit/?ref=rss",
-          "publishedOn": "2023-06-23T15:38:24.000Z",
-          "wordCount": 8604,
-          "title": "Brendan Rodgers reveals his one regret over Celtic exit",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16924676/?type=og-image"
         }
       ]
     }
