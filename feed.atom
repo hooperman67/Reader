@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-28T15:19:23.696Z</updated>
+    <updated>2023-06-28T18:23:54.904Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -744,16 +744,6 @@
         <summary type="html"><![CDATA[It is just three weeks until the new Scottish football season gets under way with the Viaplay Cup group stages. That leaves clubs plenty of time to get transfer business done.]]></summary>
         <author>
             <name>Joel Sked</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Every word from Brendan Rodgers' gripping Celtic Q&A]]></title>
-        <id>e15f69304b2641e0f83f42babf8180d7</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23611440.every-word-brendan-rodgers-gripping-celtic-q/?ref=rss"/>
-        <updated>2023-06-24T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The returning Parkhead manager sat down with daily newspapers for a wide-ranging interview.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>
