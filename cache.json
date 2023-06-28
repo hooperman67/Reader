@@ -254,26 +254,6 @@
           "wordCount": null,
           "title": "Brendan Rodgers breaks silence on Green Brigade tweet as Celtic boss addresses 'fraud' and 'mediocrity' banner",
           "imageUrl": null
-        },
-        {
-          "id": "4195651",
-          "author": "Alan Pattullo",
-          "description": "There have been few more dynamic illustrations of football’s crazily-paved path than the re-unveiling of a Celtic manager four years after he staged a midnight flit to Leicester City.",
-          "link": "https://www.scotsman.com/sport/football/celtic/brendan-rodgers-celtic-return-and-the-missing-12700-but-no-sign-of-fan-protests-tells-its-own-story-4195651",
-          "publishedOn": "2023-06-23T20:30:46.000Z",
-          "wordCount": null,
-          "title": "Brendan Rodgers' Celtic return and the missing 12,700 - but no sign of fan protests tells its own story",
-          "imageUrl": null
-        },
-        {
-          "id": "4195622",
-          "author": "Matthew Elder",
-          "description": "BBC Scotland are in discussions with Celtic after they were banned from attending Brendan Rodgers’ first press conference following his return as manager.",
-          "link": "https://www.scotsman.com/sport/football/celtic/bbc-scotland-respond-after-being-banned-from-brendan-rodgers-celtic-unveiling-along-with-second-broadcaster-4195622",
-          "publishedOn": "2023-06-23T18:48:04.000Z",
-          "wordCount": null,
-          "title": "BBC Scotland respond after being banned from Brendan Rodgers' Celtic unveiling along with second broadcaster",
-          "imageUrl": null
         }
       ]
     },
@@ -288,6 +268,26 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "d52990d7ef1379ccbc7a581415df7a74",
+          "author": null,
+          "description": "Scott Brown raised a glass with Ray Parlour to Alan Brazil and Ally McCoist.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23618640.scott-brown-bizarre-boozy-toast-alan-brazil-rangers-legend/?ref=rss",
+          "publishedOn": "2023-06-28T07:42:50.000Z",
+          "wordCount": 8597,
+          "title": "Scott Brown in bizarre boozy toast to Alan Brazil and Rangers legend",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16937142/?type=og-image"
+        },
+        {
+          "id": "aded612c8e4206894e1a592bc3f9bb99",
+          "author": null,
+          "description": "Celtic hero Chris Sutton and Rangers playmaker Todd Cantwell have aimed playful jibes at one another on social media.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23618545.celtic-hero-sutton-rangers-cantwell-reignite-war-words/?ref=rss",
+          "publishedOn": "2023-06-28T06:26:25.000Z",
+          "wordCount": 9781,
+          "title": "Celtic hero Sutton and Rangers' Cantwell reignite war of words",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16936998/?type=og-image"
+        },
         {
           "id": "7491c086732c4dc5292d0f80dc1d0e2e",
           "author": null,
@@ -727,26 +727,6 @@
           "wordCount": 9899,
           "title": "Every word from Brendan Rodgers' gripping Celtic Q&A",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16925409/?type=og-image"
-        },
-        {
-          "id": "191d51b3b5d422c7f44e79ae16219d13",
-          "author": null,
-          "description": "Rodgers has usually taken charge of clubs at the end of a difficult period, but he believes it is different this time at Celtic.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23611465.brendan-rodgers-celtic-can-kick-champions-league/?ref=rss",
-          "publishedOn": "2023-06-23T19:35:17.000Z",
-          "wordCount": 8713,
-          "title": "Brendan Rodgers: Why Celtic can kick on in Champions League",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16925399/?type=og-image"
-        },
-        {
-          "id": "bd6a51ebc5df604c5685362d97485880",
-          "author": null,
-          "description": "Rodgers’ unveiling as the new Celtic manager back in 2016 was quite something. The scenes as the prodigal son returned were nowhere near as euphoric.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23611436.brendan-rodgers-not-messiah---regretful-boy/?ref=rss",
-          "publishedOn": "2023-06-23T19:02:57.000Z",
-          "wordCount": 9240,
-          "title": "Brendan Rodgers is not The Messiah - but he's a very regretful boy",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16925378/?type=og-image"
         }
       ]
     }
