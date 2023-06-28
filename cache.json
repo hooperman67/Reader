@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4200794",
+          "author": "Matthew Elder",
+          "description": "Ange Postecoglou has completed his first major transfer deal as Tottenham manager with the signing of James Maddison from Leicester City.",
+          "link": "https://www.scotsman.com/sport/football/celtic/ange-postecoglou-secures-major-tottenham-signing-as-former-celtic-boss-lands-ps40m-target-4200794",
+          "publishedOn": "2023-06-28T20:23:36.000Z",
+          "wordCount": null,
+          "title": "Ange Postecoglou secures major Tottenham signing as former Celtic boss lands £40m target",
+          "imageUrl": null
+        },
+        {
           "id": "4200512",
           "author": "Joel Sked",
           "description": "Between them, Celtic and Rangers have so far signed five players ahead of the new season. More recruits are expected to be confirmed imminently as the teams look to duke it out in the Premiership and progress in Europe.",
@@ -244,26 +254,6 @@
           "wordCount": null,
           "title": "Celtic chief makes 'world class football club' claim and gives Brendan Rodgers 'dominate' aim",
           "imageUrl": null
-        },
-        {
-          "id": "4195663",
-          "author": "Andrew Smith",
-          "description": "There is a little known fact that relates to Brendan Rodgers’ first stint at Celtic.",
-          "link": "https://www.scotsman.com/sport/football/celtic/brendan-rodgers-explains-his-lack-of-celtic-apology-for-leicester-move-and-points-to-kieran-tierney-parallel-4195663",
-          "publishedOn": "2023-06-24T07:00:00.000Z",
-          "wordCount": null,
-          "title": "Brendan Rodgers explains his lack of Celtic apology for Leicester move and points to Kieran Tierney parallel",
-          "imageUrl": null
-        },
-        {
-          "id": "4195694",
-          "author": "Joel Sked",
-          "description": "It is just three weeks until the new Scottish football season gets under way with the Viaplay Cup group stages. That leaves clubs plenty of time to get transfer business done.",
-          "link": "https://www.scotsman.com/sport/football/celtic/scottish-transfers-rangers-ace-admission-celtic-close-in-on-highly-rated-star-dundee-united-duo-to-exit-4195694",
-          "publishedOn": "2023-06-24T06:42:35.000Z",
-          "wordCount": null,
-          "title": "Scottish transfers: Rangers ace admission, Celtic close in on highly-rated star, Dundee United duo to exit",
-          "imageUrl": null
         }
       ]
     },
@@ -278,6 +268,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "b4c401836a105f569e7b46ac1b18665e",
+          "author": null,
+          "description": "The Scottish champions hosted a media conference last Friday to mark the unveiling of Brendan Rodgers' return to the club as manager.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23621115.andy-walker-unimpressed-celtic-bbc-ban-debacle/?ref=rss",
+          "publishedOn": "2023-06-28T17:49:38.000Z",
+          "wordCount": 8676,
+          "title": "Andy Walker unimpressed with Celtic over BBC ban debacle",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16941294/?type=og-image"
+        },
         {
           "id": "35a5c5c8a31982b69be4f46e108ceb6f",
           "author": null,
@@ -747,16 +747,6 @@
           "wordCount": 8530,
           "title": "Reason behind Celtic Brendan Rodgers contract length explained",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16925799/?type=og-image"
-        },
-        {
-          "id": "98f6d7549f1ebccee6ae23372cd88735",
-          "author": null,
-          "description": "John Hartson has backtracked on his comments suggesting Brendan Rodgers had \"made a fool\" of him by leaving Celtic for Leicester.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23611659.john-hartson-brendan-rodgers-u-turn-celtic-return/?ref=rss",
-          "publishedOn": "2023-06-24T08:38:47.000Z",
-          "wordCount": 8606,
-          "title": "John Hartson in Brendan Rodgers U-turn after Celtic return",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16925680/?type=og-image"
         }
       ]
     }

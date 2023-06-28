@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-28T18:23:54.904Z</updated>
+    <updated>2023-06-28T21:16:18.626Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ange Postecoglou secures major Tottenham signing as former Celtic boss lands £40m target]]></title>
+        <id>4200794</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/ange-postecoglou-secures-major-tottenham-signing-as-former-celtic-boss-lands-ps40m-target-4200794"/>
+        <updated>2023-06-28T20:23:36.000Z</updated>
+        <summary type="html"><![CDATA[Ange Postecoglou has completed his first major transfer deal as Tottenham manager with the signing of James Maddison from Leicester City.]]></summary>
+        <author>
+            <name>Matthew Elder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Andy Walker unimpressed with Celtic over BBC ban debacle]]></title>
+        <id>b4c401836a105f569e7b46ac1b18665e</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23621115.andy-walker-unimpressed-celtic-bbc-ban-debacle/?ref=rss"/>
+        <updated>2023-06-28T17:49:38.000Z</updated>
+        <summary type="html"><![CDATA[The Scottish champions hosted a media conference last Friday to mark the unveiling of Brendan Rodgers' return to the club as manager.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Old Firm transfers: £7m ace set for Rangers medical, Celtic agree 2nd signing, Ibrox target attracts attention]]></title>
         <id>4200512</id>
@@ -714,36 +734,6 @@
         <summary type="html"><![CDATA[Celtic want to be a “world class football club” in whatever they do as new manager Brendan Rodgers has been given the task of continuing to dominate in Scotland.]]></summary>
         <author>
             <name>Chris Andrews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[John Hartson in Brendan Rodgers U-turn after Celtic return]]></title>
-        <id>98f6d7549f1ebccee6ae23372cd88735</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23611659.john-hartson-brendan-rodgers-u-turn-celtic-return/?ref=rss"/>
-        <updated>2023-06-24T08:38:47.000Z</updated>
-        <summary type="html"><![CDATA[John Hartson has backtracked on his comments suggesting Brendan Rodgers had "made a fool" of him by leaving Celtic for Leicester.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brendan Rodgers explains his lack of Celtic apology for Leicester move and points to Kieran Tierney parallel]]></title>
-        <id>4195663</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/brendan-rodgers-explains-his-lack-of-celtic-apology-for-leicester-move-and-points-to-kieran-tierney-parallel-4195663"/>
-        <updated>2023-06-24T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[There is a little known fact that relates to Brendan Rodgers’ first stint at Celtic.]]></summary>
-        <author>
-            <name>Andrew Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scottish transfers: Rangers ace admission, Celtic close in on highly-rated star, Dundee United duo to exit]]></title>
-        <id>4195694</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/scottish-transfers-rangers-ace-admission-celtic-close-in-on-highly-rated-star-dundee-united-duo-to-exit-4195694"/>
-        <updated>2023-06-24T06:42:35.000Z</updated>
-        <summary type="html"><![CDATA[It is just three weeks until the new Scottish football season gets under way with the Viaplay Cup group stages. That leaves clubs plenty of time to get transfer business done.]]></summary>
-        <author>
-            <name>Joel Sked</name>
         </author>
     </entry>
 </feed>
