@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-27T21:16:31.482Z</updated>
+    <updated>2023-06-28T01:53:50.404Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Alistair Johnston lifts lid on his Celtic 'struggles' that were hidden from the 'outside world']]></title>
+        <id>4199267</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/alistair-johnston-lifts-lid-on-his-celtic-struggles-that-were-hidden-from-the-outside-world-4199267"/>
+        <updated>2023-06-27T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[When Celtic sold Josip Juranovic to Union Berlin for £7.5m in January it was clear that they had already secured a ready-made replacement for less than half the price.]]></summary>
+        <author>
+            <name>Matthew Elder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alistair Johnston reveals his unseen Celtic struggles]]></title>
+        <id>df173b97e997842e2d777e3e5cab5320</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23616445.alistair-johnston-reveals-unseen-celtic-struggles/?ref=rss"/>
+        <updated>2023-06-27T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The 24-year-old right-back is preparing for a first full season in Scotland.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kieran Tierney: Arsenal star 'open' to shock Celtic return, £120k-a-week wages, Newcastle United link]]></title>
         <id>4199281</id>
@@ -784,56 +804,6 @@
         <summary type="html"><![CDATA[The newly-appointed Celtic manager spoke to the media for the first time since his return to Glasgow was confirmed.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to watch Brendan Rodgers Celtic press conference live]]></title>
-        <id>a97f9f32e14808a2a751521e70a8238d</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23610123.watch-brendan-rodgers-celtic-press-conference-live/?ref=rss"/>
-        <updated>2023-06-23T12:39:59.000Z</updated>
-        <summary type="html"><![CDATA[Celtic have revealed they will live stream coverage of Brendan Rodgers' first press conference back at Celtic.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The SPFL attendance record revealed as Scotland has highest number of match-going supporters in Europe again]]></title>
-        <id>4194722</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/the-spfl-attendance-record-revealed-as-scotland-has-highest-number-of-match-going-supporters-in-europe-again-4194722"/>
-        <updated>2023-06-23T11:28:49.000Z</updated>
-        <summary type="html"><![CDATA[The SPFL have confirmed more than five million fans attended matches in all competitions last season, setting a new record.]]></summary>
-        <author>
-            <name>Joel Sked</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic set to form feeder club partnership with European side]]></title>
-        <id>41723efb2d3f9a3f5b05cfa5d3fc552d</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23609855.celtic-set-form-feeder-club-partnership-european-side/?ref=rss"/>
-        <updated>2023-06-23T11:23:59.000Z</updated>
-        <summary type="html"><![CDATA[Celtic are set to form a partnership with Austrian second-tier side Admira Wacker.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic FC  investor takes over home of Glasgow Cranside Kitchen]]></title>
-        <id>2ec0026286a39d22f3713bb407f58974</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23609830.celtic-fc-investor-takes-home-glasgow-cranside-kitchen/?ref=rss"/>
-        <updated>2023-06-23T11:17:49.000Z</updated>
-        <summary type="html"><![CDATA[A major Celtic backer has taken over Glasgow's iconic North Rotunda, home to Cranside Kitchen.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ex-Celtic star pinpoints the 4 positions Brendan Rodgers may look to strengthen with £30m war chest]]></title>
-        <id>4194636</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/ex-celtic-star-pinpoints-the-4-positions-brendan-rodgers-may-look-to-strengthen-with-ps30m-war-chest-4194636"/>
-        <updated>2023-06-23T10:54:15.000Z</updated>
-        <summary type="html"><![CDATA[Celtic manager Brendan Rodgers will be unveiled to the media this afternoon as he gets to work for his second spell leading the Scottish champions – and he may look to recruit for four different positions.]]></summary>
-        <author>
-            <name>Joel Sked</name>
         </author>
     </entry>
 </feed>

@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4199267",
+          "author": "Matthew Elder",
+          "description": "When Celtic sold Josip Juranovic to Union Berlin for £7.5m in January it was clear that they had already secured a ready-made replacement for less than half the price.",
+          "link": "https://www.scotsman.com/sport/football/celtic/alistair-johnston-lifts-lid-on-his-celtic-struggles-that-were-hidden-from-the-outside-world-4199267",
+          "publishedOn": "2023-06-27T21:30:00.000Z",
+          "wordCount": null,
+          "title": "Alistair Johnston lifts lid on his Celtic 'struggles' that were hidden from the 'outside world'",
+          "imageUrl": null
+        },
+        {
           "id": "4199281",
           "author": "Chris Andrews",
           "description": "Kieran Tierney would be open to Celtic return this summer if he was to leave Arsenal.",
@@ -274,26 +284,6 @@
           "wordCount": null,
           "title": "'I don't regret it' - Brendan Rodgers addresses Celtic fan anger in message to 'people who don't want me here'",
           "imageUrl": null
-        },
-        {
-          "id": "4194722",
-          "author": "Joel Sked",
-          "description": "The SPFL have confirmed more than five million fans attended matches in all competitions last season, setting a new record.",
-          "link": "https://www.scotsman.com/sport/football/celtic/the-spfl-attendance-record-revealed-as-scotland-has-highest-number-of-match-going-supporters-in-europe-again-4194722",
-          "publishedOn": "2023-06-23T11:28:49.000Z",
-          "wordCount": null,
-          "title": "The SPFL attendance record revealed as Scotland has highest number of match-going supporters in Europe again",
-          "imageUrl": null
-        },
-        {
-          "id": "4194636",
-          "author": "Joel Sked",
-          "description": "Celtic manager Brendan Rodgers will be unveiled to the media this afternoon as he gets to work for his second spell leading the Scottish champions – and he may look to recruit for four different positions.",
-          "link": "https://www.scotsman.com/sport/football/celtic/ex-celtic-star-pinpoints-the-4-positions-brendan-rodgers-may-look-to-strengthen-with-ps30m-war-chest-4194636",
-          "publishedOn": "2023-06-23T10:54:15.000Z",
-          "wordCount": null,
-          "title": "Ex-Celtic star pinpoints the 4 positions Brendan Rodgers may look to strengthen with £30m war chest",
-          "imageUrl": null
         }
       ]
     },
@@ -308,6 +298,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "df173b97e997842e2d777e3e5cab5320",
+          "author": null,
+          "description": "The 24-year-old right-back is preparing for a first full season in Scotland.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23616445.alistair-johnston-reveals-unseen-celtic-struggles/?ref=rss",
+          "publishedOn": "2023-06-27T21:30:00.000Z",
+          "wordCount": 8887,
+          "title": "Alistair Johnston reveals his unseen Celtic struggles",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16933478/?type=og-image"
+        },
         {
           "id": "3557b5f2f7c2f859a7cd9f5f57ab15ca",
           "author": null,
@@ -817,36 +817,6 @@
           "wordCount": 8604,
           "title": "Brendan Rodgers reveals his one regret over Celtic exit",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16924676/?type=og-image"
-        },
-        {
-          "id": "a97f9f32e14808a2a751521e70a8238d",
-          "author": null,
-          "description": "Celtic have revealed they will live stream coverage of Brendan Rodgers' first press conference back at Celtic.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23610123.watch-brendan-rodgers-celtic-press-conference-live/?ref=rss",
-          "publishedOn": "2023-06-23T12:39:59.000Z",
-          "wordCount": 8669,
-          "title": "How to watch Brendan Rodgers Celtic press conference live",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16922952/?type=og-image"
-        },
-        {
-          "id": "41723efb2d3f9a3f5b05cfa5d3fc552d",
-          "author": null,
-          "description": "Celtic are set to form a partnership with Austrian second-tier side Admira Wacker.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23609855.celtic-set-form-feeder-club-partnership-european-side/?ref=rss",
-          "publishedOn": "2023-06-23T11:23:59.000Z",
-          "wordCount": 8475,
-          "title": "Celtic set to form feeder club partnership with European side",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16922533/?type=og-image"
-        },
-        {
-          "id": "2ec0026286a39d22f3713bb407f58974",
-          "author": null,
-          "description": "A major Celtic backer has taken over Glasgow's iconic North Rotunda, home to Cranside Kitchen.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23609830.celtic-fc-investor-takes-home-glasgow-cranside-kitchen/?ref=rss",
-          "publishedOn": "2023-06-23T11:17:49.000Z",
-          "wordCount": 8440,
-          "title": "Celtic FC  investor takes over home of Glasgow Cranside Kitchen",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16922514/?type=og-image"
         }
       ]
     }
