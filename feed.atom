@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-29T12:38:07.276Z</updated>
+    <updated>2023-06-29T15:18:53.264Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Jota 'agrees' shock Celtic exit with star winger set to link up with Karim Benzema in Saudi Arabia]]></title>
+        <id>4201842</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/jota-agrees-shock-celtic-exit-with-star-winger-set-to-link-up-with-karim-benzema-in-saudi-arabia-4201842"/>
+        <updated>2023-06-29T14:35:53.000Z</updated>
+        <summary type="html"><![CDATA[Jota is reportedly closing in on a shock transfer from Celtic after being strongly linked with a move to Saudi Arabia.]]></summary>
+        <author>
+            <name>Matthew Elder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jota set for Celtic transfer exit as he 'agrees terms' with Al-Ittihad]]></title>
+        <id>8bf64ecda2b662c3aee4477a89e0d2ba</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23623088.jota-set-celtic-transfer-exit-agrees-terms-al-ittihad/?ref=rss"/>
+        <updated>2023-06-29T14:09:27.000Z</updated>
+        <summary type="html"><![CDATA[The Portuguese winger has been linked with a move away from Parkhead this summer.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic star Oh Hyeon-gyu officially became a year younger overnight]]></title>
+        <id>e1200d10e3fea136f6e476a5285842e2</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23622560.celtic-star-oh-hyeon-gyu-officially-became-year-younger-overnight/?ref=rss"/>
+        <updated>2023-06-29T12:28:56.000Z</updated>
+        <summary type="html"><![CDATA[Traditionally, South Koreans turn one on the day they are born – and another year older when the calendar hits January 1.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic release statement after Wolves friendly axed]]></title>
         <id>d093df392601fbb7fdf7e4b5abf2835f</id>

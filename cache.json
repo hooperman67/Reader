@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4201842",
+          "author": "Matthew Elder",
+          "description": "Jota is reportedly closing in on a shock transfer from Celtic after being strongly linked with a move to Saudi Arabia.",
+          "link": "https://www.scotsman.com/sport/football/celtic/jota-agrees-shock-celtic-exit-with-star-winger-set-to-link-up-with-karim-benzema-in-saudi-arabia-4201842",
+          "publishedOn": "2023-06-29T14:35:53.000Z",
+          "wordCount": null,
+          "title": "Jota 'agrees' shock Celtic exit with star winger set to link up with Karim Benzema in Saudi Arabia",
+          "imageUrl": null
+        },
+        {
           "id": "4201097",
           "author": "Matthew Elder",
           "description": "Neil Lennon has cast doubts over whether Kyogo Furuhashi would be capable of playing regularly for Tottenham amid reports that Ange Postecoglou could make a move for the Celtic striker.",
@@ -228,6 +238,26 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "8bf64ecda2b662c3aee4477a89e0d2ba",
+          "author": null,
+          "description": "The Portuguese winger has been linked with a move away from Parkhead this summer.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23623088.jota-set-celtic-transfer-exit-agrees-terms-al-ittihad/?ref=rss",
+          "publishedOn": "2023-06-29T14:09:27.000Z",
+          "wordCount": 10018,
+          "title": "Jota set for Celtic transfer exit as he 'agrees terms' with Al-Ittihad",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16944064/?type=og-image"
+        },
+        {
+          "id": "e1200d10e3fea136f6e476a5285842e2",
+          "author": null,
+          "description": "Traditionally, South Koreans turn one on the day they are born – and another year older when the calendar hits January 1.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23622560.celtic-star-oh-hyeon-gyu-officially-became-year-younger-overnight/?ref=rss",
+          "publishedOn": "2023-06-29T12:28:56.000Z",
+          "wordCount": 8825,
+          "title": "Celtic star Oh Hyeon-gyu officially became a year younger overnight",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16943454/?type=og-image"
+        },
         {
           "id": "d093df392601fbb7fdf7e4b5abf2835f",
           "author": null,
