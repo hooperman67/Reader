@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-29T15:18:53.264Z</updated>
+    <updated>2023-06-29T18:25:30.837Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Michael Beale faces toughest of starts in first full term at Rangers]]></title>
+        <id>242ca232a7d8a5228446bd6d101fa2fb</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23623683.michael-beale-faces-toughest-starts-first-full-term-rangers/?ref=rss"/>
+        <updated>2023-06-29T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[FWHOO, ring, eeek. Fwhoo, ring, eeek. This atonal symphony has been chiming around my mind since 1pm on Wednesday when the school bell belted out to signal the start of the summer holiday scorched into my mind as my seven-week secondment to the role of breakfast manager, playtime master, snack haggler, boxing referee, lunch coordinator, afternoon decryptor, (early) dinner chef, (early) bath scrubber, (early) pyjama placer, film flinger-on-er, (early) story reader and bed covers tucker-under-so-tight-they-can’t-come-out-and-interrupt-my-TV-time.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jota 'agrees' shock Celtic exit with star winger set to link up with Karim Benzema in Saudi Arabia]]></title>
         <id>4201842</id>
@@ -724,16 +734,6 @@
         <summary type="html"><![CDATA[The transfer window has been open for less than two weeks but cinch Premiership sides have already been active, some more than others. In total 26 signings have been confirmed. Many of the names are familiar to Scottish football fans but there are some who will be new to the game north of the border. The Scotsman looks at some of those newcomers and what we can expect...]]></summary>
         <author>
             <name>Joel Sked</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I'll relish playing Michael Beale's new Rangers, says Brendan Rodgers]]></title>
-        <id>c9a08871ba341f7ba3e70847a9528a3b</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23612228.relish-playing-michael-beales-new-rangers-says-brendan-rodgers/?ref=rss"/>
-        <updated>2023-06-25T06:02:00.000Z</updated>
-        <summary type="html"><![CDATA[BRENDAN Rodgers has admitted he is relishing the prospect of coming up against Michael Beale next season and predicted the challenge of beating his former colleague’s new-look Rangers team to silverware will bring out the best in him at Celtic.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>

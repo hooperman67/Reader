@@ -239,6 +239,16 @@
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
         {
+          "id": "242ca232a7d8a5228446bd6d101fa2fb",
+          "author": null,
+          "description": "FWHOO, ring, eeek. Fwhoo, ring, eeek. This atonal symphony has been chiming around my mind since 1pm on Wednesday when the school bell belted out to signal the start of the summer holiday scorched into my mind as my seven-week secondment to the role of breakfast manager, playtime master, snack haggler, boxing referee, lunch coordinator, afternoon decryptor, (early) dinner chef, (early) bath scrubber, (early) pyjama placer, film flinger-on-er, (early) story reader and bed covers tucker-under-so-tight-they-can’t-come-out-and-interrupt-my-TV-time.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23623683.michael-beale-faces-toughest-starts-first-full-term-rangers/?ref=rss",
+          "publishedOn": "2023-06-29T16:30:00.000Z",
+          "wordCount": 9400,
+          "title": "Michael Beale faces toughest of starts in first full term at Rangers",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16945156/?type=og-image"
+        },
+        {
           "id": "8bf64ecda2b662c3aee4477a89e0d2ba",
           "author": null,
           "description": "The Portuguese winger has been linked with a move away from Parkhead this summer.",
@@ -737,16 +747,6 @@
           "wordCount": 8738,
           "title": "Burnley eye Kyogo transfer deal amid Ange Postecoglou Spurs link",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16927069/?type=og-image"
-        },
-        {
-          "id": "c9a08871ba341f7ba3e70847a9528a3b",
-          "author": null,
-          "description": "BRENDAN Rodgers has admitted he is relishing the prospect of coming up against Michael Beale next season and predicted the challenge of beating his former colleague’s new-look Rangers team to silverware will bring out the best in him at Celtic.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23612228.relish-playing-michael-beales-new-rangers-says-brendan-rodgers/?ref=rss",
-          "publishedOn": "2023-06-25T06:02:00.000Z",
-          "wordCount": 8784,
-          "title": "I'll relish playing Michael Beale's new Rangers, says Brendan Rodgers",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16926797/?type=og-image"
         }
       ]
     }
