@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-28T21:16:18.626Z</updated>
+    <updated>2023-06-29T01:49:40.842Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -704,36 +704,6 @@
         <summary type="html"><![CDATA[Brendan Rodgers was "better than Leicester", that's the opinion of John Collins.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reason behind Celtic Brendan Rodgers contract length explained]]></title>
-        <id>2f202cb9a97f1c4e16528994f9604b8f</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23611939.reason-behind-celtic-brendan-rodgers-contract-length-explained/?ref=rss"/>
-        <updated>2023-06-24T12:55:59.000Z</updated>
-        <summary type="html"><![CDATA[Brendan Rodgers has signed a three-year deal at Celtic.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spain v Scotland: Stadium confirmed for 'revenge' Euro 2024 qualifier, Pot 1 importance, Celtic v Porto]]></title>
-        <id>4195813</id>
-        <link href="https://www.scotsman.com/sport/football/spain-v-scotland-stadium-confirmed-for-revenge-euro-2024-qualifier-pot-1-importance-celtic-v-porto-4195813"/>
-        <updated>2023-06-24T11:53:22.000Z</updated>
-        <summary type="html"><![CDATA[Scotland will travel to Seville for their Euro 2024 qualifier with Spain later this year, it has been confirmed.]]></summary>
-        <author>
-            <name>Joel Sked</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic chief makes 'world class football club' claim and gives Brendan Rodgers 'dominate' aim]]></title>
-        <id>4195766</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/celtic-chief-makes-world-class-football-club-claim-and-gives-brendan-rodgers-dominate-aim-4195766"/>
-        <updated>2023-06-24T10:15:08.000Z</updated>
-        <summary type="html"><![CDATA[Celtic want to be a “world class football club” in whatever they do as new manager Brendan Rodgers has been given the task of continuing to dominate in Scotland.]]></summary>
-        <author>
-            <name>Chris Andrews</name>
         </author>
     </entry>
 </feed>
