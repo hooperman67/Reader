@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-29T09:18:42.164Z</updated>
+    <updated>2023-06-29T12:38:07.276Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic release statement after Wolves friendly axed]]></title>
+        <id>d093df392601fbb7fdf7e4b5abf2835f</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23621954.celtic-release-statement-wolves-friendly-axed/?ref=rss"/>
+        <updated>2023-06-29T10:10:49.000Z</updated>
+        <summary type="html"><![CDATA[Celtic are "liaising with match organisers" after Wolves pulled out of the Asian tour.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kyrgios reveals bizarre reason he is behind Ange Postecoglou and Spurs]]></title>
+        <id>833c68989f75b9cc4af9fc3ca106bb80</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23621865.kyrgios-reveals-bizarre-reason-behind-ange-postecoglou-spurs/?ref=rss"/>
+        <updated>2023-06-29T09:50:47.000Z</updated>
+        <summary type="html"><![CDATA[Tennis star Nick Kyrgios has revealed the strange reason why he is a fan of Spurs and new manager Ange Postecoglou.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Former Celtic manager insists Kyogo 'not a top end EPL player' amid Spurs links]]></title>
+        <id>4201097</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/former-celtic-manager-insists-kyogo-not-a-top-end-epl-player-amid-spurs-links-4201097"/>
+        <updated>2023-06-29T09:22:22.000Z</updated>
+        <summary type="html"><![CDATA[Neil Lennon has cast doubts over whether Kyogo Furuhashi would be capable of playing regularly for Tottenham amid reports that Ange Postecoglou could make a move for the Celtic striker.]]></summary>
+        <author>
+            <name>Matthew Elder</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic vs Wolves pre-season friendly in South Korea scrapped]]></title>
         <id>bcd90e63c158fdd7c43f3b328d1058ec</id>
@@ -674,46 +704,6 @@
         <summary type="html"><![CDATA[BRENDAN Rodgers has admitted he is relishing the prospect of coming up against Michael Beale next season and predicted the challenge of beating his former colleague’s new-look Rangers team to silverware will bring out the best in him at Celtic.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brendan Rodgers to take new pragmatic approach with Celtic in Europe]]></title>
-        <id>bed2d9638ca53bb274d816de81fc733a</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23612178.brendan-rodgers-take-new-pragmatic-approach-celtic-europe/?ref=rss"/>
-        <updated>2023-06-24T21:34:00.000Z</updated>
-        <summary type="html"><![CDATA[THE heavy defeats his side suffered at the hands of Barcelona and Paris Saint-Germain during his first spell in the dugout at Celtic did nothing to convince Brendan Rodgers that he needed to alter his attacking game plan in Europe.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic manager on failed Leicester City bid to sign Callum McGregor]]></title>
-        <id>0a384116266e7b91265ba3d6646763bb</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23612214.celtic-manager-failed-leicester-city-bid-sign-callum-mcgregor/?ref=rss"/>
-        <updated>2023-06-24T21:31:00.000Z</updated>
-        <summary type="html"><![CDATA[Celtic manager Brendan Rodgers on failed Leicester City bid to sign Callum McGregor]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brendan Rodgers relieved he failed in bid to sign Celtic's Callum McGregor for Leicester]]></title>
-        <id>4195776</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/brendan-rodgers-relieved-he-failed-in-bid-to-sign-celtics-callum-mcgregor-for-leicester-4195776"/>
-        <updated>2023-06-24T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In Callum McGregor, Celtic are led by a captain easily talented enough to thrive for a top six club in the English Premier League, returning manager Brendan Rodgers has insisted.]]></summary>
-        <author>
-            <name>Andrew Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brendan Rodgers relieved he failed in bid to sign Celtic's EPL 'top six' performer for Leicester]]></title>
-        <id>4195776</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/brendan-rodgers-relieved-he-failed-in-bid-to-sign-celtics-epl-top-six-performer-for-leicester-4195776"/>
-        <updated>2023-06-24T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In Callum McGregor, Celtic are led by a captain easily talented enough to thrive for a top six club in the English Premier League, returning manager Brendan Rodgers has insisted.]]></summary>
-        <author>
-            <name>Andrew Smith</name>
         </author>
     </entry>
 </feed>

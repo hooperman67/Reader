@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4201097",
+          "author": "Matthew Elder",
+          "description": "Neil Lennon has cast doubts over whether Kyogo Furuhashi would be capable of playing regularly for Tottenham amid reports that Ange Postecoglou could make a move for the Celtic striker.",
+          "link": "https://www.scotsman.com/sport/football/celtic/former-celtic-manager-insists-kyogo-not-a-top-end-epl-player-amid-spurs-links-4201097",
+          "publishedOn": "2023-06-29T09:22:22.000Z",
+          "wordCount": null,
+          "title": "Former Celtic manager insists Kyogo 'not a top end EPL player' amid Spurs links",
+          "imageUrl": null
+        },
+        {
           "id": "4200794",
           "author": "Matthew Elder",
           "description": "Ange Postecoglou has completed his first major transfer deal as Tottenham manager with the signing of James Maddison from Leicester City.",
@@ -204,26 +214,6 @@
           "wordCount": null,
           "title": "5 most interesting Premiership newcomers - Celtic's in-demand star, €9m Rangers striker, Hibs & Aberdeen recruits",
           "imageUrl": null
-        },
-        {
-          "id": "4195776",
-          "author": "Andrew Smith",
-          "description": "In Callum McGregor, Celtic are led by a captain easily talented enough to thrive for a top six club in the English Premier League, returning manager Brendan Rodgers has insisted.",
-          "link": "https://www.scotsman.com/sport/football/celtic/brendan-rodgers-relieved-he-failed-in-bid-to-sign-celtics-callum-mcgregor-for-leicester-4195776",
-          "publishedOn": "2023-06-24T21:30:00.000Z",
-          "wordCount": null,
-          "title": "Brendan Rodgers relieved he failed in bid to sign Celtic's Callum McGregor for Leicester",
-          "imageUrl": null
-        },
-        {
-          "id": "4195776",
-          "author": "Andrew Smith",
-          "description": "In Callum McGregor, Celtic are led by a captain easily talented enough to thrive for a top six club in the English Premier League, returning manager Brendan Rodgers has insisted.",
-          "link": "https://www.scotsman.com/sport/football/celtic/brendan-rodgers-relieved-he-failed-in-bid-to-sign-celtics-epl-top-six-performer-for-leicester-4195776",
-          "publishedOn": "2023-06-24T21:30:00.000Z",
-          "wordCount": null,
-          "title": "Brendan Rodgers relieved he failed in bid to sign Celtic's EPL 'top six' performer for Leicester",
-          "imageUrl": null
         }
       ]
     },
@@ -238,6 +228,26 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "d093df392601fbb7fdf7e4b5abf2835f",
+          "author": null,
+          "description": "Celtic are \"liaising with match organisers\" after Wolves pulled out of the Asian tour.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23621954.celtic-release-statement-wolves-friendly-axed/?ref=rss",
+          "publishedOn": "2023-06-29T10:10:49.000Z",
+          "wordCount": 8743,
+          "title": "Celtic release statement after Wolves friendly axed",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16942449/?type=og-image"
+        },
+        {
+          "id": "833c68989f75b9cc4af9fc3ca106bb80",
+          "author": null,
+          "description": "Tennis star Nick Kyrgios has revealed the strange reason why he is a fan of Spurs and new manager Ange Postecoglou.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23621865.kyrgios-reveals-bizarre-reason-behind-ange-postecoglou-spurs/?ref=rss",
+          "publishedOn": "2023-06-29T09:50:47.000Z",
+          "wordCount": 8790,
+          "title": "Kyrgios reveals bizarre reason he is behind Ange Postecoglou and Spurs",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16868516/?type=og-image"
+        },
         {
           "id": "bcd90e63c158fdd7c43f3b328d1058ec",
           "author": null,
@@ -707,26 +717,6 @@
           "wordCount": 8784,
           "title": "I'll relish playing Michael Beale's new Rangers, says Brendan Rodgers",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16926797/?type=og-image"
-        },
-        {
-          "id": "bed2d9638ca53bb274d816de81fc733a",
-          "author": null,
-          "description": "THE heavy defeats his side suffered at the hands of Barcelona and Paris Saint-Germain during his first spell in the dugout at Celtic did nothing to convince Brendan Rodgers that he needed to alter his attacking game plan in Europe.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23612178.brendan-rodgers-take-new-pragmatic-approach-celtic-europe/?ref=rss",
-          "publishedOn": "2023-06-24T21:34:00.000Z",
-          "wordCount": 9281,
-          "title": "Brendan Rodgers to take new pragmatic approach with Celtic in Europe",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16926649/?type=og-image"
-        },
-        {
-          "id": "0a384116266e7b91265ba3d6646763bb",
-          "author": null,
-          "description": "Celtic manager Brendan Rodgers on failed Leicester City bid to sign Callum McGregor",
-          "link": "https://www.glasgowtimes.co.uk/sport/23612214.celtic-manager-failed-leicester-city-bid-sign-callum-mcgregor/?ref=rss",
-          "publishedOn": "2023-06-24T21:31:00.000Z",
-          "wordCount": 8902,
-          "title": "Celtic manager on failed Leicester City bid to sign Callum McGregor",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16926783/?type=og-image"
         }
       ]
     }
