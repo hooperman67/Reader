@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-30T18:23:07.678Z</updated>
+    <updated>2023-06-30T21:15:53.785Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Neil Doncaster braced for more Scottish football 'issues' but SPFL chief backs VAR to improve]]></title>
+        <id>4203966</id>
+        <link href="https://www.scotsman.com/sport/football/neil-doncaster-braced-for-more-scottish-football-issues-but-spfl-chief-backs-var-to-improve-4203966"/>
+        <updated>2023-06-30T19:44:15.000Z</updated>
+        <summary type="html"><![CDATA[SPFL chief executive Neil Doncaster admits he is braced for another season of off-field “issues” in Scottish football but hopes that the performance of VAR will improve.]]></summary>
+        <author>
+            <name>Matthew Elder</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic's crocodile-skin monstrosity - why latest strip offering from adidas struck the wrong note]]></title>
         <id>4203926</id>
@@ -14,6 +24,16 @@
         <summary type="html"><![CDATA[All the ominous phrases were present and correct. “Modern twist”, "offering a nod”, and "perfect fusion”.]]></summary>
         <author>
             <name>Alan Pattullo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scottish transfers: Rangers near big signing, Hibs lead Hearts in race for target, Celtic deal falls through]]></title>
+        <id>4203845</id>
+        <link href="https://www.scotsman.com/sport/football/rangers/scottish-transfers-rangers-near-big-signing-hibs-lead-hearts-in-race-for-target-celtic-deal-falls-through-4203845"/>
+        <updated>2023-06-30T16:09:44.000Z</updated>
+        <summary type="html"><![CDATA[The new Premiership season moved closer with the release of the 2023/24 fixtures. Meanwhile, clubs are continuing to pursue deals ahead of the start of the campaign as preparation in pre-season is ramped up.]]></summary>
+        <author>
+            <name>Joel Sked</name>
         </author>
     </entry>
     <entry>
@@ -814,36 +834,6 @@
         <summary type="html"><![CDATA[By the end of the week all 12 Scottish Premiership sides are expected to be back for pre-season before heading off to Europe and beyond for training camps or tours. Managers will be keen to bring in signings across the coming days and weeks.]]></summary>
         <author>
             <name>Joel Sked</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Postecoglou and Spurs set for £60m transfer hijack for key target]]></title>
-        <id>e4719c1489da9f798e4e5e27dbd7a606</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23613385.postecoglou-spurs-set-60m-transfer-hijack-key-target/?ref=rss"/>
-        <updated>2023-06-26T08:39:17.000Z</updated>
-        <summary type="html"><![CDATA[The Aussie is aiming to put his stamp on Spurs ahead of the new season.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic defender emerges as transfer target for Serie A clubs]]></title>
-        <id>ca1612ef0d2904fa401e88a115ffe7de</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23613377.celtic-defender-emerges-transfer-target-serie-clubs/?ref=rss"/>
-        <updated>2023-06-26T08:37:09.000Z</updated>
-        <summary type="html"><![CDATA[Stephen Welsh is reportedly a transfer target for Hellas Verona with Bologna also moniotoring the central defender.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yang demands to be allowed to complete Celtic transfer switch]]></title>
-        <id>c9c03f18ca3ac6dcb2129f98f27749a1</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23613143.yang-demands-allowed-complete-celtic-transfer-switch/?ref=rss"/>
-        <updated>2023-06-26T06:41:15.000Z</updated>
-        <summary type="html"><![CDATA[Yang Hyun-jun has demanded he be allowed to move to Celtic this summer.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>
