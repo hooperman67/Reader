@@ -6,6 +6,26 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4203076",
+          "author": "Matthew Elder",
+          "description": "Celtic have completed the signing of Australia international Marco Tilio from Melbourne City.",
+          "link": "https://www.scotsman.com/sport/football/celtic/marco-tilio-signs-for-celtic-and-reveals-significance-of-keeping-his-melbourne-jersey-number-4203076",
+          "publishedOn": "2023-06-30T11:09:44.000Z",
+          "wordCount": null,
+          "title": "Marco Tilio signs for Celtic and reveals significance of keeping his Melbourne jersey number",
+          "imageUrl": null
+        },
+        {
+          "id": "4202894",
+          "author": "Chris Andrews",
+          "description": "The 2023/24 cinch Premiership season has moved that step closer after the SPFL released the fixtures for the upcoming campaign.",
+          "link": "https://www.scotsman.com/sport/football/celtic/supercomputer-predicts-celtic-rangers-title-winner-3rd-place-and-relegated-side-for-2023-24-premiership-season-4202894",
+          "publishedOn": "2023-06-30T09:59:37.000Z",
+          "wordCount": null,
+          "title": "Supercomputer predicts Celtic-Rangers title winner, 3rd place and relegated side for 2023-24 Premiership season",
+          "imageUrl": null
+        },
+        {
           "id": "4202476",
           "author": "Joel Sked",
           "description": "Celtic will host Ross County on the opening weekend of the Scottish Premiership season as they unfurl the league-winning flag, while the first clash with Rangers has been scheduled for September.",
@@ -214,16 +234,6 @@
           "wordCount": null,
           "title": "Scottish transfers: Serie A side want Celtic ace, Rangers to sign €8m forward, Aberdeen eye 2nd Liverpool deal",
           "imageUrl": null
-        },
-        {
-          "id": "4196174",
-          "author": "Andrew Smith",
-          "description": "Scottish football can feel far removed from the inner sanctums where the strategic planning happens at the top end across the continent.",
-          "link": "https://www.scotsman.com/sport/football/celtic/how-celtics-peter-lawwell-helped-save-football-from-super-league-and-the-growing-influence-of-rangers-at-europes-top-table-4196174",
-          "publishedOn": "2023-06-25T21:30:00.000Z",
-          "wordCount": null,
-          "title": "How Celtic's Peter Lawwell helped save football from Super League - and the growing influence of Rangers at Europe's top table",
-          "imageUrl": null
         }
       ]
     },
@@ -238,6 +248,46 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "a546903bca183122bd56f5ee14494cfa",
+          "author": null,
+          "description": "The 21-year-old joins from Melbourne City as Brendan Rodgers' second summer signing.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23624872.marco-tilio-names-two-celtic-heroes-made-transfer-easy-decision/?ref=rss",
+          "publishedOn": "2023-06-30T10:48:02.000Z",
+          "wordCount": 8983,
+          "title": "Marco Tilio names two Celtic heroes who made transfer an easy decision",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16935841/?type=og-image"
+        },
+        {
+          "id": "765efb8dcfe076bd6e9d636f4fe669fe",
+          "author": null,
+          "description": "The attacker has joined the Scottish champions from Melbourne City.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23620464.marco-tilio-celtic-transfer-complete-announcement-made/?ref=rss",
+          "publishedOn": "2023-06-30T10:25:00.000Z",
+          "wordCount": 9757,
+          "title": "Marco Tilio Celtic transfer complete as announcement is made",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16940217/?type=og-image"
+        },
+        {
+          "id": "9f6ab96ad2a5f9b266084ae46532891d",
+          "author": null,
+          "description": "The Ivorian hasn't played for the Premiership champions for over a year and appears to be on his way out at Parkhead.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23624489.celtic-midfielder-ismaila-soro-very-close-transfer-exit/?ref=rss",
+          "publishedOn": "2023-06-30T09:34:37.000Z",
+          "wordCount": 8585,
+          "title": "Celtic midfielder Ismaila Soro 'very close' to transfer exit",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16946615/?type=og-image"
+        },
+        {
+          "id": "ac201a1396cd07779680714a690b8e8c",
+          "author": null,
+          "description": "Ange Postecoglou told new signing James Maddison he would see a different Tottenham under his guidance.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23624468.maddison-reveals-postecoglou-different-spurs-transfer-vow/?ref=rss",
+          "publishedOn": "2023-06-30T09:31:25.000Z",
+          "wordCount": 8595,
+          "title": "Maddison reveals Postecoglou 'different Spurs' transfer vow",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16946517/?type=og-image"
+        },
         {
           "id": "fedbaa8f93ec60859b3088c4c95d1fd2",
           "author": null,
@@ -767,26 +817,6 @@
           "wordCount": 9073,
           "title": "Lennon makes Rodgers title prediction in fan forgiveness statement",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16927588/?type=og-image"
-        },
-        {
-          "id": "d6e55a33e52f80d0653e5770f5453012",
-          "author": null,
-          "description": "After guiding Leicester City to a Europa Conference League semi-final last year, Brendan Rodgers now has a taste for success on the European stage.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23612636.brendan-rodgers-not-worried-potential-spurs-transfer-raid-celtic/?ref=rss",
-          "publishedOn": "2023-06-25T21:30:00.000Z",
-          "wordCount": 9043,
-          "title": "Brendan Rodgers not worried by potential Spurs transfer raid of Celtic",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16927375/?type=og-image"
-        },
-        {
-          "id": "76957cbd18592deeebcf79f3ccbb1eaf",
-          "author": null,
-          "description": "Never mind ten in a row - Neil Lennon believes that Celtic would be attempting to win a 13th consecutive Premiership title next season if it hadn’t been for the coronavirus.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23612756.neil-lennon-makes-celtic-covid-claim-13-in-a-row-statement/?ref=rss",
-          "publishedOn": "2023-06-25T21:30:00.000Z",
-          "wordCount": 8832,
-          "title": "Neil Lennon makes Celtic Covid claim in 13-in-a-row statement",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/13549157/?type=og-image"
         }
       ]
     }
