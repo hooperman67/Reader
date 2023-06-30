@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-06-30T12:37:47.590Z</updated>
+    <updated>2023-06-30T15:18:42.773Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sky Sports in Postecoglou quip as Ashes commentary ask 'who is that']]></title>
+        <id>1c7bab6f90b82660174906edc290453e</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23626013.sky-sports-postecoglou-quip-ashes-commentary-ask-who-that/?ref=rss"/>
+        <updated>2023-06-30T14:49:38.000Z</updated>
+        <summary type="html"><![CDATA[New Tottenham boss Postecoglou was in attendance at Lord's as he watched his countrymen take control of the second Ashes Test.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic and Glasgow City discover UWCL round one opponents]]></title>
+        <id>896ce6385a0e6a0b3f9896f54e4d4eb8</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23625150.celtic-glasgow-city-discover-uwcl-round-one-opponents/?ref=rss"/>
+        <updated>2023-06-30T11:48:00.000Z</updated>
+        <summary type="html"><![CDATA[Celtic and Glasgow City both enter the competition in round one.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Marco Tilio signs for Celtic and reveals significance of keeping his Melbourne jersey number]]></title>
         <id>4203076</id>
