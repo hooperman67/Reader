@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-07-01T15:17:50.593Z</updated>
+    <updated>2023-07-01T18:21:51.746Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic XI kick off pre-season with Fraserburgh charity clash]]></title>
+        <id>e50c7a8abff120edd12cc982055d2a39</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23627433.celtic-xi-kick-off-pre-season-fraserburgh-charity-clash/?ref=rss"/>
+        <updated>2023-07-01T16:38:41.000Z</updated>
+        <summary type="html"><![CDATA[Money was raised for a very worthy cause at Bellslea Park on Saturday.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jota's £25m Celtic to Al-Ittihad transfer could be hijacked by rivals]]></title>
         <id>b79eb54a69c215bd24886e0b7e95826c</id>
@@ -774,16 +784,6 @@
         <summary type="html"><![CDATA[Celtic midfielder Reo Hatate has been linked with a move to Al Ittihad in Saudi Arabia.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Craig Brown was much more than the last man to take Scotland to a World Cup: dignity could have been his middle name]]></title>
-        <id>4197782</id>
-        <link href="https://www.scotsman.com/sport/football/international/craig-brown-was-much-more-than-the-last-man-to-take-scotland-to-a-world-cup-dignity-could-have-been-his-middle-name-4197782"/>
-        <updated>2023-06-27T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The last man to take the Scotland men’s team to a World Cup. This achievement alone would have ensured a slew of tributes.]]></summary>
-        <author>
-            <name>Alan Pattullo</name>
         </author>
     </entry>
 </feed>
