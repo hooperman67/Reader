@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-07-01T06:23:12.763Z</updated>
+    <updated>2023-07-01T09:17:18.011Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Raging Chris Sutton takes aim at Jota for Al-Ittihad transfer]]></title>
+        <id>8342e3c71bef7a6ac2b1a1408c1a9f6f</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23626893.raging-chris-sutton-takes-aim-jota-al-itthad-transfer/?ref=rss"/>
+        <updated>2023-07-01T08:28:15.000Z</updated>
+        <summary type="html"><![CDATA[Reports in Saudi emerged this week that the Portuguese star was close to joining the Saudi Pro League side for a bumper fee.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Key Celtic fixture takeaways and reason for brutal away run]]></title>
+        <id>49b0951b90a768c298ad458a344da35a</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23625844.key-celtic-fixture-takeaways-reason-brutal-away-run/?ref=rss"/>
+        <updated>2023-07-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Brendan Rodgers' side now know what their upcoming Premiership title defence will look like.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA['Some days he was awful' - Marco Tilio former teammate lifts lid on new Celtic signing's ascent]]></title>
         <id>4204004</id>
@@ -714,36 +734,6 @@
         <summary type="html"><![CDATA[The last man to take the Scotland men’s team to a World Cup. This achievement alone would have ensured a slew of tributes.]]></summary>
         <author>
             <name>Alan Pattullo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Craig Brown telegram gesture Pat Nevin won't ever forget: 'How many managers would do that?]]></title>
-        <id>4197774</id>
-        <link href="https://www.scotsman.com/sport/football/international/craig-brown-telegram-gesture-pat-nevin-wont-ever-forget-how-many-managers-would-do-that-4197774"/>
-        <updated>2023-06-26T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I would never have been a professional footballer without Craig Brown. It really is that simple.]]></summary>
-        <author>
-            <name>Pat Nevin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic & Rangers values ranked in Premiership MVP list]]></title>
-        <id>0f98565490275e4546bcfdb34c68430d</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23615648.celtic-rangers-values-ranked-premiership-mvp-list/?ref=rss"/>
-        <updated>2023-06-26T20:22:09.000Z</updated>
-        <summary type="html"><![CDATA[Football information site Transfermarkt has updated the market value of 99 players in the Scottish Premiership to formulate an MVP list.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neil Lennon rubbishes Celtic 'burner' account claims]]></title>
-        <id>c1983802367186b4eb95a7e7fd32b969</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23615583.neil-lennon-rubbishes-celtic-burner-account-claims/?ref=rss"/>
-        <updated>2023-06-26T18:33:17.000Z</updated>
-        <summary type="html"><![CDATA[It has been theorised for some time that the Hoops hero has a Twitter account and uses it to defend his record while as manager of the club.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>
