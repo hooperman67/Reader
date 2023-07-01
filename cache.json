@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4204004",
+          "author": "Moira Gordon",
+          "description": "Hibs newcomer Adam Le Fondre has tipped former Sydney FC team-mate Marco Tilio to be a success at Celtic, explaining that the 21-year-old’s improvement over the past few years has been a marvel.",
+          "link": "https://www.scotsman.com/sport/football/celtic/some-days-he-was-awful-marco-tilio-former-teammate-lifts-lid-on-new-celtic-signings-ascent-4204004",
+          "publishedOn": "2023-06-30T21:30:00.000Z",
+          "wordCount": null,
+          "title": "'Some days he was awful' - Marco Tilio former teammate lifts lid on new Celtic signing's ascent",
+          "imageUrl": null
+        },
+        {
           "id": "4203966",
           "author": "Matthew Elder",
           "description": "SPFL chief executive Neil Doncaster admits he is braced for another season of off-field “issues” in Scottish football but hopes that the performance of VAR will improve.",
@@ -253,36 +263,6 @@
           "publishedOn": "2023-06-26T15:10:43.000Z",
           "wordCount": null,
           "title": "Craig Brown: Scotland legend dies aged 82 as tributes flood in for ex-Aberdeen and Motherwell boss",
-          "imageUrl": null
-        },
-        {
-          "id": "4196715",
-          "author": "Joel Sked",
-          "description": "Former Celtic forward Robbie Keane has made a surprise managerial move, taking over Israeli giants Maccabi Tel Aviv.",
-          "link": "https://www.scotsman.com/sport/football/celtic/ex-celtic-star-in-surprise-managerial-move-israeli-giants-link-up-with-former-parkhead-favourite-4196715",
-          "publishedOn": "2023-06-26T10:22:14.000Z",
-          "wordCount": null,
-          "title": "Ex-Celtic star in surprise managerial move, Israeli giants, link-up with former Parkhead favourite",
-          "imageUrl": null
-        },
-        {
-          "id": "4196635",
-          "author": "Joel Sked",
-          "description": "Livingston boss David Martindale has admitted he expects to sell Joel Nouble before the start of the league season.",
-          "link": "https://www.scotsman.com/sport/football/rangers/livingston-boss-reveals-when-joel-nouble-could-be-sold-ps1m-valuation-and-why-he-could-play-premier-league-4196635",
-          "publishedOn": "2023-06-26T09:54:23.000Z",
-          "wordCount": null,
-          "title": "Livingston boss reveals when Joel Nouble could be sold, £1m valuation and why he could play Premier League",
-          "imageUrl": null
-        },
-        {
-          "id": "4196528",
-          "author": "Joel Sked",
-          "description": "By the end of the week all 12 Scottish Premiership sides are expected to be back for pre-season before heading off to Europe and beyond for training camps or tours. Managers will be keen to bring in signings across the coming days and weeks.",
-          "link": "https://www.scotsman.com/sport/football/celtic/scottish-transfers-serie-a-side-want-celtic-ace-rangers-to-sign-eu8m-forward-aberdeen-eye-2nd-liverpool-deal-4196528",
-          "publishedOn": "2023-06-26T09:31:10.000Z",
-          "wordCount": null,
-          "title": "Scottish transfers: Serie A side want Celtic ace, Rangers to sign €8m forward, Aberdeen eye 2nd Liverpool deal",
           "imageUrl": null
         }
       ]
@@ -817,36 +797,6 @@
           "wordCount": 8625,
           "title": "Postecoglou set for Spurs transfer chaos after behind the scenes move",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16894348/?type=og-image"
-        },
-        {
-          "id": "87205cf4f2d74d27efcb322ffab36078",
-          "author": null,
-          "description": "The 26-year-old was a bit-part player for Arsenal last term under Mikel Arteta as the Gunners missed out on the Premier League title.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23614174.tierney-arsenal-transfer-latest-odds-slashed-celtic-return/?ref=rss",
-          "publishedOn": "2023-06-26T11:42:54.000Z",
-          "wordCount": 9757,
-          "title": "Tierney Arsenal transfer latest as odds slashed on Celtic return",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16929887/?type=og-image"
-        },
-        {
-          "id": "85d18ccc58875f5a61521a54f2abb687",
-          "author": null,
-          "description": "Simon Jordan reckons Brendan Rodgers must follow the European standards set by Rangers in recent seasons.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23613697.brendan-rodgers-urged-follow-rangers-model-second-celtic-stint/?ref=rss",
-          "publishedOn": "2023-06-26T10:02:31.000Z",
-          "wordCount": 8675,
-          "title": "Brendan Rodgers urged to follow Rangers model in second Celtic stint",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16929086/?type=og-image"
-        },
-        {
-          "id": "e532f3e9cc7f81436d2fdb092802721b",
-          "author": null,
-          "description": "Melbourne City boss Rado Vidosic has all but confirmed incoming Celtic starlet Marco Tilio's arrival at the Hoops.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23613668.marco-tilio-celtic-transfer-confirmed-manager/?ref=rss",
-          "publishedOn": "2023-06-26T09:55:02.000Z",
-          "wordCount": 8487,
-          "title": "Marco Tilio to Celtic transfer all but confirmed by manager",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16928893/?type=og-image"
         }
       ]
     }
