@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-07-01T12:35:08.119Z</updated>
+    <updated>2023-07-01T15:17:50.593Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Jota's £25m Celtic to Al-Ittihad transfer could be hijacked by rivals]]></title>
+        <id>b79eb54a69c215bd24886e0b7e95826c</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23627300.jotas-25m-celtic-al-ittihad-transfer-hijacked-rivals/?ref=rss"/>
+        <updated>2023-07-01T14:08:02.000Z</updated>
+        <summary type="html"><![CDATA[The Hoops winger has agreed terms on a move to the Saudi Pro League.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postecoglou replicating Celtic formula as he details Spurs masterplan]]></title>
+        <id>dd89493c75e92974476b0e729c1f9377</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23627227.postecoglou-replicating-celtic-formula-details-spurs-masterplan/?ref=rss"/>
+        <updated>2023-07-01T13:05:55.000Z</updated>
+        <summary type="html"><![CDATA[The former Parkhead manager admits he cannot wait for the Premier League season to start.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cyriel Dessers given Rangers backing by Pierre van Hooijdonk]]></title>
         <id>95190da6fda6bbb02aa5c317bc9051cc</id>
