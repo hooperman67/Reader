@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-07-01T09:17:18.011Z</updated>
+    <updated>2023-07-01T12:35:08.119Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cyriel Dessers given Rangers backing by Pierre van Hooijdonk]]></title>
+        <id>95190da6fda6bbb02aa5c317bc9051cc</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23627129.cyriel-dessers-given-rangers-backing-pierre-van-hooijdonk/?ref=rss"/>
+        <updated>2023-07-01T11:21:38.000Z</updated>
+        <summary type="html"><![CDATA[PIERRE VAN HOOIJDONK reckons Rangers will be signing a new version of himself as they prepare to welcome striker Cyriel Dessers.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic set for replacement opponent in South Korea as Wolves withdraw]]></title>
+        <id>3dfcc075cbc88d7eec559991a4673291</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23627048.celtic-set-replacement-opponent-south-korea-wolves-withdraw/?ref=rss"/>
+        <updated>2023-07-01T10:20:08.000Z</updated>
+        <summary type="html"><![CDATA[SOUTH KOREAN organisers have revealed they are lining up Celtic to face local side Incheon United instead of Wolves, after the Premier League club withdrew from their tour.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jota to Al-Ittihad transfer latest as timeline emerges on Celtic exit]]></title>
+        <id>09e5c9cd9c297a8a9b319e0e0d3cf412</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23626931.jota-al-ittihad-transfer-latest-timeline-emerges-celtic-exit/?ref=rss"/>
+        <updated>2023-07-01T08:53:52.000Z</updated>
+        <summary type="html"><![CDATA[Sources in Saudi claim that the Celtic winger will now make the switch once a final fee has been agreed.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Raging Chris Sutton takes aim at Jota for Al-Ittihad transfer]]></title>
         <id>8342e3c71bef7a6ac2b1a1408c1a9f6f</id>
