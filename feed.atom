@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-07-01T01:59:28.786Z</updated>
+    <updated>2023-07-01T03:32:24.662Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -774,16 +774,6 @@
         <summary type="html"><![CDATA[The Aussie made the move to the Premier League giants after securing a treble with Celtic last season.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Craig Brown: Scotland legend dies aged 82 as tributes flood in for ex-Aberdeen and Motherwell boss]]></title>
-        <id>4197138</id>
-        <link href="https://www.scotsman.com/sport/football/craig-brown-scotland-legend-dies-aged-82-as-tributes-flood-in-for-ex-aberdeen-and-motherwell-boss-4197138"/>
-        <updated>2023-06-26T15:10:43.000Z</updated>
-        <summary type="html"><![CDATA[Scottish football has been paying tribute to one of its most popular, beloved and respected figures Craig Brown following his death on Monday aged 82.]]></summary>
-        <author>
-            <name>Joel Sked</name>
         </author>
     </entry>
 </feed>
