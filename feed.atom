@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-07-02T15:17:34.293Z</updated>
+    <updated>2023-07-02T18:21:46.852Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic fans 'gutted' Jacynta announces SHOCK departure]]></title>
+        <id>f1f79747a36eec42ccd5c826424536ef</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23628213.celtic-fans-gutted-jacynta-announces-shock-departure/?ref=rss"/>
+        <updated>2023-07-02T16:53:25.000Z</updated>
+        <summary type="html"><![CDATA[Celtic fans have been left 'gutted' today after a Celtic star announced their shocking departure from the club.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic star Alexandro Bernabei spotted in Argentina]]></title>
+        <id>7b448afbd56129f4a01dc5b7bdc151c8</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23628184.celtic-star-alexandro-bernabei-spotted-argentina/?ref=rss"/>
+        <updated>2023-07-02T16:17:04.000Z</updated>
+        <summary type="html"><![CDATA[A Celtic star has been spotted in his homeland this weekend to seemingly 're-charge'.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA['A night truly to remember': Celtic LEGEND spotted at Glasgow bar]]></title>
         <id>18d47efc087a46683b79ecec93191871</id>
@@ -622,16 +642,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23618545.celtic-hero-sutton-rangers-cantwell-reignite-war-words/?ref=rss"/>
         <updated>2023-06-28T06:26:25.000Z</updated>
         <summary type="html"><![CDATA[Celtic hero Chris Sutton and Rangers playmaker Todd Cantwell have aimed playful jibes at one another on social media.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Marco Tilio would bring to Celtic as move edges closer]]></title>
-        <id>7491c086732c4dc5292d0f80dc1d0e2e</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23617725.marco-tilio-bring-celtic-move-edges-closer/?ref=rss"/>
-        <updated>2023-06-28T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The 21-year-old Melbourne City star is set to leave the A-League this summer.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>

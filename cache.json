@@ -209,6 +209,26 @@
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
         {
+          "id": "f1f79747a36eec42ccd5c826424536ef",
+          "author": null,
+          "description": "Celtic fans have been left 'gutted' today after a Celtic star announced their shocking departure from the club.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23628213.celtic-fans-gutted-jacynta-announces-shock-departure/?ref=rss",
+          "publishedOn": "2023-07-02T16:53:25.000Z",
+          "wordCount": 9585,
+          "title": "Celtic fans 'gutted' Jacynta announces SHOCK departure",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16145724/?type=og-image"
+        },
+        {
+          "id": "7b448afbd56129f4a01dc5b7bdc151c8",
+          "author": null,
+          "description": "A Celtic star has been spotted in his homeland this weekend to seemingly 're-charge'.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23628184.celtic-star-alexandro-bernabei-spotted-argentina/?ref=rss",
+          "publishedOn": "2023-07-02T16:17:04.000Z",
+          "wordCount": 9524,
+          "title": "Celtic star Alexandro Bernabei spotted in Argentina",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16783313/?type=og-image"
+        },
+        {
           "id": "18d47efc087a46683b79ecec93191871",
           "author": null,
           "description": "A Celtic legend was spotted at a Glasgow bar last night.",
@@ -637,16 +657,6 @@
           "wordCount": 9781,
           "title": "Celtic hero Sutton and Rangers' Cantwell reignite war of words",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16936998/?type=og-image"
-        },
-        {
-          "id": "7491c086732c4dc5292d0f80dc1d0e2e",
-          "author": null,
-          "description": "The 21-year-old Melbourne City star is set to leave the A-League this summer.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23617725.marco-tilio-bring-celtic-move-edges-closer/?ref=rss",
-          "publishedOn": "2023-06-28T05:00:00.000Z",
-          "wordCount": 9333,
-          "title": "What Marco Tilio would bring to Celtic as move edges closer",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16935841/?type=og-image"
         }
       ]
     }
