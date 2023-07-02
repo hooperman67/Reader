@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-07-02T01:59:48.941Z</updated>
+    <updated>2023-07-02T03:28:01.313Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -662,16 +662,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23618070.harry-kane-transfer-latest-ahead-anges-tottenham-call/?ref=rss"/>
         <updated>2023-06-27T16:03:20.000Z</updated>
         <summary type="html"><![CDATA[The Spurs and England captain has just one year remaining on his Spurs contract now.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Postecoglou's Celtic transfer raid hands tied as Spurs budget 'blown']]></title>
-        <id>2628fd94b10e2816c6caab730264189e</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23617676.postecoglous-celtic-transfer-raid-hands-tied-spurs-budget-blown/?ref=rss"/>
-        <updated>2023-06-27T14:42:32.000Z</updated>
-        <summary type="html"><![CDATA[Ange Postecoglou may have to work his transfer magic at Spurs this summer window, with reports suggesting that the club have already blown their budget.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
