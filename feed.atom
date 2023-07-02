@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-07-02T09:16:36.142Z</updated>
+    <updated>2023-07-02T12:35:22.554Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Jota transfer insider makes €30m Celtic transfer claim]]></title>
+        <id>5fdfe829a3f701a5ccba0ecff4852e24</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23627827.jota-transfer-insider-makes-eur30m-celtic-transfer-claim/?ref=rss"/>
+        <updated>2023-07-02T10:50:20.000Z</updated>
+        <summary type="html"><![CDATA[It's believed that the deal between the Hoops and Saudi side Al Ittihad could be completed this week.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scottish transfers: Aberdeen in shock link with Rangers star, Hearts eye midfielder move, Celtic want starlet]]></title>
+        <id>4204356</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/scottish-transfers-aberdeen-in-shock-link-with-rangers-star-hearts-eye-midfielder-move-celtic-want-starlet-4204356"/>
+        <updated>2023-07-02T10:43:05.000Z</updated>
+        <summary type="html"><![CDATA[A number of Premiership clubs were back in pre-season action this weekend ahead of the new campaign starting this month, whether it be in Europe or the Viaplay Cup group stages. And clubs are still working on deals to put their squad together before competitive action begins.]]></summary>
+        <author>
+            <name>Joel Sked</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jota Celtic transfer latest as second Saudi side joins race]]></title>
+        <id>20cb80b261efa6e88fef511dd16c5374</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23627687.jota-celtic-transfer-latest-second-saudi-side-joins-race/?ref=rss"/>
+        <updated>2023-07-02T08:47:30.000Z</updated>
+        <summary type="html"><![CDATA[The Hoops will rake in over £20million for selling their top asset to the Middle East.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hartson on why Brendan Rodgers can deliver Celtic success in Europe]]></title>
         <id>d20965861c702771e685c7bc09361e7f</id>
@@ -562,26 +592,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23617725.marco-tilio-bring-celtic-move-edges-closer/?ref=rss"/>
         <updated>2023-06-28T05:00:00.000Z</updated>
         <summary type="html"><![CDATA[The 21-year-old Melbourne City star is set to leave the A-League this summer.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alistair Johnston lifts lid on his Celtic 'struggles' that were hidden from the 'outside world']]></title>
-        <id>4199267</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/alistair-johnston-lifts-lid-on-his-celtic-struggles-that-were-hidden-from-the-outside-world-4199267"/>
-        <updated>2023-06-27T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[When Celtic sold Josip Juranovic to Union Berlin for £7.5m in January it was clear that they had already secured a ready-made replacement for less than half the price.]]></summary>
-        <author>
-            <name>Matthew Elder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alistair Johnston reveals his unseen Celtic struggles]]></title>
-        <id>df173b97e997842e2d777e3e5cab5320</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23616445.alistair-johnston-reveals-unseen-celtic-struggles/?ref=rss"/>
-        <updated>2023-06-27T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The 24-year-old right-back is preparing for a first full season in Scotland.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>

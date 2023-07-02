@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4204356",
+          "author": "Joel Sked",
+          "description": "A number of Premiership clubs were back in pre-season action this weekend ahead of the new campaign starting this month, whether it be in Europe or the Viaplay Cup group stages. And clubs are still working on deals to put their squad together before competitive action begins.",
+          "link": "https://www.scotsman.com/sport/football/celtic/scottish-transfers-aberdeen-in-shock-link-with-rangers-star-hearts-eye-midfielder-move-celtic-want-starlet-4204356",
+          "publishedOn": "2023-07-02T10:43:05.000Z",
+          "wordCount": null,
+          "title": "Scottish transfers: Aberdeen in shock link with Rangers star, Hearts eye midfielder move, Celtic want starlet",
+          "imageUrl": null
+        },
+        {
           "id": "4204004",
           "author": "Moira Gordon",
           "description": "Hibs newcomer Adam Le Fondre has tipped former Sydney FC team-mate Marco Tilio to be a success at Celtic, explaining that the 21-year-old’s improvement over the past few years has been a marvel.",
@@ -164,16 +174,6 @@
           "wordCount": null,
           "title": "SPFL Fixture List 2023/24 - Release date, how they are compiled, winter break, Celtic and Hibs expectation",
           "imageUrl": null
-        },
-        {
-          "id": "4199267",
-          "author": "Matthew Elder",
-          "description": "When Celtic sold Josip Juranovic to Union Berlin for £7.5m in January it was clear that they had already secured a ready-made replacement for less than half the price.",
-          "link": "https://www.scotsman.com/sport/football/celtic/alistair-johnston-lifts-lid-on-his-celtic-struggles-that-were-hidden-from-the-outside-world-4199267",
-          "publishedOn": "2023-06-27T21:30:00.000Z",
-          "wordCount": null,
-          "title": "Alistair Johnston lifts lid on his Celtic 'struggles' that were hidden from the 'outside world'",
-          "imageUrl": null
         }
       ]
     },
@@ -188,6 +188,26 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "5fdfe829a3f701a5ccba0ecff4852e24",
+          "author": null,
+          "description": "It's believed that the deal between the Hoops and Saudi side Al Ittihad could be completed this week.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23627827.jota-transfer-insider-makes-eur30m-celtic-transfer-claim/?ref=rss",
+          "publishedOn": "2023-07-02T10:50:20.000Z",
+          "wordCount": 8641,
+          "title": "Jota transfer insider makes €30m Celtic transfer claim",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16953107/?type=og-image"
+        },
+        {
+          "id": "20cb80b261efa6e88fef511dd16c5374",
+          "author": null,
+          "description": "The Hoops will rake in over £20million for selling their top asset to the Middle East.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23627687.jota-celtic-transfer-latest-second-saudi-side-joins-race/?ref=rss",
+          "publishedOn": "2023-07-02T08:47:30.000Z",
+          "wordCount": 8601,
+          "title": "Jota Celtic transfer latest as second Saudi side joins race",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16952789/?type=og-image"
+        },
         {
           "id": "d20965861c702771e685c7bc09361e7f",
           "author": null,
@@ -587,16 +607,6 @@
           "wordCount": 9333,
           "title": "What Marco Tilio would bring to Celtic as move edges closer",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16935841/?type=og-image"
-        },
-        {
-          "id": "df173b97e997842e2d777e3e5cab5320",
-          "author": null,
-          "description": "The 24-year-old right-back is preparing for a first full season in Scotland.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23616445.alistair-johnston-reveals-unseen-celtic-struggles/?ref=rss",
-          "publishedOn": "2023-06-27T21:30:00.000Z",
-          "wordCount": 8887,
-          "title": "Alistair Johnston reveals his unseen Celtic struggles",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16933478/?type=og-image"
         }
       ]
     }
