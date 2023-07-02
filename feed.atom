@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-07-02T06:22:45.318Z</updated>
+    <updated>2023-07-02T09:16:36.142Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hartson on why Brendan Rodgers can deliver Celtic success in Europe]]></title>
+        <id>d20965861c702771e685c7bc09361e7f</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23626964.hartson-brendan-rodgers-can-deliver-celtic-success-europe/?ref=rss"/>
+        <updated>2023-07-02T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Doing well in Europe and reaching either the Champions League or Europa League knockout rounds is a must for the new Celtic boss.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Celtic transfer implications of possible change in Saudi strategy]]></title>
+        <id>1d96c775516819bc4f11dc3660fe8514</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23627171.celtic-transfer-implications-possible-change-saudi-strategy/?ref=rss"/>
+        <updated>2023-07-02T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Portuguese winger is closing in on a big money move to the Saudi Pro League with champions Al-Ittihad.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Marco Tilio gets Celtic rave review from former Rangers star]]></title>
         <id>4337b891aa88b32b7968d5d29454d656</id>
@@ -562,46 +582,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23616445.alistair-johnston-reveals-unseen-celtic-struggles/?ref=rss"/>
         <updated>2023-06-27T21:30:00.000Z</updated>
         <summary type="html"><![CDATA[The 24-year-old right-back is preparing for a first full season in Scotland.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kieran Tierney: Arsenal star 'open' to shock Celtic return, £120k-a-week wages, Newcastle United link]]></title>
-        <id>4199281</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/kieran-tierney-arsenal-star-open-to-shock-celtic-return-ps120k-a-week-wages-newcastle-united-link-4199281"/>
-        <updated>2023-06-27T20:54:11.000Z</updated>
-        <summary type="html"><![CDATA[Kieran Tierney would be open to Celtic return this summer if he was to leave Arsenal.]]></summary>
-        <author>
-            <name>Chris Andrews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rangers star skewers ex-Celtic hero Chris Sutton with seven-word put down of pundit]]></title>
-        <id>4199277</id>
-        <link href="https://www.scotsman.com/sport/football/rangers/rangers-star-skewers-ex-celtic-hero-chris-sutton-with-seven-word-put-down-of-pundit-4199277"/>
-        <updated>2023-06-27T20:29:06.000Z</updated>
-        <summary type="html"><![CDATA[Rangers star Todd Cantwell has poked fun at former Celtic striker Chris Sutton with a seven-word put down on Twitter.]]></summary>
-        <author>
-            <name>Joel Sked</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kieran Tierney Celtic transfer return 'considered']]></title>
-        <id>3557b5f2f7c2f859a7cd9f5f57ab15ca</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23618429.kieran-tierney-celtic-transfer-return-considered/?ref=rss"/>
-        <updated>2023-06-27T19:51:26.000Z</updated>
-        <summary type="html"><![CDATA[The 26-year-old starred under the Irishman during his first spell in charge, which eventually earned him a move to Arsenal.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What ex-Celtic boss Postecoglou told Spurs signing about goalkeepers]]></title>
-        <id>744528c3baa5255ae654e833d7fe5b11</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23618423.ex-celtic-boss-postecoglou-told-spurs-signing-goalkeepers/?ref=rss"/>
-        <updated>2023-06-27T19:46:31.000Z</updated>
-        <summary type="html"><![CDATA["The coach told me the keeper is so important with his attacking mentality. It's a position with big responsibilities because if you make a mistake it's 99% likely to be a goal. I love this responsibility.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>

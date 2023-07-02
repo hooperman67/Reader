@@ -174,26 +174,6 @@
           "wordCount": null,
           "title": "Alistair Johnston lifts lid on his Celtic 'struggles' that were hidden from the 'outside world'",
           "imageUrl": null
-        },
-        {
-          "id": "4199281",
-          "author": "Chris Andrews",
-          "description": "Kieran Tierney would be open to Celtic return this summer if he was to leave Arsenal.",
-          "link": "https://www.scotsman.com/sport/football/celtic/kieran-tierney-arsenal-star-open-to-shock-celtic-return-ps120k-a-week-wages-newcastle-united-link-4199281",
-          "publishedOn": "2023-06-27T20:54:11.000Z",
-          "wordCount": null,
-          "title": "Kieran Tierney: Arsenal star 'open' to shock Celtic return, £120k-a-week wages, Newcastle United link",
-          "imageUrl": null
-        },
-        {
-          "id": "4199277",
-          "author": "Joel Sked",
-          "description": "Rangers star Todd Cantwell has poked fun at former Celtic striker Chris Sutton with a seven-word put down on Twitter.",
-          "link": "https://www.scotsman.com/sport/football/rangers/rangers-star-skewers-ex-celtic-hero-chris-sutton-with-seven-word-put-down-of-pundit-4199277",
-          "publishedOn": "2023-06-27T20:29:06.000Z",
-          "wordCount": null,
-          "title": "Rangers star skewers ex-Celtic hero Chris Sutton with seven-word put down of pundit",
-          "imageUrl": null
         }
       ]
     },
@@ -208,6 +188,26 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "d20965861c702771e685c7bc09361e7f",
+          "author": null,
+          "description": "Doing well in Europe and reaching either the Champions League or Europa League knockout rounds is a must for the new Celtic boss.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23626964.hartson-brendan-rodgers-can-deliver-celtic-success-europe/?ref=rss",
+          "publishedOn": "2023-07-02T06:00:00.000Z",
+          "wordCount": 9387,
+          "title": "Hartson on why Brendan Rodgers can deliver Celtic success in Europe",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16951274/?type=og-image"
+        },
+        {
+          "id": "1d96c775516819bc4f11dc3660fe8514",
+          "author": null,
+          "description": "The Portuguese winger is closing in on a big money move to the Saudi Pro League with champions Al-Ittihad.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23627171.celtic-transfer-implications-possible-change-saudi-strategy/?ref=rss",
+          "publishedOn": "2023-07-02T05:00:00.000Z",
+          "wordCount": 9096,
+          "title": "The Celtic transfer implications of possible change in Saudi strategy",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16951622/?type=og-image"
+        },
         {
           "id": "4337b891aa88b32b7968d5d29454d656",
           "author": null,
@@ -597,26 +597,6 @@
           "wordCount": 8887,
           "title": "Alistair Johnston reveals his unseen Celtic struggles",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16933478/?type=og-image"
-        },
-        {
-          "id": "3557b5f2f7c2f859a7cd9f5f57ab15ca",
-          "author": null,
-          "description": "The 26-year-old starred under the Irishman during his first spell in charge, which eventually earned him a move to Arsenal.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23618429.kieran-tierney-celtic-transfer-return-considered/?ref=rss",
-          "publishedOn": "2023-06-27T19:51:26.000Z",
-          "wordCount": 9834,
-          "title": "Kieran Tierney Celtic transfer return 'considered'",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16936858/?type=og-image"
-        },
-        {
-          "id": "744528c3baa5255ae654e833d7fe5b11",
-          "author": null,
-          "description": "\"The coach told me the keeper is so important with his attacking mentality. It's a position with big responsibilities because if you make a mistake it's 99% likely to be a goal. I love this responsibility.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23618423.ex-celtic-boss-postecoglou-told-spurs-signing-goalkeepers/?ref=rss",
-          "publishedOn": "2023-06-27T19:46:31.000Z",
-          "wordCount": 8438,
-          "title": "What ex-Celtic boss Postecoglou told Spurs signing about goalkeepers",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16936865/?type=og-image"
         }
       ]
     }
