@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-07-02T12:35:22.554Z</updated>
+    <updated>2023-07-02T15:17:34.293Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA['A night truly to remember': Celtic LEGEND spotted at Glasgow bar]]></title>
+        <id>18d47efc087a46683b79ecec93191871</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23628079.a-night-truly-remember-celtic-legend-spotted-glasgow-bar/?ref=rss"/>
+        <updated>2023-07-02T14:40:31.000Z</updated>
+        <summary type="html"><![CDATA[A Celtic legend was spotted at a Glasgow bar last night.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic new boy Marco Tilio tipped to 'flourish' under Brendan Rodgers as fans told why they should be excited]]></title>
+        <id>4204455</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/celtic-new-boy-marco-tilio-tipped-to-flourish-under-brendan-rodgers-as-fans-told-why-they-should-be-excited-4204455"/>
+        <updated>2023-07-02T14:34:21.000Z</updated>
+        <summary type="html"><![CDATA[New Celtic signing Marco Tilio is “perfectly suited” to the Scottish champions, according to Australia assistant manager Rene Meulensteen.]]></summary>
+        <author>
+            <name>Joel Sked</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fabian Rieder to Celtic latest amid rising transfer interest]]></title>
+        <id>527d908ce7ca7e2e024719f66c23c4f0</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23627989.fabian-rieder-celtic-latest-amid-rising-transfer-interest/?ref=rss"/>
+        <updated>2023-07-02T13:27:36.000Z</updated>
+        <summary type="html"><![CDATA[The 21-year-old Swiss international midfielder has reportedly attracted admiring glances from Hoops manager Brendan Rodgers.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When VAR will be used in Viaplay Cup - change from 2022/23, 'improvements', television impact]]></title>
+        <id>4204410</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/when-var-will-be-used-in-viaplay-cup-change-from-202223-improvements-television-impact-4204410"/>
+        <updated>2023-07-02T12:56:46.000Z</updated>
+        <summary type="html"><![CDATA[VAR will be used in the 2023 Viaplay Cup from the second round onwards in a change from last season.]]></summary>
+        <author>
+            <name>Joel Sked</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jota transfer insider makes €30m Celtic transfer claim]]></title>
         <id>5fdfe829a3f701a5ccba0ecff4852e24</id>
