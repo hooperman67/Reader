@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-07-02T18:21:46.852Z</updated>
+    <updated>2023-07-02T21:15:15.826Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Yang Hyun-Jun in incredible Celtic claim as he offers to pay transfer]]></title>
+        <id>fd5bb2a7684deab4ffb734ea074bd417</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23628284.yang-hyun-jun-incredible-celtic-claim-offers-pay-transfer/?ref=rss"/>
+        <updated>2023-07-02T19:47:00.000Z</updated>
+        <summary type="html"><![CDATA[The 21-year-old attacker is desperate to make a move to Parkhead this summer.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jacynta Galabadaarachchi releases statement following Celtic exit]]></title>
+        <id>7772e30052c5f500653432d8d40c3ab3</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23628257.jacynta-galabadaarachchi-releases-statement-following-celtic-exit/?ref=rss"/>
+        <updated>2023-07-02T18:16:59.000Z</updated>
+        <summary type="html"><![CDATA[Jacynta Galabadaarachchi releases statement following Celtic exit]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic fans 'gutted' Jacynta announces SHOCK departure]]></title>
         <id>f1f79747a36eec42ccd5c826424536ef</id>
@@ -612,36 +632,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23619957.marco-tilio-celtic-transfer-close-terms-agreed/?ref=rss"/>
         <updated>2023-06-28T12:55:30.000Z</updated>
         <summary type="html"><![CDATA[The Scottish champions are closing in on their second signing of the summer, with the Melbourne City forward set to arrive soon.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic star Kyogo breaks silence on Spurs transfer link]]></title>
-        <id>148c8c3824b937e67016af0b6301ec3a</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23618902.celtic-star-kyogo-breaks-silence-spurs-transfer-link/?ref=rss"/>
-        <updated>2023-06-28T09:07:24.000Z</updated>
-        <summary type="html"><![CDATA[Kyogo Furuhashi has brushed off speculation linking him with Spurs.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scott Brown in bizarre boozy toast to Alan Brazil and Rangers legend]]></title>
-        <id>d52990d7ef1379ccbc7a581415df7a74</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23618640.scott-brown-bizarre-boozy-toast-alan-brazil-rangers-legend/?ref=rss"/>
-        <updated>2023-06-28T07:42:50.000Z</updated>
-        <summary type="html"><![CDATA[Scott Brown raised a glass with Ray Parlour to Alan Brazil and Ally McCoist.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic hero Sutton and Rangers' Cantwell reignite war of words]]></title>
-        <id>aded612c8e4206894e1a592bc3f9bb99</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23618545.celtic-hero-sutton-rangers-cantwell-reignite-war-words/?ref=rss"/>
-        <updated>2023-06-28T06:26:25.000Z</updated>
-        <summary type="html"><![CDATA[Celtic hero Chris Sutton and Rangers playmaker Todd Cantwell have aimed playful jibes at one another on social media.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>

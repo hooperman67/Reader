@@ -209,6 +209,26 @@
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
         {
+          "id": "fd5bb2a7684deab4ffb734ea074bd417",
+          "author": null,
+          "description": "The 21-year-old attacker is desperate to make a move to Parkhead this summer.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23628284.yang-hyun-jun-incredible-celtic-claim-offers-pay-transfer/?ref=rss",
+          "publishedOn": "2023-07-02T19:47:00.000Z",
+          "wordCount": 8755,
+          "title": "Yang Hyun-Jun in incredible Celtic claim as he offers to pay transfer",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16954179/?type=og-image"
+        },
+        {
+          "id": "7772e30052c5f500653432d8d40c3ab3",
+          "author": null,
+          "description": "Jacynta Galabadaarachchi releases statement following Celtic exit",
+          "link": "https://www.glasgowtimes.co.uk/sport/23628257.jacynta-galabadaarachchi-releases-statement-following-celtic-exit/?ref=rss",
+          "publishedOn": "2023-07-02T18:16:59.000Z",
+          "wordCount": 8503,
+          "title": "Jacynta Galabadaarachchi releases statement following Celtic exit",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16954115/?type=og-image"
+        },
+        {
           "id": "f1f79747a36eec42ccd5c826424536ef",
           "author": null,
           "description": "Celtic fans have been left 'gutted' today after a Celtic star announced their shocking departure from the club.",
@@ -627,36 +647,6 @@
           "wordCount": 8687,
           "title": "Marco Tilio Celtic transfer close as terms are 'agreed'",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16938951/?type=og-image"
-        },
-        {
-          "id": "148c8c3824b937e67016af0b6301ec3a",
-          "author": null,
-          "description": "Kyogo Furuhashi has brushed off speculation linking him with Spurs.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23618902.celtic-star-kyogo-breaks-silence-spurs-transfer-link/?ref=rss",
-          "publishedOn": "2023-06-28T09:07:24.000Z",
-          "wordCount": 8573,
-          "title": "Celtic star Kyogo breaks silence on Spurs transfer link",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16937489/?type=og-image"
-        },
-        {
-          "id": "d52990d7ef1379ccbc7a581415df7a74",
-          "author": null,
-          "description": "Scott Brown raised a glass with Ray Parlour to Alan Brazil and Ally McCoist.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23618640.scott-brown-bizarre-boozy-toast-alan-brazil-rangers-legend/?ref=rss",
-          "publishedOn": "2023-06-28T07:42:50.000Z",
-          "wordCount": 8597,
-          "title": "Scott Brown in bizarre boozy toast to Alan Brazil and Rangers legend",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16937142/?type=og-image"
-        },
-        {
-          "id": "aded612c8e4206894e1a592bc3f9bb99",
-          "author": null,
-          "description": "Celtic hero Chris Sutton and Rangers playmaker Todd Cantwell have aimed playful jibes at one another on social media.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23618545.celtic-hero-sutton-rangers-cantwell-reignite-war-words/?ref=rss",
-          "publishedOn": "2023-06-28T06:26:25.000Z",
-          "wordCount": 9781,
-          "title": "Celtic hero Sutton and Rangers' Cantwell reignite war of words",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16936998/?type=og-image"
         }
       ]
     }
