@@ -214,16 +214,6 @@
           "wordCount": null,
           "title": "Scottish Premiership pre-season: Celtic's exciting tour, Rangers set for bumper Ibrox crowds, all fixtures",
           "imageUrl": null
-        },
-        {
-          "id": "4198022",
-          "author": "Matthew Elder",
-          "description": "Tottenham have announced Ange Postecoglou’s coaching staff after he failed in a bid to take his former Celtic assistants with him.",
-          "link": "https://www.scotsman.com/sport/football/celtic/tottenham-confirm-ange-postecoglous-coaching-staff-including-former-celtic-assistant-4198022",
-          "publishedOn": "2023-06-27T09:43:02.000Z",
-          "wordCount": null,
-          "title": "Tottenham confirm Ange Postecoglou's coaching staff including former Celtic assistant",
-          "imageUrl": null
         }
       ]
     },
@@ -238,6 +228,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "4337b891aa88b32b7968d5d29454d656",
+          "author": null,
+          "description": "The 21-year-old winger has signed a five-year deal to join Brendan Rodgers' side from Melbourne City.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23627358.marco-tilio-gets-celtic-rave-review-former-rangers-star/?ref=rss",
+          "publishedOn": "2023-07-01T21:30:00.000Z",
+          "wordCount": 9674,
+          "title": "Marco Tilio gets Celtic rave review from former Rangers star",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16935841/?type=og-image"
+        },
         {
           "id": "e50c7a8abff120edd12cc982055d2a39",
           "author": null,
@@ -687,76 +687,6 @@
           "wordCount": 9747,
           "title": "Postecoglou's Celtic transfer raid hands tied as Spurs budget 'blown'",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16935490/?type=og-image"
-        },
-        {
-          "id": "8c0bc1951af700cc8f417d1b3834ed08",
-          "author": null,
-          "description": "Gallagher is a Northern Ireland U18 international, so is highly rated by his country.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23617309.celtic-hero-neil-lennons-son-gallagher-trains-st-mirren/?ref=rss",
-          "publishedOn": "2023-06-27T13:21:16.000Z",
-          "wordCount": 9782,
-          "title": "Celtic hero Neil Lennon's son Gallagher trains at St Mirren",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16934276/?type=og-image"
-        },
-        {
-          "id": "821b84daead67b8a95f8c95619a3e55d",
-          "author": null,
-          "description": "The defender joined the Hoops under Neil Lennon around four years ago and went on to become a real fans' favourite at Parkhead.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23617183.jeremie-frimpong-honest-celtic-transfer-doubt-admission/?ref=rss",
-          "publishedOn": "2023-06-27T12:50:25.000Z",
-          "wordCount": 8630,
-          "title": "Jeremie Frimpong in honest Celtic transfer doubt admission",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16934476/?type=og-image"
-        },
-        {
-          "id": "1301697a85366ade0699d767b37ded46",
-          "author": null,
-          "description": "Timothy Weah is reportedly set to complete a sensational transfer move to Juventus.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23617095.former-celtic-forward-transfer-juventus-done-deal/?ref=rss",
-          "publishedOn": "2023-06-27T12:27:59.000Z",
-          "wordCount": 9806,
-          "title": "Former Celtic forward transfer to Juventus 'done deal'",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16932778/?type=og-image"
-        },
-        {
-          "id": "3229611f0e77ba2797e7957d9b804c37",
-          "author": null,
-          "description": "Reports in Saudi suggested that the Japanese international was close to a move to Saudi Pro League club Al-Ittihad.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23616762.reo-hatate-celtic-transfer-latest-agent-speaks-saudi-links/?ref=rss",
-          "publishedOn": "2023-06-27T11:08:03.000Z",
-          "wordCount": 9665,
-          "title": "Reo Hatate Celtic transfer latest as agent speaks out on Saudi links",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16933883/?type=og-image"
-        },
-        {
-          "id": "35255bb82c2023532d76df6e7849562b",
-          "author": null,
-          "description": "Bayern have submitted and official bid to try and sign Harry Kane from Tottenham.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23616607.postecoglou-spurs-plans-rocked--60m-plus-kane-bid/?ref=rss",
-          "publishedOn": "2023-06-27T10:37:28.000Z",
-          "wordCount": 8633,
-          "title": "Postecoglou Spurs plans rocked by '£60m-plus Kane bid'",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16933578/?type=og-image"
-        },
-        {
-          "id": "a083d6b1f849f05100eb1520199129af",
-          "author": null,
-          "description": "The Aussie is set to add to his Spurs squad ahead of starting in the job on July 1.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23616555.postecoglou-set-second-tottenham-signing-bumper-50m-deal-close/?ref=rss",
-          "publishedOn": "2023-06-27T10:29:49.000Z",
-          "wordCount": 9919,
-          "title": "Postecoglou set for second Tottenham signing as bumper £50m deal close",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16855122/?type=og-image"
-        },
-        {
-          "id": "4fbb869126c1d8f15099e37deead098d",
-          "author": null,
-          "description": "Yang Hyun-jun has admitted he could be forced to wait until the winter transfer window to seal a dream move to Celtic.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23616250.yang-face-lengthy-wait-seal-dream-celtic-transfer/?ref=rss",
-          "publishedOn": "2023-06-27T09:34:09.000Z",
-          "wordCount": 8616,
-          "title": "Yang could face lengthy wait to seal dream Celtic transfer",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16933141/?type=og-image"
         }
       ]
     }

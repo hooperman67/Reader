@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-07-01T21:15:07.154Z</updated>
+    <updated>2023-07-02T01:59:48.941Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Marco Tilio gets Celtic rave review from former Rangers star]]></title>
+        <id>4337b891aa88b32b7968d5d29454d656</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23627358.marco-tilio-gets-celtic-rave-review-former-rangers-star/?ref=rss"/>
+        <updated>2023-07-01T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The 21-year-old winger has signed a five-year deal to join Brendan Rodgers' side from Melbourne City.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic XI kick off pre-season with Fraserburgh charity clash]]></title>
         <id>e50c7a8abff120edd12cc982055d2a39</id>
@@ -662,86 +672,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23617676.postecoglous-celtic-transfer-raid-hands-tied-spurs-budget-blown/?ref=rss"/>
         <updated>2023-06-27T14:42:32.000Z</updated>
         <summary type="html"><![CDATA[Ange Postecoglou may have to work his transfer magic at Spurs this summer window, with reports suggesting that the club have already blown their budget.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic hero Neil Lennon's son Gallagher trains at St Mirren]]></title>
-        <id>8c0bc1951af700cc8f417d1b3834ed08</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23617309.celtic-hero-neil-lennons-son-gallagher-trains-st-mirren/?ref=rss"/>
-        <updated>2023-06-27T13:21:16.000Z</updated>
-        <summary type="html"><![CDATA[Gallagher is a Northern Ireland U18 international, so is highly rated by his country.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jeremie Frimpong in honest Celtic transfer doubt admission]]></title>
-        <id>821b84daead67b8a95f8c95619a3e55d</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23617183.jeremie-frimpong-honest-celtic-transfer-doubt-admission/?ref=rss"/>
-        <updated>2023-06-27T12:50:25.000Z</updated>
-        <summary type="html"><![CDATA[The defender joined the Hoops under Neil Lennon around four years ago and went on to become a real fans' favourite at Parkhead.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Former Celtic forward transfer to Juventus 'done deal']]></title>
-        <id>1301697a85366ade0699d767b37ded46</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23617095.former-celtic-forward-transfer-juventus-done-deal/?ref=rss"/>
-        <updated>2023-06-27T12:27:59.000Z</updated>
-        <summary type="html"><![CDATA[Timothy Weah is reportedly set to complete a sensational transfer move to Juventus.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reo Hatate Celtic transfer latest as agent speaks out on Saudi links]]></title>
-        <id>3229611f0e77ba2797e7957d9b804c37</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23616762.reo-hatate-celtic-transfer-latest-agent-speaks-saudi-links/?ref=rss"/>
-        <updated>2023-06-27T11:08:03.000Z</updated>
-        <summary type="html"><![CDATA[Reports in Saudi suggested that the Japanese international was close to a move to Saudi Pro League club Al-Ittihad.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Postecoglou Spurs plans rocked by '£60m-plus Kane bid']]></title>
-        <id>35255bb82c2023532d76df6e7849562b</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23616607.postecoglou-spurs-plans-rocked--60m-plus-kane-bid/?ref=rss"/>
-        <updated>2023-06-27T10:37:28.000Z</updated>
-        <summary type="html"><![CDATA[Bayern have submitted and official bid to try and sign Harry Kane from Tottenham.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Postecoglou set for second Tottenham signing as bumper £50m deal close]]></title>
-        <id>a083d6b1f849f05100eb1520199129af</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23616555.postecoglou-set-second-tottenham-signing-bumper-50m-deal-close/?ref=rss"/>
-        <updated>2023-06-27T10:29:49.000Z</updated>
-        <summary type="html"><![CDATA[The Aussie is set to add to his Spurs squad ahead of starting in the job on July 1.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tottenham confirm Ange Postecoglou's coaching staff including former Celtic assistant]]></title>
-        <id>4198022</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/tottenham-confirm-ange-postecoglous-coaching-staff-including-former-celtic-assistant-4198022"/>
-        <updated>2023-06-27T09:43:02.000Z</updated>
-        <summary type="html"><![CDATA[Tottenham have announced Ange Postecoglou’s coaching staff after he failed in a bid to take his former Celtic assistants with him.]]></summary>
-        <author>
-            <name>Matthew Elder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yang could face lengthy wait to seal dream Celtic transfer]]></title>
-        <id>4fbb869126c1d8f15099e37deead098d</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23616250.yang-face-lengthy-wait-seal-dream-celtic-transfer/?ref=rss"/>
-        <updated>2023-06-27T09:34:09.000Z</updated>
-        <summary type="html"><![CDATA[Yang Hyun-jun has admitted he could be forced to wait until the winter transfer window to seal a dream move to Celtic.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
