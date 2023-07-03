@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-07-03T03:26:41.653Z</updated>
+    <updated>2023-07-03T06:24:52.961Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -584,16 +584,6 @@
         <summary type="html"><![CDATA[Ange Postecoglou has completed his first major transfer deal as Tottenham manager with the signing of James Maddison from Leicester City.]]></summary>
         <author>
             <name>Matthew Elder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Andy Walker unimpressed with Celtic over BBC ban debacle]]></title>
-        <id>b4c401836a105f569e7b46ac1b18665e</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23621115.andy-walker-unimpressed-celtic-bbc-ban-debacle/?ref=rss"/>
-        <updated>2023-06-28T17:49:38.000Z</updated>
-        <summary type="html"><![CDATA[The Scottish champions hosted a media conference last Friday to mark the unveiling of Brendan Rodgers' return to the club as manager.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>
