@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-07-02T21:15:15.826Z</updated>
+    <updated>2023-07-03T01:53:30.351Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -604,36 +604,6 @@
         <summary type="html"><![CDATA[Between them, Celtic and Rangers have so far signed five players ahead of the new season. More recruits are expected to be confirmed imminently as the teams look to duke it out in the Premiership and progress in Europe.]]></summary>
         <author>
             <name>Joel Sked</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spurs 'open talks' with Postecoglou '£26m-rated top transfer target']]></title>
-        <id>35a5c5c8a31982b69be4f46e108ceb6f</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23620111.spurs-open-talks-postecoglou--26m-rated-top-transfer-target/?ref=rss"/>
-        <updated>2023-06-28T13:30:07.000Z</updated>
-        <summary type="html"><![CDATA[Tottenham have reportedly opened direct talks with Wolfsburg for Micky van de Ven.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SPFL Fixture List 2023/24 - Release date, how they are compiled, winter break, Celtic and Hibs expectation]]></title>
-        <id>4200189</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/spfl-fixture-list-202324-release-date-how-they-are-compiled-winter-break-celtic-and-hibs-expectation-4200189"/>
-        <updated>2023-06-28T13:15:59.000Z</updated>
-        <summary type="html"><![CDATA[One of the most eagerly-anticipated dates in the summer Scottish football calendar takes place at the end of the week with the release of the fixtures for the 2023/24 SPFL season.]]></summary>
-        <author>
-            <name>Joel Sked</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marco Tilio Celtic transfer close as terms are 'agreed']]></title>
-        <id>52fe320dcb8cf5a0e38d97f81debf4bc</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23619957.marco-tilio-celtic-transfer-close-terms-agreed/?ref=rss"/>
-        <updated>2023-06-28T12:55:30.000Z</updated>
-        <summary type="html"><![CDATA[The Scottish champions are closing in on their second signing of the summer, with the Melbourne City forward set to arrive soon.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>
