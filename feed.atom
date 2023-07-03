@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-07-03T15:19:12.456Z</updated>
+    <updated>2023-07-03T18:23:14.284Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Scottish transfers: Rangers near €5m target, second could follow, Celtic to lose star man, Hearts winger blow]]></title>
+        <id>4206060</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/scottish-transfers-rangers-near-eu5m-target-second-could-follow-celtic-to-lose-star-man-hearts-winger-blow-4206060"/>
+        <updated>2023-07-03T17:54:14.000Z</updated>
+        <summary type="html"><![CDATA[There is just over a month until the start of the new Scottish Premiership and less than two weeks until the Viaplay Cup group stages get under way. Clubs have been working on the field and also building a squad for the upcoming campaign. Both continue apace...]]></summary>
+        <author>
+            <name>Joel Sked</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jota pictured in Saudi as Celtic ace closes in on Al-Ittihad transfer]]></title>
+        <id>767f18711f622f16da9bbe07b15d23fd</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23630639.jota-pictured-saudi-celtic-ace-closes-al-ittihad-transfer/?ref=rss"/>
+        <updated>2023-07-03T15:49:47.000Z</updated>
+        <summary type="html"><![CDATA[The Celtic winger is set to make a £25million switch, which will net the Hoops a huge profit.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scott Brown snaps up Adam Montgomery as Celtic kid joins Fleetwood]]></title>
         <id>bc6334b8a45014ed3a7fe4b3b273f536</id>
@@ -702,16 +722,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23621418.postecoglou-spurs-linked-67m-striker-amid-kane-transfer-bid/?ref=rss"/>
         <updated>2023-06-29T07:47:32.000Z</updated>
         <summary type="html"><![CDATA[Tottenham have been linked with a transfer move for Juventus striker Dusan Vlahovic.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Kieran Tierney and Celtic's reunion may have to wait]]></title>
-        <id>e25004592558264016af662fbaf6a288</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23620491.kieran-tierney-celtics-reunion-may-wait/?ref=rss"/>
-        <updated>2023-06-29T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The 26-year-old could leave Arsenal this summer and is reportedly open to returning to his boyhood club.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>

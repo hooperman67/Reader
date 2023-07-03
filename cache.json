@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4206060",
+          "author": "Joel Sked",
+          "description": "There is just over a month until the start of the new Scottish Premiership and less than two weeks until the Viaplay Cup group stages get under way. Clubs have been working on the field and also building a squad for the upcoming campaign. Both continue apace...",
+          "link": "https://www.scotsman.com/sport/football/celtic/scottish-transfers-rangers-near-eu5m-target-second-could-follow-celtic-to-lose-star-man-hearts-winger-blow-4206060",
+          "publishedOn": "2023-07-03T17:54:14.000Z",
+          "wordCount": null,
+          "title": "Scottish transfers: Rangers near €5m target, second could follow, Celtic to lose star man, Hearts winger blow",
+          "imageUrl": null
+        },
+        {
           "id": "4205116",
           "author": "Mark Atkinson",
           "description": "Odin Thiago Holm has revealed a visit to Brendan Rodgers’ holiday house in Mallorca helped him feel right at home after joining Celtic from Valerenga.",
@@ -198,6 +208,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "767f18711f622f16da9bbe07b15d23fd",
+          "author": null,
+          "description": "The Celtic winger is set to make a £25million switch, which will net the Hoops a huge profit.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23630639.jota-pictured-saudi-celtic-ace-closes-al-ittihad-transfer/?ref=rss",
+          "publishedOn": "2023-07-03T15:49:47.000Z",
+          "wordCount": 8654,
+          "title": "Jota pictured in Saudi as Celtic ace closes in on Al-Ittihad transfer",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16951205/?type=og-image"
+        },
         {
           "id": "bc6334b8a45014ed3a7fe4b3b273f536",
           "author": null,
@@ -717,16 +737,6 @@
           "wordCount": 8620,
           "title": "Postecoglou and Spurs linked with £67m striker amid Kane transfer bid",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16941733/?type=og-image"
-        },
-        {
-          "id": "e25004592558264016af662fbaf6a288",
-          "author": null,
-          "description": "The 26-year-old could leave Arsenal this summer and is reportedly open to returning to his boyhood club.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23620491.kieran-tierney-celtics-reunion-may-wait/?ref=rss",
-          "publishedOn": "2023-06-29T05:00:00.000Z",
-          "wordCount": 10498,
-          "title": "Why Kieran Tierney and Celtic's reunion may have to wait",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16940381/?type=og-image"
         }
       ]
     }
