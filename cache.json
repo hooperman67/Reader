@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4205116",
+          "author": "Mark Atkinson",
+          "description": "Odin Thiago Holm has revealed a visit to Brendan Rodgers’ holiday house in Mallorca helped him feel right at home after joining Celtic from Valerenga.",
+          "link": "https://www.scotsman.com/sport/football/celtic/odin-thiago-holm-lifts-lid-on-meeting-brendan-rodgers-at-mallorca-home-after-joining-celtic-4205116",
+          "publishedOn": "2023-07-03T10:52:07.000Z",
+          "wordCount": null,
+          "title": "Odin Thiago Holm lifts lid on meeting Brendan Rodgers at Mallorca home after joining Celtic",
+          "imageUrl": null
+        },
+        {
           "id": "4204638",
           "author": "Mark Atkinson",
           "description": "The transfer window is in full swing, with a big-money move for Celtic forward Jota to Al-Ittihad expected to be confirmed in the coming days.",
@@ -188,6 +198,56 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "c0b81e1f0478f4ab80debc15c3f1d044",
+          "author": null,
+          "description": "The Scotland international has been immense for his country in recent camps, but he has struggled to cement a starting spot at his club.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23629433.scott-mctominay-transfer-latest-celtic-amongst-next-club-links/?ref=rss",
+          "publishedOn": "2023-07-03T11:32:17.000Z",
+          "wordCount": 8626,
+          "title": "Scott McTominay transfer latest as Celtic amongst next club links",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16956077/?type=og-image"
+        },
+        {
+          "id": "dc361ede169fc77a2450bd331a614acc",
+          "author": null,
+          "description": "The 21-year-old midfielder can't wait to get started at his new home.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23629031.odin-thiago-holm-starstruck-celtic-meeting-brendan-rodgers/?ref=rss",
+          "publishedOn": "2023-07-03T09:59:34.000Z",
+          "wordCount": 9884,
+          "title": "Odin Thiago Holm 'starstruck' by Celtic meeting with Brendan Rodgers",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16955395/?type=og-image"
+        },
+        {
+          "id": "136b6353e500b5ea3269f4ed772938df",
+          "author": null,
+          "description": "The club have announced that they have completely sold out their home allocation for another season in yet another show of faith from the support",
+          "link": "https://www.glasgowtimes.co.uk/sport/23628940.celtic-season-tickets-sold-next-campaign/?ref=rss",
+          "publishedOn": "2023-07-03T09:40:38.000Z",
+          "wordCount": 9727,
+          "title": "Celtic season tickets have sold out for next campaign",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16955210/?type=og-image"
+        },
+        {
+          "id": "069754546649df9da764b5cb314e938c",
+          "author": null,
+          "description": "Celtic appear certain to abandon plans to play in South Korea this month.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23628872.celtic-look-certain-abandon-south-korea-pre-season-plans/?ref=rss",
+          "publishedOn": "2023-07-03T09:23:59.000Z",
+          "wordCount": 9928,
+          "title": "Celtic look certain to abandon South Korea pre-season plans",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16955111/?type=og-image"
+        },
+        {
+          "id": "504657688d7d7159605aee923d59e273",
+          "author": null,
+          "description": "The Australian could be seen talking to his players in the group setting on the training pitch.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23628854.ange-postecoglou-filmed-spurs-training-gets-underway/?ref=rss",
+          "publishedOn": "2023-07-03T09:19:46.000Z",
+          "wordCount": 8620,
+          "title": "Ange Postecoglou filmed as Spurs training gets underway",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16954977/?type=og-image"
+        },
         {
           "id": "ce03e7184c700e3952ea59013a5771c5",
           "author": null,
