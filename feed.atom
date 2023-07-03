@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-07-03T01:53:30.351Z</updated>
+    <updated>2023-07-03T03:26:41.653Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -594,16 +594,6 @@
         <summary type="html"><![CDATA[The Scottish champions hosted a media conference last Friday to mark the unveiling of Brendan Rodgers' return to the club as manager.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Old Firm transfers: £7m ace set for Rangers medical, Celtic agree 2nd signing, Ibrox target attracts attention]]></title>
-        <id>4200512</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/old-firm-transfers-ps7m-ace-set-for-rangers-medical-celtic-agree-2nd-signing-ibrox-target-attracts-attention-4200512"/>
-        <updated>2023-06-28T15:09:05.000Z</updated>
-        <summary type="html"><![CDATA[Between them, Celtic and Rangers have so far signed five players ahead of the new season. More recruits are expected to be confirmed imminently as the teams look to duke it out in the Premiership and progress in Europe.]]></summary>
-        <author>
-            <name>Joel Sked</name>
         </author>
     </entry>
 </feed>
