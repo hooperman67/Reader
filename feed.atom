@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-07-03T12:41:36.770Z</updated>
+    <updated>2023-07-03T15:19:12.456Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Scott Brown snaps up Adam Montgomery as Celtic kid joins Fleetwood]]></title>
+        <id>bc6334b8a45014ed3a7fe4b3b273f536</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23630163.scott-brown-snaps-adam-montgomery-celtic-kid-joins-fleetwood/?ref=rss"/>
+        <updated>2023-07-03T14:18:42.000Z</updated>
+        <summary type="html"><![CDATA[The 20-year-old joins up with Scott Brown after a successful loan at St Johnstone in the last campaign.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jota 'absent from Celtic training' as shock Saudi transfer looms]]></title>
+        <id>8ef97aab2ed83c6ab06fae3ba47e4e1b</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23629996.jota-absent-celtic-training-shock-saudi-transfer-looms/?ref=rss"/>
+        <updated>2023-07-03T13:45:15.000Z</updated>
+        <summary type="html"><![CDATA[Celtic winger Jota was reportedly not spotted heading into Lennoxtown as Celtic players returned to training.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everything Celtic fans need to know about Yang Hyun Jun transfer feud]]></title>
+        <id>fa7558b610d87e627770af7fd567c92a</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23629850.everything-celtic-fans-need-know-yang-hyun-jun-transfer-feud/?ref=rss"/>
+        <updated>2023-07-03T13:17:02.000Z</updated>
+        <summary type="html"><![CDATA[The 21-year-old winger has become involved in a dispute with his club and its roots long predate this transfer window.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scott McTominay transfer latest as Celtic amongst next club links]]></title>
         <id>c0b81e1f0478f4ab80debc15c3f1d044</id>
