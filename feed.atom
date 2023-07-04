@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-07-04T06:25:55.356Z</updated>
+    <updated>2023-07-04T09:19:39.319Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ex-Celtic boss Ange Postecoglou explains Tottenham coaching choices]]></title>
+        <id>ee4a62474fec447d166e1e279063406e</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23631434.ex-celtic-boss-ange-postecoglou-explains-tottenham-coaching-choices/?ref=rss"/>
+        <updated>2023-07-04T08:24:56.000Z</updated>
+        <summary type="html"><![CDATA[He said: “It’s as much about what we do off the field as what we do on it. Starting with the coaching, which is probably the most important aspect. They’re really bright, talented and ambitious guys. It’s a great mix.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bizarre Al-Ittihad transfer video confirms £25m Jota move]]></title>
+        <id>791a41fa3864d522d30eca116b484aa6</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23631208.bizarre-al-ittihad-transfer-video-confirms-25m-jota-move/?ref=rss"/>
+        <updated>2023-07-04T06:20:29.000Z</updated>
+        <summary type="html"><![CDATA[The 24-year-old makes the permanent switch following two years in Glasgow, having spent one season on loan from Benfica before signing a permanent contract.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic confirm Jota exit, length of contract, reported fee, Al-Ittihad signing claim, Liel Abada interest]]></title>
         <id>4206112</id>
@@ -673,16 +693,6 @@
         <summary type="html"><![CDATA[A domestic treble last season has interested parties eyeing up the top players at Parkhead.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jota 'agrees' shock Celtic exit to Saudi Arabia - transfer fee, life-changing salary, Karim Benzema link-up]]></title>
-        <id>4201842</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/jota-agrees-shock-celtic-exit-to-saudi-arabia-transfer-fee-life-changing-salary-karim-benzema-link-up-4201842"/>
-        <updated>2023-06-29T21:00:47.000Z</updated>
-        <summary type="html"><![CDATA[Celtic winger Jota could become the first big star of Scottish football to join the recent player exodus to Saudi Arabia after receiving a megabucks offer to join champions Al-Ittihad.]]></summary>
-        <author>
-            <name>Matthew Elder</name>
         </author>
     </entry>
 </feed>
