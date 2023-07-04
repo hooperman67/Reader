@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-07-04T15:20:05.255Z</updated>
+    <updated>2023-07-04T18:25:00.680Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kennedy details Rodgers and Postecoglou difference at Celtic]]></title>
+        <id>427a71149640045d6841318b69fdef7a</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23633642.kennedy-details-rodgers-postecoglou-difference-celtic/?ref=rss"/>
+        <updated>2023-07-04T17:02:18.000Z</updated>
+        <summary type="html"><![CDATA[John Kennedy has outlined the main differences between Ange Postecoglou and new Celtic manager Brendan Rodgers.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How do Celtic replace Jota - sensible deal, 66-word club statement, the stats six options or new signing]]></title>
         <id>4207217</id>
@@ -14,6 +24,16 @@
         <summary type="html"><![CDATA[The 66 words Celtic dedicated to confirming Jota's departure from the club was far from representative of the impact he made at the club across two seasons which brought 83 games, 28 goals, 26 assists and five trophies.]]></summary>
         <author>
             <name>Joel Sked</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jota breaks silence on Celtic transfer exit for Al-Ittihad]]></title>
+        <id>8dc0fbdaf9bfecf0cf7d1834d3ba633a</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23633006.jota-breaks-silence-celtic-transfer-exit-al-ittihad/?ref=rss"/>
+        <updated>2023-07-04T14:41:48.000Z</updated>
+        <summary type="html"><![CDATA[Jota has broken his silence over his Celtic exit to join Saudi club Al-Ittihad.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
     <entry>
@@ -741,16 +761,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23624044.celtic-star-aaron-mooy-retires-immediate-effect/?ref=rss"/>
         <updated>2023-06-30T06:42:29.000Z</updated>
         <summary type="html"><![CDATA[Aaron Mooy has decided to retire from football after his treble-winning season with Celtic.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 5 Celtic stars under transfer scrutiny as departure risk ranked]]></title>
-        <id>f174bf6d7d8c5e427f91ad7645cb45fc</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23623223.5-celtic-stars-transfer-scrutiny-departure-risk-ranked/?ref=rss"/>
-        <updated>2023-06-30T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A domestic treble last season has interested parties eyeing up the top players at Parkhead.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>

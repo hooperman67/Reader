@@ -219,6 +219,26 @@
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
         {
+          "id": "427a71149640045d6841318b69fdef7a",
+          "author": null,
+          "description": "John Kennedy has outlined the main differences between Ange Postecoglou and new Celtic manager Brendan Rodgers.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23633642.kennedy-details-rodgers-postecoglou-difference-celtic/?ref=rss",
+          "publishedOn": "2023-07-04T17:02:18.000Z",
+          "wordCount": 8664,
+          "title": "Kennedy details Rodgers and Postecoglou difference at Celtic",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16962773/?type=og-image"
+        },
+        {
+          "id": "8dc0fbdaf9bfecf0cf7d1834d3ba633a",
+          "author": null,
+          "description": "Jota has broken his silence over his Celtic exit to join Saudi club Al-Ittihad.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23633006.jota-breaks-silence-celtic-transfer-exit-al-ittihad/?ref=rss",
+          "publishedOn": "2023-07-04T14:41:48.000Z",
+          "wordCount": 8555,
+          "title": "Jota breaks silence on Celtic transfer exit for Al-Ittihad",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16961755/?type=og-image"
+        },
+        {
           "id": "cd23711ac37fd477505179036cb5afdf",
           "author": null,
           "description": "Celtic have cancelled their pre-season tour of South Korea, it has been confirmed.",
@@ -757,16 +777,6 @@
           "wordCount": 10348,
           "title": "Celtic star Aaron Mooy retires with immediate effect",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16945815/?type=og-image"
-        },
-        {
-          "id": "f174bf6d7d8c5e427f91ad7645cb45fc",
-          "author": null,
-          "description": "A domestic treble last season has interested parties eyeing up the top players at Parkhead.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23623223.5-celtic-stars-transfer-scrutiny-departure-risk-ranked/?ref=rss",
-          "publishedOn": "2023-06-30T05:00:00.000Z",
-          "wordCount": 9767,
-          "title": "The 5 Celtic stars under transfer scrutiny as departure risk ranked",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16944064/?type=og-image"
         }
       ]
     }
