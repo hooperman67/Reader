@@ -184,26 +184,6 @@
           "wordCount": null,
           "title": "Supercomputer predicts Celtic-Rangers title winner, 3rd place and relegated side for 2023-24 Premiership season",
           "imageUrl": null
-        },
-        {
-          "id": "4202476",
-          "author": "Joel Sked",
-          "description": "Celtic will host Ross County on the opening weekend of the Scottish Premiership season as they unfurl the league-winning flag, while the first clash with Rangers has been scheduled for September.",
-          "link": "https://www.scotsman.com/sport/football/celtic/scottish-premiership-fixtures-202324-old-firm-edinburgh-derby-live-sky-sports-games-key-dates-4202476",
-          "publishedOn": "2023-06-30T08:31:53.000Z",
-          "wordCount": null,
-          "title": "Scottish Premiership fixtures 2023/24: Old Firm, Edinburgh derby, live Sky Sports games, key dates",
-          "imageUrl": null
-        },
-        {
-          "id": "4202436",
-          "author": "Joel Sked",
-          "description": "Aaron Mooy has confirmed his decision to retire from professional football at the age of 32 with the Celtic star revealing he felt it was the “right time”.",
-          "link": "https://www.scotsman.com/sport/football/celtic/celtic-fan-favourite-explains-retirement-decision-as-star-man-heads-for-exit-brendan-rodgers-reaction-4202436",
-          "publishedOn": "2023-06-30T07:31:36.000Z",
-          "wordCount": null,
-          "title": "Celtic fan favourite explains retirement decision as star man heads for exit, Brendan Rodgers reaction",
-          "imageUrl": null
         }
       ]
     },
@@ -218,6 +198,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "149ff5d31be265c5454e93998a36f008",
+          "author": null,
+          "description": "Liel Abada had been reported to be a transfer target for Sporting Lisbon but it's claimed the Portuguese side are not seeking a deal.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23633796.liel-abada-celtic-exit-latest-sporting-lisbon-transfer-ruled-out/?ref=rss",
+          "publishedOn": "2023-07-04T19:49:32.000Z",
+          "wordCount": 8529,
+          "title": "Liel Abada Celtic exit latest as Sporting Lisbon transfer 'ruled out'",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16963061/?type=og-image"
+        },
         {
           "id": "427a71149640045d6841318b69fdef7a",
           "author": null,
@@ -717,66 +707,6 @@
           "wordCount": 8595,
           "title": "Maddison reveals Postecoglou 'different Spurs' transfer vow",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16946517/?type=og-image"
-        },
-        {
-          "id": "fedbaa8f93ec60859b3088c4c95d1fd2",
-          "author": null,
-          "description": "The new season is almost upon us and the fixture list for the 2023/24 campaign has been released.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23624257.full-scottish-premiership-2023-24-fixture-list/?ref=rss",
-          "publishedOn": "2023-06-30T08:31:32.000Z",
-          "wordCount": 10271,
-          "title": "In full: Scottish Premiership 2023/24 fixture list",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16946172/?type=og-image"
-        },
-        {
-          "id": "9a3788757059af6c5394b8fc9d821ca5",
-          "author": null,
-          "description": "The SPFL have confirmed the Scottish Premiership fixtures for the 2023/24 season.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23622673.every-2023-24-celtic-vs-rangers-fixture-date-revealed/?ref=rss",
-          "publishedOn": "2023-06-30T08:00:00.000Z",
-          "wordCount": 9691,
-          "title": "Every 2023/24 Celtic vs Rangers fixture date revealed",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16943583/?type=og-image"
-        },
-        {
-          "id": "b29b3353360e5a681c71505d908672d4",
-          "author": null,
-          "description": "The SPFL have confirmed the date and location for the first match between Celtic and Rangers this season.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23622702.date-first-rangers-vs-celtic-league-fixture-confirmed/?ref=rss",
-          "publishedOn": "2023-06-30T08:00:00.000Z",
-          "wordCount": 8540,
-          "title": "Date of first Rangers vs Celtic league fixture confirmed",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16946092/?type=og-image"
-        },
-        {
-          "id": "dd0fcf00469856fd1a5016f8f8a10803",
-          "author": null,
-          "description": "Aaron Mooy has called time on his career for Celtic and Australia.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23624098.reason-behind-aaron-mooy-celtic-retirement-explained/?ref=rss",
-          "publishedOn": "2023-06-30T07:30:57.000Z",
-          "wordCount": 8830,
-          "title": "Reason behind Aaron Mooy Celtic retirement explained",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16945889/?type=og-image"
-        },
-        {
-          "id": "ea603a08edfec127e5d00c6847567369",
-          "author": null,
-          "description": "Celtic winger Jota has reportedly been offered an eye-watering salary in Saudi Arabia.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23624078.staggering-jota-saudi-wage-revealed-celtic-transfer-exit-looms/?ref=rss",
-          "publishedOn": "2023-06-30T07:13:36.000Z",
-          "wordCount": 8513,
-          "title": "Staggering Jota 'Saudi wage revealed' as Celtic transfer exit looms",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16945841/?type=og-image"
-        },
-        {
-          "id": "4b57f03af23241ab521ea3023dce2a97",
-          "author": null,
-          "description": "Aaron Mooy has decided to retire from football after his treble-winning season with Celtic.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23624044.celtic-star-aaron-mooy-retires-immediate-effect/?ref=rss",
-          "publishedOn": "2023-06-30T06:42:29.000Z",
-          "wordCount": 10348,
-          "title": "Celtic star Aaron Mooy retires with immediate effect",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16945815/?type=og-image"
         }
       ]
     }
