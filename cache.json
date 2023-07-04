@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4207217",
+          "author": "Joel Sked",
+          "description": "The 66 words Celtic dedicated to confirming Jota's departure from the club was far from representative of the impact he made at the club across two seasons which brought 83 games, 28 goals, 26 assists and five trophies.",
+          "link": "https://www.scotsman.com/sport/football/celtic/how-do-celtic-replace-jota-sensible-deal-66-word-club-statement-the-stats-six-options-or-new-signing-4207217",
+          "publishedOn": "2023-07-04T15:07:35.000Z",
+          "wordCount": null,
+          "title": "How do Celtic replace Jota - sensible deal, 66-word club statement, the stats six options or new signing",
+          "imageUrl": null
+        },
+        {
           "id": "4206427",
           "author": "Joel Sked",
           "description": "Kyogo Furuhashi has targeted even more goals and trophies after signing a new long-term Celtic contract.",
@@ -208,6 +218,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "cd23711ac37fd477505179036cb5afdf",
+          "author": null,
+          "description": "Celtic have cancelled their pre-season tour of South Korea, it has been confirmed.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23632571.celtic-cancel-pre-season-trip-promoters-blasted/?ref=rss",
+          "publishedOn": "2023-07-04T13:08:38.000Z",
+          "wordCount": 8502,
+          "title": "Celtic cancel pre-season trip as promoters blasted",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16961069/?type=og-image"
+        },
         {
           "id": "235dd79e9c984da8bfffc11ba1d4e875",
           "author": null,
