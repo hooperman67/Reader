@@ -204,16 +204,6 @@
           "wordCount": null,
           "title": "Jota 'agrees' shock Celtic exit with star winger set to link up with Karim Benzema in Saudi Arabia",
           "imageUrl": null
-        },
-        {
-          "id": "4201097",
-          "author": "Matthew Elder",
-          "description": "Neil Lennon has cast doubts over whether Kyogo Furuhashi would be capable of playing regularly for Tottenham amid reports that Ange Postecoglou could make a move for the Celtic striker.",
-          "link": "https://www.scotsman.com/sport/football/celtic/former-celtic-manager-insists-kyogo-not-a-top-end-epl-player-amid-spurs-links-4201097",
-          "publishedOn": "2023-06-29T09:22:22.000Z",
-          "wordCount": null,
-          "title": "Former Celtic manager insists Kyogo 'not a top end EPL player' amid Spurs links",
-          "imageUrl": null
         }
       ]
     },
@@ -228,6 +218,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "50c42a78a414d5790a334a74bdfae799",
+          "author": null,
+          "description": "",
+          "link": "https://www.glasgowtimes.co.uk/sport/23631093.celtic-release-statement-jota-al-ittihad-transfer-exit/?ref=rss",
+          "publishedOn": "2023-07-03T21:02:05.000Z",
+          "wordCount": 8613,
+          "title": "Celtic release statement on Jota to Al-Ittihad transfer exit",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16958718/?type=og-image"
+        },
         {
           "id": "9c7a0540cdb6e1f67fd13fb2451e6e49",
           "author": null,
@@ -737,36 +737,6 @@
           "wordCount": 10018,
           "title": "Jota set for Celtic transfer exit as he 'agrees terms' with Al-Ittihad",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16944064/?type=og-image"
-        },
-        {
-          "id": "e1200d10e3fea136f6e476a5285842e2",
-          "author": null,
-          "description": "Traditionally, South Koreans turn one on the day they are born – and another year older when the calendar hits January 1.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23622560.celtic-star-oh-hyeon-gyu-officially-became-year-younger-overnight/?ref=rss",
-          "publishedOn": "2023-06-29T12:28:56.000Z",
-          "wordCount": 8825,
-          "title": "Celtic star Oh Hyeon-gyu officially became a year younger overnight",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16943454/?type=og-image"
-        },
-        {
-          "id": "d093df392601fbb7fdf7e4b5abf2835f",
-          "author": null,
-          "description": "Celtic are \"liaising with match organisers\" after Wolves pulled out of the Asian tour.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23621954.celtic-release-statement-wolves-friendly-axed/?ref=rss",
-          "publishedOn": "2023-06-29T10:10:49.000Z",
-          "wordCount": 8743,
-          "title": "Celtic release statement after Wolves friendly axed",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16942449/?type=og-image"
-        },
-        {
-          "id": "833c68989f75b9cc4af9fc3ca106bb80",
-          "author": null,
-          "description": "Tennis star Nick Kyrgios has revealed the strange reason why he is a fan of Spurs and new manager Ange Postecoglou.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23621865.kyrgios-reveals-bizarre-reason-behind-ange-postecoglou-spurs/?ref=rss",
-          "publishedOn": "2023-06-29T09:50:47.000Z",
-          "wordCount": 8790,
-          "title": "Kyrgios reveals bizarre reason he is behind Ange Postecoglou and Spurs",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16868516/?type=og-image"
         }
       ]
     }

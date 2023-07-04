@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-07-03T21:16:58.803Z</updated>
+    <updated>2023-07-04T01:54:26.241Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -14,6 +14,15 @@
         <summary type="html"><![CDATA[Jota has completed his moved to Al-Ittihad with the Saudi Arabian side making it known they want to “rule the world”.]]></summary>
         <author>
             <name>Joel Sked</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic release statement on Jota to Al-Ittihad transfer exit]]></title>
+        <id>50c42a78a414d5790a334a74bdfae799</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23631093.celtic-release-statement-jota-al-ittihad-transfer-exit/?ref=rss"/>
+        <updated>2023-07-03T21:02:05.000Z</updated>
+        <author>
+            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
     <entry>
@@ -714,46 +723,6 @@
         <summary type="html"><![CDATA[The Portuguese winger has been linked with a move away from Parkhead this summer.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic star Oh Hyeon-gyu officially became a year younger overnight]]></title>
-        <id>e1200d10e3fea136f6e476a5285842e2</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23622560.celtic-star-oh-hyeon-gyu-officially-became-year-younger-overnight/?ref=rss"/>
-        <updated>2023-06-29T12:28:56.000Z</updated>
-        <summary type="html"><![CDATA[Traditionally, South Koreans turn one on the day they are born – and another year older when the calendar hits January 1.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic release statement after Wolves friendly axed]]></title>
-        <id>d093df392601fbb7fdf7e4b5abf2835f</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23621954.celtic-release-statement-wolves-friendly-axed/?ref=rss"/>
-        <updated>2023-06-29T10:10:49.000Z</updated>
-        <summary type="html"><![CDATA[Celtic are "liaising with match organisers" after Wolves pulled out of the Asian tour.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kyrgios reveals bizarre reason he is behind Ange Postecoglou and Spurs]]></title>
-        <id>833c68989f75b9cc4af9fc3ca106bb80</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23621865.kyrgios-reveals-bizarre-reason-behind-ange-postecoglou-spurs/?ref=rss"/>
-        <updated>2023-06-29T09:50:47.000Z</updated>
-        <summary type="html"><![CDATA[Tennis star Nick Kyrgios has revealed the strange reason why he is a fan of Spurs and new manager Ange Postecoglou.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Former Celtic manager insists Kyogo 'not a top end EPL player' amid Spurs links]]></title>
-        <id>4201097</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/former-celtic-manager-insists-kyogo-not-a-top-end-epl-player-amid-spurs-links-4201097"/>
-        <updated>2023-06-29T09:22:22.000Z</updated>
-        <summary type="html"><![CDATA[Neil Lennon has cast doubts over whether Kyogo Furuhashi would be capable of playing regularly for Tottenham amid reports that Ange Postecoglou could make a move for the Celtic striker.]]></summary>
-        <author>
-            <name>Matthew Elder</name>
         </author>
     </entry>
 </feed>
