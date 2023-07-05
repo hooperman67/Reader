@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-07-05T15:21:15.616Z</updated>
+    <updated>2023-07-05T18:25:09.734Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Scottish transfers: Bid for Rangers star, Celtic in signing boost, Hibs to land Hearts-linked midfielder]]></title>
+        <id>4208812</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/scottish-transfers-bid-for-rangers-star-celtic-in-signing-boost-hibs-to-land-hearts-linked-midfielder-4208812"/>
+        <updated>2023-07-05T15:40:52.000Z</updated>
+        <summary type="html"><![CDATA[The Scottish Premiership season will get under way in just a month’s time. Plenty is expected to happen between now and then with clubs ramping up their on-field preparation and still looking to get key deals done in the transfer market.]]></summary>
+        <author>
+            <name>Joel Sked</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aberdeen v Celtic fixture change after Sky Sports selection - new date and kick-off time]]></title>
+        <id>4208797</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/aberdeen-v-celtic-fixture-change-after-sky-sports-selection-new-date-and-kick-off-time-4208797"/>
+        <updated>2023-07-05T15:34:44.000Z</updated>
+        <summary type="html"><![CDATA[Aberdeen’s opening home match of the season against Celtic has been moved after being selected for live Sky Sports coverage.]]></summary>
+        <author>
+            <name>Joel Sked</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[O'Riley reveals 'refreshing' change at Celtic under Rodgers]]></title>
+        <id>4c480bc041e1d17d5cbead7fc21ac5ac</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23635782.oriley-reveals-refreshing-change-celtic-rodgers/?ref=rss"/>
+        <updated>2023-07-05T14:36:28.000Z</updated>
+        <summary type="html"><![CDATA[Matt O'Riley has admitted he is looking forward to more "openness" at Celtic after Brendan Rodgers' arrival.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scott Brown backed for Celtic job as Neil Lennon offers glowing report]]></title>
         <id>47e9694520a2de8b9fb0fbdbe8984e94</id>
@@ -681,16 +711,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23626893.raging-chris-sutton-takes-aim-jota-al-itthad-transfer/?ref=rss"/>
         <updated>2023-07-01T08:28:15.000Z</updated>
         <summary type="html"><![CDATA[Reports in Saudi emerged this week that the Portuguese star was close to joining the Saudi Pro League side for a bumper fee.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Key Celtic fixture takeaways and reason for brutal away run]]></title>
-        <id>49b0951b90a768c298ad458a344da35a</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23625844.key-celtic-fixture-takeaways-reason-brutal-away-run/?ref=rss"/>
-        <updated>2023-07-01T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Brendan Rodgers' side now know what their upcoming Premiership title defence will look like.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>

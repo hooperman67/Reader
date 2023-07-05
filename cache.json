@@ -6,6 +6,26 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4208812",
+          "author": "Joel Sked",
+          "description": "The Scottish Premiership season will get under way in just a month’s time. Plenty is expected to happen between now and then with clubs ramping up their on-field preparation and still looking to get key deals done in the transfer market.",
+          "link": "https://www.scotsman.com/sport/football/celtic/scottish-transfers-bid-for-rangers-star-celtic-in-signing-boost-hibs-to-land-hearts-linked-midfielder-4208812",
+          "publishedOn": "2023-07-05T15:40:52.000Z",
+          "wordCount": null,
+          "title": "Scottish transfers: Bid for Rangers star, Celtic in signing boost, Hibs to land Hearts-linked midfielder",
+          "imageUrl": null
+        },
+        {
+          "id": "4208797",
+          "author": "Joel Sked",
+          "description": "Aberdeen’s opening home match of the season against Celtic has been moved after being selected for live Sky Sports coverage.",
+          "link": "https://www.scotsman.com/sport/football/celtic/aberdeen-v-celtic-fixture-change-after-sky-sports-selection-new-date-and-kick-off-time-4208797",
+          "publishedOn": "2023-07-05T15:34:44.000Z",
+          "wordCount": null,
+          "title": "Aberdeen v Celtic fixture change after Sky Sports selection - new date and kick-off time",
+          "imageUrl": null
+        },
+        {
           "id": "4208246",
           "author": "Joel Sked",
           "description": "Gordon Strachan believes former club Celtic are one of the best around for developing players who want to reach the very top of the game.",
@@ -148,6 +168,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "4c480bc041e1d17d5cbead7fc21ac5ac",
+          "author": null,
+          "description": "Matt O'Riley has admitted he is looking forward to more \"openness\" at Celtic after Brendan Rodgers' arrival.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23635782.oriley-reveals-refreshing-change-celtic-rodgers/?ref=rss",
+          "publishedOn": "2023-07-05T14:36:28.000Z",
+          "wordCount": 8538,
+          "title": "O'Riley reveals 'refreshing' change at Celtic under Rodgers",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16966179/?type=og-image"
+        },
         {
           "id": "47e9694520a2de8b9fb0fbdbe8984e94",
           "author": null,
@@ -697,16 +727,6 @@
           "wordCount": 9797,
           "title": "Raging Chris Sutton takes aim at Jota for Al-Ittihad transfer",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16951102/?type=og-image"
-        },
-        {
-          "id": "49b0951b90a768c298ad458a344da35a",
-          "author": null,
-          "description": "Brendan Rodgers' side now know what their upcoming Premiership title defence will look like.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23625844.key-celtic-fixture-takeaways-reason-brutal-away-run/?ref=rss",
-          "publishedOn": "2023-07-01T05:00:00.000Z",
-          "wordCount": 9400,
-          "title": "Key Celtic fixture takeaways and reason for brutal away run",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16840755/?type=og-image"
         }
       ]
     }
