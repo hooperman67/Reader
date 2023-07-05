@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-07-05T09:20:04.871Z</updated>
+    <updated>2023-07-05T12:42:55.670Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Jota told Al Ittihad fans will rival Celtic for atmosphere]]></title>
+        <id>6208adf687516eda4688548e96c49b70</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23635150.jota-told-al-ittihad-fans-will-rival-celtic-atmosphere/?ref=rss"/>
+        <updated>2023-07-05T12:01:20.000Z</updated>
+        <summary type="html"><![CDATA[Jota has been told to expect some wild atmospheres when he turns out for Al Ittihad in Saudi Arabia next year.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['I wouldn’t call Celtic a stepping stone but...' - Why Scottish champions are so perfect platform for signings]]></title>
+        <id>4208246</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/i-wouldnt-call-celtic-a-stepping-stone-but-why-scottish-champions-are-so-perfect-platform-for-signings-4208246"/>
+        <updated>2023-07-05T11:44:45.000Z</updated>
+        <summary type="html"><![CDATA[Gordon Strachan believes former club Celtic are one of the best around for developing players who want to reach the very top of the game.]]></summary>
+        <author>
+            <name>Joel Sked</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yang Hyun-Jun to Celtic on as transfer chances 'increased']]></title>
+        <id>ebfe012dcd34b7145686f45ecde4cbf2</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23634996.yang-hyun-jun-celtic-transfer-chances-increased/?ref=rss"/>
+        <updated>2023-07-05T11:26:11.000Z</updated>
+        <summary type="html"><![CDATA[The 21-year-old was quickly identified as a key transfer target by Brendan Rodgers after taking over the reins from Ange Postecoglou.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One-time Celtic striker target set for £2.6m Euro move despite English interest]]></title>
+        <id>4208063</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/one-time-celtic-striker-target-set-for-ps26m-euro-move-despite-english-interest-4208063"/>
+        <updated>2023-07-05T10:34:44.000Z</updated>
+        <summary type="html"><![CDATA[One-time Celtic target Cho Gue-sung is closing in on a transfer to European football after failing to get a January move.]]></summary>
+        <author>
+            <name>Joel Sked</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jota hailed for Al-Ittihad transfer by Benfica hero Diamantino]]></title>
+        <id>d3515bc22c5dcb19eb9f100fcb05fad1</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23634660.jota-hailed-al-ittihad-transfer-benfica-hero-diamantino/?ref=rss"/>
+        <updated>2023-07-05T10:12:45.000Z</updated>
+        <summary type="html"><![CDATA[Benfica legend Diamantino has praised Celtic for turning Jota into a £25 million player...and earning his old club millions.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic dominate Rangers by £100m in 10 most expensive players in Scottish football history]]></title>
+        <id>4207971</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/celtic-dominate-rangers-by-ps100m-in-10-most-expensive-players-in-scottish-football-history-4207971"/>
+        <updated>2023-07-05T10:00:44.000Z</updated>
+        <summary type="html"><![CDATA[Jota’s transfer from Celtic to Al-Ittihad of Saudi Arabia at the start of the week was the latest big money move in Scottish football.]]></summary>
+        <author>
+            <name>Joel Sked</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ange Postecoglou 'no bulls***' Spurs approach backed]]></title>
         <id>384f59b02a3cde4aa4160572d8e90533</id>
@@ -623,16 +683,6 @@
         <summary type="html"><![CDATA[Brendan Rodgers' side now know what their upcoming Premiership title defence will look like.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Some days he was awful' - Marco Tilio former teammate lifts lid on new Celtic signing's ascent]]></title>
-        <id>4204004</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/some-days-he-was-awful-marco-tilio-former-teammate-lifts-lid-on-new-celtic-signings-ascent-4204004"/>
-        <updated>2023-06-30T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Hibs newcomer Adam Le Fondre has tipped former Sydney FC team-mate Marco Tilio to be a success at Celtic, explaining that the 21-year-old’s improvement over the past few years has been a marvel.]]></summary>
-        <author>
-            <name>Moira Gordon</name>
         </author>
     </entry>
 </feed>

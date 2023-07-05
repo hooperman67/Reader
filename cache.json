@@ -6,6 +6,36 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4208246",
+          "author": "Joel Sked",
+          "description": "Gordon Strachan believes former club Celtic are one of the best around for developing players who want to reach the very top of the game.",
+          "link": "https://www.scotsman.com/sport/football/celtic/i-wouldnt-call-celtic-a-stepping-stone-but-why-scottish-champions-are-so-perfect-platform-for-signings-4208246",
+          "publishedOn": "2023-07-05T11:44:45.000Z",
+          "wordCount": null,
+          "title": "'I wouldn’t call Celtic a stepping stone but...' - Why Scottish champions are so perfect platform for signings",
+          "imageUrl": null
+        },
+        {
+          "id": "4208063",
+          "author": "Joel Sked",
+          "description": "One-time Celtic target Cho Gue-sung is closing in on a transfer to European football after failing to get a January move.",
+          "link": "https://www.scotsman.com/sport/football/celtic/one-time-celtic-striker-target-set-for-ps26m-euro-move-despite-english-interest-4208063",
+          "publishedOn": "2023-07-05T10:34:44.000Z",
+          "wordCount": null,
+          "title": "One-time Celtic striker target set for £2.6m Euro move despite English interest",
+          "imageUrl": null
+        },
+        {
+          "id": "4207971",
+          "author": "Joel Sked",
+          "description": "Jota’s transfer from Celtic to Al-Ittihad of Saudi Arabia at the start of the week was the latest big money move in Scottish football.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtic-dominate-rangers-by-ps100m-in-10-most-expensive-players-in-scottish-football-history-4207971",
+          "publishedOn": "2023-07-05T10:00:44.000Z",
+          "wordCount": null,
+          "title": "Celtic dominate Rangers by £100m in 10 most expensive players in Scottish football history",
+          "imageUrl": null
+        },
+        {
           "id": "4207217",
           "author": "Joel Sked",
           "description": "The 66 words Celtic dedicated to confirming Jota's departure from the club was far from representative of the impact he made at the club across two seasons which brought 83 games, 28 goals, 26 assists and five trophies.",
@@ -104,16 +134,6 @@
           "wordCount": null,
           "title": "Scottish transfers: Aberdeen in shock link with Rangers star, Hearts eye midfielder move, Celtic want starlet",
           "imageUrl": null
-        },
-        {
-          "id": "4204004",
-          "author": "Moira Gordon",
-          "description": "Hibs newcomer Adam Le Fondre has tipped former Sydney FC team-mate Marco Tilio to be a success at Celtic, explaining that the 21-year-old’s improvement over the past few years has been a marvel.",
-          "link": "https://www.scotsman.com/sport/football/celtic/some-days-he-was-awful-marco-tilio-former-teammate-lifts-lid-on-new-celtic-signings-ascent-4204004",
-          "publishedOn": "2023-06-30T21:30:00.000Z",
-          "wordCount": null,
-          "title": "'Some days he was awful' - Marco Tilio former teammate lifts lid on new Celtic signing's ascent",
-          "imageUrl": null
         }
       ]
     },
@@ -128,6 +148,36 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "6208adf687516eda4688548e96c49b70",
+          "author": null,
+          "description": "Jota has been told to expect some wild atmospheres when he turns out for Al Ittihad in Saudi Arabia next year.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23635150.jota-told-al-ittihad-fans-will-rival-celtic-atmosphere/?ref=rss",
+          "publishedOn": "2023-07-05T12:01:20.000Z",
+          "wordCount": 8639,
+          "title": "Jota told Al Ittihad fans will rival Celtic for atmosphere",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16965035/?type=og-image"
+        },
+        {
+          "id": "ebfe012dcd34b7145686f45ecde4cbf2",
+          "author": null,
+          "description": "The 21-year-old was quickly identified as a key transfer target by Brendan Rodgers after taking over the reins from Ange Postecoglou.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23634996.yang-hyun-jun-celtic-transfer-chances-increased/?ref=rss",
+          "publishedOn": "2023-07-05T11:26:11.000Z",
+          "wordCount": 8613,
+          "title": "Yang Hyun-Jun to Celtic on as transfer chances 'increased'",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16964669/?type=og-image"
+        },
+        {
+          "id": "d3515bc22c5dcb19eb9f100fcb05fad1",
+          "author": null,
+          "description": "Benfica legend Diamantino has praised Celtic for turning Jota into a £25 million player...and earning his old club millions.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23634660.jota-hailed-al-ittihad-transfer-benfica-hero-diamantino/?ref=rss",
+          "publishedOn": "2023-07-05T10:12:45.000Z",
+          "wordCount": 8671,
+          "title": "Jota hailed for Al-Ittihad transfer by Benfica hero Diamantino",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16944064/?type=og-image"
+        },
         {
           "id": "384f59b02a3cde4aa4160572d8e90533",
           "author": null,
