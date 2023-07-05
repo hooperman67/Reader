@@ -169,6 +169,16 @@
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
         {
+          "id": "22e4da93d73160dc962ae0e9004dccb6",
+          "author": null,
+          "description": "Yang Hyun-jun is reportedly locked in talks with Gangwon chiefs over a transfer to Celtic.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23636509.yang-celtic-transfer-latest-gangwon-reassess-offer/?ref=rss",
+          "publishedOn": "2023-07-05T18:07:54.000Z",
+          "wordCount": 8642,
+          "title": "Yang to Celtic transfer latest as Gangwon to 'reassess offer'",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16967541/?type=og-image"
+        },
+        {
           "id": "4c480bc041e1d17d5cbead7fc21ac5ac",
           "author": null,
           "description": "Matt O'Riley has admitted he is looking forward to more \"openness\" at Celtic after Brendan Rodgers' arrival.",
@@ -707,26 +717,6 @@
           "wordCount": 8460,
           "title": "Celtic set for replacement opponent in South Korea as Wolves withdraw",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16951366/?type=og-image"
-        },
-        {
-          "id": "09e5c9cd9c297a8a9b319e0e0d3cf412",
-          "author": null,
-          "description": "Sources in Saudi claim that the Celtic winger will now make the switch once a final fee has been agreed.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23626931.jota-al-ittihad-transfer-latest-timeline-emerges-celtic-exit/?ref=rss",
-          "publishedOn": "2023-07-01T08:53:52.000Z",
-          "wordCount": 8988,
-          "title": "Jota to Al-Ittihad transfer latest as timeline emerges on Celtic exit",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16951205/?type=og-image"
-        },
-        {
-          "id": "8342e3c71bef7a6ac2b1a1408c1a9f6f",
-          "author": null,
-          "description": "Reports in Saudi emerged this week that the Portuguese star was close to joining the Saudi Pro League side for a bumper fee.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23626893.raging-chris-sutton-takes-aim-jota-al-itthad-transfer/?ref=rss",
-          "publishedOn": "2023-07-01T08:28:15.000Z",
-          "wordCount": 9797,
-          "title": "Raging Chris Sutton takes aim at Jota for Al-Ittihad transfer",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16951102/?type=og-image"
         }
       ]
     }
