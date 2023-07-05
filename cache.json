@@ -114,16 +114,6 @@
           "wordCount": null,
           "title": "'Some days he was awful' - Marco Tilio former teammate lifts lid on new Celtic signing's ascent",
           "imageUrl": null
-        },
-        {
-          "id": "4203966",
-          "author": "Matthew Elder",
-          "description": "SPFL chief executive Neil Doncaster admits he is braced for another season of off-field “issues” in Scottish football but hopes that the performance of VAR will improve.",
-          "link": "https://www.scotsman.com/sport/football/neil-doncaster-braced-for-more-scottish-football-issues-but-spfl-chief-backs-var-to-improve-4203966",
-          "publishedOn": "2023-06-30T19:44:15.000Z",
-          "wordCount": null,
-          "title": "Neil Doncaster braced for more Scottish football 'issues' but SPFL chief backs VAR to improve",
-          "imageUrl": null
         }
       ]
     },
@@ -138,6 +128,66 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "384f59b02a3cde4aa4160572d8e90533",
+          "author": null,
+          "description": "The Australian has been pictured putting his new players through their paces in the early stages of pre-season training.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23634362.ange-postecoglou-no-bulls--spurs-approach-backed/?ref=rss",
+          "publishedOn": "2023-07-05T09:05:07.000Z",
+          "wordCount": 8686,
+          "title": "Ange Postecoglou 'no bulls***' Spurs approach backed",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16963713/?type=og-image"
+        },
+        {
+          "id": "4dcde47ab28b3d50a6f0aa4c17fd1bfa",
+          "author": null,
+          "description": "The Portuguese star completed his £25million move from Glasgow to the Middle East on Monday.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23634176.jota-branded-mercenary-celtic-saudi-transfer/?ref=rss",
+          "publishedOn": "2023-07-05T08:19:47.000Z",
+          "wordCount": 9679,
+          "title": "Jota branded 'mercenary' over Celtic to Saudi transfer",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16963568/?type=og-image"
+        },
+        {
+          "id": "db99305f564704b72624cf3a3f806689",
+          "author": null,
+          "description": "The former Hoops star slammed the Portuguese winger's mega-money switch to the Middle East earlier this week.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23634105.strachan-defends-jota-celtic-transfer-amid-sutton-dig/?ref=rss",
+          "publishedOn": "2023-07-05T07:57:14.000Z",
+          "wordCount": 8771,
+          "title": "Strachan defends Jota Celtic transfer amid Sutton dig",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16963495/?type=og-image"
+        },
+        {
+          "id": "ec9148bf99cecc4173fc455ea561e344",
+          "author": null,
+          "description": "The Gunners are set for a summer spending spree, with Declan Rice and Jurrien Timber closing in on moves to The Emirates.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23634001.frimpong-celtic-transfer-windfall-wait-amid-arsenal-interest/?ref=rss",
+          "publishedOn": "2023-07-05T07:06:49.000Z",
+          "wordCount": 8717,
+          "title": "Frimpong Celtic transfer windfall wait amid Arsenal interest",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16963392/?type=og-image"
+        },
+        {
+          "id": "26e1ba374f143d6301d137c8cc813b2a",
+          "author": null,
+          "description": "The 26-year-old has over 200 appearances to his name for Man United but it would appear his days at Old Trafford are numbered.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23633975.scott-mctominay-celtic-transfer-considered-amid-wage-doubts/?ref=rss",
+          "publishedOn": "2023-07-05T06:43:58.000Z",
+          "wordCount": 8645,
+          "title": "Scott McTominay Celtic transfer considered amid wage doubts",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16963324/?type=og-image"
+        },
+        {
+          "id": "dc33b0192096e444a31f7888f7539538",
+          "author": null,
+          "description": "CELTIC have been urged to enter into a money-spinning partnership with a Saudi Arabian club - or risk being priced out of the international transfer market as the oil-rich Middle East nation increases its investment in football.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23633808.celtic-urged-enter-lucrative-partnership-saudi-arabian-club/?ref=rss",
+          "publishedOn": "2023-07-05T06:10:00.000Z",
+          "wordCount": 10194,
+          "title": "Celtic urged to enter lucrative partnership with Saudi Arabian club",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16963109/?type=og-image"
+        },
         {
           "id": "0f6472547f28e2de92e62ab053268495",
           "author": null,

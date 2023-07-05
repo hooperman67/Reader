@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-07-05T06:26:33.607Z</updated>
+    <updated>2023-07-05T09:20:04.871Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ange Postecoglou 'no bulls***' Spurs approach backed]]></title>
+        <id>384f59b02a3cde4aa4160572d8e90533</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23634362.ange-postecoglou-no-bulls--spurs-approach-backed/?ref=rss"/>
+        <updated>2023-07-05T09:05:07.000Z</updated>
+        <summary type="html"><![CDATA[The Australian has been pictured putting his new players through their paces in the early stages of pre-season training.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jota branded 'mercenary' over Celtic to Saudi transfer]]></title>
+        <id>4dcde47ab28b3d50a6f0aa4c17fd1bfa</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23634176.jota-branded-mercenary-celtic-saudi-transfer/?ref=rss"/>
+        <updated>2023-07-05T08:19:47.000Z</updated>
+        <summary type="html"><![CDATA[The Portuguese star completed his £25million move from Glasgow to the Middle East on Monday.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Strachan defends Jota Celtic transfer amid Sutton dig]]></title>
+        <id>db99305f564704b72624cf3a3f806689</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23634105.strachan-defends-jota-celtic-transfer-amid-sutton-dig/?ref=rss"/>
+        <updated>2023-07-05T07:57:14.000Z</updated>
+        <summary type="html"><![CDATA[The former Hoops star slammed the Portuguese winger's mega-money switch to the Middle East earlier this week.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frimpong Celtic transfer windfall wait amid Arsenal interest]]></title>
+        <id>ec9148bf99cecc4173fc455ea561e344</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23634001.frimpong-celtic-transfer-windfall-wait-amid-arsenal-interest/?ref=rss"/>
+        <updated>2023-07-05T07:06:49.000Z</updated>
+        <summary type="html"><![CDATA[The Gunners are set for a summer spending spree, with Declan Rice and Jurrien Timber closing in on moves to The Emirates.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scott McTominay Celtic transfer considered amid wage doubts]]></title>
+        <id>26e1ba374f143d6301d137c8cc813b2a</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23633975.scott-mctominay-celtic-transfer-considered-amid-wage-doubts/?ref=rss"/>
+        <updated>2023-07-05T06:43:58.000Z</updated>
+        <summary type="html"><![CDATA[The 26-year-old has over 200 appearances to his name for Man United but it would appear his days at Old Trafford are numbered.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic urged to enter lucrative partnership with Saudi Arabian club]]></title>
+        <id>dc33b0192096e444a31f7888f7539538</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23633808.celtic-urged-enter-lucrative-partnership-saudi-arabian-club/?ref=rss"/>
+        <updated>2023-07-05T06:10:00.000Z</updated>
+        <summary type="html"><![CDATA[CELTIC have been urged to enter into a money-spinning partnership with a Saudi Arabian club - or risk being priced out of the international transfer market as the oil-rich Middle East nation increases its investment in football.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Kyogo's new Celtic deal could be Rodgers' best summer business]]></title>
         <id>0f6472547f28e2de92e62ab053268495</id>
@@ -573,16 +633,6 @@
         <summary type="html"><![CDATA[Hibs newcomer Adam Le Fondre has tipped former Sydney FC team-mate Marco Tilio to be a success at Celtic, explaining that the 21-year-old’s improvement over the past few years has been a marvel.]]></summary>
         <author>
             <name>Moira Gordon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neil Doncaster braced for more Scottish football 'issues' but SPFL chief backs VAR to improve]]></title>
-        <id>4203966</id>
-        <link href="https://www.scotsman.com/sport/football/neil-doncaster-braced-for-more-scottish-football-issues-but-spfl-chief-backs-var-to-improve-4203966"/>
-        <updated>2023-06-30T19:44:15.000Z</updated>
-        <summary type="html"><![CDATA[SPFL chief executive Neil Doncaster admits he is braced for another season of off-field “issues” in Scottish football but hopes that the performance of VAR will improve.]]></summary>
-        <author>
-            <name>Matthew Elder</name>
         </author>
     </entry>
 </feed>
