@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-07-05T03:29:31.986Z</updated>
+    <updated>2023-07-05T06:26:33.607Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why Kyogo's new Celtic deal could be Rodgers' best summer business]]></title>
+        <id>0f6472547f28e2de92e62ab053268495</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23632828.kyogos-new-celtic-deal-rodgers-best-summer-business/?ref=rss"/>
+        <updated>2023-07-05T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Parkhead club's 34-goal talisman has signed a contract extension until 2027.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Liel Abada Celtic exit latest as Sporting Lisbon transfer 'ruled out']]></title>
         <id>149ff5d31be265c5454e93998a36f008</id>
@@ -573,46 +583,6 @@
         <summary type="html"><![CDATA[SPFL chief executive Neil Doncaster admits he is braced for another season of off-field “issues” in Scottish football but hopes that the performance of VAR will improve.]]></summary>
         <author>
             <name>Matthew Elder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic's crocodile-skin monstrosity - why latest strip offering from adidas struck the wrong note]]></title>
-        <id>4203926</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/celtics-crocodile-skin-monstrosity-why-latest-strip-offering-from-adidas-struck-the-wrong-note-4203926"/>
-        <updated>2023-06-30T17:29:54.000Z</updated>
-        <summary type="html"><![CDATA[All the ominous phrases were present and correct. “Modern twist”, "offering a nod”, and "perfect fusion”.]]></summary>
-        <author>
-            <name>Alan Pattullo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scottish transfers: Rangers near big signing, Hibs lead Hearts in race for target, Celtic deal falls through]]></title>
-        <id>4203845</id>
-        <link href="https://www.scotsman.com/sport/football/rangers/scottish-transfers-rangers-near-big-signing-hibs-lead-hearts-in-race-for-target-celtic-deal-falls-through-4203845"/>
-        <updated>2023-06-30T16:09:44.000Z</updated>
-        <summary type="html"><![CDATA[The new Premiership season moved closer with the release of the 2023/24 fixtures. Meanwhile, clubs are continuing to pursue deals ahead of the start of the campaign as preparation in pre-season is ramped up.]]></summary>
-        <author>
-            <name>Joel Sked</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scottish transfers: Ranger near big signing, Hibs lead Hearts in race for target, Celtic deal falls through]]></title>
-        <id>4203845</id>
-        <link href="https://www.scotsman.com/sport/football/rangers/scottish-transfers-ranger-near-big-signing-hibs-lead-hearts-in-race-for-target-celtic-deal-falls-through-4203845"/>
-        <updated>2023-06-30T16:09:44.000Z</updated>
-        <summary type="html"><![CDATA[The new Premiership season moved closer with the release of the 2023/24 fixtures. Meanwhile, clubs are continuing to pursue deals ahead of the start of the campaign as preparation in pre-season is ramped up.]]></summary>
-        <author>
-            <name>Joel Sked</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SPFL fixtures 2023-24: Gripes, paranoia, hectic December, and which teams have hardest start]]></title>
-        <id>4203786</id>
-        <link href="https://www.scotsman.com/sport/football/spfl-fixtures-2023-24-gripes-paranoia-hectic-december-and-which-teams-have-hardest-start-4203786"/>
-        <updated>2023-06-30T15:44:18.000Z</updated>
-        <summary type="html"><![CDATA['I simply can't wait to find out if we need to go to the SMiSA Stadium once or twice this season!' the familiar cry from Premiership supporters up and down the country the night before fixture release day.]]></summary>
-        <author>
-            <name>Joel Sked</name>
         </author>
     </entry>
 </feed>
