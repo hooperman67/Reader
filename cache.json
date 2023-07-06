@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4209783",
+          "author": "Matthew Elder",
+          "description": "Celtic are ramping up their transfer business ahead of Brendan Rodgers’ first season back at the helm ...",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtic-transfers-possible-wow-signing-another-major-windfall-incoming-quadruple-treble-hero-to-exit-4209783",
+          "publishedOn": "2023-07-06T11:45:54.000Z",
+          "wordCount": null,
+          "title": "Celtic transfers: Possible 'wow' signing, another major windfall incoming, quadruple treble hero to exit",
+          "imageUrl": null
+        },
+        {
           "id": "4208812",
           "author": "Joel Sked",
           "description": "The Scottish Premiership season will get under way in just a month’s time. Plenty is expected to happen between now and then with clubs ramping up their on-field preparation and still looking to get key deals done in the transfer market.",
@@ -168,6 +178,46 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "a4918ab8125621e02b23b371e8697639",
+          "author": null,
+          "description": "The Scotland midfielder has been heavily linked with the Old Trafford exit door ahead of the new campaign.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23637580.scott-mctominay-offered-man-united-moises-caicedo-swap/?ref=rss",
+          "publishedOn": "2023-07-06T10:59:28.000Z",
+          "wordCount": 8646,
+          "title": "Scott McTominay 'offered' for Man United Moises Caicedo swap",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16968757/?type=og-image"
+        },
+        {
+          "id": "948d9dafeb0ffe885e59d58e7bcebfd9",
+          "author": null,
+          "description": "They have been linked with Maribor hitman Vipotnik and the Slovenian striker had plenty of interest after netting 23 goals last season.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23637435.celtic-lose-zan-vipotnik-transfer-offers-land/?ref=rss",
+          "publishedOn": "2023-07-06T10:34:00.000Z",
+          "wordCount": 8592,
+          "title": "Celtic lose out in Zan Vipotnik transfer as offers land",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16969045/?type=og-image"
+        },
+        {
+          "id": "59f013f84bdf59c869f38703298312de",
+          "author": null,
+          "description": "Signing a four-year deal, the 57-year-old became the first Australian to manage in England's top flight.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23637096.ange-postecoglou-sent-spurs-warning-former-player/?ref=rss",
+          "publishedOn": "2023-07-06T09:17:13.000Z",
+          "wordCount": 9799,
+          "title": "Ange Postecoglou sent Spurs warning by former player",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16968448/?type=og-image"
+        },
+        {
+          "id": "8f435c3ac8a103124006be0e1e7eb2a0",
+          "author": null,
+          "description": "The Northern Irishman came through Celtic's academy and has been on the club's books for nine years.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23636999.conor-hazard-celtic-transfer-near-plymouth-agree-fee/?ref=rss",
+          "publishedOn": "2023-07-06T08:50:44.000Z",
+          "wordCount": 8587,
+          "title": "Conor Hazard Celtic transfer 'near' as Plymouth agree fee",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16968344/?type=og-image"
+        },
         {
           "id": "9d2d330fac545d87f0e1fdd38ef3b245",
           "author": null,
@@ -697,16 +747,6 @@
           "wordCount": 9096,
           "title": "The Celtic transfer implications of possible change in Saudi strategy",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16951622/?type=og-image"
-        },
-        {
-          "id": "4337b891aa88b32b7968d5d29454d656",
-          "author": null,
-          "description": "The 21-year-old winger has signed a five-year deal to join Brendan Rodgers' side from Melbourne City.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23627358.marco-tilio-gets-celtic-rave-review-former-rangers-star/?ref=rss",
-          "publishedOn": "2023-07-01T21:30:00.000Z",
-          "wordCount": 9674,
-          "title": "Marco Tilio gets Celtic rave review from former Rangers star",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16935841/?type=og-image"
         }
       ]
     }
