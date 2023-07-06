@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4210348",
+          "author": "Oliver Anderson",
+          "description": "Daizen Maeda has handed Celtic another attacking boost by signing a new deal until June 2027.",
+          "link": "https://www.scotsman.com/sport/football/celtic/daizen-maeda-signs-new-celtic-contract-deal-length-what-the-player-said-brendan-rodgers-delight-4210348",
+          "publishedOn": "2023-07-06T16:12:01.000Z",
+          "wordCount": null,
+          "title": "Daizen Maeda signs new Celtic contract - deal length, what the player said, Brendan Rodgers delight",
+          "imageUrl": null
+        },
+        {
           "id": "4210016",
           "author": "Matthew Elder",
           "description": "Aberdeen have completed the signing of former Celtic goalkeeper Ross Doohan.",
@@ -188,6 +198,46 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "9176d67768b1be603227b18d605d1dcf",
+          "author": null,
+          "description": "The Portuguese winger joined Saudi giants Al-Ittihad in a deal worth £25million following two successful years in Glasgow.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23639161.celtic-issue-positive-financial-update-london-stock-exchange/?ref=rss",
+          "publishedOn": "2023-07-06T17:59:27.000Z",
+          "wordCount": 8722,
+          "title": "Celtic issue positive financial update to London Stock Exchange",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16971898/?type=og-image"
+        },
+        {
+          "id": "ba49e9f2c5c3009a9d5d5b115b578909",
+          "author": null,
+          "description": "REMEMBER when Chris Sutton was barred from performing his BT Sport duties at Ibrox because the club “could not guarantee his safety”? That was one, high-profile figure. A man who would have been surrounded by colleagues, in an enclosed part of the stadium, and whose profile means that any jeopardising of his safety would be glaringly obvious to any of the police and security personnel on duty. It would take a special kind of person to decide to jeopardise his safety.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23638665.answer-celtic-rangers-tickets-stand-off-staring-spfl-face/?ref=rss",
+          "publishedOn": "2023-07-06T16:00:00.000Z",
+          "wordCount": 9379,
+          "title": "Answer to Celtic and Rangers tickets stand-off staring SPFL in face",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16574520/?type=og-image"
+        },
+        {
+          "id": "c880a3f3f1b5dc8dbdbcd26e18f9dff3",
+          "author": null,
+          "description": "The winger has become a fan favourite since arriving in Glasgow.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23638792.daizen-maeda-pens-new-celtic-deal-rodgers-hails-exceptional-star/?ref=rss",
+          "publishedOn": "2023-07-06T15:34:52.000Z",
+          "wordCount": 9757,
+          "title": "Daizen Maeda pens new Celtic deal as Rodgers hails 'exceptional' star",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16971221/?type=og-image"
+        },
+        {
+          "id": "8030148edd6fbfed813283f8ffd32baa",
+          "author": null,
+          "description": "The Aussie boss knows all about Tottenham's star man after he netted against his Australian team back in 2015.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23638596.posteocoglou-reveals-cheeky-son-spurs-interaction-past-meeting/?ref=rss",
+          "publishedOn": "2023-07-06T14:52:49.000Z",
+          "wordCount": 9879,
+          "title": "Posteocoglou reveals cheeky Son Spurs interaction after past meeting",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16970954/?type=og-image"
+        },
         {
           "id": "604f6cbf21f54eac1188526a92b3338a",
           "author": null,
@@ -757,26 +807,6 @@
           "wordCount": 8601,
           "title": "Jota Celtic transfer latest as second Saudi side joins race",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16952789/?type=og-image"
-        },
-        {
-          "id": "d20965861c702771e685c7bc09361e7f",
-          "author": null,
-          "description": "Doing well in Europe and reaching either the Champions League or Europa League knockout rounds is a must for the new Celtic boss.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23626964.hartson-brendan-rodgers-can-deliver-celtic-success-europe/?ref=rss",
-          "publishedOn": "2023-07-02T06:00:00.000Z",
-          "wordCount": 9387,
-          "title": "Hartson on why Brendan Rodgers can deliver Celtic success in Europe",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16951274/?type=og-image"
-        },
-        {
-          "id": "1d96c775516819bc4f11dc3660fe8514",
-          "author": null,
-          "description": "The Portuguese winger is closing in on a big money move to the Saudi Pro League with champions Al-Ittihad.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23627171.celtic-transfer-implications-possible-change-saudi-strategy/?ref=rss",
-          "publishedOn": "2023-07-02T05:00:00.000Z",
-          "wordCount": 9096,
-          "title": "The Celtic transfer implications of possible change in Saudi strategy",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16951622/?type=og-image"
         }
       ]
     }
