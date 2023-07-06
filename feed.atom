@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-07-06T18:23:15.005Z</updated>
+    <updated>2023-07-06T21:16:44.980Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -783,16 +783,6 @@
         <summary type="html"><![CDATA[A number of Premiership clubs were back in pre-season action this weekend ahead of the new campaign starting this month, whether it be in Europe or the Viaplay Cup group stages. And clubs are still working on deals to put their squad together before competitive action begins.]]></summary>
         <author>
             <name>Joel Sked</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jota Celtic transfer latest as second Saudi side joins race]]></title>
-        <id>20cb80b261efa6e88fef511dd16c5374</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23627687.jota-celtic-transfer-latest-second-saudi-side-joins-race/?ref=rss"/>
-        <updated>2023-07-02T08:47:30.000Z</updated>
-        <summary type="html"><![CDATA[The Hoops will rake in over £20million for selling their top asset to the Middle East.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
         </author>
     </entry>
 </feed>
