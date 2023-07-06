@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4210016",
+          "author": "Matthew Elder",
+          "description": "Aberdeen have completed the signing of former Celtic goalkeeper Ross Doohan.",
+          "link": "https://www.scotsman.com/sport/football/celtic/aberdeen-sign-former-celtic-player-as-dons-confirm-sixth-summer-recruit-4210016",
+          "publishedOn": "2023-07-06T13:44:27.000Z",
+          "wordCount": null,
+          "title": "Aberdeen sign former Celtic player as Dons confirm sixth summer recruit",
+          "imageUrl": null
+        },
+        {
           "id": "4209783",
           "author": "Matthew Elder",
           "description": "Celtic are ramping up their transfer business ahead of Brendan Rodgers’ first season back at the helm ...",
@@ -178,6 +188,26 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "604f6cbf21f54eac1188526a92b3338a",
+          "author": null,
+          "description": "The 30-year-old joined the Light Blues last month on a four-year contract after his release by Crystal Palace.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23638196.joe-hart-reveals-jack-butland-dialogue-celtic-vs-rangers-respect/?ref=rss",
+          "publishedOn": "2023-07-06T13:30:33.000Z",
+          "wordCount": 8818,
+          "title": "Joe Hart reveals Jack Butland dialogue in Celtic vs Rangers 'respect'",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16970266/?type=og-image"
+        },
+        {
+          "id": "e104df7542db171eeb08359c2852b8e7",
+          "author": null,
+          "description": "The Hoops goalkeeper is heading into the last year of his contract.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23638107.joe-hart-opens-celtic-future-cryptic-chess-move-clue/?ref=rss",
+          "publishedOn": "2023-07-06T13:09:13.000Z",
+          "wordCount": 8659,
+          "title": "Joe Hart opens up on Celtic future in cryptic 'chess move' clue",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16970165/?type=og-image"
+        },
         {
           "id": "a4918ab8125621e02b23b371e8697639",
           "author": null,

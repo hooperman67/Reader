@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-07-06T12:41:25.296Z</updated>
+    <updated>2023-07-06T15:21:20.459Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aberdeen sign former Celtic player as Dons confirm sixth summer recruit]]></title>
+        <id>4210016</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/aberdeen-sign-former-celtic-player-as-dons-confirm-sixth-summer-recruit-4210016"/>
+        <updated>2023-07-06T13:44:27.000Z</updated>
+        <summary type="html"><![CDATA[Aberdeen have completed the signing of former Celtic goalkeeper Ross Doohan.]]></summary>
+        <author>
+            <name>Matthew Elder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joe Hart reveals Jack Butland dialogue in Celtic vs Rangers 'respect']]></title>
+        <id>604f6cbf21f54eac1188526a92b3338a</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23638196.joe-hart-reveals-jack-butland-dialogue-celtic-vs-rangers-respect/?ref=rss"/>
+        <updated>2023-07-06T13:30:33.000Z</updated>
+        <summary type="html"><![CDATA[The 30-year-old joined the Light Blues last month on a four-year contract after his release by Crystal Palace.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joe Hart opens up on Celtic future in cryptic 'chess move' clue]]></title>
+        <id>e104df7542db171eeb08359c2852b8e7</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23638107.joe-hart-opens-celtic-future-cryptic-chess-move-clue/?ref=rss"/>
+        <updated>2023-07-06T13:09:13.000Z</updated>
+        <summary type="html"><![CDATA[The Hoops goalkeeper is heading into the last year of his contract.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic transfers: Possible 'wow' signing, another major windfall incoming, quadruple treble hero to exit]]></title>
         <id>4209783</id>
