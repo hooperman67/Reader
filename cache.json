@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4210576",
+          "author": "Joel Sked",
+          "description": "It is just over a week until the start of the competitive season in Scotland with the start of the Viaplay Cup group stages.It will also be an important time for clubs to work further on their squad building ahead of the new league campaign.",
+          "link": "https://www.scotsman.com/sport/football/celtic/scottish-transfers-celtic-battle-epl-side-for-striker-rangers-linked-star-and-ps8m-rated-ex-hearts-ace-wanted-4210576",
+          "publishedOn": "2023-07-07T07:51:12.000Z",
+          "wordCount": null,
+          "title": "Scottish transfers: Celtic battle EPL side for striker, Rangers-linked star and £8m-rated ex-Hearts ace wanted",
+          "imageUrl": null
+        },
+        {
           "id": "4210348",
           "author": "Oliver Anderson",
           "description": "Daizen Maeda has handed Celtic another attacking boost by signing a new deal until June 2027.",
@@ -168,6 +178,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "b0b5fff34c3ff5850858cc08c7e22bc3",
+          "author": null,
+          "description": "The England captain has been heavily linked with a transfer away from North London for some time.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23639916.harry-kane-spurs-future-clue-provided-ange-postecoglou/?ref=rss",
+          "publishedOn": "2023-07-07T08:57:57.000Z",
+          "wordCount": 9919,
+          "title": "Harry Kane Spurs future clue provided by Ange Postecoglou",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16972568/?type=og-image"
+        },
         {
           "id": "ee3b5dc91d359f255099a7c093be5c19",
           "author": null,
@@ -717,16 +737,6 @@
           "wordCount": 8730,
           "title": "Jota's Celtic to Saudi transfer fee & impact on wage clause",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16954511/?type=og-image"
-        },
-        {
-          "id": "fd5bb2a7684deab4ffb734ea074bd417",
-          "author": null,
-          "description": "The 21-year-old attacker is desperate to make a move to Parkhead this summer.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23628284.yang-hyun-jun-incredible-celtic-claim-offers-pay-transfer/?ref=rss",
-          "publishedOn": "2023-07-02T19:47:00.000Z",
-          "wordCount": 8755,
-          "title": "Yang Hyun-Jun in incredible Celtic claim as he offers to pay transfer",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16954179/?type=og-image"
         }
       ]
     }

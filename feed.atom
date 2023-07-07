@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-07-07T06:25:55.897Z</updated>
+    <updated>2023-07-07T09:18:50.232Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Harry Kane Spurs future clue provided by Ange Postecoglou]]></title>
+        <id>b0b5fff34c3ff5850858cc08c7e22bc3</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23639916.harry-kane-spurs-future-clue-provided-ange-postecoglou/?ref=rss"/>
+        <updated>2023-07-07T08:57:57.000Z</updated>
+        <summary type="html"><![CDATA[The England captain has been heavily linked with a transfer away from North London for some time.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scottish transfers: Celtic battle EPL side for striker, Rangers-linked star and £8m-rated ex-Hearts ace wanted]]></title>
+        <id>4210576</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/scottish-transfers-celtic-battle-epl-side-for-striker-rangers-linked-star-and-ps8m-rated-ex-hearts-ace-wanted-4210576"/>
+        <updated>2023-07-07T07:51:12.000Z</updated>
+        <summary type="html"><![CDATA[It is just over a week until the start of the competitive season in Scotland with the start of the Viaplay Cup group stages.It will also be an important time for clubs to work further on their squad building ahead of the new league campaign.]]></summary>
+        <author>
+            <name>Joel Sked</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hart admits Celtic emotional rollercoaster after Ange exit]]></title>
         <id>ee3b5dc91d359f255099a7c093be5c19</id>
@@ -701,16 +721,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23628403.jotas-celtic-saudi-transfer-fee-impact-wage-clause/?ref=rss"/>
         <updated>2023-07-03T06:59:25.000Z</updated>
         <summary type="html"><![CDATA[Saudi giants Al-Ittihad are in talks with the Hoops over the attacker, with the former Benfica player already agreeing to personal terms.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yang Hyun-Jun in incredible Celtic claim as he offers to pay transfer]]></title>
-        <id>fd5bb2a7684deab4ffb734ea074bd417</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23628284.yang-hyun-jun-incredible-celtic-claim-offers-pay-transfer/?ref=rss"/>
-        <updated>2023-07-02T19:47:00.000Z</updated>
-        <summary type="html"><![CDATA[The 21-year-old attacker is desperate to make a move to Parkhead this summer.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
