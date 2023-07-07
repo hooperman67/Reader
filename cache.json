@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4211841",
+          "author": "Matthew Elder",
+          "description": "Marco Tilio revealed that his move to Celtic has been years in the making as he faced reporters for the first time since completing his switch from Melbourne City.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtic-have-been-tracking-me-for-years-i-spoke-to-one-aussie-about-move-but-not-ange-postecoglou-4211841",
+          "publishedOn": "2023-07-07T16:14:06.000Z",
+          "wordCount": null,
+          "title": "Celtic have been tracking me for years - I spoke to one Aussie about move but not Ange Postecoglou",
+          "imageUrl": null
+        },
+        {
           "id": "4211381",
           "author": "Joel Sked",
           "description": "Former Celtic captain Scott Brown has extended his stay with English League One side Fleetwood Town.",
@@ -208,6 +218,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "7ed541d7f1c1f066bb37add2b8dac78c",
+          "author": null,
+          "description": "Celtic new boy Marco Tilio revealed his dream move to Celtic Park was two years in the making.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23642026.marco-tilio-opens-celtic-transfer-pipeline-years/?ref=rss",
+          "publishedOn": "2023-07-07T16:44:21.000Z",
+          "wordCount": 8822,
+          "title": "Marco Tilio opens up on Celtic transfer that was in pipeline for years",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16976332/?type=og-image"
+        },
         {
           "id": "b855d806191712954193be1b23386839",
           "author": null,

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-07-07T15:19:40.868Z</updated>
+    <updated>2023-07-07T18:23:41.223Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Marco Tilio opens up on Celtic transfer that was in pipeline for years]]></title>
+        <id>7ed541d7f1c1f066bb37add2b8dac78c</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23642026.marco-tilio-opens-celtic-transfer-pipeline-years/?ref=rss"/>
+        <updated>2023-07-07T16:44:21.000Z</updated>
+        <summary type="html"><![CDATA[Celtic new boy Marco Tilio revealed his dream move to Celtic Park was two years in the making.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic have been tracking me for years - I spoke to one Aussie about move but not Ange Postecoglou]]></title>
+        <id>4211841</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/celtic-have-been-tracking-me-for-years-i-spoke-to-one-aussie-about-move-but-not-ange-postecoglou-4211841"/>
+        <updated>2023-07-07T16:14:06.000Z</updated>
+        <summary type="html"><![CDATA[Marco Tilio revealed that his move to Celtic has been years in the making as he faced reporters for the first time since completing his switch from Melbourne City.]]></summary>
+        <author>
+            <name>Matthew Elder</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ex-Celtic captain Scott Brown signs new Fleetwood Town deal, contract length, what he said]]></title>
         <id>4211381</id>
