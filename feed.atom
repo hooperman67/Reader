@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-07-07T03:28:11.510Z</updated>
+    <updated>2023-07-07T06:25:55.897Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hart admits Celtic emotional rollercoaster after Ange exit]]></title>
+        <id>ee3b5dc91d359f255099a7c093be5c19</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23638653.hart-admits-celtic-emotional-rollercoaster-ange-exit/?ref=rss"/>
+        <updated>2023-07-07T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The 36-year-old keeper has reflected on his relationship with the club's former manager.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Joe Hart reveals Celtic first impressions from Brendan Rodgers]]></title>
         <id>00e369ac9f50e597b61e42aa833c2896</id>
@@ -701,36 +711,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23628284.yang-hyun-jun-incredible-celtic-claim-offers-pay-transfer/?ref=rss"/>
         <updated>2023-07-02T19:47:00.000Z</updated>
         <summary type="html"><![CDATA[The 21-year-old attacker is desperate to make a move to Parkhead this summer.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jacynta Galabadaarachchi releases statement following Celtic exit]]></title>
-        <id>7772e30052c5f500653432d8d40c3ab3</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23628257.jacynta-galabadaarachchi-releases-statement-following-celtic-exit/?ref=rss"/>
-        <updated>2023-07-02T18:16:59.000Z</updated>
-        <summary type="html"><![CDATA[Jacynta Galabadaarachchi releases statement following Celtic exit]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic fans 'gutted' Jacynta announces SHOCK departure]]></title>
-        <id>f1f79747a36eec42ccd5c826424536ef</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23628213.celtic-fans-gutted-jacynta-announces-shock-departure/?ref=rss"/>
-        <updated>2023-07-02T16:53:25.000Z</updated>
-        <summary type="html"><![CDATA[Celtic fans have been left 'gutted' today after a Celtic star announced their shocking departure from the club.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic star Alexandro Bernabei spotted in Argentina]]></title>
-        <id>7b448afbd56129f4a01dc5b7bdc151c8</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23628184.celtic-star-alexandro-bernabei-spotted-argentina/?ref=rss"/>
-        <updated>2023-07-02T16:17:04.000Z</updated>
-        <summary type="html"><![CDATA[A Celtic star has been spotted in his homeland this weekend to seemingly 're-charge'.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
