@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-07-06T21:16:44.980Z</updated>
+    <updated>2023-07-07T01:53:07.101Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Joe Hart reveals Celtic first impressions from Brendan Rodgers]]></title>
+        <id>00e369ac9f50e597b61e42aa833c2896</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23638448.joe-hart-reveals-celtic-first-impressions-brendan-rodgers/?ref=rss"/>
+        <updated>2023-07-06T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The veteran goalkeeper revealed there's a buzz about Lennoxtown as pre-season gets underway.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic issue positive financial update to London Stock Exchange]]></title>
         <id>9176d67768b1be603227b18d605d1dcf</id>
@@ -741,46 +751,6 @@
         <link href="https://www.scotsman.com/sport/football/celtic/celtic-new-boy-marco-tilio-tipped-to-flourish-under-brendan-rodgers-as-fans-told-why-they-should-be-excited-4204455"/>
         <updated>2023-07-02T14:34:21.000Z</updated>
         <summary type="html"><![CDATA[New Celtic signing Marco Tilio is “perfectly suited” to the Scottish champions, according to Australia assistant manager Rene Meulensteen.]]></summary>
-        <author>
-            <name>Joel Sked</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fabian Rieder to Celtic latest amid rising transfer interest]]></title>
-        <id>527d908ce7ca7e2e024719f66c23c4f0</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23627989.fabian-rieder-celtic-latest-amid-rising-transfer-interest/?ref=rss"/>
-        <updated>2023-07-02T13:27:36.000Z</updated>
-        <summary type="html"><![CDATA[The 21-year-old Swiss international midfielder has reportedly attracted admiring glances from Hoops manager Brendan Rodgers.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When VAR will be used in Viaplay Cup - change from 2022/23, 'improvements', television impact]]></title>
-        <id>4204410</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/when-var-will-be-used-in-viaplay-cup-change-from-202223-improvements-television-impact-4204410"/>
-        <updated>2023-07-02T12:56:46.000Z</updated>
-        <summary type="html"><![CDATA[VAR will be used in the 2023 Viaplay Cup from the second round onwards in a change from last season.]]></summary>
-        <author>
-            <name>Joel Sked</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jota transfer insider makes €30m Celtic transfer claim]]></title>
-        <id>5fdfe829a3f701a5ccba0ecff4852e24</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23627827.jota-transfer-insider-makes-eur30m-celtic-transfer-claim/?ref=rss"/>
-        <updated>2023-07-02T10:50:20.000Z</updated>
-        <summary type="html"><![CDATA[It's believed that the deal between the Hoops and Saudi side Al Ittihad could be completed this week.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scottish transfers: Aberdeen in shock link with Rangers star, Hearts eye midfielder move, Celtic want starlet]]></title>
-        <id>4204356</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/scottish-transfers-aberdeen-in-shock-link-with-rangers-star-hearts-eye-midfielder-move-celtic-want-starlet-4204356"/>
-        <updated>2023-07-02T10:43:05.000Z</updated>
-        <summary type="html"><![CDATA[A number of Premiership clubs were back in pre-season action this weekend ahead of the new campaign starting this month, whether it be in Europe or the Viaplay Cup group stages. And clubs are still working on deals to put their squad together before competitive action begins.]]></summary>
         <author>
             <name>Joel Sked</name>
         </author>

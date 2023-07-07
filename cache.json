@@ -164,26 +164,6 @@
           "wordCount": null,
           "title": "Celtic new boy Marco Tilio tipped to 'flourish' under Brendan Rodgers as fans told why they should be excited",
           "imageUrl": null
-        },
-        {
-          "id": "4204410",
-          "author": "Joel Sked",
-          "description": "VAR will be used in the 2023 Viaplay Cup from the second round onwards in a change from last season.",
-          "link": "https://www.scotsman.com/sport/football/celtic/when-var-will-be-used-in-viaplay-cup-change-from-202223-improvements-television-impact-4204410",
-          "publishedOn": "2023-07-02T12:56:46.000Z",
-          "wordCount": null,
-          "title": "When VAR will be used in Viaplay Cup - change from 2022/23, 'improvements', television impact",
-          "imageUrl": null
-        },
-        {
-          "id": "4204356",
-          "author": "Joel Sked",
-          "description": "A number of Premiership clubs were back in pre-season action this weekend ahead of the new campaign starting this month, whether it be in Europe or the Viaplay Cup group stages. And clubs are still working on deals to put their squad together before competitive action begins.",
-          "link": "https://www.scotsman.com/sport/football/celtic/scottish-transfers-aberdeen-in-shock-link-with-rangers-star-hearts-eye-midfielder-move-celtic-want-starlet-4204356",
-          "publishedOn": "2023-07-02T10:43:05.000Z",
-          "wordCount": null,
-          "title": "Scottish transfers: Aberdeen in shock link with Rangers star, Hearts eye midfielder move, Celtic want starlet",
-          "imageUrl": null
         }
       ]
     },
@@ -198,6 +178,16 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "00e369ac9f50e597b61e42aa833c2896",
+          "author": null,
+          "description": "The veteran goalkeeper revealed there's a buzz about Lennoxtown as pre-season gets underway.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23638448.joe-hart-reveals-celtic-first-impressions-brendan-rodgers/?ref=rss",
+          "publishedOn": "2023-07-06T21:30:00.000Z",
+          "wordCount": 8679,
+          "title": "Joe Hart reveals Celtic first impressions from Brendan Rodgers",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16970691/?type=og-image"
+        },
         {
           "id": "9176d67768b1be603227b18d605d1dcf",
           "author": null,
@@ -777,26 +767,6 @@
           "wordCount": 8360,
           "title": "'A night truly to remember': Celtic LEGEND spotted at Glasgow bar",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16786644/?type=og-image"
-        },
-        {
-          "id": "527d908ce7ca7e2e024719f66c23c4f0",
-          "author": null,
-          "description": "The 21-year-old Swiss international midfielder has reportedly attracted admiring glances from Hoops manager Brendan Rodgers.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23627989.fabian-rieder-celtic-latest-amid-rising-transfer-interest/?ref=rss",
-          "publishedOn": "2023-07-02T13:27:36.000Z",
-          "wordCount": 8669,
-          "title": "Fabian Rieder to Celtic latest amid rising transfer interest",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16953426/?type=og-image"
-        },
-        {
-          "id": "5fdfe829a3f701a5ccba0ecff4852e24",
-          "author": null,
-          "description": "It's believed that the deal between the Hoops and Saudi side Al Ittihad could be completed this week.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23627827.jota-transfer-insider-makes-eur30m-celtic-transfer-claim/?ref=rss",
-          "publishedOn": "2023-07-02T10:50:20.000Z",
-          "wordCount": 8641,
-          "title": "Jota transfer insider makes €30m Celtic transfer claim",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16953107/?type=og-image"
         }
       ]
     }
