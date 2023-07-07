@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-07-07T12:39:07.705Z</updated>
+    <updated>2023-07-07T15:19:40.868Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ex-Celtic captain Scott Brown signs new Fleetwood Town deal, contract length, what he said]]></title>
+        <id>4211381</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/ex-celtic-captain-scott-brown-signs-new-fleetwood-town-deal-contract-length-what-he-said-4211381"/>
+        <updated>2023-07-07T12:57:51.000Z</updated>
+        <summary type="html"><![CDATA[Former Celtic captain Scott Brown has extended his stay with English League One side Fleetwood Town.]]></summary>
+        <author>
+            <name>Joel Sked</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic hero Scott Brown pens new Fleetwood Town deal]]></title>
+        <id>b855d806191712954193be1b23386839</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23640793.celtic-hero-scott-brown-pens-new-fleetwood-town-deal/?ref=rss"/>
+        <updated>2023-07-07T12:11:03.000Z</updated>
+        <summary type="html"><![CDATA[Brown had a successful first campaign as his side finished comfortably in League One after he decided to call time on his playing career.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA['We go way back' - Celtic's Joe Hart on his link to new Rangers arrival but why 'respect' comes first]]></title>
         <id>4211280</id>
