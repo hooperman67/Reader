@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-07-07T01:53:07.101Z</updated>
+    <updated>2023-07-07T03:28:11.510Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -733,26 +733,6 @@
         <summary type="html"><![CDATA[A Celtic star has been spotted in his homeland this weekend to seemingly 're-charge'.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['A night truly to remember': Celtic LEGEND spotted at Glasgow bar]]></title>
-        <id>18d47efc087a46683b79ecec93191871</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23628079.a-night-truly-remember-celtic-legend-spotted-glasgow-bar/?ref=rss"/>
-        <updated>2023-07-02T14:40:31.000Z</updated>
-        <summary type="html"><![CDATA[A Celtic legend was spotted at a Glasgow bar last night.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic new boy Marco Tilio tipped to 'flourish' under Brendan Rodgers as fans told why they should be excited]]></title>
-        <id>4204455</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/celtic-new-boy-marco-tilio-tipped-to-flourish-under-brendan-rodgers-as-fans-told-why-they-should-be-excited-4204455"/>
-        <updated>2023-07-02T14:34:21.000Z</updated>
-        <summary type="html"><![CDATA[New Celtic signing Marco Tilio is “perfectly suited” to the Scottish champions, according to Australia assistant manager Rene Meulensteen.]]></summary>
-        <author>
-            <name>Joel Sked</name>
         </author>
     </entry>
 </feed>
