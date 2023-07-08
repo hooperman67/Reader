@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-07-08T03:29:18.518Z</updated>
+    <updated>2023-07-08T06:22:59.028Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What Celtic’s ‘significantly higher returns’ mean for rebuilt Rangers]]></title>
+        <id>d09c65c68625854ea9b0a0b4cc3ea5b4</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23641828.celtics-significantly-higher-returns-mean-rebuilt-rangers/?ref=rss"/>
+        <updated>2023-07-08T06:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Celtic’s ‘significantly higher returns’ spell trouble for rebuilt Rangers in the season ahead]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marco Tilio reveals Celtic 'pinch myself' moment with Harry Kewell]]></title>
+        <id>d173390e03af7c36bedb298fb54052ed</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23642059.marco-tilio-reveals-celtic-pinch-me-moment-involving-harry-kewell/?ref=rss"/>
+        <updated>2023-07-08T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The 21-year-old winger has arrived in Scotland to begin his Parkhead career.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Marco Tilio opens up on Celtic transfer that was in pipeline for years]]></title>
         <id>7ed541d7f1c1f066bb37add2b8dac78c</id>
@@ -631,26 +651,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23631014.jota-celtic-exit-done-deal-25m-al-ittihad-transfer-agreed/?ref=rss"/>
         <updated>2023-07-03T18:47:27.000Z</updated>
         <summary type="html"><![CDATA[Jota has agreed a stunning big-money move to Saudi Arabia with Celtic set to bank a major profit on the winger.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scottish transfers: Rangers near €5m target, second could follow, Celtic to lose star man, Hearts winger blow]]></title>
-        <id>4206060</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/scottish-transfers-rangers-near-eu5m-target-second-could-follow-celtic-to-lose-star-man-hearts-winger-blow-4206060"/>
-        <updated>2023-07-03T17:54:14.000Z</updated>
-        <summary type="html"><![CDATA[There is just over a month until the start of the new Scottish Premiership and less than two weeks until the Viaplay Cup group stages get under way. Clubs have been working on the field and also building a squad for the upcoming campaign. Both continue apace...]]></summary>
-        <author>
-            <name>Joel Sked</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jota pictured in Saudi as Celtic ace closes in on Al-Ittihad transfer]]></title>
-        <id>767f18711f622f16da9bbe07b15d23fd</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23630639.jota-pictured-saudi-celtic-ace-closes-al-ittihad-transfer/?ref=rss"/>
-        <updated>2023-07-03T15:49:47.000Z</updated>
-        <summary type="html"><![CDATA[The Celtic winger is set to make a £25million switch, which will net the Hoops a huge profit.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
