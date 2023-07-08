@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-07-08T12:35:36.118Z</updated>
+    <updated>2023-07-08T15:17:54.428Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Brendan Rodgers in 'pleasant' Celtic surprise upon return]]></title>
+        <id>25f455c75dc665ac057db018b5e7c26b</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23642726.brendan-rodgers-pleasant-celtic-surprise-upon-return/?ref=rss"/>
+        <updated>2023-07-08T12:55:04.000Z</updated>
+        <summary type="html"><![CDATA[The players returned for pre-season training this week, with the new boss casting his eye over the first team and academy stars.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Ange Postecoglou instantly won over Spurs' players]]></title>
         <id>147738bc349bb98b071021196ef5e27f</id>
