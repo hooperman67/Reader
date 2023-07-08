@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-07-08T06:22:59.028Z</updated>
+    <updated>2023-07-08T09:16:56.562Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -12,6 +12,16 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23641828.celtics-significantly-higher-returns-mean-rebuilt-rangers/?ref=rss"/>
         <updated>2023-07-08T06:12:00.000Z</updated>
         <summary type="html"><![CDATA[Celtic’s ‘significantly higher returns’ spell trouble for rebuilt Rangers in the season ahead]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marco Tilio reveals Celtic 'pinch myself' moment with Harry Kewell]]></title>
+        <id>d173390e03af7c36bedb298fb54052ed</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23642059.marco-tilio-reveals-celtic-pinch-myself-moment-harry-kewell/?ref=rss"/>
+        <updated>2023-07-08T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The 21-year-old winger has arrived in Scotland to begin his Parkhead career.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
@@ -592,65 +602,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23631208.bizarre-al-ittihad-transfer-video-confirms-25m-jota-move/?ref=rss"/>
         <updated>2023-07-04T06:20:29.000Z</updated>
         <summary type="html"><![CDATA[The 24-year-old makes the permanent switch following two years in Glasgow, having spent one season on loan from Benfica before signing a permanent contract.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic confirm Jota exit, length of contract, reported fee, Al-Ittihad signing claim, Liel Abada interest]]></title>
-        <id>4206112</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/celtic-confirm-jota-exit-length-of-contract-reported-fee-al-ittihad-signing-claim-liel-abada-interest-4206112"/>
-        <updated>2023-07-03T21:02:05.000Z</updated>
-        <summary type="html"><![CDATA[Jota has completed his moved to Al-Ittihad with the Saudi Arabian side making it known they want to “rule the world”.]]></summary>
-        <author>
-            <name>Joel Sked</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic release statement on Jota to Al-Ittihad transfer exit]]></title>
-        <id>50c42a78a414d5790a334a74bdfae799</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23631093.celtic-release-statement-jota-al-ittihad-transfer-exit/?ref=rss"/>
-        <updated>2023-07-03T21:02:05.000Z</updated>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Al-Ittihad confirm Jota transfer as Celtic ace exits Parkhead]]></title>
-        <id>9c7a0540cdb6e1f67fd13fb2451e6e49</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23630825.al-ittihad-confirm-jota-transfer-celtic-ace-exits-parkhead/?ref=rss"/>
-        <updated>2023-07-03T20:35:00.000Z</updated>
-        <summary type="html"><![CDATA[The Portuguese winger has concluded his time in Glasgow with the Hoops.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liel Abada transfer tug of war as 'European clubs chase' Celtic winger]]></title>
-        <id>af97afae4cc69ced7ee784e192e00b39</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23631071.liel-abada-transfer-tug-war-european-clubs-chase-celtic-winger/?ref=rss"/>
-        <updated>2023-07-03T20:17:24.000Z</updated>
-        <summary type="html"><![CDATA[Celtic winger Liel Abada is being tracked by both Sporting Lisbon and Ajax.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6 Premiership stars to watch in the transfer window - Celtic, Hearts and Rangers trio attracting interest]]></title>
-        <id>4206087</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/6-premiership-stars-to-watch-in-the-transfer-window-celtic-hearts-and-rangers-trio-attracting-interest-4206087"/>
-        <updated>2023-07-03T19:11:26.000Z</updated>
-        <summary type="html"><![CDATA[So far, more than 40 transfer deals have been completed by Scottish Premiership clubs as they prepare for the start of the new campaign, whether it be the Viaplay Cup group stages, the league season and Europe. Yet, what is perhaps more intriguing, are the stars who have been linked with a move away or face an uncertain future at their clubs. The Scotsman takes a look at six such individuals ...]]></summary>
-        <author>
-            <name>Joel Sked</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jota Celtic exit 'done deal' as £25m Al-Ittihad transfer agreed]]></title>
-        <id>735c6451decfc894262ba858c4a60d4c</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23631014.jota-celtic-exit-done-deal-25m-al-ittihad-transfer-agreed/?ref=rss"/>
-        <updated>2023-07-03T18:47:27.000Z</updated>
-        <summary type="html"><![CDATA[Jota has agreed a stunning big-money move to Saudi Arabia with Celtic set to bank a major profit on the winger.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>
