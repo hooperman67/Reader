@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-07-08T15:17:54.428Z</updated>
+    <updated>2023-07-08T18:22:21.588Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Joe Hart Celtic future under Brendan Rodgers questioned]]></title>
+        <id>834af7a19ccf563268469417607371e0</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23642911.joe-hart-celtic-future-brendan-rodgers-questioned/?ref=rss"/>
+        <updated>2023-07-08T15:33:53.000Z</updated>
+        <summary type="html"><![CDATA[The 36-year-old is due to enter his third season as a Hoops player, having arrived two summers ago under Ange Postecoglou.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Mates' Laura Woods & Ange Postecoglou pose for selfie]]></title>
+        <id>636ac2cab58cc66621d3ca93e5f4c4ce</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23642876.mates-laura-woods-ange-postecoglou-pose-selfie/?ref=rss"/>
+        <updated>2023-07-08T15:00:34.000Z</updated>
+        <summary type="html"><![CDATA[It's not every day a diehard Arsenal supporter wants a selfie with the Tottenham manager.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Brendan Rodgers in 'pleasant' Celtic surprise upon return]]></title>
         <id>25f455c75dc665ac057db018b5e7c26b</id>
@@ -642,16 +662,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23631434.ex-celtic-boss-ange-postecoglou-explains-tottenham-coaching-choices/?ref=rss"/>
         <updated>2023-07-04T08:24:56.000Z</updated>
         <summary type="html"><![CDATA[He said: “It’s as much about what we do off the field as what we do on it. Starting with the coaching, which is probably the most important aspect. They’re really bright, talented and ambitious guys. It’s a great mix.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bizarre Al-Ittihad transfer video confirms £25m Jota move]]></title>
-        <id>791a41fa3864d522d30eca116b484aa6</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23631208.bizarre-al-ittihad-transfer-video-confirms-25m-jota-move/?ref=rss"/>
-        <updated>2023-07-04T06:20:29.000Z</updated>
-        <summary type="html"><![CDATA[The 24-year-old makes the permanent switch following two years in Glasgow, having spent one season on loan from Benfica before signing a permanent contract.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>

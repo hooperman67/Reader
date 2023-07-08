@@ -179,6 +179,26 @@
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
         {
+          "id": "834af7a19ccf563268469417607371e0",
+          "author": null,
+          "description": "The 36-year-old is due to enter his third season as a Hoops player, having arrived two summers ago under Ange Postecoglou.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23642911.joe-hart-celtic-future-brendan-rodgers-questioned/?ref=rss",
+          "publishedOn": "2023-07-08T15:33:53.000Z",
+          "wordCount": 8656,
+          "title": "Joe Hart Celtic future under Brendan Rodgers questioned",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16977978/?type=og-image"
+        },
+        {
+          "id": "636ac2cab58cc66621d3ca93e5f4c4ce",
+          "author": null,
+          "description": "It's not every day a diehard Arsenal supporter wants a selfie with the Tottenham manager.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23642876.mates-laura-woods-ange-postecoglou-pose-selfie/?ref=rss",
+          "publishedOn": "2023-07-08T15:00:34.000Z",
+          "wordCount": 8636,
+          "title": "'Mates' Laura Woods & Ange Postecoglou pose for selfie",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16977877/?type=og-image"
+        },
+        {
           "id": "25f455c75dc665ac057db018b5e7c26b",
           "author": null,
           "description": "The players returned for pre-season training this week, with the new boss casting his eye over the first team and academy stars.",
@@ -657,16 +677,6 @@
           "wordCount": 8684,
           "title": "Ex-Celtic boss Ange Postecoglou explains Tottenham coaching choices",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16948201/?type=og-image"
-        },
-        {
-          "id": "791a41fa3864d522d30eca116b484aa6",
-          "author": null,
-          "description": "The 24-year-old makes the permanent switch following two years in Glasgow, having spent one season on loan from Benfica before signing a permanent contract.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23631208.bizarre-al-ittihad-transfer-video-confirms-25m-jota-move/?ref=rss",
-          "publishedOn": "2023-07-04T06:20:29.000Z",
-          "wordCount": 9680,
-          "title": "Bizarre Al-Ittihad transfer video confirms £25m Jota move",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16958880/?type=og-image"
         }
       ]
     }
