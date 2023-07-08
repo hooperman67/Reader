@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4212061",
+          "author": "Matthew Elder",
+          "description": "The start of the new Scottish Premiership season is now just four weeks away and clubs are continuing to make changes to their squads ahead of the big kick-off...",
+          "link": "https://www.scotsman.com/sport/football/scottish-transfers-rangers-close-to-ps12m-signing-celtic-starlet-makes-city-group-move-mexican-striker-will-excite-fans-4212061",
+          "publishedOn": "2023-07-08T10:04:16.000Z",
+          "wordCount": null,
+          "title": "Scottish transfers: Rangers close to £1.2m signing, Celtic starlet makes City Group move, Mexican striker 'will excite fans'",
+          "imageUrl": null
+        },
+        {
           "id": "4211841",
           "author": "Matthew Elder",
           "description": "Marco Tilio revealed that his move to Celtic has been years in the making as he faced reporters for the first time since completing his switch from Melbourne City.",
@@ -168,6 +178,36 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "147738bc349bb98b071021196ef5e27f",
+          "author": null,
+          "description": "The 57-year-old officially started his tenure as the new Spurs manager last Saturday.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23642644.ange-postecoglou-instantly-won-spurs-players/?ref=rss",
+          "publishedOn": "2023-07-08T11:32:22.000Z",
+          "wordCount": 8692,
+          "title": "How Ange Postecoglou instantly won over Spurs' players",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16977412/?type=og-image"
+        },
+        {
+          "id": "60bd27a2364e266e3355ef89f589d61c",
+          "author": null,
+          "description": "Much like he did when he arrived at Celtic around two years ago, the Australian has got straight to work to implement his football ideals.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23642542.ange-postecoglous-ruthless-streak-spurs-revealed/?ref=rss",
+          "publishedOn": "2023-07-08T10:16:30.000Z",
+          "wordCount": 9761,
+          "title": "Ange Postecoglou's ruthless streak at Spurs revealed",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16977290/?type=og-image"
+        },
+        {
+          "id": "fae9d52f152d5da2fd5566b5df162902",
+          "author": null,
+          "description": "The South Korean star played for Gangwon on Friday night in a 1-1 draw against Gwangwu which did nothing to ease their relegation worries.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23642494.celtic-transfer-target-yang-hyun-jun-called-captain/?ref=rss",
+          "publishedOn": "2023-07-08T09:32:25.000Z",
+          "wordCount": 8608,
+          "title": "Celtic transfer target Yang Hyun-jun called out by captain",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16977243/?type=og-image"
+        },
         {
           "id": "d09c65c68625854ea9b0a0b4cc3ea5b4",
           "author": null,

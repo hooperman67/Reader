@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-07-08T09:16:56.562Z</updated>
+    <updated>2023-07-08T12:35:36.118Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Ange Postecoglou instantly won over Spurs' players]]></title>
+        <id>147738bc349bb98b071021196ef5e27f</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23642644.ange-postecoglou-instantly-won-spurs-players/?ref=rss"/>
+        <updated>2023-07-08T11:32:22.000Z</updated>
+        <summary type="html"><![CDATA[The 57-year-old officially started his tenure as the new Spurs manager last Saturday.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ange Postecoglou's ruthless streak at Spurs revealed]]></title>
+        <id>60bd27a2364e266e3355ef89f589d61c</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23642542.ange-postecoglous-ruthless-streak-spurs-revealed/?ref=rss"/>
+        <updated>2023-07-08T10:16:30.000Z</updated>
+        <summary type="html"><![CDATA[Much like he did when he arrived at Celtic around two years ago, the Australian has got straight to work to implement his football ideals.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scottish transfers: Rangers close to £1.2m signing, Celtic starlet makes City Group move, Mexican striker 'will excite fans']]></title>
+        <id>4212061</id>
+        <link href="https://www.scotsman.com/sport/football/scottish-transfers-rangers-close-to-ps12m-signing-celtic-starlet-makes-city-group-move-mexican-striker-will-excite-fans-4212061"/>
+        <updated>2023-07-08T10:04:16.000Z</updated>
+        <summary type="html"><![CDATA[The start of the new Scottish Premiership season is now just four weeks away and clubs are continuing to make changes to their squads ahead of the big kick-off...]]></summary>
+        <author>
+            <name>Matthew Elder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic transfer target Yang Hyun-jun called out by captain]]></title>
+        <id>fae9d52f152d5da2fd5566b5df162902</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23642494.celtic-transfer-target-yang-hyun-jun-called-captain/?ref=rss"/>
+        <updated>2023-07-08T09:32:25.000Z</updated>
+        <summary type="html"><![CDATA[The South Korean star played for Gangwon on Friday night in a 1-1 draw against Gwangwu which did nothing to ease their relegation worries.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Celtic’s ‘significantly higher returns’ mean for rebuilt Rangers]]></title>
         <id>d09c65c68625854ea9b0a0b4cc3ea5b4</id>
