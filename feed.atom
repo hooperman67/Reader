@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-07-09T15:17:50.095Z</updated>
+    <updated>2023-07-09T18:22:10.657Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA['Forever yours': Jota shares emotional Celtic farewell message]]></title>
+        <id>6730e0be55db50d1ccec14f4b64a9406</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23643762.forever-yours---jota-shares-emotional-celtic-farewell-message/?ref=rss"/>
+        <updated>2023-07-09T15:52:39.000Z</updated>
+        <summary type="html"><![CDATA[Jota posted a video message on Instagram to bid farewell to Celtic after his move to Al-Ittihad in Saudi Arabia.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cho Gue-sung insists he has no regrets over Celtic transfer collapse]]></title>
         <id>0aa3fa05dacdb22b65d7b291dee475f6</id>
@@ -622,26 +632,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23633975.scott-mctominay-celtic-transfer-considered-amid-wage-doubts/?ref=rss"/>
         <updated>2023-07-05T06:43:58.000Z</updated>
         <summary type="html"><![CDATA[The 26-year-old has over 200 appearances to his name for Man United but it would appear his days at Old Trafford are numbered.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic urged to enter lucrative partnership with Saudi Arabian club]]></title>
-        <id>dc33b0192096e444a31f7888f7539538</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23633808.celtic-urged-enter-lucrative-partnership-saudi-arabian-club/?ref=rss"/>
-        <updated>2023-07-05T06:10:00.000Z</updated>
-        <summary type="html"><![CDATA[CELTIC have been urged to enter into a money-spinning partnership with a Saudi Arabian club - or risk being priced out of the international transfer market as the oil-rich Middle East nation increases its investment in football.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Kyogo's new Celtic deal could be Rodgers' best summer business]]></title>
-        <id>0f6472547f28e2de92e62ab053268495</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23632828.kyogos-new-celtic-deal-rodgers-best-summer-business/?ref=rss"/>
-        <updated>2023-07-05T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Parkhead club's 34-goal talisman has signed a contract extension until 2027.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>

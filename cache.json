@@ -189,6 +189,16 @@
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
         {
+          "id": "6730e0be55db50d1ccec14f4b64a9406",
+          "author": null,
+          "description": "Jota posted a video message on Instagram to bid farewell to Celtic after his move to Al-Ittihad in Saudi Arabia.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23643762.forever-yours---jota-shares-emotional-celtic-farewell-message/?ref=rss",
+          "publishedOn": "2023-07-09T15:52:39.000Z",
+          "wordCount": 8735,
+          "title": "'Forever yours': Jota shares emotional Celtic farewell message",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16980050/?type=og-image"
+        },
+        {
           "id": "0aa3fa05dacdb22b65d7b291dee475f6",
           "author": null,
           "description": "Cho Gue-sung insists he has no regrets about not signing for Celtic, as he prepares to seal a switch to Denmark with FC Midtjylland instead.",
@@ -637,26 +647,6 @@
           "wordCount": 8645,
           "title": "Scott McTominay Celtic transfer considered amid wage doubts",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16963324/?type=og-image"
-        },
-        {
-          "id": "dc33b0192096e444a31f7888f7539538",
-          "author": null,
-          "description": "CELTIC have been urged to enter into a money-spinning partnership with a Saudi Arabian club - or risk being priced out of the international transfer market as the oil-rich Middle East nation increases its investment in football.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23633808.celtic-urged-enter-lucrative-partnership-saudi-arabian-club/?ref=rss",
-          "publishedOn": "2023-07-05T06:10:00.000Z",
-          "wordCount": 10194,
-          "title": "Celtic urged to enter lucrative partnership with Saudi Arabian club",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16963109/?type=og-image"
-        },
-        {
-          "id": "0f6472547f28e2de92e62ab053268495",
-          "author": null,
-          "description": "The Parkhead club's 34-goal talisman has signed a contract extension until 2027.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23632828.kyogos-new-celtic-deal-rodgers-best-summer-business/?ref=rss",
-          "publishedOn": "2023-07-05T05:00:00.000Z",
-          "wordCount": 9250,
-          "title": "Why Kyogo's new Celtic deal could be Rodgers' best summer business",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16961654/?type=og-image"
         }
       ]
     }
