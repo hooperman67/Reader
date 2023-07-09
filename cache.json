@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4212283",
+          "author": "Mark Atkinson",
+          "description": "Rangers manager Michael Beale has welcomed his Celtic counterpart Brendan Rodgers back to Scottish football and is relishing the challenge of wrestling the Premiership title away from Parkhead.",
+          "link": "https://www.scotsman.com/sport/football/rangers/why-michael-beale-welcomed-brendan-rodgers-celtic-return-as-he-lays-down-rangers-gauntlet-4212283",
+          "publishedOn": "2023-07-08T21:35:00.000Z",
+          "wordCount": null,
+          "title": "Why Michael Beale welcomed Brendan Rodgers' Celtic return as he lays down Rangers gauntlet",
+          "imageUrl": null
+        },
+        {
           "id": "4212276",
           "author": "Matthew Elder",
           "description": "Brendan Rodgers admits he has been \"pleasantly surprised\" by the standard of young players at Celtic after inviting them to train with the first-team during the first week of pre-season.",
@@ -164,16 +174,6 @@
           "wordCount": null,
           "title": "How do Celtic replace Jota - sensible deal, 66-word club statement, the stats six options or new signing",
           "imageUrl": null
-        },
-        {
-          "id": "4206427",
-          "author": "Joel Sked",
-          "description": "Kyogo Furuhashi has targeted even more goals and trophies after signing a new long-term Celtic contract.",
-          "link": "https://www.scotsman.com/sport/football/celtic/celtic-end-kyogo-furuhashi-transfer-speculation-with-new-long-term-deal-contract-length-rodgers-comments-4206427",
-          "publishedOn": "2023-07-04T09:31:17.000Z",
-          "wordCount": null,
-          "title": "Celtic end Kyogo Furuhashi transfer speculation with new long-term deal - contract length, Rodgers comments",
-          "imageUrl": null
         }
       ]
     },
@@ -186,8 +186,38 @@
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
       "articles": [
+        {
+          "id": "462fc66276aab339a22b8cc45cd1d356",
+          "author": null,
+          "description": "Derek Soutar is a big fan of Northern Ireland keeper Hazard who’s close to completing a summer switch to the Championship new boys",
+          "link": "https://www.glasgowtimes.co.uk/sport/23643000.conor-hazard-backed-step-celtic-shadows-plymouth/?ref=rss",
+          "publishedOn": "2023-07-08T21:30:00.000Z",
+          "wordCount": 8649,
+          "title": "Conor Hazard backed to step out Celtic shadows at Plymouth",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16978232/?type=og-image"
+        },
+        {
+          "id": "2d2a6ce7f4b5021dbe55305e8e0bca3c",
+          "author": null,
+          "description": "AS Michael Beale showed since returning to Ibrox last winter, he is more than up for carrying the challenge to his counterpart...",
+          "link": "https://www.glasgowtimes.co.uk/sport/23642754.michael-beale-excited-take-challenge-brendan-rodgers-celtic/?ref=rss",
+          "publishedOn": "2023-07-08T21:30:00.000Z",
+          "wordCount": 9536,
+          "title": "Michael Beale excited to take the challenge to Brendan Rodgers' Celtic",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16977693/?type=og-image"
+        },
+        {
+          "id": "5fabdf790ab631ab3aa7776c5f5cb629",
+          "author": null,
+          "description": "Since the appointment of Martin O’Neill as manager on June 1 2000 their club has won 38 of the 69 domestic trophies available to them.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23643009.dermot-desmonds-celtic-influence-greater-manager/?ref=rss",
+          "publishedOn": "2023-07-08T21:30:00.000Z",
+          "wordCount": 10197,
+          "title": "Dermot Desmond's Celtic influence greater than any manager",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16978247/?type=og-image"
+        },
         {
           "id": "834af7a19ccf563268469417607371e0",
           "author": null,
@@ -637,26 +667,6 @@
           "wordCount": 8555,
           "title": "Jota breaks silence on Celtic transfer exit for Al-Ittihad",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16961755/?type=og-image"
-        },
-        {
-          "id": "cd23711ac37fd477505179036cb5afdf",
-          "author": null,
-          "description": "Celtic have cancelled their pre-season tour of South Korea, it has been confirmed.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23632571.celtic-cancel-pre-season-trip-promoters-blasted/?ref=rss",
-          "publishedOn": "2023-07-04T13:08:38.000Z",
-          "wordCount": 8502,
-          "title": "Celtic cancel pre-season trip as promoters blasted",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16961069/?type=og-image"
-        },
-        {
-          "id": "235dd79e9c984da8bfffc11ba1d4e875",
-          "author": null,
-          "description": "CELTIC star Yuki Kobayashi has admitted he's desperate to experience Parkhead on a Champions League night so he can emulate former Hoops hero Shunsuke Nakamura.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23632218.yuki-kobayashi-hoping-replicate-celtic-hero-shunsuke-nakamura/?ref=rss",
-          "publishedOn": "2023-07-04T11:32:56.000Z",
-          "wordCount": 8750,
-          "title": "Yuki Kobayashi hoping to replicate Celtic hero Shunsuke Nakamura",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16960382/?type=og-image"
         }
       ]
     }
