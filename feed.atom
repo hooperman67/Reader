@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-07-09T06:23:37.355Z</updated>
+    <updated>2023-07-09T09:16:58.400Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Scottish transfers: 22y/o defender linked with Rangers, Celtic eye starlet, Hibs cash boost, Tierney developments]]></title>
+        <id>4212318</id>
+        <link href="https://www.scotsman.com/sport/football/scottish-transfers-22yo-defender-linked-with-rangers-celtic-eye-starlet-hibs-cash-boost-tierney-developments-4212318"/>
+        <updated>2023-07-09T08:38:04.000Z</updated>
+        <summary type="html"><![CDATA[With many teams now back in pre-season training and looking ahead to the upcoming 2023/24 campaign, transfer activity is set to be turned up a notch over the coming weeks.]]></summary>
+        <author>
+            <name>Mark Atkinson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Michael Beale welcomed Brendan Rodgers' Celtic return as he lays down Rangers gauntlet]]></title>
         <id>4212283</id>
@@ -612,16 +622,6 @@
         <link href="https://www.glasgowtimes.co.uk/sport/23632828.kyogos-new-celtic-deal-rodgers-best-summer-business/?ref=rss"/>
         <updated>2023-07-05T05:00:00.000Z</updated>
         <summary type="html"><![CDATA[The Parkhead club's 34-goal talisman has signed a contract extension until 2027.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liel Abada Celtic exit latest as Sporting Lisbon transfer 'ruled out']]></title>
-        <id>149ff5d31be265c5454e93998a36f008</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23633796.liel-abada-celtic-exit-latest-sporting-lisbon-transfer-ruled-out/?ref=rss"/>
-        <updated>2023-07-04T19:49:32.000Z</updated>
-        <summary type="html"><![CDATA[Liel Abada had been reported to be a transfer target for Sporting Lisbon but it's claimed the Portuguese side are not seeking a deal.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
         </author>

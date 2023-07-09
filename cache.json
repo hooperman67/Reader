@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4212318",
+          "author": "Mark Atkinson",
+          "description": "With many teams now back in pre-season training and looking ahead to the upcoming 2023/24 campaign, transfer activity is set to be turned up a notch over the coming weeks.",
+          "link": "https://www.scotsman.com/sport/football/scottish-transfers-22yo-defender-linked-with-rangers-celtic-eye-starlet-hibs-cash-boost-tierney-developments-4212318",
+          "publishedOn": "2023-07-09T08:38:04.000Z",
+          "wordCount": null,
+          "title": "Scottish transfers: 22y/o defender linked with Rangers, Celtic eye starlet, Hibs cash boost, Tierney developments",
+          "imageUrl": null
+        },
+        {
           "id": "4212283",
           "author": "Mark Atkinson",
           "description": "Rangers manager Michael Beale has welcomed his Celtic counterpart Brendan Rodgers back to Scottish football and is relishing the challenge of wrestling the Premiership title away from Parkhead.",
@@ -627,16 +637,6 @@
           "wordCount": 9250,
           "title": "Why Kyogo's new Celtic deal could be Rodgers' best summer business",
           "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16961654/?type=og-image"
-        },
-        {
-          "id": "149ff5d31be265c5454e93998a36f008",
-          "author": null,
-          "description": "Liel Abada had been reported to be a transfer target for Sporting Lisbon but it's claimed the Portuguese side are not seeking a deal.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23633796.liel-abada-celtic-exit-latest-sporting-lisbon-transfer-ruled-out/?ref=rss",
-          "publishedOn": "2023-07-04T19:49:32.000Z",
-          "wordCount": 8529,
-          "title": "Liel Abada Celtic exit latest as Sporting Lisbon transfer 'ruled out'",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16963061/?type=og-image"
         }
       ]
     }
