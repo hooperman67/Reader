@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-07-10T15:20:19.252Z</updated>
+    <updated>2023-07-10T18:23:54.209Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Lennon Celtic admission over Rangers new boy Dessers]]></title>
+        <id>ce2b772f9042e738067fa00d0007b809</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23646508.lennon-celtic-admission-rangers-new-boy-dessers/?ref=rss"/>
+        <updated>2023-07-10T17:45:26.000Z</updated>
+        <summary type="html"><![CDATA[The striker joined the Light Blues for a fee of around £4.5million from Cremonese in Italy.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic watched new Rangers signing after impressive season as Neil Lennon makes 'great bit of business' claim]]></title>
+        <id>4214107</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/celtic-watched-new-rangers-signing-after-impressive-season-as-neil-lennon-makes-great-bit-of-business-claim-4214107"/>
+        <updated>2023-07-10T17:35:59.000Z</updated>
+        <summary type="html"><![CDATA[New Rangers signing Cyriel Dessers could have moved to Celtic three years ago, former boss Neil Lennon revealed.]]></summary>
+        <author>
+            <name>Joel Sked</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scottish transfers: Spanish giants want Celtic ace, Rangers new signing blow, Scottish champions in £13m battle]]></title>
+        <id>4213977</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/scottish-transfers-spanish-giants-want-celtic-ace-rangers-new-signing-blow-scottish-champions-in-ps13m-battle-4213977"/>
+        <updated>2023-07-10T16:01:13.000Z</updated>
+        <summary type="html"><![CDATA[It is a big week in Scottish football with competitive action returning as the Viaplay Cup group stages begin this weekend. It also continues to be crucial time for clubs to get the transfer business they want completed before the start of the league season.]]></summary>
+        <author>
+            <name>Joel Sked</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Donny van de Beek Celtic summer transfer links emerge]]></title>
         <id>bca1bc534d34abaff4b7ef51dcb750e9</id>
