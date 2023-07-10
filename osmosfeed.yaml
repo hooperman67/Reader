@@ -1,9 +1,12 @@
 cacheUrl: https://hooperman67.github.io/Reader/cache.json
 sources:
-  - href: https://www.scotsman.com/sport/football/celtic/rss
-  - href: https://anchor.fm/s/4ce009d8/podcast/rss
-  - href: https://www.glasgowtimes.co.uk/sport/celtic/rss/
-  - https://www.youtube.com/feeds/videos.xml?channel_id=UC40iYWGZDD1cC4zvYRCWjHw
+  - href: https://www.celticquicknews.co.uk/feed/
+  - href: https://thecelticbhoys.com/feed/
+  - href: http://etims.net/?feed=rss2
+  - href: http://celticunderground.net/feed/
+  - href: https://www.67hailhail.com/feed/
+  - href: https://celticfanzine.com/category/news/feed/
+  
 
 siteTitle: "ArmchairCelts::newsfeed"
 cacheMaxDays: 5
