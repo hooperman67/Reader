@@ -1,672 +1,372 @@
 {
   "sources": [
     {
-      "title": "The Scotsman Celtic",
-      "feedUrl": "https://www.scotsman.com/sport/football/celtic/rss",
-      "siteUrl": "https://www.scotsman.com/sport/football/celtic",
+      "title": "Celtic Quick News",
+      "feedUrl": "https://www.celticquicknews.co.uk/feed/",
+      "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
-          "id": "4214107",
-          "author": "Joel Sked",
-          "description": "New Rangers signing Cyriel Dessers could have moved to Celtic three years ago, former boss Neil Lennon revealed.",
-          "link": "https://www.scotsman.com/sport/football/celtic/celtic-watched-new-rangers-signing-after-impressive-season-as-neil-lennon-makes-great-bit-of-business-claim-4214107",
-          "publishedOn": "2023-07-10T17:35:59.000Z",
-          "wordCount": null,
-          "title": "Celtic watched new Rangers signing after impressive season as Neil Lennon makes 'great bit of business' claim",
-          "imageUrl": null
+          "id": "https://www.celticquicknews.co.uk/?p=109668",
+          "author": "CQN Magazine",
+          "description": "BRENDAN RODGERS admits it is a “privilege” to work with Callum McGregor, the player he rates as the “heartbeat of this team”. The returning Celtic manager welcomed the news the captain had signed a new five-year deal which will keep him at the champions until he is 35. McGregor has been pivotal in the Hoops’ [...]",
+          "link": "https://www.celticquicknews.co.uk/privilege-rodgers-hails-heartbeat-of-this-team/",
+          "publishedOn": "2023-07-10T12:21:39.000Z",
+          "wordCount": 4328,
+          "title": "‘PRIVILEGE,’ RODGERS HAILS ‘HEARTBEAT OF THIS TEAM’",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/07/BRENDAN-RODGERS-CALLUM-MCGREGOR-NEWW-FEATURRED.png"
         },
         {
-          "id": "4213977",
-          "author": "Joel Sked",
-          "description": "It is a big week in Scottish football with competitive action returning as the Viaplay Cup group stages begin this weekend. It also continues to be crucial time for clubs to get the transfer business they want completed before the start of the league season.",
-          "link": "https://www.scotsman.com/sport/football/celtic/scottish-transfers-spanish-giants-want-celtic-ace-rangers-new-signing-blow-scottish-champions-in-ps13m-battle-4213977",
-          "publishedOn": "2023-07-10T16:01:13.000Z",
-          "wordCount": null,
-          "title": "Scottish transfers: Spanish giants want Celtic ace, Rangers new signing blow, Scottish champions in £13m battle",
-          "imageUrl": null
+          "id": "https://www.celticquicknews.co.uk/?p=109663",
+          "author": "CQN Magazine",
+          "description": "CALLUM McGREGOR admitted he was “absolutely delighted” to sign a new five-year deal with Celtic. And then the 30-year-old captain declared: “There’s only one place that I want to play football and that’s here.” McGregor, who replaced the legendary Scott Brown as the team’s onfield leader at the start of the remarkable 2021/22 campaign, said: [...]",
+          "link": "https://www.celticquicknews.co.uk/hugely-proud-admits-mcgregor-as-he-commits-to-celtic/",
+          "publishedOn": "2023-07-10T11:51:10.000Z",
+          "wordCount": 4427,
+          "title": "‘HUGELY PROUD,’ ADMITS McGREGOR AS HE COMMITS TO CELTIC",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/07/CALLUM-MCGREGOR-2023-SCUP-FEATURED.png"
         },
         {
-          "id": "4213223",
-          "author": "Mark Atkinson",
-          "description": "Celtic captain Callum McGregor has agreed a new long-term contract with the current Premiership champions.",
-          "link": "https://www.scotsman.com/sport/football/celtic/callum-mcgregor-handed-bumper-new-contract-in-amazing-news-for-club-and-player-4213223",
-          "publishedOn": "2023-07-10T10:39:21.000Z",
-          "wordCount": null,
-          "title": "Callum McGregor handed bumper new contract in 'amazing' news for club and player",
-          "imageUrl": null
+          "id": "https://www.celticquicknews.co.uk/?p=109661",
+          "author": "Paul67",
+          "description": "Whatever doubts existed about the first team squad, we all knew there was no chance of Callum McGregor leaving.  This morning, Celtic announced the captain has signed a five-year contract which will keep him at the club until he turns 35.  It is likely to be his last in the game and will be structured [...]",
+          "link": "https://www.celticquicknews.co.uk/callum-mcgregor-celtics-fittest-ever-player/",
+          "publishedOn": "2023-07-10T10:59:59.000Z",
+          "wordCount": 6276,
+          "title": "Callum McGregor, Celtic’s fittest ever player",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
         },
         {
-          "id": "4212750",
-          "author": "Mark Atkinson",
-          "description": "Celtic transfer target Yang Hyun-jun is concerned that the Scottish champions “won’t wait forever” in their bid to sign the South Korean midfielder.",
-          "link": "https://www.scotsman.com/sport/football/celtic/celtic-wont-wait-forever-i-want-to-go-so-much-transfer-target-fears-dream-move-may-never-happen-4212750",
-          "publishedOn": "2023-07-10T08:39:24.000Z",
-          "wordCount": null,
-          "title": "'Celtic won't wait forever - I want to go so much': Transfer target fears dream move may never happen",
-          "imageUrl": null
+          "id": "https://www.celticquicknews.co.uk/?p=109655",
+          "author": "CQN Magazine",
+          "description": "ONE-TIME Celtic wonder Bhoy Dylan McGeouch has signed for English third-tier side Carlisle United. The midfielder was tipped for a massive future by Neil Lennon when he made his Hoops home debut as an 18-year-old prospect on November 26 2011. McGeouch came on for James Forrest in a league match against St Mirren at Parkhead [...]",
+          "link": "https://www.celticquicknews.co.uk/one-time-wonderbhoy-is-third-rate/",
+          "publishedOn": "2023-07-10T07:35:22.000Z",
+          "wordCount": 4016,
+          "title": "ONE-TIME WONDERBHOY IS THIRD RATE",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/07/DYLAN-MCGEOUCH-FEATURED-HHHH.png"
         },
         {
-          "id": "4212679",
-          "author": "Mark Atkinson",
-          "description": "We take a look at what’s making the transfer window headlines this Monday in Scottish football and beyond.",
-          "link": "https://www.scotsman.com/sport/football/scottish-transfers-rangers-man-in-demand-celtic-get-boost-man-city-kid-not-going-to-hibs-potential-ange-blow-4212679",
-          "publishedOn": "2023-07-10T07:42:46.000Z",
-          "wordCount": null,
-          "title": "Scottish transfers: Rangers man in demand, Celtic get boost, Man City kid not going to Hibs, potential Ange blow",
-          "imageUrl": null
+          "id": "https://www.celticquicknews.co.uk/?p=109652",
+          "author": "CQN Magazine",
+          "description": "FILIPE JOTA has sent a heartfelt message to Celtic fans following his rapid £25million exit for Saudi Arabian club Al-Ettihad. The fans’ favourite bowed out with the third goal in the Hoops’ 3-1 Scottish Cup Final triumph over Inverness Caley Thistle at Hampden on June 3. Jota was pivotal to the team’s success as they [...]",
+          "link": "https://www.celticquicknews.co.uk/i-love-you-for-life-jotas-heartfelt-message-to-celtic-fans/",
+          "publishedOn": "2023-07-10T06:29:45.000Z",
+          "wordCount": 4122,
+          "title": "‘I LOVE YOU FOR LIFE,’ JOTA’S HEARTFELT MESSAGE TO CELTIC FANS",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/07/FILIPE-JOTA-AND-CELTIC-FANS-SC-FINAL-JUNE-3-2023.png"
         },
         {
-          "id": "4212318",
-          "author": "Mark Atkinson",
-          "description": "With many teams now back in pre-season training and looking ahead to the upcoming 2023/24 campaign, transfer activity is set to be turned up a notch over the coming weeks.",
-          "link": "https://www.scotsman.com/sport/football/scottish-transfers-22yo-defender-linked-with-rangers-celtic-eye-starlet-hibs-cash-boost-tierney-developments-4212318",
-          "publishedOn": "2023-07-09T08:38:04.000Z",
-          "wordCount": null,
-          "title": "Scottish transfers: 22y/o defender linked with Rangers, Celtic eye starlet, Hibs cash boost, Tierney developments",
-          "imageUrl": null
+          "id": "https://www.celticquicknews.co.uk/?p=109646",
+          "author": "CQN Magazine",
+          "description": "CAMERON CARTER-VICKERS is ahead of schedule as he prepares to make his return. The USA World Cup centre-back missed the last six games of the season – including the treble-sealing Scottish Cup Final triumph – after undergoing knee surgery. Carter-Vickers, the rock in the Hoops rearguard, bowed out of the action after a Man-of-the-Match performance [...]",
+          "link": "https://www.celticquicknews.co.uk/return-of-the-rock/",
+          "publishedOn": "2023-07-10T05:53:45.000Z",
+          "wordCount": 4238,
+          "title": "RETURN OF THE ROCK",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/04/cameron-carter-vickers-v-gers-featurred.png"
         },
         {
-          "id": "4212283",
-          "author": "Mark Atkinson",
-          "description": "Rangers manager Michael Beale has welcomed his Celtic counterpart Brendan Rodgers back to Scottish football and is relishing the challenge of wrestling the Premiership title away from Parkhead.",
-          "link": "https://www.scotsman.com/sport/football/rangers/why-michael-beale-welcomed-brendan-rodgers-celtic-return-as-he-lays-down-rangers-gauntlet-4212283",
-          "publishedOn": "2023-07-08T21:35:00.000Z",
-          "wordCount": null,
-          "title": "Why Michael Beale welcomed Brendan Rodgers' Celtic return as he lays down Rangers gauntlet",
-          "imageUrl": null
+          "id": "https://www.celticquicknews.co.uk/?p=109627",
+          "author": "CQN Magazine",
+          "description": "POLISH striker Pawel Brozek was brought to Celtic on loan from Turkish outfit Trabzonspor in January 2012. He returned to his parent club four months later after firing blanks in only three appearances for the Hoops. Brozek made just one start for the club in a league encounter against Motherwell at Fir Park on April [...]",
+          "link": "https://www.celticquicknews.co.uk/whatever-happened-to-pawel-brozek/",
+          "publishedOn": "2023-07-10T05:15:44.000Z",
+          "wordCount": 4072,
+          "title": "WHATEVER HAPPENED TO…PAWEL BROZEK?",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/07/PAWEL-BROZEK-FEARURED-NO.17.png"
         },
         {
-          "id": "4212276",
-          "author": "Matthew Elder",
-          "description": "Brendan Rodgers admits he has been \"pleasantly surprised\" by the standard of young players at Celtic after inviting them to train with the first-team during the first week of pre-season.",
-          "link": "https://www.scotsman.com/sport/football/celtic/brendan-rodgers-lifts-lid-on-celtic-return-discovery-that-has-left-him-pleasantly-surprised-4212276",
-          "publishedOn": "2023-07-08T20:20:12.000Z",
-          "wordCount": null,
-          "title": "Brendan Rodgers lifts lid on Celtic return discovery that has left him 'pleasantly surprised'",
-          "imageUrl": null
+          "id": "https://www.celticquicknews.co.uk/?p=54684",
+          "author": "CQN Magazine",
+          "description": "CELTIC legend Davie Hay continues his inside stories as he details the changes in Wim Jansen’s team as the new-look Hoops prepared to derail Rangers’ bid for 10 successive titles in the 1997/98 campaign. In another CQN EXCLUSIVE, the former player and manager opens up in a massive year of change at the club as he [...]",
+          "link": "https://www.celticquicknews.co.uk/celtic-confidential-x-factor-brattbakk-davie-hay-reveals-all/",
+          "publishedOn": "2023-07-10T05:00:54.000Z",
+          "wordCount": 4345,
+          "title": "CELTIC CONFIDENTIAL:  X-FACTOR BRATTBAKK, DAVIE HAY REVEALS ALL",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/01/DAVIE-HAY-AND-WIM-JANSEN-VV.png"
         },
         {
-          "id": "4212061",
-          "author": "Matthew Elder",
-          "description": "The start of the new Scottish Premiership season is now just four weeks away and clubs are continuing to make changes to their squads ahead of the big kick-off...",
-          "link": "https://www.scotsman.com/sport/football/scottish-transfers-rangers-close-to-ps12m-signing-celtic-starlet-makes-city-group-move-mexican-striker-will-excite-fans-4212061",
-          "publishedOn": "2023-07-08T10:04:16.000Z",
-          "wordCount": null,
-          "title": "Scottish transfers: Rangers close to £1.2m signing, Celtic starlet makes City Group move, Mexican striker 'will excite fans'",
-          "imageUrl": null
+          "id": "https://www.celticquicknews.co.uk/?p=64871",
+          "author": "CQN Magazine",
+          "description": "EXACTLY thirty-four years ago today, Mo Johnston turned his back on Celtic, the club he professed to love, to join Rangers. Author Alex Gordon, who has written fifteen Celtic books including ‘50 Flags Plus One‘, a tribute to the club’s first 51 untainted titles, devoted a chapter in his first newspaper memoirs, ‘Jinx Dogs Burns [...]",
+          "link": "https://www.celticquicknews.co.uk/mo-johnston-the-lying-game/",
+          "publishedOn": "2023-07-10T04:30:51.000Z",
+          "wordCount": 6307,
+          "title": "MO JOHNSTON: THE LYING GAME",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2019/07/MoandBilly-Featured.jpg"
         },
         {
-          "id": "4211841",
-          "author": "Matthew Elder",
-          "description": "Marco Tilio revealed that his move to Celtic has been years in the making as he faced reporters for the first time since completing his switch from Melbourne City.",
-          "link": "https://www.scotsman.com/sport/football/celtic/celtic-have-been-tracking-me-for-years-i-spoke-to-one-aussie-about-move-but-not-ange-postecoglou-4211841",
-          "publishedOn": "2023-07-07T16:14:06.000Z",
-          "wordCount": null,
-          "title": "Celtic have been tracking me for years - I spoke to one Aussie about move but not Ange Postecoglou",
-          "imageUrl": null
+          "id": "https://www.celticquicknews.co.uk/?p=109624",
+          "author": "CQN Magazine",
+          "description": "BRENDAN RODGERS insists evergreen winger James Forrest still has a crucial role to play for Celtic. The Scotland international, who celebrated his 32nd birthday during the week as CQN reported, was hindered by persistent injury during Ange Postecoglou’s debut campaign. And Forrest was used sparingly last term as fitness problems curtailed his outings in the [...]",
+          "link": "https://www.celticquicknews.co.uk/rodgers-reveals-celt-who-will-have-really-good-impact/",
+          "publishedOn": "2023-07-09T09:02:16.000Z",
+          "wordCount": 4169,
+          "title": "RODGERS REVEALS CELT WHO WILL HAVE ‘REALLY GOOD IMPACT’",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/05/JAMES-FORREST-GLEE-FEATURED.png"
         },
         {
-          "id": "4211381",
-          "author": "Joel Sked",
-          "description": "Former Celtic captain Scott Brown has extended his stay with English League One side Fleetwood Town.",
-          "link": "https://www.scotsman.com/sport/football/celtic/ex-celtic-captain-scott-brown-signs-new-fleetwood-town-deal-contract-length-what-he-said-4211381",
-          "publishedOn": "2023-07-07T12:57:51.000Z",
-          "wordCount": null,
-          "title": "Ex-Celtic captain Scott Brown signs new Fleetwood Town deal, contract length, what he said",
-          "imageUrl": null
+          "id": "https://www.celticquicknews.co.uk/?p=109621",
+          "author": "CQN Magazine",
+          "description": "LEGENDARY Celtic keeper Pat Bonner reckons Joe Hart faces a make-or-break period in the early stages of Brendan Rodgers’ return. The 36-year-old former England No.1 is entering the final 12 months of his Hoops contract after joining the champions in a cut-price £1million switch from Spurs in August 2021. Ironically, Ange Postecoglou, the manager who [...]",
+          "link": "https://www.celticquicknews.co.uk/joe-hart-bonner-poses-the-big-question/",
+          "publishedOn": "2023-07-09T08:06:38.000Z",
+          "wordCount": 4368,
+          "title": "JOE HART: BONNER POSES ‘THE BIG QUESTION’",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/04/JOE-HART-36TH-BIRTHDAY-APRIL-19-2023.png"
         },
         {
-          "id": "4211280",
-          "author": "Matthew Elder",
-          "description": "Celtic goalkeeper Joe Hart has hailed Jack Butland's transfer to Rangers as a \"good move\" but stopped short of wishing his friend well out of “respect” for the Old Firm rivalry.",
-          "link": "https://www.scotsman.com/sport/football/celtic/we-go-way-back-celtics-joe-hart-on-his-link-to-new-rangers-arrival-but-why-respect-comes-first-4211280",
-          "publishedOn": "2023-07-07T12:08:51.000Z",
-          "wordCount": null,
-          "title": "'We go way back' - Celtic's Joe Hart on his link to new Rangers arrival but why 'respect' comes first",
-          "imageUrl": null
-        },
-        {
-          "id": "4210969",
-          "author": "Joel Sked",
-          "description": "Scottish Premiership clubs are continuing to work towards the new league season with on-field and off-field preparation. Some sides have travelled abroad for a warm-weather training camp, while others have already played a number of friendlies with competitive games beginning on a week on Saturday with the Viaplay Cup group stages. Away from the pitch managers and sporting directors are making tweaks to the squad with a couple of clubs yet to sign anyone. As for individuals from last season, there are a number of players who are still without a club...",
-          "link": "https://www.scotsman.com/sport/football/celtic/9-most-interesting-out-of-contact-premiership-stars-ex-celtic-star-rangers-fan-favourite-hearts-aberdeen-winger-4210969",
-          "publishedOn": "2023-07-07T10:13:37.000Z",
-          "wordCount": null,
-          "title": "9 most interesting out of contact Premiership stars - ex-Celtic star, Rangers fan favourite, Hearts & Aberdeen winger",
-          "imageUrl": null
-        },
-        {
-          "id": "4210576",
-          "author": "Joel Sked",
-          "description": "It is just over a week until the start of the competitive season in Scotland with the start of the Viaplay Cup group stages.It will also be an important time for clubs to work further on their squad building ahead of the new league campaign.",
-          "link": "https://www.scotsman.com/sport/football/celtic/scottish-transfers-celtic-battle-epl-side-for-striker-rangers-linked-star-and-ps8m-rated-ex-hearts-ace-wanted-4210576",
-          "publishedOn": "2023-07-07T07:51:12.000Z",
-          "wordCount": null,
-          "title": "Scottish transfers: Celtic battle EPL side for striker, Rangers-linked star and £8m-rated ex-Hearts ace wanted",
-          "imageUrl": null
-        },
-        {
-          "id": "4210348",
-          "author": "Oliver Anderson",
-          "description": "Daizen Maeda has handed Celtic another attacking boost by signing a new deal until June 2027.",
-          "link": "https://www.scotsman.com/sport/football/celtic/daizen-maeda-signs-new-celtic-contract-deal-length-what-the-player-said-brendan-rodgers-delight-4210348",
-          "publishedOn": "2023-07-06T16:12:01.000Z",
-          "wordCount": null,
-          "title": "Daizen Maeda signs new Celtic contract - deal length, what the player said, Brendan Rodgers delight",
-          "imageUrl": null
-        },
-        {
-          "id": "4210016",
-          "author": "Matthew Elder",
-          "description": "Aberdeen have completed the signing of former Celtic goalkeeper Ross Doohan.",
-          "link": "https://www.scotsman.com/sport/football/celtic/aberdeen-sign-former-celtic-player-as-dons-confirm-sixth-summer-recruit-4210016",
-          "publishedOn": "2023-07-06T13:44:27.000Z",
-          "wordCount": null,
-          "title": "Aberdeen sign former Celtic player as Dons confirm sixth summer recruit",
-          "imageUrl": null
-        },
-        {
-          "id": "4209783",
-          "author": "Matthew Elder",
-          "description": "Celtic are ramping up their transfer business ahead of Brendan Rodgers’ first season back at the helm ...",
-          "link": "https://www.scotsman.com/sport/football/celtic/celtic-transfers-possible-wow-signing-another-major-windfall-incoming-quadruple-treble-hero-to-exit-4209783",
-          "publishedOn": "2023-07-06T11:45:54.000Z",
-          "wordCount": null,
-          "title": "Celtic transfers: Possible 'wow' signing, another major windfall incoming, quadruple treble hero to exit",
-          "imageUrl": null
+          "id": "https://www.celticquicknews.co.uk/?p=109594",
+          "author": "CQN Magazine",
+          "description": "CELTIC’S £7million misfits Albian Ajeti and Ismaila Soro have been dealt stebacks as they head for the Hoops exit. The flop frontman, who cost £5million from West Ham in August 2020, and the midfielder, a £2million arrival from Israeli outfit Bnei Yehuda seven months earlier, have both returned to the champions after season-long loans. Ajeti, [...]",
+          "link": "https://www.celticquicknews.co.uk/7m-misfits-in-celtic-exit-setback/",
+          "publishedOn": "2023-07-09T05:31:54.000Z",
+          "wordCount": 3982,
+          "title": "£7m MISFITS IN CELTIC EXIT SETBACK",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2021/09/ALBIAN-AJETI-FEATURED-HHH.png"
         }
       ]
     },
     {
-      "title": "Endless Celts Podcast",
-      "feedUrl": "https://anchor.fm/s/4ce009d8/podcast/rss",
-      "siteUrl": "https://podcasters.spotify.com/pod/show/endlesscelts",
+      "title": "The Celtic Bhoys",
+      "feedUrl": "https://thecelticbhoys.com/feed/",
+      "siteUrl": "https://thecelticbhoys.com",
+      "articles": [
+        {
+          "id": "https://thecelticbhoys.com/?p=42512",
+          "author": "Sourav Mahanty",
+          "description": "Ange Postecoglou arrived at Celtic as pretty much an unknown in the European game, despite of his successes in Japan and Australia. It did not take the manager too long to become a fan favourite though and he guided the Hoops to five trophies in his two seasons in the Parkhead hot seat. Postecoglou would […]\nAnge Postecoglou makes superb Celtic claim despite leaving - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community",
+          "link": "https://thecelticbhoys.com/2023/07/10/ange-postecoglou-celtic-claim-leaving/",
+          "publishedOn": "2023-07-10T18:00:34.000Z",
+          "wordCount": 2048,
+          "title": "Ange Postecoglou makes superb Celtic claim despite leaving",
+          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1258410535-scaled.jpeg"
+        },
+        {
+          "id": "https://thecelticbhoys.com/?p=42508",
+          "author": "Sourav Mahanty",
+          "description": "Rumours have been doing the rounds that Celtic could be making some marquee signings this summer in order to make sure that Brendan Rodgers’ team is competitive in the Champions League. It will be interesting to see how that plays out but they are certainly being linked with some big names for sure. It was […]\nCeltic interested in signing Manchester United player - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community",
+          "link": "https://thecelticbhoys.com/2023/07/10/celtic-signing-manchester-united-player/",
+          "publishedOn": "2023-07-10T14:00:05.000Z",
+          "wordCount": 2007,
+          "title": "Celtic interested in signing Manchester United player",
+          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1455347789-scaled.jpeg"
+        },
+        {
+          "id": "https://thecelticbhoys.com/?p=42504",
+          "author": "Sourav Mahanty",
+          "description": "Celtic have already made a couple of additions to their squad this summer, with the signings of Odin Thiago Holm and Marco Tilio. A third addition seems close as well, as it looks like it is only a matter of time before Yang Hyun-jun ends up at Parkhead. And fans would expect more fresh faces […]\n€2.5 million striker drops possible Celtic transfer hint - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community",
+          "link": "https://thecelticbhoys.com/2023/07/10/striker-drops-possible-celtic-hint/",
+          "publishedOn": "2023-07-10T11:30:12.000Z",
+          "wordCount": 2012,
+          "title": "€2.5 million striker drops possible Celtic transfer hint",
+          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1460228160-scaled.jpeg"
+        },
+        {
+          "id": "https://thecelticbhoys.com/?p=42500",
+          "author": "Sourav Mahanty",
+          "description": "Celtic made a fast start to the summer, confirming deals for Odin Thiago Holm and Marco Tilio. Both are very highly rated talents, who are believed to have big futures ahead of them. Thus, they could prove to be great signings for the Hoops in the long term. Since then, things have moved a bit […]\nCeltic closer to signing £2 million winger this summer - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community",
+          "link": "https://thecelticbhoys.com/2023/07/09/celtic-closer-2-million-winger/",
+          "publishedOn": "2023-07-09T22:35:42.000Z",
+          "wordCount": 2013,
+          "title": "Celtic closer to signing £2 million winger this summer",
+          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1355573087-scaled.jpeg"
+        },
+        {
+          "id": "https://thecelticbhoys.com/?p=42496",
+          "author": "Sourav Mahanty",
+          "description": "Kieran Tierney left Celtic in the summer of 2019 in a Scottish record £25 million move to join Arsenal. The left-back had come through the youth ranks at Parkhead and was one of the club’s best players. Thus, him leaving was a major blow for sure. Could there be a return on the cards in […]\nSky Sports man makes Kieran Tierney Celtic return claim - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community",
+          "link": "https://thecelticbhoys.com/2023/07/09/sky-sports-kieran-tierney-celtic-return/",
+          "publishedOn": "2023-07-09T21:00:38.000Z",
+          "wordCount": 2103,
+          "title": "Sky Sports man makes Kieran Tierney Celtic return claim",
+          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1435373528.jpeg"
+        },
+        {
+          "id": "https://thecelticbhoys.com/?p=42493",
+          "author": "Sourav Mahanty",
+          "description": "Celtic had a fantastic record of identifying and signing players during the time of Ange Postecoglou as the manager of the club. And fans will be hoping for that run to continue even though the Australian has left Parkhead to in order to join Tottenham Hotspur. The Hoops have brought in Brendan Rodgers as his […]\n£2.6 million Celtic target looks set to join FC Midtjylland - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community",
+          "link": "https://thecelticbhoys.com/2023/07/09/celtic-target-set-join-fc-midtjylland/",
+          "publishedOn": "2023-07-09T19:30:35.000Z",
+          "wordCount": 2045,
+          "title": "£2.6 million Celtic target looks set to join FC Midtjylland",
+          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1245171940.jpeg"
+        },
+        {
+          "id": "https://thecelticbhoys.com/?p=42488",
+          "author": "Sourav Mahanty",
+          "description": "Celtic were handed a major blow this summer, with Jota leaving the club in order to join Al-Ittihad. On one hand, the Hoops are believed to have received a transfer fee in the region of £25 million including add-ons, which is huge. But on the other hand, they have lost one of their most important […]\nJota finally breaks silence in emotional message to Celtic fans - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community",
+          "link": "https://thecelticbhoys.com/2023/07/09/jota-silence-emotional-celtic-fans/",
+          "publishedOn": "2023-07-09T18:00:56.000Z",
+          "wordCount": 2365,
+          "title": "Jota finally breaks silence in emotional message to Celtic fans",
+          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1486566352.jpeg"
+        },
+        {
+          "id": "https://thecelticbhoys.com/?p=42484",
+          "author": "Sourav Mahanty",
+          "description": "It will be important for Celtic to strengthen their squad this summer, with three trophies to defend next season as well as Champions League group stage football guaranteed. The club have already brought in Odin Thiago Holm and Marco Tilio. A move for Yang Hyun-jun appears to be close as well while rumours have suggested […]\nCeltic player set to undergo medical with exit close - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community",
+          "link": "https://thecelticbhoys.com/2023/07/09/celtic-player-medical-exit-close/",
+          "publishedOn": "2023-07-09T11:30:35.000Z",
+          "wordCount": 2009,
+          "title": "Celtic player set to undergo medical with exit close",
+          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1474659744-scaled.jpeg"
+        },
+        {
+          "id": "https://thecelticbhoys.com/?p=42477",
+          "author": "Sourav Mahanty",
+          "description": "Celtic are expected to bring in multiple new faces this summer in order to strengthen the squad as well as reshape it to fit the vision and plans of Brendan Rodgers. On the other hand, quite a few are expected to leave as well, as they have struggled for playing time at Parkhead and might […]\nCeltic player tipped to stay on despite exit rumours - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community",
+          "link": "https://thecelticbhoys.com/2023/07/09/celtic-player-tipped-stay-exit-rumours/",
+          "publishedOn": "2023-07-09T09:30:46.000Z",
+          "wordCount": 2137,
+          "title": "Celtic player tipped to stay on despite exit rumours",
+          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1464769770.jpeg"
+        },
+        {
+          "id": "https://thecelticbhoys.com/?p=42473",
+          "author": "Sourav Mahanty",
+          "description": "Celtic have one of the biggest fan bases in the world and very often people fail to realise how widespread the support for the Hoops is, because they play in the Scottish Premiership. The club have a long list of celebrity fans as well. That includes names like Rod Stewart, Lewis Capaldi, Snoop Dogg and […]\nPop superstar Niall Horan pictured with Celtic jerseys - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community",
+          "link": "https://thecelticbhoys.com/2023/07/08/pop-niall-horan-pictured-celtic-jerseys/",
+          "publishedOn": "2023-07-08T22:05:31.000Z",
+          "wordCount": 2012,
+          "title": "Pop superstar Niall Horan pictured with Celtic jerseys",
+          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F498382384-scaled.jpeg"
+        }
+      ]
+    },
+    {
+      "title": "eTims",
+      "feedUrl": "http://etims.net/?feed=rss2",
+      "siteUrl": "https://etims.net",
       "articles": []
     },
     {
-      "title": "Glasgow Times | Celtic",
-      "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
+      "title": "The Celtic Underground",
+      "feedUrl": "http://celticunderground.net/feed/",
+      "siteUrl": "http://celticunderground.net",
+      "articles": []
+    },
+    {
+      "title": "67 Hail Hail",
+      "feedUrl": "https://www.67hailhail.com/feed/",
+      "siteUrl": "https://www.67hailhail.com",
       "articles": [
         {
-          "id": "ce2b772f9042e738067fa00d0007b809",
-          "author": null,
-          "description": "The striker joined the Light Blues for a fee of around £4.5million from Cremonese in Italy.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23646508.lennon-celtic-admission-rangers-new-boy-dessers/?ref=rss",
-          "publishedOn": "2023-07-10T17:45:26.000Z",
-          "wordCount": 9709,
-          "title": "Lennon Celtic admission over Rangers new boy Dessers",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16985049/?type=og-image"
+          "id": "https://www.67hailhail.com/?p=166758",
+          "author": "Hamish Carton",
+          "description": "The Celtic first-team are currently in Portugal continuing their preparations for the new season. For the majority, it’s the start of the second week of training, while our international stars are enjoying (or enduring) their first day back. The players underwent two sessions in the Algarve on Monday, with the official Twitter account describing the ...\nThe post The Celtic players we're still waiting to see back in training; image of fan favourite appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/the-celtic-players-were-still-waiting-to-see-back-in-training-club-share-image-of-fan-favourite/",
+          "publishedOn": "2023-07-10T18:10:00.000Z",
+          "wordCount": 2040,
+          "title": "The Celtic players we're still waiting to see back in training; image of fan favourite",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/07/GettyImages-1245938819-scaled.jpg"
         },
         {
-          "id": "bca1bc534d34abaff4b7ef51dcb750e9",
-          "author": null,
-          "description": "The midfielder has endured a frustrating time at Manchester United since joining the club three years ago.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23645867.donny-van-de-beek-celtic-summer-transfer-links-emerge/?ref=rss",
-          "publishedOn": "2023-07-10T14:46:19.000Z",
-          "wordCount": 9746,
-          "title": "Donny van de Beek Celtic summer transfer links emerge",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16983233/?type=og-image"
+          "id": "https://www.67hailhail.com/?p=166756",
+          "author": "John McGinley",
+          "description": "A number of last season’s Celtic B regulars have made the trip with the senior squad for this week’s training camp in Portugal, per pictures published over the last couple of days. Brendan Rodgers has promised to ramp up the intensity of pre-season preparations over the next fortnight and these young prospects are getting a ...\nThe post The 7 youngsters spotted getting a big chance in Celtic's Portugal training camp pictures appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/celtic-youth/the-7-youngsters-spotted-getting-a-big-chance-in-celtics-portugal-training-camp-pictures/",
+          "publishedOn": "2023-07-10T17:40:00.000Z",
+          "wordCount": 1937,
+          "title": "The 7 youngsters spotted getting a big chance in Celtic's Portugal training camp pictures",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/07/GettyImages-1432551680-scaled-e1689010263945.jpg"
         },
         {
-          "id": "07609c6069a76a225b3b0383087855a7",
-          "author": null,
-          "description": "Ange Postecoglou expects Celtic to continue thriving under Brendan Rodgers",
-          "link": "https://www.glasgowtimes.co.uk/sport/23645777.ange-postecoglou-expects-celtic-thrive-brendan-rodgers/?ref=rss",
-          "publishedOn": "2023-07-10T14:28:33.000Z",
-          "wordCount": 8525,
-          "title": "Ange Postecoglou expects Celtic to thrive under Brendan Rodgers",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16983486/?type=og-image"
+          "id": "https://www.67hailhail.com/?p=166746",
+          "author": "John McGinley",
+          "description": "There have been plenty of speculative headlines about Celtic interest in names such as Carlos Borges of Manchester City and Young Boys midfielder Fabian Rieder this summer, but in a curious twist from the usual rumour mill, the original links to this pair didn’t come from the press. Both Borges’ and Rieder’s names came up ...\nThe post Carlos Borges, Fabian Rieder and the curious summer Celtic transfer window appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/carlos-borges-fabian-rieder-and-the-curious-summer-celtic-transfer-window/",
+          "publishedOn": "2023-07-10T17:10:00.000Z",
+          "wordCount": 2051,
+          "title": "Carlos Borges, Fabian Rieder and the curious summer Celtic transfer window",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/07/GettyImages-1512744254-scaled.jpg"
         },
         {
-          "id": "8f1fff899c23ae6cd5d3c9852ba9c26f",
-          "author": null,
-          "description": "Inevitably, the 57-year-old fielded questions from journalists about club captain Kane, with doubts growing over the striker's future.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23645418.ange-postecoglou-harry-kane-spurs-question-quip/?ref=rss",
-          "publishedOn": "2023-07-10T13:16:04.000Z",
-          "wordCount": 9845,
-          "title": "Ange Postecoglou in Harry Kane Spurs question quip",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16982583/?type=og-image"
+          "id": "https://www.67hailhail.com/?p=166747",
+          "author": "Hamish Carton",
+          "description": "Callum McGregor has spoken previously about planning to finish his playing career at Celtic. The Hoops captain has signed a contract extension at the club, tying him down until the summer of 2028. By then McGregor will be 35 years old and in the latter stages of his career. At that stage, it would seem ...\nThe post What Callum McGregor has said about finishing his career at Celtic appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/what-callum-mcgregor-has-said-about-finishing-his-career-at-celtic/",
+          "publishedOn": "2023-07-10T16:40:00.000Z",
+          "wordCount": 2107,
+          "title": "What Callum McGregor has said about finishing his career at Celtic",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/07/GettyImages-1252556711-scaled.jpg"
         },
         {
-          "id": "ad50239155c165f2af032a45a5a70dfe",
-          "author": null,
-          "description": "Ange Postecoglou brushed off a question on the step up from working in Scotland to the Premier League.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23645109.postecoglou-bristles-celtic-tottenham-step-up-poser/?ref=rss",
-          "publishedOn": "2023-07-10T13:05:00.000Z",
-          "wordCount": 8702,
-          "title": "Postecoglou bristles at Celtic to Tottenham 'step up' poser",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16982560/?type=og-image"
+          "id": "https://www.67hailhail.com/?p=166741",
+          "author": "Patrick Sinat",
+          "description": "The one thing that the Japanese players have brought to Celtic’s style of football is their relentless hard work for the team. Players like Kyogo Furuhashi, Daizen Maeda and Reo Hatate are full of energy and don’t stop running for the whole ninety minutes. We even saw it from Tomoki Iwata when he was being ...\nThe post Daizen Maeda on how football is different in Scotland; what makes the Celtic fans go 'wild' appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/daizen-maeda-on-how-football-is-different-in-scotland-what-makes-the-celtic-fans-go-wild/",
+          "publishedOn": "2023-07-10T15:40:00.000Z",
+          "wordCount": 2121,
+          "title": "Daizen Maeda on how football is different in Scotland; what makes the Celtic fans go 'wild'",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/04/GettyImages-1245935892-scaled.jpg"
         },
         {
-          "id": "779bc6d623aa09df5a389e253cd43b55",
-          "author": null,
-          "description": "Callum McGregor has penned a new long-term contract at Celtic.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23644731.callum-mcgregor-pens-new-bumper-celtic-deal/?ref=rss",
-          "publishedOn": "2023-07-10T10:34:39.000Z",
-          "wordCount": 8831,
-          "title": "Callum McGregor pens new bumper Celtic deal",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16981391/?type=og-image"
+          "id": "https://www.67hailhail.com/?p=166737",
+          "author": "Hamish Carton",
+          "description": "Ange Postecoglou expects Celtic to enjoy more success under Brendan Rodgers. It’s over a month since the Australian left the club to move to Tottenham Hotspur. Celtic appointed Brendan Rodgers as his successor soon after with the club now looking to the future. Postecoglou met the media for the first time as Spurs boss on ...\nThe post Ange Postecoglou hails \"outstanding\" Celtic figure and predicts a pleasing future appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/ange-postecoglou-hails-outstanding-brendan-rodgers-and-predicts-a-pleasing-celtic-future/",
+          "publishedOn": "2023-07-10T15:10:00.000Z",
+          "wordCount": 2113,
+          "title": "Ange Postecoglou hails \"outstanding\" Celtic figure and predicts a pleasing future",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/07/GettyImages-1518529213-scaled.jpg"
         },
         {
-          "id": "f8e613e9c551c6b2a205b59c2b63696d",
-          "author": null,
-          "description": "Manchester United's Scott McTominay is reportedly a target of his old Red Devils boss Jose Mourinho, with the Portuguese gaffer keen to take McTominay to Italian giants Rome.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23644712.scott-mctominay-transfer-latest-celtic-face-mourinho-fight/?ref=rss",
-          "publishedOn": "2023-07-10T10:30:03.000Z",
-          "wordCount": 9727,
-          "title": "Scott McTominay transfer latest as Celtic could face Mourinho fight",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16981031/?type=og-image"
+          "id": "https://www.67hailhail.com/?p=166733",
+          "author": "Patrick Sinat",
+          "description": "This Celtic team are renowned for their fitness ability. And it was all borne from the former Celtic manager, Ange Postecoglou’s mantra of ‘We Never Stop’. For the past two seasons, we literally didn’t. We could count on two hands and two feet the number of late goals the team scored to turn what would ...\nThe post Celtic star's extra work in Japan to be ready for Brendan Rodgers pre-season appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/reo-hatates-extra-work-in-japan-to-be-ready-for-brendan-rodgers-celtic-pre-season/",
+          "publishedOn": "2023-07-10T14:40:00.000Z",
+          "wordCount": 2056,
+          "title": "Celtic star's extra work in Japan to be ready for Brendan Rodgers pre-season",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/06/GettyImages-1458184136-scaled.jpg"
         },
         {
-          "id": "41cf181153582a6139c2593f1d9de2a9",
-          "author": null,
-          "description": "Ange Postecogloun will face the media for the first time since his move to Celtic on Monday.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23644501.ange-postecoglous-first-spurs-press-conference/?ref=rss",
-          "publishedOn": "2023-07-10T09:37:56.000Z",
-          "wordCount": 9589,
-          "title": "When is Ange Postecoglou's first Spurs press conference?",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16980871/?type=og-image"
+          "id": "https://www.67hailhail.com/?p=166723",
+          "author": "Patrick Sinat",
+          "description": "The amount of new contract extensions being announced by Celtic over the last week or so has certainly taken the sting out of losing Jota to the Saudi Arabian league. The new deals handed out to Callum McGregor, Daizen Maeda and Kyogo Furuhashi have sent out a real positive message to the Celtic support. Even ...\nThe post The next contract extension Celtic must take care of - Opinion appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/opinion/the-next-contract-extension-celtic-must-take-care-of/",
+          "publishedOn": "2023-07-10T14:10:00.000Z",
+          "wordCount": 2049,
+          "title": "The next contract extension Celtic must take care of - Opinion",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/03/GettyImages-1467365446-1-scaled.jpg"
         },
         {
-          "id": "afeb058aab74932b5d269ba8e05c8b0c",
-          "author": null,
-          "description": "Pogba is currently with Juventus, but he is exploring his options this summer ahead of a possible move.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23644354.jota-joined-eur100m-mega-al-ittihad-transfer-target/?ref=rss",
-          "publishedOn": "2023-07-10T08:58:01.000Z",
-          "wordCount": 8778,
-          "title": "Jota could be joined by €100m mega Al-Ittihad transfer target",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16856776/?type=og-image"
+          "id": "https://www.67hailhail.com/?p=166721",
+          "author": "Hamish Carton",
+          "description": "Former Celtic boss Ange Postecoglou has been speaking at his first Tottenham Hotspur press conference. The Australian, who won five trophies in his two years at Celtic, departed for London just over a month ago. Celtic have since appointed Brendan Rodgers and the Hoops support are looking forward to what may be to come this ...\nThe post Ange Postecoglou asked Celtic step-up question as history repeats itself appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/ange-postecoglou-asked-celtic-step-up-question-as-history-repeats-itself/",
+          "publishedOn": "2023-07-10T13:23:50.000Z",
+          "wordCount": 2128,
+          "title": "Ange Postecoglou asked Celtic step-up question as history repeats itself",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/07/GettyImages-1497186968-1-scaled.jpg"
         },
         {
-          "id": "51d572a57f2a31d3ecd1c282ae03c076",
-          "author": null,
-          "description": "Kieran Tierney has been linked with a transfer exit from Arsenal in the summer after limited game time at the Emirates.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23644150.tierney-not-arteta-player-arsenal-transfer-exit-links-persist/?ref=rss",
-          "publishedOn": "2023-07-10T07:55:39.000Z",
-          "wordCount": 8611,
-          "title": "Tierney 'not Arteta player' as Arsenal transfer exit links persist",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16980590/?type=og-image"
-        },
+          "id": "https://www.67hailhail.com/?p=166716",
+          "author": "Hamish Carton",
+          "description": "Celtic hold interest in Manchester United midfielder Donny van de Beek, according to a report. New Hoops boss Brendan Rodgers has already strengthened his midfield this summer, with Odin Thiago Holm joining from Valerenga. However, Aaron Mooy has retired from football and many Celtic supporters will feel the club need at least one more addition ...\nThe post Report: Celtic hold interest in Donny van de Beek; loan exit from Manchester United most likely appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/report-celtic-hold-interest-in-donny-van-de-beek-loan-exit-from-manchester-united-most-likely/",
+          "publishedOn": "2023-07-10T12:27:09.000Z",
+          "wordCount": 2071,
+          "title": "Report: Celtic hold interest in Donny van de Beek; loan exit from Manchester United most likely",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/07/GettyImages-1417268573-scaled.jpg"
+        }
+      ]
+    },
+    {
+      "title": "News Archives - Celtic Fanzine",
+      "feedUrl": "https://celticfanzine.com/category/news/feed/",
+      "siteUrl": "https://celticfanzine.com/category/news/",
+      "articles": [
         {
-          "id": "c7f0f54f053423849ad081bc712984a3",
-          "author": null,
-          "description": "Cameron Carter-Vickers is reportedly ahead of schedule in his rehab from a knee injury.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23644076.carter-vickers-celtic-planned-injury-return-timeline-revealed/?ref=rss",
-          "publishedOn": "2023-07-10T07:07:38.000Z",
-          "wordCount": 9654,
-          "title": "Carter-Vickers Celtic planned injury return timeline revealed",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16980533/?type=og-image"
-        },
-        {
-          "id": "10c92f9298da9642ff0e2c05b545b989",
-          "author": null,
-          "description": "IAN Cathro believes the clarity of Ange Postecoglou’s vision will help to ensure the former Celtic manager is successful at Spurs.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23643537.ex-spurs-assistant-manager-ange-postecoglous-vital-quality/?ref=rss",
-          "publishedOn": "2023-07-10T06:03:00.000Z",
-          "wordCount": 9038,
-          "title": "Ex-Spurs assistant manager on Ange Postecoglou's vital quality",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16979444/?type=og-image"
-        },
-        {
-          "id": "6730e0be55db50d1ccec14f4b64a9406",
-          "author": null,
-          "description": "Jota posted a video message on Instagram to bid farewell to Celtic after his move to Al-Ittihad in Saudi Arabia.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23643762.forever-yours-jota-shares-emotional-celtic-farewell-message/?ref=rss",
-          "publishedOn": "2023-07-09T15:52:39.000Z",
-          "wordCount": 9827,
-          "title": "'Forever yours': Jota shares emotional Celtic farewell message",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16980050/?type=og-image"
-        },
-        {
-          "id": "6730e0be55db50d1ccec14f4b64a9406",
-          "author": null,
-          "description": "Jota posted a video message on Instagram to bid farewell to Celtic after his move to Al-Ittihad in Saudi Arabia.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23643762.forever-yours---jota-shares-emotional-celtic-farewell-message/?ref=rss",
-          "publishedOn": "2023-07-09T15:52:39.000Z",
-          "wordCount": 8735,
-          "title": "'Forever yours': Jota shares emotional Celtic farewell message",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16980050/?type=og-image"
-        },
-        {
-          "id": "0aa3fa05dacdb22b65d7b291dee475f6",
-          "author": null,
-          "description": "Cho Gue-sung insists he has no regrets about not signing for Celtic, as he prepares to seal a switch to Denmark with FC Midtjylland instead.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23643629.cho-gue-sung-insists-no-regrets-celtic-transfer-collapse/?ref=rss",
-          "publishedOn": "2023-07-09T13:55:06.000Z",
-          "wordCount": 8495,
-          "title": "Cho Gue-sung insists he has no regrets over Celtic transfer collapse",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16979816/?type=og-image"
-        },
-        {
-          "id": "9fd0d8101a772daa6e73677c79d74d32",
-          "author": null,
-          "description": "FORMER Celtic target Said Hamulic has bizarrely posted a promotional video of himself 'signing' for the Hoops on social media...before quickly deleting it.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23643381.former-transfer-target-hamulic-posts-bizarre-welcome-celtic--clip/?ref=rss",
-          "publishedOn": "2023-07-09T10:08:18.000Z",
-          "wordCount": 8508,
-          "title": "Former transfer target Hamulic posts bizarre 'Welcome to Celtic?' clip",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16979154/?type=og-image"
-        },
-        {
-          "id": "462fc66276aab339a22b8cc45cd1d356",
-          "author": null,
-          "description": "Derek Soutar is a big fan of Northern Ireland keeper Hazard who’s close to completing a summer switch to the Championship new boys",
-          "link": "https://www.glasgowtimes.co.uk/sport/23643000.conor-hazard-backed-step-celtic-shadows-plymouth/?ref=rss",
-          "publishedOn": "2023-07-08T21:30:00.000Z",
-          "wordCount": 8649,
-          "title": "Conor Hazard backed to step out Celtic shadows at Plymouth",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16978232/?type=og-image"
-        },
-        {
-          "id": "2d2a6ce7f4b5021dbe55305e8e0bca3c",
-          "author": null,
-          "description": "AS Michael Beale showed since returning to Ibrox last winter, he is more than up for carrying the challenge to his counterpart...",
-          "link": "https://www.glasgowtimes.co.uk/sport/23642754.michael-beale-excited-take-challenge-brendan-rodgers-celtic/?ref=rss",
-          "publishedOn": "2023-07-08T21:30:00.000Z",
-          "wordCount": 9536,
-          "title": "Michael Beale excited to take the challenge to Brendan Rodgers' Celtic",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16977693/?type=og-image"
-        },
-        {
-          "id": "5fabdf790ab631ab3aa7776c5f5cb629",
-          "author": null,
-          "description": "Since the appointment of Martin O’Neill as manager on June 1 2000 their club has won 38 of the 69 domestic trophies available to them.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23643009.dermot-desmonds-celtic-influence-greater-manager/?ref=rss",
-          "publishedOn": "2023-07-08T21:30:00.000Z",
-          "wordCount": 10197,
-          "title": "Dermot Desmond's Celtic influence greater than any manager",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16978247/?type=og-image"
-        },
-        {
-          "id": "834af7a19ccf563268469417607371e0",
-          "author": null,
-          "description": "The 36-year-old is due to enter his third season as a Hoops player, having arrived two summers ago under Ange Postecoglou.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23642911.joe-hart-celtic-future-brendan-rodgers-questioned/?ref=rss",
-          "publishedOn": "2023-07-08T15:33:53.000Z",
-          "wordCount": 8656,
-          "title": "Joe Hart Celtic future under Brendan Rodgers questioned",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16977978/?type=og-image"
-        },
-        {
-          "id": "636ac2cab58cc66621d3ca93e5f4c4ce",
-          "author": null,
-          "description": "It's not every day a diehard Arsenal supporter wants a selfie with the Tottenham manager.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23642876.mates-laura-woods-ange-postecoglou-pose-selfie/?ref=rss",
-          "publishedOn": "2023-07-08T15:00:34.000Z",
-          "wordCount": 8636,
-          "title": "'Mates' Laura Woods & Ange Postecoglou pose for selfie",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16977877/?type=og-image"
-        },
-        {
-          "id": "25f455c75dc665ac057db018b5e7c26b",
-          "author": null,
-          "description": "The players returned for pre-season training this week, with the new boss casting his eye over the first team and academy stars.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23642726.brendan-rodgers-pleasant-celtic-surprise-upon-return/?ref=rss",
-          "publishedOn": "2023-07-08T12:55:04.000Z",
-          "wordCount": 9830,
-          "title": "Brendan Rodgers in 'pleasant' Celtic surprise upon return",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16977516/?type=og-image"
-        },
-        {
-          "id": "147738bc349bb98b071021196ef5e27f",
-          "author": null,
-          "description": "The 57-year-old officially started his tenure as the new Spurs manager last Saturday.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23642644.ange-postecoglou-instantly-won-spurs-players/?ref=rss",
-          "publishedOn": "2023-07-08T11:32:22.000Z",
-          "wordCount": 8692,
-          "title": "How Ange Postecoglou instantly won over Spurs' players",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16977412/?type=og-image"
-        },
-        {
-          "id": "60bd27a2364e266e3355ef89f589d61c",
-          "author": null,
-          "description": "Much like he did when he arrived at Celtic around two years ago, the Australian has got straight to work to implement his football ideals.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23642542.ange-postecoglous-ruthless-streak-spurs-revealed/?ref=rss",
-          "publishedOn": "2023-07-08T10:16:30.000Z",
-          "wordCount": 9761,
-          "title": "Ange Postecoglou's ruthless streak at Spurs revealed",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16977290/?type=og-image"
-        },
-        {
-          "id": "fae9d52f152d5da2fd5566b5df162902",
-          "author": null,
-          "description": "The South Korean star played for Gangwon on Friday night in a 1-1 draw against Gwangwu which did nothing to ease their relegation worries.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23642494.celtic-transfer-target-yang-hyun-jun-called-captain/?ref=rss",
-          "publishedOn": "2023-07-08T09:32:25.000Z",
-          "wordCount": 8608,
-          "title": "Celtic transfer target Yang Hyun-jun called out by captain",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16977243/?type=og-image"
-        },
-        {
-          "id": "d09c65c68625854ea9b0a0b4cc3ea5b4",
-          "author": null,
-          "description": "Celtic’s ‘significantly higher returns’ spell trouble for rebuilt Rangers in the season ahead",
-          "link": "https://www.glasgowtimes.co.uk/sport/23641828.celtics-significantly-higher-returns-mean-rebuilt-rangers/?ref=rss",
-          "publishedOn": "2023-07-08T06:12:00.000Z",
-          "wordCount": 9211,
-          "title": "What Celtic’s ‘significantly higher returns’ mean for rebuilt Rangers",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16975916/?type=og-image"
-        },
-        {
-          "id": "d173390e03af7c36bedb298fb54052ed",
-          "author": null,
-          "description": "The 21-year-old winger has arrived in Scotland to begin his Parkhead career.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23642059.marco-tilio-reveals-celtic-pinch-myself-moment-harry-kewell/?ref=rss",
-          "publishedOn": "2023-07-08T05:00:00.000Z",
-          "wordCount": 9297,
-          "title": "Marco Tilio reveals Celtic 'pinch myself' moment with Harry Kewell",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16976394/?type=og-image"
-        },
-        {
-          "id": "d173390e03af7c36bedb298fb54052ed",
-          "author": null,
-          "description": "The 21-year-old winger has arrived in Scotland to begin his Parkhead career.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23642059.marco-tilio-reveals-celtic-pinch-me-moment-involving-harry-kewell/?ref=rss",
-          "publishedOn": "2023-07-08T05:00:00.000Z",
-          "wordCount": 10389,
-          "title": "Marco Tilio reveals Celtic 'pinch myself' moment with Harry Kewell",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16976394/?type=og-image"
-        },
-        {
-          "id": "7ed541d7f1c1f066bb37add2b8dac78c",
-          "author": null,
-          "description": "Celtic new boy Marco Tilio revealed his dream move to Celtic Park was two years in the making.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23642026.marco-tilio-opens-celtic-transfer-pipeline-years/?ref=rss",
-          "publishedOn": "2023-07-07T16:44:21.000Z",
-          "wordCount": 8822,
-          "title": "Marco Tilio opens up on Celtic transfer that was in pipeline for years",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16976332/?type=og-image"
-        },
-        {
-          "id": "b855d806191712954193be1b23386839",
-          "author": null,
-          "description": "Brown had a successful first campaign as his side finished comfortably in League One after he decided to call time on his playing career.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23640793.celtic-hero-scott-brown-pens-new-fleetwood-town-deal/?ref=rss",
-          "publishedOn": "2023-07-07T12:11:03.000Z",
-          "wordCount": 8661,
-          "title": "Celtic hero Scott Brown pens new Fleetwood Town deal",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16974140/?type=og-image"
-        },
-        {
-          "id": "bd70a114184ddc29bd0777d0a2be3f7d",
-          "author": null,
-          "description": "Scotland international Tierney has suffered an irritating campaign.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23640298.kieran-tierney-arsenal-transfer-latest-frustration-detailed/?ref=rss",
-          "publishedOn": "2023-07-07T10:09:16.000Z",
-          "wordCount": 8694,
-          "title": "Kieran Tierney Arsenal transfer latest as 'frustration' detailed",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16973142/?type=og-image"
-        },
-        {
-          "id": "b0b5fff34c3ff5850858cc08c7e22bc3",
-          "author": null,
-          "description": "The England captain has been heavily linked with a transfer away from North London for some time.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23639916.harry-kane-spurs-future-clue-provided-ange-postecoglou/?ref=rss",
-          "publishedOn": "2023-07-07T08:57:57.000Z",
-          "wordCount": 9919,
-          "title": "Harry Kane Spurs future clue provided by Ange Postecoglou",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16972568/?type=og-image"
-        },
-        {
-          "id": "ee3b5dc91d359f255099a7c093be5c19",
-          "author": null,
-          "description": "The 36-year-old keeper has reflected on his relationship with the club's former manager.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23638653.hart-admits-celtic-emotional-rollercoaster-ange-exit/?ref=rss",
-          "publishedOn": "2023-07-07T05:00:00.000Z",
-          "wordCount": 9389,
-          "title": "Hart admits Celtic emotional rollercoaster after Ange exit",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16971081/?type=og-image"
-        },
-        {
-          "id": "00e369ac9f50e597b61e42aa833c2896",
-          "author": null,
-          "description": "The veteran goalkeeper revealed there's a buzz about Lennoxtown as pre-season gets underway.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23638448.joe-hart-reveals-celtic-first-impressions-brendan-rodgers/?ref=rss",
-          "publishedOn": "2023-07-06T21:30:00.000Z",
-          "wordCount": 8679,
-          "title": "Joe Hart reveals Celtic first impressions from Brendan Rodgers",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16970691/?type=og-image"
-        },
-        {
-          "id": "9176d67768b1be603227b18d605d1dcf",
-          "author": null,
-          "description": "The Portuguese winger joined Saudi giants Al-Ittihad in a deal worth £25million following two successful years in Glasgow.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23639161.celtic-issue-positive-financial-update-london-stock-exchange/?ref=rss",
-          "publishedOn": "2023-07-06T17:59:27.000Z",
-          "wordCount": 8722,
-          "title": "Celtic issue positive financial update to London Stock Exchange",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16971898/?type=og-image"
-        },
-        {
-          "id": "ba49e9f2c5c3009a9d5d5b115b578909",
-          "author": null,
-          "description": "REMEMBER when Chris Sutton was barred from performing his BT Sport duties at Ibrox because the club “could not guarantee his safety”? That was one, high-profile figure. A man who would have been surrounded by colleagues, in an enclosed part of the stadium, and whose profile means that any jeopardising of his safety would be glaringly obvious to any of the police and security personnel on duty. It would take a special kind of person to decide to jeopardise his safety.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23638665.answer-celtic-rangers-tickets-stand-off-staring-spfl-face/?ref=rss",
-          "publishedOn": "2023-07-06T16:00:00.000Z",
-          "wordCount": 9379,
-          "title": "Answer to Celtic and Rangers tickets stand-off staring SPFL in face",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16574520/?type=og-image"
-        },
-        {
-          "id": "c880a3f3f1b5dc8dbdbcd26e18f9dff3",
-          "author": null,
-          "description": "The winger has become a fan favourite since arriving in Glasgow.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23638792.daizen-maeda-pens-new-celtic-deal-rodgers-hails-exceptional-star/?ref=rss",
-          "publishedOn": "2023-07-06T15:34:52.000Z",
-          "wordCount": 9757,
-          "title": "Daizen Maeda pens new Celtic deal as Rodgers hails 'exceptional' star",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16971221/?type=og-image"
-        },
-        {
-          "id": "8030148edd6fbfed813283f8ffd32baa",
-          "author": null,
-          "description": "The Aussie boss knows all about Tottenham's star man after he netted against his Australian team back in 2015.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23638596.posteocoglou-reveals-cheeky-son-spurs-interaction-past-meeting/?ref=rss",
-          "publishedOn": "2023-07-06T14:52:49.000Z",
-          "wordCount": 9879,
-          "title": "Posteocoglou reveals cheeky Son Spurs interaction after past meeting",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16970954/?type=og-image"
-        },
-        {
-          "id": "604f6cbf21f54eac1188526a92b3338a",
-          "author": null,
-          "description": "The 30-year-old joined the Light Blues last month on a four-year contract after his release by Crystal Palace.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23638196.joe-hart-reveals-jack-butland-dialogue-celtic-vs-rangers-respect/?ref=rss",
-          "publishedOn": "2023-07-06T13:30:33.000Z",
-          "wordCount": 8818,
-          "title": "Joe Hart reveals Jack Butland dialogue in Celtic vs Rangers 'respect'",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16970266/?type=og-image"
-        },
-        {
-          "id": "e104df7542db171eeb08359c2852b8e7",
-          "author": null,
-          "description": "The Hoops goalkeeper is heading into the last year of his contract.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23638107.joe-hart-opens-celtic-future-cryptic-chess-move-clue/?ref=rss",
-          "publishedOn": "2023-07-06T13:09:13.000Z",
-          "wordCount": 8659,
-          "title": "Joe Hart opens up on Celtic future in cryptic 'chess move' clue",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16970165/?type=og-image"
-        },
-        {
-          "id": "a4918ab8125621e02b23b371e8697639",
-          "author": null,
-          "description": "The Scotland midfielder has been heavily linked with the Old Trafford exit door ahead of the new campaign.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23637580.scott-mctominay-offered-man-united-moises-caicedo-swap/?ref=rss",
-          "publishedOn": "2023-07-06T10:59:28.000Z",
-          "wordCount": 8646,
-          "title": "Scott McTominay 'offered' for Man United Moises Caicedo swap",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16968757/?type=og-image"
-        },
-        {
-          "id": "948d9dafeb0ffe885e59d58e7bcebfd9",
-          "author": null,
-          "description": "They have been linked with Maribor hitman Vipotnik and the Slovenian striker had plenty of interest after netting 23 goals last season.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23637435.celtic-lose-zan-vipotnik-transfer-offers-land/?ref=rss",
-          "publishedOn": "2023-07-06T10:34:00.000Z",
-          "wordCount": 8592,
-          "title": "Celtic lose out in Zan Vipotnik transfer as offers land",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16969045/?type=og-image"
-        },
-        {
-          "id": "59f013f84bdf59c869f38703298312de",
-          "author": null,
-          "description": "Signing a four-year deal, the 57-year-old became the first Australian to manage in England's top flight.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23637096.ange-postecoglou-sent-spurs-warning-former-player/?ref=rss",
-          "publishedOn": "2023-07-06T09:17:13.000Z",
-          "wordCount": 9799,
-          "title": "Ange Postecoglou sent Spurs warning by former player",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16968448/?type=og-image"
-        },
-        {
-          "id": "8f435c3ac8a103124006be0e1e7eb2a0",
-          "author": null,
-          "description": "The Northern Irishman came through Celtic's academy and has been on the club's books for nine years.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23636999.conor-hazard-celtic-transfer-near-plymouth-agree-fee/?ref=rss",
-          "publishedOn": "2023-07-06T08:50:44.000Z",
-          "wordCount": 8587,
-          "title": "Conor Hazard Celtic transfer 'near' as Plymouth agree fee",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16968344/?type=og-image"
-        },
-        {
-          "id": "9d2d330fac545d87f0e1fdd38ef3b245",
-          "author": null,
-          "description": "He has been training with Paul Hartley's Cove Rangers in his search for a new club.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23636853.ex-celtic-star-efe-ambrose-set-seventh-spfl-club/?ref=rss",
-          "publishedOn": "2023-07-06T08:12:02.000Z",
-          "wordCount": 8600,
-          "title": "Ex-Celtic star Efe Ambrose set for seventh SPFL club",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16968101/?type=og-image"
-        },
-        {
-          "id": "cd790b050935a606bfc08d1f54c2fdce",
-          "author": null,
-          "description": "Should the move go through, Rangers will be the first to propose changes to the 'no away fans' stand-off between the clubs.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23636800.rangers-to-offer-celtic-away-tickets-first-derby-clash/?ref=rss",
-          "publishedOn": "2023-07-06T07:44:56.000Z",
-          "wordCount": 8684,
-          "title": "Rangers 'to offer' Celtic away tickets for first derby clash",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16968043/?type=og-image"
-        },
-        {
-          "id": "7507d61edf8ad9761bc88a567331c93a",
-          "author": null,
-          "description": "He featured at the World Cup for Switzerland last year and has been a regular for Young Boys for some time.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23636750.fabian-rieder-celtic-wow-factor-amid-15m-transfer-fee/?ref=rss",
-          "publishedOn": "2023-07-06T07:09:52.000Z",
-          "wordCount": 9736,
-          "title": "Fabian Rieder to Celtic 'wow' factor amid £15m transfer fee",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16968012/?type=og-image"
-        },
-        {
-          "id": "6f21a8c3357c1bec05ce3c33ac39b8ea",
-          "author": null,
-          "description": "It emerged yesterday that the young striker, 21, looks set to finally get his wish of a move to the Scottish champions.",
-          "link": "https://www.glasgowtimes.co.uk/sport/23636724.yang-hyun-jun-celtic-transfer-fee-revealed-move-now/?ref=rss",
-          "publishedOn": "2023-07-06T06:42:47.000Z",
-          "wordCount": 8600,
-          "title": "Yang Hyun-jun Celtic transfer fee revealed with move now on",
-          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16967986/?type=og-image"
+          "id": "https://celticfanzine.com/?p=58073",
+          "author": "celtic",
+          "description": "More than 90 Minutes Issue 127. The End of Ange and the second coming of Brendan is on sale now in both print and digital format. It’s another 48-page packed issue of the Celtic Fanzine which features Ange (The End) on the cover as he leaves Celtic for Spurs after delivering 5 out of 6 […]\nThe post More than 90 Minutes Issue 127 appeared first on Celtic Fanzine.",
+          "link": "https://celticfanzine.com/more-than-90-minutes-issue-127/",
+          "publishedOn": "2023-07-07T16:31:34.000Z",
+          "wordCount": 1978,
+          "title": "More than 90 Minutes Issue 127",
+          "imageUrl": "https://celticfanzine.com/wp-content/uploads/127-website-.png"
         }
       ]
     }
