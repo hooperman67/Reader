@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-07-10T09:19:55.442Z</updated>
+    <updated>2023-07-10T12:39:14.633Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Callum McGregor handed bumper new contract in 'amazing' news for club and player]]></title>
+        <id>4213223</id>
+        <link href="https://www.scotsman.com/sport/football/celtic/callum-mcgregor-handed-bumper-new-contract-in-amazing-news-for-club-and-player-4213223"/>
+        <updated>2023-07-10T10:39:21.000Z</updated>
+        <summary type="html"><![CDATA[Celtic captain Callum McGregor has agreed a new long-term contract with the current Premiership champions.]]></summary>
+        <author>
+            <name>Mark Atkinson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Callum McGregor pens new bumper Celtic deal]]></title>
+        <id>779bc6d623aa09df5a389e253cd43b55</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23644731.callum-mcgregor-pens-new-bumper-celtic-deal/?ref=rss"/>
+        <updated>2023-07-10T10:34:39.000Z</updated>
+        <summary type="html"><![CDATA[Callum McGregor has penned a new long-term contract at Celtic.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scott McTominay transfer latest as Celtic could face Mourinho fight]]></title>
+        <id>f8e613e9c551c6b2a205b59c2b63696d</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23644712.scott-mctominay-transfer-latest-celtic-face-mourinho-fight/?ref=rss"/>
+        <updated>2023-07-10T10:30:03.000Z</updated>
+        <summary type="html"><![CDATA[Manchester United's Scott McTominay is reportedly a target of his old Red Devils boss Jose Mourinho, with the Portuguese gaffer keen to take McTominay to Italian giants Rome.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When is Ange Postecoglou's first Spurs press conference?]]></title>
+        <id>41cf181153582a6139c2593f1d9de2a9</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23644501.ange-postecoglous-first-spurs-press-conference/?ref=rss"/>
+        <updated>2023-07-10T09:37:56.000Z</updated>
+        <summary type="html"><![CDATA[Ange Postecogloun will face the media for the first time since his move to Celtic on Monday.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jota could be joined by €100m mega Al-Ittihad transfer target]]></title>
         <id>afeb058aab74932b5d269ba8e05c8b0c</id>

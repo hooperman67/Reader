@@ -6,6 +6,16 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4213223",
+          "author": "Mark Atkinson",
+          "description": "Celtic captain Callum McGregor has agreed a new long-term contract with the current Premiership champions.",
+          "link": "https://www.scotsman.com/sport/football/celtic/callum-mcgregor-handed-bumper-new-contract-in-amazing-news-for-club-and-player-4213223",
+          "publishedOn": "2023-07-10T10:39:21.000Z",
+          "wordCount": null,
+          "title": "Callum McGregor handed bumper new contract in 'amazing' news for club and player",
+          "imageUrl": null
+        },
+        {
           "id": "4212750",
           "author": "Mark Atkinson",
           "description": "Celtic transfer target Yang Hyun-jun is concerned that the Scottish champions “won’t wait forever” in their bid to sign the South Korean midfielder.",
@@ -156,8 +166,38 @@
     {
       "title": "Glasgow Times | Celtic",
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
-      "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
+      "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
+        {
+          "id": "779bc6d623aa09df5a389e253cd43b55",
+          "author": null,
+          "description": "Callum McGregor has penned a new long-term contract at Celtic.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23644731.callum-mcgregor-pens-new-bumper-celtic-deal/?ref=rss",
+          "publishedOn": "2023-07-10T10:34:39.000Z",
+          "wordCount": 8831,
+          "title": "Callum McGregor pens new bumper Celtic deal",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16981391/?type=og-image"
+        },
+        {
+          "id": "f8e613e9c551c6b2a205b59c2b63696d",
+          "author": null,
+          "description": "Manchester United's Scott McTominay is reportedly a target of his old Red Devils boss Jose Mourinho, with the Portuguese gaffer keen to take McTominay to Italian giants Rome.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23644712.scott-mctominay-transfer-latest-celtic-face-mourinho-fight/?ref=rss",
+          "publishedOn": "2023-07-10T10:30:03.000Z",
+          "wordCount": 9727,
+          "title": "Scott McTominay transfer latest as Celtic could face Mourinho fight",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16981031/?type=og-image"
+        },
+        {
+          "id": "41cf181153582a6139c2593f1d9de2a9",
+          "author": null,
+          "description": "Ange Postecogloun will face the media for the first time since his move to Celtic on Monday.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23644501.ange-postecoglous-first-spurs-press-conference/?ref=rss",
+          "publishedOn": "2023-07-10T09:37:56.000Z",
+          "wordCount": 9589,
+          "title": "When is Ange Postecoglou's first Spurs press conference?",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16980871/?type=og-image"
+        },
         {
           "id": "afeb058aab74932b5d269ba8e05c8b0c",
           "author": null,
