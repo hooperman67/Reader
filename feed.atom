@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-07-10T12:39:14.633Z</updated>
+    <updated>2023-07-10T15:20:19.252Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Donny van de Beek Celtic summer transfer links emerge]]></title>
+        <id>bca1bc534d34abaff4b7ef51dcb750e9</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23645867.donny-van-de-beek-celtic-summer-transfer-links-emerge/?ref=rss"/>
+        <updated>2023-07-10T14:46:19.000Z</updated>
+        <summary type="html"><![CDATA[The midfielder has endured a frustrating time at Manchester United since joining the club three years ago.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ange Postecoglou expects Celtic to thrive under Brendan Rodgers]]></title>
+        <id>07609c6069a76a225b3b0383087855a7</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23645777.ange-postecoglou-expects-celtic-thrive-brendan-rodgers/?ref=rss"/>
+        <updated>2023-07-10T14:28:33.000Z</updated>
+        <summary type="html"><![CDATA[Ange Postecoglou expects Celtic to continue thriving under Brendan Rodgers]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ange Postecoglou in Harry Kane Spurs question quip]]></title>
+        <id>8f1fff899c23ae6cd5d3c9852ba9c26f</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23645418.ange-postecoglou-harry-kane-spurs-question-quip/?ref=rss"/>
+        <updated>2023-07-10T13:16:04.000Z</updated>
+        <summary type="html"><![CDATA[Inevitably, the 57-year-old fielded questions from journalists about club captain Kane, with doubts growing over the striker's future.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postecoglou bristles at Celtic to Tottenham 'step up' poser]]></title>
+        <id>ad50239155c165f2af032a45a5a70dfe</id>
+        <link href="https://www.glasgowtimes.co.uk/sport/23645109.postecoglou-bristles-celtic-tottenham-step-up-poser/?ref=rss"/>
+        <updated>2023-07-10T13:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Ange Postecoglou brushed off a question on the step up from working in Scotland to the Premier League.]]></summary>
+        <author>
+            <name>Glasgow Times | Celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Callum McGregor handed bumper new contract in 'amazing' news for club and player]]></title>
         <id>4213223</id>

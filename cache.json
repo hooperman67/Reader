@@ -169,6 +169,46 @@
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/celtic/",
       "articles": [
         {
+          "id": "bca1bc534d34abaff4b7ef51dcb750e9",
+          "author": null,
+          "description": "The midfielder has endured a frustrating time at Manchester United since joining the club three years ago.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23645867.donny-van-de-beek-celtic-summer-transfer-links-emerge/?ref=rss",
+          "publishedOn": "2023-07-10T14:46:19.000Z",
+          "wordCount": 9746,
+          "title": "Donny van de Beek Celtic summer transfer links emerge",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16983233/?type=og-image"
+        },
+        {
+          "id": "07609c6069a76a225b3b0383087855a7",
+          "author": null,
+          "description": "Ange Postecoglou expects Celtic to continue thriving under Brendan Rodgers",
+          "link": "https://www.glasgowtimes.co.uk/sport/23645777.ange-postecoglou-expects-celtic-thrive-brendan-rodgers/?ref=rss",
+          "publishedOn": "2023-07-10T14:28:33.000Z",
+          "wordCount": 8525,
+          "title": "Ange Postecoglou expects Celtic to thrive under Brendan Rodgers",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16983486/?type=og-image"
+        },
+        {
+          "id": "8f1fff899c23ae6cd5d3c9852ba9c26f",
+          "author": null,
+          "description": "Inevitably, the 57-year-old fielded questions from journalists about club captain Kane, with doubts growing over the striker's future.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23645418.ange-postecoglou-harry-kane-spurs-question-quip/?ref=rss",
+          "publishedOn": "2023-07-10T13:16:04.000Z",
+          "wordCount": 9845,
+          "title": "Ange Postecoglou in Harry Kane Spurs question quip",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16982583/?type=og-image"
+        },
+        {
+          "id": "ad50239155c165f2af032a45a5a70dfe",
+          "author": null,
+          "description": "Ange Postecoglou brushed off a question on the step up from working in Scotland to the Premier League.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23645109.postecoglou-bristles-celtic-tottenham-step-up-poser/?ref=rss",
+          "publishedOn": "2023-07-10T13:05:00.000Z",
+          "wordCount": 8702,
+          "title": "Postecoglou bristles at Celtic to Tottenham 'step up' poser",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16982560/?type=og-image"
+        },
+        {
           "id": "779bc6d623aa09df5a389e253cd43b55",
           "author": null,
           "description": "Callum McGregor has penned a new long-term contract at Celtic.",
