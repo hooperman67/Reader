@@ -6,6 +6,26 @@
       "siteUrl": "https://www.scotsman.com/sport/football/celtic",
       "articles": [
         {
+          "id": "4212750",
+          "author": "Mark Atkinson",
+          "description": "Celtic transfer target Yang Hyun-jun is concerned that the Scottish champions “won’t wait forever” in their bid to sign the South Korean midfielder.",
+          "link": "https://www.scotsman.com/sport/football/celtic/celtic-wont-wait-forever-i-want-to-go-so-much-transfer-target-fears-dream-move-may-never-happen-4212750",
+          "publishedOn": "2023-07-10T08:39:24.000Z",
+          "wordCount": null,
+          "title": "'Celtic won't wait forever - I want to go so much': Transfer target fears dream move may never happen",
+          "imageUrl": null
+        },
+        {
+          "id": "4212679",
+          "author": "Mark Atkinson",
+          "description": "We take a look at what’s making the transfer window headlines this Monday in Scottish football and beyond.",
+          "link": "https://www.scotsman.com/sport/football/scottish-transfers-rangers-man-in-demand-celtic-get-boost-man-city-kid-not-going-to-hibs-potential-ange-blow-4212679",
+          "publishedOn": "2023-07-10T07:42:46.000Z",
+          "wordCount": null,
+          "title": "Scottish transfers: Rangers man in demand, Celtic get boost, Man City kid not going to Hibs, potential Ange blow",
+          "imageUrl": null
+        },
+        {
           "id": "4212318",
           "author": "Mark Atkinson",
           "description": "With many teams now back in pre-season training and looking ahead to the upcoming 2023/24 campaign, transfer activity is set to be turned up a notch over the coming weeks.",
@@ -138,6 +158,46 @@
       "feedUrl": "https://www.glasgowtimes.co.uk/sport/celtic/rss/",
       "siteUrl": "https://www.glasgowtimes.co.uk/sport/Celtic/",
       "articles": [
+        {
+          "id": "afeb058aab74932b5d269ba8e05c8b0c",
+          "author": null,
+          "description": "Pogba is currently with Juventus, but he is exploring his options this summer ahead of a possible move.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23644354.jota-joined-eur100m-mega-al-ittihad-transfer-target/?ref=rss",
+          "publishedOn": "2023-07-10T08:58:01.000Z",
+          "wordCount": 8778,
+          "title": "Jota could be joined by €100m mega Al-Ittihad transfer target",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16856776/?type=og-image"
+        },
+        {
+          "id": "51d572a57f2a31d3ecd1c282ae03c076",
+          "author": null,
+          "description": "Kieran Tierney has been linked with a transfer exit from Arsenal in the summer after limited game time at the Emirates.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23644150.tierney-not-arteta-player-arsenal-transfer-exit-links-persist/?ref=rss",
+          "publishedOn": "2023-07-10T07:55:39.000Z",
+          "wordCount": 8611,
+          "title": "Tierney 'not Arteta player' as Arsenal transfer exit links persist",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16980590/?type=og-image"
+        },
+        {
+          "id": "c7f0f54f053423849ad081bc712984a3",
+          "author": null,
+          "description": "Cameron Carter-Vickers is reportedly ahead of schedule in his rehab from a knee injury.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23644076.carter-vickers-celtic-planned-injury-return-timeline-revealed/?ref=rss",
+          "publishedOn": "2023-07-10T07:07:38.000Z",
+          "wordCount": 9654,
+          "title": "Carter-Vickers Celtic planned injury return timeline revealed",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16980533/?type=og-image"
+        },
+        {
+          "id": "10c92f9298da9642ff0e2c05b545b989",
+          "author": null,
+          "description": "IAN Cathro believes the clarity of Ange Postecoglou’s vision will help to ensure the former Celtic manager is successful at Spurs.",
+          "link": "https://www.glasgowtimes.co.uk/sport/23643537.ex-spurs-assistant-manager-ange-postecoglous-vital-quality/?ref=rss",
+          "publishedOn": "2023-07-10T06:03:00.000Z",
+          "wordCount": 9038,
+          "title": "Ex-Spurs assistant manager on Ange Postecoglou's vital quality",
+          "imageUrl": "https://www.glasgowtimes.co.uk/resources/images/16979444/?type=og-image"
+        },
         {
           "id": "6730e0be55db50d1ccec14f4b64a9406",
           "author": null,
