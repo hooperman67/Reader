@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-07-10T03:30:03.546Z</updated>
+    <updated>2023-07-10T06:25:54.229Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
@@ -484,36 +484,6 @@
         <summary type="html"><![CDATA[It emerged yesterday that the young striker, 21, looks set to finally get his wish of a move to the Scottish champions.]]></summary>
         <author>
             <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yang to Celtic transfer latest as Gangwon to 'reassess offer']]></title>
-        <id>22e4da93d73160dc962ae0e9004dccb6</id>
-        <link href="https://www.glasgowtimes.co.uk/sport/23636509.yang-celtic-transfer-latest-gangwon-reassess-offer/?ref=rss"/>
-        <updated>2023-07-05T18:07:54.000Z</updated>
-        <summary type="html"><![CDATA[Yang Hyun-jun is reportedly locked in talks with Gangwon chiefs over a transfer to Celtic.]]></summary>
-        <author>
-            <name>Glasgow Times | Celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scottish transfers: Bid for Rangers star, Celtic in signing boost, Hibs to land Hearts-linked midfielder]]></title>
-        <id>4208812</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/scottish-transfers-bid-for-rangers-star-celtic-in-signing-boost-hibs-to-land-hearts-linked-midfielder-4208812"/>
-        <updated>2023-07-05T15:40:52.000Z</updated>
-        <summary type="html"><![CDATA[The Scottish Premiership season will get under way in just a month’s time. Plenty is expected to happen between now and then with clubs ramping up their on-field preparation and still looking to get key deals done in the transfer market.]]></summary>
-        <author>
-            <name>Joel Sked</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aberdeen v Celtic fixture change after Sky Sports selection - new date and kick-off time]]></title>
-        <id>4208797</id>
-        <link href="https://www.scotsman.com/sport/football/celtic/aberdeen-v-celtic-fixture-change-after-sky-sports-selection-new-date-and-kick-off-time-4208797"/>
-        <updated>2023-07-05T15:34:44.000Z</updated>
-        <summary type="html"><![CDATA[Aberdeen’s opening home match of the season against Celtic has been moved after being selected for live Sky Sports coverage.]]></summary>
-        <author>
-            <name>Joel Sked</name>
         </author>
     </entry>
 </feed>
