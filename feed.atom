@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-07-23T22:08:51.160Z</updated>
+    <updated>2023-07-24T00:59:13.172Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic Invincible hero set to join Steven Gerrard’s team]]></title>
+        <id>https://thecelticbhoys.com/?p=42865</id>
+        <link href="https://thecelticbhoys.com/2023/07/23/celtic-invincible-steven-gerrard-team/"/>
+        <updated>2023-07-23T22:30:39.000Z</updated>
+        <summary type="html"><![CDATA[Celtic fans are not fond of Steven Gerrard and it is pretty simple to understand why. The Liverpool legend spent several years managing the Rangers. And while he did only manage to win one trophy during that period of time, it was a big one, as his team were able to stop the Hoops from […]
+Celtic Invincible hero set to join Steven Gerrard’s team - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
+        <author>
+            <name>Sourav Mahanty</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Transfer insider delivers brilliant Tete to Celtic claim]]></title>
         <id>https://thecelticbhoys.com/?p=42861</id>
@@ -1478,27 +1489,6 @@ The post Brendan Rodgers reacts as Celtic lose Japan Tour opener to Yokohama F M
         <summary type="html"><![CDATA[YOKOHAMA F MARINOS 6 CELTIC 4 CELTIC lost out in 10-goal blitz as they were hit for six by their Japanese hosts in the Nissan Stadium. The Hoops were leading 3-2 at the interval following a superb hat-trick from Daizen Maeda before Brendan Rodgers’ men were caught up in an extraordinary second-half whirlwind. The defence [...]]]></summary>
         <author>
             <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fabrizio Romano confirms Celtic interest in €20m player]]></title>
-        <id>https://thecelticbhoys.com/?p=42746</id>
-        <link href="https://thecelticbhoys.com/2023/07/19/fabrizio-romano-celtic-20m-player/"/>
-        <updated>2023-07-19T12:00:34.000Z</updated>
-        <summary type="html"><![CDATA[This is a very important summer transfer window for Celtic. With Ange Postecoglou leaving the club and Brendan Rodgers replacing him in the Parkhead hot seat, the Hoops need to make sure that they back the Northern Irishman to reshape and rebuild the squad according to his vision and plans. Till now, they have completed […]
-Fabrizio Romano confirms Celtic interest in €20m player - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
-        <author>
-            <name>Sourav Mahanty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Important commercial day]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=110008</id>
-        <link href="https://www.celticquicknews.co.uk/important-commercial-day/"/>
-        <updated>2023-07-19T11:01:08.000Z</updated>
-        <summary type="html"><![CDATA[5,800 miles is a long way to go for two football games but that’s the distance from Celtic Park to the Nissan Stadium, where Celtic are currently playing Yokohama F. Marinos.  It has been a great trip so far for our sizeable Japanese contingent, while the commercial department have been able to put down some [...]]]></summary>
-        <author>
-            <name>Paul67</name>
         </author>
     </entry>
 </feed>
