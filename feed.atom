@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-07-26T22:08:52.855Z</updated>
+    <updated>2023-07-27T00:52:13.703Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[All Hail James Forrest – Etims Podcast]]></title>
+        <id>https://etims.net/?p=18431</id>
+        <link href="https://etims.net/?p=18431"/>
+        <updated>2023-07-26T22:33:13.000Z</updated>
+        <summary type="html"><![CDATA[Etims get together to discuss: The surreall Pre-Season which has seen Brendan return as if he was never away. Is he Sir Keir Starmer or…]]></summary>
+        <author>
+            <name>Desi Mond</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic reportedly make new offer for Dominik Livakovic]]></title>
         <id>https://thecelticbhoys.com/?p=42946</id>
@@ -1473,38 +1483,6 @@ The post Expert Tim Vickery delivers verdict on Celtic's "exciting" South Americ
         <summary type="html"><![CDATA[MATT O’RILEY admitted it had been a challenge, but ultimately “very enjoyable” as Celtic finished their two-game tour of Japan with a 1-0 win over Gamba Osaka. The stylish midfielder came on as a second-half substitute as returning manager Brendan Rodgers rang the changes to make sure the players got crucial game time ahead of [...]]]></summary>
         <author>
             <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GAMBA OSAKA 0 CELTIC 1: BERNABEI BREAKS OSAKA BARRIER]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=110138</id>
-        <link href="https://www.celticquicknews.co.uk/gamba-osaka-0-celtic-1-bernabei-breaks-osaka-barrier/"/>
-        <updated>2023-07-22T12:13:28.000Z</updated>
-        <summary type="html"><![CDATA[GAMBA OSAKA 0 CELTIC 1 ALEXANDRO BERNABEI proved to be the unlikely matchwinner as Celtic brought down the curtain on their week-long tour of Japan in Osaka. The Argentinian defender, a second-half substitute, is hardly a noted goalscorer, but you can’t fault the player’s timing. The game was heading for a scoreless stalemate with just [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic morning announcement goes under the radar]]></title>
-        <id>https://thecelticbhoys.com/?p=42820</id>
-        <link href="https://thecelticbhoys.com/2023/07/22/celtic-morning-announcement-goes-radar/"/>
-        <updated>2023-07-22T12:00:15.000Z</updated>
-        <summary type="html"><![CDATA[Celtic are in the middle of a very important summer transfer window. With Ange Postecoglou leaving the club for Tottenham Hotspur, Brendan Rodgers has been brought back for a second stint in the Parkhead hot seat. The Hoops might have enjoyed a lot of success over the past two seasons, but they will need to […]
-Celtic morning announcement goes under the radar - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
-        <author>
-            <name>Sourav Mahanty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two XIs, first glimpse of Holm; The talking points after Celtic beat Gamba Osaka]]></title>
-        <id>https://www.67hailhail.com/?p=168159</id>
-        <link href="https://www.67hailhail.com/match/two-xis-first-glimpse-of-holm-the-talking-points-after-celtic-beat-gamba-osaka/"/>
-        <updated>2023-07-22T11:59:41.000Z</updated>
-        <summary type="html"><![CDATA[Celtic have finished their Japan tour on a high with a 1-0 win over J-League outfit Gamba Osaka. Alexandro Bernabei was the goal hero, netting...
-The post Two XIs, first glimpse of Holm; The talking points after Celtic beat Gamba Osaka appeared first on 67 Hail Hail.]]></summary>
-        <author>
-            <name>John McGinley</name>
         </author>
     </entry>
 </feed>

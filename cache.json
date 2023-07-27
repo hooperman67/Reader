@@ -274,16 +274,6 @@
           "wordCount": 4188,
           "title": "‘VERY ENJOYABLE,’ ADMITS O’RILEY AFTER JAPAN ‘CHALLENGE’",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/07/MATT-ORILEY-JAPAN-FEATURED.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=110138",
-          "author": "CQN Magazine",
-          "description": "GAMBA OSAKA 0 CELTIC 1 ALEXANDRO BERNABEI proved to be the unlikely matchwinner as Celtic brought down the curtain on their week-long tour of Japan in Osaka. The Argentinian defender, a second-half substitute, is hardly a noted goalscorer, but you can’t fault the player’s timing. The game was heading for a scoreless stalemate with just [...]",
-          "link": "https://www.celticquicknews.co.uk/gamba-osaka-0-celtic-1-bernabei-breaks-osaka-barrier/",
-          "publishedOn": "2023-07-22T12:13:28.000Z",
-          "wordCount": 4347,
-          "title": "GAMBA OSAKA 0 CELTIC 1: BERNABEI BREAKS OSAKA BARRIER",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/07/ALEXANDRO-BERNABEI-KYOGO-FURUHASHI-FEATURED-GG.png"
         }
       ]
     },
@@ -571,16 +561,6 @@
           "wordCount": 1999,
           "title": "Sky Sports man delivers £4 million Celtic transfer update",
           "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1355573087-scaled.jpeg"
-        },
-        {
-          "id": "https://thecelticbhoys.com/?p=42820",
-          "author": "Sourav Mahanty",
-          "description": "Celtic are in the middle of a very important summer transfer window. With Ange Postecoglou leaving the club for Tottenham Hotspur, Brendan Rodgers has been brought back for a second stint in the Parkhead hot seat. The Hoops might have enjoyed a lot of success over the past two seasons, but they will need to […]\nCeltic morning announcement goes under the radar - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community",
-          "link": "https://thecelticbhoys.com/2023/07/22/celtic-morning-announcement-goes-radar/",
-          "publishedOn": "2023-07-22T12:00:15.000Z",
-          "wordCount": 1968,
-          "title": "Celtic morning announcement goes under the radar",
-          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1464769707.jpeg"
         }
       ]
     },
@@ -588,7 +568,23 @@
       "title": "eTims",
       "feedUrl": "http://etims.net/?feed=rss2",
       "siteUrl": "https://etims.net",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://etims.net/?p=18431",
+          "author": "Desi Mond",
+          "description": "Etims get together to discuss: The surreall Pre-Season which has seen Brendan return as if he was never away. Is he Sir Keir Starmer or…",
+          "link": "https://etims.net/?p=18431",
+          "publishedOn": "2023-07-26T22:33:13.000Z",
+          "wordCount": 2589,
+          "title": "All Hail James Forrest – Etims Podcast",
+          "enclosure": {
+            "url": "https://api.spreaker.com/v2/episodes/56236778/download.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://etims.net/wp-content/uploads/2015/11/Forrest-Goal-v-Aberdeen-celebration-Oct-2015.jpg"
+        }
+      ]
     },
     {
       "title": "The Celtic Underground",
@@ -1360,16 +1356,6 @@
           "wordCount": 1254,
           "title": "Expert Tim Vickery delivers verdict on Celtic's \"exciting\" South American transfer target",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/07/GettyImages-1236759841-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=168159",
-          "author": "John McGinley",
-          "description": "Celtic have finished their Japan tour on a high with a 1-0 win over J-League outfit Gamba Osaka. Alexandro Bernabei was the goal hero, netting...\nThe post Two XIs, first glimpse of Holm; The talking points after Celtic beat Gamba Osaka appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/match/two-xis-first-glimpse-of-holm-the-talking-points-after-celtic-beat-gamba-osaka/",
-          "publishedOn": "2023-07-22T11:59:41.000Z",
-          "wordCount": 1613,
-          "title": "Two XIs, first glimpse of Holm; The talking points after Celtic beat Gamba Osaka",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/07/GettyImages-1546861503-scaled.jpg"
         }
       ]
     },
