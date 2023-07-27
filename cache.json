@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=110315",
+          "author": "CQN Magazine",
+          "description": "CHRIS SUTTON, Celtic’s former goal hero, appears to have taken another sideswipe in his ongoing war of words with Toss Cantwell. The ex-Norwich City players have been involved in a verbal spat on social media since Michael Beale signed the one-time much-vaunted midfielder for the Ibrox club in January. Sutton seems to have opened fire [...]",
+          "link": "https://www.celticquicknews.co.uk/for-todds-sake-cut-it-out/",
+          "publishedOn": "2023-07-27T07:19:59.000Z",
+          "wordCount": 4059,
+          "title": "FOR TODD’S SAKE, CUT IT OUT",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/07/CHRIS-SUTTON-DIVE-FEATURED.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=110297",
           "author": "CQN Magazine",
           "description": "MAIK NAWROCKI wants to be a big noise at Celtic after becoming Brendan Rodgers’ fifth pre-season signing. The towering Polish centre-back sealed his anticipated five-year deal from Legia Warsaw yesterday – and he can’t wait to get started in his new home. Nawrocki is particularly looking forward to Champions League nights at Parkhead after admitting [...]",
@@ -561,16 +571,6 @@
           "wordCount": 2079,
           "title": "Ramon Vega believes £5m Celtic signing is not a good player",
           "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1474659744-scaled.jpeg"
-        },
-        {
-          "id": "https://thecelticbhoys.com/?p=42830",
-          "author": "Sourav Mahanty",
-          "description": "Ange Postecoglou was a massive success as Celtic manager. When the appointment was made, not many people gave him a chance. After all, he was pretty much an unknown in European football despite of his successes in Japan and Australia. It did not take him too long to prove himself at Parkhead though. Ultimately, he […]\nAnge Postecoglou appears to take dig at Celtic player - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community",
-          "link": "https://thecelticbhoys.com/2023/07/22/ange-postecoglou-dig-celtic-player/",
-          "publishedOn": "2023-07-22T19:04:40.000Z",
-          "wordCount": 2085,
-          "title": "Ange Postecoglou appears to take dig at Celtic player",
-          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1540247922-scaled.jpeg"
         }
       ]
     },
@@ -607,6 +607,26 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=168825",
+          "author": "Patrick Sinat",
+          "description": "Fran Alonso looks to continue the success he’s had at Celtic after a 4-0 win over Partick Thistle sent his side into the Glasgow Cup...\nThe post Celtic Women to face Rangers as Fran Alonso's side book place in Glasgow Cup Final appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/celtic-fc-women/celtic-women-to-face-rangers-as-fran-alonsos-side-book-place-in-glasgow-cup-final/",
+          "publishedOn": "2023-07-27T08:10:00.000Z",
+          "wordCount": 1277,
+          "title": "Celtic Women to face Rangers as Fran Alonso's side book place in Glasgow Cup Final",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/04/GettyImages-1285804032-1-scaled-e1682265220218.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=168818",
+          "author": "John McGinley",
+          "description": "New signing Maik Nawrocki has told reporters he was ‘shocked’ by the size of Celtic Park on his first visit to the stadium but is...\nThe post New signing left blown away by first Celtic Park visit appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/new-signing-left-blown-away-by-first-celtic-park-visit/",
+          "publishedOn": "2023-07-27T06:40:00.000Z",
+          "wordCount": 1259,
+          "title": "New signing left blown away by first Celtic Park visit",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/07/GettyImages-868898398-1-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=168813",
           "author": "John McGinley",
@@ -1374,6 +1394,16 @@
       "feedUrl": "https://celticfanzine.com/category/news/feed/",
       "siteUrl": "https://celticfanzine.com/category/news/",
       "articles": [
+        {
+          "id": "https://celticfanzine.com/?p=58184",
+          "author": "celtic",
+          "description": "Celtic arrive this weekend to the capital. It’s been 5 years since Celtic took their side to Dublin with them taking on Shamrock Rovers at Tallaght Stadium and they return this time again with the same manager something I don’t think many would of expected. Brendan Rodgers side will take on Wolves in front of […]\nThe post Celtic in the Fair City appeared first on Celtic Fanzine.",
+          "link": "https://celticfanzine.com/celtic-in-the-fair-city/",
+          "publishedOn": "2023-07-27T07:18:21.000Z",
+          "wordCount": 2275,
+          "title": "Celtic in the Fair City",
+          "imageUrl": "https://celticfanzine.com/wp-content/uploads/CELTIC-DUBLIN-WEB-.png"
+        },
         {
           "id": "https://celticfanzine.com/?p=58179",
           "author": "celtic",
