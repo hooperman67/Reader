@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-08-03T22:08:54.206Z</updated>
+    <updated>2023-08-04T00:56:21.300Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Brendan Rodgers impressed by fringe Celtic player]]></title>
+        <id>https://thecelticbhoys.com/?p=43129</id>
+        <link href="https://thecelticbhoys.com/2023/08/03/brendan-rodgers-impressed-fringe-celtic-player/"/>
+        <updated>2023-08-03T23:00:45.000Z</updated>
+        <summary type="html"><![CDATA[Plenty of debate is going on about a lot of players’ future at Celtic right now. That has been the case for a while. The next few weeks though could be a real sliding doors period for most of them. And one name who appears to fall under that category is Scottish international midfielder, David […]
+Brendan Rodgers impressed by fringe Celtic player - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
+        <author>
+            <name>StevieMac</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic hero makes Carl Starfelt claim after new signing]]></title>
         <id>https://thecelticbhoys.com/?p=43139</id>
@@ -1581,38 +1592,6 @@ The post Athletic Club's brilliant Celtic tribute ahead of James Forrest testimo
 The post Chris Sutton believes new summer signing could give Celtic tactical options for Europe appeared first on 67 Hail Hail.]]></summary>
         <author>
             <name>Patrick Sinat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Egyptian player confirms Celtic interest in signing him]]></title>
-        <id>https://thecelticbhoys.com/?p=43018</id>
-        <link href="https://thecelticbhoys.com/2023/07/30/egyptian-player-confirms-celtic-interest/"/>
-        <updated>2023-07-30T11:30:30.000Z</updated>
-        <summary type="html"><![CDATA[Celtic have already made quite a few additions this summer. There were rumours about potential marquee signings but till now, the club have stuck to bringing in highly-rated youngsters from around the globe. The five players who the Hoops have signed in the ongoing transfer window are Odin Thiago Holm, Marco Tilio, Yang Hyun-jun, Kwon […]
-Egyptian player confirms Celtic interest in signing him - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
-        <author>
-            <name>Sourav Mahanty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Celtic were very interested" - Reported target addresses Parkhead summer transfer rumour]]></title>
-        <id>https://www.67hailhail.com/?p=169290</id>
-        <link href="https://www.67hailhail.com/transfers/mohamed-reda-addresses-celtic-summer-transfer-rumour/"/>
-        <updated>2023-07-30T10:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Brendan Rodgers has already been hard at work adding fresh faces to the Celtic squad this summer. However, the Hoops boss is tipped to add...
-The post "Celtic were very interested" - Reported target addresses Parkhead summer transfer rumour appeared first on 67 Hail Hail.]]></summary>
-        <author>
-            <name>Patrick Sinat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WAIT FOR IT: CELTIC IN VIAPLAY LEAGUE CUP DRAW TODAY]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=110419</id>
-        <link href="https://www.celticquicknews.co.uk/wait-for-it-celtic-in-viaplay-league-cup-draw-today/"/>
-        <updated>2023-07-30T10:35:46.000Z</updated>
-        <summary type="html"><![CDATA[HOLDERS Celtic will discover their Viaplay League Cup opponents today when the draw is made after the Dundee v Inverness Caley Thistle at Dens Park with a 3pm kick-off. Brendan Rodgers’ side, who have won the competition in SIX of the last SEVEN seasons, enter the tourney at the knock-out stage along with the other [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
         </author>
     </entry>
 </feed>
