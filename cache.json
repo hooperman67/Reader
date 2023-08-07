@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=95194",
+          "author": "CQN Magazine",
+          "description": "JOHN ‘YOGI’ HUGHES played in five of Celtic’s eight ties during their great adventure that took Jock Stein’s team to the European Cup Final against Inter Milan in Lisbon on the unforgettable date of May 25 1967. The non-appearance of the iconic Hoops forward has been the subject of conjecture ever since. The goalscoring winger [...]",
+          "link": "https://www.celticquicknews.co.uk/big-yogi-and-lisbon-the-truth-part-four/",
+          "publishedOn": "2023-08-07T04:45:36.000Z",
+          "wordCount": 4822,
+          "title": "BIG YOGI AND LISBON: THE TRUTH (Part Four)",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2021/03/JOHN-HUGHES-V-RANGERS-1970.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=110715",
           "author": "CQN Magazine",
           "description": "THE more things change, the more they stay the same. Celtic kicked off the new season yesterday in an identical manner to the way they brought down the curtain on the previous campaign. On June 3 in Glasgow – Hampden to be exact – the Hoops enjoyed a two-goal margin of success in their 3-1 [...]",
@@ -643,6 +653,26 @@
       "siteUrl": "https://www.67hailhail.com",
       "articles": [
         {
+          "id": "https://www.67hailhail.com/?p=170182",
+          "author": "John McGinley",
+          "description": "Ross County forward Simon Murray is convinced he should have had a penalty against Celtic, despite replays showing that he was barely touched by goalkeeper...\nThe post What referee told Ross County star about Celtic Park penalty flashpoint appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/match/what-referee-nick-walsh-told-ross-county-star-about-celtic-park-penalty-flashpoint/",
+          "publishedOn": "2023-08-07T06:10:00.000Z",
+          "wordCount": 1273,
+          "title": "What referee told Ross County star about Celtic Park penalty flashpoint",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/08/GettyImages-1449444746-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=170177",
+          "author": "John McGinley",
+          "description": "Celtic midfielder Matt O’Riley is experiencing his closest friends leaving the club but reckons change is part of football and has to be embraced. Jota...\nThe post \"I am happy for him\"; Celtic star addresses imminent teammate exit appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/transfers/me-carl-and-jota-were-quite-close-matt-oriley-addresses-celtic-transfer-exits/",
+          "publishedOn": "2023-08-07T05:30:20.000Z",
+          "wordCount": 1317,
+          "title": "\"I am happy for him\"; Celtic star addresses imminent teammate exit",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/08/GettyImages-1490126527-1-scaled.jpg"
+        },
+        {
           "id": "https://www.67hailhail.com/?p=170165",
           "author": "Patrick Sinat",
           "description": "Celtic have been a juggernaut in Scottish football over the last 23 years or so. The club’s domination of Scottish football was kickstarted by Martin...\nThe post Michael Stewart talks up Celtic's \"sign of intent\"; what Rodgers is about to remind everyone of appeared first on 67 Hail Hail.",
@@ -1251,36 +1281,6 @@
           "wordCount": 1408,
           "title": "Explained: UEFA's homegrown quota rules and what they mean for Celtic this season",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/08/GettyImages-1421704968.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=169739",
-          "author": "Patrick Sinat",
-          "description": "Football in Scotland is followed by one of the most passionate supporter bases in the game. We might not have the glamour of the English...\nThe post How Celtic fans helped the SPFL hit record attendances in season 2022/23 appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/how-celtic-fans-helped-the-spfl-hit-record-attendances-in-season-2022-23/",
-          "publishedOn": "2023-08-02T18:10:00.000Z",
-          "wordCount": 1248,
-          "title": "How Celtic fans helped the SPFL hit record attendances in season 2022/23",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/04/GettyImages-1390472681-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=169770",
-          "author": "Hamish Carton",
-          "description": "Odin Thiago Holm has had his say online after making his Celtic Park debut. The Norwegian was part of the second-half side who turned around...\nThe post Under the radar; Odin Thiago Holm reacts online to Celtic Park debut appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/match/under-the-radar-odin-thiago-holm-reacts-online-to-celtic-park-debut/",
-          "publishedOn": "2023-08-02T17:40:00.000Z",
-          "wordCount": 1218,
-          "title": "Under the radar; Odin Thiago Holm reacts online to Celtic Park debut",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/08/GettyImages-1569985364-2-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=169751",
-          "author": "Patrick Sinat",
-          "description": "If Celtic fans can take anything away from what we have witnessed this preseason, it’s that we have seen two sides to this Celtic team...\nThe post Celtic’s attacking options could make this a season to remember appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/opinion/celtics-attacking-options-could-make-this-a-season-to-remember/",
-          "publishedOn": "2023-08-02T17:10:00.000Z",
-          "wordCount": 1388,
-          "title": "Celtic’s attacking options could make this a season to remember",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/08/GettyImages-1564083444-scaled.jpg"
         }
       ]
     },
