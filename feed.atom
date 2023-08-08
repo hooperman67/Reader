@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-08-08T20:10:29.873Z</updated>
+    <updated>2023-08-08T22:09:22.573Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Journalist hands summer transfer blow to Celtic fans]]></title>
+        <id>https://thecelticbhoys.com/?p=43272</id>
+        <link href="https://thecelticbhoys.com/2023/08/08/journalist-hands-transfer-celtic-fans/"/>
+        <updated>2023-08-08T21:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Celtic have a pretty stacked squad at the moment, but they could do with a few reinforcements. Most feel that the club have not properly replaced Jota, who left for Al-Ittihad earlier this summer. On the other hand, Carl Starfelt seems to be headed out as well and the Hoops will need to bring in […]
+Journalist hands summer transfer blow to Celtic fans - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
+        <author>
+            <name>Sourav Mahanty</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic must sign Real Madrid goalkeeper this summer]]></title>
         <id>https://thecelticbhoys.com/?p=43267</id>
@@ -1511,17 +1522,6 @@ The post Celtic fan activity planned but this Flag Day may be a little different
 The post Brendan Rodgers has good things to say after connecting with out-of-favour Celtic man appeared first on 67 Hail Hail.]]></summary>
         <author>
             <name>Hamish Carton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic starter could make summer exit as bids expected]]></title>
-        <id>https://thecelticbhoys.com/?p=43145</id>
-        <link href="https://thecelticbhoys.com/2023/08/04/celtic-starter-summer-exit-bids/"/>
-        <updated>2023-08-04T08:30:30.000Z</updated>
-        <summary type="html"><![CDATA[Celtic have already lost one nailed-on starter this summer in the form of Jota. The Portuguese winger played a key part in the club’s successes over the past two seasons but left recently in a £25 million move in order to join the likes of Karim Benzema and N’Golo Kante at Al-Ittihad. And now, it […]
-Celtic starter could make summer exit as bids expected - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
-        <author>
-            <name>Sourav Mahanty</name>
         </author>
     </entry>
 </feed>
