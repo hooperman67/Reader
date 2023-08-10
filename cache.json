@@ -6,6 +6,26 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=110893",
+          "author": "Paul67",
+          "description": "When rumours of Carl Starfelt going to Russia first surfaced last week few of us believed them.  Russia?  Not right now.  But we all had the debate, would you sell him?  He has been part of an incredibly successful Celtic central defensive partnership: won five from six trophies, never lost a domestic game in 90 [...]",
+          "link": "https://www.celticquicknews.co.uk/starfelt-value-heroic-start-qualifiers/",
+          "publishedOn": "2023-08-10T10:59:33.000Z",
+          "wordCount": 6115,
+          "title": "Starfelt, value, heroic start. Qualifiers.",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/?p=110890",
+          "author": "CQN Magazine",
+          "description": "CELTIC have confirmed that Carl Starfelt has left the club for La Liga side Celta Vigo. The Swedish international central defender has ended his two-year association with the treble winners after arriving as a £4.2million recruit from Russian outfit Rubin Kazan, as CQN reported at the weekend. The Hoops have not gone into details of [...]",
+          "link": "https://www.celticquicknews.co.uk/confirmed-starfelt-seals-la-liga-switch/",
+          "publishedOn": "2023-08-10T10:20:41.000Z",
+          "wordCount": 4001,
+          "title": "CONFIRMED: STARFELT SEALS LA LIGA SWITCH",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/08/CARL-STARFELT-TATA.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=110883",
           "author": "CQN Magazine",
           "description": "BRENDAN RODGERS signed a three-year contract on his return to Celtic in June and vowed to see it through – unless he was “emptied” by the club’s hierarchy. In other words, gets the boot. However, the Irishman has promised not to exit unexpectedly as happened in February 2019 when he left to to take over [...]",
@@ -521,16 +541,6 @@
           "wordCount": 1993,
           "title": "Celtic player set to join Championship side on loan",
           "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1474659744-scaled.jpeg"
-        },
-        {
-          "id": "https://thecelticbhoys.com/?p=43153",
-          "author": "StevieMac",
-          "description": "As Celtic kicked off a new season, Kyogo Furuhashi is back scoring again with a goal in the first match. There were rumours surrounding his future this summer, but the Japanese superstar went on to put them to bed by signing a new contract. Thus, fans would be hoping he is here to stay for […]\nKyogo Furuhashi makes beautiful claim about Celtic - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community",
-          "link": "https://thecelticbhoys.com/2023/08/05/kyogo-furuhashi-beautiful-claim-celtic/",
-          "publishedOn": "2023-08-05T23:00:47.000Z",
-          "wordCount": 2179,
-          "title": "Kyogo Furuhashi makes beautiful claim about Celtic",
-          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1555992695-scaled.jpeg"
         }
       ]
     },
@@ -592,6 +602,26 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=170549",
+          "author": "Hamish Carton",
+          "description": "Former Celtic manager Martin O’Neill has made headlines after a hilarious but bizarre cup draw down south. O’Neill was one of those tasked with making...\nThe post Watch: Former Celtic boss Martin O'Neill steals the show during hilarious cup draw appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/watch-former-celtic-boss-martin-oneill-steals-the-show-during-hilarious-cup-draw/",
+          "publishedOn": "2023-08-10T11:48:20.000Z",
+          "wordCount": 1200,
+          "title": "Watch: Former Celtic boss Martin O'Neill steals the show during hilarious cup draw",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/08/GettyImages-1243894026-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=170542",
+          "author": "Hamish Carton",
+          "description": "Carl Starfelt has departed Celtic to join La Liga side Celta Vigo. The transfer was confirmed by Celtic on Thursday morning, with Starfelt departing the...\nThe post The incredible record that will stand the test of time as Carl Starfelt exits Celtic appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/transfers/the-incredible-record-that-will-stand-the-test-of-time-as-carl-starfelt-exits-celtic/",
+          "publishedOn": "2023-08-10T11:10:00.000Z",
+          "wordCount": 1319,
+          "title": "The incredible record that will stand the test of time as Carl Starfelt exits Celtic",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/08/GettyImages-1397206943-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=170536",
           "author": "Hamish Carton",
@@ -1298,7 +1328,18 @@
       "title": "News Archives - Celtic Fanzine",
       "feedUrl": "https://celticfanzine.com/category/news/feed/",
       "siteUrl": "https://celticfanzine.com/category/news/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://celticfanzine.com/?p=58228",
+          "author": "celtic",
+          "description": "Big John Hartson will be back on stage at Peadar Browns, Dublin on Friday 17 Nov 2023. Just over a year since his last visit to the venue. Last year John joined More than 90 Minutes Editor, Andrew Milne to chat about his career and Celtic under Ange Postecoglou before opening up questions from the […]\nThe post Dublin date for big John appeared first on Celtic Fanzine.",
+          "link": "https://celticfanzine.com/dublin-date-for-big-john/",
+          "publishedOn": "2023-08-10T11:44:05.000Z",
+          "wordCount": 1776,
+          "title": "Dublin date for big John",
+          "imageUrl": "https://celticfanzine.com/wp-content/uploads/peadars-.png"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
