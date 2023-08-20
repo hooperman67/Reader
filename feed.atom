@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-08-20T02:13:48.818Z</updated>
+    <updated>2023-08-20T04:11:22.469Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GRIFF 33 TODAY: WHEN THE CHEERS FADE]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=95735</id>
+        <link href="https://www.celticquicknews.co.uk/griff-33-today-when-the-cheers-fade/"/>
+        <updated>2023-08-20T04:00:44.000Z</updated>
+        <summary type="html"><![CDATA[LEIGH GRIFFITHS will celebrate his 33rd birthday today. This time two years ago, the one-time prolific hitman was still a Celtic player. Now, after an unsuccessful loan stint at Dundee and a brief spell at third-tier Falkirk during the wretched 2020/21 campaign, he is turning out for Australian minnows Mandurah City. The somersault in the [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic boss confirms that midfielder is looking to leave]]></title>
         <id>https://thecelticbhoys.com/?p=43525</id>
@@ -1123,27 +1133,6 @@ The post Yosuke Ideguchi recognised in Japan as Celtic midfielder voted onto on-
 The post Ben Doak explains how what he experienced at Celtic has benefitted him at Liverpool appeared first on 67 Hail Hail.]]></summary>
         <author>
             <name>Patrick Sinat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Report: Celtic 'agree' to sell fringe player; fee reported as club set to take a financial hit]]></title>
-        <id>https://www.67hailhail.com/?p=171093</id>
-        <link href="https://www.67hailhail.com/transfers/celtic-agree-to-sell-ismaila-soro-fee-reported-as-club-set-to-take-a-financial-hit/"/>
-        <updated>2023-08-15T15:50:48.000Z</updated>
-        <summary type="html"><![CDATA[Celtic have agreed to sell fringe player, Ismaila Soro, according to a report from Footmercato. The club are set to take a big financial loss...
-The post Report: Celtic 'agree' to sell fringe player; fee reported as club set to take a financial hit appeared first on 67 Hail Hail.]]></summary>
-        <author>
-            <name>Patrick Sinat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MUIR IN CHARGE OF CELTIC CUP DEFENCE]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=111063</id>
-        <link href="https://www.celticquicknews.co.uk/muir-in-charge-of-celtic-cup-defence/"/>
-        <updated>2023-08-15T15:19:11.000Z</updated>
-        <summary type="html"><![CDATA[ALAN MUIR will be in charge of Celtic’s first defence of their Viaplay League Cup against Kilmarnock at Rugby Park on Sunday. The match official will be seen as something of a lucky omen for the champions. Remarkably, he has been the man in the middle in 39 previous Hoops games – and the Parkhead [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
         </author>
     </entry>
 </feed>
