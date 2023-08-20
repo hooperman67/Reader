@@ -6,6 +6,36 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=111203",
+          "author": "CQN Magazine",
+          "description": "BRENDAN RODGERS has offered a hint about the future of veteran keeper Joe Hart. The 36-year-old 75 times-capped England international is out of contract at the end of the season after his £1million switch from Spurs in August 2021. Hart has featured in every major success since his arrival, but there have been persistent reports since [...]",
+          "link": "https://www.celticquicknews.co.uk/rodgers-hints-at-hart-future/",
+          "publishedOn": "2023-08-20T07:29:09.000Z",
+          "wordCount": 4246,
+          "title": "RODGERS HINTS AT HART FUTURE",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/08/JOE-HART-NOISE.png"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/?p=111201",
+          "author": "CQN Magazine",
+          "description": "FORGOTTEN MAN James McCarthy is on his way out at Celtic. The former Republic of Ireland midfielder was signed as a free agent from Crystal Palace in August 2021 and still has two years to run on his contract. However, the 32-year-old Glasgow-born anchorman didn’t start a single game for the champions last season. McCarthy [...]",
+          "link": "https://www.celticquicknews.co.uk/a-real-shame-rodgers-woe-for-mccarthy/",
+          "publishedOn": "2023-08-20T07:04:28.000Z",
+          "wordCount": 4165,
+          "title": "‘A REAL SHAME,’ RODGERS WOE FOR McCARTHY",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/07/james-mccarthy-featured-fff.png"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/?p=111196",
+          "author": "CQN Magazine",
+          "description": "BRENDAN RODGERS is poised to add more firepower to his Celtic attack with a swoop for Danish wonderkid Mathias Kvistgaarden. The Under-21 international striker is on the Hoops manager’s wanted list and he hopes to get the deal done before the August 31 midnight deadline, according to a report in The Scottish Sun. Rodgers acknowledges [...]",
+          "link": "https://www.celticquicknews.co.uk/celtic-target-danish-striker/",
+          "publishedOn": "2023-08-20T06:25:25.000Z",
+          "wordCount": 4039,
+          "title": "CELTIC TARGET DANISH STRIKER",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/08/MATHIAS-KVISTGAARDEN-FEATURED-NEW.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=111183",
           "author": "CQN Magazine",
           "description": "CELTIC faced Kilmarnock four times last season – once in the Viaplay League cup semi-final and three times in the Premiership – and won the lot, scoring 13 goals and conceding only one. It’s a sequence they hope to continue when they look horns with the Ayrshire outfit this afternoon. How much can you remember about [...]",
@@ -531,16 +561,6 @@
           "wordCount": 1985,
           "title": "Celtic transfer move for £7 million left-back ruled out",
           "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1569804709-scaled.jpeg"
-        },
-        {
-          "id": "https://thecelticbhoys.com/?p=43431",
-          "author": "Sourav Mahanty",
-          "description": "Jota left Celtic earlier in the summer in order to join Al-Ittihad in a £25 million move. Things have not quite gone the Portuguese winger’s way since then and there is already talk of him being sent out on loan. On the other hand, the Hoops have not brought in a proper replacement for him […]\nCeltic linked with ambitious move for Wolves player - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community",
-          "link": "https://thecelticbhoys.com/2023/08/15/celtic-linked-move-wolves-player/",
-          "publishedOn": "2023-08-15T19:01:03.000Z",
-          "wordCount": 1971,
-          "title": "Celtic linked with ambitious move for Wolves player",
-          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1487809275-scaled.jpeg"
         }
       ]
     },
@@ -548,7 +568,18 @@
       "title": "eTims",
       "feedUrl": "http://etims.net/?feed=rss2",
       "siteUrl": "https://etims.net",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://etims.net/?p=18457",
+          "author": "Ralph Malph",
+          "description": "It’s the magic of the League Cup today with Celtic in Kilmarnock to begin their defence of a trophy that’s always nice to have in…",
+          "link": "https://etims.net/?p=18457",
+          "publishedOn": "2023-08-20T06:53:35.000Z",
+          "wordCount": 3965,
+          "title": "Celtic Diary Sunday August 20: We Haven’t Started The Fire",
+          "imageUrl": "https://etims.net/wp-content/uploads/2023/08/quote-the-secret-of-getting-ahead-is-getting-started-mark-twain-51-82-39.jpg"
+        }
+      ]
     },
     {
       "title": "The Celtic Underground",
@@ -572,6 +603,56 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=171439",
+          "author": "Patrick Sinat",
+          "description": "Hyunjun Yang has opened up on the Celtic legend who is inspiring him to be a success at Celtic. The South Korean winger joined the...\nThe post Hyunjun Yang names teammate who motivates him to be a success at Celtic appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/hyunjun-yang-tells-which-club-legend-motivates-him-to-be-a-success-at-celtic/",
+          "publishedOn": "2023-08-20T08:10:00.000Z",
+          "wordCount": 1402,
+          "title": "Hyunjun Yang names teammate who motivates him to be a success at Celtic",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/08/GettyImages-1571576139-2-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=171422",
+          "author": "Patrick Sinat",
+          "description": "The news headlines towards the end of this week were all dominated by the Glasgow Derby ticket allocation story. We all know the reasons why...\nThe post Brendan Rodgers breaks silence on Celtic's Ibrox ticket allocation stance appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/brendan-rodgers-breaks-silence-on-celtics-ibrox-ticket-allocation-stance/",
+          "publishedOn": "2023-08-20T07:45:00.000Z",
+          "wordCount": 1343,
+          "title": "Brendan Rodgers breaks silence on Celtic's Ibrox ticket allocation stance",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/07/GettyImages-1453773992-2-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=171420",
+          "author": "John McGinley",
+          "description": "Transfer journalist Alan Nixon believes Celtic are one of the teams interested in Sunderland winger Patrick Roberts this summer. Nixon, who first reported Ben McPherson’s...\nThe post The verdict as transfer journalist inevitably links Celtic with Patrick Roberts return appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/transfers/the-verdict-as-transfer-journalist-inevitably-links-celtic-with-patrick-roberts-return-despite-injury/",
+          "publishedOn": "2023-08-20T07:17:25.000Z",
+          "wordCount": 1428,
+          "title": "The verdict as transfer journalist inevitably links Celtic with Patrick Roberts return",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/08/GettyImages-1582698539-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=171415",
+          "author": "John McGinley",
+          "description": "AEK Athens and Dinamo Zagreb played out one of the matches of the season so far on Saturday night for a place in the playoff...\nThe post Dominik Livakovic at centre of wild Saturday night drama that banks Celtic extra UEFA cash appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/dominik-livakovic-at-centre-of-wild-saturday-night-drama-that-banks-celtic-extra-uefa-cash/",
+          "publishedOn": "2023-08-20T06:48:43.000Z",
+          "wordCount": 1346,
+          "title": "Dominik Livakovic at centre of wild Saturday night drama that banks Celtic extra UEFA cash",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/08/GettyImages-1610623938-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=171410",
+          "author": "John McGinley",
+          "description": "Wolves boss Gary O’Neil sounds as if he is completely moving on from Celtic transfer target Daniel Podence as an option after omitting him from...\nThe post Wolves boss provides Daniel Podence latest; Celtic target deletes tweet, is omitted from squad appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/transfers/wolves-boss-provides-daniel-podence-latest-celtic-target-deletes-tweet-and-is-omitted-from-squad/",
+          "publishedOn": "2023-08-20T06:27:06.000Z",
+          "wordCount": 1352,
+          "title": "Wolves boss provides Daniel Podence latest; Celtic target deletes tweet, is omitted from squad",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/08/GettyImages-1491887142-2-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=171407",
           "author": "John McGinley",
@@ -1077,16 +1158,6 @@
           "publishedOn": "2023-08-19T16:44:28.000Z",
           "wordCount": 1560,
           "title": "KILMARNOCK V CELTIC MATCHDAY MINIZINE",
-          "imageUrl": "https://celticfanzine.com/wp-content/uploads/Celtic-Away-Days-Aberdeen-.png"
-        },
-        {
-          "id": "https://celticfanzine.com/?p=58257",
-          "author": "celtic",
-          "description": "It’s was an early start on Sunday morning for our away adventure to Aberdeen. Tickets are always the talking point for these games or should I say lack of tickets. Once again at kick off time there were plenty of empty seats in the home stands. The away end was packed with Celtic fans […]\nThe post Celtic Away Days – Aberdeen appeared first on Celtic Fanzine.",
-          "link": "https://celticfanzine.com/celtic-away-days-aberdeen/",
-          "publishedOn": "2023-08-15T19:10:46.000Z",
-          "wordCount": 2655,
-          "title": "Celtic Away Days – Aberdeen",
           "imageUrl": "https://celticfanzine.com/wp-content/uploads/Celtic-Away-Days-Aberdeen-.png"
         }
       ]
