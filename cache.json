@@ -263,6 +263,16 @@
       "siteUrl": "https://thecelticbhoys.com",
       "articles": [
         {
+          "id": "https://thecelticbhoys.com/?p=43590",
+          "author": "Sourav Mahanty",
+          "description": "Brendan Rodgers had never lost a domestic competition as Celtic manager during his first stint at the club. Three games into his second run at Parkhead and that is no longer the case. The Northern Irishman saw his team being knocked out of the Scottish League Cup at the weekend, following a 1-0 defeat at […]\nBrendan Rodgers admits frustration at Celtic situation - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community",
+          "link": "https://thecelticbhoys.com/2023/08/22/brendan-rodgers-admits-celtic-situation/",
+          "publishedOn": "2023-08-22T21:00:24.000Z",
+          "wordCount": 2024,
+          "title": "Brendan Rodgers admits frustration at Celtic situation",
+          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1569804709-scaled.jpeg"
+        },
+        {
           "id": "https://thecelticbhoys.com/?p=43586",
           "author": "Sourav Mahanty",
           "description": "If there is one thing that has become clear over the first few weeks of the 2023/24 campaign, it is that Celtic need to add some creativity and inspiration to this team quickly. The Hoops have looked like a shell of their treble-winning selves from last season. And they are already out of the Scottish […]\nCeltic open negotiations to sign £60k-a-week winger - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community",
@@ -521,16 +531,6 @@
           "wordCount": 1968,
           "title": "Sky Sports man delivers worrying Celtic exit update",
           "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1464769770.jpeg"
-        },
-        {
-          "id": "https://thecelticbhoys.com/?p=43489",
-          "author": "Sourav Mahanty",
-          "description": "Celtic have been linked with plenty of players in recent days. One name that has managed to capture the imagination of the supporters is Daniel Podence. The Wolves winger did not participate in pre-season games and was left out of their matchday 1 squad against Manchester United as well. Thus, his exit from the Molineux […]\nDaniel Podence transfer twist amid heavy Celtic links - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community",
-          "link": "https://thecelticbhoys.com/2023/08/18/daniel-podence-transfer-celtic-links/",
-          "publishedOn": "2023-08-18T09:30:03.000Z",
-          "wordCount": 2048,
-          "title": "Daniel Podence transfer twist amid heavy Celtic links",
-          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1480989251-scaled.jpeg"
         }
       ]
     },
@@ -565,24 +565,23 @@
       "title": "The Celtic Underground",
       "feedUrl": "http://celticunderground.net/feed/",
       "siteUrl": "http://celticunderground.net",
-      "articles": [
-        {
-          "id": "http://celticunderground.net/?p=6626",
-          "author": "Critical Bill",
-          "description": "When Brendan Rodgers left us in 2019, my abiding memory of that week was a video posted on social media.  Put together by Tam Sellic’s Son, it was video of Rodgers with the music to the “Wedding March” but with the lyrics changed to “You are a c***!!”.  I was genuinely shocked by how many […]",
-          "link": "http://celticunderground.net/brendan-rodgers-lets-go-round-again/",
-          "publishedOn": "2023-08-18T09:00:26.000Z",
-          "wordCount": 10321,
-          "title": "Brendan Rodgers – Lets Go Round Again",
-          "imageUrl": "http://celticunderground.net/wp-content/uploads/2016/05/Brendan.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "67 Hail Hail",
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=171815",
+          "author": "Amir Mir",
+          "description": "Neil Lennon thinks, before the 2023 summer transfer slams shut, Celtic will bring in ‘quality players’ for Brendan Rodgers. The former Celtic boss even stated...\nThe post ‘You will see’: Neil Lennon makes encouraging transfer claim about Rodgers & Celtic board  appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/transfers/you-will-see-neil-lennon-makes-encouraging-transfer-claim-about-brendan-rodgers-celtic-board/",
+          "publishedOn": "2023-08-22T20:30:00.000Z",
+          "wordCount": 1459,
+          "title": "‘You will see’: Neil Lennon makes encouraging transfer claim about Rodgers & Celtic board",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/05/GettyImages-1492438109-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=171803",
           "author": "Patrick Sinat",
