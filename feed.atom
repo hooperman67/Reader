@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-08-23T02:14:15.247Z</updated>
+    <updated>2023-08-23T04:11:34.917Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[THE BIRTH OF A LEGEND: BILLY McNEILL: PART TWO: PAT CRERAND REMEMBERS]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=65853</id>
+        <link href="https://www.celticquicknews.co.uk/the-birth-of-a-legend-billy-mcneill-part-two-pat-crerand-remembers/"/>
+        <updated>2023-08-23T04:01:19.000Z</updated>
+        <summary type="html"><![CDATA[CELTIC legend Billy McNeill made his first team debut exactly SIXTY-FIVE years ago today and took his first steps into club folklore. Author Alex Gordon paid tribute to his friend in his publication, ‘BILLY McNEILL: In Praise of Caesar‘, which was published in 2018. In Part Two of CQN’S EXCLUSIVE series, we continue our walk [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE BIRTH OF A LEGEND: BILLY McNEILL: PART ONE: ICON’S DEBUT 65 YEARS AGO]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=65849</id>
+        <link href="https://www.celticquicknews.co.uk/the-birth-of-a-legend-billy-mcneill-part-one-icons-debut-65-years-ago/"/>
+        <updated>2023-08-23T04:00:43.000Z</updated>
+        <summary type="html"><![CDATA[CELTIC legend Billy McNeill made his first team debut exactly SIXTY-FIVE years ago today and took his first steps into club folklore. The iconic former manager and player, who sadly passed away on April 22 2019 at the age of seventy-nine, played 790 games for his only club, winning nine league championships, seven Scottish Cups, [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fulham could hand cash boost to Celtic by signing former player]]></title>
         <id>https://thecelticbhoys.com/?p=43580</id>
@@ -1266,27 +1286,6 @@ Celtic player pictured on crutches in new injury fears - The Celtic Bhoys - The 
         <updated>2023-08-18T16:12:10.000Z</updated>
         <summary type="html"><![CDATA[While most of the headlines surrounding Cameron Carter-Vickers and Reo Hatate focused on their lack of availability for this weekend’s Scottish League Cup clash, a...
 The post The overlooked positive of today's Celtic update on Cameron Carter-Vickers and Reo Hatate appeared first on 67 Hail Hail.]]></summary>
-        <author>
-            <name>John McGinley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GREEN LIGHT FOR GUSTAF DEBUT]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=111169</id>
-        <link href="https://www.celticquicknews.co.uk/green-light-for-gustaf-debut/"/>
-        <updated>2023-08-18T15:29:31.000Z</updated>
-        <summary type="html"><![CDATA[NEW Bhoy Gustaf Lagerbiekle is on course for a quickfire Celtic, as CQN forecast at the beginning of the week. Brendan Rodgers is poised to give the green light for the 23-year-old centre-back to face Kilmarnock in the Viaplay League Cup at Rugby Park on Sunday. Lagerbiekle was officially unveiled as the club’s sixth summer [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brendan Rodgers provides update on transfer work at Celtic with 'pipeline' talked up]]></title>
-        <id>https://www.67hailhail.com/?p=171360</id>
-        <link href="https://www.67hailhail.com/transfers/brendan-rodgers-provides-update-on-transfer-work-at-celtic-with-pipeline-talked-up/"/>
-        <updated>2023-08-18T14:23:29.000Z</updated>
-        <summary type="html"><![CDATA[Celtic manager Brendan Rodgers was asked about the recruitment process at the Bhoys this summer and how much involvement he has in that, at a...
-The post Brendan Rodgers provides update on transfer work at Celtic with 'pipeline' talked up appeared first on 67 Hail Hail.]]></summary>
         <author>
             <name>John McGinley</name>
         </author>
