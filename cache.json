@@ -603,6 +603,36 @@
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
         {
+          "id": "https://www.67hailhail.com/?p=172311",
+          "author": "John McGinley",
+          "description": "Incoming Celtic signing Luis Palma sought out a recommendation from popular former Bhoys star Emilio Izaguirre before deciding Scotland was the place for him, The...\nThe post Emilio Izaguirre helps seal imminent Celtic transfer despite lucrative offers elsewhere appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/transfers/emilio-izaguirre-helps-seal-imminent-celtic-transfer-despite-lucrative-offers-elsewhere/",
+          "publishedOn": "2023-08-25T17:59:17.000Z",
+          "wordCount": 1294,
+          "title": "Emilio Izaguirre helps seal imminent Celtic transfer despite lucrative offers elsewhere",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/08/GettyImages-1093401830-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=172305",
+          "author": "John McGinley",
+          "description": "It had become apparent in recent weeks that Celtic’s links to goalkeeper Dominik Livakovic would not amount to anything, but he has now officially made...\nThe post Dominik Livakovic officially exits Dinamo Zagreb after summer of Celtic links; achievable fee appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/transfers/dominik-livakovic-officially-exits-dinamo-zagreb-after-summer-of-celtic-links-achievable-fee/",
+          "publishedOn": "2023-08-25T17:10:04.000Z",
+          "wordCount": 1277,
+          "title": "Dominik Livakovic officially exits Dinamo Zagreb after summer of Celtic links; achievable fee",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/08/GettyImages-1610621108-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=172301",
+          "author": "John McGinley",
+          "description": "Incoming Celtic signing Luis Palma has reportedly said his goodbyes to Aris FC teammates in Greece as he prepares to make the big move to...\nThe post Incoming Celtic signing says goodbye to current teammates; Bhoys will change his life with wages appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/transfers/incoming-celtic-signing-luis-palma-says-goodbye-to-current-teammates-bhoys-will-change-his-life-with-wages/",
+          "publishedOn": "2023-08-25T16:32:38.000Z",
+          "wordCount": 1340,
+          "title": "Incoming Celtic signing says goodbye to current teammates; Bhoys will change his life with wages",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/08/GettyImages-1151480967-scaled.jpg"
+        },
+        {
           "id": "https://www.67hailhail.com/?p=172294",
           "author": "John McGinley",
           "description": "Celtic have agreed a fee with Greek club Aris FC for winger Luis Palma, it has been reported this afternoon. Sky Sports journalist Anthony Joseph...\nThe post Celtic make transfer breakthrough; Bhoys in final stages of next summer signing appeared first on 67 Hail Hail.",
@@ -1568,7 +1598,28 @@
       "title": "News Archives - Celtic Fanzine",
       "feedUrl": "https://celticfanzine.com/category/news/feed/",
       "siteUrl": "https://celticfanzine.com/category/news/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://celticfanzine.com/?p=58283",
+          "author": "celtic",
+          "description": "The Celtic players should be chomping at the bit to get back on the pitch and put last week’s very poor performance behind them. Thankfully Brendan Rodgers offered no excuses last Sunday in his post interviews although I’m sure he had a few in the back of his mind having not only witnessed his players […]\nThe post Celtic need a big performance tomorrow at Celtic Park appeared first on Celtic Fanzine.",
+          "link": "https://celticfanzine.com/celtic-need-a-big-performance-tomorrow-at-celtic-park/",
+          "publishedOn": "2023-08-25T17:40:25.000Z",
+          "wordCount": 2110,
+          "title": "Celtic need a big performance tomorrow at Celtic Park",
+          "imageUrl": "https://celticfanzine.com/wp-content/uploads/st-j-pic-.png"
+        },
+        {
+          "id": "https://celticfanzine.com/?p=58277",
+          "author": "celtic",
+          "description": "Hello troops and welcome to another of my takes on all things Celtic. Here we are at the start of what we hope will be another successful season. Little did we think a couple of months ago, that we would have a new manager in place for the start of the season and undergoing a […]\nThe post In Brendan We Trust – Lisbon Lion John Fallon appeared first on Celtic Fanzine.",
+          "link": "https://celticfanzine.com/in-brendan-we-trust-lisbon-lion-john-fallon/",
+          "publishedOn": "2023-08-25T17:15:19.000Z",
+          "wordCount": 2624,
+          "title": "In Brendan We Trust – Lisbon Lion John Fallon",
+          "imageUrl": "https://celticfanzine.com/wp-content/uploads/JOHN-FALLON-.png"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
