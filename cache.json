@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=111386",
+          "author": "CQN Magazine",
+          "description": "BRENDAN RODGERS admits he is worried ahead of the first derby of the season at Ibrox a week today. The manager saw his team fire blanks for the second successive game as they limped through an uninspired scoreless stalemate against St Johnstone at Parkhead yesterday. The frustrating performance came just six days after the wretched [...]",
+          "link": "https://www.celticquicknews.co.uk/certainly-a-concern-rodgers-ibrox-admission/",
+          "publishedOn": "2023-08-27T06:22:05.000Z",
+          "wordCount": 4393,
+          "title": "‘CERTAINLY A CONCERN,’ RODGERS’ IBROX ADMISSION",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/08/BRENDAN-RODGERS-BLANKK-FEATURED.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=111379",
           "author": "CQN Magazine",
           "description": "CELTIC 0 ST JOHNSTONE 0 SLIPSHOD Celtic fired blanks for the second successive week to drop two unexpected points against the Perth Saints at Parkhead this afternoon. It was a disappointing confrontation the champions dominated, but their accuracy in finishing was simply awful and unacceptable as they toiled to get the ball in the opposition [...]",
@@ -531,16 +541,6 @@
           "wordCount": 2024,
           "title": "Brendan Rodgers admits frustration at Celtic situation",
           "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1569804709-scaled.jpeg"
-        },
-        {
-          "id": "https://thecelticbhoys.com/?p=43586",
-          "author": "Sourav Mahanty",
-          "description": "If there is one thing that has become clear over the first few weeks of the 2023/24 campaign, it is that Celtic need to add some creativity and inspiration to this team quickly. The Hoops have looked like a shell of their treble-winning selves from last season. And they are already out of the Scottish […]\nCeltic open negotiations to sign £60k-a-week winger - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community",
-          "link": "https://thecelticbhoys.com/2023/08/22/celtic-open-negotiations-sign-60k-week-winger/",
-          "publishedOn": "2023-08-22T19:30:14.000Z",
-          "wordCount": 2070,
-          "title": "Celtic open negotiations to sign £60k-a-week winger",
-          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2018%2F08%2F1464769763.jpeg"
         }
       ]
     },
@@ -582,6 +582,36 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=172417",
+          "author": "John McGinley",
+          "description": "Kenny Dalglish is expecting and hoping that Celtic pull the finger out in the closing week of the transfer window to start delivering the signings...\nThe post Kenny Dalglish calls for Celtic action and insists club have cash to \"make something happen\" appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/kenny-dalglish-calls-for-celtic-action-and-insists-club-have-cash-to-make-something-happen/",
+          "publishedOn": "2023-08-27T08:03:33.000Z",
+          "wordCount": 1448,
+          "title": "Kenny Dalglish calls for Celtic action and insists club have cash to \"make something happen\"",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/07/GettyImages-1399780090-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=172411",
+          "author": "John McGinley",
+          "description": "Celtic fans are waking up from disappointment the day before for the second successive week and it’s not the place many of us envisioned we’d...\nThe post Brendan Rodgers names two positives from another damaging Celtic weekend appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/brendan-rodgers-names-two-positives-from-another-damaging-celtic-weekend/",
+          "publishedOn": "2023-08-27T07:12:16.000Z",
+          "wordCount": 1297,
+          "title": "Brendan Rodgers names two positives from another damaging Celtic weekend",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/08/GettyImages-1571576139-5-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=172408",
+          "author": "John McGinley",
+          "description": "Brendan Rodgers says he has made it clear to the club that quality is needed in his Celtic team as the Bhoys enter a critical...\nThe post \"I spoke to the club\"; Brendan Rodgers puts transfer ball in Celtic board's court appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/transfers/i-spoke-to-the-club-brendan-rodgers-puts-transfer-ball-in-celtic-boards-court/",
+          "publishedOn": "2023-08-27T06:41:38.000Z",
+          "wordCount": 1296,
+          "title": "\"I spoke to the club\"; Brendan Rodgers puts transfer ball in Celtic board's court",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/08/GettyImages-1569963963-1-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=172405",
           "author": "John McGinley",
