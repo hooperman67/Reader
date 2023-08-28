@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-08-28T10:11:27.570Z</updated>
+    <updated>2023-08-28T12:19:38.640Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CELTIC PAIR AXED]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=111443</id>
+        <link href="https://www.celticquicknews.co.uk/celtic-pair-axed/"/>
+        <updated>2023-08-28T11:11:00.000Z</updated>
+        <summary type="html"><![CDATA[CELTIC defenders Anthony Ralston and Greg Taylor have been axed from the Scotland squad for next month’s double-header against Cyprus and England. International boss Steve Clarke has overlooked the Hoops full-backs while skipper Callum McGregor is the solitary player from the champions who is included in the 25-man pool for the games in Larnaca and [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Current Celtic issue is not managerial]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=111441</id>
+        <link href="https://www.celticquicknews.co.uk/current-celtic-issue-is-not-managerial/"/>
+        <updated>2023-08-28T11:04:48.000Z</updated>
+        <summary type="html"><![CDATA[Hindsight and all that, but looking back, Celtic’s form slipped in mid-April this year.  We were imperious until that point, but even wins, like the Scottish Cup semi-final win over Newco, were not as impressive than the League Cup Final win over the same opponents a few weeks earlier. The season petered out amid home [...]]]></summary>
+        <author>
+            <name>Paul67</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic make early morning double exit announcement]]></title>
         <id>https://thecelticbhoys.com/?p=43722</id>
@@ -1365,17 +1385,6 @@ The post Report: Celtic launch fresh winger move but there's less encouraging Po
 The post Report: Celtic launch fresh winger move but there's less encouraging Podence and Fraser news appeared first on 67 Hail Hail.]]></summary>
         <author>
             <name>Hamish Carton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic fans offered superb late night triple transfer news]]></title>
-        <id>https://thecelticbhoys.com/?p=43617</id>
-        <link href="https://thecelticbhoys.com/2023/08/23/celtic-late-night-triple-transfer-news/"/>
-        <updated>2023-08-23T22:30:07.000Z</updated>
-        <summary type="html"><![CDATA[Celtic fans are not completely satisfied with how this summer transfer window has played out for the Hoops. It is easily understandable why. When Brendan Rodgers was brought back for a second stint in the Parkhead hot seat, there were suggestions in the media that the club were ready to hand him a significant budget […]
-Celtic fans offered superb late night triple transfer news - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
-        <author>
-            <name>Sourav Mahanty</name>
         </author>
     </entry>
 </feed>
