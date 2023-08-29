@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-08-29T14:09:13.632Z</updated>
+    <updated>2023-08-29T16:12:32.910Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Five signings Celtic could complete between now and the transfer window deadline - opinion]]></title>
+        <id>https://www.67hailhail.com/?p=172597</id>
+        <link href="https://www.67hailhail.com/transfers/five-signings-celtic-could-complete-between-now-and-the-transfer-window-deadline/"/>
+        <updated>2023-08-29T16:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Celtic have less than four days to add to their first-team squad and change the perception of the summer window. As things currently stand, the...
+The post Five signings Celtic could complete between now and the transfer window deadline - opinion appeared first on 67 Hail Hail.]]></summary>
+        <author>
+            <name>Hamish Carton</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Report: Celtic interest in Danish star gets real; intriguing few days ahead]]></title>
         <id>https://www.67hailhail.com/?p=172586</id>
@@ -1167,16 +1178,6 @@ The post "I’m not going to beat about the bush"; Brendan Rodgers' frank Celtic
 The post Report: Positive Celtic picture developing as telling decision is made over transfer target appeared first on 67 Hail Hail.]]></summary>
         <author>
             <name>Hamish Carton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[58 YEARS AGO: WIN THAT SPARKED FIRST 9 IN A ROW]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=95893</id>
-        <link href="https://www.celticquicknews.co.uk/58-years-ago-win-that-sparked-first-9-in-a-row/"/>
-        <updated>2023-08-25T04:00:03.000Z</updated>
-        <summary type="html"><![CDATA[EXACTLY 58 years ago today, Johnny Divers accepted a pass from Joe McBride and drilled a shot behind Dundee United keeper Donald Mackay. It was the 15th minute of the opening league game of the 1965/66 season on August 25 1965 and it paved the way for a 4-0 victory at Tannadice. The strike from Divers [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
         </author>
     </entry>
 </feed>
