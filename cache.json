@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=111469",
+          "author": "Paul67",
+          "description": "Whatever plans Celtic had for the summer of 2020, the pandemic and a 6’ 7” goalkeeper put paid to them.  Fraser Forster spent the previous season performing miracles for Celtic on loan from Southampton.  Both were keen to extend his stay, so much so that Fraser’s pal and understudy, Craig Gordon, accepted lesser terms from [...]",
+          "link": "https://www.celticquicknews.co.uk/our-infamous-summer-of-2020/",
+          "publishedOn": "2023-08-29T11:01:03.000Z",
+          "wordCount": 7193,
+          "title": "Our infamous summer of 2020",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=111467",
           "author": "CQN Magazine",
           "description": "CELTIC’S £7million misfits Albian Ajeti and Ismaila Soro are heading for the Parkhead exit. The Swiss striker, who cost £5million when he joined from West Ham in the summer of 2020, looks to be on his way to Turkish outfit Gaziantep Gunes, according to a club report. Soro, bought by Neil Lennon from Bnei Yehuda in [...]",
@@ -511,16 +521,6 @@
           "wordCount": 1985,
           "title": "Journalist drops Celtic transfer hint as target misses training",
           "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1464769770.jpeg"
-        },
-        {
-          "id": "https://thecelticbhoys.com/?p=43640",
-          "author": "Sourav Mahanty",
-          "description": "We are now in the final week of the summer transfer window and this one is going to be vital for Celtic. The Hoops have made a lethargic start to the season and appear to be in need of some creativity up front as well as some defensive solidity at the back. Hopefully, reinforcements will […]\nAnge Postecoglou signing wants to leave Celtic this week - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community",
-          "link": "https://thecelticbhoys.com/2023/08/24/ange-postecoglou-signing-celtic-week/",
-          "publishedOn": "2023-08-24T22:30:02.000Z",
-          "wordCount": 2002,
-          "title": "Ange Postecoglou signing wants to leave Celtic this week",
-          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1601488252-scaled.jpeg"
         }
       ]
     },
@@ -541,6 +541,36 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=172586",
+          "author": "Hamish Carton",
+          "description": "Celtic have already had a bid rejected for forward Mathias Kvistgaarden, according to a report. Danish outlet BT have posted an update on the Brondby...\nThe post Report: Celtic interest in Danish star gets real; intriguing few days ahead appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/transfers/celtic-interest-in-mathias-kvistgaarden-gets-real-intriguing-few-days-ahead/",
+          "publishedOn": "2023-08-29T12:10:00.000Z",
+          "wordCount": 1338,
+          "title": "Report: Celtic interest in Danish star gets real; intriguing few days ahead",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/08/GettyImages-1596249752-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=172580",
+          "author": "Hamish Carton",
+          "description": "Don Robertson will take charge of Sunday’s derby between Celtic and Rangers. The Hoops are at Ibrox for the first meeting with our fierce rivals...\nThe post Referee named for Rangers vs Celtic; had unexpected derby experience last season appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/match/don-robertson-gets-rangers-vs-celtic-clash-after-unexpected-derby-experience-last-season/",
+          "publishedOn": "2023-08-29T10:50:41.000Z",
+          "wordCount": 1352,
+          "title": "Referee named for Rangers vs Celtic; had unexpected derby experience last season",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/08/GettyImages-1252425790-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=172574",
+          "author": "Hamish Carton",
+          "description": "Former Celtic hero John Hartson has given his thoughts on the current Hoops situation as the media negativity continues. It’s been a tough few weeks...\nThe post John Hartson gets it spot on as excessive media talk around Celtic continues appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/john-hartson-gets-it-spot-on-as-excessive-media-talk-around-celtic-continues/",
+          "publishedOn": "2023-08-29T10:12:03.000Z",
+          "wordCount": 1443,
+          "title": "John Hartson gets it spot on as excessive media talk around Celtic continues",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/08/GettyImages-1627543579-2-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=172568",
           "author": "Hamish Carton",
