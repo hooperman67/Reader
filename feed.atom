@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-08-30T08:12:37.864Z</updated>
+    <updated>2023-08-30T10:10:27.007Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[John Hartson reacts to Souttar to Celtic transfer claim & predicts 'surprise' pick v Rangers]]></title>
+        <id>https://www.67hailhail.com/?p=172686</id>
+        <link href="https://www.67hailhail.com/news/john-hartson-reacts-to-harry-souttar-to-celtic-transfer-claim-predicts-surprise-pick-vs-rangers/"/>
+        <updated>2023-08-30T08:40:00.000Z</updated>
+        <summary type="html"><![CDATA[John Hartson says Brendan Rodgers ‘needs’ centre-backs after he reacted to the suggestion of whether Celtic should swoop in for Harry Souttar before Friday’s transfer...
+The post John Hartson reacts to Souttar to Celtic transfer claim & predicts 'surprise' pick v Rangers appeared first on 67 Hail Hail.]]></summary>
+        <author>
+            <name>Amir Mir</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Report: Clear Celtic stance amid English interest in top talent]]></title>
         <id>https://www.67hailhail.com/?p=172665</id>
@@ -1057,17 +1068,6 @@ The post Report: Lyanco pops up for Celtic and the club have a clear centre-back
 Celtic linked with Ipswich Town left-back with 14 assists - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
         <author>
             <name>Sourav Mahanty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic boss Brendan Rodgers has his say on controversial Rugby Park incident]]></title>
-        <id>https://www.67hailhail.com/?p=172320</id>
-        <link href="https://www.67hailhail.com/news/celtic-boss-brendan-rodgers-has-his-say-on-controversial-rugby-park-incident/"/>
-        <updated>2023-08-25T20:43:16.000Z</updated>
-        <summary type="html"><![CDATA[There were lots of talking points coming out of last weekend’s defeat to Kilmarnock in the Scottish League Cup, not least Celtic’s poor performance and...
-The post Celtic boss Brendan Rodgers has his say on controversial Rugby Park incident appeared first on 67 Hail Hail.]]></summary>
-        <author>
-            <name>John McGinley</name>
         </author>
     </entry>
 </feed>
