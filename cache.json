@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=111619",
+          "author": "Paul67",
+          "description": "The status of this Champions League group is officially….alright .  In yesterday’s blog I said our draw was all about Pot 3.  Turns out, this wasn’t the case.  Feyenoord, our Pot 1 opponents, are the weakest we are ever likely to draw from that tier.  They earned their spot by being Dutch champions and benefiting [...]",
+          "link": "https://www.celticquicknews.co.uk/fragile-feyenoord-offers-hope/",
+          "publishedOn": "2023-09-01T11:01:24.000Z",
+          "wordCount": 6971,
+          "title": "Fragile Feyenoord offers hope",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=111615",
           "author": "CQN Magazine",
           "description": "MATT O’RILEY ignored recent transfer speculation to focus on Celtic’s Champions League challenge after the money-spinning ballot in Monaco yesterday. The Hoops have been paired with former Euro foes Feyenoord, Atletico Madrid and Lazio and the stylish midfielder is relishing the opportunity of pitting his wits among the game’s elite. O’Riley, a £1.5million bargain buy [...]",
@@ -541,16 +551,6 @@
           "wordCount": 1971,
           "title": "Celtic make early morning double exit announcement",
           "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1464769707.jpeg"
-        },
-        {
-          "id": "https://thecelticbhoys.com/?p=43719",
-          "author": "Sourav Mahanty",
-          "description": "Celtic fans will be nervous going into the last few days of the summer transfer window. There is still a lot of work to be done if the Hoops are to be competitive this season because, to be honest, they have looked anything but that. The supporters will be hoping that we see a repeat […]\nFabrizio Romano drops Celtic news ahead of deadline day - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community",
-          "link": "https://thecelticbhoys.com/2023/08/27/fabrizio-romano-celtic-news-deadline-day/",
-          "publishedOn": "2023-08-27T22:30:39.000Z",
-          "wordCount": 2032,
-          "title": "Fabrizio Romano drops Celtic news ahead of deadline day",
-          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2018%2F08%2F1464769763.jpeg"
         }
       ]
     },
@@ -607,6 +607,36 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=173010",
+          "author": "Hamish Carton",
+          "description": "Celtic are set to dodge the talents of Joao Félix in their upcoming UEFA Champions League campaign, according to a report. The Atletico Madrid and...\nThe post Report: Celtic set to dodge £113m star in Champions League; high-profile move agreed appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/celtic-set-to-dodge-joao-felix-danger-but-true-firepower-will-still-be-coming-to-glasgow/",
+          "publishedOn": "2023-09-01T12:10:00.000Z",
+          "wordCount": 1450,
+          "title": "Report: Celtic set to dodge £113m star in Champions League; high-profile move agreed",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/09/GettyImages-1631576664-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=173015",
+          "author": "Amir Mir",
+          "description": "Andy Walker has backed a deadline day exit for Celtic winger, Sead Haksabanovic. The 24-year-old made his feelings clear after Celtic’s dropped points at home...\nThe post ‘I am sure’: Andy Walker reacts to possible deadline day exit of Celtic player he ‘liked’ appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/transfers/i-am-sure-andy-walker-reacts-to-possible-deadline-day-exit-of-celtic-player-he-liked/",
+          "publishedOn": "2023-09-01T11:40:00.000Z",
+          "wordCount": 1389,
+          "title": "‘I am sure’: Andy Walker reacts to possible deadline day exit of Celtic player he ‘liked’",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/08/GettyImages-1244220044-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=173006",
+          "author": "John McGinley",
+          "description": "Stoke City and PAOK are the two main contenders to sign apparent wantaway Celtic talent Sead Haksabanovic in the closing stages of the transfer window....\nThe post The fee Celtic could receive for failed Ange signing as two clubs battle it out appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/transfers/the-fee-celtic-could-receive-for-sead-haksabanovic-as-two-clubs-battle-it-out/",
+          "publishedOn": "2023-09-01T10:42:05.000Z",
+          "wordCount": 1276,
+          "title": "The fee Celtic could receive for failed Ange signing as two clubs battle it out",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/08/GettyImages-1569555085-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=173003",
           "author": "John McGinley",
