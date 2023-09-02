@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-09-01T22:09:04.621Z</updated>
+    <updated>2023-09-02T00:43:09.782Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic player could make last-minute Deadline Day exit]]></title>
+        <id>https://thecelticbhoys.com/?p=43832</id>
+        <link href="https://thecelticbhoys.com/2023/09/01/celtic-player-last-deadline-day-exit/"/>
+        <updated>2023-09-01T22:00:42.000Z</updated>
+        <summary type="html"><![CDATA[Celtic have certainly had an eventful summer transfer window and it is set to close in hours. The club have made nine signings this time around but none of then can be considered as a marquee addition. It is Nat Phillips, the Liverpool centre-back, who comes with the biggest name value out of them and […]
+Celtic player could make last-minute Deadline Day exit - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
+        <author>
+            <name>Sourav Mahanty</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Watch: New Celtic Bhoy Paulo Bernardo's wonder goal in Portuguese top-flight]]></title>
         <id>https://www.67hailhail.com/?p=173105</id>
@@ -1380,26 +1391,6 @@ The post The David Potter Archives – Potters Players – Joe Cassidy appeared 
 Celtic linked with late move for Manchester City player - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
         <author>
             <name>Sourav Mahanty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CELTIC PAIR AXED]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=111443</id>
-        <link href="https://www.celticquicknews.co.uk/celtic-pair-axed/"/>
-        <updated>2023-08-28T11:11:00.000Z</updated>
-        <summary type="html"><![CDATA[CELTIC defenders Anthony Ralston and Greg Taylor have been axed from the Scotland squad for next month’s double-header against Cyprus and England. International boss Steve Clarke has overlooked the Hoops full-backs while skipper Callum McGregor is the solitary player from the champions who is included in the 25-man pool for the games in Larnaca and [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Current Celtic issue is not managerial]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=111441</id>
-        <link href="https://www.celticquicknews.co.uk/current-celtic-issue-is-not-managerial/"/>
-        <updated>2023-08-28T11:04:48.000Z</updated>
-        <summary type="html"><![CDATA[Hindsight and all that, but looking back, Celtic’s form slipped in mid-April this year.  We were imperious until that point, but even wins, like the Scottish Cup semi-final win over Newco, were not as impressive than the League Cup Final win over the same opponents a few weeks earlier. The season petered out amid home [...]]]></summary>
-        <author>
-            <name>Paul67</name>
         </author>
     </entry>
 </feed>
