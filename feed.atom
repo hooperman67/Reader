@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-09-03T10:09:23.877Z</updated>
+    <updated>2023-09-03T12:16:52.417Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BROONY AXED]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=111690</id>
+        <link href="https://www.celticquicknews.co.uk/broony-axed/"/>
+        <updated>2023-09-03T10:12:50.000Z</updated>
+        <summary type="html"><![CDATA[FORMER Celtic skipper Scott Brown has been sacked by Fleetwood Town. The English third-tier side relieved the Hoops legend of his managerial duties following “a difficult run of results”. The team languish 23rd in League One after six matches with just one point. Brown’s team last picked up a point in the draw with Carlisle [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘Rangers’ v Celtic, Live updates]]></title>
         <id>https://www.celticquicknews.co.uk/?p=111686</id>
@@ -1581,17 +1591,6 @@ The post Report: Paulo Bernardo solution presents itself to Celtic and there's a
         <summary type="html"><![CDATA[LISBON LION Bobby Lennox, Celtic’s all-time second-highest goalscorer following two spells and 20 years at the club, celebrates his 80th birthday today. The striking speedster was born on this date in Saltcoats in 1943 – making him the Lisbon Lion born furthest from Parkhead. Lennox joined the Hoops from Junior side Ardeer Recreation in 1961 [...]]]></summary>
         <author>
             <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sky Sports man drops late night news as Celtic in talks]]></title>
-        <id>https://thecelticbhoys.com/?p=43762</id>
-        <link href="https://thecelticbhoys.com/2023/08/29/sky-sports-man-late-night-celtic-talks/"/>
-        <updated>2023-08-29T22:30:38.000Z</updated>
-        <summary type="html"><![CDATA[Things seem to be picking up pace for Celtic in the last days of the summer transfer window. The club have left it late and it is not a great situation to be in. Now though, one can only hope that they are able to get deals over the line and bring in some quality […]
-Sky Sports man drops late night news as Celtic in talks - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
-        <author>
-            <name>Sourav Mahanty</name>
         </author>
     </entry>
 </feed>
