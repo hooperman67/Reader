@@ -6,6 +6,26 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=111686",
+          "author": "Paul67",
+          "description": "Live updates will appear below after 12:00.",
+          "link": "https://www.celticquicknews.co.uk/rangers-v-celtic-live-updates-21/",
+          "publishedOn": "2023-09-03T10:00:57.000Z",
+          "wordCount": 3870,
+          "title": "‘Rangers’ v Celtic, Live updates",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/?p=111657",
+          "author": "CQN Magazine",
+          "description": "LIEL ABADA returns to the Celtic line-up for the first Glasgow derby of the season at Ibrox this afternoon. The Israeli winger, who comes in for South Korean Yang Hyun-jun, is the only change from the side that drew 0-0 with St Johnstone last weekend. Abada will be hoping to stage an action replay of [...]",
+          "link": "https://www.celticquicknews.co.uk/confirmed-abada-starts-palma-on-stand-by/",
+          "publishedOn": "2023-09-03T09:55:33.000Z",
+          "wordCount": 4253,
+          "title": "CONFIRMED: ABADA STARTS, PALMA ON STAND-BY",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/09/LIEL-ABADA-FEATURED-N-DEAL-HH.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=111680",
           "author": "CQN Magazine",
           "description": "BRENDAN RODGERS has told his Celtic players to prepare for Judgement Day at Ibrox this afternoon. It’s an occasion when the Hoops will have to stand up to be counted in a partisan arena where there will not be a solitary Hoops supporter to add encouragement. On the last occasion at the same ground, Ange [...]",
@@ -344,16 +364,6 @@
           "wordCount": 4929,
           "title": "HAPPY 80th BIRTHDAY, BUZZBOMB BOBBY",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2021/08/BOBBY-LENNOX-FEATURED-AG.jpg"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=111472",
-          "author": "CQN Magazine",
-          "description": "CELTIC are ramping up their moves in the transfer market, but it looks they have dropped interest in Brondby striker Mathias Kvistgaarden. The champions are awaiting to unveil Honduran winger Luis Palma as their seventh signing of the summer while they are being linked with Benfica midfielder Paulo Bernado. In the meantime, a report has [...]",
-          "link": "https://www.celticquicknews.co.uk/celtic-transfer-update-palma-poised-bernado-linked-no-go-kvistgaarden-oriley-eyed/",
-          "publishedOn": "2023-08-29T20:27:33.000Z",
-          "wordCount": 4230,
-          "title": "CELTIC TRANSFER UPDATE: PALMA POISED, BERNADO LINKED, NO-GO KVISTGAARDEN, O’RILEY EYED",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/08/brendan-rodgers-etetetet.png"
         }
       ]
     },
@@ -362,6 +372,16 @@
       "feedUrl": "https://thecelticbhoys.com/feed/",
       "siteUrl": "https://thecelticbhoys.com",
       "articles": [
+        {
+          "id": "https://thecelticbhoys.com/?p=43796",
+          "author": "StevieMac",
+          "description": "As Celtic announced their seventh summer signing in Luis Palma on Wednesday evening, the Rangers were sent packing from the Champions League qualifiers. Michael Beale wasn’t able to guide his team to the main stage of the competition, as they were defeated 5 -1 by PSV in the second leg of their matchup. As the […]\nRangers fans make Michael Beale U-turn before facing Celtic - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community",
+          "link": "https://thecelticbhoys.com/2023/09/03/rangers-fans-michael-beale-celtic/",
+          "publishedOn": "2023-09-03T09:00:48.000Z",
+          "wordCount": 2005,
+          "title": "Rangers fans make Michael Beale U-turn before facing Celtic",
+          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1486602572-1.jpeg"
+        },
         {
           "id": "https://thecelticbhoys.com/?p=43861",
           "author": "Sourav Mahanty",
@@ -611,16 +631,6 @@
           "wordCount": 2013,
           "title": "Sky Sports man drops late night news as Celtic in talks",
           "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F868112044.jpeg"
-        },
-        {
-          "id": "https://thecelticbhoys.com/?p=43759",
-          "author": "Sourav Mahanty",
-          "description": "Other than Luis Palma, Celtic were being linked with no players in the last few days despite the fact that rumours suggested they wanted to sign as many as five players before the transfer window slammed shut. The situation seems to have transformed today though, with the club being linked with one player after another. […]\nCeltic open talks to sign Portuguese player on loan - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community",
-          "link": "https://thecelticbhoys.com/2023/08/29/celtic-open-talks-portuguese-player/",
-          "publishedOn": "2023-08-29T21:00:11.000Z",
-          "wordCount": 2000,
-          "title": "Celtic open talks to sign Portuguese player on loan",
-          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1237884964-scaled.jpeg"
         }
       ]
     },
@@ -688,6 +698,46 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=173281",
+          "author": "John McGinley",
+          "description": "Manager Brendan Rodgers has named his Celtic team vs Rangers for today’s Scottish Premiership match at Ibrox. The full match squad is as follows: Starting...\nThe post No new Bhoys: Celtic XI confirmed, one change, global TV details, instant reaction appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/match/celtic-team-vs-rangers-confirmed-one-change-no-debuts-global-tv-details-instant-reaction/",
+          "publishedOn": "2023-09-03T09:51:46.000Z",
+          "wordCount": 1360,
+          "title": "No new Bhoys: Celtic XI confirmed, one change, global TV details, instant reaction",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/08/GettyImages-1569529607-1-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=173274",
+          "author": "John McGinley",
+          "description": "Celtic legend Scott Brown has been sacked as Fleetwood Town manager just a few weeks into the new season. A statement on the club’s official...\nThe post Celtic legend Scott Brown sacked from first management job; statement released appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/celtic-legend-scott-brown-sacked-from-first-management-job-statement-released/",
+          "publishedOn": "2023-09-03T09:28:36.000Z",
+          "wordCount": 1261,
+          "title": "Celtic legend Scott Brown sacked from first management job; statement released",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/07/GettyImages-1243990270-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=173271",
+          "author": "John McGinley",
+          "description": "Brendan Rodgers called for Celtic signings in the last week of the summer transfer window and he got three of them – Luis Palma, Nat...\nThe post \"We're really excited\"; Brendan Rodgers talks up new Celtic signings ahead of Ibrox trip appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/were-really-excited-brendan-rodgers-talks-up-new-celtic-signings-ahead-of-ibrox-trip/",
+          "publishedOn": "2023-09-03T08:50:37.000Z",
+          "wordCount": 1396,
+          "title": "\"We're really excited\"; Brendan Rodgers talks up new Celtic signings ahead of Ibrox trip",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/08/GettyImages-1569963963-3-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=173268",
+          "author": "John McGinley",
+          "description": "Brendan Rodgers will be making firm judgments on his Celtic players at Ibrox today, feeling that this is the kind of game where he can...\nThe post Brendan Rodgers sends clear message to Celtic dressing room ahead of Rangers test appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/match/brendan-rodgers-sends-clear-message-to-celtic-dressing-room-ahead-of-rangers-test/",
+          "publishedOn": "2023-09-03T08:16:46.000Z",
+          "wordCount": 1361,
+          "title": "Brendan Rodgers sends clear message to Celtic dressing room ahead of Rangers test",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/08/GettyImages-1564077694-1-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=173265",
           "author": "John McGinley",
@@ -1425,6 +1475,16 @@
       "feedUrl": "https://celticfanzine.com/category/news/feed/",
       "siteUrl": "https://celticfanzine.com/category/news/",
       "articles": [
+        {
+          "id": "https://celticfanzine.com/?p=58352",
+          "author": "celtic",
+          "description": "Click into image to download the rangers v CELTIC Match day Mini-zine. Hit subscribe to get match day edition in your inbox every time.\nThe post the rangers V CELTIC Matchday Minizine appeared first on Celtic Fanzine.",
+          "link": "https://celticfanzine.com/the-rangers-v-celtic-matchday-minizine/",
+          "publishedOn": "2023-09-03T09:13:08.000Z",
+          "wordCount": 1615,
+          "title": "the rangers V CELTIC Matchday Minizine",
+          "imageUrl": "https://celticfanzine.com/wp-content/uploads/MATCHDAY-.png"
+        },
         {
           "id": "https://celticfanzine.com/?p=58330",
           "author": "celtic",
