@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-09-03T14:08:11.215Z</updated>
+    <updated>2023-09-03T16:11:16.352Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rangers fans meltdown after another loss to Celtic]]></title>
+        <id>https://thecelticbhoys.com/?p=43870</id>
+        <link href="https://thecelticbhoys.com/2023/09/03/rangers-fans-another-loss-celtic/"/>
+        <updated>2023-09-03T14:00:52.000Z</updated>
+        <summary type="html"><![CDATA[Celtic fans were worried going into the game away at Ibrox. They had not looked convincing the entire season and were winless in their previous two matches. On the other hand, the Rangers were coming off of a 5-1 defeat at the hands of PSV in midweek but overall, their supporters seemed to be more […]
+Rangers fans meltdown after another loss to Celtic - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
+        <author>
+            <name>Sourav Mahanty</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Brendan Rodgers reacts with superb BBC interview as Celtic leave Ibrox fans booing Rangers]]></title>
         <id>https://www.67hailhail.com/?p=173325</id>
@@ -1635,16 +1646,6 @@ The post Explained: How the Lisbon Lions are still benefiting Celtic in 2023; ma
 The post Report: Paulo Bernardo solution presents itself to Celtic and there's a familiar feeling appeared first on 67 Hail Hail.]]></summary>
         <author>
             <name>Hamish Carton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HAPPY 80th BIRTHDAY, BUZZBOMB BOBBY]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=39307</id>
-        <link href="https://www.celticquicknews.co.uk/happy-80th-birthday-buzzbomb-bobby/"/>
-        <updated>2023-08-30T04:00:38.000Z</updated>
-        <summary type="html"><![CDATA[LISBON LION Bobby Lennox, Celtic’s all-time second-highest goalscorer following two spells and 20 years at the club, celebrates his 80th birthday today. The striking speedster was born on this date in Saltcoats in 1943 – making him the Lisbon Lion born furthest from Parkhead. Lennox joined the Hoops from Junior side Ardeer Recreation in 1961 [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
         </author>
     </entry>
 </feed>
