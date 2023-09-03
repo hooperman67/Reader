@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-09-03T02:16:42.829Z</updated>
+    <updated>2023-09-03T04:11:17.475Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[RODGERS v RANGERS (Part Six): MIGHTY MOUSSA TOP OF THE HIT PARADE]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=111659</id>
+        <link href="https://www.celticquicknews.co.uk/rodgers-v-rangers-part-six-mighty-moussa-top-of-the-hit-parade/"/>
+        <updated>2023-09-03T04:00:27.000Z</updated>
+        <summary type="html"><![CDATA[BRENDAN RODGERS resumes hostilities with Ibrox opposition in the High Noon showdown in enemy territory today. The returning Celtic manager has not figured in the derby fixture for four years and nine months. Rodgers has already been involved in 13 of the no-holds-barred encounters after first arriving at Parkhead in May 2016. The Irishman has enjoyed [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Brendan Rodgers calls out media over Celtic rumour]]></title>
         <id>https://thecelticbhoys.com/?p=43861</id>
@@ -1477,17 +1487,6 @@ Celtic’s late £4 million transfer bid for striker rejected - The Celtic Bhoys
 The post Another Thai Adventure Planned for Celtic Fans appeared first on Celtic Fanzine.]]></summary>
         <author>
             <name>celtic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Five signings Celtic could complete between now and the transfer window deadline - opinion]]></title>
-        <id>https://www.67hailhail.com/?p=172597</id>
-        <link href="https://www.67hailhail.com/transfers/five-signings-celtic-could-complete-between-now-and-the-transfer-window-deadline/"/>
-        <updated>2023-08-29T16:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Celtic have less than four days to add to their first-team squad and change the perception of the summer window. As things currently stand, the...
-The post Five signings Celtic could complete between now and the transfer window deadline - opinion appeared first on 67 Hail Hail.]]></summary>
-        <author>
-            <name>Hamish Carton</name>
         </author>
     </entry>
 </feed>
