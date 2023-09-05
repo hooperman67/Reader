@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=111807",
+          "author": "Paul67",
+          "description": "If you can withhold pressure from the baying mob after poor football results, you are built from strong stuff. Looking in from the outside, it is easy to understand why sacking a manager should never be done on the back of one poor run of form, least of all a manager’s first poor run of [...]",
+          "link": "https://www.celticquicknews.co.uk/football-fans-and-fragile-self-esteem/",
+          "publishedOn": "2023-09-05T11:00:19.000Z",
+          "wordCount": 5920,
+          "title": "Football fans and fragile self-esteem",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=111786",
           "author": "CQN Magazine",
           "description": "FORMER Celtic defender Charlie Mulgrew has brought his 18-year playing career to a halt. The 37-year-old one-time Scotland international has decided to quit after leaving his post as player-coach at relegated Dundee United in the summer. Mulgrew had two spells at Parkhead and played for eight clubs after originally coming through the Hoops’ youth system. [...]",
@@ -591,16 +601,6 @@
           "wordCount": 1970,
           "title": "Celtic make long-awaited early morning announcement",
           "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2018%2F08%2F1464769735.jpeg"
-        },
-        {
-          "id": "https://thecelticbhoys.com/?p=43810",
-          "author": "Sourav Mahanty",
-          "description": "Celtic have announced the signings of Luis Palma and Nat Phillips. The Hoops need to make a few more additions before the summer transfer window slams shut though as there are a few positions on the pitch where they seem to be weak at the moment. One of them has to be left-back. Greg Taylor […]\nCeltic offered chance to sign Champions League winner for free - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community",
-          "link": "https://thecelticbhoys.com/2023/08/31/celtic-offered-champions-league-winner/",
-          "publishedOn": "2023-08-31T22:30:55.000Z",
-          "wordCount": 1970,
-          "title": "Celtic offered chance to sign Champions League winner for free",
-          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F525862664-scaled.jpeg"
         }
       ]
     },
@@ -608,23 +608,7 @@
       "title": "eTims",
       "feedUrl": "http://etims.net/?feed=rss2",
       "siteUrl": "https://etims.net",
-      "articles": [
-        {
-          "id": "https://etims.net/?p=18475",
-          "author": "Desi Mond",
-          "description": "The Celtic Grandad CSC all get together to discuss the Champions League draw which sees Celtic in Group E with trips to Rotterdam Rome and…",
-          "link": "https://etims.net/?p=18475",
-          "publishedOn": "2023-08-31T22:25:36.000Z",
-          "wordCount": 2652,
-          "title": "Celtic Grandads CSC Podcast:  Apply Within",
-          "enclosure": {
-            "url": "https://api.spreaker.com/v2/episodes/56653492/download.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": "https://etims.net/wp-content/uploads/2023/08/Screenshot-2023-08-31-231540-1024x579.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "The Celtic Underground",
@@ -648,6 +632,36 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=173421",
+          "author": "Hamish Carton",
+          "description": "It was a rough afternoon for Todd Cantwell on Sunday against Celtic. The Rangers midfielder struggled badly to impact the game at Ibrox as Brendan...\nThe post The superb moment Todd Cantwell was shown up by Celtic star appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/match/the-superb-moment-todd-cantwell-was-shown-up-by-celtic-star/",
+          "publishedOn": "2023-09-05T11:10:00.000Z",
+          "wordCount": 1319,
+          "title": "The superb moment Todd Cantwell was shown up by Celtic star",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/09/GettyImages-1617248987-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=173472",
+          "author": "Hamish Carton",
+          "description": "Celtic player Sead Haksabanovic won’t be featuring for Montenegro during the upcoming international break. The winger is still on our books but won’t be playing...\nThe post Sead Haksabanovic makes international call after Celtic exit; manager doesn't seem happy appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/sead-haksabanovic-makes-international-call-after-celtic-exit-manager-doesnt-seem-happy/",
+          "publishedOn": "2023-09-05T10:43:08.000Z",
+          "wordCount": 1330,
+          "title": "Sead Haksabanovic makes international call after Celtic exit; manager doesn't seem happy",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/09/GettyImages-1241246919-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=173475",
+          "author": "Hamish Carton",
+          "description": "Celtic have announced details for the upcoming UEFA Champions League three-match package. The Hoops are back in the group stage of the Champions League for...\nThe post Celtic announce UEFA Champions League package details; price, deadline, 2022 comparison appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/celtic-announce-uefa-champions-league-package-details-price-deadline-2022-comparison/",
+          "publishedOn": "2023-09-05T10:14:09.000Z",
+          "wordCount": 1297,
+          "title": "Celtic announce UEFA Champions League package details; price, deadline, 2022 comparison",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/09/GettyImages-1242996588-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=173463",
           "author": "Hamish Carton",
@@ -1295,6 +1309,16 @@
       "feedUrl": "https://celticfanzine.com/category/news/feed/",
       "siteUrl": "https://celticfanzine.com/category/news/",
       "articles": [
+        {
+          "id": "https://celticfanzine.com/?p=58365",
+          "author": "celtic",
+          "description": "A week is a long time in football and what a week it was finished off in style at Ibrox by Kyogo. What a goal and a performance from MOTM Liam Scales. Nothing hurts them more than a Fenian running the show. We also saw the transfer window closed and another 3 players added to […]\nThe post Champions League Tickets appeared first on Celtic Fanzine.",
+          "link": "https://celticfanzine.com/champions-league-tickets/",
+          "publishedOn": "2023-09-05T11:18:06.000Z",
+          "wordCount": 1877,
+          "title": "Champions League Tickets",
+          "imageUrl": "https://celticfanzine.com/wp-content/uploads/CL-celtic-.png"
+        },
         {
           "id": "https://celticfanzine.com/?p=58359",
           "author": "celtic",
