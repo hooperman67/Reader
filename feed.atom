@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-09-07T22:09:24.354Z</updated>
+    <updated>2023-09-08T00:44:52.185Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic player admits he enjoyed keeping Ibrox quiet]]></title>
+        <id>https://thecelticbhoys.com/?p=44001</id>
+        <link href="https://thecelticbhoys.com/2023/09/07/celtic-player-enjoyed-ibrox-quiet/"/>
+        <updated>2023-09-07T22:30:18.000Z</updated>
+        <summary type="html"><![CDATA[Celtic might not have brought big-name players this summer, but there are certainly a whole host of new faces at the club right now after nine additions were made in the recently concluded transfer window. And it could have been a tough early test at Ibrox for new signing Gustaf Lagerbielke. Instead, it looks like […]
+Celtic player admits he enjoyed keeping Ibrox quiet - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
+        <author>
+            <name>StevieMac</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Journalist claims Celtic failed to make two priority signings]]></title>
         <id>https://thecelticbhoys.com/?p=44023</id>
@@ -1074,16 +1085,6 @@ The post ‘He enjoys playing against Rangers’: Chris Sutton hails Celtic play
 The post Criticised star turns it round, Kyogo class; 3 things we learned as weakened Celtic beat Rangers appeared first on 67 Hail Hail.]]></summary>
         <author>
             <name>John McGinley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BROONY AXED]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=111690</id>
-        <link href="https://www.celticquicknews.co.uk/broony-axed/"/>
-        <updated>2023-09-03T10:12:50.000Z</updated>
-        <summary type="html"><![CDATA[FORMER Celtic skipper Scott Brown has been sacked by Fleetwood Town. The English third-tier side relieved the Hoops legend of his managerial duties following “a difficult run of results”. The team languish 23rd in League One after six matches with just one point. Brown’s team last picked up a point in the draw with Carlisle [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
         </author>
     </entry>
 </feed>
