@@ -6,6 +6,26 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=111809",
+          "author": "CQN Magazine",
+          "description": "JOE HART will be the man in possession of the gloves when Celtic embark on another Champions League quest. The 36-year-old 75 times-capped England international keeper has surely answered his critics with his recent displays, particularly his sound and near-flawless performance in the 1-0 win at Ibrox on Sunday. The shotstopper utilised all his experience to [...]",
+          "link": "https://www.celticquicknews.co.uk/hail-the-hart-stopper/",
+          "publishedOn": "2023-09-08T05:30:40.000Z",
+          "wordCount": 4073,
+          "title": "HAIL THE HART STOPPER",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/09/JOE-HART-BRENDAN-RODGERS-HHHHHH.png"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/?p=111805",
+          "author": "CQN Magazine",
+          "description": "LISBON LION Bobby Lennox scored TEN goals in two games within two weeks in 1968. That’s one more strike than Albian Ajeti managed in TWO years at the Parkhead club. The expensive Swiss misfit, reportedly on £25,000-per-week, eventually left the Hoops this week with the tag of being one of the worst purchases in the club’s history. Ajeti [...]",
+          "link": "https://www.celticquicknews.co.uk/bobby-lennox-10-albian-ajeti-9/",
+          "publishedOn": "2023-09-08T05:00:32.000Z",
+          "wordCount": 4247,
+          "title": "BOBBY LENNOX 10 ALBIAN AJETI 9",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/09/BOBBY-LENNOX-NETS-V-THISTLE-AUGUST-1968.png"
+        },
+        {
           "id": "http://www.cqnmagazine.com/?p=4792",
           "author": "CQN Magazine",
           "description": "CQN is turning the spotlight once again on the Celtic players who never had the honour of playing for their country. Roddie MacDonald became a trusted centre-half for Jock Stein as he searched for a long-term replacement for club icon Billy McNeill. However, the towering Highlander was never deemed good enough to get into a Scotland [...]",
@@ -441,16 +461,6 @@
           "wordCount": 2080,
           "title": "Celtic boss explains why Nat Phillips was dropped vs Rangers",
           "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1311277543-scaled.jpeg"
-        },
-        {
-          "id": "https://thecelticbhoys.com/?p=43881",
-          "author": "Sourav Mahanty",
-          "description": "It is a match that most Celtic fans did not expect to win, which makes the result even sweeter. The Hoops had struggled for form at the start of this season, winning just two of their four games till now. On the other hand, the Rangers were coming off a 5-1 defeat at the hands […]\nCeltic hero takes dig at Todd Cantwell after Glasgow Derby - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community",
-          "link": "https://thecelticbhoys.com/2023/09/03/celtic-hero-todd-cantwell-glasgow-derby/",
-          "publishedOn": "2023-09-03T17:30:41.000Z",
-          "wordCount": 2010,
-          "title": "Celtic hero takes dig at Todd Cantwell after Glasgow Derby",
-          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1252557136-scaled.jpeg"
         }
       ]
     },
@@ -487,6 +497,26 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=173783",
+          "author": "Hamish Carton",
+          "description": "Celtic attacker Hyunjun Yang’s rapid rise continued on Thursday as he made his debut for South Korea. The speedy winger joined the Hoops from Gangwon...\nThe post Recent Celtic signing is now a full international; Hoops may have a star on their hands appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/the-hyunjun-yang-rapid-rise-continues-and-celtic-may-have-a-star-on-their-hands/",
+          "publishedOn": "2023-09-08T05:45:00.000Z",
+          "wordCount": 1421,
+          "title": "Recent Celtic signing is now a full international; Hoops may have a star on their hands",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/09/GettyImages-1666389084-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=173802",
+          "author": "Hamish Carton",
+          "description": "Brendan Rodgers says he wants to enjoy more of Scotland in his second stint as Celtic manager. Rodgers returned to the Hoops hot seat in...\nThe post Brendan Rodgers shares his plans for international break; change from first Celtic spell appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/brendan-rodgers-shares-his-plans-for-international-break-change-from-his-first-celtic-spell/",
+          "publishedOn": "2023-09-08T05:15:00.000Z",
+          "wordCount": 1482,
+          "title": "Brendan Rodgers shares his plans for international break; change from first Celtic spell",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/09/GettyImages-1569964979-1-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=173780",
           "author": "John McGinley",
@@ -983,16 +1013,6 @@
           "wordCount": 1877,
           "title": "Champions League Tickets",
           "imageUrl": "https://celticfanzine.com/wp-content/uploads/CL-celtic-.png"
-        },
-        {
-          "id": "https://celticfanzine.com/?p=58359",
-          "author": "celtic",
-          "description": "All good things come in 3’s as they say so this weekend couldn’t be any better and today completed my ‘treble’. My only daughter got married on Friday and we were back in sunny Donegal for the nuptials as they head to New York for the honeymoon. Now it really couldn’t get much better but […]\nThe post No Fans No Problem Lets Party appeared first on Celtic Fanzine.",
-          "link": "https://celticfanzine.com/bad-week-for-the-bears/",
-          "publishedOn": "2023-09-03T17:38:13.000Z",
-          "wordCount": 2118,
-          "title": "No Fans No Problem Lets Party",
-          "imageUrl": "https://celticfanzine.com/wp-content/uploads/NO-FANS-.png"
         }
       ]
     }
