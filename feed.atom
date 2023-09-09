@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-09-09T02:13:21.429Z</updated>
+    <updated>2023-09-09T04:11:33.555Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JOHN FALLON: GREAT UNCAPPED CELTS (Part Five)]]></title>
+        <id>http://www.cqnmagazine.com/?p=4885</id>
+        <link href="https://www.celticquicknews.co.uk/john-fallon-great-uncapped-celts-part-five/"/>
+        <updated>2023-09-09T04:00:25.000Z</updated>
+        <summary type="html"><![CDATA[CQN is turning the spotlight once again on the Celtic players who never had the honour of playing for their country. Goalkeeper John Fallon played an important part in Celtic winning the Scottish Cup when they overcame Dunfermline 3-2 in April 1965 – the club’s first silverware in eight years. He was in Jock Stein’s [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Celtic signing Luis Palma was close to joining Portuguese club]]></title>
         <id>https://thecelticbhoys.com/?p=44039</id>
