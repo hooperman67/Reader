@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-09-09T04:11:33.555Z</updated>
+    <updated>2023-09-09T06:11:43.140Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ALEX’S ANGLE: ‘NO BAD FOR AN EFFIN’ LINSEMAN, EH, WALTER?’]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=111790</id>
+        <link href="https://www.celticquicknews.co.uk/alexs-angle-no-bad-for-an-effin-linseman-eh-walter/"/>
+        <updated>2023-09-09T04:30:38.000Z</updated>
+        <summary type="html"><![CDATA[AS a veteran of way too many Hampden and Wembley skirmishes – and I’ve got the scars to prove it – I am looking forward to Tuesday’s 150th anniversary match between Scotland and England at “Celtic’s second home,” as Bertie Auld used to call our national stadium. Contrary to popular belief, I was not among [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JOHN FALLON: GREAT UNCAPPED CELTS (Part Five)]]></title>
         <id>http://www.cqnmagazine.com/?p=4885</id>
@@ -1085,39 +1095,6 @@ Celtic player completes permanent exit after Deadline Day - The Celtic Bhoys - T
 Rangers make SFA decision after losing to Celtic again - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
         <author>
             <name>Sourav Mahanty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kasper Schmeichel agrees move amid Celtic rumours]]></title>
-        <id>https://thecelticbhoys.com/?p=43913</id>
-        <link href="https://thecelticbhoys.com/2023/09/04/kasper-schmeichel-agrees-move-celtic/"/>
-        <updated>2023-09-04T18:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Most fans expected Celtic to sign a goalkeeper this summer, with there being major question marks surrounding Joe Hart and his suitability for Brendan Rodgers’ team. There were rumours linking them with a move for Dominik Livakovic, who would have been a great signing, but that did not end up happening. And with Benjamin Siegrist […]
-Kasper Schmeichel agrees move amid Celtic rumours - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
-        <author>
-            <name>Sourav Mahanty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deflection tactics get desperate after Celtic triumph]]></title>
-        <id>https://www.67hailhail.com/?p=173399</id>
-        <link href="https://www.67hailhail.com/news/deflection-tactics-get-desperate-after-celtic-triumph/"/>
-        <updated>2023-09-04T17:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Dear, oh, dear. It seems some people in Glasgow are struggling with the latest Celtic derby triumph on Sunday, with deflection tactics taking a new...
-The post Deflection tactics get desperate after Celtic triumph appeared first on 67 Hail Hail.]]></summary>
-        <author>
-            <name>John McGinley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Celtic Bhoy gets milestone international call-up weeks after signing]]></title>
-        <id>https://www.67hailhail.com/?p=173394</id>
-        <link href="https://www.67hailhail.com/news/new-celtic-bhoy-gustaf-lagerbielke-gets-milestone-international-call-up-weeks-after-signing/"/>
-        <updated>2023-09-04T16:31:01.000Z</updated>
-        <summary type="html"><![CDATA[New Celtic Bhoy Gustaf Lagerbielke has been called up for the Sweden national team for competitive matches for the very first time. Lagerbielke has one...
-The post New Celtic Bhoy gets milestone international call-up weeks after signing appeared first on 67 Hail Hail.]]></summary>
-        <author>
-            <name>John McGinley</name>
         </author>
     </entry>
 </feed>
