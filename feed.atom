@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-09-10T08:11:36.370Z</updated>
+    <updated>2023-09-10T10:09:20.581Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CROCKED CELT ‘SEEMS TO BE ANGRY’]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=111825</id>
+        <link href="https://www.celticquicknews.co.uk/crocked-celt-seems-to-be-angry/"/>
+        <updated>2023-09-10T09:03:04.000Z</updated>
+        <summary type="html"><![CDATA[LIEL ABADA has joined the growing Celtic injury list – and he could face a MONTH on the sidelines to add to Brendan Rodgers’ woes. The Israeli wing ace has been sent home from his country’s international squad after sustaining a knock in training. The Hoops medical staff will check the extent of the problem, [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JOCK STEIN: ‘THE BIG MAN, ME AND GOING ON STRIKE’: DAVIE HAY LOOKS BACK]]></title>
         <id>https://www.celticquicknews.co.uk/?p=54271</id>
@@ -1018,28 +1028,6 @@ The post Jurgen Klinsmann shares what Brendan Rodgers told him about Celtic trio
         <summary type="html"><![CDATA[CQN is turning the spotlight again on the Celtic players who never had the honour of playing for their country. Ian Young, the solid, unspectacular right-back who sadly passed away in December 2019 at the age of 76, never got the nod to get into a Scotland squad. Young rarely hit the headlines with his [...]]]></summary>
         <author>
             <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neil Lennon makes superb Champions League claim about Celtic]]></title>
-        <id>https://thecelticbhoys.com/?p=43934</id>
-        <link href="https://thecelticbhoys.com/2023/09/05/neil-lennon-champions-league-celtic/"/>
-        <updated>2023-09-05T22:00:11.000Z</updated>
-        <summary type="html"><![CDATA[As the dust settles after Sunday’s away win for Celtic at Ibrox over the Rangers, there’s now a great set of opportunities ahead for the squad. One of those is to successfully navigate their way through the Champions League group stages. And Neil Lennon reckons that the team can do well in Europe. The immediate […]
-Neil Lennon makes superb Champions League claim about Celtic - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
-        <author>
-            <name>StevieMac</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ange Postecoglou was offered chance to sign Celtic favourite]]></title>
-        <id>https://thecelticbhoys.com/?p=43948</id>
-        <link href="https://thecelticbhoys.com/2023/09/05/ange-postecoglou-sign-celtic-favourite/"/>
-        <updated>2023-09-05T20:30:06.000Z</updated>
-        <summary type="html"><![CDATA[When Ange Postecoglou left Celtic in order to join Tottenham Hotspur just days after guiding the Hoops to a domestic treble, it was clearly a major blow for the club. The Australian was fantastic during his two seasons at Parkhead and won five trophies. Since leaving, he has already proven his mettle in London, as […]
-Ange Postecoglou was offered chance to sign Celtic favourite - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
-        <author>
-            <name>Sourav Mahanty</name>
         </author>
     </entry>
 </feed>
