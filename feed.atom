@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-09-11T14:09:45.247Z</updated>
+    <updated>2023-09-11T16:13:00.396Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA["Buzzing" £25m man explains his transfer decision after summer of Celtic rumours]]></title>
+        <id>https://www.67hailhail.com/?p=173948</id>
+        <link href="https://www.67hailhail.com/news/buzzing-kieran-tierney-explains-his-la-liga-decision-after-summer-of-celtic-and-arsenal-rumours/"/>
+        <updated>2023-09-11T15:34:36.000Z</updated>
+        <summary type="html"><![CDATA[Kieran Tierney has spoken about his move to La Liga this season and the decision to leave Arsenal on loan, after a summer of rumours...
+The post "Buzzing" £25m man explains his transfer decision after summer of Celtic rumours appeared first on 67 Hail Hail.]]></summary>
+        <author>
+            <name>John McGinley</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic player completes transfer to Sheffield United]]></title>
         <id>https://thecelticbhoys.com/?p=44115</id>
@@ -995,16 +1006,6 @@ The post Disappointing news for former Celtic hero as manager search nears a con
 The post ’To be fair’: Brendan Rodgers agrees with Ally McCoist’s 'quite frank' Celtic-Rangers claim appeared first on 67 Hail Hail.]]></summary>
         <author>
             <name>Amir Mir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ANDY LYNCH: GREAT UNCAPPED CELTS (Part Three)]]></title>
-        <id>http://www.cqnmagazine.com/?p=4780</id>
-        <link href="https://www.celticquicknews.co.uk/andy-lynch-great-uncapped-celts-part-three/"/>
-        <updated>2023-09-07T04:00:13.000Z</updated>
-        <summary type="html"><![CDATA[CQN is turning the spotlight once again on the Celtic players who never had the honour of playing for their country. Andy Lynch may have been a trusted defender for Jock Stein, but never got the nod to get into a Scotland squad. The legendary Hoops manager thought he was buying a flying machine at [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
         </author>
     </entry>
 </feed>
