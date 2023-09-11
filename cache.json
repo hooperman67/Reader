@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=111834",
+          "author": "CQN Magazine",
+          "description": "SPECULATION that Scott Brown could be in the running for the Hibs manager’s job has finally come to an end. The Easter Road club issued a statement this morning confirming the appointment of Nick Montgomery as their new boss on a three-year contract. The 41-year-old head coach has left Aussie outfit Central Coast Mariners to replace [...]",
+          "link": "https://www.celticquicknews.co.uk/broony-guessing-game-ends/",
+          "publishedOn": "2023-09-11T09:59:25.000Z",
+          "wordCount": 4042,
+          "title": "BROONY GUESSING GAME ENDS",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/09/Screenshot-2023-09-11-at-11.01.08.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=111831",
           "author": "CQN Magazine",
           "description": "CELTIC hero Peter Grant hopes his old club make Matt O’Riley an offer he can’t refuse. The former Hoops midfield battler is an enthusiastic admirer of the Londoner after their time together at Fulham. Grant was in charge of youth development at the Craven Cottage club and had no hesitation in upgrading 15-year-old O’Riley to [...]",
@@ -202,6 +212,16 @@
       "feedUrl": "https://thecelticbhoys.com/feed/",
       "siteUrl": "https://thecelticbhoys.com",
       "articles": [
+        {
+          "id": "https://thecelticbhoys.com/?p=44112",
+          "author": "Sourav Mahanty",
+          "description": "Celtic were pretty active over the summer transfer window even if most fans were not happy that the club did not bring in any established and high-profile names. Instead, they continued to sign highly-rated youngsters with the potential to develop into key players at Parkhead. Let’s see if the strategy pays off or not. It […]\nSky Sports man names key signing Celtic failed to make - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community",
+          "link": "https://thecelticbhoys.com/2023/09/11/sky-sports-man-signing-celtic-failed/",
+          "publishedOn": "2023-09-11T09:30:40.000Z",
+          "wordCount": 2075,
+          "title": "Sky Sports man names key signing Celtic failed to make",
+          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1571563440-scaled.jpeg"
+        },
         {
           "id": "https://thecelticbhoys.com/?p=44088",
           "author": "StevieMac",
@@ -451,16 +471,6 @@
           "wordCount": 2090,
           "title": "Celtic set to offer new contract to £10 million-plus player",
           "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2018%2F08%2F1464769763.jpeg"
-        },
-        {
-          "id": "https://thecelticbhoys.com/?p=43955",
-          "author": "StevieMac",
-          "description": "The season is well underway now for Celtic as they sit joint top of the Premiership with Motherwell and have a Glasgow Derby win at Ibrox over the Rangers already in the bag. Soon the Hoops will kick off their Champions League campaign too and Brendan Rodgers has had his say regarding their approach for […]\nBrendan Rodgers makes Celtic declaration for Champions League - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community",
-          "link": "https://thecelticbhoys.com/2023/09/06/rodgers-makes-celtic-champions-league/",
-          "publishedOn": "2023-09-06T20:30:15.000Z",
-          "wordCount": 2190,
-          "title": "Brendan Rodgers makes Celtic declaration for Champions League",
-          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1355573087-scaled.jpeg"
         }
       ]
     },
@@ -468,23 +478,7 @@
       "title": "eTims",
       "feedUrl": "http://etims.net/?feed=rss2",
       "siteUrl": "https://etims.net",
-      "articles": [
-        {
-          "id": "https://etims.net/?p=18482",
-          "author": "Desi Mond",
-          "description": "Hector, Monty and Desi get together to salute The Alamo Celtic Team who stood tall against all the odds and fears and came away from…",
-          "link": "https://etims.net/?p=18482",
-          "publishedOn": "2023-09-06T20:58:22.000Z",
-          "wordCount": 2630,
-          "title": "Booooooooh! – The ETims Podcast",
-          "enclosure": {
-            "url": "https://api.spreaker.com/v2/episodes/56717025/download.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": "https://etims.net/wp-content/uploads/2023/09/F5HbpffWwAAKzUd.jpeg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "The Celtic Underground",
