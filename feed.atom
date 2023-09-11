@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-09-11T10:11:08.116Z</updated>
+    <updated>2023-09-11T12:19:17.224Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Revolving medical door, A-League coup]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=111838</id>
+        <link href="https://www.celticquicknews.co.uk/revolving-medical-door-a-league-coup/"/>
+        <updated>2023-09-11T11:00:10.000Z</updated>
+        <summary type="html"><![CDATA[There appears to be a revolving door on the Lennoxtown medical room.  Just as we hoped to see players return from injury, Liel Abada picked up a strain on international duty with Israel and is expected to be out of action for a month.  We are not short of wingers in the squad, but we [...]]]></summary>
+        <author>
+            <name>Paul67</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BROONY GUESSING GAME ENDS]]></title>
         <id>https://www.celticquicknews.co.uk/?p=111834</id>
@@ -984,17 +994,6 @@ The post ’To be fair’: Brendan Rodgers agrees with Ally McCoist’s 'quite f
         <summary type="html"><![CDATA[CQN is turning the spotlight once again on the Celtic players who never had the honour of playing for their country. Andy Lynch may have been a trusted defender for Jock Stein, but never got the nod to get into a Scotland squad. The legendary Hoops manager thought he was buying a flying machine at [...]]]></summary>
         <author>
             <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic set to offer new contract to £10 million-plus player]]></title>
-        <id>https://thecelticbhoys.com/?p=43961</id>
-        <link href="https://thecelticbhoys.com/2023/09/06/celtic-offer-10-million-plus-player/"/>
-        <updated>2023-09-06T22:30:23.000Z</updated>
-        <summary type="html"><![CDATA[Celtic added nine new players to their squad over the summer transfer window. It will be interesting to see how they do at Parkhead. Most of them might not be established names in the game but they certainly do appear to have a lot of potential. At the same time, it is important that the […]
-Celtic set to offer new contract to £10 million-plus player - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
-        <author>
-            <name>Michael Shearer</name>
         </author>
     </entry>
 </feed>
