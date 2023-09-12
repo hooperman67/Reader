@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=111868",
+          "author": "CQN Magazine",
+          "description": "BRENDAN RODGERS has been forced to leave crocked Maik Nawrocki out of Celtic’s 25-man Champions League squad . The £4.3million centre-back who arrived from Legia Warsaw in the summer suffered a hamstring problem during the Hoops’ 1-0 Viaplay League Cup loss to Kilmarnock at Rugby Park just over three weeks ago. It was announced Nawrocki [...]",
+          "link": "https://www.celticquicknews.co.uk/confirmed-nawrocki-out-of-euro-squad/",
+          "publishedOn": "2023-09-12T14:48:26.000Z",
+          "wordCount": 4256,
+          "title": "CONFIRMED: NAWROCKI OUT OF EURO SQUAD",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/09/MAIK-NAWROCKI-FTRDEW.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=111867",
           "author": "Paul67",
           "description": "If results to their way, Scotland will tonight become the first team to qualify for the Euro 2024 in Germany next summer.  Norway and Georgia are both on four points.  A draw would see them move to five, 10 behind Scotland with three games remaining. Either way, automatic qualification is inevitable, as, with Spain remaining [...]",
@@ -214,16 +224,6 @@
           "wordCount": 4247,
           "title": "BOBBY LENNOX 10 ALBIAN AJETI 9",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/09/BOBBY-LENNOX-NETS-V-THISTLE-AUGUST-1968.png"
-        },
-        {
-          "id": "http://www.cqnmagazine.com/?p=4792",
-          "author": "CQN Magazine",
-          "description": "CQN is turning the spotlight once again on the Celtic players who never had the honour of playing for their country. Roddie MacDonald became a trusted centre-half for Jock Stein as he searched for a long-term replacement for club icon Billy McNeill. However, the towering Highlander was never deemed good enough to get into a Scotland [...]",
-          "link": "https://www.celticquicknews.co.uk/roddie-macdonald-great-uncapped-celts-part-four/",
-          "publishedOn": "2023-09-08T04:00:34.000Z",
-          "wordCount": 4242,
-          "title": "RODDIE MacDONALD: GREAT UNCAPPED CELTS (Part Four)",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2020/06/RODDIE-MACDONALD-FEATURED-FF.jpg"
         }
       ]
     },
@@ -232,6 +232,16 @@
       "feedUrl": "https://thecelticbhoys.com/feed/",
       "siteUrl": "https://thecelticbhoys.com",
       "articles": [
+        {
+          "id": "https://thecelticbhoys.com/?p=44135",
+          "author": "Sourav Mahanty",
+          "description": "A change in managers is always an interesting time for a club and the players, and Celtic certainly are going through a transitional phase right now. Ange Postecoglou left at the end of last season in order to join Tottenham Hotspur while Brendan Rodgers has been brought in as the Australian’s replacement. Of course, Rodgers’ […]\nAnge Postecoglou signing must leave after Celtic decision - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community",
+          "link": "https://thecelticbhoys.com/2023/09/12/ange-postecoglou-signing-leave-celtic-2/",
+          "publishedOn": "2023-09-12T15:30:10.000Z",
+          "wordCount": 1986,
+          "title": "Ange Postecoglou signing must leave after Celtic decision",
+          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1603070397-scaled.jpeg"
+        },
         {
           "id": "https://thecelticbhoys.com/?p=44132",
           "author": "Sourav Mahanty",
@@ -512,6 +522,26 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=174021",
+          "author": "Hamish Carton",
+          "description": "Paulo Bernardo could make his Celtic debut this weekend against Dundee. The midfielder joined us on a season-long loan from Benfica on the final day...\nThe post The Paulo Bernardo state of play as Celtic debut comes in to focus appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/the-paulo-bernardo-state-of-play-as-celtic-debut-comes-in-to-focus/",
+          "publishedOn": "2023-09-12T15:40:00.000Z",
+          "wordCount": 1373,
+          "title": "The Paulo Bernardo state of play as Celtic debut comes in to focus",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/09/GettyImages-1443736556-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=173999",
+          "author": "Hamish Carton",
+          "description": "Celtic get their UEFA Champions League campaign underway next Tuesday. It may not feel like it right now, with international football dominating the headlines, but...\nThe post Celtic set for big billing in Champions League opener as new television era begins appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/match/celtic-set-for-big-billing-in-champions-league-opener-as-the-tnt-sports-era-begins/",
+          "publishedOn": "2023-09-12T15:10:00.000Z",
+          "wordCount": 1390,
+          "title": "Celtic set for big billing in Champions League opener as new television era begins",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/09/GettyImages-887113372-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=174006",
           "author": "Hamish Carton",
