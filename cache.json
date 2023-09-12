@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=111839",
+          "author": "CQN Magazine",
+          "description": "JUST over six years and three months ago, Leigh Griffiths sent two soaring long-range free-kicks beyond the grasping fingers of Joe Hart at Hampden Park in a crucial Euro 2018 qualifier. A late goal from Harry Kane gave England a 2-2 draw with Scotland, a loss of two points that went a long way to [...]",
+          "link": "https://www.celticquicknews.co.uk/heard-the-one-about-hampdens-heroes-and-villains-celtic-hero-reveals-all/",
+          "publishedOn": "2023-09-12T07:39:25.000Z",
+          "wordCount": 4491,
+          "title": "HEARD THE ONE ABOUT HAMPDEN’S HEROES AND VILLAINS? CELTIC HERO REVEALS ALL",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/09/LEIGH-GRIFFITHS-FREE-KICK-FEATURED.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=55147",
           "author": "CQN Magazine",
           "description": "CELTIC legend Jock Stein made an extraordinary immediate impact on the Parkhead club when he returned as team boss in March 1965. The 38th anniversary of the passing of the Hoops great, at the age of 62, was marked by CQN on Sunday. In another CQN EXCLUSIVE,  author Alex Gordon, who has had fifteen Celtic works published, [...]",
@@ -461,16 +471,6 @@
           "wordCount": 2035,
           "title": "Journalist claims Celtic failed to make two priority signings",
           "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1571563440-scaled.jpeg"
-        },
-        {
-          "id": "https://thecelticbhoys.com/?p=44020",
-          "author": "Sourav Mahanty",
-          "description": "Celtic did not make any high-profile additions to their squad this summer, to the disappointment of many fans. The biggest name that they brought in is arguably Nat Phillips. And even he is only on a season-long loan and was barely playing at Liverpool. That does not mean that the Hoops were not linked with […]\nTottenham Hotspur player holds talks amid Celtic rumours - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community",
-          "link": "https://thecelticbhoys.com/2023/09/07/tottenham-hotspur-talks-celtic-rumours/",
-          "publishedOn": "2023-09-07T19:30:18.000Z",
-          "wordCount": 2001,
-          "title": "Tottenham Hotspur player holds talks amid Celtic rumours",
-          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1225996053.jpeg"
         }
       ]
     },
@@ -502,6 +502,36 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=174014",
+          "author": "Hamish Carton",
+          "description": "Bosun Lawal still seems to be hopeful about a future career at Celtic. The 20-year-old has played a handful of games for the Hoops since...\nThe post Celtic youngster shares Rodgers hope for next season as surprise midfield talk emerges appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/bosun-lawal-shares-brendan-rodgers-hope-for-next-season-surprise-celtic-midfield-option-emerges/",
+          "publishedOn": "2023-09-12T08:10:00.000Z",
+          "wordCount": 1393,
+          "title": "Celtic youngster shares Rodgers hope for next season as surprise midfield talk emerges",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/09/GettyImages-1653670868-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=173983",
+          "author": "Hamish Carton",
+          "description": "It’s over a week since Celtic silenced the doubters with a glorious derby win at Ibrox. With multiple injuries to contend with, and no supporters...\nThe post Celtic leave former Ibrox man feeling \"a little bit silly\" after glorious derby triumph appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/celtic-leave-former-ibrox-man-feeling-a-little-bit-silly-after-glorious-derby-triumph/",
+          "publishedOn": "2023-09-12T06:45:00.000Z",
+          "wordCount": 1392,
+          "title": "Celtic leave former Ibrox man feeling \"a little bit silly\" after glorious derby triumph",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/09/GettyImages-1657205815-1-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=173976",
+          "author": "Hamish Carton",
+          "description": "Kyogo Furuhashi could be set for his big opportunity to impress in a Japan shirt on Tuesday. The in-form Hoops forward was an unused substitute...\nThe post Kyogo braced for big Japan chance after an injury that will interest Celtic fans appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/kyogo-furuhashi-braced-for-big-japan-chance-after-an-injury-that-will-interest-celtic-fans/",
+          "publishedOn": "2023-09-12T06:15:00.000Z",
+          "wordCount": 1390,
+          "title": "Kyogo braced for big Japan chance after an injury that will interest Celtic fans",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/09/GettyImages-1669551744-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=173961",
           "author": "Hamish Carton",
@@ -831,26 +861,6 @@
           "wordCount": 1482,
           "title": "Brendan Rodgers shares his plans for international break; change from first Celtic spell",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/09/GettyImages-1569964979-1-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=173780",
-          "author": "John McGinley",
-          "description": "Celtic are undoubtedly the underdogs heading into the UEFA Champions League group stage, but Brendan Rodgers and his team will relish that status and look...\nThe post Celtic's place in global Opta Power Rankings compared to Champions League opponents appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/celtics-place-in-global-opta-power-rankings-compared-to-champions-league-opponents/",
-          "publishedOn": "2023-09-07T19:52:00.000Z",
-          "wordCount": 1412,
-          "title": "Celtic's place in global Opta Power Rankings compared to Champions League opponents",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/08/GettyImages-1417978166-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=173775",
-          "author": "John McGinley",
-          "description": "Former Celtic captain Tom Boyd wasn’t surprised by the quality of Callum McGregor’s performance for the Bhoys on Sunday, but was taken aback by Rangers’...\nThe post Boyd left bemused by Rangers failure to stop excellent Celtic exploit appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/match/boyd-left-bemused-by-rangers-failure-to-stop-excellent-celtic-exploit/",
-          "publishedOn": "2023-09-07T19:20:00.000Z",
-          "wordCount": 1389,
-          "title": "Boyd left bemused by Rangers failure to stop excellent Celtic exploit",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/09/GettyImages-1657636129-1-scaled.jpg"
         }
       ]
     },
