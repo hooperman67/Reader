@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=111858",
+          "author": "CQN Magazine",
+          "description": "CELTIC hero Scott Brown came face to face with rival skipper Harry Kane before the Scotland v England Euro 2018 qualifier at a sunkissed Hampden on the afternoon of June 10 2017. It turned out to be an epic confrontation between the opposite onfield leaders during a thrilling 2-2 stalemate after the hosts had fought [...]",
+          "link": "https://www.celticquicknews.co.uk/when-harry-met-broony/",
+          "publishedOn": "2023-09-12T08:22:33.000Z",
+          "wordCount": 4069,
+          "title": "WHEN HARRY MET BROONY",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/09/SCOTT-BROWN-V-HARRY-KANE-2017.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=111839",
           "author": "CQN Magazine",
           "description": "JUST over six years and three months ago, Leigh Griffiths sent two soaring long-range free-kicks beyond the grasping fingers of Joe Hart at Hampden Park in a crucial Euro 2018 qualifier. A late goal from Harry Kane gave England a 2-2 draw with Scotland, a loss of two points that went a long way to [...]",
@@ -461,16 +471,6 @@
           "wordCount": 2047,
           "title": "Celtic player admits he enjoyed keeping Ibrox quiet",
           "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1464769783.jpeg"
-        },
-        {
-          "id": "https://thecelticbhoys.com/?p=44023",
-          "author": "Sourav Mahanty",
-          "description": "Celtic are coming off an interesting summer transfer window. On one hand, the club made plenty of signings. Nine new players were brought in, seven on a permanent basis and two, Nat Phillips and Paulo Bernardo, on loan. But on the other hand, they did not bring in experienced and established names to Parkhead, something […]\nJournalist claims Celtic failed to make two priority signings - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community",
-          "link": "https://thecelticbhoys.com/2023/09/07/journalist-claims-celtic-two-signings/",
-          "publishedOn": "2023-09-07T21:00:46.000Z",
-          "wordCount": 2035,
-          "title": "Journalist claims Celtic failed to make two priority signings",
-          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1571563440-scaled.jpeg"
         }
       ]
     },
@@ -502,6 +502,26 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=174035",
+          "author": "Amir Mir",
+          "description": "Chris Sutton name-dropped Celtic captain Callum McGregor whilst stating that England star Jordan Henderson doesn’t get into Scotland’s XI. Celtic’s main man in the middle...\nThe post 'I don't': Sutton mentions Callum McGregor & says England star doesn't get into Scotland XI appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/i-dont-sutton-mentions-callum-mcgregor-says-england-star-doesnt-get-into-scotland-xi/",
+          "publishedOn": "2023-09-12T09:40:00.000Z",
+          "wordCount": 1435,
+          "title": "'I don't': Sutton mentions Callum McGregor & says England star doesn't get into Scotland XI",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/06/GettyImages-1252556782-1-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=174028",
+          "author": "Hamish Carton",
+          "description": "The Celtic influence is already clear to see as Luis Palma shared a photograph from Honduras. The recent Hoops signing is back in his homeland...\nThe post Celtic influence already clear to see as Luis Palma shares photo from Honduras appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/celtic-influence-already-clear-to-see-as-luis-palma-shares-photo-from-honduras/",
+          "publishedOn": "2023-09-12T09:05:00.000Z",
+          "wordCount": 1314,
+          "title": "Celtic influence already clear to see as Luis Palma shares photo from Honduras",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/09/GettyImages-1562737660-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=174014",
           "author": "Hamish Carton",
