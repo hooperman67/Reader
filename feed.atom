@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-09-13T16:12:51.716Z</updated>
+    <updated>2023-09-13T18:12:50.976Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022 Celtic summer signing now facing a struggle under Brendan Rodgers - opinion]]></title>
+        <id>https://www.67hailhail.com/?p=174149</id>
+        <link href="https://www.67hailhail.com/opinion/alexandro-bernabei-now-facing-a-struggle-under-brendan-rodgers-at-celtic/"/>
+        <updated>2023-09-13T17:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Things are not looking good for Alexandro Bernabei after he was left out of Celtic’s UEFA Champions League squad. The Hoops ‘List A’ selection was...
+The post 2022 Celtic summer signing now facing a struggle under Brendan Rodgers - opinion appeared first on 67 Hail Hail.]]></summary>
+        <author>
+            <name>Hamish Carton</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gareth Bale mentions Celtic in Ange Postecoglou claim]]></title>
         <id>https://thecelticbhoys.com/?p=44155</id>
@@ -959,16 +970,6 @@ Celtic player ruled out for a month in fresh injury blow - The Celtic Bhoys - Th
 The post Chris Sutton is concerned about one Celtic star's big game ability but new Bhoy gets good review appeared first on 67 Hail Hail.]]></summary>
         <author>
             <name>John McGinley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALEX’S ANGLE: ‘NO BAD FOR AN EFFIN’ LINSEMAN, EH, WALTER?’]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=111790</id>
-        <link href="https://www.celticquicknews.co.uk/alexs-angle-no-bad-for-an-effin-linseman-eh-walter/"/>
-        <updated>2023-09-09T04:30:38.000Z</updated>
-        <summary type="html"><![CDATA[AS a veteran of way too many Hampden and Wembley skirmishes – and I’ve got the scars to prove it – I am looking forward to Tuesday’s 150th anniversary match between Scotland and England at “Celtic’s second home,” as Bertie Auld used to call our national stadium. Contrary to popular belief, I was not among [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
         </author>
     </entry>
 </feed>
