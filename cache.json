@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=111926",
+          "author": "CQN Magazine",
+          "description": "BRENDAN RODGERS has confirmed that winger Liel Abada WILL be sidelined for the remainder of this year. It was originally feared the Israeli ace would be out for five months, as CQN reported earlier today, but it looks as though that may be too severe although his period in recuperation will be lengthy. Rodgers reckons [...]",
+          "link": "https://www.celticquicknews.co.uk/shame-rodgers-confirms-abada-setback/",
+          "publishedOn": "2023-09-14T14:07:44.000Z",
+          "wordCount": 4035,
+          "title": "‘SHAME,’ RODGERS CONFIRMS ABADA SETBACK",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/09/BRENDAN-RODGERS-TRAINS-FEATUREDJJ-copy.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=111924",
           "author": "Paul67",
           "description": "If concerns are realised and Liel Abada’s injury, sustained on international duty with Israel, results in him missing five months of the season, it will be a huge blow to Celtic, as well as the player.  Liel was an instant hit when he arrived in Glasgow two years ago as a 19-year-old.  His goals and [...]",
@@ -292,6 +302,16 @@
       "feedUrl": "https://thecelticbhoys.com/feed/",
       "siteUrl": "https://thecelticbhoys.com",
       "articles": [
+        {
+          "id": "https://thecelticbhoys.com/?p=44177",
+          "author": "Sourav Mahanty",
+          "description": "Celtic will be kicking off their 2023/24 Champions League group stage campaign with a game against Feyenoord away at De Kuip. It will not be an easy task for the Hoops at all, as they have made an inconsistent start to the campaign and it is hard to predict which version of the Hoops will […]\nCeltic sent blunt message by former Feyenoord player - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community",
+          "link": "https://thecelticbhoys.com/2023/09/14/celtic-message-former-feyenoord-player/",
+          "publishedOn": "2023-09-14T12:30:57.000Z",
+          "wordCount": 2056,
+          "title": "Celtic sent blunt message by former Feyenoord player",
+          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1597965064-scaled.jpeg"
+        },
         {
           "id": "https://thecelticbhoys.com/?p=44173",
           "author": "Sourav Mahanty",
@@ -977,7 +997,18 @@
       "title": "News Archives - Celtic Fanzine",
       "feedUrl": "https://celticfanzine.com/category/news/feed/",
       "siteUrl": "https://celticfanzine.com/category/news/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://celticfanzine.com/?p=58384",
+          "author": "celtic",
+          "description": "The international break is over and Celtic get back to business this Saturday against Dundee. Media reports are suggesting that Liel Abada has picked up an injury while away on international duty with Israel and he could be ruled out for the next 5 months. Confidence should be high after our last outing at Ibrox […]\nThe post Rodgers in Confident Mood appeared first on Celtic Fanzine.",
+          "link": "https://celticfanzine.com/rodgers-in-confident-mood/",
+          "publishedOn": "2023-09-14T13:23:00.000Z",
+          "wordCount": 2010,
+          "title": "Rodgers in Confident Mood",
+          "imageUrl": "https://celticfanzine.com/wp-content/uploads/Untitled-design-10.png"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
