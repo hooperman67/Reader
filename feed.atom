@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-09-15T22:09:11.047Z</updated>
+    <updated>2023-09-16T00:44:01.222Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tottenham Hotspur plot January move for Celtic player]]></title>
+        <id>https://thecelticbhoys.com/?p=44213</id>
+        <link href="https://thecelticbhoys.com/2023/09/15/tottenham-hotspur-move-celtic-player/"/>
+        <updated>2023-09-15T22:30:18.000Z</updated>
+        <summary type="html"><![CDATA[With Ange Postecoglou joining Tottenham Hotspur, Celtic fans were afraid that the Premier League club would try to sign some of their best players. Fortunately, it did not happen in the summer although the likes of Jota and Carl Starfelt did leave regardless. And now, it looks like another of their key stars is being […]
+Tottenham Hotspur plot January move for Celtic player - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
+        <author>
+            <name>Sourav Mahanty</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CELTIC V Dundee Matchday Minizine]]></title>
         <id>https://celticfanzine.com/?p=58398</id>
@@ -1274,16 +1285,6 @@ The post "Buzzing" £25m man explains his transfer decision after summer of Celt
 Celtic player completes transfer to Sheffield United - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
         <author>
             <name>Sourav Mahanty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Revolving medical door, A-League coup]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=111838</id>
-        <link href="https://www.celticquicknews.co.uk/revolving-medical-door-a-league-coup/"/>
-        <updated>2023-09-11T11:00:10.000Z</updated>
-        <summary type="html"><![CDATA[There appears to be a revolving door on the Lennoxtown medical room.  Just as we hoped to see players return from injury, Liel Abada picked up a strain on international duty with Israel and is expected to be out of action for a month.  We are not short of wingers in the squad, but we [...]]]></summary>
-        <author>
-            <name>Paul67</name>
         </author>
     </entry>
 </feed>
