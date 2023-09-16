@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-09-16T02:13:52.270Z</updated>
+    <updated>2023-09-16T04:11:38.211Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GEORGE McCLUSKEY: GREAT UNCAPPED CELTS (Part Twelve)]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=73055</id>
+        <link href="https://www.celticquicknews.co.uk/george-mccluskey-great-uncapped-celts-part-twelve/"/>
+        <updated>2023-09-16T04:00:23.000Z</updated>
+        <summary type="html"><![CDATA[CQN is turning the spotlight once again on the Celtic players who never had the honour of playing for their country. George McCluskey was a scorer of important goals for the Hoops and played alongside such prolific marksmen as Frank McGarvey and Charlie Nicholas during Billy McNeill’s first stint as manager following his return to [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tottenham Hotspur plot January move for Celtic player]]></title>
         <id>https://thecelticbhoys.com/?p=44213</id>
@@ -1263,17 +1273,6 @@ The post 4 big changes Brendan Rodgers could make to Celtic team appeared first 
 Liverpool player tipped to join Celtic permanently in January - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
         <author>
             <name>Sourav Mahanty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Buzzing" £25m man explains his transfer decision after summer of Celtic rumours]]></title>
-        <id>https://www.67hailhail.com/?p=173948</id>
-        <link href="https://www.67hailhail.com/news/buzzing-kieran-tierney-explains-his-la-liga-decision-after-summer-of-celtic-and-arsenal-rumours/"/>
-        <updated>2023-09-11T15:34:36.000Z</updated>
-        <summary type="html"><![CDATA[Kieran Tierney has spoken about his move to La Liga this season and the decision to leave Arsenal on loan, after a summer of rumours...
-The post "Buzzing" £25m man explains his transfer decision after summer of Celtic rumours appeared first on 67 Hail Hail.]]></summary>
-        <author>
-            <name>John McGinley</name>
         </author>
     </entry>
 </feed>
