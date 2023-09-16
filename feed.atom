@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-09-16T10:09:04.599Z</updated>
+    <updated>2023-09-16T12:16:33.585Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Neil Lennon offers a theory on Celtic European progress featuring Sevilla and Real Madrid]]></title>
+        <id>https://www.67hailhail.com/?p=174507</id>
+        <link href="https://www.67hailhail.com/news/neil-lennon-offers-a-theory-on-celtic-european-progress-featuring-sevilla-and-real-madrid/"/>
+        <updated>2023-09-16T11:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Neil Lennon has offered an interesting theory on some of the difficulties Celtic face in Europe. As a former Hoops manager and one of only...
+The post Neil Lennon offers a theory on Celtic European progress featuring Sevilla and Real Madrid appeared first on 67 Hail Hail.]]></summary>
+        <author>
+            <name>Hamish Carton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Much-hyped debuts expected as the Celtic faithful prepare for a big Saturday]]></title>
+        <id>https://www.67hailhail.com/?p=174500</id>
+        <link href="https://www.67hailhail.com/opinion/much-hyped-debuts-expected-as-the-celtic-faithful-prepare-for-a-big-saturday/"/>
+        <updated>2023-09-16T10:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Celtic are back in action on Saturday and it should be a pretty fun afternoon. It’s our first home game in three weeks and a...
+The post Much-hyped debuts expected as the Celtic faithful prepare for a big Saturday appeared first on 67 Hail Hail.]]></summary>
+        <author>
+            <name>Hamish Carton</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[James McClean Interview]]></title>
         <id>https://celticfanzine.com/?p=58402</id>
@@ -1335,17 +1357,6 @@ The post New Hibernian boss credits Celtic move which opened doors to Scottish f
         <summary type="html"><![CDATA[CQN is turning the spotlight again on the Celtic players who never had the honour of playing for their country. Club legend Billy McNeill converted Tom McAdam from striker to centre-back – and the player was consistently immense following the dramatic career switch. He became a key man for the Hoops and a fans’ favourite [...]]]></summary>
         <author>
             <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aiden McGeady makes questionable claim about Celtic fans]]></title>
-        <id>https://thecelticbhoys.com/?p=44128</id>
-        <link href="https://thecelticbhoys.com/2023/09/11/aiden-mcgeady-makes-questionable-claim-celtic-fans/"/>
-        <updated>2023-09-11T22:30:55.000Z</updated>
-        <summary type="html"><![CDATA[When Celtic decided to bring back Brendan Rodgers to replace Ange Postecoglou in the Parkhead hot seat, the reaction of the fans was always going to be a major talking point. After all, the Northern Irishman had left a bitter taste in the mouths of many by leaving in the middle of the season to […]
-Aiden McGeady makes questionable claim about Celtic fans - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
-        <author>
-            <name>Sourav Mahanty</name>
         </author>
     </entry>
 </feed>
