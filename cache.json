@@ -6,6 +6,26 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=111994",
+          "author": "Paul67",
+          "description": "Live updates will appear below after 15.00.",
+          "link": "https://www.celticquicknews.co.uk/celtic-v-dundee-gg-live-updates/",
+          "publishedOn": "2023-09-16T13:26:31.000Z",
+          "wordCount": 4703,
+          "title": "Celtic v Dundee, GG Live updates",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/?p=111957",
+          "author": "CQN Magazine",
+          "description": "ON-LOAN Liverpool defender Nat Phillips makes his Celtic debut against Dundee at Parkhead this afternoon. The centre-back comes in to make his bow with £3million Swede Gustaf Lagerbiekle moving to the substitutes’ bench. South Korean winger Yang Hyun-jun comes in for the injured Liel Abada as the second change from the team that won 1-0 [...]",
+          "link": "https://www.celticquicknews.co.uk/confirmed-debut-bhoy-phillips/",
+          "publishedOn": "2023-09-16T13:00:30.000Z",
+          "wordCount": 4125,
+          "title": "CONFIRMED: DEBUT BHOY PHILLIPS",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/09/NAT-PHILLIPS-FEATURED-DEBUT.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=111979",
           "author": "CQN Magazine",
           "description": "BRENDAN RODGERS insists his written-off Celts will be fearless when they commence their Champions League campaign against Feyenoord in Rotterdam on Tuesday night. The Hoops have already been branded as no-hopers by big-mouthed, dimwitted Dutch pundits as they prepare for their assault on Group E of Europe’s elite competition. Rodgers isn’t paying too much attention [...]",
@@ -332,6 +352,16 @@
       "feedUrl": "https://thecelticbhoys.com/feed/",
       "siteUrl": "https://thecelticbhoys.com",
       "articles": [
+        {
+          "id": "https://thecelticbhoys.com/?p=44216",
+          "author": "Sourav Mahanty",
+          "description": "Celtic made an unsteady start to the season but the win over the Rangers at Ibrox has lifted the mood around Parkhead and the future suddenly looks a lot brighter than it was a couple of weeks back. It is important for the club to build on their newfound momentum and string together some wins […]\nCeltic handed superb late-night news as club open talks - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community",
+          "link": "https://thecelticbhoys.com/2023/09/16/celtic-late-night-news-club-talks/",
+          "publishedOn": "2023-09-16T13:00:33.000Z",
+          "wordCount": 2000,
+          "title": "Celtic handed superb late-night news as club open talks",
+          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F868112044.jpeg"
+        },
         {
           "id": "https://thecelticbhoys.com/?p=44213",
           "author": "Sourav Mahanty",
