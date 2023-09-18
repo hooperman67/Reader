@@ -374,16 +374,6 @@
           "wordCount": 4698,
           "title": "THE JOCK STEIN YEARS (Part Four)",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2021/09/BIG-JOCK-BIG-BILLY-FEATURED-.jpg"
-        },
-        {
-          "id": "http://www.cqnmagazine.com/?p=5623",
-          "author": "CQN Magazine",
-          "description": "CQN is turning the spotlight again on the Celtic players who never had the honour of playing for their country. Johnny Doyle was a £90,000 signing for the Hoops in 1975 – the club’s record fee at the time – and he became a player who never gave less than 100 per cent for the [...]",
-          "link": "https://www.celticquicknews.co.uk/johnny-doyle-great-uncapped-celts-part-eleven/",
-          "publishedOn": "2023-09-14T04:00:59.000Z",
-          "wordCount": 4486,
-          "title": "JOHNNY DOYLE: GREAT UNCAPPED CELTS (Part Ten)",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2020/06/johnny-doyle-featured.jpg"
         }
       ]
     },
@@ -392,6 +382,16 @@
       "feedUrl": "https://thecelticbhoys.com/feed/",
       "siteUrl": "https://thecelticbhoys.com",
       "articles": [
+        {
+          "id": "https://thecelticbhoys.com/?p=44237",
+          "author": "StevieMac",
+          "description": "Brendan Rodgers was delighted with the Celtic win over Dundee FC at the weekend. The three goals would have come as a relief to the Northern Irishman as well, as the Hoops had struggled to score lately. He seemed even more pleased when talking about the performance of one of his players. The 3-0 victory […]\nBrendan Rodgers makes superb claim about returning Celtic player - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community",
+          "link": "https://thecelticbhoys.com/2023/09/18/brendan-rodgers-claim-returning-celtic/",
+          "publishedOn": "2023-09-18T15:00:25.000Z",
+          "wordCount": 2099,
+          "title": "Brendan Rodgers makes superb claim about returning Celtic player",
+          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1355573087-scaled.jpeg"
+        },
         {
           "id": "https://thecelticbhoys.com/?p=44260",
           "author": "Sourav Mahanty",
@@ -693,6 +693,36 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=174669",
+          "author": "John McGinley",
+          "description": "Celtic’s annual financial results for the year ending 30th June 2023 are expected to be released this week and they are likely to show that...\nThe post Celtic's annual financial results are due imminently and expect records to be broken appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/celtics-annual-financial-results-are-due-imminently-and-expect-records-to-be-broken/",
+          "publishedOn": "2023-09-18T15:22:04.000Z",
+          "wordCount": 1407,
+          "title": "Celtic's annual financial results are due imminently and expect records to be broken",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/06/GettyImages-1471496370-4-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=174666",
+          "author": "John McGinley",
+          "description": "Feyenoord manager Arne Slot was asked whether he would instruct his players to “test” the shoulder injury of Kyogo Furuhashi on Tuesday, but he was...\nThe post Arne Slot rises above bizarre media question about using nefarious tactics vs Celtic appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/match/arne-slot-rises-above-bizarre-media-question-about-purposely-targeting-celtic-injury/",
+          "publishedOn": "2023-09-18T14:54:57.000Z",
+          "wordCount": 1373,
+          "title": "Arne Slot rises above bizarre media question about using nefarious tactics vs Celtic",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/09/GettyImages-1674298234-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=174660",
+          "author": "John McGinley",
+          "description": "Feyenoord boss Arne Slot says there is no use in comparing the upcoming matches against Celtic to the recent tie between PSV and Rangers. Slot...\nThe post UCL opponent cuts through Celtic and Rangers myth; the players seen as clear dangers appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/feyenoord-boss-cuts-through-celtic-and-rangers-myth-the-players-seen-as-clear-dangers/",
+          "publishedOn": "2023-09-18T14:25:54.000Z",
+          "wordCount": 1364,
+          "title": "UCL opponent cuts through Celtic and Rangers myth; the players seen as clear dangers",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/09/GettyImages-1674303556-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=174636",
           "author": "Amir Mir",
