@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-09-18T02:17:00.609Z</updated>
+    <updated>2023-09-18T04:12:05.741Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BILLY STARK: GREAT UNCAPPED CELTS (Part Fourteen)]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=73082</id>
+        <link href="https://www.celticquicknews.co.uk/billy-stark-great-uncapped-celts-part-fourteen/"/>
+        <updated>2023-09-18T04:00:11.000Z</updated>
+        <summary type="html"><![CDATA[CQN is turning the spotlight again on the Celtic players who never had the honour of playing for their country. Billy Stark was Mr Reliable in the Hoops midfield during the club’s unforgettable centenary year after arriving in Billy McNeill’s summer rebuild of 1987. Although he was seen as the perfect foil to the likes [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ALL-GO KYOGO PRAISED BY SKIPPER]]></title>
         <id>https://www.celticquicknews.co.uk/?p=112050</id>
@@ -1333,38 +1343,6 @@ Celtic criticised for ignoring Scottish international player - The Celtic Bhoys 
 The post 2022 Celtic summer signing now facing a struggle under Brendan Rodgers - opinion appeared first on 67 Hail Hail.]]></summary>
         <author>
             <name>Hamish Carton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gareth Bale mentions Celtic in Ange Postecoglou claim]]></title>
-        <id>https://thecelticbhoys.com/?p=44155</id>
-        <link href="https://thecelticbhoys.com/2023/09/13/gareth-bale-celtic-ange-postecoglou/"/>
-        <updated>2023-09-13T15:30:11.000Z</updated>
-        <summary type="html"><![CDATA[Gareth Bale is the most decorated British footballer in history and he often does not get the credit that he deserves for what he achieved at Real Madrid. The Welshman scored in more than one Champions League final and won the competition five times, a record he shares with several of his former teammates. He […]
-Gareth Bale mentions Celtic in Ange Postecoglou claim - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
-        <author>
-            <name>Sourav Mahanty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brendan Rodgers sets a clear target for Celtic in the UEFA Champions League]]></title>
-        <id>https://www.67hailhail.com/?p=174142</id>
-        <link href="https://www.67hailhail.com/news/brendan-rodgers-sets-a-clear-target-for-celtic-in-the-uefa-champions-league/"/>
-        <updated>2023-09-13T15:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Brendan Rodgers has been speaking about the UEFA Champions League with less than a week to go before Celtic get this season’s campaign underway. It’s...
-The post Brendan Rodgers sets a clear target for Celtic in the UEFA Champions League appeared first on 67 Hail Hail.]]></summary>
-        <author>
-            <name>Hamish Carton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HEY, BIG SPENDER: £54.2m CELTIC IN CASH SPLASH]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=111913</id>
-        <link href="https://www.celticquicknews.co.uk/hey-big-spender-54-2m-celtic-in-cash-splash/"/>
-        <updated>2023-09-13T14:43:29.000Z</updated>
-        <summary type="html"><![CDATA[CELTIC have spent £54.2million in assembling the squad currently at the disposal of Brendan Rodgers. That’s the total amount of cash the champions have splashed over the recent seasons which also takes in the likes of David Turnbull who arrived from Motherwell for £2.75million in the summer of 2020. The financial data has been released [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
         </author>
     </entry>
 </feed>
