@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-09-18T20:10:30.183Z</updated>
+    <updated>2023-09-18T22:09:37.224Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Brendan Rodgers explains Celtic’s target in Europe]]></title>
+        <id>https://thecelticbhoys.com/?p=44273</id>
+        <link href="https://thecelticbhoys.com/2023/09/18/brendan-rodgers-celtic-target-europe/"/>
+        <updated>2023-09-18T21:00:37.000Z</updated>
+        <summary type="html"><![CDATA[Brendan Rodgers is back in the Celtic managerial hot seat and set to guide the club into the Champions League once again. This is not the first time he has done so, although his past record in the competition can be considered shaky as best. The Northern Irishman has won only one of the twelve […]
+Brendan Rodgers explains Celtic’s target in Europe - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
+        <author>
+            <name>Sourav Mahanty</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic handed fresh injury doubt before Feyenoord game]]></title>
         <id>https://thecelticbhoys.com/?p=44271</id>
@@ -1394,27 +1405,6 @@ The post 'Absolutely, John McGinn': Andy Walker makes claim about Celtic 30-year
 The post Laughter all well and good but Celtic star has hit upon a major safety concern at Ibrox appeared first on 67 Hail Hail.]]></summary>
         <author>
             <name>Hamish Carton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Key Celtic player could be out for rest of 2023 with injury]]></title>
-        <id>https://thecelticbhoys.com/?p=44173</id>
-        <link href="https://thecelticbhoys.com/2023/09/14/key-celtic-player-rest-2023-injury/"/>
-        <updated>2023-09-14T09:30:38.000Z</updated>
-        <summary type="html"><![CDATA[Celtic have had terrible luck with injuries this season already. The likes of Cameron Carter-Vickers, Maik Nawrocki and Stephen Welsh are out for the foreseeable future with medium to long-term issues. And now, it looks like another key player could be set to join, in a major blow for Brendan Rodgers’ side. The Glasgow Derby […]
-Key Celtic player could be out for rest of 2023 with injury - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
-        <author>
-            <name>Sourav Mahanty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘ITCHING TO GO,’ INSISTS NEW BHOY]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=111917</id>
-        <link href="https://www.celticquicknews.co.uk/itching-to-go-insists-new-bhoy/"/>
-        <updated>2023-09-14T08:10:35.000Z</updated>
-        <summary type="html"><![CDATA[NEW Bhoy Nat Phillips insists he can cope with the pressure at Celtic. The centre-back, who has signed a loan deal from Liverpool until January, missed out on a quickfire debut in the champions’ 1-0 win at Ibrox, but still caught the flavour of a hectic Glasgow derby. Phillips, whose dad Jimmy had a season [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
         </author>
     </entry>
 </feed>
