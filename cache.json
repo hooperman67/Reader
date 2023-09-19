@@ -424,16 +424,6 @@
           "wordCount": 4878,
           "title": "THE JOCK STEIN YEARS (Part Five)",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2018/10/JOCK-STEIN-WILLIE-WALLACE-FEATURED-1967.jpg"
-        },
-        {
-          "id": "http://www.cqnmagazine.com/?p=5213",
-          "author": "CQN Magazine",
-          "description": "CQN is turning the spotlight once again on the Celtic players who never had the honour of playing for their country. Peter Latchford was a Jock Stein signing in the legendary manager’s seemingly never-ending search for a replacement for Ronnie Simpson. He had bought the likes of Evan Williams, from Wolves, Ally Hunter (Kilmarnock) and [...]",
-          "link": "https://www.celticquicknews.co.uk/peter-latchford-great-uncapped-celts-part-ten/",
-          "publishedOn": "2023-09-15T04:00:46.000Z",
-          "wordCount": 4463,
-          "title": "PETER LATCHFORD: GREAT UNCAPPED CELTS (Part Eleven)",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2018/06/PETER-LATCHFORD-FEATURED-CC.jpg"
         }
       ]
     },
@@ -442,6 +432,16 @@
       "feedUrl": "https://thecelticbhoys.com/feed/",
       "siteUrl": "https://thecelticbhoys.com",
       "articles": [
+        {
+          "id": "https://thecelticbhoys.com/?p=44285",
+          "author": "Sourav Mahanty",
+          "description": "Celtic are getting ready to take on a tough test as they face Feyenoord in the Champions League group stage opener away at Feyenoord. Brendan Rodgers’ team might be coming into the game on the back of a couple of wings but the Dutch champions will have to be considered the favourites on the day […]\nFeyenoord boss Arne Slot makes superb Celtic vs Rangers claim - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community",
+          "link": "https://thecelticbhoys.com/2023/09/19/feyenoord-boss-arne-slot-celtic-rangers/",
+          "publishedOn": "2023-09-19T15:00:09.000Z",
+          "wordCount": 2061,
+          "title": "Feyenoord boss Arne Slot makes superb Celtic vs Rangers claim",
+          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1674301785-scaled.jpeg"
+        },
         {
           "id": "https://thecelticbhoys.com/?p=44283",
           "author": "Sourav Mahanty",
@@ -763,6 +763,36 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=174784",
+          "author": "Amir Mir",
+          "description": "Barry Ferguson has lauded the qualities of Celtic midfielder Reo Hatate and how he has got ‘everything’ in his locker. With the 2023 summer transfer...\nThe post 'I am sure': Barry Ferguson hails Celtic star who has got 'everything', makes contract claim appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/i-am-sure-barry-ferguson-hails-celtic-star-who-has-got-everything-makes-contract-claim/",
+          "publishedOn": "2023-09-19T15:40:00.000Z",
+          "wordCount": 1430,
+          "title": "'I am sure': Barry Ferguson hails Celtic star who has got 'everything', makes contract claim",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/07/GettyImages-1469784326-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=174748",
+          "author": "Hamish Carton",
+          "description": "Celtic are back in amongst it in the UEFA Champions League on Tuesday evening as we take on Feyenoord. A trip to the Eredivisie champions...\nThe post First start under Rodgers, attacker unleashed; Celtic team news and Predicted XI vs Feyenoord appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/match/first-start-under-rodgers-attacker-unleashed-celtic-team-news-and-predicted-xi-vs-feyenoord/",
+          "publishedOn": "2023-09-19T15:10:00.000Z",
+          "wordCount": 1450,
+          "title": "First start under Rodgers, attacker unleashed; Celtic team news and Predicted XI vs Feyenoord",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/09/GettyImages-1248381095-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=174755",
+          "author": "Hamish Carton",
+          "description": "Former Celtic forward Odsonne Edouard is having a terrific start to the season down south. The Frenchman has netted five goals in six matches for...\nThe post Former Celtic star on fire in Premier League; only Haaland has scored more appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/odsonne-edouards-time-has-arrived-down-south-and-its-reflecting-really-well-on-celtic/",
+          "publishedOn": "2023-09-19T14:10:00.000Z",
+          "wordCount": 1361,
+          "title": "Former Celtic star on fire in Premier League; only Haaland has scored more",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/09/GettyImages-1669466363-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=174704",
           "author": "Hamish Carton",
@@ -1310,6 +1340,26 @@
       "feedUrl": "https://celticfanzine.com/category/news/feed/",
       "siteUrl": "https://celticfanzine.com/category/news/",
       "articles": [
+        {
+          "id": "https://celticfanzine.com/?p=58414",
+          "author": "celtic",
+          "description": "The post More than 90 Minutes Feyenoord v CELTIC Matchday Minizine appeared first on Celtic Fanzine.",
+          "link": "https://celticfanzine.com/more-than-90-minutes-feyenoord-v-celtic-matchday-minizine/",
+          "publishedOn": "2023-09-19T15:46:30.000Z",
+          "wordCount": 1594,
+          "title": "More than 90 Minutes Feyenoord v CELTIC Matchday Minizine",
+          "imageUrl": "https://celticfanzine.com/wp-content/uploads/feynoord-.png"
+        },
+        {
+          "id": "https://celticfanzine.com/?p=58411",
+          "author": "celtic",
+          "description": "Celtic start their Champions League campaign tonight against Feyenoord in Rotherham. This will be the last season of the current CL format.  UEFA will replace it with a new format from next season. The group stages as we know them will be replaced with a 36 team league structure. Is the new format to counter anymore […]\nThe post Last season of the Champions League in its current format appeared first on Celtic Fanzine.",
+          "link": "https://celticfanzine.com/last-season-of-the-champions-league-in-its-current-format/",
+          "publishedOn": "2023-09-19T14:44:45.000Z",
+          "wordCount": 2102,
+          "title": "Last season of the Champions League in its current format",
+          "imageUrl": "https://celticfanzine.com/wp-content/uploads/CL-MONEY-.png"
+        },
         {
           "id": "https://celticfanzine.com/?p=58406",
           "author": "celtic",
