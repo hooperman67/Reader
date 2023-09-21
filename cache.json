@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=112242",
+          "author": "Paul67",
+          "description": "The disappointment online and among supporters in general since Tuesday’s defeat in Rotterdam has been tangible.  That’s an indication of just how hopeful we had become, despite extenuating circumstances and an away track record that should have prepared us for much worse. Frustrations were shared by the squad, who know they let an opportunity slip.  [...]",
+          "link": "https://www.celticquicknews.co.uk/re-orientating-our-expectations/",
+          "publishedOn": "2023-09-21T11:05:03.000Z",
+          "wordCount": 5735,
+          "title": "Re-orientating our expectations",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=112239",
           "author": "CQN Magazine",
           "description": "LIVINGSTON boss David Martindale has named three Celtic players who could find difficulty in coming to terms with conditions in West Lothian on Saturday. New Bhoys Gustaf Lagerbiekle, Odin Holm and Luis Palma all arrived at the Hoops in the summer and the trio faced the traumas of Champions League football in a toxic atmosphere [...]",
@@ -711,16 +721,6 @@
           "wordCount": 2022,
           "title": "Virgil van Dijk reacts to Celtic player’s debut message",
           "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1243208184.jpeg"
-        },
-        {
-          "id": "https://thecelticbhoys.com/?p=44232",
-          "author": "Sourav Mahanty",
-          "description": "Things appear to be falling into place once again at Celtic. The Hoops did stumble out of the gates this season but a 1-0 win away at Ibrox has been followed up by a 3-0 win over Dundee FC at home. Those results have seen them go two points clear at the top of the […]\nCeltic starter tipped to be dropped if he does not change - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community",
-          "link": "https://thecelticbhoys.com/2023/09/16/celtic-starter-tipped-dropped-change/",
-          "publishedOn": "2023-09-16T22:31:00.000Z",
-          "wordCount": 2050,
-          "title": "Celtic starter tipped to be dropped if he does not change",
-          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1569804709-scaled.jpeg"
         }
       ]
     },
@@ -765,16 +765,6 @@
           "wordCount": 9064,
           "title": "Win Tickets for an evening with Martin O’Neill",
           "imageUrl": "http://celticunderground.net/wp-content/uploads/2015/12/Screen-Shot-2015-12-02-at-23.48.18.png"
-        },
-        {
-          "id": "http://celticunderground.net/?p=6658",
-          "author": "Michael Shearer",
-          "description": "Celtic eased past Dundee 3-0 thanks to goals from David Turnbull, Kyogo Furuhashi, and Matt O’Riley.  Summer signing Nat Phillips went off injured at half-time but Celtic manager Brendan Rodgers eased any concerns over the substitution after the match. He said “Towards the end of the game he rolled his ankle in the last actions […]",
-          "link": "http://celticunderground.net/celtic-ease-past-dundee-in-3-0-win/",
-          "publishedOn": "2023-09-16T23:54:02.000Z",
-          "wordCount": 9936,
-          "title": "Celtic ease past Dundee in 3-0 win",
-          "imageUrl": "http://celticunderground.net/wp-content/uploads/2023/09/IMG_5489-1-scaled.jpeg"
         }
       ]
     },
@@ -783,6 +773,26 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=175010",
+          "author": "Hamish Carton",
+          "description": "Alistair Johnston has become the latest Celtic figure to praise Liam Scales. The Irish defender has been rejuvenated in recent weeks. Scales was named man...\nThe post Alistair Johnston blown away by Celtic team-mate he's only just come in to contact with appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/alistair-johnston-blown-away-by-celtic-team-mate-who-hes-only-just-come-in-to-contact-with/",
+          "publishedOn": "2023-09-21T12:10:00.000Z",
+          "wordCount": 1480,
+          "title": "Alistair Johnston blown away by Celtic team-mate he's only just come in to contact with",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/09/GettyImages-1676987111-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=174959",
+          "author": "Hamish Carton",
+          "description": "Celtic have been on the end of some harsh treatment ever since our loss to Feyenoord on Tuesday evening. It wasn’t the start to our...\nThe post National outlets line up to take a pop at Celtic but none of it truly matters appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/opinion/national-outlets-line-up-to-take-a-pop-at-celtic-but-none-of-it-truly-matters/",
+          "publishedOn": "2023-09-21T11:10:00.000Z",
+          "wordCount": 1416,
+          "title": "National outlets line up to take a pop at Celtic but none of it truly matters",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/09/GettyImages-1677803822-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=174953",
           "author": "Hamish Carton",
@@ -1280,6 +1290,16 @@
       "feedUrl": "https://celticfanzine.com/category/news/feed/",
       "siteUrl": "https://celticfanzine.com/category/news/",
       "articles": [
+        {
+          "id": "https://celticfanzine.com/?p=58418",
+          "author": "celtic",
+          "description": "On Tuesday night we faced Feyenoord for the first time competitively since that night in Milan in 1970. It’s a different world especially in football since those halcyon days of the early ‘70’s. We were European giants whereas the Dutch were an unknown quality probably the reverse of 3 years previously when we were the […]\nThe post Feyenoord the Past the Present appeared first on Celtic Fanzine.",
+          "link": "https://celticfanzine.com/feyenoord-the-past-the-present/",
+          "publishedOn": "2023-09-21T12:13:39.000Z",
+          "wordCount": 2539,
+          "title": "Feyenoord the Past the Present",
+          "imageUrl": "https://celticfanzine.com/wp-content/uploads/mags-in-fey-.png"
+        },
         {
           "id": "https://celticfanzine.com/?p=58414",
           "author": "celtic",
