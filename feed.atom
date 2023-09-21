@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-09-20T22:09:25.111Z</updated>
+    <updated>2023-09-21T00:45:28.217Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic player accepts responsibility for Feyenoord opener]]></title>
+        <id>https://thecelticbhoys.com/?p=44303</id>
+        <link href="https://thecelticbhoys.com/2023/09/20/celtic-player-accepts-feyenoord-opener/"/>
+        <updated>2023-09-20T22:32:11.000Z</updated>
+        <summary type="html"><![CDATA[It wasn’t the best of nights for Celtic in Europe. One player has acknowledged that and has taken responsibility for his part in the 2-0 defeat. It wasn’t the worst of nights either to be fair. In amongst the disappointments and errors in the opening Champions League group match against Feyenoord, there were some promising […]
+Celtic player accepts responsibility for Feyenoord opener - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
+        <author>
+            <name>StevieMac</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ange Postecoglou explains how Tottenham convinced him to leave Celtic]]></title>
         <id>https://thecelticbhoys.com/?p=44322</id>
@@ -1330,28 +1341,6 @@ Celtic handed superb late-night news as club open talks - The Celtic Bhoys - The
         <summary type="html"><![CDATA[ON-LOAN Liverpool defender Nat Phillips makes his Celtic debut against Dundee at Parkhead this afternoon. The centre-back comes in to make his bow with £3million Swede Gustaf Lagerbiekle moving to the substitutes’ bench. South Korean winger Yang Hyun-jun comes in for the injured Liel Abada as the second change from the team that won 1-0 [...]]]></summary>
         <author>
             <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neil Lennon offers a theory on Celtic European progress featuring Sevilla and Real Madrid]]></title>
-        <id>https://www.67hailhail.com/?p=174507</id>
-        <link href="https://www.67hailhail.com/news/neil-lennon-offers-a-theory-on-celtic-european-progress-featuring-sevilla-and-real-madrid/"/>
-        <updated>2023-09-16T11:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Neil Lennon has offered an interesting theory on some of the difficulties Celtic face in Europe. As a former Hoops manager and one of only...
-The post Neil Lennon offers a theory on Celtic European progress featuring Sevilla and Real Madrid appeared first on 67 Hail Hail.]]></summary>
-        <author>
-            <name>Hamish Carton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Much-hyped debuts expected as the Celtic faithful prepare for a big Saturday]]></title>
-        <id>https://www.67hailhail.com/?p=174500</id>
-        <link href="https://www.67hailhail.com/opinion/much-hyped-debuts-expected-as-the-celtic-faithful-prepare-for-a-big-saturday/"/>
-        <updated>2023-09-16T10:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Celtic are back in action on Saturday and it should be a pretty fun afternoon. It’s our first home game in three weeks and a...
-The post Much-hyped debuts expected as the Celtic faithful prepare for a big Saturday appeared first on 67 Hail Hail.]]></summary>
-        <author>
-            <name>Hamish Carton</name>
         </author>
     </entry>
 </feed>
