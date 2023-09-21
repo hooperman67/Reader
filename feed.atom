@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-09-21T18:13:15.006Z</updated>
+    <updated>2023-09-21T20:09:57.933Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic boss makes brutally honest admission about summer signings]]></title>
+        <id>https://thecelticbhoys.com/?p=44358</id>
+        <link href="https://thecelticbhoys.com/2023/09/21/celtic-boss-honest-admission-signings/"/>
+        <updated>2023-09-21T19:30:38.000Z</updated>
+        <summary type="html"><![CDATA[Many Celtic fans were left with the club’s transfer business over the summer. When Brendan Rodgers was appointed for a second run as the manager of the club, there were rumours floating in the media about a blockbuster budget and record-breaking bids. None of that came true. Instead, the Hoops stuck to bringing in highly-rated […]
+Celtic boss makes brutally honest admission about summer signings - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
+        <author>
+            <name>Sourav Mahanty</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic boss confirms when Cameron Carter-Vickers will return]]></title>
         <id>https://thecelticbhoys.com/?p=44354</id>
@@ -1376,27 +1387,6 @@ Virgil van Dijk reacts to Celtic player’s debut message - The Celtic Bhoys - T
         <summary type="html"><![CDATA[CELTIC staged an action replay against Dundee that went largely unnoticed at Parkhead yesterday. David Turnbull (pen), Kyogo Furuhashi and Matt O’Riley were the marksmen in the 3-0 victory over the Tayside outfit to ease two points clear at the Premiership pinnacle. Coincidentally, it was the three same goalscorers when the champions kicked off their [...]]]></summary>
         <author>
             <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘QUALITY,’ RODGERS HAILS CELTIC FAST SHOW]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=111997</id>
-        <link href="https://www.celticquicknews.co.uk/quality-rodgers-hails-celtic-fast-show/"/>
-        <updated>2023-09-17T07:34:38.000Z</updated>
-        <summary type="html"><![CDATA[BRENDAN RODGERS praised the Celtic Fast Show as the champions upped the pace in a blistering second-half to blow Dundee away at Parkhead. The visitors had been stubborn and resilient in the opening 45 minutes, but they had no answer to the relentless probing from the Hoops as David Turnbull broke the deadlock with a [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['I dreamed': Luis Palma reacts on Instagram after making Celtic debut, Getafe forward reacts]]></title>
-        <id>https://www.67hailhail.com/?p=174553</id>
-        <link href="https://www.67hailhail.com/match/i-dreamed-luis-palma-reacts-on-instagram-after-making-celtic-debut-getafe-forward-reacts/"/>
-        <updated>2023-09-17T07:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Luis Palma is the new kid on the Celtic block and he reacted on Instagram to donning the famous strip for the first time on...
-The post 'I dreamed': Luis Palma reacts on Instagram after making Celtic debut, Getafe forward reacts appeared first on 67 Hail Hail.]]></summary>
-        <author>
-            <name>Amir Mir</name>
         </author>
     </entry>
 </feed>
