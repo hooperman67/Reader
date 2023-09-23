@@ -6,6 +6,26 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=112279",
+          "author": "Paul67",
+          "description": "Live updates will appear below after 12.30.",
+          "link": "https://www.celticquicknews.co.uk/livingston-v-celtic-live-updates-8/",
+          "publishedOn": "2023-09-23T10:30:37.000Z",
+          "wordCount": 5168,
+          "title": "Livingston v Celtic, GG Live updates",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/?p=112276",
+          "author": "CQN Magazine",
+          "description": "JAMES FORREST makes his first start of the season against Livingston in West Lothian this afternoon. The evergreen Celtic winger replaces Luis Palma from the side that lost to Feyenoord in the Champions League opener in Rotterdam on Tuesday. The Hondurian international drops to the bench. TEAM: Hart; Johnston, Lagerbielke, Scales, Taylor; O’Riley, McGregor, Hatate; [...]",
+          "link": "https://www.celticquicknews.co.uk/confirmed-forrest-returns/",
+          "publishedOn": "2023-09-23T10:24:22.000Z",
+          "wordCount": 4147,
+          "title": "CONFIRMED: FORREST RETURNS",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/09/JAMES-FORREST-NEW-FEATURED-HH.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=112275",
           "author": "CQN Magazine",
           "description": "CELTIC’S Premiership trip to Perth to face St Johnstone before the turn of the year has been switched for live screening on Sky Sports. The match was originally scheduled for the Saturday at 3pm, but has been moved back 24 hours to Sunday, December 3 with a midday kick-off. It’s the latest league match concerning [...]",
@@ -404,16 +424,6 @@
           "wordCount": 4270,
           "title": "JOE MILLER: GREAT UNCAPPED CELTS (Part Fifteen)",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2020/06/MILLER-GOAL-V-GER-1989-FEATURED.jpg"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=112097",
-          "author": "CQN Magazine",
-          "description": "CELTIC received exactly £25.3million for their efforts in last season’s Champions League. The Hoops are already on course to beat that total with their share of the TV revenue this time around. Last term, they split the pot with Giovanni van Bronckhorst’s Ibrox side, but they are flying solo on this occasion after the Govan [...]",
-          "link": "https://www.celticquicknews.co.uk/official-celtics-25-3m-euro-windfall/",
-          "publishedOn": "2023-09-18T23:10:35.000Z",
-          "wordCount": 4007,
-          "title": "OFFICIAL: CELTIC’S £25.3m EURO WINDFALL",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/09/REO-HATATE-GOAL-FEATURED.png"
         }
       ]
     },
@@ -651,16 +661,6 @@
           "wordCount": 2131,
           "title": "Celtic hero tipped to be next Manchester United manager",
           "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1309339248.jpeg"
-        },
-        {
-          "id": "https://thecelticbhoys.com/?p=44277",
-          "author": "Sourav Mahanty",
-          "description": "Celtic coaches have certainly drawn quite a bit of interest in recent years. We saw Ange Postecoglou leave in the summer for Tottenham Hotspur. John Kennedy and Gavin Strachan have been linked with moves away from the club on numerous occasions as well, although they have remained stayed put. It is not just the first-team […]\nChampionship club keen to open talks with Celtic coach - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community",
-          "link": "https://thecelticbhoys.com/2023/09/18/championship-open-talks-celtic-coach/",
-          "publishedOn": "2023-09-18T22:30:12.000Z",
-          "wordCount": 1972,
-          "title": "Championship club keen to open talks with Celtic coach",
-          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2018%2F08%2F1464769763.jpeg"
         }
       ]
     },
@@ -702,6 +702,16 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=175209",
+          "author": "Hamish Carton",
+          "description": "Manager Brendan Rodgers has named his Celtic team for today’s Premiership clash away to Livingston. The full match squad is as follows: Starting XI – Hart,...\nThe post Celtic team vs Livingston confirmed: Surprising change, global TV details, instant reaction appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/match/celtic-team-vs-livingston-confirmed-surprising-change-global-tv-details-instant-reaction/",
+          "publishedOn": "2023-09-23T10:23:33.000Z",
+          "wordCount": 1393,
+          "title": "Celtic team vs Livingston confirmed: Surprising change, global TV details, instant reaction",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/09/GettyImages-1126596181-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=175202",
           "author": "Hamish Carton",
