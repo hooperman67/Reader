@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-09-22T22:09:10.644Z</updated>
+    <updated>2023-09-23T00:43:51.406Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic-linked player claims he laughed at exit rumours]]></title>
+        <id>https://thecelticbhoys.com/?p=44385</id>
+        <link href="https://thecelticbhoys.com/2023/09/22/celtic-linked-player-laughed-exit/"/>
+        <updated>2023-09-22T22:30:51.000Z</updated>
+        <summary type="html"><![CDATA[There was a lot of optimism around Celtic’s transfer plans earlier in the summer when Brendan Rodgers was reappointed. Rumours had suggested that the club were ready to hand the Northern Irishman a big budget to strengthen the squad and were looking to make additions who would help them take a step forward in Europe. […]
+Celtic-linked player claims he laughed at exit rumours - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
+        <author>
+            <name>Sourav Mahanty</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ange Postecoglou makes emotional claim about Celtic]]></title>
         <id>https://thecelticbhoys.com/?p=44382</id>
@@ -1350,37 +1361,6 @@ The post Arne Slot rises above bizarre media question about using nefarious tact
 The post UCL opponent cuts through Celtic and Rangers myth; the players seen as clear dangers appeared first on 67 Hail Hail.]]></summary>
         <author>
             <name>John McGinley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BBC pundit makes sensational claim about Celtic hero Kyogo]]></title>
-        <id>https://thecelticbhoys.com/?p=44260</id>
-        <link href="https://thecelticbhoys.com/2023/09/18/bbc-pundit-claim-celtic-kyogo/"/>
-        <updated>2023-09-18T11:30:35.000Z</updated>
-        <summary type="html"><![CDATA[When Ange Postecoglou left Celtic for Tottenham Hotspur after the end of last season, many wondered what kind of an effect it would have on Kyogo. The Japanese forward had been absolutely brilliant under the management of the Australian. But could he replicate that with a new manager in place? Brendan Rodgers ended up replacing […]
-BBC pundit makes sensational claim about Celtic hero Kyogo - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
-        <author>
-            <name>Sourav Mahanty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debuts aplenty but expectations tempered]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=112061</id>
-        <link href="https://www.celticquicknews.co.uk/debuts-aplenty-but-expectations-tempered/"/>
-        <updated>2023-09-18T11:00:28.000Z</updated>
-        <summary type="html"><![CDATA[The return of cherished players from injury is often anticlimactic as match sharpness takes time to achieve.  Not so with Reo Hatate on Saturday.  Apart from brief cameos against Ross County and Aberdeen, Reo had not seen competitive action since last season’s Scottish Cup Final. We have to temper expectations for tomorrow in Rotterdam, our [...]]]></summary>
-        <author>
-            <name>Paul67</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Win Tickets for an evening with Martin O’Neill]]></title>
-        <id>http://celticunderground.net/?p=6681</id>
-        <link href="http://celticunderground.net/win-tickets-for-an-evening-with-martin-oneill/"/>
-        <updated>2023-09-18T10:55:34.000Z</updated>
-        <summary type="html"><![CDATA[This Wednesday, Graham Spiers is hosting an evening with Martin O’Neill. Listening to a chat with the great man is always fun and following our first UCL game the night before, it may be a great night for dismissing the sorrows or continuing the joy. Fans or all clubs are welcome but it’s likely to […]]]></summary>
-        <author>
-            <name>Harry Brady</name>
         </author>
     </entry>
 </feed>

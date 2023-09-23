@@ -374,16 +374,6 @@
           "wordCount": 5437,
           "title": "Bonanza – the Celtic Accounts episode!",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=112061",
-          "author": "Paul67",
-          "description": "The return of cherished players from injury is often anticlimactic as match sharpness takes time to achieve.  Not so with Reo Hatate on Saturday.  Apart from brief cameos against Ross County and Aberdeen, Reo had not seen competitive action since last season’s Scottish Cup Final. We have to temper expectations for tomorrow in Rotterdam, our [...]",
-          "link": "https://www.celticquicknews.co.uk/debuts-aplenty-but-expectations-tempered/",
-          "publishedOn": "2023-09-18T11:00:28.000Z",
-          "wordCount": 4803,
-          "title": "Debuts aplenty but expectations tempered",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
         }
       ]
     },
@@ -392,6 +382,16 @@
       "feedUrl": "https://thecelticbhoys.com/feed/",
       "siteUrl": "https://thecelticbhoys.com",
       "articles": [
+        {
+          "id": "https://thecelticbhoys.com/?p=44385",
+          "author": "Sourav Mahanty",
+          "description": "There was a lot of optimism around Celtic’s transfer plans earlier in the summer when Brendan Rodgers was reappointed. Rumours had suggested that the club were ready to hand the Northern Irishman a big budget to strengthen the squad and were looking to make additions who would help them take a step forward in Europe. […]\nCeltic-linked player claims he laughed at exit rumours - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community",
+          "link": "https://thecelticbhoys.com/2023/09/22/celtic-linked-player-laughed-exit/",
+          "publishedOn": "2023-09-22T22:30:51.000Z",
+          "wordCount": 2044,
+          "title": "Celtic-linked player claims he laughed at exit rumours",
+          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1464769707.jpeg"
+        },
         {
           "id": "https://thecelticbhoys.com/?p=44382",
           "author": "Sourav Mahanty",
@@ -661,16 +661,6 @@
           "wordCount": 2099,
           "title": "Brendan Rodgers makes superb claim about returning Celtic player",
           "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1355573087-scaled.jpeg"
-        },
-        {
-          "id": "https://thecelticbhoys.com/?p=44260",
-          "author": "Sourav Mahanty",
-          "description": "When Ange Postecoglou left Celtic for Tottenham Hotspur after the end of last season, many wondered what kind of an effect it would have on Kyogo. The Japanese forward had been absolutely brilliant under the management of the Australian. But could he replicate that with a new manager in place? Brendan Rodgers ended up replacing […]\nBBC pundit makes sensational claim about Celtic hero Kyogo - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community",
-          "link": "https://thecelticbhoys.com/2023/09/18/bbc-pundit-claim-celtic-kyogo/",
-          "publishedOn": "2023-09-18T11:30:35.000Z",
-          "wordCount": 2119,
-          "title": "BBC pundit makes sensational claim about Celtic hero Kyogo",
-          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1495681037-scaled.jpeg"
         }
       ]
     },
@@ -705,18 +695,7 @@
       "title": "The Celtic Underground",
       "feedUrl": "http://celticunderground.net/feed/",
       "siteUrl": "http://celticunderground.net",
-      "articles": [
-        {
-          "id": "http://celticunderground.net/?p=6681",
-          "author": "Harry Brady",
-          "description": "This Wednesday, Graham Spiers is hosting an evening with Martin O’Neill. Listening to a chat with the great man is always fun and following our first UCL game the night before, it may be a great night for dismissing the sorrows or continuing the joy. Fans or all clubs are welcome but it’s likely to […]",
-          "link": "http://celticunderground.net/win-tickets-for-an-evening-with-martin-oneill/",
-          "publishedOn": "2023-09-18T10:55:34.000Z",
-          "wordCount": 9064,
-          "title": "Win Tickets for an evening with Martin O’Neill",
-          "imageUrl": "http://celticunderground.net/wp-content/uploads/2015/12/Screen-Shot-2015-12-02-at-23.48.18.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "67 Hail Hail",
