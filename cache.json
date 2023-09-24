@@ -6,6 +6,36 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=112320",
+          "author": "CQN Magazine",
+          "description": "ALISTAIR JOHNSTON doesn’t have to search for words when he describes his Celtic team-mate Daizen Maeda. The Canadian World Cup right-back witnessed another awesome and inexhaustible display from the Japanese forward in the 3-0 win over Livingston and said: “He’s a machine. That’s the simplest way to look at it. “You look back at the [...]",
+          "link": "https://www.celticquicknews.co.uk/johnstons-verdict-on-nightmare-celt/",
+          "publishedOn": "2023-09-24T09:48:48.000Z",
+          "wordCount": 4280,
+          "title": "JOHNSTON’S VERDICT ON ‘NIGHTMARE’ CELT",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/09/ALISTAIR-JOHNSTON-FEATURED-V-LIVI.png"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/?p=112315",
+          "author": "CQN Magazine",
+          "description": "DAZZLING Daizen Maeda certainly knows how to do things in style. The pacy Japanese international scored within four minutes of his Celtic debut in a 2-0 win over Hibs at Parkhead on January 17 2022, And Maeda got off the mark in the 3-0 win over Livingston in West Lothian yesterday with a memorable stoppage-time effort [...]",
+          "link": "https://www.celticquicknews.co.uk/a-memorable-first-for-daizen/",
+          "publishedOn": "2023-09-24T09:21:22.000Z",
+          "wordCount": 4029,
+          "title": "A MEMORABLE FIRST FOR DAIZEN",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/09/DAIZEN-MAEDA-V-TOM-MCPAKE-FEATURED.png"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/?p=112310",
+          "author": "CQN Magazine",
+          "description": "MATT O’RILEY proved he wasn’t afraid to get the sleeves rolled up with an exhausting and eye-catching display in the 3-0 win at Livingston. The playmaker is better known for his elegance on the ball and his thoughtful probing from the middle of the park. However, O’Riley displayed steel and resilience against rough and ready opponents [...]",
+          "link": "https://www.celticquicknews.co.uk/really-happy-oriley-in-comfort-zone/",
+          "publishedOn": "2023-09-24T08:48:23.000Z",
+          "wordCount": 4320,
+          "title": "‘REALLY HAPPY,’ O’RILEY IN COMFORT ZONE",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/09/MATT-ORILEY-THUMBS-UP-FEATURED-LIVI.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=112302",
           "author": "CQN Magazine",
           "description": "BRENDAN RODGERS admitted he is “learning about the players all the time” after defiant Celtic chiselled out a 3-0 win at Livingston. For the second successive game, the Hoops failed to complete the encounter with a full complement after Joe Hart was red-carded in the 29th minute. The experienced keeper was dismissed by referee John [...]",
@@ -324,16 +354,6 @@
           "wordCount": 5130,
           "title": "THE JOCK STEIN YEARS (Part Ten)",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2019/05/BILLY-MCNEILL-JOCK-STEIN-FEATURED-.jpg"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=112158",
-          "author": "CQN Magazine",
-          "description": "FEYENOORD 2 CELTIC 0 GUSTAF LAGERBIEKLE and Odin Holm were both dismissed in a night of red card mayhem in Rotterdam. Celtic plunged to defeat in the opening game of the Champions League Group E campaign which erupted in controversy with the second-half sendings-off of the centre-back and the midfielder. Ropey Bosnian referee Irfan Peljto [...]",
-          "link": "https://www.celticquicknews.co.uk/feyenoord-2-celtic-0-seeing-red-as-nine-man-celts-crash/",
-          "publishedOn": "2023-09-19T21:21:12.000Z",
-          "wordCount": 4550,
-          "title": "FEYENOORD 2 CELTIC 0: SEEING RED AS NINE-MAN CELTS CRASH",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/08/CELTIC-HUDDLE-V-ST-J-AUG-23.png"
         }
       ]
     },
@@ -342,6 +362,16 @@
       "feedUrl": "https://thecelticbhoys.com/feed/",
       "siteUrl": "https://thecelticbhoys.com",
       "articles": [
+        {
+          "id": "https://thecelticbhoys.com/?p=44415",
+          "author": "Sourav Mahanty",
+          "description": "For many years, Andy Robertson was considered to be the one who got away for Celtic. Now, it looks like it is time to add another name to that list. Of course, all of us are aware of the issues the Hoops are facing at left-back at this point in time. Greg Taylor was good […]\nManchester United want player who left Celtic for free - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community",
+          "link": "https://thecelticbhoys.com/2023/09/24/manchester-united-player-left-celtic/",
+          "publishedOn": "2023-09-24T10:00:39.000Z",
+          "wordCount": 2001,
+          "title": "Manchester United want player who left Celtic for free",
+          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1309339248.jpeg"
+        },
         {
           "id": "https://thecelticbhoys.com/?p=44396",
           "author": "StevieMac",
@@ -581,16 +611,6 @@
           "wordCount": 2021,
           "title": "Celtic want to sign Chelsea target with £8m release clause",
           "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1258335285-scaled.jpeg"
-        },
-        {
-          "id": "https://thecelticbhoys.com/?p=44293",
-          "author": "Sourav Mahanty",
-          "description": "It is a new season but the same old story for Celtic. The Hoops have struggled badly in Europe for quite some time now and that continued in their Champions League opener away in the Netherlands against Dutch champions, Feyenoord. It was an evening that promised so much and provided so little. But the Hoops […]\n3 things we learned as Celtic collapse vs Feyenoord - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community",
-          "link": "https://thecelticbhoys.com/2023/09/19/3-things-learned-celtic-feyenoord/",
-          "publishedOn": "2023-09-19T21:00:31.000Z",
-          "wordCount": 2122,
-          "title": "3 things we learned as Celtic collapse vs Feyenoord",
-          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1676987029-scaled.jpeg"
         }
       ]
     },
@@ -1161,16 +1181,6 @@
           "wordCount": 1422,
           "title": "Brendan Rodgers has his say on two Celtic red cards; opinion changed from initial viewing",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/09/GettyImages-1676989800-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=174803",
-          "author": "Hamish Carton",
-          "description": "Celtic fell to a 2-0 defeat in their UEFA Champions League opener to Feyenoord on Tuesday evening. It was an action-packed encounter that saw the...\nThe post Same old mistakes, Palma verdict; 3 things we learned as Celtic lose to Feyenoord appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/same-old-mistakes-palma-verdict-3-things-we-learned-as-celtic-lose-to-feyenoord/",
-          "publishedOn": "2023-09-19T20:59:05.000Z",
-          "wordCount": 1495,
-          "title": "Same old mistakes, Palma verdict; 3 things we learned as Celtic lose to Feyenoord",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/09/GettyImages-1676988231-scaled.jpg"
         }
       ]
     },
