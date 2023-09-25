@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-09-25T08:13:44.013Z</updated>
+    <updated>2023-09-25T10:11:21.243Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CELTIC’S RED CARD MYSTERY]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=112359</id>
+        <link href="https://www.celticquicknews.co.uk/celtics-red-card-mystery/"/>
+        <updated>2023-09-25T08:48:54.000Z</updated>
+        <summary type="html"><![CDATA[CELTIC have had three players red-carded in under an hour of action in their last two games against Feyenoord and Livingston. Amazingly, that is the SAME number of sendings-off amassed by the champions during the entirety of last season. Swedish new Bhoys Gustaf Lagerbiekle and Odin Holm were dismissed in the 2-0 loss in the [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RODGERS KNOWS THE SCORE – JUST ASK MAEDA]]></title>
         <id>https://www.celticquicknews.co.uk/?p=112351</id>
@@ -1160,17 +1170,6 @@ The post Celtic pair have great things to say about team-mate following Feyenoor
 Celtic player accepts responsibility for Feyenoord opener - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
         <author>
             <name>StevieMac</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ange Postecoglou explains how Tottenham convinced him to leave Celtic]]></title>
-        <id>https://thecelticbhoys.com/?p=44322</id>
-        <link href="https://thecelticbhoys.com/2023/09/20/ange-postecoglou-tottenham-leave-celtic/"/>
-        <updated>2023-09-20T21:00:48.000Z</updated>
-        <summary type="html"><![CDATA[Ange Postecoglou is not just another manager. He proved that at Celtic Park. When the Australian arrived, there was no lack of doubters. He was a relative unknown to the majority of Scottish football fans and media. And many felt that he was destined to fail, as the Parkhead would prove too big for him. […]
-Ange Postecoglou explains how Tottenham convinced him to leave Celtic - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
-        <author>
-            <name>Sourav Mahanty</name>
         </author>
     </entry>
 </feed>
