@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-09-25T10:11:21.243Z</updated>
+    <updated>2023-09-25T12:19:53.939Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sky Sports man confirms superb update on Celtic talks]]></title>
+        <id>https://thecelticbhoys.com/?p=44443</id>
+        <link href="https://thecelticbhoys.com/2023/09/25/sky-sports-man-confirms-celtic-talks-2/"/>
+        <updated>2023-09-25T12:00:32.000Z</updated>
+        <summary type="html"><![CDATA[Celtic stumbled out of the gates this season but they have found some form lately. They have kept four straight clean sheets in the league and sit atop the Premiership table, bouncing back nicely after their early elimination from the Scottish League Cup. They did lose their Champions League group stage opener against Feyenoord away […]
+Sky Sports man confirms superb update on Celtic talks - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
+        <author>
+            <name>Sourav Mahanty</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Matt of the Match]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=112364</id>
+        <link href="https://www.celticquicknews.co.uk/matt-of-the-match/"/>
+        <updated>2023-09-25T11:02:09.000Z</updated>
+        <summary type="html"><![CDATA[On its own, winning 0-3 at Livingston would not move the dial, but the manner of Saturday’s win surely did.  Joe Hart’s (correctly awarded) red card sent the flare up, Celtic would have to play on plastic for over an hour with 10 men.  This followed a tiring game in Rotterdam, where they finished with [...]]]></summary>
+        <author>
+            <name>Paul67</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CELTIC’S RED CARD MYSTERY]]></title>
         <id>https://www.celticquicknews.co.uk/?p=112359</id>
@@ -1159,17 +1180,6 @@ The post Celtic pair have great things to say about team-mate following Feyenoor
         <summary type="html"><![CDATA[CELTIC legend Jock Stein made an extraordinary immediate impact on the Parkhead club when he returned as manager in March 1965. In another CQN EXCLUSIVE,  Alex Gordon, author of fifteen publications on Celtic, has opened his book files on the Parkhead great for an absorbing twenty-one part series. Today, in Part Eleven of our fascinating look back [...]]]></summary>
         <author>
             <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic player accepts responsibility for Feyenoord opener]]></title>
-        <id>https://thecelticbhoys.com/?p=44303</id>
-        <link href="https://thecelticbhoys.com/2023/09/20/celtic-player-accepts-feyenoord-opener/"/>
-        <updated>2023-09-20T22:32:11.000Z</updated>
-        <summary type="html"><![CDATA[It wasn’t the best of nights for Celtic in Europe. One player has acknowledged that and has taken responsibility for his part in the 2-0 defeat. It wasn’t the worst of nights either to be fair. In amongst the disappointments and errors in the opening Champions League group match against Feyenoord, there were some promising […]
-Celtic player accepts responsibility for Feyenoord opener - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
-        <author>
-            <name>StevieMac</name>
         </author>
     </entry>
 </feed>
