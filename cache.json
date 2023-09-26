@@ -1069,18 +1069,7 @@
       "title": "News Archives - Celtic Fanzine",
       "feedUrl": "https://celticfanzine.com/category/news/feed/",
       "siteUrl": "https://celticfanzine.com/category/news/",
-      "articles": [
-        {
-          "id": "https://celticfanzine.com/?p=58422",
-          "author": "celtic",
-          "description": "Happy Birthday to Us Its been 22 years today since More than 90 Minutes first went on sale outside Celtic Park. It’s been some buzz travelling up and down Scotland, Europe and beyond covering the Celtic Fans journey  following the famous Celtic FC. There have been ups and downs along the way but we thank […]\nThe post More than 90 Minutes 22 years on appeared first on Celtic Fanzine.",
-          "link": "https://celticfanzine.com/more-than-90-minutes-22-years-on/",
-          "publishedOn": "2023-09-21T12:59:39.000Z",
-          "wordCount": 1794,
-          "title": "More than 90 Minutes 22 years on",
-          "imageUrl": "https://celticfanzine.com/wp-content/uploads/22-years-.png"
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
