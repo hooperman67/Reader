@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=112516",
+          "author": "CQN Magazine",
+          "description": "BRENDAN RODGERS has spelled out his demands on his Celtic players as he prepares for his ninth game in charge since his second coming. The 50-year-old Irishman has endured mixed fortunes on his return following an absence of four and a half years. The holders went out of the Viaplay League Cup at the first [...]",
+          "link": "https://www.celticquicknews.co.uk/only-the-strongest-will-survive-brendans-mantra/",
+          "publishedOn": "2023-09-29T08:44:01.000Z",
+          "wordCount": 4576,
+          "title": "‘ONLY THE STRONGEST WILL SURVIVE,’ BRENDAN’S MANTRA",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/09/BRENDAN-RODGERS-PARADISE-FANS.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=112512",
           "author": "CQN Magazine",
           "description": "JOE HART will miss only his third Premiership game since joining Celtic in August 2021 when he sits out tomorrow’s visit to Fir Park to take on Motherwell. The 36-year-old 75 times-capped England international copped an automatic one-match suspension when he saw red in the 3-0 win over Livingston in West Lothian. Hart, who was [...]",
@@ -521,16 +531,6 @@
           "wordCount": 2166,
           "title": "Rangers hero makes brave claim about league leaders Celtic",
           "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1433371653.jpeg"
-        },
-        {
-          "id": "https://thecelticbhoys.com/?p=44435",
-          "author": "Sourav Mahanty",
-          "description": "Celtic stuck to their strategy of signing highly-rated youngsters even though fans had been hoping that some established players would be brought in, who could make an immediate impact in the Champions League. Unfortunately, the club’s experience was on full show in their group stage opener against Feyenoord. Celtic were a goal down but still […]\nCeltic player sent clear message after major mistake - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community",
-          "link": "https://thecelticbhoys.com/2023/09/24/celtic-player-message-major-mistake/",
-          "publishedOn": "2023-09-24T21:04:32.000Z",
-          "wordCount": 2125,
-          "title": "Celtic player sent clear message after major mistake",
-          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1464769707.jpeg"
         }
       ]
     },
@@ -565,24 +565,23 @@
       "title": "The Celtic Underground",
       "feedUrl": "http://celticunderground.net/feed/",
       "siteUrl": "http://celticunderground.net",
-      "articles": [
-        {
-          "id": "http://celticunderground.net/?p=6683",
-          "author": "Critical Bill",
-          "description": "I ended my last article on Brendan Rodgers on a positive note.  Surely having brought him back with the appropriate salary then mistakes from the previous term would have been learned and we ‘d be moving forward on a united front.   In particular transfer windows would see him not looking particularly downbeat and end with […]",
-          "link": "http://celticunderground.net/stop-me-if-youve-heard-this-one-before/",
-          "publishedOn": "2023-09-24T21:05:52.000Z",
-          "wordCount": 11550,
-          "title": "STOP ME IF YOU’VE HEARD THIS ONE BEFORE",
-          "imageUrl": "http://celticunderground.net/wp-content/uploads/2017/05/P1050865.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "67 Hail Hail",
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=175776",
+          "author": "Hamish Carton",
+          "description": "The Celtic first-team squad will have been making the most of some extra time on the training pitch this week. While our League Cup exit...\nThe post Johnston rivalry, Rodgers' German, goalkeeping poetry; three amusing sights from Celtic training appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/johnston-rivalry-rodgers-german-goalkeeping-poetry-three-amusing-sights-from-celtic-training/",
+          "publishedOn": "2023-09-29T10:10:00.000Z",
+          "wordCount": 1466,
+          "title": "Johnston rivalry, Rodgers' German, goalkeeping poetry; three amusing sights from Celtic training",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/09/GettyImages-1548120695-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=175768",
           "author": "Hamish Carton",
