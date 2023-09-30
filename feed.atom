@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-09-30T10:09:11.919Z</updated>
+    <updated>2023-09-30T12:17:17.714Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Motherwell v Celtic, GG Live updates]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=112540</id>
+        <link href="https://www.celticquicknews.co.uk/motherwell-v-celtic-gg-live-updates/"/>
+        <updated>2023-09-30T10:30:33.000Z</updated>
+        <summary type="html"><![CDATA[Live updates will appear below after 12:30.]]></summary>
+        <author>
+            <name>Paul67</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CONFIRMED: GREEN LIGHT FOR YANG]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=112575</id>
+        <link href="https://www.celticquicknews.co.uk/confirmed-green-light-for-yang/"/>
+        <updated>2023-09-30T10:25:42.000Z</updated>
+        <summary type="html"><![CDATA[SOUTH KOREAN winger Yang Hyun-jun has been brought into the Celtic line-up for this afternoon’s Premiership clash with Motherwell at Fir Park. The summer recruit replaces James Forrest, who made a rare start in the 3-0 win over Livingston in West Lothian a week ago today. The evergreen forward was sacrificed before the half-hour mark [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic officially make fantastic triple announcement]]></title>
         <id>https://thecelticbhoys.com/?p=44576</id>
@@ -1246,17 +1266,6 @@ The post Report: Scottish club make big-name managerial appointment; two former 
         <summary type="html"><![CDATA[CELTIC legend Jock Stein had an extraordinary impact on the Parkhead club after returning as manager in March 1965. In another CQN EXCLUSIVE,  Alex Gordon, author of fifteen publications on Celtic, has opened his book files on the Parkhead great for an absorbing twenty-one part series. Today, in Part Sixteen of our fascinating look back at [...]]]></summary>
         <author>
             <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jota transfer under Al-Ittihad microscope amid Celtic return rumours]]></title>
-        <id>https://thecelticbhoys.com/?p=44446</id>
-        <link href="https://thecelticbhoys.com/2023/09/25/jota-transfer-celtic-return-rumours/"/>
-        <updated>2023-09-25T22:30:28.000Z</updated>
-        <summary type="html"><![CDATA[There are many outstanding questions about the way Jota’s transfer from Celtic to Al-Ittihad has worked out. It may have secured a mega contract for the Portuguese winger, but in playing terms, it appears to be turning into a nightmare. He seems to be out of first-team plans already and his future is in doubt […]
-Jota transfer under Al-Ittihad microscope amid Celtic return rumours - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
-        <author>
-            <name>StevieMac</name>
         </author>
     </entry>
 </feed>
