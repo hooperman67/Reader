@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=112887",
+          "author": "CQN Magazine",
+          "description": "THE tag of perennial loser is not one that is likely to be welcomed by Brendan Rodgers. The Celtic boss demands to be judged at the elevated level of the Champions League and he will not need any reminding his record in this arena is simply awful. Rodgers was battered by disturbing stats in the [...]",
+          "link": "https://www.celticquicknews.co.uk/alexs-angle-perennial-loser-in-the-killing-fields/",
+          "publishedOn": "2023-10-07T08:01:51.000Z",
+          "wordCount": 4657,
+          "title": "ALEX’S ANGLE: PERENNIAL LOSER IN THE KILLING FIELDS",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/03/ALEX-GORDON-CP-TUNNEL.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=112873",
           "author": "CQN Magazine",
           "description": "CELTIC can extend their advantage at the top of the Premiership today when they take on Kilmarnock at Parkhead. The champions’ nearest challengers play in Paisley at noon tomorrow when St Mirren face Ibrox opposition with Steven Davis in chage after the sacking of Michael Beale following the 3-1 thumping from Aberdeen last weekend. How [...]",
@@ -641,16 +651,6 @@
           "wordCount": 1985,
           "title": "Favourite named for Rangers job as Celtic race ahead",
           "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1464769783.jpeg"
-        },
-        {
-          "id": "https://thecelticbhoys.com/?p=44649",
-          "author": "Sourav Mahanty",
-          "description": "It is safe to say that Michael Beale’s time at Ibrox did not turn out as he would have envisioned. The manager had come in amidst a lot of expectations and hype but failed to deliver. He was not able to win a single trophy during his time with the Rangers and did not even […]\nCeltic hero makes superb tweet after Michael Beale sack - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community",
-          "link": "https://thecelticbhoys.com/2023/10/02/celtic-hero-tweet-michael-beale/",
-          "publishedOn": "2023-10-02T19:34:26.000Z",
-          "wordCount": 2062,
-          "title": "Celtic hero makes superb tweet after Michael Beale sack",
-          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1469729815.jpeg"
         }
       ]
     },
@@ -717,6 +717,56 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=176727",
+          "author": "Hamish Carton",
+          "description": "Callum McGregor seems to have revenge on his mind for Celtic against Kilmarnock this weekend. The Hoops skipper was part of the side that went...\nThe post Celtic star isn't shying away from the revenge factor at play this weekend appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/callum-mcgregor-isnt-shying-away-from-the-celtic-revenge-factor-this-weekend/",
+          "publishedOn": "2023-10-07T08:10:00.000Z",
+          "wordCount": 1437,
+          "title": "Celtic star isn't shying away from the revenge factor at play this weekend",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/10/GettyImages-1627543578-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=176763",
+          "author": "Hamish Carton",
+          "description": "Chris Sutton was at Celtic Park on Wednesday to see the Hoops go down to Lazio. It was a gutting climax for us all as...\nThe post \"How about an ugly goal\"; Chris Sutton has some thoughts after Celtic Park visit appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/how-about-an-ugly-goal-chris-sutton-has-some-thoughts-after-celtic-park-visit/",
+          "publishedOn": "2023-10-07T07:45:00.000Z",
+          "wordCount": 1526,
+          "title": "\"How about an ugly goal\"; Chris Sutton has some thoughts after Celtic Park visit",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/10/GettyImages-1313886536-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=176734",
+          "author": "Hamish Carton",
+          "description": "Brendan Rodgers has explained his decision to bring Cameron Carter-Vickers on against Lazio. The American was introduced to the action for Nat Phillips during the...\nThe post Brendan Rodgers explains contentious Celtic substitution against Lazio appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/match/brendan-rodgers-explains-contentious-celtic-substitution-against-lazio/",
+          "publishedOn": "2023-10-07T07:15:00.000Z",
+          "wordCount": 1312,
+          "title": "Brendan Rodgers explains contentious Celtic substitution against Lazio",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/10/GettyImages-1706189570-1.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=176757",
+          "author": "Hamish Carton",
+          "description": "Celtic boss Brendan Rodgers has offered some of his own opinion in chat about who the next manager of Rangers should be. Rodgers didn’t take...\nThe post \"He has qualities\"; Celtic boss Rodgers gets involved in next Rangers manager chat appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/he-has-qualities-celtic-boss-brendan-rodgers-gets-involved-in-next-rangers-manager-chat/",
+          "publishedOn": "2023-10-07T06:45:00.000Z",
+          "wordCount": 1369,
+          "title": "\"He has qualities\"; Celtic boss Rodgers gets involved in next Rangers manager chat",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/10/GettyImages-1656944300-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=176751",
+          "author": "Hamish Carton",
+          "description": "Celtic are scheduled to face Kilmarnock on Saturday, amid a severe weather warning for Glasgow and other parts of Scotland. On Friday evening, police urged...\nThe post The Celtic vs Kilmarnock status as severe weather warning issued for Glasgow appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/match/the-celtic-vs-kilmarnock-status-as-severe-weather-warning-issued-for-glasgow/",
+          "publishedOn": "2023-10-07T06:15:00.000Z",
+          "wordCount": 1254,
+          "title": "The Celtic vs Kilmarnock status as severe weather warning issued for Glasgow",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/10/GettyImages-610927426-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=176714",
           "author": "John McGinley",
@@ -1286,36 +1336,6 @@
           "wordCount": 1375,
           "title": "\"Charlton under-14s\"; former Celtic hero's brutal trolling of Michael Beale continues",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/04/GettyImages-1469734167-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=176092",
-          "author": "Amir Mir",
-          "description": "The game of Matt O’Riley is just going from strength to strength at Celtic. After impressing under Ange Postecoglou, it feels as though the 22-year-old...\nThe post James McFadden highlights Celtic star who has been ‘sensational’ this season appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/james-mcfadden-highlights-celtic-star-who-has-been-sensational-this-season/",
-          "publishedOn": "2023-10-02T19:40:00.000Z",
-          "wordCount": 1318,
-          "title": "James McFadden highlights Celtic star who has been ‘sensational’ this season",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/02/GettyImages-1308232604-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=176089",
-          "author": "John McGinley",
-          "description": "Brendan Rodgers demonstrated the unity at Celtic with comments in the wake of Saturday’s thrilling win over Motherwell. Luis Palma and Matt O’Riley scored late...\nThe post As rivals fracture Brendan Rodgers shows unity with Celtic hierarchy appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/as-rivals-fracture-brendan-rodgers-shows-unity-with-celtic-hierarchy/",
-          "publishedOn": "2023-10-02T18:52:05.000Z",
-          "wordCount": 1302,
-          "title": "As rivals fracture Brendan Rodgers shows unity with Celtic hierarchy",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/09/GettyImages-1656782914-2-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=176084",
-          "author": "John McGinley",
-          "description": "Michael Beale was far from a shy and retiring character during his spell as a manager in Scottish football, but in truth, the controversial comments...\nThe post The Michael Beale comments on Celtic that look even more foolish now after Rangers sacking appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/the-michael-beale-comments-on-celtic-that-look-even-more-foolish-now-after-rangers-sacking/",
-          "publishedOn": "2023-10-02T18:20:06.000Z",
-          "wordCount": 1389,
-          "title": "The Michael Beale comments on Celtic that look even more foolish now after Rangers sacking",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/10/GettyImages-1489712286-scaled.jpg"
         }
       ]
     },
