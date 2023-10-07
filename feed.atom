@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-10-06T22:09:01.636Z</updated>
+    <updated>2023-10-07T00:45:36.228Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Brendan Rodgers drops hint about long-term Celtic future]]></title>
+        <id>https://thecelticbhoys.com/?p=44752</id>
+        <link href="https://thecelticbhoys.com/2023/10/06/brendan-rodgers-drops-hint-celtic/"/>
+        <updated>2023-10-06T22:30:58.000Z</updated>
+        <summary type="html"><![CDATA[When Ange Postecoglou left the club in order to join Tottenham Hotspur in the summer, merely days after winning the domestic treble, Celtic were put in a difficult position. They were losing a world-class manager, who had guided them to five trophies in two years, exceeding all expectations. Thus, they needed a suitable replacement. And […]
+Brendan Rodgers drops hint about long-term Celtic future - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
+        <author>
+            <name>Sourav Mahanty</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Colin Kazim-Richards calls former Celtic boss the ‘worst coach’]]></title>
         <id>https://thecelticbhoys.com/?p=44746</id>
@@ -1417,26 +1428,6 @@ The post Celtic have golden chance to put immediate pressure on Steven Davis, Al
 Gary Lineker makes fantastic claim about Celtic on air - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
         <author>
             <name>Sourav Mahanty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BIG DEAL: CELTIC TARGET TWO MORE STARS]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=112702</id>
-        <link href="https://www.celticquicknews.co.uk/big-deal-celtic-target-two-more-stars/"/>
-        <updated>2023-10-02T11:38:31.000Z</updated>
-        <summary type="html"><![CDATA[CAMERON CARTER-VICKERS and Greg Taylor are in line to become the next Celtic players to be offered extended contracts. The Hoops hierarchy want the defenders to follow the recent trend of EIGHT stars who have signed enhanced terms at the champions. Matt O’Riley became the latest star to pledge his immediate future to the Parkhead men [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sisyphus FC’s endless struggle to catch Celtic]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=112701</id>
-        <link href="https://www.celticquicknews.co.uk/sisyphus-fcs-endless-struggle-to-catch-celtic/"/>
-        <updated>2023-10-02T11:06:28.000Z</updated>
-        <summary type="html"><![CDATA[That late winner by Matt O’Riley was the start of a great weekend for Celtic, as later, main challengers St Mirren could only manage a draw at Kilmarnock.  The fact that this result is better than Celtic managed there in the League Cup is no comfort to the Paisley side’s title aspirations. St Mirren are [...]]]></summary>
-        <author>
-            <name>Paul67</name>
         </author>
     </entry>
 </feed>
