@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-10-08T04:11:35.175Z</updated>
+    <updated>2023-10-08T06:12:42.726Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[REO BRAVO: RODGERS HAILS ‘OUTSTANDING’ CELT]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=112910</id>
+        <link href="https://www.celticquicknews.co.uk/reo-bravo-rodgers-hails-outstanding-celt/"/>
+        <updated>2023-10-08T05:50:40.000Z</updated>
+        <summary type="html"><![CDATA[REO HATATE answered his critics with a dynamic display that deservely saw him win the Man-of-the-Match accolade in the 3-1 Premiership triumph over Kilmarnock at Parkhead. The Japanese midfielder sparked to life to shred the Rugby Park opponents, score a memorable goal and put in a complete performance in his first full outing of the campaign. [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic should sign Manchester United player on loan]]></title>
         <id>https://thecelticbhoys.com/?p=44768</id>
@@ -1350,38 +1360,6 @@ Journalist tips Celtic to sign £20 million goalkeeper - The Celtic Bhoys - The 
 The post 'Had it tougher': Chris Sutton makes Celtic claim after Postecoglou's flying start at Spurs appeared first on 67 Hail Hail.]]></summary>
         <author>
             <name>Amir Mir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic boss makes Michael Beale claim after Rangers sack]]></title>
-        <id>https://thecelticbhoys.com/?p=44666</id>
-        <link href="https://thecelticbhoys.com/2023/10/03/celtic-boss-michael-beale-rangers/"/>
-        <updated>2023-10-03T18:00:15.000Z</updated>
-        <summary type="html"><![CDATA[It is safe to say that there has been very little stability in the Rangers managerial office over the past couple of years as Celtic have continued to dominate Scottish football. Steven Gerrard left to take the Aston Villa job. Giovanni van Bronckhorst impressed early on, guiding them to a Scottish Cup triumph and an […]
-Celtic boss makes Michael Beale claim after Rangers sack - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
-        <author>
-            <name>Sourav Mahanty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Too much': Stuart Pearce delivers truth bombs to Rangers about Celtic after Beale's sacking]]></title>
-        <id>https://www.67hailhail.com/?p=176232</id>
-        <link href="https://www.67hailhail.com/news/stuart-pearce-delivers-truth-bombs-to-rangers-about-celtic-after-michael-beales-sacking/"/>
-        <updated>2023-10-03T17:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Stuart Pearce has suggested that sought-after Rangers managers might look at the situation in Scotland and think the gap is ‘too much’ to bridge between...
-The post 'Too much': Stuart Pearce delivers truth bombs to Rangers about Celtic after Beale's sacking appeared first on 67 Hail Hail.]]></summary>
-        <author>
-            <name>Amir Mir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CCV COMEBACK HINT]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=112717</id>
-        <link href="https://www.celticquicknews.co.uk/ccv-comeback-hint/"/>
-        <updated>2023-10-03T16:51:14.000Z</updated>
-        <summary type="html"><![CDATA[BRENDAN RODGERS has hinted crocked centre-back Cameron Carter-Vickers could make a surprise comeback to his Champions League squad tomorrow night. The defender hasn’t figured since coming off at the interval of the 3-1 Premiership win over Aberdeen at Pittodrie on August 13 after suffering a muscular injury. The rock in the heart of the Hoops’ rearguard [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
         </author>
     </entry>
 </feed>
