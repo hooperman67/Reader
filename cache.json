@@ -244,16 +244,6 @@
           "wordCount": 5826,
           "title": "Containing consequences",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=112856",
-          "author": "CQN Magazine",
-          "description": "THE questions over the legality of Pedro’s stoppage-time winner at Parkhead in midweek raged long after the final whistle and Celtic’s agonising 2-1 Champions League loss to Lazio. The header in the sixth minute of added-on time looked like a decidedly close call, but, curiously, there was no intervention from VAR. Live TV pictures were [...]",
-          "link": "https://www.celticquicknews.co.uk/pedro-goal-explained-var-too-late/",
-          "publishedOn": "2023-10-06T09:36:06.000Z",
-          "wordCount": 4225,
-          "title": "PEDRO GOAL EXPLAINED: VAR TOO LATE",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/10/PEDRO-GOAL-FEATURED.png"
         }
       ]
     },
@@ -262,6 +252,16 @@
       "feedUrl": "https://thecelticbhoys.com/feed/",
       "siteUrl": "https://thecelticbhoys.com",
       "articles": [
+        {
+          "id": "https://thecelticbhoys.com/?p=44829",
+          "author": "Sourav Mahanty",
+          "description": "Most Celtic fans will naturally have some level of interest in who the Rangers end up appointing as their next manager. Their previous two arrived amid a lot of expectations but failed to deal with the challenge presented by the Hoops. Giovanni van Bronckhorst was in the hot seat for just a year while Michael […]\nClear favourite emerges for Rangers job as Celtic watch on - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community",
+          "link": "https://thecelticbhoys.com/2023/10/10/clear-favourite-rangers-job-celtic/",
+          "publishedOn": "2023-10-10T21:00:40.000Z",
+          "wordCount": 1980,
+          "title": "Clear favourite emerges for Rangers job as Celtic watch on",
+          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1464769783.jpeg"
+        },
         {
           "id": "https://thecelticbhoys.com/?p=44825",
           "author": "Sourav Mahanty",
@@ -501,16 +501,6 @@
           "wordCount": 2070,
           "title": "Neil Lennon confirms Leeds United’s interest in Celtic player",
           "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F456071160.jpeg"
-        },
-        {
-          "id": "https://thecelticbhoys.com/?p=44727",
-          "author": "Sourav Mahanty",
-          "description": "It was the same old story for Celtic in Europe once again, as they lost 2-1 to Lazio at Parkhead despite being the better side in almost all departments for the majority of the game. The Hoops went ahead early through Kyogo Furuhashi, who ended his goal drought in the Champions League. But then, they […]\nCeltic boss explains questionable decision vs Lazio - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community",
-          "link": "https://thecelticbhoys.com/2023/10/06/celtic-boss-explains-decision-lazio/",
-          "publishedOn": "2023-10-06T10:00:55.000Z",
-          "wordCount": 2231,
-          "title": "Celtic boss explains questionable decision vs Lazio",
-          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1569804709-scaled.jpeg"
         }
       ]
     },
@@ -518,18 +508,7 @@
       "title": "eTims",
       "feedUrl": "http://etims.net/?feed=rss2",
       "siteUrl": "https://etims.net",
-      "articles": [
-        {
-          "id": "https://etims.net/?p=18515",
-          "author": "Ralph Malph",
-          "description": "The disappointment in the result against Lazio might take a while to go away, and with a double header against group favourites Atletico Madrid ahead,…",
-          "link": "https://etims.net/?p=18515",
-          "publishedOn": "2023-10-06T08:35:55.000Z",
-          "wordCount": 4506,
-          "title": "Celtic Diary Friday October 6: Cheer Up Stevie D",
-          "imageUrl": "https://etims.net/wp-content/uploads/2023/08/happy-quotes10-1640704232-683x1024.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "The Celtic Underground",
