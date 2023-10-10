@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-10-10T08:13:33.027Z</updated>
+    <updated>2023-10-10T10:11:33.032Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Every Celtic star still out injured and what we know about their return]]></title>
+        <id>https://www.67hailhail.com/?p=177112</id>
+        <link href="https://www.67hailhail.com/news/every-celtic-star-still-to-return-from-injury-and-what-we-know-about-their-return/"/>
+        <updated>2023-10-10T10:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Celtic appear to be over the worst of the injury troubles that have provided a huge challenge at the start of the season. It has...
+The post Every Celtic star still out injured and what we know about their return appeared first on 67 Hail Hail.]]></summary>
+        <author>
+            <name>Hamish Carton</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA['It's mental': Barry Ferguson simply can't believe what has happened to one Celtic player]]></title>
         <id>https://www.67hailhail.com/?p=177108</id>
@@ -1175,28 +1186,6 @@ The post The media go down a very obvious route with Rodgers ahead of weekend Ce
 Celtic called far better than Rangers as Graham Potter talk rubbished - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
         <author>
             <name>Sourav Mahanty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Former Chelsea manager wants Rangers job despite Celtic lead]]></title>
-        <id>https://thecelticbhoys.com/?p=44720</id>
-        <link href="https://thecelticbhoys.com/2023/10/05/former-chelsea-rangers-job-celtic/"/>
-        <updated>2023-10-05T21:00:45.000Z</updated>
-        <summary type="html"><![CDATA[Another manager departed the Rangers recently, unable to overcome the challenge posed by Celtic during his time in the Ibrox hot seat. Michael Beale was not able to win a single trophy during his 10-month stint in Glasgow. In comparison, the Hoops won the treble in the previous campaign and already have a 7-point lead […]
-Former Chelsea manager wants Rangers job despite Celtic lead - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
-        <author>
-            <name>Sourav Mahanty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Derby Delight: Celtic secure dramatic Thursday win over rivals to go top of SWPL]]></title>
-        <id>https://www.67hailhail.com/?p=176616</id>
-        <link href="https://www.67hailhail.com/celtic-fc-women/derby-delight-celtic-secure-dramatic-thursday-win-over-rivals-to-go-top-of-swpl/"/>
-        <updated>2023-10-05T20:27:10.000Z</updated>
-        <summary type="html"><![CDATA[Celtic FC Women have maintained their perfect record in the SWPL after a 2-1 win over rivals Glasgow City this evening, ensuring they go top...
-The post Derby Delight: Celtic secure dramatic Thursday win over rivals to go top of SWPL appeared first on 67 Hail Hail.]]></summary>
-        <author>
-            <name>John McGinley</name>
         </author>
     </entry>
 </feed>
