@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=113081",
+          "author": "Paul67",
+          "description": "There are moments when the torch passes from one player to another in football.  Carl Starfelt (28) played for Celta Vigo on Saturday but did not make the bench for Sweden against Moldova last night.  Instead, Gustaf Lagerbielke made his second appearance at the back for Sweden and scored his first goal for his country.  [...]",
+          "link": "https://www.celticquicknews.co.uk/torch-passing-moment-between-carl-and-gus/",
+          "publishedOn": "2023-10-13T11:01:10.000Z",
+          "wordCount": 5850,
+          "title": "Torch passing moment between Carl and Gus",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=113074",
           "author": "CQN Magazine",
           "description": "GREG TAYLOR is standing by to add to his 10 international caps when Scotland take on France in a friendly in Lille on Tuesday night. The Celtic defender scored his first goal of the season in the 3-1 win over Kilmarnock at Parkhead at the weekend and will return a week on Sunday to Tynecastle, [...]",
@@ -401,16 +411,6 @@
           "wordCount": 2041,
           "title": "Celtic hero tips Ange Postecoglou favourite for Rangers job",
           "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1540247922-scaled.jpeg"
-        },
-        {
-          "id": "https://thecelticbhoys.com/?p=44779",
-          "author": "StevieMac",
-          "description": "Kris Boyd can usually be counted on for some eyebrow-raising comments, especially when talking about Celtic or trying to debate with Chris Sutton. What’s unusual though is that the former Rangers player has actually made a very good comparison when talking about the two Glasgow giants recently. Clearly, it has been a disappointing start to […]\nKris Boyd makes unexpected Celtic admission over Rangers - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community",
-          "link": "https://thecelticbhoys.com/2023/10/08/kris-boyd-celtic-admission-rangers-2/",
-          "publishedOn": "2023-10-08T22:35:11.000Z",
-          "wordCount": 2058,
-          "title": "Kris Boyd makes unexpected Celtic admission over Rangers",
-          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F454012454.jpeg"
         }
       ]
     },
@@ -442,6 +442,26 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=177495",
+          "author": "Hamish Carton",
+          "description": "Sead Haksabanovic has only been on loan at Stoke City from Celtic for a month, yet he’s already scooped an award. The 24-year-old has been...\nThe post Celtic loanee wins Player of the Month award at new club appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/sead-haksabanovic-wins-stoke-city-award-but-not-everything-is-rosey-for-celtic-loanee/",
+          "publishedOn": "2023-10-13T12:10:00.000Z",
+          "wordCount": 1299,
+          "title": "Celtic loanee wins Player of the Month award at new club",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/10/GettyImages-1716511016-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=177480",
+          "author": "Hamish Carton",
+          "description": "Many Celtic supporters may have been trembling a little as Alvaro Morata struck Spain’s opener against Scotland on Thursday night. It was a night of...\nThe post The Celtic support receive a timely reminder from Alvaro Morata appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/the-celtic-support-receive-a-timely-reminder-from-alvaro-morata/",
+          "publishedOn": "2023-10-13T11:10:00.000Z",
+          "wordCount": 1248,
+          "title": "The Celtic support receive a timely reminder from Alvaro Morata",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/10/GettyImages-1720721737-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=177463",
           "author": "Hamish Carton",
