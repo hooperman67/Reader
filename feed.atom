@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-10-15T08:11:41.641Z</updated>
+    <updated>2023-10-15T10:09:43.742Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CALMAC AND CO IN PURSUIT OF THE OlÉ GRAIL]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=113130</id>
+        <link href="https://www.celticquicknews.co.uk/calmac-and-co-in-pursuit-of-the-ole-grail/"/>
+        <updated>2023-10-15T09:59:20.000Z</updated>
+        <summary type="html"><![CDATA[CALLUM McGREGOR and Co will be backing Spain against Norway in the crucial Euro 24 Group A qualifier in Oslo this evening. A win or a draw for the visitors will seal a place for Scotland in next summer’s soccer extravaganza in Germany. The Celtic captain and Hoops team-mate Greg Taylor, who could face World Cup [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CONFIRMED: O’RILEY EURO CALL-UP]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=113125</id>
+        <link href="https://www.celticquicknews.co.uk/confirmed-oriley-euro-call-up/"/>
+        <updated>2023-10-15T09:07:05.000Z</updated>
+        <summary type="html"><![CDATA[CELTIC’S on-fire midfielder Matt O’Riley is hoping to make his debut for Denmark on Tuesday after answering an SOS to join the squad. The 22-year-old Londoner was surprisingly overlooked by manager Kasper Hjulmand for his 23-man pool for the Euro 24 double-header against Kazakhstan and San Marino. The Hoops playmaker has already scored five goals [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[THE DAY EVERGREEN CELT BECAME A TON-UP BHOY]]></title>
         <id>https://www.celticquicknews.co.uk/?p=113121</id>
@@ -977,17 +997,6 @@ The post Daizen Maeda's puzzling injury; promising signs for Celtic appeared fir
 The post "I am very proud of Luis"; former Celtic hero is loving watching Palma appeared first on 67 Hail Hail.]]></summary>
         <author>
             <name>Hamish Carton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clear favourite emerges for Rangers job as Celtic watch on]]></title>
-        <id>https://thecelticbhoys.com/?p=44829</id>
-        <link href="https://thecelticbhoys.com/2023/10/10/clear-favourite-rangers-job-celtic/"/>
-        <updated>2023-10-10T21:00:40.000Z</updated>
-        <summary type="html"><![CDATA[Most Celtic fans will naturally have some level of interest in who the Rangers end up appointing as their next manager. Their previous two arrived amid a lot of expectations but failed to deal with the challenge presented by the Hoops. Giovanni van Bronckhorst was in the hot seat for just a year while Michael […]
-Clear favourite emerges for Rangers job as Celtic watch on - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
-        <author>
-            <name>Sourav Mahanty</name>
         </author>
     </entry>
 </feed>
