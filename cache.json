@@ -174,16 +174,6 @@
           "wordCount": 4255,
           "title": "A national proxy for Celtic",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=113055",
-          "author": "CQN Magazine",
-          "description": "NEW Bhoy Gustaf Lagerbielke has praised “very helpful” Brendan Rodgers. The centre-back joined Celtic in a £3million switch from Elfsborg in August and has enjoyed mixed fortunes so far in his short career at the champions. Lagerbielke played the entire 90 minutes-plus in the hectic Glasgow derby at a partisan Ibrox where Kyogo Furuhashi lashed [...]",
-          "link": "https://www.celticquicknews.co.uk/new-bhoy-hails-very-helpful-rodgers/",
-          "publishedOn": "2023-10-12T09:04:25.000Z",
-          "wordCount": 4170,
-          "title": "NEW BHOY HAILS ‘VERY HELPFUL’ RODGERS",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/09/GUSTAF-LAGERBIEKLE-NEW-FEATURRRED.png"
         }
       ]
     },
@@ -192,6 +182,16 @@
       "feedUrl": "https://thecelticbhoys.com/feed/",
       "siteUrl": "https://thecelticbhoys.com",
       "articles": [
+        {
+          "id": "https://thecelticbhoys.com/?p=44948",
+          "author": "Sourav Mahanty",
+          "description": "It is that time of the year again when there is a new manager in the Rangers’ dugout. We have seen the same story time after time. In fact, Philippe Clement is their fourth manager in the space of less than two years. That is not a recipe for stability or success. And in the […]\nRangers fear clear to Celtic fans amid Philippe Clement arrival - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community",
+          "link": "https://thecelticbhoys.com/2023/10/16/rangers-celtic-fans-philippe-clement/",
+          "publishedOn": "2023-10-16T21:04:29.000Z",
+          "wordCount": 2038,
+          "title": "Rangers fear clear to Celtic fans amid Philippe Clement arrival",
+          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1464769783.jpeg"
+        },
         {
           "id": "https://thecelticbhoys.com/?p=44945",
           "author": "Sourav Mahanty",
