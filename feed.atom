@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-10-21T04:11:32.969Z</updated>
+    <updated>2023-10-21T06:12:51.495Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ALEX’S ANGLE: HEARD THE ONE ABOUT THE DUTCHMAN, THE ENGLISHMAN AND THE BELGIAN?]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=113250</id>
+        <link href="https://www.celticquicknews.co.uk/alexs-angle-heard-the-one-about-the-dutchman-the-englishman-and-the-belgian/"/>
+        <updated>2023-10-21T04:45:55.000Z</updated>
+        <summary type="html"><![CDATA[I AM working off memory here, but I seem to recall honeymoon periods tend to last just a shade longer than 48 hours. And, yet, that is the unpleasant prospect facing Philippe Clement as he begins his new job this weekend. As you would expect, the Belgian has been talking the talk since his appointment [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WAR GAMES: PART FOUR: ‘WE WERE SICKENED, BATTERED, BRUISED AND BEATEN’]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=84117</id>
+        <link href="https://www.celticquicknews.co.uk/war-games-part-four-we-were-sickened-battered-bruised-and-beaten/"/>
+        <updated>2023-10-21T04:30:11.000Z</updated>
+        <summary type="html"><![CDATA[FIFTY-SIX YEARS ago, Celtic were involved in three of the most infamous games in the club’s proud history. Billy McNeill scored the only goal of a thuggish encounter on October 18 1967 at Hampden in the Parkhead club’s quest to conquer the world and win the first leg of the Intercontinental Cup Final against Argentina’s [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ange Postecoglou explains Pep Guardiola Celtic rumour]]></title>
         <id>https://thecelticbhoys.com/?p=45033</id>
@@ -1048,39 +1068,6 @@ Rangers fear clear to Celtic fans amid Philippe Clement arrival - The Celtic Bho
 Philippe Clement breaks silence on Celtic’s 7-point lead - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
         <author>
             <name>Sourav Mahanty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rangers’ Todd Cantwell takes needless dig at Celtic legend]]></title>
-        <id>https://thecelticbhoys.com/?p=44942</id>
-        <link href="https://thecelticbhoys.com/2023/10/16/rangers-todd-cantwell-celtic-legend/"/>
-        <updated>2023-10-16T18:05:08.000Z</updated>
-        <summary type="html"><![CDATA[Todd Cantwell has certainly had an interesting time since arriving at Ibrox. He was hailed as a brilliant signing by their fans and was considered by them as one of the best players in Scotland not too long ago. But as the months have progressed and Celtic have continued to dominate Scottish football, it looks […]
-Rangers’ Todd Cantwell takes needless dig at Celtic legend - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
-        <author>
-            <name>Sourav Mahanty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Philippe Clement addresses big gap between Celtic and Rangers]]></title>
-        <id>https://www.67hailhail.com/?p=177834</id>
-        <link href="https://www.67hailhail.com/news/philippe-clement-addresses-big-gap-between-celtic-and-rangers/"/>
-        <updated>2023-10-16T17:26:53.000Z</updated>
-        <summary type="html"><![CDATA[Philippe Clement has tried to shift discussion away from the seven-point gap between Celtic and Rangers that he is inheriting, insisting he will remain focused...
-The post Philippe Clement addresses big gap between Celtic and Rangers appeared first on 67 Hail Hail.]]></summary>
-        <author>
-            <name>John McGinley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘When he came from Celtic’: Ramon Vega calls out doubters after Bhoys hero picks up another award]]></title>
-        <id>https://www.67hailhail.com/?p=177816</id>
-        <link href="https://www.67hailhail.com/news/when-he-came-from-celtic-ramon-vega-calls-out-doubters-after-bhoys-hero-picks-up-another-award/"/>
-        <updated>2023-10-16T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ramon Vega has called out Ange Postecoglou’s doubters following his exit from Celtic to Tottenham this summer. Celtic are a bigger club than Tottenham, the...
-The post ‘When he came from Celtic’: Ramon Vega calls out doubters after Bhoys hero picks up another award appeared first on 67 Hail Hail.]]></summary>
-        <author>
-            <name>Amir Mir</name>
         </author>
     </entry>
 </feed>
