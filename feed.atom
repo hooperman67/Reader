@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-10-22T08:11:26.655Z</updated>
+    <updated>2023-10-22T10:09:48.646Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NO-SHOW HAKSA, HOOK FOR ROBERTS]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=113301</id>
+        <link href="https://www.celticquicknews.co.uk/no-show-haksa-hook-for-roberts/"/>
+        <updated>2023-10-22T09:19:01.000Z</updated>
+        <summary type="html"><![CDATA[SEAD HAKSABANOVIC was a no-show for Stoke City as they won 2-1 in their Championship clash against Sunderland yesterday. Former Celtic fans’ favourite Patrick Roberts was hooked in the 66th minute as one-time Hoops boss Tony Mowbray tried to salvage at least a point against Alex Neill’s men. Haksabanovic joined the Potteries club on a [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SIR BOBBY’S SURPRISE FOR CELTIC LEGEND]]></title>
         <id>https://www.celticquicknews.co.uk/?p=113280</id>
@@ -1141,17 +1151,6 @@ The post Celtic international round-up: Carter-Vickers relief, promising Bernard
         <summary type="html"><![CDATA[TODAY is the 56th anniversary of one of the most infamous games in Celtic’s proud history – the first leg of three vicious encounters in the Intercontinental Cup Final against Argentina’s Racing Club of Buenos Aires. It was the evening at a packed Hampden where “football went oot the windae,” according to Wee Jimmy Johnstone, [...]]]></summary>
         <author>
             <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alex McLeish offers blunt Celtic truth to Philippe Clement]]></title>
-        <id>https://thecelticbhoys.com/?p=44971</id>
-        <link href="https://thecelticbhoys.com/2023/10/17/alex-mcleish-celtic-philippe-clement/"/>
-        <updated>2023-10-17T21:04:43.000Z</updated>
-        <summary type="html"><![CDATA[Rangers have finally appointed a new manager. Philippe Clement is the man replacing Michael Beale in the Ibrox hot seat and it is safe to say that he has a lot of work to do. As things stand, they find themselves seven points behind Celtic in the Scottish Premiership table. That is a significant gap […]
-Alex McLeish offers blunt Celtic truth to Philippe Clement - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
-        <author>
-            <name>Sourav Mahanty</name>
         </author>
     </entry>
 </feed>
