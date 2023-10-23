@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-10-23T14:09:59.272Z</updated>
+    <updated>2023-10-23T16:13:04.403Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ATLETICO TO HONOUR HOOPS SHAME GAME TEAM]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=113347</id>
+        <link href="https://www.celticquicknews.co.uk/atletico-to-honour-hoops-shame-game-team/"/>
+        <updated>2023-10-23T15:11:20.000Z</updated>
+        <summary type="html"><![CDATA[ATLETICO MADRID are planning to HONOUR their team of 1974 which had three players ordered off in a game of shame at Parkhead. The Spaniards shocked Jock Stein’s Celtic with their disgusting tactics as they booted and hacked their way to a goalless draw in the first leg of the European Cup on April 10 almost half [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Brendan Rodgers admits Celtic signing is struggling]]></title>
         <id>https://thecelticbhoys.com/?p=45095</id>
