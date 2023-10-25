@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-10-25T12:19:56.268Z</updated>
+    <updated>2023-10-25T14:09:33.211Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CELTIC: A CLUB STATEMENT]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=113448</id>
+        <link href="https://www.celticquicknews.co.uk/celtic-a-club-statement/"/>
+        <updated>2023-10-25T12:32:56.000Z</updated>
+        <summary type="html"><![CDATA[CELTIC have released a statement ahead of this evening’s Champions League Group E game against Atletico Madrid at Parkhead. The club have made an appeal for supporters not to display banners, flags and symbols relating to the present Israeli-Palestinian conflict. In the solemn message, Celtic also thanked the fans “their positive support of the players [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Do it for Jinky, for the fans, but players must do it for themselves]]></title>
         <id>https://www.celticquicknews.co.uk/?p=113419</id>
