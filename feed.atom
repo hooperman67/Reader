@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-10-25T20:10:35.354Z</updated>
+    <updated>2023-10-25T22:09:17.643Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CELTIC 2 ATLETICO MADRID 2: POINT TAKEN AS KYOGO, PALMA STRIKE]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=113456</id>
+        <link href="https://www.celticquicknews.co.uk/celtic-2-atletico-madrid-2-point-taken-as-kyogo-palma-strike/"/>
+        <updated>2023-10-25T21:32:22.000Z</updated>
+        <summary type="html"><![CDATA[CELTIC 2 ATLETICO MADRID 2 WELL, looking on the positive side, Celtic at least stopped the rot. First-half strikes from Kyogo Furuhashi and Luis Palma claimed the goals that gave Brendan Rodgers’ men their first point at the third attempt in Champions League Group E at Parkhead tonight. It was an evening of what-have-been for [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FEYENOORD FLOOR LAZIO]]></title>
         <id>https://www.celticquicknews.co.uk/?p=113455</id>
@@ -940,27 +950,6 @@ The post Unsung Hoops hero comes in for credit from both Hearts and Celtic sides
 The post Celtic boss keen to make rotation point after praising defensive surprise appeared first on 67 Hail Hail.]]></summary>
         <author>
             <name>Hamish Carton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Summer Hearts signing shares what he knows about Celtic]]></title>
-        <id>https://www.67hailhail.com/?p=178471</id>
-        <link href="https://www.67hailhail.com/match/summer-hearts-signing-shares-what-he-knows-about-celtic/"/>
-        <updated>2023-10-21T09:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Hearts defender Frankie Kent has shared what he knows about Celtic ahead of this weekend’s clash. It’s a tasty visit to Tynecastle for the Hoops...
-The post Summer Hearts signing shares what he knows about Celtic appeared first on 67 Hail Hail.]]></summary>
-        <author>
-            <name>Hamish Carton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[STORM BABET UPDATE: THREE PREMIERSHIP GAMES OFF]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=113269</id>
-        <link href="https://www.celticquicknews.co.uk/the-championship-game-between-arbroath-and-raith-rovers-in-the-worst-hit-area-of-angus-has-been-called-off-cove-rangers-against-montrose-has-been-postponed-along-with-two-games-in-league-2/"/>
-        <updated>2023-10-21T08:15:06.000Z</updated>
-        <summary type="html"><![CDATA[THREE Premiership games have been scrapped as Storm Babet continues to create chaos and havoc in Scotland. Ross County v St Mirren in Dingwall was called off this morning to join the matches at Pittodrie, with Aberdeen due to face Dundee, and Perth, with St Johnstone scheduled to host Motherwell, which were postponed yesterday. Also [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
         </author>
     </entry>
 </feed>
