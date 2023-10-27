@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-10-27T20:10:15.277Z</updated>
+    <updated>2023-10-27T22:09:23.415Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic player goes from ‘lazy No 10’ to undroppable defender]]></title>
+        <id>https://thecelticbhoys.com/?p=45011</id>
+        <link href="https://thecelticbhoys.com/2023/10/27/celtic-player-goes-undroppable-defender/"/>
+        <updated>2023-10-27T21:00:22.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes you just need an opportunity. When you are at a big club like Celtic, you can very easily find yourself near the bottom of the depth chart, searching for that chance to show your talent. Fortunately, for one player, it came this season due to a series of injury problems that had Brendan Rodgers […]
+Celtic player goes from ‘lazy No 10’ to undroppable defender - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
+        <author>
+            <name>David Wyatt-Hupton</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fraser Forster makes superb claim about time at Celtic]]></title>
         <id>https://thecelticbhoys.com/?p=45183</id>
@@ -797,16 +808,6 @@ The post ‘If I am saying’: Sky pundit left surprised by Kris Boyd’s commen
 Ryan Christie comments emerge amid Celtic return links - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
         <author>
             <name>Sourav Mahanty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘FANTASTIC,’ BOSS PRAISES HIGH-SPEED HOOPS]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=113325</id>
-        <link href="https://www.celticquicknews.co.uk/fantastic-boss-praises-high-speed-hoops/"/>
-        <updated>2023-10-23T08:36:09.000Z</updated>
-        <summary type="html"><![CDATA[BRENDAN RODGERS was delighted with Celtic’s high-speed performance as the champions raced to a 4-1 win over Hearts at Tynecastle. The manager ordered his players to hit the ground running against opponents who were eager to get into their stride in front of a partisan stadium with under 600 travelling fans in to lend their [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
         </author>
     </entry>
 </feed>
