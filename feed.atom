@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-10-28T22:08:46.471Z</updated>
+    <updated>2023-10-29T00:50:07.887Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Liverpool captain Virgil van Dijk makes Celtic admission]]></title>
+        <id>https://thecelticbhoys.com/?p=45107</id>
+        <link href="https://thecelticbhoys.com/2023/10/28/liverpool-captain-virgil-van-dijk-celtic/"/>
+        <updated>2023-10-28T22:30:58.000Z</updated>
+        <summary type="html"><![CDATA[It is always good to see former Celtic players and managers going on to even more success after their time at Parkhead. Especially so when they take and use learning from their spell in Glasgow. That seems to be the case with Virgil van Dijk, who has been appointed captain at Liverpool after Jordan Henderson […]
+Liverpool captain Virgil van Dijk makes Celtic admission - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
+        <author>
+            <name>StevieMac</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Brentford could make significant bid for Celtic player in January]]></title>
         <id>https://thecelticbhoys.com/?p=45169</id>
@@ -818,27 +829,6 @@ The post ’They are really hard to find’: Barry Ferguson can't hide envy for 
 Micah Richards names former Celtic player in all-time list - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
         <author>
             <name>Sourav Mahanty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Even at Celtic, I knew': Micah Richards hails 32-year-old & names him fifth in all-time list]]></title>
-        <id>https://www.67hailhail.com/?p=178858</id>
-        <link href="https://www.67hailhail.com/news/even-at-celtic-i-knew-micah-richards-hails-32-year-old-names-him-fifth-in-all-time-list/"/>
-        <updated>2023-10-24T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Micah Richards has spoken about the greatness of former Celtic star Virgil van Dijk and the career he has had in the Premier League. A...
-The post 'Even at Celtic, I knew': Micah Richards hails 32-year-old & names him fifth in all-time list appeared first on 67 Hail Hail.]]></summary>
-        <author>
-            <name>Amir Mir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dominate domestic and regular Champions League]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=113385</id>
-        <link href="https://www.celticquicknews.co.uk/dominate-domestic-and-regular-champions-league/"/>
-        <updated>2023-10-24T11:04:57.000Z</updated>
-        <summary type="html"><![CDATA[Atletico Madrid arrive at Celtic Park tomorrow on the back of six consecutive wins, a series which started by beating Real in the Madrid derby, and ended with a 0-3 win at Celta Vigo on Saturday.  If they win their game in hand over the teams above them, they will go top of La Liga.  [...]]]></summary>
-        <author>
-            <name>Paul67</name>
         </author>
     </entry>
 </feed>
