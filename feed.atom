@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-10-29T20:09:55.829Z</updated>
+    <updated>2023-10-29T22:08:57.513Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Brendan Rodgers criticises Celtic player for giving ball away]]></title>
+        <id>https://thecelticbhoys.com/?p=45224</id>
+        <link href="https://thecelticbhoys.com/2023/10/29/brendan-rodgers-criticises-celtic-player/"/>
+        <updated>2023-10-29T22:05:01.000Z</updated>
+        <summary type="html"><![CDATA[Celtic came into the game against Hibernian on the back of a confidence-boosting performance against Atletico Madrid in the Champions League. That was not on display at Easter Road though, as the Hoops put in an uninspiring display and could only manage a goalless draw against Hibernian. The result allowed the Rangers to cut the […]
+Brendan Rodgers criticises Celtic player for giving ball away - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
+        <author>
+            <name>Sourav Mahanty</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic tipped to sign two players in January window]]></title>
         <id>https://thecelticbhoys.com/?p=45219</id>
@@ -831,27 +842,6 @@ Eight players could leave Celtic in January window - The Celtic Bhoys - The Celt
         <summary type="html"><![CDATA[CELTIC have made some unwanted history against tonight’s Champions League opponents. Atletico Madrid are the team the Hoops have faced most in European competition without ever winning – six games, two draws and four losses. In their most recent confrontations, in the 2011/12 Europa League group stage, the Parkhead men lost home and away, exciting [...]]]></summary>
         <author>
             <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X-CERTIFICATE EURO SEQUENCE RODGERS MUST HALT]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=113422</id>
-        <link href="https://www.celticquicknews.co.uk/x-certificate-euro-sequence-rodgers-must-halt/"/>
-        <updated>2023-10-25T08:52:44.000Z</updated>
-        <summary type="html"><![CDATA[BRENDAN RODGERS is determined to make sure he does not suffer a FOURTH consecutive Euro loss at Parkhead this evening. The Celtic manager completed an unwanted hat-trick when Pedro nodded in the stoppage-time winner for Lazio in the east end of Glasgow earlier this month. Excruciatingly, that was the third time in succession Rodgers had [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic boss makes statement for Atletico Madrid match]]></title>
-        <id>https://thecelticbhoys.com/?p=45131</id>
-        <link href="https://thecelticbhoys.com/2023/10/25/celtic-boss-statement-atletico-madrid/"/>
-        <updated>2023-10-25T08:30:25.000Z</updated>
-        <summary type="html"><![CDATA[Celtic will be taking on arguably their toughest opposition of the season when they welcome Atletico Madrid to Parkhead for matchday 3 of the UEFA Champions League group stage. The Hoops won 4-1 at the weekend against Hearts away at Tynecastle Park and go into the game in good form. Their results in Europe have […]
-Celtic boss makes statement for Atletico Madrid match - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
-        <author>
-            <name>Sourav Mahanty</name>
         </author>
     </entry>
 </feed>
