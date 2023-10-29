@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-10-29T06:12:24.531Z</updated>
+    <updated>2023-10-29T08:11:52.684Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[‘TOO SLOW,’ RODGERS AIMS TO HIT FAST FORWARD]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=113574</id>
+        <link href="https://www.celticquicknews.co.uk/too-slow-rodgers-aims-to-hit-fast-forward/"/>
+        <updated>2023-10-29T07:53:35.000Z</updated>
+        <summary type="html"><![CDATA[BRENDAN RODGERS will make sure Celtic are up to speed when they take on St Mirren at Parkhead on Wednesday evening. The Hoops boss watched a second blankety-blank performance from the champions as they struggled through a drab scoreless stalemate against Hibs at Easter Road yesterday. It was the identical scoreline as the outcome of another [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brendan Rodgers addresses Celtic squad depth issue after Hibs draw]]></title>
+        <id>https://www.67hailhail.com/?p=179046</id>
+        <link href="https://www.67hailhail.com/news/brendan-rodgers-addresses-celtic-squad-depth-issue-after-hibs-draw/"/>
+        <updated>2023-10-29T07:51:48.000Z</updated>
+        <summary type="html"><![CDATA[Brendan Rodgers has reiterated that, like any manager, he wants his squad to be stronger but has refused to point the finger at the bench...
+The post Brendan Rodgers addresses Celtic squad depth issue after Hibs draw appeared first on 67 Hail Hail.]]></summary>
+        <author>
+            <name>John McGinley</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BUZZBOMB BOBBY STRIKES AGAINST RANGERS: ONE DOWN, FOUR TO GO]]></title>
         <id>https://www.celticquicknews.co.uk/?p=84542</id>
@@ -763,17 +784,6 @@ Diego Simeone addresses controversy regarding Celtic game - The Celtic Bhoys - T
 The post ’They can’: James McFadden names trio who can make Celtic believe against Atletico Madrid appeared first on 67 Hail Hail.]]></summary>
         <author>
             <name>Amir Mir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Antoine Griezmann delivers clear message to Celtic]]></title>
-        <id>https://thecelticbhoys.com/?p=45122</id>
-        <link href="https://thecelticbhoys.com/2023/10/24/antoine-griezmann-clear-message-celtic/"/>
-        <updated>2023-10-24T20:00:09.000Z</updated>
-        <summary type="html"><![CDATA[Celtic will be facing arguably their toughest test of the season when they welcome Atletico Madrid to Parkhead in midweek in the third Champions League group stage game of the campaign. The Hoops have been in good form lately, but Diego Simeone’s side have been even better and have to be considered as the favourites […]
-Antoine Griezmann delivers clear message to Celtic - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
-        <author>
-            <name>Sourav Mahanty</name>
         </author>
     </entry>
 </feed>
