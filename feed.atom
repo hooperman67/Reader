@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-10-30T06:13:36.803Z</updated>
+    <updated>2023-10-30T08:13:20.069Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[‘WE STRIVE TO BE PERFECT,’ INSISTS CELT]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=113622</id>
+        <link href="https://www.celticquicknews.co.uk/we-strive-to-be-perfect-insists-celt/"/>
+        <updated>2023-10-30T07:45:16.000Z</updated>
+        <summary type="html"><![CDATA[CELTIC saw their lead at the Premiership pinnacle cut to five points following a see-saw weekend. The champions shed two points in the disappointing goalless draw with Hibs at Easter Road while, 24 hours later at Ibrox, Philippe Clement’s side were heading for defeat against Hearts. An early headed goal from Lawrence Shankland looked like [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Brendan Rodgers criticises Celtic player for giving ball away]]></title>
         <id>https://thecelticbhoys.com/?p=45224</id>
@@ -769,16 +779,6 @@ The post "I was impressed"; Atletico Madrid opponent lauds Celtic appeared first
         <link href="https://www.celticquicknews.co.uk/celtic-2-atletico-madrid-2-point-taken-as-kyogo-palma-strike/"/>
         <updated>2023-10-25T21:32:22.000Z</updated>
         <summary type="html"><![CDATA[CELTIC 2 ATLETICO MADRID 2 WELL, looking on the positive side, Celtic at least stopped the rot. First-half strikes from Kyogo Furuhashi and Luis Palma claimed the goals that gave Brendan Rodgers’ men their first point at the third attempt in Champions League Group E at Parkhead tonight. It was an evening of what-have-been for [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FEYENOORD FLOOR LAZIO]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=113455</id>
-        <link href="https://www.celticquicknews.co.uk/feyenoord-floor-lazio/"/>
-        <updated>2023-10-25T19:00:05.000Z</updated>
-        <summary type="html"><![CDATA[FEYENOORD hammered Lazio 3-1 in Rotterdam tonight to go to the top of Champions League Group E on six points. It was a comprehensive victory for the Dutch as they swept aside the Italians who snatched three points with their sixth-minute stoppage-time goal at Parkhead earlier this month. There was no hiding place on this [...]]]></summary>
         <author>
             <name>CQN Magazine</name>
         </author>
