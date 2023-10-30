@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=113626",
+          "author": "CQN Magazine",
+          "description": "REO HATATE pulled up after only 35 seconds of Celtic’s 2-2 draw with Atletico Madrid at Parkhead last Wednesday. The influential Japanese midfielder attempted to continue, but it was clear he had a hamstring problem and he was replaced by on-loan Benfica playmaker Paulo Bernardo in the seventh minute. Forty-eight hours after the Euro deadlock, [...]",
+          "link": "https://www.celticquicknews.co.uk/hatate-whats-the-score-celtic/",
+          "publishedOn": "2023-10-30T08:33:24.000Z",
+          "wordCount": 4035,
+          "title": "HATATE: WHAT’S THE SCORE, CELTIC?",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/10/REO-HATATE-OFF-FEATURED.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=113622",
           "author": "CQN Magazine",
           "description": "CELTIC saw their lead at the Premiership pinnacle cut to five points following a see-saw weekend. The champions shed two points in the disappointing goalless draw with Hibs at Easter Road while, 24 hours later at Ibrox, Philippe Clement’s side were heading for defeat against Hearts. An early headed goal from Lawrence Shankland looked like [...]",
@@ -234,16 +244,6 @@
           "wordCount": 4656,
           "title": "THE RUDE, THE BAD AND THE UGLY",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/10/BRENDAN-RODGERS-DIEGO-SIMEONE-2-2-OCT-2023.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=113456",
-          "author": "CQN Magazine",
-          "description": "CELTIC 2 ATLETICO MADRID 2 WELL, looking on the positive side, Celtic at least stopped the rot. First-half strikes from Kyogo Furuhashi and Luis Palma claimed the goals that gave Brendan Rodgers’ men their first point at the third attempt in Champions League Group E at Parkhead tonight. It was an evening of what-have-been for [...]",
-          "link": "https://www.celticquicknews.co.uk/celtic-2-atletico-madrid-2-point-taken-as-kyogo-palma-strike/",
-          "publishedOn": "2023-10-25T21:32:22.000Z",
-          "wordCount": 4806,
-          "title": "CELTIC 2 ATLETICO MADRID 2: POINT TAKEN AS KYOGO, PALMA STRIKE",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/10/CELTIC-EURO-HUDDLE-FEATURED-OCT-2023.png"
         }
       ]
     },
@@ -252,6 +252,16 @@
       "feedUrl": "https://thecelticbhoys.com/feed/",
       "siteUrl": "https://thecelticbhoys.com",
       "articles": [
+        {
+          "id": "https://thecelticbhoys.com/?p=45227",
+          "author": "Sourav Mahanty",
+          "description": "This has not been a good few days for Celtic. First, they dropped a couple of points away at Easter Road even though Hibernian did not put in a great performance themselves. Then they saw the Rangers score two late goals to grab victory from the jaws of defeat to cut the lead at the […]\nCeltic player ruled out for rest of the year with injury - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community",
+          "link": "https://thecelticbhoys.com/2023/10/30/celtic-player-ruled-rest-year-injury/",
+          "publishedOn": "2023-10-30T10:00:53.000Z",
+          "wordCount": 1999,
+          "title": "Celtic player ruled out for rest of the year with injury",
+          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1569804709-scaled.jpeg"
+        },
         {
           "id": "https://thecelticbhoys.com/?p=45224",
           "author": "Sourav Mahanty",
