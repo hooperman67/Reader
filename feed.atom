@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-10-30T10:11:11.423Z</updated>
+    <updated>2023-10-30T12:19:29.200Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blame it on Reo]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=113635</id>
+        <link href="https://www.celticquicknews.co.uk/blame-it-on-reo/"/>
+        <updated>2023-10-30T12:00:09.000Z</updated>
+        <summary type="html"><![CDATA[Reo Hatate missed three games through injury early this season.  During that period, we scored only one goal, went out the League Cup and dropped our only points of the season before Saturday.  Reo returned as a second half substitute at home to Dundee, with only a penalty goal separating the teams, but within seven [...]]]></summary>
+        <author>
+            <name>Paul67</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic player ruled out for rest of the year with injury]]></title>
         <id>https://thecelticbhoys.com/?p=45227</id>
