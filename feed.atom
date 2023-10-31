@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-10-31T10:10:56.243Z</updated>
+    <updated>2023-10-31T12:19:17.381Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Zombie EBT tales, Medicine for Reo]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=113669</id>
+        <link href="https://www.celticquicknews.co.uk/zombie-ebt-tales-medicine-for-reo/"/>
+        <updated>2023-10-31T12:02:17.000Z</updated>
+        <summary type="html"><![CDATA[I see there is a bit of sensitivity across the city today, on the 11th anniversary of Rangers liquidation.  Fair enough.  We are all entitled to our own backstory and if the shoe was on the other foot, we would be clinging to dear life to whatever comforts we could.  As the years go by, [...]]]></summary>
+        <author>
+            <name>Paul67</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[REVEALED: WHAT RODGERS SAID TO KEEP STAR AT CELTIC]]></title>
         <id>https://www.celticquicknews.co.uk/?p=113649</id>
@@ -757,17 +767,6 @@ Celtic player compared to Roy Keane by former coach - The Celtic Bhoys - The Cel
         <summary type="html"><![CDATA[CELTIC have set their asking price for midfield mastermind Matt O’Riley at a whopping £22.5 MILLION, according to a report. The Hoops paid a mere £1.5million to English third-tier outfit MK Dons for the 22-year-old maestro in January last year. O’Riley’s value has soared to stratospheric levels with consistent displays in the champions’ engine room [...]]]></summary>
         <author>
             <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic boss offers update on Reo Hatate injury vs Atletico Madrid]]></title>
-        <id>https://thecelticbhoys.com/?p=45149</id>
-        <link href="https://thecelticbhoys.com/2023/10/26/celtic-boss-reo-hatate-injury-atletico/"/>
-        <updated>2023-10-26T23:00:54.000Z</updated>
-        <summary type="html"><![CDATA[Celtic’s first-half performance against Atletico Madrid was pretty impressive and probably some of the best football we’ve seen from the team this season. Given that it was against such top opposition is remarkable in itself. The determination to go up twice and then to stay in the game during a more difficult second half was […]
-Celtic boss offers update on Reo Hatate injury vs Atletico Madrid - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
-        <author>
-            <name>StevieMac</name>
         </author>
     </entry>
 </feed>
