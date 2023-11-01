@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-11-01T20:10:54.795Z</updated>
+    <updated>2023-11-01T22:09:21.579Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CELTIC 2 ST MIRREN 1: OH YES: STRIKER IS LATE-GOAL HERO]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=113704</id>
+        <link href="https://www.celticquicknews.co.uk/celtic-2-st-mirren-1-oh-yes-striker-is-late-goal-hero/"/>
+        <updated>2023-11-01T21:42:06.000Z</updated>
+        <summary type="html"><![CDATA[CELTIC 2 ST MIRREN  1 POWERHOUSE Oh Hyeon-gyu blasted in a dramatic late winner for Celtic in a tension-laden encounter at Parkhead this evening. The game was balanced at 1-1 with seven minutes of regulation time to go when the South Korean struck to claim three crucial points. Oh, who hadn’t scored this season, proved [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic boss explains Cameron Carter-Vickers absence amid concerns]]></title>
+        <id>https://thecelticbhoys.com/?p=45291</id>
+        <link href="https://thecelticbhoys.com/2023/11/01/celtic-cameron-carter-vickers-absence/"/>
+        <updated>2023-11-01T21:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Cameron Carter-Vickers has already dealt with his fair share of injury problems lately. The American is widely considered as Celtic’s best defender and leader at the back. Naturally, fans were left worried when they saw that he was missing from the matchday squad against St Mirren. There had been no reports of any injuries ahead […]
+Celtic boss explains Cameron Carter-Vickers absence amid concerns - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
+        <author>
+            <name>Sourav Mahanty</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Brendan Rodgers refuses to give up on Celtic player]]></title>
         <id>https://thecelticbhoys.com/?p=45254</id>
@@ -910,27 +931,6 @@ The post Brendan Rodgers stands up for Celtic supporters with call out of author
 The post First ever start, rotation hinted; Celtic team news and Predicted XI vs Hibernian appeared first on 67 Hail Hail.]]></summary>
         <author>
             <name>John McGinley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brendan Rodgers responds to awkward moment with Diego Simeone after Celtic vs Atletico]]></title>
-        <id>https://www.67hailhail.com/?p=178998</id>
-        <link href="https://www.67hailhail.com/news/brendan-rodgers-responds-to-awkward-moment-with-diego-simeone-after-celtic-vs-atletico/"/>
-        <updated>2023-10-28T08:43:47.000Z</updated>
-        <summary type="html"><![CDATA[Celtic manager Brendan Rodgers has been giving his thoughts on the awkward moment between himself and Diego Simeone at the end of the draw with...
-The post Brendan Rodgers responds to awkward moment with Diego Simeone after Celtic vs Atletico appeared first on 67 Hail Hail.]]></summary>
-        <author>
-            <name>John McGinley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE OH CONUNDRUM: SUTTON’S VERDICT]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=113558</id>
-        <link href="https://www.celticquicknews.co.uk/the-oh-conundrum-suttons-verdict/"/>
-        <updated>2023-10-28T08:13:28.000Z</updated>
-        <summary type="html"><![CDATA[FORMER Celtic goalscoring hero Chris Sutton wonders if Brendan Rodgers “doesn’t fancy” South Korean striker Oh Hyeon-gyu. The South Korean international frontman is still looking for his first strike of the season, as CQN reported earlier today. Oh was shunned by his manager in the Champions League Group E 2-2 draw with Atletico Madrid at [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
         </author>
     </entry>
 </feed>
