@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-11-02T10:10:59.920Z</updated>
+    <updated>2023-11-02T12:19:06.581Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Holm, Yang, Maeda determined outcome]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=113717</id>
+        <link href="https://www.celticquicknews.co.uk/holm-yang-maeda-determined-outcome/"/>
+        <updated>2023-11-02T12:02:01.000Z</updated>
+        <summary type="html"><![CDATA[For reasons that are not clear to me, St Mirren are a proper football team.  They benefited from a central defensive lapse to take an early lead and limited Celtic large spells of unproductive possession.  Then, after going behind, finished the game playing some of the best football we have seen from a Scottish opponent [...]]]></summary>
+        <author>
+            <name>Paul67</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘It’s actually his fault’: Celtic told Greg Taylor ‘wasn’t happy’ with teammate v St Mirren]]></title>
+        <id>https://www.67hailhail.com/?p=179407</id>
+        <link href="https://www.67hailhail.com/match/its-actually-his-fault-celtic-told-greg-taylor-wasnt-happy-with-teammate-v-st-mirren/"/>
+        <updated>2023-11-02T11:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Michael Stewart says Greg Taylor ‘wasn’t happy’ with Liam Scales for failing to stop St Mirren from opening the scoring against Celtic on Wednesday night....
+The post ‘It’s actually his fault’: Celtic told Greg Taylor ‘wasn’t happy’ with teammate v St Mirren appeared first on 67 Hail Hail.]]></summary>
+        <author>
+            <name>Amir Mir</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic urged to make double deal involving Joe Hart]]></title>
         <id>https://thecelticbhoys.com/?p=45299</id>
@@ -865,17 +886,6 @@ The post Brendan Rodgers addresses Celtic squad depth issue after Hibs draw appe
         <summary type="html"><![CDATA[IT was fifty-seven years ago today that Celtic claimed the first trophy in their unforgettable clean sweep in the spectacularly successful campaign of 1966/67. There was no stopping Jock Stein’s relentless, rollicking and ruthless green machine as the club won everything in sight, including the European Cup in Lisbon on May 25 1967. The beginning [...]]]></summary>
         <author>
             <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liverpool captain Virgil van Dijk makes Celtic admission]]></title>
-        <id>https://thecelticbhoys.com/?p=45107</id>
-        <link href="https://thecelticbhoys.com/2023/10/28/liverpool-captain-virgil-van-dijk-celtic/"/>
-        <updated>2023-10-28T22:30:58.000Z</updated>
-        <summary type="html"><![CDATA[It is always good to see former Celtic players and managers going on to even more success after their time at Parkhead. Especially so when they take and use learning from their spell in Glasgow. That seems to be the case with Virgil van Dijk, who has been appointed captain at Liverpool after Jordan Henderson […]
-Liverpool captain Virgil van Dijk makes Celtic admission - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
-        <author>
-            <name>StevieMac</name>
         </author>
     </entry>
 </feed>
