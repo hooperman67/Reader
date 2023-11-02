@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-11-02T16:13:34.858Z</updated>
+    <updated>2023-11-02T18:13:03.413Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic made mistake letting €2.5 million player leave]]></title>
+        <id>https://thecelticbhoys.com/?p=45309</id>
+        <link href="https://thecelticbhoys.com/2023/11/02/celtic-made-mistake-player-leave/"/>
+        <updated>2023-11-02T18:04:24.000Z</updated>
+        <summary type="html"><![CDATA[Celtic fans would have been delighted to see the ball find the back of the net as Oh Hyeon-gyu scored the winner against St Mirren. It was a tough game but three points is all that matters and the supporters would have come out of Parkhead feeling great. But that does not take away from […]
+Celtic made mistake letting €2.5 million player leave - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
+        <author>
+            <name>Sourav Mahanty</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Former Celtic striker wins annual MLS award ahead of Lionel Messi]]></title>
+        <id>https://www.67hailhail.com/?p=179452</id>
+        <link href="https://www.67hailhail.com/news/former-celtic-striker-wins-annual-mls-award-ahead-of-lionel-messi/"/>
+        <updated>2023-11-02T17:53:41.000Z</updated>
+        <summary type="html"><![CDATA[Former Celtic striker Giorgos Giakoumakis has won the Major League Soccer Newcomer Of The Year Award for 2023 after a vote by players, coaches and...
+The post Former Celtic striker wins annual MLS award ahead of Lionel Messi appeared first on 67 Hail Hail.]]></summary>
+        <author>
+            <name>John McGinley</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Brendan Rodgers praises Celtic player after heroics vs St Mirren]]></title>
         <id>https://thecelticbhoys.com/?p=45302</id>
@@ -908,16 +930,6 @@ The post Kenny Dalglish labels £1.5m Celtic deal 'an absolute steal'; urges 18-
 The post Brendan Rodgers addresses Celtic squad depth issue after Hibs draw appeared first on 67 Hail Hail.]]></summary>
         <author>
             <name>John McGinley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BUZZBOMB BOBBY STRIKES AGAINST RANGERS: ONE DOWN, FOUR TO GO]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=84542</id>
-        <link href="https://www.celticquicknews.co.uk/buzzbomb-bobby-strikes-against-rangers-one-down-four-to-go/"/>
-        <updated>2023-10-29T05:30:36.000Z</updated>
-        <summary type="html"><![CDATA[IT was fifty-seven years ago today that Celtic claimed the first trophy in their unforgettable clean sweep in the spectacularly successful campaign of 1966/67. There was no stopping Jock Stein’s relentless, rollicking and ruthless green machine as the club won everything in sight, including the European Cup in Lisbon on May 25 1967. The beginning [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
         </author>
     </entry>
 </feed>
