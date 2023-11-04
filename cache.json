@@ -6,6 +6,26 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=113772",
+          "author": "CQN Magazine",
+          "description": "JAMES FORREST is one of only seven players across all Scottish clubs to have scored in THIRTEEN consecutive seasons since the Premier League era kicked off in 1975. It’s a phenomenal record for a performer who is not an out-and-out striker and the wily winger is also one of an elite group of 30 Celtic [...]",
+          "link": "https://www.celticquicknews.co.uk/james-forrests-goal/",
+          "publishedOn": "2023-11-04T05:30:09.000Z",
+          "wordCount": 4102,
+          "title": "JAMES FORREST’S GOAL",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/10/JAMES-FORREST-100-GOALS-YIPPEE.png"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/?p=113771",
+          "author": "CQN Magazine",
+          "description": "CELTIC face Ross County for the second time in the Premiership this season when they lock horns again in the 12.30pm kick-off in Dingwall this afternoon. How much can you remember about past connections with the Highlanders? Have a go in CQN‘s fun five-minute quiz. Answers will be provided when the team is announced before [...]",
+          "link": "https://www.celticquicknews.co.uk/ross-county-v-celtic-5-minute-quiz-2/",
+          "publishedOn": "2023-11-04T05:00:31.000Z",
+          "wordCount": 3897,
+          "title": "ROSS COUNTY v CELTIC: 5-MINUTE QUIZ",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/08/DAVID-TURNBULL-DAIZEN-MAEDA-VVVV.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=113789",
           "author": "CQN Magazine",
           "description": "BRENDAN RODGERS is preparing his Celtic players for a double challenge as they are about to be confronted with two quickfire games to test their character and resolve. The Hoops boss is concentrating on picking up precious Premiership points against Ross County in Dingwall in tomorrow’s 12.30pm kick-off. Rodgers will then immediately turn his focus on [...]",
@@ -531,16 +551,6 @@
           "wordCount": 2020,
           "title": "Celtic should sign prolific striker for free next summer",
           "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1473663782-scaled.jpeg"
-        },
-        {
-          "id": "https://thecelticbhoys.com/?p=45240",
-          "author": "Sourav Mahanty",
-          "description": "It is difficult to make a judgement on Celtic’s squad till now. There are many who arrived in the summer and must be given some time to settle down. But so far, Luis Palma seems to be the only one who could potentially be a part of the club’s best starting XI. With Reo Hatate […]\nChris Sutton tells Celtic what to do in January window - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community",
-          "link": "https://thecelticbhoys.com/2023/10/30/chris-sutton-tells-celtic-january/",
-          "publishedOn": "2023-10-30T18:00:41.000Z",
-          "wordCount": 2098,
-          "title": "Chris Sutton tells Celtic what to do in January window",
-          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1234359540.jpeg"
         }
       ]
     },
@@ -961,26 +971,6 @@
           "wordCount": 1304,
           "title": "Loaned out Celtic players: Sead Haksabanovic update as six-game winning run ended",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/10/GettyImages-1693585296-1-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=179124",
-          "author": "Amir Mir",
-          "description": "Peter Grant thinks Celtic winger Daizen Maeda would be worth ‘£100 million’ if he had better end product to his game and how he is...\nThe post 'Atletico like that sort of player': Celtic told how 26-year-old star could be worth '£100m' appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/atletico-madrid-like-that-sort-of-player-celtic-told-how-26-year-old-star-could-be-worth-100m/",
-          "publishedOn": "2023-10-30T17:50:00.000Z",
-          "wordCount": 1407,
-          "title": "'Atletico like that sort of player': Celtic told how 26-year-old star could be worth '£100m'",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/10/GettyImages-1370341319-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=179103",
-          "author": "Amir Mir",
-          "description": "Chris Sutton has expressed the importance of Reo Hatate after he was absent as Celtic dropped points away at Hibernian on Saturday.  During the early...\nThe post ’Celtic aren’t the same’: Chris Sutton makes feelings clear about 25-year-old after Hibs draw appeared first on 67 Hail Hail.",
-          "link": "https://www.67hailhail.com/news/celtic-arent-the-same-chris-sutton-makes-feelings-clear-about-25-year-old-after-hibs-draw/",
-          "publishedOn": "2023-10-30T16:30:00.000Z",
-          "wordCount": 1341,
-          "title": "’Celtic aren’t the same’: Chris Sutton makes feelings clear about 25-year-old after Hibs draw",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/10/GettyImages-1469729815-2-scaled.jpg"
         }
       ]
     },
