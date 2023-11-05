@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-11-05T10:09:50.982Z</updated>
+    <updated>2023-11-05T12:17:22.904Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA['He doesn't': Malky Mackay shares what James Brown told him after red card tackle on Celtic star]]></title>
+        <id>https://www.67hailhail.com/?p=179758</id>
+        <link href="https://www.67hailhail.com/match/malky-mackay-shares-what-james-brown-told-him-after-red-card-tackle-on-celtics-hyunjun-yang/"/>
+        <updated>2023-11-05T11:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Malky Mackay has stated that James Brown told him that he ‘didn’t see’ Hyunjun Yang following his horror tackle on the Celtic star on Saturday....
+The post 'He doesn't': Malky Mackay shares what James Brown told him after red card tackle on Celtic star appeared first on 67 Hail Hail.]]></summary>
+        <author>
+            <name>Amir Mir</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ange Postecoglou signing looks set for permanent Celtic exit]]></title>
         <id>https://thecelticbhoys.com/?p=45366</id>
@@ -1052,17 +1063,6 @@ The post ‘He can come in’: John Hartson backs Celtic to sign Scotland intern
         <summary type="html"><![CDATA[CELTIC played St Mirren three times at Parkhead last season and thumped 11 goals into their net. The Hoops walloped their Paisley rivals 4-0 in the league in January and followed up with a rousing 5-1 triumph to end the Saints’ Scottish Cup hopes one month later. There was a hiccup when Stephen Robinson’s side [...]]]></summary>
         <author>
             <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chris Sutton delivers bleak reflection on Celtic performance]]></title>
-        <id>https://thecelticbhoys.com/?p=45233</id>
-        <link href="https://thecelticbhoys.com/2023/10/31/chris-sutton-delivers-celtic-performance/"/>
-        <updated>2023-10-31T22:35:05.000Z</updated>
-        <summary type="html"><![CDATA[It wasn’t the result we all wanted when Celtic could only manage a goalless draw against Hibernian at Easter Road at the weekend. It was not the level of performance we had hoped to see either. Chris Sutton has since added his own simple but bleak reflection on the match and the result. The draw […]
-Chris Sutton delivers bleak reflection on Celtic performance - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
-        <author>
-            <name>StevieMac</name>
         </author>
     </entry>
 </feed>
