@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-11-05T22:08:47.434Z</updated>
+    <updated>2023-11-06T00:48:42.999Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Eric Dier makes Tottenham decision amid Celtic links]]></title>
+        <id>https://thecelticbhoys.com/?p=45388</id>
+        <link href="https://thecelticbhoys.com/2023/11/05/eric-dier-tottenham-decision-celtic/"/>
+        <updated>2023-11-05T22:30:48.000Z</updated>
+        <summary type="html"><![CDATA[It is quite clear that Celtic will need to add some more experience to their squad in the upcoming transfer windows. One of the more high-profile names that the club have been linked with in recent months is that of Eric Dier, who is struggling to get into the Tottenham Hotspur team since the arrival […]
+Eric Dier makes Tottenham decision amid Celtic links - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
+        <author>
+            <name>Sourav Mahanty</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Midfielder publicly admits why he decided to leave Celtic]]></title>
         <id>https://thecelticbhoys.com/?p=45384</id>
@@ -1047,26 +1058,6 @@ The post Defensive call, potential rotation; Celtic team news and Predicted XI v
 Celtic hero eyeing unexpected return from retirement - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
         <author>
             <name>Sourav Mahanty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bans and rocking Saints]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=113701</id>
-        <link href="https://www.celticquicknews.co.uk/bans-and-rocking-saints/"/>
-        <updated>2023-11-01T12:22:45.000Z</updated>
-        <summary type="html"><![CDATA[Celtic’s email to those who had their season tickets suspended yesterday, in the Green Brigade section, alleges a series of incidents, including “intimidating and threatening behaviour towards staff” on multiple occasions, “forcing open fire exits to permit access to individuals without tickets” at Fir Park, a list of pyrotechnic and banner violations and several other [...]]]></summary>
-        <author>
-            <name>Paul67</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘COULD I STAY?’ LOAN BHOY REVEALS TARGET]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=113694</id>
-        <link href="https://www.celticquicknews.co.uk/could-i-stay-loan-bhoy-reveals-target/"/>
-        <updated>2023-11-01T10:23:45.000Z</updated>
-        <summary type="html"><![CDATA[PAULO BERNARDO has made one start in his six appearances for Celtic since arriving on a season-long loan from Benfica just before the transfer deadline. The Portuguese playmaker has already experienced the highs and lows of football at the champions. Remarkably, he has been involved in two wins, two draws and two defeats in his [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
         </author>
     </entry>
 </feed>
