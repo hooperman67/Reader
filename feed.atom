@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-11-06T06:13:57.532Z</updated>
+    <updated>2023-11-06T08:13:58.469Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[‘BOYS GET A BIT OF CRITICISM’: WHY TURNBULL WON’T GET NOISED UP]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=113907</id>
+        <link href="https://www.celticquicknews.co.uk/boys-get-a-bit-of-criticism-why-turnbull-wont-get-noised-up/"/>
+        <updated>2023-11-06T07:49:31.000Z</updated>
+        <summary type="html"><![CDATA[IT TOOK three months for David Turnbull to claim a hat-trick against Ross County, so that emphasises the midfielder’s powers of persistence. And the 24-year-old playmaker is hoping that resilience will earn him a place in Brendan Rodgers’ starting line-up against Atletico Madrid in the Champions League Group E encounter tomorrow night. Back on August 5 [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CELTIC, THE 136-YEAR FAIRYTALE, CAESAR AND THE THIRTY-FIRST CROWN]]></title>
         <id>https://www.celticquicknews.co.uk/?p=75919</id>
@@ -915,37 +925,6 @@ Celtic finally show something they had not since Ange Postecoglou left - The Cel
 Celtic boss explains Cameron Carter-Vickers absence amid concerns - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
         <author>
             <name>Sourav Mahanty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brendan Rodgers refuses to give up on Celtic player]]></title>
-        <id>https://thecelticbhoys.com/?p=45254</id>
-        <link href="https://thecelticbhoys.com/2023/11/01/brendan-rodgers-refuses-celtic-player/"/>
-        <updated>2023-11-01T19:30:26.000Z</updated>
-        <summary type="html"><![CDATA[Celtic boss Brendan Rodgers recently came out in defence of one of his players and confirmed that he still has a part to play in the team’s story this season. It is widely expected that the Hoops will look to part ways with a player or two in January due to the size of the […]
-Brendan Rodgers refuses to give up on Celtic player - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
-        <author>
-            <name>David Wyatt-Hupton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic v St Mirren, GG Live updates]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=113702</id>
-        <link href="https://www.celticquicknews.co.uk/celtic-v-st-mirren-gg-live-updates/"/>
-        <updated>2023-11-01T18:45:19.000Z</updated>
-        <summary type="html"><![CDATA[Live updates will appear below after 19:45.]]></summary>
-        <author>
-            <name>Paul67</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CONFIRMED: CCV OUT, PHILLIPS IN]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=113656</id>
-        <link href="https://www.celticquicknews.co.uk/confirmed-ccv-out-phillips-in/"/>
-        <updated>2023-11-01T18:38:36.000Z</updated>
-        <summary type="html"><![CDATA[CAMERON CARTER-VICKERS misses out as Celtic prepare to get back to winning ways in the Premiership against St Mirren at Parkhead tonight after firing blanks in the stalemate against Hibs at Easter Road at the weekend. The USA World Cup centre-back didn’t even make the squad, presumably after sustaining an injury in Edinburgh. Livrpool loanee [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
         </author>
     </entry>
 </feed>
