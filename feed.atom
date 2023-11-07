@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-11-07T10:11:08.464Z</updated>
+    <updated>2023-11-07T12:19:03.563Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Spain, the pain, the purple patch]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=113991</id>
+        <link href="https://www.celticquicknews.co.uk/spain-the-pain-the-purple-patch/"/>
+        <updated>2023-11-07T12:00:27.000Z</updated>
+        <summary type="html"><![CDATA[Spain has always been a hard shift for Celtic.  We started our European adventure in the old ‘Fairs Cup with a 4-2 defeat to Valencia in 1962 and lost on our first five visits until the rarest of things – an away result in the 1980s against a team we knew!  That was a 1-1 [...]]]></summary>
+        <author>
+            <name>Paul67</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[THANKS FOR THE PLAUDITS – NOW FOR THE POINTS: BRENDAN’S EURO RALLYING CALL]]></title>
         <id>https://www.celticquicknews.co.uk/?p=113961</id>
