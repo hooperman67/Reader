@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-11-07T22:09:26.882Z</updated>
+    <updated>2023-11-08T00:47:23.746Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic must learn from Ange Postecoglou’s Tottenham Hotspur]]></title>
+        <id>https://thecelticbhoys.com/?p=45434</id>
+        <link href="https://thecelticbhoys.com/2023/11/07/celtic-learn-ange-postecoglou-tottenham/"/>
+        <updated>2023-11-07T22:30:42.000Z</updated>
+        <summary type="html"><![CDATA[On the one hand, Celtic deserve some sympathy after Daizen Maeda was shown a controversial red card in the first half. To be very honest, the Japanese international should not have been sent off and up until that point, Brendan Rodgers’ side were looking decent even if they were a goal down thanks to an […]
+Celtic must learn from Ange Postecoglou’s Tottenham Hotspur - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
+        <author>
+            <name>Sourav Mahanty</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ATLETICO MADRID 6 CELTIC 0: OFF NIGHT AS HOOPS SEE RED]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=114005</id>
+        <link href="https://www.celticquicknews.co.uk/atletico-madrid-6-celtic-0-off-night-as-hoops-see-red/"/>
+        <updated>2023-11-07T22:23:21.000Z</updated>
+        <summary type="html"><![CDATA[ATLETICO MADRID 6 CELTIC 0 CELTIC were like a blindfolded man walking a tightrope without a safety net in sight in Madrid tonight. You knew it wasn’t going to end well. And that was the unfortunate case in this error-strewn, VAR-interrupted encounter against Diego Simeone’s side in another Champions League tale of woe. Three defeats [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Referees end Celtic’s hopes against Atletico Madrid]]></title>
         <id>https://thecelticbhoys.com/?p=45430</id>
@@ -1110,16 +1131,6 @@ Robert Snodgrass explains why he wore Celtic kit to Rangers training - The Celti
         <summary type="html"><![CDATA[BRENDAN RODGERS will return to Dingwall tomorrow afternoon for the first time in almost six years. The second time-around Celtic manager will be hoping to have the last laugh again on Ross County at the Global Energy Stadium – just as he enjoyed back on the Saturday afternoon of November 18 2017. Rodgers watched as the [...]]]></summary>
         <author>
             <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Carter-Vickers fundamentals]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=113769</id>
-        <link href="https://www.celticquicknews.co.uk/carter-vickers-fundamentals/"/>
-        <updated>2023-11-03T12:00:51.000Z</updated>
-        <summary type="html"><![CDATA[Celtic and Ross County have both visited Easter Road in the last week and both left with a draw, County coming from two goals down.  They are one of five clubs separated by a point, all hovering above St Johnstone at the bottom of the table.  While Celtic have preparations for a trip to the [...]]]></summary>
-        <author>
-            <name>Paul67</name>
         </author>
     </entry>
 </feed>
