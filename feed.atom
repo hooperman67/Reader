@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-11-10T18:12:43.897Z</updated>
+    <updated>2023-11-10T20:10:48.725Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kolo Toure makes superb claim about Celtic and Brendan Rodgers]]></title>
+        <id>https://thecelticbhoys.com/?p=45501</id>
+        <link href="https://thecelticbhoys.com/2023/11/10/kolo-toure-celtic-brendan-rodgers/"/>
+        <updated>2023-11-10T19:30:06.000Z</updated>
+        <summary type="html"><![CDATA[By the time Kolo Toure arrived at Celtic, he was in the twilight of his career. He would spend just one season at Parkhead but that proved to be the Invincible one, in which the Hoops won the treble while not losing a single domestic game. Interestingly, that was not the first time the Ivory […]
+Kolo Toure makes superb claim about Celtic and Brendan Rodgers - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
+        <author>
+            <name>Sourav Mahanty</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Brendan Rodgers confirms further bad news for Celtic]]></title>
         <id>https://thecelticbhoys.com/?p=45496</id>
@@ -1155,16 +1166,6 @@ The post ‘He can't think like that’: Chris Sutton says Celtic have a player 
 The post ‘Every time I watch he impresses’: Peter Grant wowed by Celtic star yet to start in the league appeared first on 67 Hail Hail.]]></summary>
         <author>
             <name>Amir Mir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘BOYS GET A BIT OF CRITICISM’: WHY TURNBULL WON’T GET NOISED UP]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=113907</id>
-        <link href="https://www.celticquicknews.co.uk/boys-get-a-bit-of-criticism-why-turnbull-wont-get-noised-up/"/>
-        <updated>2023-11-06T07:49:31.000Z</updated>
-        <summary type="html"><![CDATA[IT TOOK three months for David Turnbull to claim a hat-trick against Ross County, so that emphasises the midfielder’s powers of persistence. And the 24-year-old playmaker is hoping that resilience will earn him a place in Brendan Rodgers’ starting line-up against Atletico Madrid in the Champions League Group E encounter tomorrow night. Back on August 5 [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
         </author>
     </entry>
 </feed>
