@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-11-12T08:12:07.981Z</updated>
+    <updated>2023-11-12T10:09:47.991Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[‘WE’RE PREPARED,’ RODGERS REVEALS TRANSFER STRATEGY]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=114152</id>
+        <link href="https://www.celticquicknews.co.uk/were-prepared-rodgers-reveals-transfer-strategy/"/>
+        <updated>2023-11-12T08:22:09.000Z</updated>
+        <summary type="html"><![CDATA[BRENDAN RODGERS will target a new striker as a priority signing in the January transfer window. The Celtic boss is braced for the loss of Kyogo Furuhashi and Oh Hyeon-gyu who will be involved in the Asian Cup after the turn of the year and is prepared to raid the market, a move CQN emphasised as [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ALEX’S ANGLE: LAST WORD ON DARK ARTS AND THE DEPLORABLE DIEGO]]></title>
         <id>https://www.celticquicknews.co.uk/?p=114144</id>
@@ -962,17 +972,6 @@ Celtic must learn from Ange Postecoglou’s Tottenham Hotspur - The Celtic Bhoys
         <summary type="html"><![CDATA[ATLETICO MADRID 6 CELTIC 0 CELTIC were like a blindfolded man walking a tightrope without a safety net in sight in Madrid tonight. You knew it wasn’t going to end well. And that was the unfortunate case in this error-strewn, VAR-interrupted encounter against Diego Simeone’s side in another Champions League tale of woe. Three defeats [...]]]></summary>
         <author>
             <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Referees end Celtic’s hopes against Atletico Madrid]]></title>
-        <id>https://thecelticbhoys.com/?p=45430</id>
-        <link href="https://thecelticbhoys.com/2023/11/07/referees-end-celtic-atletico-madrid/"/>
-        <updated>2023-11-07T21:05:10.000Z</updated>
-        <summary type="html"><![CDATA[Celtic already had a mountain to climb against Atletico Madrid after going down to a goal from Antoine Griezmann early in the game. Still, the Hoops were looking more than decent and seemed capable of bringing things level. The red card received by Daizen Maeda virtually ended any hopes of that happening though. Unfortunately, that […]
-Referees end Celtic’s hopes against Atletico Madrid - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
-        <author>
-            <name>Sourav Mahanty</name>
         </author>
     </entry>
 </feed>
