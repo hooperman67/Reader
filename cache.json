@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=114155",
+          "author": "CQN Magazine",
+          "description": "CELTIC 6 ABERDEEN 0 A DAZZLING display by Yang Hyun-jun bamboozled Aberdeen and banished the Champions League hangover following the Madrid loss. A six-goal collapse in midweek was marvellously transformed into a six-goal celebration four days later as the Hoops ran amok against the Pittodrie visitors at Parkhead this afternoon. South Korean Yang was given [...]",
+          "link": "https://www.celticquicknews.co.uk/celtic-6-aberdeen-0-wham-bang-thank-you-yang-as-hoops-hit-six/",
+          "publishedOn": "2023-11-12T16:54:59.000Z",
+          "wordCount": 4860,
+          "title": "CELTIC 6 ABERDEEN 0: WHAM, BANG, THANK YOU, YANG AS HOOPS HIT SIX",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/10/CELTIC-2-ATLETICO-MADRID-2-HUDDLE-OCT-25-2023.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=114154",
           "author": "Paul67",
           "description": "Live updates will appear after 14.30.",
@@ -242,6 +252,16 @@
       "feedUrl": "https://thecelticbhoys.com/feed/",
       "siteUrl": "https://thecelticbhoys.com",
       "articles": [
+        {
+          "id": "https://thecelticbhoys.com/?p=45540",
+          "author": "Sourav Mahanty",
+          "description": "Rangers winning penalties in tight games is nothing new. Against Livingston, they got not one but two of them. The first was when the score was tied at 0-0 and the second was late in the game when they were leading by a goal. And Celtic hero, Chris Sutton, appears to believe that one of […]\nCeltic hero Chris Sutton calls out Rangers player for diving - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community",
+          "link": "https://thecelticbhoys.com/2023/11/12/celtic-hero-chris-sutton-rangers-player/",
+          "publishedOn": "2023-11-12T16:31:08.000Z",
+          "wordCount": 2045,
+          "title": "Celtic hero Chris Sutton calls out Rangers player for diving",
+          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1776293479.jpeg"
+        },
         {
           "id": "https://thecelticbhoys.com/?p=45536",
           "author": "Sourav Mahanty",
@@ -504,13 +524,54 @@
       "title": "The Celtic Underground",
       "feedUrl": "http://celticunderground.net/feed/",
       "siteUrl": "http://celticunderground.net",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://celticunderground.net/?p=6689",
+          "author": "Ethan Barlow",
+          "description": "The Ghirls didn’t have a straightforward draw for their quarter-final match as they faced Scottish League Champions, Glasgow City. Although a massive match, Celtic came out on top, comfortably in the end with a brilliant 3-0 win. There was a great turnout at the Excelsior Stadium to cheer on the Hoops, and it didn’t take […]",
+          "link": "http://celticunderground.net/celtic-women-advance-to-the-swpl-cup-semi-final-after-a-massive-win-over-city-rivals-glasgow-city/",
+          "publishedOn": "2023-11-12T18:11:27.000Z",
+          "wordCount": 9629,
+          "title": "Celtic Women advance to the SWPL Cup semi-final after a massive win over city rivals, Glasgow City",
+          "imageUrl": "http://celticunderground.net/wp-content/uploads/2023/01/Screenshot-2023-01-13-at-21.17.47.png"
+        }
+      ]
     },
     {
       "title": "67 Hail Hail",
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=180633",
+          "author": "John McGinley",
+          "description": "Celtic manager Brendan Rodgers has provided an update on the status of Kyogo Furuhashi after a bad head knock in the second half of Sunday’s...\nThe post Celtic boss Brendan Rodgers provides update on Kyogo Furuhashi after \"nasty\" head injury appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/celtic-boss-brendan-rodgers-provides-update-on-kyogo-furuhashi-after-nasty-head-injury/",
+          "publishedOn": "2023-11-12T17:09:19.000Z",
+          "wordCount": 1270,
+          "title": "Celtic boss Brendan Rodgers provides update on Kyogo Furuhashi after \"nasty\" head injury",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/11/GettyImages-1780634298-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=180628",
+          "author": "John McGinley",
+          "description": "Aberdeen were lucky not to have a man sent off against Celtic on Sunday afternoon after Slobodan Rubezic’s reckless challenge on Kyogo Furuhashi. With Celtic...\nThe post \"With intent\"; BBC Sportsound pundits left fuming by \"dangerous\" Dons challenge on Celtic star appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/news/bbc-sportsound-pundits-left-fuming-by-dangerous-aberdeen-challenge-on-celtic-star-kyogo/",
+          "publishedOn": "2023-11-12T16:49:20.000Z",
+          "wordCount": 1265,
+          "title": "\"With intent\"; BBC Sportsound pundits left fuming by \"dangerous\" Dons challenge on Celtic star",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/11/GettyImages-1789571322-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=180622",
+          "author": "John McGinley",
+          "description": "Celtic have ended the Scottish Premiership weekend as they started it, eight points clear at the top of the table. Brendan Rodgers’ side thrashed Aberdeen...\nThe post Summer signing truly arrives, Kyogo concern; 3 things we learned as Celtic thrash Aberdeen appeared first on 67 Hail Hail.",
+          "link": "https://www.67hailhail.com/match/summer-signing-truly-arrives-kyogo-concern-3-things-we-learned-as-celtic-thrash-aberdeen/",
+          "publishedOn": "2023-11-12T16:28:35.000Z",
+          "wordCount": 1635,
+          "title": "Summer signing truly arrives, Kyogo concern; 3 things we learned as Celtic thrash Aberdeen",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/11/GettyImages-1789463849-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=180617",
           "author": "John McGinley",
