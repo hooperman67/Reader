@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-11-11T22:10:24.145Z</updated>
+    <updated>2023-11-12T00:52:16.592Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Former Leicester City midfielder calls out Celtic boss]]></title>
+        <id>https://thecelticbhoys.com/?p=45532</id>
+        <link href="https://thecelticbhoys.com/2023/11/11/former-leicester-city-celtic-boss/"/>
+        <updated>2023-11-11T22:31:00.000Z</updated>
+        <summary type="html"><![CDATA[Brendan Rodgers completed an unexpected return to Celtic in the summer, a little over four years after he left the club in the middle of the season in order to join Leicester City. Not many people would have expected to see the Northern Irishman back in the Parkhead hot seat ever again let alone so […]
+Former Leicester City midfielder calls out Celtic boss - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
+        <author>
+            <name>Sourav Mahanty</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ange Postecoglou sent Celtic message after Tottenham loss]]></title>
         <id>https://thecelticbhoys.com/?p=45529</id>
@@ -1084,16 +1095,6 @@ The post ’The cynics’: Brendan Rodgers reacts to what he’s hearing from Di
 Giorgos Giakoumakis takes blunt dig at Celtic treatment - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
         <author>
             <name>Sourav Mahanty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spain, the pain, the purple patch]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=113991</id>
-        <link href="https://www.celticquicknews.co.uk/spain-the-pain-the-purple-patch/"/>
-        <updated>2023-11-07T12:00:27.000Z</updated>
-        <summary type="html"><![CDATA[Spain has always been a hard shift for Celtic.  We started our European adventure in the old ‘Fairs Cup with a 4-2 defeat to Valencia in 1962 and lost on our first five visits until the rarest of things – an away result in the 1980s against a team we knew!  That was a 1-1 [...]]]></summary>
-        <author>
-            <name>Paul67</name>
         </author>
     </entry>
 </feed>
