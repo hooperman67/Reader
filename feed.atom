@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-11-13T10:11:39.013Z</updated>
+    <updated>2023-11-13T12:19:55.191Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Breakthrough day for Yang and Palma]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=114233</id>
+        <link href="https://www.celticquicknews.co.uk/breakthrough-day-for-yang-and-palma/"/>
+        <updated>2023-11-13T12:01:33.000Z</updated>
+        <summary type="html"><![CDATA[Three goals after the 90-minute mark is a first for Celtic, as Aberdeen’s afternoon turned from a respectable-looking 2-0 deficit at 76 minutes, to a washout by fulltime.  More on the visitors later.  This was a breakthrough day for Celtic’s Yang and Luis Palma. Palma hit the byline and crossed with his left on 9 [...]]]></summary>
+        <author>
+            <name>Paul67</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic hero Kyogo releases Instagram message after Sunday's worrying head injury]]></title>
+        <id>https://www.67hailhail.com/?p=180653</id>
+        <link href="https://www.67hailhail.com/news/celtic-hero-kyogo-posts-promising-update-on-instagram-after-worrying-head-injury/"/>
+        <updated>2023-11-13T10:27:45.000Z</updated>
+        <summary type="html"><![CDATA[Celtic striker Kyogo Furuhashi has stated he got the all-clear from hospital doctors after the concerning head injury suffered against Aberdeen on Sunday. Aberdeen defender...
+The post Celtic hero Kyogo releases Instagram message after Sunday's worrying head injury appeared first on 67 Hail Hail.]]></summary>
+        <author>
+            <name>John McGinley</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chris Sutton names two 'tremendous' players in Celtic win]]></title>
         <id>https://www.67hailhail.com/?p=180644</id>
@@ -869,17 +890,6 @@ The post ‘Do my head in’: Barry Ferguson blasts Diego Simeone's actions towa
 The post ’He would want to go’: Andy Walker thinks Celtic 22-year-old would want to join Tottenham appeared first on 67 Hail Hail.]]></summary>
         <author>
             <name>Amir Mir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alan Brazil defends Celtic after former Tottenham player’s claim]]></title>
-        <id>https://thecelticbhoys.com/?p=45444</id>
-        <link href="https://thecelticbhoys.com/2023/11/08/alan-brazil-celtic-tottenham-player/"/>
-        <updated>2023-11-08T22:35:16.000Z</updated>
-        <summary type="html"><![CDATA[It wasn’t a good night at all for Celtic supporters. A disappointing result against Atletico Madrid in the Spanish capital on Tuesday left us all feeling low. While the fans speculate over what is needed to step up the club’s Champions League results, they would not have been happy with one former Tottenham Hotspur player’s […]
-Alan Brazil defends Celtic after former Tottenham player’s claim - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
-        <author>
-            <name>StevieMac</name>
         </author>
     </entry>
 </feed>
