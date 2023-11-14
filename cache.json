@@ -234,16 +234,6 @@
           "wordCount": 4261,
           "title": "Backlash expected from Celtic",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=114109",
-          "author": "CQN Magazine",
-          "description": "CELTIC can expect further punishment among Europe’s elite if they do not learn quickly from the painful lessons that have come their way in this Champions League campaign. That’s the no-nonsense verdict of Liam Scales in the fall-out of the six-goal mauling in Madrid on Tuesday evening. For the third time in four Euro games, [...]",
-          "link": "https://www.celticquicknews.co.uk/ruthless-admits-scales-we-just-have-to-learn-from-this/",
-          "publishedOn": "2023-11-10T08:05:11.000Z",
-          "wordCount": 4514,
-          "title": "‘RUTHLESS,’ ADMITS SCALES, ‘WE JUST HAVE TO LEARN FROM THIS’",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/11/LIAM-SCALES-ADMISSION-FEATURED.png"
         }
       ]
     },
@@ -252,6 +242,16 @@
       "feedUrl": "https://thecelticbhoys.com/feed/",
       "siteUrl": "https://thecelticbhoys.com",
       "articles": [
+        {
+          "id": "https://thecelticbhoys.com/?p=45594",
+          "author": "Sourav Mahanty",
+          "description": "It is very interesting how the Celtic team looks now when compared to last season. The Hoops were treble winners in the previous campaign but then saw the likes of Jota and Carl Starfelt in the summer. On top of that, there was a change in the managerial hot seat. Ange Postecoglou left for Tottenham […]\nCeltic starter admits rival club were keen to sign him - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community",
+          "link": "https://thecelticbhoys.com/2023/11/14/celtic-starter-admits-club-keen-sign/",
+          "publishedOn": "2023-11-14T19:30:32.000Z",
+          "wordCount": 2128,
+          "title": "Celtic starter admits rival club were keen to sign him",
+          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2018%2F08%2F1464769735.jpeg"
+        },
         {
           "id": "https://thecelticbhoys.com/?p=45590",
           "author": "Sourav Mahanty",
@@ -552,6 +552,36 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=180733",
+          "author": "John McGinley",
+          "description": "David Turnbull came off the bench to impress again for Celtic at home to Aberdeen on Sunday but you can’t say he’s any closer to...",
+          "link": "https://www.67hailhail.com/news/michael-stewart-delivers-verdict-on-tricky-celtic-situation-now-facing-david-turnbull/",
+          "publishedOn": "2023-11-14T19:58:36.000Z",
+          "wordCount": 1385,
+          "title": "Michael Stewart delivers verdict on difficult dilemma for \"absolutely wonderful\" Celtic fringe talent",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/11/GettyImages-1789635431-1-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=180727",
+          "author": "John McGinley",
+          "description": "Celtic have played seven matches since the last international break in October. It’s fair to say it has been a period of ups and downs....",
+          "link": "https://www.67hailhail.com/news/celtic-take-a-significant-jump-up-global-team-rankings-despite-a-difficult-month/",
+          "publishedOn": "2023-11-14T19:27:43.000Z",
+          "wordCount": 1516,
+          "title": "Celtic take a significant jump up global team rankings despite a difficult month",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/11/GettyImages-1789476290-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=180718",
+          "author": "John McGinley",
+          "description": "Celtic’s rivals Rangers have claimed they invested £21m into the first-team squad at Ibrox during the summer transfer window but they remain no closer to...",
+          "link": "https://www.67hailhail.com/opinion/rangers-reveal-they-spent-21m-chasing-celtic-this-summer-and-they-are-still-no-closer/",
+          "publishedOn": "2023-11-14T18:22:30.000Z",
+          "wordCount": 1422,
+          "title": "Rangers officially spent £21m chasing Celtic this summer and they are still no closer",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/11/GettyImages-1657207637-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=180712",
           "author": "John McGinley",
