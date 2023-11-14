@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-11-14T10:11:41.250Z</updated>
+    <updated>2023-11-14T12:19:27.131Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ominous for Newco as Celtic cards refuse to collapse]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=114249</id>
+        <link href="https://www.celticquicknews.co.uk/ominous-for-newco-as-celtic-cards-refuse-to-collapse/"/>
+        <updated>2023-11-14T12:00:07.000Z</updated>
+        <summary type="html"><![CDATA[“Money in: £101, money out: £99, happiness.  Money in: £100, money out: £101, distress.”  Of the millions of words left on Celtic Quick News over 19 years, a few regularly come back to mind, including this one from Kojo, circa 2006. Money determines long-term success in football, and CQN started by explaining our finances, in [...]]]></summary>
+        <author>
+            <name>Paul67</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘WE NEED TO KEEP UTILISING HIM,’ O’RILEY’S PLANS FOR KYOGO]]></title>
         <id>https://www.celticquicknews.co.uk/?p=114245</id>
@@ -884,17 +894,6 @@ The post Celtic star gets honest after dire mid-week defeat appeared first on 67
         <summary type="html"><![CDATA[CELTIC can expect further punishment among Europe’s elite if they do not learn quickly from the painful lessons that have come their way in this Champions League campaign. That’s the no-nonsense verdict of Liam Scales in the fall-out of the six-goal mauling in Madrid on Tuesday evening. For the third time in four Euro games, [...]]]></summary>
         <author>
             <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[£12 million Celtic target’s wife admits they are ready to move]]></title>
-        <id>https://thecelticbhoys.com/?p=45487</id>
-        <link href="https://thecelticbhoys.com/2023/11/09/12-million-celtic-target-move/"/>
-        <updated>2023-11-09T22:30:51.000Z</updated>
-        <summary type="html"><![CDATA[Celtic fans were not delighted with the club’s transfer strategy over the summer. The Hoops focused on bringing in highly-rated youngsters to Parkhead rather than adding established and experienced players to the squad. The fear was that they would not be able to compete in the Champions League once again this season, as a number […]
-£12 million Celtic target’s wife admits they are ready to move - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
-        <author>
-            <name>Sourav Mahanty</name>
         </author>
     </entry>
 </feed>
