@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-11-15T04:12:29.536Z</updated>
+    <updated>2023-11-15T06:14:23.880Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[THE UNFORGETTABLE BERTIE AULD: PART ONE: ‘THE DAY THAT CHANGED MY LIFE’]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=47279</id>
+        <link href="https://www.celticquicknews.co.uk/the-unforgettable-bertie-auld-part-one-the-day-that-changed-my-life/"/>
+        <updated>2023-11-15T05:30:36.000Z</updated>
+        <summary type="html"><![CDATA[BERTIE AULD, the most irrepressible of the Lisbon Lions, was the midfield mastermind who dovetailed immaculately with great friend and ally Bobby Murdoch in the engine room of Jock Stein’s all-conquering side of the sixties. It was the extraordinary time in Celtic history when the team mesmerised friend and foe alike with their remarkable, eye-catching brand [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Brendan Rodgers tells Celtic player he needs to get stronger]]></title>
         <id>https://thecelticbhoys.com/?p=45562</id>
@@ -903,40 +913,6 @@ The post Brendan Rodgers' class media response to recent Celtic fan chants appea
 Kolo Toure makes superb claim about Celtic and Brendan Rodgers - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
         <author>
             <name>Sourav Mahanty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brendan Rodgers confirms further bad news for Celtic]]></title>
-        <id>https://thecelticbhoys.com/?p=45496</id>
-        <link href="https://thecelticbhoys.com/2023/11/10/brendan-rodgers-confirms-news-celtic/"/>
-        <updated>2023-11-10T18:00:38.000Z</updated>
-        <summary type="html"><![CDATA[Celtic suffered a heavy defeat at the hands of Atletico Madrid away in the Spanish capital. A lot has been made of the result on the day and most of the questions have been about the club’s transfer policy rather than the players or the manager. Unfortunately, the 6-0 loss was not the only bad […]
-Brendan Rodgers confirms further bad news for Celtic - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
-        <author>
-            <name>Sourav Mahanty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2 changes, winger dilemma - Celtic team news and Predicted XI vs Aberdeen]]></title>
-        <id>https://www.67hailhail.com/?p=180536</id>
-        <link href="https://www.67hailhail.com/news/2-changes-winger-dilemma-celtic-team-news-and-predicted-xi-vs-aberdeen/"/>
-        <updated>2023-11-10T17:12:29.000Z</updated>
-        <summary type="html"><![CDATA[Celtic were dealt terrible injury news this afternoon as Brendan Rodgers revealed that Daizen Maeda will be sidelined for six weeks due to an injury...
-The post 2 changes, winger dilemma - Celtic team news and Predicted XI vs Aberdeen appeared first on 67 Hail Hail.]]></summary>
-        <author>
-            <name>Michael Shearer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kolo Toure's brilliant comments on Celtic in new interview]]></title>
-        <id>https://www.67hailhail.com/?p=180512</id>
-        <link href="https://www.67hailhail.com/news/kolo-toures-brilliant-comments-on-celtic-in-new-interview/"/>
-        <updated>2023-11-10T16:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Former Celtic defender Kolo Toure has revealed he knew that Celtic would go unbeaten in the 2016/17 season. 
-Toure also went unbeaten in the 2003/04 Premier League with Arsenal, making him a historic player for having gone unbeaten in seasons with Celtic and Arsenal, an incredible feat which neither side has since been able to replicate.
-The post Kolo Toure's brilliant comments on Celtic in new interview appeared first on 67 Hail Hail.]]></summary>
-        <author>
-            <name>Michael Shearer</name>
         </author>
     </entry>
 </feed>
