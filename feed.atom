@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-11-15T10:11:58.136Z</updated>
+    <updated>2023-11-15T12:19:54.160Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Communicating truth and shifting behaviour]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=114284</id>
+        <link href="https://www.celticquicknews.co.uk/communicating-truth-and-shifting-behaviour/"/>
+        <updated>2023-11-15T12:05:39.000Z</updated>
+        <summary type="html"><![CDATA[Communicating the message is important.  It is not always sufficient, but if you are unable to communicate frankly, you are not going to make the right decisions for your business. Nokia owned the mobile phone market in the first decade of this century.  Early on in that period, they sold over half the units bought [...]]]></summary>
+        <author>
+            <name>Paul67</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AXE FOR EX-CELT HIGHLY RATED BY RODGERS]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=114286</id>
+        <link href="https://www.celticquicknews.co.uk/axe-for-ex-celt-highly-rated-by-rodgers/"/>
+        <updated>2023-11-15T11:47:54.000Z</updated>
+        <summary type="html"><![CDATA[FORMER Celtic defender Malky Mackay has been sacked as manager of Ross County. The Highlanders have gone on a sequence of nine games without a win, including a 3-0 loss to the champions in Dingwall earlier this month. County have now taken the decision to part company with their boss who is highly rated by [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WORKING A FLANKER WITH YANG]]></title>
         <id>https://www.celticquicknews.co.uk/?p=114278</id>
@@ -867,17 +887,6 @@ The post Fed up Chris Sutton has some scathing criticism for Celtic and calls fo
         <summary type="html"><![CDATA[BRENDAN RODGERS walks in the shadow of Jock Stein. The Irishman, and all before him since the end of a golden era for the club in 1978, are well aware of the traditions and ethos of Celtic. The legendary Stein shook Parkhead, from top to bottom, out of a state of near-terminal lethargy to construct [...]]]></summary>
         <author>
             <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic must sign €8 million goalkeeper for free next summer]]></title>
-        <id>https://thecelticbhoys.com/?p=45508</id>
-        <link href="https://thecelticbhoys.com/2023/11/10/celtic-goalkeeper-free-next-summer/"/>
-        <updated>2023-11-10T22:30:35.000Z</updated>
-        <summary type="html"><![CDATA[It is no secret that Celtic could do with another goalkeeper. Joe Hart will turn 37 years of age before this season comes to an end and while the Englishman has done a very decent job since arriving from Tottenham Hotspur in the summer of 2021, a lot of questions have been raised about his […]
-Celtic must sign €8 million goalkeeper for free next summer - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
-        <author>
-            <name>Sourav Mahanty</name>
         </author>
     </entry>
 </feed>
