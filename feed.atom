@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-11-16T14:10:19.734Z</updated>
+    <updated>2023-11-16T16:14:09.499Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Roy Keane on the Gordan Strachan phonecall that ended time at Celtic]]></title>
+        <id>https://www.67hailhail.com/?p=180788</id>
+        <link href="https://www.67hailhail.com/news/roy-keane-on-the-gordan-strachan-phonecall-that-ended-time-at-celtic/"/>
+        <updated>2023-11-16T14:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Former Celtic midfielder concedes spell was "embarrassing" due to injury setbacks]]></summary>
+        <author>
+            <name>Michael Shearer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Worst Dinner Party Ever – Etims Podcast]]></title>
+        <id>https://etims.net/?p=18537</id>
+        <link href="https://etims.net/?p=18537"/>
+        <updated>2023-11-16T14:11:37.000Z</updated>
+        <summary type="html"><![CDATA[Desi, Hector and Monty are joined by BBC Sportsounds latest Soup taker, Ralph Malph to discuss the recent Celtics goings on as well as various…]]></summary>
+        <author>
+            <name>Desi Mond</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Manchester United legend admits regret at joining Celtic]]></title>
         <id>https://thecelticbhoys.com/?p=45640</id>

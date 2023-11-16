@@ -548,7 +548,23 @@
       "title": "eTims",
       "feedUrl": "http://etims.net/?feed=rss2",
       "siteUrl": "https://etims.net",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://etims.net/?p=18537",
+          "author": "Desi Mond",
+          "description": "Desi, Hector and Monty are joined by BBC Sportsounds latest Soup taker, Ralph Malph to discuss the recent Celtics goings on as well as various…",
+          "link": "https://etims.net/?p=18537",
+          "publishedOn": "2023-11-16T14:11:37.000Z",
+          "wordCount": 2678,
+          "title": "The Worst Dinner Party Ever – Etims Podcast",
+          "enclosure": {
+            "url": "https://api.spreaker.com/v2/episodes/57654471/download.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://etims.net/wp-content/uploads/2023/11/hell.jpg"
+        }
+      ]
     },
     {
       "title": "The Celtic Underground",
@@ -572,6 +588,16 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=180788",
+          "author": "Michael Shearer",
+          "description": "Former Celtic midfielder concedes spell was \"embarrassing\" due to injury setbacks",
+          "link": "https://www.67hailhail.com/news/roy-keane-on-the-gordan-strachan-phonecall-that-ended-time-at-celtic/",
+          "publishedOn": "2023-11-16T14:50:00.000Z",
+          "wordCount": 1445,
+          "title": "Roy Keane on the Gordan Strachan phonecall that ended time at Celtic",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2021/02/GettyImages-1130298099-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=180779",
           "author": "Michael Shearer",
