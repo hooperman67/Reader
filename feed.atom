@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-11-16T22:10:04.927Z</updated>
+    <updated>2023-11-17T00:50:04.617Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic legend linked with Scottish Premiership return]]></title>
+        <id>https://thecelticbhoys.com/?p=45657</id>
+        <link href="https://thecelticbhoys.com/2023/11/16/celtic-legend-linked-premiership-return/"/>
+        <updated>2023-11-16T22:30:36.000Z</updated>
+        <summary type="html"><![CDATA[Celtic do appear to have their future sorted in terms of a manager. Brendan Rodgers was brought back in the summer for a second stint in the Parkhead hot seat and it is hard to imagine that the Hoops would choose to part ways with the Northern Irishman anytime soon, unless something completely unexpected happens. […]
+Celtic legend linked with Scottish Premiership return - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
+        <author>
+            <name>Sourav Mahanty</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5 first-team stars get Thursday night run out as Celtic play their part in fun vs Dundee]]></title>
         <id>https://www.67hailhail.com/?p=180842</id>
@@ -976,17 +987,6 @@ The post Summer signing truly arrives, Kyogo concern; 3 things we learned as Cel
 Celtic manager makes Brighton & Hove Albion claim - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
         <author>
             <name>Sourav Mahanty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kenny Dalglish raises concerns about impartiality of official in Celtic match]]></title>
-        <id>https://www.67hailhail.com/?p=180617</id>
-        <link href="https://www.67hailhail.com/news/kenny-dalglish-calls-out-uefa-after-celtic-shocker-raises-concerns-about-impartiality-of-official/"/>
-        <updated>2023-11-12T12:47:56.000Z</updated>
-        <summary type="html"><![CDATA[Kenny Dalglish, like most watching on Tuesday night, was left frustrated by the use of VAR technology in the match between Celtic and Atletico Madrid....
-The post Kenny Dalglish raises concerns about impartiality of official in Celtic match appeared first on 67 Hail Hail.]]></summary>
-        <author>
-            <name>John McGinley</name>
         </author>
     </entry>
 </feed>
