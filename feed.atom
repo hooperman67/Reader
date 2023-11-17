@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-11-17T10:11:24.212Z</updated>
+    <updated>2023-11-17T12:19:32.138Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Crown Office and the cover up]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=114338</id>
+        <link href="https://www.celticquicknews.co.uk/the-crown-office-and-the-cover-up/"/>
+        <updated>2023-11-17T12:11:33.000Z</updated>
+        <summary type="html"><![CDATA[The criminal justice system in Scotland (and south of the border) is on its knees.  It lacks funds to appropriately prosecute crime, this week I spoke to a shopkeeper who closed a business which flourished for decades, citing, among other things, the inability to deter shoplifters. So what does this have to do with football?  [...]]]></summary>
+        <author>
+            <name>Paul67</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CALMAC, CRY-BABIES AND SHENANIGANS]]></title>
         <id>https://www.celticquicknews.co.uk/?p=114334</id>
@@ -867,17 +877,6 @@ The post Chris Sutton names two 'tremendous' players in Celtic win  appeared fir
         <summary type="html"><![CDATA[PARADISE was smiles better for Luis Palma in the 6-0 romp against a devastated Aberdeen team who collapsed under incessant second-half pressure. The Honduran winger scored a penalty-kick – showing recent spot-kick culprits Reo Hatate and David Turnbull how it’s done – and provided ammunition for three goals, including the crucial opener for fellow-touchline trickster [...]]]></summary>
         <author>
             <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic player very unhappy and refused handshake]]></title>
-        <id>https://thecelticbhoys.com/?p=45556</id>
-        <link href="https://thecelticbhoys.com/2023/11/12/celtic-player-unhappy-refused-handshake/"/>
-        <updated>2023-11-12T23:00:51.000Z</updated>
-        <summary type="html"><![CDATA[Celtic bounced back brilliantly from their 6-0 loss against Atletico Madrid by getting themselves a 6-0 win over Aberdeen at the weekend. Oh Hyeon-gyu got himself a stoppage time brace while Luis Palma, David Turnbull, Kyogo Furuhashi and Yang Hyun-jun were on the scoresheet for the Hoops as well. One major talking point coming out […]
-Celtic player very unhappy and refused handshake - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
-        <author>
-            <name>Sourav Mahanty</name>
         </author>
     </entry>
 </feed>
