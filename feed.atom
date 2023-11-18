@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-11-18T10:09:53.965Z</updated>
+    <updated>2023-11-18T12:17:39.254Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[RODGERS’ SMILES BETTER – AT THE DOUBLE]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=114358</id>
+        <link href="https://www.celticquicknews.co.uk/rodgers-smiles-better-at-the-double/"/>
+        <updated>2023-11-18T11:24:54.000Z</updated>
+        <summary type="html"><![CDATA[KYOGO FURUHASHI and Matt O’Riley are on their way to becoming Celtic’s Dream Team double-act. The prolific striker and the stylish playmaker are dovetailing expertly in the champions’ line-up with the Japanese hitman now on the 62-goal mark after 101 appearances. O’Riley has added six strikes to his vast repertoire of talents, including next week’s opponents [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CELTIC STRIKER SEARCH: SHANKLAND? ‘FORGET ABOUT IT,’ INSISTS SUTTON]]></title>
         <id>https://www.celticquicknews.co.uk/?p=114348</id>
@@ -845,17 +855,6 @@ Celtic player posts picture of himself on crutches on Instagram - The Celtic Bho
         <summary type="html"><![CDATA[CELTIC author Alex Gordon takes a walk down memory lane as he pays a heartfelt tribute to Celtic great Bertie Auld who passed away two years ago today at the age of 83. The Libon Lion and the former Sunday Mail sports editor forged an unbreakable friendship over the years of spending valuable time together. [...]]]></summary>
         <author>
             <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Michael Beale’s old comments go viral after Celtic masterclass]]></title>
-        <id>https://thecelticbhoys.com/?p=45581</id>
-        <link href="https://thecelticbhoys.com/2023/11/13/michael-beale-old-comments-celtic/"/>
-        <updated>2023-11-13T22:34:44.000Z</updated>
-        <summary type="html"><![CDATA[Michael Beale’s time at Ibrox was not the great success that most of their fans expected when he arrived. He did not even last a year in the hot seat and left without having won a single piece of silverware. On the other hand, Celtic continued to life trophies and had a fantastic record in […]
-Michael Beale’s old comments go viral after Celtic masterclass - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
-        <author>
-            <name>Sourav Mahanty</name>
         </author>
     </entry>
 </feed>
