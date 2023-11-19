@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=86800",
+          "author": "CQN Magazine",
+          "description": "LISBON LION Bertie Auld was the most irrepressible Celtic player of Jock Stein’s all-conquering team of the sixties. CQN has been celebrating the life and incredible times of the Hoops legend in an EXCLUSIVE series with extracts from his best-selling autobiography, ‘A Bhoy Called Bertie’, co-authored by his friend and writer Alex Gordon. The story [...]",
+          "link": "https://www.celticquicknews.co.uk/the-unforgettable-bertie-auld-part-five-shattering-blow-as-celtic-want-to-sell-me/",
+          "publishedOn": "2023-11-19T05:30:05.000Z",
+          "wordCount": 5157,
+          "title": "THE UNFORGETTABLE BERTIE AULD: PART FIVE: ‘SHATTERING BLOW AS CELTIC WANT TO SELL ME’",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2019/05/Bertie2.jpg"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=114358",
           "author": "CQN Magazine",
           "description": "KYOGO FURUHASHI and Matt O’Riley are on their way to becoming Celtic’s Dream Team double-act. The prolific striker and the stylish playmaker are dovetailing expertly in the champions’ line-up with the Japanese hitman now on the 62-goal mark after 101 appearances. O’Riley has added six strikes to his vast repertoire of talents, including next week’s opponents [...]",
@@ -461,16 +471,6 @@
           "wordCount": 2128,
           "title": "Celtic starter admits rival club were keen to sign him",
           "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2018%2F08%2F1464769735.jpeg"
-        },
-        {
-          "id": "https://thecelticbhoys.com/?p=45590",
-          "author": "Sourav Mahanty",
-          "description": "Celtic have been pretty near perfect in league competition once again this season. They have drawn two of their thirteen games so far, and have not lost one. The Hoops have been the best team in Scottish football for more than a decade now. But that does not mean that the domestic competitions do not […]\nCeltic will be delighted with latest Kilmarnock news - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community",
-          "link": "https://thecelticbhoys.com/2023/11/14/celtic-will-delighted-kilmarnock-news/",
-          "publishedOn": "2023-11-14T18:00:35.000Z",
-          "wordCount": 1993,
-          "title": "Celtic will be delighted with latest Kilmarnock news",
-          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1355573087-scaled.jpeg"
         }
       ]
     },
@@ -896,36 +896,6 @@
           "wordCount": 1422,
           "title": "Rangers officially spent £21m chasing Celtic this summer and they are still no closer",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/11/GettyImages-1657207637-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=180712",
-          "author": "John McGinley",
-          "description": "Liam Scales has been speaking to assembled media in his native Ireland about his career rise into the Celtic team and UEFA Champions League. Scales...",
-          "link": "https://www.67hailhail.com/news/liam-scales-reveals-irish-pride-in-representing-celtic-how-close-he-came-to-aberdeen-move/",
-          "publishedOn": "2023-11-14T17:50:00.000Z",
-          "wordCount": 1435,
-          "title": "\"Spoke to them\"; Celtic standout shares how close he came to leaving Bhoys during summer window",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/11/GettyImages-1782291006-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=180708",
-          "author": "John McGinley",
-          "description": "Reigning Serie A champions Napoli have taken the drastic step of sacking Rudi Garcia as manager and appointing Walter Mazzarri until the end of the...",
-          "link": "https://www.67hailhail.com/news/serie-a-champions-napoli-appoint-manager-who-was-keen-on-celtic-job-in-2021/",
-          "publishedOn": "2023-11-14T17:15:00.000Z",
-          "wordCount": 1293,
-          "title": "Serie A champions appoint manager who was keen on Celtic job in 2021",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2021/02/GettyImages-1191950087-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=180703",
-          "author": "John McGinley",
-          "description": "Celtic attacker Luis Palma is a happy man at the moment and is increasingly becoming an integral part of Brendan Rodgers’ starting eleven. Doubts have...",
-          "link": "https://www.67hailhail.com/news/luis-palma-thanks-celtic-teammate-on-instagram-after-classy-gesture/",
-          "publishedOn": "2023-11-14T16:50:00.000Z",
-          "wordCount": 1298,
-          "title": "Luis Palma thanks Celtic teammate on Instagram after classy gesture",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/11/GettyImages-1789618353-scaled.jpg"
         }
       ]
     },
