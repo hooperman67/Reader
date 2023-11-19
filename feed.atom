@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-11-19T14:08:34.995Z</updated>
+    <updated>2023-11-19T16:12:05.791Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Brendan Rodgers confirms "analytically brilliant" coach followed him to Celtic from Leicester]]></title>
+        <id>https://www.67hailhail.com/?p=180960</id>
+        <link href="https://www.67hailhail.com/news/brendan-rodgers-praises-analytically-brilliant-coach-who-followed-him-to-celtic-from-leicester/"/>
+        <updated>2023-11-19T15:53:10.000Z</updated>
+        <summary type="html"><![CDATA[Brendan Rodgers has been speaking about his backroom staff at Celtic this season, highlighting the hard work they put in to support him at Lennoxtown...]]></summary>
+        <author>
+            <name>John McGinley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic's 11 games in 38 days; full schedule, injuries, TV details, predictions]]></title>
+        <id>https://www.67hailhail.com/?p=180953</id>
+        <link href="https://www.67hailhail.com/match/celtics-11-games-in-38-days-full-schedule-injuries-tv-details-predictions/"/>
+        <updated>2023-11-19T15:16:14.000Z</updated>
+        <summary type="html"><![CDATA[We’re less than a week away from Celtic taking to the pitch again after the international break and it will be the start of a...]]></summary>
+        <author>
+            <name>John McGinley</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic reportedly in the running to bring back former player]]></title>
         <id>https://thecelticbhoys.com/?p=45713</id>
