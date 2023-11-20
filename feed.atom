@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-11-20T10:12:02.545Z</updated>
+    <updated>2023-11-20T12:20:29.154Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rationalising the wingers]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=114391</id>
+        <link href="https://www.celticquicknews.co.uk/rationalising-the-wingers/"/>
+        <updated>2023-11-20T12:01:09.000Z</updated>
+        <summary type="html"><![CDATA[At the time, you and I talked about the hoard of wingers at the club after the summer’s transfer business.  James Forrest, Mikey Johnston, Liel Abada, Daizen Maeda, Luis Palma, Yang and Marco Tilio.  That’s seven players for two starting spots; it was always going to be a handful keeping everyone happy.  Marco got his [...]]]></summary>
+        <author>
+            <name>Paul67</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NEW BHOY POISED TO LEAD CELTIC CLEAR-OUT]]></title>
         <id>https://www.celticquicknews.co.uk/?p=114384</id>
@@ -799,17 +809,6 @@ Celtic linked with transfer move for in-form 24-year-old - The Celtic Bhoys - Th
         <summary type="html"><![CDATA[LISBON LION Bertie Auld was one of the most irrepressible players in Celtic’s history. CQN yesterday kicked off an EXCLUSIVE series on the Hoops legend with part one of his extraordinary career as we published an extract from a chapter of his best-selling autobiography, ‘A Bhoy Called Bertie’, co-authored by his friend and writer Alex [...]]]></summary>
         <author>
             <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Luis Palma makes superb claim about Celtic fans to Honduran media]]></title>
-        <id>https://thecelticbhoys.com/?p=45606</id>
-        <link href="https://thecelticbhoys.com/2023/11/15/luis-palma-celtic-fans-media/"/>
-        <updated>2023-11-15T23:00:53.000Z</updated>
-        <summary type="html"><![CDATA[It can come as a surprise for some players when they first step out at home for Celtic. Many take it in their stride, others take more time to adjust to the pressure that comes with playing in front of 60,000 fans every week. One player has adapted very well since making the move to […]
-Luis Palma makes superb claim about Celtic fans to Honduran media - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
-        <author>
-            <name>StevieMac</name>
         </author>
     </entry>
 </feed>
