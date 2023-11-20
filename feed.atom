@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-11-19T22:09:04.145Z</updated>
+    <updated>2023-11-20T00:50:47.072Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic appear to have pulled off absolute transfer masterstroke]]></title>
+        <id>https://thecelticbhoys.com/?p=45689</id>
+        <link href="https://thecelticbhoys.com/2023/11/19/celtic-absolute-transfer-masterstroke/"/>
+        <updated>2023-11-19T22:30:46.000Z</updated>
+        <summary type="html"><![CDATA[The international break can be quite mixed for Celtic fans. On one hand, it is pleasing to see the club’s players getting recognition with their national teams. But there is always a worry over them potentially getting injured while away. The Hoops already have enough fitness problems to deal with as it is. But one […]
+Celtic appear to have pulled off absolute transfer masterstroke - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
+        <author>
+            <name>StevieMac</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Brendan Rodgers compares Celtic duo with Liverpool icons]]></title>
         <id>https://thecelticbhoys.com/?p=45727</id>
@@ -887,37 +898,6 @@ Lagerbielke joined Celtic in August from Elfsborg for a reported £3 million on 
 Former Celtic defender sacked by Premiership club - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
         <author>
             <name>Sourav Mahanty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brendan Rodgers keen for Celtic player to sign new deal]]></title>
-        <id>https://thecelticbhoys.com/?p=45603</id>
-        <link href="https://thecelticbhoys.com/2023/11/15/brendan-rodgers-keen-celtic-player-deal/"/>
-        <updated>2023-11-15T12:30:28.000Z</updated>
-        <summary type="html"><![CDATA[Brendan Rodgers returned for a second stint as Celtic manager in the summer, much earlier than anybody would have expected. It was a little over four years ago that he had left the club in the middle of the 2018/19 season in order to join Leicester City. He was welcomed back with open arms though […]
-Brendan Rodgers keen for Celtic player to sign new deal - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
-        <author>
-            <name>Sourav Mahanty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Communicating truth and shifting behaviour]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=114284</id>
-        <link href="https://www.celticquicknews.co.uk/communicating-truth-and-shifting-behaviour/"/>
-        <updated>2023-11-15T12:05:39.000Z</updated>
-        <summary type="html"><![CDATA[Communicating the message is important.  It is not always sufficient, but if you are unable to communicate frankly, you are not going to make the right decisions for your business. Nokia owned the mobile phone market in the first decade of this century.  Early on in that period, they sold over half the units bought [...]]]></summary>
-        <author>
-            <name>Paul67</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AXE FOR EX-CELT HIGHLY RATED BY RODGERS]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=114286</id>
-        <link href="https://www.celticquicknews.co.uk/axe-for-ex-celt-highly-rated-by-rodgers/"/>
-        <updated>2023-11-15T11:47:54.000Z</updated>
-        <summary type="html"><![CDATA[FORMER Celtic defender Malky Mackay has been sacked as manager of Ross County. The Highlanders have gone on a sequence of nine games without a win, including a 3-0 loss to the champions in Dingwall earlier this month. County have now taken the decision to part company with their boss who is highly rated by [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
         </author>
     </entry>
 </feed>
