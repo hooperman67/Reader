@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-11-21T10:16:59.889Z</updated>
+    <updated>2023-11-21T12:20:35.575Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PL Profit and Sustainability Rules, some window dressing]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=114420</id>
+        <link href="https://www.celticquicknews.co.uk/pl-profit-and-sustainability-rules-some-window-dressing/"/>
+        <updated>2023-11-21T12:00:49.000Z</updated>
+        <summary type="html"><![CDATA[I’m not buying the sense of aggrievement from Everton over their 10-point deduction for failing FA Premier League Profit and Sustainability Rules (PSR).  It is the harshest penalty yet given out by the League and puts Everton in the relegation zone, but they are just two points from safety and in sufficiently good form to [...]]]></summary>
+        <author>
+            <name>Paul67</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JINXED CELT’S REASONS TO BE CHEERFUL]]></title>
         <id>https://www.celticquicknews.co.uk/?p=114416</id>
@@ -778,17 +788,6 @@ Ange Postecoglou signing must leave Celtic in January - The Celtic Bhoys - The C
         <summary type="html"><![CDATA[LISBON LION Bertie Auld was one of the key components in Jock Stein’s all-conquering Celtic team of the sixties. CQN has been celebrating the life and incredible times of the club legend in an EXCLUSIVE series with extracts from his best-selling autobiography, ‘A Bhoy Called Bertie’, co-authored by his friend and writer Alex Gordon. The [...]]]></summary>
         <author>
             <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic legend linked with Scottish Premiership return]]></title>
-        <id>https://thecelticbhoys.com/?p=45657</id>
-        <link href="https://thecelticbhoys.com/2023/11/16/celtic-legend-linked-premiership-return/"/>
-        <updated>2023-11-16T22:30:36.000Z</updated>
-        <summary type="html"><![CDATA[Celtic do appear to have their future sorted in terms of a manager. Brendan Rodgers was brought back in the summer for a second stint in the Parkhead hot seat and it is hard to imagine that the Hoops would choose to part ways with the Northern Irishman anytime soon, unless something completely unexpected happens. […]
-Celtic legend linked with Scottish Premiership return - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
-        <author>
-            <name>Sourav Mahanty</name>
         </author>
     </entry>
 </feed>
