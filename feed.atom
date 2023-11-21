@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-11-21T20:09:41.091Z</updated>
+    <updated>2023-11-21T22:10:00.878Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic must try to sign Real Madrid superstar’s brother]]></title>
+        <id>https://thecelticbhoys.com/?p=45774</id>
+        <link href="https://thecelticbhoys.com/2023/11/21/celtic-must-sign-real-madrid-brother/"/>
+        <updated>2023-11-21T21:30:42.000Z</updated>
+        <summary type="html"><![CDATA[Celtic are always on the lookout for bright young talents. We saw the club sign nine players in the summer transfer window, all of them highly-rated youngsters, except for Nat Phillips, who was brought in on loan from Liverpool for just the first half of the season as a result of the number of injuries […]
+Celtic must try to sign Real Madrid superstar’s brother - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
+        <author>
+            <name>Sourav Mahanty</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic tipped to sign £4 million player in January window]]></title>
         <id>https://thecelticbhoys.com/?p=45771</id>
@@ -802,26 +813,6 @@ Ange Postecoglou signing must leave Celtic in January - The Celtic Bhoys - The C
         <summary type="html"><![CDATA[The criminal justice system in Scotland (and south of the border) is on its knees.  It lacks funds to appropriately prosecute crime, this week I spoke to a shopkeeper who closed a business which flourished for decades, citing, among other things, the inability to deter shoplifters. So what does this have to do with football?  [...]]]></summary>
         <author>
             <name>Paul67</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CALMAC, CRY-BABIES AND SHENANIGANS]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=114334</id>
-        <link href="https://www.celticquicknews.co.uk/calmac-cry-babies-and-shenanigans/"/>
-        <updated>2023-11-17T09:49:03.000Z</updated>
-        <summary type="html"><![CDATA[CALLUM McGREGOR will take his place in the midfield against Norway at Hampden on Sunday evening as Scotland bring down the curtain on a successful Euro 24 qualifying campaign. The Celtic captain played his part in the country reaching the summer Finals in Germany and they had already sealed their place among Europe’s elite before [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MAKE-OR-BREAK FOR ONE-TIME WONDERBHOY]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=114330</id>
-        <link href="https://www.celticquicknews.co.uk/make-or-break-for-one-time-wonderbhoy/"/>
-        <updated>2023-11-17T08:27:46.000Z</updated>
-        <summary type="html"><![CDATA[MIKEY JOHNSTON has set himself a January target to make the breakthrough at Celtic. The one-time wonder Bhoy, who broke into the team as a teenager during Brendan Rodgers’ first spell as manager, has played only 25 first-team minutes this season. Johnston, now 24, came on as a second-half substitute in the scoreless stalemate with Hibs [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
         </author>
     </entry>
 </feed>
