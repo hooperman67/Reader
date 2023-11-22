@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-11-22T04:12:50.889Z</updated>
+    <updated>2023-11-22T06:14:30.638Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[THE UNFORGETTABLE BERTIE AULD: PART EIGHT: ‘CAESAR, DINO, OCEANS AND ME’]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=86852</id>
+        <link href="https://www.celticquicknews.co.uk/the-unforgettable-bertie-auld-part-eight-caesar-dino-oceans-and-me/"/>
+        <updated>2023-11-22T05:30:17.000Z</updated>
+        <summary type="html"><![CDATA[LISBON LION Bertie Auld was the most irrepressible Celtic player of Jock Stein’s all-conquering team of the sixties. CQN are celebrating the life and incredible times of the club legend in an EXCLUSIVE series with extracts from his best-selling autobiography, ‘A Bhoy Called Bertie’, co-authored by his friend and writer Alex Gordon. The remarkable life story continues [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Struggling Celtic player sends message to Brendan Rodgers]]></title>
         <id>https://thecelticbhoys.com/?p=45778</id>
@@ -689,49 +699,6 @@ Former Celtic man linked with move to Manchester United - The Celtic Bhoys - The
 Celtic player tipped for position change by commentator - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
         <author>
             <name>Sourav Mahanty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic defender tipped for position change by overseas media]]></title>
-        <id>https://www.67hailhail.com/?p=180886</id>
-        <link href="https://www.67hailhail.com/news/alistair-johnston-position-change-celtic/"/>
-        <updated>2023-11-17T18:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Alistair Johnston is currently on international duty, with two pundits in his homeland posing the question of whether he could play in midfield for Canada....]]></summary>
-        <author>
-            <name>Michael Shearer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sydney van Hooijdonk opens door to exit amid Celtic links]]></title>
-        <id>https://thecelticbhoys.com/?p=45667</id>
-        <link href="https://thecelticbhoys.com/2023/11/17/sydney-van-hooijdonk-celtic-links/"/>
-        <updated>2023-11-17T18:05:25.000Z</updated>
-        <summary type="html"><![CDATA[Celtic could find themselves in need of a striker in January. The AFC Asian Cup will start early next year and there is a possibility that both Kyogo Furuhashi and Oh Hyeon-gyu could be selected by their respective national teams. One would expect the likes of Japan and South Korea to make deep runs in […]
-Sydney van Hooijdonk opens door to exit amid Celtic links - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
-        <author>
-            <name>Sourav Mahanty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dutch striker suggests potential club exit after summer Celtic interest]]></title>
-        <id>https://www.67hailhail.com/?p=180872</id>
-        <link href="https://www.67hailhail.com/transfers/sydney-van-hooijdonk-suggests-january-exit-is-possible-after-summer-celtic-reports/"/>
-        <updated>2023-11-17T17:11:57.000Z</updated>
-        <summary type="html"><![CDATA[Bologna striker Sydney van Hooijdonk has hinted at a potential move to Celtic in January. 
-
-Van Hooijdonk, the son of former Celtic striker Pierre, has only made five Serie A appearances this season, failing to start a single game.]]></summary>
-        <author>
-            <name>Michael Shearer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Former Celtic striker coaching role announced]]></title>
-        <id>https://www.67hailhail.com/?p=180880</id>
-        <link href="https://www.67hailhail.com/news/former-celtic-striker-leigh-griffiths-takes-next-career-step/"/>
-        <updated>2023-11-17T16:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Griffiths will continue to play in a player-coach role for the Australian side, who compete in the Football West State League Division 1.]]></summary>
-        <author>
-            <name>Michael Shearer</name>
         </author>
     </entry>
 </feed>
