@@ -6,6 +6,26 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=114435",
+          "author": "Paul67",
+          "description": "You and I have talked about Mikey Johnston for over five years.  As a teenager, he was pivotal in a win at Ibrox early in our most recent nine-in-a-row season and seemed set for the top.  Just two days before that game we signed Mohamed Elyounoussi on loan, and the Norwegian international edged ahead of [...]",
+          "link": "https://www.celticquicknews.co.uk/inevitable-cull-will-see-mikey-flourish-elsewhere/",
+          "publishedOn": "2023-11-22T12:00:07.000Z",
+          "wordCount": 4126,
+          "title": "Inevitable cull will see Mikey flourish elsewhere",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/?p=114456",
+          "author": "CQN Magazine",
+          "description": "CELTIC have been hit with £25,240.45 worth of fines by UEFA following fan misbehaviour in the Champions League 2-2 draw with Atletico Madrid at Parkhead. The latest penalty brings the club’s total financial punishment to a staggering £65,710.94 for their involvement in this season’s Champions League. The Hoops have been hit hard again after last [...]",
+          "link": "https://www.celticquicknews.co.uk/celtics-uefa-fines-total-over-65000/",
+          "publishedOn": "2023-11-22T11:57:18.000Z",
+          "wordCount": 4035,
+          "title": "CELTIC’S UEFA FINES TOTAL OVER £65,000",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/11/CELTIC-PARK-NIGHT-TIME.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=114433",
           "author": "CQN Magazine",
           "description": "BRENDAN RODGERS is poised to give the green light to a loan move for Yuki Kobayashi, as CQN forecast last month. The Japanese centre-back has yet to make a competitive appearance since the Irishman took over from Spurs-bound Ange Postecoglou in June. The Greek-Australian gaffer signed Kobayashi in January after the 23-year-old defender came out [...]",
@@ -451,16 +471,6 @@
           "wordCount": 2092,
           "title": "Chris Sutton rules out Celtic signing £3 million Hearts player",
           "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1042821128.jpeg"
-        },
-        {
-          "id": "https://thecelticbhoys.com/?p=45682",
-          "author": "Sourav Mahanty",
-          "description": "Callum McGregor is someone who has seen it all and done it all at Celtic. He has risen through the ranks at the club, going from a ball boy to captain. And naturally, he has been part of a lot of different dressing rooms over the years. With the armband in his possession now, he […]\nCallum McGregor admits to one change in Celtic dressing room - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community",
-          "link": "https://thecelticbhoys.com/2023/11/17/callum-mcgregor-celtic-dressing-room/",
-          "publishedOn": "2023-11-17T23:35:39.000Z",
-          "wordCount": 2082,
-          "title": "Callum McGregor admits to one change in Celtic dressing room",
-          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1547265764-scaled.jpeg"
         }
       ]
     },
@@ -481,6 +491,36 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=181073",
+          "author": "Michael Shearer",
+          "description": "Marco Tilio has provided Brendan Rodgers with a promising boost on the injury front by starting for the Australia under-23 national team.",
+          "link": "https://www.67hailhail.com/news/marco-tilio-takes-a-big-step-forward-after-celtic-concerns/",
+          "publishedOn": "2023-11-22T11:53:53.000Z",
+          "wordCount": 1311,
+          "title": "Celtic star makes first start in over 5 months after fitness comeback",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/07/GettyImages-1367142089-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=181060",
+          "author": "Michael Shearer",
+          "description": "Peter Grant and Stephen McGinn have weighed in on Sydney van Hooijdonk’s potential move to Celtic in January. Grant played with Sydney’s father, Pierre, at...",
+          "link": "https://www.67hailhail.com/transfers/peter-grant-delivers-verdict-on-what-hes-hearing-about-celtic-and-sydney-van-hooijdonk/",
+          "publishedOn": "2023-11-22T10:57:03.000Z",
+          "wordCount": 1695,
+          "title": "\"Came up in recruitment meeting\"; Pundits have their say on Celtic links with exciting striker",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/11/GettyImages-1767599704-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=181063",
+          "author": "John McGinley",
+          "description": "The 2023 edition of the Celtic Annual General Meeting (AGM) takes place on Wednesday and several important topics surrounding the club are sure to come...",
+          "link": "https://www.67hailhail.com/news/everything-you-need-to-know-about-todays-celtic-agm-euro-ambition-green-brigade-ban/",
+          "publishedOn": "2023-11-22T10:23:04.000Z",
+          "wordCount": 1447,
+          "title": "Everything you need to know about today's Celtic AGM; Euro ambition, Green Brigade ban",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/11/GettyImages-1471496370-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=181043",
           "author": "Michael Shearer",
