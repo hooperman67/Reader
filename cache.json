@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=86853",
+          "author": "CQN Magazine",
+          "description": "LISBON LION Bertie Auld teamed up with Bobby Murdoch as Celtic conquered all in the sixties. CQN are celebrating the life and incredible times of the club legend in an EXCLUSIVE series with extracts from his best-selling autobiography, ‘A Bhoy Called Bertie’, co-authored by his friend and writer Alex Gordon. The remarkable life story continues with [...]",
+          "link": "https://www.celticquicknews.co.uk/the-unforgettable-bertie-auld-part-nine-big-jock-and-the-trip-of-a-lifetime/",
+          "publishedOn": "2023-11-23T05:30:42.000Z",
+          "wordCount": 4558,
+          "title": "THE UNFORGETTABLE BERTIE AULD: PART NINE: ‘BIG JOCK AND THE TRIP OF A LIFETIME’",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/01/JOCK-STEIN-BERTIE-AULD-FEATURED-HHH.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=114458",
           "author": "CQN Magazine",
           "description": "BRENDAN RODGERS reinforced the need to add quality to his Celtic squad in the January transfer window when he spoke at the club’s AGM at Parkhead today. The Hoops boss has already admitted players will be coming and going after the turn of the year as he reshapes his pool for the second half of the [...]",
@@ -471,16 +481,6 @@
           "wordCount": 1979,
           "title": "Two former Celtic players pictured back in Glasgow",
           "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2018%2F08%2F1464769763.jpeg"
-        },
-        {
-          "id": "https://thecelticbhoys.com/?p=45699",
-          "author": "Sourav Mahanty",
-          "description": "Nobody at Celtic has enjoyed as meteoric a rise this season as Liam Scales. It is hard to believe that even a few months ago, most people believed that his Parkhead career was as good as over. He had spent the previous campaign out on loan at Aberdeen and even though he did well, there […]\nLiam Scales makes superb claim about Celtic Park - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community",
-          "link": "https://thecelticbhoys.com/2023/11/18/liam-scales-makes-claim-celtic-park/",
-          "publishedOn": "2023-11-18T18:00:43.000Z",
-          "wordCount": 2054,
-          "title": "Liam Scales makes superb claim about Celtic Park",
-          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1781940116-scaled.jpeg"
         }
       ]
     },
@@ -830,36 +830,6 @@
           "wordCount": 1340,
           "title": "What Brendan Rodgers told Kyogo to break through big Celtic barrier",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/11/GettyImages-1756506921-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=180921",
-          "author": "John McGinley",
-          "description": "United States national team manager Gregg Berhalter was pleased with the performance of Celtic defender Cameron Carter-Vickers after his first international start in a year....",
-          "link": "https://www.67hailhail.com/news/reaction-and-verdict-as-celtic-star-cameron-carter-vickers-makes-first-usa-start-in-a-year/",
-          "publishedOn": "2023-11-18T17:31:24.000Z",
-          "wordCount": 1366,
-          "title": "8 duels won; Celtic star earns \"excellent\" verdict after first international start in a year",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/11/GettyImages-1798087955-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=180917",
-          "author": "John McGinley",
-          "description": "The rise in status of Celtic defender Liam Scales continues apace this weekend after he was nominated for a national award in his native Ireland....",
-          "link": "https://www.67hailhail.com/news/celtics-liam-scales-now-nominated-for-national-award-alongside-two-top-premier-league-talents/",
-          "publishedOn": "2023-11-18T16:43:23.000Z",
-          "wordCount": 1324,
-          "title": "Rising Celtic star now nominated for national overseas award alongside £100m man",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/10/GettyImages-1717452527-1-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=180914",
-          "author": "John McGinley",
-          "description": "Celtic poked a bit of fun at Brendan Rodgers’ changing perception amongst supporters in the club’s new Christmas advert, with a moment that has become...",
-          "link": "https://www.67hailhail.com/news/funny-brendan-rodgers-moment-captures-the-spotlight-in-new-celtic-video/",
-          "publishedOn": "2023-11-18T16:13:32.000Z",
-          "wordCount": 1326,
-          "title": "Funny Brendan Rodgers moment captures the spotlight in new Celtic video",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/10/GettyImages-1093352320-scaled.jpg"
         }
       ]
     },
