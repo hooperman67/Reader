@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-11-22T22:09:00.179Z</updated>
+    <updated>2023-11-23T00:49:35.049Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic chief takes cheeky dig at Rangers during AGM]]></title>
+        <id>https://thecelticbhoys.com/?p=45789</id>
+        <link href="https://thecelticbhoys.com/2023/11/22/celtic-chief-cheeky-rangers-agm/"/>
+        <updated>2023-11-22T22:30:54.000Z</updated>
+        <summary type="html"><![CDATA[The Celtic AGM can often be a predictable event. The club’s board are asked questions on the day. As you would expect from people who are usually fans as well as investors, the subject matter of many of them was to be expected. The Green Brigade, player recruitment and VAR are all regular topics raised. […]
+Celtic chief takes cheeky dig at Rangers during AGM - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
+        <author>
+            <name>StevieMac</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic eyeing Manchester United and Liverpool target]]></title>
         <id>https://thecelticbhoys.com/?p=45802</id>
@@ -891,16 +902,6 @@ Newcastle United in pole position for former Celtic player - The Celtic Bhoys - 
 Chris Sutton rules out Celtic signing £3 million Hearts player - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
         <author>
             <name>Sourav Mahanty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RODGERS’ SMILES BETTER – AT THE DOUBLE]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=114358</id>
-        <link href="https://www.celticquicknews.co.uk/rodgers-smiles-better-at-the-double/"/>
-        <updated>2023-11-18T11:24:54.000Z</updated>
-        <summary type="html"><![CDATA[KYOGO FURUHASHI and Matt O’Riley are on their way to becoming Celtic’s Dream Team double-act. The prolific striker and the stylish playmaker are dovetailing expertly in the champions’ line-up with the Japanese hitman now on the 62-goal mark after 101 appearances. O’Riley has added six strikes to his vast repertoire of talents, including next week’s opponents [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
         </author>
     </entry>
 </feed>
