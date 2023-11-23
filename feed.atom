@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-11-23T08:13:33.861Z</updated>
+    <updated>2023-11-23T10:11:24.074Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CELTIC LEGENDS IN BOSS BATTLE]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=114466</id>
+        <link href="https://www.celticquicknews.co.uk/celtic-legends-in-boss-battle/"/>
+        <updated>2023-11-23T09:55:12.000Z</updated>
+        <summary type="html"><![CDATA[NEIL LENNON is poised to go head to head with former Celtic team-mate Roy Keane for the Republic of Ireland manager’s job. The Hoops legend and the Manchester United icon, who made 10 league appearances in season 2005/06 for the Parkhead club, are both in the frame for the post after the Irish FA decided not [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[THE UNFORGETTABLE BERTIE AULD: PART NINE: ‘BIG JOCK AND THE TRIP OF A LIFETIME’]]></title>
         <id>https://www.celticquicknews.co.uk/?p=86853</id>
@@ -758,36 +768,6 @@ Celtic interested in signing Tottenham Hotspur target - The Celtic Bhoys - The C
         <summary type="html"><![CDATA[LISBON LION Bertie Auld was the most irrepressible Celtic player of Jock Stein’s all-conquering team of the sixties. CQN has been celebrating the life and incredible times of the Hoops legend in an EXCLUSIVE series with extracts from his best-selling autobiography, ‘A Bhoy Called Bertie’, co-authored by his friend and writer Alex Gordon. The story [...]]]></summary>
         <author>
             <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Liam Scales verdict as Celtic defender takes on difficult Dutch attack in Amsterdam]]></title>
-        <id>https://www.67hailhail.com/?p=180946</id>
-        <link href="https://www.67hailhail.com/opinion/the-liam-scales-verdict-as-celtic-defender-takes-on-difficult-dutch-attack-in-amsterdam/"/>
-        <updated>2023-11-18T21:46:27.000Z</updated>
-        <summary type="html"><![CDATA[Celtic defender Liam Scales will be disappointed that his Republic of Ireland side suffered their latest defeat away to the Netherlands on Saturday night but...]]></summary>
-        <author>
-            <name>John McGinley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alistair Johnston international break bonus for Celtic]]></title>
-        <id>https://www.67hailhail.com/?p=180941</id>
-        <link href="https://www.67hailhail.com/news/alistair-johnston-international-break-bonus-for-celtic/"/>
-        <updated>2023-11-18T20:56:45.000Z</updated>
-        <summary type="html"><![CDATA[Celtic star Alistair Johnston managed to avoid a gruelling short turnaround double-header against Jamaica after he was omitted from the Canada starting eleven on Saturday....]]></summary>
-        <author>
-            <name>John McGinley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic 'keeping tabs' on breakthrough Premiership midfielder]]></title>
-        <id>https://www.67hailhail.com/?p=180937</id>
-        <link href="https://www.67hailhail.com/transfers/celtic-keeping-tabs-on-breakthrough-premiership-midfielder/"/>
-        <updated>2023-11-18T20:18:16.000Z</updated>
-        <summary type="html"><![CDATA[Celtic are one of the clubs credited with interest in Motherwell midfielder Lennon Miller after bursting onto the Scottish Premiership scene but there is a...]]></summary>
-        <author>
-            <name>John McGinley</name>
         </author>
     </entry>
 </feed>
