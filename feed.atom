@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-11-24T08:13:22.311Z</updated>
+    <updated>2023-11-24T10:11:43.828Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[‘A BIT UPSET,’ LEGEND’S REACTION TO KID KEEPER QUITTING CELTIC]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=114489</id>
+        <link href="https://www.celticquicknews.co.uk/a-bit-upset-legends-reaction-to-kid-keeper-quitting-celtic/"/>
+        <updated>2023-11-24T08:16:32.000Z</updated>
+        <summary type="html"><![CDATA[FORMER Celtic kid gloves Vincent Angelini is determined to emulate a famous relative and play for Scotland at the highest level. The 20-year-old Brentford keeper looks to his grandad, Celtic legend Davie Hay, as his inspiration as he continues to make progress in his fledgling career. The Scotland Under-21 netminder has just returned to the English [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘HEADING IN THE RIGHT DIRECTION,’ INSISTS O’RILEY]]></title>
         <id>https://www.celticquicknews.co.uk/?p=114485</id>
@@ -769,17 +779,6 @@ Celtic player considering leaving on loan in January - The Celtic Bhoys - The Ce
 Celtic appear to have pulled off absolute transfer masterstroke - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
         <author>
             <name>StevieMac</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brendan Rodgers compares Celtic duo with Liverpool icons]]></title>
-        <id>https://thecelticbhoys.com/?p=45727</id>
-        <link href="https://thecelticbhoys.com/2023/11/19/brendan-rodgers-celtic-duo-liverpool/"/>
-        <updated>2023-11-19T21:05:07.000Z</updated>
-        <summary type="html"><![CDATA[Brendan Rodgers has been at some top clubs over the course of his career and has a result, he has gotten the opportunity to work with many world-class players. Of course, the Northern Irishman has won most of his silverware while at Celtic but that does not mean that he has not had success elsewhere. […]
-Brendan Rodgers compares Celtic duo with Liverpool icons - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
-        <author>
-            <name>Sourav Mahanty</name>
         </author>
     </entry>
 </feed>
