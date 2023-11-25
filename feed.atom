@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-11-25T10:09:46.080Z</updated>
+    <updated>2023-11-25T12:17:25.938Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hollywood superstar pictured wearing Celtic jersey]]></title>
+        <id>https://thecelticbhoys.com/?p=45861</id>
+        <link href="https://thecelticbhoys.com/2023/11/25/hollywood-pictured-wearing-celtic-jersey/"/>
+        <updated>2023-11-25T12:00:11.000Z</updated>
+        <summary type="html"><![CDATA[It would be safe to say that Celtic have their fair share of famous fans. Rod Stewart is the first name that comes to most people’s minds, one of the best-selling music artists in history. Lewis Capaldi is another popular musician known to support the Hoops. And several A-list celebrities like Gerard Butler, Snoop Dogg, […]
+Hollywood superstar pictured wearing Celtic jersey - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
+        <author>
+            <name>Sourav Mahanty</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Brendan Rodgers wants Green Brigade situation resolved at Celtic soon]]></title>
         <id>https://www.67hailhail.com/?p=181309</id>
@@ -900,17 +911,6 @@ Celtic want to sign striker also eyed by Leeds United - The Celtic Bhoys - The C
         <summary type="html"><![CDATA[LISBON LION Bertie Auld was the heartbeat of the Celtic side that conquered all in the sixties. CQN are celebrating the life and incredible times of the club legend in an EXCLUSIVE series with extracts from his best-selling autobiography, ‘A Bhoy Called Bertie’, co-authored by his friend and writer Alex Gordon. The remarkable story continues with [...]]]></summary>
         <author>
             <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Northern Irish legend claims Celtic player is like Frank Lampard]]></title>
-        <id>https://thecelticbhoys.com/?p=45757</id>
-        <link href="https://thecelticbhoys.com/2023/11/20/northern-irish-celtic-frank-lampard/"/>
-        <updated>2023-11-20T23:00:09.000Z</updated>
-        <summary type="html"><![CDATA[Frank Lampard is one of the best midfielders in the history of the game. The Englishman enjoyed a tremendous career at Chelsea and made more than a hundred appearances for the England national team. He also played for teams like Manchester City, West Ham United, Swansea City and New York City FC. He was inducted […]
-Northern Irish legend claims Celtic player is like Frank Lampard - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
-        <author>
-            <name>Sourav Mahanty</name>
         </author>
     </entry>
 </feed>
