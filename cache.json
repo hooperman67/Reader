@@ -6,6 +6,26 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=114519",
+          "author": "Paul67",
+          "description": "Live updates will appear below after 15:00.",
+          "link": "https://www.celticquicknews.co.uk/celtic-v-motherwell-gg-live-updates/",
+          "publishedOn": "2023-11-25T14:00:18.000Z",
+          "wordCount": 3903,
+          "title": "Celtic v Motherwell GG Live updates",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/?p=114306",
+          "author": "CQN Magazine",
+          "description": "BRENDAN RODGERS recalls Anthony Ralston to his starting eleven against Motherwell at Parkhead this afternoon. The Scotland international takes over at right-back from Alistair Johnston who only returned to training yesterday after his return from duty with Canada. Norwegian Odin Holm again gets the nod ahead of David Turnbull and Paulo Bernardo to play alongside skipper [...]",
+          "link": "https://www.celticquicknews.co.uk/confirmed-kyogo-leads-attack-ralston-returns/",
+          "publishedOn": "2023-11-25T13:56:08.000Z",
+          "wordCount": 4174,
+          "title": "CONFIRMED: KYOGO LEADS ATTACK, RALSTON RETURNS",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/08/CELTIC-PARK-FROM-THE-AIR-FEATURED.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=114514",
           "author": "CQN Magazine",
           "description": "BRENDAN RODGERS has broken with tradition to ditch Celtic’s annual January warm-weather training in the Middle East. It was the Irishman who instigated the trip in his first time-around as Hoops gaffer, but he has decided on a change of course to allow his players some time to spend with their families over the festive [...]",
@@ -571,6 +591,16 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=181313",
+          "author": "John McGinley",
+          "description": "Manager Brendan Rodgers has named his Celtic team vs Motherwell for today’s Scottish Premiership clash. The full squad for the Celtic Park match is as...",
+          "link": "https://www.67hailhail.com/match/celtic-team-vs-motherwell-confirmed-one-change-tilio-in-squad-broadcast-details-instant-reaction/",
+          "publishedOn": "2023-11-25T13:52:52.000Z",
+          "wordCount": 1277,
+          "title": "Celtic team confirmed: One change, Tilio in squad, broadcast details, instant reaction",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/10/GettyImages-1093333628-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=181309",
           "author": "John McGinley",
