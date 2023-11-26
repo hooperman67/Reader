@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=114575",
+          "author": "CQN Magazine",
+          "description": "CELTIC will discover their Scottish Cup fourth round opponents when the draw is held this evening. The holders will have to wait until the ballot gets underway in the live broadcast on Sportscene on the BBC Scotland channel with coverage starting at 7.15pm. It will also be shown on tablet, mobile or laptop can do [...]",
+          "link": "https://www.celticquicknews.co.uk/celtic-cup-waiting-game/",
+          "publishedOn": "2023-11-26T11:23:25.000Z",
+          "wordCount": 4020,
+          "title": "CELTIC CUP WAITING GAME",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/11/KYOGO-FURUHASHI-SCUP-JUNE-3-2023.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=114527",
           "author": "CQN Magazine",
           "description": "BRENDAN RODGERS insists Celtic will have to fight their corner better than they did against Motherwell after his team had wastefully dropped two points in a frustrating 1-1 draw at Parkhead. The champions managed to get the breakthrough goal via an immaculate penalty-kick from David Turnbull in the 86th minute. Distressingly, though, they allowed the [...]",
@@ -531,16 +541,6 @@
           "wordCount": 1756,
           "title": "Celtic player ready to leave the club in January window",
           "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2018%2F08%2F1464769763.jpeg"
-        },
-        {
-          "id": "https://thecelticbhoys.com/?p=45778",
-          "author": "Sourav Mahanty",
-          "description": "Brendan Rodgers has a difficult job at Celtic right now. The squad size is not ideal and there are way too many players in certain positions. It would make sense for the club to part ways with some in the upcoming January transfer window. But at the same time, it is also important to make […]\nStruggling Celtic player sends message to Brendan Rodgers - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community",
-          "link": "https://thecelticbhoys.com/2023/11/21/struggling-celtic-player-message-rodgers/",
-          "publishedOn": "2023-11-21T23:05:22.000Z",
-          "wordCount": 2033,
-          "title": "Struggling Celtic player sends message to Brendan Rodgers",
-          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1780602627-scaled.jpeg"
         }
       ]
     },
@@ -561,6 +561,36 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=181431",
+          "author": "Amir Mir",
+          "description": "Joe Lewis shut down Kris Boyd’s suggestion that Aberdeen seemingly try harder against Rangers than Celtic. Before the international break, Celtic thumped Aberdeen 6-0, with...",
+          "link": "https://www.67hailhail.com/news/ex-aberdeen-star-joe-lewis-shuts-down-kris-boyd-with-celtic-rangers-message-on-sky-today/",
+          "publishedOn": "2023-11-26T11:45:00.000Z",
+          "wordCount": 1471,
+          "title": "'It has been much easier': Joe Lewis shuts down Kris Boyd with Celtic-Rangers message on Sky today",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/08/GettyImages-1294152832-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=181409",
+          "author": "Amir Mir",
+          "description": "Chris Sutton has highlighted Celtic’s issues from the penalty spot after Brendan Rodgers watched his side drop points at home to Motherwell. Luis Palma missed...",
+          "link": "https://www.67hailhail.com/match/chris-sutton-asks-two-celtic-questions-after-motherwell-draw/",
+          "publishedOn": "2023-11-26T10:45:39.000Z",
+          "wordCount": 1340,
+          "title": "’They can’t’: Chris Sutton asks two Celtic questions after Motherwell draw",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/10/GettyImages-1469729815-2-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=181390",
+          "author": "Amir Mir",
+          "description": "Michael Stewart has highlighted Celtic’s issues in attack when Kyogo Furuhashi isn’t firing for Brendan Rodgers’ side. Hyeongyu Oh is the back-up player to Celtic’s...",
+          "link": "https://www.67hailhail.com/match/michael-stewart-suggests-celtic-made-a-mistake-selling-28-year-old-after-draw-against-motherwell/",
+          "publishedOn": "2023-11-26T10:20:00.000Z",
+          "wordCount": 1369,
+          "title": "‘Staring at you’: Michael Stewart thinks Celtic made mistake selling 28-yr-old after Motherwell draw",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/11/GettyImages-1769073321-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=181370",
           "author": "Amir Mir",
