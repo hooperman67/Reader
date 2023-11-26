@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-11-26T20:10:13.739Z</updated>
+    <updated>2023-11-26T22:09:12.782Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[John McGinn claims he spoke to Celtic players about manager]]></title>
+        <id>https://thecelticbhoys.com/?p=45890</id>
+        <link href="https://thecelticbhoys.com/2023/11/26/john-mcginn-spoke-celtic-players/"/>
+        <updated>2023-11-26T21:35:04.000Z</updated>
+        <summary type="html"><![CDATA[Most Celtic fans will remember how the club missed out on the opportunity to sign John McGinn some years back. The Scot grew up supporting the Hoops but a move to Parkhead failed to materialise even though it had looked close and he ended up moving down south to join Aston Villa. McGinn has risen […]
+John McGinn claims he spoke to Celtic players about manager - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
+        <author>
+            <name>Sourav Mahanty</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic must consider signing striker from Premiership rivals]]></title>
         <id>https://thecelticbhoys.com/?p=45886</id>
@@ -1011,26 +1022,6 @@ Celtic player ready to leave the club in January window - The Celtic Bhoys - The
         <summary type="html"><![CDATA[The 2023 edition of the Celtic Annual General Meeting (AGM) takes place on Wednesday and several important topics surrounding the club are sure to come...]]></summary>
         <author>
             <name>John McGinley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GREEN LIGHT FOR YUKI EXIT]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=114433</id>
-        <link href="https://www.celticquicknews.co.uk/green-light-for-yuki-exit/"/>
-        <updated>2023-11-22T09:48:18.000Z</updated>
-        <summary type="html"><![CDATA[BRENDAN RODGERS is poised to give the green light to a loan move for Yuki Kobayashi, as CQN forecast last month. The Japanese centre-back has yet to make a competitive appearance since the Irishman took over from Spurs-bound Ange Postecoglou in June. The Greek-Australian gaffer signed Kobayashi in January after the 23-year-old defender came out [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘ON ANOTHER DAY, I GET MY LEG BROKEN,’ REFLECTIONS FROM O’RILEY]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=114431</id>
-        <link href="https://www.celticquicknews.co.uk/on-another-day-i-get-my-leg-broken-reflections-from-oriley/"/>
-        <updated>2023-11-22T08:37:21.000Z</updated>
-        <summary type="html"><![CDATA[MATT O’RILEY celebrated his 23rd birthday yesterday in the aftermath of glowing tributes following his debut for Denmark senior team. The Celtic playmaker turned in his usual polished performance, but couldn’t prevent his adopted nation sliding to a 2-0 loss to Northern Ireland in Belfast, as CQN reported. The result was a mere hiccup for the [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
         </author>
     </entry>
 </feed>
