@@ -254,16 +254,6 @@
           "wordCount": 4192,
           "title": "‘RESPECT,’ RODGERS’ DEMAND AGAINST STRUGGLERS",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/11/BRENDAN-RODGERS-ALASTAIR-JOHNSTON-WELL-FEATURED.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=114466",
-          "author": "CQN Magazine",
-          "description": "NEIL LENNON is poised to go head to head with former Celtic team-mate Roy Keane for the Republic of Ireland manager’s job. The Hoops legend and the Manchester United icon, who made 10 league appearances in season 2005/06 for the Parkhead club, are both in the frame for the post after the Irish FA decided not [...]",
-          "link": "https://www.celticquicknews.co.uk/celtic-legends-in-boss-battle/",
-          "publishedOn": "2023-11-23T09:55:12.000Z",
-          "wordCount": 4170,
-          "title": "CELTIC LEGENDS IN BOSS BATTLE",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/11/ROY-KEANE-NEIL-LENNON-CELTIC-FEATURED.png"
         }
       ]
     },
@@ -272,6 +262,16 @@
       "feedUrl": "https://thecelticbhoys.com/feed/",
       "siteUrl": "https://thecelticbhoys.com",
       "articles": [
+        {
+          "id": "https://thecelticbhoys.com/?p=45918",
+          "author": "Sourav Mahanty",
+          "description": "Tottenham Hotspur made a fantastic start to the season under the management of Ange Postecoglou. With Harry Kane leaving the club in the summer for Bayern Munich, most expected them to struggle. Instead, they appeared to be putting up an unlikely title challenge and were sitting atop the Premier League table not too long ago. […]\nTottenham Hotspur step up bid to sign Celtic-linked player - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community",
+          "link": "https://thecelticbhoys.com/2023/11/27/tottenham-hotspur-bid-sign-celtic/",
+          "publishedOn": "2023-11-27T21:00:23.000Z",
+          "wordCount": 1981,
+          "title": "Tottenham Hotspur step up bid to sign Celtic-linked player",
+          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1655760136.jpeg"
+        },
         {
           "id": "https://thecelticbhoys.com/?p=45914",
           "author": "Sourav Mahanty",
@@ -551,6 +551,36 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=181603",
+          "author": "Michael Shearer",
+          "description": "Celtic are set to step up their search for a new goalkeeper in January.",
+          "link": "https://www.67hailhail.com/transfers/celtic-set-to-step-up-search-for-new-goalkeeper-in-january/",
+          "publishedOn": "2023-11-27T21:55:00.000Z",
+          "wordCount": 1408,
+          "title": "Celtic set to step up search for new goalkeeper",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/10/GettyImages-1683458860-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=181495",
+          "author": "Michael Shearer",
+          "description": "Celtic are set to face competition to sign Mathias Kvistgaarden in January, with clubs across Europe reportedly also interested in the Danish forward.",
+          "link": "https://www.67hailhail.com/transfers/interest-in-mathias-kvistgaarden-is-heating-up-after-celtic-reports/",
+          "publishedOn": "2023-11-27T21:25:00.000Z",
+          "wordCount": 1390,
+          "title": "Interest in Mathias Kvistgaarden is heating up after Celtic reports",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/08/GettyImages-1611652275.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=181592",
+          "author": "Michael Shearer",
+          "description": "Lazio winger Pedro was full of praise for Celtic ahead of tomorrow night's Champions League Group E fixture.",
+          "link": "https://www.67hailhail.com/news/lazio-star-pedro-makes-it-clear-what-he-thinks-of-celtic/",
+          "publishedOn": "2023-11-27T20:54:17.000Z",
+          "wordCount": 1478,
+          "title": "Lazio star Pedro makes it clear what he thinks of Celtic",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/10/GettyImages-1710441457-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=181620",
           "author": "Amir Mir",
