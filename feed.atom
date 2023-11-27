@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-11-27T04:13:08.093Z</updated>
+    <updated>2023-11-27T06:14:21.083Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[THE UNFORGETTABLE BERTIE AULD: PART THIRTEEN: ‘RANGERS DIDN’T KNOW WHAT HIT THEM’]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=100291</id>
+        <link href="https://www.celticquicknews.co.uk/the-unforgettable-bertie-auld-part-thirteen-rangers-didnt-know-what-hit-them/"/>
+        <updated>2023-11-27T05:30:07.000Z</updated>
+        <summary type="html"><![CDATA[LISBON LION Bertie Auld was the most irrepressible performer in Jock Stein’s team of all stars who conquered all before them in the sixties. CQN are celebrating the life and incredible times of the club legend in an EXCLUSIVE series with extracts from his best-selling autobiography, ‘A Bhoy Called Bertie‘, co-authored by his friend and writer [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tottenham Hotspur have been eyeing Celtic superstar]]></title>
         <id>https://thecelticbhoys.com/?p=45896</id>
@@ -830,57 +840,6 @@ Celtic eyeing Manchester United and Liverpool target - The Celtic Bhoys - The Ce
 Brendan Rodgers dismisses Celtic transfer rumour - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
         <author>
             <name>Sourav Mahanty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic boss Brendan Rodgers makes Virgil van Dijk claim]]></title>
-        <id>https://thecelticbhoys.com/?p=45794</id>
-        <link href="https://thecelticbhoys.com/2023/11/22/celtic-brendan-rodgers-virgil-van-dijk/"/>
-        <updated>2023-11-22T18:00:28.000Z</updated>
-        <summary type="html"><![CDATA[Celtic will know the importance of the upcoming January transfer window. There is already a need to strengthen in some positions across the pitch. On the other hand, the AFC Asian Cup, which is scheduled to start in January of next year, makes things interesting as well. There are quite a few of the club’s […]
-Celtic boss Brendan Rodgers makes Virgil van Dijk claim - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
-        <author>
-            <name>Sourav Mahanty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Report: Celtic scout highly-rated defender wanted by EPL clubs; likely to leave in January]]></title>
-        <id>https://www.67hailhail.com/?p=181147</id>
-        <link href="https://www.67hailhail.com/transfers/celtic-scout-defender-sam-curtis-as-premier-league-clubs-show-interest-january-exit-likely/"/>
-        <updated>2023-11-22T17:52:00.000Z</updated>
-        <summary type="html"><![CDATA[Celtic have been linked with a move for St Patrick’s Athletic defender Sam Curtis. As reported by 90min, Celtic have recently scouted the right-back with...]]></summary>
-        <author>
-            <name>Michael Shearer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Key Celtic duo won't return to training until Friday with Motherwell test looming]]></title>
-        <id>https://www.67hailhail.com/?p=181163</id>
-        <link href="https://www.67hailhail.com/match/key-celtic-duo-wont-return-to-training-until-friday-with-motherwell-test-looming/"/>
-        <updated>2023-11-22T17:22:00.000Z</updated>
-        <summary type="html"><![CDATA[Celtic stars Alistair Johnston and Luis Palma won’t be back at club training until Friday, giving them little time to prepare for the visit of...]]></summary>
-        <author>
-            <name>John McGinley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Shining light"; Celtic star barely used by Rodgers lauded by homeland media for int'l display]]></title>
-        <id>https://www.67hailhail.com/?p=181150</id>
-        <link href="https://www.67hailhail.com/news/what-the-irish-media-are-saying-about-celtics-mikey-johnston-after-big-chance-to-impress/"/>
-        <updated>2023-11-22T16:52:00.000Z</updated>
-        <summary type="html"><![CDATA[Mikey Johnston has found it difficult at Celtic this season after his return from a productive loan in Portugal last term. Finding himself injured during...]]></summary>
-        <author>
-            <name>John McGinley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Charlie Mulgrew names surprising Celtic player of the year contender]]></title>
-        <id>https://www.67hailhail.com/?p=181114</id>
-        <link href="https://www.67hailhail.com/news/charlie-mulgrews-glowing-liam-scales-verdict-after-celtic-impact/"/>
-        <updated>2023-11-22T16:22:00.000Z</updated>
-        <summary type="html"><![CDATA[Charlie Mulgrew has praised Liam Scales for his performances at Celtic this season with the Republic of Ireland international cementing himself as a first-team regular....]]></summary>
-        <author>
-            <name>Michael Shearer</name>
         </author>
     </entry>
 </feed>
