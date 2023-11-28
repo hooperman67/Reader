@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-11-28T08:13:54.960Z</updated>
+    <updated>2023-11-28T10:11:41.041Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CELTIC STAR WHO WON’T BE PUT ON THE SPOT]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=114638</id>
+        <link href="https://www.celticquicknews.co.uk/celtic-star-who-wont-be-put-on-the-spot/"/>
+        <updated>2023-11-28T09:42:17.000Z</updated>
+        <summary type="html"><![CDATA[REO HATATE, David Turnbull and Luis Palma have all been spot-kick sinners for Celtic this season. The Honduran international winger joined the other two culprits when he saw his effort pushed away by Motherwell keeper Liam Kelly in the 1-1 draw at Parkhead at the weekend. Both Hatate and Turnbull clattered the woodwork with their [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[’There are problems’: Neil Lennon predicts Celtic’s Champions League tie at Lazio]]></title>
         <id>https://www.67hailhail.com/?p=181678</id>
@@ -958,17 +968,6 @@ Celtic superstar tipped to leave the club by next season - The Celtic Bhoys - Th
 Insiders claim £3 million Celtic signing is not good enough - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
         <author>
             <name>StevieMac</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[John Hartson urges Celtic to bring back former player]]></title>
-        <id>https://thecelticbhoys.com/?p=45826</id>
-        <link href="https://thecelticbhoys.com/2023/11/23/john-hartson-celtic-former-player/"/>
-        <updated>2023-11-23T21:00:59.000Z</updated>
-        <summary type="html"><![CDATA[John Hartson played for Celtic for six very successful seasons. Thus, he knows exactly what it takes to succeed at Parkhead and it looks like the Welshman would like to see one former player make a return to Glasgow. Considering the circumstances, it is unlikely but not impossible by any means. Celtic are heading towards […]
-John Hartson urges Celtic to bring back former player - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
-        <author>
-            <name>Sourav Mahanty</name>
         </author>
     </entry>
 </feed>
