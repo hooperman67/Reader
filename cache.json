@@ -6,6 +6,36 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=114624",
+          "author": "CQN Magazine",
+          "description": "BRENDAN RODGERS insists Celtic have a chance against Lazio in Rome tonight – if none of his players sees red. The Hoops’ hopes of progress in Europe are hanging by a thread after three losses and a draw in their ill-fated Champions League quest this time out. The warning signs were flashing after the first [...]",
+          "link": "https://www.celticquicknews.co.uk/brendan-warns-against-another-off-night/",
+          "publishedOn": "2023-11-28T07:43:52.000Z",
+          "wordCount": 4333,
+          "title": "BRENDAN WARNS AGAINST ANOTHER OFF NIGHT",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/11/BRENDAN-RODGERS-V-LAZIO-FEATURRED.png"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/?p=114622",
+          "author": "CQN Magazine",
+          "description": "LIAM SCALES has played every single minute of Celtic’s Champions League adventure this season. The Republic of Ireland international defender has watched the team concede 12 goals in four games – including the 6-0 mauling in Madrid last time out – and are still looking for their first win in Group E. And as Scales [...]",
+          "link": "https://www.celticquicknews.co.uk/well-definitely-have-a-right-go-scales-in-rallying-call/",
+          "publishedOn": "2023-11-28T07:14:11.000Z",
+          "wordCount": 4635,
+          "title": "‘WE’LL DEFINITELY HAVE A RIGHT GO,’ SCALES IN RALLYING CALL",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/11/LIAM-SCALES-ROME-FEATURED.png"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/?p=114610",
+          "author": "CQN Magazine",
+          "description": "JOE HART must be sick and tired of retrieving the ball from the back of his net when Celtic embark upon the European trail. The 36-year-old 75 rimes-capped England international keeper was helpless when Atletico Madrid ran amok in the Spanish capital three weeks ago as they crammed six goals past him. The Hoops were [...]",
+          "link": "https://www.celticquicknews.co.uk/hart-sick/",
+          "publishedOn": "2023-11-28T06:15:36.000Z",
+          "wordCount": 4192,
+          "title": "HART SICK",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/11/JOE-HART-AMADRID-6-0.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=114605",
           "author": "CQN Magazine",
           "description": "BRENDAN RODGERS will take charge of Celtic for the 47th time in European competition against Lazio in Rome this evening. The Hoops boss knows he needs to achieve his first win in Champions League Group E after losing three and drawing one while the team have  conceded TWELVE goals in four games with only three in [...]",
@@ -511,16 +541,6 @@
           "wordCount": 2069,
           "title": "John Hartson urges Celtic to bring back former player",
           "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1131781728.jpeg"
-        },
-        {
-          "id": "https://thecelticbhoys.com/?p=45822",
-          "author": "Sourav Mahanty",
-          "description": "The Republic of Ireland national team are set to begin the search for their next manager. Stephen Kenny is headed for the exit door. His side were not able to qualify for EURO 2024. And now, it remains to be seen who ends up taking his place in the hot seat. Interestingly, a couple of […]\nTwo Celtic heroes favourites to become Ireland manager - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community",
-          "link": "https://thecelticbhoys.com/2023/11/23/two-celtic-heroes-favourites-ireland/",
-          "publishedOn": "2023-11-23T19:30:53.000Z",
-          "wordCount": 2038,
-          "title": "Two Celtic heroes favourites to become Ireland manager",
-          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1790159005-scaled.jpeg"
         }
       ]
     },
@@ -541,6 +561,26 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=181678",
+          "author": "Amir Mir",
+          "description": "Neil Lennon says he is ‘sticking his neck out’ and backing Brendan Rodgers’ Celtic to beat Lazio in the Champions League on Tuesday.  Celtic are...",
+          "link": "https://www.67hailhail.com/match/neil-lennon-predicts-celtics-champions-league-tie-against-lazio/",
+          "publishedOn": "2023-11-28T08:00:00.000Z",
+          "wordCount": 1387,
+          "title": "’There are problems’: Neil Lennon predicts Celtic’s Champions League tie at Lazio",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/08/GettyImages-855927842-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=181646",
+          "author": "Amir Mir",
+          "description": "Barry Ferguson has backed Brendan Rodgers’ Celtic to sign Aberdeen hitman, Bojan Miovski. The 24-year-old, who has 11 goals in all competitions this season, scored...",
+          "link": "https://www.67hailhail.com/news/barry-ferguson-backs-celtic-to-secure-transfer-of-aberdeen-28-year-old/",
+          "publishedOn": "2023-11-28T07:10:00.000Z",
+          "wordCount": 1459,
+          "title": "'He has grown on me': Barry Ferguson backs Celtic to sign thriving 24-year-old Aberdeen star",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/11/GettyImages-1761971328-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=181603",
           "author": "Michael Shearer",
@@ -920,16 +960,6 @@
           "wordCount": 1631,
           "title": "Former Bhoy says Rodgers and Celtic transfer disconnect has now been fixed",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/11/GettyImages-1780885931-2-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=181183",
-          "author": "John McGinley",
-          "description": "Celtic are busy preparing for their next match at home to Motherwell on Saturday and the majority of the club’s international contingent have returned to...",
-          "link": "https://www.67hailhail.com/match/the-talking-points-from-celtic-training-with-marco-tilio-involved-and-kyogo-status-confirmed/",
-          "publishedOn": "2023-11-23T18:20:00.000Z",
-          "wordCount": 1351,
-          "title": "The talking points from Celtic training with Marco Tilio involved and Kyogo status confirmed",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/11/GettyImages-1741807935-1-scaled.jpg"
         }
       ]
     },
