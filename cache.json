@@ -354,26 +354,6 @@
           "wordCount": 4384,
           "title": "ALEX’S ANGLE: THE PROBLEM WITH BEING A CELTIC PLAYER",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/03/ALEX-GORDON-CP-TUNNEL.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=114303",
-          "author": "CQN Magazine",
-          "description": "CELTIC struggled to overcome Motherwell in their first Premiership meeting of the season at Fir Park in September. And that performance echoed the two encounters at Parkhead last term when Stuart Kettlewell’s side were one of only two sides to take league points from the east end of Glasgow. How much can you remember about past [...]",
-          "link": "https://www.celticquicknews.co.uk/celtic-v-motherwell-5-minute-quiz-2/",
-          "publishedOn": "2023-11-25T06:00:23.000Z",
-          "wordCount": 4059,
-          "title": "CELTIC v MOTHERWELL: 5-MINUTE QUIZ",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/11/CALLUM-CGREGOR-QUIZ-FEATURED-WELL.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=100049",
-          "author": "CQN Magazine",
-          "description": "LISBON LION Bertie Auld was the most irrepressible performer in Jock Stein’s team of all stars who conquered all before them in the sixties. CQN are celebrating the life and incredible times of the club legend in an EXCLUSIVE series with extracts from his best-selling autobiography, ‘A Bhoy Called Bertie‘, co-authored by his friend and writer [...]",
-          "link": "https://www.celticquicknews.co.uk/the-unforgettable-bertie-auld-part-eleven-enjoyable-exasperating-and-explosive/",
-          "publishedOn": "2023-11-25T05:30:00.000Z",
-          "wordCount": 5438,
-          "title": "THE UNFORGETTABLE BERTIE AULD: PART ELEVEN: ‘ENJOYABLE, EXASPERATING AND EXPLOSIVE’",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/11/BERTIE-AULD-V-SPURS-FEATURED.png"
         }
       ]
     },
@@ -641,6 +621,36 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=181946",
+          "author": "Michael Shearer",
+          "description": "Former Celtic defender Mark Wilson has revealed that he believes a lack of cutting edge upfront  cost Celtic against Lazio last night.",
+          "link": "https://www.67hailhail.com/news/pundit-notes-what-will-disappoint-brendan-rodgers-most-after-celtic-defeat-to-lazio/",
+          "publishedOn": "2023-11-29T17:50:00.000Z",
+          "wordCount": 1436,
+          "title": "Pundit notes what will disappoint Brendan Rodgers most after Celtic defeat to Lazio",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/11/GettyImages-1818976167-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=181874",
+          "author": "Michael Shearer",
+          "description": "Former Celtic midfielder Peter Grant has spoken about Brendan Rodgers’ team selection against Lazio. Celtic crashed out of the Champions League for the second consecutive...",
+          "link": "https://www.67hailhail.com/match/peter-grant-has-issues-with-brendan-rodgers-celtic-team-selection-vs-lazio/",
+          "publishedOn": "2023-11-29T17:20:00.000Z",
+          "wordCount": 1468,
+          "title": "Peter Grant has issues with Brendan Rodgers’ Celtic team selection vs Lazio",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/11/GettyImages-1769073321-1-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=181949",
+          "author": "Amir Mir",
+          "description": "The selection and performance of Paulo Bernardo during Celtic’s 2-0 defeat to Lazio in the UEFA Champions League was a big talking point for James...",
+          "link": "https://www.67hailhail.com/match/james-mcfadden-delivers-paulo-bernardo-verdict-as-celtic-suffer-champions-league-defeat-at-lazio/",
+          "publishedOn": "2023-11-29T16:30:00.000Z",
+          "wordCount": 1562,
+          "title": "’The biggest surprise’: James McFadden says Celtic star ‘barely touched the ball’ v Lazio",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/11/GettyImages-1819009202-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=181920",
           "author": "Amir Mir",
