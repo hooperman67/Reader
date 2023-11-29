@@ -294,16 +294,6 @@
           "wordCount": 5438,
           "title": "THE UNFORGETTABLE BERTIE AULD: PART ELEVEN: ‘ENJOYABLE, EXASPERATING AND EXPLOSIVE’",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/11/BERTIE-AULD-V-SPURS-FEATURED.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=114499",
-          "author": "Paul67",
-          "description": "Luis Palma’s 87th minute goal should have been enough to secure the win at our visit to Fir Park in September.  Incredibly, Motherwell’s equaliser 8 minutes later was not enough for them to take a point.  A game which couldn’t produce a goal for so long, ended with a flurry. Almost two months later, the [...]",
-          "link": "https://www.celticquicknews.co.uk/high-expectations-the-day-the-season-pivoted/",
-          "publishedOn": "2023-11-24T12:00:06.000Z",
-          "wordCount": 4124,
-          "title": "High expectations, the day the season pivoted",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
         }
       ]
     },
@@ -312,6 +302,16 @@
       "feedUrl": "https://thecelticbhoys.com/feed/",
       "siteUrl": "https://thecelticbhoys.com",
       "articles": [
+        {
+          "id": "https://thecelticbhoys.com/?p=45945",
+          "author": "Sourav Mahanty",
+          "description": "The defeat at the hands of Lazio was further proof of Celtic’s need to strengthen in the January transfer window. The club might have brought in nine new faces in the summer but a lot of people feel that the team has taken a step back since last season, when they breezed past the competition […]\nCeltic want to sign £4 million-rated player in January - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community",
+          "link": "https://thecelticbhoys.com/2023/11/28/celtic-4-million-player-january/",
+          "publishedOn": "2023-11-28T23:00:46.000Z",
+          "wordCount": 2005,
+          "title": "Celtic want to sign £4 million-rated player in January",
+          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1774269823-scaled.jpeg"
+        },
         {
           "id": "https://thecelticbhoys.com/?p=45941",
           "author": "Sourav Mahanty",
@@ -571,16 +571,6 @@
           "wordCount": 2217,
           "title": "Kasper Schmeichel offers superb boost to Celtic player",
           "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1245134395-scaled.jpeg"
-        },
-        {
-          "id": "https://thecelticbhoys.com/?p=45835",
-          "author": "Sourav Mahanty",
-          "description": "The reality of life as a Celtic supporter is that more often than not the club’s best performers end up leaving. We saw it in the recent summer transfer window with Jota heading for Al-Ittihad. Over the years, we have seen it many times with the likes of Moussa Dembele, Kieran Tierney, Odsonne Edouard and […]\nCeltic superstar tipped to leave the club by next season - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community",
-          "link": "https://thecelticbhoys.com/2023/11/24/celtic-leave-club-next-season/",
-          "publishedOn": "2023-11-24T12:00:48.000Z",
-          "wordCount": 2074,
-          "title": "Celtic superstar tipped to leave the club by next season",
-          "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fthecelticbhoys.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2018%2F08%2F1464769735.jpeg"
         }
       ]
     },
@@ -1087,18 +1077,7 @@
       "title": "News Archives - Celtic Fanzine",
       "feedUrl": "https://celticfanzine.com/category/news/feed/",
       "siteUrl": "https://celticfanzine.com/category/news/",
-      "articles": [
-        {
-          "id": "https://celticfanzine.com/?p=58475",
-          "author": "celtic",
-          "description": "Celtic return to action after the international break with Motherwell the visitors to Celtic Park. Every Celtic fan will be hoping they can turn in a performance like the one they signed off with against Aberdeen before the players went off to play for their respective countries. That 6-0 performance was almost perfect on […]\nThe post Bringing in another quality striker will be on Brendan’s mind. appeared first on Celtic Fanzine.",
-          "link": "https://celticfanzine.com/bringing-in-another-quality-striker-will-be-on-brendans-mind/",
-          "publishedOn": "2023-11-24T12:21:59.000Z",
-          "wordCount": 1959,
-          "title": "Bringing in another quality striker will be on Brendan’s mind.",
-          "imageUrl": "https://celticfanzine.com/wp-content/uploads/CELTIC-PARK-.png"
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
