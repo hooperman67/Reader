@@ -314,16 +314,6 @@
           "wordCount": 4174,
           "title": "CONFIRMED: KYOGO LEADS ATTACK, RALSTON RETURNS",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/08/CELTIC-PARK-FROM-THE-AIR-FEATURED.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=114514",
-          "author": "CQN Magazine",
-          "description": "BRENDAN RODGERS has broken with tradition to ditch Celtic’s annual January warm-weather training in the Middle East. It was the Irishman who instigated the trip in his first time-around as Hoops gaffer, but he has decided on a change of course to allow his players some time to spend with their families over the festive [...]",
-          "link": "https://www.celticquicknews.co.uk/rest-and-be-cheerful-brendan-breaks-with-tradition/",
-          "publishedOn": "2023-11-25T08:30:05.000Z",
-          "wordCount": 4442,
-          "title": "REST AND BE CHEERFUL: BRENDAN BREAKS WITH TRADITION",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/11/BRENDAN-RODGERS-ROSS-COUNTY-FEATURED.png"
         }
       ]
     },
@@ -591,6 +581,16 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=182027",
+          "author": "Amir Mir",
+          "description": "Neil Lennon was critical of Cameron Carter-Vickers and Liam Scales for the role they played during Celtic’s 2-0 defeat to Lazio. Heading into the final...",
+          "link": "https://www.67hailhail.com/match/neil-lennon-offers-honest-thoughts-on-cameron-carter-vickers-liam-scales-after-celtic-defeat-to-lazio/",
+          "publishedOn": "2023-11-29T20:20:00.000Z",
+          "wordCount": 1396,
+          "title": "'Sells himself': Neil Lennon slams Celtic duo after Champions League defeat to Lazio",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/04/GettyImages-1192674138-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=182009",
           "author": "Amir Mir",
@@ -1010,46 +1010,6 @@
           "wordCount": 1277,
           "title": "Celtic team confirmed: One change, Tilio in squad, broadcast details, instant reaction",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/10/GettyImages-1093333628-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=181309",
-          "author": "John McGinley",
-          "description": "Brendan Rodgers is hoping for a resolution to the ongoing Green Brigade situation at Celtic “sooner rather than later” but has backed the club’s current...",
-          "link": "https://www.67hailhail.com/news/brendan-rodgers-wants-green-brigade-situation-resolved-at-celtic-soon/",
-          "publishedOn": "2023-11-25T09:45:00.000Z",
-          "wordCount": 1369,
-          "title": "Brendan Rodgers wants Green Brigade situation resolved at Celtic soon",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2021/10/GettyImages-1341314584-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=181306",
-          "author": "John McGinley",
-          "description": "Celtic have no fresh injury concerns ahead of today’s fixture at home to Motherwell, with all of the club’s international contingent returning to Lennoxtown unscathed....",
-          "link": "https://www.67hailhail.com/match/celtic-team-news-ahead-of-motherwell-as-brendan-rodgers-discusses-kyogo-and-palma-status/",
-          "publishedOn": "2023-11-25T09:15:00.000Z",
-          "wordCount": 1332,
-          "title": "Celtic team news ahead of Motherwell as Brendan Rodgers discusses Kyogo and Palma status",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/11/GettyImages-1780634298-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=181303",
-          "author": "John McGinley",
-          "description": "Former Celtic striker Chris Sutton says it is “fashionable” to criticise the club’s Head of Scouting and Recruitment, Mark Lawwell, but has pointed out the...",
-          "link": "https://www.67hailhail.com/transfers/chris-sutton-sends-message-to-mark-lawwell-critics-with-celtic-transfer-verdict/",
-          "publishedOn": "2023-11-25T08:47:39.000Z",
-          "wordCount": 1485,
-          "title": "Chris Sutton sends message to Mark Lawwell critics with Celtic transfer verdict",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/10/GettyImages-1252556782-1-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=181300",
-          "author": "John McGinley",
-          "description": "Celtic manager Brendan Rodgers has confirmed the club won’t be taking part in a warm-weather training camp this January, instead staying at Lennoxtown. Over the...",
-          "link": "https://www.67hailhail.com/news/brendan-rodgers-changes-up-celtic-january-plans-for-more-beneficial-alternative/",
-          "publishedOn": "2023-11-25T08:12:00.000Z",
-          "wordCount": 1402,
-          "title": "Brendan Rodgers changes up Celtic January plans for \"more beneficial\" alternative",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/10/GettyImages-1745425256-1-scaled.jpg"
         }
       ]
     },
