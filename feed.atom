@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-12-02T16:12:21.686Z</updated>
+    <updated>2023-12-02T18:12:05.522Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Surprising report on Rocco Vata's Celtic situation; how much Bhoys set to get in compensation]]></title>
+        <id>https://www.67hailhail.com/?p=182227</id>
+        <link href="https://www.67hailhail.com/transfers/rocco-vatas-celtic-situation-is-coming-to-a-head-how-much-bhoys-would-get-in-compensation/"/>
+        <updated>2023-12-02T17:44:17.000Z</updated>
+        <summary type="html"><![CDATA[Young Celtic winger Rocco Vata is attracting renewed interest from Italy and will soon be free to sign a pre-contract with another club. Sky Sports...]]></summary>
+        <author>
+            <name>John McGinley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brendan Rodgers says Celtic injury return will be "like a new signing"; timeline given]]></title>
+        <id>https://www.67hailhail.com/?p=182224</id>
+        <link href="https://www.67hailhail.com/news/the-latest-celtic-return-timeline-for-reo-hatate/"/>
+        <updated>2023-12-02T17:13:19.000Z</updated>
+        <summary type="html"><![CDATA[Brendan Rodgers is eagerly anticipating the return of Reo Hatate to the Celtic squad but it looks increasingly likely he’ll miss the entirety of January...]]></summary>
+        <author>
+            <name>John McGinley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Celtic and St Johnstone weather situation as winter hits Scottish football]]></title>
+        <id>https://www.67hailhail.com/?p=182216</id>
+        <link href="https://www.67hailhail.com/match/the-celtic-and-st-johnstone-weather-situation-as-winter-hits-scottish-football/"/>
+        <updated>2023-12-02T16:18:16.000Z</updated>
+        <summary type="html"><![CDATA[Scottish football suffered several postponements on Saturday afternoon after cold weather and snow impacted fixtures in the Premiership down into the lower leagues. Livingston’s match...]]></summary>
+        <author>
+            <name>John McGinley</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[No more season highlights for St Johnstone]]></title>
         <id>https://www.celticquicknews.co.uk/?p=114817</id>
@@ -768,36 +798,6 @@ Anderlecht consider making offer for Celtic standout in January - The Celtic Bho
         <link href="https://www.celticquicknews.co.uk/hart-sick/"/>
         <updated>2023-11-28T06:15:36.000Z</updated>
         <summary type="html"><![CDATA[JOE HART must be sick and tired of retrieving the ball from the back of his net when Celtic embark upon the European trail. The 36-year-old 75 rimes-capped England international keeper was helpless when Atletico Madrid ran amok in the Spanish capital three weeks ago as they crammed six goals past him. The Hoops were [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RODGERS: MISSION IMPROBABLE]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=114605</id>
-        <link href="https://www.celticquicknews.co.uk/rodgers-mission-improbable/"/>
-        <updated>2023-11-28T06:00:53.000Z</updated>
-        <summary type="html"><![CDATA[BRENDAN RODGERS will take charge of Celtic for the 47th time in European competition against Lazio in Rome this evening. The Hoops boss knows he needs to achieve his first win in Champions League Group E after losing three and drawing one while the team have  conceded TWELVE goals in four games with only three in [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LAZIO v CELTIC: 5-MINUTE QUIZ]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=114614</id>
-        <link href="https://www.celticquicknews.co.uk/lazio-v-celtic-5-minute-quiz/"/>
-        <updated>2023-11-28T05:45:09.000Z</updated>
-        <summary type="html"><![CDATA[NEIL LENNON celebrated when Celtic beat Lazio home and away in the Europa League in the space of a fortnight in season 2019/20. On both occasions, the Hoops gaffer had witnessed his side come from behind to win 2-1 to secure famous victories over the Italian aces, the first at Parkhead on October 24 2019 [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE UNFORGETTABLE BERTIE AULD: PART FOURTEEN: ‘OLD FIRM LAUGH-IN’]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=54024</id>
-        <link href="https://www.celticquicknews.co.uk/the-unforgettable-bertie-auld-part-fourteen-old-firm-laugh-in/"/>
-        <updated>2023-11-28T05:30:05.000Z</updated>
-        <summary type="html"><![CDATA[LISBON LION Bertie Auld liked nothing better than “strutting his stuff” in front of the fans he always insisted were “the best supporters in the world”. CQN are celebrating the life and incredible times of the Celtic legend in an EXCLUSIVE series with extracts from his best-selling autobiography, ‘A Bhoy Called Bertie’, co-authored by his friend [...]]]></summary>
         <author>
             <name>CQN Magazine</name>
         </author>
