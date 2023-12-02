@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-12-02T10:09:55.198Z</updated>
+    <updated>2023-12-02T12:17:24.799Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ALEX’S ANGLE: THE BERNARDO GUESSING GAME]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=114815</id>
+        <link href="https://www.celticquicknews.co.uk/alexs-angle-the-bernardo-guessing-game/"/>
+        <updated>2023-12-02T11:44:57.000Z</updated>
+        <summary type="html"><![CDATA[I AM beginning to wonder if Paulo Bernardo is Oliver Abildgaard with a better tan. I hope I am miles off target, but I just can’t see the attraction of Celtic’s on-loan Portuguese midfielder. Yes, I realise there will be many who disagree with me and, yes, I am aware Bernardo and Abildgaard are too [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BACKLASH WARNING FROM JOHNSTON]]></title>
         <id>https://www.celticquicknews.co.uk/?p=114806</id>
