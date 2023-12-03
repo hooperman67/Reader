@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-12-03T06:12:44.555Z</updated>
+    <updated>2023-12-03T08:12:22.988Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[‘How good’: Pep Guardiola raves about Celtic and Ange Postecoglou]]></title>
+        <id>https://www.67hailhail.com/?p=182248</id>
+        <link href="https://www.67hailhail.com/news/manchester-city-boss-pep-guardiola-raves-about-celtic-and-ange-postecoglou/"/>
+        <updated>2023-12-03T07:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Pep Guardiola has raved about the career path of Ange Postecoglou and the job he did at Celtic. The Manchester City boss will face Ange...]]></summary>
+        <author>
+            <name>Amir Mir</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ST JOHNSTONE v CELTIC: 5-MINUTE QUIZ]]></title>
         <id>https://www.celticquicknews.co.uk/?p=114782</id>
@@ -659,16 +669,6 @@ Brendan Rodgers sends clear message Celtic board must not ignore - The Celtic Bh
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LAZIO 2  CELTIC 0: HOOPS EXIT IN LATE, LATE WOE]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=114662</id>
-        <link href="https://www.celticquicknews.co.uk/lazio-2-celtic-0-hoops-exit-in-late-late-woe/"/>
-        <updated>2023-11-28T20:01:16.000Z</updated>
-        <summary type="html"><![CDATA[LAZIO 2 CELTIC 0  CELTIC failed yet again to respond to the challenge at the highest level and there will be no European football at Parkhead after Christmas yet again. Brendan Rodgers’ men went into the encounter at the Olimpico Stadium knowing a victory was an absolute must if they had a chance of keeping [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Chris Sutton publicly criticises Celtic after loss to Lazio]]></title>
         <id>https://thecelticbhoys.com/?p=45938</id>
         <link href="https://thecelticbhoys.com/2023/11/28/chris-sutton-celtic-loss-lazio/"/>
@@ -677,16 +677,6 @@ Brendan Rodgers sends clear message Celtic board must not ignore - The Celtic Bh
 Chris Sutton publicly criticises Celtic after loss to Lazio - The Celtic Bhoys - The Celtic Bhoys - Celtic FC News, Transfer Rumours and Fan Community]]></summary>
         <author>
             <name>Sourav Mahanty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chris Sutton delivers damning verdict as Celtic crash out of Europe with defeat to Lazio]]></title>
-        <id>https://www.67hailhail.com/?p=181776</id>
-        <link href="https://www.67hailhail.com/match/chris-sutton-delivers-damning-verdict-as-celtic-crash-out-of-europe-with-defeat-to-lazio/"/>
-        <updated>2023-11-28T19:41:16.000Z</updated>
-        <summary type="html"><![CDATA[Celtic have been knocked out of European football for the 2023/24 season after losing 2-0 away to Lazio on Tuesday night. Brendan Rodgers’ side needed...]]></summary>
-        <author>
-            <name>John McGinley</name>
         </author>
     </entry>
     <entry>
