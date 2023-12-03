@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-12-03T12:18:17.118Z</updated>
+    <updated>2023-12-03T14:08:39.201Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Summer signing's shocker, criticised star steps up; 3 things we learned as Celtic beat Saints]]></title>
+        <id>https://www.67hailhail.com/?p=182320</id>
+        <link href="https://www.67hailhail.com/match/mcgregor-steps-up-yang-has-a-shocker-3-things-we-learned-as-celtic-beat-st-johnstone/"/>
+        <updated>2023-12-03T14:03:42.000Z</updated>
+        <summary type="html"><![CDATA[Celtic have beaten St Johnstone in the Scottish Premiership by a 3-1 margin in Perth this afternoon, bouncing back from a difficult week at home...]]></summary>
+        <author>
+            <name>John McGinley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘He has to be stronger’: Chris Sutton was unhappy with Celtic duo today]]></title>
+        <id>https://www.67hailhail.com/?p=182311</id>
+        <link href="https://www.67hailhail.com/match/chris-sutton-offers-honest-thoughts-on-joe-hart-after-celtic-win-at-st-johnstone/"/>
+        <updated>2023-12-03T13:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Chris Sutton was critical of Joe Hart and Matt O’Riley for the role they played in Celtic conceding from yet another corner during the 3-1...]]></summary>
+        <author>
+            <name>Amir Mir</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[St Johnstone v Celtic, GG Live updates]]></title>
         <id>https://www.celticquicknews.co.uk/?p=114838</id>
