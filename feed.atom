@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-12-04T18:13:40.518Z</updated>
+    <updated>2023-12-04T20:11:01.529Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA['He definitely changed the game': Kris Boyd blown away by Celtic duo after St Johnstone comeback]]></title>
+        <id>https://www.67hailhail.com/?p=182504</id>
+        <link href="https://www.67hailhail.com/match/kris-boyd-delivers-verdict-on-mikey-johnston-and-hyeongyu-oh-after-celtics-latest-win/"/>
+        <updated>2023-12-04T18:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Kris Boyd hailed Mikey Johnston and Hyeongyu Oh for the impact they had from the bench during Celtic’s 3-1 win at St Johnstone.  After the...]]></summary>
+        <author>
+            <name>Amir Mir</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA['You fool': Chris Sutton lets rip on Sky Sports after what he's hearing about Celtic & transfers]]></title>
         <id>https://www.67hailhail.com/?p=182483</id>
@@ -712,16 +722,6 @@
         <link href="https://www.67hailhail.com/news/barry-ferguson-still-cant-hide-celtic-envy-even-after-champions-league-exit/"/>
         <updated>2023-11-30T08:25:00.000Z</updated>
         <summary type="html"><![CDATA[Barry Ferguson says he would still ‘rather be in Celtic’s position’ in the Scottish Premiership table after Brendan Rodgers watched his side crash out of...]]></summary>
-        <author>
-            <name>Amir Mir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Give us more money': Simon Jordan drops harsh realities after Celtic crash out of Europe again]]></title>
-        <id>https://www.67hailhail.com/?p=182046</id>
-        <link href="https://www.67hailhail.com/match/simon-jordan-drops-harsh-realties-after-celtic-crash-out-of-europe-again/"/>
-        <updated>2023-11-30T07:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Simon Jordan referenced how Celtic need to be spending more in the transfer market after crashing out of Europe in a sorry way once again....]]></summary>
         <author>
             <name>Amir Mir</name>
         </author>
