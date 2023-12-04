@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=72662",
+          "author": "CQN Magazine",
+          "description": "LISBON LION Bertie Auld was a pivotal figure in Jock Stein’s all-conquering Celtic side. CQN has been celebrating the life and incredible times of the club legend in an EXCLUSIVE series with extracts from his best-selling autobiography, ‘A Bhoy Called Bertie‘, co-authored by his friend and writer Alex Gordon. The remarkable life story continues with [...]",
+          "link": "https://www.celticquicknews.co.uk/the-unforgettable-bertie-auld-part-twenty-big-jocks-promise-to-celtic-players/",
+          "publishedOn": "2023-12-04T05:30:48.000Z",
+          "wordCount": 5500,
+          "title": "THE UNFORGETTABLE BERTIE AULD: PART TWENTY: ‘BIG JOCK’S PROMISE TO CELTIC PLAYERS’",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2021/11/BERTIE-AULD-FEATURED-GG-1.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=114846",
           "author": "CQN Magazine",
           "description": "A GRIM-FACED Brendan Rodgers was far from happy from what he witnessed from his Celtic players in the first-half of their 3-1 win at McDiarmid Park this afternoon. The champions were in slow motion as they toiled against Craig Levein’s side after presenting the hosts with a ludicrous goal to give them the advantage at the [...]",
@@ -941,36 +951,6 @@
           "wordCount": 1415,
           "title": "'No': Micah Richards defends Celtic star after Jamie Carragher questions him after Lazio defeat",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/11/GettyImages-1258240679-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=181946",
-          "author": "Michael Shearer",
-          "description": "Former Celtic defender Mark Wilson has revealed that he believes a lack of cutting edge upfront  cost Celtic against Lazio last night.",
-          "link": "https://www.67hailhail.com/news/pundit-notes-what-will-disappoint-brendan-rodgers-most-after-celtic-defeat-to-lazio/",
-          "publishedOn": "2023-11-29T17:50:00.000Z",
-          "wordCount": 1436,
-          "title": "Pundit notes what will disappoint Brendan Rodgers most after Celtic defeat to Lazio",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/11/GettyImages-1818976167-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=181874",
-          "author": "Michael Shearer",
-          "description": "Former Celtic midfielder Peter Grant has spoken about Brendan Rodgers’ team selection against Lazio. Celtic crashed out of the Champions League for the second consecutive...",
-          "link": "https://www.67hailhail.com/match/peter-grant-has-issues-with-brendan-rodgers-celtic-team-selection-vs-lazio/",
-          "publishedOn": "2023-11-29T17:20:00.000Z",
-          "wordCount": 1468,
-          "title": "Peter Grant has issues with Brendan Rodgers’ Celtic team selection vs Lazio",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/11/GettyImages-1769073321-1-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=181949",
-          "author": "Amir Mir",
-          "description": "The selection and performance of Paulo Bernardo during Celtic’s 2-0 defeat to Lazio in the UEFA Champions League was a big talking point for James...",
-          "link": "https://www.67hailhail.com/match/james-mcfadden-delivers-paulo-bernardo-verdict-as-celtic-suffer-champions-league-defeat-at-lazio/",
-          "publishedOn": "2023-11-29T16:30:00.000Z",
-          "wordCount": 1562,
-          "title": "’The biggest surprise’: James McFadden says Celtic star ‘barely touched the ball’ v Lazio",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/11/GettyImages-1819009202-scaled.jpg"
         }
       ]
     },
