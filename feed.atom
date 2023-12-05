@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-12-05T04:13:15.475Z</updated>
+    <updated>2023-12-05T06:14:12.900Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[THE UNFORGETTABLE BERTIE AULD: PART TWENTY-ONE: ‘HIDE AND SEEK WITH BIG JOCK’]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=72663</id>
+        <link href="https://www.celticquicknews.co.uk/the-unforgettable-bertie-auld-part-twenty-one-hide-and-seek-with-big-jock/"/>
+        <updated>2023-12-05T05:30:54.000Z</updated>
+        <summary type="html"><![CDATA[LISBON LION Bertie Auld was Celtic’s Commander-In-Chief alongside Bobby Murdoch as the double-act dovetailed perfectly in Jock Stein’s all-conquering side of the sixties. CQN are celebrating the life and incredible times of the club legend in an EXCLUSIVE series with extracts from his best-selling autobiography, ‘A Bhoy Called Bertie‘, co-authored by his friend and writer [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Boast with a Hollow Ring]]></title>
         <id>https://celticunderground.net/?p=6694</id>
@@ -662,26 +672,6 @@
         <link href="https://www.67hailhail.com/news/danny-murphy-shuts-down-claims-about-celtic-from-talksport-pundit/"/>
         <updated>2023-11-30T18:20:00.000Z</updated>
         <summary type="html"><![CDATA[Danny Murphy has defended Celtic’s Champions League run which has seen them finish bottom of Group E. As of this moment, Celtic are on one...]]></summary>
-        <author>
-            <name>Amir Mir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peter Grant urges Celtic to hand 'exceptional' star a new contract after 'question marks']]></title>
-        <id>https://www.67hailhail.com/?p=182125</id>
-        <link href="https://www.67hailhail.com/news/peter-grant-sends-contract-message-about-liam-scales-after-question-marks-about-celtic-star/"/>
-        <updated>2023-11-30T17:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Peter Grant has urged Celtic to hand Liam Scales a new contract after his strong performances this season.  Before a ball could be kicked this...]]></summary>
-        <author>
-            <name>Amir Mir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['It has to': Neil Lennon sends Celtic board blunt message that fans have been crying out for]]></title>
-        <id>https://www.67hailhail.com/?p=182142</id>
-        <link href="https://www.67hailhail.com/news/neil-lennon-sends-celtic-board-blunt-transfer-message-after-european-exit/"/>
-        <updated>2023-11-30T16:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Neil Lennon says Celtic need to focus on the January transfer window after getting knocked out of Europe. Brendan Rodgers and his players faced a...]]></summary>
         <author>
             <name>Amir Mir</name>
         </author>
