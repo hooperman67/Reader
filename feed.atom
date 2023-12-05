@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-12-04T22:10:06.301Z</updated>
+    <updated>2023-12-05T00:50:47.133Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Boast with a Hollow Ring]]></title>
+        <id>https://celticunderground.net/?p=6694</id>
+        <link href="http://celticunderground.net/a-boast-with-a-hollow-ring/"/>
+        <updated>2023-12-04T23:01:44.000Z</updated>
+        <summary type="html"><![CDATA[Prior to this year’s AGM, prematch media hype centred on the controversy on the Green Brigade.  Would folk challenge the board over the ban ?  If you actually knew what the AGM is like, you would be aware that there would be a solid majority in favour of the board’s handling of the matter. And […]]]></summary>
+        <author>
+            <name>Critical Bill</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[John Hartson says 'everyone in Scotland' would've signed Celtic player, now he can't make the bench]]></title>
         <id>https://www.67hailhail.com/?p=182521</id>
@@ -694,16 +704,6 @@
         <summary type="html"><![CDATA[Alan Brazil and Ally McCoist were in agreement that Celtic shot themselves in the foot at home in the Champions League this season. Brendan Rodgers’...]]></summary>
         <author>
             <name>Amir Mir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Historic Vatican visit represents us all]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=114756</id>
-        <link href="https://www.celticquicknews.co.uk/historic-vatican-visit-represents-us-all/"/>
-        <updated>2023-11-30T12:10:43.000Z</updated>
-        <summary type="html"><![CDATA[I like David Turnbull, when given a chance, he does a job for Celtic and he has a role to play in this season’s title race.  But talk about AC Milan being interested in him is surely fanciful.  Scots have done well in Italy recently, David could thrive there, but the demands at Milan would [...]]]></summary>
-        <author>
-            <name>Paul67</name>
         </author>
     </entry>
     <entry>
