@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-12-05T16:14:11.957Z</updated>
+    <updated>2023-12-05T18:13:37.429Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA['Not a good look': Neil Lennon reacts to what he's been told about Rodgers & Celtic transfers]]></title>
+        <id>https://www.67hailhail.com/?p=182594</id>
+        <link href="https://www.67hailhail.com/news/neil-lennon-says-its-not-a-good-look-after-what-hes-been-told-about-brendan-rodgers-celtic-transfers/"/>
+        <updated>2023-12-05T18:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Neil Lennon says it’s ‘not a good look’ that Brendan Rodgers didn’t get what he wanted from the Celtic board during the summer transfer window....]]></summary>
+        <author>
+            <name>Amir Mir</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chris Sutton responds to claim Brendan Rodgers was 'emotionally blackmailed' into Celtic return]]></title>
         <id>https://www.67hailhail.com/?p=182578</id>
@@ -722,16 +732,6 @@
         <link href="https://www.celticquicknews.co.uk/celtics-hectic-8-game-run-in/"/>
         <updated>2023-12-01T07:51:40.000Z</updated>
         <summary type="html"><![CDATA[CELTIC kick off a hectic schedule of eight games in their run-in to the turn of the year when they take on St Johnstone at McDiarmid Park in the High Noon showdown on Sunday. The matches come thick and fast – including the final Champions League Group E encounter against Feyenoord under the lights in [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE UNFORGETTABLE BERTIE AULD: PART SEVENTEEN: ‘NO WAY WE CAN LOSE’]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=100371</id>
-        <link href="https://www.celticquicknews.co.uk/the-unforgettable-bertie-auld-part-seventeen-no-way-we-can-lose/"/>
-        <updated>2023-12-01T05:30:46.000Z</updated>
-        <summary type="html"><![CDATA[LISBON LION Bertie Auld was an inspirational performer on the day Celtic conquered Europe on May 25 1967. CQN has been celebrating the life and incredible times of the Hoops great in an EXCLUSIVE series with extracts from his best-selling autobiography, ‘A Bhoy Called Bertie‘, co-authored by his friend and writer Alex Gordon. The remarkable [...]]]></summary>
         <author>
             <name>CQN Magazine</name>
         </author>
