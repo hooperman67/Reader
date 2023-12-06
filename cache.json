@@ -6,6 +6,26 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=115026",
+          "author": "Paul67",
+          "description": "Live updates will appear below after 19:45.",
+          "link": "https://www.celticquicknews.co.uk/celtic-v-hibernian-gg-live-updates/",
+          "publishedOn": "2023-12-06T18:45:49.000Z",
+          "wordCount": 4779,
+          "title": "Celtic v Hibernian, GG Live updates",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/?p=114961",
+          "author": "CQN Magazine",
+          "description": "KYOGO FURUHASHI has dropped to the substitutes’ bench with Oh Hyeon-gyu getting the nod to lead the attack against Hibs at Parkhead tonight. The Japanese ace has fired blanks in the games against Motherwell, Lazio and St Johnstone and Brendan Rodgers has decided to bring in the powerhouse South Korean international. There is also a [...]",
+          "link": "https://www.celticquicknews.co.uk/confirmed-kyogo-out-oh-in/",
+          "publishedOn": "2023-12-06T18:38:22.000Z",
+          "wordCount": 4188,
+          "title": "CONFIRMED: KYOGO OUT, OH IN",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/11/CELTIC-PARK-NIGHT-TIME.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=114978",
           "author": "Paul67",
           "description": "Hibernian are on an excellent run of form.  Undefeated in the league since they drew with the Champions in October, they won their last three games (Kilmarnock, Dundee, Aberdeen) and if results go their way tonight, could go third in the table. It now gets complicated for them.  Celtic Park is the first of four [...]",
@@ -314,26 +334,6 @@
           "wordCount": 4121,
           "title": "BRENDAN’S BLUNT MESSAGE TO CELT",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/10/MIKEY-JOHNSTON-FETURED-V-HIBS-1.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=114802",
-          "author": "CQN Magazine",
-          "description": "CHRIS SUTTON insists Celtic “need a rocket” to reinstate belief of achieving something in the Champions League. The former Hoops goal hero believes Brendan Rodgers has a lot of work to do in the transfer market to put together a squad capable of competing at this level after the fourth loss in Group E as [...]",
-          "link": "https://www.celticquicknews.co.uk/very-painful-sutton-insists-celtic-need-a-rocket/",
-          "publishedOn": "2023-12-02T07:43:38.000Z",
-          "wordCount": 4921,
-          "title": "‘VERY PAINFUL,’ SUTTON INSISTS CELTIC ‘NEED A ROCKET’",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/12/CHRIS-SUTTON-ROCKET-FEATURED.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=114797",
-          "author": "CQN Magazine",
-          "description": "BRENDAN RODGERS and Dermot Desmond are singing from the same hymn sheet as they plot the way ahead for Celtic. The manager didn’t hesitate to offer a reason for the team’s premature expulsion from European competition following the 2-0 loss to Lazio in the Eternal City on Tuesday night. Rodgers stated it was “glaring” that the [...]",
-          "link": "https://www.celticquicknews.co.uk/in-tune-celtics-big-two-share-vision/",
-          "publishedOn": "2023-12-02T06:48:54.000Z",
-          "wordCount": 4669,
-          "title": "IN TUNE: CELTIC’S BIG TWO SHARE VISION",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/12/BRENDAN-RODGERS-FEATURED-V-STJ-HH.png"
         }
       ]
     },
@@ -612,6 +612,16 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=182754",
+          "author": "John McGinley",
+          "description": "Manager Brendan Rodgers has named his Celtic team vs Hibs for tonight’s Scottish Premiership encounter. The full match squad is as follows: Starting XI –...",
+          "link": "https://www.67hailhail.com/match/celtic-team-vs-hibs-confirmed-3-changes-first-season-starts-stream-details-instant-reaction/",
+          "publishedOn": "2023-12-06T18:38:39.000Z",
+          "wordCount": 1287,
+          "title": "Celtic XI confirmed: 3 changes, first starts this season, stream details, instant reaction",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/03/GettyImages-1451136160-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=182732",
           "author": "Amir Mir",
