@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-12-07T18:13:39.217Z</updated>
+    <updated>2023-12-07T20:11:22.336Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[James McFadden says 23-year-old is now 'Celtic's best player' after win over Hibernian]]></title>
+        <id>https://www.67hailhail.com/?p=182897</id>
+        <link href="https://www.67hailhail.com/match/james-mcfadden-says-23-year-old-is-now-celtics-best-player-after-win-over-hibernian/"/>
+        <updated>2023-12-07T19:15:00.000Z</updated>
+        <summary type="html"><![CDATA[What a season Matt O’Riley is having for Celtic as he continues to reach new heights by the week. There aren’t many things he can’t...]]></summary>
+        <author>
+            <name>Amir Mir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘A bit of pedigree’: John Hartson reacts to suggestion Celtic want to sign versatile star]]></title>
+        <id>https://www.67hailhail.com/?p=182882</id>
+        <link href="https://www.67hailhail.com/news/john-hartson-reacts-to-celtic-transfer-news-and-links-with-tiago-araujo/"/>
+        <updated>2023-12-07T18:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Celtic could be boosting the left side of attack and defence during the January transfer window, with names already popping up.  Whether it’s Brendan Rodgers...]]></summary>
+        <author>
+            <name>Amir Mir</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA['It shows': Matt O’Riley admits it's 'not been easy' for Celtic teammate after win over Hibernian]]></title>
         <id>https://www.67hailhail.com/?p=182861</id>
@@ -742,16 +762,6 @@
         <link href="https://www.67hailhail.com/news/john-hartson-states-if-brendan-rodgers-should-replace-joe-hart-at-celtic-in-january/"/>
         <updated>2023-12-03T08:15:00.000Z</updated>
         <summary type="html"><![CDATA[John Hartson says he wouldn’t replace Joe Hart at Celtic during the January transfer window.  The 36-year-old’s future has been a bit of a discussion...]]></summary>
-        <author>
-            <name>Amir Mir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘How good’: Pep Guardiola raves about Celtic and Ange Postecoglou]]></title>
-        <id>https://www.67hailhail.com/?p=182248</id>
-        <link href="https://www.67hailhail.com/news/manchester-city-boss-pep-guardiola-raves-about-celtic-and-ange-postecoglou/"/>
-        <updated>2023-12-03T07:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Pep Guardiola has raved about the career path of Ange Postecoglou and the job he did at Celtic. The Manchester City boss will face Ange...]]></summary>
         <author>
             <name>Amir Mir</name>
         </author>
