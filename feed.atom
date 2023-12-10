@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-12-10T20:10:34.809Z</updated>
+    <updated>2023-12-10T22:09:26.060Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[‘Fantastic’: Scott Brown praises Celtic duo amid defeat to Kilmarnock]]></title>
+        <id>https://www.67hailhail.com/?p=183076</id>
+        <link href="https://www.67hailhail.com/match/what-scott-brown-said-about-callum-mcgregor-and-matt-oriley-during-celtic-defeat-at-kilmarnock/"/>
+        <updated>2023-12-10T20:20:00.000Z</updated>
+        <summary type="html"><![CDATA[There wasn’t much, if anything, for Celtic to cheer about as Brendan Rodgers suffered his first league defeat since returning to the club at Kilmarnock...]]></summary>
+        <author>
+            <name>Amir Mir</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Brendan Rodgers spoke about in Celtic dressing room after defeat to Kilmarnock]]></title>
         <id>https://www.67hailhail.com/?p=183074</id>
@@ -654,36 +664,6 @@
         <summary type="html"><![CDATA[Hibernian are on an excellent run of form.  Undefeated in the league since they drew with the Champions in October, they won their last three games (Kilmarnock, Dundee, Aberdeen) and if results go their way tonight, could go third in the table. It now gets complicated for them.  Celtic Park is the first of four [...]]]></summary>
         <author>
             <name>Paul67</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RODGERS REJECT’S COMEBACK]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=114975</id>
-        <link href="https://www.celticquicknews.co.uk/rodgers-rejects-comeback/"/>
-        <updated>2023-12-06T09:27:30.000Z</updated>
-        <summary type="html"><![CDATA[BRENDAN RODGERS reject Gary Mackay-Steven is back in Scottish football after a seven-month search for a club – and could face Celtic at the weekend. The 33-year-old winger has agreed a short-term deal with Kilmarnock and could be in Derek McInnes’ squad for the visit of the champions to Rugby Park for Sunday’s noon kick-off. [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['There's not': Graeme Souness needs a reality check after Celtic-Rangers comments]]></title>
-        <id>https://www.67hailhail.com/?p=182677</id>
-        <link href="https://www.67hailhail.com/news/graeme-souness-needs-a-reality-check-after-celtic-rangers-comments/"/>
-        <updated>2023-12-06T09:25:00.000Z</updated>
-        <summary type="html"><![CDATA[The big game between Celtic and Rangers is nearing ever closer and the chance to see what type of progression has been made by both...]]></summary>
-        <author>
-            <name>Amir Mir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CELTIC STEP UP STRIKER HUNT]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=114970</id>
-        <link href="https://www.celticquicknews.co.uk/celtic-step-up-striker-hunt/"/>
-        <updated>2023-12-06T08:25:08.000Z</updated>
-        <summary type="html"><![CDATA[BRENDAN RODGERS is poised to plunge into next month’s transfer market to strengthen his Celtic squad. A quality proven goalscorer is the Irishman’s priority with the champions left with an almighty problem with attacking duo Kyogo Furuhashi and Daizen Maeda almost certainly involved in Japan’s plans for the Asian Cup which will be spread over January [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
         </author>
     </entry>
     <entry>
