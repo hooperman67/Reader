@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=115206",
+          "author": "CQN Magazine",
+          "description": "BRENDAN RODGERS has now lost FOUR times at Rugby Park over his two spells as Celtic manager. Remarkably, the 50-year-old Irishman has only sampled defeat to Scottish opposition at four other grounds – Tynecastle (twice), Easter Road (twice), Ibrox (once) and Parkhead (once). Rodgers, of course, steered the Hoops to a phenomenal domestic silverware clean [...]",
+          "link": "https://www.celticquicknews.co.uk/amazing-stats-brendans-killing-fields/",
+          "publishedOn": "2023-12-11T08:52:59.000Z",
+          "wordCount": 4199,
+          "title": "AMAZING STATS: BRENDAN’S KILLING FIELDS",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/12/BRENDAN-RODGERS-RIGBY-PARK-FEATURRED.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=115204",
           "author": "CQN Magazine",
           "description": "MATT O’RILEY didn’t bother searching for excuses after Celtic’s lamentable second-half performance at Rugby Park. The stylish midfielder shot the champions into the lead with his ninth strike of the season, but an alarmingly feeble display saw them outfought by Kilmarnock as they surrendered two goals and also their unbeaten Premiership record. The Hoops got lost [...]",
@@ -234,16 +244,6 @@
           "wordCount": 5752,
           "title": "THE UNFORGETTABLE BERTIE AULD: PART TWENTY-THREE: ‘WE WERE NOT TO BE DENIED’",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/12/BERTIE-AULD-B7W-FEATURED.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=115040",
-          "author": "CQN Magazine",
-          "description": "CELTIC 4 HIBS 1 SOUTH KOREAN action man Oh Hyeon-gyu starred in the Celtic Fast Show as the champions responded to Brendan Rodgers’ battle cry with a rampant display against Hibs at Parkhead tonight. The 6ft-plus frontman claimed a double alongside efforts from Matt O’Riley, with an impressive header, and Luis Palma, from the penalty [...]",
-          "link": "https://www.celticquicknews.co.uk/celtic-4-hibs-1-oh-happy-day-with-hoops-to-the-four/",
-          "publishedOn": "2023-12-06T21:39:23.000Z",
-          "wordCount": 4791,
-          "title": "CELTIC 4 HIBS 1: OH HAPPY DAY WITH HOOPS TO THE FOUR",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/10/CELTIC-HUDDLE-V-KILLIE-OCT-7-2023.png"
         }
       ]
     },
@@ -851,26 +851,6 @@
           "wordCount": 1352,
           "title": "’Silly points’: Chris Sutton drops interesting Celtic & Rangers message on Sky Sports last night",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/12/GettyImages-1835893954-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=182762",
-          "author": "John McGinley",
-          "description": "It was an excellent night for Celtic at home to Hibernian in the Scottish Premiership on Wednesday night, winning 4-1 and taking their unbeaten league...",
-          "link": "https://www.67hailhail.com/news/brendan-rodgers-provides-update-on-cameron-carter-vickers-after-celtic-park-injury-concern/",
-          "publishedOn": "2023-12-06T22:11:36.000Z",
-          "wordCount": 1275,
-          "title": "Brendan Rodgers provides update on Cameron Carter-Vickers after Celtic Park injury concern",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/12/GettyImages-1835720578-scaled-e1701900042158.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=182757",
-          "author": "John McGinley",
-          "description": "Celtic picked up a confident victory at home to Hibernian in the Scottish Premiership on Wednesday night, winning by a 4-1 margin. The Bhoys were...",
-          "link": "https://www.67hailhail.com/match/big-rodgers-call-pays-off-iwata-verdict-3-things-we-learned-as-celtic-beat-hibs/",
-          "publishedOn": "2023-12-06T21:41:14.000Z",
-          "wordCount": 1466,
-          "title": "Big Rodgers call pays off, Iwata verdict; 3 things we learned as Celtic beat Hibs",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/12/GettyImages-1835821336-scaled.jpg"
         }
       ]
     },
