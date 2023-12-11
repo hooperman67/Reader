@@ -526,6 +526,16 @@
       "siteUrl": "http://celticunderground.net",
       "articles": [
         {
+          "id": "https://celticunderground.net/?p=6702",
+          "author": "Ethan Barlow",
+          "description": "After a stalemate at halftime, The Celts managed seven second half goals to take all the points in their final home match of the year. Goals from Gallacher, Smith, Goldie, Barclais, Agnew and a Caitlin Hayes double kept Celtic one point behind league leaders Rangers, who won 5-0 at Motherwell. Here are some of the […]",
+          "link": "http://celticunderground.net/celtic-7-0-spartans-celtic-hit-magnificent-seven-as-the-spartans-are-thrashed/",
+          "publishedOn": "2023-12-11T18:31:17.000Z",
+          "wordCount": 9408,
+          "title": "Celtic 7-0 Spartans: Celtic hit magnificent seven as The Spartans are thrashed",
+          "imageUrl": "http://celticunderground.net/wp-content/uploads/2023/12/Screenshot-2023-12-11-at-18.28.41.png"
+        },
+        {
           "id": "http://celticunderground.net/?p=6698",
           "author": "St Anthony",
           "description": "A Celtic supporting acquaintance of mine once told me the story of how he was talking to a work mate in England. His friend told him he had decided to be a Chelsea fan at the age of 10, after watching them defeat Leeds in the 1970 FA cup final on TV. A good choice […]",
@@ -542,6 +552,16 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=183189",
+          "author": "Amir Mir",
+          "description": "This Nat Phillips loan spell from Liverpool isn’t going the way Celtic or the player himself wanted.  The 26-year-old joined Celtic in the summer on...",
+          "link": "https://www.67hailhail.com/match/scott-brown-and-james-mcfadden-deliver-honest-verdict-on-liverpool-loanee-nat-phillips-after-celtic-defeat/",
+          "publishedOn": "2023-12-11T20:00:00.000Z",
+          "wordCount": 1506,
+          "title": "'It's tough': Scott Brown and James McFadden sympathise with Celtic 26-year-old",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/10/GettyImages-1610633591-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=183171",
           "author": "Amir Mir",
@@ -891,26 +911,6 @@
           "wordCount": 1388,
           "title": "Neil McCann says Celtic now have an 'X-Factor' player who can lift fans off their seats like Jota",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/10/GettyImages-1254437773-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=182769",
-          "author": "Amir Mir",
-          "description": "Brendan Rodgers made some interesting changes for Celtic’s 4-1 win over Hibernian on Wednesday night. Rotation was expected because of the fixture pile-up, with several...",
-          "link": "https://www.67hailhail.com/match/daizen-maeda-publicly-applauds-celtic-26-year-old-after-win-over-hibernian/",
-          "publishedOn": "2023-12-07T07:15:00.000Z",
-          "wordCount": 1272,
-          "title": "‘Super’: Daizen Maeda publicly applauds Celtic 26-year-old after win over Hibernian",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/09/GettyImages-1562753599-1-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=182786",
-          "author": "Amir Mir",
-          "description": "Celtic’s meeting with Rangers on December 30 is edging ever closer.  After tasting victory at Ibrox last time out, Celtic and Brendan Rodgers will want...",
-          "link": "https://www.67hailhail.com/news/chris-sutton-drops-interesting-celtic-rangers-message-on-sky-sports-last-night/",
-          "publishedOn": "2023-12-07T06:45:00.000Z",
-          "wordCount": 1352,
-          "title": "’Silly points’: Chris Sutton drops interesting Celtic & Rangers message on Sky Sports last night",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/12/GettyImages-1835893954-scaled.jpg"
         }
       ]
     },
