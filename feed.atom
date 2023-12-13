@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-12-12T22:10:25.723Z</updated>
+    <updated>2023-12-13T00:50:32.986Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Xmas Podcast with Hail Hail History]]></title>
+        <id>https://etims.net/?p=18545</id>
+        <link href="https://etims.net/?p=18545"/>
+        <updated>2023-12-12T22:38:25.000Z</updated>
+        <summary type="html"><![CDATA[Desi and Hector get together with a very special Xmas Podcast guest, Matthew from Hail Hail History to discuss the past, present and future like…]]></summary>
+        <author>
+            <name>Desi Mond</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA['You have to do more': James McFadden reacts to Brendan Rodgers' public actions towards Celtic star]]></title>
         <id>https://www.67hailhail.com/?p=183313</id>
@@ -634,16 +644,6 @@
         <summary type="html"><![CDATA[BRENDAN RODGERS has warned Kilmarnock they will face a different Celtic team on Sunday from the one they dumped out of the Viaplay League Cup in August. The Irishman suffered his first domestic Cup defeat in 25 games as Hoops gaffer when they lost 1-0 at Rugby Park in only his third game since returning [...]]]></summary>
         <author>
             <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Many reasons not to play Carter-Vickers on Sunday]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=115109</id>
-        <link href="https://www.celticquicknews.co.uk/many-reasons-not-to-play-carter-vickers-on-sunday/"/>
-        <updated>2023-12-08T12:01:02.000Z</updated>
-        <summary type="html"><![CDATA[Cameron Carter-Vickers was rested for the second half against Hibs due to a tight hamstring.  Were we not two goals ahead, he might well have played on, but there was no point taking chances.  The same argument holds for Kilmarnock on Sunday. Nat Phillips is more than capable of stepping into the defensive leadership role.  [...]]]></summary>
-        <author>
-            <name>Paul67</name>
         </author>
     </entry>
     <entry>

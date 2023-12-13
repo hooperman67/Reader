@@ -254,16 +254,6 @@
           "wordCount": 4322,
           "title": "ALL-CHANGE CELTS: RODGERS WARNS RIVALS",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/12/BRENDAN-RODGERS-KILLLLIE-FEATURRED.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=115109",
-          "author": "Paul67",
-          "description": "Cameron Carter-Vickers was rested for the second half against Hibs due to a tight hamstring.  Were we not two goals ahead, he might well have played on, but there was no point taking chances.  The same argument holds for Kilmarnock on Sunday. Nat Phillips is more than capable of stepping into the defensive leadership role.  [...]",
-          "link": "https://www.celticquicknews.co.uk/many-reasons-not-to-play-carter-vickers-on-sunday/",
-          "publishedOn": "2023-12-08T12:01:02.000Z",
-          "wordCount": 4798,
-          "title": "Many reasons not to play Carter-Vickers on Sunday",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
         }
       ]
     },
@@ -518,7 +508,23 @@
       "title": "eTims",
       "feedUrl": "http://etims.net/?feed=rss2",
       "siteUrl": "https://etims.net",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://etims.net/?p=18545",
+          "author": "Desi Mond",
+          "description": "Desi and Hector get together with a very special Xmas Podcast guest, Matthew from Hail Hail History to discuss the past, present and future like…",
+          "link": "https://etims.net/?p=18545",
+          "publishedOn": "2023-12-12T22:38:25.000Z",
+          "wordCount": 2692,
+          "title": "Xmas Podcast with Hail Hail History",
+          "enclosure": {
+            "url": "https://api.spreaker.com/v2/episodes/57989476/download.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://etims.net/wp-content/uploads/2023/12/FtX9lPxXoAwttXt-719x1024.jpeg"
+        }
+      ]
     },
     {
       "title": "The Celtic Underground",
