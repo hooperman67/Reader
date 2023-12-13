@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-12-13T20:11:20.784Z</updated>
+    <updated>2023-12-13T22:10:00.600Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic banish unwelcome Champions League streak with dramatic win over Feyenoord]]></title>
+        <id>https://www.67hailhail.com/?p=183490</id>
+        <link href="https://www.67hailhail.com/match/celtic-banish-unwelcome-champions-league-streak-with-dramatic-win-over-feyenoord/"/>
+        <updated>2023-12-13T22:02:54.000Z</updated>
+        <summary type="html"><![CDATA[Celtic’s winless streak in the UEFA Champions League is finally over after a 2-1 victory at home to Feyenoord. Luis Palma put the Bhoys 1-0...]]></summary>
+        <author>
+            <name>John McGinley</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic star set to return after 7-game absence]]></title>
         <id>https://www.67hailhail.com/?p=183483</id>
@@ -764,26 +774,6 @@
         <summary type="html"><![CDATA[CELTIC continue the countdown to the winter break with tomorrow’s tricky trip to Rugby Park, the venue of their only domestic loss this season. Brendan Rodgers’ men take on their Viaplay League Cup conquerors Kilmarnock in the High Noon shoot-out in the first of seven fixtures before the curtain comes down on the first half [...]]]></summary>
         <author>
             <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WHY RODGERS MUST TEAM UP KYOGO AND OH: SUTTON’S VERDICT]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=115125</id>
-        <link href="https://www.celticquicknews.co.uk/why-rodgers-must-team-up-kyogo-and-oh-suttons-verdict/"/>
-        <updated>2023-12-09T08:43:19.000Z</updated>
-        <summary type="html"><![CDATA[CHRIS SUTTON has urged Brendan Rodgers to team up Kyogo Furuhashi and Oh Hyeon-gyu against Kilmarnock tomorrow. The Hoops boss’ usual formation has one up front, almost exclusively the prolific Japanese striker, but the team’s former goal hero believes the South Korean could also get the nod to play on the “monstrosity” of a pitch [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CELTIC’S CATHOLIC HERITAGE]]></title>
-        <id>http://celticunderground.net/?p=6698</id>
-        <link href="http://celticunderground.net/celtics-catholic-heritage/"/>
-        <updated>2023-12-09T08:28:15.000Z</updated>
-        <summary type="html"><![CDATA[A Celtic supporting acquaintance of mine once told me the story of how he was talking to a work mate in England. His friend told him he had decided to be a Chelsea fan at the age of 10, after watching them defeat Leeds in the 1970 FA cup final on TV. A good choice […]]]></summary>
-        <author>
-            <name>St Anthony</name>
         </author>
     </entry>
     <entry>
