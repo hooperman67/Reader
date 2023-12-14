@@ -344,16 +344,6 @@
           "wordCount": 4043,
           "title": "PHILLIPS’ £7.3m PUZZLER",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/12/NAT-PHILLIPS-V-WELL-FIR-PARJ-FEATURED.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=115142",
-          "author": "CQN Magazine",
-          "description": "DETERMINED Mikey Johnston is a man on a mission as he aims to show Brendan Rodgers he has a future at Celtic. The manager threw down the gauntlet to the 24-year-old winger when he insisted the Republic of Ireland international “needed to do more” after his first start in the top side in 22 months [...]",
-          "link": "https://www.celticquicknews.co.uk/im-trying-to-take-every-step-i-can-johnstons-response-to-rodgers/",
-          "publishedOn": "2023-12-10T09:32:37.000Z",
-          "wordCount": 4621,
-          "title": "‘I’M TRYING TO TAKE EVERY STEP I CAN,’ JOHNSTON’S RESPONSE TO RODGERS",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/12/MIKEY-JOHNSTON-RESPONDS-FEATURED.png"
         }
       ]
     },
@@ -632,6 +622,16 @@
       "siteUrl": "http://celticunderground.net",
       "articles": [
         {
+          "id": "https://celticunderground.net/?p=6705",
+          "author": "Ethan Barlow",
+          "description": "MOTM, Liam Scales said: “I feel like today was sort of like the peak of it today, and I’m just glad that I could help the team to get the win and it’s a nice personal achievement as well to have that in the locker.”",
+          "link": "http://celticunderground.net/celtic-2-1-feyenoord-celtic-get-their-first-champions-league-home-win-in-10-years/",
+          "publishedOn": "2023-12-14T21:25:07.000Z",
+          "wordCount": 9856,
+          "title": "Celtic 2-1 Feyenoord: Celtic get their first Champions League home win in 10 years",
+          "imageUrl": "http://celticunderground.net/wp-content/uploads/2023/12/Screenshot-2023-12-14-at-21.20.50.png"
+        },
+        {
           "id": "https://celticunderground.net/?p=6702",
           "author": "Ethan Barlow",
           "description": "After a stalemate at halftime, The Celts managed seven second half goals to take all the points in their final home match of the year. Goals from Gallacher, Smith, Goldie, Barclais, Agnew and a Caitlin Hayes double kept Celtic one point behind league leaders Rangers, who won 5-0 at Motherwell. Here are some of the […]",
@@ -648,6 +648,26 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=183652",
+          "author": "Amir Mir",
+          "description": "Many were left surprised when Brendan Rodgers decided to re-join Celtic in the summer following Ange Postecoglou’s exit. Let’s be honest, how Brendan Rodgers left...",
+          "link": "https://www.67hailhail.com/news/james-mcfadden-says-brendan-rodgers-wont-answer-one-question-at-celtic/",
+          "publishedOn": "2023-12-14T21:50:00.000Z",
+          "wordCount": 1458,
+          "title": "‘He wouldn’t’: James McFadden says Brendan Rodgers won’t answer one question at Celtic",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/02/GettyImages-1308232604-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=183634",
+          "author": "Amir Mir",
+          "description": "From Diego Simeone to Arne Slot. There have been a few unhappy campers in Celtic’s opposition dugout in the Champions League this season. Celtic deservedly...",
+          "link": "https://www.67hailhail.com/match/bbc-reporter-noticed-what-unhappy-arne-slot-did-moments-before-celtic-feyenoord-incident/",
+          "publishedOn": "2023-12-14T20:30:00.000Z",
+          "wordCount": 1340,
+          "title": "’Not a happy man’: BBC reporter noticed what Arne Slot did moments before Celtic-Feyenoord incident",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/09/GettyImages-1252924816-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=183618",
           "author": "Amir Mir",
