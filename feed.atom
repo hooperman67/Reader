@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-12-15T18:13:24.686Z</updated>
+    <updated>2023-12-15T20:11:21.633Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic team news and potential starters for Hearts clash with big returns confirmed, one doubt]]></title>
+        <id>https://www.67hailhail.com/?p=183677</id>
+        <link href="https://www.67hailhail.com/match/celtic-team-news-and-potential-starters-ahead-of-hearts-clash-with-big-returns-confirmed/"/>
+        <updated>2023-12-15T19:49:37.000Z</updated>
+        <summary type="html"><![CDATA[Celtic take on Hearts in the Scottish Premiership on Saturday looking to pick up three points and move further ahead of second-placed Rangers in the...]]></summary>
+        <author>
+            <name>John McGinley</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Our Coefficient Monkeys, Insurrections, Daizen and CCV]]></title>
         <id>https://www.celticquicknews.co.uk/?p=115391</id>
@@ -722,26 +732,6 @@
         <link href="https://www.celticquicknews.co.uk/amazing-stats-brendans-killing-fields/"/>
         <updated>2023-12-11T08:52:59.000Z</updated>
         <summary type="html"><![CDATA[BRENDAN RODGERS has now lost FOUR times at Rugby Park over his two spells as Celtic manager. Remarkably, the 50-year-old Irishman has only sampled defeat to Scottish opposition at four other grounds – Tynecastle (twice), Easter Road (twice), Ibrox (once) and Parkhead (once). Rodgers, of course, steered the Hoops to a phenomenal domestic silverware clean [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ally McCoist reacts to Celtic defeat, states what is ’strange’ about upcoming Rangers game]]></title>
-        <id>https://www.67hailhail.com/?p=183095</id>
-        <link href="https://www.67hailhail.com/match/ally-mccoist-reacts-to-celtic-defeat-states-what-is-strange-about-upcoming-rangers-game/"/>
-        <updated>2023-12-11T07:15:00.000Z</updated>
-        <summary type="html"><![CDATA[The pressure has just intensified on Brendan Rodgers and Celtic after that defeat to Kilmarnock on Sunday. Chris Sutton didn’t hold back on his criticism...]]></summary>
-        <author>
-            <name>Amir Mir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘BULLIED’, ‘SLOPPY’, ‘WE CAN’T REALLY MAKE EXCUSES’: O’RILEY OPENS UP]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=115204</id>
-        <link href="https://www.celticquicknews.co.uk/bullied-sloppy-we-cant-really-make-excuses-oriley-opens-up/"/>
-        <updated>2023-12-11T07:10:36.000Z</updated>
-        <summary type="html"><![CDATA[MATT O’RILEY didn’t bother searching for excuses after Celtic’s lamentable second-half performance at Rugby Park. The stylish midfielder shot the champions into the lead with his ninth strike of the season, but an alarmingly feeble display saw them outfought by Kilmarnock as they surrendered two goals and also their unbeaten Premiership record. The Hoops got lost [...]]]></summary>
         <author>
             <name>CQN Magazine</name>
         </author>
