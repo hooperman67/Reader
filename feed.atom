@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-12-15T08:14:14.797Z</updated>
+    <updated>2023-12-15T10:11:57.779Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NAT’S ALL, FOLKS]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=115389</id>
+        <link href="https://www.celticquicknews.co.uk/nats-all-folks/"/>
+        <updated>2023-12-15T08:48:17.000Z</updated>
+        <summary type="html"><![CDATA[NAT PHILLIPS has almost certainly kicked his last ball for Celtic and will be on his way back to Liverpool when his short-term loan deal expires next month. The 26-year-old central defender was overlooked by Brendan Rodgers for the 2-1 Champions League midweek win over Feyenoord at Parkhead with Stephen Welsh making his comeback after [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘I HAVEN’T ACHIEVED MUCH,’ INSISTS HOOPS HERO]]></title>
         <id>https://www.celticquicknews.co.uk/?p=115380</id>
@@ -734,16 +744,6 @@
         <summary type="html"><![CDATA[LISBON LION Bertie Auld was pivotal to Celtic’s overwhelming success at Celtic after Jock Stein has returned to Parkhead in March 1965. CQN are celebrating the life and incredible times of the club legend in an EXCLUSIVE series with extracts from his best-selling autobiography, ‘A Bhoy Called Bertie‘, co-authored by his friend and writer Alex Gordon. [...]]]></summary>
         <author>
             <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘Fantastic’: Scott Brown praises Celtic duo amid defeat to Kilmarnock]]></title>
-        <id>https://www.67hailhail.com/?p=183076</id>
-        <link href="https://www.67hailhail.com/match/what-scott-brown-said-about-callum-mcgregor-and-matt-oriley-during-celtic-defeat-at-kilmarnock/"/>
-        <updated>2023-12-10T20:20:00.000Z</updated>
-        <summary type="html"><![CDATA[There wasn’t much, if anything, for Celtic to cheer about as Brendan Rodgers suffered his first league defeat since returning to the club at Kilmarnock...]]></summary>
-        <author>
-            <name>Amir Mir</name>
         </author>
     </entry>
     <entry>
