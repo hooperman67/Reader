@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-12-15T06:14:07.585Z</updated>
+    <updated>2023-12-15T08:14:14.797Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[‘I HAVEN’T ACHIEVED MUCH,’ INSISTS HOOPS HERO]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=115380</id>
+        <link href="https://www.celticquicknews.co.uk/i-havent-achieved-much-insists-hoops-hero/"/>
+        <updated>2023-12-15T07:41:10.000Z</updated>
+        <summary type="html"><![CDATA[LIAM SCALES played in all six of Celtic’s six Champions League games this season and won the Man of the Match accolade after the Hoops’ 2-1 midweek win over Feyenoord. However, the 25-year-old Republic of Ireland international acknowledged he has a lot to prove at his boyhood idols as he admits: “I haven’t achieved much [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[THE UNFORGETTABLE BERTIE AULD: PART THIRTY-ONE: ‘THE HUMBLING OF LEEDS’]]></title>
         <id>https://www.celticquicknews.co.uk/?p=71489</id>
@@ -734,26 +744,6 @@
         <summary type="html"><![CDATA[There wasn’t much, if anything, for Celtic to cheer about as Brendan Rodgers suffered his first league defeat since returning to the club at Kilmarnock...]]></summary>
         <author>
             <name>Amir Mir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Brendan Rodgers spoke about in Celtic dressing room after defeat to Kilmarnock]]></title>
-        <id>https://www.67hailhail.com/?p=183074</id>
-        <link href="https://www.67hailhail.com/match/what-brendan-rodgers-and-celtic-players-spoke-about-in-dressing-room-after-defeat-to-kilmarnock/"/>
-        <updated>2023-12-10T19:52:36.000Z</updated>
-        <summary type="html"><![CDATA[Celtic’s first Scottish Premiership defeat of the season was a sore one to take. The Bhoys were not good enough in Ayrshire on Sunday and...]]></summary>
-        <author>
-            <name>John McGinley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The latest on Cameron Carter-Vickers Celtic injury after Nat Phillips disappoints vs Kilmarnock]]></title>
-        <id>https://www.67hailhail.com/?p=183071</id>
-        <link href="https://www.67hailhail.com/news/the-latest-on-cameron-carter-vickers-celtic-injury-after-nat-phillips-disappoints-vs-kilmarnock/"/>
-        <updated>2023-12-10T19:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Cameron Carter-Vickers didn’t make the starting line-up for Celtic’s trip to Kilmarnock on Sunday with Brendan Rodgers instead opting to play Nat Phillips. Carter-Vickers was...]]></summary>
-        <author>
-            <name>John McGinley</name>
         </author>
     </entry>
     <entry>
