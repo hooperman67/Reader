@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-12-16T06:12:45.228Z</updated>
+    <updated>2023-12-16T08:12:18.276Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GUSTAF OFF? EURO HERO TIPPED FOR EXIT]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=115394</id>
+        <link href="https://www.celticquicknews.co.uk/gustaf-off-euro-hero-tipped-for-exit/"/>
+        <updated>2023-12-16T07:23:39.000Z</updated>
+        <summary type="html"><![CDATA[CHAMPIONS League goal hero Gustaf Lagerbielke could be heading for the Celtic exit. The Swedish centre-back was the unlikely matchwinner when he headed in the clinching effort in the 2-1 midweek victory over Feyenoord at Parkhead. However, Lagerbielke, who arrived in the summer in a £3million deal from Elfsborg, is reported to be one of [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CELTIC v HEARTS: 5-MINUTE QUIZ]]></title>
         <id>https://www.celticquicknews.co.uk/?p=115308</id>
@@ -664,26 +674,6 @@
         <summary type="html"><![CDATA[It has been a challenging few weeks for Celtic after indifferent performances, which was topped off by losing to Kilmarnock on Sunday.  One man who...]]></summary>
         <author>
             <name>Amir Mir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['It's tough': Scott Brown and James McFadden sympathise with Celtic 26-year-old]]></title>
-        <id>https://www.67hailhail.com/?p=183189</id>
-        <link href="https://www.67hailhail.com/match/scott-brown-and-james-mcfadden-deliver-honest-verdict-on-liverpool-loanee-nat-phillips-after-celtic-defeat/"/>
-        <updated>2023-12-11T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This Nat Phillips loan spell from Liverpool isn’t going the way Celtic or the player himself wanted.  The 26-year-old joined Celtic in the summer on...]]></summary>
-        <author>
-            <name>Amir Mir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic 7-0 Spartans: Celtic hit magnificent seven as The Spartans are thrashed]]></title>
-        <id>https://celticunderground.net/?p=6702</id>
-        <link href="http://celticunderground.net/celtic-7-0-spartans-celtic-hit-magnificent-seven-as-the-spartans-are-thrashed/"/>
-        <updated>2023-12-11T18:31:17.000Z</updated>
-        <summary type="html"><![CDATA[After a stalemate at halftime, The Celts managed seven second half goals to take all the points in their final home match of the year. Goals from Gallacher, Smith, Goldie, Barclais, Agnew and a Caitlin Hayes double kept Celtic one point behind league leaders Rangers, who won 5-0 at Motherwell. Here are some of the […]]]></summary>
-        <author>
-            <name>Ethan Barlow</name>
         </author>
     </entry>
     <entry>
