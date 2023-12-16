@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=115418",
+          "author": "CQN Magazine",
+          "description": "CELTIC 0 HEARTS 2 SHAMBOLIC Celtic stumbled to a second successive defeat in another Premiership shocker at Parkhead this afternoon. The champions have now carelessly thrown away six points in back-to-back league games following the loss to Kilmarnock at Rugby Park last weekend. The reaction from the stands at the end of a frustrating encounter [...]",
+          "link": "https://www.celticquicknews.co.uk/celtic-0-hearts-2-shambolic-celts-two-in-a-woe/",
+          "publishedOn": "2023-12-16T16:54:43.000Z",
+          "wordCount": 4752,
+          "title": "CELTIC 0 HEARTS 2: SHAMBOLIC CELTS’ TWO IN A WOE",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/10/CELTIC-HUDDLE-V-KILLIE-OCT-7-2023.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=115416",
           "author": "Paul67",
           "description": "Live updates will appear below after 15.00.",
@@ -344,16 +354,6 @@
           "wordCount": 4324,
           "title": "CELTIC RETURN? ‘MY TIME HAS BEEN, IT’S GONE,’ INSISTS BROONY",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/12/SCOTT-BROWN-NEW-FEATURED-HHH.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=45946",
-          "author": "CQN Magazine",
-          "description": "LISBON LION Bertie Auld was just one of Jock Stein’s diamonds who sparkled so brilliantly in the all-star squad of the sixties. CQN are celebrating the life and incredible times of the Celtic legend in an EXCLUSIVE series with extracts from his best-selling autobiography, ‘A Bhoy Called Bertie‘, co-authored by his friend and writer Alex Gordon. [...]",
-          "link": "https://www.celticquicknews.co.uk/the-unforgettable-bertie-auld-part-twenty-eight-big-tg-the-best-in-the-world/",
-          "publishedOn": "2023-12-12T05:30:23.000Z",
-          "wordCount": 5106,
-          "title": "THE UNFORGETTABLE BERTIE AULD: PART TWENTY-EIGHT: ‘BIG TG – THE BEST IN THE WORLD’",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2018/03/BertieTommy.jpg"
         }
       ]
     },
@@ -648,6 +648,26 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=183704",
+          "author": "John McGinley",
+          "description": "Celtic have been defeated for the second successive Scottish Premiership match after Hearts were victorious with a 2-0 scoreline at Celtic Park on Saturday. The...",
+          "link": "https://www.67hailhail.com/match/brendan-rodgers-reacts-to-dreadful-saturday-for-celtic-as-hearts-beat-bhoys-apologises-to-fans/",
+          "publishedOn": "2023-12-16T17:42:10.000Z",
+          "wordCount": 1457,
+          "title": "Brendan Rodgers reacts to dreadful Saturday for Celtic as Hearts beat Bhoys, apologises to fans",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/12/GettyImages-1859929784-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=183706",
+          "author": "John McGinley",
+          "description": "Former Celtic striker Chris Sutton thinks the Bhoys have been “bang average” all season and shared criticism of Brendan Rodgers in the wake of today’s...",
+          "link": "https://www.67hailhail.com/match/chris-sutton-criticises-brendan-rodgers-with-damning-verdict-after-celtic-defeat-to-hearts/",
+          "publishedOn": "2023-12-16T17:06:41.000Z",
+          "wordCount": 1310,
+          "title": "Chris Sutton criticises Brendan Rodgers with damning verdict after Celtic defeat to Hearts",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/12/GettyImages-1859874925-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=183700",
           "author": "John McGinley",
