@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-12-17T16:12:09.800Z</updated>
+    <updated>2023-12-17T18:12:13.134Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA['More than': Peter Grant thinks £1.5m Celtic star will end up in La Liga, not the Premier League]]></title>
+        <id>https://www.67hailhail.com/?p=183841</id>
+        <link href="https://www.67hailhail.com/news/peter-grant-explains-why-celtics-matt-oriley-wont-secure-a-transfer-to-the-english-premier-league/"/>
+        <updated>2023-12-17T17:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Matt O’Riley has been outstanding in Celtic colours this season and is a key reason why Brendan Rodgers’ side are sitting top of the Scottish...]]></summary>
+        <author>
+            <name>Amir Mir</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘I NEED TO FIND THE ANSWERS,’ RODGERS]]></title>
         <id>https://www.celticquicknews.co.uk/?p=115482</id>
@@ -762,26 +772,6 @@
         <link href="https://www.celticquicknews.co.uk/celts-zero-ambition/"/>
         <updated>2023-12-13T06:15:16.000Z</updated>
         <summary type="html"><![CDATA[AT THE age of 36 and with 75 international appearances for England on his impressive CV, Joe Hart is searching for a football first this evening – a Champions League clean sheet for Celtic. The experienced keeper goes into the final match in Group E of Europe’s elite competition after shipping TWENTY-NINE goals in 11 [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE LAST HURRAH: TEN YEARS AGO]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=113412</id>
-        <link href="https://www.celticquicknews.co.uk/the-last-hurrah-ten-years-ago/"/>
-        <updated>2023-12-13T06:00:27.000Z</updated>
-        <summary type="html"><![CDATA[THE last time the Celtic fans streamed out of Parkhead after witnessing a Champions League group triumph was just over a decade ago. James Forrest, who opened the scoring with a penalty-kick in the first-half of the 2-1 win over Ajax, is the only survivor from the EIGHTEEN players who were stripped in Neil Lennon’s matchday [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE UNFORGETTABLE BERTIE AULD: PART TWENTY-NINE: ‘BIG BILLY, A BORN WINNER’]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=63461</id>
-        <link href="https://www.celticquicknews.co.uk/the-unforgettable-bertie-auld-part-twenty-nine-big-billy-a-born-winner/"/>
-        <updated>2023-12-13T05:30:25.000Z</updated>
-        <summary type="html"><![CDATA[LISBON LION Bertie Auld was the strutting maestro of Jock Stein’s team of all-stars in the sixties. CQN are celebrating the life and incredible times of the Celtic legend in an EXCLUSIVE series with extracts from his best-selling autobiography, ‘A Bhoy Called Bertie‘, co-authored by his friend and writer Alex Gordon. The remarkable life story continues [...]]]></summary>
         <author>
             <name>CQN Magazine</name>
         </author>
