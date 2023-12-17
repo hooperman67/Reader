@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=115477",
+          "author": "CQN Magazine",
+          "description": "KYOGO FURUHASHI extended his worrying goalless sequence to seven games with his shot-shy performance in the dismal 2-0 failure against Hearts at Parkhead yesterday. The Japanese international striker went into the encounter after firing blanks in outings against Motherwell, Lazio, St Johnstone, Hibs, Kilmarnock and Feyenoord, as CQN pointed ou, before another duck egg against the [...]",
+          "link": "https://www.celticquicknews.co.uk/last-post-for-kyogo/",
+          "publishedOn": "2023-12-17T10:22:21.000Z",
+          "wordCount": 4260,
+          "title": "LAST POST FOR KYOGO",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/12/KYOGO-FURUHASHI-HEARTS-MISS-DECEMBER-16-2023.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=115473",
           "author": "CQN Magazine",
           "description": "CELTIC were already trailing to a Lawrence Shankland header when referee Kevin Clancy awarded Hearts a free-kick on the half-hour mark. The match official adjudged Cameron Carter-Vickers had fouled Nat Atkinson about 30 yards from Joe Hart’s goal. The decision baffled thousands of onlookers at Parkhead as well as astonishing the USA World Cup centre-back [...]",
@@ -608,23 +618,7 @@
       "title": "eTims",
       "feedUrl": "http://etims.net/?feed=rss2",
       "siteUrl": "https://etims.net",
-      "articles": [
-        {
-          "id": "https://etims.net/?p=18545",
-          "author": "Desi Mond",
-          "description": "Desi and Hector get together with a very special Xmas Podcast guest, Matthew from Hail Hail History to discuss the past, present and future like…",
-          "link": "https://etims.net/?p=18545",
-          "publishedOn": "2023-12-12T22:38:25.000Z",
-          "wordCount": 2692,
-          "title": "Xmas Podcast with Hail Hail History",
-          "enclosure": {
-            "url": "https://api.spreaker.com/v2/episodes/57989476/download.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": "https://etims.net/wp-content/uploads/2023/12/FtX9lPxXoAwttXt-719x1024.jpeg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "The Celtic Underground",
