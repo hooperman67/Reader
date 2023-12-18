@@ -6,6 +6,26 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=115494",
+          "author": "Paul67",
+          "description": "A team that dropped only two points in 13 games has now dropped a further eight across five games.  That’s a significant change in form over the last three weeks.  We beat Aberdeen 6-0 ahead of the last international break, returned to draw 1-1 with Motherwell, were less then impressive in wins over St Johnstone [...]",
+          "link": "https://www.celticquicknews.co.uk/results-watershed-points-to-an-obvious-problem/",
+          "publishedOn": "2023-12-18T12:00:25.000Z",
+          "wordCount": 4242,
+          "title": "Results watershed points to an obvious problem",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/?p=115495",
+          "author": "CQN Magazine",
+          "description": "IT was just VAR-CICAL at Hampden yesterday as once again technical assistant Andrew Dallas baffled fans at the game and millions of worldwide viewers watching the action on the Viaplay satellite channel. The incident that created such puzzlement arrived in the 27th minute of the League Cup Final. It was still goalless when Aberdeen swung [...]",
+          "link": "https://www.celticquicknews.co.uk/no-penalty-pull-the-other-one-mr-dallas/",
+          "publishedOn": "2023-12-18T11:32:19.000Z",
+          "wordCount": 4540,
+          "title": "NO PENALTY? PULL THE OTHER ONE, Mr DALLAS",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/12/TODD-CANTWELL-PEN-ONE-FEATURED.jpg"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=115488",
           "author": "CQN Magazine",
           "description": "CAMERON CARTER-VICKERS was involved in a pivotal moment that pushed Celtic towards their first league defeat at Parkhead to end a superb 51-game sequence. The rugged centre-back was penalised by referee Kevin Clancy for a challenge on Nat Atkinson that saw Hearts awarded a direct free-kick in a dangerous area, a decision queried by CQN [...]",
@@ -284,16 +304,6 @@
           "wordCount": 5088,
           "title": "THE UNFORGETTABLE BERTIE AULD: PART THIRTY: ‘THE BIG JOCK MYSTERY I NEVER SOLVED’",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2018/08/BERTIEFEATURED.jpg"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=115328",
-          "author": "CQN Magazine",
-          "description": "CELTIC 2 FEYENOORD 1 THE agonising decade-long wait for a Champions League group stage win ended in dramatic fashion at Parkhead tonight. Brendan Rodgers’ side had seen a first-half penalty-kick opener from Luis Palma wiped out by Feyenoord substitute Yankuba Minteh in the 82nd minute and the heads could have gone down. Instead, with Callum [...]",
-          "link": "https://www.celticquicknews.co.uk/celtic-2-feyenoord-1-gustaf-glory-ends-10-year-wait/",
-          "publishedOn": "2023-12-13T22:15:49.000Z",
-          "wordCount": 4759,
-          "title": "CELTIC 2 FEYENOORD 1: GUSTAF GLORY ENDS 10-YEAR WAIT",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/12/CELTIC-HUDDLE-V-HIBS-4-1-DEC-6-2023.png"
         }
       ]
     },
@@ -572,6 +582,16 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=183884",
+          "author": "Amir Mir",
+          "description": "Joe Hart isn’t exactly getting rave reviews from Celtic fans this season and his most recent performance during the defeat to Hearts hasn’t helped matters....",
+          "link": "https://www.67hailhail.com/match/pat-bonner-reacts-to-joe-harts-actions-for-celtic-that-left-fans-utterly-bemused/",
+          "publishedOn": "2023-12-18T10:20:00.000Z",
+          "wordCount": 1440,
+          "title": "’The fans are utterly bemused’: BBC pundit duo react to Joe Hart's actions for Celtic",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/10/GettyImages-1244220044-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=183864",
           "author": "Amir Mir",
