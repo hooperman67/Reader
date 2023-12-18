@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=115488",
+          "author": "CQN Magazine",
+          "description": "CAMERON CARTER-VICKERS was involved in a pivotal moment that pushed Celtic towards their first league defeat at Parkhead to end a superb 51-game sequence. The rugged centre-back was penalised by referee Kevin Clancy for a challenge on Nat Atkinson that saw Hearts awarded a direct free-kick in a dangerous area, a decision queried by CQN [...]",
+          "link": "https://www.celticquicknews.co.uk/we-werent-good-enough-no-excuses-from-ccv-who-queries-referee-call/",
+          "publishedOn": "2023-12-18T07:46:40.000Z",
+          "wordCount": 4441,
+          "title": "‘WE WEREN’T GOOD ENOUGH,’ NO EXCUSES FROM CCV WHO QUERIES REFEREE CALL",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/12/CAMERON-CARTER-VICKERS-FREE-KICK-FEATURED.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=101055",
           "author": "CQN Magazine",
           "description": "IT WAS a spectacular case of deja vu for Brendan Rodgers and Celtic as they made history in season 2017/18 – the first Scottish club to achieve the amazing double treble. In another CQN EXCLUSIVE, we turn the spotlight on a second clean sweep of domestic silverware for the Hoops as they once again triumphed [...]",
@@ -284,26 +294,6 @@
           "wordCount": 4759,
           "title": "CELTIC 2 FEYENOORD 1: GUSTAF GLORY ENDS 10-YEAR WAIT",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/12/CELTIC-HUDDLE-V-HIBS-4-1-DEC-6-2023.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=115327",
-          "author": "Paul67",
-          "description": "Live updates will appear below after 20:00.",
-          "link": "https://www.celticquicknews.co.uk/celtic-v-feyenoord-gg-live-updates/",
-          "publishedOn": "2023-12-13T19:00:57.000Z",
-          "wordCount": 4876,
-          "title": "Celtic v Feyenoord, GG Live updates",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=115251",
-          "author": "CQN Magazine",
-          "description": "STEPHEN WELSH gets a start against Feyenoord in the final Champions League Group E encounter against Feyenoord at Parkhead tonight. The former Scotland Under-21 skipper returns to central defence in place of on-loan Nat Phillips who drops to the substitutes’ bench from the line-up that lost to Kilmarnock at Rugby Park on Sunday. Welsh has [...]",
-          "link": "https://www.celticquicknews.co.uk/confirmed-welsh-in-as-phillips-drops-out/",
-          "publishedOn": "2023-12-13T18:51:21.000Z",
-          "wordCount": 4164,
-          "title": "CONFIRMED: WELSH IN AS PHILLIPS DROPS OUT",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/12/CELTIC-PARK-CHRISTMAS-2023-ONE.png"
         }
       ]
     },
@@ -861,36 +851,6 @@
           "wordCount": 1297,
           "title": "Celtic banish unwelcome Champions League streak with dramatic win over Feyenoord",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/12/GettyImages-1853080782-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=183483",
-          "author": "John McGinley",
-          "description": "You may have noticed Cameron Carter-Vickers and Daizen Maeda returned to full Celtic team training in videos and pictures on Tuesday, but it was always...",
-          "link": "https://www.67hailhail.com/news/the-latest-on-cameron-carter-vickers-and-daizen-maeda-celtic-injuries-after-missing-feyenoord/",
-          "publishedOn": "2023-12-13T19:20:00.000Z",
-          "wordCount": 1278,
-          "title": "Celtic star set to return after 7-game absence",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/09/GettyImages-1562753599-2-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=183481",
-          "author": "John McGinley",
-          "description": "Manager Brendan Rodgers has named his Celtic team vs Feyenoord for tonight’s UEFA Champions League match at Celtic Park. The full squad is as follows:...",
-          "link": "https://www.67hailhail.com/match/celtic-team-vs-feyenoord-confirmed-defensive-surprise-2-changes-global-tv-details-instant-reaction/",
-          "publishedOn": "2023-12-13T18:51:50.000Z",
-          "wordCount": 1342,
-          "title": "Surprise selection: Celtic XI confirmed, 2 changes, global TV details, instant reaction",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/12/GettyImages-1845875603-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=183449",
-          "author": "Amir Mir",
-          "description": "Neil Lennon has highlighted a real concern he is seeing in this Celtic side under Brendan Rodgers and how it lacks that bite. From Kyogo...",
-          "link": "https://www.67hailhail.com/news/neil-lennon-expresses-concern-for-current-celtic-side-drops-scott-brown-and-victor-wanyamas-names/",
-          "publishedOn": "2023-12-13T18:20:00.000Z",
-          "wordCount": 1415,
-          "title": "'They suffer': Neil Lennon expresses concern for current Celtic side with Victor Wanyama message",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/03/GettyImages-168589913-scaled.jpg"
         }
       ]
     },
