@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-12-18T08:14:24.627Z</updated>
+    <updated>2023-12-18T10:12:21.573Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA['Still': Chris Sutton shuts down what he’s hearing on BBC about Celtic after defeat to Hearts]]></title>
+        <id>https://www.67hailhail.com/?p=183864</id>
+        <link href="https://www.67hailhail.com/news/chris-sutton-shuts-down-what-hes-hearing-on-bbc-about-celtic-after-defeat-to-hearts/"/>
+        <updated>2023-12-18T09:30:12.000Z</updated>
+        <summary type="html"><![CDATA[Chris Sutton was quick to remind Robbie Savage that Celtic are still sitting top of the Scottish Premiership table after he suggested the club was...]]></summary>
+        <author>
+            <name>Amir Mir</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘WE WEREN’T GOOD ENOUGH,’ NO EXCUSES FROM CCV WHO QUERIES REFEREE CALL]]></title>
         <id>https://www.celticquicknews.co.uk/?p=115488</id>
@@ -574,16 +584,6 @@
         <summary type="html"><![CDATA[CELTIC 2 FEYENOORD 1 THE agonising decade-long wait for a Champions League group stage win ended in dramatic fashion at Parkhead tonight. Brendan Rodgers’ side had seen a first-half penalty-kick opener from Luis Palma wiped out by Feyenoord substitute Yankuba Minteh in the 82nd minute and the heads could have gone down. Instead, with Callum [...]]]></summary>
         <author>
             <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic banish unwelcome Champions League streak with dramatic win over Feyenoord]]></title>
-        <id>https://www.67hailhail.com/?p=183490</id>
-        <link href="https://www.67hailhail.com/match/celtic-banish-unwelcome-champions-league-streak-with-dramatic-win-over-feyenoord/"/>
-        <updated>2023-12-13T22:02:54.000Z</updated>
-        <summary type="html"><![CDATA[Celtic’s winless streak in the UEFA Champions League is finally over after a 2-1 victory at home to Feyenoord. Luis Palma put the Bhoys 1-0...]]></summary>
-        <author>
-            <name>John McGinley</name>
         </author>
     </entry>
     <entry>
