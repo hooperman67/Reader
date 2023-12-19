@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-12-19T18:10:47.679Z</updated>
+    <updated>2023-12-19T20:09:28.138Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA['Celtic have the pull over him': Celtic tipped to sign English FA Cup winner by club legend]]></title>
+        <id>https://www.67hailhail.com/?p=184004</id>
+        <link href="https://www.67hailhail.com/transfers/celtic-sent-kieran-tierney-transfer-message-fans-will-love-with-arsenal-star-currently-on-loan-at-real-sociedad/"/>
+        <updated>2023-12-19T18:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Kieran Tierney is set to return to Arsenal next summer following his loan spell at Real Sociedad, but could a return to Celtic be on...]]></summary>
+        <author>
+            <name>Amir Mir</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘He isn’t great’: Neil Lennon raises issue with Celtic 30-year-old, calls for January window action]]></title>
         <id>https://www.67hailhail.com/?p=183985</id>
@@ -502,16 +512,6 @@
         <link href="https://www.celticquicknews.co.uk/nats-all-folks/"/>
         <updated>2023-12-15T08:48:17.000Z</updated>
         <summary type="html"><![CDATA[NAT PHILLIPS has almost certainly kicked his last ball for Celtic and will be on his way back to Liverpool when his short-term loan deal expires next month. The 26-year-old central defender was overlooked by Brendan Rodgers for the 2-1 Champions League midweek win over Feyenoord at Parkhead with Stephen Welsh making his comeback after [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘I HAVEN’T ACHIEVED MUCH,’ INSISTS HOOPS HERO]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=115380</id>
-        <link href="https://www.celticquicknews.co.uk/i-havent-achieved-much-insists-hoops-hero/"/>
-        <updated>2023-12-15T07:41:10.000Z</updated>
-        <summary type="html"><![CDATA[LIAM SCALES played in all six of Celtic’s six Champions League games this season and won the Man of the Match accolade after the Hoops’ 2-1 midweek win over Feyenoord. However, the 25-year-old Republic of Ireland international acknowledged he has a lot to prove at his boyhood idols as he admits: “I haven’t achieved much [...]]]></summary>
         <author>
             <name>CQN Magazine</name>
         </author>
