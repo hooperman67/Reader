@@ -544,24 +544,33 @@
       "title": "The Celtic Underground",
       "feedUrl": "http://celticunderground.net/feed/",
       "siteUrl": "http://celticunderground.net",
-      "articles": [
-        {
-          "id": "https://celticunderground.net/?p=6705",
-          "author": "Ethan Barlow",
-          "description": "MOTM, Liam Scales said: “I feel like today was sort of like the peak of it today, and I’m just glad that I could help the team to get the win and it’s a nice personal achievement as well to have that in the locker.”",
-          "link": "http://celticunderground.net/celtic-2-1-feyenoord-celtic-get-their-first-champions-league-home-win-in-10-years/",
-          "publishedOn": "2023-12-14T21:25:07.000Z",
-          "wordCount": 9856,
-          "title": "Celtic 2-1 Feyenoord: Celtic get their first Champions League home win in 10 years",
-          "imageUrl": "http://celticunderground.net/wp-content/uploads/2023/12/Screenshot-2023-12-14-at-21.20.50.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "67 Hail Hail",
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=183968",
+          "author": "Amir Mir",
+          "description": "John Hartson has weighed in on why he feels Celtic have lost back-to-back Scottish Premiership matches under Brendan Rodgers. From Celtic’s recruitment in the summer...",
+          "link": "https://www.67hailhail.com/news/john-hartson-explains-two-reasons-why-things-are-going-wrong-at-celtic-as-players-bear-the-brunt/",
+          "publishedOn": "2023-12-19T10:05:00.000Z",
+          "wordCount": 1416,
+          "title": "'Some of them think': John Hartson says there are 2 reasons why things are going 'wrong' at Celtic",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/08/GettyImages-1469734117-1-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=183949",
+          "author": "Amir Mir",
+          "description": "Neil Lennon isn’t in agreement with Celtic fans’ protest at club chiefs during the 2-0 defeat to Hearts at Parkhead on Saturday.  When Brendan Rodgers...",
+          "link": "https://www.67hailhail.com/news/neil-lennons-celtic-comments-after-hearts-defeat-will-divide-opinion-makes-dermot-desmond-claim/",
+          "publishedOn": "2023-12-19T09:10:00.000Z",
+          "wordCount": 1534,
+          "title": "'I don't': Neil Lennon's Celtic comments last night will divide opinion, makes Dermot Desmond claim",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/08/GettyImages-855927842-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=183934",
           "author": "Amir Mir",
@@ -761,26 +770,6 @@
           "wordCount": 1321,
           "title": "Celtic team news and potential starters for Hearts clash with big returns confirmed, one doubt",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/12/GettyImages-1842096169-1-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=183652",
-          "author": "Amir Mir",
-          "description": "Many were left surprised when Brendan Rodgers decided to re-join Celtic in the summer following Ange Postecoglou’s exit. Let’s be honest, how Brendan Rodgers left...",
-          "link": "https://www.67hailhail.com/news/james-mcfadden-says-brendan-rodgers-wont-answer-one-question-at-celtic/",
-          "publishedOn": "2023-12-14T21:50:00.000Z",
-          "wordCount": 1458,
-          "title": "‘He wouldn’t’: James McFadden says Brendan Rodgers won’t answer one question at Celtic",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/02/GettyImages-1308232604-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=183634",
-          "author": "Amir Mir",
-          "description": "From Diego Simeone to Arne Slot. There have been a few unhappy campers in Celtic’s opposition dugout in the Champions League this season. Celtic deservedly...",
-          "link": "https://www.67hailhail.com/match/bbc-reporter-noticed-what-unhappy-arne-slot-did-moments-before-celtic-feyenoord-incident/",
-          "publishedOn": "2023-12-14T20:30:00.000Z",
-          "wordCount": 1340,
-          "title": "’Not a happy man’: BBC reporter noticed what Arne Slot did moments before Celtic-Feyenoord incident",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/09/GettyImages-1252924816-scaled.jpg"
         }
       ]
     },
