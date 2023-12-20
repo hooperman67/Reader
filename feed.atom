@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-12-20T10:09:27.020Z</updated>
+    <updated>2023-12-20T12:16:11.589Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Skewed reporting of ticket ‘dispute’]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=115530</id>
+        <link href="https://www.celticquicknews.co.uk/skewed-reporting-of-ticket-dispute/"/>
+        <updated>2023-12-20T12:00:08.000Z</updated>
+        <summary type="html"><![CDATA[Context is all, and the context for reporting of the ticket ‘dispute’ for our Newco game on the 30th was significantly skewed.  In brief: After humiliating defeats by Celtic at Ibrox, Newco cut Celtic ticket numbers by 90%.  This led to 700 Celtic fans in a corner of the stadium with bottles and other missiles [...]]]></summary>
+        <author>
+            <name>Paul67</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘There is just no way’: Mark Wilson baffled by what he's hearing about Brendan Rodgers & Celtic]]></title>
+        <id>https://www.67hailhail.com/?p=184105</id>
+        <link href="https://www.67hailhail.com/news/mark-wilson-reacts-to-what-hes-hearing-about-celtic-boss-brendan-rodgers-says-there-is-no-way/"/>
+        <updated>2023-12-20T11:20:00.000Z</updated>
+        <summary type="html"><![CDATA[A sense of calmness needs to be poured over Celtic’s current issues because the blood pressures are high after the defeat to Hearts. For the...]]></summary>
+        <author>
+            <name>Amir Mir</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[More than 90 Minutes Issue 130]]></title>
         <id>https://celticfanzine.com/?p=58535</id>
