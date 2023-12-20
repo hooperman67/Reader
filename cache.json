@@ -234,26 +234,6 @@
           "wordCount": 4197,
           "title": "CONFIRMED: CCV RETURNS, EURO HERO MISSING",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/10/CELTIC-PARK-SEASON-202324.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=115413",
-          "author": "CQN Magazine",
-          "description": "SHOCK! Horror! Kyogo Furuhashi has fired blanks in six consecutive games. If you wish to place the Japanese striker under even more intense scrutiny, he has delivered just one goal in the past nine outings. The last time we witnessed a pyramid celebration from the fans’ favourite came when he knocked one over the line from [...]",
-          "link": "https://www.celticquicknews.co.uk/alexs-angle-kyogos-misfiring-387-minutes/",
-          "publishedOn": "2023-12-16T09:55:40.000Z",
-          "wordCount": 4385,
-          "title": "ALEX’S ANGLE: KYOGO’S MISFIRING 387 MINUTES",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/03/ALEX-GORDON-CP-TUNNEL.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=115411",
-          "author": "CQN Magazine",
-          "description": "BRENDAN RODGERS urgently requires quality additions to his squad – or Celtic will NOT be prepared for the challenges of Europe next season. Former Hoops goal hero Chris Sutton insists his old club were not ready for the Champions League this time out as they won only one, drew one and lost four of their [...]",
-          "link": "https://www.celticquicknews.co.uk/not-a-situation-i-feel-rodgers-would-have-signed-up-for-ex-celt-fires-warning/",
-          "publishedOn": "2023-12-16T09:01:32.000Z",
-          "wordCount": 4504,
-          "title": "‘NOT A SITUATION I FEEL RODGERS WOULD HAVE SIGNED UP FOR,’ EX-CELT FIRES WARNING",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/12/BRENDAN-RODGERS-BUYS-FEATURED.png"
         }
       ]
     },
@@ -514,13 +494,54 @@
       "title": "The Celtic Underground",
       "feedUrl": "http://celticunderground.net/feed/",
       "siteUrl": "http://celticunderground.net",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://celticunderground.net/?p=6708",
+          "author": "Ethan Barlow",
+          "description": "Celtic drop points to fall further behind league leaders Rangers, who beat Hamilton 4-0 to move three points clear at the top. Hearts put in an impressive display to hold Fran Alonso’s side to a draw amid strong rumours that the Spaniard may be leaving Glasgow to take on challenges elsewhere. Here are some of […]",
+          "link": "http://celticunderground.net/hearts-1-1-celtic-caitlin-hayes-strike-rescues-celtic-a-draw-as-the-points-are-shared-in-edinburgh/",
+          "publishedOn": "2023-12-20T21:04:08.000Z",
+          "wordCount": 9560,
+          "title": "Hearts 1-1 Celtic: Caitlin Hayes’ strike rescues Celtic a draw, as the points are shared in Edinburgh",
+          "imageUrl": "http://celticunderground.net/wp-content/uploads/2023/01/Screenshot-2023-01-13-at-21.17.47.png"
+        }
+      ]
     },
     {
       "title": "67 Hail Hail",
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=184182",
+          "author": "Amir Mir",
+          "description": "Neil Lennon has expressed his ‘surprise’ at Brendan Rodgers not showcasing his tactical flexibility at Celtic. Before Celtic lost back-to-back Scottish Premiership matches, the signs...",
+          "link": "https://www.67hailhail.com/news/neil-lennon-shares-what-has-surprised-him-about-brendan-rodgers-since-celtic-return/",
+          "publishedOn": "2023-12-20T21:25:00.000Z",
+          "wordCount": 1437,
+          "title": "'I am surprised': Neil Lennon can't believe what Brendan Rodgers hasn't done at Celtic",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/08/GettyImages-855927842-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=184176",
+          "author": "John McGinley",
+          "description": "Celtic B’s winless streak in the Premier League International Cup continued on Wednesday night with a 3-1 defeat away to Chelsea’s U21s side. Jimmy-Jay Morgan...",
+          "link": "https://www.67hailhail.com/celtic-youth/celtic-beaten-by-chelsea-in-wednesday-night-premier-league-international-cup-clash/",
+          "publishedOn": "2023-12-20T20:59:19.000Z",
+          "wordCount": 1358,
+          "title": "Celtic beaten by Chelsea in Wednesday night Premier League International Cup clash",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/12/GettyImages-1716998743-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=184159",
+          "author": "Amir Mir",
+          "description": "There has been a lot of talk about who Celtic might buy during the January transfer window, but players need to leave before that happens....",
+          "link": "https://www.67hailhail.com/transfers/journalist-shares-what-those-inside-celtic-think-of-gustaf-lagerbielke/",
+          "publishedOn": "2023-12-20T20:20:00.000Z",
+          "wordCount": 1367,
+          "title": "‘It's felt inside Celtic’: Journalist shares what the club really think of Gustaf Lagerbielke",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/11/GettyImages-1676989016-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=184144",
           "author": "Amir Mir",
