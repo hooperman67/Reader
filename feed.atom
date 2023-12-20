@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-12-20T12:16:11.589Z</updated>
+    <updated>2023-12-20T14:08:15.485Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tribute to Shane]]></title>
+        <id>https://celticfanzine.com/?p=58539</id>
+        <link href="https://celticfanzine.com/tribute-to-shane/"/>
+        <updated>2023-12-20T13:35:20.000Z</updated>
+        <summary type="html"><![CDATA[* TICKETS ON SALE * Tribute to Shane Saturday 06 Jan We are delighted to announce that Paul Sheridan – Singer, Songwriter of Glasgow Irish Folk Rockers, The Wakes will be joining us to celebrate the life and music of Legendary Pogues front man, Shane MacGowan. Paul will join Ronan McQuillan from the Enemies and […]
+The post Tribute to Shane appeared first on Celtic Fanzine.]]></summary>
+        <author>
+            <name>celtic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Skewed reporting of ticket ‘dispute’]]></title>
         <id>https://www.celticquicknews.co.uk/?p=115530</id>
