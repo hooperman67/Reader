@@ -488,7 +488,23 @@
       "title": "eTims",
       "feedUrl": "http://etims.net/?feed=rss2",
       "siteUrl": "https://etims.net",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://etims.net/?p=18556",
+          "author": "Desi Mond",
+          "description": "Ralph, Hector and Monty join Desi to wish everyone a Merry Xmas and a Happy New Year and also look at the current quandry that…",
+          "link": "https://etims.net/?p=18556",
+          "publishedOn": "2023-12-20T22:09:47.000Z",
+          "wordCount": 2593,
+          "title": "ETims 2023 Awards Podcast",
+          "enclosure": {
+            "url": "https://api.spreaker.com/v2/episodes/58076568/download.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://etims.net/wp-content/uploads/2023/12/etsmwin.png"
+        }
+      ]
     },
     {
       "title": "The Celtic Underground",
@@ -801,26 +817,6 @@
           "wordCount": 1407,
           "title": "Report: £4m Celtic deal now expected to go through; could hasten exit of Ange-signed talent",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/12/GettyImages-1774269823-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=183686",
-          "author": "John McGinley",
-          "description": "Celtic are busy preparing for a pivotal January transfer window and it seems the month could throw up some surprising transfer business. Just six months...",
-          "link": "https://www.67hailhail.com/transfers/report-indicates-brendan-rodgers-will-show-ruthless-edge-in-celtic-january-transfer-window/",
-          "publishedOn": "2023-12-16T11:29:49.000Z",
-          "wordCount": 1295,
-          "title": "Report: Brendan Rodgers set to show ruthless edge in Celtic January transfer window",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/12/GettyImages-1769073321-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=183681",
-          "author": "John McGinley",
-          "description": "Celtic can extend their Scottish Premiership points lead with a win over Hearts at Celtic Park on Saturday. With second-placed Rangers not featuring in league...",
-          "link": "https://www.67hailhail.com/match/3-changes-boost-for-rodgers-celtic-predicted-xi-vs-hearts/",
-          "publishedOn": "2023-12-16T10:56:10.000Z",
-          "wordCount": 1299,
-          "title": "3 changes, boost for Rodgers; Celtic Predicted XI vs Hearts",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/12/GettyImages-1855381055-scaled.jpg"
         }
       ]
     },

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-12-20T22:09:35.191Z</updated>
+    <updated>2023-12-21T00:49:13.204Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ETims 2023 Awards Podcast]]></title>
+        <id>https://etims.net/?p=18556</id>
+        <link href="https://etims.net/?p=18556"/>
+        <updated>2023-12-20T22:09:47.000Z</updated>
+        <summary type="html"><![CDATA[Ralph, Hector and Monty join Desi to wish everyone a Merry Xmas and a Happy New Year and also look at the current quandry that…]]></summary>
+        <author>
+            <name>Desi Mond</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA['I am surprised': Neil Lennon can't believe what Brendan Rodgers hasn't done at Celtic]]></title>
         <id>https://www.67hailhail.com/?p=184182</id>
@@ -554,26 +564,6 @@ The post More than 90 Minutes Issue 130 appeared first on Celtic Fanzine.]]></su
         <link href="https://www.67hailhail.com/transfers/4m-celtic-deal-now-likely-and-it-could-hasten-exit-of-fringe-player/"/>
         <updated>2023-12-16T12:56:12.000Z</updated>
         <summary type="html"><![CDATA[Celtic have lots of work to do on the pitch before the winter break but January’s work off of it will be just as pivotal...]]></summary>
-        <author>
-            <name>John McGinley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Report: Brendan Rodgers set to show ruthless edge in Celtic January transfer window]]></title>
-        <id>https://www.67hailhail.com/?p=183686</id>
-        <link href="https://www.67hailhail.com/transfers/report-indicates-brendan-rodgers-will-show-ruthless-edge-in-celtic-january-transfer-window/"/>
-        <updated>2023-12-16T11:29:49.000Z</updated>
-        <summary type="html"><![CDATA[Celtic are busy preparing for a pivotal January transfer window and it seems the month could throw up some surprising transfer business. Just six months...]]></summary>
-        <author>
-            <name>John McGinley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 changes, boost for Rodgers; Celtic Predicted XI vs Hearts]]></title>
-        <id>https://www.67hailhail.com/?p=183681</id>
-        <link href="https://www.67hailhail.com/match/3-changes-boost-for-rodgers-celtic-predicted-xi-vs-hearts/"/>
-        <updated>2023-12-16T10:56:10.000Z</updated>
-        <summary type="html"><![CDATA[Celtic can extend their Scottish Premiership points lead with a win over Hearts at Celtic Park on Saturday. With second-placed Rangers not featuring in league...]]></summary>
         <author>
             <name>John McGinley</name>
         </author>
