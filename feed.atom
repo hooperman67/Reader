@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-12-21T14:09:44.143Z</updated>
+    <updated>2023-12-21T16:13:16.350Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aberdeen chairman cites Celtic with 'change forever' verdict after European Super League ruling]]></title>
+        <id>https://www.67hailhail.com/?p=184300</id>
+        <link href="https://www.67hailhail.com/news/aberdeen-chairman-cites-celtic-with-change-forever-verdict-after-european-super-league-ruling/"/>
+        <updated>2023-12-21T15:44:08.000Z</updated>
+        <summary type="html"><![CDATA[Aberdeen chairman Dave Cormack has responded to the latest European Super League developments, stating that the financial gap between the Dons and Celtic could double....]]></summary>
+        <author>
+            <name>John McGinley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic release statement on the European Super League as new 64-team format is unveiled]]></title>
+        <id>https://www.67hailhail.com/?p=184278</id>
+        <link href="https://www.67hailhail.com/news/celtics-stance-on-the-european-super-league-as-new-64-team-format-is-unveiled/"/>
+        <updated>2023-12-21T14:18:00.000Z</updated>
+        <summary type="html"><![CDATA[Celtic are watching closely after the concept of a European Super League burst back into the footballing headlines again on Thursday. It’s been previously reported...]]></summary>
+        <author>
+            <name>John McGinley</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘My concern’: Martin O’Neill expresses one Celtic worry for showdown against Rangers]]></title>
         <id>https://www.67hailhail.com/?p=184280</id>
