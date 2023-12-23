@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=115593",
+          "author": "CQN Magazine",
+          "description": "CELTIC 2  LIVINGSTON 0 KYOGO FURUHASHI ended his agonising seven-game goal drought just when Celtic needed him most against stubborn Livingston at rainswept Parkhead this afternoon. The champions had been relentless in the pursuit of the breakthrough strike throughout a one-sided opening period, but had nothing to show for their efforts. Kyogo had been denied [...]",
+          "link": "https://www.celticquicknews.co.uk/celtic-2-livingston-0-kyogo-cracks-it-in-old-routine/",
+          "publishedOn": "2023-12-23T16:57:33.000Z",
+          "wordCount": 4630,
+          "title": "CELTIC 2 LIVINGSTON 0: KYOGO CRACKS IT IN OLD ROUTINE",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/12/CELTIC-HUDDLE-V-HEARTS-0-2-DEC-16-2023.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=115591",
           "author": "Paul67",
           "description": "Live updates will appear before after 15.00.",
@@ -244,16 +254,6 @@
           "wordCount": 4277,
           "title": "CELTIC CLEAR-OUT: £3.75m MISFIT HEADS FOR EXIT",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/12/ALEXANDRO-BERNABEI-NEW-EXIT-FEATURED.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=101056",
-          "author": "CQN Magazine",
-          "description": "BRENDAN RODGERS won his seventh successive domestic honour as Celtic manager before Neil Lennon took over to guide the Hoops to an outstanding treble treble in the eventful season of 2018/19. Even the abrupt and unexpected change of team boss in February could not derail the Parkhead from their relentless pursuit of domestic silverware in [...]",
-          "link": "https://www.celticquicknews.co.uk/treble-treble-season-2018-19/",
-          "publishedOn": "2023-12-19T05:30:14.000Z",
-          "wordCount": 4589,
-          "title": "TREBLE TREBLE (Season 2018/19)",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/12/SCOTT-SINCLAIR-ODSONNE-EDOUARD-2019.png"
         }
       ]
     },
@@ -548,6 +548,26 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=184429",
+          "author": "John McGinley",
+          "description": "Celtic manager Brendan Rodgers has been giving his reaction to Saturday’s 2-0 win over Livingston in the Scottish Premiership. The pressure was on the Bhoys...",
+          "link": "https://www.67hailhail.com/match/brendan-rodgers-delivers-verdict-on-celtic-performance-and-result-against-livingston/",
+          "publishedOn": "2023-12-23T17:42:36.000Z",
+          "wordCount": 1430,
+          "title": "Brendan Rodgers delivers verdict on Celtic performance and result against Livingston",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/12/GettyImages-1877481652-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=184422",
+          "author": "John McGinley",
+          "description": "Celtic are back to winning ways in the Scottish Premiership after comfortably beating Livingston by a 2-0 goal margin at Celtic Park on Saturday. Kyogo...",
+          "link": "https://www.67hailhail.com/match/rodgers-gets-reaction-summer-signing-shines-3-things-we-learned-as-celtic-beat-livingston/",
+          "publishedOn": "2023-12-23T17:00:48.000Z",
+          "wordCount": 1553,
+          "title": "Rodgers gets reaction, summer signing shines; 3 things we learned as Celtic beat Livingston",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/12/GettyImages-1877363240-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=184418",
           "author": "John McGinley",
