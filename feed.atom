@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-12-25T04:12:47.753Z</updated>
+    <updated>2023-12-25T06:14:16.679Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CLOBBERED ON CHRISTMAS DAY: CELTIC SHOCKER FOR CLUB LEGEND]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=86695</id>
+        <link href="https://www.celticquicknews.co.uk/clobbered-on-christmas-day-celtic-shocker-for-club-legend/"/>
+        <updated>2023-12-25T06:00:14.000Z</updated>
+        <summary type="html"><![CDATA[CELTIC had a Christmas Day shock in store for club legend Jimmy McGrory, their unchallenged highest scorer in history with over 550 goals, when he made his debut as Kilmarnock manager. The Hoops great, who had just quit playing at the age of 33 to take over as boss of the Ayrshire club, returned to [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CQN’S BUMPER CHRISTMAS QUIZ: ALL IS REVEALED]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=115545</id>
+        <link href="https://www.celticquicknews.co.uk/cqns-bumper-christmas-quiz-all-is-revealed-2/"/>
+        <updated>2023-12-25T05:30:26.000Z</updated>
+        <summary type="html"><![CDATA[HOW did you get on in CQN‘s Bumper Christmas Quiz when we asked the questions yesterday? We posed 10 queries to test your knowledge of how the champions are faring at home and abroad this season. Now we provide the answers. Check and see how you scored! QUESTIONS:  1: Who scored Celtic’s first Premiership goal [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA['They might be brave': Celtic told if they would pay '£4m' for striker with more goals than Kyogo]]></title>
         <id>https://www.67hailhail.com/?p=184525</id>
