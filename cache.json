@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=115661",
+          "author": "CQN Magazine",
+          "description": "YOSUKE IDEGUCHI will kick off Celtic’s feverish transfer activity in the January window by sealing a permanent return to the J-League. The midfielder, whose career at the Hoops stalled through injury shortly after his arrival from Gamba Osaka in January 2022, will confirm a deal with Vissel Kobe within the next fortnight. Ideguchi is currently on [...]",
+          "link": "https://www.celticquicknews.co.uk/two-for-the-road/",
+          "publishedOn": "2023-12-26T08:25:21.000Z",
+          "wordCount": 4130,
+          "title": "TWO FOR THE ROAD",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/12/YOSUKE-IDEGUCHI-NEW-FEATURED-JJ.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=115659",
           "author": "CQN Magazine",
           "description": "MATT O’RILEY will NOT be moving to Inter Milan next month. News leaked last week the Serie A outfit were about to firm up their interest in Celtic’s in-form midfielder. However, as CQN forecast at the time, the champions will not be interested in selling the 23-year-old midfielder who has scored nine goals and had eight assists in [...]",
@@ -642,6 +652,26 @@
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
         {
+          "id": "https://www.67hailhail.com/?p=184548",
+          "author": "John McGinley",
+          "description": "While most of us were enjoying Christmas dinner and the usual festive celebrations yesterday, the Celtic squad were busy preparing for today’s trip to Dens...",
+          "link": "https://www.67hailhail.com/match/celtics-christmas-day-sacrifice-to-prepare-for-dundee/",
+          "publishedOn": "2023-12-26T09:01:53.000Z",
+          "wordCount": 1369,
+          "title": "Celtic's Christmas Day sacrifice to prepare for Dundee",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/12/GettyImages-1842162877-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=184543",
+          "author": "John McGinley",
+          "description": "Celtic’s festive season continues in a 3pm Boxing Day match away to Dundee in the Scottish Premiership and it’s another crucial encounter. The Bhoys have...",
+          "link": "https://www.67hailhail.com/match/celtic-team-news-and-predicted-xi-for-boxing-day-dundee-clash/",
+          "publishedOn": "2023-12-26T08:26:00.000Z",
+          "wordCount": 1308,
+          "title": "Celtic team news and Predicted XI for Boxing Day Dundee clash",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/12/GettyImages-1877194528-scaled.jpg"
+        },
+        {
           "id": "https://www.67hailhail.com/?p=184083",
           "author": "Amir Mir",
           "description": "These last few weeks might not have gone the way Celtic fans would have liked, but 2023 overall has served the club very well. Ange...",
@@ -880,26 +910,6 @@
           "wordCount": 1277,
           "title": "Celtic boss Brendan Rodgers plays down transfer concerns",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/12/GettyImages-1853021822-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=184366",
-          "author": "Amir Mir",
-          "description": "Joe Hart is Celtic and Brendan Rodgers’ number one goalkeeper, but you have to question for how long? On one hand, the 36-year-old is out...",
-          "link": "https://www.67hailhail.com/news/martin-oneill-defends-1m-celtic-man-who-is-a-really-fine-player-despite-criticism/",
-          "publishedOn": "2023-12-21T21:50:00.000Z",
-          "wordCount": 1286,
-          "title": "‘He has come in for criticism’: Martin O’Neill defends £1m Celtic man who is a 'really fine' player",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/06/GettyImages-1493714500-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=184347",
-          "author": "Amir Mir",
-          "description": "This is Brendan Rodgers’ second spell as the Celtic manager and he hasn’t felt pressure like it. The first time around, he cake-walked Scottish football...",
-          "link": "https://www.67hailhail.com/news/john-hartson-explains-why-liam-scales-is-a-one-off-for-celtic-sends-an-urgent-message-to-brendan-rodgers/",
-          "publishedOn": "2023-12-21T20:15:00.000Z",
-          "wordCount": 1404,
-          "title": "John Hartson says Celtic defender has been a ‘one-off’ as he urges Brendan Rodgers to do more",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/12/GettyImages-1859931841-scaled.jpg"
         }
       ]
     },
