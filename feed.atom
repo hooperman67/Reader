@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-12-27T10:11:06.178Z</updated>
+    <updated>2023-12-27T12:18:29.875Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Paulo clicks]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=115701</id>
+        <link href="https://www.celticquicknews.co.uk/paulo-clicks/"/>
+        <updated>2023-12-27T12:00:24.000Z</updated>
+        <summary type="html"><![CDATA[It wasn’t Celtic at their devastating best, but there was enough on show to reassure us that the malaise which had afflicted the champions in recent weeks is easing. Brendan Rodgers chopped and changed who accompanied Callum McGregor and Matt O’Riley in midfield, before handing Paulo Bernardo consecutive starts – and the team the change [...]]]></summary>
+        <author>
+            <name>Paul67</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BRENDAN’S BOXING DAY ANGUISH]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=115764</id>
+        <link href="https://www.celticquicknews.co.uk/brendans-boxing-day-anguish/"/>
+        <updated>2023-12-27T11:46:07.000Z</updated>
+        <summary type="html"><![CDATA[THE game was edging towards the half-hour mark with Celtic dominating the flow of play against Dundee at Dens Park. It was a one-sided Boxing Day encounter, but the champions had yet to be rewarded for their supremecy as they pushed the hosts onto the back-foot right from the kick-off in a must-win contest. In [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘THE CHALLENGE FOR MIKEY,’ BRENDAN’S VERDICT]]></title>
         <id>https://www.celticquicknews.co.uk/?p=115699</id>
