@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=111476",
+          "author": "CQN Magazine",
+          "description": "BRENDAN RODGERS is preparing for the second derby since his return to Celtic in June after enjoying a 1-0 success at Ibrox earlier in the campaign. In his first stint, the Hoops gaffer enjoyed phenomenal success against the city rivals in his first spell between May 2016 and February 2019. Rodgers faced the Govan club [...]",
+          "link": "https://www.celticquicknews.co.uk/rodgers-v-rangers-part-two/",
+          "publishedOn": "2023-12-27T06:30:26.000Z",
+          "wordCount": 4693,
+          "title": "RODGERS v RANGERS (Part Two)",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/08/BRENDAN-RODGERS-V-RANGERS-FEATURED-WW.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=111451",
           "author": "CQN Magazine",
           "description": "BRENDAN RODGERS faced Ibrox opposition 13 times in his first stint as Celtic manager. The elite coach enjoyed TEN wins along with two draws and a solitary loss. Rodgers watched the Hoops hammer THIRTY-ONE goals into their rivals’ net with only seven conceded. The Hoops gaffer got his second coming off to a perfect start [...]",
@@ -652,6 +662,26 @@
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
         {
+          "id": "https://www.67hailhail.com/?p=184600",
+          "author": "Amir Mir",
+          "description": "Hyeongyu Oh is still trying to fight to prove his worth at Celtic following his £2.5 million transfer last January. On Boxing Day, Celtic recorded...",
+          "link": "https://www.67hailhail.com/match/chris-sutton-shares-hyeongyu-oh-concern-despite-celtics-3-0-win-over-dundee/",
+          "publishedOn": "2023-12-27T08:10:00.000Z",
+          "wordCount": 1405,
+          "title": "‘He didn’t’: Chris Sutton says £2.5m Celtic star 'lacking belief' despite win over Dundee",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/12/GettyImages-1252556782-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=184583",
+          "author": "Amir Mir",
+          "description": "That was a moment Mikey Johnston has been waiting for in Celtic colours and his latest performance was applauded by Shane Duffy and Paulo Bernardo. ...",
+          "link": "https://www.67hailhail.com/match/shane-duffy-and-paulo-bernardo-wowed-by-celtic-stars-display-after-3-0-win-over-dundee/",
+          "publishedOn": "2023-12-27T07:30:00.000Z",
+          "wordCount": 1373,
+          "title": "‘Magic’: Shane Duffy & Paulo Bernardo wowed by Celtic star’s display against Dundee",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/12/GettyImages-1877194528-scaled.jpg"
+        },
+        {
           "id": "https://www.67hailhail.com/?p=184578",
           "author": "John McGinley",
           "description": "Celtic aren’t interested in selling midfielder Matt O’Riley in the upcoming January transfer window, according to a new report. In addition, it’s stated that the...",
@@ -890,26 +920,6 @@
           "wordCount": 1316,
           "title": "Big return: Celtic XI confirmed, 2 changes, broadcast details, instant reaction",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/10/GettyImages-1093333628-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=184414",
-          "author": "John McGinley",
-          "description": "Liam Scales believes Celtic supporters were right to be angry and disappointed after last week’s 2-0 defeat to Hearts. The Republic of Ireland international has...",
-          "link": "https://www.67hailhail.com/news/liam-scales-responds-to-last-weeks-celtic-park-booing-ahead-of-livingston-test/",
-          "publishedOn": "2023-12-22T20:05:02.000Z",
-          "wordCount": 1383,
-          "title": "Celtic star responds to last week's fan booing ahead of Livingston test",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/12/GettyImages-1860324927-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=184409",
-          "author": "John McGinley",
-          "description": "Celtic head into the weekend’s action against Livingston top of the Scottish Premiership but there is little room for error as the title race heats...",
-          "link": "https://www.67hailhail.com/match/celtic-team-news-ahead-of-livingston-one-return-first-start-for-6-weeks-midfielder-ruled-out/",
-          "publishedOn": "2023-12-22T19:19:12.000Z",
-          "wordCount": 1364,
-          "title": "Celtic team news ahead of Livingston; one return, first start for 6 weeks, midfielder ruled out",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/12/GettyImages-1842191644-scaled.jpg"
         }
       ]
     },
