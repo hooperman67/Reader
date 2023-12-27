@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-12-27T12:18:29.875Z</updated>
+    <updated>2023-12-27T14:09:31.504Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[‘What’s this all about’: BBC pundit ‘surprised’ by Hyeongyu Oh's actions in Celtic warm-up v Dundee]]></title>
+        <id>https://www.67hailhail.com/?p=184640</id>
+        <link href="https://www.67hailhail.com/news/bbc-pundit-surprised-by-hyeongyu-ohs-actions-in-celtic-warm-up-questions-whats-this-all-about/"/>
+        <updated>2023-12-27T12:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Pat Bonner reacted to Hyeongyu Oh’s unique way of warming up for Celtic games, as he proved again on Boxing Day against Dundee.  Celtic romped...]]></summary>
+        <author>
+            <name>Amir Mir</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Paulo clicks]]></title>
         <id>https://www.celticquicknews.co.uk/?p=115701</id>
