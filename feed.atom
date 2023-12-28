@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-12-28T10:11:15.800Z</updated>
+    <updated>2023-12-28T12:18:33.241Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[No excuses]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=115785</id>
+        <link href="https://www.celticquicknews.co.uk/no-excuses/"/>
+        <updated>2023-12-28T12:00:21.000Z</updated>
+        <summary type="html"><![CDATA[It’s unfortunate that our next opponents had a clear midweek while we played on Tuesday, but we’re not ones for excuses around here.  We have the strongest squad in the country and should have more than enough in the tank to get through our next two games. Cameron Carter-Vickers’ fitness well be a concern for [...]]]></summary>
+        <author>
+            <name>Paul67</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TWO AREAS WHERE CELTIC MUST STRENGTHEN: LEGEND’S VERDICT]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=115786</id>
+        <link href="https://www.celticquicknews.co.uk/two-areas-where-celtic-must-strengthen-legends-verdict/"/>
+        <updated>2023-12-28T11:47:16.000Z</updated>
+        <summary type="html"><![CDATA[NEIL LENNON has identified two positions where Celtic urgently need strengthening in the January Sales. The former Hoops boss believes Brendan Rodgers will be looking for a defensive-minded midfielder to take some of the burden off skipper Callum McGregor. And Lennon, who had two stints as the man in charge at Parkhead, insists back-up frontman [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kris Boyd needs to be put in his place after bonkers claim about Celtic star Kyogo on Sky last night]]></title>
+        <id>https://www.67hailhail.com/?p=184737</id>
+        <link href="https://www.67hailhail.com/news/kris-boyd-needs-a-reality-check-after-claim-about-celtics-kyogo-furuhashi-hearts-star-lawrence-shankland/"/>
+        <updated>2023-12-28T11:10:00.000Z</updated>
+        <summary type="html"><![CDATA[‘Kyogo couldn’t finish like that’ were the words uttered by Kris Boyd about Celtic’s talisman during Hearts’ 1-0 win over Hibernian on Wednesday night. Lawrence...]]></summary>
+        <author>
+            <name>Amir Mir</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘A red herring’: Celtic told Rodgers could spring a surprise by starting £1.4m star v Rangers]]></title>
         <id>https://www.67hailhail.com/?p=184719</id>
