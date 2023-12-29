@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-12-29T06:13:51.498Z</updated>
+    <updated>2023-12-29T08:13:12.109Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[KYOGO AND THE JOY OF SIX]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=115036</id>
+        <link href="https://www.celticquicknews.co.uk/kyogo-and-the-joy-of-six-2/"/>
+        <updated>2023-12-29T07:00:32.000Z</updated>
+        <summary type="html"><![CDATA[KYOGO FURUHASHI had to wait until January 2 this year to claim his first goal against Ibrox opposition. The Japanese international striker fired blanks against Celtic’s city foes – then managed by Steven Gerrard – when he made his derby debut in Govan on August 29 2021,  just under a month after his £4.6million arrival [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RODGERS v RANGERS (Part Six)]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=115778</id>
+        <link href="https://www.celticquicknews.co.uk/rodgers-v-rangers-part-six/"/>
+        <updated>2023-12-29T06:30:46.000Z</updated>
+        <summary type="html"><![CDATA[BRENDAN RODGERS got the Glasgow derby-winning show on the road again when he masterminded the 1-0 triumph at Ibrox on September 3. Following 10 victories, two draws and a solitary loss in his first stint, the Irishman returned to the fixture for the first time following an absence of over four and a half years [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RODGERS v RANGERS (Part Five)]]></title>
         <id>https://www.celticquicknews.co.uk/?p=111583</id>
