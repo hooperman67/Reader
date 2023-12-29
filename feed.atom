@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-12-29T12:16:21.930Z</updated>
+    <updated>2023-12-29T14:09:28.009Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chris Sutton senses Celtic tactical switch from Brendan Rodgers vs Rangers]]></title>
+        <id>https://www.67hailhail.com/?p=184833</id>
+        <link href="https://www.67hailhail.com/match/chris-sutton-senses-celtic-tactical-switch-from-brendan-rodgers-vs-rangers/"/>
+        <updated>2023-12-29T13:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Former Celtic striker Chris Sutton is intrigued by what the Bhoys’ attack will look like against Rangers in this weekend’s derby, suggesting there could be...]]></summary>
+        <author>
+            <name>John McGinley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALEX’S ANGLE: SEISMIC SWITCH? DON’T MAKE ME LAUGH]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=115824</id>
+        <link href="https://www.celticquicknews.co.uk/alexs-angle-seismic-switch-dont-make-me-laugh/"/>
+        <updated>2023-12-29T13:01:06.000Z</updated>
+        <summary type="html"><![CDATA[FOLK who really should know a lot better have been wittering on about “a seismic shift” in power in Glasgow in recent weeks. That observation is as hysterical as it is hilarious. There has also been talk from a former player of “a little bit of panic” setting in over in the east end of [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brendan Rodgers' big message to Celtic dressing room ahead of Rangers derby]]></title>
+        <id>https://www.67hailhail.com/?p=184830</id>
+        <link href="https://www.67hailhail.com/match/brendan-rodgers-big-message-to-celtic-dressing-room-ahead-of-rangers-derby/"/>
+        <updated>2023-12-29T12:36:56.000Z</updated>
+        <summary type="html"><![CDATA[Celtic’s final game of 2023 is also one of the biggest of the calendar year – a derby at home to Rangers amidst a fully-ignited...]]></summary>
+        <author>
+            <name>John McGinley</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic must beware arbitrary red card]]></title>
         <id>https://www.celticquicknews.co.uk/?p=115821</id>
