@@ -424,16 +424,6 @@
           "wordCount": 4277,
           "title": "‘I NEED TO IMPROVE,’ MIKEY’S VERDICT",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/12/MIKEY-JOHNSTON-DENS-JOY-FEATURED.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=111476",
-          "author": "CQN Magazine",
-          "description": "BRENDAN RODGERS is preparing for the second derby since his return to Celtic in June after enjoying a 1-0 success at Ibrox earlier in the campaign. In his first stint, the Hoops gaffer enjoyed phenomenal success against the city rivals in his first spell between May 2016 and February 2019. Rodgers faced the Govan club [...]",
-          "link": "https://www.celticquicknews.co.uk/rodgers-v-rangers-part-two/",
-          "publishedOn": "2023-12-27T06:30:26.000Z",
-          "wordCount": 4693,
-          "title": "RODGERS v RANGERS (Part Two)",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/08/BRENDAN-RODGERS-V-RANGERS-FEATURED-WW.png"
         }
       ]
     },
@@ -701,6 +691,16 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=184993",
+          "author": "Amir Mir",
+          "description": "Callum McGregor is Celtic captain for a reason and he proved it during the 2-1 Glasgow derby win over Rangers. From the get-go, Callum McGregor...",
+          "link": "https://www.67hailhail.com/match/james-mcfadden-hails-callum-mcgregor-for-bossing-rangers-todd-cantwell-during-celtic-win/",
+          "publishedOn": "2023-12-31T19:30:00.000Z",
+          "wordCount": 1515,
+          "title": "‘He got nowhere near him’: James McFadden says Celtic star bossed Rangers around",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/02/GettyImages-1308232604-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=184977",
           "author": "Amir Mir",
@@ -1010,26 +1010,6 @@
           "wordCount": 1366,
           "title": "Forgotten man Gustaf Lagerbielke sends 2-word message to Celtic midfielder after win over Dundee",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/11/GettyImages-1676989016-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=184600",
-          "author": "Amir Mir",
-          "description": "Hyeongyu Oh is still trying to fight to prove his worth at Celtic following his £2.5 million transfer last January. On Boxing Day, Celtic recorded...",
-          "link": "https://www.67hailhail.com/match/chris-sutton-shares-hyeongyu-oh-concern-despite-celtics-3-0-win-over-dundee/",
-          "publishedOn": "2023-12-27T08:10:00.000Z",
-          "wordCount": 1405,
-          "title": "‘He didn’t’: Chris Sutton says £2.5m Celtic star 'lacking belief' despite win over Dundee",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/12/GettyImages-1252556782-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=184583",
-          "author": "Amir Mir",
-          "description": "That was a moment Mikey Johnston has been waiting for in Celtic colours and his latest performance was applauded by Shane Duffy and Paulo Bernardo. ...",
-          "link": "https://www.67hailhail.com/match/shane-duffy-and-paulo-bernardo-wowed-by-celtic-stars-display-after-3-0-win-over-dundee/",
-          "publishedOn": "2023-12-27T07:30:00.000Z",
-          "wordCount": 1373,
-          "title": "‘Magic’: Shane Duffy & Paulo Bernardo wowed by Celtic star’s display against Dundee",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/12/GettyImages-1877194528-scaled.jpg"
         }
       ]
     },

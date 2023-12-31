@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2023-12-31T18:11:53.359Z</updated>
+    <updated>2023-12-31T20:10:27.310Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[‘He got nowhere near him’: James McFadden says Celtic star bossed Rangers around]]></title>
+        <id>https://www.67hailhail.com/?p=184993</id>
+        <link href="https://www.67hailhail.com/match/james-mcfadden-hails-callum-mcgregor-for-bossing-rangers-todd-cantwell-during-celtic-win/"/>
+        <updated>2023-12-31T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Callum McGregor is Celtic captain for a reason and he proved it during the 2-1 Glasgow derby win over Rangers. From the get-go, Callum McGregor...]]></summary>
+        <author>
+            <name>Amir Mir</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA['What a player’: Luis Palma hails Celtic 21-year-old after win over Rangers]]></title>
         <id>https://www.67hailhail.com/?p=184977</id>
@@ -765,36 +775,6 @@ The post Gig Review  Jamie Webster  Glasgow O2 Academy appeared first on Celtic 
         <link href="https://www.celticquicknews.co.uk/i-need-to-improve-mikeys-verdict/"/>
         <updated>2023-12-27T08:26:25.000Z</updated>
         <summary type="html"><![CDATA[MIKEY JOHNSTON fired a timely reminder to Brendan Rodgers with his double salvo in the 3-0 Boxing Day triumph over Dundee at Dens Park. The champions were dominating the Tayside encounter following Paulo Bernardo’s first strike for the club shortly after the turnaround, but there was always the possibility of the hosts pinching a dreaded [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘He didn’t’: Chris Sutton says £2.5m Celtic star 'lacking belief' despite win over Dundee]]></title>
-        <id>https://www.67hailhail.com/?p=184600</id>
-        <link href="https://www.67hailhail.com/match/chris-sutton-shares-hyeongyu-oh-concern-despite-celtics-3-0-win-over-dundee/"/>
-        <updated>2023-12-27T08:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Hyeongyu Oh is still trying to fight to prove his worth at Celtic following his £2.5 million transfer last January. On Boxing Day, Celtic recorded...]]></summary>
-        <author>
-            <name>Amir Mir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘Magic’: Shane Duffy & Paulo Bernardo wowed by Celtic star’s display against Dundee]]></title>
-        <id>https://www.67hailhail.com/?p=184583</id>
-        <link href="https://www.67hailhail.com/match/shane-duffy-and-paulo-bernardo-wowed-by-celtic-stars-display-after-3-0-win-over-dundee/"/>
-        <updated>2023-12-27T07:30:00.000Z</updated>
-        <summary type="html"><![CDATA[That was a moment Mikey Johnston has been waiting for in Celtic colours and his latest performance was applauded by Shane Duffy and Paulo Bernardo. ...]]></summary>
-        <author>
-            <name>Amir Mir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RODGERS v RANGERS (Part Two)]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=111476</id>
-        <link href="https://www.celticquicknews.co.uk/rodgers-v-rangers-part-two/"/>
-        <updated>2023-12-27T06:30:26.000Z</updated>
-        <summary type="html"><![CDATA[BRENDAN RODGERS is preparing for the second derby since his return to Celtic in June after enjoying a 1-0 success at Ibrox earlier in the campaign. In his first stint, the Hoops gaffer enjoyed phenomenal success against the city rivals in his first spell between May 2016 and February 2019. Rodgers faced the Govan club [...]]]></summary>
         <author>
             <name>CQN Magazine</name>
         </author>
