@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-01-02T04:12:46.507Z</updated>
+    <updated>2024-01-02T06:13:48.594Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NEW YEAR PICTURE QUIZ: ALL IS REVEALED]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=115269</id>
+        <link href="https://www.celticquicknews.co.uk/new-year-picture-quiz-all-is-revealed/"/>
+        <updated>2024-01-02T06:00:08.000Z</updated>
+        <summary type="html"><![CDATA[HOW did you get on with CQN‘s Bumper New Year Picture Quiz? We asked you if you could identify the former Celtic players in our six images to test your knowledge. Today we provide the identities of the mystery men. PIC A It’s a young Neil Lennon, of course, sporting a blond look shortly after [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHATEVER HAPPENED TO…JOHN GUIDETTI?]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=108549</id>
+        <link href="https://www.celticquicknews.co.uk/whatever-happened-to-john-guidetti/"/>
+        <updated>2024-01-02T05:30:47.000Z</updated>
+        <summary type="html"><![CDATA[JOHN GUIDETTI became an instant hit with the Celtic fans after arriving on a season-long loan from Manchester City in September 2014. Ronny Deila urgently required firepower and the Swedish striker looked to be the answer when he scored his first goal in his second appearance, a 3-0 League Cup win over Hearts in Glasgow. [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KYOGO OVERLOOKED: GOOD NEWS FOR RODGERS]]></title>
         <id>https://www.celticquicknews.co.uk/?p=116053</id>
@@ -633,26 +653,6 @@ The post Diminished Returns appeared first on Celtic Fanzine.]]></summary>
         <link href="https://www.67hailhail.com/news/chris-sutton-baffled-by-what-has-happened-to-gustaf-lagerbielke-and-maik-nawrocki-at-celtic/"/>
         <updated>2023-12-28T18:40:00.000Z</updated>
         <summary type="html"><![CDATA[Where are Gustaf Lagerbielke and Maik Nawrocki?  That’s a question Chris Sutton wants the answer to as the duo were absent for Celtic once again...]]></summary>
-        <author>
-            <name>Amir Mir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Sore head': Scott Brown suggests Celtic fringe player could now start against Rangers]]></title>
-        <id>https://www.67hailhail.com/?p=184793</id>
-        <link href="https://www.67hailhail.com/news/scott-brown-drops-interesting-selection-claim-about-mikey-johnston-ahead-of-celtic-v-rangers/"/>
-        <updated>2023-12-28T17:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Just when you thought the end was near for Mikey Johnston at Celtic, he comes off the bench and nets a brace. On paper, Celtic...]]></summary>
-        <author>
-            <name>Amir Mir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘He was the best in Scotland’: BBC pundit thinks ‘outstanding’ Celtic star could now be replaced]]></title>
-        <id>https://www.67hailhail.com/?p=184776</id>
-        <link href="https://www.67hailhail.com/transfers/celtic-legend-speaks-about-greg-taylors-future-ahead-of-january-transfer-window/"/>
-        <updated>2023-12-28T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[There are so many areas of the pitch that Celtic could look to enhance during the January transfer window from centre-back to the striker department....]]></summary>
         <author>
             <name>Amir Mir</name>
         </author>
