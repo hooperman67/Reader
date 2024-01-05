@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-01-05T12:19:24.607Z</updated>
+    <updated>2024-01-05T14:10:00.533Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CELTIC IN PREMIERSHIP SWITCH]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=116247</id>
+        <link href="https://www.celticquicknews.co.uk/celtic-in-premiership-switch/"/>
+        <updated>2024-01-05T12:43:41.000Z</updated>
+        <summary type="html"><![CDATA[CELTIC’S Premiership match against Hearts at Tynecastle has been switched to Sunday March 3 with a midday kick-off. The game was scheduled to be played the previous day with a 3pm start, but has been moved with Sky Sports electing to show the action live. It will be the third time the teams have met [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA['The answer is': Kieran Tierney issues a clear message about his future amid Celtic declaration]]></title>
         <id>https://www.67hailhail.com/?p=185442</id>
