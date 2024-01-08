@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-01-08T06:14:39.259Z</updated>
+    <updated>2024-01-08T08:14:51.803Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Brendan Rodgers explains ongoing issue for Kyogo at Celtic]]></title>
+        <id>https://www.67hailhail.com/?p=185615</id>
+        <link href="https://www.67hailhail.com/news/brendan-rodgers-explains-ongoing-issue-for-kyogo-at-celtic/"/>
+        <updated>2024-01-08T08:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Celtic boss Brendan Rodgers has addressed the situation regarding Kyogo Furuhashi and a shoulder issue that he is currently managing, refuting the suggestion he needs...]]></summary>
+        <author>
+            <name>John McGinley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SALES TALK: JORDAN HENDERSON FOR CELTIC? WHY?]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=116295</id>
+        <link href="https://www.celticquicknews.co.uk/sales-talk-jordan-henderson-for-celtic-why/"/>
+        <updated>2024-01-08T07:26:18.000Z</updated>
+        <summary type="html"><![CDATA[A TALE has emerged from across the border linking Jordan Henderson with a possible reunion with his former Liverpool boss Brendan Rodgers at Celtic. We can dismiss the story as a load of waffle from a newspaper filling some column inches on a quiet news day. Henderson’s dream cash-laden move to Saudi Arabia has crashed [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kenny Dalglish delivers verdict on Celtic Park controversy stirred up by Rangers]]></title>
+        <id>https://www.67hailhail.com/?p=185610</id>
+        <link href="https://www.67hailhail.com/news/kenny-dalglish-delivers-verdict-on-celtic-park-controversy-stirred-up-by-rangers/"/>
+        <updated>2024-01-08T07:20:27.000Z</updated>
+        <summary type="html"><![CDATA[Celtic and Scotland legend Kenny Dalglish reckons Rangers have been unfair to the officials at the centre of the phantom penalty controversy at Celtic Park...]]></summary>
+        <author>
+            <name>John McGinley</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ALEX’S ANGLE: WHEN RANGERS COMPLAINT LED TO 8-WEEK BAN FOR OLD FIRM REF]]></title>
         <id>https://www.celticquicknews.co.uk/?p=61430</id>
