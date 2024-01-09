@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-01-09T04:13:07.421Z</updated>
+    <updated>2024-01-09T06:14:17.644Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WHATEVER HAPPENED TO…LOGAN BAILLY?]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=108807</id>
+        <link href="https://www.celticquicknews.co.uk/whatever-happened-to-logan-bailly/"/>
+        <updated>2024-01-09T05:30:38.000Z</updated>
+        <summary type="html"><![CDATA[LOGAN BAILLY was a low-key £250,000 signing in July 2015 as back-up keeper to Craig Gordon. Ronny Deila was searching for a new deputy netminder to the Scotland international after the release of Polish star Lukasz Zaluska. Bailly caught the Norwegian’s eye and he was duly signed from Belgian outfit Oh Leuven. First-team opportunities were [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Viva Bellahouston 1982 – Etims Podcast]]></title>
         <id>https://etims.net/?p=18563</id>
@@ -524,26 +534,6 @@
         <summary type="html"><![CDATA[Both positive and negative news about Kyogo Furuhashi, and depends on which way you look at it. From Celtic’s perspective, he isn’t going to go...]]></summary>
         <author>
             <name>Amir Mir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Disappointed' Scottish FA release statement on Celtic Park penalty drama stirred up by Rangers]]></title>
-        <id>https://www.67hailhail.com/?p=185368</id>
-        <link href="https://www.67hailhail.com/news/disappointed-scottish-fa-release-statement-on-celtic-park-penalty-drama-stirred-up-by-rangers/"/>
-        <updated>2024-01-04T17:58:16.000Z</updated>
-        <summary type="html"><![CDATA[The Scottish FA have released a statement on the phantom penalty claim from Rangers during the recent 2-1 Celtic derby win. The ball hit Alistair...]]></summary>
-        <author>
-            <name>John McGinley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thursday Celtic transfer bulletin: Kvistgaarden & Beck updates]]></title>
-        <id>https://www.67hailhail.com/?p=185344</id>
-        <link href="https://www.67hailhail.com/transfers/celtic-transfer-news-bulletin-mathias-kvistgaarden-owen-beck/"/>
-        <updated>2024-01-04T17:10:00.000Z</updated>
-        <summary type="html"><![CDATA[The very latest Celtic transfer news. We bring you reports regarding Brondby striker Mathias Kvistgaarden and Liverpool wonderkid Owen Beck as part of Thursday’s January...]]></summary>
-        <author>
-            <name>Gary Kirkpatrick</name>
         </author>
     </entry>
     <entry>
