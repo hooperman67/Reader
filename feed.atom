@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-01-08T22:09:42.568Z</updated>
+    <updated>2024-01-09T00:51:05.800Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Viva Bellahouston 1982 – Etims Podcast]]></title>
+        <id>https://etims.net/?p=18563</id>
+        <link href="https://etims.net/?p=18563"/>
+        <updated>2024-01-08T22:20:46.000Z</updated>
+        <summary type="html"><![CDATA[Monty, Hector and Desi get together to discuss a certain few games just before the New Year and a certain aftermath or possibly aftermass! They…]]></summary>
+        <author>
+            <name>Desi Mond</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘Imagine going there’: Micah Richards make Celtic admission that won’t become a reality]]></title>
         <id>https://www.67hailhail.com/?p=185662</id>
@@ -562,76 +572,6 @@
         <link href="https://www.67hailhail.com/news/andy-walker-says-the-perception-of-on-loan-benfica-star-paulo-bernardo-has-changed-at-celtic/"/>
         <updated>2024-01-04T13:10:00.000Z</updated>
         <summary type="html"><![CDATA[Paulo Bernardo is going from strength to strength in Celtic colours. It goes to show what a few starts, some confidence and a goal can...]]></summary>
-        <author>
-            <name>Amir Mir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘At least three’: Celtic and Brendan Rodgers sent an exciting January transfer message]]></title>
-        <id>https://www.67hailhail.com/?p=185292</id>
-        <link href="https://www.67hailhail.com/news/at-least-three-celtic-sent-exciting-transfer-message-after-january-window-opens/"/>
-        <updated>2024-01-04T12:40:00.000Z</updated>
-        <summary type="html"><![CDATA[John Hartson thinks ‘at least three’ players will be on the radar of Celtic during the January transfer window.  Brendan Rodgers watched his team outclass...]]></summary>
-        <author>
-            <name>Amir Mir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BIZARRE: MATT O’RILEY TRANSFER TALE]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=116219</id>
-        <link href="https://www.celticquicknews.co.uk/bizarre-matt-oriley-transfer-tale/"/>
-        <updated>2024-01-04T12:29:22.000Z</updated>
-        <summary type="html"><![CDATA[WE accept this is the silly season as far as transfer speculation is concerned. Until the end of the month, the wonderful and weird merry-go-round of rumours will spin furiously and the tittle-tattle grapevine will veer towards meltdown. There will be some eyebrow-raising tales from “sources” that you just know will never see the light [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Brutal': Pundit delivers scathing swipe when comparing Maik Nawrocki and Carl Starfelt]]></title>
-        <id>https://www.67hailhail.com/?p=185283</id>
-        <link href="https://www.67hailhail.com/news/maik-nawrocki-vs-carl-starfelt-celtic-comparison-made-as-one-branded-brutal/"/>
-        <updated>2024-01-04T12:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Mark Wilson has made a ‘brutal’ comparison when discussing the abilities of Maik Nawrocki and former Celtic star Carl Starfelt. The Polish centre-back was signed...]]></summary>
-        <author>
-            <name>Gary Kirkpatrick</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Angry, bitter and ugly consequences for us all]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=116218</id>
-        <link href="https://www.celticquicknews.co.uk/angry-bitter-and-ugly-consequences-for-us-all/"/>
-        <updated>2024-01-04T12:00:11.000Z</updated>
-        <summary type="html"><![CDATA[No one has directly suggested Newco should have had a penalty when the ball struck Alistair Johnston’s hand moments before halftime on Saturday.  Abdallah Sima was offside, the attacking move effectively ended when he tried to win possession.  This fact is being overlooked by the losing club and instead, it is being implied they were [...]]]></summary>
-        <author>
-            <name>Paul67</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mark Wilson 'wasn't having' Celtic 21-year-old, now pundit is raving about him]]></title>
-        <id>https://www.67hailhail.com/?p=185259</id>
-        <link href="https://www.67hailhail.com/news/mark-wilson-admits-his-celtic-opinion-of-paulo-bernardo-has-drastically-changed/"/>
-        <updated>2024-01-04T11:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Paulo Bernardo had started just two Scottish Premiership games before the home win over Livingston just before Christmas. The on-loan midfielder from Benfica was in...]]></summary>
-        <author>
-            <name>Gary Kirkpatrick</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Confirmed Celtic January 2024 transfer ins and outs, signings & done deals]]></title>
-        <id>https://www.67hailhail.com/?p=185254</id>
-        <link href="https://www.67hailhail.com/transfers/celtic-january-2024-transfer-ins-and-outs-signings-done-deals/"/>
-        <updated>2024-01-04T10:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Here, we list all of the confirmed Celtic January 2024 transfer ins and outs, including permanent deals and loan moves. Brendan Rodgers effectively explained earlier...]]></summary>
-        <author>
-            <name>Gary Kirkpatrick</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘There is’: Chris Sutton shuts down Kris Boyd after snubbing Celtic star in Team of the Season]]></title>
-        <id>https://www.67hailhail.com/?p=185262</id>
-        <link href="https://www.67hailhail.com/news/chris-sutton-shuts-down-kris-boyd-after-fresh-claim-about-celtic-star-kyogo-furuhashi/"/>
-        <updated>2024-01-04T10:30:44.000Z</updated>
-        <summary type="html"><![CDATA[Even after Kris Boyd was humbled by Kyogo Furuhashi during Celtic’s 2-1 win over Rangers recently, he still can’t seem to acknowledge his brilliance. Both...]]></summary>
         <author>
             <name>Amir Mir</name>
         </author>
