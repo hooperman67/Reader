@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-01-12T04:13:27.771Z</updated>
+    <updated>2024-01-12T06:14:30.895Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WHATEVER HAPPENED TO…JEREMY TOLJAN?]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=108911</id>
+        <link href="https://www.celticquicknews.co.uk/whatever-happened-to-jeremy-toljan/"/>
+        <updated>2024-01-12T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[JEREMY TOLJAN was heralded as an “inspired” loan signing by Brendan Rodgers on the last day of the January 2019 transfer window. The Borussia Dortmund right-back agreed a short-term deal until the end of the season as the Celtic boss searched for an alternative for Mikael Lustig with teenage Anthony Ralston deemed too young after [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Marvin Bartley baffled and 'shocked' by transfer claim about Celtic star Kyogo Furuhashi]]></title>
         <id>https://www.67hailhail.com/?p=185950</id>
@@ -544,26 +554,6 @@
         <summary type="html"><![CDATA[BRAZIL’S World Cup winner Juninho was given a standing ovation on his Celtic debut on August 29 2004 – just four days after arriving from Middlesbrough. The 31-year-old winger had starred as a blistering long-range drive from Alan Thompson exploded behind Rangers keeper Stefan Klos for the late winner in the first Glasgow derby of [...]]]></summary>
         <author>
             <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brendan Rodgers addresses Liel Abada's happiness at Celtic right now]]></title>
-        <id>https://www.67hailhail.com/?p=185607</id>
-        <link href="https://www.67hailhail.com/news/brendan-rodgers-addresses-liel-abadas-happiness-at-celtic-right-now/"/>
-        <updated>2024-01-07T18:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Brendan Rodgers has dismissed the idea of Liel Abada leaving Celtic in January despite a tough season for the player. Abada has had a significant...]]></summary>
-        <author>
-            <name>John McGinley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['All of a sudden it's changed': Paul Lambert wowed by Celtic youngster who has 'raised his levels']]></title>
-        <id>https://www.67hailhail.com/?p=185586</id>
-        <link href="https://www.67hailhail.com/news/paul-lambert-shares-thoughts-on-possible-permanent-deal-for-paulo-bernardo-at-celtic/"/>
-        <updated>2024-01-07T16:54:00.000Z</updated>
-        <summary type="html"><![CDATA[After those back-to-back defeats for Celtic in December, one of the big plus points for the team after that has been the form of Paulo...]]></summary>
-        <author>
-            <name>Amir Mir</name>
         </author>
     </entry>
     <entry>
