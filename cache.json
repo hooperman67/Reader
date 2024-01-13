@@ -508,23 +508,7 @@
       "title": "eTims",
       "feedUrl": "http://etims.net/?feed=rss2",
       "siteUrl": "https://etims.net",
-      "articles": [
-        {
-          "id": "https://etims.net/?p=18563",
-          "author": "Desi Mond",
-          "description": "Monty, Hector and Desi get together to discuss a certain few games just before the New Year and a certain aftermath or possibly aftermass! They…",
-          "link": "https://etims.net/?p=18563",
-          "publishedOn": "2024-01-08T22:20:46.000Z",
-          "wordCount": 2589,
-          "title": "Viva Bellahouston 1982 – Etims Podcast",
-          "enclosure": {
-            "url": "https://api.spreaker.com/v2/episodes/58235168/download.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": "https://etims.net/wp-content/uploads/2024/01/pj2.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "The Celtic Underground",
