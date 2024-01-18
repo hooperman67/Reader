@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-01-18T04:12:59.794Z</updated>
+    <updated>2024-01-18T06:14:44.199Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WHATEVER HAPPENED TO…JOZO SIMUNOVIC?]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=109208</id>
+        <link href="https://www.celticquicknews.co.uk/whatever-happened-to-jozo-simunovic/"/>
+        <updated>2024-01-18T05:30:59.000Z</updated>
+        <summary type="html"><![CDATA[JOZO SIMUNOVIC has not kicked a ball in competitive action since leaving Croatian club HNK Gorica in the summer of 2022. The 29-year-old central defender has struggled for a permanent home since his release from Celtic at the end of his contract in July two years earlier. Simunovic made a mere eight appearances for homeland outfit [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘Brendan Rodgers spoke glowingly’: Pundit suggests surprise 26-year-old as a Celtic striker]]></title>
         <id>https://www.67hailhail.com/?p=186528</id>
@@ -603,16 +613,6 @@ The post A few wee Glasgow pub picks appeared first on Celtic Fanzine.]]></summa
         <link href="https://www.67hailhail.com/news/henrik-larsson-opens-up-on-seville-indescribable-celtic-moment-and-destroying-rangers-streak-in-new-interview/"/>
         <updated>2024-01-13T18:37:10.000Z</updated>
         <summary type="html"><![CDATA[For seven years at Celtic, Henrik Larsson was king. The king of kings, in fact. His incredible finishing style, penchant for goals on the big...]]></summary>
-        <author>
-            <name>John McGinley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chris Sutton names his 'absolute priorities' for Lawwell and Rodgers at Celtic this month]]></title>
-        <id>https://www.67hailhail.com/?p=186020</id>
-        <link href="https://www.67hailhail.com/transfers/chris-sutton-names-his-absolute-priorities-for-mark-lawwell-and-brendan-rodgers-at-celtic-this-month/"/>
-        <updated>2024-01-13T17:42:04.000Z</updated>
-        <summary type="html"><![CDATA[We are 13 days into Celtic’s January transfer window and it’s fair to say it’s been a quiet month so far. There has been a...]]></summary>
         <author>
             <name>John McGinley</name>
         </author>
