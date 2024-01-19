@@ -274,16 +274,6 @@
           "wordCount": 4016,
           "title": "£3m KUHN’S QUICKFIRE DEBUT",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/01/NICOLAS-KUHN-FEATURED-UPDATE.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=116431",
-          "author": "CQN Magazine",
-          "description": "CELTIC defender Adam Montgomery is heading for his FOURTH loan deal in three years. The 21-year-old left-back was recalled early from an original season-long temporary switch at English third-tier Fleetwood Town at the weekend, as CQN reported. Montgomery has already had spells at Aberdeen and St Johnstone in his efforts to gain much-needed game-time. Brendan [...]",
-          "link": "https://www.celticquicknews.co.uk/celtic-kid-heads-for-loan-no-4/",
-          "publishedOn": "2024-01-15T07:48:52.000Z",
-          "wordCount": 4023,
-          "title": "CELTIC KID HEADS FOR LOAN No.4",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/07/ADAM-MONTGOMERY-FEATURED-FT.png"
         }
       ]
     },
@@ -544,7 +534,18 @@
       "title": "The Celtic Underground",
       "feedUrl": "http://celticunderground.net/feed/",
       "siteUrl": "http://celticunderground.net",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://celticunderground.net/?p=6710",
+          "author": "St Anthony",
+          "description": "There was sad news earlier this week of the passing of former Celtic goalkeeper Denis Connaghan. Denis played for Celtic for 5 years between 1971 and 1976 and played a starring role in some of Celtic’s many successes during those years. He was signed in October 1971 from St Mirren for a fee of £20,000, […]",
+          "link": "http://celticunderground.net/denis-connaghan-an-appreciation/",
+          "publishedOn": "2024-01-19T19:44:02.000Z",
+          "wordCount": 9810,
+          "title": "DENIS CONNAGHAN: AN APPRECIATION",
+          "imageUrl": "http://celticunderground.net/wp-content/uploads/2024/01/connaghan-7-mcneill.png"
+        }
+      ]
     },
     {
       "title": "67 Hail Hail",
