@@ -6,6 +6,26 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=116607",
+          "author": "Paul67",
+          "description": "Live updates will appear below after 16.00.",
+          "link": "https://www.celticquicknews.co.uk/celtic-v-buckie-thistle-live-updates/",
+          "publishedOn": "2024-01-21T15:00:55.000Z",
+          "wordCount": 4320,
+          "title": "Celtic v Buckie Thistle, Live updates",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/?p=116599",
+          "author": "CQN Magazine",
+          "description": "CELTIC skipper Callum McGregor gets a surprise day off as the holders face Buckie Thistle in the Scottish Cup Fourth Roud at Parkhead this afternoon. Joe Hart will captain the team which sees Odin Holm come into midfield to partner Paulo Bernardo and Matt O’Riley. Liel Abada makes a rare start on the right wing with Luis [...]",
+          "link": "https://www.celticquicknews.co.uk/confirmed-mcgregor-out-holm-in/",
+          "publishedOn": "2024-01-21T14:50:51.000Z",
+          "wordCount": 4231,
+          "title": "CONFIRMED: McGREGOR OUT, HOLM IN",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/01/CELTIC-PARK-AND-CELTIC-WAY.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=116600",
           "author": "CQN Magazine",
           "description": "BARRING a disaster, holders Celtic will see off Buckie Thistle at Parkhead this afternoon to take their place in the Scottish Cup Fifth Round draw this evening. The Hoops game should be concluded just before 6pm and then they will have to wait for over two hours to discover their fate in the ballot which [...]",
@@ -572,6 +592,36 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=186891",
+          "author": "Sean Markus Clifford",
+          "description": "Manager Brendan Rodgers has named his Celtic team to face Buckie Thistle for today’s Scottish Cup fourth round encounter at Celtic Park. The full match...",
+          "link": "https://www.67hailhail.com/match/celtic-team-vs-buckie-thistle-confirmed-mcgregor-out-vata-surprise-global-tv-details-instant-reaction/",
+          "publishedOn": "2024-01-21T14:57:10.000Z",
+          "wordCount": 1508,
+          "title": "Celtic XI confirmed: McGregor out, Vata surprise, TV details, instant reaction",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/01/GettyImages-1842213029-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=186893",
+          "author": "Amir Mir",
+          "description": "To the surprise of some, Celtic signed another winger and added Nicolas Kuhn from Rapid Vienna to the club’s ranks this week. The 24-year-old adds...",
+          "link": "https://www.67hailhail.com/news/andy-walker-thinks-nicolas-kuhn-will-boot-celtic-26-year-old-out-of-brendan-rodgers-xi/",
+          "publishedOn": "2024-01-21T14:50:00.000Z",
+          "wordCount": 1328,
+          "title": "'He will start': Andy Walker says Nicolas Kuhn will boot Celtic 26-year-old out of Rodgers' XI",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/12/GettyImages-1877194528-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=186886",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic are in Scottish Cup action against Buckie Thistle today and will be hoping to go all the way following success in the competition last...",
+          "link": "https://www.67hailhail.com/news/celtic-scottish-cup-airdrie-manager-rhys-mccabe-makes-claim-involving-celtic/",
+          "publishedOn": "2024-01-21T14:10:00.000Z",
+          "wordCount": 1532,
+          "title": "Airdrie manager Rhys McCabe wants Celtic in Scottish Cup",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/10/GettyImages-1258410054-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=186882",
           "author": "Sean Markus Clifford",
