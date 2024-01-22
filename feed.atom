@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-01-22T04:14:07.008Z</updated>
+    <updated>2024-01-22T06:15:06.689Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WHATEVER HAPPENED TO…JOS HOOIVELD?]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=109416</id>
+        <link href="https://www.celticquicknews.co.uk/whatever-happened-to-jos-hooiveld/"/>
+        <updated>2024-01-22T05:30:15.000Z</updated>
+        <summary type="html"><![CDATA[DUTCH central defender Jos Hooiveld arrived as a £1.4million signing from AIK Stockholm on a three-and-a-half year contract in January 2010. Tony Mowbray brought in the 26-year-old after his impressive season in Sweden following a move from Finish side Inter Turku, but the manager was sacked only two months later after a humiliating 4-0 loss [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘Why not’: Stephen McGinn backs Scotland star to join Celtic & take 'last step' of his career]]></title>
         <id>https://www.67hailhail.com/?p=186987</id>
@@ -764,36 +774,6 @@ The post FIRST, WORST AND LEAVE THE BEST TILL LAST appeared first on Celtic Fanz
         <link href="https://www.67hailhail.com/news/interesting-transfer-report-emerges-involving-celtic-and-david-moyes/"/>
         <updated>2024-01-17T20:10:00.000Z</updated>
         <summary type="html"><![CDATA[Cameron Carter-Vickers is a very important player for Celtic and his injuries this season have played a part in the club’s lack of consistency under...]]></summary>
-        <author>
-            <name>Amir Mir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Sit back in your seat': Rio Ferdinand loves Postecoglou's recent Celtic reference at Tottenham]]></title>
-        <id>https://www.67hailhail.com/?p=186457</id>
-        <link href="https://www.67hailhail.com/news/rio-ferdinand-loves-what-celtic-hero-ange-postecoglou-has-done-after-a-disrespectful-moment-at-tottenham/"/>
-        <updated>2024-01-17T18:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Rio Ferdinand has lauded Celtic hero Ange Postecoglou for how he dealt with an English reporter recently. Celtic fans would have been blessed to witness...]]></summary>
-        <author>
-            <name>Amir Mir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘A really important player': Kenny Miller reacts to claim Celtic should sign Kilmarnock 26-year-old]]></title>
-        <id>https://www.67hailhail.com/?p=186435</id>
-        <link href="https://www.67hailhail.com/news/celtic-sent-a-transfer-message-about-kilmarnock-star-following-nicolas-kuhns-arrival/"/>
-        <updated>2024-01-17T17:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Danny Armstrong is having a pretty fruitful campaign in the colours of Kilmarnock this season and his name was suggested to Celtic recently. Kenny Miller...]]></summary>
-        <author>
-            <name>Amir Mir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[’Even better in Scotland’: What those inside Rapid Vienna have said about Nicolas Kuhn joining Celtic]]></title>
-        <id>https://www.67hailhail.com/?p=186418</id>
-        <link href="https://www.67hailhail.com/news/what-those-inside-rapid-vienna-said-about-nicolas-kuhn-joining-celtic/"/>
-        <updated>2024-01-17T16:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Celtic have got Nicolas Kuhn through the doors after he was announced as the club’s first January signing on Tuesday. The 24-year-old adds to the...]]></summary>
         <author>
             <name>Amir Mir</name>
         </author>
