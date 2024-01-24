@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=116734",
+          "author": "CQN Magazine",
+          "description": "BRENDAN RODGERS has been told the exact time this month’s transfer window will close. The deadline has been moved FORWARD half-an-hour a week tonight with no more business allowed after 11.30pm as opposed to the traditional midnight cut-off. There will be no leeway for the Celtic manager as he seeks to strengthen his first-team squad with [...]",
+          "link": "https://www.celticquicknews.co.uk/rodgers-discovers-deadline-d-day-switch/",
+          "publishedOn": "2024-01-24T07:57:08.000Z",
+          "wordCount": 4001,
+          "title": "RODGERS DISCOVERS DEADLINE D-DAY SWITCH",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/01/BRENDAN-RODGERS-CELTIC-TV-JAN-2024.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=109483",
           "author": "CQN Magazine",
           "description": "MORTEN RASMUSSEN, bought by Tony Mowbray from Brondby in January 2010, cost Celtic a staggering £500,000 per goal. The 24-year-old Danish striker was purchased at £1.5million in an effort to inject some zest into the faltering Hoops attack – and he collected a measly three goals before being sold to his homeland club FC Midtjylland [...]",
@@ -564,24 +574,33 @@
       "title": "The Celtic Underground",
       "feedUrl": "http://celticunderground.net/feed/",
       "siteUrl": "http://celticunderground.net",
-      "articles": [
-        {
-          "id": "https://celticunderground.net/?p=6710",
-          "author": "St Anthony",
-          "description": "There was sad news earlier this week of the passing of former Celtic goalkeeper Denis Connaghan. Denis played for Celtic for 5 years between 1971 and 1976 and played a starring role in some of Celtic’s many successes during those years. He was signed in October 1971 from St Mirren for a fee of £20,000, […]",
-          "link": "http://celticunderground.net/denis-connaghan-an-appreciation/",
-          "publishedOn": "2024-01-19T19:44:02.000Z",
-          "wordCount": 9810,
-          "title": "DENIS CONNAGHAN: AN APPRECIATION",
-          "imageUrl": "http://celticunderground.net/wp-content/uploads/2024/01/connaghan-7-mcneill.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "67 Hail Hail",
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=187393",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic forward Rocco Vata has hit the headlines over the last few days as his contractual situation remains unresolved. Putting that to one side, the...",
+          "link": "https://www.67hailhail.com/news/celtic-forward-rocco-vatas-father-rudi-gives-insight-into-his-sons-international-allegiance/",
+          "publishedOn": "2024-01-24T08:00:00.000Z",
+          "wordCount": 1547,
+          "title": "Celtic forward Rocco Vata's father Rudi gives insight into his son's international allegiances",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/10/GettyImages-1660642616-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=187408",
+          "author": "Amir Mir",
+          "description": "The January transfer window slams shut next week and Celtic’s only major dealing so far has been the arrival of Nicolas Kuhn. If things start...",
+          "link": "https://www.67hailhail.com/transfers/peter-grant-states-if-aberdeen-hitman-bojan-miovski-can-succeed-at-celtic/",
+          "publishedOn": "2024-01-24T07:30:04.000Z",
+          "wordCount": 1379,
+          "title": "‘I watched him against England’: Peter Grant backs ‘really impressive’ player to secure Celtic transfer",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/01/GettyImages-1895286209-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=187396",
           "author": "Amir Mir",
