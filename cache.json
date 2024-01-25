@@ -354,16 +354,6 @@
           "wordCount": 4312,
           "title": "RED ALERT: CELTIC PAIR CUP-TIED",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/01/ADAM-MONTGOMERY-MOTHERWELL-FEATURED.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=109407",
-          "author": "CQN Magazine",
-          "description": "STEVEN MOUYOKOLO went one better than German flop Marvin Compper – he made TWO starts for Celtic. The injury-plagued French centre-back was signed by Neil Lennon in July 2013 after being released by Wolves. Mouyokolo, at the age of 26, had played only eight first-team games in the previous three seasons before signing a one-year [...]",
-          "link": "https://www.celticquicknews.co.uk/whatever-happened-to-steven-mouyokolo/",
-          "publishedOn": "2024-01-21T05:30:19.000Z",
-          "wordCount": 4033,
-          "title": "WHATEVER HAPPENED TO…STEVEN MOUYOKOLO?",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/07/Screenshot-2023-07-04-at-12.07.53.png"
         }
       ]
     },
@@ -631,6 +621,16 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=187688",
+          "author": "Gary Kirkpatrick",
+          "description": "Marvin Bartley has explained at length why Celtic are simply not in a position to demand at least £50m for Atletico Madrid-linked star Matt O’Riley....",
+          "link": "https://www.67hailhail.com/transfers/marvin-bartley-explains-why-celtic-are-in-no-position-to-demand-50m-for-matt-oriley/",
+          "publishedOn": "2024-01-25T16:15:00.000Z",
+          "wordCount": 1691,
+          "title": "Marvin Bartley explains why Celtic can't demand £50m for 23-year-old star",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/11/GettyImages-1743352269-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=187633",
           "author": "Gary Kirkpatrick",
@@ -1467,7 +1467,18 @@
       "title": "News Archives - Celtic Fanzine",
       "feedUrl": "https://celticfanzine.com/category/news/feed/",
       "siteUrl": "https://celticfanzine.com/category/news/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://celticfanzine.com/?p=58628",
+          "author": "celtic",
+          "description": "Celtic are back and we kicked off with a win in Scottish Cup v Buckie Thistle. Brendan Rodgers is still looking to strengthen the squad and off load some of the players on the fringes of the squad. We have a League to win and Brendan’s comments on Matt O’Riley were welcome at today’s press […]\nThe post WE HAVE A LEAGUE TO WIN appeared first on Celtic Fanzine.",
+          "link": "https://celticfanzine.com/we-have-a-league-to-win/",
+          "publishedOn": "2024-01-25T17:40:50.000Z",
+          "wordCount": 2436,
+          "title": "WE HAVE A LEAGUE TO WIN",
+          "imageUrl": "https://celticfanzine.com/wp-content/uploads/Brendan-Rodgers-.png"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
