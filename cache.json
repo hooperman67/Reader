@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=109549",
+          "author": "CQN Magazine",
+          "description": "TONY MOWBRAY ended a lengthy pursuit of Zheng Zhi when he signed the Chinese international midfielder on a two-year deal at Celtic on September 5 2009. The recently-installed Hoops boss, who replaced Gordon Strachan, had tried to sign the 29-year-old playmaker for West Brom the previous season. Zheng was with Charlton at the time, but [...]",
+          "link": "https://www.celticquicknews.co.uk/whatever-happened-to-zheng-zhi/",
+          "publishedOn": "2024-01-25T05:30:19.000Z",
+          "wordCount": 4129,
+          "title": "WHATEVER HAPPENED TO…ZHENG ZHI?",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/07/ZHENG-ZHI-FEATURED.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=116745",
           "author": "CQN Magazine",
           "description": "CELTIC are poised to boot out a move from Atletico Madrid for Matt O’Riley. The champions have been informed of the interest from the Spanish outfit for their in-form midfielder, according to Sky Sports. It is understood the initial offer is a loan plus an obligation to buy the 23-year-old playmaker who cost the Hoops [...]",
@@ -1320,16 +1330,6 @@
           "wordCount": 1451,
           "title": "‘He will be fired up’: Andy Walker says Celtic star will explode during second half of the season",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/01/GettyImages-1842162877-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=186783",
-          "author": "John McGinley",
-          "description": "Celtic manager Brendan Rodgers has only been able to add one player to his squad during the current transfer window but he’s looking for more....",
-          "link": "https://www.67hailhail.com/transfers/brendan-rodgers-latest-celtic-january-transfer-message-on-position-club-cant-ignore/",
-          "publishedOn": "2024-01-20T16:53:45.000Z",
-          "wordCount": 1424,
-          "title": "Brendan Rodgers' latest Celtic January transfer message on position club \"can't ignore\"",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/12/GettyImages-1761971878-scaled.jpg"
         }
       ]
     },
@@ -1337,18 +1337,7 @@
       "title": "News Archives - Celtic Fanzine",
       "feedUrl": "https://celticfanzine.com/category/news/feed/",
       "siteUrl": "https://celticfanzine.com/category/news/",
-      "articles": [
-        {
-          "id": "https://celticfanzine.com/?p=58621",
-          "author": "celtic",
-          "description": "Brendan Rodgers is back on the cover after seeing off the rangers again in the Glasgow derby. Former manager, Martin O’ Neill joins us to Talk Celtic and we are also in conversation with Singer/ Songwriter, Paul Sheridan of the Glasgow Irish Folk rockers, The Wakes. Paddy McMenamin has the rangers trip covered from the […]\nThe post More than 90 Minutes Issue 131 appeared first on Celtic Fanzine.",
-          "link": "https://celticfanzine.com/more-than-90-minutes-issue-131/",
-          "publishedOn": "2024-01-20T16:21:04.000Z",
-          "wordCount": 1859,
-          "title": "More than 90 Minutes Issue 131",
-          "imageUrl": "https://celticfanzine.com/wp-content/uploads/1-5.png"
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
