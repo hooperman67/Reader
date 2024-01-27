@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=116843",
+          "author": "CQN Magazine",
+          "description": "CELTIC 1 ROSS COUNTY 0 ALISTAIR JOHNSTON was the unlikely matchwinner on a day when Celtic toiled to impose their superiority over stubborn Highland opposition in an uncomfortable afternoon at Parkhead. The defender claimed his first goal of the season to make sure the champions maintained their five-point advantage at the top of the Premiership [...]",
+          "link": "https://www.celticquicknews.co.uk/celtic-1-ross-county-0-winner-johnston-sinner-palma-as-hoops-toil/",
+          "publishedOn": "2024-01-27T16:57:18.000Z",
+          "wordCount": 4788,
+          "title": "CELTIC 1  ROSS COUNTY 0: WINNER JOHNSTON, SINNER PALMA AS HOOPS TOIL",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/12/CELTIC-HUDDLE-V-DUNDEE-DEC-26-2023.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=116836",
           "author": "CQN Magazine",
           "description": "FORMER Celtic midfielder Stuart Gray has passed away after illness at the age of 50. The versatile left-sided performer who could also play at full-back came through the youth ranks at Parkhead and made his debut in a 1-0 win over Aberdeen in the east end of Glasgow on May 1 1993. Gray, son of [...]",
@@ -344,26 +354,6 @@
           "wordCount": 4541,
           "title": "‘I WAS ALWAYS CONFIDENT,’ INSISTS £4.3m MAIK",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/01/MAIK-NAWROCKI-FEATURED-V-STM.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=116701",
-          "author": "CQN Magazine",
-          "description": "CAMERON CARTER-VICKERS and Nicolas Kuhn are targeting special appearances against Ross County at Parkhead on Saturday. The USA World Cup defender is aiming to play his first game of 2024 following his enforced departure with a muscular problem shortly after the interval in the 3-0 win over Dundee at Dens Park on Boxing Day. And [...]",
-          "link": "https://www.celticquicknews.co.uk/countdown-for-ccv-kuhn/",
-          "publishedOn": "2024-01-23T06:00:11.000Z",
-          "wordCount": 4083,
-          "title": "COUNTDOWN FOR CCV, KUHN",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/12/CAMERON-CARTER-VICKERS-FEATURED-BIRTHDAY-26.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=109463",
-          "author": "CQN Magazine",
-          "description": "TONY MOWBRAY was given £3.8million – a substantial amount of money at the time – to spend on bringing striker Marc-Antoine Fortune to Parkhead in July 2009 as he prepared for his debut season as Celtic manager. The club’s former centre-back had been impressed by the 28-year-old French star during his spell in charge at [...]",
-          "link": "https://www.celticquicknews.co.uk/whatever-happened-to-marc-antoine-fortune/",
-          "publishedOn": "2024-01-23T05:30:58.000Z",
-          "wordCount": 4314,
-          "title": "WHATEVER HAPPENED TO…MARC-ANTOINE FORTUNE?",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/07/MARC-ANTOINE-FORTUNE-NEW-FEATURED.png"
         }
       ]
     },
@@ -631,6 +621,36 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=187813",
+          "author": "John McGinley",
+          "description": "The Celtic Park pitch is in poor condition and manager Brendan Rodgers raised it as an issue for his players after today’s narrow 1-0 win...",
+          "link": "https://www.67hailhail.com/match/brendan-rodgers-raises-celtic-park-pitch-concerns-after-win-over-ross-county/",
+          "publishedOn": "2024-01-27T18:02:33.000Z",
+          "wordCount": 1329,
+          "title": "Brendan Rodgers raises Celtic Park issue when asked about Saturday performance concerns",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/01/GettyImages-1845880554-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=187809",
+          "author": "John McGinley",
+          "description": "Celtic manager Brendan Rodgers has been giving his reaction to Saturday afternoon’s narrow 1-0 win over Ross County in the Scottish Premiership. The Bhoys were...",
+          "link": "https://www.67hailhail.com/match/brendan-rodgers-reacts-to-celtic-performance-vs-ross-county-after-narrow-1-0-win/",
+          "publishedOn": "2024-01-27T17:36:06.000Z",
+          "wordCount": 1355,
+          "title": "Brendan Rodgers reacts to Celtic performance vs Ross County after narrow 1-0 win",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/01/GettyImages-1895286209-1-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=187802",
+          "author": "John McGinley",
+          "description": "Celtic continued their winning form in the Scottish Premiership on Saturday, beating Ross County 1-0 at Celtic Park. The Bhoys made it six victories in...",
+          "link": "https://www.67hailhail.com/match/kuhn-first-impressions-bernabei-verdict-3-things-we-learned-as-celtic-beat-ross-county/",
+          "publishedOn": "2024-01-27T17:05:37.000Z",
+          "wordCount": 1571,
+          "title": "Kuhn first impressions, Bernabei verdict; 3 things we learned as Celtic beat Ross County",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/01/GettyImages-1965108262-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=187795",
           "author": "John McGinley",
