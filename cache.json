@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=109746",
+          "author": "CQN Magazine",
+          "description": "THOMAS ROGNE was seen as one for the future when he was signed by Tony Mowbray on a free from Norwegian club Stabaek in January 2010. The 19-year-old 6ft 4in centre-back agreed a three-and-a-half-year deal at the Parkhead side and was unexpectedly handed a first-team appearance only three weeks after arriving in Scotland. Rogne made [...]",
+          "link": "https://www.celticquicknews.co.uk/whatever-happened-to-thomas-rogne/",
+          "publishedOn": "2024-01-30T05:30:48.000Z",
+          "wordCount": 4338,
+          "title": "WHATEVER HAPPENED TO…THOMAS ROGNE?",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/07/THOMAS-ROGNE-FEATURED-HHHHHH.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=116911",
           "author": "Paul67",
           "description": "Celtic responded to consecutive league defeats last month in decisive fashion, with authoritative wins against Livingston, Dundee, Newco, St Mirren and Buckie Thistle.  The record books will show another win on Saturday against Ross County, but the champions lacked even modest authority. After their capitulation at home to Partick Thistle in the Scottish Cup a [...]",
@@ -1071,16 +1081,6 @@
           "wordCount": 1470,
           "title": "'He is a great': John Hartson certain that 38-year-old will become Celtic manager one day",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/11/GettyImages-525675674-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=187688",
-          "author": "Gary Kirkpatrick",
-          "description": "Marvin Bartley has explained at length why Celtic are simply not in a position to demand at least £50m for Atletico Madrid-linked star Matt O’Riley....",
-          "link": "https://www.67hailhail.com/transfers/marvin-bartley-explains-why-celtic-are-in-no-position-to-demand-50m-for-matt-oriley/",
-          "publishedOn": "2024-01-25T16:15:00.000Z",
-          "wordCount": 1691,
-          "title": "Marvin Bartley explains why Celtic can't demand £50m for 23-year-old star",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/11/GettyImages-1743352269-scaled.jpg"
         }
       ]
     },
@@ -1088,18 +1088,7 @@
       "title": "News Archives - Celtic Fanzine",
       "feedUrl": "https://celticfanzine.com/category/news/feed/",
       "siteUrl": "https://celticfanzine.com/category/news/",
-      "articles": [
-        {
-          "id": "https://celticfanzine.com/?p=58628",
-          "author": "celtic",
-          "description": "Celtic are back and we kicked off with a win in Scottish Cup v Buckie Thistle. Brendan Rodgers is still looking to strengthen the squad and off load some of the players on the fringes of the squad. We have a League to win and Brendan’s comments on Matt O’Riley were welcome at today’s press […]\nThe post WE HAVE A LEAGUE TO WIN appeared first on Celtic Fanzine.",
-          "link": "https://celticfanzine.com/we-have-a-league-to-win/",
-          "publishedOn": "2024-01-25T17:40:50.000Z",
-          "wordCount": 2436,
-          "title": "WE HAVE A LEAGUE TO WIN",
-          "imageUrl": "https://celticfanzine.com/wp-content/uploads/Brendan-Rodgers-.png"
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
