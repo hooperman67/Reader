@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=109843",
+          "author": "CQN Magazine",
+          "description": "CELTIC’S talent-spotters were suitably impressed by Mo Bangura’s strike rate at AIK Stockholm to draw him to the attention of manager Neil Lennon. The Sierre Leone international fired in 14 goals in 35 games for the Swedish club and that tally persuaded the Hoops boss to part with £2.2million in August 2011 to add him [...]",
+          "link": "https://www.celticquicknews.co.uk/whatever-happened-to-mo-bangura/",
+          "publishedOn": "2024-02-01T05:30:54.000Z",
+          "wordCount": 4372,
+          "title": "WHATEVER HAPPENED TO…MO BANGURA?",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/07/mo-bangura-featured-ff.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=116956",
           "author": "CQN Magazine",
           "description": "FORMER Celtic star Barry Robson has been sacked as manager of Aberdeen – just three days before they are due to meet Brendan Rodgers’ men at Pittodrie. The Dons were booed off the field after last night’s 1-1 home draw with Dundee that heaped more pressure on the one-time Scotland international midfielder. Robson, 45, was [...]",
@@ -254,16 +264,6 @@
           "wordCount": 4340,
           "title": "WHATEVER HAPPENED TO…BERAM KAYAL?",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2019/07/BERAM-KAYAL-FEATURED-C.jpg"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=116843",
-          "author": "CQN Magazine",
-          "description": "CELTIC 1 ROSS COUNTY 0 ALISTAIR JOHNSTON was the unlikely matchwinner on a day when Celtic toiled to impose their superiority over stubborn Highland opposition in an uncomfortable afternoon at Parkhead. The defender claimed his first goal of the season to make sure the champions maintained their five-point advantage at the top of the Premiership [...]",
-          "link": "https://www.celticquicknews.co.uk/celtic-1-ross-county-0-winner-johnston-sinner-palma-as-hoops-toil/",
-          "publishedOn": "2024-01-27T16:57:18.000Z",
-          "wordCount": 4788,
-          "title": "CELTIC 1  ROSS COUNTY 0: WINNER JOHNSTON, SINNER PALMA AS HOOPS TOIL",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/12/CELTIC-HUDDLE-V-DUNDEE-DEC-26-2023.png"
         }
       ]
     },
@@ -542,6 +542,16 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=188395",
+          "author": "Gary Kirkpatrick",
+          "description": "Celtic are now into the final straight of the January transfer window and it’s safe to say it’s been a very frustrating one. Nicolas Kuhn...",
+          "link": "https://www.67hailhail.com/transfers/three-transfers-celtic-could-complete-on-january-transfer-deadline-day/",
+          "publishedOn": "2024-02-01T05:00:00.000Z",
+          "wordCount": 1724,
+          "title": "Three transfers Celtic could complete on January transfer deadline day",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/12/GettyImages-1809762710-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=188526",
           "author": "Amir Mir",
@@ -1181,36 +1191,6 @@
           "wordCount": 1436,
           "title": "'The fans will be delighted': Peter Grant is loving Celtic's call with 'magnificent' player",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/10/GettyImages-1244220044-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=187813",
-          "author": "John McGinley",
-          "description": "The Celtic Park pitch is in poor condition and manager Brendan Rodgers raised it as an issue for his players after today’s narrow 1-0 win...",
-          "link": "https://www.67hailhail.com/match/brendan-rodgers-raises-celtic-park-pitch-concerns-after-win-over-ross-county/",
-          "publishedOn": "2024-01-27T18:02:33.000Z",
-          "wordCount": 1329,
-          "title": "Brendan Rodgers raises Celtic Park issue when asked about Saturday performance concerns",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/01/GettyImages-1845880554-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=187809",
-          "author": "John McGinley",
-          "description": "Celtic manager Brendan Rodgers has been giving his reaction to Saturday afternoon’s narrow 1-0 win over Ross County in the Scottish Premiership. The Bhoys were...",
-          "link": "https://www.67hailhail.com/match/brendan-rodgers-reacts-to-celtic-performance-vs-ross-county-after-narrow-1-0-win/",
-          "publishedOn": "2024-01-27T17:36:06.000Z",
-          "wordCount": 1355,
-          "title": "Brendan Rodgers reacts to Celtic performance vs Ross County after narrow 1-0 win",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/01/GettyImages-1895286209-1-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=187802",
-          "author": "John McGinley",
-          "description": "Celtic continued their winning form in the Scottish Premiership on Saturday, beating Ross County 1-0 at Celtic Park. The Bhoys made it six victories in...",
-          "link": "https://www.67hailhail.com/match/kuhn-first-impressions-bernabei-verdict-3-things-we-learned-as-celtic-beat-ross-county/",
-          "publishedOn": "2024-01-27T17:05:37.000Z",
-          "wordCount": 1571,
-          "title": "Kuhn first impressions, Bernabei verdict; 3 things we learned as Celtic beat Ross County",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/01/GettyImages-1965108262-scaled.jpg"
         }
       ]
     },
