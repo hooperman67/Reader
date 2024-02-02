@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-02-02T06:12:56.924Z</updated>
+    <updated>2024-02-02T08:13:03.495Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CELTIC 2023/24 TRANSFER DEALS: FROM HOLM TO IDAH, JOTA TO TURNBULL]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=117015</id>
+        <link href="https://www.celticquicknews.co.uk/celtic-2023-24-transfer-deals-from-holm-to-idah-jota-to-turnbull/"/>
+        <updated>2024-02-02T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CELTIC took their total spend in the 2023/24 transfer market to £22million when they brought in Nicolas Kuhn in the winter window that closed at 11.30pm last night. The German winger cost £3million when he signed a five-and-a-half year deal from Rapid Vienna in the middle of last month. Midfielder David Turnbull also quit the [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Every incoming and outgoing deal Celtic completed on transfer deadline day]]></title>
         <id>https://www.67hailhail.com/?p=188229</id>
@@ -1082,36 +1092,6 @@
         <link href="https://www.67hailhail.com/match/daizen-maeda-applauds-celtic-teammates-performance-after-narrow-win-over-ross-county/"/>
         <updated>2024-01-28T21:10:00.000Z</updated>
         <summary type="html"><![CDATA[You could see the reaction on the faces of the Celtic players as Alistair Johnston scored what was a pretty fortunate goal against Ross County...]]></summary>
-        <author>
-            <name>Amir Mir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Matt O'Riley gives Instagram message of support to Celtic teammate Luis Palma after penalty miss]]></title>
-        <id>https://www.67hailhail.com/?p=187964</id>
-        <link href="https://www.67hailhail.com/match/matt-oriley-gives-instagram-message-of-support-to-celtic-teammate-luis-palma-after-penalty-miss/"/>
-        <updated>2024-01-28T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Celtic fans will be relieved as opposed to thrilled after their side recorded a narrow 1-0 victory over Ross County at Parkhead on Saturday. Alistair...]]></summary>
-        <author>
-            <name>Sean Markus Clifford</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bologna boss explains Celtic target Sydney van Hooijdonk's absence from AC Milan clash]]></title>
-        <id>https://www.67hailhail.com/?p=187949</id>
-        <link href="https://www.67hailhail.com/transfers/bologna-boss-explains-celtic-target-sydney-van-hooijdonks-absence-from-ac-milan-clash/"/>
-        <updated>2024-01-28T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Celtic know that there is pressure from supporters to get signings over the line before the transfer deadline passes. Brendan Rodgers’ men kicked off their...]]></summary>
-        <author>
-            <name>Sean Markus Clifford</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘You have to tip your hat to Celtic’: Pundit hails the club's 'massive' January transfer call]]></title>
-        <id>https://www.67hailhail.com/?p=187941</id>
-        <link href="https://www.67hailhail.com/transfers/pundit-shares-what-matt-oriley-simply-hasnt-done-at-celtic-after-atletico-madrid-transfer-bid/"/>
-        <updated>2024-01-28T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[There would have been a sense of panic from Celtic fans this week when news broke about Matt O’Riley and Atletico Madrid. Even the most...]]></summary>
         <author>
             <name>Amir Mir</name>
         </author>
