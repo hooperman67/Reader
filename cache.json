@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=109894",
+          "author": "CQN Magazine",
+          "description": "RAMI GERSHON’S scoring ratio for a full-back at Celtic was even more prolific than that of Lisbon Lion Tommy Gemmell, the swashbuckling hero of Jock Stein’s all-conquering team. The 25-year-old Israeli left-sided defender fired in a goal every three games. Unfortunately, Gershon only made three first-team appearances for the Hoops after joining on loan from Standard [...]",
+          "link": "https://www.celticquicknews.co.uk/whatever-happened-to-rami-gershon/",
+          "publishedOn": "2024-02-02T05:30:39.000Z",
+          "wordCount": 4055,
+          "title": "WHATEVER HAPPENED TO…RAMI GERSHON?",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/07/RAMI-GERSHON-FEATURED.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=117001",
           "author": "CQN Magazine",
           "description": "DAVID TURNBULL completed his deadline day move to Cardiff City in a deal worth in the region of £2million to Celtic. Mikey Johnston also sealed his loan switch to West Brom in a bid to get some much-needed game-time. The pair joined Marco Tilio in leaving the champions in this window with the Australian international [...]",
@@ -580,24 +590,23 @@
       "title": "The Celtic Underground",
       "feedUrl": "http://celticunderground.net/feed/",
       "siteUrl": "http://celticunderground.net",
-      "articles": [
-        {
-          "id": "https://celticunderground.net/?p=6717",
-          "author": "St Anthony",
-          "description": "The very sad news was announced yesterday that ex Celtic player, Stuart Gray, had passed away after suffering from a serious condition. It was something of a coup for Celtic in 1992 when Stuart signed for the Celts. Born in England, the son of the renowned Leeds and Scotland player Eddie Gray, Stuart was coveted […]",
-          "link": "http://celticunderground.net/stuart-gray-an-appreciation/",
-          "publishedOn": "2024-01-28T17:50:58.000Z",
-          "wordCount": 9499,
-          "title": "STUART GRAY: AN APPRECIATION",
-          "imageUrl": "http://celticunderground.net/wp-content/uploads/2024/01/aberdeen-93-may-1.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "67 Hail Hail",
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=188229",
+          "author": "Gary Kirkpatrick",
+          "description": "It’s been a very frustrating January transfer window for Celtic fans who have been crying out for serious business to be done across the month....",
+          "link": "https://www.67hailhail.com/transfers/every-incoming-and-outgoing-deal-celtic-completed-on-transfer-deadline-day-2/",
+          "publishedOn": "2024-02-02T06:00:00.000Z",
+          "wordCount": 1253,
+          "title": "Every incoming and outgoing deal Celtic completed on transfer deadline day",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/01/GettyImages-1845880554-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=188716",
           "author": "John McGinley",
@@ -1377,36 +1386,6 @@
           "wordCount": 1567,
           "title": "‘You have to tip your hat to Celtic’: Pundit hails the club's 'massive' January transfer call",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/11/GettyImages-1741807935-1-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=187918",
-          "author": "Sean Markus Clifford",
-          "description": "Celtic boss Brendan Rodgers has made no secret of his desire to trim some excess off the fringes of his squad before the end of...",
-          "link": "https://www.67hailhail.com/transfers/sky-sports-journalist-delivers-new-transfer-update-on-potential-gustaf-lagerbielke-celtic-exit/",
-          "publishedOn": "2024-01-28T18:00:00.000Z",
-          "wordCount": 1486,
-          "title": "Sky Sports journalist delivers new transfer update on potential Gustaf Lagerbielke Celtic exit",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/12/GettyImages-1847843662.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=187920",
-          "author": "Amir Mir",
-          "description": "Whilst Celtic fans were gutted to see Ange Postecogloou head for the exit door in the summer to join Tottenham Hotspur. Many understood that the...",
-          "link": "https://www.67hailhail.com/news/club-legend-is-already-tipping-ange-postecoglou-for-a-major-job-less-than-12-months-after-celtic-exit/",
-          "publishedOn": "2024-01-28T17:30:00.000Z",
-          "wordCount": 1481,
-          "title": "Club legend is already tipping Ange Postecoglou for a major job less than 12 months after Celtic exit",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/01/GettyImages-1491735210-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=187915",
-          "author": "Sean Markus Clifford",
-          "description": "Brendan Rodgers and Celtic have been the subject of much discussion this weekend after the Hoops edged out Ross County 1-0 at Parkhead to go...",
-          "link": "https://www.67hailhail.com/news/chris-sutton-nails-it-as-he-explains-why-celtic-are-in-a-strange-position-despite-winning-run/",
-          "publishedOn": "2024-01-28T16:30:00.000Z",
-          "wordCount": 1544,
-          "title": "Chris Sutton explains why Celtic are in a 'strange position' despite winning run under Rodgers",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/08/GettyImages-1469729815-scaled.jpg"
         }
       ]
     },
