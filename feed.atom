@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-02-04T04:11:39.392Z</updated>
+    <updated>2024-02-04T06:12:04.642Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WHATEVER HAPPENED TO…DU WEI?]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=109933</id>
+        <link href="https://www.celticquicknews.co.uk/whatever-happened-to-du-wei/"/>
+        <updated>2024-02-04T05:30:41.000Z</updated>
+        <summary type="html"><![CDATA[CHINESE central defender Du Wei suffered the ignominy of being substituted at half-time of his debut – and the Celtic fans never got another glimpse of the loan signing from Shanghai Shenhua. Gordon Strachan brought in the 23-year-old international captain, who won 71 caps for his country, on a temporary transfer and handed him an [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[History Tells Us How This Could End]]></title>
         <id>https://celticunderground.net/?p=6731</id>
@@ -1134,36 +1144,6 @@
         <summary type="html"><![CDATA[Celtic will continue to be without Hyeongyu Oh and Hyunjun Yang after their South Korean side were victorious in the Asian Cup at the Round...]]></summary>
         <author>
             <name>John McGinley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['My dream': 23-year-old midfielder mentions Celtic amid transfer links]]></title>
-        <id>https://www.67hailhail.com/?p=188292</id>
-        <link href="https://www.67hailhail.com/transfers/south-korean-midfielder-jeong-ho-yeon-reacts-to-celtic-transfer-links/"/>
-        <updated>2024-01-30T17:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Celtic fans have their fingers crossed and are hopeful that the club can conclude some much-needed deals before the January transfer window shuts. The cut-off...]]></summary>
-        <author>
-            <name>Amir Mir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic duo linked with late January moves as Brendan Rodgers cuts first-team squad numbers]]></title>
-        <id>https://www.67hailhail.com/?p=188260</id>
-        <link href="https://www.67hailhail.com/transfers/celtic-duo-linked-with-late-january-moves-as-brendan-rodgers-cuts-first-team-squad-numbers/"/>
-        <updated>2024-01-30T16:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Celtic boss Brendan Rodgers has made no secret of the fact he is looking to cut his overall first-team squad numbers over the next few...]]></summary>
-        <author>
-            <name>John McGinley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Michael Stewart states what can't be 'discounted' about Celtic, namedrops five players]]></title>
-        <id>https://www.67hailhail.com/?p=188268</id>
-        <link href="https://www.67hailhail.com/news/michael-stewart-states-what-cant-be-discounted-about-celtic-namedrops-reo-hatate-and-jota/"/>
-        <updated>2024-01-30T16:20:00.000Z</updated>
-        <summary type="html"><![CDATA[The Celtic players were booed off despite beating Ross County 1-0 on Saturday, with the fans clearly unhappy with the performance. This wasn’t a case...]]></summary>
-        <author>
-            <name>Amir Mir</name>
         </author>
     </entry>
     <entry>
