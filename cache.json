@@ -6,6 +6,26 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=117085",
+          "author": "CQN Magazine",
+          "description": "CELTIC will continue to monitor Owen Beck as the Liverpool defender resumes his loan at Dundee for the remainder of the season. The Welsh Under-21 star played in the Taysiders’ 3-2 loss against Hearts at Dens Park yesterday – just hours after the champions’ disappointing 1-1 draw with Aberdeen at Pittodrie. Alexandro Bernabei took over [...]",
+          "link": "https://www.celticquicknews.co.uk/beck-to-the-future/",
+          "publishedOn": "2024-02-04T09:35:48.000Z",
+          "wordCount": 4385,
+          "title": "BECK TO THE FUTURE",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/02/Screenshot-2024-02-04-at-08.54.25.png"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/?p=117084",
+          "author": "CQN Magazine",
+          "description": "JOE HART insists the Celtic players are remaining “fully focused” on bringing success to the club again this season. The champions have seen their lead at the Premiership pinnacle cut to three points after their 1-1 draw with Aberdeen at Pittodrie while Philippe Clement’s side, who have a game in hand, beat Livingston 3-0 at [...]",
+          "link": "https://www.celticquicknews.co.uk/heart-and-soul-celtic-no-1-remains-focused/",
+          "publishedOn": "2024-02-04T08:48:58.000Z",
+          "wordCount": 4308,
+          "title": "‘HEART AND SOUL,’ CELTIC No.1 REMAINS FOCUSED",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/08/JOE-HART-NOISE.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=117077",
           "author": "CQN Magazine",
           "description": "NICOLAS KUHN has played just over an hour for Celtic – but already the £3million recruit has experienced a rollercoaster of emotions. The German winger, who signed from Rapid Vienna in the middle of last month, made his first appearance as a second-half substitute in the 1-0 victory over Ross County last weekend. Kuhn must have [...]",
@@ -628,6 +648,16 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=189006",
+          "author": "Sean Markus Clifford",
+          "description": "Joe Hart earned his crust as Celtic’s goalkeeper yesterday despite his side failing to see off Aberdeen in the Scottish Premiership. The former England international...",
+          "link": "https://www.67hailhail.com/match/joe-hart-thanks-celtic-support-as-bhoys-fail-to-see-off-aberdeen-at-pittodrie/",
+          "publishedOn": "2024-02-04T09:00:00.000Z",
+          "wordCount": 1542,
+          "title": "Joe Hart thanks Celtic support as Bhoys fail to see off Aberdeen at Pittodrie",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/12/GettyImages-1780695180-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=188981",
           "author": "Amir Mir",
@@ -1387,36 +1417,6 @@
           "wordCount": 1440,
           "title": "‘On his way out’: John Hartson thinks Celtic midfielder will now leave",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/11/GettyImages-1789635431-1-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=188351",
-          "author": "John McGinley",
-          "description": "As a former Norwich City and Celtic striker, who regularly provides punditry on both teams, Chris Sutton is in a unique position to offer their...",
-          "link": "https://www.67hailhail.com/transfers/chris-sutton-delivers-verdict-on-celtic-move-for-adam-idah/",
-          "publishedOn": "2024-01-30T21:45:00.000Z",
-          "wordCount": 1285,
-          "title": "Chris Sutton delivers concerning verdict on latest Celtic transfer reports",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/01/GettyImages-1809306646-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=188346",
-          "author": "John McGinley",
-          "description": "Celtic are said to be preparing a late January move for Norwich City striker Adam Idah. The Daily Record reports that the Bhoys are ‘closing...",
-          "link": "https://www.67hailhail.com/transfers/celtic-closing-in-on-loan-to-buy-move-for-championship-forward/",
-          "publishedOn": "2024-01-30T21:19:39.000Z",
-          "wordCount": 1236,
-          "title": "Report: Celtic closing in on late move for 22-cap star",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/01/GettyImages-1878468594-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=188341",
-          "author": "John McGinley",
-          "description": "A new report on Tuesday night has indicated that four of the players linked with Celtic in recent weeks won’t be joining the Bhoys during...",
-          "link": "https://www.67hailhail.com/transfers/four-celtic-transfer-links-fizzle-out-as-clock-ticks-on-underwhelming-winter-window/",
-          "publishedOn": "2024-01-30T20:50:38.000Z",
-          "wordCount": 1283,
-          "title": "Four Celtic transfer links fizzle out as clock ticks on underwhelming winter window",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/12/GettyImages-1842096169-scaled.jpg"
         }
       ]
     },
