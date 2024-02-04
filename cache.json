@@ -294,16 +294,6 @@
           "wordCount": 4425,
           "title": "Curious Deadline Day",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=116908",
-          "author": "CQN Magazine",
-          "description": "NICOLAS KUHN would have been forgiven for wondering what he had signed up for when the final whistle sounded after his first Celtic appearance at Parkhead. The shrill of referee Euan Anderson’s whistle was practically drowned out in an ear-splitting cacophony of boos and jeers from a section of the support after his side’s less-then-convincing [...]",
-          "link": "https://www.celticquicknews.co.uk/alexs-angle-interrupted-melody-in-paradise/",
-          "publishedOn": "2024-01-31T09:40:32.000Z",
-          "wordCount": 4777,
-          "title": "ALEX’S ANGLE: INTERRUPTED MELODY IN PARADISE",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/03/ALEX-GORDON-CP-TUNNEL.png"
         }
       ]
     },
@@ -618,6 +608,26 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=189107",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic have since moved on from a winter transfer window that caused mass discussion as they look to secure a domestic double. In what seemed...",
+          "link": "https://www.67hailhail.com/news/bbc-pundit-isnt-entirely-convinced-by-celtics-january-transfer-business/",
+          "publishedOn": "2024-02-04T20:45:00.000Z",
+          "wordCount": 1407,
+          "title": "BBC pundit isn't entirely convinced by Celtic's January transfer business",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/12/GettyImages-1842213029-1-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=189119",
+          "author": "Amir Mir",
+          "description": "Celtic’s star striker Kyogo Furuhashi just hasn’t looked himself this season as the change in style from Ange Postecoglou to Brendan Rodgers just doesn’t seem...",
+          "link": "https://www.67hailhail.com/match/chris-sutton-noticed-something-interesting-about-kyogo-furuhashi-playing-out-of-position-for-celtic/",
+          "publishedOn": "2024-02-04T20:10:00.000Z",
+          "wordCount": 1404,
+          "title": "Chris Sutton noticed something interesting about Kyogo Furuhashi playing out of position for Celtic",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/01/GettyImages-1842162877-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=189141",
           "author": "Sean Markus Clifford",
@@ -1467,26 +1477,6 @@
           "wordCount": 1414,
           "title": "Three Celtic players to meet in AFC Asian Cup quarter-final as South Korea see off Saudi Arabia",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/11/GettyImages-1769453063-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=188397",
-          "author": "Sean Markus Clifford",
-          "description": "Celtic are in the midst of the January window merry-go-round and could be set for some late drama before the deadline. Brendan Rodgers has managed...",
-          "link": "https://www.67hailhail.com/transfers/celtic-defender-gustaf-lagerbielke-goes-public-to-try-and-seal-late-parkhead-exit/",
-          "publishedOn": "2024-01-31T10:00:00.000Z",
-          "wordCount": 1547,
-          "title": "Celtic defender Gustaf Lagerbielke goes public to try and seal late Parkhead exit",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/10/GettyImages-1720705607-1-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=188390",
-          "author": "Sean Markus Clifford",
-          "description": "Celtic are now in the dying stages of the window and will be actively hunting for last-minute reinforcements. Nicolas Kuhn has been the only confirmed...",
-          "link": "https://www.67hailhail.com/transfers/final-roadblock-clears-as-celtic-close-in-on-second-january-signing/",
-          "publishedOn": "2024-01-31T09:00:00.000Z",
-          "wordCount": 1474,
-          "title": "Final roadblock cleared as Celtic close in on second January signing",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/01/GettyImages-1794910199-scaled.jpg"
         }
       ]
     },
