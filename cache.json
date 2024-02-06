@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=117156",
+          "author": "CQN Magazine",
+          "description": "CELTIC will continue to hold talks with Rocco Vata who is out of contract at the end of the season. The in-demand 18-year-old winger knocked back a four-year offer from the champions last month, as CQN reported. Serie A double-act Bologna and Como were tracking the Republic of Ireland Under-21 forward right up to last Thursday’s 11.30pm deadline. [...]",
+          "link": "https://www.celticquicknews.co.uk/whats-the-score-rocco/",
+          "publishedOn": "2024-02-06T09:27:17.000Z",
+          "wordCount": 4020,
+          "title": "WHAT’S THE SCORE, ROCCO?",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/02/ROCCO-VATA-SUB-V-DONS-BRENDAN-RODGERS-FEATURED.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=110030",
           "author": "CQN Magazine",
           "description": "SWISS international defender Stephane Henchoz was brought in by Martin O’Neill in a six-month loan from Liverpool on January 28 2005. The versatile back-four operator, who won a UEFA Cup medal with the Anfield side four years earlier, made his debut on February 6 in a 3-0 Scottish Cup victory over Dunfermline at East End Park. [...]",
@@ -528,23 +538,7 @@
       "title": "eTims",
       "feedUrl": "http://etims.net/?feed=rss2",
       "siteUrl": "https://etims.net",
-      "articles": [
-        {
-          "id": "https://etims.net/?p=18566",
-          "author": "Desi Mond",
-          "description": "Desi, Monty and Hector get together to discuss The January Window. They ask How? They ask Why? Most importantly, they ask What the actual Fuck?…",
-          "link": "https://etims.net/?p=18566",
-          "publishedOn": "2024-02-01T21:40:02.000Z",
-          "wordCount": 2570,
-          "title": "Window Pain – Etims Podcast",
-          "enclosure": {
-            "url": "https://api.spreaker.com/v2/episodes/58537352/download.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": "https://etims.net/wp-content/uploads/2013/06/rant.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "The Celtic Underground",
@@ -598,6 +592,36 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=189321",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic will be left to deal with the consequences of their decisions during what was a quiet January transfer window. With the market now closed,...",
+          "link": "https://www.67hailhail.com/transfers/pundit-thinks-he-knows-why-brendan-rodgers-turned-down-late-bid-for-forgotten-celtic-man/",
+          "publishedOn": "2024-02-06T09:15:00.000Z",
+          "wordCount": 1467,
+          "title": "Pundit thinks he knows why Brendan Rodgers turned down late bid for forgotten Celtic man",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/01/GettyImages-1430775733-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=189341",
+          "author": "Amir Mir",
+          "description": "Celtic and Rangers usually take the main headlines in Scottish football, but they may have to share that with Neil Warnock now. The legendary English...",
+          "link": "https://www.67hailhail.com/news/what-neil-warnock-said-about-celtic-after-taking-managers-job-at-aberdeen/",
+          "publishedOn": "2024-02-06T08:45:00.000Z",
+          "wordCount": 1434,
+          "title": "‘A bit arrogant’: Neil Warnock makes Celtic comment after taking Aberdeen job",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/02/GettyImages-1679944205-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=189316",
+          "author": "Amir Mir",
+          "description": "The Celtic fans made their feelings clear towards the board against Aberdeen on Saturday after another transfer window to forget. Back in the summer, many...",
+          "link": "https://www.67hailhail.com/transfers/neil-lennon-takes-issue-with-celtic-fans-banner-after-board-comes-under-fire-for-transfers/",
+          "publishedOn": "2024-02-06T08:15:00.000Z",
+          "wordCount": 1545,
+          "title": "'How do we': Neil Lennon issues controversial take on Celtic fans’ banner after poor transfer window",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/09/GettyImages-1492709953-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=189297",
           "author": "Amir Mir",
@@ -1167,36 +1191,6 @@
           "wordCount": 1270,
           "title": "Adam Idah speaks as Celtic complete deadline day move",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/01/GettyImages-1854074124-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=188782",
-          "author": "Gary Kirkpatrick",
-          "description": "The clock is ticking down on this January transfer window and Celtic fans are seriously worried by the club’s lack of incoming activity. Nicolas Kuhn...",
-          "link": "https://www.67hailhail.com/transfers/mark-wilson-gets-honest-over-adam-idahs-credentials-ahead-of-celtic-loan/",
-          "publishedOn": "2024-02-01T21:15:00.000Z",
-          "wordCount": 1471,
-          "title": "Mark Wilson gets honest over Adam Idah's credentials ahead of Celtic loan",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/02/GettyImages-1843119277-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=188802",
-          "author": "John McGinley",
-          "description": "Celtic winger Mikey Johnston has officially made his move to West Bromwich Albion on loan until the end of the season. Johnston is a homegrown...",
-          "link": "https://www.67hailhail.com/transfers/mikey-johnston-speaks-as-his-celtic-exit-is-confirmed/",
-          "publishedOn": "2024-02-01T20:45:22.000Z",
-          "wordCount": 1357,
-          "title": "Winger reacts as his deadline day Celtic exit is confirmed",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/12/GettyImages-1809771526-1-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=188784",
-          "author": "Amir Mir",
-          "description": "It could have been a move of nostalgia had Celtic decided to sign Sydney van Hooijdonk from Bologna during the January transfer window. Given that...",
-          "link": "https://www.67hailhail.com/transfers/peter-grant-reacts-to-celtics-transfer-call-on-sydney-van-hooijdonk/",
-          "publishedOn": "2024-02-01T20:20:00.000Z",
-          "wordCount": 1383,
-          "title": "’Interesting’: Peter Grant reacts as Celtic now won’t be signing 23-year-old striker",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2021/04/GettyImages-1232204653-scaled.jpg"
         }
       ]
     },
