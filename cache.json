@@ -6,6 +6,26 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=117242",
+          "author": "Paul67",
+          "description": "Live updates will appear below after 20:00.",
+          "link": "https://www.celticquicknews.co.uk/hibernian-v-celtic-live-updates-21/",
+          "publishedOn": "2024-02-07T19:00:16.000Z",
+          "wordCount": 4851,
+          "title": "Hibernian v Celtic, Live updates",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/?p=117221",
+          "author": "CQN Magazine",
+          "description": "BRENDAN RODGERS has handed starting places to new Bhoys Nicolas Kuhn and Adam Idah for tonight’s Premieship encounter with Hibs at Easter Road. Stephen Welsh also gets the nod to face the Edinburgh club while Kyogo Furuhashi, Liel Abada and Maik Nawrocki drop to the substitutes’ bench from the team that kicked off in the 1-1 [...]",
+          "link": "https://www.celticquicknews.co.uk/confirmed-all-change-celts-with-new-bhoys-in-at-start-maeda-returns/",
+          "publishedOn": "2024-02-07T18:54:43.000Z",
+          "wordCount": 4194,
+          "title": "CONFIRMED: ALL-CHANGE CELTS WITH NEW BHOYS IN AT START, MAEDA RETURNS",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/10/HIBS-EASTER-ROAD.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=117230",
           "author": "CQN Magazine",
           "description": "WITH ear-splitting  jeers ricocheting around the stadium, a disconsolate Celtic manager Davie Hay made his way up the tunnel after his team had played their last home league game of the season. It was the afternoon of May 2 1987 and the hosts had been toppled 2-1 by a Falkirk side that just dodged the relegation [...]",
@@ -284,16 +304,6 @@
           "wordCount": 4033,
           "title": "SCALES PUZZLER",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/01/LIAM-SCALES-AMAZING-FEATURED.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=117028",
-          "author": "CQN Magazine",
-          "description": "I HAVE no idea of your definition of failure, but I am beginning to get the impression I am out of sync with a certain percentage of the Celtic support. In recent days, through so many forums, I have been picking up the vibe that all is not well at the home of the champions, [...]",
-          "link": "https://www.celticquicknews.co.uk/alexs-angle-lets-hear-it-for-failure/",
-          "publishedOn": "2024-02-03T07:45:01.000Z",
-          "wordCount": 4812,
-          "title": "ALEX’S ANGLE: LET’S HEAR IT FOR FAILURE",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/03/ALEX-GORDON-CP-TUNNEL.png"
         }
       ]
     },
@@ -612,6 +622,16 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=189653",
+          "author": "Amir Mir",
+          "description": "The discussion of Celtic entering the English Premier League has become a hot topic again. Former Crystal Palace owner Simon Jordan has shared that when...",
+          "link": "https://www.67hailhail.com/news/simon-jordan-states-how-celtic-could-enter-the-english-premier-league/",
+          "publishedOn": "2024-02-07T18:30:00.000Z",
+          "wordCount": 1700,
+          "title": "'Immediate £150 million boost': Simon Jordan states how Celtic could enter the English Premier League",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/02/GettyImages-1897642287-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=189644",
           "author": "Sean Markus Clifford",
