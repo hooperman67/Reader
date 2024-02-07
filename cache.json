@@ -254,26 +254,6 @@
           "wordCount": 4209,
           "title": "‘A LITTLE BRAVER,’ RODGERS TRANSFER VERDICT",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/02/BRENDAN-RODGERS-DONS-FEATURRED.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=117020",
-          "author": "Paul67",
-          "description": "The January transfer window closed in an underwhelming manner last night.  Celtic concluded a straight four-month loan deal for Adam Idah (22) from Norwich City.  I started the week bemoaning how physically light we were, so the addition of a 6’ 3” traditional target man is welcome.  It is somewhat regretful that this is not [...]",
-          "link": "https://www.celticquicknews.co.uk/ending-off-piste/",
-          "publishedOn": "2024-02-02T12:00:46.000Z",
-          "wordCount": 4645,
-          "title": "Ending off-piste",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=117023",
-          "author": "CQN Magazine",
-          "description": "REO HATATE could be out for EIGHT WEEKS after an early diagnosis of his most recent setback was revealed. Celtic’s influential midfielder has seen this season decimated with a persistent hamstring problem and, unfortunately, the injury flared again in Japan’s Asian Cup match in Qatar in midweek. Hatate, who, along with Hoops team-mate Daizen Maeda, [...]",
-          "link": "https://www.celticquicknews.co.uk/hatate-8-week-ko-fear/",
-          "publishedOn": "2024-02-02T10:40:13.000Z",
-          "wordCount": 4260,
-          "title": "HATATE 8-WEEK KO FEAR",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/02/REO-HATATE-JAPAN-FEAR-FEATURED.png"
         }
       ]
     },
@@ -535,6 +515,16 @@
       "feedUrl": "http://celticunderground.net/feed/",
       "siteUrl": "http://celticunderground.net",
       "articles": [
+        {
+          "id": "https://celticunderground.net/?p=6738",
+          "author": "Harry Brady",
+          "description": "Analytics alone cannot win a title or make a club an elite trading team.  You need to understand the rules of the game, set a strategic target, and engage the adage of working smarter, not harder.",
+          "link": "http://celticunderground.net/trading-up-or-treading-water/",
+          "publishedOn": "2024-02-06T22:46:53.000Z",
+          "wordCount": 10023,
+          "title": "Trading up or treading water?",
+          "imageUrl": "http://celticunderground.net/wp-content/uploads/2012/04/dow_jones.jpg"
+        },
         {
           "id": "https://celticunderground.net/?p=6735",
           "author": "Harry Brady",
@@ -1241,36 +1231,6 @@
           "wordCount": 1554,
           "title": "New Celtic signing Adam Idah details close friendship with former Hoops favourite",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/01/GettyImages-1854074124-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=188841",
-          "author": "Sean Markus Clifford",
-          "description": "Celtic face managerless Aberdeen at Pittodrie tomorrow in their second Scottish Premiership fixture since the winter break ended. Last weekend, a first-minute strike from Alistair...",
-          "link": "https://www.67hailhail.com/news/aberdeen-announce-managerial-team-ahead-of-celtic-trip-to-pittodrie-in-the-scottish-premiership/",
-          "publishedOn": "2024-02-02T12:15:00.000Z",
-          "wordCount": 1428,
-          "title": "Aberdeen announce managerial team ahead of Celtic trip to Pittodrie in the Scottish Premiership",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/01/GettyImages-1859931841-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=188822",
-          "author": "Sean Markus Clifford",
-          "description": "Celtic ended the window on a quiet note despite late speculation that more signings would arrive to bolster Brendan Rodgers’ squad depth. Nicolas Kuhn got...",
-          "link": "https://www.67hailhail.com/news/ex-norwich-city-man-says-adam-idah-is-full-of-potential-after-finalising-celtic-move/",
-          "publishedOn": "2024-02-02T11:30:00.000Z",
-          "wordCount": 1582,
-          "title": "Ex-Norwich City man says new Celtic star is 'full of potential' after finalising Parkhead move",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/01/GettyImages-1794910199-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=188825",
-          "author": "Sean Markus Clifford",
-          "description": "Celtic boss Brendan Rodgers still has four active players on duty at the AFC Asian Cup; however, his wait to have them back and available...",
-          "link": "https://www.67hailhail.com/news/celtic-midfielder-reo-hatates-injury-state-of-play-emerges-after-afc-asian-cup-withdrawal/",
-          "publishedOn": "2024-02-02T10:10:00.000Z",
-          "wordCount": 1364,
-          "title": "Celtic midfielder Reo Hatate's injury state of play emerges after his AFC Asian Cup withdrawal",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/01/GettyImages-1927881873-scaled.jpg"
         }
       ]
     },
