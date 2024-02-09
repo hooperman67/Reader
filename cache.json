@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=117384",
+          "author": "CQN Magazine",
+          "description": "BRENDAN RODGERS is still awaiting the full diagnosis of Alistair Johnston’s head injury, but the Celtic boss fears the defender could have suffered a fracture. The Canadian World Cup right-back was stretchered off early in the midweek 2-1 win over Hibs at Easter Road following a mid-air collision with Nectarious Triantis that resulted in the visitors [...]",
+          "link": "https://www.celticquicknews.co.uk/johnston-fracture-fear/",
+          "publishedOn": "2024-02-09T15:27:38.000Z",
+          "wordCount": 4141,
+          "title": "JOHNSTON FRACTURE FEAR",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/02/ALISTAIR-JOHNSTON-HURT-V-HIBS-FEATURED.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=117363",
           "author": "Paul67",
           "description": "Celtic comprehensively destroyed St Mirren on 2 January, our last impressive performance against an SPFL club.  Since then, St Mirren have won three of their four games, conceding only once (to Newco).  Their last two wins, 0-3 at Easter Road and 2-0 home to Dundee, put them nine points ahead of their two city rivals [...]",
@@ -622,6 +632,36 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=190023",
+          "author": "Gary Kirkpatrick",
+          "description": "Celtic go from Scottish Premiership action to Scottish Cup duty this weekend as they face a short trip to Paisley for a tie against St...",
+          "link": "https://www.67hailhail.com/match/celtic-injury-news-vs-st-mirren-as-alistair-johnston-among-five-updates/",
+          "publishedOn": "2024-02-09T15:45:04.000Z",
+          "wordCount": 1531,
+          "title": "Celtic injury news vs St Mirren as Alistair Johnston among five updates",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/02/GettyImages-1832587248-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=190018",
+          "author": "Gary Kirkpatrick",
+          "description": "Reports surfaced on Thursday that football’s lawmakers IFAB are set to announce plans to introduce a blue card as part of their sin bin trial...",
+          "link": "https://www.67hailhail.com/news/reporters-chuckle-away-at-celtic-presser-as-brendan-rodgers-delivers-brilliant-blue-card-verdict/",
+          "publishedOn": "2024-02-09T15:04:56.000Z",
+          "wordCount": 1508,
+          "title": "Reporters chuckle away as Brendan Rodgers delivers brilliant blue card verdict",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/02/GettyImages-1894755219-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=190013",
+          "author": "Gary Kirkpatrick",
+          "description": "James McFadden went out of his way to explain how Celtic’s underperforming wingers can make defenders think twice about whether the oppponet attacks on the...",
+          "link": "https://www.67hailhail.com/news/james-mcfadden-puts-his-celtic-manager-cap-on-as-flailing-hoops-wingers-offered-advice/",
+          "publishedOn": "2024-02-09T14:31:05.000Z",
+          "wordCount": 1506,
+          "title": "James McFadden puts his Celtic manager cap on as flailing Hoops wingers offered advice",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/02/GettyImages-1965324675-1-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=190004",
           "author": "Gary Kirkpatrick",
