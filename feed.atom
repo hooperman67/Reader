@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-02-09T04:12:40.543Z</updated>
+    <updated>2024-02-09T06:13:03.531Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WHATEVER HAPPENED TO…EYAL BERKOVIC?]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=110136</id>
+        <link href="https://www.celticquicknews.co.uk/whatever-happened-to-eyal-berkovic/"/>
+        <updated>2024-02-09T05:30:14.000Z</updated>
+        <summary type="html"><![CDATA[EYAL BERKOVIC was Celtic’s record signing when he arrived in July 1999 in a £5.75million deal from West Ham. Rookie boss John Barnes and Director of Football Kenny Dalglish, the so-called ‘dream team’ who had replaced Jozef Venglos the previous month, reckoned the 27-year-old Israeli midfielder would become a pivotal figure in their plans to [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘He’s set a really high bar’: Neil Lennon admits Celtic star just wasn’t himself v Hibernian]]></title>
         <id>https://www.67hailhail.com/?p=189972</id>
@@ -992,36 +1002,6 @@
         <link href="https://www.67hailhail.com/transfers/anthony-joseph-names-starting-point-fee-that-celtic-would-consider-to-sell-matt-oriley/"/>
         <updated>2024-02-04T19:30:00.000Z</updated>
         <summary type="html"><![CDATA[Celtic knocked back significant interest in midfielder Matt O’Riley in the winter transfer window as Brendan Rodgers showed determination to keep his star man. La...]]></summary>
-        <author>
-            <name>Sean Markus Clifford</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maik Nawrocki sends defiant Celtic title message despite Hoops dropping points at Pittodrie]]></title>
-        <id>https://www.67hailhail.com/?p=189100</id>
-        <link href="https://www.67hailhail.com/news/maik-nawrocki-sends-defiant-celtic-title-message-despite-hoops-dropping-points-at-pittodrie/"/>
-        <updated>2024-02-04T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Celtic suffered a roadblock in their pursuit of a third Scottish Premiership title on the bounce after drawing 1-1 with Aberdeen yesterday at Pittodrie. Despite...]]></summary>
-        <author>
-            <name>Sean Markus Clifford</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘You don’t say that often’: Chris Sutton can't believe what he was saying about Celtic's Matt O'Riley]]></title>
-        <id>https://www.67hailhail.com/?p=189103</id>
-        <link href="https://www.67hailhail.com/match/chris-sutton-cant-believe-what-he-was-saying-about-celtics-matt-oriley-v-aberdeen/"/>
-        <updated>2024-02-04T17:15:00.000Z</updated>
-        <summary type="html"><![CDATA[One man who can’t be criticised this season is Matt O’Riley because he has been out of this world in Celtic colours. There is a...]]></summary>
-        <author>
-            <name>Amir Mir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Norwich City manager David Wagner explains why he let Adam Idah join Celtic on loan]]></title>
-        <id>https://www.67hailhail.com/?p=189097</id>
-        <link href="https://www.67hailhail.com/transfers/norwich-city-manager-david-wagner-explains-why-he-let-adam-idah-join-celtic-on-loan/"/>
-        <updated>2024-02-04T16:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Celtic only announced one deadline day signing in the form of Adam Idah to cap off an otherwise muted window at Parkhead. With roughly an...]]></summary>
         <author>
             <name>Sean Markus Clifford</name>
         </author>
