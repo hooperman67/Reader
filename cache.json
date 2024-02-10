@@ -334,16 +334,6 @@
           "wordCount": 4020,
           "title": "WHAT’S THE SCORE, ROCCO?",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/02/ROCCO-VATA-SUB-V-DONS-BRENDAN-RODGERS-FEATURED.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=110030",
-          "author": "CQN Magazine",
-          "description": "SWISS international defender Stephane Henchoz was brought in by Martin O’Neill in a six-month loan from Liverpool on January 28 2005. The versatile back-four operator, who won a UEFA Cup medal with the Anfield side four years earlier, made his debut on February 6 in a 3-0 Scottish Cup victory over Dunfermline at East End Park. [...]",
-          "link": "https://www.celticquicknews.co.uk/whatever-happened-to-stephane-henchoz/",
-          "publishedOn": "2024-02-06T05:30:53.000Z",
-          "wordCount": 4076,
-          "title": "WHATEVER HAPPENED TO…STEPHANE HENCHOZ?",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/07/STEPHANE-HENCHOZ-FEATURED-.png"
         }
       ]
     },
@@ -642,6 +632,26 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=190051",
+          "author": "Gary Kirkpatrick",
+          "description": "The Scottish Cup fifth round has arrived and St Mirren vs Celtic will be the penultimate tie of the weekend fixtures. The Hoops need not...",
+          "link": "https://www.67hailhail.com/match/st-mirren-vs-celtic-tv-channel-kick-off-time-team-news-prediction/",
+          "publishedOn": "2024-02-10T18:00:00.000Z",
+          "wordCount": 1553,
+          "title": "St Mirren vs Celtic: TV channel, kick-off time, team news, prediction",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/02/GettyImages-1236089873-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=190056",
+          "author": "John McGinley",
+          "description": "As far as Scottish Cup 5th Round tests go, tomorrow’s trip to face St Mirren is a tricky one for Celtic. Most of the rest...",
+          "link": "https://www.67hailhail.com/match/positive-signs-from-celtic-training-footage-at-lennoxtown-ahead-of-st-mirren-test/",
+          "publishedOn": "2024-02-10T16:35:05.000Z",
+          "wordCount": 1286,
+          "title": "Positive signs from Celtic training footage at Lennoxtown ahead of tough Scottish Cup test",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/12/GettyImages-1842213029-1-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=190034",
           "author": "John McGinley",
