@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-02-14T20:10:29.076Z</updated>
+    <updated>2024-02-14T22:09:36.006Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kieran Tierney drops intriguing Celtic quip while sharing honest feelings on life after Parkhead]]></title>
+        <id>https://www.67hailhail.com/?p=190248</id>
+        <link href="https://www.67hailhail.com/news/kieran-tierney-drops-intriguing-celtic-quip-while-sharing-honest-feelings-on-life-after-parkhead/"/>
+        <updated>2024-02-14T20:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Celtic have produced a plethora of homegrown youth products over the years, and Kieran Tierney continues to be a shining example from the recent past....]]></summary>
+        <author>
+            <name>Sean Markus Clifford</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA['Genuine lad'... Morten Wieghorst says 'ambitious' Celtic player can end season with Euro 2024 call]]></title>
         <id>https://www.67hailhail.com/?p=190241</id>
@@ -774,26 +784,6 @@
         <summary type="html"><![CDATA[Celtic got away with a fortunate result against Hibs at Easter Road in midweek. Brendan Rodgers had to rely on his loanee striker Adam Idah’s...]]></summary>
         <author>
             <name>Gary Kirkpatrick</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘CAUSING AN ISSUE,’ BERNARDO’S CONCERN]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=117427</id>
-        <link href="https://www.celticquicknews.co.uk/causing-an-issue-bernardos-concern/"/>
-        <updated>2024-02-10T09:31:26.000Z</updated>
-        <summary type="html"><![CDATA[PAULO BERNARDO is hoping to maintain good habits from now until the end of the season. The on-loan Portuguese playmaker is used to dealing with the strain that comes with playing for one of football giants where the pressure is relentless. Celtic step back onto the silverware tightrope again in Paisley when the holders face [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘TOO GOOD FOR THIS CELTIC TEAM,’ SUTTON DELIVERS DAMNING VERDICT]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=117424</id>
-        <link href="https://www.celticquicknews.co.uk/too-good-for-this-celtic-team-sutton-delivers-damning-verdict/"/>
-        <updated>2024-02-10T08:37:14.000Z</updated>
-        <summary type="html"><![CDATA[FORMER Celtic goal hero Chris Sutton believes he has pinpointed the reason for the worrying pause in Kyogo Furuhashi’s striking rate at the champions this season. The one-time England international insists the Japanese frontman is “too good for this Celtic team”. Kyogo’s figure have dropped off alarmingly in comparison with his tally this time last term [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
         </author>
     </entry>
     <entry>
