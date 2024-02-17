@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=117658",
+          "author": "CQN Magazine",
+          "description": "LIEL ABADA looks to be heading for the Celtic exit. The Israeli international winger is the target for three unnamed MLS clubs, according to a report in the Daily Mail. Abada missed the 2-0 Scottish Cup fourth-round victory over St Mirren in Paisley last weekend because he was not mentally attuned. The 22-year-old goalscoring wide [...]",
+          "link": "https://www.celticquicknews.co.uk/abada-faces-celtic-crunch/",
+          "publishedOn": "2024-02-17T09:13:26.000Z",
+          "wordCount": 4068,
+          "title": "ABADA FACES CELTIC CRUNCH",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/01/LIEL-ABADA-STM-FEATURED.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=117639",
           "author": "CQN Magazine",
           "description": "JOHN BARNES paid the ultimate penalty for the inexplicable Scottish Cup loss to Inverness Caley Thistle on February 8 2000 when he was sacked only eight months into the job. Celtic now had to pick up the pieces from the debris left in the fall-out of the most humiliating result in the club’s history. In another [...]",
@@ -501,6 +511,26 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=190399",
+          "author": "Patrick Sinat",
+          "description": "As Celtic prepare to face Kilmarnock at Parkhead today, the fans will be hoping to see more of the performance that saw Brendan Rodgers take...",
+          "link": "https://www.67hailhail.com/news/mark-wilson-thinks-brendan-rodgers-might-have-found-a-brilliant-new-partnership-at-celtic/",
+          "publishedOn": "2024-02-17T09:50:00.000Z",
+          "wordCount": 1348,
+          "title": "'It does look good': Mark Wilson thinks Brendan Rodgers might have found a brilliant new partnership at Celtic",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/12/GettyImages-1877194528-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=190402",
+          "author": "Patrick Sinat",
+          "description": "Amid all the chatter of Celtic being poor and Rangers on the ascendancy in the Scottish Premiership, Chris Sutton has predicted who would win the...",
+          "link": "https://www.67hailhail.com/news/chris-sutton-predicts-who-would-win-the-glasgow-derby-if-celtic-played-rangers-today/",
+          "publishedOn": "2024-02-17T09:24:04.000Z",
+          "wordCount": 1478,
+          "title": "‘Upper hand’: Chris Sutton predicts who would win the Glasgow Derby if Celtic played Rangers today",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/10/GettyImages-1469729815-2-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=190389",
           "author": "Patrick Sinat",
