@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=104472",
+          "author": "CQN Magazine",
+          "description": "CELTIC celebrated a 2-1 League Cup victory over Ibrox opposition at Hampden exactly a year ago today. The first piece of silverware of the season was claimed after Kyogo Furuhashi had fired a double behind Allan McGregor as Ange Postecoglou picked up his third honour in his short reign as Hoops manager. The previous season [...]",
+          "link": "https://www.celticquicknews.co.uk/i-couldnt-be-happier-ange-a-year-ago/",
+          "publishedOn": "2024-02-26T06:30:31.000Z",
+          "wordCount": 4629,
+          "title": "‘I COULDN’T BE HAPPIER,’ ANGE A YEAR AGO",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/02/ANGE-POSTECOGLOU-GRINNING-LC-FEATURED.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=117878",
           "author": "CQN Magazine",
           "description": "ON SATURDAY, May 26 2001, the sun beamed brightly on Hampden and Martin O’Neill as he brought down the curtain on his history-equalling first season as Celtic manager. Only the legendary Jock Stein had achieved the domestic clean sweep before in the Hoops’ history – and he did it twice, in seasons 1966/67 and 1968/69. [...]",
@@ -538,6 +548,16 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=191041",
+          "author": "Patrick Sinat",
+          "description": "Celtic’s win over Motherwell showed a different side to this team that the supporters have not seen in quite a long time. Battling qualities, heart...",
+          "link": "https://www.67hailhail.com/news/sign-him-now-charlie-mulgrew-says-motherwell-have-a-player-who-could-easily-play-for-celtic/",
+          "publishedOn": "2024-02-26T07:45:00.000Z",
+          "wordCount": 1364,
+          "title": "‘Sign him now’: Charlie Mulgrew says Motherwell have a player who could easily play for Celtic",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/02/GettyImages-1270671426-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=190976",
           "author": "Patrick Sinat",
@@ -1087,46 +1107,6 @@
           "wordCount": 1599,
           "title": "'I don't think people realise'... Mikey Johnston opens up on what life is really like at Celtic",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/10/GettyImages-1723102427-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=190740",
-          "author": "Patrick Sinat",
-          "description": "The form of the Celtic team is something that has bothered the fans for a number of months now. Gone is the fast, free-flowing football...",
-          "link": "https://www.67hailhail.com/news/pundit-believes-he-knows-the-real-reason-matt-orileys-form-at-celtic-is-suffering/",
-          "publishedOn": "2024-02-21T20:10:00.000Z",
-          "wordCount": 1521,
-          "title": "'He suffers': Pundit believes he knows the real reason Matt O’Riley’s form at Celtic is suffering",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/12/GettyImages-1756680245-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=190756",
-          "author": "Sean Markus Clifford",
-          "description": "Celtic travel to Motherwell this weekend in search of three points amid their ongoing battle to claim a third league title in succession. Brendan Rodgers...",
-          "link": "https://www.67hailhail.com/news/all-that-matters-paul-hartley-says-celtic-only-need-to-do-one-thing-to-enact-momentum-shift/",
-          "publishedOn": "2024-02-21T19:40:00.000Z",
-          "wordCount": 1607,
-          "title": "'All that matters': Paul Hartley says Celtic only need to do one thing to enact 'momentum' shift",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/02/GettyImages-1761704573-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=190733",
-          "author": "Patrick Sinat",
-          "description": "John Hartson has shared what he’s heard about Liel Abada’s immediate future at Celtic. Abada’s future at the club looks uncertain as he struggles to...",
-          "link": "https://www.67hailhail.com/news/thats-the-talk-john-hartson-shares-what-hes-heard-about-liel-abadas-future-at-celtic/",
-          "publishedOn": "2024-02-21T19:10:00.000Z",
-          "wordCount": 1375,
-          "title": "‘That’s the talk’: John Hartson shares what he’s heard about 22-year-old player’s future at Celtic",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/04/GettyImages-1469734117-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=190736",
-          "author": "Sean Markus Clifford",
-          "description": "Celtic travel to Motherwell on Sunday keen to get back to winning ways after a frustrating draw against Kilmarnock last weekend. Kyogo Furuhashi’s delightful opening...",
-          "link": "https://www.67hailhail.com/opinion/three-celtic-men-we-could-see-drafted-in-against-motherwell-to-rejuvenate-brendan-rodgers-side/",
-          "publishedOn": "2024-02-21T18:40:00.000Z",
-          "wordCount": 1755,
-          "title": "Three Celtic men we could see drafted in against Motherwell to rejuvenate Brendan Rodgers' side",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/12/GettyImages-1852028202-scaled.jpg"
         }
       ]
     },
