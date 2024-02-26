@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-02-26T04:12:13.207Z</updated>
+    <updated>2024-02-26T06:14:14.454Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WELCOME TO PARADISE, MARTIN: PART FIVE]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=117878</id>
+        <link href="https://www.celticquicknews.co.uk/welcome-to-paradise-martin-part-five/"/>
+        <updated>2024-02-26T06:00:13.000Z</updated>
+        <summary type="html"><![CDATA[ON SATURDAY, May 26 2001, the sun beamed brightly on Hampden and Martin O’Neill as he brought down the curtain on his history-equalling first season as Celtic manager. Only the legendary Jock Stein had achieved the domestic clean sweep before in the Hoops’ history – and he did it twice, in seasons 1966/67 and 1968/69. [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘Big difference’: Adam Idah shares what’s shocked him most about playing for Celtic]]></title>
         <id>https://www.67hailhail.com/?p=190976</id>
@@ -844,36 +854,6 @@
         <summary type="html"><![CDATA[Celtic travel to Motherwell on Sunday keen to get back to winning ways after a frustrating draw against Kilmarnock last weekend. Kyogo Furuhashi’s delightful opening...]]></summary>
         <author>
             <name>Sean Markus Clifford</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Definitely not': Pundit claims Celtic have signed two players who Brendan Rodgers didn't pick]]></title>
-        <id>https://www.67hailhail.com/?p=190729</id>
-        <link href="https://www.67hailhail.com/news/definitely-not-pundit-claims-celtic-have-signed-two-players-who-brendan-rodgers-didnt-pick/"/>
-        <updated>2024-02-21T18:10:00.000Z</updated>
-        <summary type="html"><![CDATA[The chat surrounding Celtic’s business in the transfer market has been front and centre ever since Brendan Rodgers started shipping out players in January. Marco...]]></summary>
-        <author>
-            <name>Patrick Sinat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['I don’t imagine'…Motherwell man says side willing take 'advantage' of key problem at Celtic]]></title>
-        <id>https://www.67hailhail.com/?p=190751</id>
-        <link href="https://www.67hailhail.com/news/i-dont-imaginemotherwell-man-says-side-willing-take-advantage-of-key-problem-at-celtic/"/>
-        <updated>2024-02-21T17:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Celtic will be keen to forget their side’s draw with Kilmarnock last weekend as they look forward to this weekend’s clash against Motherwell. The Bhoys...]]></summary>
-        <author>
-            <name>Sean Markus Clifford</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['He needs to improve': Marc Rieper says 23-year-old Celtic player still needs to get better]]></title>
-        <id>https://www.67hailhail.com/?p=190721</id>
-        <link href="https://www.67hailhail.com/news/he-needs-to-improve-marc-rieper-says-23-year-old-celtic-player-still-needs-to-get-better/"/>
-        <updated>2024-02-21T17:10:00.000Z</updated>
-        <summary type="html"><![CDATA[The start if this season under Brendan Rodgers at Celtic couldn’t really have went much better. Apart from the slip up against St Johnstone, the...]]></summary>
-        <author>
-            <name>Patrick Sinat</name>
         </author>
     </entry>
     <entry>
