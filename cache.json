@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=77497",
+          "author": "CQN Magazine",
+          "description": "FIVE years ago today, Neil Lennon returned to the Celtic dug-out in the wake of Brendan Rodgers’ hasty exit for Leicester City. By a stroke of fortune, the Hoops legend had just quit his managerial post at Hibs the previous month and did not take too much persuasion to once again accept the challenge of [...]",
+          "link": "https://www.celticquicknews.co.uk/five-years-ago-welcome-back-lenny/",
+          "publishedOn": "2024-02-27T06:00:37.000Z",
+          "wordCount": 4415,
+          "title": "FIVE YEARS AGO: WELCOME BACK, LENNY",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2021/02/NEIL-LENNON-V-HEARTS-FEB-27-FEATURED-scaled.jpg"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=117917",
           "author": "Paul67",
           "description": "No one can convince you or I Celtic played well, against The ‘Well, yesterday.  Throughout the first half, the players looked like strangers.  At times, Motherwell ripped us open.  This was not league winning form.  None of that matters, though. When you are not playing well, all that matters is you pick up wins until [...]",
@@ -481,6 +491,16 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=191112",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic will be keen to continue their momentum against Dundee on Wednesday night following a late victory over Motherwell last weekend. Blair Spittal capitalised on...",
+          "link": "https://www.67hailhail.com/news/officials-confirmed-as-celtic-look-to-claim-victory-over-dundee-in-the-scottish-premiership/",
+          "publishedOn": "2024-02-27T06:10:00.000Z",
+          "wordCount": 1444,
+          "title": "Officials confirmed as Celtic look to claim victory over Dundee in the Scottish Premiership",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/12/GettyImages-1842213029-1-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=191122",
           "author": "Sean Markus Clifford",
@@ -1040,26 +1060,6 @@
           "wordCount": 1590,
           "title": "'Remarkable': Joe Ledley says Brendan Rodgers hasn't been given one thing 'he wants' at Celtic",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/09/GettyImages-112283001-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=190834",
-          "author": "Patrick Sinat",
-          "description": "Celtic’s struggles domestically have been well highlighted on this site and in the press recently. With the team finding it difficult to penetrate dogged defences,...",
-          "link": "https://www.67hailhail.com/news/youre-going-to-be-surprised-peter-grant-picks-his-shock-front-three-that-celtic-should-be-using/",
-          "publishedOn": "2024-02-22T18:10:00.000Z",
-          "wordCount": 1404,
-          "title": "'You're going to be surprised': Peter Grant picks his shock front-three that Celtic should be using",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/02/GettyImages-1998908293-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=190456",
-          "author": "Patrick Sinat",
-          "description": "With the news that Joe Hart was retiring from football hitting the headlines this afternoon, what John Hartson said about the Celtic ‘keeper sums up...",
-          "link": "https://www.67hailhail.com/news/what-john-hartson-said-about-joe-hart-vs-kilmarnock-nails-his-celtic-career/",
-          "publishedOn": "2024-02-22T17:40:00.000Z",
-          "wordCount": 1433,
-          "title": "'In the time he's been here': What John Hartson said about Joe Hart vs Kilmarnock nails his Celtic career",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/02/GettyImages-1131781728-scaled.jpg"
         }
       ]
     },
