@@ -6,6 +6,26 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=117937",
+          "author": "Paul67",
+          "description": "We signed Hyeok-kyu Kwon (22) for €1m from K League 2 club Busan IPark.  He joined St Mirren on loan last month, where he has since made six appearances.  Watch this short video montage of him there. Kwon, Kwon will tear you apart again 🎵 pic.twitter.com/Zr5jU7f3r4 — Andy Ballon d’ORman (@andydorman87) February 25, 2024 Look [...]",
+          "link": "https://www.celticquicknews.co.uk/ambition-being-demolished-in-real-time/",
+          "publishedOn": "2024-02-27T12:00:56.000Z",
+          "wordCount": 4516,
+          "title": "Ambition being demolished in real time",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/?p=117946",
+          "author": "CQN Magazine",
+          "description": "ADAM IDAH is making his critics eat their words with his four goals in five appearances for Celtic. The Republic of Ireland international striker was a seemingly underwhelming loan signing from Championship outfit Norwich City late on deadline day. The strapping 6ft-plus attack leader made his debut as a second-half substitute against Aberdeen at Pittodrie [...]",
+          "link": "https://www.celticquicknews.co.uk/answering-critics-the-idah-way/",
+          "publishedOn": "2024-02-27T11:46:33.000Z",
+          "wordCount": 4347,
+          "title": "ANSWERING CRITICS THE IDAH WAY",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/02/ADAM-IDAH-CELTIC-HHH-FEATURED.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=117936",
           "author": "CQN Magazine",
           "description": "BRENDAN RODGERS is facing a double goalkeeping dilemma in the summer. The Celtic boss is searching for a new No.1 after 36-year-old Joe Hart’s announcement he would be retiring at the end of the season. Benji Siegrist, who has been third in the pecking order in recent times, was seen as a possible contender for [...]",
@@ -521,6 +541,26 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=191165",
+          "author": "Patrick Sinat",
+          "description": "Current Rangers goalkeeper, Jack Butland, has admitted that he’s always been a huge admirer of one Celtic player throughout his entire career. Butland joined the...",
+          "link": "https://www.67hailhail.com/news/massive-influence-jack-butland-says-hes-always-admired-one-unbelievable-celtic-player/",
+          "publishedOn": "2024-02-27T12:14:01.000Z",
+          "wordCount": 1545,
+          "title": "‘Massive influence’: Jack Butland says he’s always admired one ‘unbelievable’ Celtic player",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/02/GettyImages-947138740-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=191156",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic will be in the market this summer for a new goalkeeper due to the fact that Joe Hart has announced his decision to retire...",
+          "link": "https://www.67hailhail.com/transfers/celtic-keen-on-26-cap-international-who-could-replace-joe-hart-hes-on-brendan-rodgers-list/",
+          "publishedOn": "2024-02-27T10:25:59.000Z",
+          "wordCount": 1460,
+          "title": "Celtic keen on 26-cap international who could replace Joe Hart; he's on Brendan Rodgers' list",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/12/GettyImages-1894755219-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=191128",
           "author": "Patrick Sinat",
@@ -1107,7 +1147,18 @@
       "title": "News Archives - Celtic Fanzine",
       "feedUrl": "https://celticfanzine.com/category/news/feed/",
       "siteUrl": "https://celticfanzine.com/category/news/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://celticfanzine.com/?p=58704",
+          "author": "celtic",
+          "description": "More than 90 Minutes Annual Charity Dinner at the Number 10 Hotel, Glasgow after Celtic v St. Mirren Saturday 13 April. This year we are raising money for the 12th Lion Charity & we will also do our annual season ticket drive for the Kano Foundation on the night. Paul Sheridan from the The Wakes […]\nThe post Fundraiser for 12th Lion Charity & Kano Foundation appeared first on Celtic Fanzine.",
+          "link": "https://celticfanzine.com/fundraiser-for-12th-lion-charity-kano-foundation/",
+          "publishedOn": "2024-02-27T10:32:25.000Z",
+          "wordCount": 1743,
+          "title": "Fundraiser for 12th Lion Charity & Kano Foundation",
+          "imageUrl": "https://celticfanzine.com/wp-content/uploads/john-fallon-12-lion-.png"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
