@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=118063",
+          "author": "CQN Magazine",
+          "description": "CELTIC were singing – and winning – in the rain at Parkhead last night as they powered their way to an emphatic 7-1 win over demoralised Dundee. The roof fell in on the visitors as the champions ran amok in a blistering opening period when Cameron Carter-Vickers, with his first goal of the campaign, got [...]",
+          "link": "https://www.celticquicknews.co.uk/7-up-watch-again-as-celtic-run-amok/",
+          "publishedOn": "2024-02-29T09:39:48.000Z",
+          "wordCount": 4115,
+          "title": "7 UP: WATCH AGAIN AS CELTIC RUN AMOK",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/02/BRENDAN-RODGERS-KELLY-JOY-FEATURED.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=118061",
           "author": "CQN Magazine",
           "description": "CALLUM McGREGOR struck a rare goal in Celtic’s 7-1 demolition of Dundee at Parkhead  last night. But the Hoops captain had to accept he had been upstaged by his interval replacement Daniel Kelly who claimed the strike of the night for his first counter for the champions. The 18-year-old midfielder brought the house down with [...]",
@@ -561,6 +571,36 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=191328",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic sparked into life against Dundee last night at Parkhead by recording a 7-1 victory at Parkhead to keep their Scottish Premiership title charge on...",
+          "link": "https://www.67hailhail.com/opinion/one-celtic-player-put-in-a-performance-that-went-under-the-radar-in-7-1-thrashing-of-dundee/",
+          "publishedOn": "2024-02-29T10:10:00.000Z",
+          "wordCount": 1474,
+          "title": "One Celtic player put in a performance that went under the radar in 7-1 thrashing of Dundee",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/12/GettyImages-1809431838-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=191321",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic blew away Dundee at Parkhead last night as seven different scorers secured a magnificent 7-1 victory in front of a capacity home crowd. Cameron...",
+          "link": "https://www.67hailhail.com/news/brendan-rodgers-opens-up-on-what-was-so-great-about-celtics-7-1-demolition-job-against-dundee/",
+          "publishedOn": "2024-02-29T09:10:00.000Z",
+          "wordCount": 1487,
+          "title": "Brendan Rodgers opens up on what was so 'great' about Celtic's 7-1 demolition job against Dundee",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/02/GettyImages-1998904072-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=191319",
+          "author": "Patrick Sinat",
+          "description": "In a devastating first half by Celtic, Brendan Rodgers’ side stormed to a 6-0 lead against Dundee in Paradise. It really was the performance of...",
+          "link": "https://www.67hailhail.com/news/bbc-touchline-reporter-shares-what-the-celtic-fans-did-at-half-time-in-win-vs-dundee/",
+          "publishedOn": "2024-02-29T08:40:00.000Z",
+          "wordCount": 1375,
+          "title": "‘Brilliant’: BBC touchline reporter shares what the Celtic fans did at half-time in win vs Dundee",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/02/GettyImages-105991613-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=191313",
           "author": "Patrick Sinat",
@@ -1290,26 +1330,6 @@
           "wordCount": 1464,
           "title": "‘Looked the part’: Brendan Rodgers told he must play £6m rated Celtic summer signing vs Motherwell",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/01/GettyImages-1741803660-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=190946",
-          "author": "Sean Markus Clifford",
-          "description": "Celtic will soon turn their attention to identifying summer additions despite being in the middle of a race for the Scottish Premiership crown. It seems...",
-          "link": "https://www.67hailhail.com/news/sets-the-tone-mark-wilson-says-celtic-under-pressure-to-get-major-transfer-decision-right/",
-          "publishedOn": "2024-02-24T21:10:00.000Z",
-          "wordCount": 1436,
-          "title": "'Sets the tone': Mark Wilson says Celtic 'under pressure' to get major transfer decision right",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/07/GettyImages-83373784-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=190943",
-          "author": "Sean Markus Clifford",
-          "description": "Celtic goalkeeper Joe Hart has been the topic of much discussion over the last few days following his announcement that he will retire at the...",
-          "link": "https://www.67hailhail.com/news/amazing-premier-league-boss-reacts-to-joe-hart-retirement-surprised-he-is-leaving-celtic/",
-          "publishedOn": "2024-02-24T20:40:00.000Z",
-          "wordCount": 1501,
-          "title": "'Amazing': Premier League boss reacts to Joe Hart retirement, 'surprised' he is leaving Celtic",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/10/GettyImages-1258410054-scaled.jpg"
         }
       ]
     },
