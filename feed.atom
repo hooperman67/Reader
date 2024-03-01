@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-03-01T14:09:06.778Z</updated>
+    <updated>2024-03-01T16:12:22.642Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Brendan Rodgers explains his off-the-record Celtic briefing with journalists]]></title>
+        <id>https://www.67hailhail.com/?p=191473</id>
+        <link href="https://www.67hailhail.com/news/brendan-rodgers-explains-his-off-the-record-celtic-briefing-with-journalists/"/>
+        <updated>2024-03-01T16:10:00.000Z</updated>
+        <summary type="html"><![CDATA[There were interesting notes about Celtic manager Brendan Rodgers’ media handling in the Scottish press this morning. As we discussed, The Daily Record reported that...]]></summary>
+        <author>
+            <name>John McGinley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brendan Rodgers provides Reo Hatate Celtic comeback timeline after injury layoff]]></title>
+        <id>https://www.67hailhail.com/?p=191467</id>
+        <link href="https://www.67hailhail.com/news/brendan-rodgers-provides-reo-hatate-celtic-comeback-timeline-after-injury-layoff/"/>
+        <updated>2024-03-01T15:36:46.000Z</updated>
+        <summary type="html"><![CDATA[Brendan Rodgers has provided Celtic supporters with an update on midfielder Reo Hatate after his latest injury setback. Hatate has only managed to make seven...]]></summary>
+        <author>
+            <name>John McGinley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘I TRUST HIM,’ RODGERS PRAISE FOR ENFORCER]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=118098</id>
+        <link href="https://www.celticquicknews.co.uk/i-trust-him-rodgers-praise-for-enforcer/"/>
+        <updated>2024-03-01T15:33:58.000Z</updated>
+        <summary type="html"><![CDATA[BRENDAN RODGERS could be without influential captain Callum McGregor for the clash against Hearts at Tynecastle as the countdown to the crown continues on Sunday. The midfielder was withdrawn at the interval against Dundee in midweek and replaced by Daniel Kelly with the hosts already six goals ahead at Parkhead. The teenager marked his appearance with [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[THE CURSE OF KYOGO]]></title>
         <id>https://www.celticquicknews.co.uk/?p=118085</id>
