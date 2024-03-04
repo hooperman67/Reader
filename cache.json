@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=77639",
+          "author": "CQN Magazine",
+          "description": "SIR KENNY DALGLISH celebrates his 73nd birthday today. The Celtic legend did it all in the game as a player at Parkhead and Liverpool as well as on the international front where he is the nation’s joint top scorer with Denis Law on 30 goals after making 102 appearances for Scotland. CQN today takes a [...]",
+          "link": "https://www.celticquicknews.co.uk/the-day-birthday-bhoy-sir-kenny-told-billy-mcneill-get-lost/",
+          "publishedOn": "2024-03-04T06:00:55.000Z",
+          "wordCount": 6105,
+          "title": "THE DAY BIRTHDAY BHOY SIR KENNY TOLD BILLY McNEILL: ‘GET LOST’",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2021/03/KENNY-DALGLISH-PENALTY-FEATURED.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=118144",
           "author": "CQN Magazine",
           "description": "BRENDAN RODGERS raged at VAR official John Beaton after a controversy-laden confrontation at Tynecastle this afternoon. The champions missed the opportunity to go back to the Premieship pinnacle in a 2-0 loss to Hearts in a game laced with talking points on AND off the field. Beaton intervened three times in the first-half – two of the occasions [...]",
@@ -294,26 +304,6 @@
           "wordCount": 4805,
           "title": "CELTIC 7 DUNDEE 1: SEVENTH HEAVEN AS HOOPS GO ON GOAL SPREE",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/12/CELTIC-HUDDLE-V-HIBS-4-1-DEC-6-2023.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=118016",
-          "author": "Paul67",
-          "description": "Live updates will appear below after 19.45.",
-          "link": "https://www.celticquicknews.co.uk/celtic-v-dundee-live-updates-13/",
-          "publishedOn": "2024-02-28T18:45:00.000Z",
-          "wordCount": 4779,
-          "title": "Celtic v Dundee, Live updates",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=117973",
-          "author": "CQN Magazine",
-          "description": "CELTIC welcome back Cameron Carter-Vickers for a first-team start against Dundee at Parkhead this evening. The influential centre-half made a second-half return from injury in the 3-1 win over Motherwell at Fir Park on Sunday and is for the kick-off against the Tayside club. It’s the USA World Cup defender’s first start since the 1-0 victory [...]",
-          "link": "https://www.celticquicknews.co.uk/confirmed-ccv-yang-idah-get-the-nod/",
-          "publishedOn": "2024-02-28T18:35:10.000Z",
-          "wordCount": 4142,
-          "title": "CONFIRMED: CCV, YANG, IDAH GET THE NOD",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/01/CELTIC-PARK-EMBLEM.png"
         }
       ]
     },
@@ -581,6 +571,16 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=191527",
+          "author": "Patrick Sinat",
+          "description": "Celtic’s pursuit to find a striker to compete and provide backup for Kyogo Furuhashi took a strange turn in the eyes of many fans in...",
+          "link": "https://www.67hailhail.com/news/celtic-told-they-now-have-a-player-who-is-as-dangerous-as-giorgos-giakoumakis/",
+          "publishedOn": "2024-03-04T06:40:00.000Z",
+          "wordCount": 1457,
+          "title": "'Dangerous’: Pundit believes Celtic now have a player who is just like Giorgos Giakoumakis",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/01/GettyImages-1245938672-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=191652",
           "author": "Sean Markus Clifford",
@@ -1220,26 +1220,6 @@
           "wordCount": 1541,
           "title": "Magnificent Matt, classy Iwata... 3 things we learned as Celtic crush Dundee",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/02/GettyImages-1835753141-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=191263",
-          "author": "Patrick Sinat",
-          "description": "Brendan Rodgers has named his Celtic team vs Dundee for tonight’s Scottish Premiership fixture at Celtic Park. The full matchday squad is as follows: Starting...",
-          "link": "https://www.67hailhail.com/match/celtic-team-vs-dundee-confirmed-broadcast-details-instant-verdict/",
-          "publishedOn": "2024-02-28T18:34:52.000Z",
-          "wordCount": 1432,
-          "title": "Celtic team vs Dundee confirmed: Brendan Rodgers makes three changes, broadcast details, instant verdict",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/02/GettyImages-1965028441-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=191258",
-          "author": "Sean Markus Clifford",
-          "description": "Celtic will soon turn their attention to scoping out summer transfer business once the 2023/24 campaign comes to a close. Brendan Rodgers is likely to...",
-          "link": "https://www.67hailhail.com/news/brilliant-chris-sutton-says-celtic-may-get-locked-in-transfer-battle-to-sign-important-star/",
-          "publishedOn": "2024-02-28T17:10:00.000Z",
-          "wordCount": 1622,
-          "title": "'Brilliant': Chris Sutton says Celtic may get locked in transfer battle to sign 'important' star",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/02/GettyImages-1998905451-scaled.jpg"
         }
       ]
     },
