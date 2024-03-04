@@ -304,16 +304,6 @@
           "wordCount": 4326,
           "title": "‘ABSOLUTELY OUTSTANDING,’ RODGERS HAILS PLAYERS AND FANS",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/02/BRENDAN-RODGERS-DUNDEEEE-7-1-FEATURED.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=118018",
-          "author": "CQN Magazine",
-          "description": "CELTIC 7 DUNDEE 1 UNSTOPPABLE Celtic stormed to a spectacular triumph in a lopsided confrontation at rain-lashed Parkhead this evening. The fans were singing in the rain as the champions blew Dundee away with a breathtaking display that saw them lead by six at the interval. The rollicking procession saw Cameron Carter-Vickers, Adam Idah, Matt [...]",
-          "link": "https://www.celticquicknews.co.uk/celtic-7-dundee-1-seventh-heaven-as-hoops-go-on-goal-spree/",
-          "publishedOn": "2024-02-28T21:45:35.000Z",
-          "wordCount": 4805,
-          "title": "CELTIC 7 DUNDEE 1: SEVENTH HEAVEN AS HOOPS GO ON GOAL SPREE",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/12/CELTIC-HUDDLE-V-HIBS-4-1-DEC-6-2023.png"
         }
       ]
     },
@@ -581,6 +571,26 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=191683",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic winger Liel Abada is close to seeing a resolution to his uncertain future at the club that has dominated headlines recently. Well-documented off-field issues...",
+          "link": "https://www.67hailhail.com/transfers/more-details-now-emerge-on-celtic-winger-liel-abadas-impending-move-to-the-united-states/",
+          "publishedOn": "2024-03-04T11:10:00.000Z",
+          "wordCount": 1498,
+          "title": "More details now emerge on Celtic winger Liel Abada's impending move to the United States",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/09/GettyImages-1564104762-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=191678",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic endured a frustrating afternoon at Tynecastle yesterday as Heart of Midlothian claimed a 2-0 victory over Brendan Rodgers’ side. Nobody likes refereeing displays to...",
+          "link": "https://www.67hailhail.com/news/brendan-rodgers-delivers-candid-verdict-on-adam-idahs-missed-penalty-for-celtic-away-to-hearts/",
+          "publishedOn": "2024-03-04T10:10:00.000Z",
+          "wordCount": 1560,
+          "title": "Brendan Rodgers delivers candid verdict on Adam Idah's missed penalty for Celtic away to Hearts",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/02/GettyImages-1796633417-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=191676",
           "author": "Patrick Sinat",
@@ -1250,36 +1260,6 @@
           "wordCount": 1412,
           "title": "‘He was very good’: Brendan Rodgers praises ‘fantastic’ 21-year-old Celtic player after Dundee win",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/02/GettyImages-2046460456-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=191273",
-          "author": "Patrick Sinat",
-          "description": "What a performance by Celtic and what a way to answer the critics after a week of negative headlines. Brendan Rodgers was keen to get...",
-          "link": "https://www.67hailhail.com/news/john-hartson-sends-three-word-message-to-celtic-as-dundee-are-destroyed-in-paradise/",
-          "publishedOn": "2024-02-28T22:40:00.000Z",
-          "wordCount": 1341,
-          "title": "John Hartson sends three word message to Celtic as Dundee are destroyed in Paradise",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2021/03/GettyImages-1267004353-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=191288",
-          "author": "Patrick Sinat",
-          "description": "Celtic sent a message to their rivals tonight as they trounced Dundee 7-1 at Paradise tonight. Brendan Rodgers has had to deal with a multitude...",
-          "link": "https://www.67hailhail.com/match/brendan-rodgers-sends-a-message-to-the-celtic-supporters-after-devastating-dundee-win/",
-          "publishedOn": "2024-02-28T22:09:40.000Z",
-          "wordCount": 1368,
-          "title": "'Great pride': Brendan Rodgers sends a message to the Celtic supporters after devastating Dundee win",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/02/GettyImages-1894755219-1-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=191275",
-          "author": "Patrick Sinat",
-          "description": "Wow, wow, wow. What a performance by Celtic and what a way to turn all the negativity surrounding the club into positive headlines for the...",
-          "link": "https://www.67hailhail.com/match/magnificent-matt-classy-iwata-3-things-we-learned-as-celtic-crush-dundee/",
-          "publishedOn": "2024-02-28T21:44:22.000Z",
-          "wordCount": 1541,
-          "title": "Magnificent Matt, classy Iwata... 3 things we learned as Celtic crush Dundee",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/02/GettyImages-1835753141-scaled.jpg"
         }
       ]
     },
