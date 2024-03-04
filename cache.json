@@ -294,16 +294,6 @@
           "wordCount": 4346,
           "title": "Incredible variety and also similarity from Celtic",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=118063",
-          "author": "CQN Magazine",
-          "description": "CELTIC were singing – and winning – in the rain at Parkhead last night as they powered their way to an emphatic 7-1 win over demoralised Dundee. The roof fell in on the visitors as the champions ran amok in a blistering opening period when Cameron Carter-Vickers, with his first goal of the campaign, got [...]",
-          "link": "https://www.celticquicknews.co.uk/7-up-watch-again-as-celtic-run-amok/",
-          "publishedOn": "2024-02-29T09:39:48.000Z",
-          "wordCount": 4115,
-          "title": "7 UP: WATCH AGAIN AS CELTIC RUN AMOK",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/02/BRENDAN-RODGERS-KELLY-JOY-FEATURED.png"
         }
       ]
     },
@@ -571,6 +561,16 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=191706",
+          "author": "Patrick Sinat",
+          "description": "Adam Idah has been a very good signing for Celtic in the January window. Yes, I understand he missed a penalty against Hearts yesterday afternoon...",
+          "link": "https://www.67hailhail.com/news/what-norwich-city-really-think-about-adam-idahs-impact-at-celtic/",
+          "publishedOn": "2024-03-04T20:40:00.000Z",
+          "wordCount": 1338,
+          "title": "Journalist shares exactly what Norwich City really think about Adam Idah’s impact at Celtic",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/03/GettyImages-2046394800-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=191702",
           "author": "Patrick Sinat",
@@ -1330,26 +1330,6 @@
           "wordCount": 1474,
           "title": "One Celtic player put in a performance that went under the radar in 7-1 thrashing of Dundee",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/12/GettyImages-1809431838-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=191321",
-          "author": "Sean Markus Clifford",
-          "description": "Celtic blew away Dundee at Parkhead last night as seven different scorers secured a magnificent 7-1 victory in front of a capacity home crowd. Cameron...",
-          "link": "https://www.67hailhail.com/news/brendan-rodgers-opens-up-on-what-was-so-great-about-celtics-7-1-demolition-job-against-dundee/",
-          "publishedOn": "2024-02-29T09:10:00.000Z",
-          "wordCount": 1487,
-          "title": "Brendan Rodgers opens up on what was so 'great' about Celtic's 7-1 demolition job against Dundee",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/02/GettyImages-1998904072-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=191319",
-          "author": "Patrick Sinat",
-          "description": "In a devastating first half by Celtic, Brendan Rodgers’ side stormed to a 6-0 lead against Dundee in Paradise. It really was the performance of...",
-          "link": "https://www.67hailhail.com/news/bbc-touchline-reporter-shares-what-the-celtic-fans-did-at-half-time-in-win-vs-dundee/",
-          "publishedOn": "2024-02-29T08:40:00.000Z",
-          "wordCount": 1375,
-          "title": "‘Brilliant’: BBC touchline reporter shares what the Celtic fans did at half-time in win vs Dundee",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/02/GettyImages-105991613-scaled.jpg"
         }
       ]
     },
