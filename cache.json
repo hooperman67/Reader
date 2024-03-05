@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=118208",
+          "author": "CQN Magazine",
+          "description": "CELTIC should discover today the outcome of their appeal of Yang Hyun-jun’s ludicrous red card against Hearts at Tynecastle at the weekend. The South Korean winger was booked by referee Don Robertson for an accidental high-boot challenge on defender Alex Cochrane early on in the controversial 2-0 loss. VAR assistant John Beaton instructed the match [...]",
+          "link": "https://www.celticquicknews.co.uk/yang-d-day/",
+          "publishedOn": "2024-03-05T07:14:16.000Z",
+          "wordCount": 4367,
+          "title": "YANG D-DAY",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/03/YANG-HYUN-JUN-DON-ROBERTSON-RED-CARD-TYNECASTLE.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=118185",
           "author": "CQN Magazine",
           "description": "IS IT any wonder Brendan Rodgers came dangerously close to parting company with the plot in the immediate aftermath of Hearts’ VAR-inspired 2-0 victory over the champions at Tynecastle yesterday? The Celtic manager, normally so composed and poised in such high-pressure moments, strived to keep a check on his emotions following two monumental and mindboggling [...]",
@@ -551,6 +561,26 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=191735",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic boss Brendan Rodgers will be desperate to strengthen his squad in the summer following an inconsistent first campaign back at Parkhead. The Bhoys have...",
+          "link": "https://www.67hailhail.com/news/rumoured-celtic-summer-target-has-options-to-pick-from-amid-potential-availability-on-free-deal/",
+          "publishedOn": "2024-03-05T08:10:00.000Z",
+          "wordCount": 1520,
+          "title": "Rumoured Celtic summer target has options to pick from amid potential availability on free deal",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/12/GettyImages-1842213029-1-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=191712",
+          "author": "Patrick Sinat",
+          "description": "Most of the coverage of Celtic’s weekend fixture against Hearts has been dominated by the match officials and VAR. With Celtic now in the process...",
+          "link": "https://www.67hailhail.com/news/pat-bonner-delivers-his-verdict-on-paulo-bernardo-after-celtics-weekend-loss-at-hearts/",
+          "publishedOn": "2024-03-05T07:40:00.000Z",
+          "wordCount": 1349,
+          "title": "Pat Bonner delivers his verdict on Paulo Bernardo after Celtic’s weekend loss at Hearts",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/12/GettyImages-1894641023-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=191706",
           "author": "Patrick Sinat",
@@ -1170,36 +1200,6 @@
           "wordCount": 1406,
           "title": "‘Really stepped up’: Charlie Mulgrew says ‘brilliant’ Celtic player is so important to Brendan Rodgers right now",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/02/GettyImages-1221121785-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=191427",
-          "author": "Sean Markus Clifford",
-          "description": "Celtic served a reminder that they are right in the hunt for the Scottish Premiership title after crushing Dundee 7-1 at Parkhead last night. Brendan...",
-          "link": "https://www.67hailhail.com/news/callum-mcgregor-blown-away-by-outstanding-celtic-teammate-who-made-his-mark-vs-dundee/",
-          "publishedOn": "2024-02-29T20:10:00.000Z",
-          "wordCount": 1499,
-          "title": "Callum McGregor raves about Celtic youngster coming out of academy",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/01/GettyImages-1859756301-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=191424",
-          "author": "Sean Markus Clifford",
-          "description": "Celtic served up some excellent entertainment last night in their 7-1 victory over Dundee, with seven different players getting themselves on the scoresheet. Cameron Carter-Vickers...",
-          "link": "https://www.67hailhail.com/news/chris-sutton-tells-celtic-there-is-one-trap-they-cant-fall-into-despite-sweeping-dundee-aside/",
-          "publishedOn": "2024-02-29T19:10:00.000Z",
-          "wordCount": 1553,
-          "title": "Chris Sutton tells Celtic there is one trap they can't fall into despite sweeping Dundee aside",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/01/GettyImages-1252556782-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=191350",
-          "author": "Patrick Sinat",
-          "description": "John Hartson has named one player he still believes will have a huge part to play in Celtic’s pursuit of the Scottish Premiership title. The...",
-          "link": "https://www.67hailhail.com/news/john-hartson-backs-exceptional-celtic-player-to-have-a-huge-role-until-end-of-the-season/",
-          "publishedOn": "2024-02-29T18:40:00.000Z",
-          "wordCount": 1334,
-          "title": "John Hartson delivers Kyogo role verdict after Adam Idah's big Celtic impact",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/02/GettyImages-1131781728-1-scaled.jpg"
         }
       ]
     },
