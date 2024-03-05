@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=118225",
+          "author": "CQN Magazine",
+          "description": "YANG HYUN-JUN will miss the next two games after Celtic’s appeal against his red card against Hearts on Sunday was dismissed by the SFA at tonight’s hearing. The Hoops hierachy challenged the VAR-assisted decision after the South Korean winger had originally been booked following an accidental high-boot on defender Alex Cochrane. It was obvious to [...]",
+          "link": "https://www.celticquicknews.co.uk/yang-2-game-ban-as-red-card-appeal-dismissed/",
+          "publishedOn": "2024-03-05T20:35:24.000Z",
+          "wordCount": 4196,
+          "title": "YANG 2-GAME BAN AS RED-CARD APPEAL DISMISSED",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/02/YANG-HYUN-JUN-WELL-FEATURED.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=118214",
           "author": "Paul67",
           "description": "People who belong to organisations are predisposed to protect that organisation whenever it or its reputation is threatened.  It is human nature.  The reputation of the SFA refereeing community is in question today. One of their senior members, John Beaton, acting with full consideration, advised referee Don Robertson that Yang’s yellow card should be upgraded.  [...]",
@@ -304,16 +314,6 @@
           "wordCount": 4378,
           "title": "Malicious prosecutions, how Scotland works when it comes to football",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=118079",
-          "author": "CQN Magazine",
-          "description": "CAMERON CARTER-VICKERS is aiming for the perefct ten as Celtic traget a twelfth Premiership crown in 13 years. The Hoops have slipped two points behind Philippe Clement’s Ibrox side after losing two back-to-back games against Kilmarnock and Hearts in December and subsequent dropped points in an erratic campaign. However, Carter-Vickers, a key man in Brendan Rodgers’ [...]",
-          "link": "https://www.celticquicknews.co.uk/perfect-ten-ccvs-rallying-call/",
-          "publishedOn": "2024-03-01T09:17:11.000Z",
-          "wordCount": 4315,
-          "title": "PERFECT TEN: CCV’S RALLYING CALL",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/03/CAMERON-CARTER-VICKERS-NODS-V-DUNDEE-FEATURED.png"
         }
       ]
     },
@@ -581,6 +581,26 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=191818",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic fans will be glad to hear that Mikey Johnston has enjoyed a positive start to life south of the border after completing a loan...",
+          "link": "https://www.67hailhail.com/news/mikey-johnston-explains-the-real-reason-behind-why-he-left-celtic-on-loan/",
+          "publishedOn": "2024-03-05T21:10:00.000Z",
+          "wordCount": 1495,
+          "title": "Mikey Johnston explains the real reason behind why he left Celtic on loan",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/02/GettyImages-1976099315-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=191788",
+          "author": "Patrick Sinat",
+          "description": "Celtic’s record in the Champions League has not been great of late. The win over Feyenoord this season at Parkhead ended a long winless run...",
+          "link": "https://www.67hailhail.com/news/simon-jordan-shares-who-he-thinks-has-performed-better-in-the-champions-league-celtic-or-rangers/",
+          "publishedOn": "2024-03-05T20:40:00.000Z",
+          "wordCount": 1385,
+          "title": "Simon Jordan shares who he thinks has performed better in the Champions League – Celtic or Rangers",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/12/GettyImages-1421319187-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=191808",
           "author": "Sean Markus Clifford",
@@ -1310,26 +1330,6 @@
           "wordCount": 1306,
           "title": "Brendan Rodgers provides Reo Hatate Celtic comeback timeline after injury layoff",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/03/GettyImages-1842192874-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=191454",
-          "author": "John McGinley",
-          "description": "Celtic manager Brendan Rodgers employed a clever media tactic this week to try and change the narrative surrounding his Bhoys team this season. After the...",
-          "link": "https://www.67hailhail.com/news/brendan-rodgers-employs-new-lennoxtown-media-tactic-to-fight-back-against-celtic-narrative/",
-          "publishedOn": "2024-03-01T09:14:37.000Z",
-          "wordCount": 1399,
-          "title": "Brendan Rodgers employs new Lennoxtown media tactic to fight back against Celtic narrative",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/03/GettyImages-2046459918-1-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=191445",
-          "author": "John McGinley",
-          "description": "Wednesday was certainly a night to forget for Dundee at Celtic Park. From broken-down buses to a first-half humiliation and eventual 7-1 defeat, the trip...",
-          "link": "https://www.67hailhail.com/match/defender-shares-dundee-dressing-room-reaction-after-celtic-park-visit/",
-          "publishedOn": "2024-03-01T08:40:00.000Z",
-          "wordCount": 1289,
-          "title": "Defender shares Dundee dressing room reaction after Celtic Park visit",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/03/GettyImages-2046547588-scaled.jpg"
         }
       ]
     },
