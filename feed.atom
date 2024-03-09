@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-03-09T16:11:11.775Z</updated>
+    <updated>2024-03-09T18:11:50.526Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic manager Brendan Rodgers cites Connor Goldson incident as example of SFA inconsistency]]></title>
+        <id>https://www.67hailhail.com/?p=192038</id>
+        <link href="https://www.67hailhail.com/news/celtic-manager-brendan-rodgers-cites-connor-goldson-incident-as-example-of-sfa-inconsistency/"/>
+        <updated>2024-03-09T17:36:31.000Z</updated>
+        <summary type="html"><![CDATA[Celtic boss Brendan Rodgers has continued to present his case that there are issues with refereeing in Scotland, a week after his post-match comments at...]]></summary>
+        <author>
+            <name>John McGinley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gijs Smal and Celtic's transfer search for a quality left-back]]></title>
+        <id>https://www.67hailhail.com/?p=192033</id>
+        <link href="https://www.67hailhail.com/transfers/gijs-smal-and-celtics-transfer-search-for-a-quality-left-back/"/>
+        <updated>2024-03-09T16:59:51.000Z</updated>
+        <summary type="html"><![CDATA[Now that Alexandro Bernabei has left Celtic on loan to Brazilian side SC Internacional, attention will turn to what the Bhoys plan to do with...]]></summary>
+        <author>
+            <name>John McGinley</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic boss Brendan Rodgers gets into John Beaton issue again; more context on a "bigger worry"]]></title>
         <id>https://www.67hailhail.com/?p=192030</id>
