@@ -254,16 +254,6 @@
           "wordCount": 4590,
           "title": "THE KYOGO SOLUTION",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/03/KYOGO-FURUHASHI-FEATURED-V-HEARTS-0-2-MARCH-2024-copy.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=118211",
-          "author": "CQN Magazine",
-          "description": "FORMER top English Premier League referee Dermot Gallagher yesterday delivered his verdicts on the VAR controversies that engulfed Celtic’s 2-0 loss to Hearts at Tynecastle on Sunday. The incomprehensible decision-making by match official Don Robertson and VAR assistant John Beaton dominated the headlines as a couple of the SFA’s main men collaborated in two of the [...]",
-          "link": "https://www.celticquicknews.co.uk/alexs-angle-confused-buckle-up-were-in-for-a-bumpy-ride/",
-          "publishedOn": "2024-03-05T08:58:48.000Z",
-          "wordCount": 4781,
-          "title": "ALEX’S ANGLE: CONFUSED? BUCKLE UP, WE’RE IN FOR A BUMPY RIDE",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/02/ALEX-GORDON-FACEBOOK-CELTIC-TUNNEL.png"
         }
       ]
     },
@@ -531,6 +521,16 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=192056",
+          "author": "John McGinley",
+          "description": "A date has been set for clubs to vote on banning artificial pitches in the Scottish Premiership, a rule change that Celtic boss Brendan Rodgers...",
+          "link": "https://www.67hailhail.com/news/crunch-time-for-spfl-rule-change-that-celtic-and-brendan-rodgers-want/",
+          "publishedOn": "2024-03-09T20:38:02.000Z",
+          "wordCount": 1354,
+          "title": "Crunch time for SPFL rule change that Celtic and Brendan Rodgers want",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/02/GettyImages-1894755219-1-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=192048",
           "author": "John McGinley",
@@ -1230,56 +1230,6 @@
           "wordCount": 1483,
           "title": "'I didn't know this': Chris Sutton has learnt something 'really interesting' about the SFA after Celtic loss",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/05/GettyImages-1243890366-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=191753",
-          "author": "Sean Markus Clifford",
-          "description": "Celtic fans will know all too well that there is further fallout from their 2-0 defeat to Heart of Midlothian to come. In an affair...",
-          "link": "https://www.67hailhail.com/news/neil-lennon-disagrees-with-one-thing-brendan-rodgers-did-after-celtics-defeat-at-hearts/",
-          "publishedOn": "2024-03-05T10:10:00.000Z",
-          "wordCount": 1572,
-          "title": "Neil Lennon disagrees with one thing Brendan Rodgers did after Celtic's defeat at Hearts",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/09/GettyImages-1433183763-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=191709",
-          "author": "Patrick Sinat",
-          "description": "Celtic have been told that they could have had the league title in the bag had they signed Lawrence Shankland in January. The Hearts striker...",
-          "link": "https://www.67hailhail.com/news/celtic-told-theyd-have-won-the-league-if-they-signed-4m-striker-in-january/",
-          "publishedOn": "2024-03-05T09:40:00.000Z",
-          "wordCount": 1368,
-          "title": "'I would have': Celtic told they'd have won the league if they signed £4m striker in January",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/03/GettyImages-2046440045-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=191747",
-          "author": "Sean Markus Clifford",
-          "description": "Celtic have appealed the red card that Hyunjun Yang received in their 2-0 defeat to Heart of Midlothian in the capital last weekend. The South...",
-          "link": "https://www.67hailhail.com/news/celtic-discover-when-they-will-learn-the-fate-of-their-appeal-involving-hyunjun-yang/",
-          "publishedOn": "2024-03-05T09:10:00.000Z",
-          "wordCount": 1477,
-          "title": "Celtic discover when they will learn the fate of their appeal involving Hyunjun Yang",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/02/GettyImages-2046430664-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=191744",
-          "author": "Patrick Sinat",
-          "description": "The injury to Callum McGregor just sums up the story of Celtic’s season so far. Brendan Rodgers has had to deal with horrendous injury issues...",
-          "link": "https://www.67hailhail.com/news/neil-lennon-shares-what-celtic-captain-callum-mcgregor-has-told-him-about-his-injury/",
-          "publishedOn": "2024-03-05T08:40:00.000Z",
-          "wordCount": 1385,
-          "title": "'Didn't think': Neil Lennon shares what Celtic captain Callum McGregor has told him about his injury",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/03/GettyImages-1852852409-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=191735",
-          "author": "Sean Markus Clifford",
-          "description": "Celtic boss Brendan Rodgers will be desperate to strengthen his squad in the summer following an inconsistent first campaign back at Parkhead. The Bhoys have...",
-          "link": "https://www.67hailhail.com/news/rumoured-celtic-summer-target-has-options-to-pick-from-amid-potential-availability-on-free-deal/",
-          "publishedOn": "2024-03-05T08:10:00.000Z",
-          "wordCount": 1520,
-          "title": "Rumoured Celtic summer target has options to pick from amid potential availability on free deal",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/12/GettyImages-1842213029-1-scaled.jpg"
         }
       ]
     },
