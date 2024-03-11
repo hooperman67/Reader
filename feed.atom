@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-03-11T04:13:40.238Z</updated>
+    <updated>2024-03-11T06:13:47.128Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[THE RETURN OF BIG JOCK: PART TWO]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=118431</id>
+        <link href="https://www.celticquicknews.co.uk/the-return-of-big-jock-part-two/"/>
+        <updated>2024-03-11T06:00:46.000Z</updated>
+        <summary type="html"><![CDATA[JOCK STEIN enjoyed an eye-catching 6-0 success over Airdrie at Broomfield on March 10 1965 – just 24 hours after arriving as Celtic new manager. Today, in part two of another CQN EXCLUSIVE series, author Alex Gordon looks at the kick-off to a glorious chapter in the club’s history with edited extracts from his tribute book, ‘CELTIC: The [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic 4 Livingston 2, should alarm bells be ringing]]></title>
         <id>https://celticunderground.net/?p=6752</id>
@@ -924,36 +934,6 @@
         <summary type="html"><![CDATA[The pressure to win the Scottish Premiership is really ramping up and as both Celtic and Rangers suffered defeats this weekend, it really is a...]]></summary>
         <author>
             <name>Patrick Sinat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['I think'... Kenny Miller issues surprising verdict on Hyunjun Yang's red card in Celtic defeat]]></title>
-        <id>https://www.67hailhail.com/?p=191884</id>
-        <link href="https://www.67hailhail.com/news/i-think-kenny-miller-issues-surprising-verdict-on-hyunjun-yangs-red-card-in-celtic-defeat/"/>
-        <updated>2024-03-06T18:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Celtic have been at the centre of the latest VAR controversy in Scottish football following their 2-0 defeat to Heart of Midlothian last weekend. As...]]></summary>
-        <author>
-            <name>Sean Markus Clifford</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘Definitely’: Ally McCoist shares interesting title prediction after Celtic and Rangers dropped points]]></title>
-        <id>https://www.67hailhail.com/?p=191844</id>
-        <link href="https://www.67hailhail.com/news/ally-mccoist-shares-interesting-title-prediction-after-celtic-and-rangers-dropped-points/"/>
-        <updated>2024-03-06T17:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Ally McCoist has shared his thoughts on how the race for the Scottish Premiership is likely to go after watching Celtic and Rangers drop points...]]></summary>
-        <author>
-            <name>Patrick Sinat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alistair Johnston sheds honest light on how Celtic players distract themselves from title battle]]></title>
-        <id>https://www.67hailhail.com/?p=191869</id>
-        <link href="https://www.67hailhail.com/news/alistair-johnston-sheds-honest-light-on-how-celtic-players-distract-themselves-from-title-battle/"/>
-        <updated>2024-03-06T17:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Celtic are in a battle for the Scottish Premiership crown that could go to the wire over the coming months. The Bhoys sit two points...]]></summary>
-        <author>
-            <name>Sean Markus Clifford</name>
         </author>
     </entry>
     <entry>
