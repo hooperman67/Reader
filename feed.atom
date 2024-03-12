@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-03-12T04:14:29.782Z</updated>
+    <updated>2024-03-12T06:13:26.748Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[THE RETURN OF BIG JOCK: PART THREE]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=118433</id>
+        <link href="https://www.celticquicknews.co.uk/the-return-of-big-jock-part-three/"/>
+        <updated>2024-03-12T06:00:25.000Z</updated>
+        <summary type="html"><![CDATA[JOCK STEIN returned to Celtic in March 1965 in a move that totally turned around the fortunes of the Parkhead club. The team had not won a major trophy since the memorable 7-1 League Cup Final romp against old foes Rangers on an October afternoon at Hampden in 1957. Celtic were in the wilderness before [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CELTIC v DONS IN CUP SEMI]]></title>
         <id>https://www.celticquicknews.co.uk/?p=118515</id>
@@ -974,36 +984,6 @@
         <summary type="html"><![CDATA[With Celtic privately seething about the SFA’s decision not to overturn Hyunjun Yang’s red card, the manager now needs to plan for the next three...]]></summary>
         <author>
             <name>Patrick Sinat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['A joke'... Peter Grant hints Hearts man was lucky not to see red in Celtic's Tynecastle defeat]]></title>
-        <id>https://www.67hailhail.com/?p=191965</id>
-        <link href="https://www.67hailhail.com/news/a-joke-peter-grant-hints-hearts-man-was-lucky-not-to-see-red-in-celtics-tynecastle-defeat/"/>
-        <updated>2024-03-07T18:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Celtic fans will be keen to move on from a frustrating 2-0 loss to Heart of Midlothian last weekend that has dominated headlines due to...]]></summary>
-        <author>
-            <name>Sean Markus Clifford</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘Honestly’: Alan Brazil shares how he really felt after what he saw at Celtic vs Hearts]]></title>
-        <id>https://www.67hailhail.com/?p=191935</id>
-        <link href="https://www.67hailhail.com/news/honestly-alan-brazil-shares-how-he-really-felt-after-what-he-saw-at-celtic-vs-hearts/"/>
-        <updated>2024-03-07T17:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Celtic have a big Scottish Cup fixture coming up this weekend but the headlines are still dominated by what went on at Hearts last Sunday....]]></summary>
-        <author>
-            <name>Patrick Sinat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic ratify Alexandro Bernabei loan departure; remaining left-back options come to light]]></title>
-        <id>https://www.67hailhail.com/?p=191972</id>
-        <link href="https://www.67hailhail.com/transfers/celtic-ratify-alexandro-bernabei-loan-departure-remaining-left-back-options-come-to-light/"/>
-        <updated>2024-03-07T16:56:17.000Z</updated>
-        <summary type="html"><![CDATA[Celtic boss Brendan Rodgers is continuing his squad cull mission at Parkhead as he aims to streamline the squad. In January, David Turnbull, Mikey Johnston...]]></summary>
-        <author>
-            <name>Sean Markus Clifford</name>
         </author>
     </entry>
     <entry>
