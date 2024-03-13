@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-03-13T20:10:30.859Z</updated>
+    <updated>2024-03-13T22:09:55.695Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pundit says he's finally seeing 'much more positive' signs from £3 million Celtic arrival]]></title>
+        <id>https://www.67hailhail.com/?p=192458</id>
+        <link href="https://www.67hailhail.com/news/pundit-says-hes-finally-seeing-much-more-positive-signs-from-3-million-celtic-arrival/"/>
+        <updated>2024-03-13T21:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Celtic boss Brendan Rodgers has endured mixed fortunes regarding the impact his signings have made since arriving at Parkhead over the last two windows. From...]]></summary>
+        <author>
+            <name>Sean Markus Clifford</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Billy Stark thinks 'stalwart' returning for Celtic could prove crucial for Brendan Rodgers]]></title>
         <id>https://www.67hailhail.com/?p=192455</id>
@@ -1202,26 +1212,6 @@
         <link href="https://www.celticquicknews.co.uk/the-kelly-conundrum/"/>
         <updated>2024-03-09T10:20:32.000Z</updated>
         <summary type="html"><![CDATA[DANIEL KELLY is standing by for his first Celtic start in the Scottish Cup quarter-final tie against Livingston at Parkhead tomorrow afternoon. The 18-year-old midfielder has had a meteoric rise at the champions since coming on as a late substitute in the 5-0 romp against Buckie Thistle in the previous round in January. The powerhouse [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘MADNESS,’ SUTTON QUERIES CELTIC DECISION]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=118357</id>
-        <link href="https://www.celticquicknews.co.uk/madness-sutton-queries-celtic-decision/"/>
-        <updated>2024-03-09T09:30:07.000Z</updated>
-        <summary type="html"><![CDATA[FORMER Celtic goal hero Chris Sutton has branded his old club’s decision to allow Alexandro Bernabei to leave on loan as “madness”. The Argentinian defender completed a temporary transfer to Brazilian top-flight club SC Nacional until the end of the year, as CQN reported yesterday. Bernabei’s exit leaves the champions without cover for Greg Taylor as [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘ABSOLUTELY NO WAY ON THIS EARTH THAT IT’S A PENALTY,’ RODGERS RAMPS UP SFA ROW]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=118354</id>
-        <link href="https://www.celticquicknews.co.uk/absolutely-no-way-on-this-earth-that-its-a-penalty-rodgers-ramps-up-sfa-row/"/>
-        <updated>2024-03-09T08:48:12.000Z</updated>
-        <summary type="html"><![CDATA[BRENDAN RODGERS has ramped up the tension ahead of his appearance at Hampden on March 28. The Celtic boss, of course, has been summoned by the SFA to explain his remarks following the champions’ controversial 2-0 loss to Hearts at Tynecastle last weekend. The encounter was peppered with perplexing decisions from referee Don Robertson after bizarre [...]]]></summary>
         <author>
             <name>CQN Magazine</name>
         </author>
