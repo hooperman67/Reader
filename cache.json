@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=118438",
+          "author": "CQN Magazine",
+          "description": "JOCK STEIN was on the brink of a silverware breakthrough just a month after his return to Celtic in March 1965. It was a dramatic comeback for the manager that was to inspire an extraordinary turnaround in the club’s fortunes. The team had not won a major trophy since the unforgettable 7-1 League Cup Final romp [...]",
+          "link": "https://www.celticquicknews.co.uk/the-return-of-big-jock-part-five/",
+          "publishedOn": "2024-03-14T06:00:30.000Z",
+          "wordCount": 4532,
+          "title": "THE RETURN OF BIG JOCK: PART FIVE",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/03/JOCK-STEIN-BILLY-MCNEILL-1965-SC-FINAL.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=118551",
           "author": "Paul67",
           "description": "Your can sense Brendan has been managing his squad through testing times in the hope of having his most important players available for after this month’s international break. I suspect Reo Hatate, Callum McGregor and Cameron Carter-Vickers will all declare themselves fit, no matter how true their claims are. The manager knows how to win [...]",
@@ -1401,26 +1411,6 @@
           "wordCount": 1344,
           "title": "Celtic team news, injuries, absences and Predicted XI for Scottish Cup match vs Livingston",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/12/GettyImages-1842096169-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=192038",
-          "author": "John McGinley",
-          "description": "Celtic boss Brendan Rodgers has continued to present his case that there are issues with refereeing in Scotland, a week after his post-match comments at...",
-          "link": "https://www.67hailhail.com/news/celtic-manager-brendan-rodgers-cites-connor-goldson-incident-as-example-of-sfa-inconsistency/",
-          "publishedOn": "2024-03-09T17:36:31.000Z",
-          "wordCount": 1421,
-          "title": "Celtic manager Brendan Rodgers cites Connor Goldson incident as example of SFA inconsistency",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/01/GettyImages-1895286209-1-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=192033",
-          "author": "John McGinley",
-          "description": "Now that Alexandro Bernabei has left Celtic on loan to Brazilian side SC Internacional, attention will turn to what the Bhoys plan to do with...",
-          "link": "https://www.67hailhail.com/transfers/gijs-smal-and-celtics-transfer-search-for-a-quality-left-back/",
-          "publishedOn": "2024-03-09T16:59:51.000Z",
-          "wordCount": 1317,
-          "title": "Gijs Smal and Celtic's transfer search for a quality left-back",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/03/GettyImages-2032225679-scaled.jpg"
         }
       ]
     },
