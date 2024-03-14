@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=118570",
+          "author": "CQN Magazine",
+          "description": "CAMERON CARTER-VICKERS is standing by a for a timely first-team return against St Johnstone at Parkhead on Saturday afternoon. Celtic’s central defensive rock missed the 4-2 Scottish Cup win over Livingston at the weekend with the muscular problem which has proved troublesome since the season’s kick-off. Brendan Rodgers left the USA World Cup Finals star out [...]",
+          "link": "https://www.celticquicknews.co.uk/green-light-for-ccv/",
+          "publishedOn": "2024-03-14T07:57:45.000Z",
+          "wordCount": 4223,
+          "title": "GREEN LIGHT FOR CCV",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/03/BRENDAN-RODGERS-CALLUM-CARTER-VICKERS-FEATURED-HH.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=118438",
           "author": "CQN Magazine",
           "description": "JOCK STEIN was on the brink of a silverware breakthrough just a month after his return to Celtic in March 1965. It was a dramatic comeback for the manager that was to inspire an extraordinary turnaround in the club’s fortunes. The team had not won a major trophy since the unforgettable 7-1 League Cup Final romp [...]",
@@ -562,6 +572,16 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=192462",
+          "author": "Patrick Sinat",
+          "description": "Brendan Rodgers’ relationship with the Celtic board the first time around was well documented. The relationship between the Irishman and the Hoops hierarchy was seriously...",
+          "link": "https://www.67hailhail.com/news/andy-walker-makes-strange-claim-about-brendan-rodgers-and-the-celtic-board/",
+          "publishedOn": "2024-03-14T07:43:47.000Z",
+          "wordCount": 1428,
+          "title": "'Maybe not': Andy Walker makes 'strange' claim about Brendan Rodgers and the Celtic board",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/09/GettyImages-1500898802-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=192458",
           "author": "Sean Markus Clifford",
@@ -1381,36 +1401,6 @@
           "wordCount": 1354,
           "title": "Crunch time for SPFL rule change that Celtic and Brendan Rodgers want",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/02/GettyImages-1894755219-1-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=192048",
-          "author": "John McGinley",
-          "description": "A Spanish Olympian, set to represent his country at the upcoming Paris 2024 games, has been speaking about his unlikely relationship with Celtic. The Bhoys...",
-          "link": "https://www.67hailhail.com/news/paris-2024-olympic-athlete-reveals-his-surprising-love-for-celtic/",
-          "publishedOn": "2024-03-09T19:50:00.000Z",
-          "wordCount": 1390,
-          "title": "Paris 2024 Olympic athlete shares his surprising love for Celtic",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/03/GettyImages-1537525259-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=192045",
-          "author": "John McGinley",
-          "description": "Liam Scales reckons criticism about the lack of leadership within the Celtic squad is unfair as the Bhoys continue to do without captain Callum McGregor....",
-          "link": "https://www.67hailhail.com/news/liam-scales-hits-back-at-unfair-celtic-critics-ahead-of-livingston/",
-          "publishedOn": "2024-03-09T19:20:17.000Z",
-          "wordCount": 1360,
-          "title": "Liam Scales hits back at \"unfair\" Celtic critics ahead of Livingston",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/10/GettyImages-1562765049-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=192042",
-          "author": "John McGinley",
-          "description": "Celtic host Livingston in the Scottish Cup quarter-finals on Sunday hoping to book a place at Hampden for the first time this season. The holders...",
-          "link": "https://www.67hailhail.com/match/celtic-team-news-injuries-absences-and-predicted-xi-for-scottish-cup-match-vs-livingston/",
-          "publishedOn": "2024-03-09T18:26:40.000Z",
-          "wordCount": 1344,
-          "title": "Celtic team news, injuries, absences and Predicted XI for Scottish Cup match vs Livingston",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/12/GettyImages-1842096169-scaled.jpg"
         }
       ]
     },
