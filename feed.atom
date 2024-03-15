@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-03-15T18:13:50.964Z</updated>
+    <updated>2024-03-15T20:12:46.154Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[John Hughes talks up the "huge boost" coming Celtic's way]]></title>
+        <id>https://www.67hailhail.com/?p=192570</id>
+        <link href="https://www.67hailhail.com/news/john-hughes-talks-up-the-huge-boost-coming-celtics-way/"/>
+        <updated>2024-03-15T20:10:22.000Z</updated>
+        <summary type="html"><![CDATA[Former Celtic defender John Hughes is excited by the return of Cameron Carter-Vickers and reckons getting him fully fit will be a key factor in...]]></summary>
+        <author>
+            <name>John McGinley</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The latest on Maik Nawrocki's Celtic status as Brendan Rodgers issues squad update on 3 more]]></title>
         <id>https://www.67hailhail.com/?p=192567</id>
@@ -1074,36 +1084,6 @@
         <summary type="html"><![CDATA[Celtic stumbled into the semi-final of the Scottish Cup yesterday after Brendan Rodgers’ side made difficult work of seeing off Livingston at Parkhead. After twice...]]></summary>
         <author>
             <name>Patrick Sinat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘WE GOT THE JOB DONE,’ ACCEPTS RODGERS]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=118454</id>
-        <link href="https://www.celticquicknews.co.uk/we-got-the-job-done-accepts-rodgers/"/>
-        <updated>2024-03-11T08:07:09.000Z</updated>
-        <summary type="html"><![CDATA[BRENDAN RODGERS accepted it was “job done” in Celtic’s unconvincing 4-2 win over Livingston at Parkhead that earned the holders a place in tonight’s Scottish Cup semi-final draw. The stuttering Hoops displayed alarming deficiences in the rearguard which allowed their struggling opponents two openings and there was an anxious moment when Joe Hart had to produce [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daizen Maeda celebrates reaching major Parkhead milestone with class message to the Celtic fans]]></title>
-        <id>https://www.67hailhail.com/?p=192182</id>
-        <link href="https://www.67hailhail.com/news/daizen-maeda-celebrates-reaching-major-parkhead-milestone-with-class-message-to-the-celtic-fans/"/>
-        <updated>2024-03-11T07:42:05.000Z</updated>
-        <summary type="html"><![CDATA[Daizen Maeda has sent a message to the Celtic supporters after hitting a hattrick in his 100th game for the club against Livingston yesterday. The...]]></summary>
-        <author>
-            <name>Patrick Sinat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mark Wilson drops interesting quip on the prospect of Kieran Tierney returning to Celtic]]></title>
-        <id>https://www.67hailhail.com/?p=192134</id>
-        <link href="https://www.67hailhail.com/news/mark-wilson-drops-interesting-quip-on-the-prospect-of-kieran-tierney-returning-to-celtic/"/>
-        <updated>2024-03-11T07:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Celtic have had few players in recent years who fans have taken to quite as much as Kieran Tierney due to his passion for the...]]></summary>
-        <author>
-            <name>Sean Markus Clifford</name>
         </author>
     </entry>
     <entry>
