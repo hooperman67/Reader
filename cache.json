@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=118641",
+          "author": "CQN Magazine",
+          "description": "CELTIC 3 ST JOHNSTONE 1 A RAMPANT Kyogo Furuhashi led Celtic back to the Premiership pinnacle with an unstoppable performance against the overwhelmed Perth outfit at Parkhead this afternoon. It will remain a mystery there were only two goals between the teams at full-time after the visitors had been pummelled by the champions as the [...]",
+          "link": "https://www.celticquicknews.co.uk/celtic-3-st-johnstone-1-crackerjack-kyogo-fires-hoops-to-pinnacle/",
+          "publishedOn": "2024-03-16T17:05:05.000Z",
+          "wordCount": 5044,
+          "title": "CELTIC 3 ST JOHNSTONE 1: CRACKERJACK KYOGO FIRES HOOPS TO PINNACLE",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/03/CELTIC-HUDDLE-V-LIVINGSTON-MAR-10-2024.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=118639",
           "author": "Paul67",
           "description": "Live updates will appear below after 15.00.",
@@ -264,16 +274,6 @@
           "wordCount": 4569,
           "title": "‘PROGRESSING WELL,’ RODGERS’ HATATE HOPE",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/01/BRENDAN-RODGERS-AND-EMOTIONAL-REO-HATATE-FEATURED.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=118433",
-          "author": "CQN Magazine",
-          "description": "JOCK STEIN returned to Celtic in March 1965 in a move that totally turned around the fortunes of the Parkhead club. The team had not won a major trophy since the memorable 7-1 League Cup Final romp against old foes Rangers on an October afternoon at Hampden in 1957. Celtic were in the wilderness before [...]",
-          "link": "https://www.celticquicknews.co.uk/the-return-of-big-jock-part-three/",
-          "publishedOn": "2024-03-12T06:00:25.000Z",
-          "wordCount": 4629,
-          "title": "THE RETURN OF BIG JOCK: PART THREE",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/03/JOCK-STEIN-FEATURED-NEWWWWWHH.png"
         }
       ]
     },
@@ -541,6 +541,26 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=192625",
+          "author": "John McGinley",
+          "description": "Brendan Rodgers has been giving his reaction to Saturday afternoon’s comfortable Celtic win over St Johnstone in the Scottish Premiership. The Bhoys ran out 3-1...",
+          "link": "https://www.67hailhail.com/match/brendan-rodgers-lauds-standout-celtic-performer-against-st-johnstone-after-hard-work-on-muscle-gains/",
+          "publishedOn": "2024-03-16T17:45:25.000Z",
+          "wordCount": 1459,
+          "title": "Brendan Rodgers lauds standout Celtic star against St Johnstone after hard work on muscle gains",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/03/GettyImages-2073590181-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=192618",
+          "author": "John McGinley",
+          "description": "It was an enjoyable Saturday afternoon for Celtic supporters after the Bhoys beat St Johnstone 3-1 at home in the Scottish Premiership. Kyogo Furuhashi got...",
+          "link": "https://www.67hailhail.com/match/nicolas-kuhn-verdict-kyogo-signs-3-things-we-learned-as-celtic-beat-st-johnstone/",
+          "publishedOn": "2024-03-16T17:02:48.000Z",
+          "wordCount": 1562,
+          "title": "Nicolas Kuhn verdict, Kyogo signs... 3 things we learned as Celtic beat St Johnstone",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/03/GettyImages-2089004450-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=192613",
           "author": "John McGinley",
