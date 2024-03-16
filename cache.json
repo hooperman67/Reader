@@ -264,16 +264,6 @@
           "wordCount": 4588,
           "title": "MUSCLING IN: KUHN GETS RODGERS BUILD-UP, BUT ‘WORK TO DO’",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/02/NICOLAS-KUHN-DONS-FEATURED.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=118518",
-          "author": "CQN Magazine",
-          "description": "REO HATATE’S season has been a virtual write-off – but Brendan Rodgers is hoping the last chapter has yet to be written. Celtic’s multi-talented Japanese international playmaker has made a meagre 13 appearances in a campaign ravaged by muscular injury. Hatate, 26, hasn’t been seen this year since coming on for Paulo Bernardo in the [...]",
-          "link": "https://www.celticquicknews.co.uk/progressing-well-rodgers-hatate-hope/",
-          "publishedOn": "2024-03-12T07:40:03.000Z",
-          "wordCount": 4569,
-          "title": "‘PROGRESSING WELL,’ RODGERS’ HATATE HOPE",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/01/BRENDAN-RODGERS-AND-EMOTIONAL-REO-HATATE-FEATURED.png"
         }
       ]
     },
@@ -534,13 +524,54 @@
       "title": "The Celtic Underground",
       "feedUrl": "http://celticunderground.net/feed/",
       "siteUrl": "http://celticunderground.net",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://celticunderground.net/?p=6756",
+          "author": "Robbie Gray",
+          "description": "Cameron Carter-Vickers our knight in shining armour. After a not so convincing win over Livingston last week, Celtic have bounced back with a very convincing win over St Johnstone. The team looked so much more fluid going forward and the difference between having CCV and not having him is night and day, he all but […]",
+          "link": "http://celticunderground.net/celtic-3-st-johnstone-1-thats-more-like-it/",
+          "publishedOn": "2024-03-16T18:48:48.000Z",
+          "wordCount": 9770,
+          "title": "Celtic 3 St. Johnstone 1 That’s more like it",
+          "imageUrl": "http://celticunderground.net/wp-content/uploads/2024/03/IMG_4661-2.jpg"
+        }
+      ]
     },
     {
       "title": "67 Hail Hail",
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=192644",
+          "author": "John McGinley",
+          "description": "Celtic boss Brendan Rodgers joked that he has no interest in any Scottish Premiership football on Sunday because it’s St Patrick’s Day. March 17th can...",
+          "link": "https://www.67hailhail.com/news/brendan-rodgers-amusing-dundee-vs-rangers-quip-after-celtic-job-done-for-the-weekend/",
+          "publishedOn": "2024-03-16T19:30:00.000Z",
+          "wordCount": 1319,
+          "title": "Brendan Rodgers' amusing Dundee vs Rangers quip after Celtic job done for the weekend",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/03/GettyImages-2089231209-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=192637",
+          "author": "John McGinley",
+          "description": "The status of Kyogo Furuhashi at Celtic has been the subject of debate over the last few weeks after Adam Idah’s impressive impact. The Norwich...",
+          "link": "https://www.67hailhail.com/match/brendan-rodgers-delivers-verdict-on-kyogos-first-celtic-start-since-february/",
+          "publishedOn": "2024-03-16T18:56:23.000Z",
+          "wordCount": 1327,
+          "title": "Brendan Rodgers delivers verdict on Kyogo's first Celtic start since February",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/03/GettyImages-2089004980-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=192630",
+          "author": "John McGinley",
+          "description": "Celtic did what was required at home to St Johnstone in the Scottish Premiership on Saturday and have drawn praise for the intensity of their...",
+          "link": "https://www.67hailhail.com/match/michael-stewart-noticed-something-different-about-celtic-vs-st-johnstone-in-verdict-on-saturday-win/",
+          "publishedOn": "2024-03-16T18:19:09.000Z",
+          "wordCount": 1416,
+          "title": "Michael Stewart noticed \"something different\" about Celtic in verdict on Saturday win",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/03/GettyImages-2089207705-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=192625",
           "author": "John McGinley",
@@ -1270,16 +1301,6 @@
           "wordCount": 1344,
           "title": "‘Have asked’: Celtic duo suffer international heartbreak as national boss shares hope for one player",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/03/GettyImages-2066805006-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=192271",
-          "author": "Patrick Sinat",
-          "description": "Brendan Rodgers has talked up Reo Hatate and provided an injury timeline on when he expects the Celtic midfield to return to first-team duty. The...",
-          "link": "https://www.67hailhail.com/news/clearly-brendan-rodgers-talks-up-celtic-midfielder-and-shares-great-injury-update/",
-          "publishedOn": "2024-03-12T07:40:00.000Z",
-          "wordCount": 1330,
-          "title": "'Clearly': Brendan Rodgers talks up Celtic midfielder and shares 'great' injury update",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/03/GettyImages-2046459918-scaled.jpg"
         }
       ]
     },
