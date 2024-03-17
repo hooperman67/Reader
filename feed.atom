@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-03-17T04:12:23.675Z</updated>
+    <updated>2024-03-17T06:12:22.180Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ST PATRICK’S DAY MASSACRE]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=46887</id>
+        <link href="https://www.celticquicknews.co.uk/st-patrick-days-massacre/"/>
+        <updated>2024-03-17T06:00:48.000Z</updated>
+        <summary type="html"><![CDATA[BILLY McNEILL beamed and said: “I think the fact it was St Patrick’s Day meant an awful lot to the fans. So, maybe St Patrick was watching that afternoon and decided to give us a hand.” The Celtic manager was reflecting on a sensational 2-0 Scottish Cup quarter-final triumph over Graeme Souness’ Ibrox side on [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Brendan Rodgers' amusing Dundee vs Rangers quip after Celtic job done for the weekend]]></title>
         <id>https://www.67hailhail.com/?p=192644</id>
@@ -872,26 +882,6 @@
         <link href="https://www.67hailhail.com/news/stuart-kettlewell-says-celtic-have-a-defender-who-has-incredible-pace/"/>
         <updated>2024-03-12T18:40:00.000Z</updated>
         <summary type="html"><![CDATA[Stuart Kettlewell has been waxing lyrical about Cameron Carter-Vickers this week as the Motherwell manager cast his eye over the Celtic team. Kettlewell watched his...]]></summary>
-        <author>
-            <name>Patrick Sinat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stuart Kettlewell explains why Kyogo Furuhashi has struggled to fire for Celtic this term]]></title>
-        <id>https://www.67hailhail.com/?p=192349</id>
-        <link href="https://www.67hailhail.com/news/stuart-kettlewell-explains-why-kyogo-furuhashi-has-struggled-to-fire-for-celtic-this-term/"/>
-        <updated>2024-03-12T18:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Celtic are a different proposition under Brendan Rodgers this term compared to the system of old operated by Ange Postecoglou. Since walking through the door...]]></summary>
-        <author>
-            <name>Sean Markus Clifford</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘If I’m honest’: Barry Ferguson says Celtic have a ‘quality’ player who should be playing more]]></title>
-        <id>https://www.67hailhail.com/?p=192313</id>
-        <link href="https://www.67hailhail.com/news/barry-ferguson-says-celtic-have-a-quality-player-who-should-be-playing-more/"/>
-        <updated>2024-03-12T17:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Celtic’s recent performances have been fairly impressive. The Hearts game aside, Brendan Rodgers seemed to be getting a tune out of his players in an...]]></summary>
         <author>
             <name>Patrick Sinat</name>
         </author>
