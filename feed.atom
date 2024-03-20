@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-03-20T04:13:47.684Z</updated>
+    <updated>2024-03-20T06:13:29.667Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Peter Grant says what every Celtic fan is thinking amid Tomoki Iwata's recent form]]></title>
+        <id>https://www.67hailhail.com/?p=192905</id>
+        <link href="https://www.67hailhail.com/news/peter-grant-says-what-every-celtic-fan-is-thinking-amid-tomoki-iwatas-recent-form/"/>
+        <updated>2024-03-20T06:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Celtic boss Brendan Rodgers has had to use his squad recently amid some injury problems that have engulfed his side. Most notably, club captain Callum...]]></summary>
+        <author>
+            <name>Sean Markus Clifford</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA['I do think'... Pundit makes Celtic title chances claim following unexpected scenario]]></title>
         <id>https://www.67hailhail.com/?p=192908</id>
@@ -894,36 +904,6 @@
         <summary type="html"><![CDATA[Former Celtic defender John Hughes is excited by the return of Cameron Carter-Vickers and reckons getting him fully fit will be a key factor in...]]></summary>
         <author>
             <name>John McGinley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The latest on Maik Nawrocki's Celtic status as Brendan Rodgers issues squad update on 3 more]]></title>
-        <id>https://www.67hailhail.com/?p=192567</id>
-        <link href="https://www.67hailhail.com/news/the-latest-on-maik-nawrockis-celtic-status-as-brendan-rodgers-issues-full-squad-update-on-3-more/"/>
-        <updated>2024-03-15T18:13:14.000Z</updated>
-        <summary type="html"><![CDATA[Speaking in a media conference on Friday, Celtic manager Brendan Rodgers sounded hopeful that several key players will be returning to contention following the upcoming...]]></summary>
-        <author>
-            <name>John McGinley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic boss Brendan Rodgers hits back at recent Chris Sutton criticism]]></title>
-        <id>https://www.67hailhail.com/?p=192564</id>
-        <link href="https://www.67hailhail.com/news/celtic-boss-brendan-rodgers-hits-back-at-recent-chris-sutton-criticism/"/>
-        <updated>2024-03-15T17:25:12.000Z</updated>
-        <summary type="html"><![CDATA[Celtic manager Brendan Rodgers has defended one of his recent team selection decisions that drew criticism from high-profile pundit Chris Sutton. The former Bhoys striker...]]></summary>
-        <author>
-            <name>John McGinley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TAYLOR RECKONS CELTS ARE IN WITH A SHOUT]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=118628</id>
-        <link href="https://www.celticquicknews.co.uk/taylor-reckons-celts-are-in-with-a-shout/"/>
-        <updated>2024-03-15T16:16:42.000Z</updated>
-        <summary type="html"><![CDATA[GREG TAYLOR reckons Celtic are in with a shout with nine league games and, hopefully, three Scottish Cup-ties to play before the final curtain comes down on a rollercoaster season. Skipper Callum McGregor will miss the visit of St Johnstone tomorow afternoon, but his stand-in captain Cameron Carter-Vickers is poised to return to take his place [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
         </author>
     </entry>
     <entry>
