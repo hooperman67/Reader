@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-03-20T16:14:07.979Z</updated>
+    <updated>2024-03-20T18:12:55.616Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nicolas Kuhn's Celtic form gains glowing appraisal from pundit, explains what has changed]]></title>
+        <id>https://www.67hailhail.com/?p=192974</id>
+        <link href="https://www.67hailhail.com/news/nicolas-kuhns-celtic-form-gains-glowing-appraisal-from-pundit-explains-what-has-changed/"/>
+        <updated>2024-03-20T18:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Celtic moved top of the Scottish Premiership table last weekend following a harmonious display against St Johnstone at Parkhead. Kyogo Furuhashi and Nicolas Kuhn set...]]></summary>
+        <author>
+            <name>Sean Markus Clifford</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alan Thompson shares what happened with Gordon Strachan which ended his Celtic career]]></title>
+        <id>https://www.67hailhail.com/?p=192986</id>
+        <link href="https://www.67hailhail.com/news/alan-thompson-shares-what-happened-with-gordon-strachan-which-ended-his-celtic-career/"/>
+        <updated>2024-03-20T17:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Alan Thompson has shared a conversation he had with Gordon Strachan which effectively ended his Celtic career. Thompson is widely regarded as a Celtic hero...]]></summary>
+        <author>
+            <name>Patrick Sinat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic involved in 2024 Masters Football as participants announced, new venue confirmed]]></title>
+        <id>https://www.67hailhail.com/?p=192981</id>
+        <link href="https://www.67hailhail.com/news/celtic-involved-in-2024-masters-football-as-participants-announced-new-venue-confirmed/"/>
+        <updated>2024-03-20T17:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Celtic will once again have representation in the latest edition of Masters Football this year following 2023’s tournament at Braehead Arena. The indoor six-a-side competition...]]></summary>
+        <author>
+            <name>Sean Markus Clifford</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IBROX ALL-CLEAR FOR CELTIC VISIT]]></title>
         <id>https://www.celticquicknews.co.uk/?p=118855</id>
@@ -1032,26 +1062,6 @@
         <link href="https://www.celticquicknews.co.uk/exclusive-no-ibrox-fears-for-bogey-man-brendan/"/>
         <updated>2024-03-16T06:30:13.000Z</updated>
         <summary type="html"><![CDATA[BRENDAN RODGERS clearly has no fears of a visit to Ibrox. And Celtic legend Davie Hay is hoping that situation isn’t altered after the champions have locked horns with Philippe Clement’s side at the venue on Sunday April 7. The club’s former player and manager reckons the crunch occasion could prove to be the turning [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALEX’S ANGLE: IDAH, KYOGO AND A STEWARD’S ENQUIRY]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=118607</id>
-        <link href="https://www.celticquicknews.co.uk/alexs-angle-idah-kyogo-and-a-stewards-enquiry/"/>
-        <updated>2024-03-16T06:00:05.000Z</updated>
-        <summary type="html"><![CDATA[ADAM IDAH’S exhibitions against Hearts and Livingston in the last two games did absolutely nothing to suggest he should lead the Celtic attack in place of Kyogo Furuhashi. Admittedly, the powerfully-built Republic of Ireland international frontman did take centre stage with two goals against Motherwell at Fir Park last month after replacing an out-of-sorts Japanese penalty [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CELTIC v ST JOHNSTONE: 5-MINUTE QUIZ]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=111356</id>
-        <link href="https://www.celticquicknews.co.uk/celtic-v-st-johnstone-5-minute-quiz-2/"/>
-        <updated>2024-03-16T05:30:10.000Z</updated>
-        <summary type="html"><![CDATA[CELTIC take on St Johnstone at Parkhead this afternoon in the third meeting of the teams this season. The first was a scoreless stalemate in Glasgow in August and a 3-1 triumph for Brendan Rodgers’ side at McDiarmid Park in December. Three points are a must for the champions if they hope to go back [...]]]></summary>
         <author>
             <name>CQN Magazine</name>
         </author>
