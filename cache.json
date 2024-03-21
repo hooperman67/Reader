@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=118894",
+          "author": "CQN Magazine",
+          "description": "DAIZEN MAEDA played the entire 90 minutes as Japan overcame North Korea 1-0 in a crucial World Cup 2026 qualifier in Tokyo today. The Celtic winger, sporting his new blond look, was industrious as ever as his country responded to their disappointing Asian Cup exit after losing to Iran at the quarter-final stage last month. [...]",
+          "link": "https://www.celticquicknews.co.uk/maeda-in-world-cup-emergency/",
+          "publishedOn": "2024-03-21T15:19:42.000Z",
+          "wordCount": 4222,
+          "title": "MAEDA IN WORLD CUP ‘EMERGENCY’",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/03/DAIZEN-MAEDA-JAPAN-FEATURED-.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=118874",
           "author": "Paul67",
           "description": "The weight of expectation around Reo Hatate is substantial.  Our midfield fulcrum (or former fulcrum) has started only four league games this season and made another four appearances from the bench. He returned to action yesterday, when he came through 45 minutes against St Mirren, the same side he made his last appearance for Celtic [...]",
@@ -542,6 +552,26 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=193073",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic are currently enjoying some downtime during the international break, though news surrounding the reigning Scottish Premiership champions never ceases. Brendan Rodgers has a lot...",
+          "link": "https://www.67hailhail.com/news/former-celtic-striker-set-to-land-key-recruitment-role-at-premier-league-giants/",
+          "publishedOn": "2024-03-21T15:27:29.000Z",
+          "wordCount": 1418,
+          "title": "Former Celtic striker set to land key recruitment role at Premier League giants",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/08/GettyImages-1234774-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=193050",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic are able to enjoy some time off club duty as the international break takes precedence for the next couple of weeks. Following our victory...",
+          "link": "https://www.67hailhail.com/news/celtics-daizen-maeda-shines-on-international-duty-as-japan-defeat-north-korea/",
+          "publishedOn": "2024-03-21T14:10:00.000Z",
+          "wordCount": 1386,
+          "title": "Celtic's Daizen Maeda shines on international duty as Japan defeat North Korea",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/03/GettyImages-1986767861-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=193052",
           "author": "Patrick Sinat",
