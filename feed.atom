@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-03-23T10:10:33.453Z</updated>
+    <updated>2024-03-23T12:19:47.658Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SIX IN A WOE]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=118929</id>
+        <link href="https://www.celticquicknews.co.uk/six-in-a-woe/"/>
+        <updated>2024-03-23T11:14:28.000Z</updated>
+        <summary type="html"><![CDATA[CALLUM McGREGOR was the lucky one – he missed Scotland’s sixth game without a win as Steve Clarke’s side collapsed to an embarrassing 4-0 loss in Amsterdam last night. The international squad are gearing up for the Euro 24 Finals in Germany in the summer, but shot themselves spectacularly in the foot with a procession [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE REO DEAL AND CELTIC’S PERFECT TEN]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=118926</id>
+        <link href="https://www.celticquicknews.co.uk/the-reo-deal-and-celtics-perfect-ten/"/>
+        <updated>2024-03-23T10:17:45.000Z</updated>
+        <summary type="html"><![CDATA[THE return of Reo Hatate can act as the springboard for Celtic as they gear up for a potential 10-game cresecendo in the pursuit of a league and Cup double. The Japanese playmaker has made only 13 appearances in an injury-ravaged campaign and has played for only 20 minutes this year – a cameo in [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Injury problems mount up for Rangers with 6 on the sidelines as Celtic title race heats up]]></title>
         <id>https://www.67hailhail.com/?p=193122</id>
