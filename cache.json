@@ -184,26 +184,6 @@
           "wordCount": 4431,
           "title": "EFL and PL cartels, and government looking for a populist cause",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=118760",
-          "author": "CQN Magazine",
-          "description": "ADAM IDAH has eight Premiership games and hopefully two Scottish Cup-ties to prove to Brendan Rodgers he is worth a permanent deal at Celtic. The 23-year-old Republic of Ireland international striker has scored five goals – including two penalty-kicks against Hibs – in his seven appearances since his short-term loan switch from Norwich City. Idah appears [...]",
-          "link": "https://www.celticquicknews.co.uk/idah-the-5m-enigma/",
-          "publishedOn": "2024-03-20T09:39:48.000Z",
-          "wordCount": 4302,
-          "title": "IDAH: THE £5m ENIGMA",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/03/ADAM-IDAH-HEARTS-FEATURRRED.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=118747",
-          "author": "CQN Magazine",
-          "description": "DAVIE HAY can afford a wry smile when the talk comes around to teams spending millions in strengthening their squads as they aim for the coveted title. Much has been made of Celtic’s lack of splashing cash in the January window when their solitary purchase was the £3million paid to Rapid Vienna for German winger Nicolas [...]",
-          "link": "https://www.celticquicknews.co.uk/exclusive-cheapskate-champions-the-epic-title-triumph-that-cost-celtic-10000/",
-          "publishedOn": "2024-03-20T08:17:48.000Z",
-          "wordCount": 5072,
-          "title": "EXCLUSIVE: CHEAPSKATE CHAMPIONS: THE EPIC TITLE TRIUMPH THAT COST CELTIC £10,000",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/03/ROY-AITKEN-CELTIC-TITLE-WIN-1986.png"
         }
       ]
     },
@@ -458,7 +438,23 @@
       "title": "eTims",
       "feedUrl": "http://etims.net/?feed=rss2",
       "siteUrl": "https://etims.net",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://etims.net/?p=18578",
+          "author": "Desi Mond",
+          "description": "With Celtic announcing a North America Tour for this Summer, Desi and Hector catch up with Callum Murray of the Washington CSC to discuss the…",
+          "link": "https://etims.net/?p=18578",
+          "publishedOn": "2024-03-24T21:36:52.000Z",
+          "wordCount": 2685,
+          "title": "Etims meet Washington CSC",
+          "enclosure": {
+            "url": "https://api.spreaker.com/v2/episodes/59156613/download.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://etims.net/wp-content/uploads/2024/03/x2BLLOp1_400x400.png"
+        }
+      ]
     },
     {
       "title": "The Celtic Underground",
@@ -482,6 +478,26 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=193255",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic boss Brendan Rodgers acquired Nicolas Kuhn and Adam Idah during a quiet January transfer window at Parkhead. Since then, both men have gone on...",
+          "link": "https://www.67hailhail.com/news/celtics-recruitment-questioned-as-spfl-man-baffled-at-january-transfer-omission-from-club/",
+          "publishedOn": "2024-03-24T21:10:00.000Z",
+          "wordCount": 1438,
+          "title": "Celtic's recruitment questioned as SPFL man baffled at January transfer omission from club",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/01/GettyImages-1269732263-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=193258",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic are in the midst of the international break just now, where Brendan Rodgers will be enjoying some well-deserved rest ahead of the season run-in....",
+          "link": "https://www.67hailhail.com/news/celtics-alistair-johnston-delivers-brilliant-instagram-post-as-canada-qualify-for-copa-america/",
+          "publishedOn": "2024-03-24T20:10:00.000Z",
+          "wordCount": 1420,
+          "title": "Celtic's Alistair Johnston delivers brilliant Instagram post as Canada qualify for Copa America",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/10/GettyImages-1717293122-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=193252",
           "author": "Sean Markus Clifford",
@@ -1101,46 +1117,6 @@
           "wordCount": 1978,
           "title": "All 10 Celtic stars on international duty and how to watch their fixtures live",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/03/GettyImages-1794347664-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=192946",
-          "author": "Sean Markus Clifford",
-          "description": "Celtic have produced their fair share of youngsters over the years that have gone on to have productive careers, either at Parkhead or elsewhere. For...",
-          "link": "https://www.67hailhail.com/news/former-celtic-star-karamoko-dembele-attracts-premier-league-summer-interest-report/",
-          "publishedOn": "2024-03-20T10:10:00.000Z",
-          "wordCount": 1431,
-          "title": "Former Celtic star Karamoko Dembele attracts Premier League summer interest - report",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/10/GettyImages-1712259881-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=192930",
-          "author": "Sean Markus Clifford",
-          "description": "Celtic boss Brendan Rodgers will be keen to ensure his side can have a clean bill of health once his side return from the international...",
-          "link": "https://www.67hailhail.com/news/celtic-could-be-in-line-for-huge-post-international-break-boost-as-pundit-makes-title-claim/",
-          "publishedOn": "2024-03-20T09:10:00.000Z",
-          "wordCount": 1538,
-          "title": "Celtic could be in line for 'huge' post-international break boost as pundit makes title claim",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/03/GettyImages-1761971551-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=192928",
-          "author": "Patrick Sinat",
-          "description": "Celtic’s struggles with injuries this season is something that has really plagued Brendan Rodgers. The Celtic manager has had to get by without some key...",
-          "link": "https://www.67hailhail.com/news/brendan-rodgers-told-he-needs-to-make-drastic-moves-in-this-summers-transfer-window-at-celtic/",
-          "publishedOn": "2024-03-20T08:40:00.000Z",
-          "wordCount": 1460,
-          "title": "'Drastic'... Brendan Rodgers told he needs to fix something that's 'so unusual' at Celtic this summer",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/03/GettyImages-1761971551-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=192911",
-          "author": "Sean Markus Clifford",
-          "description": "Celtic have managed to climb to the summit of the Scottish Premiership following a comfortable victory over St Johnstone at the weekend. The Bhoys will...",
-          "link": "https://www.67hailhail.com/news/kyogo-furuhashis-return-to-form-at-celtic-in-focus-as-pundit-explains-resurgence/",
-          "publishedOn": "2024-03-20T08:10:00.000Z",
-          "wordCount": 1469,
-          "title": "Kyogo Furuhashi's return to form at Celtic in focus as pundit explains resurgence",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/03/GettyImages-2089004980-scaled.jpg"
         }
       ]
     },
