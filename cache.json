@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=118966",
+          "author": "Paul67",
+          "description": "There is a bit of debate in the press today, echoing some online chat, about whether Scotland should continue with its ineffective implementation of VAR.  VAR was disastrously implemented in late 2022, was relaunched with more acceptable guidance after the World Cup in December of that year, but has been plagued by poor technology, slow [...]",
+          "link": "https://www.celticquicknews.co.uk/var-and-the-much-needed-extra-spend/",
+          "publishedOn": "2024-03-25T12:19:17.000Z",
+          "wordCount": 5403,
+          "title": "VAR and the much needed extra spend",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=118952",
           "author": "CQN Magazine",
           "description": "CELTIC legend Scott Brown was left fuming after former team-mate Cilian Sheridan shot down his Ayr United side at Somerset Park at the weekend. The two former Hoops stars locked horns in the Championship as the 35-year-old hitman came out on top with the winner in Queen’s Park’s 2-1 Championship triumph. Broony was raging as [...]",
@@ -467,6 +477,36 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=193292",
+          "author": "Patrick Sinat",
+          "description": "Celtic fans are known the world over for the size of their fanbase. Whenever the Hoops travel when competing in Europe or even for pre-season...",
+          "link": "https://www.67hailhail.com/news/where-celtic-fans-have-been-ranked-in-the-global-football-supporters-charts/",
+          "publishedOn": "2024-03-25T13:40:00.000Z",
+          "wordCount": 1317,
+          "title": "Where Celtic fans have been ranked in the global football supporters charts",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/01/GettyImages-1887311718-1-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=193284",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic have a squad that is likely to change over the coming windows as Brendan Rodgers continues to build a side in his own image....",
+          "link": "https://www.67hailhail.com/opinion/three-contract-situations-celtic-need-to-sort-out-before-they-become-a-problem/",
+          "publishedOn": "2024-03-25T13:10:00.000Z",
+          "wordCount": 1686,
+          "title": "Three contract situations Celtic need to sort out before they become a problem",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/03/GettyImages-2073403591-4-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=193299",
+          "author": "Patrick Sinat",
+          "description": "The Green Brigade has issued a rallying call as Celtic Women bid to create SWPL history this season. The Celtic fans will remember last season...",
+          "link": "https://www.67hailhail.com/celtic-fc-women/green-brigades-rallying-call-as-celtic-women-look-to-create-swpl-history/",
+          "publishedOn": "2024-03-25T12:40:00.000Z",
+          "wordCount": 1462,
+          "title": "Green Brigade's rallying call as Celtic Women look to create SWPL history",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/12/GettyImages-1877492470-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=193279",
           "author": "Sean Markus Clifford",
