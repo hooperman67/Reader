@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-03-25T18:13:52.006Z</updated>
+    <updated>2024-03-25T20:10:53.897Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Brendan Rodgers speaks as Celtic continue exciting Lennoxtown initiative; draws on his journey]]></title>
+        <id>https://www.67hailhail.com/?p=193296</id>
+        <link href="https://www.67hailhail.com/news/brendan-rodgers-speaks-as-celtic-continue-exciting-lennoxtown-initiative-draws-on-his-journey/"/>
+        <updated>2024-03-25T20:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Celtic have confirmed details for the 12th instalment of their International Coaches Convention that is set to take place between April 10th and April 13th...]]></summary>
+        <author>
+            <name>Sean Markus Clifford</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘A concern’: Lee McCulloch makes absolutely bizarre Celtic title race claim]]></title>
+        <id>https://www.67hailhail.com/?p=193318</id>
+        <link href="https://www.67hailhail.com/news/a-concern-lee-mcculloch-makes-absolutely-bizarre-celtic-title-race-claim/"/>
+        <updated>2024-03-25T19:40:00.000Z</updated>
+        <summary type="html"><![CDATA[As the title race between Celtic and Rangers continues to hot up, it will eventually go down to who has the mental strength to see...]]></summary>
+        <author>
+            <name>Patrick Sinat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Went wrong'... Celtic's Anthony Ralston speaks on disappointment from international camp]]></title>
+        <id>https://www.67hailhail.com/?p=193306</id>
+        <link href="https://www.67hailhail.com/news/went-wrong-celtics-anthony-ralston-speaks-on-disappointment-from-international-camp/"/>
+        <updated>2024-03-25T19:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Celtic have a number of stars on international duty representing their respective nations ahead of returning to base later in the week. Despite an eerily...]]></summary>
+        <author>
+            <name>Sean Markus Clifford</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Paul Lambert tells Celtic what 'doesn't matter' when they face Rangers at Ibrox next month]]></title>
         <id>https://www.67hailhail.com/?p=193323</id>
@@ -792,36 +822,6 @@
         <link href="https://www.67hailhail.com/news/celtic-want-to-sign-exceptional-premier-league-player-who-just-suffered-big-fa-cup-upset/"/>
         <updated>2024-03-21T08:49:36.000Z</updated>
         <summary type="html"><![CDATA[With the season drawing to a close and the league title race closer than ever, Celtic’s challenge has been seriously impacted by injuries and poor...]]></summary>
-        <author>
-            <name>Patrick Sinat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pundit says 'massive' Celtic boost cannot be underestimated amid fight for league title]]></title>
-        <id>https://www.67hailhail.com/?p=193008</id>
-        <link href="https://www.67hailhail.com/news/pundit-says-massive-celtic-boost-cannot-be-underestimated-amid-fight-for-league-title/"/>
-        <updated>2024-03-21T08:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Celtic manager Brendan Rodgers will be keen to fully utilise the international break ahead of his side’s return to action against Livingston next weekend. Last...]]></summary>
-        <author>
-            <name>Sean Markus Clifford</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LIVI POSER AS REO RETURNS]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=118857</id>
-        <link href="https://www.celticquicknews.co.uk/livi-poser-as-reo-returns/"/>
-        <updated>2024-03-21T07:42:52.000Z</updated>
-        <summary type="html"><![CDATA[REO HATATE took his first steps back to a Celtic return when he played 45 minutes of a bounce game yesterday. The Japanese playmaker, suffering with persistent hamstring and calf problems, has made a measly 13 appearances for the champions during an injury-ravaged season. Hatate has failed to start a match this year and his [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[£22m goalkeeper may be Celtic's ideal Joe Hart replacement, he could be free this summer - opinion]]></title>
-        <id>https://www.67hailhail.com/?p=192998</id>
-        <link href="https://www.67hailhail.com/opinion/22m-goalkeeper-may-be-celtics-ideal-joe-hart-replacement-he-could-be-free-this-summer/"/>
-        <updated>2024-03-21T07:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Celtic’s hunt for a new goalkeeper took a major twist a few short weeks ago when Joe Hart announced he is to retire at the...]]></summary>
         <author>
             <name>Patrick Sinat</name>
         </author>
