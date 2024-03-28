@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-03-28T12:19:28.311Z</updated>
+    <updated>2024-03-28T14:11:02.203Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Liam Scales receives well-earned recognition after Celtic's latest announcement]]></title>
+        <id>https://www.67hailhail.com/?p=193537</id>
+        <link href="https://www.67hailhail.com/news/liam-scales-receives-well-earned-recognition-after-celtics-latest-announcement/"/>
+        <updated>2024-03-28T13:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Liam Scales has been given a well-earned slap on the back this afternoon after Celtic’s latest announcement. The Republic of Ireland international has had a...]]></summary>
+        <author>
+            <name>Patrick Sinat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where Celtic rank in global study of recruiting young talent for first team]]></title>
+        <id>https://www.67hailhail.com/?p=193523</id>
+        <link href="https://www.67hailhail.com/news/where-celtic-rank-in-global-study-of-recruiting-young-talent-for-first-team/"/>
+        <updated>2024-03-28T12:40:00.000Z</updated>
+        <summary type="html"><![CDATA[A new football study has globally ranked Celtic’s work in the transfer market at recruiting young talent for the first team in ten transfer windows...]]></summary>
+        <author>
+            <name>Patrick Sinat</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic land 'imminent' injury boost as key player looks set to return vs Livingston]]></title>
         <id>https://www.67hailhail.com/?p=193530</id>
