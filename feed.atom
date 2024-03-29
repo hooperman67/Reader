@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-03-29T06:13:12.954Z</updated>
+    <updated>2024-03-29T08:12:57.014Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[RHYTHM AND BRUISE: RODGERS PLANS FOR LIVI BATTLE]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=119055</id>
+        <link href="https://www.celticquicknews.co.uk/rhythm-and-bruise-rodgers-plans-for-livi-battle/"/>
+        <updated>2024-03-29T07:13:27.000Z</updated>
+        <summary type="html"><![CDATA[BRENDAN RODGERS will take his seat in the stand when Celtic play Livingston in West Lothian on Sunday. It will be a first for the manager not to be patrolling the touchline when the Hoops are in action on matchday. Rodgers copped a one-game ban with another suspended after facing the SFA disciplinary committee yesterday [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scott Brown explains why he remained bald at Celtic, tells hilarious media department story]]></title>
         <id>https://www.67hailhail.com/?p=193577</id>
@@ -962,26 +972,6 @@
         <link href="https://www.67hailhail.com/news/celtics-recruitment-questioned-as-spfl-man-baffled-at-january-transfer-omission-from-club/"/>
         <updated>2024-03-24T21:10:00.000Z</updated>
         <summary type="html"><![CDATA[Celtic boss Brendan Rodgers acquired Nicolas Kuhn and Adam Idah during a quiet January transfer window at Parkhead. Since then, both men have gone on...]]></summary>
-        <author>
-            <name>Sean Markus Clifford</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic's Alistair Johnston delivers brilliant Instagram post as Canada qualify for Copa America]]></title>
-        <id>https://www.67hailhail.com/?p=193258</id>
-        <link href="https://www.67hailhail.com/news/celtics-alistair-johnston-delivers-brilliant-instagram-post-as-canada-qualify-for-copa-america/"/>
-        <updated>2024-03-24T20:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Celtic are in the midst of the international break just now, where Brendan Rodgers will be enjoying some well-deserved rest ahead of the season run-in....]]></summary>
-        <author>
-            <name>Sean Markus Clifford</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paul Lambert elaborates on the 'new experience' Celtic will face at Ibrox]]></title>
-        <id>https://www.67hailhail.com/?p=193252</id>
-        <link href="https://www.67hailhail.com/news/paul-lambert-elaborates-on-the-new-experience-celtic-will-face-at-ibrox/"/>
-        <updated>2024-03-24T19:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Celtic travel to Ibrox next month in a match with potentially huge implications in the battle for the Scottish Premiership title. The Bhoys sit at...]]></summary>
         <author>
             <name>Sean Markus Clifford</name>
         </author>
