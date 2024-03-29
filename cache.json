@@ -6,6 +6,26 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=119094",
+          "author": "CQN Magazine",
+          "description": "JOE HART is in line for a personal accolade as he prepares to bring down the curtain on his three eventful years at Celtic. The 75 times-capped England international keeper answered an SOS from former boss Ange Postecoglou to quit Spurs in a £1million switch to join the Greek-Australian’s revolution at the fallen champions. Hart [...]",
+          "link": "https://www.celticquicknews.co.uk/way-to-go-joe-harts-in-with-a-shout/",
+          "publishedOn": "2024-03-29T10:11:02.000Z",
+          "wordCount": 4188,
+          "title": "WAY TO GO, JOE: HART’S IN WITH A SHOUT",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/03/JOE-HART-IN-WITH-A-SHOUT-FATURED-1.png"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/?p=119092",
+          "author": "CQN Magazine",
+          "description": "CELTIC will block any moves from South Korea to call up Yang Hyun-jun for their Olympic qualification bid next month. The right-winger is likely to be in head coach Hwang Sun-hong’s plans for the tournament in Qatar as he prepares his squad for the finals in Paris which are due to run from July 24 to [...]",
+          "link": "https://www.celticquicknews.co.uk/no-green-light-for-in-demand-yang/",
+          "publishedOn": "2024-03-29T09:18:40.000Z",
+          "wordCount": 4206,
+          "title": "NO GREEN LIGHT FOR IN-DEMAND YANG",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/12/YANG-HYUN-JUN-KILLIE-FEATURED.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=119055",
           "author": "CQN Magazine",
           "description": "BRENDAN RODGERS will take his seat in the stand when Celtic play Livingston in West Lothian on Sunday. It will be a first for the manager not to be patrolling the touchline when the Hoops are in action on matchday. Rodgers copped a one-game ban with another suspended after facing the SFA disciplinary committee yesterday [...]",
@@ -478,23 +498,7 @@
       "title": "eTims",
       "feedUrl": "http://etims.net/?feed=rss2",
       "siteUrl": "https://etims.net",
-      "articles": [
-        {
-          "id": "https://etims.net/?p=18578",
-          "author": "Desi Mond",
-          "description": "With Celtic announcing a North America Tour for this Summer, Desi and Hector catch up with Callum Murray of the Washington CSC to discuss the…",
-          "link": "https://etims.net/?p=18578",
-          "publishedOn": "2024-03-24T21:36:52.000Z",
-          "wordCount": 2685,
-          "title": "Etims meet Washington CSC",
-          "enclosure": {
-            "url": "https://api.spreaker.com/v2/episodes/59156613/download.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": "https://etims.net/wp-content/uploads/2024/03/x2BLLOp1_400x400.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "The Celtic Underground",
@@ -1236,16 +1240,6 @@
           "wordCount": 1656,
           "title": "The Scottish FA may try to make an example out of Celtic boss Brendan Rodgers after recent statement",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/03/GettyImages-1231982685-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=193255",
-          "author": "Sean Markus Clifford",
-          "description": "Celtic boss Brendan Rodgers acquired Nicolas Kuhn and Adam Idah during a quiet January transfer window at Parkhead. Since then, both men have gone on...",
-          "link": "https://www.67hailhail.com/news/celtics-recruitment-questioned-as-spfl-man-baffled-at-january-transfer-omission-from-club/",
-          "publishedOn": "2024-03-24T21:10:00.000Z",
-          "wordCount": 1438,
-          "title": "Celtic's recruitment questioned as SPFL man baffled at January transfer omission from club",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/01/GettyImages-1269732263-scaled.jpg"
         }
       ]
     },
