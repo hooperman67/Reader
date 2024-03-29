@@ -254,16 +254,6 @@
           "wordCount": 5403,
           "title": "VAR and the much needed extra spend",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=118952",
-          "author": "CQN Magazine",
-          "description": "CELTIC legend Scott Brown was left fuming after former team-mate Cilian Sheridan shot down his Ayr United side at Somerset Park at the weekend. The two former Hoops stars locked horns in the Championship as the 35-year-old hitman came out on top with the winner in Queen’s Park’s 2-1 Championship triumph. Broony was raging as [...]",
-          "link": "https://www.celticquicknews.co.uk/broony-fumes-after-old-pals-axe/",
-          "publishedOn": "2024-03-25T09:05:11.000Z",
-          "wordCount": 4348,
-          "title": "BROONY FUMES AFTER OLD PAL’S AXE",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/03/SCORR-BROWN-AYR-UNTD-FEATURED-HHH.png"
         }
       ]
     },
@@ -531,6 +521,16 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=193634",
+          "author": "John McGinley",
+          "description": "The days of plastic pitches in Scotland could soon be numbered but Celtic still have to deal with them in the here and now. The...",
+          "link": "https://www.67hailhail.com/match/brendan-rodgers-confirms-dodgy-livingston-pitch-has-influenced-sunday-celtic-squad-call/",
+          "publishedOn": "2024-03-29T20:38:09.000Z",
+          "wordCount": 1416,
+          "title": "Brendan Rodgers confirms dodgy Livingston pitch has influenced Sunday Celtic squad call",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/03/GettyImages-1060152156-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=193586",
           "author": "John McGinley",
@@ -1310,26 +1310,6 @@
           "wordCount": 1406,
           "title": "'Very important': Pundit thinks Rangers fans will be very worried about what's happening at Celtic right now",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/10/GettyImages-1657205815-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=193274",
-          "author": "Sean Markus Clifford",
-          "description": "Celtic managed to bolster their forward line late on in the January transfer window by bringing Adam Idah in on loan from Norwich City. The...",
-          "link": "https://www.67hailhail.com/news/ex-republic-of-ireland-boss-stephen-kenny-explains-why-adam-idah-is-pivotal-for-celtic/",
-          "publishedOn": "2024-03-25T09:10:00.000Z",
-          "wordCount": 1654,
-          "title": "Ex-Republic of Ireland boss Stephen Kenny explains why Adam Idah is pivotal for Celtic",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/02/GettyImages-1998908294-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=193271",
-          "author": "Patrick Sinat",
-          "description": "Celtic have been told how much they should rally pay for Paulo Bernardo after reports suggested that the club had made enquiries about a permanent...",
-          "link": "https://www.67hailhail.com/news/celtic-told-how-much-they-should-really-pay-for-paulo-bernardo-this-summer/",
-          "publishedOn": "2024-03-25T08:40:00.000Z",
-          "wordCount": 1428,
-          "title": "‘I would pay’: Celtic told how much they should really spend on Paulo Bernardo this summer",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/01/GettyImages-1809761338-scaled.jpg"
         }
       ]
     },
