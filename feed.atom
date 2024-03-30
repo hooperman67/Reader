@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-03-30T10:10:44.579Z</updated>
+    <updated>2024-03-30T12:16:37.285Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CALMAC CONUNDRUM]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=119119</id>
+        <link href="https://www.celticquicknews.co.uk/calmac-conundrum/"/>
+        <updated>2024-03-30T11:20:54.000Z</updated>
+        <summary type="html"><![CDATA[CALLUM McGREGOR faces a week-long guessing game as the burning question follows him all the way to the midday kick-off at Ibrox a week tomorrow. Will the inspirational Celtic captain be fit to play in what will be a vital derby encounter in the champions’ quest for their twelfth title in 13 years? Worryingly, the [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ALEX’S ANGLE: ANSWER THIS, SFA]]></title>
         <id>https://www.celticquicknews.co.uk/?p=119117</id>
