@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-03-30T06:12:53.718Z</updated>
+    <updated>2024-03-30T08:13:34.369Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[RODGERS’ ‘MAJOR BONUS’ AT IBROX]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=119115</id>
+        <link href="https://www.celticquicknews.co.uk/rodgers-major-bonus-at-ibrox/"/>
+        <updated>2024-03-30T07:57:28.000Z</updated>
+        <summary type="html"><![CDATA[BRENDAN RODGERS will be patrolling the touchline at Ibrox a week tomorrow – and that is a “major bonus” for Celtic, according to former goal hero Chris Sutton. The Hoops boss will be in the stand at Livingston tomorrow for the noon kick-off as he serves an SFA one-game ban with another match suspended after [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘A GOOD PLACE,’ HART CONTINUES COUNTDOWN]]></title>
         <id>https://www.celticquicknews.co.uk/?p=119107</id>
@@ -924,36 +934,6 @@
         <summary type="html"><![CDATA[Mikey Johnston’s impact at West Brom has been superb since his January loan move. With six goals and an assist in his first ten games,...]]></summary>
         <author>
             <name>Patrick Sinat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brendan Rodgers speaks as Celtic continue exciting Lennoxtown initiative; draws on his journey]]></title>
-        <id>https://www.67hailhail.com/?p=193296</id>
-        <link href="https://www.67hailhail.com/news/brendan-rodgers-speaks-as-celtic-continue-exciting-lennoxtown-initiative-draws-on-his-journey/"/>
-        <updated>2024-03-25T20:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Celtic have confirmed details for the 12th instalment of their International Coaches Convention that is set to take place between April 10th and April 13th...]]></summary>
-        <author>
-            <name>Sean Markus Clifford</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘A concern’: Lee McCulloch makes absolutely bizarre Celtic title race claim]]></title>
-        <id>https://www.67hailhail.com/?p=193318</id>
-        <link href="https://www.67hailhail.com/news/a-concern-lee-mcculloch-makes-absolutely-bizarre-celtic-title-race-claim/"/>
-        <updated>2024-03-25T19:40:00.000Z</updated>
-        <summary type="html"><![CDATA[As the title race between Celtic and Rangers continues to hot up, it will eventually go down to who has the mental strength to see...]]></summary>
-        <author>
-            <name>Patrick Sinat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Went wrong'... Celtic's Anthony Ralston speaks on disappointment from international camp]]></title>
-        <id>https://www.67hailhail.com/?p=193306</id>
-        <link href="https://www.67hailhail.com/news/went-wrong-celtics-anthony-ralston-speaks-on-disappointment-from-international-camp/"/>
-        <updated>2024-03-25T19:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Celtic have a number of stars on international duty representing their respective nations ahead of returning to base later in the week. Despite an eerily...]]></summary>
-        <author>
-            <name>Sean Markus Clifford</name>
         </author>
     </entry>
     <entry>
