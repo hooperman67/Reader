@@ -264,16 +264,6 @@
           "wordCount": 4528,
           "title": "‘FAR FROM IT,’ CELTIC HERO FIRES TITLE WARNING",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/03/JOE-LEDLEY-JOY-FEATURED.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=118938",
-          "author": "CQN Magazine",
-          "description": "BRENDAN RODGERS takes Celtic to play Livingston in West Lothian on Sunday in the first of their eight-game obstacle course as they bid to win their twelfth title in 13 years. If the Hoops boss requires any advice on how to plan ahead for the ultimate silverware success, he could ask club ambassador Davie Hay. The Parkhead [...]",
-          "link": "https://www.celticquicknews.co.uk/how-to-win-the-league-with-eight-games-to-play-part-six/",
-          "publishedOn": "2024-03-26T05:30:09.000Z",
-          "wordCount": 4645,
-          "title": "HOW TO WIN THE LEAGUE WITH EIGHT GAMES TO PLAY: PART SIX",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/03/BRIAN-MCCLAIR-MO-JOHNSTON-FEATURED-HH.png"
         }
       ]
     },
@@ -541,6 +531,46 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=193660",
+          "author": "John McGinley",
+          "description": "Celtic face Livingston in the Scottish Premiership on Sunday and it’s another big game for the Bhoys in this title race. After Rangers defeated Hibernian...",
+          "link": "https://www.67hailhail.com/match/wingers-miss-out-hatate-decision-celtic-predicted-xi-vs-livingston-after-latest-squad-update/",
+          "publishedOn": "2024-03-30T18:09:29.000Z",
+          "wordCount": 1378,
+          "title": "Attackers miss out, Hatate decision: Celtic Predicted XI vs Livingston after latest squad update",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/02/GettyImages-1993537289-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=193657",
+          "author": "John McGinley",
+          "description": "If Celtic go on to win the Scottish Premiership this season then the clip of Joe Hart celebrating with passion away to Livingston back in...",
+          "link": "https://www.67hailhail.com/news/why-joe-hart-wasnt-happy-with-popular-viral-celtic-video-clip/",
+          "publishedOn": "2024-03-30T17:39:33.000Z",
+          "wordCount": 1405,
+          "title": "Why Joe Hart wasn't happy with popular viral Celtic video clip",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/08/GettyImages-1547295563-3-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=193651",
+          "author": "John McGinley",
+          "description": "Celtic will be playing to return to the top of the Scottish Premiership against Livingston on Sunday after another afternoon of drama in the top...",
+          "link": "https://www.67hailhail.com/news/celtics-title-race-mission-after-saturday-scottish-premiership-results-goal-difference-situation/",
+          "publishedOn": "2024-03-30T17:02:04.000Z",
+          "wordCount": 1366,
+          "title": "Celtic's title race mission after Saturday Scottish Premiership results; goal difference situation",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/03/GettyImages-2074090290-1-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=193646",
+          "author": "John McGinley",
+          "description": "Celtic have sent many players out on loan to various clubs around the world this season; naturally, some garner more attention than others. Mikey Johnston,...",
+          "link": "https://www.67hailhail.com/news/watch-celtic-prospect-become-a-derby-hero-out-on-loan-with-latest-goal/",
+          "publishedOn": "2024-03-30T16:19:03.000Z",
+          "wordCount": 1374,
+          "title": "Watch Celtic prospect become a derby hero out on loan with latest goal",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/03/GettyImages-2115803276-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=193641",
           "author": "John McGinley",
@@ -1200,16 +1230,6 @@
           "wordCount": 1463,
           "title": "'I've been told': Mark Guidi shares a summer transfer update that will excite the Celtic fans",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/02/GettyImages-1894755219-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=193315",
-          "author": "Sean Markus Clifford",
-          "description": "Celtic boss Brendan Rodgers will be keen to use the international break to make sure his squad are match-ready for the season run-in. With eight...",
-          "link": "https://www.67hailhail.com/news/celtic-captain-callum-mcgregor-misses-out-on-prestigious-international-award/",
-          "publishedOn": "2024-03-26T06:10:00.000Z",
-          "wordCount": 1459,
-          "title": "Celtic captain Callum McGregor misses out on prestigious international award",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/10/GettyImages-1676989448-scaled.jpg"
         }
       ]
     },
@@ -1217,7 +1237,18 @@
       "title": "News Archives - Celtic Fanzine",
       "feedUrl": "https://celticfanzine.com/category/news/feed/",
       "siteUrl": "https://celticfanzine.com/category/news/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://celticfanzine.com/?p=58748",
+          "author": "celtic",
+          "description": "I spent the international break watching Ireland v Belgium and Switzerland. Both Mikey Johnstone and Adam Idah took part in both matches in Dublin. But now all our thoughts turn to Livingston away on Easter Sunday. On a week when we found out Celtic fans will be allocated tickets for Ibrox next season and likewise […]\nThe post Celtic v Livi Preview appeared first on Celtic Fanzine.",
+          "link": "https://celticfanzine.com/celtic-v-livi-preview/",
+          "publishedOn": "2024-03-30T16:14:58.000Z",
+          "wordCount": 1917,
+          "title": "Celtic v Livi Preview",
+          "imageUrl": "https://celticfanzine.com/wp-content/uploads/Brendan-Rodgers-Livi-Presser-.png"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
