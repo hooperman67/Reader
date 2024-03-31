@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=119099",
+          "author": "CQN Magazine",
+          "description": "CELTIC have a 100 per cent record this season against Livingston as they prepare to face them for a fourth time in the High Noon showdown in West Lothian today. In an eventful afternoon on the hosts’ treacherous pitch in September, the champions won 3-0 in a true grit display. That was followed by a 2-0 [...]",
+          "link": "https://www.celticquicknews.co.uk/livingston-v-celtic-5-minute-quiz-2/",
+          "publishedOn": "2024-03-31T04:30:43.000Z",
+          "wordCount": 4116,
+          "title": "LIVINGSTON v CELTIC: 5-MINUTE QUIZ",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/03/CALLUM-MCGREGOR-V-LIVI-FEATURED.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=119119",
           "author": "CQN Magazine",
           "description": "CALLUM McGREGOR faces a week-long guessing game as the burning question follows him all the way to the midday kick-off at Ibrox a week tomorrow. Will the inspirational Celtic captain be fit to play in what will be a vital derby encounter in the champions’ quest for their twelfth title in 13 years? Worryingly, the [...]",
@@ -491,6 +501,16 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=193675",
+          "author": "John McGinley",
+          "description": "Celtic legend Kenny Dalglish isn’t happy at all with the Scottish FA’s decision to haul Brendan Rodgers into Hampden for a disciplinary hearing. Rodgers has...",
+          "link": "https://www.67hailhail.com/news/kenny-dalglish-nails-the-sfa-with-furious-verdict-after-their-celtic-decision/",
+          "publishedOn": "2024-03-31T06:07:08.000Z",
+          "wordCount": 1486,
+          "title": "Kenny Dalglish nails the SFA with furious verdict after their Celtic decision",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/03/GettyImages-1399780089-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=193669",
           "author": "John McGinley",
@@ -1090,36 +1110,6 @@
           "wordCount": 1352,
           "title": "Only one former Celtic defender makes UEFA's top Champions League player list",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2021/11/GettyImages-166213445-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=193385",
-          "author": "Sean Markus Clifford",
-          "description": "Celtic are currently on international duty; however, that hasn’t stopped the flow of discussion surrounding matters at the club. With eight league matches left to...",
-          "link": "https://www.67hailhail.com/news/ex-celtic-man-gains-world-class-billing-from-former-hoops-manager-neil-lennon/",
-          "publishedOn": "2024-03-26T18:10:00.000Z",
-          "wordCount": 1439,
-          "title": "Ex-Celtic man gains 'world-class' billing from former Hoops manager Neil Lennon",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/09/GettyImages-1433183763-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=193373",
-          "author": "Patrick Sinat",
-          "description": "This summer the Celtic fans will get to enjoy the Euros in Germany knowing that Callum McGregor and Greg Taylor are likely to feature for...",
-          "link": "https://www.67hailhail.com/news/neil-lennon-tells-forgotten-celtic-man-how-to-make-the-euros-with-scotland/",
-          "publishedOn": "2024-03-26T17:40:00.000Z",
-          "wordCount": 1393,
-          "title": "‘Pivotal’: Neil Lennon tells forgotten Celtic man how to make the Euros with Scotland",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/08/GettyImages-855927842-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=193367",
-          "author": "Sean Markus Clifford",
-          "description": "Brendan Rodgers sent several Celtic players out on loan during the mid-season window to gain first-team opportunities elsewhere. Hyeokkyu Kwon and Marco Tilio were among...",
-          "link": "https://www.67hailhail.com/news/west-brom-man-explains-unbelievable-mikey-johnston-form-on-talksport-sends-celtic-message/",
-          "publishedOn": "2024-03-26T17:10:00.000Z",
-          "wordCount": 1471,
-          "title": "West Brom man explains 'unbelievable' Mikey Johnston form on talkSPORT, sends Celtic message",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/03/GettyImages-2065977922-scaled.jpg"
         }
       ]
     },
