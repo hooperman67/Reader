@@ -254,26 +254,6 @@
           "wordCount": 5215,
           "title": "ALEX’S ANGLE: CELTIC AND BEATON SYNCHRONICITY",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/03/ALEX-GORDON-FACEBOOK-CELTIC-TUNNEL.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=119033",
-          "author": "CQN Magazine",
-          "description": "BRENDAN RODGERS will be hoping to enjoy better fortune than many of his Celtic predecessors who have been summoned to appear before the SFA disciplinary committee. The Hoops boss, of course, will face the Scottish soccer rulers today after remarks made following the controversial 2-0 loss to Hearts at Tynecastle 25 days ago. Rodgers was [...]",
-          "link": "https://www.celticquicknews.co.uk/celtic-and-sfa-justice/",
-          "publishedOn": "2024-03-28T06:00:49.000Z",
-          "wordCount": 5191,
-          "title": "CELTIC AND SFA JUSTICE",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/03/BRENDAN-RODGERS-FEATURED-MARCH-3-2024-HEARTS-0-2.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=118949",
-          "author": "CQN Magazine",
-          "description": "CELTIC face Livingston in West Lothian on Sunday in the first of their eight-game obstacle course as they bid to win their twelfth title in 13 years. If Brendan Rodgers requires any advice on how to plan ahead for the ultimate silverware success, he could ask club ambassador Davie Hay. The Parkhead legend knows exactly [...]",
-          "link": "https://www.celticquicknews.co.uk/how-to-win-the-league-with-eight-games-left-part-eight/",
-          "publishedOn": "2024-03-28T05:30:29.000Z",
-          "wordCount": 4511,
-          "title": "HOW TO WIN THE LEAGUE WITH EIGHT GAMES LEFT: PART EIGHT",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/03/DANNY-MCGRAIN-ROY-AITKEN-BUBBY-FTREFD-WW.png"
         }
       ]
     },
@@ -541,6 +521,26 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=193776",
+          "author": "Patrick Sinat",
+          "description": "Celtic seem to finding their groove in the Scottish Premiership now that they are starting to get some of their big players back from injury....",
+          "link": "https://www.67hailhail.com/news/chris-sutton-delivers-important-ibrox-message-to-celtic-star-who-has-grown-in-confidence/",
+          "publishedOn": "2024-04-01T18:10:00.000Z",
+          "wordCount": 1498,
+          "title": "‘The important thing’: Chris Sutton delivers Ibrox message to Celtic star who has ‘grown’ in confidence",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/02/GettyImages-1067595922-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=193781",
+          "author": "Patrick Sinat",
+          "description": "With Brendan Rodgers serving a one game ban for Celtic’s game against Livingston yesterday, it was left to John Kennedy to complete the media duties...",
+          "link": "https://www.67hailhail.com/news/john-kennedys-interesting-rangers-message-to-the-celtic-players-left-pat-bonner-really-impressed/",
+          "publishedOn": "2024-04-01T17:10:00.000Z",
+          "wordCount": 1500,
+          "title": "'Interesting': Pat Bonner left impressed with John Kennedy’s ‘important’ Rangers message to the Celtic players",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/10/GettyImages-1315826224-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=193784",
           "author": "Patrick Sinat",
@@ -1118,6 +1118,16 @@
       "feedUrl": "https://celticfanzine.com/category/news/feed/",
       "siteUrl": "https://celticfanzine.com/category/news/",
       "articles": [
+        {
+          "id": "https://celticfanzine.com/?p=58756",
+          "author": "celtic",
+          "description": "The approach of Easter in 1916 probably did not mean much to the average Celtic supporter in Glasgow. The only real difference was that Easter Monday (April 24) would be a Holiday (a rare event in wartime Britain) and that Celtic would be playing Third Lanark, after they had played Hearts on the Saturday. […]\nThe post CELTIC FC EASTER 1916 appeared first on Celtic Fanzine.",
+          "link": "https://celticfanzine.com/celtic-fc-easter-1916-2/",
+          "publishedOn": "2024-04-01T17:12:44.000Z",
+          "wordCount": 1848,
+          "title": "CELTIC FC EASTER 1916",
+          "imageUrl": "https://celticfanzine.com/wp-content/uploads/THE-RANGERS-ARE-COMING-PIC-.png"
+        },
         {
           "id": "https://celticfanzine.com/?p=58753",
           "author": "celtic",
