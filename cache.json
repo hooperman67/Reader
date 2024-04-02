@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=111451",
+          "author": "CQN Magazine",
+          "description": "BRENDAN RODGERS is preparing for his third derby encounter since his return to Celtic when he takes the champions to Ibrox on Sunday. The Irishman has enjoyed back-to-back successes in this campaign and got his second coming off to a perfect start in Govan on September 3 last year when Kyogo Furuhashi flashed in the only [...]",
+          "link": "https://www.celticquicknews.co.uk/rodgers-v-rangers-derby-debut-rampage-part-one/",
+          "publishedOn": "2024-04-02T05:00:43.000Z",
+          "wordCount": 4631,
+          "title": "RODGERS v RANGERS: DERBY DEBUT RAMPAGE: Part One",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/08/BRENDAN-RODGERS-DERBY-DAZE-FEATURRED.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=119204",
           "author": "Paul67",
           "description": "If you were comforted by what happened at Livingston yesterday you are a fool.  A 0-3 win for Celtic on a difficult pitch is irrelevant in light of what happened with the scores at 0-0. Kyogo received the ball inside the Livingston box.  Livi captain, Mikey Devlin, clattered into the Japanese striker’s standing leg, bringing [...]",
@@ -204,16 +214,6 @@
           "wordCount": 4361,
           "title": "RHYTHM AND BRUISE: RODGERS PLANS FOR LIVI BATTLE",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/03/BRENDAN-RODGERS-CP-FEATURED.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=119053",
-          "author": "CQN Magazine",
-          "description": "CELTIC have issued a short, sharp statement after Brendan Rodgers was banned from the dug-out for Sunday’s Premiership game against Livingston in West Lothian. The manager also received a one-match suspended sentence until the end of the season which allows him to take his usual place trackside at Ibrox the following weekend. Rodgers appeared before [...]",
-          "link": "https://www.celticquicknews.co.uk/brendan-ban-celtic-disappointed/",
-          "publishedOn": "2024-03-28T16:56:11.000Z",
-          "wordCount": 4165,
-          "title": "BRENDAN BAN: CELTIC ‘DISAPPOINTED’",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/02/BRENDAN-RODGERS-KILLIE-FEATURED-HH.png"
         }
       ]
     },
@@ -950,46 +950,6 @@
           "wordCount": 1409,
           "title": "‘Honestly’: Stephen Welsh hails ‘amazing’ Celtic teammate who has been a ‘revelation’",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/01/GettyImages-1242230777-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=193520",
-          "author": "Sean Markus Clifford",
-          "description": "Celtic take on Livingston this weekend and will be keen to get their teeth into the Scottish Premiership title race by securing three points in...",
-          "link": "https://www.67hailhail.com/news/brendan-rodgers-on-what-celtic-will-do-differently-vs-livingston-after-cup-drama/",
-          "publishedOn": "2024-03-28T18:10:00.000Z",
-          "wordCount": 1630,
-          "title": "Brendan Rodgers explains what Celtic will change vs Livingston after Scottish Cup drama",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/02/GettyImages-1877496600-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=193550",
-          "author": "Patrick Sinat",
-          "description": "Celtic fans have had the pleasure of watching some real, genuine world-class players turn out in the green and white Hoops over the ages. In...",
-          "link": "https://www.67hailhail.com/news/unbelievable-zinedine-zidanes-favourite-ever-player-used-to-play-for-celtic/",
-          "publishedOn": "2024-03-28T17:40:00.000Z",
-          "wordCount": 1393,
-          "title": "'Unbelievable': Zinedine Zidane's favourite ever player used to play for Celtic",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/03/GettyImages-1716902967-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=193525",
-          "author": "Sean Markus Clifford",
-          "description": "Celtic boss Brendan Rodgers will be keen to bolster his ranks this summer once the current campaign comes to an end. Evaluating the squad, it...",
-          "link": "https://www.67hailhail.com/news/peter-grant-endorses-celtic-move-for-versatile-attacker-thinks-he-could-cost-10-million/",
-          "publishedOn": "2024-03-28T17:10:00.000Z",
-          "wordCount": 1621,
-          "title": "Peter Grant endorses Celtic move for versatile attacker, thinks he could cost £10 million",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/02/GettyImages-1998904072-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=193571",
-          "author": "Sean Markus Clifford",
-          "description": "Celtic boss Brendan Rodgers found out his punishment for comments relating to VAR operative John Beaton’s involvement in our 2-0 defeat to Heart of Midlothian...",
-          "link": "https://www.67hailhail.com/news/how-celtic-feel-about-the-brendan-rodgers-verdict-as-club-release-official-statement/",
-          "publishedOn": "2024-03-28T16:17:47.000Z",
-          "wordCount": 1358,
-          "title": "How Celtic feel about the Brendan Rodgers verdict as club release official statement",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/11/GettyImages-1789688936-1-scaled.jpg"
         }
       ]
     },
