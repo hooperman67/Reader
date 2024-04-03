@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-04-03T04:13:14.797Z</updated>
+    <updated>2024-04-03T06:13:17.008Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[RODGERS v RANGERS: Part Two]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=111476</id>
+        <link href="https://www.celticquicknews.co.uk/rodgers-v-rangers-part-two/"/>
+        <updated>2024-04-03T05:00:26.000Z</updated>
+        <summary type="html"><![CDATA[BRENDAN RODGERS is preparing for his third derby encounter since returning to Celtic in June last year. The Irishman has already enjoyed a double triumph in the previous meetings – 1-0 at Ibrox on September 3 and 2-1 at Parkhead on December 30. Now Rodgers is gearing up to go again in the High Noon [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Alan Thompson names the experienced men who can inspire Celtic to defeat Rangers]]></title>
         <id>https://www.67hailhail.com/?p=193868</id>
@@ -755,36 +765,6 @@ The post Celtic v Livi Preview appeared first on Celtic Fanzine.]]></summary>
         <link href="https://www.67hailhail.com/news/joe-hart-shares-observation-on-celtic-training-and-dressing-room-ahead-of-title-run-in/"/>
         <updated>2024-03-29T18:27:16.000Z</updated>
         <summary type="html"><![CDATA[With so many potential twists and turns ahead, nobody at Celtic or Rangers is very keen on hyping up the coming title race beyond recognition...]]></summary>
-        <author>
-            <name>John McGinley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rodgers sets record straight on Rangers row and makes it clear what Celtic will push for next]]></title>
-        <id>https://www.67hailhail.com/?p=193611</id>
-        <link href="https://www.67hailhail.com/news/brendan-rodgers-sets-the-record-straight-on-rangers-row-and-makes-it-clear-what-celtic-will-push-for-next/"/>
-        <updated>2024-03-29T17:37:29.000Z</updated>
-        <summary type="html"><![CDATA[Although it’s convenient for some to forget, Celtic were not at all instigators in the row with Rangers over ticket allocations. It was a decision...]]></summary>
-        <author>
-            <name>John McGinley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic confirm Hampden Scottish Cup ticket details: Criteria, prices and deadline]]></title>
-        <id>https://www.67hailhail.com/?p=193608</id>
-        <link href="https://www.67hailhail.com/news/celtic-confirm-hampden-scottish-cup-ticket-details-criteria-prices-and-deadline/"/>
-        <updated>2024-03-29T17:07:42.000Z</updated>
-        <summary type="html"><![CDATA[Celtic have confirmed the ticketing details for the upcoming Scottish Cup semi-final against Aberdeen at Hampden on Saturday, 20th April. The Bhoys are on the...]]></summary>
-        <author>
-            <name>John McGinley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic team news vs Livingston: 3 out but Reo Hatate returns]]></title>
-        <id>https://www.67hailhail.com/?p=193601</id>
-        <link href="https://www.67hailhail.com/match/celtic-team-news-vs-livingston-3-out-but-reo-hatate-returns/"/>
-        <updated>2024-03-29T16:36:41.000Z</updated>
-        <summary type="html"><![CDATA[Celtic return to Scottish Premiership action this weekend and it’s a welcome comeback after a dull international break. We’re in the juicy part of the...]]></summary>
         <author>
             <name>John McGinley</name>
         </author>
