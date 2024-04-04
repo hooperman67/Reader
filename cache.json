@@ -194,36 +194,6 @@
           "wordCount": 4815,
           "title": "LIVINGSTON 0 CELTIC 3: TREBLE TOPS",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/03/CELTIC-HUDDLE-V-LIVI-MARC-31-2024.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=119141",
-          "author": "Paul67",
-          "description": "Live updates will appear below after 12.00.",
-          "link": "https://www.celticquicknews.co.uk/livingston-v-celtic-live-updates-9/",
-          "publishedOn": "2024-03-31T09:57:12.000Z",
-          "wordCount": 3971,
-          "title": "Livingston v Celtic, Live updates",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=119103",
-          "author": "CQN Magazine",
-          "description": "REO HATATE makes his long-awaited return to the Celtic midfield for the High Noon showdown against Livingston in West Lothian today. The Japanese playmaker has played for only 21 minutes this year following a cameo appearance in the 3-0 win over St Mirren in Paisley on January 2. Hatate, who has been stricken by hamstring [...]",
-          "link": "https://www.celticquicknews.co.uk/confirmed-hatate-returns/",
-          "publishedOn": "2024-03-31T09:50:50.000Z",
-          "wordCount": 4184,
-          "title": "CONFIRMED: HATATE RETURNS",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/03/LIVINGSTON-GROUND-FEATURED.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=119126",
-          "author": "CQN Magazine",
-          "description": "CELTIC legend Kenny Dalglish insists Brendan Rodgers “had every right to be angry” after having his say on the performances of the SFA officials following the champions’ controversial loss at Tynecastle on March 3. Yang Hyun-jun was red-carded in the 14th minute after a bewildering about-turn by referee Don Robertson following an intervention by VAR [...]",
-          "link": "https://www.celticquicknews.co.uk/rodgers-had-every-right-to-be-angry-insists-celtic-legend/",
-          "publishedOn": "2024-03-31T08:24:40.000Z",
-          "wordCount": 4410,
-          "title": "RODGERS ‘HAD EVERY RIGHT TO BE ANGRY,’ INSISTS CELTIC LEGEND",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/03/BRENDAN-RODGERS-V-HEARTS-FEATURED-MARCH-3-2024.png"
         }
       ]
     },
@@ -478,7 +448,23 @@
       "title": "eTims",
       "feedUrl": "http://etims.net/?feed=rss2",
       "siteUrl": "https://etims.net",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://etims.net/?p=18587",
+          "author": "Desi Mond",
+          "description": "Hector, Monty and Desi get together to discuss the recent games and how they will impact the future big game at Ibrox on Sunday. They…",
+          "link": "https://etims.net/?p=18587",
+          "publishedOn": "2024-04-04T21:26:30.000Z",
+          "wordCount": 19702,
+          "title": "Sunday  Sunday…Bring it on!! – Podcast with transcript",
+          "enclosure": {
+            "url": "https://api.spreaker.com/v2/episodes/59298250/download.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://etims.net/wp-content/uploads/2024/04/beaton2.png"
+        }
+      ]
     },
     {
       "title": "The Celtic Underground",
@@ -1070,26 +1056,6 @@
           "wordCount": 1545,
           "title": "Reo Hatate return verdict, another VAR farce... 3 things we learned as Celtic punish Livingston",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/03/GettyImages-2127417652-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=193701",
-          "author": "Patrick Sinat",
-          "description": "As Celtic prepare to face Livingston this afternoon they do so knowing that Cameron Carter-Vickers is available to face David Martindale’s side. The US international...",
-          "link": "https://www.67hailhail.com/news/mark-guidi-shares-what-former-celtic-players-have-told-him-about-cameron-carter-vickers/",
-          "publishedOn": "2024-03-31T09:10:00.000Z",
-          "wordCount": 1454,
-          "title": "'They say': Mark Guidi shares what former Celtic players have told him about Cameron Carter-Vickers",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/03/GettyImages-2046188237-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=193694",
-          "author": "Patrick Sinat",
-          "description": "Brendan Rodgers has a number of extremely talented players at his disposal at Celtic that he can call upon to change a game if required....",
-          "link": "https://www.67hailhail.com/news/kevin-thomson-concedes-that-celtic-have-two-players-who-are-the-best-in-scotland-by-a-country-mile/",
-          "publishedOn": "2024-03-31T08:40:00.000Z",
-          "wordCount": 1499,
-          "title": "'A country mile': BBC pundit concedes that Celtic have two players who are the best in Scotland",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/01/GettyImages-1495693723-scaled.jpg"
         }
       ]
     },
