@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-04-11T14:10:08.125Z</updated>
+    <updated>2024-04-11T16:11:12.570Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Peter Grant thinks Celtic will 'definitely' look to complete permanent transfer this summer]]></title>
+        <id>https://www.67hailhail.com/?p=194446</id>
+        <link href="https://www.67hailhail.com/news/peter-grant-thinks-celtic-will-definitely-look-to-complete-permanent-transfer-this-summer/"/>
+        <updated>2024-04-11T16:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Celtic will already be identifying summer transfer targets at Parkhead to strengthen Brendan Rodgers’ squad heading into 2024/25. With six Scottish Premiership matches left to...]]></summary>
+        <author>
+            <name>Sean Markus Clifford</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic now have Australian goalkeeper high on radar to replace Joe Hart]]></title>
+        <id>https://www.67hailhail.com/?p=194465</id>
+        <link href="https://www.67hailhail.com/transfers/celtic-now-have-australian-goalkeeper-high-on-radar-to-replace-joe-hart/"/>
+        <updated>2024-04-11T15:22:51.000Z</updated>
+        <summary type="html"><![CDATA[Celtic manager Brendan Rodgers will already have a list of players on his radar to replace Joe Hart as his retirement date draws closer. Former...]]></summary>
+        <author>
+            <name>Sean Markus Clifford</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Brendan Rodgers on why Celtic have found additional 'confidence' in last few weeks]]></title>
         <id>https://www.67hailhail.com/?p=194440</id>
@@ -1112,16 +1132,6 @@
         <link href="https://www.celticquicknews.co.uk/rangers-v-celtic-5-minute-quiz-3/"/>
         <updated>2024-04-07T04:30:00.000Z</updated>
         <summary type="html"><![CDATA[CELTIC go into the High Noon shoot-out at Ibrox today in search of their third successive derby win of the season. Kyogo Furuhashi has been the matchwinner on the two previous occasion in Govan in September and Parkhead just before the turn of the year. As ever, no quarter will be asked or given in the [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TITLE FEVER: MARTIN’S FIRST IN RECORD-BREAKING CAMPAIGN]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=89921</id>
-        <link href="https://www.celticquicknews.co.uk/title-fever-martins-first-in-record-breaking-campaign/"/>
-        <updated>2024-04-07T04:00:07.000Z</updated>
-        <summary type="html"><![CDATA[MARTIN O’NEILL’S first championship success – and Celtic’s thirty-seventh in their glorious history – was delivered EXACTLY 23 years ago today. There were five games still to be played when St Mirren turned up at Parkhead to perform in front of a crowd of 60,440, the biggest in Scotland that season, in the forlorn hope [...]]]></summary>
         <author>
             <name>CQN Magazine</name>
         </author>
