@@ -1297,7 +1297,18 @@
       "title": "News Archives - Celtic Fanzine",
       "feedUrl": "https://celticfanzine.com/category/news/feed/",
       "siteUrl": "https://celticfanzine.com/category/news/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://celticfanzine.com/?p=58770",
+          "author": "celtic",
+          "description": "The dust has settled on last weekend’s game v the rangers at Ibrox. With no ticket allocation for away fans, it was pubs and clubs around the globe that were packed with Celtic fans. Publicans everywhere rubbing their hands with plenty of hangovers to be nursed at work on Monday after overindulging on Sunday. […]\nThe post WHEN SATURDAY COMES appeared first on Celtic Fanzine.",
+          "link": "https://celticfanzine.com/when-saturday-comes-2/",
+          "publishedOn": "2024-04-12T16:40:25.000Z",
+          "wordCount": 2137,
+          "title": "WHEN SATURDAY COMES",
+          "imageUrl": "https://celticfanzine.com/wp-content/uploads/st-j-pic-.png"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
