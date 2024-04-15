@@ -528,7 +528,23 @@
       "title": "eTims",
       "feedUrl": "http://etims.net/?feed=rss2",
       "siteUrl": "https://etims.net",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://etims.net/?p=18593",
+          "author": "Desi Mond",
+          "description": "Hector and Desi get together to discuss That 3-3 draw at Ibrox John Beaton The Dundee Pitch Dilemma The St Mirren 3-0 Victory The Ross…",
+          "link": "https://etims.net/?p=18593",
+          "publishedOn": "2024-04-15T21:21:53.000Z",
+          "wordCount": 2579,
+          "title": "Oh My Days – Etims Podcast",
+          "enclosure": {
+            "url": "https://api.spreaker.com/v2/episodes/59477470/download.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://etims.net/wp-content/uploads/2024/04/frims-1024x576.jpg"
+        }
+      ]
     },
     {
       "title": "The Celtic Underground",
@@ -1160,26 +1176,6 @@
           "wordCount": 1397,
           "title": "Celtic fans will love what John McGinn has said about Shunsuke Nakamura",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/02/GettyImages-1876535890-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=194425",
-          "author": "Sean Markus Clifford",
-          "description": "Celtic loanee Mikey Johnston continues to shine at West Bromwich Albion despite previously being a bit-part player at Parkhead. Joining on deadline day, the Republic...",
-          "link": "https://www.67hailhail.com/news/mikey-johnstons-form-earns-further-merited-acknowledgement-away-from-celtic/",
-          "publishedOn": "2024-04-11T09:10:00.000Z",
-          "wordCount": 1411,
-          "title": "Mikey Johnston's form earns further merited acknowledgement away from Celtic",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/03/GettyImages-2065977922-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=194419",
-          "author": "Patrick Sinat",
-          "description": "VAR has been the big headline-grabber this week after Celtic were penalised at Ibrox by the refereeing technology. There is no point picking over the...",
-          "link": "https://www.67hailhail.com/news/michael-stewart-makes-big-var-prediction-after-celtic-and-aberdeen-errors-this-week/",
-          "publishedOn": "2024-04-11T08:40:00.000Z",
-          "wordCount": 1406,
-          "title": "'Shambles': Michael Stewart makes big VAR prediction after Celtic and Aberdeen errors this week",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/02/GettyImages-1435366760-scaled.jpg"
         }
       ]
     },
