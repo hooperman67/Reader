@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-04-19T10:11:56.381Z</updated>
+    <updated>2024-04-19T12:19:19.266Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hampden is Celtic’s]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=119819</id>
+        <link href="https://www.celticquicknews.co.uk/hampden-is-celtics/"/>
+        <updated>2024-04-19T11:00:42.000Z</updated>
+        <summary type="html"><![CDATA[By any measure, Aberdeen are in miserable form.  They have not scored a goal in 192 minutes football and have won only three of 17 league games since Christmas.  In the middle of that spell, they kicked off a crisis at Celtic, when a draw at Pittodrie was one of only two from nine points [...]]]></summary>
+        <author>
+            <name>Paul67</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BEAMING BRENDAN, MIGHTY MOUSSA AND THE START OF SOMETHING SPECIAL]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=119817</id>
+        <link href="https://www.celticquicknews.co.uk/beaming-brendan-mighty-moussa-and-the-start-of-something-special/"/>
+        <updated>2024-04-19T10:22:18.000Z</updated>
+        <summary type="html"><![CDATA[BRENDAN RODGERS made his Hampden debut on the Sunday afternoon of October 23 2016 when he led Celtic in a League Cup semi-final meeting with Mark Warburton’s Ibrox team. The Hoops manager, who had succeeded Norwegian Ronny Deila five months earlier, wasn’t to know it at the time, but it was to be the start [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JOY RODGERS IN PURSUIT OF THE PERFECT TEN]]></title>
         <id>https://www.celticquicknews.co.uk/?p=119784</id>
