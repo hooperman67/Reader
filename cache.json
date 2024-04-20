@@ -254,16 +254,6 @@
           "wordCount": 4697,
           "title": "‘WHAT IS GOING ON? IT’S CRAZY,’ IDAH’S CELTIC SURPRISE",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/04/ADAM-IDAH-3-1-WELL-FEATURED.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=106445",
-          "author": "CQN Magazine",
-          "description": "THE legendary Jock Stein masterminded Celtic to his tenth title success 47 years ago today. It was also his final championship after kicking off the historic procession of nine consecutive triumphs by guiding the Hoops to a 1-0 win over Motherwell at Fir Park in May 1966. An identical scoreline against Hibs at Easter Road [...]",
-          "link": "https://www.celticquicknews.co.uk/ten-and-out-big-jocks-last-hurrah/",
-          "publishedOn": "2024-04-16T05:00:12.000Z",
-          "wordCount": 4903,
-          "title": "TEN AND OUT: BIG JOCK’S LAST HURRAH",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/04/JOCK-STEIN-KENNY-DALGLISH-EASTER-ROAD-1977-1-0-FEATURED.png"
         }
       ]
     },
@@ -531,6 +521,26 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=195075",
+          "author": "John McGinley",
+          "description": "Celtic goalkeeper Joe Hart now knows when his final professional game of football will be – the Scottish Cup Final on May 25th. Back in...",
+          "link": "https://www.67hailhail.com/news/liel-abadas-loving-joe-harts-big-celtic-day-on-instagram-as-goalkeeper-secures-firm-retirement-date/",
+          "publishedOn": "2024-04-20T17:40:58.000Z",
+          "wordCount": 1385,
+          "title": "Liel Abada's loving Joe Hart's big Celtic day on Instagram as goalkeeper secures firm retirement date",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/04/GettyImages-2149396901-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=195067",
+          "author": "John McGinley",
+          "description": "Luis Palma hasn’t been in the best of form since the winter break and it’s something he fully recognises he needs to address at Celtic....",
+          "link": "https://www.67hailhail.com/news/luis-palma-makes-candid-admission-about-his-celtic-form-on-instagram-after-semi-final-win/",
+          "publishedOn": "2024-04-20T17:10:01.000Z",
+          "wordCount": 1346,
+          "title": "Luis Palma makes candid admission about his Celtic form on Instagram after semi-final win",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/04/GettyImages-1835815931-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=195055",
           "author": "John McGinley",
