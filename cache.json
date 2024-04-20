@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=119847",
+          "author": "CQN Magazine",
+          "description": "CALLUM McGREGOR may have a question to answer at Hampden this afternoon. The Celtic skipper has not even played an hour of first-team football since being replaced at the interval in the 7-1 romp against Dundee at Parkhead on February 28. McGregor missed four consecutive games – Hearts (0-2), Livingston (4-2 and 3-0) and St Johnstone [...]",
+          "link": "https://www.celticquicknews.co.uk/mcgregor-guessing-game/",
+          "publishedOn": "2024-04-20T08:28:30.000Z",
+          "wordCount": 4275,
+          "title": "McGREGOR GUESSING GAME",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/12/CALLUM-MCGREGOR-KILLIE-FEATURED-1-2.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=119826",
           "author": "CQN Magazine",
           "description": "JOE HART has earned the privilege to take a final salute and bow out as a winner in surroundings befitting the occasion. The much-decorated Celtic goalkeeper has been the epitome of a thorough professional from day one since joining from Spurs in August 2021. The 75 times-capped England international No.1 cost a measly £1million to make [...]",
@@ -478,23 +488,7 @@
       "title": "eTims",
       "feedUrl": "http://etims.net/?feed=rss2",
       "siteUrl": "https://etims.net",
-      "articles": [
-        {
-          "id": "https://etims.net/?p=18593",
-          "author": "Desi Mond",
-          "description": "Hector and Desi get together to discuss That 3-3 draw at Ibrox John Beaton The Dundee Pitch Dilemma The St Mirren 3-0 Victory The Ross…",
-          "link": "https://etims.net/?p=18593",
-          "publishedOn": "2024-04-15T21:21:53.000Z",
-          "wordCount": 2579,
-          "title": "Oh My Days – Etims Podcast",
-          "enclosure": {
-            "url": "https://api.spreaker.com/v2/episodes/59477470/download.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": "https://etims.net/wp-content/uploads/2024/04/frims-1024x576.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "The Celtic Underground",
@@ -507,6 +501,16 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=195038",
+          "author": "John McGinley",
+          "description": "Celtic take a break from Scottish Premiership action this weekend to focus on a Hampden clash with Aberdeen as the quest for a double continues....",
+          "link": "https://www.67hailhail.com/news/chris-sutton-calls-on-3-to-now-step-up-at-celtic-and-answer-remaining-bhoys-question/",
+          "publishedOn": "2024-04-20T08:23:12.000Z",
+          "wordCount": 1452,
+          "title": "Chris Sutton calls on 3 to now step up at Celtic and answer remaining Bhoys question",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/02/GettyImages-2046430664-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=195033",
           "author": "John McGinley",
