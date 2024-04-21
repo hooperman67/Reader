@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-04-21T14:09:39.074Z</updated>
+    <updated>2024-04-21T16:13:02.268Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[IT’S DERBY DAY IN SCOTTISH CUP FINAL]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=119919</id>
+        <link href="https://www.celticquicknews.co.uk/its-derby-day-in-scottish-cup-final/"/>
+        <updated>2024-04-21T16:08:20.000Z</updated>
+        <summary type="html"><![CDATA[CELTIC will face Philippe Clement’s side in the Scottish Cup Final at Hampden on Saturday May 25. The Ibrox side booked their place in the showpiece encounter with a 2-0 win over Hearts at the national stadium this afternoon. Cyriell Dessers was his team’s main man as he claimed a goal in each half in [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Big derby Scottish Cup Final confirmed for Celtic; date, details, reaction]]></title>
+        <id>https://www.67hailhail.com/?p=195166</id>
+        <link href="https://www.67hailhail.com/news/big-derby-scottish-cup-final-confirmed-for-celtic-date-details-reaction/"/>
+        <updated>2024-04-21T15:58:44.000Z</updated>
+        <summary type="html"><![CDATA[Celtic will play Rangers in the Scottish Cup Final after the Ibrox side beat Hearts 2-0 at Hampden on Sunday. The Bhoys had already booked...]]></summary>
+        <author>
+            <name>John McGinley</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[North Curve Celtic announce big plans for Scottish Cup final]]></title>
         <id>https://www.67hailhail.com/?p=195141</id>
