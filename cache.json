@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=119917",
+          "author": "CQN Magazine",
+          "description": "ON JUNE 3 last year, celebrating Celtic players cavorted in Hampden’s summer glow following their phenomenal achievement of sealing a world record eighth domestic silverware clean sweep. Strikes from Kyogo Furuhashi, Liel Abada and Filipe Jota had just seen off the stubborn and gallant Highlanders of Inverness Caley Thistle to add the Scottish Cup to [...]",
+          "link": "https://www.celticquicknews.co.uk/alexs-angle-dead-men-walking/",
+          "publishedOn": "2024-04-21T13:14:09.000Z",
+          "wordCount": 5217,
+          "title": "ALEX’S ANGLE: DEAD MEN WALKING",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/03/ALEX-GORDON-FACEBOOK-CELTIC-TUNNEL.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=119912",
           "author": "CQN Magazine",
           "description": "THE touching and compassionate moment was missed by most in the midst of the bedlam of a rollicking Scottish Cup semi-final at a pulsating Hampden. Joe Hart had just swooped to his left to deny Aberdeen’s Killian Phillips to ensure Celtic’s 6-5 triumph in the penalty-kick shoot-out after the rousing 3-3 stalemate following extra-time. The [...]",
@@ -521,6 +531,26 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=195141",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic have booked their place in the Scottish Cup final and fans will be excited to hear of upcoming ticket sales for the showpiece occasion....",
+          "link": "https://www.67hailhail.com/news/north-curve-celtic-announce-big-plans-for-scottish-cup-final/",
+          "publishedOn": "2024-04-21T13:35:00.000Z",
+          "wordCount": 1361,
+          "title": "North Curve Celtic announce big plans for Scottish Cup final",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/12/GettyImages-1877492470-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=195136",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic goalkeeper Joe Hart enjoyed quite the day yesterday as his blockbuster penalty heroics helped the Bhoys defeat Aberdeen to reach the Scottish Cup final....",
+          "link": "https://www.67hailhail.com/news/joe-harts-overlooked-touch-of-class-you-may-have-missed-after-celtic-penalty-win/",
+          "publishedOn": "2024-04-21T13:10:00.000Z",
+          "wordCount": 1445,
+          "title": "Joe Hart's overlooked touch of class you may have missed after Celtic penalty win",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/04/GettyImages-2149399920-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=195122",
           "author": "Sean Markus Clifford",
