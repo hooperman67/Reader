@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-04-25T04:13:04.818Z</updated>
+    <updated>2024-04-25T06:14:11.372Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[THE DAY BIG JOCK BANNED A LISBON HERO]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=78851</id>
+        <link href="https://www.celticquicknews.co.uk/the-day-big-jock-banned-a-lisbon-hero/"/>
+        <updated>2024-04-25T05:00:59.000Z</updated>
+        <summary type="html"><![CDATA[ONE of the most unselfish displays by a Celtic player was witnessed live by only a handful of Hoops fans – and helped to propel the team towards legendary status in Lisbon the following month. It was April 25 1967 – exactly 57 years ago today – that Stevie Chalmers waged a one-man crusade against the [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA['I do': John Hartson thinks 'world class' Celtic player is about to be dropped for Dundee clash]]></title>
         <id>https://www.67hailhail.com/?p=195395</id>
@@ -962,26 +972,6 @@
         <link href="https://www.67hailhail.com/match/brendan-rodgers-lauds-celtics-absolutely-brilliant-game-changer-vs-aberdeen/"/>
         <updated>2024-04-20T19:10:04.000Z</updated>
         <summary type="html"><![CDATA[It could take everyone connected to Celtic – players, staff and supporters – a little while to process everything that happened in the Scottish Cup...]]></summary>
-        <author>
-            <name>John McGinley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liel Abada's loving Joe Hart's big Celtic day on Instagram as goalkeeper secures firm retirement date]]></title>
-        <id>https://www.67hailhail.com/?p=195075</id>
-        <link href="https://www.67hailhail.com/news/liel-abadas-loving-joe-harts-big-celtic-day-on-instagram-as-goalkeeper-secures-firm-retirement-date/"/>
-        <updated>2024-04-20T17:40:58.000Z</updated>
-        <summary type="html"><![CDATA[Celtic goalkeeper Joe Hart now knows when his final professional game of football will be – the Scottish Cup Final on May 25th. Back in...]]></summary>
-        <author>
-            <name>John McGinley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Luis Palma makes candid admission about his Celtic form on Instagram after semi-final win]]></title>
-        <id>https://www.67hailhail.com/?p=195067</id>
-        <link href="https://www.67hailhail.com/news/luis-palma-makes-candid-admission-about-his-celtic-form-on-instagram-after-semi-final-win/"/>
-        <updated>2024-04-20T17:10:01.000Z</updated>
-        <summary type="html"><![CDATA[Luis Palma hasn’t been in the best of form since the winter break and it’s something he fully recognises he needs to address at Celtic....]]></summary>
         <author>
             <name>John McGinley</name>
         </author>
