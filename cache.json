@@ -588,21 +588,6 @@
           "wordCount": 2562,
           "title": "The Daizen Maeda Limerick Competition",
           "imageUrl": "https://etims.net/wp-content/uploads/2024/04/lim4.png"
-        },
-        {
-          "id": "https://etims.net/?p=18598",
-          "author": "Desi Mond",
-          "description": "Hector, Monty ( and 2 bottles of vino) and Desi get together to discuss That Mad Semi Final last weekend The Return of Match Tension!…",
-          "link": "https://etims.net/?p=18598",
-          "publishedOn": "2024-04-26T20:23:29.000Z",
-          "wordCount": 2593,
-          "title": "Maeda the Miracle Man – Etims Podcast",
-          "enclosure": {
-            "url": "https://api.spreaker.com/v2/episodes/59669616/download.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": "https://etims.net/wp-content/uploads/2024/04/meada.png"
         }
       ]
     },
@@ -617,6 +602,36 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=195879",
+          "author": "Patrick Sinat",
+          "description": "With the title race grabbing all of Celtic’s attention at the moment, planning for next season will also be gnawing away at Brendan Rodgers. What...",
+          "link": "https://www.67hailhail.com/transfers/john-hartson-tells-celtic-to-go-and-buy-powerful-striker-for-5m/",
+          "publishedOn": "2024-05-01T09:40:00.000Z",
+          "wordCount": 1455,
+          "title": "'If Celtic can get him': John Hartson tells Brendan Rodgers to go and buy ‘powerful’ striker for £5m",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/04/GettyImages-1267004353-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=195877",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic have had some outstanding goalkeepers over the years who have built the foundation for trophy-laden success at Parkhead. Fraser Forster is the perfect embodiment...",
+          "link": "https://www.67hailhail.com/news/fraser-forster-tells-ben-foster-what-he-loved-so-much-about-celtic/",
+          "publishedOn": "2024-05-01T09:10:00.000Z",
+          "wordCount": 1644,
+          "title": "Fraser Forster tells Ben Foster what he loved so much about Celtic",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/10/GettyImages-1209711853-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=195865",
+          "author": "Patrick Sinat",
+          "description": "Martin O’Neill has named one season at Celtic as his most memorable and best at the club. The Irishman took over Celtic in 2000 as...",
+          "link": "https://www.67hailhail.com/news/martin-oneill-names-iconic-season-as-his-most-amazing-at-celtic/",
+          "publishedOn": "2024-05-01T08:40:00.000Z",
+          "wordCount": 1355,
+          "title": "‘Was absolutely fantastic’: Martin O’Neill names iconic season as his most ‘amazing’ at Celtic",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/06/GettyImages-1493714541-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=195872",
           "author": "Sean Markus Clifford",
