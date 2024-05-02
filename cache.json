@@ -624,13 +624,34 @@
       "title": "The Celtic Underground",
       "feedUrl": "http://celticunderground.net/feed/",
       "siteUrl": "http://celticunderground.net",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://celticunderground.net/?p=6768",
+          "author": "Harry Brady",
+          "description": "Sometimes you need to blow your own trumpet and it is with great pride that we write today to confirm that highly respected football writer Andrew H Smith is leaving the world of broadsheet journalism and joining The Celtic Underground.",
+          "link": "http://celticunderground.net/h-steps-into-the-celtic-underground/",
+          "publishedOn": "2024-05-02T13:03:31.000Z",
+          "wordCount": 9554,
+          "title": "H Steps into The Celtic Underground",
+          "imageUrl": "http://celticunderground.net/wp-content/uploads/2020/04/Screen-Shot-2020-04-13-at-00.54.48.png"
+        }
+      ]
     },
     {
       "title": "67 Hail Hail",
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=195985",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic boss Brendan Rodgers’ first port of call this summer will be to install a new number-one goalkeeper at Parkhead. Former England international Joe Hart...",
+          "link": "https://www.67hailhail.com/transfers/who-is-viljami-sinisalo-what-you-need-to-know-about-latest-celtic-target/",
+          "publishedOn": "2024-05-02T13:18:00.000Z",
+          "wordCount": 1402,
+          "title": "Celtic now have 'incredible' stopper on radar to replace Joe Hart after stellar loan stint",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2021/06/GettyImages-1271474787-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=195972",
           "author": "Sean Markus Clifford",
