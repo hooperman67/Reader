@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=120322",
+          "author": "CQN Magazine",
+          "description": "CELTIC go into Saturday’s derby at Parkhead with a three-point advantage after an eventful weekend. The champions took care of business with their 3-0 triumph over Hearts in Glasgow yesterday with Kyogo Furuhashi (2) and Matt O’Riley (pen) on target. All eyes were on Ibrox this afternoon and Philippe Clement’s side overcame a Kilmarnock team [...]",
+          "link": "https://www.celticquicknews.co.uk/confirmed-celtics-title-task/",
+          "publishedOn": "2024-05-05T14:22:17.000Z",
+          "wordCount": 3805,
+          "title": "CONFIRMED: CELTIC’S TITLE TASK",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/05/JAMES-TAVERNIER-OWN-GOAL-FEATURED.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=120318",
           "author": "CQN Magazine",
           "description": "THE Celtic fans gave a rousing reception of “Super Joe” in recognition of the departing keeper’s vital contribution to the champions’ 3-0 victory over Hearts at Parkhead yesterday. Joe Hart, with just four games left before quitting the club in the summer, pulled off a stunning one-handed save to deny Cammy Devlin the equaliser after [...]",
@@ -602,6 +612,46 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=196243",
+          "author": "Patrick Sinat",
+          "description": "With Celtic still in command at the top of the table and in the Scottish Cup Final, there is still plenty to play for in...",
+          "link": "https://www.67hailhail.com/news/steve-clarke-told-he-must-take-celtic-bright-spark-to-the-euros-with-scotland/",
+          "publishedOn": "2024-05-05T16:10:00.000Z",
+          "wordCount": 1478,
+          "title": "'Right up that street': Steve Clarke told to take Celtic 'bright spark' to the Euros with Scotland",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2021/03/GettyImages-867439164-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=196279",
+          "author": "John McGinley",
+          "description": "Philippe Clement has responded to Brendan Rodgers’ comments about having “fun” next weekend when Celtic take on Rangers in the last league derby of the...",
+          "link": "https://www.67hailhail.com/news/rodgers-has-got-under-his-skin-chris-sutton-responds-to-philippe-clements-latest-celtic-comments/",
+          "publishedOn": "2024-05-05T15:14:34.000Z",
+          "wordCount": 1329,
+          "title": "\"Brendan has got under his skin\"; Chris Sutton responds to Philippe Clement's latest Celtic comments",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/05/GettyImages-2149528472-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=196255",
+          "author": "Patrick Sinat",
+          "description": "Celtic’s win over Hearts was probably the best performance of the season from Brendan Rodgers’s side so far. Three goals and a clean sheet is...",
+          "link": "https://www.67hailhail.com/news/why-lawrence-shankland-wasnt-sent-off-for-his-handball-against-celtic/",
+          "publishedOn": "2024-05-05T14:40:00.000Z",
+          "wordCount": 1323,
+          "title": "Why Lawrence Shankland wasn't sent off for his handball against Celtic",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/05/GettyImages-1435370250-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=196247",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic cemented their credentials as potential title victors following an excellent 3-0 victory over Heart of Midlothian yesterday. On a day when Parkhead rocked from...",
+          "link": "https://www.67hailhail.com/news/celtic-unity-taylor-pokes-fun-bhoys-release-unique-angle-footage-vs-hearts/",
+          "publishedOn": "2024-05-05T14:10:00.000Z",
+          "wordCount": 1416,
+          "title": "Celtic unity, Taylor pokes fun... Bhoys release unique angle footage vs Hearts",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/05/GettyImages-2149402346-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=196233",
           "author": "Sean Markus Clifford",
