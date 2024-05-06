@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=120365",
+          "author": "Paul67",
+          "description": "After a bizarre opening period, which saw Hearts pass through Celtic with ease and create good chances, but also say Kyogo open the scoring, Celtic hit their best form of the season.  Their speed of passing and thought was better than I remember in well over a year. Kyogo’s third season has not been as [...]",
+          "link": "https://www.celticquicknews.co.uk/cast-of-thousands-lift-celtic-to-victory/",
+          "publishedOn": "2024-05-06T17:17:39.000Z",
+          "wordCount": 4540,
+          "title": "Cast of Thousands lift Celtic to victory",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=120358",
           "author": "CQN Magazine",
           "description": "I HAD formed the impression that Philippe Clement’s idea of fun would be to sit in a puddle, discussing the complete works of Tolstoy with his imaginary friend Hercule while listening to Leonard Cohen’s classic album ‘Songs For The Suicidal‘. The po-faced Belgian led me to believe his mirth bypass had been a complete success. Turns [...]",
@@ -294,26 +304,6 @@
           "wordCount": 4392,
           "title": "ALEX’S ANGLE: SHOCK MOVE FOR CELTIC KID – READ ALL ABOUT IT",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/03/ALEX-GORDON-FACEBOOK-CELTIC-TUNNEL.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=120208",
-          "author": "CQN Magazine",
-          "description": "JAMES FORREST led from the front as he inspired Celtic to a crucial 2-1 triumph over Dundee at Dens Park at the weekend. The 32-year-old winger’s double salvo – with the ferocious first-time drive from the edge of the box particularly memorable – will almost certainly prove to be a massive contribution to the champions’ quest [...]",
-          "link": "https://www.celticquicknews.co.uk/forrest-vs-forrest/",
-          "publishedOn": "2024-05-02T05:00:46.000Z",
-          "wordCount": 3794,
-          "title": "FORREST vs FORREST",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/05/JAMES-FORREST-V-ALAN-FORREST.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=120207",
-          "author": "CQN Magazine",
-          "description": "CELTIC loan flop Nat Phillips admits he faces an uncertain future as he heads for football limbo. The 27-year-old centre-back saw any hopes of an extension at Parkhead come to an abrupt and dismal end with a howler of an own goal in the shock 2-1 loss against Kilmarnock at Rugby Park on December 10. With [...]",
-          "link": "https://www.celticquicknews.co.uk/celtic-loan-flop-in-limbo/",
-          "publishedOn": "2024-05-02T04:30:02.000Z",
-          "wordCount": 4000,
-          "title": "CELTIC LOAN FLOP IN LIMBO",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/12/NAT-PHILLIPS-KILLPE-FEATURRED.png"
         }
       ]
     },
@@ -592,6 +582,46 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=196120",
+          "author": "John McGinley",
+          "description": "Young Celtic striker Johnny Kenny has hit form in the League of Ireland Premier Division after scoring more goals for Shamrock Rovers over the bank...",
+          "link": "https://www.67hailhail.com/news/celtic-striker-hits-form-with-6-goals-in-his-last-9-matches-out-on-loan/",
+          "publishedOn": "2024-05-06T18:10:00.000Z",
+          "wordCount": 1322,
+          "title": "Celtic striker hits form with 6 goals in his last 9 matches out on loan",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/05/GettyImages-2151180688-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=196251",
+          "author": "Patrick Sinat",
+          "description": "BBC pundit, Stephen Craigan, has been lavishing praise on one Celtic player he believes teams in Scotland hate playing against. Right through the spine of...",
+          "link": "https://www.67hailhail.com/news/stephen-craigan-says-celtic-have-a-player-that-just-frightens-the-life-out-of-defenders/",
+          "publishedOn": "2024-05-06T17:40:00.000Z",
+          "wordCount": 1353,
+          "title": "'Frightens the life out of defenders': Stephen Craigan says Celtic have a player teams hate playing against",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/02/GettyImages-1249619244-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=196348",
+          "author": "John McGinley",
+          "description": "Despite Sky Sports signing a deal with the SPFL to broadcast Scottish Premiership games until 2029, the TV landscape could soon change for Celtic and...",
+          "link": "https://www.67hailhail.com/news/spfl-field-new-broadcast-bids-with-celtic-set-for-more-money-and-tv-time/",
+          "publishedOn": "2024-05-06T17:11:21.000Z",
+          "wordCount": 1573,
+          "title": "SPFL field new broadcast bids with Celtic set for more money and TV time",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/12/GettyImages-1242220983-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=196344",
+          "author": "John McGinley",
+          "description": "In 2024, footballers must make many sacrifices to be professionals at the top level. The game has changed massively over the last couple of decades,...",
+          "link": "https://www.67hailhail.com/news/greg-taylor-lauds-celtic-teammates-unbelievable-behind-the-scenes-work-at-lennoxtown/",
+          "publishedOn": "2024-05-06T16:34:22.000Z",
+          "wordCount": 1404,
+          "title": "Greg Taylor lauds Celtic teammate's 'unbelievable' behind-the-scenes work at Lennoxtown",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/12/GettyImages-1722517830-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=196317",
           "author": "Patrick Sinat",
@@ -1311,16 +1341,6 @@
           "wordCount": 1347,
           "title": "Report: Norwich City tell Celtic how much they will really need to pay to buy Adam Idah",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/02/GettyImages-1993551788-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=195948",
-          "author": "Sean Markus Clifford",
-          "description": "Celtic’s recruitment record in the last two windows has yielded a varying degree of success regarding their acquisitions. Luis Palma and Paulo Bernardo have both...",
-          "link": "https://www.67hailhail.com/news/john-hartson-tells-celtic-what-needs-to-happen-in-the-summer-transfer-window/",
-          "publishedOn": "2024-05-02T06:10:00.000Z",
-          "wordCount": 1511,
-          "title": "John Hartson tells Celtic what needs to happen in the summer transfer window",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/04/GettyImages-2149398982-scaled.jpg"
         }
       ]
     },
