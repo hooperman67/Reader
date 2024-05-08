@@ -6,6 +6,26 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=120391",
+          "author": "CQN Magazine",
+          "description": "FRANK McAVENNIE believes Philippe Clement could be a dead man walking if he doesn’t manage to get the upperhand on Brendan Rodgers. The managers will go head to head for the third time at Parkhead on Saturday where a win for the hosts will almost certainly lead Celtic to their third successive title. The Belgian [...]",
+          "link": "https://www.celticquicknews.co.uk/losing-the-plot-pressure-builds-on-clement/",
+          "publishedOn": "2024-05-08T07:28:50.000Z",
+          "wordCount": 3828,
+          "title": "‘LOSING THE PLOT,’ PRESSURE BUILDS ON CLEMENT",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/04/PHILIPPE-CLEMENT-ROSS-CO-3.png"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/?p=120388",
+          "author": "CQN Magazine",
+          "description": "IT LOOKS as though Brendan Rodgers has a straight choice between two players to see who starts on the right wing against Philippe Clement’s Ibrox side at Parkhead on Saturday. The Celtic manager knows he MUST get it right straight from the kick-off in the derby encounter where a victory will give the champions a [...]",
+          "link": "https://www.celticquicknews.co.uk/rodgers-40m-dilemma/",
+          "publishedOn": "2024-05-08T06:22:25.000Z",
+          "wordCount": 4051,
+          "title": "RODGERS’ £40m DILEMMA",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/05/BRENDAN-RODGERS-HEAD-DENS-PARK-HH-FEATURED.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=77535",
           "author": "CQN Magazine",
           "description": "CELTIC remained on course for a record-equalling nine-in-a-row title achievement during Ronny Deila’s two-season reign at Parkhead on this date eight years ago. The virtually unknown Norwegian replaced Neil Lennon in the summer of 2014 after the Hoops had lifted the championship in the previous three campaigns. Deila kept the sequence going in his debut [...]",
@@ -521,6 +541,36 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=196455",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic boss Brendan Rodgers will have designs on strengthening his squad this summer following a rollercoaster campaign back at Parkhead. Firstly, the Irishman will prioritise...",
+          "link": "https://www.67hailhail.com/transfers/celtic-alerted-to-progress-of-exciting-scottish-prospect-english-duo-also-keen/",
+          "publishedOn": "2024-05-08T08:10:00.000Z",
+          "wordCount": 1425,
+          "title": "Celtic 'alerted' to progress of exciting Scottish prospect, English duo also keen",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/05/GettyImages-2151407654-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=196448",
+          "author": "Patrick Sinat",
+          "description": "The Celtic fans will be looking ahead to the Glasgow Derby against Rangers with a sense of excitement, nerves and confidence. It’s probably the only...",
+          "link": "https://www.67hailhail.com/news/chris-sutton-says-unbelievable-celtic-player-has-to-start-vs-rangers-after-his-recent-form/",
+          "publishedOn": "2024-05-08T07:40:00.000Z",
+          "wordCount": 1462,
+          "title": "'Has to start': Chris Sutton suggests Brendan Rodgers needs to play 'unbelievable' Celtic player vs Rangers",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/05/GettyImages-2149401034-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=196445",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic are looking for an advantageous result against Rangers this weekend, which would bring their dreams of a domestic double closer to reality. The Bhoys...",
+          "link": "https://www.67hailhail.com/news/charlie-mulgrew-shares-how-he-thinks-celtic-will-internally-approach-glasgow-derby/",
+          "publishedOn": "2024-05-08T07:10:00.000Z",
+          "wordCount": 1575,
+          "title": "Charlie Mulgrew shares how he thinks Celtic will internally approach Glasgow Derby",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/05/GettyImages-2089231209-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=196442",
           "author": "Sean Markus Clifford",
@@ -1230,16 +1280,6 @@
           "wordCount": 1363,
           "title": "Celtic injury update, team news and Predicted XI for crucial Hearts clash",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/04/GettyImages-2074090290-1-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=196063",
-          "author": "John McGinley",
-          "description": "It’s fair to say that sections of the Celtic support have had a difficult relationship with the club this season but, with just a handful...",
-          "link": "https://www.67hailhail.com/news/brendan-rodgers-has-a-request-for-the-celtic-fans-that-will-help-bhoys-against-hearts/",
-          "publishedOn": "2024-05-03T18:35:41.000Z",
-          "wordCount": 1440,
-          "title": "Brendan Rodgers has a request for the Celtic fans that will help Bhoys against Hearts",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/04/GettyImages-2073406729-scaled.jpg"
         }
       ]
     },
