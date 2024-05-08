@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-05-08T04:11:32.655Z</updated>
+    <updated>2024-05-08T06:13:09.578Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TITLE FEVER: RONNY’S ROLLERCOASTER]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=77535</id>
+        <link href="https://www.celticquicknews.co.uk/title-fever-ronnys-rollercoaster/"/>
+        <updated>2024-05-08T05:00:15.000Z</updated>
+        <summary type="html"><![CDATA[CELTIC remained on course for a record-equalling nine-in-a-row title achievement during Ronny Deila’s two-season reign at Parkhead on this date eight years ago. The virtually unknown Norwegian replaced Neil Lennon in the summer of 2014 after the Hoops had lifted the championship in the previous three campaigns. Deila kept the sequence going in his debut [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Charlie Mulgrew says potential Celtic starter could offer Rodgers 'great lift' vs Rangers]]></title>
         <id>https://www.67hailhail.com/?p=196442</id>
@@ -962,26 +972,6 @@
         <link href="https://www.67hailhail.com/news/brendan-rodgers-has-a-request-for-the-celtic-fans-that-will-help-bhoys-against-hearts/"/>
         <updated>2024-05-03T18:35:41.000Z</updated>
         <summary type="html"><![CDATA[It’s fair to say that sections of the Celtic support have had a difficult relationship with the club this season but, with just a handful...]]></summary>
-        <author>
-            <name>John McGinley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic star Matt O'Riley shows his true class in the local Glasgow community]]></title>
-        <id>https://www.67hailhail.com/?p=196059</id>
-        <link href="https://www.67hailhail.com/news/celtic-star-matt-oriley-shows-his-true-class-in-the-local-glasgow-community/"/>
-        <updated>2024-05-03T17:53:13.000Z</updated>
-        <summary type="html"><![CDATA[Celtic hero Matt O’Riley has shown he can give back to the local community by volunteering with the Glasgow Children’s Hospital. O’Riley has been a...]]></summary>
-        <author>
-            <name>John McGinley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scottish FA set to bring in referee outsider after season of complaints from Celtic and others]]></title>
-        <id>https://www.67hailhail.com/?p=196052</id>
-        <link href="https://www.67hailhail.com/news/scottish-fa-set-to-bring-in-referee-outsider-after-season-of-complaints-from-celtic-and-others/"/>
-        <updated>2024-05-03T16:55:02.000Z</updated>
-        <summary type="html"><![CDATA[It’s been a pretty abysmal season when it comes to refereeing decisions in the Scottish Premiership, which Celtic know as well as anyone. So much...]]></summary>
         <author>
             <name>John McGinley</name>
         </author>
