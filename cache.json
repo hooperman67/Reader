@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=120419",
+          "author": "CQN Magazine",
+          "description": "CELTIC’S goalkeeping talent-spotters don’t have a particularly good track record in recent years. If you were rating the efforts of these headhunters between one and ten they would be doing well to get zero. Who gave the green light for the Hoops hierarchy to spend £4.5million on Vasilis Barkas from AEK Athens in the desperate summer [...]",
+          "link": "https://www.celticquicknews.co.uk/alexs-angle-begovic-bunkum-and-kelly-claptrap-as-celtic-search-for-a-hero/",
+          "publishedOn": "2024-05-09T06:43:16.000Z",
+          "wordCount": 4251,
+          "title": "ALEX’S ANGLE: BEGOVIC BUNKUM AND KELLY CLAPTRAP AS CELTIC SEARCH FOR A HERO",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/03/ALEX-GORDON-FACEBOOK-CELTIC-TUNNEL.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=120400",
           "author": "CQN Magazine",
           "description": "JOE HART got off to the worst possible start in his introduction to the Glasgow derby in only his third Premiership appearance for Celtic. The 75 times-capped England international keeper joined the Ange Postecoglou revolution when he signed in August 2021 from Spurs for a bargain £1million. Hart went straight into the first team after [...]",
@@ -501,6 +511,46 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=196543",
+          "author": "John McGinley",
+          "description": "Tottenham Hotspur Ange Postecoglou doesn’t forget where he’s worked or who he’s worked with and this weekend he’ll be cheering on former Celtic coach Harry...",
+          "link": "https://www.67hailhail.com/news/ange-postecoglous-class-message-to-former-celtic-coach-harry-kewell-ahead-of-historic-fixture/",
+          "publishedOn": "2024-05-09T08:10:00.000Z",
+          "wordCount": 1366,
+          "title": "Ange Postecoglou's class message to former Celtic colleague Harry Kewell ahead of historic fixture",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/05/GettyImages-1441808177-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=196507",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic fans will be nervously anticipating the arrival of Saturday’s Glasgow Derby against Rangers, which could have major ramifications regarding the Scottish Premiership title race....",
+          "link": "https://www.67hailhail.com/news/brendan-rodgers-tells-the-celtic-support-what-his-side-need-to-thrive-in-glasgow-derby/",
+          "publishedOn": "2024-05-09T07:40:00.000Z",
+          "wordCount": 1477,
+          "title": "Brendan Rodgers tells the Celtic support what his side ‘need’ to thrive in Glasgow Derby",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/02/GettyImages-1965028441-1-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=196526",
+          "author": "John McGinley",
+          "description": "The return of Brendan Rodgers to Celtic heightened expectations of strong player recruitment, with the belief that the manager would be heavily backed in the...",
+          "link": "https://www.67hailhail.com/transfers/the-6-celtic-priorities-in-upcoming-transfer-window-after-recent-recruitment-hire/",
+          "publishedOn": "2024-05-09T07:10:30.000Z",
+          "wordCount": 1482,
+          "title": "The 6 Celtic priorities in upcoming transfer window after recent recruitment hire",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/12/GettyImages-1761971878-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=196524",
+          "author": "Patrick Sinat",
+          "description": "With Celtic preparing to face Rangers this weekend, most of the headlines have been dominated with the build-up to the big Glasgow Derby. However, Brendan...",
+          "link": "https://www.67hailhail.com/news/celtic-eye-international-joe-hart-replacement-he-could-be-free-this-summer/",
+          "publishedOn": "2024-05-09T06:41:31.000Z",
+          "wordCount": 1344,
+          "title": "Report: Celtic eye international Joe Hart replacement, he could be free this summer",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/04/GettyImages-2149396901-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=196518",
           "author": "John McGinley",
@@ -1280,16 +1330,6 @@
           "wordCount": 1393,
           "title": "Celtic hero Greg Taylor picks his \"clear winner\" for Player of the Year in Scotland",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/05/GettyImages-1562737252-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=196150",
-          "author": "John McGinley",
-          "description": "Brendan Rodgers sounds like one of the happiest men in Scotland tonight after watching his combative Celtic team show up Hearts with a 3-0 victory....",
-          "link": "https://www.67hailhail.com/news/brendan-rodgers-receives-callum-mcgregor-message-loud-and-clear-after-class-celtic-moment-vs-hearts/",
-          "publishedOn": "2024-05-04T18:30:30.000Z",
-          "wordCount": 1496,
-          "title": "\"That was enough for me\"; Brendan Rodgers picks out class Celtic moment vs Hearts that tells him everything",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/05/GettyImages-2151441470-scaled.jpg"
         }
       ]
     },
