@@ -6,6 +6,26 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=120400",
+          "author": "CQN Magazine",
+          "description": "JOE HART got off to the worst possible start in his introduction to the Glasgow derby in only his third Premiership appearance for Celtic. The 75 times-capped England international keeper joined the Ange Postecoglou revolution when he signed in August 2021 from Spurs for a bargain £1million. Hart went straight into the first team after [...]",
+          "link": "https://www.celticquicknews.co.uk/harts-paradise-target/",
+          "publishedOn": "2024-05-09T05:00:12.000Z",
+          "wordCount": 3740,
+          "title": "HART’S PARADISE TARGET",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/01/JOE-HART-STM-FEATURED-HHH.png"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/?p=120393",
+          "author": "CQN Magazine",
+          "description": "THE last time Celtic faced Philippe Clement’s Ibrox side at Parkhead Paulo Bernardo was a smash-hit success. The on-loan Benfica midfielder fired a spectacular volley beyond the desperately-diving Jack Butland to give Celtic a first-half advantage that paved the way for the hosts’ crucial 2-1 victory on December 30. Bernardo made a cameo appearance as [...]",
+          "link": "https://www.celticquicknews.co.uk/paulo-bernardo-the-6-3m-question/",
+          "publishedOn": "2024-05-09T04:30:28.000Z",
+          "wordCount": 3897,
+          "title": "PAULO BERNARDO: THE £6.3m QUESTION",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/04/PAULO-BERNARDO-YELLS-FEATURED.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=120401",
           "author": "CQN Magazine",
           "description": "IT HAS taken Brendan Rodgers until the third last league game of the season to be in a position to deliver an astonishing admission. As he prepares for the fourth derby since his return in the summer, the Celtic boss insisted: “This will be the best version of the team that I’ve had since I’ve been [...]",
@@ -481,6 +501,16 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=196518",
+          "author": "John McGinley",
+          "description": "Celtic are putting the pieces together to overhaul their recruitment and scouting set-up behind the scenes ahead of the summer transfer window. Earlier this year...",
+          "link": "https://www.67hailhail.com/news/celtic-make-backroom-staff-appointment-highly-rated-by-brendan-rodgers/",
+          "publishedOn": "2024-05-09T06:08:28.000Z",
+          "wordCount": 1272,
+          "title": "Celtic make backroom staff appointment 'highly rated' by Brendan Rodgers",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/03/GettyImages-2074090290-1-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=196499",
           "author": "Sean Markus Clifford",
@@ -1260,36 +1290,6 @@
           "wordCount": 1496,
           "title": "\"That was enough for me\"; Brendan Rodgers picks out class Celtic moment vs Hearts that tells him everything",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/05/GettyImages-2151441470-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=196144",
-          "author": "John McGinley",
-          "description": "He may not hit the headlines as a goalscorer but Joe Hart was undoubtedly one of the heroes of Celtic’s 3-0 victory over Hearts on...",
-          "link": "https://www.67hailhail.com/match/joe-harts-superb-post-match-response-to-celtic-fans-after-bhoys-show-up-hearts/",
-          "publishedOn": "2024-05-04T17:48:52.000Z",
-          "wordCount": 1396,
-          "title": "Joe Hart's superb post-match response to 'electric' Celtic fans after Bhoys show up Hearts",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/05/GettyImages-2149396925-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=196139",
-          "author": "John McGinley",
-          "description": "Hearts have enjoyed a couple of good days against Celtic in the Scottish Premiership this season but this afternoon was not one of them. The...",
-          "link": "https://www.67hailhail.com/match/biggest-difference-gutted-hearts-boss-steven-naismith-delivers-verdict-on-what-he-witnessed-from-celtic/",
-          "publishedOn": "2024-05-04T17:17:09.000Z",
-          "wordCount": 1461,
-          "title": "\"Biggest difference\"; Gutted Steven Naismith delivers verdict on what he witnessed from Celtic",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/05/GettyImages-2151424193-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=196131",
-          "author": "John McGinley",
-          "description": "Brendan Rodgers has been giving his reaction to today’s thumping 3-0 Celtic win over Hearts in the Scottish Premiership. Kyogo Furuhashi got the scoring underway...",
-          "link": "https://www.67hailhail.com/match/brendan-rodgers-reacts-to-fiery-celtic-park-atmosphere-in-big-win-over-hearts-talks-rangers-derby/",
-          "publishedOn": "2024-05-04T16:36:06.000Z",
-          "wordCount": 1483,
-          "title": "Brendan Rodgers reacts to fiery Celtic Park atmosphere in big win over Hearts, talks Rangers derby",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/05/GettyImages-2089231209-scaled.jpg"
         }
       ]
     },
