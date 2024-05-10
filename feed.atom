@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-05-10T04:12:58.859Z</updated>
+    <updated>2024-05-10T06:14:17.130Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The only change Brendan Rodgers needs to make to his Celtic team vs Rangers]]></title>
+        <id>https://www.67hailhail.com/?p=196621</id>
+        <link href="https://www.67hailhail.com/opinion/the-only-change-brendan-rodgers-needs-to-make-to-his-celtic-team-vs-rangers/"/>
+        <updated>2024-05-10T06:10:00.000Z</updated>
+        <summary type="html"><![CDATA[The big derby day is nearly upon us. Celtic face off against Rangers on Saturday knowing a victory will put them on the brink of...]]></summary>
+        <author>
+            <name>John McGinley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CELTIC LEGEND’S LAST HURRAH ON DAY OF SHAME]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=72424</id>
+        <link href="https://www.celticquicknews.co.uk/celtic-legends-last-hurrah-on-day-of-shame/"/>
+        <updated>2024-05-10T05:00:11.000Z</updated>
+        <summary type="html"><![CDATA[BOBBY LENNOX bowed out of football when he brought his phenomenal 20 years, 273 goals and 26 honours for Celtic to a halt exactly FORTY-FOUR years ago today. The Lisbon Lion, at the age of 36, brought down the curtain with a Scottish Cup winner’s medal as is befitting such an iconic and enduring fans’ [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TITLE FEVER: TALISMAN PATSY LEADS WAY TO FLAG No.15]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=79215</id>
+        <link href="https://www.celticquicknews.co.uk/title-fever-talisman-patsy-leads-way-to-flag-no-15/"/>
+        <updated>2024-05-10T04:30:22.000Z</updated>
+        <summary type="html"><![CDATA[TRIUMPHANT Celtic – with a little assistance from peerless Patsy Gallacher – lifted their fifteenth title on this day on May 10 1919 when they overcame Ayr United 2-0 at Somerset Park. Club stalwarts Andy McAtee and Adam McLean were the marksmen as the Parkhead side edged the championship by a point from Rangers. The [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘Fantastic’: Simon Donnelly shares one thing that Celtic did in Hearts win that will help beat Rangers]]></title>
         <id>https://www.67hailhail.com/?p=196598</id>
@@ -984,46 +1014,6 @@
         <summary type="html"><![CDATA[Celtic are currently locked in big title race with Rangers but plans are already underway to address squad weaknesses this summer With three Scottish Premiership...]]></summary>
         <author>
             <name>Sean Markus Clifford</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Six final third passes, six recoveries... Celtic key man excelled vs Hearts yesterday]]></title>
-        <id>https://www.67hailhail.com/?p=196264</id>
-        <link href="https://www.67hailhail.com/news/liam-scales-caps-fine-week-following-celtic-contract-renewal-with-solid-display-vs-hearts/"/>
-        <updated>2024-05-05T18:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Celtic defender Liam Scales is loving life at Parkhead after renewing his contract at the club earlier this week. The Republic of Ireland international has...]]></summary>
-        <author>
-            <name>Sean Markus Clifford</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pundit explains why key Celtic man is 'standing out' again under Brendan Rodgers]]></title>
-        <id>https://www.67hailhail.com/?p=196285</id>
-        <link href="https://www.67hailhail.com/news/pundit-explains-why-matt-oriley-is-standing-out-for-celtic-again-under-brendan-rodgers/"/>
-        <updated>2024-05-05T17:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Celtic midfielder Matt O’Riley put in a show-stopping performance as his side saw off Heart of Midlothian yesterday afternoon. Per Fotmob, the Denmark international earned...]]></summary>
-        <author>
-            <name>Sean Markus Clifford</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Really at it': Chris Sutton says Celtic man who wasn't 'quite right' looked back to his best vs Hearts]]></title>
-        <id>https://www.67hailhail.com/?p=196236</id>
-        <link href="https://www.67hailhail.com/news/chris-sutton-says-celtic-man-who-wasnt-quite-right-looked-back-to-his-best-vs-hearts/"/>
-        <updated>2024-05-05T17:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Celtic really are hitting a rich vein of form at just the right time this season. With just three games left of the season to...]]></summary>
-        <author>
-            <name>Patrick Sinat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Reliably informed': Celtic will need to pay more than £5m for reported transfer target]]></title>
-        <id>https://www.67hailhail.com/?p=196240</id>
-        <link href="https://www.67hailhail.com/news/reliably-informed-celtic-will-need-to-pay-more-than-5m-for-reported-transfer-target/"/>
-        <updated>2024-05-05T16:40:00.000Z</updated>
-        <summary type="html"><![CDATA[With Celtic looking to close the season with a league and Scottish Cup double, the fans will be hoping that on top of that, preparations...]]></summary>
-        <author>
-            <name>Patrick Sinat</name>
         </author>
     </entry>
     <entry>
