@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=120510",
+          "author": "CQN Magazine",
+          "description": "SURELY, dear reader, it will not have escaped your attention that Celtic have led 2-0 on three separate occasions in the last three derby encounters. Nor will it have done any of our central nervous systems any favours that Brendan Rodgers’ players have had to hang on to see out the remaining minutes of these [...]",
+          "link": "https://www.celticquicknews.co.uk/alexs-angle-margins-for-concern/",
+          "publishedOn": "2024-05-13T10:05:13.000Z",
+          "wordCount": 4750,
+          "title": "ALEX’S ANGLE: MARGINS FOR CONCERN",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/03/ALEX-GORDON-FACEBOOK-CELTIC-TUNNEL.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=120508",
           "author": "CQN Magazine",
           "description": "BRENDAN RODGERS accepted the applause of 60,000 joyous Celtic supporters at a rocking Parkhead on Saturday in the afterglow of a vital 2-1 triumph over Ibrox opposition. The victory – the Irishman’s third in the derby duels this season – propelled the champions to within one point of their third successive title with only two games [...]",
@@ -537,6 +547,26 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=196870",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic hold a commanding six-point lead at the top of the Scottish Premiership as they look to force the title over the line this week....",
+          "link": "https://www.67hailhail.com/news/ally-mccoist-admits-one-celtic-player-is-really-outstanding-after-win-over-rangers/",
+          "publishedOn": "2024-05-13T09:10:00.000Z",
+          "wordCount": 1560,
+          "title": "Ally McCoist admits one Celtic player is 'really outstanding' after win over Rangers",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/01/GettyImages-1676988267-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=196864",
+          "author": "Sean Markus Clifford",
+          "description": "Brendan Rodgers has Celtic on the brink of securing the Scottish Premiership title after a rollercoaster first campaign back in Glasgow’s east end. The Irishman...",
+          "link": "https://www.67hailhail.com/news/paul-lambert-explains-what-he-really-thought-about-brendan-rodgers-returning-to-celtic/",
+          "publishedOn": "2024-05-13T08:40:00.000Z",
+          "wordCount": 1550,
+          "title": "Paul Lambert explains what he really thought about Brendan Rodgers returning to Celtic",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/05/GettyImages-2152462563-3-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=196860",
           "author": "Patrick Sinat",
