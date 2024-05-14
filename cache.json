@@ -254,16 +254,6 @@
           "wordCount": 5166,
           "title": "Wings, engine room, set plays, getting over the line",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=120437",
-          "author": "CQN Magazine",
-          "description": "SIX Rangers managers have suffered the curse of Brendan Rodgers during the Irishman’s two stints as Celtic boss. Philippe Clement became the latest to sample defeat against the Hoops gaffer when his unbeaten domestic run came to a halt at Parkhead on December 30 last year. Strikes from Paulo Bernardo and Kyogo Furuhashi fired the hosts [...]",
-          "link": "https://www.celticquicknews.co.uk/rodgers-curse-on-ibrox-rivals/",
-          "publishedOn": "2024-05-10T08:53:14.000Z",
-          "wordCount": 3941,
-          "title": "RODGERS CURSE ON IBROX RIVALS",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/04/BRENDAN-RODGERS-DENS-PARKH-FEATURED.png"
         }
       ]
     },
@@ -519,6 +509,21 @@
       "feedUrl": "http://etims.net/?feed=rss2",
       "siteUrl": "https://etims.net",
       "articles": [
+        {
+          "id": "https://etims.net/?p=18626",
+          "author": "Desi Mond",
+          "description": "Hector, Ralph, Monty and Desi get together to discuss The Rangers Victory and all the key moments, before, during and afterwards The POTY Awards and…",
+          "link": "https://etims.net/?p=18626",
+          "publishedOn": "2024-05-14T21:56:18.000Z",
+          "wordCount": 2542,
+          "title": "Touching Distance – ETims Podcast",
+          "enclosure": {
+            "url": "https://api.spreaker.com/v2/episodes/60034652/download.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://etims.net/wp-content/uploads/2024/05/madea.png"
+        },
         {
           "id": "https://etims.net/?p=18620",
           "author": "Desi Mond",
@@ -1376,26 +1381,6 @@
           "wordCount": 1288,
           "title": "Odsonne Edouard sends Celtic message ahead of Glasgow return",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/02/GettyImages-952656532-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=196639",
-          "author": "John McGinley",
-          "description": "Philippe Clement looked a calm and collected figure in Scottish football at the start of his managerial reign at Rangers but Chris Sutton reckons Celtic...",
-          "link": "https://www.67hailhail.com/news/clement-has-now-been-suckered-into-glasgow-chris-sutton-goes-in-on-celtic-vs-rangers-pressure/",
-          "publishedOn": "2024-05-10T10:03:00.000Z",
-          "wordCount": 1461,
-          "title": "\"Clement has now been suckered into Glasgow\"; Chris Sutton goes in on Celtic vs Rangers pressure",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/05/GettyImages-2151954508-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=196635",
-          "author": "John McGinley",
-          "description": "Celtic earned more than £30m in UEFA TV money alone during the 2023/24 season, despite finishing bottom of their Champions League group. Brendan Rodgers’ Bhoys...",
-          "link": "https://www.67hailhail.com/news/the-full-breakdown-of-celtics-2023-24-uefa-champions-league-tv-money-where-it-ranks-in-europe/",
-          "publishedOn": "2024-05-10T09:15:35.000Z",
-          "wordCount": 1482,
-          "title": "The full breakdown of Celtic's 2023/24 UEFA Champions League TV money; where it ranks in Europe",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/08/GettyImages-1417978166-scaled.jpg"
         }
       ]
     },

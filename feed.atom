@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-05-14T20:12:55.523Z</updated>
+    <updated>2024-05-14T22:11:04.236Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Touching Distance – ETims Podcast]]></title>
+        <id>https://etims.net/?p=18626</id>
+        <link href="https://etims.net/?p=18626"/>
+        <updated>2024-05-14T21:56:18.000Z</updated>
+        <summary type="html"><![CDATA[Hector, Ralph, Monty and Desi get together to discuss The Rangers Victory and all the key moments, before, during and afterwards The POTY Awards and…]]></summary>
+        <author>
+            <name>Desi Mond</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘Doesn't get a lot of credit’: Mark Wilson says Celtic man has been really under-appreciated this season]]></title>
         <id>https://www.67hailhail.com/?p=197014</id>
@@ -1094,36 +1104,6 @@
         <summary type="html"><![CDATA[Odsonne Edouard is returning to Glasgow this weekend to be part of Celtic’s Player of the Year celebrations at the Hydro. The Bhoys made that...]]></summary>
         <author>
             <name>John McGinley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Clement has now been suckered into Glasgow"; Chris Sutton goes in on Celtic vs Rangers pressure]]></title>
-        <id>https://www.67hailhail.com/?p=196639</id>
-        <link href="https://www.67hailhail.com/news/clement-has-now-been-suckered-into-glasgow-chris-sutton-goes-in-on-celtic-vs-rangers-pressure/"/>
-        <updated>2024-05-10T10:03:00.000Z</updated>
-        <summary type="html"><![CDATA[Philippe Clement looked a calm and collected figure in Scottish football at the start of his managerial reign at Rangers but Chris Sutton reckons Celtic...]]></summary>
-        <author>
-            <name>John McGinley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The full breakdown of Celtic's 2023/24 UEFA Champions League TV money; where it ranks in Europe]]></title>
-        <id>https://www.67hailhail.com/?p=196635</id>
-        <link href="https://www.67hailhail.com/news/the-full-breakdown-of-celtics-2023-24-uefa-champions-league-tv-money-where-it-ranks-in-europe/"/>
-        <updated>2024-05-10T09:15:35.000Z</updated>
-        <summary type="html"><![CDATA[Celtic earned more than £30m in UEFA TV money alone during the 2023/24 season, despite finishing bottom of their Champions League group. Brendan Rodgers’ Bhoys...]]></summary>
-        <author>
-            <name>John McGinley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RODGERS CURSE ON IBROX RIVALS]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=120437</id>
-        <link href="https://www.celticquicknews.co.uk/rodgers-curse-on-ibrox-rivals/"/>
-        <updated>2024-05-10T08:53:14.000Z</updated>
-        <summary type="html"><![CDATA[SIX Rangers managers have suffered the curse of Brendan Rodgers during the Irishman’s two stints as Celtic boss. Philippe Clement became the latest to sample defeat against the Hoops gaffer when his unbeaten domestic run came to a halt at Parkhead on December 30 last year. Strikes from Paulo Bernardo and Kyogo Furuhashi fired the hosts [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
         </author>
     </entry>
     <entry>
