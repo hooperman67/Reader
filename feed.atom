@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-05-19T18:13:30.736Z</updated>
+    <updated>2024-05-19T20:12:21.126Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA['A real decision'': Chris Sutton says Brendan Rodgers has a hard choice to make ahead of Celtic's cup final]]></title>
+        <id>https://www.67hailhail.com/?p=197504</id>
+        <link href="https://www.67hailhail.com/news/chris-sutton-tells-brendan-rodgers-a-real-decision-must-be-made-for-celtics-scottish-cup-final/"/>
+        <updated>2024-05-19T20:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Now that the league title race is over and Celtic have been crowned champions, the fans will now look ahead to next week’s Scottish Cup...]]></summary>
+        <author>
+            <name>Patrick Sinat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pat Bonner urges Brendan Rodgers to complete deal for 'excellent' striker at Celtic]]></title>
+        <id>https://www.67hailhail.com/?p=197518</id>
+        <link href="https://www.67hailhail.com/news/pat-bonner-urges-brendan-rodgers-to-complete-deal-for-excellent-striker-at-celtic/"/>
+        <updated>2024-05-19T19:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Celtic boss Brendan Rodgers has decisions to make this summer as the Irishman looks to build on winning the Scottish Premiership title. For now, celebrations...]]></summary>
+        <author>
+            <name>Sean Markus Clifford</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic reportedly eyeing Premier League goalkeeper to replace Joe Hart]]></title>
+        <id>https://www.67hailhail.com/?p=197479</id>
+        <link href="https://www.67hailhail.com/transfers/celtic-reportedly-eyeing-goalkeeper-with-premier-league-experience-to-replace-joe-hart/"/>
+        <updated>2024-05-19T18:40:00.000Z</updated>
+        <summary type="html"><![CDATA[The latest name in a long line of Celtic goalkeeper targets has come to light as a potential replacement for Joe Hart. There has been...]]></summary>
+        <author>
+            <name>Sean Markus Clifford</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Callum McGregor explains how Celtic blocked out external noise to win the league title]]></title>
         <id>https://www.67hailhail.com/?p=197529</id>
@@ -1144,66 +1174,6 @@
         <summary type="html"><![CDATA[Kilmarnock manager Derek McInnes has a clear idea of how his players will approach Celtic’s potential season-defining clash at Rugby Park this evening. The Bhoys...]]></summary>
         <author>
             <name>Sean Markus Clifford</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brendan Rodgers given 'big credit' for helping talented player thrive at Celtic]]></title>
-        <id>https://www.67hailhail.com/?p=197071</id>
-        <link href="https://www.67hailhail.com/news/brendan-rodgers-given-glowing-praise-for-helping-talented-player-thrive-at-celtic/"/>
-        <updated>2024-05-15T08:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Celtic boss Brendan Rodgers has helped several of his first-team players reach new heights during his second spell at Parkhead. Matt O’Riley has come on...]]></summary>
-        <author>
-            <name>Sean Markus Clifford</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘ELEVEN STUD MARKS ON MY LEG – YOU CAN COUNT THEM,’ JOHNSTON]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=120578</id>
-        <link href="https://www.celticquicknews.co.uk/eleven-stud-marks-on-my-leg-you-can-count-them-johnston/"/>
-        <updated>2024-05-15T07:43:50.000Z</updated>
-        <summary type="html"><![CDATA[ALISTAIR JOHNSTON feared he might be forced to miss Celtic’s glory run-in to the season after being crocked in the crucial 2-1 derby triumph at Parkhead at the weekend. The Canadian World Cup right-back revealed how he suffered a swollen ankle, a bloody gash and ELEVEN stud marks on his leg following John Lundstram’s x-certificate lunge just before [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘Unbelievable’: Alistair Johnston says Celtic teammate’s cameo vs Rangers was brilliant]]></title>
-        <id>https://www.67hailhail.com/?p=197058</id>
-        <link href="https://www.67hailhail.com/news/alistair-johnston-says-celtic-teammates-cameo-in-win-over-rangers-was-unbelievable/"/>
-        <updated>2024-05-15T07:40:00.000Z</updated>
-        <summary type="html"><![CDATA[As the build-up to the Kilmarnock game continues, the win over Rangers was still on the mind of Celtic defender, Alistair Johnston. The Canadian was...]]></summary>
-        <author>
-            <name>Patrick Sinat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BRENDAN DELIVERS O’RILEY MESSAGE]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=120577</id>
-        <link href="https://www.celticquicknews.co.uk/brendan-delivers-oriley-message/"/>
-        <updated>2024-05-15T07:06:21.000Z</updated>
-        <summary type="html"><![CDATA[CELTIC do NOT need to sell in-demand midfield mastermind Matt O’Riley in the summer. The London-born Danish international playmaker, who cost a bargain £1.5million from English third-tier club MK Dons in January 2022, has been linked with a big-money exit from the champions. La Liga giants Atletico Madrid failed in a bid to sign O’Riley [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Kept telling me': Alistair Johnston shares what the doctors said after John Lundstram’s tackle at Celtic Park]]></title>
-        <id>https://www.67hailhail.com/?p=197053</id>
-        <link href="https://www.67hailhail.com/news/alistair-johnston-shares-what-the-doctors-told-him-after-john-lundstrams-tackle-in-celtic-vs-rangers/"/>
-        <updated>2024-05-15T06:40:00.000Z</updated>
-        <summary type="html"><![CDATA[As Celtic prepare for a potential title-clinching fixture against Kilmarnock tonight, Alistair Johnston shared how he was feeling after John Lundstram’s tackle in the Glasgow...]]></summary>
-        <author>
-            <name>Patrick Sinat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘WELL UNDERWAY,’ RODGERS PLANS SIGNING SPREE]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=120574</id>
-        <link href="https://www.celticquicknews.co.uk/well-underway-rodgers-plans-signing-spree/"/>
-        <updated>2024-05-15T06:36:12.000Z</updated>
-        <summary type="html"><![CDATA[BRENDAN RODGERS is planning a summer signing spree to strengthen Celtic. The champions are on the cusp of their third successive title as they look for at least one point against Kilmarnock at Rugby Park tonight to make absolutely certain. The Hoops can seal a league and Cup double in the second coming of the Irishman [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
         </author>
     </entry>
     <entry>
