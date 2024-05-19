@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-05-19T04:13:46.621Z</updated>
+    <updated>2024-05-19T06:14:02.283Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[LISBON REWIND: DAY FOUR: JIMMY JOHNSTONE’S STORY]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=79433</id>
+        <link href="https://www.celticquicknews.co.uk/lisbon-rewind-day-four-jimmy-johnstones-story/"/>
+        <updated>2024-05-19T05:00:05.000Z</updated>
+        <summary type="html"><![CDATA[ON May 25 1967 in the Portuguese capital of Lisbon, Celtic became the first British club to conquer Europe. Over the next few days, in another CQN EXCLUSIVE series, the unforgettable achievement is chronicled as Jock Stein’s side edged through the elite competition to come within ninety minutes of everlasting glory. Today, author Alex Gordon, [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chris Sutton and Neil Lennon explain why Celtic now have a great chance to "really bury Rangers"]]></title>
         <id>https://www.67hailhail.com/?p=197403</id>
@@ -1052,46 +1062,6 @@
         <link href="https://www.67hailhail.com/news/former-sfa-referee-says-kenny-miller-has-said-something-about-celtic-which-is-completely-indefensible/"/>
         <updated>2024-05-14T18:40:00.000Z</updated>
         <summary type="html"><![CDATA[Celtic fans can always rely on a Glasgow Derby to generate some controversy and headlines long after the game has ended. Defeating Rangers on Saturday...]]></summary>
-        <author>
-            <name>Patrick Sinat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The reality for Rangers up against Celtic this summer after Philippe Clement 'gap' comments]]></title>
-        <id>https://www.67hailhail.com/?p=197022</id>
-        <link href="https://www.67hailhail.com/news/the-reality-for-rangers-up-against-celtic-this-summer-after-philippe-clement-gap-comments/"/>
-        <updated>2024-05-14T18:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Celtic are in a position to enjoy a successful end to the campaign providing they can take a point from their last two Scottish Premiership...]]></summary>
-        <author>
-            <name>Sean Markus Clifford</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘You’re miles out’: Chris Sutton sets BBC pundit’s claim about Brendan Rodgers and the Celtic support straight]]></title>
-        <id>https://www.67hailhail.com/?p=197011</id>
-        <link href="https://www.67hailhail.com/news/chris-sutton-says-bbc-pundit-is-miles-out-after-his-claim-about-brendan-rodgers-and-the-celtic-support/"/>
-        <updated>2024-05-14T17:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Brendan Rodgers’ return to Celtic certainly raised some eyebrows across the football punditry world and across the Parkhead support. When Ange Postecoglou departed for Tottenham...]]></summary>
-        <author>
-            <name>Patrick Sinat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brendan Rodgers reacts to key Glasgow Derby flashpoint, offers fitness update on Celtic player]]></title>
-        <id>https://www.67hailhail.com/?p=197040</id>
-        <link href="https://www.67hailhail.com/news/brendan-rodgers-reacts-to-key-glasgow-derby-flashpoint-offers-fitness-update-on-celtic-player/"/>
-        <updated>2024-05-14T17:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Brendan Rodgers has been reacting to John Lundstram’s red card during Celtic’s victory over Rangers last weekend in his pre-match press conference ahead of his...]]></summary>
-        <author>
-            <name>Sean Markus Clifford</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['I think': Mark Guidi believes he knows what Brendan Rodgers has had to slowly do behind the scenes at Celtic]]></title>
-        <id>https://www.67hailhail.com/?p=196995</id>
-        <link href="https://www.67hailhail.com/news/mark-guidi-thinks-he-knows-what-brendan-rodgers-has-had-to-slowly-do-behind-the-scenes-at-celtic/"/>
-        <updated>2024-05-14T16:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Brendan Rodgers has had a lot to deal with in the first season of his second tenure at Celtic Park. The Hoops boss has had...]]></summary>
         <author>
             <name>Patrick Sinat</name>
         </author>
