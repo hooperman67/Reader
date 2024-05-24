@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-05-24T08:14:20.216Z</updated>
+    <updated>2024-05-24T10:11:52.012Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[KYOGO SNUB]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=121006</id>
+        <link href="https://www.celticquicknews.co.uk/kyogo-snub/"/>
+        <updated>2024-05-24T09:12:00.000Z</updated>
+        <summary type="html"><![CDATA[CELTIC striker Kyogo Furuhashi has been snubbed by Japan ahead of next month’s World Cup double-header. The pacy Hoops hitman will miss his nation’s qualifiers against Myanmar a week on Thursday and Syria five days later after being overlooked by manager Hajime Moriyasu. However, Kyogo’s team-mates Reo Hatate and Daizen Maeda have both received call-ups [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic Predicted XI vs Rangers with Brendan Rodgers ready to make 5 changes for Scottish Cup Final]]></title>
         <id>https://www.67hailhail.com/?p=197906</id>
