@@ -6,6 +6,56 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=120955",
+          "author": "CQN Magazine",
+          "description": "BRENDAN RODGERS is planning to celebrate his fourth win of the season over Rangers in the Scottish Cup Final at Hampden tomorrow afternoon. The Celtic boss is unbeaten after the Premiership programme with three victories and a draw as he guided the Hoops to their third successive title with an eight-point advantage over their Ibrox [...]",
+          "link": "https://www.celticquicknews.co.uk/rodgers-v-rangers-part-nine/",
+          "publishedOn": "2024-05-24T06:00:30.000Z",
+          "wordCount": 4219,
+          "title": "RODGERS v RANGERS: Part Nine",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/05/BRENDAN-RODGERS-HAPPPPY-FEATURED.png"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/?p=120956",
+          "author": "CQN Magazine",
+          "description": "FLAMBOYANT Filipe Jota struck with a superb header to give Celtic a 1-0 Scottish Cup semi-final triumph over their Ibrox foes at Hampden on April 30 2023. The goal won the Hoops a place in the showpiece encounter against Inverness Caley Thistle in June. The title was already within the grasp of Ange Postecoglou’s men with [...]",
+          "link": "https://www.celticquicknews.co.uk/cup-countdown-jota-joy-as-celtic-head-for-history/",
+          "publishedOn": "2024-05-24T05:45:03.000Z",
+          "wordCount": 3922,
+          "title": "CUP COUNTDOWN: JOTA JOY AS HOOPS HEAD FOR HISTORY",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/05/FILIPE-JOTA-HEADER-.png"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/?p=120967",
+          "author": "CQN Magazine",
+          "description": "JOCK STEIN and his Celtic players were not impressed when the bookies installed Rangers as favourites to win the Scottish Cup before the age-old rivals met in the Hampden showdown on Saturday April 26 1969. The Hoops had already claimed their fourth successive title on their way to their first nine in a row plus [...]",
+          "link": "https://www.celticquicknews.co.uk/cup-countdown-fourmidable-as-celtic-rout-rangers/",
+          "publishedOn": "2024-05-24T05:30:44.000Z",
+          "wordCount": 3782,
+          "title": "CUP COUNTDOWN: FOURMIDABLE AS CELTIC ROUT RANGERS",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/05/BILLY-MCNEILL-JOHN-GREIG-FEATURED.png"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/?p=79554",
+          "author": "CQN Magazine",
+          "description": "ON May 25 1967 in the Portuguese capital of Lisbon, Celtic became the first British club to conquer Europe. CQN’S EXCLUSIVE series will reach its spectacular conclusion tomorrow on the FIFTY-SEVENTH landmark year of the historic triumph of Jock Stein’s All-Stars. Today, author Alex Gordon, who has written fifteen Celtic books, including ‘Lisbon Lions: 40th [...]",
+          "link": "https://www.celticquicknews.co.uk/lisbon-rewind-day-nine-stevie-chalmers-story/",
+          "publishedOn": "2024-05-24T05:10:52.000Z",
+          "wordCount": 5114,
+          "title": "LISBON REWIND: DAY NINE: STEVIE CHALMERS’ STORY",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2021/05/STEVIE-CHALMERS-FEATURED-FF.jpg"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/?p=107923",
+          "author": "CQN Magazine",
+          "description": "CELTIC came so close to their second European trophy when they played Jose Mourinho’s Porto in the UEFA Cup Final in Seville 21 years ago this week. It was fated Martin O’Neill’s team of All-Stars, with Henrik Larsson leading the way, would suffer a glorious failure when their 10 men, minues red-carded Bobo Balde, lost [...]",
+          "link": "https://www.celticquicknews.co.uk/smiles-amid-the-sorrow-the-road-to-seville-part-four/",
+          "publishedOn": "2024-05-24T04:30:27.000Z",
+          "wordCount": 5045,
+          "title": "SMILES AMID THE SORROW: THE ROAD TO SEVILLE: Part Four",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/05/HENRIK-LARSSON-BOAVISTA-FEATURED-HHH.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=120951",
           "author": "Paul67",
           "description": "Scottish football is in a situation where a group of professional clubs issued a statement insisting the need to have a grass pitch in the top flight is “creating huge financial entry barriers to the top league”. Four lower league clubs who currently have artificial pitches, Falkirk, Hamilton Accies, Raith Rovers and Queen of the [...]",
@@ -702,6 +752,16 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=197914",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic captain Callum McGregor is in the mood to do battle with Rangers this Saturday as his side bid to win a domestic double. The...",
+          "link": "https://www.67hailhail.com/news/callum-mcgregors-message-regarding-what-will-get-celtic-over-the-line-in-scottish-cup-final/",
+          "publishedOn": "2024-05-24T05:10:00.000Z",
+          "wordCount": 1389,
+          "title": "Callum McGregor’s message regarding what will get Celtic over the line in Scottish Cup final",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/05/GettyImages-2152449109-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=197883",
           "author": "Sean Markus Clifford",
@@ -1531,46 +1591,6 @@
           "wordCount": 1373,
           "title": "Celtic reportedly eyeing Premier League goalkeeper to replace Joe Hart",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/05/GettyImages-2151942094-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=197529",
-          "author": "Sean Markus Clifford",
-          "description": "Celtic are Scottish Premiership champions and have once again proven their worth as the best footballing side in the country. At times this season, Brendan...",
-          "link": "https://www.67hailhail.com/news/callum-mcgregor-explains-how-celtic-blocked-out-external-noise-to-win-the-league-title/",
-          "publishedOn": "2024-05-19T18:10:00.000Z",
-          "wordCount": 1519,
-          "title": "Callum McGregor explains how Celtic blocked out external noise to win the league title",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/05/GettyImages-2153535445-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=197508",
-          "author": "Patrick Sinat",
-          "description": "Away from the title celebrations and the build-up to Celtic’s Scottish Cup final for a second, the transfer of Liel Abada to Charlotte FC is...",
-          "link": "https://www.67hailhail.com/news/charlotte-fc-technical-director-shares-what-celtic-fans-told-him-during-the-purchase-of-liel-abada/",
-          "publishedOn": "2024-05-19T17:40:00.000Z",
-          "wordCount": 1393,
-          "title": "'Messaging me': Charlotte FC Technical Director shares what Celtic fans' said during Liel Abada's exit",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/03/GettyImages-1571575487-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=197496",
-          "author": "Sean Markus Clifford",
-          "description": "Celtic fans will be enjoying a relaxed Sunday after seeing their side lift the Scottish Premiership trophy yesterday following a 3-2 win over St Mirren....",
-          "link": "https://www.67hailhail.com/opinion/100-dribble-completion-shooting-prowess-rodgers-call-pays-off-as-celtic-defeat-st-mirren/",
-          "publishedOn": "2024-05-19T17:10:00.000Z",
-          "wordCount": 1382,
-          "title": "100% dribble completion, shooting prowess... Rodgers call pays off as Celtic defeat St Mirren",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/05/GettyImages-2153543354-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=197476",
-          "author": "Patrick Sinat",
-          "description": "Now that the Scottish Premiership title is sitting nicely in the Celtic Park trophy cabinet, all attention now turns to next weekend. The build-up to...",
-          "link": "https://www.67hailhail.com/news/chris-sutton-delivers-his-scottish-cup-final-prediction-after-watching-celtics-title-party/",
-          "publishedOn": "2024-05-19T16:40:00.000Z",
-          "wordCount": 1366,
-          "title": "Chris Sutton delivers his Scottish Cup final prediction after watching Celtic's title party",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/09/GettyImages-1469729815-scaled.jpg"
         }
       ]
     },
