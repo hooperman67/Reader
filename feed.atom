@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-05-24T18:14:39.036Z</updated>
+    <updated>2024-05-24T20:11:48.086Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Callum McGregor shares how Celtic dressing room feel about Rangers final and Joe Hart's last game]]></title>
+        <id>https://www.67hailhail.com/?p=197902</id>
+        <link href="https://www.67hailhail.com/news/callum-mcgregor-shares-how-celtic-dressing-room-feel-about-rangers-final-and-joe-harts-last-game/"/>
+        <updated>2024-05-24T18:18:06.000Z</updated>
+        <summary type="html"><![CDATA["We understand that is there in the background"]]></summary>
+        <author>
+            <name>John McGinley</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic's reported goalkeeper plan after Joe Hart retirement]]></title>
         <id>https://www.67hailhail.com/?p=197953</id>
@@ -1324,66 +1334,6 @@ The post Deadline Day appeared first on Celtic Fanzine.]]></summary>
         <link href="https://www.67hailhail.com/news/pat-bonner-urges-teams-in-scotland-to-sign-celtic-player-who-is-on-decent-money/"/>
         <updated>2024-05-20T08:40:00.000Z</updated>
         <summary type="html"><![CDATA[Now that Celtic have won the Scottish Premiership title, as well as next weekend’s Scottish Cup final, the fans will be looking forward to a...]]></summary>
-        <author>
-            <name>Patrick Sinat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Joe Hart replies to brilliant Scott Bain Instagram message ahead of retirement at Celtic]]></title>
-        <id>https://www.67hailhail.com/?p=197565</id>
-        <link href="https://www.67hailhail.com/news/joe-hart-replies-to-brilliant-scott-bain-instagram-message-ahead-of-retirement-at-celtic/"/>
-        <updated>2024-05-20T08:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Celtic goalkeeper Joe Hart will be widely missed when he retires from football at the end of the current campaign. Now, into the final week...]]></summary>
-        <author>
-            <name>Sean Markus Clifford</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jack Butland shares how he really feels about Celtic winning the league]]></title>
-        <id>https://www.67hailhail.com/?p=197550</id>
-        <link href="https://www.67hailhail.com/news/jack-butland-admits-his-true-feelings-on-celtic-winning-the-league/"/>
-        <updated>2024-05-20T07:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Celtic’s title win was celebrated long into the weekend after Brendan Rodgers sealed his third title as the manager and the club’s third in a...]]></summary>
-        <author>
-            <name>Patrick Sinat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RODGERS v RANGERS: Part Two]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=111476</id>
-        <link href="https://www.celticquicknews.co.uk/rodgers-v-rangers-part-two/"/>
-        <updated>2024-05-20T07:18:26.000Z</updated>
-        <summary type="html"><![CDATA[BRENDAN RODGERS is preparing Celtic for Saturday’s Scottish Cup Final against Philippe Clement’s Ibrox side at Hampden. It will be the Irishman’s fifth derby encounter since returning to the champions in June last year. Rodgers has won three and drawn the other all-Glasgow duel – victory snatched by a stoppage-time equaliser – as he gets [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Michael Stewart's verdict on the Celtic financial reality and potential summer budget]]></title>
-        <id>https://www.67hailhail.com/?p=197544</id>
-        <link href="https://www.67hailhail.com/news/michael-stewarts-verdict-on-the-celtic-financial-reality-and-potential-summer-budget/"/>
-        <updated>2024-05-20T07:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Celtic should have considerable ammunition heading into the summer transfer window under Brendan Rodgers. Financially, the Scottish Premiership champions will benefit significantly after securing entry...]]></summary>
-        <author>
-            <name>Sean Markus Clifford</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RODGERS v RANGERS: DERBY DEBUT RAMPAGE: Part One]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=111451</id>
-        <link href="https://www.celticquicknews.co.uk/rodgers-v-rangers-derby-debut-rampage-part-one/"/>
-        <updated>2024-05-20T07:00:43.000Z</updated>
-        <summary type="html"><![CDATA[BRENDAN RODGERS is preparing for his fifth derby encounter since his return to Celtic when he leads the champions to Hampden for Saturday’s Scottish Cup Final showpiece against Philippe Clement’s Ibrox outfit. The Irishman has enjoyed three wins and a draw in the previous meetings and got his second coming off to a perfect start in [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘Hilarious’: Jeff Stelling reacts as Ally McCoist explains ‘brilliant’ Trophy Day celebration at Celtic Park]]></title>
-        <id>https://www.67hailhail.com/?p=197555</id>
-        <link href="https://www.67hailhail.com/news/jeff-stelling-reacts-as-ally-mccoist-explains-brilliant-trophy-day-celebration-at-celtic-park/"/>
-        <updated>2024-05-20T06:44:29.000Z</updated>
-        <summary type="html"><![CDATA[Celtic’s Trophy Day celebrations have created a lot of special memories for the fans, the players and especially for Brendan Rodgers. The Celtic manager’s first...]]></summary>
         <author>
             <name>Patrick Sinat</name>
         </author>
