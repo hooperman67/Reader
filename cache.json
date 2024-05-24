@@ -444,16 +444,6 @@
           "wordCount": 5896,
           "title": "1000 actions in League Winning Machine",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=120874",
-          "author": "CQN Magazine",
-          "description": "STUART ARMSTRONG, one of the Celtic Invincibles, is heading for soccer limbo. The 32-year-old midfielder, who quit the champions in a £7million switch to Southampton in July 2018, is out of contract next month. Russell Martin, boss of the south coast club, insists there will be no new deals discussed until after the weekend’s Championship [...]",
-          "link": "https://www.celticquicknews.co.uk/celtic-invincible-in-limbo/",
-          "publishedOn": "2024-05-20T10:04:15.000Z",
-          "wordCount": 3678,
-          "title": "CELTIC INVINCIBLE IN LIMBO",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/01/STUART-ARMSTRONG-FEATURED-FAFAF.png"
         }
       ]
     },
@@ -708,7 +698,23 @@
       "title": "eTims",
       "feedUrl": "http://etims.net/?feed=rss2",
       "siteUrl": "https://etims.net",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://etims.net/?p=18632",
+          "author": "Desi Mond",
+          "description": "Hector, Desi and Monty get together to discuss many things including: Last weeks impressive Title winning race across the line! Idah making an Impression at…",
+          "link": "https://etims.net/?p=18632",
+          "publishedOn": "2024-05-24T21:00:33.000Z",
+          "wordCount": 2586,
+          "title": "The ‘A’ Game – Etims Podcast",
+          "enclosure": {
+            "url": "https://api.spreaker.com/v2/episodes/60165832/download.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://etims.net/wp-content/uploads/2024/05/The-A-Game-Align-People_b0464c6958b2ce61ced917e5958dc330-1024x576.jpg"
+        }
+      ]
     },
     {
       "title": "The Celtic Underground",
@@ -1561,26 +1567,6 @@
           "wordCount": 1771,
           "title": "Celtic and the goalkeeper transfer option that could be staring them in the face",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/10/GettyImages-1189543344-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=197574",
-          "author": "Sean Markus Clifford",
-          "description": "Celtic defender Liam Scales has come a long way this season as his side bid to win a league and cup double under Brendan Rodgers....",
-          "link": "https://www.67hailhail.com/news/liam-scales-on-the-full-circle-moment-that-has-fuelled-his-motivation-to-win-double-with-celtic/",
-          "publishedOn": "2024-05-20T09:10:00.000Z",
-          "wordCount": 1578,
-          "title": "Liam Scales on the full circle moment that has fuelled his motivation to win double with Celtic",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/11/GettyImages-1818993451-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=197567",
-          "author": "Patrick Sinat",
-          "description": "Now that Celtic have won the Scottish Premiership title, as well as next weekend’s Scottish Cup final, the fans will be looking forward to a...",
-          "link": "https://www.67hailhail.com/news/pat-bonner-urges-teams-in-scotland-to-sign-celtic-player-who-is-on-decent-money/",
-          "publishedOn": "2024-05-20T08:40:00.000Z",
-          "wordCount": 1490,
-          "title": "‘If I was a manager’: Pat Bonner urges teams in Scotland to sign Celtic player who’s on ‘decent money’",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/03/GettyImages-1258849620-scaled.jpg"
         }
       ]
     },
