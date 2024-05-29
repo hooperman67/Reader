@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-05-29T18:14:07.165Z</updated>
+    <updated>2024-05-29T20:12:11.815Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[‘The British press’: Jack Hendry namechecks Celtic to stave off criticism for Saudi Arabia move]]></title>
+        <id>https://www.67hailhail.com/?p=198318</id>
+        <link href="https://www.67hailhail.com/news/jack-hendry-namechecks-celtic-to-explain-his-move-to-saudi-arabia/"/>
+        <updated>2024-05-29T18:40:00.000Z</updated>
+        <summary type="html"><![CDATA[The rise of the Saudi Arabian league is one that has intrigued the Celtic support of late. Losing Jota last summer in a £25m move...]]></summary>
+        <author>
+            <name>Patrick Sinat</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA['He's been a giant': Callum McGregor says Celtic made a signing three years ago who has been 'huge' for them]]></title>
         <id>https://www.67hailhail.com/?p=198313</id>
@@ -952,16 +962,6 @@
         <link href="https://www.celticquicknews.co.uk/alexs-angle-have-a-heart-celtic-its-showtime/"/>
         <updated>2024-05-25T09:47:13.000Z</updated>
         <summary type="html"><![CDATA[IT’S SHOWTIME in the showpiece and if Brendan and the Bhoys could spare a thought for your humble scribe’s old ticker and get the job done nice and early I would be much obliged. I’m sure you would, too, dear reader. It’s a Scottish Cup Final coming together of the Glasgow foes at a capacity [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CLEMENT ON COURSE FOR DISASTER, RECKONS HOOPS HERO]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=121024</id>
-        <link href="https://www.celticquicknews.co.uk/clement-on-course-for-disaster-reckons-hoops-hero/"/>
-        <updated>2024-05-25T06:41:53.000Z</updated>
-        <summary type="html"><![CDATA[CHRIS SUTTON reckons Philippe Clement is facing DISASTROUS consequences if he fails for a fourth time to outwit Brendan Rodgers when the managers go head to head in the Scottish Cup Final at Hampden this afternoon. The Belgian boss was lauded by many observers after taking over from the floundering Michael Beale at Ibrox in mid-October. Clement suffered [...]]]></summary>
         <author>
             <name>CQN Magazine</name>
         </author>
