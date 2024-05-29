@@ -718,23 +718,7 @@
       "title": "eTims",
       "feedUrl": "http://etims.net/?feed=rss2",
       "siteUrl": "https://etims.net",
-      "articles": [
-        {
-          "id": "https://etims.net/?p=18632",
-          "author": "Desi Mond",
-          "description": "Hector, Desi and Monty get together to discuss many things including: Last weeks impressive Title winning race across the line! Idah making an Impression at…",
-          "link": "https://etims.net/?p=18632",
-          "publishedOn": "2024-05-24T21:00:33.000Z",
-          "wordCount": 2586,
-          "title": "The ‘A’ Game – Etims Podcast",
-          "enclosure": {
-            "url": "https://api.spreaker.com/v2/episodes/60165832/download.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": "https://etims.net/wp-content/uploads/2024/05/The-A-Game-Align-People_b0464c6958b2ce61ced917e5958dc330-1024x576.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "The Celtic Underground",
@@ -747,6 +731,16 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=198292",
+          "author": "Patrick Sinat",
+          "description": "With the close season now in full swing, the Celtic fans’ full attention will now be on watching their heroes continue their stories with their...",
+          "link": "https://www.67hailhail.com/news/inconsistent-celtic-star-gets-called-up-to-world-cup-qualifying-squad-after-winning-the-double/",
+          "publishedOn": "2024-05-29T08:41:33.000Z",
+          "wordCount": 1447,
+          "title": "'Inconsistent’ Celtic star gets called up to World Cup qualifying squad after winning the double",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/04/GettyImages-1835815931-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=198276",
           "author": "Sean Markus Clifford",
