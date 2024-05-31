@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-05-31T12:20:43.506Z</updated>
+    <updated>2024-05-31T14:10:10.304Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Clearing up Scott Bain's contract situation at Celtic]]></title>
+        <id>https://www.67hailhail.com/?p=198465</id>
+        <link href="https://www.67hailhail.com/news/clearing-up-scott-bains-contract-situation-at-celtic/"/>
+        <updated>2024-05-31T13:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Celtic goalkeeper Scott Bain has spent most of his prime years in Glasgow since joining the club back in 2018 from Dundee. Initially, he arrived...]]></summary>
+        <author>
+            <name>Sean Markus Clifford</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SPFL approve rule change that will please Brendan Rodgers and Celtic]]></title>
+        <id>https://www.67hailhail.com/?p=198475</id>
+        <link href="https://www.67hailhail.com/news/celtic-and-brendan-rodgers-will-be-pleased-as-spfl-release-statement-on-pitch-ruling/"/>
+        <updated>2024-05-31T12:39:04.000Z</updated>
+        <summary type="html"><![CDATA[Artificial pitches are being phased out in the Scottish Premiership]]></summary>
+        <author>
+            <name>John McGinley</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The three results that defined Celtic's Scottish Premiership title triumph]]></title>
         <id>https://www.67hailhail.com/?p=198461</id>
