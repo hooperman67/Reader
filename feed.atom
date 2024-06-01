@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-06-01T12:19:29.718Z</updated>
+    <updated>2024-06-01T14:10:27.198Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic double hero makes surprise visit to New York Celtic Supporters Club]]></title>
+        <id>https://www.67hailhail.com/?p=198580</id>
+        <link href="https://www.67hailhail.com/news/paulo-bernardo-makes-surprise-visit-to-new-york-celtic-supporters-club/"/>
+        <updated>2024-06-01T13:31:39.000Z</updated>
+        <summary type="html"><![CDATA[Echoes of Jota!]]></summary>
+        <author>
+            <name>John McGinley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chris Sutton delivers verdict on the Kyogo Furuhashi rumours he's hearing at Celtic]]></title>
+        <id>https://www.67hailhail.com/?p=198573</id>
+        <link href="https://www.67hailhail.com/news/chris-sutton-delivers-verdict-on-the-kyogo-furuhashi-rumours-hes-hearing-at-celtic/"/>
+        <updated>2024-06-01T12:48:27.000Z</updated>
+        <summary type="html"><![CDATA["Celtic should be looking to keep their big players for the Champions League – not selling them."]]></summary>
+        <author>
+            <name>John McGinley</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The latest on Daniel Kelly's Celtic contract talks as cash-rich clubs circle with much bigger wages]]></title>
         <id>https://www.67hailhail.com/?p=198568</id>
