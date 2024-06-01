@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=121324",
+          "author": "CQN Magazine",
+          "description": "MATT O’RILEY will be forgiven for expecting he would showcasing his talents in soccer’s showpiece in Germany this month. The in-form playmaker stormed through the season in convincing fashion with 18 assists and 19 goals as he played a monumental role in Brendan Rodgers’ side’s double-winning campaign. O’Riley had been tipped by many neutral observers [...]",
+          "link": "https://www.celticquicknews.co.uk/matt-oriley-what-happens-next/",
+          "publishedOn": "2024-06-01T06:15:19.000Z",
+          "wordCount": 4110,
+          "title": "MATT O’RILEY: ‘WHAT HAPPENS NEXT?’",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/06/MATT-ORILEY-KILLIE-FEATURRED.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=111181",
           "author": "CQN Magazine",
           "description": "JOE HART brought his memorable three years at Celtic to a halt a week ago today. It was fitting the much-decorated keeper should go out as a winner with a clean sheet and yet another medal. Hart played his part in the 1-0 Scottish Cup showpiece victory over Philippe Clement’s Ibrox side at Hampden on [...]",
@@ -1100,26 +1110,6 @@
           "wordCount": 1428,
           "title": "‘Embarrassing’: Ally McCoist is 'honestly' fuming at what happened at Hampden when Celtic beat Rangers",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/04/GettyImages-1830217783-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=198155",
-          "author": "Patrick Sinat",
-          "description": "Adam Idah’s goal against Rangers which won the Scottish Cup for Celtic is the stuff that dreams are made of. Raised as a Celtic fan,...",
-          "link": "https://www.67hailhail.com/news/jack-butlands-blunder-after-all-the-hype-sums-up-sweet-last-laugh-for-celtic/",
-          "publishedOn": "2024-05-27T19:10:00.000Z",
-          "wordCount": 1465,
-          "title": "Jack Butland's 'blunder' after all the hype sums up sweet last laugh for Celtic",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/05/GettyImages-2154612106-6-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=198179",
-          "author": "John McGinley",
-          "description": "Brendan Rodgers’ first season at Celtic ended with a dramatic late winner in the Scottish Cup Final, so it was fitting that the initial campaign...",
-          "link": "https://www.67hailhail.com/match/new-sfa-footage-captures-superb-celtic-moment-vs-rangers-that-echoes-invincibles/",
-          "publishedOn": "2024-05-27T18:40:00.000Z",
-          "wordCount": 1309,
-          "title": "New SFA footage captures superb Celtic moment vs Rangers that echoes Invincibles",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/05/GettyImages-2154612106-7-scaled.jpg"
         }
       ]
     },
