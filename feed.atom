@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-06-07T18:15:50.133Z</updated>
+    <updated>2024-06-07T20:11:48.798Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fringe Celtic player's intentions become clear after European club approach]]></title>
+        <id>https://www.67hailhail.com/?p=199093</id>
+        <link href="https://www.67hailhail.com/transfers/maik-nawrockis-celtic-intentions-become-clear-after-european-club-approach/"/>
+        <updated>2024-06-07T19:44:02.000Z</updated>
+        <summary type="html"><![CDATA[Nawrocki wants to fight for a place in the Celtic team]]></summary>
+        <author>
+            <name>John McGinley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Barry Ferguson signals "the obvious fear" Rangers have about Celtic right now]]></title>
+        <id>https://www.67hailhail.com/?p=199146</id>
+        <link href="https://www.67hailhail.com/news/barry-ferguson-signals-the-obvious-fear-rangers-have-about-celtic-right-now/"/>
+        <updated>2024-06-07T19:14:09.000Z</updated>
+        <summary type="html"><![CDATA["Celtic could disappear over the horizon now."]]></summary>
+        <author>
+            <name>John McGinley</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why reported links involving Celtic and Chris Mepham make for interesting reading]]></title>
         <id>https://www.67hailhail.com/?p=199139</id>
@@ -1152,36 +1172,6 @@
         <link href="https://www.67hailhail.com/news/reinaldo-rueda-explains-why-celtic-stepped-in-to-stop-luis-palma-playing-for-honduras-this-month/"/>
         <updated>2024-06-03T08:40:00.000Z</updated>
         <summary type="html"><![CDATA[The international break is now in full swing as some of Celtic’s players prepare to take part in Euro 2024 with Scotland. Callum McGregor will...]]></summary>
-        <author>
-            <name>Patrick Sinat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic youngster opens up on the benefits of his productive loan spell away from Parkhead]]></title>
-        <id>https://www.67hailhail.com/?p=198709</id>
-        <link href="https://www.67hailhail.com/news/celtic-youngster-opens-up-on-the-benefits-of-his-productive-loan-spell-away-from-parkhead/"/>
-        <updated>2024-06-03T08:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Celtic have plenty of returning loanees who will need to wait and see if they factor into Brendan Rodgers’ long-term thinking at Parkhead. The Irishman...]]></summary>
-        <author>
-            <name>Sean Markus Clifford</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['That's the problem': Peter Grant says there's a Celtic transfer rumour which is really 'annoying' him]]></title>
-        <id>https://www.67hailhail.com/?p=198707</id>
-        <link href="https://www.67hailhail.com/news/peter-grant-says-theres-a-celtic-transfer-rumour-which-is-really-annoying-him/"/>
-        <updated>2024-06-03T07:40:00.000Z</updated>
-        <summary type="html"><![CDATA[With the Scottish football season over and Euro 2024 almost upon us, it’s transfer rumours that have been dominating the Celtic headlines over the last...]]></summary>
-        <author>
-            <name>Patrick Sinat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘Sole focus’: Michael Stewart tells Willie Collum to 'sort out' a VAR law that’s plagued Celtic for two seasons]]></title>
-        <id>https://www.67hailhail.com/?p=198699</id>
-        <link href="https://www.67hailhail.com/news/michael-stewart-tells-willie-collum-to-sort-out-a-var-law-thats-plagued-celtic-for-two-seasons/"/>
-        <updated>2024-06-03T06:43:05.000Z</updated>
-        <summary type="html"><![CDATA[VAR has been the bane of every Celtic fan’s life since its inception almost two years ago. Brought in to help eradicate what the media...]]></summary>
         <author>
             <name>Patrick Sinat</name>
         </author>
