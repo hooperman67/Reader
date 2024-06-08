@@ -244,16 +244,6 @@
           "wordCount": 4025,
           "title": "Greg Taylor and the summer ahead",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=121386",
-          "author": "CQN Magazine",
-          "description": "KIERAN TIERNEY’S name is being linked with a loan move to Celtic. Brendan Rodgers is scouring the market for a left-back with Greg Taylor the only recognised No.3 in his first-team squad. Alexandro Bernabei is on loan at Brazilian club Internacional until the end of the year and there is every possibility Scottish football has [...]",
-          "link": "https://www.celticquicknews.co.uk/kt-and-celtic-dream-on/",
-          "publishedOn": "2024-06-04T06:30:46.000Z",
-          "wordCount": 3811,
-          "title": "KT AND CELTIC: DREAM ON",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/06/BRENDAN-RODGERS-KIERAN-TIERNEY-FEATURRED-HHH.png"
         }
       ]
     },
@@ -521,6 +511,16 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=199233",
+          "author": "John McGinley",
+          "description": "\"It’s an important role at the club and he would fit the bill. I just think it would be another tricky deal to do.\"",
+          "link": "https://www.67hailhail.com/news/chris-sutton-delivers-verdict-on-any-fraser-forster-return-to-celtic-after-spurs-stance-becomes-clear/",
+          "publishedOn": "2024-06-08T19:38:36.000Z",
+          "wordCount": 1445,
+          "title": "Chris Sutton delivers verdict on potential Fraser Forster return to Celtic after Spurs stance becomes clear",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/06/GettyImages-1634872839-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=199228",
           "author": "John McGinley",
@@ -1280,36 +1280,6 @@
           "wordCount": 1392,
           "title": "'Always': Cameron Carter-Vickers shares what his relationship with Joe Hart was really like after Celtic keeper retires",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/09/GettyImages-1486562392-1.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=198824",
-          "author": "Sean Markus Clifford",
-          "description": "Celtic are in the middle of the off-season as international football takes precedence for the next few weeks. Many of the Parkhead faithful will have...",
-          "link": "https://www.67hailhail.com/news/national-boss-talks-up-the-potential-of-really-exciting-celtic-player/",
-          "publishedOn": "2024-06-04T08:10:00.000Z",
-          "wordCount": 1374,
-          "title": "National boss talks up the potential of 'really exciting' Celtic player",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/06/GettyImages-2155291616-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=198821",
-          "author": "Patrick Sinat",
-          "description": "The summer transfer window will bring a multitude of stories linking Celtic to various players as Brendan Rodgers looks to strengthen the team for next...",
-          "link": "https://www.67hailhail.com/news/former-premier-league-footballer-admits-he-shouldve-signed-for-celtic-after-being-sold-the-dream/",
-          "publishedOn": "2024-06-04T07:40:00.000Z",
-          "wordCount": 1578,
-          "title": "‘I should’ve gone':  Former Premier League footballer regrets not signing for Celtic after being ‘sold the dream’",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/06/GettyImages-631018322-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=198815",
-          "author": "Patrick Sinat",
-          "description": "The international week is now in full flow after the Celtic fans took in the first round of friendly fixtures where they watched James Forrest’s...",
-          "link": "https://www.67hailhail.com/news/luis-palma-sends-celtic-transfer-message-to-his-international-teammates/",
-          "publishedOn": "2024-06-04T06:40:00.000Z",
-          "wordCount": 1396,
-          "title": "Luis Palma sends Celtic transfer message to his international teammates",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/05/GettyImages-1855255960-scaled.jpg"
         }
       ]
     },
