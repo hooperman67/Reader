@@ -234,36 +234,6 @@
           "wordCount": 6984,
           "title": "A BHOY CALLED JOE: Part One",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/05/JOE-MCBRIDE-FEATURED-ONE.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=121300",
-          "author": "CQN Magazine",
-          "description": "CELTIC’S erratic form in November was perfectly illustrated in two games five days apart. Brendan Rodgers’ 10-man side – with Daizen Maeda red-carded early in proceedings – crashed 6-0 to Atletico Madrid in the Spanish capital as their Champions League hopes were obliterated. The Hoops reversed the 6-0 scoreline when Aberdeen were the visitors to Parkhead [...]",
-          "link": "https://www.celticquicknews.co.uk/diary-of-an-epic-season-november/",
-          "publishedOn": "2024-06-06T06:00:36.000Z",
-          "wordCount": 3694,
-          "title": "DIARY OF AN EPIC SEASON: NOVEMBER",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/05/DAVID-TURNBULL-NOV-FEATURED.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=76188",
-          "author": "CQN Magazine",
-          "description": "MARTIN O’NEILL launched into Celtic in majestic style in season 2000/01 with a spectacular silverware clean sweep in his unforgettable debut campaign CQN has journeyed back in time to turn the spotlight on the Parkhead club’s extraordinary EIGHT seasons where they have won every prize Scottish football has to offer – the league championship, the Scottish Cup [...]",
-          "link": "https://www.celticquicknews.co.uk/three-cheers-treble-no-3-2000-01/",
-          "publishedOn": "2024-06-06T05:30:37.000Z",
-          "wordCount": 4350,
-          "title": "THREE CHEERS: TREBLE No.3 (2000/01)",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2020/12/MARTIN-ONEILL-FEATURED.jpg"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=108585",
-          "author": "CQN Magazine",
-          "description": "DERK BOERRIGTER lived up to his nickname of ‘Sicknote’ after joining Celtic from £3million from Ajax on July 30 2013. The Dutch winger was 26 when Neil Lennon splashed the cash for the player who had earned the unwanted moniker after missing so many games for the Amsterdam giants. It didn’t augur well when Boerrigter [...]",
-          "link": "https://www.celticquicknews.co.uk/whatever-happened-to-derk-boerrigter/",
-          "publishedOn": "2024-06-06T05:00:02.000Z",
-          "wordCount": 3799,
-          "title": "WHATEVER HAPPENED TO…DERK BOERRIGTER?",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/06/DERK-BOERRIGTER-FEATURED-HH.png"
         }
       ]
     },
@@ -531,6 +501,36 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=199415",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic have been linked with a plethora of goalkeepers as Brendan Rodgers looks to replace Joe Hart’s influential presence. Undoubtedly, there are many different directions...",
+          "link": "https://www.67hailhail.com/opinion/why-celtic-links-involving-aston-villa-goalkeeper-viljami-sinisalo-make-quantifiable-sense/",
+          "publishedOn": "2024-06-10T17:40:00.000Z",
+          "wordCount": 1485,
+          "title": "Why Celtic links with Aston Villa goalkeeper Viljami Sinisalo make quantifiable sense - opinion",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/05/GettyImages-1258254779-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=199383",
+          "author": "Patrick Sinat",
+          "description": "As the transfer window approaches, there will be plenty of like-minded Celtic people telling the club how to spend their money over the next few...",
+          "link": "https://www.67hailhail.com/news/neil-lennon-tells-celtic-to-spend-5m-on-player-with-huge-potential/",
+          "publishedOn": "2024-06-10T17:10:00.000Z",
+          "wordCount": 1355,
+          "title": "‘Definitely’: Neil Lennon tells Celtic to spend £5m on player with ‘huge potential’",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/05/GettyImages-2154597072-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=199353",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic boss Brendan Rodgers will be keen to kickstart the transfer window with some exciting additions at Parkhead. There is anticipation among the Parkhead faithful...",
+          "link": "https://www.67hailhail.com/opinion/the-transfer-misstep-celtic-cant-afford-to-make-again-this-summer/",
+          "publishedOn": "2024-06-10T16:40:00.000Z",
+          "wordCount": 1489,
+          "title": "The transfer misstep Celtic can't afford to make again this summer",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/12/GettyImages-1845882429-1-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=199361",
           "author": "Patrick Sinat",
@@ -1260,16 +1260,6 @@
           "wordCount": 1424,
           "title": "Honduran footballer admits respect for Celtic and Luis Palma",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/06/GettyImages-1855256465-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=198968",
-          "author": "Sean Markus Clifford",
-          "description": "Celtic man Matt O’Riley’s omission from Denmark’s EURO 2024 squad has stirred debate among fans who are astounded he hasn’t been taken to Germany. The...",
-          "link": "https://www.67hailhail.com/news/nicklas-bendtners-bizarre-assessment-of-celtic-man-matt-orileys-denmark-snub/",
-          "publishedOn": "2024-06-06T06:10:00.000Z",
-          "wordCount": 1452,
-          "title": "Nicklas Bendtner delivers verdict on Matt O'Riley's Denmark snub",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/06/GettyImages-2153585890-scaled.jpg"
         }
       ]
     },

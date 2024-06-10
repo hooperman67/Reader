@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-06-10T16:14:37.034Z</updated>
+    <updated>2024-06-10T18:15:09.410Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why Celtic links with Aston Villa goalkeeper Viljami Sinisalo make quantifiable sense - opinion]]></title>
+        <id>https://www.67hailhail.com/?p=199415</id>
+        <link href="https://www.67hailhail.com/opinion/why-celtic-links-involving-aston-villa-goalkeeper-viljami-sinisalo-make-quantifiable-sense/"/>
+        <updated>2024-06-10T17:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Celtic have been linked with a plethora of goalkeepers as Brendan Rodgers looks to replace Joe Hart’s influential presence. Undoubtedly, there are many different directions...]]></summary>
+        <author>
+            <name>Sean Markus Clifford</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Definitely’: Neil Lennon tells Celtic to spend £5m on player with ‘huge potential’]]></title>
+        <id>https://www.67hailhail.com/?p=199383</id>
+        <link href="https://www.67hailhail.com/news/neil-lennon-tells-celtic-to-spend-5m-on-player-with-huge-potential/"/>
+        <updated>2024-06-10T17:10:00.000Z</updated>
+        <summary type="html"><![CDATA[As the transfer window approaches, there will be plenty of like-minded Celtic people telling the club how to spend their money over the next few...]]></summary>
+        <author>
+            <name>Patrick Sinat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The transfer misstep Celtic can't afford to make again this summer]]></title>
+        <id>https://www.67hailhail.com/?p=199353</id>
+        <link href="https://www.67hailhail.com/opinion/the-transfer-misstep-celtic-cant-afford-to-make-again-this-summer/"/>
+        <updated>2024-06-10T16:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Celtic boss Brendan Rodgers will be keen to kickstart the transfer window with some exciting additions at Parkhead. There is anticipation among the Parkhead faithful...]]></summary>
+        <author>
+            <name>Sean Markus Clifford</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The forgotten 2021 Celtic signing who’s out on loan no one is talking about]]></title>
         <id>https://www.67hailhail.com/?p=199361</id>
@@ -964,46 +994,6 @@
         <summary type="html"><![CDATA[We all know how much Celtic winger Luis Palma is loved back in Honduras. Whenever he goes on international duty, he tends to be one...]]></summary>
         <author>
             <name>Patrick Sinat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nicklas Bendtner delivers verdict on Matt O'Riley's Denmark snub]]></title>
-        <id>https://www.67hailhail.com/?p=198968</id>
-        <link href="https://www.67hailhail.com/news/nicklas-bendtners-bizarre-assessment-of-celtic-man-matt-orileys-denmark-snub/"/>
-        <updated>2024-06-06T06:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Celtic man Matt O’Riley’s omission from Denmark’s EURO 2024 squad has stirred debate among fans who are astounded he hasn’t been taken to Germany. The...]]></summary>
-        <author>
-            <name>Sean Markus Clifford</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DIARY OF AN EPIC SEASON: NOVEMBER]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=121300</id>
-        <link href="https://www.celticquicknews.co.uk/diary-of-an-epic-season-november/"/>
-        <updated>2024-06-06T06:00:36.000Z</updated>
-        <summary type="html"><![CDATA[CELTIC’S erratic form in November was perfectly illustrated in two games five days apart. Brendan Rodgers’ 10-man side – with Daizen Maeda red-carded early in proceedings – crashed 6-0 to Atletico Madrid in the Spanish capital as their Champions League hopes were obliterated. The Hoops reversed the 6-0 scoreline when Aberdeen were the visitors to Parkhead [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THREE CHEERS: TREBLE No.3 (2000/01)]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=76188</id>
-        <link href="https://www.celticquicknews.co.uk/three-cheers-treble-no-3-2000-01/"/>
-        <updated>2024-06-06T05:30:37.000Z</updated>
-        <summary type="html"><![CDATA[MARTIN O’NEILL launched into Celtic in majestic style in season 2000/01 with a spectacular silverware clean sweep in his unforgettable debut campaign CQN has journeyed back in time to turn the spotlight on the Parkhead club’s extraordinary EIGHT seasons where they have won every prize Scottish football has to offer – the league championship, the Scottish Cup [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WHATEVER HAPPENED TO…DERK BOERRIGTER?]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=108585</id>
-        <link href="https://www.celticquicknews.co.uk/whatever-happened-to-derk-boerrigter/"/>
-        <updated>2024-06-06T05:00:02.000Z</updated>
-        <summary type="html"><![CDATA[DERK BOERRIGTER lived up to his nickname of ‘Sicknote’ after joining Celtic from £3million from Ajax on July 30 2013. The Dutch winger was 26 when Neil Lennon splashed the cash for the player who had earned the unwanted moniker after missing so many games for the Amsterdam giants. It didn’t augur well when Boerrigter [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
         </author>
     </entry>
     <entry>
