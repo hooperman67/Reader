@@ -438,7 +438,23 @@
       "title": "eTims",
       "feedUrl": "http://etims.net/?feed=rss2",
       "siteUrl": "https://etims.net",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://etims.net/?p=18636",
+          "author": "Desi Mond",
+          "description": "Desi, Hector and Monty get together just before the Euros24 kicks off to look at : The Cup Final Seasons End Celebrations in the Highlands,…",
+          "link": "https://etims.net/?p=18636",
+          "publishedOn": "2024-06-12T20:34:51.000Z",
+          "wordCount": 16094,
+          "title": "E is for Euros – Etims Podcast with added Transcript",
+          "enclosure": {
+            "url": "https://api.spreaker.com/v2/episodes/60366004/download.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://etims.net/wp-content/uploads/2024/06/1000_F_102836553_7YRc75Rnyoz5tbPPoclcSVePAttEECOB.jpg"
+        }
+      ]
     },
     {
       "title": "The Celtic Underground",

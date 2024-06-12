@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-06-12T20:11:47.034Z</updated>
+    <updated>2024-06-12T22:11:12.187Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[E is for Euros – Etims Podcast with added Transcript]]></title>
+        <id>https://etims.net/?p=18636</id>
+        <link href="https://etims.net/?p=18636"/>
+        <updated>2024-06-12T20:34:51.000Z</updated>
+        <summary type="html"><![CDATA[Desi, Hector and Monty get together just before the Euros24 kicks off to look at : The Cup Final Seasons End Celebrations in the Highlands,…]]></summary>
+        <author>
+            <name>Desi Mond</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Liam Scales shares what the Celtic players thought of the Scottish media’s Rangers narrative]]></title>
         <id>https://www.67hailhail.com/?p=199544</id>
