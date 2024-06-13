@@ -6,6 +6,26 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=108959",
+          "author": "CQN Magazine",
+          "description": "BRENDAN RODGERS was an acclaimed double winner after returning to Celtic in June 2023 following an absence of over four years. The Irishman marked an extraordinary comeback by leading the champions to their third title in a row – their twelfth crown in 13 years – and also a thoroughly enjoyable Scottish Cup success at Hampden [...]",
+          "link": "https://www.celticquicknews.co.uk/brendan-rodgers-the-story-so-far-part-one/",
+          "publishedOn": "2024-06-13T06:00:53.000Z",
+          "wordCount": 3877,
+          "title": "BRENDAN RODGERS: THE STORY SO FAR: Part One",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/06/BRENDAN-RODGERS-ARRIVES-FIRST.png"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/?p=108620",
+          "author": "CQN Magazine",
+          "description": "VAKOUN ISSOUF BAYO was one of Brendan Rodgers’ last signings for Celtic in January 2019 – a month before the Irishman moved to Leicester City. At least the outgoing boss, who returned in June last year, didn’t have to witness the Ivorian attempting to meet the required standard expected of a player at Parkhead. Bayo, [...]",
+          "link": "https://www.celticquicknews.co.uk/whatever-happened-to-vakoun-issouf-bayo/",
+          "publishedOn": "2024-06-13T05:00:03.000Z",
+          "wordCount": 3581,
+          "title": "WHATEVER HAPPENED TO…VAKOUN ISSOUF BAYO?",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/12/VAKOUN-ISSOUF-BAYO-NEW-FEATURED.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=121412",
           "author": "Paul67",
           "description": "Watch for the shift in focus at Celtic and Newco in the transfer market this summer. A year ago, Celtic’s focus was on players with development potential, whereas Newco went for players at the peak of their career. For Celtic, this was strategically right, albeit with short term risks (which were successfully handled). This year, [...]",
@@ -467,6 +487,16 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=199587",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic defender Liam Scales has signalled his intention to keep the good times rolling at the club once the new campaign begins. The Republic of...",
+          "link": "https://www.67hailhail.com/news/liam-scales-on-his-aims-in-2024-25-at-celtic-following-his-breakthrough-campaign/",
+          "publishedOn": "2024-06-13T05:10:00.000Z",
+          "wordCount": 1399,
+          "title": "Liam Scales on his aims for 2024/25 at Celtic following stunning breakthrough campaign",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/06/GettyImages-2155558409-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=199544",
           "author": "Patrick Sinat",
@@ -1146,26 +1176,6 @@
           "wordCount": 1445,
           "title": "Chris Sutton delivers verdict on potential Fraser Forster return to Celtic after Spurs stance becomes clear",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/06/GettyImages-1634872839-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=199228",
-          "author": "John McGinley",
-          "description": "The SPFL have signed a five-year agreement",
-          "link": "https://www.67hailhail.com/news/how-much-new-record-breaking-spfl-sponsorship-deal-is-worth-to-celtic-and-scottish-football/",
-          "publishedOn": "2024-06-08T18:03:09.000Z",
-          "wordCount": 1347,
-          "title": "How much new 'record-breaking' SPFL sponsorship deal is worth to Celtic and Scottish football",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/06/GettyImages-2128597996-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=199223",
-          "author": "John McGinley",
-          "description": "Anthony Ralston is set to start against Germany",
-          "link": "https://www.67hailhail.com/news/bbc-pundit-reckons-celtic-star-just-nailed-his-euro-2024-audition/",
-          "publishedOn": "2024-06-08T16:19:22.000Z",
-          "wordCount": 1266,
-          "title": "BBC pundit reckons Celtic star just 'nailed' his EURO 2024 audition",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/06/GettyImages-2155847932-scaled.jpg"
         }
       ]
     },
