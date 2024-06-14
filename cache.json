@@ -204,16 +204,6 @@
           "wordCount": 3749,
           "title": "Today’s edition of, “Of course he did”",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=81836",
-          "author": "CQN Magazine",
-          "description": "JOE McBRIDE took a circuitous route before landing at his boyhood idols Celtic in the summer of 1965. The burly, barrel-chested old-fashioned striker was determined to make up for lost time. In his three years at Parkhead, Joe fired in 86 goals in 94 appearances, an astonishing 54 of them coming in only 55 league [...]",
-          "link": "https://www.celticquicknews.co.uk/a-bhoy-called-joe-part-five/",
-          "publishedOn": "2024-06-10T07:00:58.000Z",
-          "wordCount": 4537,
-          "title": "A BHOY CALLED JOE: Part Five",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2021/08/JOE-MCBRIDE-FEATURED-LL.jpg"
         }
       ]
     },
@@ -522,6 +512,16 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=199765",
+          "author": "John McGinley",
+          "description": "Celtic will get a share of UEFA's €140m Club Benefits Programme this summer.",
+          "link": "https://www.67hailhail.com/news/the-nice-bonus-on-its-way-to-celtic-from-e140m-uefa-pool-this-summer/",
+          "publishedOn": "2024-06-14T18:20:00.000Z",
+          "wordCount": 1348,
+          "title": "The nice bonus on its way to Celtic from €140m UEFA pool this summer",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/06/GettyImages-1259090760-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=199760",
           "author": "John McGinley",
@@ -1381,46 +1381,6 @@
           "wordCount": 1599,
           "title": "Celtic’s goalkeeper issue could be solved by Premier League free agent who is going to Euro 2024 - opinion",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/06/GettyImages-1322151890-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=199333",
-          "author": "Sean Markus Clifford",
-          "description": "Celtic are on the lookout for reinforcements and speculation is rife regarding who Brendan Rodgers could acquire this summer. Expectedly, there is a calm before...",
-          "link": "https://www.67hailhail.com/opinion/the-familiar-free-agent-striker-brendan-rodgers-could-turn-to-for-firepower-at-celtic/",
-          "publishedOn": "2024-06-10T08:10:00.000Z",
-          "wordCount": 1515,
-          "title": "The familiar free agent striker Brendan Rodgers could turn to for firepower at Celtic",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/06/GettyImages-2151525059-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=199331",
-          "author": "John McGinley",
-          "description": "He doesn't appear to have a future in Glasgow",
-          "link": "https://www.67hailhail.com/transfers/celtic-exit-route-opens-up-for-sead-haksabanovic/",
-          "publishedOn": "2024-06-10T07:40:00.000Z",
-          "wordCount": 1245,
-          "title": "Report: Celtic exit route to promoted side opens up for attacker",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/06/GettyImages-1569555085-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=199315",
-          "author": "Patrick Sinat",
-          "description": "As four Celtic players are now in Germany preparing for the big Euro 2024 kick-off, the Hoops fans will be looking forward to seeing how...",
-          "link": "https://www.67hailhail.com/news/celtic-defender-anthony-ralston-sent-message-from-hollywood-after-impressing-for-scotland/",
-          "publishedOn": "2024-06-10T07:10:00.000Z",
-          "wordCount": 1345,
-          "title": "Celtic defender Anthony Ralston sent message from Hollywood after impressing for Scotland",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/06/GettyImages-2155446497-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=199318",
-          "author": "John McGinley",
-          "description": "Celtic defender Alistair Johnston says Canada secured one of their best-ever results on Sunday night after drawing 0-0 away to fancied EURO 2024 side France....",
-          "link": "https://www.67hailhail.com/news/celtics-alistair-johnston-expertly-deals-with-elite-international-test-after-shaking-off-hamstring-concern/",
-          "publishedOn": "2024-06-10T06:45:35.000Z",
-          "wordCount": 1379,
-          "title": "Celtic hero expertly deals with elite international test after shaking off hamstring concern",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/06/GettyImages-2156236599-scaled.jpg"
         }
       ]
     },
