@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=81965",
+          "author": "CQN Magazine",
+          "description": "JOE McBRIDE took a circuitous route before landing at his boyhood idols Celtic in the summer of 1965. The burly, barrel-chested old-fashioned striker was determined to make up for lost time. In his three years at Parkhead, Joe fired in 86 goals in 94 appearances, an astonishing 54 of them coming in only 55 league [...]",
+          "link": "https://www.celticquicknews.co.uk/a-bhoy-called-joe-part-nine/",
+          "publishedOn": "2024-06-14T07:00:31.000Z",
+          "wordCount": 4708,
+          "title": "A BHOY CALLED JOE: Part Nine",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/05/JOE-MCBRIDE-NETS-V-HIBS.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=108977",
           "author": "CQN Magazine",
           "description": "BRENDAN RODGERS was an acclaimed double winner after returning to Celtic in June 2023 following an absence of over four years. The Irishman marked an extraordinary comeback by leading the champions to their third title in a row – their twelfth crown in 13 years – and also a thoroughly enjoyable Scottish Cup success at Hampden [...]",
@@ -480,6 +490,16 @@
       "siteUrl": "https://etims.net",
       "articles": [
         {
+          "id": "https://etims.net/?p=18640",
+          "author": "Desi Mond",
+          "description": "A wee quiz to get you in the the mood for the Euros…some questions might have popped up on latest pod.. WHERE IN EUROPE?  …",
+          "link": "https://etims.net/?p=18640",
+          "publishedOn": "2024-06-14T08:00:11.000Z",
+          "wordCount": 2489,
+          "title": "Etims Euros Quiz",
+          "imageUrl": "https://etims.net/wp-content/uploads/2024/06/clarke.png"
+        },
+        {
           "id": "https://etims.net/?p=18657",
           "author": "Desi Mond",
           "description": "For non Podcast listening folk, here are End of Season Quiz questions as asked, and barely answered, in latest pod End of Season Quiz  …",
@@ -522,6 +542,36 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=199705",
+          "author": "Sean Markus Clifford",
+          "description": "Most Celtic loanees have returned to the club ahead of pre-season and will be excited at the chance to impress Brendan Rodgers. Nevertheless, there are...",
+          "link": "https://www.67hailhail.com/news/watch-celtic-talent-show-striking-instincts-to-net-seventh-goal-in-ten-matches/",
+          "publishedOn": "2024-06-14T08:10:00.000Z",
+          "wordCount": 1404,
+          "title": "Watch Celtic talent show striking instincts to net seventh goal in ten matches",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/05/GettyImages-2153345772-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=199698",
+          "author": "John McGinley",
+          "description": "It's a big summer for the Bhoys",
+          "link": "https://www.67hailhail.com/transfers/the-priorities-being-worked-on-as-celtics-summer-transfer-window-officially-opens/",
+          "publishedOn": "2024-06-14T07:19:58.000Z",
+          "wordCount": 1383,
+          "title": "The priorities being worked on as Celtic's summer transfer window officially opens",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/06/GettyImages-2153794371-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=199694",
+          "author": "John McGinley",
+          "description": "\"He has had 15 offers from 15 different clubs.\"",
+          "link": "https://www.67hailhail.com/celtic-youth/he-has-had-15-offers-from-15-different-clubs-rocco-vatas-celtic-situation-is-coming-to-a-head/",
+          "publishedOn": "2024-06-14T06:42:18.000Z",
+          "wordCount": 1397,
+          "title": "\"He has had 15 offers from 15 different clubs\"; Attacking talent mulls over Celtic decision",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/09/GettyImages-1562882744-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=199688",
           "author": "John McGinley",
@@ -1291,16 +1341,6 @@
           "wordCount": 1281,
           "title": "Celtic star shines with three assists in Sunday night World Cup Qualifier",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/06/GettyImages-1806934795-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=199296",
-          "author": "Patrick Sinat",
-          "description": "The 2003 UEFA Cup final is a game in Celtic’s recent history that is still very painful for the fans to deal with. I wasn’t...",
-          "link": "https://www.67hailhail.com/news/neil-lennon-explains-why-2003-celtic-win-vs-liverpool-was-more-special-than-the-uefa-cup-final/",
-          "publishedOn": "2024-06-09T18:40:00.000Z",
-          "wordCount": 1456,
-          "title": "Neil Lennon shares his two happiest moments at Celtic",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/06/GettyImages-1846556.jpg"
         }
       ]
     },
