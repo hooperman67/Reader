@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-06-15T12:20:04.216Z</updated>
+    <updated>2024-06-15T14:10:18.353Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic star Callum McGregor fronts up with honest verdict on Scotland defeat to Germany]]></title>
+        <id>https://www.67hailhail.com/?p=199810</id>
+        <link href="https://www.67hailhail.com/news/celtic-star-callum-mcgregor-fronts-up-with-honest-verdict-on-scotland-defeat-to-germany/"/>
+        <updated>2024-06-15T14:08:00.000Z</updated>
+        <summary type="html"><![CDATA["We have to apologise to the fans for not putting on a performance that they would be proud of."]]></summary>
+        <author>
+            <name>John McGinley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chris Sutton sends a transfer message to Celtic that he says they "can't afford" to ignore]]></title>
+        <id>https://www.67hailhail.com/?p=199777</id>
+        <link href="https://www.67hailhail.com/news/chris-sutton-sends-a-transfer-message-to-celtic-that-he-says-they-cant-afford-to-ignore/"/>
+        <updated>2024-06-15T13:30:30.000Z</updated>
+        <summary type="html"><![CDATA["Celtic can’t muck about."]]></summary>
+        <author>
+            <name>John McGinley</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WWE star CM Punk spotted in Glasgow with Celtic gear ahead of Clash At The Castle event]]></title>
         <id>https://www.67hailhail.com/?p=199787</id>
