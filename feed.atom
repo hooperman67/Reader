@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-06-15T10:12:57.293Z</updated>
+    <updated>2024-06-15T12:20:04.216Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WWE star CM Punk spotted in Glasgow with Celtic gear ahead of Clash At The Castle event]]></title>
+        <id>https://www.67hailhail.com/?p=199787</id>
+        <link href="https://www.67hailhail.com/news/wwe-star-cm-punk-spotted-in-glasgow-with-celtic-gear-ahead-of-clash-at-the-castle-event/"/>
+        <updated>2024-06-15T11:41:16.000Z</updated>
+        <summary type="html"><![CDATA[A bit of fun in the off-season!]]></summary>
+        <author>
+            <name>John McGinley</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic Summer 2024 Transfer Ins & Outs]]></title>
         <id>https://www.67hailhail.com/?p=199739</id>
