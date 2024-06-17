@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=83703",
+          "author": "CQN Magazine",
+          "description": "THE remarkable Ronnie Simpson was voted Celtic’s Greatest-Ever Goalkeeper by the Hoops supporters in the Millennium Poll. To celebrate the extraordinary Hoops career of the Lisbon Lion, CQN are publishing a week-long tribute to the netminder who was known as ‘Faither’ to his team-mates. In Part Two of our EXCLUSIVE series, author Alex Gordon has [...]",
+          "link": "https://www.celticquicknews.co.uk/the-remarkable-ronnie-simpson-part-two/",
+          "publishedOn": "2024-06-17T07:15:55.000Z",
+          "wordCount": 3983,
+          "title": "THE REMARKABLE RONNIE SIMPSON: Part Two",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2019/05/SIMPSON-FEATURED.jpg"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=108983",
           "author": "CQN Magazine",
           "description": "BRENDAN RODGERS was an acclaimed double winner after returning to Celtic in June 2023 following an absence of over four years. The Irishman marked an extraordinary comeback by leading the champions to their third title in a row – their twelfth crown in 13 years – and also a thoroughly enjoyable Scottish Cup success at Hampden [...]",
@@ -502,6 +512,36 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=199929",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic striker Kyogo Furuhashi is enjoying some downtime following another successful campaign at Parkhead under Brendan Rodgers. Undoubtedly, he did need to acclimatise to a...",
+          "link": "https://www.67hailhail.com/news/celtic-talisman-kyogo-furuhashi-addresses-future-plans-while-visiting-his-former-club/",
+          "publishedOn": "2024-06-17T08:10:00.000Z",
+          "wordCount": 1340,
+          "title": "Celtic talisman Kyogo Furuhashi addresses future plans while visiting his former club",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/04/GettyImages-2089025476-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=199927",
+          "author": "Patrick Sinat",
+          "description": "Matt O’Riley is a player who is attracting attention from all of the major leagues in Europe and it seems that Celtic will have a...",
+          "link": "https://www.67hailhail.com/transfers/the-one-condition-that-could-prevent-atletico-madrid-from-buying-celtics-matt-oriley/",
+          "publishedOn": "2024-06-17T07:44:10.000Z",
+          "wordCount": 1350,
+          "title": "Report: The one condition that could prevent Atletico Madrid from buying Celtic’s Matt O’Riley",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/06/GettyImages-2127547620-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=199917",
+          "author": "Patrick Sinat",
+          "description": "Celtic’s work in the transfer window has not even begun yet but already the club are set to land a tidy financial windfall. Players will...",
+          "link": "https://www.67hailhail.com/news/how-much-money-celtic-are-set-to-bank-when-giorgos-giakoumakis-leaves-atlanta-united/",
+          "publishedOn": "2024-06-17T06:44:00.000Z",
+          "wordCount": 1343,
+          "title": "Report: How much money Celtic are set to bank as Giorgios Giakoumakis leaves Atlanta United",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/04/GettyImages-1396731064-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=199894",
           "author": "Patrick Sinat",
@@ -1051,36 +1091,6 @@
           "wordCount": 1399,
           "title": "Liam Scales on his aims for 2024/25 at Celtic following stunning breakthrough campaign",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/06/GettyImages-2155558409-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=199544",
-          "author": "Patrick Sinat",
-          "description": "The Celtic fans will remember all too well the narrative surrounding the club when Rangers seemed to be mounting a title challenge. Of course, they...",
-          "link": "https://www.67hailhail.com/news/liam-scales-shares-what-the-celtic-players-thought-of-the-scottish-medias-rangers-narrative/",
-          "publishedOn": "2024-06-12T19:40:00.000Z",
-          "wordCount": 1459,
-          "title": "Liam Scales shares what the Celtic players thought of the Scottish media’s Rangers narrative",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/05/GettyImages-2154618217-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=199584",
-          "author": "Sean Markus Clifford",
-          "description": "Celtic manager Brendan Rodgers will already be planning ahead for 2024/25 and has plenty to ponder before pre-season. Movement on the transfer front is expected...",
-          "link": "https://www.67hailhail.com/opinion/the-celtic-player-brendan-rodgers-faces-a-stick-or-twist-situation-with-this-summer/",
-          "publishedOn": "2024-06-12T19:10:00.000Z",
-          "wordCount": 1524,
-          "title": "The Celtic player Brendan Rodgers faces a stick or twist situation with this summer",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/01/GettyImages-1894751265-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=199548",
-          "author": "Patrick Sinat",
-          "description": "The rumours surrounding Celtic and their potential transfer business have been hitting the headlines hard over the last week or so now. With links to...",
-          "link": "https://www.67hailhail.com/news/celtic-told-to-definitely-sign-free-agent-defender-who-is-at-euro-2024/",
-          "publishedOn": "2024-06-12T18:40:00.000Z",
-          "wordCount": 1447,
-          "title": "‘I would’: Celtic told to ‘definitely’ sign free agent defender who is at Euro 2024",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/03/GettyImages-72167501-scaled.jpg"
         }
       ]
     },
