@@ -164,16 +164,6 @@
           "wordCount": 4519,
           "title": "Cognitive challenge when supporting anyone but Celtic",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=81965",
-          "author": "CQN Magazine",
-          "description": "JOE McBRIDE took a circuitous route before landing at his boyhood idols Celtic in the summer of 1965. The burly, barrel-chested old-fashioned striker was determined to make up for lost time. In his three years at Parkhead, Joe fired in 86 goals in 94 appearances, an astonishing 54 of them coming in only 55 league [...]",
-          "link": "https://www.celticquicknews.co.uk/a-bhoy-called-joe-part-nine/",
-          "publishedOn": "2024-06-14T07:00:31.000Z",
-          "wordCount": 4708,
-          "title": "A BHOY CALLED JOE: Part Nine",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/05/JOE-MCBRIDE-NETS-V-HIBS.png"
         }
       ]
     },
@@ -428,18 +418,7 @@
       "title": "eTims",
       "feedUrl": "http://etims.net/?feed=rss2",
       "siteUrl": "https://etims.net",
-      "articles": [
-        {
-          "id": "https://etims.net/?p=18640",
-          "author": "Desi Mond",
-          "description": "A wee quiz to get you in the the mood for the Euros…some questions might have popped up on latest pod.. WHERE IN EUROPE?  …",
-          "link": "https://etims.net/?p=18640",
-          "publishedOn": "2024-06-14T08:00:11.000Z",
-          "wordCount": 2489,
-          "title": "Etims Euros Quiz",
-          "imageUrl": "https://etims.net/wp-content/uploads/2024/06/clarke.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "The Celtic Underground",
@@ -452,6 +431,26 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=200066",
+          "author": "Sean Markus Clifford",
+          "description": "Martin O’Neill is one of several legendary managers Celtic have had during their illustrious history and he is still regarded as an icon in Glasgow....",
+          "link": "https://www.67hailhail.com/news/former-celtic-boss-martin-oneill-sheds-light-on-his-five-year-absence-from-management/",
+          "publishedOn": "2024-06-18T19:10:00.000Z",
+          "wordCount": 1445,
+          "title": "Former Celtic boss Martin O'Neill sheds light on his five-year absence from management",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/06/GettyImages-1493714486-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=200058",
+          "author": "Patrick Sinat",
+          "description": "Thomas Gravesen is probaly regarded as a cult-hero amongst the Celtic fans for his short stay at the club. Signed for £2m from Real Madrid,...",
+          "link": "https://www.67hailhail.com/news/the-hilarious-reason-thomas-gravesen-almost-fell-foul-of-champions-league-officials-when-playing-for-celtic/",
+          "publishedOn": "2024-06-18T18:40:00.000Z",
+          "wordCount": 1509,
+          "title": "'The referee was shoving him': How Thomas Gravesen almost fell foul of Champions League officials playing for Celtic",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/06/GettyImages-72724236-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=200063",
           "author": "Sean Markus Clifford",
@@ -1071,36 +1070,6 @@
           "wordCount": 1399,
           "title": "Celtic January goalkeeper target Horatiu Moldovan could be available this summer",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/06/GettyImages-2157459438-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=199705",
-          "author": "Sean Markus Clifford",
-          "description": "Most Celtic loanees have returned to the club ahead of pre-season and will be excited at the chance to impress Brendan Rodgers. Nevertheless, there are...",
-          "link": "https://www.67hailhail.com/news/watch-celtic-talent-show-striking-instincts-to-net-seventh-goal-in-ten-matches/",
-          "publishedOn": "2024-06-14T08:10:00.000Z",
-          "wordCount": 1404,
-          "title": "Watch Celtic talent show striking instincts to net seventh goal in ten matches",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/05/GettyImages-2153345772-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=199698",
-          "author": "John McGinley",
-          "description": "It's a big summer for the Bhoys",
-          "link": "https://www.67hailhail.com/transfers/the-priorities-being-worked-on-as-celtics-summer-transfer-window-officially-opens/",
-          "publishedOn": "2024-06-14T07:19:58.000Z",
-          "wordCount": 1383,
-          "title": "The priorities being worked on as Celtic's summer transfer window officially opens",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/06/GettyImages-2153794371-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=199694",
-          "author": "John McGinley",
-          "description": "\"He has had 15 offers from 15 different clubs.\"",
-          "link": "https://www.67hailhail.com/celtic-youth/he-has-had-15-offers-from-15-different-clubs-rocco-vatas-celtic-situation-is-coming-to-a-head/",
-          "publishedOn": "2024-06-14T06:42:18.000Z",
-          "wordCount": 1397,
-          "title": "\"He has had 15 offers from 15 different clubs\"; Attacking talent mulls over Celtic decision",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/09/GettyImages-1562882744-scaled.jpg"
         }
       ]
     },
