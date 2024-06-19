@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-06-19T20:11:30.992Z</updated>
+    <updated>2024-06-19T22:11:18.366Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic take aim at Graeme Souness after Callum McGregor’s Scotland assist]]></title>
+        <id>https://www.67hailhail.com/?p=200151</id>
+        <link href="https://www.67hailhail.com/news/celtic-take-aim-at-graeme-souness-after-callum-mcgregors-scotland-assist/"/>
+        <updated>2024-06-19T20:53:13.000Z</updated>
+        <summary type="html"><![CDATA[Outstanding work from the Celtic social media team.]]></summary>
+        <author>
+            <name>Patrick Sinat</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why quiet on the transfer front at Celtic could be a positive signal]]></title>
         <id>https://www.67hailhail.com/?p=200148</id>
@@ -852,26 +862,6 @@
         <link href="https://www.67hailhail.com/news/wwe-star-cm-punk-spotted-in-glasgow-with-celtic-gear-ahead-of-clash-at-the-castle-event/"/>
         <updated>2024-06-15T11:41:16.000Z</updated>
         <summary type="html"><![CDATA[A bit of fun in the off-season!]]></summary>
-        <author>
-            <name>John McGinley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celtic Summer 2024 Transfer Ins & Outs]]></title>
-        <id>https://www.67hailhail.com/?p=199739</id>
-        <link href="https://www.67hailhail.com/transfers/celtic-summer-2024-transfer-news-ins-outs-signings-done-deals/"/>
-        <updated>2024-06-15T10:08:17.000Z</updated>
-        <summary type="html"><![CDATA[Here are Celtic’s confirmed summer 2024 transfers and signings including all ins and outs, permanent deals and loan moves. The summer 2024 transfer window is...]]></summary>
-        <author>
-            <name>Gary Kirkpatrick</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ITV pundit sums up a harsh lesson for Celtic duo and company vs Germany]]></title>
-        <id>https://www.67hailhail.com/?p=199770</id>
-        <link href="https://www.67hailhail.com/news/roy-keane-sums-up-a-harsh-lesson-for-celtic-duo-and-company-vs-germany/"/>
-        <updated>2024-06-15T08:43:09.000Z</updated>
-        <summary type="html"><![CDATA["You have to be aggressive in a game of football."]]></summary>
         <author>
             <name>John McGinley</name>
         </author>
