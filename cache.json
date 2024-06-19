@@ -184,26 +184,6 @@
           "wordCount": 4640,
           "title": "A BHOY CALLED JOE: Part Ten",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2016/03/Joe-McBride_2274935b.jpg"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=108979",
-          "author": "CQN Magazine",
-          "description": "BRENDAN RODGERS was an acclaimed double winner after returning to Celtic in June 2023 following an absence of over four years. The Irishman marked an extraordinary comeback by leading the champions to their third title in a row – their twelfth crown in 13 years – and also a thoroughly enjoyable Scottish Cup success at Hampden [...]",
-          "link": "https://www.celticquicknews.co.uk/brendan-rodgers-the-story-so-far-part-three/",
-          "publishedOn": "2024-06-15T06:00:08.000Z",
-          "wordCount": 4028,
-          "title": "BRENDAN RODGERS: THE STORY SO FAR: Part Three",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/06/BRENDAN-RODGERS-SMILES-FTRED.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=108778",
-          "author": "CQN Magazine",
-          "description": "CRISTIAN GAMBOA endured the worst possible debut for Celtic – a 7-0 Champions League trouncing from Barcelona in the Camp Nou in September 2016. The Costa Rican right-back had just arrived in a £1.2million deal from West Brom the previous month and Brendan Rodgers had high hopes for the attacking full-back. The Irishman, who had just [...]",
-          "link": "https://www.celticquicknews.co.uk/whatever-happened-to-cristian-gamboa/",
-          "publishedOn": "2024-06-15T05:00:38.000Z",
-          "wordCount": 3522,
-          "title": "WHATEVER HAPPENED TO…CRISTIAN GAMBOA?",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/06/cristian-gamboa-dud-featured.png"
         }
       ]
     },
@@ -471,6 +451,36 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=200148",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic haven’t blinked in the transfer market yet despite the window officially having been open for nearly a week. Brendan Rodgers is known to be...",
+          "link": "https://www.67hailhail.com/opinion/why-quiet-on-the-transfer-front-at-celtic-could-be-a-positive-signal/",
+          "publishedOn": "2024-06-19T18:10:00.000Z",
+          "wordCount": 1366,
+          "title": "Why quiet on the transfer front at Celtic could be a positive signal",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/06/GettyImages-2153585668-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=200145",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic supporters are excited at what the transfer window could have to offer this summer and will hope their faith can be repaid. The reigning...",
+          "link": "https://www.67hailhail.com/opinion/celtic-and-the-reality-of-transfer-fees-this-summer/",
+          "publishedOn": "2024-06-19T17:10:00.000Z",
+          "wordCount": 1380,
+          "title": "Celtic and the reality of transfer fees this summer",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/05/GettyImages-2153794371-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=200123",
+          "author": "Patrick Sinat",
+          "description": "The thing I love about this job is that I am constantly thinking about players who could help improve the Celtic first team. With Brendan...",
+          "link": "https://www.67hailhail.com/opinion/the-international-winger-celtic-could-buy-as-competition-for-luis-palma/",
+          "publishedOn": "2024-06-19T16:40:00.000Z",
+          "wordCount": 1377,
+          "title": "The international winger Celtic could buy as competition for Luis Palma - opinion",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/06/GettyImages-1232329802-1-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=200142",
           "author": "Sean Markus Clifford",
