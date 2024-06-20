@@ -204,26 +204,6 @@
           "wordCount": 4333,
           "title": "THE REMARKABLE RONNIE SIMPSON: Part One",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2021/10/RONNIE-SIMPSON-FEATURRED.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=108981",
-          "author": "CQN Magazine",
-          "description": "BRENDAN RODGERS was an acclaimed double winner after returning to Celtic in June 2023 following an absence of over four years. The Irishman marked an extraordinary comeback by leading the champions to their third title in a row – their twelfth crown in 13 years – and also a thoroughly enjoyable Scottish Cup success at Hampden [...]",
-          "link": "https://www.celticquicknews.co.uk/brendan-rodgers-the-story-so-far-part-four/",
-          "publishedOn": "2024-06-16T06:00:11.000Z",
-          "wordCount": 3899,
-          "title": "BRENDAN RODGERS: THE STORY SO FAR: Part Four",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/06/BRENDAN-RODGERS-NEW-FEATURED-DONZ.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=109014",
-          "author": "CQN Magazine",
-          "description": "THERE can be no more bizarre and bewildering transfer in Celtic history than that of Marvin Compper. Brendan Rodgers paid £1million to RB Leipzig for the one-time German international central defender in January 2018 and the Hoops fans were eager to get a first look at the new Bhoy. Compper, at the age of 33, [...]",
-          "link": "https://www.celticquicknews.co.uk/whatever-happened-to-marvin-compper/",
-          "publishedOn": "2024-06-16T05:00:39.000Z",
-          "wordCount": 3630,
-          "title": "WHATEVER HAPPENED TO…MARVIN COMPPER?",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/06/MARVIN-COMPPER-FEATURED-HHH.png"
         }
       ]
     },
@@ -491,6 +471,46 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=200268",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic will take a bright youngster on trial to assess his capabilities during a week-long camp within the academy set-up. The Bhoys are actively on...",
+          "link": "https://www.67hailhail.com/celtic-youth/celtic-to-take-young-prospect-on-trial-due-to-his-goalscoring-exploits/",
+          "publishedOn": "2024-06-20T18:10:00.000Z",
+          "wordCount": 1367,
+          "title": "Celtic to take young prospect on trial due to his goalscoring exploits",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/04/GettyImages-2149402454-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=200208",
+          "author": "Patrick Sinat",
+          "description": "Celtic losing Liel Abada at the beginning of the year was a tough one for the fans and Brendan Rodgers to take. The Israeli winger...",
+          "link": "https://www.67hailhail.com/news/liel-abadas-record-breaking-contract-after-leaving-celtic-for-charlotte-fc/",
+          "publishedOn": "2024-06-20T17:40:00.000Z",
+          "wordCount": 1320,
+          "title": "Liel Abada’s lucrative contract after leaving Celtic for Charlotte FC",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/09/GettyImages-1547248943-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=200259",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic fans will be keeping an eye on events at major international tournaments this summer as they wait for pre-season to commence at Lennoxtown. As...",
+          "link": "https://www.67hailhail.com/opinion/when-cameron-carter-vickers-and-alistair-johnston-could-return-to-celtic-from-copa-america/",
+          "publishedOn": "2024-06-20T17:10:00.000Z",
+          "wordCount": 1451,
+          "title": "When Cameron Carter-Vickers and Alistair Johnston could return to Celtic from Copa America",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/04/GettyImages-2149398030-1-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=200212",
+          "author": "Patrick Sinat",
+          "description": "With all the majority of the Celtic fans’ attention being taken up by Euro 2024, the small matter of the lack of transfer business by...",
+          "link": "https://www.67hailhail.com/news/tosh-mckinlay-urges-celtic-to-sign-striker-whos-definitely-got-the-credentials-for-parkhead-move/",
+          "publishedOn": "2024-06-20T16:40:00.000Z",
+          "wordCount": 1406,
+          "title": "‘Definitely’: Tosh McKinlay urges Celtic to sign striker who’s ‘got the credentials’ for Parkhead move",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/06/GettyImages-1618557-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=200244",
           "author": "Sean Markus Clifford",
