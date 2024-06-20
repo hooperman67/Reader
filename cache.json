@@ -194,16 +194,6 @@
           "wordCount": 3644,
           "title": "WHATEVER HAPPENED TO…FILIP BENKOVIC?",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/06/FILIP-BENKOVIC-FEATURED-KKKKK.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=83670",
-          "author": "CQN Magazine",
-          "description": "RONNIE SIMPSON was voted Greatest-Ever Goalkeeper by the Hoops supporters. To celebrate this amazing individual, CQN will be publishing a week-long tribute to the netminder who was known as ‘Faither’ to his Hoops team-mates. And to kick off the EXCLUSIVE series, author Alex Gordon, who has written fifteen Celtic books, including ‘Lisbon Lions: The 40th [...]",
-          "link": "https://www.celticquicknews.co.uk/the-remarkable-ronnie-simpson-part-one/",
-          "publishedOn": "2024-06-16T07:15:58.000Z",
-          "wordCount": 4333,
-          "title": "THE REMARKABLE RONNIE SIMPSON: Part One",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2021/10/RONNIE-SIMPSON-FEATURRED.png"
         }
       ]
     },
@@ -471,6 +461,16 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=200265",
+          "author": "Sean Markus Clifford",
+          "description": "Former Celtic striker Giorgos Giakoumakis is now a Cruz Azul player after joining the Mexican outfit from Atlanta United. His time in the United States...",
+          "link": "https://www.67hailhail.com/news/giorgos-giakoumakis-delivers-cutting-verdict-on-mls-after-second-move-since-celtic-exit/",
+          "publishedOn": "2024-06-20T19:10:00.000Z",
+          "wordCount": 1400,
+          "title": "Giorgos Giakoumakis delivers cutting verdict on MLS after second move since Celtic exit",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/04/GettyImages-1396731064-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=200268",
           "author": "Sean Markus Clifford",
@@ -1240,26 +1240,6 @@
           "wordCount": 1456,
           "title": "What the Celtic fans are saying about the club's message to CM Punk after WWE drama",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/06/GettyImages-2157146991-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=199876",
-          "author": "Patrick Sinat",
-          "description": "Former Celtic striker, Craig Beattie has admitted that Kyogo Furuhashi has blown him away since he joined the club back in the summer of 2021....",
-          "link": "https://www.67hailhail.com/news/craig-beattie-admits-kyogo-furuhashi-has-a-quality-hes-never-seen-before-at-celtic/",
-          "publishedOn": "2024-06-16T07:40:00.000Z",
-          "wordCount": 1394,
-          "title": "'I remember being struck': Craig Beattie admits Kyogo Furuhashi has a quality he's never 'ever seen before' at Celtic",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/05/GettyImages-2146610381-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=199868",
-          "author": "Patrick Sinat",
-          "description": "Celtic captain, Callum McGregor, has responded to the criticism aimed at him by former Rangers manager, Graeme Souness, for his performance for Scotland against Germany...",
-          "link": "https://www.67hailhail.com/news/celtic-captain-callum-mcgregor-responds-to-scotland-criticism-aimed-at-him-by-graeme-souness/",
-          "publishedOn": "2024-06-16T06:43:00.000Z",
-          "wordCount": 1384,
-          "title": "\"If anyone has a pop at you\": Celtic captain Callum McGregor responds to Graeme Souness' Scotland criticism",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/06/GettyImages-2157664123-scaled.jpg"
         }
       ]
     },
