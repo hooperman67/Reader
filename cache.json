@@ -234,26 +234,6 @@
           "wordCount": 3983,
           "title": "THE REMARKABLE RONNIE SIMPSON: Part Two",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2019/05/SIMPSON-FEATURED.jpg"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=108983",
-          "author": "CQN Magazine",
-          "description": "BRENDAN RODGERS was an acclaimed double winner after returning to Celtic in June 2023 following an absence of over four years. The Irishman marked an extraordinary comeback by leading the champions to their third title in a row – their twelfth crown in 13 years – and also a thoroughly enjoyable Scottish Cup success at Hampden [...]",
-          "link": "https://www.celticquicknews.co.uk/brendan-rodgers-the-story-so-far-part-five/",
-          "publishedOn": "2024-06-17T06:00:53.000Z",
-          "wordCount": 4574,
-          "title": "BRENDAN RODGERS: THE STORY SO FAR: Part Five",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/06/BRENDAN-RODGERS-LC-FINAL-FEATURED.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=108767",
-          "author": "CQN Magazine",
-          "description": "FILIP BENKOVIC became a Celtic fans’ favourite after joining on a season-long loan deal from Leicester City in 2018/19. The accomplished Croatian centre-back, now 26, made 20 appearances in a treble-winning season under the guidance of Brendan Rodgers. Benkovic had been bought by the Midlands club for £13million from Dinamo Zagreb just before they agreed to move [...]",
-          "link": "https://www.celticquicknews.co.uk/whatever-happened-to-filip-benkovic/",
-          "publishedOn": "2024-06-17T05:00:36.000Z",
-          "wordCount": 3644,
-          "title": "WHATEVER HAPPENED TO…FILIP BENKOVIC?",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/06/FILIP-BENKOVIC-FEATURED-KKKKK.png"
         }
       ]
     },
@@ -521,6 +501,16 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=200304",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic defender Anthony Ralston has been at the centre of media attention over the last few days following Scotland’s draw with Switzerland at EURO 2024....",
+          "link": "https://www.67hailhail.com/news/jack-hendry-on-what-celtics-anthony-ralston-did-really-well-in-recent-euro-2024-stalemate/",
+          "publishedOn": "2024-06-21T18:10:00.000Z",
+          "wordCount": 1364,
+          "title": "Jack Hendry on what Celtic's Anthony Ralston did 'really well' in recent EURO 2024 stalemate",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/06/GettyImages-2157805330-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=200301",
           "author": "Sean Markus Clifford",
