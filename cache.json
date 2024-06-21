@@ -224,16 +224,6 @@
           "wordCount": 4307,
           "title": "John Keane: the only man who stepped forward",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=83703",
-          "author": "CQN Magazine",
-          "description": "THE remarkable Ronnie Simpson was voted Celtic’s Greatest-Ever Goalkeeper by the Hoops supporters in the Millennium Poll. To celebrate the extraordinary Hoops career of the Lisbon Lion, CQN are publishing a week-long tribute to the netminder who was known as ‘Faither’ to his team-mates. In Part Two of our EXCLUSIVE series, author Alex Gordon has [...]",
-          "link": "https://www.celticquicknews.co.uk/the-remarkable-ronnie-simpson-part-two/",
-          "publishedOn": "2024-06-17T07:15:55.000Z",
-          "wordCount": 3983,
-          "title": "THE REMARKABLE RONNIE SIMPSON: Part Two",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2019/05/SIMPSON-FEATURED.jpg"
         }
       ]
     },
@@ -501,6 +491,16 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=200310",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic are looking for a new goalkeeper in the transfer window to fill the void left by Joe Hart between the sticks. Undoubtedly, the former...",
+          "link": "https://www.67hailhail.com/news/celtic-scout-tosh-mckinlay-highlights-the-important-traits-needed-in-joe-hart-successor/",
+          "publishedOn": "2024-06-21T19:10:00.000Z",
+          "wordCount": 1392,
+          "title": "Celtic scout Tosh McKinlay highlights the 'important' traits needed in Joe Hart successor",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/05/GettyImages-2153800173-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=200304",
           "author": "Sean Markus Clifford",
@@ -1280,36 +1280,6 @@
           "wordCount": 1324,
           "title": "The latest on Celtic links with Flavius Daniliuc as intriguing report emerges",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/06/GettyImages-2156473251-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=199929",
-          "author": "Sean Markus Clifford",
-          "description": "Celtic striker Kyogo Furuhashi is enjoying some downtime following another successful campaign at Parkhead under Brendan Rodgers. Undoubtedly, he did need to acclimatise to a...",
-          "link": "https://www.67hailhail.com/news/celtic-talisman-kyogo-furuhashi-addresses-future-plans-while-visiting-his-former-club/",
-          "publishedOn": "2024-06-17T08:10:00.000Z",
-          "wordCount": 1340,
-          "title": "Celtic talisman Kyogo Furuhashi addresses future plans while visiting his former club",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/04/GettyImages-2089025476-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=199927",
-          "author": "Patrick Sinat",
-          "description": "Matt O’Riley is a player who is attracting attention from all of the major leagues in Europe and it seems that Celtic will have a...",
-          "link": "https://www.67hailhail.com/transfers/the-one-condition-that-could-prevent-atletico-madrid-from-buying-celtics-matt-oriley/",
-          "publishedOn": "2024-06-17T07:44:10.000Z",
-          "wordCount": 1350,
-          "title": "Report: The one condition that could prevent Atletico Madrid from buying Celtic’s Matt O’Riley",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/06/GettyImages-2127547620-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=199917",
-          "author": "Patrick Sinat",
-          "description": "Celtic’s work in the transfer window has not even begun yet but already the club are set to land a tidy financial windfall. Players will...",
-          "link": "https://www.67hailhail.com/news/how-much-money-celtic-are-set-to-bank-when-giorgos-giakoumakis-leaves-atlanta-united/",
-          "publishedOn": "2024-06-17T06:44:00.000Z",
-          "wordCount": 1343,
-          "title": "Report: How much money Celtic are set to bank as Giorgios Giakoumakis leaves Atlanta United",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/04/GettyImages-1396731064-scaled.jpg"
         }
       ]
     },
