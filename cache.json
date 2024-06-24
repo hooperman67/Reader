@@ -244,16 +244,6 @@
           "wordCount": 4150,
           "title": "‘OUTSTANDING’ CELT’S FINAL CHALLENGE",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/05/CALLUM-MCGREGOR-V-NORWAY-NOV-2023.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=83804",
-          "author": "CQN Magazine",
-          "description": "THE remarkable Ronnie Simpson was voted Celtic’s Greatest-Ever Goalkeeper by the Hoops supporters in the Millennium Poll. To celebrate the extraordinary Hoops career of the Lisbon Lion, CQN are publishing a week-long tribute to the netminder who was known as ‘Faither’ to his team-mates. In Part Five of our EXCLUSIVE series, author Alex Gordon opens [...]",
-          "link": "https://www.celticquicknews.co.uk/the-remarkable-ronnie-simpson-part-five/",
-          "publishedOn": "2024-06-20T07:15:37.000Z",
-          "wordCount": 3997,
-          "title": "THE REMARKABLE RONNIE SIMPSON: Part Five",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2021/10/RONNIE-SIMPSON-FEATURED-FFF.jpg"
         }
       ]
     },
@@ -521,6 +511,16 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=200500",
+          "author": "Sean Markus Clifford",
+          "description": "The transfer window is now open and Celtic will be keen to put their best foot forward in negotiations to get players through the door...",
+          "link": "https://www.67hailhail.com/opinion/the-internal-transfer-frustration-celtic-will-be-keen-to-find-a-way-of-evading/",
+          "publishedOn": "2024-06-24T19:10:00.000Z",
+          "wordCount": 1532,
+          "title": "The internal transfer frustration Celtic will be keen to find a way of evading",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/03/GettyImages-2100327433-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=200496",
           "author": "Sean Markus Clifford",
@@ -1120,36 +1120,6 @@
           "wordCount": 1449,
           "title": "Andy Roberston on Celtic man Anthony Ralston's mentality as Scotland draw at EURO 2024",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/06/GettyImages-2157787209-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=200172",
-          "author": "Sean Markus Clifford",
-          "description": "Celtic captain Callum McGregor played for the entire 90 minutes in Scotland’s 1-1 draw at EURO 2024 last night, earning his 61st cap for Steve...",
-          "link": "https://www.67hailhail.com/opinion/the-verdict-on-callum-mcgregor-as-celtic-captain-stars-for-scotland-against-switzerland/",
-          "publishedOn": "2024-06-20T08:10:00.000Z",
-          "wordCount": 1331,
-          "title": "The verdict on Callum McGregor as Celtic captain stars for Scotland against Switzerland",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/06/GettyImages-2157783139-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=200166",
-          "author": "Patrick Sinat",
-          "description": "With the Celtic fans looking forward to the club announcing their first summer signing, one player has spoken out when asked directly if he would...",
-          "link": "https://www.67hailhail.com/news/aberdeen-striker-responds-honestly-when-asked-if-he-would-like-to-join-celtic/",
-          "publishedOn": "2024-06-20T07:40:00.000Z",
-          "wordCount": 1454,
-          "title": "‘Honestly’: Aberdeen striker responds when asked if he would like to join Celtic",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/06/GettyImages-1680678304-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=200160",
-          "author": "Patrick Sinat",
-          "description": "Scotland’s draw with Switzerland last night keeps Celtic’s interest in Euro 2024 until Sunday at least. With four Celtic players in his squad, Steve Clark’s...",
-          "link": "https://www.67hailhail.com/news/david-moyes-says-another-scotland-defender-deserves-blame-for-anthony-ralstons-error-vs-switzerland/",
-          "publishedOn": "2024-06-20T06:40:00.000Z",
-          "wordCount": 1362,
-          "title": "'Really disappointed': David Moyes says another Scotland defender deserves blame for Anthony Ralston error",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/06/GettyImages-2157787539-scaled.jpg"
         }
       ]
     },
