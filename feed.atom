@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-06-26T08:15:09.088Z</updated>
+    <updated>2024-06-26T10:12:04.079Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aberdeen CEO Alan Burrows confirms whether Celtic have made a bid for Bojan Miovski yet]]></title>
+        <id>https://www.67hailhail.com/?p=200581</id>
+        <link href="https://www.67hailhail.com/transfers/aberdeen-ceo-alan-burrows-confirms-whether-celtic-have-made-a-bid-for-bojan-miovski-yet/"/>
+        <updated>2024-06-26T09:40:00.000Z</updated>
+        <summary type="html"><![CDATA[The rumours surrounding Celtic’s interest in Aberdeen striker, Bojan Miovski, are simply not going away and as the transfer speculation ramps up in general, I...]]></summary>
+        <author>
+            <name>Patrick Sinat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Phenomenal’: Mikkel Beck shares what’s ‘surprised’ him about Matt O’Riley at Celtic]]></title>
+        <id>https://www.67hailhail.com/?p=200589</id>
+        <link href="https://www.67hailhail.com/news/mikkel-beck-shares-whats-surprised-him-about-phenomenal-matt-oriley-at-celtic/"/>
+        <updated>2024-06-26T08:40:00.000Z</updated>
+        <summary type="html"><![CDATA[With the amount of transfer chat and rumour surrounding Celtic hero, Matt O’Riley, the fans could be forgiven for thinking that he is definitely on...]]></summary>
+        <author>
+            <name>Patrick Sinat</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘The reality is’: Alan Burrows’ message to Duk after the player was asked if he would like to join Celtic]]></title>
         <id>https://www.67hailhail.com/?p=200584</id>
