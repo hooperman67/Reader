@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-06-27T16:14:14.306Z</updated>
+    <updated>2024-06-27T18:13:38.032Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What Celtic links to young talent say about Bhoys' exciting roadmap for the future]]></title>
+        <id>https://www.67hailhail.com/?p=200738</id>
+        <link href="https://www.67hailhail.com/opinion/what-celtic-links-to-young-talent-say-about-bhoys-exciting-roadmap-for-the-future/"/>
+        <updated>2024-06-27T18:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Celtic have been quiet on the transfer front so far, yet there is optimism that bodies will arrive to strengthen the group over the coming...]]></summary>
+        <author>
+            <name>Sean Markus Clifford</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic's Matt O'Riley explains what is 'so good' about playing alongside Kyogo Furuhashi]]></title>
+        <id>https://www.67hailhail.com/?p=200735</id>
+        <link href="https://www.67hailhail.com/news/celtics-matt-oriley-explains-what-is-so-good-about-playing-alongside-kyogo-furuhashi/"/>
+        <updated>2024-06-27T17:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Celtic pair Matt O’Riley and Kyogo Furuhashi are both pivotal to Brendan Rodgers’ mission of bringing success to Parkhead. Last term, the duo in question...]]></summary>
+        <author>
+            <name>Sean Markus Clifford</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[John Kennedy on how Celtic plan to turn performances into results in the Champions League]]></title>
+        <id>https://www.67hailhail.com/?p=200716</id>
+        <link href="https://www.67hailhail.com/news/john-kennedy-on-how-celtic-plan-to-turn-performances-into-results-in-the-champions-league/"/>
+        <updated>2024-06-27T16:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Celtic are now back in pre-season training and excitement is building ahead of another busy campaign for the Bhoys on all fronts. For now, getting...]]></summary>
+        <author>
+            <name>Sean Markus Clifford</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hamilton coach Charlie Mulgrew names the Celtic manager he learned from who was ‘ahead of his time’]]></title>
         <id>https://www.67hailhail.com/?p=200695</id>
@@ -952,36 +982,6 @@
         <link href="https://www.celticquicknews.co.uk/celtics-18-25m-riddle/"/>
         <updated>2024-06-23T06:30:40.000Z</updated>
         <summary type="html"><![CDATA[CELTIC spent £18.25million in last summer’s transfer market bringing in seven recruits. You can add £1million to that total which was the fee agreed for Japanese midfielder Tomoki Iwata when his initial loan move from Yokohama F Marinos became permanent. Not one of the new Bhoys figured in the Scottish Cup Final victory over Philippe Clement’s [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BRENDAN RODGERS: THE STORY SO FAR: Part Eleven]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=109286</id>
-        <link href="https://www.celticquicknews.co.uk/brendan-rodgers-the-story-so-far-part-eleven/"/>
-        <updated>2024-06-23T06:00:39.000Z</updated>
-        <summary type="html"><![CDATA[BRENDAN RODGERS was an acclaimed double winner after returning to Celtic in June 2023 following an absence of over four years. The Irishman marked an extraordinary comeback by leading the champions to their third title in a row – their twelfth crown in 13 years – and also a thoroughly enjoyable Scottish Cup success at Hampden [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HAPPY 84th BIRTHDAY, WILLIE WALLACE]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=92762</id>
-        <link href="https://www.celticquicknews.co.uk/happy-84th-birthday-willie-wallace/"/>
-        <updated>2024-06-23T05:15:03.000Z</updated>
-        <summary type="html"><![CDATA[LISBON LION Willie Wallace celebrates his 84th birthday today. The versatile star was the only player bought by legendary manager Jock Stein who performed in the Celtic line-up during the unforgettable and groundbreaking 2-1 European Cup Final triumph over Inter Milan in the Portuguese capital on May 25 1967. In another CQN EXCLUSIVE, author Alex [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WHATEVER HAPPENED TO…EBOUE KOUASSI?]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=108962</id>
-        <link href="https://www.celticquicknews.co.uk/whatever-happened-to-eboue-kouassi/"/>
-        <updated>2024-06-23T05:00:51.000Z</updated>
-        <summary type="html"><![CDATA[‘IF I PLAY MORE then you will see the lion. I will fight for the team, do anything for the team. I will go to war for the team and win for the team. I just want to play.’ The stirring words belonged to Ivory Coast international midfielder Eboue Kouassi shortly after he arrived at [...]]]></summary>
         <author>
             <name>CQN Magazine</name>
         </author>
