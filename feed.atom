@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-06-27T12:21:49.809Z</updated>
+    <updated>2024-06-27T14:11:10.217Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chris Sutton calls for Celtic transfer urgency]]></title>
+        <id>https://www.67hailhail.com/?p=200710</id>
+        <link href="https://www.67hailhail.com/news/chris-sutton-explains-why-celtic-need-to-show-urgency-in-their-goalkeeper-quest/"/>
+        <updated>2024-06-27T14:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Celtic’s pursuit of a number-one goalkeeper has become the transfer story of the summer so far at Parkhead. There still isn’t a definitive indication of...]]></summary>
+        <author>
+            <name>Sean Markus Clifford</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Special': Joe Hart shares what his ‘unbelievable’ Celtic teammates did for him on Trophy Day]]></title>
+        <id>https://www.67hailhail.com/?p=200698</id>
+        <link href="https://www.67hailhail.com/news/joe-hart-explains-what-his-unbelievable-former-celtic-teammates-did-for-him-on-trophy-day/"/>
+        <updated>2024-06-27T13:12:00.000Z</updated>
+        <summary type="html"><![CDATA[The retirement of Joe Hart has not only hit the Celtic fans really hard, but it also hit his teammates as well. The emotional scenes...]]></summary>
+        <author>
+            <name>Patrick Sinat</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[John Kennedy addresses Celtic's ongoing hunt for a new goalkeeper]]></title>
         <id>https://www.67hailhail.com/?p=200693</id>
