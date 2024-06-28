@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=121597",
+          "author": "CQN Magazine",
+          "description": "CELTIC fans will have to live with the fact that it is more likely to discover the moon is made of the best Dutch Edam than Filipe Jota ever donning a green and white top again. Appealing thought though it may be to thrillseekers everywhere, it is NOT going to happen. I’m reading tales that [...]",
+          "link": "https://www.celticquicknews.co.uk/alexs-angle-jota-you-gotta-look-on-the-money-side/",
+          "publishedOn": "2024-06-28T06:31:22.000Z",
+          "wordCount": 3970,
+          "title": "ALEX’S ANGLE: JOTA, YOU GOTTA LOOK ON THE MONEY SIDE",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/03/ALEX-GORDON-FACEBOOK-CELTIC-TUNNEL.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=121560",
           "author": "CQN Magazine",
           "description": "THE boos and jeers that reverberated around the stadium performed a sweet symphony to the ears of Brendan Rodgers. The Celtic manager stood transfixed on the touchline as his players resolutely guarded Joe Hart as they dug in for a crucial and memorable win. On September 3 2023, the partizan 50,000 crowd – without a [...]",
@@ -551,6 +561,36 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=200762",
+          "author": "John McGinley",
+          "description": "Jonny Hayes is back in the building",
+          "link": "https://www.67hailhail.com/news/no-word-from-celtic-but-the-latest-staff-appointment-at-lennoxtown-appears-to-be-confirmed/",
+          "publishedOn": "2024-06-28T07:40:12.000Z",
+          "wordCount": 1276,
+          "title": "No word from Celtic but the latest staff appointment at Lennoxtown appears to be confirmed",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/01/GettyImages-1842190439-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=200756",
+          "author": "John McGinley",
+          "description": "\"There’s been a couple of concrete bids from clubs in two of Europe’s top five leagues.\"",
+          "link": "https://www.67hailhail.com/transfers/manager-admits-big-money-would-prompt-sale-of-striker-linked-with-celtic-bid-status/",
+          "publishedOn": "2024-06-28T07:10:06.000Z",
+          "wordCount": 1334,
+          "title": "Manager admits 'big money' would prompt sale of Copa America striker linked with Celtic, bid status",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/06/GettyImages-2158501311-scaled-e1719558212429.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=200749",
+          "author": "John McGinley",
+          "description": "\"He’s now back and it seems to me that he’s really settled here and wants to be here for long term.\"",
+          "link": "https://www.67hailhail.com/news/charlie-mulgrew-makes-promising-brendan-rodgers-celtic-prediction-after-recent-lennoxtown-chats/",
+          "publishedOn": "2024-06-28T06:40:17.000Z",
+          "wordCount": 1367,
+          "title": "Charlie Mulgrew makes promising Brendan Rodgers Celtic prediction after recent Lennoxtown chats",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/06/GettyImages-2153794371-2-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=200744",
           "author": "John McGinley",
