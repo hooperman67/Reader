@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-06-29T08:14:17.116Z</updated>
+    <updated>2024-06-29T10:11:02.350Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Brendan Rodgers compares the Celtic experience to Leicester, wants long stay in Glasgow]]></title>
+        <id>https://www.67hailhail.com/?p=200827</id>
+        <link href="https://www.67hailhail.com/news/brendan-rodgers-compares-the-celtic-experience-to-leicester-wants-long-stay-in-glasgow/"/>
+        <updated>2024-06-29T08:42:49.000Z</updated>
+        <summary type="html"><![CDATA["I had a really great time at Leicester – good people, a fantastic club, and we created history there – but Joe Hart said it, and he was right – Celtic is about a feeling and that was what we wanted coming back."]]></summary>
+        <author>
+            <name>John McGinley</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Worried Kris Boyd blasts Rangers with stadium chaos prediction and says Celtic could benefit]]></title>
         <id>https://www.67hailhail.com/?p=200822</id>
