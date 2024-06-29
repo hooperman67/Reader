@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-06-29T16:13:42.484Z</updated>
+    <updated>2024-06-29T18:14:00.842Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[John Kennedy explains alternative Celtic pre-season plans]]></title>
+        <id>https://www.67hailhail.com/?p=200836</id>
+        <link href="https://www.67hailhail.com/news/john-kennedy-explains-alternative-celtic-pre-season-plans/"/>
+        <updated>2024-06-29T16:48:51.000Z</updated>
+        <summary type="html"><![CDATA["It's a bit different for us this year."]]></summary>
+        <author>
+            <name>John McGinley</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Brendan Rodgers compares the Celtic experience to Leicester, wants long stay in Glasgow]]></title>
         <id>https://www.67hailhail.com/?p=200827</id>
@@ -932,26 +942,6 @@
         <link href="https://www.celticquicknews.co.uk/have-celtic-found-the-new-victor-wanyama/"/>
         <updated>2024-06-25T06:30:08.000Z</updated>
         <summary type="html"><![CDATA[BOSUN LAWAL returned to Celtic last month after his successful loan spell at Fleetwood Town. And the 21-year-old Dubliner could emerge as a surprise contender for a midfield role in Brendan Rodgers’ squad. The six times-capped Republic of Ireland international has already been likened to former Hoops fans’ hero Victor Wanyama with his powerful build [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BRENDAN RODGERS: THE STORY SO FAR: Part Thirteen]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=109557</id>
-        <link href="https://www.celticquicknews.co.uk/brendan-rodgers-the-story-so-far-part-thirteen/"/>
-        <updated>2024-06-25T06:00:29.000Z</updated>
-        <summary type="html"><![CDATA[BRENDAN RODGERS was an acclaimed double winner after returning to Celtic in June 2023 following an absence of over four years. The Irishman marked an extraordinary comeback by leading the champions to their third title in a row – their twelfth crown in 13 years – and also a thoroughly enjoyable Scottish Cup success at Hampden [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WHATEVER HAPPENED TO…ALEKSANDAR TONEV?]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=109110</id>
-        <link href="https://www.celticquicknews.co.uk/whatever-happened-to-aleksandar-tonev/"/>
-        <updated>2024-06-25T05:00:15.000Z</updated>
-        <summary type="html"><![CDATA[BULGARIAN international forward Aleksandar Tonev was yet another underwhelming signing during Ronny Deial’s two-year stint. The versatile midfielder/winger arrived in August 2014 on a year-long loan from Aston Villa. Tonev didn’t get off the most encouraging starts during his new career in Glasgow. Boss Deila needed cover for James Forrest, suffering a succession of injuries, [...]]]></summary>
         <author>
             <name>CQN Magazine</name>
         </author>
