@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-06-30T18:15:16.316Z</updated>
+    <updated>2024-06-30T20:11:47.943Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MLS manager makes it clear what kind of reputation Celtic hero has in his homeland]]></title>
+        <id>https://www.67hailhail.com/?p=200927</id>
+        <link href="https://www.67hailhail.com/news/mls-manager-makes-it-clear-what-kind-of-reputation-celtic-hero-alistair-johnston-has-in-his-homeland/"/>
+        <updated>2024-06-30T19:29:54.000Z</updated>
+        <summary type="html"><![CDATA["I’ve never seen Ali have a bad game for Canada."]]></summary>
+        <author>
+            <name>John McGinley</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kenny Miller piles the pressure on Rangers' new signings as Celtic reality sinks in]]></title>
         <id>https://www.67hailhail.com/?p=200917</id>
@@ -822,36 +832,6 @@
         <link href="https://www.67hailhail.com/news/mikkel-beck-shares-whats-surprised-him-about-phenomenal-matt-oriley-at-celtic/"/>
         <updated>2024-06-26T08:40:00.000Z</updated>
         <summary type="html"><![CDATA[With the amount of transfer chat and rumour surrounding Celtic hero, Matt O’Riley, the fans could be forgiven for thinking that he is definitely on...]]></summary>
-        <author>
-            <name>Patrick Sinat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘The reality is’: Alan Burrows’ message to Duk after the player was asked if he would like to join Celtic]]></title>
-        <id>https://www.67hailhail.com/?p=200584</id>
-        <link href="https://www.67hailhail.com/news/alan-burrows-delivers-a-dose-of-reality-to-duk-after-the-player-was-asked-if-he-would-like-to-join-celtic/"/>
-        <updated>2024-06-26T07:40:00.000Z</updated>
-        <summary type="html"><![CDATA[The transfer silly season is likely to ramp up a little bit for the Celtic fans now that the Euros are entering the final stages...]]></summary>
-        <author>
-            <name>Patrick Sinat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SO LONG, SEAD: THE PERILS OF CROSSING BRENDAN]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=121534</id>
-        <link href="https://www.celticquicknews.co.uk/so-long-sead-the-perils-of-crossing-brendan/"/>
-        <updated>2024-06-26T07:19:24.000Z</updated>
-        <summary type="html"><![CDATA[SEAD HAKSABANOVIC took to social media in August last year to have a go at Brendan Rodgers’ selection policy. The Montenegrin international winger failed to start any of the opening four games of the season and posted on his Instagram page: “If they don’t see your value maybe you’re not at the right place.” Haksabanovic [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marvin Bartley defends Celtic player who has been ‘constantly’ blamed for Scotland’s Euro 2024 failure]]></title>
-        <id>https://www.67hailhail.com/?p=200577</id>
-        <link href="https://www.67hailhail.com/news/marvin-bartley-defends-celtic-player-who-has-been-constantly-blamed-for-scotlands-euro-2024-failure/"/>
-        <updated>2024-06-26T06:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Scotland’s Euro 2024 failure in Germany has brought a lot of heat onto the Celtic contingent of Steve Clarke’s team. A heavy defeat against Germany,...]]></summary>
         <author>
             <name>Patrick Sinat</name>
         </author>
