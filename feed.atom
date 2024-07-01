@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-07-01T12:23:12.252Z</updated>
+    <updated>2024-07-01T14:10:43.114Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What the Southampton fans are saying about £25m move for Celtic’s Matt O’Riley]]></title>
+        <id>https://www.67hailhail.com/?p=200991</id>
+        <link href="https://www.67hailhail.com/news/what-the-southampton-fans-are-saying-about-25m-move-for-celtics-matt-oriley/"/>
+        <updated>2024-07-01T14:10:00.000Z</updated>
+        <summary type="html"><![CDATA['We need to start somewhere.', 'Someone else will swoop in.']]></summary>
+        <author>
+            <name>Patrick Sinat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic's Cameron Carter-Vickers awaits crunch Copa America clash, progression on the line]]></title>
+        <id>https://www.67hailhail.com/?p=200977</id>
+        <link href="https://www.67hailhail.com/opinion/celtics-cameron-carter-vickers-awaits-crunch-copa-america-clash-progression-on-the-line/"/>
+        <updated>2024-07-01T12:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Celtic’s Cameron Carter-Vickers and his national teammates are preparing for a do-or-die Copa America clash against Uruguay in the early hours of tomorrow morning. The...]]></summary>
+        <author>
+            <name>Sean Markus Clifford</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic confirm summer exit as prospect completes move to Scottish Championship side]]></title>
         <id>https://www.67hailhail.com/?p=200980</id>
