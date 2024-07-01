@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-07-01T08:15:46.849Z</updated>
+    <updated>2024-07-01T10:14:02.014Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Callum McGregor explains how Brendan Rodgers has built a 'siege mentality' at Celtic]]></title>
+        <id>https://www.67hailhail.com/?p=200958</id>
+        <link href="https://www.67hailhail.com/news/callum-mcgregor-explains-how-brendan-rodgers-has-built-a-siege-mentality-at-celtic/"/>
+        <updated>2024-07-01T09:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Every great Celtic manager needs a captain willing to fight for the cause, and Brendan Rodgers certainly has that in Callum McGregor. Since taking the...]]></summary>
+        <author>
+            <name>Sean Markus Clifford</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What happened at Euro 2024 last night could impact Celtic making their first summer signing - opinion]]></title>
+        <id>https://www.67hailhail.com/?p=200949</id>
+        <link href="https://www.67hailhail.com/opinion/what-happened-at-euro-2024-last-night-could-impact-celtic-making-their-first-summer-signing/"/>
+        <updated>2024-07-01T08:40:00.000Z</updated>
+        <summary type="html"><![CDATA[As we enter a new summer month, Celtic have still to make their first signing for the new season ahead. With Brendan Rodgers needing to...]]></summary>
+        <author>
+            <name>Patrick Sinat</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic's Alistair Johnston takes to Instagram after Canada become Copa America history makers]]></title>
         <id>https://www.67hailhail.com/?p=200951</id>
