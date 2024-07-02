@@ -6,6 +6,26 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=121645",
+          "author": "CQN Magazine",
+          "description": "BRENDAN RODGERS completed his second time-around Celtic campaign by sealing the league and Cup double on the iconic date of May 25 at Hampden. The Irishman, who had returned after almost four and half years in ‘exile’ at Leicester City, mastermined the club’s third successive title and twelfth in 13 seasons. Rodgers celebrated the club’s [...]",
+          "link": "https://www.celticquicknews.co.uk/brendan-rodgers-the-story-so-far-part-twenty/",
+          "publishedOn": "2024-07-02T06:00:10.000Z",
+          "wordCount": 4651,
+          "title": "BRENDAN RODGERS: THE STORY SO FAR: Part Twenty",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/05/BRENDAN-RODGERS-SCOTTISH-CUP-2017.png"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/?p=109463",
+          "author": "CQN Magazine",
+          "description": "TONY MOWBRAY was given £3.8million – a substantial amount of money at the time – to spend on bringing striker Marc-Antoine Fortune to Parkhead in July 2009 as he prepared for his debut season as Celtic manager. The club’s former centre-back had been impressed by the 28-year-old French star during his spell in charge at [...]",
+          "link": "https://www.celticquicknews.co.uk/whatever-happened-to-marc-antoine-fortune/",
+          "publishedOn": "2024-07-02T05:00:58.000Z",
+          "wordCount": 3845,
+          "title": "WHATEVER HAPPENED TO…MARC-ANTOINE FORTUNE?",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/07/MARC-ANTOINE-FORTUNE-NEW-FEATURED.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=121686",
           "author": "Paul67",
           "description": "The players are back in town training and there’s’ already a bit of “where’s the signings” chat.  We are five weeks away from the season starting, nine away from the first derby game and over eleven away from the start of the Champions League campaign.  Patience is not always rewarded, but it is constantly needed. [...]",
@@ -462,6 +482,16 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=201020",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic’s search for a goalkeeper continues, and more than one new stopper may be needed to satiate potential squad changes this summer. Joe Hart’s departure...",
+          "link": "https://www.67hailhail.com/opinion/the-vaclav-hladky-transfer-option-for-celtic-following-january-window-links/",
+          "publishedOn": "2024-07-02T05:40:00.000Z",
+          "wordCount": 1434,
+          "title": "The Vaclav Hladky transfer option for Celtic following January window links - opinion",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/07/GettyImages-2147036698-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=201050",
           "author": "John McGinley",
@@ -1021,36 +1051,6 @@
           "wordCount": 1368,
           "title": "The Celtic machine is about to spark back into life",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/06/GettyImages-2152440768-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=200738",
-          "author": "Sean Markus Clifford",
-          "description": "Celtic have been quiet on the transfer front so far, yet there is optimism that bodies will arrive to strengthen the group over the coming...",
-          "link": "https://www.67hailhail.com/opinion/what-celtic-links-to-young-talent-say-about-bhoys-exciting-roadmap-for-the-future/",
-          "publishedOn": "2024-06-27T18:10:00.000Z",
-          "wordCount": 1538,
-          "title": "What Celtic links to young talent say about Bhoys' exciting roadmap for the future",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/06/GettyImages-2154663240-1-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=200735",
-          "author": "Sean Markus Clifford",
-          "description": "Celtic pair Matt O’Riley and Kyogo Furuhashi are both pivotal to Brendan Rodgers’ mission of bringing success to Parkhead. Last term, the duo in question...",
-          "link": "https://www.67hailhail.com/news/celtics-matt-oriley-explains-what-is-so-good-about-playing-alongside-kyogo-furuhashi/",
-          "publishedOn": "2024-06-27T17:10:00.000Z",
-          "wordCount": 1366,
-          "title": "Celtic's Matt O'Riley explains what is 'so good' about playing alongside Kyogo Furuhashi",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/05/GettyImages-2151442711-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=200716",
-          "author": "Sean Markus Clifford",
-          "description": "Celtic are now back in pre-season training and excitement is building ahead of another busy campaign for the Bhoys on all fronts. For now, getting...",
-          "link": "https://www.67hailhail.com/news/john-kennedy-on-how-celtic-plan-to-turn-performances-into-results-in-the-champions-league/",
-          "publishedOn": "2024-06-27T16:40:00.000Z",
-          "wordCount": 1486,
-          "title": "John Kennedy on how Celtic plan to turn performances into results in the Champions League",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/10/GettyImages-1409476365-scaled.jpg"
         }
       ]
     },
