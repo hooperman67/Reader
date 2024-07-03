@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=121706",
+          "author": "Paul67",
+          "description": "Financial Fair Play rules are there to enhance stability in football and reduce dependency on benefactors, who can slip away from the game at a moment’s notice.  Not all benefactors are the same, some are fully committed to their football projects and display a deep-seated need to live vicariously through the success of their football [...]",
+          "link": "https://www.celticquicknews.co.uk/room-for-malfeasance-in-transfers/",
+          "publishedOn": "2024-07-03T11:08:25.000Z",
+          "wordCount": 4411,
+          "title": "Room for malfeasance in transfers",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=121705",
           "author": "CQN Magazine",
           "description": "LUIS PALMA insists he must be better than just “good” as he prepares for his second season at Celtic. The 24-year-old Honduran international winger put in some eye-catching performances in the first half of his debut campaign after arriving in a £3.5million five-year switch from Greek outfit Aris Thessalonki in August. Palma displayed some excting [...]",
@@ -502,6 +512,36 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=201201",
+          "author": "Sean Markus Clifford",
+          "description": "Rocco Vata looks set to leave Celtic for a new challenge south of the border after Fabrizio Romano issued an update on his future earlier...",
+          "link": "https://www.67hailhail.com/transfers/fabrizio-romanos-update-on-rocco-vata-as-celtic-youngster-finds-exit-agreement/",
+          "publishedOn": "2024-07-03T12:10:00.000Z",
+          "wordCount": 1411,
+          "title": "Fabrizio Romano's update on Rocco Vata as Celtic youngster finds exit agreement",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/01/GettyImages-1564112169-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=201192",
+          "author": "Patrick Sinat",
+          "description": "Former Celtic winger, Jota’s Saudi Arabian adventure seems to be drawing to a close as Al-Ittihad make a decision on his future. The Portuguese winger...",
+          "link": "https://www.67hailhail.com/news/the-latest-on-jota-as-al-ittihad-make-decision-on-former-celtic-wingers-future/",
+          "publishedOn": "2024-07-03T11:40:00.000Z",
+          "wordCount": 1327,
+          "title": "Report: The latest on Jota as Al-Ittihad make decision on former Celtic winger’s future",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/04/GettyImages-1486544913-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=201189",
+          "author": "Sean Markus Clifford",
+          "description": "Liam Scales performed an admirable career turnaround at Celtic last year, culminating in him landing a first-choice centre-back slot under Brendan Rodgers. Previously, the Republic...",
+          "link": "https://www.67hailhail.com/news/celtics-liam-scales-in-focus-as-domestic-counterpart-takes-inspiration-from-his-exploits/",
+          "publishedOn": "2024-07-03T11:10:00.000Z",
+          "wordCount": 1507,
+          "title": "Celtic's Liam Scales in focus as domestic counterpart takes inspiration from his exploits",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/05/GettyImages-2127822688-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=201180",
           "author": "Sean Markus Clifford",
@@ -1178,7 +1218,18 @@
       "title": "News Archives - Celtic Fanzine",
       "feedUrl": "https://celticfanzine.com/category/news/feed/",
       "siteUrl": "https://celticfanzine.com/category/news/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://celticfanzine.com/?p=58941",
+          "author": "celtic",
+          "description": "The club launches The Celtic Fans’ Survey 2024, and we would love to hear your views. This will be the biggest ever survey of Celtic supporters worldwide, commissioned by the club as part of our ongoing commitment to fan engagement. A sensational end to the season saw the Hoops create history once again, becoming the […]\nThe post Celtic FC Fans’ Survey 2024 | Have your say appeared first on Celtic Fanzine.",
+          "link": "https://celticfanzine.com/celtic-fc-fans-survey-2024-have-your-say/",
+          "publishedOn": "2024-07-03T12:06:11.000Z",
+          "wordCount": 2014,
+          "title": "Celtic FC Fans’ Survey 2024 | Have your say",
+          "imageUrl": "https://celticfanzine.com/wp-content/uploads/CELTIC-FC-FAN-SURVEY-1024x576.png"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
