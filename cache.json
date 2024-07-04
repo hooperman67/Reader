@@ -214,26 +214,6 @@
           "wordCount": 3652,
           "title": "WHATEVER HAPPENED TO…JOS HOOIVELD?",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/07/JOS-HOOIVELD-FEATURED.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=121622",
-          "author": "CQN Magazine",
-          "description": "ALISTAIR JOHNSTON played his part in Canada’s goalless draw with Chile in Orlando, Florida to reach the Copa America quarter-finals. The Celtic defender turned in his usual dependable shift at right-back in an encounter that threatened to boil over at times. Chile were left with 10 men before the half-hour mark after Gabriel Suazo was red-carded [...]",
-          "link": "https://www.celticquicknews.co.uk/johnston-joy-in-copa-america/",
-          "publishedOn": "2024-06-30T07:08:13.000Z",
-          "wordCount": 3638,
-          "title": "JOHNSTON JOY IN COPA AMERICA",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/03/ALISTAIR-JOHNSTON-PRE-ST-J-FEATURED.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=121618",
-          "author": "CQN Magazine",
-          "description": "IT NEVER ceases to amaze me how Ally McCoist, a titan among the talking heads, has been gifted the instinctive grasp of the obvious. Nothing escapes the scrutiny of this behemoth of the babbling brigade. I know I have benefited enormously from his incisive examinations and comprehensive diagnoses during the Euro 24 competition. Some may have [...]",
-          "link": "https://www.celticquicknews.co.uk/alexs-angle-ally-ballyhoo/",
-          "publishedOn": "2024-06-30T06:17:33.000Z",
-          "wordCount": 4048,
-          "title": "ALEX’S ANGLE: ALLY BALLYHOO",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/03/ALEX-GORDON-FACEBOOK-CELTIC-TUNNEL.png"
         }
       ]
     },
@@ -494,24 +474,33 @@
       "title": "The Celtic Underground",
       "feedUrl": "http://celticunderground.net/feed/",
       "siteUrl": "http://celticunderground.net",
-      "articles": [
-        {
-          "id": "https://celticunderground.net/?p=6778",
-          "author": "St Anthony",
-          "description": "On the face of it, last season was a good one for Celtic. A League and Cup double should be a reflection of a successful campaign, but it would be churlish to think that all was well. Results, in general, were good but there many performances that were unacceptable during the course of the season. […]",
-          "link": "http://celticunderground.net/a-message-to-the-celtic-board/",
-          "publishedOn": "2024-06-30T07:45:07.000Z",
-          "wordCount": 3905,
-          "title": "A MESSAGE TO THE CELTIC BOARD",
-          "imageUrl": "http://celticunderground.net/wp-content/uploads/2024/06/2024-SCF-52.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "67 Hail Hail",
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=201319",
+          "author": "John McGinley",
+          "description": "\"It feels a much different place compared to 12 months ago.\"",
+          "link": "https://www.67hailhail.com/news/brendan-rodgers-has-an-exciting-message-for-celtic-fans-as-pre-season-kicks-into-new-gear/",
+          "publishedOn": "2024-07-04T19:20:00.000Z",
+          "wordCount": 1367,
+          "title": "Brendan Rodgers has an 'exciting' message for Celtic fans as pre-season kicks into new gear",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/07/GettyImages-2154663240-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=201314",
+          "author": "John McGinley",
+          "description": "The situation surrounding Celtic and Adam Idah took a couple of twists and turns this week.",
+          "link": "https://www.67hailhail.com/transfers/celtic-making-significant-progress-on-adam-idah-deal-despite-rejected-bid/",
+          "publishedOn": "2024-07-04T18:33:56.000Z",
+          "wordCount": 1360,
+          "title": "Report: Celtic make significant progress on big summer transfer move, permission expected",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/07/GettyImages-2156078250-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=201311",
           "author": "Sean Markus Clifford",
@@ -1381,46 +1370,6 @@
           "wordCount": 1400,
           "title": "The friendly against Celtic that helped discover Real Mardid's £27m 'wonderkid'",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/06/GettyImages-2155640116-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=200858",
-          "author": "Patrick Sinat",
-          "description": "The Celtic fans will be keenly watching for any updates of new signings for the first team as the new season kick-off nears. With Brendan...",
-          "link": "https://www.67hailhail.com/opinion/the-2023-scottish-youth-cup-winning-captain-brendan-rodgers-should-draft-into-the-celtic-first-team-squad/",
-          "publishedOn": "2024-06-30T07:50:00.000Z",
-          "wordCount": 1472,
-          "title": "The promising academy leader that could get his first big Celtic chance in pre-season",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/06/GettyImages-1236117758-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=200865",
-          "author": "John McGinley",
-          "description": "The coping strategies of Rangers pundits are already evident.",
-          "link": "https://www.67hailhail.com/news/kenny-millers-bizarre-celtic-park-bonus-for-rangers-looks-more-like-a-big-bhoys-chance/",
-          "publishedOn": "2024-06-30T07:21:55.000Z",
-          "wordCount": 1517,
-          "title": "Kenny Miller's bizarre Celtic Park 'bonus' for Rangers looks more like a big Bhoys chance",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/05/GettyImages-1425966094-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=200856",
-          "author": "John McGinley",
-          "description": "He scored 10 goals last season",
-          "link": "https://www.67hailhail.com/transfers/celtic-show-transfer-interest-in-young-copa-america-talent/",
-          "publishedOn": "2024-06-30T06:49:04.000Z",
-          "wordCount": 1227,
-          "title": "Report: Celtic show transfer interest in talented international forward",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/06/GettyImages-2015896767-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=200850",
-          "author": "John McGinley",
-          "description": "Well done to Alistair Johnston!",
-          "link": "https://www.67hailhail.com/news/celtic-hero-shines-in-war-against-alexis-sanchez-and-co-to-book-place-in-copa-america-qfs/",
-          "publishedOn": "2024-06-30T06:16:03.000Z",
-          "wordCount": 1404,
-          "title": "Celtic hero shines in 'war' against Alexis Sanchez and co to book place in Copa America QFs",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/06/GettyImages-2159880678-scaled.jpg"
         }
       ]
     },
