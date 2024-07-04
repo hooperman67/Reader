@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-07-04T04:13:36.537Z</updated>
+    <updated>2024-07-04T06:16:41.668Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WHATEVER HAPPENED TO…BOLI BOLINGOLI?]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=109785</id>
+        <link href="https://www.celticquicknews.co.uk/whatever-happened-to-boli-bolingoli/"/>
+        <updated>2024-07-04T05:00:37.000Z</updated>
+        <summary type="html"><![CDATA[FUN-LOVING Boli Bolingoli broke strict Government Covid regulations for a hush-hush break with his girlfriend to Spain in August 2020. The blundering Belgian’s secret sunshine trip was exposed AFTER a cameo appearance in the 1-1 draw with Kilmarnock at Rugby Park in the second Premiership game of the club’s disastrous quest for a historic tenth [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sead Haksabanovic doubles down on 'frustrating' reasons behind Celtic departure]]></title>
         <id>https://www.67hailhail.com/?p=201228</id>
@@ -963,16 +973,6 @@ The post Celtic FC Fans’ Survey 2024 | Have your say appeared first on Celtic 
         <link href="https://www.67hailhail.com/news/adam-idah-continues-to-enjoy-his-links-to-celtic-with-big-decision-looming/"/>
         <updated>2024-06-29T20:16:52.000Z</updated>
         <summary type="html"><![CDATA[Speculation about his future continues]]></summary>
-        <author>
-            <name>John McGinley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[John Kennedy explains alternative Celtic pre-season plans]]></title>
-        <id>https://www.67hailhail.com/?p=200836</id>
-        <link href="https://www.67hailhail.com/news/john-kennedy-explains-alternative-celtic-pre-season-plans/"/>
-        <updated>2024-06-29T16:48:51.000Z</updated>
-        <summary type="html"><![CDATA["It's a bit different for us this year."]]></summary>
         <author>
             <name>John McGinley</name>
         </author>
