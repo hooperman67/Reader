@@ -244,26 +244,6 @@
           "wordCount": 3853,
           "title": "YANG(ER) MANAGEMENT",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/12/YANG-HYUN-JUN-KILLIE-FEATURED.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=121642",
-          "author": "CQN Magazine",
-          "description": "BRENDAN RODGERS smiled and joked that he thought Celtic fans had forgotten his name amid the title celebrations at Rugby Park on Wednesday May 15 2024. The champions, enjoying their third successive crown and their twelfth in 13 years, had just romped to an unstoppable 5-0 triumph over routed Kilmarnock at a venue where they [...]",
-          "link": "https://www.celticquicknews.co.uk/brendan-rodgers-the-story-so-far-part-nineteen/",
-          "publishedOn": "2024-07-01T06:00:09.000Z",
-          "wordCount": 5053,
-          "title": "BRENDAN RODGERS: THE STORY SO FAR: Part Nineteen",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/06/BRENDAN-RODGERS-5-0-FEATURED.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=109416",
-          "author": "CQN Magazine",
-          "description": "DUTCH central defender Jos Hooiveld arrived as a £1.4million signing from AIK Stockholm on a three-and-a-half year contract in January 2010. Tony Mowbray brought in the 26-year-old after his impressive season in Sweden following a move from Finish side Inter Turku, but the manager was sacked only two months later after a humiliating 4-0 loss [...]",
-          "link": "https://www.celticquicknews.co.uk/whatever-happened-to-jos-hooiveld/",
-          "publishedOn": "2024-07-01T05:00:15.000Z",
-          "wordCount": 3652,
-          "title": "WHATEVER HAPPENED TO…JOS HOOIVELD?",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/07/JOS-HOOIVELD-FEATURED.png"
         }
       ]
     },
@@ -531,6 +511,26 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=201383",
+          "author": "John McGinley",
+          "description": "Manager Brendan Rodgers has named his Celtic team vs Ayr United for tonight’s opening pre-season match of the summer. The full squad is as follows:...",
+          "link": "https://www.67hailhail.com/match/celtic-team-vs-ayr-united-confirmed-big-chance-for-youngsters-tv-details-instant-reaction/",
+          "publishedOn": "2024-07-05T17:51:29.000Z",
+          "wordCount": 1289,
+          "title": "Celtic team vs Ayr United confirmed; Big chance for youngsters, TV details, instant reaction",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/09/GettyImages-1569529607-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=201378",
+          "author": "John McGinley",
+          "description": "Celtic have confirmed two of their early season Scottish Premiership matches have been moved due to Sky Sports coverage.",
+          "link": "https://www.67hailhail.com/news/celtic-confirm-early-season-fixture-changes/",
+          "publishedOn": "2024-07-05T17:11:20.000Z",
+          "wordCount": 1228,
+          "title": "Celtic confirm early season fixture changes",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/07/GettyImages-2153515021-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=201375",
           "author": "Sean Markus Clifford",
@@ -1478,6 +1478,16 @@
       "feedUrl": "https://celticfanzine.com/category/news/feed/",
       "siteUrl": "https://celticfanzine.com/category/news/",
       "articles": [
+        {
+          "id": "https://celticfanzine.com/?p=58948",
+          "author": "celtic",
+          "description": "The post Ayr United v CELTIC Matchday Mini-zine appeared first on Celtic Fanzine.",
+          "link": "https://celticfanzine.com/ayr-united-v-celtic-matchday-mini-zine/",
+          "publishedOn": "2024-07-05T16:30:15.000Z",
+          "wordCount": 1589,
+          "title": "Ayr United v CELTIC Matchday Mini-zine",
+          "imageUrl": "https://celticfanzine.com/wp-content/uploads/MATCH-DAY-MINIZINE-2.png"
+        },
         {
           "id": "https://celticfanzine.com/?p=58944",
           "author": "celtic",
