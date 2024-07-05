@@ -234,16 +234,6 @@
           "wordCount": 4082,
           "title": "MATT O’RILEY: £20m INSULT",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/07/MATT-ORILEY-SCUP-FEATURED.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=121635",
-          "author": "CQN Magazine",
-          "description": "CELTIC got two players for the price of one when they signed Yang Hyun-jun for £2.1million from K-League outfit Gangwon in July last year. They got the all-action winger who ripped Aberdeen to shreds in a landslide 6-0 triumph at Parkhead in November to inspire the CQN headline on the match report of ‘WHAM, BANG, [...]",
-          "link": "https://www.celticquicknews.co.uk/yanger-management/",
-          "publishedOn": "2024-07-01T06:30:49.000Z",
-          "wordCount": 3853,
-          "title": "YANG(ER) MANAGEMENT",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/12/YANG-HYUN-JUN-KILLIE-FEATURED.png"
         }
       ]
     },
@@ -511,6 +501,16 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=201390",
+          "author": "John McGinley",
+          "description": "Celtic defender Maik Nawrocki had to be substituted out of tonight's game away to Ayr United.",
+          "link": "https://www.67hailhail.com/news/injury-concern-for-maik-nawrocki-in-first-20-minutes-of-celtics-pre-season/",
+          "publishedOn": "2024-07-05T19:30:04.000Z",
+          "wordCount": 1294,
+          "title": "Injury concern for defender in first 20 minutes of Celtic's pre-season",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/02/GettyImages-1627823067-scaled-e1706951942397.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=201383",
           "author": "John McGinley",
@@ -1440,36 +1440,6 @@
           "wordCount": 1385,
           "title": "What happened at Euro 2024 last night could impact Celtic making their first summer signing - opinion",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/07/GettyImages-2159973338-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=200951",
-          "author": "Sean Markus Clifford",
-          "description": "Celtic’s Alistair Johnston played a starring role as Canada secured progression to the quarter-final stage of Copa America last week. Jesse Marsch’s men are participating...",
-          "link": "https://www.67hailhail.com/news/celtics-alistair-johnston-takes-to-instagram-after-canada-become-history-makers/",
-          "publishedOn": "2024-07-01T08:10:00.000Z",
-          "wordCount": 1373,
-          "title": "Celtic's Alistair Johnston takes to Instagram after Canada become Copa America history makers",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/06/GettyImages-2159868322-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=200938",
-          "author": "Patrick Sinat",
-          "description": "Celtic’s ned for a new goalkeeper continues this summer as the club seems no closer to finding a successor to Joe Hart. Sure there has...",
-          "link": "https://www.67hailhail.com/news/charlie-mulgrew-sends-the-celtic-fans-a-4-5m-message-about-the-clubs-hunt-for-a-new-goalkeeper/",
-          "publishedOn": "2024-07-01T07:40:00.000Z",
-          "wordCount": 1498,
-          "title": "‘You need to': Charlie Mulgrew sends the Celtic fans a £4.5m message about the club’s hunt for a new goalkeeper",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/09/GettyImages-149650863-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=200941",
-          "author": "Patrick Sinat",
-          "description": "The Matt O’Riley transfer speculation continues this morning as the Celtic midfielder continues to court attention this summer. The in-demand midfielder has been the subject...",
-          "link": "https://www.67hailhail.com/transfers/celtic-are-preparing-for-a-record-breaking-premier-league-bid-for-matt-oriley/",
-          "publishedOn": "2024-07-01T06:43:35.000Z",
-          "wordCount": 1331,
-          "title": "Report: Celtic are preparing for a record-breaking Premier League bid for Matt O’Riley",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/06/GettyImages-2153585890-scaled.jpg"
         }
       ]
     },
