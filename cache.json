@@ -480,6 +480,16 @@
       "siteUrl": "https://etims.net",
       "articles": [
         {
+          "id": "https://etims.net/?p=18676",
+          "author": "Ralph Malph",
+          "description": "Reports from Portugal seem to indicate that Celtic and Benfica have reached agreement on a price for the purchase of Paolo Bernardo, the young midfielder…",
+          "link": "https://etims.net/?p=18676",
+          "publishedOn": "2024-07-09T08:18:24.000Z",
+          "wordCount": 3660,
+          "title": "Celtic Diary Tuesday July 9: It’s Started",
+          "imageUrl": "https://etims.net/wp-content/uploads/2024/07/55da877bdbd35dc9d3c75e3c6ab487b8.png"
+        },
+        {
           "id": "https://etims.net/?p=18673",
           "author": "Ralph Malph",
           "description": "The mainstream media in Scotland has long been suspected of perhaps a little bit of bias towards both entities that have slithered out of Ibrox,…",
@@ -512,6 +522,26 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=201655",
+          "author": "Patrick Sinat",
+          "description": "Martin O’Neill has shared a time at Celtic where an altercation with John Hartson left him feeling ‘a bit frightened’. The former Celtic manager famously...",
+          "link": "https://www.67hailhail.com/news/martin-oneill-admits-john-hartson-once-left-him-a-bit-frightened-at-celtic/",
+          "publishedOn": "2024-07-09T09:41:30.000Z",
+          "wordCount": 1427,
+          "title": "‘I must admit’: Martin O’Neill shares how John Hartson once left him ‘a bit frightened’ at Celtic",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/07/GettyImages-1872370-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=201650",
+          "author": "Patrick Sinat",
+          "description": "Celtic defender, Liam Scales, had a great season under Brendan Rodgers last season. Brought in from obscurity during a defensive injury crisis, Scales kept the...",
+          "link": "https://www.67hailhail.com/news/celtic-defender-liam-scales-shares-what-he-has-learned-from-his-cristiano-ronaldo-nightmare/",
+          "publishedOn": "2024-07-09T08:40:00.000Z",
+          "wordCount": 1382,
+          "title": "‘Nightmare’: Celtic defender Liam Scales shares what he has learned from facing Cristiano Ronaldo",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/06/GettyImages-2156554880-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=201645",
           "author": "Patrick Sinat",
