@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=109796",
+          "author": "CQN Magazine",
+          "description": "NEIL LENNON reckoned he had pulled off a signing coup when he brought Venezuelan striker Miku to Celtic on loan on the last day of the transfer window on August 31 2012. The 27-year-old frontman was surprisingly allowed to leave Spanish outfit Getafe where he had been their top scorer in La Liga the previous season. [...]",
+          "link": "https://www.celticquicknews.co.uk/whatever-happened-to-miku/",
+          "publishedOn": "2024-07-10T05:00:42.000Z",
+          "wordCount": 3716,
+          "title": "WHATEVER HAPPENED TO…MIKU?",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/01/MIKU-NEW-FEATURED-HH.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=121882",
           "author": "Paul67",
           "description": "I expect you and I will discuss Celtic Park in the week after last season’s financial report is published.  We have plenty of work to do and, I expect, will have a new record back balance. So we’ll be light on self-satisfaction, but still…… I’ve kept away from the Ibrox debacle thus far. Despite that [...]",
@@ -1051,26 +1061,6 @@
           "wordCount": 1294,
           "title": "Injury concern for defender in first 20 minutes of Celtic's pre-season",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/02/GettyImages-1627823067-scaled-e1706951942397.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=201383",
-          "author": "John McGinley",
-          "description": "Manager Brendan Rodgers has named his Celtic team vs Ayr United for tonight’s opening pre-season match of the summer. The full squad is as follows:...",
-          "link": "https://www.67hailhail.com/match/celtic-team-vs-ayr-united-confirmed-big-chance-for-youngsters-tv-details-instant-reaction/",
-          "publishedOn": "2024-07-05T17:51:29.000Z",
-          "wordCount": 1289,
-          "title": "Celtic team vs Ayr United confirmed; Big chance for youngsters, TV details, instant reaction",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/09/GettyImages-1569529607-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=201378",
-          "author": "John McGinley",
-          "description": "Celtic have confirmed two of their early season Scottish Premiership matches have been moved due to Sky Sports coverage.",
-          "link": "https://www.67hailhail.com/news/celtic-confirm-early-season-fixture-changes/",
-          "publishedOn": "2024-07-05T17:11:20.000Z",
-          "wordCount": 1228,
-          "title": "Celtic confirm early season fixture changes",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/07/GettyImages-2153515021-scaled.jpg"
         }
       ]
     },
@@ -1128,16 +1118,6 @@
           "wordCount": 2148,
           "title": "Latest Celtic News",
           "imageUrl": "https://celticfanzine.com/wp-content/uploads/MATCH-DAY-MINIZINE-4.png"
-        },
-        {
-          "id": "https://celticfanzine.com/?p=58948",
-          "author": "celtic",
-          "description": "The post Ayr United v CELTIC Matchday Mini-zine appeared first on Celtic Fanzine.",
-          "link": "https://celticfanzine.com/ayr-united-v-celtic-matchday-mini-zine/",
-          "publishedOn": "2024-07-05T16:30:15.000Z",
-          "wordCount": 1589,
-          "title": "Ayr United v CELTIC Matchday Mini-zine",
-          "imageUrl": "https://celticfanzine.com/wp-content/uploads/MATCH-DAY-MINIZINE-2.png"
         }
       ]
     }
