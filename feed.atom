@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-07-10T12:22:15.869Z</updated>
+    <updated>2024-07-10T14:11:11.336Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The familiar frustration Maik Nawrocki needs to overcome to establish himself at Celtic]]></title>
+        <id>https://www.67hailhail.com/?p=201771</id>
+        <link href="https://www.67hailhail.com/opinion/the-familiar-frustration-maik-nawrocki-needs-to-overcome-to-establish-himself-at-celtic/"/>
+        <updated>2024-07-10T13:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Maik Nawrocki’s Celtic career hasn’t gone the way many had hoped due to a spate of injury issues that have plagued his time at Parkhead....]]></summary>
+        <author>
+            <name>Sean Markus Clifford</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Canada fans are saying about Celtic’s Alistair Johnston at the Copa America]]></title>
+        <id>https://www.67hailhail.com/?p=201748</id>
+        <link href="https://www.67hailhail.com/news/what-canada-fans-are-saying-about-celtics-alistair-johnston-at-the-copa-america/"/>
+        <updated>2024-07-10T12:40:00.000Z</updated>
+        <summary type="html"><![CDATA[The Canadians deliver their verdict on Alistair Johnston after watching him at the Copa America.]]></summary>
+        <author>
+            <name>Patrick Sinat</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA['Gutted': Celtic loanee left very upset after playing in Champions League qualifying]]></title>
         <id>https://www.67hailhail.com/?p=201755</id>
