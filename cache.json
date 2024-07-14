@@ -6,6 +6,26 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=93609",
+          "author": "CQN Magazine",
+          "description": "TOMMY BURNS had to revive Celtic after their sensational penalty-kick loss to Raith Rovers in the League Cup Final at Ibrox on the fateful Sunday afternoon of November 27 1994. The shock waves reverberated around the whole of football and Parkhead and the manager realised he would have to spend big money to help turn [...]",
+          "link": "https://www.celticquicknews.co.uk/the-tommy-burns-story-frugal-fergus-and-big-pierre-part-three/",
+          "publishedOn": "2024-07-14T06:00:42.000Z",
+          "wordCount": 4520,
+          "title": "THE TOMMY BURNS STORY: FRUGAL FERGUS AND BIG PIERRE: Part Three",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/07/Screenshot-2022-07-14-at-09.12.25.png"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/?p=109933",
+          "author": "CQN Magazine",
+          "description": "CHINESE central defender Du Wei suffered the ignominy of being substituted at half-time on his debut – and the Celtic fans never got another glimpse of the loan signing from Shanghai Shenhua. Gordon Strachan brought in the 23-year-old international captain, who won 71 caps for his country, on a temporary transfer and handed him an [...]",
+          "link": "https://www.celticquicknews.co.uk/whatever-happened-to-du-wei/",
+          "publishedOn": "2024-07-14T05:00:41.000Z",
+          "wordCount": 3570,
+          "title": "WHATEVER HAPPENED TO…DU WEI?",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/07/DU-WEI-FEATURED-.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=121971",
           "author": "Paul67",
           "description": "Like you (if you are typical of the CQN demographic) and me, Kasper Schmeichel is older than Joe Hart.  In itself, this doesn’t mean he is wrong for Celtic, he could be a perfect fit for what we require. I suspect, however, we will both be alarmed that our recruitment strategy has pivoted so sharply [...]",
@@ -512,6 +532,16 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=202068",
+          "author": "John McGinley",
+          "description": "\"Why not stay and fight for your place at Celtic?\"",
+          "link": "https://www.67hailhail.com/news/chris-sutton-sends-a-message-to-daniel-kelly-after-rebuke-from-celtic-boss/",
+          "publishedOn": "2024-07-14T06:15:30.000Z",
+          "wordCount": 1527,
+          "title": "Chris Sutton sends a message to Daniel Kelly after rebuke from Celtic boss",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/07/GettyImages-1469729815-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=202095",
           "author": "John McGinley",
@@ -1211,26 +1241,6 @@
           "wordCount": 1318,
           "title": "Report: Celtic not put off by stiff asking price in key transfer pursuit",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/07/GettyImages-1241250184-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=201692",
-          "author": "John McGinley",
-          "description": "Celtic have appointed a new head coach for the U18s team, replacing Stuart McLaren.",
-          "link": "https://www.67hailhail.com/news/no-announcement-from-celtic-but-new-bhoys-coaching-appointment-is-confirmed/",
-          "publishedOn": "2024-07-09T17:43:35.000Z",
-          "wordCount": 1255,
-          "title": "No announcement from Celtic but new Bhoys coaching appointment is confirmed",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/05/LennoxtownTraining1.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=201689",
-          "author": "John McGinley",
-          "description": "Stronger options are returning to Lennoxtown",
-          "link": "https://www.67hailhail.com/news/big-hitters-start-to-return-to-celtic-training/",
-          "publishedOn": "2024-07-09T17:10:22.000Z",
-          "wordCount": 1297,
-          "title": "Big hitters start to return to Celtic training",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/01/GettyImages-1842190439-scaled.jpg"
         }
       ]
     },
@@ -1248,16 +1258,6 @@
           "wordCount": 1601,
           "title": "Queens Park v CELTIC Matchday Minizine",
           "imageUrl": "https://celticfanzine.com/wp-content/uploads/MATCH-DAY-MINIZINE-Website.png"
-        },
-        {
-          "id": "https://celticfanzine.com/?p=58970",
-          "author": "celtic",
-          "description": "Celtic FC Foundation are delighted to announce that Brendan Rodgers and members of the first-team squad will be joined at our charity dinner at Notre Dame Stadium on Friday, July 26 by Celtic legends, Roy Aitken and Stiliyan Petrov. The Bear started a 15-year career at Celtic as a 16-year-old in 1975 and first captained […]\nThe post Celtic FC Foundation to host Charity Dinner at Notre Dame Stadium appeared first on Celtic Fanzine.",
-          "link": "https://celticfanzine.com/celtic-fc-foundation/",
-          "publishedOn": "2024-07-09T17:23:01.000Z",
-          "wordCount": 2035,
-          "title": "Celtic FC Foundation to host Charity Dinner at Notre Dame Stadium",
-          "imageUrl": "https://celticfanzine.com/wp-content/uploads/MATCH-DAY-MINIZINE-7.png"
         }
       ]
     }
