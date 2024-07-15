@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-07-15T14:09:59.839Z</updated>
+    <updated>2024-07-15T16:14:20.158Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[UEFA’s class shoutout to former Celtic hero Joe Hart’s iconic Europa League performance]]></title>
+        <id>https://www.67hailhail.com/?p=202203</id>
+        <link href="https://www.67hailhail.com/news/uefas-class-shoutout-to-former-celtic-hero-joe-harts-iconic-europa-league-performance/"/>
+        <updated>2024-07-15T15:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Even though he has now left Celtic, Joe Hart is still receiving plaudits for what he has achieved at the club. Over a three-year spell,...]]></summary>
+        <author>
+            <name>Patrick Sinat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Former Celtic man Kolo Toure lands new coaching role after spell in management]]></title>
+        <id>https://www.67hailhail.com/?p=202249</id>
+        <link href="https://www.67hailhail.com/news/former-celtic-man-kolo-toure-lands-new-coaching-role-after-spell-in-management/"/>
+        <updated>2024-07-15T15:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Celtic have had some high-profile individuals with notoriety in the game pass through Parkhead’s gates in recent years. Kolo Toure would fall into that bracket,...]]></summary>
+        <author>
+            <name>Sean Markus Clifford</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Would be huge': Ray Houghton tells 'fantastic' player to go and sign for Celtic this summer]]></title>
+        <id>https://www.67hailhail.com/?p=202210</id>
+        <link href="https://www.67hailhail.com/news/ray-houghton-encourages-fantastic-player-to-join-celtic-in-huge-move-this-summer/"/>
+        <updated>2024-07-15T14:40:00.000Z</updated>
+        <summary type="html"><![CDATA[With Celtic seemingly making moves in the transfer window now, one player has been told that he should make the summer switch to Parkhead. Republic...]]></summary>
+        <author>
+            <name>Patrick Sinat</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[More details on Kasper Schmeichel Celtic medical published ahead of USA tour]]></title>
         <id>https://www.67hailhail.com/?p=202256</id>
