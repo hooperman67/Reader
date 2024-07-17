@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-07-17T18:15:53.351Z</updated>
+    <updated>2024-07-17T20:12:25.439Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Report: Former Celtic boss Ange Postecoglou under consideration for international opening]]></title>
+        <id>https://www.67hailhail.com/?p=202463</id>
+        <link href="https://www.67hailhail.com/news/former-celtic-boss-ange-postecoglou-under-consideration-for-international-opening/"/>
+        <updated>2024-07-17T19:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Ange Postecoglou enjoyed two fine years at Celtic before being appointed Tottenham Hotspur manager last summer. Making a mark in the Premier League due to...]]></summary>
+        <author>
+            <name>Sean Markus Clifford</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Unfair': Craig Beattie not happy with what he heard being said about Brendan Rodgers last season]]></title>
+        <id>https://www.67hailhail.com/?p=202444</id>
+        <link href="https://www.67hailhail.com/news/craig-beattie-claims-he-heard-something-really-unfair-being-said-about-celtics-brendan-rodgers-last-season/"/>
+        <updated>2024-07-17T18:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Former Celtic striker, Craig Beattie, has shared why he was unhappy about what he heard was being said about Brendan Rodgers last season. The Celtic...]]></summary>
+        <author>
+            <name>Patrick Sinat</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Brendan Rodgers transfer pull has already reared its head at Celtic this week]]></title>
         <id>https://www.67hailhail.com/?p=202446</id>
@@ -974,56 +994,6 @@
         <summary type="html"><![CDATA[Like you (if you are typical of the CQN demographic) and me, Kasper Schmeichel is older than Joe Hart.  In itself, this doesn’t mean he is wrong for Celtic, he could be a perfect fit for what we require. I suspect, however, we will both be alarmed that our recruitment strategy has pivoted so sharply [...]]]></summary>
         <author>
             <name>Paul67</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Joe Hart's glowing Kasper Schmeichel verdict is required reading as Celtic make their move]]></title>
-        <id>https://www.67hailhail.com/?p=202054</id>
-        <link href="https://www.67hailhail.com/news/joe-harts-glowing-kasper-schmeichel-verdict-is-required-reading-as-celtic-make-their-move/"/>
-        <updated>2024-07-13T07:32:44.000Z</updated>
-        <summary type="html"><![CDATA["His strengths as a goalkeeper are his physique and his power. He turned himself into an incredible athlete at a young age, and that has never changed. He is aggressive and assertive, and he can do things that a lot of other keepers can't."]]></summary>
-        <author>
-            <name>John McGinley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[REVEALED: EXTENDED BREAK FOR HOOPS DEFENDER]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=121965</id>
-        <link href="https://www.celticquicknews.co.uk/revealed-extended-break-for-hoops-defender/"/>
-        <updated>2024-07-13T07:14:59.000Z</updated>
-        <summary type="html"><![CDATA[BRENDAN RODGERS has revealed Alistair Johnston will be given an extended break before the Premiership kicks off. Celtic are scheduled to take on Kilmarnock at Parkhead on Sunday August 4 as they begin the defence of the title they have won for the past three years. The champions’ squad are preparing to fly out to [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brendan Rodgers confirms Celtic star will miss out on entire USA tour]]></title>
-        <id>https://www.67hailhail.com/?p=202049</id>
-        <link href="https://www.67hailhail.com/news/changed-plans-for-alistair-johnston-and-celtics-usa-tour/"/>
-        <updated>2024-07-13T07:06:04.000Z</updated>
-        <summary type="html"><![CDATA[Alistair Johnston initially planned to meet up with the club in the USA]]></summary>
-        <author>
-            <name>John McGinley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kasper Schmeichel contract details come to light, Celtic medical now imminent]]></title>
-        <id>https://www.67hailhail.com/?p=202042</id>
-        <link href="https://www.67hailhail.com/transfers/kasper-schmeichel-contract-details-come-to-light-celtic-medical-now-imminent/"/>
-        <updated>2024-07-13T06:30:34.000Z</updated>
-        <summary type="html"><![CDATA[The goalkeeper is on the verge of being Celtic's first signing of the summer]]></summary>
-        <author>
-            <name>John McGinley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘MATTER OF TIME,’ £4m CELT ON BRINK OF EXIT]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=121960</id>
-        <link href="https://www.celticquicknews.co.uk/matter-of-time-4m-celt-on-brink-of-exit/"/>
-        <updated>2024-07-13T06:27:41.000Z</updated>
-        <summary type="html"><![CDATA[OH HYEON-GYU is heading for the Celtic exit with reports from Belgium insisting it’s only a “matter of time” before he seals a move to Genk. The South Korean international striker is seen as surplus to requirements by Brendan Rodgers and his time at the champions is coming to a halt, as CQN stated in May. Oh cost [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
         </author>
     </entry>
     <entry>
