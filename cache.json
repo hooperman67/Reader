@@ -324,26 +324,6 @@
           "wordCount": 4501,
           "title": "‘JOCK DIDN’T LIKE GOALIES’: HAPPY 81st BIRTHDAY, EVAN WILLIAMS: Part One",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/07/EVAN-WILLIAMS-NEW-FEATURRED.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=93686",
-          "author": "CQN Magazine",
-          "description": "TOMMY BURNS set his sights on silverware in his first season as Celtic manager after returning to the club on July 12 1994. The fans’ favourite had winced as he witnessed the Hoops losing in a dramatic penalty-kick shoot-out to First Division Raith Rovers in the League Cup Final at Ibrox only four months after his [...]",
-          "link": "https://www.celticquicknews.co.uk/the-tommy-burns-story-bid-for-hampden-glory-part-four/",
-          "publishedOn": "2024-07-15T06:00:26.000Z",
-          "wordCount": 4550,
-          "title": "THE TOMMY BURNS STORY: BID FOR HAMPDEN GLORY: Part Four",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/07/TOMMY-BURNS-FEATURRRED-HH.jpeg"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=109965",
-          "author": "CQN Magazine",
-          "description": "MEXICAN World Cup midfielder Efrain Juarez arrived at Celtic in a £2million four-year deal in July 2010. Expectation levels were high, but once again the 21-year-old playmaker, signed from homeland club UNAM Pumas, turned out to be an expensive flop. Juarez made a total of 13 league appearances for Neil Lennon’s side after his debut [...]",
-          "link": "https://www.celticquicknews.co.uk/whatever-happened-to-efrain-juarez/",
-          "publishedOn": "2024-07-15T05:00:30.000Z",
-          "wordCount": 3607,
-          "title": "WHATEVER HAPPENED TO…EFRAIN JUAREZ?",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/07/EFRIAN-JUAREZ-BRAGA-FEATURED.png"
         }
       ]
     },
@@ -642,6 +622,36 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=202727",
+          "author": "John McGinley",
+          "description": "Celtic manager Brendan Rodgers is buzzing to bring Kasper Schmeichel to the club.",
+          "link": "https://www.67hailhail.com/news/brendan-rodgers-shares-his-message-to-kasper-schmeichel-after-signing-for-celtic/",
+          "publishedOn": "2024-07-19T17:38:48.000Z",
+          "wordCount": 1471,
+          "title": "Brendan Rodgers shares his message to Kasper Schmeichel after signing for Celtic",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/07/GettyImages-1235185699-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=202722",
+          "author": "John McGinley",
+          "description": "Benjamin Siegrist looks to be on the verge of an exit from Celtic.",
+          "link": "https://www.67hailhail.com/transfers/benjamin-siegrist-given-club-permission-to-travel-for-celtic-transfer-exit-talks/",
+          "publishedOn": "2024-07-19T17:05:15.000Z",
+          "wordCount": 1452,
+          "title": "Report: Celtic give green light for 2022 signing to travel for transfer exit talks",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/07/GettyImages-1244850086-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=202716",
+          "author": "Sean Markus Clifford",
+          "description": "Kasper Schmeichel and Viljami Sinisalo arriving at Celtic have brought the subject of mentorship into the public domain over the last few days. It is...",
+          "link": "https://www.67hailhail.com/opinion/the-importance-of-mentorship-at-celtic-throughout-the-playing-squad/",
+          "publishedOn": "2024-07-19T16:45:00.000Z",
+          "wordCount": 1515,
+          "title": "The importance of mentorship at Celtic throughout the playing squad",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/07/GettyImages-2159930166-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=202712",
           "author": "Sean Markus Clifford",
@@ -1588,7 +1598,18 @@
       "title": "News Archives - Celtic Fanzine",
       "feedUrl": "https://celticfanzine.com/category/news/feed/",
       "siteUrl": "https://celticfanzine.com/category/news/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://celticfanzine.com/?p=58983",
+          "author": "celtic",
+          "description": "Introduction: The summer of 2024 is set to sizzle as the Bhoys embark on a whirlwind tour of the United States, igniting passions and uniting fans from coast to coast. With three high-octane pre-season matches lined up against formidable opponents, the stage is set for an unforgettable celebration of football, pints and “The Rebs.” Washington […]\nThe post Celtic FC’s Transatlantic Triumph appeared first on Celtic Fanzine.",
+          "link": "https://celticfanzine.com/celtic-fcs-transatlantic-triumph/",
+          "publishedOn": "2024-07-19T17:05:50.000Z",
+          "wordCount": 2153,
+          "title": "Celtic FC’s Transatlantic Triumph",
+          "imageUrl": "https://celticfanzine.com/wp-content/uploads/CELTIC-WEBSITE-.png"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
