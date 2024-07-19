@@ -6,6 +6,26 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=93936",
+          "author": "CQN Magazine",
+          "description": "TOMMY BURNS had won the Scottish Cup in his first season as Celtic manager after his appointment on July 12 1994. The league title, though, was the legendary Celt’s priority target as his second campaign prepared to kick off. In another CQN EXCLUSIVE series, we chart Tommy Burns’ career as the Hoops gaffer during turbulent [...]",
+          "link": "https://www.celticquicknews.co.uk/the-tommy-burns-story-new-17m-stand-new-era-new-hope-part-eight/",
+          "publishedOn": "2024-07-19T06:00:47.000Z",
+          "wordCount": 4392,
+          "title": "THE TOMMY BURNS STORY: NEW £17m STAND, NEW ERA, NEW HOPE: Part Eight",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/07/TOMMY-BURNS-ROD-STEWART-FERGUS-MCCANN.jpeg"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/?p=110136",
+          "author": "CQN Magazine",
+          "description": "EYAL BERKOVIC was Celtic’s record signing when he arrived in July 1999 in a £5.75million deal from West Ham. Rookie boss John Barnes and Director of Football Kenny Dalglish, the so-called ‘dream team’ who had replaced Jozef Venglos the previous month, reckoned the 27-year-old Israeli midfielder would become a pivotal figure in their plans to [...]",
+          "link": "https://www.celticquicknews.co.uk/whatever-happened-to-eyal-berkovic/",
+          "publishedOn": "2024-07-19T05:00:14.000Z",
+          "wordCount": 3884,
+          "title": "WHATEVER HAPPENED TO…EYAL BERKOVIC?",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/07/EYAL-BERKOVIC-FEATURED.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=122070",
           "author": "Paul67",
           "description": "Earlier this month, I was asked about Celtic’s “rocketing” share price, which hit levels not seen in 24 years.  The fundamentals of the club had not changed since qualification for the Champions League was secured, so the only thing I could see driving the rise was supporter sentiment. THIS IS NOT INVESTMENT ADVICE, but there [...]",
@@ -254,16 +274,6 @@
           "wordCount": 3607,
           "title": "WHATEVER HAPPENED TO…EFRAIN JUAREZ?",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/07/EFRIAN-JUAREZ-BRAGA-FEATURED.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=121983",
-          "author": "CQN Magazine",
-          "description": "CELTIC striker Oh Hyeon-gyu sealed his move to Genk this afternoon. The 23-year-old South Korean international striker agreed a four-year deal with the Belgian top-flight club and leaves Parkhead after just 18 months. Oh cost £2million when Ange Postecoglou signed him from K-League outfit Suwon Bluewings. The powerhouse frontman claimed 11 goals for the Hoops, [...]",
-          "link": "https://www.celticquicknews.co.uk/confirmed-oh-seals-belgian-switch/",
-          "publishedOn": "2024-07-14T17:07:02.000Z",
-          "wordCount": 3512,
-          "title": "CONFIRMED: OH SEALS BELGIAN SWITCH",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/07/OH-HYEON-GYU-V-AYR-FEATURED.png"
         }
       ]
     },
@@ -562,6 +572,16 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=202643",
+          "author": "John McGinley",
+          "description": "Kasper Schmeichel has been sharing his delight at signing for Celtic",
+          "link": "https://www.67hailhail.com/news/james-maddison-ben-foster-and-more-send-messages-to-kasper-schmeichel-after-signing-for-celtic/",
+          "publishedOn": "2024-07-19T06:10:13.000Z",
+          "wordCount": 1465,
+          "title": "James Maddison, Ben Foster and more send messages to Kasper Schmeichel after signing for Celtic",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/07/GettyImages-1018826676-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=202638",
           "author": "John McGinley",
@@ -1351,26 +1371,6 @@
           "wordCount": 1410,
           "title": "‘Immediately clear’: Hyeongyu Oh explains what made him leave Celtic for Genk",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/12/GettyImages-1835821336-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=202178",
-          "author": "John McGinley",
-          "description": "There'll be more options available to Brendan Rodgers on the USA tour",
-          "link": "https://www.67hailhail.com/news/five-celtic-stars-set-to-make-return-to-bhoys-training-this-week/",
-          "publishedOn": "2024-07-14T18:14:36.000Z",
-          "wordCount": 1307,
-          "title": "Five Celtic stars set to make return to Bhoys training this week",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/07/GettyImages-1741789754-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=202167",
-          "author": "John McGinley",
-          "description": "Hyeongyu Oh has officially left Celtic",
-          "link": "https://www.67hailhail.com/transfers/celtics-profit-on-hyeongyu-oh-exit-as-adam-idah-talks-continue/",
-          "publishedOn": "2024-07-14T16:22:57.000Z",
-          "wordCount": 1324,
-          "title": "Celtic's profit on Hyeongyu Oh exit as Adam Idah talks continue",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/07/GettyImages-1835934713-1-scaled.jpg"
         }
       ]
     },
