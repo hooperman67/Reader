@@ -628,7 +628,18 @@
       "title": "eTims",
       "feedUrl": "http://etims.net/?feed=rss2",
       "siteUrl": "https://etims.net",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://etims.net/?p=18698",
+          "author": "Ralph Malph",
+          "description": "Apologies for the gap of several days between the last Diary and this one, but I forgot my login details, and then forgot where I’d…",
+          "link": "https://etims.net/?p=18698",
+          "publishedOn": "2024-07-23T14:03:55.000Z",
+          "wordCount": 3803,
+          "title": "Celtic Diary July 23 2024: Butterflies Collecting ?",
+          "imageUrl": "https://etims.net/wp-content/uploads/2024/07/its-all-right-to-have-butterflies-in-your-stomach-just-get-them-to-fly-in-formation-quote-1.jpg"
+        }
+      ]
     },
     {
       "title": "The Celtic Underground",
@@ -641,6 +652,16 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=203208",
+          "author": "Patrick Sinat",
+          "description": "New Celtic signing, Kasper Schmeichel, has been taking on media duties ahead of Celtic’s game against Manchester City. In what was an official unveiling of...",
+          "link": "https://www.67hailhail.com/news/kasper-schmeichel-shares-what-his-celtic-teammates-have-done-to-help-him-settle-in-at-the-club/",
+          "publishedOn": "2024-07-23T12:40:00.000Z",
+          "wordCount": 1547,
+          "title": "‘I’m lucky’: Kasper Schmeichel shares how his Celtic teammates have helped him settle in at the club",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/07/GettyImages-2159365580-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=203216",
           "author": "John McGinley",
@@ -1298,6 +1319,16 @@
       "feedUrl": "https://celticfanzine.com/category/news/feed/",
       "siteUrl": "https://celticfanzine.com/category/news/",
       "articles": [
+        {
+          "id": "https://celticfanzine.com/?p=58993",
+          "author": "celtic",
+          "description": "The Champions of Scotland face up against the Champions of England in the next instalment of Celtic’s pre-season trip of the United States. Following a 4-0 win against D.C United at the Audi Field in the nation’s capital, the Hoops now move to North Carolina to prepare for the test and might of the Premier […]\nThe post Celtic FC v Man City Live on Celtic TV appeared first on Celtic Fanzine.",
+          "link": "https://celticfanzine.com/celtic-fc-v-man-city-live-on-celtic-tv/",
+          "publishedOn": "2024-07-23T13:59:03.000Z",
+          "wordCount": 1780,
+          "title": "Celtic FC v Man City Live on Celtic TV",
+          "imageUrl": "https://celticfanzine.com/wp-content/uploads/CEL-V-MAN-CITY-WEBSITE-.png"
+        },
         {
           "id": "https://celticfanzine.com/?p=58988",
           "author": "celtic",
