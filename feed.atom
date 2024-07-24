@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-07-24T08:14:59.338Z</updated>
+    <updated>2024-07-24T10:14:05.749Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Brendan Rodgers says ‘super competitive’ Celtic player is ‘going to get better’ after beating Man City]]></title>
+        <id>https://www.67hailhail.com/?p=203516</id>
+        <link href="https://www.67hailhail.com/news/brendan-rodgers-says-super-celtic-player-is-going-to-get-better-after-beating-man-city/"/>
+        <updated>2024-07-24T10:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Celtic’s win over Manchester City in the second fixture of the US Tour has given the fans a lot to be excited about in the...]]></summary>
+        <author>
+            <name>Patrick Sinat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brendan Rodgers on 'long meeting' with Michael Nicholson as Celtic look to complete transfers]]></title>
+        <id>https://www.67hailhail.com/?p=203519</id>
+        <link href="https://www.67hailhail.com/news/brendan-rodgers-on-long-meeting-with-michael-nicholson-as-celtic-look-to-complete-transfers/"/>
+        <updated>2024-07-24T08:37:59.000Z</updated>
+        <summary type="html"><![CDATA[As the Celtic fans enjoy watching last night’s win over Man City in the US Tour again, Brendan Rodgers has sent them a ‘clear’ message...]]></summary>
+        <author>
+            <name>Patrick Sinat</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘He’s dangerous’: Former Man City hero Steve Howey says Celtic have a player who could play in the Premier League]]></title>
         <id>https://www.67hailhail.com/?p=203504</id>
