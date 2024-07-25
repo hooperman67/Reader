@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-07-25T14:10:54.329Z</updated>
+    <updated>2024-07-25T16:15:08.040Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Report: Celtic make breakthrough in long-running transfer pursuit]]></title>
+        <id>https://www.67hailhail.com/?p=203623</id>
+        <link href="https://www.67hailhail.com/transfers/celtic-reach-agreement-for-paulo-bernardo-medical-set-contract-details/"/>
+        <updated>2024-07-25T15:58:06.000Z</updated>
+        <summary type="html"><![CDATA[This one is finally close.]]></summary>
+        <author>
+            <name>John McGinley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BBC journalist says Celtic have made their move to sign EPL talent]]></title>
+        <id>https://www.67hailhail.com/?p=203615</id>
+        <link href="https://www.67hailhail.com/transfers/celtic-make-a-renewed-move-for-january-transfer-target/"/>
+        <updated>2024-07-25T15:15:19.000Z</updated>
+        <summary type="html"><![CDATA[Celtic are in contact with Wolves for a left-back option.]]></summary>
+        <author>
+            <name>John McGinley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Benjamin Siegrist makes claim about Neil Lennon after leaving Celtic to join him at Rapid Bucharest]]></title>
+        <id>https://www.67hailhail.com/?p=203589</id>
+        <link href="https://www.67hailhail.com/news/benjamin-siegrist-makes-claim-about-neil-lennon-after-leaving-celtic-to-join-him-at-rapid-bucharest/"/>
+        <updated>2024-07-25T14:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Benjamin Siegrist begins a new chapter in his career after making the summer switch from Celtic to Neil Lennon’s Rapid Bucharest. The Swiss stopper had...]]></summary>
+        <author>
+            <name>Patrick Sinat</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic should look at signing Euro 2016 winner to bolster Rodgers midfield - opinion]]></title>
         <id>https://www.67hailhail.com/?p=203595</id>
