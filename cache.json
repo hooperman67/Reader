@@ -6,6 +6,26 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=122337",
+          "author": "CQN Magazine",
+          "description": "DAIZEN MAEDA created concern among the thousands of Celtic fans as he limped off during the first-half of the 4-1 win over Chelsea in Indiana this morning. Boss Brendan Rodgers, though, was quick to play down worries over the Japanese international’s fitness with the Premiership due to kick off against Kilmarnock at Parkhead on Flag [...]",
+          "link": "https://www.celticquicknews.co.uk/green-light-for-crocked-pair/",
+          "publishedOn": "2024-07-28T07:48:20.000Z",
+          "wordCount": 3662,
+          "title": "GREEN LIGHT FOR CROCKED PAIR",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/04/DAIZEN-MAEDA-FEATURED-AT-WEST-LOTHIAN.png"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/?p=122333",
+          "author": "CQN Magazine",
+          "description": "MATT O’RILEY went through his repertoire as he scored his third goal of the US tour with the opener in the 4-1 triumph over Chelsea in Indiana this morning. The masterful midfielder didn’t allow transfer speculation to knock him off his stride as he eased through his 73 minutes at the Notre Dame Stadium as he [...]",
+          "link": "https://www.celticquicknews.co.uk/rodgers-delivers-oriley-bernardo-update/",
+          "publishedOn": "2024-07-28T07:11:30.000Z",
+          "wordCount": 3964,
+          "title": "RODGERS DELIVERS O’RILEY, BERNARDO UPDATE",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/07/MATT-ORILEY-VHELSEA-GOAL-FEATURED.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=122314",
           "author": "CQN Magazine",
           "description": "BEAMING Brendan Rodgers declared himself “really happy” as Celtic brought down the curtain on their US tour with a 4-1 win over Chelsea in Indiana this morning. Kasper Schmeichel made three excellent saves in the opening 10 minutes as the champions took their time to settle into their stride at the Notre Dame Stadium. However, once [...]",
@@ -582,6 +602,56 @@
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
         {
+          "id": "https://www.67hailhail.com/?p=204003",
+          "author": "John McGinley",
+          "description": "\"That mentality to work and run with talent and structure gives you a great chance.\"",
+          "link": "https://www.67hailhail.com/match/what-brendan-rodgers-told-his-celtic-players-after-hitting-chelsea-with-a-4-1-win/",
+          "publishedOn": "2024-07-28T08:12:57.000Z",
+          "wordCount": 1589,
+          "title": "What Brendan Rodgers told his Celtic players after hitting Chelsea with a 4-1 win",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/07/GettyImages-2163970277-1-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=203990",
+          "author": "John McGinley",
+          "description": "The striker is reported to want a return to Celtic.",
+          "link": "https://www.67hailhail.com/news/adam-idah-shows-celtic-love-on-instagram-after-bhoys-beat-chelsea/",
+          "publishedOn": "2024-07-28T07:40:26.000Z",
+          "wordCount": 1482,
+          "title": "Adam Idah shows Celtic love on Instagram after Bhoys beat Chelsea",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/07/GettyImages-2156078250-2-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=203976",
+          "author": "Patrick Sinat",
+          "description": "Celtic finished off their US Tour with a superb performance and a convincing 4-1 win over Chelsea last night. Goals from Matt O’Riley, Kyogo Furuhashi,...",
+          "link": "https://www.67hailhail.com/match/what-the-celtic-fans-are-saying-about-kasper-schmeichel-and-joe-hart-after-rout-of-chelsea/",
+          "publishedOn": "2024-07-28T07:15:00.000Z",
+          "wordCount": 1780,
+          "title": "Kasper Schmeichel's performance in Celtic's rout of Chelsea has the fans all saying thing",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/07/GettyImages-2163368348-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=203983",
+          "author": "John McGinley",
+          "description": "The duo shouldn't be out for long.",
+          "link": "https://www.67hailhail.com/news/nicolas-kuhn-and-daizen-maeda-celtic-injury-latest-what-happened-and-brendan-rodgers-comments/",
+          "publishedOn": "2024-07-28T06:55:39.000Z",
+          "wordCount": 1439,
+          "title": "Nicolas Kuhn and Daizen Maeda Celtic injury latest, what happened and Brendan Rodgers comments",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/07/GettyImages-2163307600-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=203970",
+          "author": "John McGinley",
+          "description": "\"I think it was quite clear the difference between us and them in terms of physical condition.\"",
+          "link": "https://www.67hailhail.com/match/enzo-maresca-delivers-verdict-after-watching-celtic-dismantle-his-chelsea-side/",
+          "publishedOn": "2024-07-28T06:25:20.000Z",
+          "wordCount": 1590,
+          "title": "Enzo Maresca delivers verdict after watching Celtic dismantle his Chelsea side",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/07/GettyImages-2163973699-scaled.jpg"
+        },
+        {
           "id": "https://www.67hailhail.com/?p=203733",
           "author": "John McGinley",
           "description": "We'll have live updates and reaction throughout the night.",
@@ -940,16 +1010,6 @@
           "wordCount": 1440,
           "title": "Pep Guardiola delivers verdict on Celtic after watching Bhoys beat Man City",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/07/GettyImages-2163334324-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=203240",
-          "author": "John McGinley",
-          "description": "We'll have live updates throughout tonight as Celtic take on the English champions",
-          "link": "https://www.67hailhail.com/match/celtic-vs-man-city-live-team-news-scores/",
-          "publishedOn": "2024-07-23T19:32:32.000Z",
-          "wordCount": 2366,
-          "title": "Celtic vs Man City LIVE: Team news, potential line-up, TV details",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/07/GettyImages-1540896889-1-scaled.jpg"
         }
       ]
     },
