@@ -6,6 +6,26 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=94595",
+          "author": "CQN Magazine",
+          "description": "TOMMY BURNS continued to concentrate on the title as the pressure grew in his third year as Celtic manager during the absorbing 1996/97 crusade. The fans’ favourite had returned to the club on July 12 1994 and had won the Scottish Cup in his debut campaign. That was followed by a barren term and all [...]",
+          "link": "https://www.celticquicknews.co.uk/the-tommy-burns-story-cadete-controversy-annoni-arrives-pierre-exits-part-nineteen/",
+          "publishedOn": "2024-07-30T06:00:09.000Z",
+          "wordCount": 4408,
+          "title": "THE TOMMY BURNS STORY: CADETE CONTROVERSY, ANNONI ARRIVES, PIERRE EXITS: Part Nineteen",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/07/TOMMY-BURNS-THREE.jpeg"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/?p=121850",
+          "author": "CQN Magazine",
+          "description": "MORITZ BAUER had a Celtic debut to remember after joining on a season-long loan deal from Stoke City on August 28 2019. The Switzerland-born Austrian international right-back was pitched in at the deep end by Neil Lennon to make his first appearance at Ibrox just four days later. The attack-minded right-back played his part in [...]",
+          "link": "https://www.celticquicknews.co.uk/whatever-happened-to-moritz-bauer/",
+          "publishedOn": "2024-07-30T05:00:22.000Z",
+          "wordCount": 3686,
+          "title": "WHATEVER HAPPENED TO…MORITZ BAUER?",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/07/MORITZ-BAUER-V-HIBS-FEATURED.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=122364",
           "author": "Paul67",
           "description": "The most striking aspect of our preseason games is just how synchronised everyone is.  We look like a team in every sense of the word.  Contrast that with the disjointed look we had at the start of last season, with then new manager Brendan Rodgers changing things around.  Or worse, those early days of Ange [...]",
@@ -274,16 +294,6 @@
           "wordCount": 4716,
           "title": "THE SNAG THAT ALMOST KO’d HENRIK DEAL",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/03/HENRIK-LARSSON-FEATURED-FFF.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=122276",
-          "author": "CQN Magazine",
-          "description": "PAULO BERNARDO has finalised his £3.5million move to Celtic from Benfica after agreeing a five-year deal. The 22-year-old Portuguese playmaker, who impressed during his season-long loan, finally put pen to paper to complete the switch to the champions. And the Hoops are pursuing a loan deal for Wolves left-back Hugo Bueno who was a target [...]",
-          "link": "https://www.celticquicknews.co.uk/bernardo-seals-deal-bueno-on-way/",
-          "publishedOn": "2024-07-25T16:25:56.000Z",
-          "wordCount": 3626,
-          "title": "BERNARDO SEALS DEAL, BUENO ON WAY?",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/05/PAULO-BERNARDO-LIVI-FEATURED.png"
         }
       ]
     },
@@ -551,6 +561,16 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=204200",
+          "author": "Sean Markus Clifford",
+          "description": "The loan market and Celtic have a relationship that splits opinion among the support when it comes to potential deals of this nature hitting the...",
+          "link": "https://www.67hailhail.com/opinion/celtic-and-the-sacrifice-that-could-be-worth-making-in-the-loan-market/",
+          "publishedOn": "2024-07-30T05:10:00.000Z",
+          "wordCount": 1567,
+          "title": "Celtic and the sacrifice that could be worth making in the loan market",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/07/GettyImages-2161572896-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=204198",
           "author": "Sean Markus Clifford",
@@ -990,26 +1010,6 @@
           "wordCount": 1590,
           "title": "\"Could still be sold for good money\"... Callum McGregor's ideal Celtic plan for Matt O'Riley",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/07/GettyImages-2162583799-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=203637",
-          "author": "John McGinley",
-          "description": "Celtic's final pre-season match of the summer is this Saturday night.",
-          "link": "https://www.67hailhail.com/news/watch-celtic-train-through-pre-chelsea-downpour-as-nicolas-kuhn-injury-concerns-are-eased/",
-          "publishedOn": "2024-07-25T17:02:57.000Z",
-          "wordCount": 1463,
-          "title": "Watch Celtic train through pre-Chelsea downpour as recent injury concern is eased",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/07/GettyImages-2162588689-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=203630",
-          "author": "John McGinley",
-          "description": "Another day in pre-season, another day of chaotic energy from across the city.",
-          "link": "https://www.67hailhail.com/opinion/todd-cantwells-comments-on-celtic-captain-callum-mcgregor-are-even-more-bizarre-after-philippe-clement-outburst/",
-          "publishedOn": "2024-07-25T16:32:54.000Z",
-          "wordCount": 1547,
-          "title": "Todd Cantwell's Celtic comments are even more bizarre after Philippe Clement outburst",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/07/GettyImages-1480753798-scaled.jpg"
         }
       ]
     },
