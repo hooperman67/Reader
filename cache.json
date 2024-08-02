@@ -334,26 +334,6 @@
           "wordCount": 5497,
           "title": "Stability never lasts long in football",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=122365",
-          "author": "CQN Magazine",
-          "description": "GUSTAF LAGERBIELKE’S loan move to Serie A outfit Lecce was blocked by Brendan Rodgers in January. However, it looks as though the way is now clear for the Swedish international centre-back, who cost £3million from Elfsborg last summer, will get the green light in this transfer window. Rodgers was forced to pull the plug on [...]",
-          "link": "https://www.celticquicknews.co.uk/green-light-for-gus/",
-          "publishedOn": "2024-07-29T09:56:57.000Z",
-          "wordCount": 3867,
-          "title": "GREEN LIGHT FOR GUS",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/12/gustaf-lagerbielke-featured-v-feyenoord.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=122362",
-          "author": "CQN Magazine",
-          "description": "THERE was a hint of Saturday Night Fever in Indiana as Luis Palma displayed some neat dance moves after netting the third goal in the 4-1 win over Chelsea. The Honduran bamboozled a defender with a sway of his hips to fashion the opportunity which he tucked low past the helpless Robert Sanchez – and then [...]",
-          "link": "https://www.celticquicknews.co.uk/salsa-so-good-for-happy-feet-palma/",
-          "publishedOn": "2024-07-29T08:56:40.000Z",
-          "wordCount": 4192,
-          "title": "SALSA SO GOOD FOR ‘HAPPY FEET’ PALMA",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/07/LUIS-PALMA-FEATURRED-CHELSEA.png"
         }
       ]
     },
@@ -608,7 +588,23 @@
       "title": "eTims",
       "feedUrl": "http://etims.net/?feed=rss2",
       "siteUrl": "https://etims.net",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://etims.net/?p=18704",
+          "author": "Desi Mond",
+          "description": "The team get together for the first podcast of the new season. They look at items such as: Celts at Euros and CONCAF Rangers ground/steel…",
+          "link": "https://etims.net/?p=18704",
+          "publishedOn": "2024-08-02T21:34:56.000Z",
+          "wordCount": 2576,
+          "title": "New Season – New Podcast",
+          "enclosure": {
+            "url": "https://api.spreaker.com/v2/episodes/60905054/download.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://etims.net/wp-content/uploads/2024/08/paulo-now.png"
+        }
+      ]
     },
     {
       "title": "The Celtic Underground",
@@ -1240,36 +1236,6 @@
           "wordCount": 1547,
           "title": "Luis Palma on his key motive for forthcoming Celtic campaign after pre-season impact",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/07/GettyImages-2163349755-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=204144",
-          "author": "Patrick Sinat",
-          "description": "Celtic and Brendan Rodgers have, quite rightly, been receiving some great plaudits for their performances and results on the US Tour. Beating DC United, Man...",
-          "link": "https://www.67hailhail.com/news/shaka-hislops-bizarre-take-on-celtics-win-over-poor-chelsea/",
-          "publishedOn": "2024-07-29T09:40:19.000Z",
-          "wordCount": 1630,
-          "title": "‘’I saw it differently’: Shaka Hislop’s bizarre take on Celtic’s win over 'poor' Chelsea",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/07/GettyImages-1397574570-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=204138",
-          "author": "Sean Markus Clifford",
-          "description": "Brendan Rodgers has Celtic in excellent fettle ahead of the new season and will be keen to fine-tune his squad over the remainder of the...",
-          "link": "https://www.67hailhail.com/transfers/brendan-rodgers-says-celtic-man-may-be-allowed-to-depart-despite-showing-terrific-attitude/",
-          "publishedOn": "2024-07-29T09:10:00.000Z",
-          "wordCount": 1568,
-          "title": "Brendan Rodgers says Celtic man may be allowed to depart despite showing 'terrific attitude'",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/07/GettyImages-1781809401-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=204134",
-          "author": "Patrick Sinat",
-          "description": "Celtic’s US Tour has been a huge success this summer as the club promoted its image on and off the field. Huge wins against DC...",
-          "link": "https://www.67hailhail.com/news/luis-palma-says-celtic-have-a-phenomenal-player-who-is-amazing-in-training/",
-          "publishedOn": "2024-07-29T08:40:00.000Z",
-          "wordCount": 1579,
-          "title": "‘He is amazing’: Luis Palma says Celtic have a player who is ‘phenomenal’ in training",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/02/GettyImages-1855255961-scaled.jpg"
         }
       ]
     },
