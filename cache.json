@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=122556",
+          "author": "CQN Magazine",
+          "description": "NICOLAS KUHN has hit the ground running in the new season after his false start in January following his £3million arrival frm Rapid Vienna. The pacy winger scored Celtic’s equaliser in the 1-1 draw with Aberdeen at Pittodrie after making his debut as a second-half substitute. However, Kuhn faded from the picture shortly afterwards with evergreen [...]",
+          "link": "https://www.celticquicknews.co.uk/happy-bhoy-kuhn-on-a-wing-and-a-slayer/",
+          "publishedOn": "2024-08-06T06:55:46.000Z",
+          "wordCount": 4191,
+          "title": "HAPPY BHOY KUHN ON A WING AND A SLAYER",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/07/NICOLAS-KUHN-HOAL-V-CITY-FEATURED.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=95076",
           "author": "CQN Magazine",
           "description": "CELTIC great John ‘Yogi’ Hughes was missing from Jock Stein’s Lisbon line-up for the history-making triumph on May 25 1967. The non-appearance of the iconic Hoops forward has been the subject of conjecture ever since. Hughes played in five of the eight games leading up to the European Cup Final, but the nearest he got [...]",
@@ -324,16 +334,6 @@
           "wordCount": 3705,
           "title": "WHATEVER HAPPENED TO MIKAEL LUSTIG?",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/06/MIKAEL-LUSTIG-FEATURED-DONZ.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=122421",
-          "author": "CQN Magazine",
-          "description": "PAULO BERNARDO wasted no time in underlining one of his essential reasons for returning to Celtic on a five-year contract. The classy Portuguese midfielder this evening sealed his £3.4million move from Benfica after last season’s impressive loan at the Hoops and admitted he’s back for more silverware. Bernardo is eager to get among the honours again [...]",
-          "link": "https://www.celticquicknews.co.uk/champion-again-bernardo-chases-action-replay/",
-          "publishedOn": "2024-08-01T19:23:14.000Z",
-          "wordCount": 3983,
-          "title": "‘CHAMPION AGAIN,’ BERNARDO CHASES ACTION REPLAY",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/08/PAULO-BERNARDO-FEATURED-5-YEARS.png"
         }
       ]
     },
@@ -627,6 +627,26 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=204733",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic didn’t disappoint on Flag Day last weekend as they comfortably disposed of Kilmarnock to move top of the Scottish Premiership table. Matchday one is...",
+          "link": "https://www.67hailhail.com/news/michael-stewart-explains-why-celtic-look-far-superior-to-last-season/",
+          "publishedOn": "2024-08-06T08:10:00.000Z",
+          "wordCount": 1693,
+          "title": "Michael Stewart explains why Celtic look 'far superior' to last season",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-2164819118-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=204728",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic have controlled the landscape of domestic football in Scotland for over the last decade and have started the season in strong fashion once again....",
+          "link": "https://www.67hailhail.com/news/hearts-man-makes-bizarre-scottish-premiership-title-claim-involving-celtic/",
+          "publishedOn": "2024-08-06T07:10:00.000Z",
+          "wordCount": 1598,
+          "title": "Hearts man makes bizarre Scottish Premiership title claim involving Celtic",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-2153586446-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=204702",
           "author": "Sean Markus Clifford",
@@ -1096,26 +1116,6 @@
           "wordCount": 1483,
           "title": "Kasper Schmeichel shares his first impressions of Viljami Sinisalo's Celtic potential",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-2163307622-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=204373",
-          "author": "Patrick Sinat",
-          "description": "Transfer chat seems to be the order of the day for Celtic as Brendan Rodgers adds Paulo Bernardo to his ranks this afternoon. The Portuguese...",
-          "link": "https://www.67hailhail.com/news/celtic-told-to-go-and-sign-young-spfl-player-who-has-got-everything/",
-          "publishedOn": "2024-08-01T19:40:00.000Z",
-          "wordCount": 1588,
-          "title": "Peter Grant tells Celtic to go and sign young SPFL player who has ‘got everything’",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/02/GettyImages-1830025853-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=204428",
-          "author": "John McGinley",
-          "description": "Benfica have said their goodbyes to midfielder Paulo Bernardo after he officially signed for Celtic on a five-year deal. The Bhoys are believed to have...",
-          "link": "https://www.67hailhail.com/news/benfica-send-classy-goodbye-to-new-celtic-signing-paulo-bernardo-player-responds/",
-          "publishedOn": "2024-08-01T18:48:52.000Z",
-          "wordCount": 1461,
-          "title": "Benfica send classy goodbye to new Celtic signing Paulo Bernardo, player responds",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/09/GettyImages-1444870099-scaled.jpg"
         }
       ]
     },
