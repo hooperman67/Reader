@@ -615,7 +615,18 @@
       "title": "The Celtic Underground",
       "feedUrl": "http://celticunderground.net/feed/",
       "siteUrl": "http://celticunderground.net",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://celticunderground.net/?p=6785",
+          "author": "Ethan Barlow",
+          "description": "Celtic’s flag day thrashing of Kilmarnock extends their scoring spree of scoring four or more goals in a game, to five. After the Hoops started their preseason with a 1-1 draw with Ayr United they’ve recorded wins against Queen’s Park, D.C United, Manchester City, Chelsea and Kilmarnock scoring 22 goals in the process. Preseason, the […]",
+          "link": "http://celticunderground.net/why-celtics-four-midable-form-shouldnt-afford-the-club-to-rest-on-their-laurels/",
+          "publishedOn": "2024-08-07T13:37:06.000Z",
+          "wordCount": 3369,
+          "title": "Why Celtic’s four-midable form shouldn’t afford the club to rest on their laurels",
+          "imageUrl": "http://celticunderground.net/wp-content/uploads/2022/09/mcgregor-110.jpg"
+        }
+      ]
     },
     {
       "title": "67 Hail Hail",
