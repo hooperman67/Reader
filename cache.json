@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=122672",
+          "author": "CQN Magazine",
+          "description": "LIAM SHAW has seen nine minutes of Premiership action at Celtic in his three years at Parkhead. The defensive midfielder joined from Sheffield Wednesday for a £400,000 cross-border compensation fee in June 2021. Shaw’s switch from Hillsborough to Parkhead had been agreed the previous February when Neil Lennon was still in charge at the Hoops. [...]",
+          "link": "https://www.celticquicknews.co.uk/one-start-in-three-years-whats-the-score-with-liam-shaw/",
+          "publishedOn": "2024-08-09T07:58:53.000Z",
+          "wordCount": 3755,
+          "title": "ONE START IN THREE YEARS: WHAT’S THE SCORE WITH LIAM SHAW?",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/08/LIAM-SHAW-V-STM-FEATURED.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=122668",
           "author": "CQN Magazine",
           "description": "PAULO BERNARDO insists the “sky is the limit” after sealing his £3.5million move from Benfica to Celtic. The cultured Portuguese playmaker impressed Brendan Rodgers enough to transform his original season-long loan deal from Benfica into a five-year contract and the player wants to prove he can be a leader at the champions. Bernardo, who wasn’t [...]",
@@ -563,6 +573,26 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=204915",
+          "author": "Sean Markus Clifford",
+          "description": "Paulo Bernardo’s Celtic return finally came to fruition last week after a long process that dominated headlines for most of the summer. The 22-year-old netted...",
+          "link": "https://www.67hailhail.com/news/paulo-bernardo-on-his-love-for-the-celtic-fans-that-played-a-part-in-parkhead-return/",
+          "publishedOn": "2024-08-09T08:10:00.000Z",
+          "wordCount": 1671,
+          "title": "Paulo Bernardo on his love for the Celtic fans that played a part in Parkhead return",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/06/GettyImages-2127440978-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=204910",
+          "author": "John McGinley",
+          "description": "Reports around the Adam Idah to Celtic situation accelerated on Thursday night as the Bhoys returned to the negotiating table with Norwich City. After a...",
+          "link": "https://www.67hailhail.com/transfers/the-value-of-celtics-adam-idah-bids-to-date-as-bhoys-look-to-seal-the-deal/",
+          "publishedOn": "2024-08-09T06:57:56.000Z",
+          "wordCount": 1538,
+          "title": "The value of Celtic's Adam Idah bids to date as Bhoys look to seal the deal",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/06/GettyImages-2046384223-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=204904",
           "author": "John McGinley",
@@ -1122,26 +1152,6 @@
           "wordCount": 1795,
           "title": "John Collins left massively impressed with Celtic vs Kilmarnock, lauds two standouts",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-482339924-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=204627",
-          "author": "Patrick Sinat",
-          "description": "Why Celtic fans calling Liam Scales 'an absolute baller.'",
-          "link": "https://www.67hailhail.com/news/what-celtic-fans-are-saying-about-liam-scales-after-watching-his-performance-vs-kilmarnock/",
-          "publishedOn": "2024-08-04T20:10:00.000Z",
-          "wordCount": 1825,
-          "title": "What Celtic fans are saying about Liam Scales after watching his performance vs Kilmarnock",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-2164822161-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=204615",
-          "author": "Patrick Sinat",
-          "description": "Celtic’s opening day win over Kilmarnock was just what the fans wanted heading into the new season. Brendan Rodgers’ team looks like they have picked...",
-          "link": "https://www.67hailhail.com/match/derek-mcinnes-explains-what-was-bizarre-after-watching-celtic-hammer-kilmarnock/",
-          "publishedOn": "2024-08-04T19:10:00.000Z",
-          "wordCount": 1858,
-          "title": "'Sounds a bit bizarre': Derek McInnes delivers his thoughts after watching Celtic beat Kilmarnock",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-2164840799-scaled.jpg"
         }
       ]
     },
