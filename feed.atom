@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-08-11T14:11:31.376Z</updated>
+    <updated>2024-08-11T16:13:33.704Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hibs boss David Gray delivers verdict on what he witnessed from Celtic at Easter Road]]></title>
+        <id>https://www.67hailhail.com/?p=205069</id>
+        <link href="https://www.67hailhail.com/news/hibs-boss-david-gray-delivers-verdict-on-what-he-witnessed-from-celtic-at-easter-road/"/>
+        <updated>2024-08-11T15:26:02.000Z</updated>
+        <summary type="html"><![CDATA["Celtic dominated from start to finish in that 45 minutes – and we were lucky to go in just 2-0 down."]]></summary>
+        <author>
+            <name>John McGinley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brendan Rodgers explains Luis Palma Celtic absence, provides injury updates on Kyogo and Johnston]]></title>
+        <id>https://www.67hailhail.com/?p=205061</id>
+        <link href="https://www.67hailhail.com/news/brendan-rodgers-explains-luis-palma-celtic-absence-and-provides-injury-updates-on-kyogo-and-johnston/"/>
+        <updated>2024-08-11T14:49:47.000Z</updated>
+        <summary type="html"><![CDATA[Brendan Rodgers has updated on the status of several Celtic stars.]]></summary>
+        <author>
+            <name>John McGinley</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA['Required immediately'; Brendan Rodgers and Chris Sutton react to Celtic display vs Hibs]]></title>
         <id>https://www.67hailhail.com/?p=205052</id>
