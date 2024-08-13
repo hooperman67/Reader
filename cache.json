@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=122814",
+          "author": "CQN Magazine",
+          "description": "CELTIC target Dara O’Shea took centre stage as Burnley thumped Luton Town 4-1 in their opening game in the Championship last night. The Republic of Ireland centre-back scored with a towering header as last season’s two relegated sides met at Kenilworth Road. Dublin-born O’Shea, who is valued over the £7million mark, has been linked with [...]",
+          "link": "https://www.celticquicknews.co.uk/rise-and-shine-celtic-target-in-focus/",
+          "publishedOn": "2024-08-13T07:48:45.000Z",
+          "wordCount": 3650,
+          "title": "RISE AND SHINE: CELTIC TARGET IN FOCUS",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/08/DARA-OSHEA-FEATURED-BURNLEY-HH.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=122811",
           "author": "CQN Magazine",
           "description": "BOSUN LAWAL sent a heartfelt message to Celtic fans after sealing his £2million move to Stoke City. The versatile Republic of Ireland Under-21 international took to social media to say: “Special special club will be missed. Thanks to everyone involved for making my time at Celtic FC enjoyable.” Lawal was part of Brenda Rodgers’ squad [...]",
@@ -284,16 +294,6 @@
           "wordCount": 3846,
           "title": "WHATEVER HAPPENED TO…REGI BLINKER?",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/08/REGI-BLINKER-FEATURRED.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=122665",
-          "author": "CQN Magazine",
-          "description": "CELTIC have upped their offer for Adam Idah after their previous bid of £4.5miilion for the striker was knocked by Norwich. The champions are back in negotiations with the Championship club for the Republic of Ireland international powerhouse who netted nine goals – including the Scottish Cup Final winner – in his 19 loan appearances [...]",
-          "link": "https://www.celticquicknews.co.uk/idah-the-8m-question/",
-          "publishedOn": "2024-08-08T20:09:12.000Z",
-          "wordCount": 3599,
-          "title": "IDAH: THE £8m QUESTION",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/02/ADAM-IDAH-FEATURED-GG.png"
         }
       ]
     },
@@ -572,6 +572,46 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=205182",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic prevailed at Easter Road last weekend in a comfortable 2-0 victory over Hibernian to maintain their spot at the top of the Scottish Premiership....",
+          "link": "https://www.67hailhail.com/news/hibernian-defender-indicates-why-facing-celtic-was-an-eye-opener-last-weekend/",
+          "publishedOn": "2024-08-13T08:10:00.000Z",
+          "wordCount": 1826,
+          "title": "Hibernian defender indicates why facing Celtic was an 'eye-opener' last weekend",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-2164795228-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=205174",
+          "author": "Patrick Sinat",
+          "description": "The deal to bring Adam Idah to Celtic from Norwich City appears to be finally done and it will bring an end to a long...",
+          "link": "https://www.67hailhail.com/news/chris-sutton-delivers-his-verdict-on-celtic-paying-9-5m-to-sign-adam-idah-from-norwich-city/",
+          "publishedOn": "2024-08-13T07:40:00.000Z",
+          "wordCount": 1668,
+          "title": "Chris Sutton delivers his verdict on Celtic paying £9.5m to sign Adam Idah from Norwich City",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-2038108009-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=205164",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic are in the hunt for fresh bodies and the Premier League market could be worth exploring for Brendan Rodgers. Recently, Crystal Palace utility man...",
+          "link": "https://www.67hailhail.com/opinion/celtic-and-the-possibility-of-late-window-premier-league-deals-coming-to-the-fore/",
+          "publishedOn": "2024-08-13T07:10:00.000Z",
+          "wordCount": 1616,
+          "title": "Celtic and the possibility of late window Premier League deals coming to the fore - opinion",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-1656782914-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=205170",
+          "author": "Patrick Sinat",
+          "description": "The deal for Celtic to sign Adam Idah from Norwich City is now all but done and dusted after a summer of negotiations between the...",
+          "link": "https://www.67hailhail.com/transfers/how-much-celtic-will-actually-pay-up-front-to-sign-adam-idah-from-norwich-city/",
+          "publishedOn": "2024-08-13T06:46:54.000Z",
+          "wordCount": 1627,
+          "title": "Report: How much Celtic will actually pay up-front to sign Adam Idah from Norwich City",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/07/GettyImages-2156078282-1-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=205156",
           "author": "Sean Markus Clifford",
@@ -1051,16 +1091,6 @@
           "wordCount": 1538,
           "title": "The value of Celtic's Adam Idah bids to date as Bhoys look to seal the deal",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/06/GettyImages-2046384223-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=204904",
-          "author": "John McGinley",
-          "description": "A key part of the final weeks of Celtic’s transfer window will be ensuring plenty in the squad move out of the club, as well...",
-          "link": "https://www.67hailhail.com/news/celtic-start-to-move-on-fringe-squad-members-decisions-could-pave-the-way-for-incomings/",
-          "publishedOn": "2024-08-08T19:10:00.000Z",
-          "wordCount": 1587,
-          "title": "Celtic start to move on fringe squad members, decisions could pave the way for incomings",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-2163368503-scaled.jpg"
         }
       ]
     },
