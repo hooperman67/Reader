@@ -204,16 +204,6 @@
           "wordCount": 6049,
           "title": "Norwich accept Celtic offer on cusp of club sale",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=122814",
-          "author": "CQN Magazine",
-          "description": "CELTIC target Dara O’Shea took centre stage as Burnley thumped Luton Town 4-1 in their opening game in the Championship last night. The Republic of Ireland centre-back scored with a towering header as last season’s two relegated sides met at Kenilworth Road. Dublin-born O’Shea, who is valued over the £7million mark, has been linked with [...]",
-          "link": "https://www.celticquicknews.co.uk/rise-and-shine-celtic-target-in-focus/",
-          "publishedOn": "2024-08-13T07:48:45.000Z",
-          "wordCount": 3650,
-          "title": "RISE AND SHINE: CELTIC TARGET IN FOCUS",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/08/DARA-OSHEA-FEATURED-BURNLEY-HH.png"
         }
       ]
     },
@@ -523,6 +513,16 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=205549",
+          "author": "John McGinley",
+          "description": "Atalanta are going for another option.",
+          "link": "https://www.67hailhail.com/transfers/celtic-rebuff-serious-interest-in-matt-oriley-as-summer-suitor-appears-to-admit-defeat/",
+          "publishedOn": "2024-08-17T18:50:16.000Z",
+          "wordCount": 1502,
+          "title": "Celtic rebuff serious interest in Matt O'Riley as summer suitor appears to admit defeat",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/07/GettyImages-1809771475-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=205540",
           "author": "John McGinley",
@@ -1272,46 +1272,6 @@
           "wordCount": 1667,
           "title": "John Hartson's reaction as Adam Idah closes in on big-money Celtic transfer",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/07/GettyImages-2000654989-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=205182",
-          "author": "Sean Markus Clifford",
-          "description": "Celtic prevailed at Easter Road last weekend in a comfortable 2-0 victory over Hibernian to maintain their spot at the top of the Scottish Premiership....",
-          "link": "https://www.67hailhail.com/news/hibernian-defender-indicates-why-facing-celtic-was-an-eye-opener-last-weekend/",
-          "publishedOn": "2024-08-13T08:10:00.000Z",
-          "wordCount": 1826,
-          "title": "Hibernian defender indicates why facing Celtic was an 'eye-opener' last weekend",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-2164795228-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=205174",
-          "author": "Patrick Sinat",
-          "description": "The deal to bring Adam Idah to Celtic from Norwich City appears to be finally done and it will bring an end to a long...",
-          "link": "https://www.67hailhail.com/news/chris-sutton-delivers-his-verdict-on-celtic-paying-9-5m-to-sign-adam-idah-from-norwich-city/",
-          "publishedOn": "2024-08-13T07:40:00.000Z",
-          "wordCount": 1668,
-          "title": "Chris Sutton delivers his verdict on Celtic paying £9.5m to sign Adam Idah from Norwich City",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-2038108009-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=205164",
-          "author": "Sean Markus Clifford",
-          "description": "Celtic are in the hunt for fresh bodies and the Premier League market could be worth exploring for Brendan Rodgers. Recently, Crystal Palace utility man...",
-          "link": "https://www.67hailhail.com/opinion/celtic-and-the-possibility-of-late-window-premier-league-deals-coming-to-the-fore/",
-          "publishedOn": "2024-08-13T07:10:00.000Z",
-          "wordCount": 1616,
-          "title": "Celtic and the possibility of late window Premier League deals coming to the fore - opinion",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-1656782914-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=205170",
-          "author": "Patrick Sinat",
-          "description": "The deal for Celtic to sign Adam Idah from Norwich City is now all but done and dusted after a summer of negotiations between the...",
-          "link": "https://www.67hailhail.com/transfers/how-much-celtic-will-actually-pay-up-front-to-sign-adam-idah-from-norwich-city/",
-          "publishedOn": "2024-08-13T06:46:54.000Z",
-          "wordCount": 1627,
-          "title": "Report: How much Celtic will actually pay up-front to sign Adam Idah from Norwich City",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/07/GettyImages-2156078282-1-scaled.jpg"
         }
       ]
     },
