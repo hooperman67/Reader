@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-08-18T08:14:02.487Z</updated>
+    <updated>2024-08-18T10:12:33.779Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Premier League fans deliver verdict on Joe Hart's Match Of The Day debut as Celtic hero takes next step]]></title>
+        <id>https://www.67hailhail.com/?p=205583</id>
+        <link href="https://www.67hailhail.com/news/english-premier-league-fans-deliver-verdict-on-match-of-the-day-debut-for-celtic-hero-joe-hart/"/>
+        <updated>2024-08-18T10:10:00.000Z</updated>
+        <summary type="html"><![CDATA[The former Celtic star was a big hit.]]></summary>
+        <author>
+            <name>John McGinley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Tanner Tessmann has been told about his future at Venezia after summer link to Celtic]]></title>
+        <id>https://www.67hailhail.com/?p=205581</id>
+        <link href="https://www.67hailhail.com/transfers/what-tanner-tessmann-has-been-told-about-his-future-at-venezia-after-summer-links-to-celtic/"/>
+        <updated>2024-08-18T09:42:15.000Z</updated>
+        <summary type="html"><![CDATA[As Celtic continues their search to add new talent to the squad, one player who Brendan Rodgers was rumoured to he of interest this summer...]]></summary>
+        <author>
+            <name>Patrick Sinat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Similar to a Kiernan Tierney': Pundit tells Celtic they could sign a player who could be as good as Arsenal defender]]></title>
+        <id>https://www.67hailhail.com/?p=205574</id>
+        <link href="https://www.67hailhail.com/news/celtic-told-by-pundit-they-could-sign-a-player-who-is-similar-to-kieran-tierney/"/>
+        <updated>2024-08-18T08:40:00.000Z</updated>
+        <summary type="html"><![CDATA[As Celtic look to strengthen the team for the upcoming Champions League campaign, they have been told that one player who has been linked to...]]></summary>
+        <author>
+            <name>Patrick Sinat</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nicolas Kuhn shares what Adam Idah is really like in the Celtic dressing room]]></title>
         <id>https://www.67hailhail.com/?p=205570</id>
