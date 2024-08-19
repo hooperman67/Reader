@@ -6,6 +6,26 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=123001",
+          "author": "CQN Magazine",
+          "description": "CELTIC have agreed a fee of £400,000 plus add-ons to immediately release Daniel Kelly to Millwall. The 18-year-old midfielder had signed a pre-contract with the London side and was poised to join them when his terms at the Hoops expired on January 1 2025. Kelly knocked back a reported offer of £5,000-per-week to extend his [...]",
+          "link": "https://www.celticquicknews.co.uk/kellys-400000-exit/",
+          "publishedOn": "2024-08-19T06:09:54.000Z",
+          "wordCount": 3739,
+          "title": "KELLY’S £400,000 EXIT",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/04/DANIEL-KELLY-3-0-LIVI-FEATURED-HH.png"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/?p=122995",
+          "author": "CQN Magazine",
+          "description": "KYOGO FURUHASHI faces being out of football for FOUR months as he attempts to overcome his persistent shoulder injury. The Japanese hitman was forced off in the 74th minute of last weekend’s 2-0 Premiership win over Hibs at Easter Road and he was missing as the champions beat the Edinburgh side again yesterday, this time [...]",
+          "link": "https://www.celticquicknews.co.uk/kyogo-4-month-crock-fear/",
+          "publishedOn": "2024-08-19T05:31:19.000Z",
+          "wordCount": 4063,
+          "title": "KYOGO 4-MONTH CROCK FEAR",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/08/KYOGO-FURUHASHI-SHOULDER-FEATURED.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=122992",
           "author": "CQN Magazine",
           "description": "CELTIC will face League Cup shock squad Falkirk in the League Cup quarter-final next month. The Championship side dumped Hearts 2-0 yesterday and have been rewarded with an intriguing tie in the last eight against Brendan Rodgers’ men at Parkhead with the tie due on the weekend of September 21/22. Two goals from Daizen Maeda [...]",
@@ -1072,46 +1092,6 @@
           "wordCount": 1605,
           "title": "‘Had to be that’: Former Celtic hero Joe Hart explains his next career move after Euro 2024 punditry gig",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/04/GettyImages-2149396925-1-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=205346",
-          "author": "Sean Markus Clifford",
-          "description": "Johan Mjallby was a bruising central defender at Celtic who took no prisoners during a glittering six-year spell in Glasgow. Now enjoying life away from...",
-          "link": "https://www.67hailhail.com/news/johan-mjallbys-verdict-on-the-most-important-position-for-celtic-to-strengthen-this-summer/",
-          "publishedOn": "2024-08-14T18:10:00.000Z",
-          "wordCount": 1751,
-          "title": "Johan Mjallby's verdict on the most important position for Celtic to strengthen this summer",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/07/GettyImages-51528251-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=205325",
-          "author": "Patrick Sinat",
-          "description": "Rangers’ Champions League exit means that Celtic are Scotland’s sole representatives in the competition this season. For the third year in a row, the Bhoys...",
-          "link": "https://www.67hailhail.com/news/kris-boyd-makes-a-bizarre-claim-about-celtic-and-rangers-after-ibrox-clubs-champions-league-exit/",
-          "publishedOn": "2024-08-14T17:40:00.000Z",
-          "wordCount": 1750,
-          "title": "Kris Boyd is in denial about Rangers but he's right about the potential of Celtic now",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/11/GettyImages-1294152832-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=205330",
-          "author": "Sean Markus Clifford",
-          "description": "Owen Beck continues to be linked with Celtic after coming close to joining the Bhoys from Liverpool in the January window before it fell through....",
-          "link": "https://www.67hailhail.com/news/tony-dochertys-glowing-owen-beck-verdict-as-celtic-interest-continues/",
-          "publishedOn": "2024-08-14T17:10:00.000Z",
-          "wordCount": 1756,
-          "title": "Glowing Owen Beck verdict from Premiership boss as Celtic interest continues",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/01/GettyImages-1805956644-1-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=205297",
-          "author": "Patrick Sinat",
-          "description": "Celtic have faced Manchester City three times over the years and have yet to suffer a defeat to the English Premier League club. Granted, the...",
-          "link": "https://www.67hailhail.com/news/new-book-on-pep-guardiola-makes-it-clear-how-2016-celtic-park-result-sparked-job-fears/",
-          "publishedOn": "2024-08-14T16:40:00.000Z",
-          "wordCount": 1806,
-          "title": "New book on Pep Guardiola makes it clear how 2016 Celtic Park result sparked job fears",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/06/GettyImages-628060876-scaled.jpg"
         }
       ]
     },
