@@ -6,6 +6,26 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=123036",
+          "author": "CQN Magazine",
+          "description": "KASPER SCHMEICHEL has revealed he dismissed interest from English top-flight teams to accept the demands of playing for Celtic. The 37-year-old goalkeeper, who has made 105 international appearances for Denmark, took up the challenge of attempting to win EVERY game at the champions. Schmeichel left Belgian outfit Anderlecht at the end of the season as a free agent [...]",
+          "link": "https://www.celticquicknews.co.uk/revealed-i-love-the-demand-schmeichel/",
+          "publishedOn": "2024-08-20T11:15:04.000Z",
+          "wordCount": 4001,
+          "title": "REVEALED: ‘I LOVE THE DEMAND,’ SCHMEICHEL",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/08/KASPER-SCHMEICHEL-V-HIBS-FEATURRED.png"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/?p=123023",
+          "author": "Paul67",
+          "description": "August is a perilous time for predictions.  Teams are still working on fitness, new arrivals are often learning the language, and until the window closes, players can still come and go, affecting the performance of anyone competing for the title. That’s easy for us to say, though.  Across the city, all they can see is [...]",
+          "link": "https://www.celticquicknews.co.uk/bandwidth-required/",
+          "publishedOn": "2024-08-20T11:00:07.000Z",
+          "wordCount": 5857,
+          "title": "Bandwidth required",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=123034",
           "author": "CQN Magazine",
           "description": "BOSUN LAWAL’S first appearance for Stoke City has been put on hold following last week’s £2million switch from Celtic. The versatile Republic of Ireland Under-21 international joined the Championship club in his pursuit of game-time. However, Lawal will be forced to wait for his debut after an issue was flagged up during his medical. Jon [...]",
@@ -553,6 +573,46 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=205966",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic have an important couple of weeks ahead, and supporters expect the club to make advances on potential incomings. That anticipation has been kicked up...",
+          "link": "https://www.67hailhail.com/news/mark-guidi-shares-how-many-players-celtic-could-bring-in-before-transfer-deadline/",
+          "publishedOn": "2024-08-20T12:10:00.000Z",
+          "wordCount": 1731,
+          "title": "Mark Guidi shares how many players Celtic could bring in before transfer deadline",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/05/GettyImages-2149402346-1-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=205960",
+          "author": "Patrick Sinat",
+          "description": "The speculation surrounding Matt O’Riley’s Celtic future continues as Southampton manager, Russell Martin, discloses his thoughts on the Hoops player. The newly promoted Premier League...",
+          "link": "https://www.67hailhail.com/transfers/what-russell-martin-has-told-journalist-about-southamptons-interest-in-celtic-hero-matt-oriley/",
+          "publishedOn": "2024-08-20T11:40:00.000Z",
+          "wordCount": 1689,
+          "title": "'I spoke': What Russell Martin has now told journalist about Southampton's interest in Celtic's Matt O'Riley",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/08/GettyImages-1570136506-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=205935",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic are at the beginning of their quest to claim more silverware this term and there is optimism among supporters amid their side’s strong start...",
+          "link": "https://www.67hailhail.com/news/cameron-carter-vickers-on-why-celtic-will-only-continue-to-accelerate-under-brendan-rodgers/",
+          "publishedOn": "2024-08-20T11:10:00.000Z",
+          "wordCount": 1899,
+          "title": "Cameron Carter-Vickers on why Celtic will only continue to accelerate under Brendan Rodgers",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-2164858872-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=205955",
+          "author": "Patrick Sinat",
+          "description": "Matt O’Riley’s Celtic future is one that has been grabbing the majority of the headlines this summer as the midfielder attracts the attention of clubs...",
+          "link": "https://www.67hailhail.com/transfers/brighton-ceo-speaks-out-after-being-asked-about-the-interest-in-celtics-matt-oriley/",
+          "publishedOn": "2024-08-20T10:41:36.000Z",
+          "wordCount": 1624,
+          "title": "Brighton CEO speaks out after being asked about the interest in Celtic’s Matt O’Riley",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/07/GettyImages-2127547620-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=205949",
           "author": "Sean Markus Clifford",
