@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-08-21T18:15:54.207Z</updated>
+    <updated>2024-08-21T20:12:48.501Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The SFA recognise three former Celtic players in blueprint to improve young Scottish football talent]]></title>
+        <id>https://www.67hailhail.com/?p=206082</id>
+        <link href="https://www.67hailhail.com/news/the-sfa-recognise-three-former-celtic-players-in-blueprint-to-improve-young-scottish-football-talent/"/>
+        <updated>2024-08-21T18:40:00.000Z</updated>
+        <summary type="html"><![CDATA[The SFA have published a report on improving young Scottish talent and in doing so, have namechecked three former Celtic players. The governing body seems...]]></summary>
+        <author>
+            <name>Patrick Sinat</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA['Hopeful': Club CEO suggests he's confident he can sign £3m player from Celtic soon]]></title>
         <id>https://www.67hailhail.com/?p=206026</id>
@@ -1032,16 +1042,6 @@
         <link href="https://www.celticquicknews.co.uk/celt-at-the-crossroads/"/>
         <updated>2024-08-17T09:06:19.000Z</updated>
         <summary type="html"><![CDATA[MIKEY JOHNSTON is edging towards the crossroads of his Celtic career. It is now make-your-mind-up-time for the 25-year-old winger who was introduced to the Hoops top side by first time-around Brendan Rodgers in May 2017. The Republic of Ireland international ace’s future could be settled within the next 13 days as the transfer deadline looms. Johnston, [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘FOOTBALL, FREEDOM AND PARADISE’: RUDI VATA’S EXTRAORDINARY LIFE STORY]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=122971</id>
-        <link href="https://www.celticquicknews.co.uk/football-freedom-and-paradise-rudi-vatas-extraordinary-life-story/"/>
-        <updated>2024-08-17T07:23:50.000Z</updated>
-        <summary type="html"><![CDATA[LIAM BRADY was among the 29,727 crowd to watch Republic of Ireland beat Albania 2-0 in the World Cup qualifier at Lansdowne Road, Dublin, on May 26 1992. The Celtic manager was there to support his nation and keep an eye on the performance of keeper Pat Bonner. However, it was a player of the [...]]]></summary>
         <author>
             <name>CQN Magazine</name>
         </author>
