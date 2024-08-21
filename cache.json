@@ -510,6 +510,16 @@
       "siteUrl": "https://etims.net",
       "articles": [
         {
+          "id": "https://etims.net/?p=18743",
+          "author": "Ralph Malph",
+          "description": "When newspapers…or websites… don’t know what what’s actually going on, there’s a tendency for them to ask someone else what they think, and then run…",
+          "link": "https://etims.net/?p=18743",
+          "publishedOn": "2024-08-21T07:15:16.000Z",
+          "wordCount": 4330,
+          "title": "Celtic Diary Wednesday August 21 2024: How The Media Works….Again",
+          "imageUrl": "https://etims.net/wp-content/uploads/2024/08/433044712-media.jpg"
+        },
+        {
           "id": "https://etims.net/?p=18739",
           "author": "Desi Mond",
           "description": "Sunday 18th August and so it was that Celtic faced Hibs for the 2nd of 2 successive games against our Edinburgh cousins. The last one…",
@@ -543,6 +553,36 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=206015",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic have been in excellent form this term and there is excitement over the trajectory of Brendan Rodgers’ second campaign back in charge. The Irishman...",
+          "link": "https://www.67hailhail.com/news/brendan-rodgers-on-the-celtic-mindset-this-term-outlines-plans-to-continue-strong-start/",
+          "publishedOn": "2024-08-21T08:10:00.000Z",
+          "wordCount": 1703,
+          "title": "Brendan Rodgers on the Celtic 'mindset' this term, outlines plans to continue strong start",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-2164858780-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=206018",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic have unveiled their third kit this morning and now have their full range of shirts laid out for supporters to purchase. In the modern...",
+          "link": "https://www.67hailhail.com/news/celtic-unveil-stunning-new-adidas-third-kit-now-available-for-pre-order/",
+          "publishedOn": "2024-08-21T07:40:00.000Z",
+          "wordCount": 1591,
+          "title": "Celtic unveil stunning new Adidas third kit, now available for pre-order",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/03/GettyImages-1457446865-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=206008",
+          "author": "Patrick Sinat",
+          "description": "The Matt O’Riley transfer saga looks like it could be coming to an end after a BBC journalist shared how much Brighton has offered for...",
+          "link": "https://www.67hailhail.com/transfers/how-much-money-brighton-have-really-offered-celtic-for-matt-oriley-as-deal-nearly-complete/",
+          "publishedOn": "2024-08-21T06:40:00.000Z",
+          "wordCount": 1679,
+          "title": "‘I’m told’: BBC man shares what he’s ‘hearing’ Brighton has really offered Celtic for Matt O’Riley",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/07/GettyImages-1744747400-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=205952",
           "author": "Patrick Sinat",
@@ -1122,36 +1162,6 @@
           "wordCount": 1547,
           "title": "Report: Celtic make enquiry to Ajax for Dutch international defender, club open to offers",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-2161551476-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=205523",
-          "author": "John McGinley",
-          "description": "\"We talk openly.\"",
-          "link": "https://www.67hailhail.com/news/we-talk-openly-brendan-rodgers-addresses-mikey-johnstons-future-celtic-winger-suffers-new-injury/",
-          "publishedOn": "2024-08-16T20:12:27.000Z",
-          "wordCount": 1607,
-          "title": "'We talk openly'; Brendan Rodgers addresses Mikey Johnston's future as Celtic winger suffers new injury",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-2163330272-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=205519",
-          "author": "John McGinley",
-          "description": "\"Financially we are in a really good place. The sale of anyone shouldn't have to determine what we do.\"",
-          "link": "https://www.67hailhail.com/transfers/celtics-remaining-transfer-budget-addressed-by-brendan-rodgers-after-9-5m-adam-idah-deal/",
-          "publishedOn": "2024-08-16T19:40:00.000Z",
-          "wordCount": 1687,
-          "title": "Celtic's remaining transfer budget addressed by Brendan Rodgers after £9.5m Adam Idah deal",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-2073409830-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=205512",
-          "author": "John McGinley",
-          "description": "\"It's still an area I think that we can review after the window.\"",
-          "link": "https://www.67hailhail.com/news/brendan-rodgers-suggests-crucial-behind-the-scenes-improvements-are-coming-to-celtic/",
-          "publishedOn": "2024-08-16T18:57:10.000Z",
-          "wordCount": 1636,
-          "title": "Brendan Rodgers suggests crucial behind-the-scenes improvements are coming to Celtic",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-2164858780-scaled.jpg"
         }
       ]
     },
