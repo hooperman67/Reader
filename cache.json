@@ -6,6 +6,36 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=123051",
+          "author": "CQN Magazine",
+          "description": "CELTIC are stepping up their urgent bid for a new left-back as cover for Greg Taylor. Brendan Rodgers has no experienced deputy for the Scotland international and Liverpool No.3 Owen Beck is on the Hoops manager’s radar for a second time. The Welsh Under-21 defender caught the gaffer’s eye during his impressive loan stint at [...]",
+          "link": "https://www.celticquicknews.co.uk/beck-in-the-frame/",
+          "publishedOn": "2024-08-21T05:42:00.000Z",
+          "wordCount": 3756,
+          "title": "BECK IN THE FRAME",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/08/OWEN-BECK-TARGET-FEATURED.png"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/?p=123048",
+          "author": "CQN Magazine",
+          "description": "FORMER Celtic boss Neil Lennon has been sacked after just THREE months in charge of Rapid Bucharest. The axe has fallen on the Irishman after he failed to win any of his six league games at the Romanian club, drawing five and losing one. Lennon, who had two stints in charge of the Hoops, made [...]",
+          "link": "https://www.celticquicknews.co.uk/lennys-rapid-exit/",
+          "publishedOn": "2024-08-21T04:55:19.000Z",
+          "wordCount": 3750,
+          "title": "LENNY’S RAPID EXIT",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/08/NEIL-LENNON-RAPID-FEATURED.png"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/?p=123045",
+          "author": "CQN Magazine",
+          "description": "BRENDAN RODGERS is in a beat-the-clock race to bring in midfield reinforcements with Matt O’Riley on the brink of sealing his £25million-plus move to Brighton. The Celtic boss has already brought back Paulo Bernardo in a £3.5million deal from Benfica after the Portuguese playmaker’s impressive season on loan. However, Rodgers knows he still needs to [...]",
+          "link": "https://www.celticquicknews.co.uk/brendan-in-beat-the-clock-bid-for-duo/",
+          "publishedOn": "2024-08-21T04:23:10.000Z",
+          "wordCount": 3692,
+          "title": "BRENDAN IN BEAT-THE-CLOCK BID FOR DUO",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/08/BRENDAN-RODGERS-FEATURED-V-HIBS-2-0-AUG-11-24.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=123040",
           "author": "CQN Magazine",
           "description": "FROZEN-OUT Celt Gustaf Lagerbielke is a wanted man as the transfer deadline approaches. Dutch side Heerenveen and Belgian club KV Mechelen are keen on the Swedish defender who arrived at the Hoops last summer in a £3million switch from Elfsborg. Lagerbielke knocked back the chance of a return to his homeland with Malmo offering a [...]",
@@ -1122,36 +1152,6 @@
           "wordCount": 1636,
           "title": "Brendan Rodgers suggests crucial behind-the-scenes improvements are coming to Celtic",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-2164858780-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=205491",
-          "author": "Sean Markus Clifford",
-          "description": "Celtic are in the market for additions this summer and midfield has been identified as an area where reinforcements could occur before the deadline. In...",
-          "link": "https://www.67hailhail.com/news/ramon-vega-on-why-brendan-rodgers-should-look-to-bring-exciting-swiss-midfielder-to-celtic/",
-          "publishedOn": "2024-08-16T18:10:00.000Z",
-          "wordCount": 1775,
-          "title": "Ramon Vega on why Brendan Rodgers should look to bring 'exciting' Swiss talent to Celtic",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/06/GettyImages-1396839609-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=205506",
-          "author": "John McGinley",
-          "description": "Celtic are still looking at multiple positions to strengthen Brendan Rodgers’ squad in the closing weeks of the summer transfer window. A key priority remains...",
-          "link": "https://www.67hailhail.com/transfers/celtic-identify-another-in-demand-attacking-midfielder-for-potential-transfer/",
-          "publishedOn": "2024-08-16T16:48:34.000Z",
-          "wordCount": 1528,
-          "title": "Celtic identify another in-demand attacking midfielder for potential transfer",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-1351910728-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=205501",
-          "author": "John McGinley",
-          "description": "The duo weren't at Lennoxtown on Friday.",
-          "link": "https://www.67hailhail.com/news/alistair-johnston-and-kyogo-furuhashi-celtic-training-absences-explained/",
-          "publishedOn": "2024-08-16T16:17:19.000Z",
-          "wordCount": 1510,
-          "title": "Alistair Johnston and Kyogo Furuhashi Celtic training absences explained",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-2164859035-2-scaled.jpg"
         }
       ]
     },
