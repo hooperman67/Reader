@@ -6,6 +6,26 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=123085",
+          "author": "CQN Magazine",
+          "description": "MIKEY JOHNSTON is on the brink of ending his seven-year Celtic association. The Republic of Ireland international winger is poised to sign a permanent deal for Championship side Burnley. Johnston, 25, is reportedly due for a medical at the Turf Moor club ahead of agreeing a five-year contract. The wide man impressed during his short-term [...]",
+          "link": "https://www.celticquicknews.co.uk/johnston-on-the-brink/",
+          "publishedOn": "2024-08-22T08:06:11.000Z",
+          "wordCount": 3834,
+          "title": "JOHNSTON ON THE BRINK",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/08/MIKEY-JOHNSTON-GO-FEATURED.png"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/?p=123082",
+          "author": "CQN Magazine",
+          "description": "FORGOTTEN Celtic defender Yuki Kobayashi has left the champions in a four-year deal to Portuguese side Portimonense. The Japanese centre-back didn’t make a solitary appearance for Brendan Rodgers’ men last season and has now quit Parkhead for an undisclosed fee, according to the Scottish Sun. Kobayashi was signed by ex-boss Ange Postecoglou on a free [...]",
+          "link": "https://www.celticquicknews.co.uk/sayonara-yuki/",
+          "publishedOn": "2024-08-22T06:38:58.000Z",
+          "wordCount": 3778,
+          "title": "SAYONARA, YUKI",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/07/YUKI-KOBAYASHI-V-AYR-FEATURED.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=123079",
           "author": "CQN Magazine",
           "description": "THE Kyogo Furuhashi link to Manchester City has come out of the blue – quite literally. News was leaked from across the border that the Celtic striker may be on Pep Guardiola’s wish list following Julian Alvarez’s £82million switch to Atletico Madrid. The tale is akin to the pebble rolling down the mountain that creates [...]",
@@ -542,6 +562,46 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=206106",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic could be set for a chaotic end to the window that could see significant movement in both directions before the deadline. Matt O’Riley is...",
+          "link": "https://www.67hailhail.com/opinion/the-striker-celtic-should-look-at-revisiting-if-their-need-for-attacking-prowess-hastens/",
+          "publishedOn": "2024-08-22T08:10:00.000Z",
+          "wordCount": 1638,
+          "title": "The striker Celtic should look at revisiting if their need for attacking prowess grows - opinion",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/05/GettyImages-1241376551-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=206100",
+          "author": "Patrick Sinat",
+          "description": "As the end of the transfer window approaches, interest in Celtic’s players is really hotting up this week. As news broke yesterday that Man City...",
+          "link": "https://www.67hailhail.com/transfers/celtic-reject-three-approaches-for-treble-winning-player-as-multiple-clubs-show-late-interest/",
+          "publishedOn": "2024-08-22T07:40:00.000Z",
+          "wordCount": 1539,
+          "title": "Report: Celtic reject three 'approaches' for treble-winning player as multiple clubs show late interest",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-2164858599-1-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=206102",
+          "author": "Sean Markus Clifford",
+          "description": "Gustaf Lagerbielke continues to attract interest from elsewhere as the prospect of him exiting Celtic becomes more likely before the end of the window. The...",
+          "link": "https://www.67hailhail.com/transfers/gustaf-lagerbielke-celtic-exit-options-grow-despite-reaching-advanced-talks-with-heerenveen/",
+          "publishedOn": "2024-08-22T07:15:00.000Z",
+          "wordCount": 1490,
+          "title": "Gustaf Lagerbielke Celtic exit options grow despite reaching advanced talks with Heerenveen",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/01/GettyImages-1676985922-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=206096",
+          "author": "Patrick Sinat",
+          "description": "The news that Man City were interested in signing Kyogo Furuhashi from Celtic came out of the blue yesterday. We discussed how the Premier League...",
+          "link": "https://www.67hailhail.com/news/when-man-city-will-make-a-decision-on-whether-to-sign-kyogo-furuhashi-from-celtic/",
+          "publishedOn": "2024-08-22T06:40:00.000Z",
+          "wordCount": 1507,
+          "title": "'That is expected': When Man City will make a decision on Kyogo Celtic transfer - journalist",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-2164858871-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=206082",
           "author": "Patrick Sinat",
@@ -1261,16 +1321,6 @@
           "wordCount": 1550,
           "title": "Report: Celtic still working on transfer for Premier League talent Rodgers admires",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-2163856524-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=205549",
-          "author": "John McGinley",
-          "description": "Atalanta are going for another option.",
-          "link": "https://www.67hailhail.com/transfers/celtic-rebuff-serious-interest-in-matt-oriley-as-summer-suitor-appears-to-admit-defeat/",
-          "publishedOn": "2024-08-17T18:50:16.000Z",
-          "wordCount": 1502,
-          "title": "Celtic rebuff serious interest in Matt O'Riley as summer suitor appears to admit defeat",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/07/GettyImages-1809771475-scaled.jpg"
         }
       ]
     },
