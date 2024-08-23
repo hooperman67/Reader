@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-08-23T14:12:36.474Z</updated>
+    <updated>2024-08-23T16:15:30.808Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Callum McGregor addresses Scotland retirement as Celtic take his full focus]]></title>
+        <id>https://www.67hailhail.com/?p=206279</id>
+        <link href="https://www.67hailhail.com/news/callum-mcgregor-pinpoints-the-champions-league-moment-celtic-can-build-from-in-new-format/"/>
+        <updated>2024-08-23T16:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Celtic captain Callum McGregor has been discussing the Bhoys’ involvement in the new Champions League format this term and where they hope to make an...]]></summary>
+        <author>
+            <name>Sean Markus Clifford</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[O’RILEY, KYOGO, HATATE SALES TALK: RODGERS PLAYS THE JOKER]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=123117</id>
+        <link href="https://www.celticquicknews.co.uk/oriley-kyogo-hatate-sales-talk-rodgers-plays-the-joker/"/>
+        <updated>2024-08-23T14:27:51.000Z</updated>
+        <summary type="html"><![CDATA[BRENDAN RODGERS is shutting out the transfer tales that are bombarding Celtic to remain focused on the job at hand. The Hoops boss is planning for the champions’ High Noon shoot-out against St Mirren on Sunday with sales talk rife as the transfer deadline fast approaches in a week’s time. Matt O’Riley, Kyogo Furuhashi and [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Brendan Rodgers candidly addresses Celtic transfer window frustrations]]></title>
         <id>https://www.67hailhail.com/?p=206274</id>
