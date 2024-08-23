@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=123102",
+          "author": "CQN Magazine",
+          "description": "CELTIC target Dara O’Shea has seen his value more than DOUBLE in just over a year. The Republic of Ireland international centre-back joined Burnley in a £7million deal from West Brom in June 2023. Now, despite the Turf Moor club’s relegation from the English top flight last season, the defender is valued at £15million – and that [...]",
+          "link": "https://www.celticquicknews.co.uk/15m-oshea-no-way/",
+          "publishedOn": "2024-08-23T07:17:22.000Z",
+          "wordCount": 3817,
+          "title": "£15m O’SHEA? NO WAY",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/08/DARA-OSHEAD-15m-FEATURED.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=123098",
           "author": "CQN Magazine",
           "description": "ANGE POSTECOGLOU rated goalkeeper Tobi Oluwayemi so highly he brought the former Spurs prospect into Celtic squads preparing for Champions League games. The 21-year-old prospect will spend this season on loan at third-tier Dunfermline after a deal was struck between the clubs yesterday. The former England Under-20 international netminder is relaunching his career at East [...]",
@@ -572,6 +582,36 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=206225",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic fans were left distraught last summer when Jota left the club to join Saudi Pro League club Al-Ittihad in a deal worth £25 million....",
+          "link": "https://www.67hailhail.com/news/former-celtic-hero-jota-looks-set-to-return-to-european-football/",
+          "publishedOn": "2024-08-23T07:40:23.000Z",
+          "wordCount": 1474,
+          "title": "Former Celtic hero Jota looks set to return to European football",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/05/GettyImages-2133948853-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=206214",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic have reportedly submitted an offer for a midfielder as they continue to probe the market for reinforcements. Brendan Rodgers has made it known that...",
+          "link": "https://www.67hailhail.com/transfers/journalist-says-celtic-have-now-made-an-offer-for-french-midfield-talent/",
+          "publishedOn": "2024-08-23T07:15:00.000Z",
+          "wordCount": 1497,
+          "title": "Journalist says Celtic have now made an offer for French midfield talent",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-2166332306-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=206211",
+          "author": "John McGinley",
+          "description": "They’ve taken their time but Rangers are finally getting the ball rolling on stadium works needed to restore away derby ticket allocations to reasonable levels....",
+          "link": "https://www.67hailhail.com/news/rangers-finally-take-action-after-brendan-rodgers-and-celtic-called-out-derby-nonsense/",
+          "publishedOn": "2024-08-23T06:54:43.000Z",
+          "wordCount": 1452,
+          "title": "Rangers finally take action after Brendan Rodgers and Celtic called out derby nonsense",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-2156240883-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=206125",
           "author": "Patrick Sinat",
@@ -1341,16 +1381,6 @@
           "wordCount": 1778,
           "title": "'I was surprised': Pat Bonner shares what shocked him about Brendan Rodgers' Celtic line-up vs Hibernian",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/03/GettyImages-1258849620-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=205825",
-          "author": "Patrick Sinat",
-          "description": "Celtic midfielder, Daniel Kelly, is set to leave the club this week after a fee was agreed with Millwall today. We discussed this week how...",
-          "link": "https://www.67hailhail.com/transfers/the-fee-celtic-will-receive-for-daniel-kelly-as-club-agree-swift-departure/",
-          "publishedOn": "2024-08-18T18:40:00.000Z",
-          "wordCount": 1586,
-          "title": "The fee Celtic will receive for Daniel Kelly as club agree swift departure",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/03/GettyImages-1950366493-1-scaled.jpg"
         }
       ]
     },
