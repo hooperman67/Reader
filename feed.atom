@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-08-24T16:13:26.749Z</updated>
+    <updated>2024-08-24T18:14:18.568Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Report: Celtic set to re-open talks to sign big summer target on Monday]]></title>
+        <id>https://www.67hailhail.com/?p=206309</id>
+        <link href="https://www.67hailhail.com/transfers/celtic-set-to-re-open-negotiations-to-land-mateusz-bogusz-signing/"/>
+        <updated>2024-08-24T17:31:03.000Z</updated>
+        <summary type="html"><![CDATA[Bogusz plays in a cup final for LAFC on Sunday.]]></summary>
+        <author>
+            <name>John McGinley</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Report: Celtic make their move to sign £9m talent]]></title>
         <id>https://www.67hailhail.com/?p=206303</id>
@@ -1034,26 +1044,6 @@
         <summary type="html"><![CDATA[Charlie Mulgrew has told how he believes Brendan Rodgers has kicked Celtic on and improved the team from the days of Ange Postecoglou’s tenure. Postecoglou...]]></summary>
         <author>
             <name>Patrick Sinat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘DISAPPOINTED,’ CARTER-VICKERS OPENS UP ON LAPSE]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=123024</id>
-        <link href="https://www.celticquicknews.co.uk/disappointed-carter-vickers-opens-up-on-lapse/"/>
-        <updated>2024-08-20T06:09:47.000Z</updated>
-        <summary type="html"><![CDATA[CELTIC have a 100 per cent record after their first three games of the new campaign. The champions have dominated all of the encounters in eye-catching fashion, thumped in nine goals, are back where they belong at the Premiership pinnacle and in the quarter-finals of the Premier Sports League Cup. Some fans are already talking in [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GRIFF AT 34: WHEN THE CHEERS FADE]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=95735</id>
-        <link href="https://www.celticquicknews.co.uk/griff-at-34-when-the-cheers-fade/"/>
-        <updated>2024-08-20T05:00:44.000Z</updated>
-        <summary type="html"><![CDATA[LEIGH GRIFFITHS celebrates his 34th birthday today in Australia. This time three years ago, the one-time prolific hitman was still a Celtic player. However, following an unsuccessful loan stint at Dundee and a brief spell at third-tier Falkirk during the wretched 2020/21 campaign, he is now player/coach at Mandurah City. The somersault in the former Scotland [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
         </author>
     </entry>
     <entry>
