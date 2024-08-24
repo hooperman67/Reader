@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-08-24T20:12:52.030Z</updated>
+    <updated>2024-08-24T22:10:41.345Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chris Sutton tells Celtic to 'get it sorted' as he reminds everyone of Brendan Rodgers' January plea]]></title>
+        <id>https://www.67hailhail.com/?p=206341</id>
+        <link href="https://www.67hailhail.com/news/chris-sutton-tells-celtic-to-get-it-sorted-as-he-reminds-everyone-of-brendan-rodgers-january-plea/"/>
+        <updated>2024-08-24T20:18:15.000Z</updated>
+        <summary type="html"><![CDATA["The fans would understandably be furious."]]></summary>
+        <author>
+            <name>John McGinley</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Brendan Rodgers explains why Celtic 'priorities are elsewhere' in transfer market despite Oh and Vata exits]]></title>
         <id>https://www.67hailhail.com/?p=206336</id>
@@ -1004,36 +1014,6 @@
         <summary type="html"><![CDATA[Matt O’Riley’s Celtic future is one that has been grabbing the majority of the headlines this summer as the midfielder attracts the attention of clubs...]]></summary>
         <author>
             <name>Patrick Sinat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Abu Kamara makes his intentions clear to Norwich City after reported Celtic interest]]></title>
-        <id>https://www.67hailhail.com/?p=205949</id>
-        <link href="https://www.67hailhail.com/transfers/abu-kamara-makes-his-intentions-clear-to-norwich-city-after-reported-celtic-interest/"/>
-        <updated>2024-08-20T10:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Celtic are probing the market for reinforcements and could be busy between now and next Friday’s transfer deadline. Brendan Rodgers has already clarified that he...]]></summary>
-        <author>
-            <name>Sean Markus Clifford</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Report: Gustaf Lagerbielke holds 'talks' for loan move as Celtic exit nears]]></title>
-        <id>https://www.67hailhail.com/?p=205933</id>
-        <link href="https://www.67hailhail.com/transfers/gustaf-lagerbielke-holds-talks-for-loan-move-as-celtic-exit-nears/"/>
-        <updated>2024-08-20T09:40:00.000Z</updated>
-        <summary type="html"><![CDATA[With the transfer window closing in less than two weeks time, Brendan Rodgers still has much to do in terms of bringing in players to...]]></summary>
-        <author>
-            <name>Patrick Sinat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Officials and VAR confirmed as Celtic travel to St Mirren in the Scottish Premiership]]></title>
-        <id>https://www.67hailhail.com/?p=205939</id>
-        <link href="https://www.67hailhail.com/news/officials-and-var-confirmed-as-celtic-travel-to-st-mirren-in-the-scottish-premiership/"/>
-        <updated>2024-08-20T09:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Celtic travel to St Mirren this weekend looking for their third league victory on the bounce after defeating Kilmarnock and Hibernian earlier this month. Last...]]></summary>
-        <author>
-            <name>Sean Markus Clifford</name>
         </author>
     </entry>
     <entry>
