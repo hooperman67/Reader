@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-08-25T04:14:10.928Z</updated>
+    <updated>2024-08-25T06:16:10.885Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[59 YEARS AGO: WIN THAT SPARKED CELTIC’S FIRST 9 IN A ROW]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=95893</id>
+        <link href="https://www.celticquicknews.co.uk/59-years-ago-win-that-sparked-celtics-first-9-in-a-row/"/>
+        <updated>2024-08-25T05:00:03.000Z</updated>
+        <summary type="html"><![CDATA[EXACTLY 59 years ago today, Johnny Divers accepted a pass from Joe McBride and drilled a shot behind Dundee United keeper Donald Mackay. It was the 15th minute of the opening league game of the 1965/66 season on August 25 1965 and it paved the way for a 4-0 victory at Tannadice. The strike from Divers [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ST MIRREN v CELTIC: 5-MINUTE QUIZ]]></title>
         <id>https://www.celticquicknews.co.uk/?p=123105</id>
@@ -892,46 +902,6 @@
         <link href="https://www.67hailhail.com/news/new-motherwell-addition-explains-why-he-plans-to-have-a-word-with-celtic-boss-brendan-rodgers/"/>
         <updated>2024-08-20T18:40:00.000Z</updated>
         <summary type="html"><![CDATA[The transfer window always brings a plethora of headlines for the Celtic fans as they prepare for potential incomings and outgoings. Brendan Rodgers has been...]]></summary>
-        <author>
-            <name>Patrick Sinat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kasper Schmeichel opens up on what made him snub Premier League interest to join Celtic]]></title>
-        <id>https://www.67hailhail.com/?p=206004</id>
-        <link href="https://www.67hailhail.com/news/kasper-schmeichel-opens-up-on-what-made-him-snub-premier-league-interest-to-join-celtic/"/>
-        <updated>2024-08-20T18:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Kasper Schmeichel has made a bright impact since joining Celtic this summer and reuniting with Brendan Rodgers after their successful relationship at Leicester City. Truthfully,...]]></summary>
-        <author>
-            <name>Sean Markus Clifford</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘What he said’: John McGlynn reacts after Brendan Rodgers mentioned him after Celtic beat Hibs]]></title>
-        <id>https://www.67hailhail.com/?p=205977</id>
-        <link href="https://www.67hailhail.com/news/john-mcglynn-reacts-after-hearing-what-brendan-rodgers-said-about-him-after-celtic-beat-hibs/"/>
-        <updated>2024-08-20T17:40:00.000Z</updated>
-        <summary type="html"><![CDATA[After Celtic dumped Hibs out of the League Cup on Sunday, Brendan Rodgers’ team was drawn in the quarter-final at home against Falkirk. The Championship...]]></summary>
-        <author>
-            <name>Patrick Sinat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jeremie Frimpong's class Celtic throwback as he takes to Instagram]]></title>
-        <id>https://www.67hailhail.com/?p=206000</id>
-        <link href="https://www.67hailhail.com/news/jeremie-frimpongs-class-celtic-throwback-as-he-takes-to-instagram/"/>
-        <updated>2024-08-20T17:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Celtic have had some of the world’s finest players adorn the famous green and white over the years before going on to star at the...]]></summary>
-        <author>
-            <name>Sean Markus Clifford</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['It's difficult': Mark Guidi names three players Celtic are looking to sell before deadline day]]></title>
-        <id>https://www.67hailhail.com/?p=205984</id>
-        <link href="https://www.67hailhail.com/news/mark-guidi-names-three-players-celtic-are-looking-to-sell-before-deadline-day/"/>
-        <updated>2024-08-20T16:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Celtic’s transfer business has been the subject of plenty of headlines this week as Brendan Rodgers looks to add and keep his best players at...]]></summary>
         <author>
             <name>Patrick Sinat</name>
         </author>
