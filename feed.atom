@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-08-25T02:37:12.748Z</updated>
+    <updated>2024-08-25T04:14:10.928Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ST MIRREN v CELTIC: 5-MINUTE QUIZ]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=123105</id>
+        <link href="https://www.celticquicknews.co.uk/st-mirren-v-celtic-5-minute-quiz-4/"/>
+        <updated>2024-08-25T04:00:04.000Z</updated>
+        <summary type="html"><![CDATA[CELTIC face a High Noon showdown today with St Mirren in Paisley, the venue where they kicked off 2024 with a 3-0 Premiership success on January 2. They returned 40 days later to take on Stephen Robinson’s men in the Scottish Cup fifth round tie on their way to Hampden glory on May 25 when [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chris Sutton tells Celtic to 'get it sorted' as he reminds everyone of Brendan Rodgers' January plea]]></title>
         <id>https://www.67hailhail.com/?p=206341</id>
@@ -924,16 +934,6 @@
         <summary type="html"><![CDATA[Celtic’s transfer business has been the subject of plenty of headlines this week as Brendan Rodgers looks to add and keep his best players at...]]></summary>
         <author>
             <name>Patrick Sinat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Report: Celtic set to allow loan departure for defender as English interest emerges]]></title>
-        <id>https://www.67hailhail.com/?p=205989</id>
-        <link href="https://www.67hailhail.com/transfers/celtics-stance-on-matthew-andersons-future-as-left-back-situation-takes-shape/"/>
-        <updated>2024-08-20T15:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Celtic boss Brendan Rodgers made a point of fielding several youngsters in pre-season and allowing them to showcase their talent. Left-back Matthew Anderson earned minutes...]]></summary>
-        <author>
-            <name>Sean Markus Clifford</name>
         </author>
     </entry>
     <entry>
