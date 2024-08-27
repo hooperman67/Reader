@@ -6,6 +6,26 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=123205",
+          "author": "CQN Magazine",
+          "description": "GUSTAF LAGERBIELKE has signed a season-long loan deal with Dutch side Twente as he searches for game-time. The Swedish international centre-back, a £3million recruit from Elfsborg last summer, made just 10 appearances in his debut season. Lagerbielke knocked back offers from a second Eredivisie outfit, Heerenveen, and Belgian club KV Mechelen to join Twente in [...]",
+          "link": "https://www.celticquicknews.co.uk/dutch-and-go-for-gus/",
+          "publishedOn": "2024-08-27T09:56:11.000Z",
+          "wordCount": 3765,
+          "title": "DUTCH AND GO FOR GUS",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/12/gustaf-lagerbielke-featured-v-feyenoord.png"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/?p=123196",
+          "author": "CQN Magazine",
+          "description": "CELTIC skipper Callum McGregor is convinced Paulo Bernardo can prove there is life after Matt O’Riley. The Portuguese playmaker stepped into the Brighton-bound Danish international’s slot in the 3-0 win over at Mirren in Paisley at the weekend. And the former Benfica prospect, signed for a fee of £3.5million on a five-year deal after last [...]",
+          "link": "https://www.celticquicknews.co.uk/he-can-do-everything-mcgregor-piles-praise-on-paulo/",
+          "publishedOn": "2024-08-27T09:08:54.000Z",
+          "wordCount": 4214,
+          "title": "‘HE CAN DO EVERYTHING,’ McGREGOR PILES PRAISE ON PAULO",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/08/CALLUM-MCGREGOR-FEATURRRED-FF.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=111476",
           "author": "CQN Magazine",
           "description": "BRENDAN RODGERS is preparing Celtic for the season’s first derby against Philippe Clement’s Ibrox side at Parkhead on Sunday. It will be the Irishman’s sixth encounter in this fixture since returning to the champions in June last year. Rodgers won three of the previous Premiership confrontations and was denied a clean sweep of triumphs by [...]",
@@ -562,6 +582,46 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=206734",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic have submitted a £5 million offer for Sheffield United defender Auston Trusty as they look to recruit the United States international before the deadline....",
+          "link": "https://www.67hailhail.com/transfers/what-chris-wilder-has-said-about-sheffield-utd-exits-as-celtic-submit-bid-for-auston-trusty/",
+          "publishedOn": "2024-08-27T10:10:00.000Z",
+          "wordCount": 1604,
+          "title": "What Chris Wilder has said about Sheffield Utd exits as Celtic submit bid for Auston Trusty",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-2152465664-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=206751",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic are at the beginning of a significant week that will end on Sunday with the first Glasgow Derby of the season against Rangers on...",
+          "link": "https://www.67hailhail.com/news/officials-and-var-confirmed-as-celtic-look-to-topple-rangers-in-the-glasgow-derby/",
+          "publishedOn": "2024-08-27T09:45:00.000Z",
+          "wordCount": 1536,
+          "title": "Officials and VAR confirmed as Celtic look to topple Rangers in the Glasgow Derby",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-2145832121-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=206723",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic’s hunt for a left-back has become one of the headlines of the transfer window amid Brendan Rodgers’ desire to provide competition for Greg Taylor....",
+          "link": "https://www.67hailhail.com/transfers/owen-beck-set-to-seal-move-elsewhere-as-celtic-close-in-on-a-different-target/",
+          "publishedOn": "2024-08-27T09:10:00.000Z",
+          "wordCount": 1533,
+          "title": "Owen Beck set to seal move elsewhere as Celtic close in on a different target",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-2046430673-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=206740",
+          "author": "Patrick Sinat",
+          "description": "Gustaf Lagerbielke has sealed a season-long loan move from Celtic to FC Twente this morning as the Swedish defender looks to kick start his career....",
+          "link": "https://www.67hailhail.com/transfers/fc-twente-manager-speaks-as-gustaf-lagerbielke-explains-why-he-left-celtic-for-the-eredivisie/",
+          "publishedOn": "2024-08-27T08:37:40.000Z",
+          "wordCount": 1634,
+          "title": "FC Twente manager speaks as Gustaf Lagerbielke explains why he left Celtic for the Eredivisie",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/01/GettyImages-1676985922-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=206726",
           "author": "Patrick Sinat",
