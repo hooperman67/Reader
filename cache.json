@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=123240",
+          "author": "CQN Magazine",
+          "description": "THE clock is ticking, tomorrow’s 11pm transfer deadline is looming, much gnashing of teeth is imminent, poison pens are quivering, disparaging and slanderous remarks are being prepped, panic buttons are waiting invitingly and the Grim Reaper is standing by before merrily picking through the carnage. I may be misreading the signals, but there appears to be [...]",
+          "link": "https://www.celticquicknews.co.uk/alexs-angle-moolah-most-foul/",
+          "publishedOn": "2024-08-29T07:58:26.000Z",
+          "wordCount": 4932,
+          "title": "ALEX’S ANGLE: MOOLAH MOST FOUL",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/03/ALEX-GORDON-FACEBOOK-CELTIC-TUNNEL.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=123238",
           "author": "CQN Magazine",
           "description": "MIKEY JOHNSTON is on his way from Celtic with THREE clubs in pursuit of the £3million-rated winger. The 25-year-old Republic of Ireland international is wanted by a trio of English Championship sides, West Brom, Sheffield United and Burnley. Johnston scored seven goals in 20 appearances for the Hawthorns outfit during his short-term loan spell last [...]",
@@ -560,6 +570,16 @@
       "siteUrl": "https://etims.net",
       "articles": [
         {
+          "id": "https://etims.net/?p=18763",
+          "author": "Ralph Malph",
+          "description": "Celtic have pulled out of the race to sign Matteus Bogusz, as the selling club wanted more money than the hoops were prepared to pay,…",
+          "link": "https://etims.net/?p=18763",
+          "publishedOn": "2024-08-29T07:24:59.000Z",
+          "wordCount": 4715,
+          "title": "Celtic Diary Thursday August 29: Your Cheatin’ Starts",
+          "imageUrl": "https://etims.net/wp-content/uploads/2024/08/cheating-quotes-choice-1024x1024.jpg"
+        },
+        {
           "id": "https://etims.net/?p=18760",
           "author": "Ralph Malph",
           "description": "When Brendan Rodgers arrived for his second stint as Celtic manager, there was talk that he wanted to trim the squad by around fourteen players.…",
@@ -602,6 +622,46 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=206971",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic are still in the market for two midfielders by the transfer deadline despite pulling away from negotiations over LAFC man Mateusz Bogusz. According to...",
+          "link": "https://www.67hailhail.com/transfers/celtic-place-alvyn-sanches-back-on-radar-as-brendan-rodgers-hunts-for-two-midfielders/",
+          "publishedOn": "2024-08-29T08:10:00.000Z",
+          "wordCount": 1554,
+          "title": "Report: Celtic eye talented midfielder as they move on to Bogusz alternatives",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-1351910728-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=206960",
+          "author": "Patrick Sinat",
+          "description": "With transfer deadline day looming, the Celtic fans are starting to get a bit twitchy about the amount of transfer business still needing to be...",
+          "link": "https://www.67hailhail.com/transfers/how-much-celtic-will-have-to-pay-to-sign-auston-trusty-from-sheffield-united/",
+          "publishedOn": "2024-08-29T07:40:00.000Z",
+          "wordCount": 1588,
+          "title": "Report: How much Celtic will have to pay to sign Auston Trusty from Sheffield United",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-2166733831-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=206962",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic fans will be eager to find out who their side will face in the Champions League proper today following the conclusion of the qualifiers...",
+          "link": "https://www.67hailhail.com/news/all-36-teams-in-celtics-champions-league-draw-after-wednesday-night-results/",
+          "publishedOn": "2024-08-29T07:15:00.000Z",
+          "wordCount": 1563,
+          "title": "All 36 teams in Celtic's Champions League draw after Wednesday night results",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-1636806776-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=206956",
+          "author": "Patrick Sinat",
+          "description": "Celtic’s transfer business seems to be hotting up this week as Brendan Rodgers looks to strengthen the team before the window closes tomorrow night. Friday...",
+          "link": "https://www.67hailhail.com/transfers/transfer-hope-for-celtic-fans-despite-pulling-away-from-mateusz-bogusz-deal/",
+          "publishedOn": "2024-08-29T06:40:00.000Z",
+          "wordCount": 1487,
+          "title": "Transfer hope for Celtic fans despite pulling away from Mateusz Bogusz deal",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-2167070938-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=206921",
           "author": "Patrick Sinat",
@@ -1371,26 +1431,6 @@
           "wordCount": 1613,
           "title": "Chris Sutton tells Celtic to 'get it sorted' as he reminds everyone of Brendan Rodgers' January plea",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-1252556782-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=206336",
-          "author": "John McGinley",
-          "description": "Celtic will progress with a striker rotation of Kyogo Furuhashi, Adam Idah and Daizen Maeda this season despite Brendan Rodgers initially earmarking another for the...",
-          "link": "https://www.67hailhail.com/news/brendan-rodgers-explains-why-celtic-priorities-are-elsewhere-in-transfer-market-despite-oh-and-vata-exits/",
-          "publishedOn": "2024-08-24T19:52:55.000Z",
-          "wordCount": 1602,
-          "title": "Brendan Rodgers explains why Celtic 'priorities are elsewhere' in transfer market despite Oh and Vata exits",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-2073409832-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=206316",
-          "author": "John McGinley",
-          "description": "Arne Engels is the subject of intense Celtic transfer speculation at the moment but he’s showing a strong mentality to get on with the task...",
-          "link": "https://www.67hailhail.com/transfers/arne-engels-makes-saturday-appearance-as-celtic-open-transfer-talks/",
-          "publishedOn": "2024-08-24T19:04:28.000Z",
-          "wordCount": 1447,
-          "title": "Arne Engels makes Saturday appearance as Celtic open transfer talks",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-2167347875-scaled.jpg"
         }
       ]
     },
