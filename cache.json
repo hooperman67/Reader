@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=123305",
+          "author": "CQN Magazine",
+          "description": "CELTIC completed a trio of deadline-day deals when they signed Dundee skipper Luke McCowan in a £1million move. The 26-year-old midfielder rounded off a busy day as the champions spent a record £11million on Belgian playmaker Arne Engels from Bundesliga outfit Augsburg and £6million on Sheffield United centre-back Euston Trusty. Hibs failed in FOUR bids [...]",
+          "link": "https://www.celticquicknews.co.uk/mccowan-completes-triple-swoop/",
+          "publishedOn": "2024-08-30T23:29:48.000Z",
+          "wordCount": 3691,
+          "title": "McCOWAN COMPLETES TRIPLE SWOOP",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/08/LUKE-MCCOWAN-CELTIC-PARK-FEATURED.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=123303",
           "author": "CQN Magazine",
           "description": "A BEAMING Brendan Rodgers welcomed £11million record buy Andre Engels to Celtic tonight. The Belgian midfielder sealed his four-year contract as he quit Bundesliga outfit Augsburg for the champions. Engels attracted the attention of the Hoops scouts with his impressive performances last season and he has also just been called up to the latest Belgian squad [...]",
@@ -334,26 +344,6 @@
           "wordCount": 4050,
           "title": "‘THANK YOU, MATT,’ CELTIC’S FINAL GESTURE",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/08/matt-oriley-celtic-featurred.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=123185",
-          "author": "CQN Magazine",
-          "description": "CELTIC hoisted their Premiership goal tally to nine in three games with their 3-0 triumph over St Mirren in Paisley yesterday. The destination of the points was never in any doubt after skipper Callum McGregor had lashed the opener behind the overworked Ellery Balcombe, the on-loan keeper from Brentford who kept the score down with [...]",
-          "link": "https://www.celticquicknews.co.uk/watch-again-easy-as-one-two-three/",
-          "publishedOn": "2024-08-26T11:31:30.000Z",
-          "wordCount": 3883,
-          "title": "WATCH AGAIN: EASY AS ONE, TWO, THREE",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/08/Screenshot-2024-08-26-at-11.57.12.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=123187",
-          "author": "Paul67",
-          "description": "Yesterday was the fourth time in four games this season Celtic have won without having to leave second gear.  Kilmarnock and St Mirren were both stretched by European qualification ties, while Hibs have had a humiliating start to the season, even for them.  Still, there could hardly be a starker illustration of the chasm between [...]",
-          "link": "https://www.celticquicknews.co.uk/second-gear-celtic/",
-          "publishedOn": "2024-08-26T11:01:45.000Z",
-          "wordCount": 5331,
-          "title": "Second gear Celtic",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
         }
       ]
     },
@@ -1576,36 +1566,6 @@
           "wordCount": 1509,
           "title": "Matt O'Riley Celtic exit to Brighton confirmed, Hurzeler explains what's so 'special' about him",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-2167261037-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=206661",
-          "author": "Patrick Sinat",
-          "description": "Away from the Celtic transfer talk for a minute, attention diverts back to Celtic’s 3-0 win over St Mirren at the weekend. Brendan Rodgers’ side...",
-          "link": "https://www.67hailhail.com/news/dermot-gallagher-delivers-his-verdict-on-daizen-maedas-double-penalty-claim-for-celtic-vs-st-mirren/",
-          "publishedOn": "2024-08-26T12:40:00.000Z",
-          "wordCount": 1579,
-          "title": "Dermot Gallagher delivers his verdict on Daizen Maeda’s double penalty claim for Celtic vs St Mirren",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-2168405683-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=206634",
-          "author": "Patrick Sinat",
-          "description": "As well as all the transfer activity to contend with, the Celtic fans also have to deal with the build-up to the big Glasgow Derby...",
-          "link": "https://www.67hailhail.com/news/brendan-rodgers-shares-how-celtic-are-feeling-ahead-of-glasgow-derby-and-addresses-noises-coming-from-rangers/",
-          "publishedOn": "2024-08-26T11:40:00.000Z",
-          "wordCount": 1616,
-          "title": "Brendan Rodgers shares how Celtic are feeling ahead of Glasgow Derby, addresses noises coming from Rangers",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/12/GettyImages-1894823111-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=206654",
-          "author": "Patrick Sinat",
-          "description": "Celtic seem to ramping up their transfer activity as deadline day approaches this summer. With Matt O’Riley close to sealing his Celtic exit and Gustaf...",
-          "link": "https://www.67hailhail.com/transfers/lazio-make-their-gustav-isaksen-feelings-clear-as-celtic-ramp-up-transfer-chase-on-multiple-fronts/",
-          "publishedOn": "2024-08-26T10:40:00.000Z",
-          "wordCount": 1588,
-          "title": "Lazio make their Gustav Isaksen feelings clear as Celtic ramp up transfer chase on multiple fronts",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-1818920054-scaled.jpg"
         }
       ]
     },
