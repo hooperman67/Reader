@@ -6,6 +6,26 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=123350",
+          "author": "Paul67",
+          "description": "Live updates will appear below after 12:30.",
+          "link": "https://www.celticquicknews.co.uk/celtic-v-rangers-live-updates-22/",
+          "publishedOn": "2024-09-01T10:30:52.000Z",
+          "wordCount": 4270,
+          "title": "Celtic v ‘Rangers’, Live updates",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/?p=123351",
+          "author": "CQN Magazine",
+          "description": "CAMERON CARTER-VICKERS takes his usual place in the centre of the defence for today’s visit of Philippe Clement’s Ibrox side, despite scare stories the Celtic stalwart might miss out through injury. The reliable US international had a day off training at Lennoxtown on Friday sparking speculation he could be a doubt for the Parkhead clash. [...]",
+          "link": "https://www.celticquicknews.co.uk/confirmed-ccv-okay-new-bhoys-on-stand-by/",
+          "publishedOn": "2024-09-01T10:23:29.000Z",
+          "wordCount": 3869,
+          "title": "CONFIRMED: CCV OKAY, NEW BHOYS ON STAND-BY",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/05/CELTIC-FEATURED-NET-X.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=123348",
           "author": "CQN Magazine",
           "description": "BRENDAN RODGERS knew exactly what he was doing when he publicly stated that Adam Idah was a priority signing as he planned for the new season. With those words, the manager put a hypothetical gun to the head of the Celtic powerbrokers. In doing so, he inadvertently drove up the price of the Republic of [...]",
