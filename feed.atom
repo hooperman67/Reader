@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-09-01T16:14:40.668Z</updated>
+    <updated>2024-09-01T18:15:10.303Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Brendan Rodgers shares thoughts on Arne Engels and Luke McCowan Celtic debuts]]></title>
+        <id>https://www.67hailhail.com/?p=207750</id>
+        <link href="https://www.67hailhail.com/news/brendan-rodgers-shares-thoughts-on-arne-engels-and-luke-mccowan-celtic-debuts/"/>
+        <updated>2024-09-01T17:49:09.000Z</updated>
+        <summary type="html"><![CDATA["You just see his elegance on the pitch."]]></summary>
+        <author>
+            <name>John McGinley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ligue 1 and Stade Rennais celebrate Jota signing by adopting a familiar Celtic anthem]]></title>
+        <id>https://www.67hailhail.com/?p=207526</id>
+        <link href="https://www.67hailhail.com/news/ligue-1-and-stade-rennes-celebrate-jota-signing-by-adopting-a-familiar-celtic-anthem/"/>
+        <updated>2024-09-01T17:10:00.000Z</updated>
+        <summary type="html"><![CDATA[The next chapter of former Celtic hero, Jota’s career has now been mapped after he ended his Saudi nightmare with a move to Stade Rennes....]]></summary>
+        <author>
+            <name>Patrick Sinat</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Big Celtic fan at La Liga club ready to give Ollie McBurnie stick after Rangers nightmare]]></title>
         <id>https://www.67hailhail.com/?p=207741</id>
@@ -1292,26 +1312,6 @@
         <link href="https://www.celticquicknews.co.uk/oriley-debut-red-card-fury/"/>
         <updated>2024-08-28T06:17:57.000Z</updated>
         <summary type="html"><![CDATA[MATT O’RILEY’S Brighton’s debut was cut short in the sixth minute after a horrendous challenge from Crawley’s Jay Williams last night. The stylish midfielder, just signed from Celtic for a near-£30million record fee, was sent crashing to the turf as his opponent threw himself into a wayward tackle in the Carabao Cup-tie at the Amex [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RODGERS v RANGERS: Part Four]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=111571</id>
-        <link href="https://www.celticquicknews.co.uk/rodgers-v-rangers-part-four/"/>
-        <updated>2024-08-28T05:01:49.000Z</updated>
-        <summary type="html"><![CDATA[BRENDAN RODGERS is preparing Celtic for the season’s first derby against Philippe Clement’s Ibrox side at Parkhead on Sunday. It will be the Irishman’s sixth encounter in this fixture since returning to the champions in June last year. Rodgers won three of the previous Premiership confrontations and was denied a clean sweep of triumphs by [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RODGERS v RANGERS: Part Three]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=111506</id>
-        <link href="https://www.celticquicknews.co.uk/rodgers-v-rangers-part-three/"/>
-        <updated>2024-08-28T05:00:01.000Z</updated>
-        <summary type="html"><![CDATA[BRENDAN RODGERS is preparing Celtic for the season’s first derby against Philippe Clement’s Ibrox side at Parkhead on Sunday. It will be the Irishman’s sixth encounter in this fixture since returning to the champions in June last year. Rodgers won three of the previous Premiership confrontations and was denied a clean sweep of triumphs by [...]]]></summary>
         <author>
             <name>CQN Magazine</name>
         </author>
