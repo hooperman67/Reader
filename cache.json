@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=123348",
+          "author": "CQN Magazine",
+          "description": "BRENDAN RODGERS knew exactly what he was doing when he publicly stated that Adam Idah was a priority signing as he planned for the new season. With those words, the manager put a hypothetical gun to the head of the Celtic powerbrokers. In doing so, he inadvertently drove up the price of the Republic of [...]",
+          "link": "https://www.celticquicknews.co.uk/alexs-angle-no-time-for-terminado-talk/",
+          "publishedOn": "2024-09-01T09:32:38.000Z",
+          "wordCount": 4927,
+          "title": "ALEX’S ANGLE: NO TIME FOR TERMINADO TALK",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/03/ALEX-GORDON-FACEBOOK-CELTIC-TUNNEL.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=123343",
           "author": "CQN Magazine",
           "description": "EVERGREEN James Forrest is poised to make his 500th appearance for Celtic in this afternoon’s derby encounter at Parkhead. As ever, the eager and willing 33-year-old Scotland international winger is ready to play his part in another Hoops success story. Forrest, who claimed his century of goals for the club in style with a hat-trick [...]",
@@ -677,6 +687,46 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=207518",
+          "author": "Patrick Sinat",
+          "description": "Transfer deadline day was not only a busy one for Celtic in terms of incomings, but it was also lively in terms of outgoings at...",
+          "link": "https://www.67hailhail.com/news/tomoki-iwata-explains-who-convinced-him-on-transfer-deadline-day-move-from-celtic-to-birmingham-city/",
+          "publishedOn": "2024-09-01T09:40:00.000Z",
+          "wordCount": 1576,
+          "title": "Tomoki Iwata explains who convinced him on transfer deadline day move from Celtic to Birmingham City",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-1750584283-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=207522",
+          "author": "John McGinley",
+          "description": "We can't wait for this one - live updates throughout the day as Celtic take on another derby test!",
+          "link": "https://www.67hailhail.com/match/celtic-vs-rangers-live-confirmed-team-news-global-tv-details-predictions/",
+          "publishedOn": "2024-09-01T09:15:12.000Z",
+          "wordCount": 4472,
+          "title": "Celtic vs Rangers LIVE: Confirmed team news, global TV details, live match updates",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-2154625997-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=207514",
+          "author": "Patrick Sinat",
+          "description": "Now that the transfer window is closed and Brendan Rodgers has his Celtic team to see him through to January, Artuc Boruc thinks the Hoops...",
+          "link": "https://www.67hailhail.com/news/artur-boruc-says-brendan-rodgers-made-a-signing-as-close-to-perfect-as-celtic-could-get-this-summer/",
+          "publishedOn": "2024-09-01T09:10:00.000Z",
+          "wordCount": 1689,
+          "title": "'As close to perfect': Artur Boruc says Brendan Rodgers as made a 'great signing' for Celtic this summer",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/06/GettyImages-83961063-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=207508",
+          "author": "John McGinley",
+          "description": "Luke McCowan is desperate to pull on the hoops.",
+          "link": "https://www.67hailhail.com/news/the-phone-call-that-has-new-celtic-signing-ready-to-run-through-brick-walls-for-brendan-rodgers/",
+          "publishedOn": "2024-09-01T08:41:05.000Z",
+          "wordCount": 1602,
+          "title": "The phone call that has new Celtic signing ready to run through brick walls for Brendan Rodgers",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-2164840676-2-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=207502",
           "author": "Patrick Sinat",
