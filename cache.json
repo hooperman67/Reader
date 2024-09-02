@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=123363",
+          "author": "CQN Magazine",
+          "description": "KASPER SCHMEICHEL made certain his unblemished Premiership record remained intact with two typical saves late in the game as Celtic cruised to a 3-0 triumph in the Glasgow derby. The points were as good as in the bag at a rocking Parkhead after Jack Butland, at the other end, had been invited to fish the ball [...]",
+          "link": "https://www.celticquicknews.co.uk/electric-rodgers-hails-back-to-front-celtic/",
+          "publishedOn": "2024-09-02T07:18:58.000Z",
+          "wordCount": 4068,
+          "title": "‘ELECTRIC,’ RODGERS HAILS BACK-TO-FRONT CELTIC",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/09/BRENDAN-RODGERS-FEATURED-3-0-GERS-SEPT-1-2024.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=123353",
           "author": "CQN Magazine",
           "description": "CELTIC 3 RANGERS 0 GLASGOW is smiles better with Celtic thrashing Philippe Clement’s Ibrox also-rans in convincing and ruthless fashion at Parkhead this afternoon. A first-half double from Daizen Maeda and Kyogo Furuhashi and an absolute screamer from Callum McGregor after the break saw the champions canter to three points. This was manager Brendan Rodgers’ [...]",
@@ -620,6 +630,16 @@
       "siteUrl": "https://etims.net",
       "articles": [
         {
+          "id": "https://etims.net/?p=18781",
+          "author": "Ralph Malph",
+          "description": "Celtic routinely swept aside their newest and dearest rivals yesterday in the first Glasgow derby. We should appreciate it, as the way things are going…",
+          "link": "https://etims.net/?p=18781",
+          "publishedOn": "2024-09-02T07:24:10.000Z",
+          "wordCount": null,
+          "title": "Celtic Diary Monday September 2 2024: Phillipe Goes Forth",
+          "imageUrl": null
+        },
+        {
           "id": "https://etims.net/?p=18776",
           "author": "Ralph Malph",
           "description": "It’s Glasgow derby day today, and even when you take into consideration the relative infancy of one of the contestants, it’s probably one of the…",
@@ -667,6 +687,46 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=207785",
+          "author": "Sean Markus Clifford",
+          "description": "Cameron Carter-Vickers put in an imposing display as Celtic toppled Rangers comfortably to open up a five-point gap between themselves and their city rivals. The...",
+          "link": "https://www.67hailhail.com/news/celtic-defender-cameron-carter-vickers-spotted-in-leg-brace-after-victory-over-rangers/",
+          "publishedOn": "2024-09-02T08:10:00.000Z",
+          "wordCount": 1477,
+          "title": "Celtic defender Cameron Carter-Vickers spotted in leg brace after victory over Rangers",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-2164858872-1-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=207776",
+          "author": "Patrick Sinat",
+          "description": "Celtic’s win over Rangers set down an early season marker not only in terms of the result but also in terms of the performance. Brendan...",
+          "link": "https://www.67hailhail.com/news/what-callum-mcgregor-and-brendan-rodgers-did-after-celtics-third-goal-vs-rangers-is-absolutely-class/",
+          "publishedOn": "2024-09-02T07:40:00.000Z",
+          "wordCount": 1543,
+          "title": "Celtic’s Unique Angle captures class Callum McGregor and Brendan Rodgers moment after third goal vs Rangers",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/05/GettyImages-2152462563-3-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=207778",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic enjoyed a beautiful Sunday yesterday after claiming three comfortable points against Rangers to reclaim their spot at the summit of the Scottish Premiership. Brendan...",
+          "link": "https://www.67hailhail.com/news/arne-engels-class-reaction-on-instagram-after-incredible-celtic-debut-against-rangers/",
+          "publishedOn": "2024-09-02T07:15:00.000Z",
+          "wordCount": 1484,
+          "title": "Arne Engels' class reaction on Instagram after 'incredible' Celtic debut against Rangers",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2167284438-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=207770",
+          "author": "Patrick Sinat",
+          "description": "Celtic fans will be waking up this morning basking in the glory of another win over Rangers after the impressive performance against the Ibrox club...",
+          "link": "https://www.67hailhail.com/news/john-hartson-names-who-might-well-be-celtics-best-summer-signing-after-watching-rangers-game/",
+          "publishedOn": "2024-09-02T06:41:09.000Z",
+          "wordCount": 1675,
+          "title": "'Right up there': John Hartson names who could be Celtic's best summer signing after watching Rangers game",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/04/GettyImages-1267004353-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=207763",
           "author": "John McGinley",
@@ -1386,36 +1446,6 @@
           "wordCount": 1487,
           "title": "Transfer hope for Celtic fans despite pulling away from Mateusz Bogusz deal",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-2167070938-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=206921",
-          "author": "Patrick Sinat",
-          "description": "“He can split lines.”",
-          "link": "https://www.67hailhail.com/news/stephen-mcginn-believes-brendan-rodgers-has-signed-a-player-whos-taken-celtic-to-a-new-level/",
-          "publishedOn": "2024-08-28T19:40:00.000Z",
-          "wordCount": 1549,
-          "title": "Stephen McGinn believes Brendan Rodgers has signed a player who’s taken Celtic ‘to a new level’",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-2152442486-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=206949",
-          "author": "Sean Markus Clifford",
-          "description": "It has been quite the week to be a Celtic supporter so far as the twists and turns of the window take their course. With...",
-          "link": "https://www.67hailhail.com/opinion/the-potential-of-a-baptism-of-fire-for-new-late-window-celtic-recruits/",
-          "publishedOn": "2024-08-28T19:10:00.000Z",
-          "wordCount": 1495,
-          "title": "The potential of a baptism of fire for new late window Celtic recruits",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-2165613351-2-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=206917",
-          "author": "Patrick Sinat",
-          "description": "With the Glasgow Derby less than four days away, it’s been a rather strange build-up to Rangers visiting Celtic Park with all the attention and...",
-          "link": "https://www.67hailhail.com/news/kris-boyd-singles-out-two-celtic-players-whove-been-causing-real-problems-this-season-before-glasgow-derby/",
-          "publishedOn": "2024-08-28T18:40:00.000Z",
-          "wordCount": 1661,
-          "title": "Kris Boyd singles out two Celtic players who've been causing 'real problems' this season before Glasgow Derby",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/05/GettyImages-1294152832-scaled.jpg"
         }
       ]
     },
