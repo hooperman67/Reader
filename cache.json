@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=123377",
+          "author": "CQN Magazine",
+          "description": "CALLUM McGREGOR led by example yet again as the Celtic captain guided his players through the derby minefield to a well-deserved 3-0 triumph over Philippe Clement’s stunned Ibrox side. The all-action Hoops onfield leader capped a wonderful display with a breathtaking left-foot drive that whizzed past the helpless Jack Butland for the champions’ final goal [...]",
+          "link": "https://www.celticquicknews.co.uk/bhoy-oh-bhoy-first-class-mcgregor-verdict-on-recruits/",
+          "publishedOn": "2024-09-02T09:15:23.000Z",
+          "wordCount": 4265,
+          "title": "BHOY OH BHOY: ‘FIRST CLASS,’ McGREGOR VERDICT ON RECRUITS",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/09/CALLUM-MCGREGOR-FIST-FEATURED.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=123363",
           "author": "CQN Magazine",
           "description": "KASPER SCHMEICHEL made certain his unblemished Premiership record remained intact with two typical saves late in the game as Celtic cruised to a 3-0 triumph in the Glasgow derby. The points were as good as in the bag at a rocking Parkhead after Jack Butland, at the other end, had been invited to fish the ball [...]",
@@ -687,6 +697,46 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=207800",
+          "author": "Sean Markus Clifford",
+          "description": "The age-old subject of away supporters being absent at Glasgow derbies appeared in the lead-up to Celtic’s victory over Rangers yesterday. Although it was thought...",
+          "link": "https://www.67hailhail.com/news/brendan-rodgers-on-why-away-fans-returning-to-glasgow-derbies-would-be-fantastic-for-celtic/",
+          "publishedOn": "2024-09-02T10:10:00.000Z",
+          "wordCount": 1560,
+          "title": "Brendan Rodgers on why away fans returning to Glasgow derbies would be 'fantastic' for Celtic",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2154605833-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=207796",
+          "author": "Patrick Sinat",
+          "description": "The morning after Celtic hammered Rangers, Brendan Rodgers has explained what people don’t understand about what it’s like to play for both clubs. The Celtic...",
+          "link": "https://www.67hailhail.com/news/brendan-rodgers-explains-to-talksport-what-people-dont-understand-about-celtic-vs-rangers/",
+          "publishedOn": "2024-09-02T09:40:00.000Z",
+          "wordCount": 1702,
+          "title": "Brendan Rodgers explains to talkSPORT what people 'don't understand' about Celtic vs Rangers",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2154605833-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=207790",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic fans will be overjoyed after yesterday’s victory over Rangers, which capped the end of a fine week for the Bhoys on several fronts. In...",
+          "link": "https://www.67hailhail.com/news/celtics-champions-league-opponents-suffer-shock-5-0-home-defeat/",
+          "publishedOn": "2024-09-02T09:10:00.000Z",
+          "wordCount": 1453,
+          "title": "Celtic's Champions League opponents suffer shock 5-0 home defeat",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2168264260.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=207788",
+          "author": "Patrick Sinat",
+          "description": "Celtic’s win over Rangers was about a complete performance from Brendan Rodgers’ side that the fans will see in a Glasgow Derby. Last season, all...",
+          "link": "https://www.67hailhail.com/news/craig-moores-strange-verdict-of-celtics-performance-in-the-hammering-of-rangers/",
+          "publishedOn": "2024-09-02T08:40:00.000Z",
+          "wordCount": 1557,
+          "title": "Craig Moore’s strange verdict of Celtic’s performance in the hammering of Rangers",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/07/GettyImages-451040438-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=207785",
           "author": "Sean Markus Clifford",
