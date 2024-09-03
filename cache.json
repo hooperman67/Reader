@@ -590,6 +590,21 @@
       "siteUrl": "https://etims.net",
       "articles": [
         {
+          "id": "https://etims.net/?p=18784",
+          "author": "Desi Mond",
+          "description": "The guys get together to talk about Sundays game and its repercussions. They discuss the great Tifo from The Green Brigade.   They discuss that…",
+          "link": "https://etims.net/?p=18784",
+          "publishedOn": "2024-09-03T20:39:57.000Z",
+          "wordCount": 2623,
+          "title": "Stats All Folks – Etims Podcast",
+          "enclosure": {
+            "url": "https://api.spreaker.com/v2/episodes/61255735/download.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://etims.net/wp-content/uploads/2024/09/IMG_9106-1.jpg"
+        },
+        {
           "id": "https://etims.net/?p=18781",
           "author": "Ralph Malph",
           "description": "Celtic routinely swept aside their newest and dearest rivals yesterday in the first Glasgow derby. We should appreciate it, as the way things are going…",
@@ -1456,46 +1471,6 @@
           "wordCount": 1458,
           "title": "Cameron Carter-Vickers training absence ahead of derby as Celtic fans wait on update",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-2164858599-1-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=207188",
-          "author": "Gary Kirkpatrick",
-          "description": "Keep up-to-date on this very busy Friday 🗞️",
-          "link": "https://www.67hailhail.com/transfers/celtic-transfer-deadline-day-bulletin-auston-trusty-arne-engels-tomoki-iwata/",
-          "publishedOn": "2024-08-30T10:12:00.000Z",
-          "wordCount": 1652,
-          "title": "Celtic transfer deadline day bulletin: Auston Trusty, Arne Engels & Tomoki Iwata",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-2150023755-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=207183",
-          "author": "Sean Markus Clifford",
-          "description": "Celtic look to be getting their house in order by the deadline and Brendan Rodgers will have a good idea of what his squad will...",
-          "link": "https://www.67hailhail.com/transfers/maik-nawrockis-situation-at-celtic-becomes-clear-as-auston-trusty-deal-nears/",
-          "publishedOn": "2024-08-30T09:30:00.000Z",
-          "wordCount": 1556,
-          "title": "Maik Nawrocki's situation at Celtic becomes clear as Auston Trusty deal nears",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/06/GettyImages-1998910345-scaled-e1717789134940.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=207155",
-          "author": "Sean Markus Clifford",
-          "description": "Celtic are set for a Deadline Day scramble for arrivals, which could see several additions made before tonight’s cut-off point. The Bhoys are known to...",
-          "link": "https://www.67hailhail.com/opinion/the-best-premier-league-loan-options-still-available-to-celtic-on-deadline-day/",
-          "publishedOn": "2024-08-30T09:10:00.000Z",
-          "wordCount": 1951,
-          "title": "The best Premier League loan options still available to Celtic on deadline day - opinion",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-2166434756-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=207166",
-          "author": "Sean Markus Clifford",
-          "description": "Movement at Celtic is expected in both directions today and Tomoki Iwata could become a late window departure amid interest in his services. The Japanese...",
-          "link": "https://www.67hailhail.com/transfers/tomoki-iwata-heading-for-celtic-exit-as-brendan-rodgers-former-right-hand-man-eyes-move/",
-          "publishedOn": "2024-08-30T08:30:00.000Z",
-          "wordCount": 1478,
-          "title": "Tomoki Iwata heading for Celtic exit as Brendan Rodgers' former right-hand man eyes move",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/01/GettyImages-1769195458-scaled.jpg"
         }
       ]
     },
