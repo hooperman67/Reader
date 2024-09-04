@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=123470",
+          "author": "CQN Magazine",
+          "description": "CELTIC’S Premiership game against St Johnstone at McDiarmid Park on Saturday September 28 has been pushed back to a 5.45pm kick-off. The original start time was scheduled for the usual 3pm slot, but has been altered to suit live coverage from Premier Sports. The champions will also be beamed live by Sky Sports when they [...]",
+          "link": "https://www.celticquicknews.co.uk/confirmed-celtic-game-changes-2/",
+          "publishedOn": "2024-09-04T15:57:15.000Z",
+          "wordCount": 3740,
+          "title": "CONFIRMED: CELTIC GAME CHANGES",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/02/FOOTBALLS-FEATURED-2024.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=123464",
           "author": "CQN Magazine",
           "description": "THANKFULLY, it didn’t matter a jot at the end of the day and Brendan Rodgers could even afford a wry smile after analysing the incident. However, it would have been an entirely different matter if the contentious VAR decision to nullify what looked like a perfectly legitimate goal from Kyogo Furuhashi against Philippe Clement’s Ibrox [...]",
@@ -597,6 +607,26 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=208043",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic have come flying out of the blocks in the Scottish Premiership this season and will be desperate to get back to business after the...",
+          "link": "https://www.67hailhail.com/news/celtic-see-two-scottish-premiership-fixtures-moved-for-live-tv-coverage/",
+          "publishedOn": "2024-09-04T16:10:00.000Z",
+          "wordCount": 1484,
+          "title": "Celtic see two Scottish Premiership fixtures moved for live TV coverage",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/05/GettyImages-1246249665-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=208040",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic have finalised their Champions League squad for the league phase of the competition as they prepare for their latest European adventure. The Bhoys have...",
+          "link": "https://www.67hailhail.com/news/celtics-champions-league-squad-finalised-as-new-signings-included-for-league-phase-tilt/",
+          "publishedOn": "2024-09-04T15:01:25.000Z",
+          "wordCount": 1606,
+          "title": "Celtic's Champions League squad finalised as new signings included for league phase tilt",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-1636243589-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=208015",
           "author": "Sean Markus Clifford",
