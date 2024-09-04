@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=123471",
+          "author": "CQN Magazine",
+          "description": "BRENDAN RODGERS has named his 25-man squad for the forthcoming Champions League games. All of the manager’s summer signings – keepers Kasper Schmeichel and Viljami Sinisalo, defenders Auston Trusty and Alex Valle, midfielders Paulo Bernardo, Arne Engels and Luke McCowan and striker Adam Idah are in the pool. The champions kick off the new-look competition [...]",
+          "link": "https://www.celticquicknews.co.uk/revealed-celtic-euro-squad/",
+          "publishedOn": "2024-09-04T16:25:44.000Z",
+          "wordCount": 3662,
+          "title": "REVEALED: CELTIC EURO SQUAD",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/08/CHAMPIONS-LEAGUE-TROPHY-2425.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=123470",
           "author": "CQN Magazine",
           "description": "CELTIC’S Premiership game against St Johnstone at McDiarmid Park on Saturday September 28 has been pushed back to a 5.45pm kick-off. The original start time was scheduled for the usual 3pm slot, but has been altered to suit live coverage from Premier Sports. The champions will also be beamed live by Sky Sports when they [...]",
@@ -284,26 +294,6 @@
           "wordCount": 3759,
           "title": "£48.63m CELTIC STAR TREK",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/07/MATT-ORILEY-VHELSEA-GOAL-FEATURED.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=120979",
-          "author": "CQN Magazine",
-          "description": "BRENDAN RODGERS will go into tomorrow’s meeting with Philippe Clement’s Ibrox side at Parkhead as the most successful manager in Glasgow derby confrontations in history. The Celtic gaffer has lost just once in 18 encounters while enjoying FOURTEEN triumphs. The Hoops have also fired in 40 goals while conceding 12 during the jousts between the city rivals. [...]",
-          "link": "https://www.celticquicknews.co.uk/rodgers-v-rangers-part-ten/",
-          "publishedOn": "2024-08-31T05:01:48.000Z",
-          "wordCount": 3787,
-          "title": "RODGERS v RANGERS: Part Ten",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/05/BRENDAN-RODGERS-JOLLY-5-0-GERS-APRIL-29-2018-FEATURED.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=120955",
-          "author": "CQN Magazine",
-          "description": "BRENDAN RODGERS faced Rangers five times in his comeback season and celebrated four wins and a draw. The Celtic boss kicked off his second coming with a 1-0 triumph in the Premiership at Ibrox on September 3 2023 and book-ended the sequence with an identical result in the Scottish Cup Final at Hampden on the iconic [...]",
-          "link": "https://www.celticquicknews.co.uk/rodgers-v-rangers-part-nine/",
-          "publishedOn": "2024-08-31T05:00:30.000Z",
-          "wordCount": 4403,
-          "title": "RODGERS v RANGERS: Part Nine",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/05/BRENDAN-RODGERS-HAPPPPY-FEATURED.png"
         }
       ]
     },
@@ -607,6 +597,46 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=208029",
+          "author": "Sean Markus Clifford",
+          "description": "Arne Engels will have plenty to offer for both Celtic and Belgium after completing his move to Glasgow last week from Augsburg. Arriving for a...",
+          "link": "https://www.67hailhail.com/news/arne-engels-explains-what-he-can-offer-to-both-celtic-and-belgium-after-exciting-week/",
+          "publishedOn": "2024-09-04T18:10:00.000Z",
+          "wordCount": 1554,
+          "title": "Arne Engels explains what he can offer to both Celtic and Belgium after exciting week",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2169433428-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=208025",
+          "author": "Patrick Sinat",
+          "description": "The transfer window may well be closed for the Celtic but that hasn’t stopped some transfer business being concluded for some former Hoops heroes. The...",
+          "link": "https://www.67hailhail.com/news/celtic-invincible-makes-next-career-step-with-free-transfer-move-to-mls/",
+          "publishedOn": "2024-09-04T17:40:00.000Z",
+          "wordCount": 1503,
+          "title": "Celtic Invincible makes next career step with free transfer move to MLS",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/03/GettyImages-652577690-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=208037",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic have made great strides in the early part of the campaign and look in great shape to hit the ground running after the international...",
+          "link": "https://www.67hailhail.com/news/johan-mjallby-explains-why-celtic-will-continue-to-go-from-strength-to-strength-this-term/",
+          "publishedOn": "2024-09-04T17:10:00.000Z",
+          "wordCount": 1619,
+          "title": "Johan Mjallby explains why Celtic will continue to go from strength to strength this term",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/07/GettyImages-51528251-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=208009",
+          "author": "Patrick Sinat",
+          "description": "Every Celtic fan knows that the atmosphere created by the Parkhead support when Rangers visit is something out of this world. This fixture has the...",
+          "link": "https://www.67hailhail.com/news/arne-engels-admits-that-what-the-celtic-fans-did-in-his-debut-vs-rangers-blew-him-away/",
+          "publishedOn": "2024-09-04T16:40:00.000Z",
+          "wordCount": 1491,
+          "title": "‘Really beautiful’: Arne Engels admits that what the Celtic fans did in his debut vs Rangers blew him away",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2169420783-1-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=208043",
           "author": "Sean Markus Clifford",
@@ -1376,16 +1406,6 @@
           "wordCount": 1573,
           "title": "Every Celtic player's contract expiry status now that transfer deadline day has passed",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-2163368348-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=207137",
-          "author": "Gary Kirkpatrick",
-          "description": "In case you missed the drama on Friday 🍀",
-          "link": "https://www.67hailhail.com/transfers/celtic-deadline-day-summer-2024-transfers-signings-exits/",
-          "publishedOn": "2024-08-31T05:00:00.000Z",
-          "wordCount": 1494,
-          "title": "All of Celtic's confirmed deadline day business",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-2164840533-scaled.jpg"
         }
       ]
     },
