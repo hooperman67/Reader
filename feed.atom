@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-09-04T18:15:35.286Z</updated>
+    <updated>2024-09-04T20:13:50.570Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What Brendan Rodgers did in a class visit to Celtic’s academy at Lennoxtown this week]]></title>
+        <id>https://www.67hailhail.com/?p=208033</id>
+        <link href="https://www.67hailhail.com/news/what-brendan-rodgers-did-in-a-class-visit-to-celtics-academy-at-lennoxtown-this-week/"/>
+        <updated>2024-09-04T18:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Brendan Rodgers is making the most of the international break this week and made a class visit to Celtic’s academy. The Celtic boss is well...]]></summary>
+        <author>
+            <name>Patrick Sinat</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Arne Engels explains what he can offer to both Celtic and Belgium after exciting week]]></title>
         <id>https://www.67hailhail.com/?p=208029</id>
@@ -1122,16 +1132,6 @@
         <link href="https://www.celticquicknews.co.uk/28-5m-celtic-cash-splash/"/>
         <updated>2024-08-31T08:58:52.000Z</updated>
         <summary type="html"><![CDATA[CELTIC broke their transfer record TWICE in this summer’s transfer market as they splashed £28.5million in strengthening Brendan Rodgers’ squad. The £9million arrival of French striker Odsonne Edouard from Paris Saint-Germain in 2018 – after an impressive season-long loan – had stood as the Hoops’ all-time high until the purchase of Adam Idah earlier this [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[£48.63m CELTIC STAR TREK]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=123308</id>
-        <link href="https://www.celticquicknews.co.uk/48-63m-celtic-star-trek/"/>
-        <updated>2024-08-31T07:46:32.000Z</updated>
-        <summary type="html"><![CDATA[THE summer star trek kicked off with Sead Haksabanovic’s £1.8million move to Malmo on July 1. The Celtic departure count rose to TEN permanent departures when Tomoki Iwata switched to Birmingham City last night. There were five loan deals, one player released and another retired. Before the ball even got rolling almost two months ago [...]]]></summary>
         <author>
             <name>CQN Magazine</name>
         </author>
