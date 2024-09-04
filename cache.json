@@ -6,6 +6,26 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=123461",
+          "author": "CQN Magazine",
+          "description": "CELTIC fans will be able to get a close look at former target Mateusz Bogusz when he plays for Poland at Hampden tomorrow night. Just before the transfer deadline, the champions withdrew from the race for the Los Angeles midfielder after a reported initial offer of around £5million had been knocked back by the MLS outfit. [...]",
+          "link": "https://www.celticquicknews.co.uk/celtic-target-in-focus/",
+          "publishedOn": "2024-09-04T07:58:43.000Z",
+          "wordCount": 3728,
+          "title": "CELTIC TARGET IN FOCUS",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/08/MATEUSZ-BOGUSZ-BALL-FEATURED.png"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/?p=123460",
+          "author": "CQN Magazine",
+          "description": "CELTIC duo James Forrest and Greg Taylor are OUT of Scotland’s squad for the Nations League clashes against Poland at Hampden tomorrow night and Portugal in Lisbon on Sunday. Both sustained knocks in the champions’ 3-0 win over Philippe Clement’s Ibrox side at Parkhead on Sunday. Forrest made his 500th appearance for the Hoops when [...]",
+          "link": "https://www.celticquicknews.co.uk/forrest-taylor-out/",
+          "publishedOn": "2024-09-04T07:18:50.000Z",
+          "wordCount": 3708,
+          "title": "FORREST, TAYLOR OUT",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/09/JAMES-FORREST-500-FEATURED.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=123458",
           "author": "Tom Murphy",
           "description": "CELTIC are currently navigating a season filled with both challenges and opportunities. As the 2024-25 season progresses, the club finds itself dealing with significant injuries while also welcoming new signings that could prove pivotal in their quest for success. The injuries to Maik Nawrocki and Mikey Johnston have posed challenges, but the arrival of experienced [...]",
@@ -612,6 +632,46 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=207965",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic fans were curious to see who would fill Matt O’Riley’s boots at Celtic following his exit to Brighton & Hove Albion during the summer...",
+          "link": "https://www.67hailhail.com/opinion/paulo-bernardos-role-at-celtic-following-dominant-glasgow-derby-display/",
+          "publishedOn": "2024-09-04T08:10:00.000Z",
+          "wordCount": 1524,
+          "title": "Paulo Bernardo's role at Celtic following dominant Glasgow Derby display",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/07/GettyImages-1756611503-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=207960",
+          "author": "Patrick Sinat",
+          "description": "Brendan Rodgers capped off the summer transfer window by strengthening Celtic before the big Glasgow Derby match against Rangers last week. The Celtic boss’ transfer...",
+          "link": "https://www.67hailhail.com/opinion/how-alex-valle-and-auston-trusty-helped-inspire-celtics-win-over-rangers-without-even-kicking-a-ball/",
+          "publishedOn": "2024-09-04T07:40:00.000Z",
+          "wordCount": 1678,
+          "title": "How two summer signings helped inspire Celtic’s win over Rangers without even kicking a ball – opinion",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2165136221-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=207962",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic and Mikey Johnston went their separate ways permanently last week as the academy graduate moved to West Bromwich Albion permanently. The 25-year-old spent the...",
+          "link": "https://www.67hailhail.com/news/mikey-johnston-sends-emotional-farewell-to-celtic-as-he-looks-to-continue-west-brom-heroics/",
+          "publishedOn": "2024-09-04T07:15:00.000Z",
+          "wordCount": 1502,
+          "title": "Mikey Johnston sends emotional farewell to Celtic as he looks to continue West Brom heroics",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/03/GettyImages-2115535478-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=207955",
+          "author": "Patrick Sinat",
+          "description": "The post-match analysis and pundit reaction to Celtic’s win over Rangers continues today as Barry Ferguson offers his view on the game. Already this week...",
+          "link": "https://www.67hailhail.com/news/chris-sutton-sends-the-celtic-fans-a-message-after-what-barry-ferguson-said-about-them/",
+          "publishedOn": "2024-09-04T06:40:24.000Z",
+          "wordCount": 1614,
+          "title": "Chris Sutton sends the Celtic fans a message after what Barry Ferguson said about them",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-487942163-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=207947",
           "author": "Sean Markus Clifford",
@@ -1261,16 +1321,6 @@
           "wordCount": 1428,
           "title": "Brendan Rodgers explains Arne Engels signing as record transfer is confirmed, fee and contract details",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-2153832839-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=207317",
-          "author": "John McGinley",
-          "description": "Celtic have a new defender.",
-          "link": "https://www.67hailhail.com/transfers/auston-trusty-speaks-after-celtic-move-what-brendan-rodgers-has-told-him-how-much-bhoys-paid/",
-          "publishedOn": "2024-08-30T19:14:08.000Z",
-          "wordCount": 1488,
-          "title": "Auston Trusty speaks after Celtic move, what Brendan Rodgers has told him, how much Bhoys paid",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-2015886970-scaled.jpg"
         }
       ]
     },
