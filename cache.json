@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=123506",
+          "author": "CQN Magazine",
+          "description": "LIAM SHAW has mysteriously vanished from the Celtic first-team picture. The midfielder has made just one start and been involved in a mere nine minutes of Premiership action since arriving at Parkhead at the end of his Sheffield Wednesday contract in June 2021. Shaw, who cost £400,000 in a cross-border compensation fee, spent last season [...]",
+          "link": "https://www.celticquicknews.co.uk/mystery-of-the-vanishing-celts/",
+          "publishedOn": "2024-09-06T09:22:33.000Z",
+          "wordCount": 3959,
+          "title": "MYSTERY OF THE VANISHING CELTS",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/09/LIAM-SHAW-FEATURED-V-R-BETIS.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=123502",
           "author": "CQN Magazine",
           "description": "BRENDAN RODGERS hailed his new, improved Celtic as he reflected on the emphatic derby triumph at Parkhead at the weekend. The Hoops boss compared the most recent win with the Scottish Cup Final success over Philippe Clement’s Ibrox side at Hampden on May 25. As the curtain came down on his comeback season and with the [...]",
@@ -507,6 +517,26 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=208235",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic are firmly into the international break, but the feel-good factor is still fresh after the Bhoys disposed of Rangers last weekend. The Bhoys were...",
+          "link": "https://www.67hailhail.com/news/simon-donnelly-emphasises-the-psychological-advantage-celtic-have-over-rangers/",
+          "publishedOn": "2024-09-06T10:10:00.000Z",
+          "wordCount": 1694,
+          "title": "Simon Donnelly emphasises the psychological advantage Celtic have over Rangers",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2167272454-1-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=208217",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic will return after the international break with Champions League success in their sights following a promising start to the campaign. The Bhoys take on...",
+          "link": "https://www.67hailhail.com/news/andy-walkers-verdict-on-celtic-summer-transfer-business-makes-champions-league-prediction/",
+          "publishedOn": "2024-09-06T08:51:46.000Z",
+          "wordCount": 1671,
+          "title": "Andy Walker's verdict on Celtic summer transfer business, makes Champions League prediction",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-2163368151-2-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=208192",
           "author": "Sean Markus Clifford",
