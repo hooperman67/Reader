@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-09-06T04:15:03.992Z</updated>
+    <updated>2024-09-06T06:17:52.669Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Brendan Rodgers lauds Celtic hero with 'big superpower' who is setting a benchmark for teammates]]></title>
+        <id>https://www.67hailhail.com/?p=208151</id>
+        <link href="https://www.67hailhail.com/news/brendan-rodgers-lauds-celtic-hero-with-big-superpower-who-is-setting-a-benchmark-for-teammates/"/>
+        <updated>2024-09-06T06:10:00.000Z</updated>
+        <summary type="html"><![CDATA["There are not many who can do it like him."]]></summary>
+        <author>
+            <name>John McGinley</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Simon Murray makes clear why Luke McCowan will 'surprise a lot of people' at Celtic]]></title>
         <id>https://www.67hailhail.com/?p=208155</id>
@@ -994,36 +1004,6 @@
         <summary type="html"><![CDATA[The goalkeeper was back at Celtic Park on Sunday.]]></summary>
         <author>
             <name>John McGinley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BBC pundit says Rangers 'got a lesson' off Celtic as Bhoys star gives rival 'one of his worst days']]></title>
-        <id>https://www.67hailhail.com/?p=207756</id>
-        <link href="https://www.67hailhail.com/match/bbc-pundit-says-rangers-got-a-lesson-off-celtic-as-bhoys-star-gives-rival-one-of-his-worst-days/"/>
-        <updated>2024-09-01T18:15:07.000Z</updated>
-        <summary type="html"><![CDATA["Rangers could not handle it mentally or physically."]]></summary>
-        <author>
-            <name>John McGinley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brendan Rodgers shares thoughts on Arne Engels and Luke McCowan Celtic debuts]]></title>
-        <id>https://www.67hailhail.com/?p=207750</id>
-        <link href="https://www.67hailhail.com/news/brendan-rodgers-shares-thoughts-on-arne-engels-and-luke-mccowan-celtic-debuts/"/>
-        <updated>2024-09-01T17:49:09.000Z</updated>
-        <summary type="html"><![CDATA["You just see his elegance on the pitch."]]></summary>
-        <author>
-            <name>John McGinley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ligue 1 and Stade Rennais celebrate Jota signing by adopting a familiar Celtic anthem]]></title>
-        <id>https://www.67hailhail.com/?p=207526</id>
-        <link href="https://www.67hailhail.com/news/ligue-1-and-stade-rennes-celebrate-jota-signing-by-adopting-a-familiar-celtic-anthem/"/>
-        <updated>2024-09-01T17:10:00.000Z</updated>
-        <summary type="html"><![CDATA[The next chapter of former Celtic hero, Jota’s career has now been mapped after he ended his Saudi nightmare with a move to Stade Rennes....]]></summary>
-        <author>
-            <name>Patrick Sinat</name>
         </author>
     </entry>
     <entry>
