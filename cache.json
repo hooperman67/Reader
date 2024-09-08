@@ -6,6 +6,26 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=123552",
+          "author": "CQN Magazine",
+          "description": "ALISTAIR JOHNSTON limped out of Canada’s historic 2-1 triumph over the USA in Kansas and must be considered a doubt for the Premiership visit of Hearts on Saturday. Celtic now face a sweat over back-up Anthony Ralston who is likely to play for Scotland in tonight’s UEFA Nations League game against Portugal in Lisbon. Brendan Rodgers [...]",
+          "link": "https://www.celticquicknews.co.uk/johnston-scare-ralston-sweat/",
+          "publishedOn": "2024-09-08T07:17:17.000Z",
+          "wordCount": 3805,
+          "title": "JOHNSTON SCARE, RALSTON SWEAT",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/06/ALISTAIR-JOHNSTON-CANADA-FEATURRED.png"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/?p=123545",
+          "author": "CQN Magazine",
+          "description": "CELTIC’S record £11million buy Arne Engels celebrates his 21st birthday today. The most expensive player in Hoops history would probably admit all his birthdays came at once when he joined the champions from Bundesliga club Augsburg on transfer deadline day. Engels was then pitched into the heat of a derby tussle two days later and [...]",
+          "link": "https://www.celticquicknews.co.uk/happy-21st-birthday-arne/",
+          "publishedOn": "2024-09-08T06:20:42.000Z",
+          "wordCount": 3823,
+          "title": "HAPPY 21st BIRTHDAY, ARNE",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/09/ARNE-ENGELS-FEATURED-21.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=123543",
           "author": "CQN Magazine",
           "description": "IT SEEMS, dear reader, we are not alone in our perception Philippe Clement and a few of his misguided Light Blue acolytes have parted company with the plot. The Belgian is fairly expressionless at the best of times. Stone-faced, he delivers implausible sermons on the displays of his team that utterly bewilder anyone trying to [...]",
@@ -487,6 +507,26 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=208391",
+          "author": "Patrick Sinat",
+          "description": "The international break sees many of Celtic’s players head overseas to represent their countries this week as the fans keep a close eye on their...",
+          "link": "https://www.67hailhail.com/news/why-arne-engels-is-returning-to-celtic-early-after-impressing-in-belgium-debut/",
+          "publishedOn": "2024-09-08T07:40:00.000Z",
+          "wordCount": 1553,
+          "title": "Why Arne Engels is returning to Celtic early after impressing in Belgium debut",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2169857970-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=208387",
+          "author": "Patrick Sinat",
+          "description": "The international break is in full swing but Celtic’s win over Rangers in last weekend’s Glasgow Derby is still on Peter Grant’s mind. The 3-0...",
+          "link": "https://www.67hailhail.com/news/peter-grant-points-out-the-biggest-thing-about-celtics-win-over-rangers/",
+          "publishedOn": "2024-09-08T06:40:00.000Z",
+          "wordCount": 1646,
+          "title": "'It's a fantastic thing to watch': Peter Grant points out 'the biggest thing' about Celtic's win over Rangers",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/03/GettyImages-72167501-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=208375",
           "author": "John McGinley",
@@ -1146,26 +1186,6 @@
           "wordCount": 1614,
           "title": "Chris Sutton sends the Celtic fans a message after what Barry Ferguson said about them",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-487942163-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=207947",
-          "author": "Sean Markus Clifford",
-          "description": "Celtic captain Callum McGregor will be enjoying a different type of international break this time around as he kicks his feet up while Scotland are...",
-          "link": "https://www.67hailhail.com/news/john-mcginn-highlights-why-celtic-captain-callum-mcgregor-will-be-a-big-loss-for-scotland/",
-          "publishedOn": "2024-09-03T19:10:00.000Z",
-          "wordCount": 1558,
-          "title": "John McGinn highlights why Celtic captain Callum McGregor will be a 'big loss' for Scotland",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-2168368860-1-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=207895",
-          "author": "Patrick Sinat",
-          "description": "This has been a really exciting week for the Celtic fans as they enjoy the headlines over Brendan Rodgers’ latest win over Rangers. Celtic have...",
-          "link": "https://www.67hailhail.com/news/gordon-strachan-pinpoints-the-advantage-celtic-now-have-in-the-champions-league-after-rule-change/",
-          "publishedOn": "2024-09-03T18:40:00.000Z",
-          "wordCount": 1611,
-          "title": "'Could help': Gordon Strachan says the ‘advantage’ Celtic now have in the Champions League after rule change",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/02/GettyImages-1267009149-scaled.jpg"
         }
       ]
     },
