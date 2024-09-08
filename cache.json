@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=123555",
+          "author": "CQN Magazine",
+          "description": "ANYONE wishing to criticise Celtic’s £9.5million striker Adam Idah in the fall-out of Republic of Ireland’s 2-0 collapse in Dublin should get an urgent reality check. Or, at the very least. a crash course in the rudiments of the game of football. I note there have been a few comments that are less than complimentary [...]",
+          "link": "https://www.celticquicknews.co.uk/good-idah-put-a-sock-in-it/",
+          "publishedOn": "2024-09-08T10:04:56.000Z",
+          "wordCount": 3946,
+          "title": "GOOD IDAH: PUT A SOCK IN IT",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/09/ADAM-IDAH-V-ENGLAND-FEATURED.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=123552",
           "author": "CQN Magazine",
           "description": "ALISTAIR JOHNSTON limped out of Canada’s historic 2-1 triumph over the USA in Kansas and must be considered a doubt for the Premiership visit of Hearts on Saturday. Celtic now face a sweat over back-up Anthony Ralston who is likely to play for Scotland in tonight’s UEFA Nations League game against Portugal in Lisbon. Brendan Rodgers [...]",
@@ -478,23 +488,7 @@
       "title": "eTims",
       "feedUrl": "http://etims.net/?feed=rss2",
       "siteUrl": "https://etims.net",
-      "articles": [
-        {
-          "id": "https://etims.net/?p=18784",
-          "author": "Desi Mond",
-          "description": "The guys get together to talk about Sundays game and its repercussions. They discuss the great Tifo from The Green Brigade.   They discuss that…",
-          "link": "https://etims.net/?p=18784",
-          "publishedOn": "2024-09-03T20:39:57.000Z",
-          "wordCount": 2623,
-          "title": "Stats All Folks – Etims Podcast",
-          "enclosure": {
-            "url": "https://api.spreaker.com/v2/episodes/61255735/download.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": "https://etims.net/wp-content/uploads/2024/09/IMG_9106-1.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "The Celtic Underground",
@@ -507,6 +501,26 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=208403",
+          "author": "Patrick Sinat",
+          "description": "Tottenham Hotspur attacking midfielder has given a fascinating insight into Celtic boss, Brendan Rodgers, whilst praising Ange Postecoglou. The Australian left Celtic for the English...",
+          "link": "https://www.67hailhail.com/news/james-maddisons-ange-postecoglou-praise-gives-superb-insight-into-celtic-boss-brendan-rodgers/",
+          "publishedOn": "2024-09-08T09:40:00.000Z",
+          "wordCount": 1649,
+          "title": "'Both great men': James Maddison’s Ange Postecoglou praise offers insight into Celtic boss Brendan Rodgers",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-1349482927-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=208399",
+          "author": "Patrick Sinat",
+          "description": "Former Celtic striker, Simon Donnelly, has admitted that there is one player at Celtic right now that he is slightly jealous of. That seems like...",
+          "link": "https://www.67hailhail.com/news/simon-donnelly-says-there-is-a-fantastic-pro-at-celtic-he-is-envious-of/",
+          "publishedOn": "2024-09-08T08:40:00.000Z",
+          "wordCount": 1703,
+          "title": "'Fantastic pro': Simon Donnelly says there is a terrific player at Celtic he is 'envious' of",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2021/06/GettyImages-1916624-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=208391",
           "author": "Patrick Sinat",
