@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=123603",
+          "author": "CQN Magazine",
+          "description": "ALISTAIR JOHNSTON appears to be winning his fitness fight to face Hearts at Parkhead on Saturday. The right-back limped off midway through the first-half during Canada’s 2-1 friendly win over the USA in Kansas at the weekend and there were fears he would miss the visit of the Edinburgh club. Johnston, an ever-present in Brendan Rodgers’ [...]",
+          "link": "https://www.celticquicknews.co.uk/green-light-for-johnston/",
+          "publishedOn": "2024-09-09T08:11:36.000Z",
+          "wordCount": 3698,
+          "title": "GREEN LIGHT FOR JOHNSTON?",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/07/ALISTAIR-JOHNSTON-C-FEATURED.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=123563",
           "author": "CQN Magazine",
           "description": "CELTIC’S Golden Oldies were spot on as they overcame their Manchester United counterparts in a rollicking fundraiser at Old Trafford yesterday. The rousing encounter between the club legends was stalemated at 1-1 after Wayne Rooney, with a spectacular free-kick, had put the hosts ahead three minutes from the interval and Gary Hooper had levelled just [...]",
@@ -451,6 +461,46 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=208477",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic are back in action against Heart of Midlothian this weekend once the international break comes to an end. Several Bhoys have been in action...",
+          "link": "https://www.67hailhail.com/opinion/the-burning-question-celtic-fans-will-be-excited-to-see-brendan-rodgers-answer-this-weekend/",
+          "publishedOn": "2024-09-09T08:10:00.000Z",
+          "wordCount": 1539,
+          "title": "The burning question Celtic fans will be excited to see Brendan Rodgers answer this weekend",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2169857764-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=208475",
+          "author": "Patrick Sinat",
+          "description": "The signing of Luke McCowan by Brendan Rodgers concluded a busy transfer deadline day for Brendan Rodgers at Celtic last month. In a day where...",
+          "link": "https://www.67hailhail.com/news/how-luke-mccowan-left-ayr-uniteds-youth-academy-boss-feeling-humbled-after-signing-for-celtic/",
+          "publishedOn": "2024-09-09T07:44:05.000Z",
+          "wordCount": 1729,
+          "title": "'It was brilliant': How Luke McCowan left Ayr United's Youth Academy boss feeling humbled after signing for Celtic",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/09/IMG_2225-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=208465",
+          "author": "Sean Markus Clifford",
+          "description": "Anthony Ralston was the only Celtic man in action last night as Scotland came out on the end of a narrow defeat away to Portugal...",
+          "link": "https://www.67hailhail.com/news/the-media-verdict-and-ratings-after-celtic-man-anthony-ralston-plays-for-scotland-vs-portugal/",
+          "publishedOn": "2024-09-09T07:10:00.000Z",
+          "wordCount": 1704,
+          "title": "The media verdict and ratings after Celtic man Anthony Ralston starts for Scotland vs Portugal",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2170254955-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=208458",
+          "author": "Patrick Sinat",
+          "description": "With the international break entering its second and final week, the Celtic fans are looking forward to the domestic action resuming against Hearts at Celtic...",
+          "link": "https://www.67hailhail.com/news/mikael-lustig-names-two-players-who-are-really-important-to-celtic-progressing-in-the-champions-league/",
+          "publishedOn": "2024-09-09T06:42:36.000Z",
+          "wordCount": 1636,
+          "title": "'Really important': Mikael Lustig names two players who are crucial to Celtic progressing in the Champions League",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/07/GettyImages-625348062-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=208451",
           "author": "John McGinley",
@@ -1050,16 +1100,6 @@
           "wordCount": 1561,
           "title": "Former Celtic youngster Vincent Angelini’s career takes an unusual step after leaving the club in 2021",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/03/GettyImages-490844004-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=208033",
-          "author": "Patrick Sinat",
-          "description": "Brendan Rodgers is making the most of the international break this week and made a class visit to Celtic’s academy. The Celtic boss is well...",
-          "link": "https://www.67hailhail.com/news/what-brendan-rodgers-did-in-a-class-visit-to-celtics-academy-at-lennoxtown-this-week/",
-          "publishedOn": "2024-09-04T18:40:00.000Z",
-          "wordCount": 1537,
-          "title": "What Brendan Rodgers did in a class visit to Celtic’s academy at Lennoxtown this week",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/05/LennoxtownTraining1.jpg"
         }
       ]
     },
