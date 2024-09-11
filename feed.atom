@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-09-11T18:16:43.633Z</updated>
+    <updated>2024-09-11T20:12:14.325Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[On-loan Scottish Premiership star on why he will 'cherish' Celtic Park debut forever]]></title>
+        <id>https://www.67hailhail.com/?p=208710</id>
+        <link href="https://www.67hailhail.com/news/on-loan-scottish-premiership-star-on-why-he-will-cherish-celtic-park-debut-forever/"/>
+        <updated>2024-09-11T19:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Celtic Park’s unique atmosphere needs no second introduction, and it is known worldwide as one of the most exciting venues for fans or players to...]]></summary>
+        <author>
+            <name>Sean Markus Clifford</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['He's got real character': John Hartson impressed with Celtic summer signing's 'bullish' message to teammates]]></title>
+        <id>https://www.67hailhail.com/?p=208695</id>
+        <link href="https://www.67hailhail.com/news/john-hartson-impressed-with-bullish-message-luke-mccowan-sent-to-his-celtic-teammates/"/>
+        <updated>2024-09-11T18:40:00.000Z</updated>
+        <summary type="html"><![CDATA[The signing of Luke McCowan has been much spoken about over the last two weeks. The former Dundee captain has realised his boyhood dream and...]]></summary>
+        <author>
+            <name>Patrick Sinat</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Celtic striker Adam Idah's goalless international break is nothing to worry about]]></title>
         <id>https://www.67hailhail.com/?p=208707</id>
@@ -912,26 +932,6 @@
         <link href="https://www.celticquicknews.co.uk/ruthless-brendans-battle-cry/"/>
         <updated>2024-09-07T08:26:45.000Z</updated>
         <summary type="html"><![CDATA[BRENDAN RODGERS has seen Celtic sizzle their way through the first four league fixtures of the new season to maintain pole position in the Premiership. The champions have got off to an electrifying start with successive victories, scoring 12 goals without conceding. The Hoops will also face Championship side Falkirk in the Premier Sport League [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘AMAZING,’ ENGELS’ GOOD NEWS OVERLOAD]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=123537</id>
-        <link href="https://www.celticquicknews.co.uk/amazing-engels-good-news-overload/"/>
-        <updated>2024-09-07T07:08:10.000Z</updated>
-        <summary type="html"><![CDATA[ARNE ENGELS celebrated his full international debut in Belgium’s 3-1 Nations League win over Israel last night. The cap breakthrough came just a week after the 20-year-old midfielder became the most expensive player in Celtic history following his deadline-beating £11million move from Bundesliga club Augsburg. Engels followed that up two days later by making his first [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘COMPLETE MESS,’ SUTTON WRITES OFF IBROX, EURO ‘PRESSURE IS NOW ON RODGERS’]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=123531</id>
-        <link href="https://www.celticquicknews.co.uk/complete-mess-sutton-writes-off-ibrox-euro-pressure-is-now-on-rodgers/"/>
-        <updated>2024-09-07T06:36:10.000Z</updated>
-        <summary type="html"><![CDATA[FORMER Celtic goal hero Chris Sutton insists Brendan Rodgers’ side can make up for past European failures and make an impact in the new-look Champions League this season. The one-time hitman, who played his part alongside Henrik Larsson in Martin O’Neill’s team’s epic UEFA Cup Final against Porto in Seville in 2003, reckons his old club [...]]]></summary>
         <author>
             <name>CQN Magazine</name>
         </author>
