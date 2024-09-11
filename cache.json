@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=123620",
+          "author": "CQN Magazine",
+          "description": "ARNE ENGELS made sure the joke was on Philippe Clement when they came face to face in the derby encounter at Parkhead. The £11million record buy made a quickfire debut for the champions when he came on as a second-half substitute as Brendan Rodgers’ side routed their Glasgow foes 3-0 in front of 60,000 celebrating fans. [...]",
+          "link": "https://www.celticquicknews.co.uk/jokes-on-you-phil-arnes-smiles-better-after-derby-debut/",
+          "publishedOn": "2024-09-11T08:06:42.000Z",
+          "wordCount": 4297,
+          "title": "JOKE’S ON YOU, PHIL: ARNE’S SMILES BETTER AFTER DERBY DEBUT",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/09/ARNE-ENGELS-CELTIC-TV-FEATURED.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=96209",
           "author": "CQN Magazine",
           "description": "CELTIC hit hapless Hamilton Accies with a ten-goal hurricane exactly FIFTY-SIX years ago as Bobby Lennox and Stevie Chalmers went on the rampage in an unforgettable evening in the east end of Glasgow. Jock Stein’s all-conquering Hoops heroes were unstoppable in a League Cup encounter as they annihilated their shell-shocked opponents with the lightning-swift raiders each [...]",
@@ -461,6 +471,46 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=208626",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic loanee Dane Murray continues to make progress after recovering from a spate of injury issues that have slowed the early part of his career....",
+          "link": "https://www.67hailhail.com/news/watch-celtic-loanee-dane-murray-score-for-scotland-under-21s-as-post-injury-ascent-continues/",
+          "publishedOn": "2024-09-11T08:10:00.000Z",
+          "wordCount": 1455,
+          "title": "Watch Celtic loanee Dane Murray score for Scotland Under-21's as post-injury ascent continues",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2163368503-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=208620",
+          "author": "Patrick Sinat",
+          "description": "Arne Engels had a baptism of fire when he first signed for Celtic this summer and to be honest, it’s been a bit of a...",
+          "link": "https://www.67hailhail.com/news/arne-engels-is-buzzing-after-hearing-what-song-the-celtic-fans-have-planned-for-him/",
+          "publishedOn": "2024-09-11T07:43:25.000Z",
+          "wordCount": 1635,
+          "title": "'It would be amazing': Arne Engels is buzzing after hearing what song the Celtic fans have planned for him",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2169420783-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=208618",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic midfielder Paulo Bernardo captained Portugal Under-21 to a pivotal 2-0 victory over Croatia last night in EURO 2025 qualifying. The Almada-born man scored the...",
+          "link": "https://www.67hailhail.com/news/celtic-midfielder-paulo-bernardo-reacts-after-scoring-in-crucial-portugal-under-21-victory/",
+          "publishedOn": "2024-09-11T07:15:00.000Z",
+          "wordCount": 1573,
+          "title": "Celtic midfielder Paulo Bernardo reacts after scoring in crucial Portugal Under-21 victory",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-1259015414-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=208611",
+          "author": "Patrick Sinat",
+          "description": "Now that the international break is over, the Celtic fans can look forward to the domestic action resuming against Hearts on Saturday afternoon. With 15...",
+          "link": "https://www.67hailhail.com/news/anthony-ralston-says-something-he-learned-playing-for-scotland-will-help-him-at-celtic/",
+          "publishedOn": "2024-09-11T06:40:00.000Z",
+          "wordCount": 1538,
+          "title": "'Great experience': Anthony Ralston says something he learned playing for Scotland will 'help' him at Celtic",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2170243226-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=208608",
           "author": "Sean Markus Clifford",
@@ -1020,16 +1070,6 @@
           "wordCount": 1624,
           "title": "Celtic boss Brendan Rodgers makes his Champions League target this season very clear",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-868952330-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=208325",
-          "author": "John McGinley",
-          "description": "\"I felt like they got battered.\"",
-          "link": "https://www.67hailhail.com/news/troy-deeney-tells-graeme-souness-the-truth-about-celtic-and-rangers-after-another-sorry-rant/",
-          "publishedOn": "2024-09-06T19:32:49.000Z",
-          "wordCount": 1500,
-          "title": "'Battered'; Troy Deeney tells Graeme Souness the truth about Celtic and Rangers after another sorry rant",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2154203769-scaled.jpg"
         }
       ]
     },
