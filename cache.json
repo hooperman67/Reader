@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=55147",
+          "author": "CQN Magazine",
+          "description": "CELTIC legend Jock Stein made an extraordinary immediate impact on the Parkhead club when he returned as team boss in March 1965. The 39th anniversary of the passing of the Hoops great, at the age of 62, was marked by CQN on Tuesday. In another CQN EXCLUSIVE,  author Alex Gordon, who has had fifteen Celtic works published, [...]",
+          "link": "https://www.celticquicknews.co.uk/the-jock-stein-years-part-two/",
+          "publishedOn": "2024-09-12T05:00:04.000Z",
+          "wordCount": 4289,
+          "title": "THE JOCK STEIN YEARS: Part Two",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2021/05/JOCK-STEIN-NEW-FEATURED-67-1.jpg"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=123642",
           "author": "Paul67",
           "description": "If you were ever offered the job of CEO at Celtic, your best friend is likely to advise against it.  There are many reasons why someone who is capable of being offered this kind of job, should not take it, not least of all, they would be capable of getting another top job, without all [...]",
@@ -1130,26 +1140,6 @@
           "wordCount": 1646,
           "title": "'It's a fantastic thing to watch': Peter Grant points out 'the biggest thing' about Celtic's win over Rangers",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/03/GettyImages-72167501-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=208375",
-          "author": "John McGinley",
-          "description": "It was always a tall order for Adam Idah’s Republic of Ireland to get a result against England this weekend, so the 2-0 win for...",
-          "link": "https://www.67hailhail.com/news/adam-idahs-tough-night-against-england-as-celtic-star-gets-elite-saturday-test/",
-          "publishedOn": "2024-09-07T17:57:28.000Z",
-          "wordCount": 1577,
-          "title": "The verdict on Adam Idah's tough night against England as Celtic star gets elite Saturday test",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2170029501-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=208368",
-          "author": "John McGinley",
-          "description": "A big, big result for Celtic FC Women this!",
-          "link": "https://www.67hailhail.com/celtic-fc-women/celtic-take-historic-step-forward-in-uwcl-with-stunning-saturday-result-in-lithuania/",
-          "publishedOn": "2024-09-07T16:47:28.000Z",
-          "wordCount": 1464,
-          "title": "Celtic take historic step forward in UWCL with stunning Saturday result in Lithuania",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2159992591-scaled.jpg"
         }
       ]
     },
