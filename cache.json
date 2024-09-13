@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=123649",
+          "author": "CQN Magazine",
+          "description": "CELTIC’S scheduled Premiership fixture against Motherwell at Fir Park has been pushed back 24 hours to Sunday October 27. The match was originally due on the Saturday, but has been switched to accommodate live coverage by Sky Sports with a 3pm kick-off. The champions’ encounters in Lanarkshire last season turned out to be dramatic occasions [...]",
+          "link": "https://www.celticquicknews.co.uk/celtic-game-switch-5/",
+          "publishedOn": "2024-09-13T06:51:14.000Z",
+          "wordCount": 3871,
+          "title": "CELTIC GAME SWITCH",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/09/ADAM-IDAH-NO.2-V-WELL-FEB-2024.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=55150",
           "author": "CQN Magazine",
           "description": "CELTIC legend Jock Stein made an extraordinary immediate impact on the Parkhead club when he returned as manager in March 1965. In another CQN EXCLUSIVE series, author Alex Gordon, who has written fifteen books on Celtic, has opened his publication files on the Parkhead great. Today, in Part Three of our fascinating look back at [...]",
@@ -451,6 +461,46 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=208835",
+          "author": "John McGinley",
+          "description": "Celtic have had a solely domestic focus in the early stages of the 2024/25 season but the Champions League soon comes into play. After a...",
+          "link": "https://www.67hailhail.com/news/owen-hargreaves-delivers-verdict-on-celtics-champions-league-chances-this-season/",
+          "publishedOn": "2024-09-13T08:14:21.000Z",
+          "wordCount": 1490,
+          "title": "Champions League winner delivers promising verdict on Celtic's European chances this season",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2157606596-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=208824",
+          "author": "John McGinley",
+          "description": "We can all rejoice now that the international football is over and Celtic are returning this weekend.",
+          "link": "https://www.67hailhail.com/opinion/three-big-celtic-questions-for-brendan-rodgers-at-fridays-press-conference/",
+          "publishedOn": "2024-09-13T07:41:48.000Z",
+          "wordCount": 1646,
+          "title": "Three big Celtic questions for Brendan Rodgers at Friday's press conference",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2163368151-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=208827",
+          "author": "Sean Markus Clifford",
+          "description": "Alistair Johnston has been one of the most consistent performers at Celtic over the last couple of seasons and talks over a new contract for...",
+          "link": "https://www.67hailhail.com/news/alistair-johnstons-celtic-deal-talks-in-focus-as-andy-walker-pits-him-with-recent-best/",
+          "publishedOn": "2024-09-13T07:10:00.000Z",
+          "wordCount": 1516,
+          "title": "Alistair Johnston's Celtic deal talks in focus as Andy Walker pits him with recent best",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2170739395-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=208818",
+          "author": "John McGinley",
+          "description": "Celtic are preparing to open contract talks with defender Alistair Johnston to tie him down to a new deal and make him one of the...",
+          "link": "https://www.67hailhail.com/news/celtic-ready-to-make-contract-statement-of-intent/",
+          "publishedOn": "2024-09-13T06:40:23.000Z",
+          "wordCount": 1434,
+          "title": "Celtic ready to make contract statement of intent",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2167285609-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=208808",
           "author": "Sean Markus Clifford",
@@ -1180,16 +1230,6 @@
           "wordCount": 1636,
           "title": "'Really important': Mikael Lustig names two players who are crucial to Celtic progressing in the Champions League",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/07/GettyImages-625348062-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=208451",
-          "author": "John McGinley",
-          "description": "\"Celtic is a very tough place to be, especially when things aren’t going well.\"",
-          "link": "https://www.67hailhail.com/news/stuart-armstrong-tells-his-new-mls-club-what-it-was-like-to-play-for-very-tough-celtic/",
-          "publishedOn": "2024-09-08T18:27:16.000Z",
-          "wordCount": 1593,
-          "title": "Stuart Armstrong tells his new MLS club what it was like to play for 'very tough' Celtic",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-652433220-scaled.jpg"
         }
       ]
     },
