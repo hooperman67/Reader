@@ -492,6 +492,16 @@
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
         {
+          "id": "https://www.67hailhail.com/?p=208863",
+          "author": "Sean Markus Clifford",
+          "description": "Competition for places is always necessary at a club like Celtic and usually enhances the overall level of performance seen on the pitch week after...",
+          "link": "https://www.67hailhail.com/opinion/liam-scales-ability-to-surprise-people-at-celtic-is-about-to-be-tested-to-the-limit/",
+          "publishedOn": "2024-09-13T12:40:00.000Z",
+          "wordCount": 1632,
+          "title": "Liam Scales' ability to 'surprise' people at Celtic is about to be tested to the limit",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2170364906-scaled.jpg"
+        },
+        {
           "id": "https://www.67hailhail.com/?p=208852",
           "author": "Sean Markus Clifford",
           "description": "Celtic icon Lubo Moravcik is excited to see the Bhoys take on Slovan Bratislava in the Champions League and has told his old club what...",
@@ -1327,7 +1337,18 @@
       "title": "News Archives - Celtic Fanzine",
       "feedUrl": "https://celticfanzine.com/category/news/feed/",
       "siteUrl": "https://celticfanzine.com/category/news/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://celticfanzine.com/?p=59117",
+          "author": "celtic",
+          "description": "Celtic return to action on Saturday after the international break and let’s hope they pick up where they left off. Brendan Rodger’s team have impressed since pre-season and dispatched the rangers just before the break in style. 3-0 and it should have been more the fall out from the defeat has really hurt the fans […]\nThe post Celtic Return to Action appeared first on Celtic Fanzine.",
+          "link": "https://celticfanzine.com/celtic-return-to-action/",
+          "publishedOn": "2024-09-13T12:56:30.000Z",
+          "wordCount": 2157,
+          "title": "Celtic Return to Action",
+          "imageUrl": "https://celticfanzine.com/wp-content/uploads/celtic-v-hearts-web-.png"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
