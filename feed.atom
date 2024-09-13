@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-09-13T04:14:57.569Z</updated>
+    <updated>2024-09-13T06:18:21.608Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[THE JOCK STEIN YEARS: Part Three]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=55150</id>
+        <link href="https://www.celticquicknews.co.uk/the-jock-stein-years-part-three/"/>
+        <updated>2024-09-13T05:00:43.000Z</updated>
+        <summary type="html"><![CDATA[CELTIC legend Jock Stein made an extraordinary immediate impact on the Parkhead club when he returned as manager in March 1965. In another CQN EXCLUSIVE series, author Alex Gordon, who has written fifteen books on Celtic, has opened his publication files on the Parkhead great. Today, in Part Three of our fascinating look back at [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Niall McGinn opens up on whirlwind move to boyhood club Celtic that gave him 'shivers']]></title>
         <id>https://www.67hailhail.com/?p=208808</id>
@@ -912,36 +922,6 @@
         <link href="https://www.67hailhail.com/news/stuart-armstrong-tells-his-new-mls-club-what-it-was-like-to-play-for-very-tough-celtic/"/>
         <updated>2024-09-08T18:27:16.000Z</updated>
         <summary type="html"><![CDATA["Celtic is a very tough place to be, especially when things aren’t going well."]]></summary>
-        <author>
-            <name>John McGinley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stellar Kasper Schmeichel trend continues with Denmark on Sunday night ahead of Celtic return]]></title>
-        <id>https://www.67hailhail.com/?p=208446</id>
-        <link href="https://www.67hailhail.com/news/stellar-kasper-schmeichel-trend-continues-with-denmark-on-sunday-night-ahead-of-celtic-return/"/>
-        <updated>2024-09-08T17:52:00.000Z</updated>
-        <summary type="html"><![CDATA[Schmeichel is almost unbeatable right now.]]></summary>
-        <author>
-            <name>John McGinley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chris Sutton delivers verdict on Celtic's Champions League chances as Aston Villa and company await]]></title>
-        <id>https://www.67hailhail.com/?p=208441</id>
-        <link href="https://www.67hailhail.com/news/chris-sutton-delivers-verdict-on-celtics-champions-league-chances-as-aston-villa-and-company-await/"/>
-        <updated>2024-09-08T17:15:10.000Z</updated>
-        <summary type="html"><![CDATA["They are in much better shape to cope."]]></summary>
-        <author>
-            <name>John McGinley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The latest on Alistair Johnston hamstring problem as initial Celtic fears eased]]></title>
-        <id>https://www.67hailhail.com/?p=208432</id>
-        <link href="https://www.67hailhail.com/news/the-latest-on-alistair-johnston-hamstring-issue-as-initial-celtic-fears-eased/"/>
-        <updated>2024-09-08T16:15:43.000Z</updated>
-        <summary type="html"><![CDATA[Thankfully there doesn't appear to be a significant injury.]]></summary>
         <author>
             <name>John McGinley</name>
         </author>
