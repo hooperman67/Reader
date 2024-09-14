@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-09-14T12:22:13.851Z</updated>
+    <updated>2024-09-14T14:10:23.472Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celtic v Hearts, Live updates]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=123694</id>
+        <link href="https://www.celticquicknews.co.uk/celtic-v-hearts-live-updates-23/"/>
+        <updated>2024-09-14T13:00:23.000Z</updated>
+        <summary type="html"><![CDATA[Live updates will appear below after 15:00.]]></summary>
+        <author>
+            <name>Paul67</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CONFIRMED: £11m ENGELS STARTS]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=123641</id>
+        <link href="https://www.celticquicknews.co.uk/confirmed-11m-engels-starts/"/>
+        <updated>2024-09-14T12:52:16.000Z</updated>
+        <summary type="html"><![CDATA[BRENDAN RODGERS has brought in £11million record signing Arne Engels for his first start in this afternoon’s Premiership encounter against Hearts at Parkhead. Paulo Bernardo drops to the substututes’ bench to make way for the Belgian international midfielder who replaced the Portuguese playmaker in the 62nd minute of the champions’ 3-0 derby romp almost a [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Brendan Rodgers 'so happy' with the side of Celtic that 'doesn’t get noticed so much' by fans]]></title>
         <id>https://www.67hailhail.com/?p=208976</id>
