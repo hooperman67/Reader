@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=123675",
+          "author": "CQN Magazine",
+          "description": "IF BRENDAN RODGERS rewards selfless effort and professional endeavour, then Celtic will have over £30million worth of talent sitting on the substitutes’ bench against Hearts at Parkhead this afternoon. Surely the best Arne Engels, Adam Idah, Auston Trusty, Luke McCowan and Luis Palma – precisely £31million in reported transfer fees in just over a year [...]",
+          "link": "https://www.celticquicknews.co.uk/alexs-angle-embarrassment-of-riches-over-to-you-brendan/",
+          "publishedOn": "2024-09-14T07:59:22.000Z",
+          "wordCount": 4271,
+          "title": "ALEX’S ANGLE: EMBARRASSMENT OF RICHES: OVER TO YOU, BRENDAN",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/03/ALEX-GORDON-FACEBOOK-CELTIC-TUNNEL.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=123640",
           "author": "CQN Magazine",
           "description": "CELTIC won two and lost two of their four Premiership games against Hearts last season. Brendan Rodgers’ side rode football’s big dipper before they arrived at their destination – and the Hoops’ third successive title – with a 5-0 win over Kilmarnock at Rugby Park on May 15. However, before that achievement, there were some ups [...]",
@@ -501,6 +511,36 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=208935",
+          "author": "John McGinley",
+          "description": "Celtic prospect Johnny Kenny is back in the Shamrock Rovers team and back on the goal trail after recent injury issues. The 21-year-old made his...",
+          "link": "https://www.67hailhail.com/celtic-youth/watch-young-celtic-talent-score-friday-night-double-out-on-loan-after-injury-issues/",
+          "publishedOn": "2024-09-14T07:55:46.000Z",
+          "wordCount": 1565,
+          "title": "Watch young Celtic talent score Friday night double out on loan after injury issues",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2170967724-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=208929",
+          "author": "John McGinley",
+          "description": "Celtic are understandably red-hot favourites to beat Hearts on Saturday but manager Brendan Rodgers knows that his team will have to fight hard for the...",
+          "link": "https://www.67hailhail.com/match/celtic-predicted-xi-vs-hearts-as-brendan-rodgers-makes-two-changes-first-start-for-new-signing/",
+          "publishedOn": "2024-09-14T07:16:55.000Z",
+          "wordCount": 1520,
+          "title": "Celtic Predicted XI vs Hearts as Brendan Rodgers makes two changes, first start for new signing",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2153509577-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=208926",
+          "author": "John McGinley",
+          "description": "Celtic are back in action after the September international break with the visit of Hearts in the Scottish Premiership on Saturday. The Bhoys have had...",
+          "link": "https://www.67hailhail.com/news/chris-sutton-issues-highly-dangerous-hearts-warning-to-celtic-despite-recent-events/",
+          "publishedOn": "2024-09-14T06:45:53.000Z",
+          "wordCount": 1522,
+          "title": "Chris Sutton issues 'highly-dangerous' Hearts warning to Celtic despite recent events",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-2165623412-scaled-e1723898157146.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=208921",
           "author": "John McGinley",
@@ -1280,26 +1320,6 @@
           "wordCount": 1584,
           "title": "'We're happy': Sporting director is delighted to have signed 'two highly talented' players from Celtic",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-1351335039-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=208526",
-          "author": "Sean Markus Clifford",
-          "description": "Reo Hatate and Daizen Maeda form Celtic’s Japanese contingent included in Hajime Moriyasu’s squad for their double-header against China and Bahrain in World Cup qualifying....",
-          "link": "https://www.67hailhail.com/news/how-celtic-star-reo-hatate-felt-after-being-omitted-from-japans-squad-against-china/",
-          "publishedOn": "2024-09-09T19:10:00.000Z",
-          "wordCount": 1562,
-          "title": "How Celtic star Reo Hatate felt after being omitted from Japan's squad against China",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-2168367185-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=208521",
-          "author": "Patrick Sinat",
-          "description": "The Celtic first team has been all that’s on Brendan Rodgers’ mind this summer as he looked to strengthen his team for the season ahead....",
-          "link": "https://www.67hailhail.com/news/the-eight-celtic-youngsters-brendan-rodgers-must-make-a-decision-on-this-season/",
-          "publishedOn": "2024-09-09T18:40:00.000Z",
-          "wordCount": 1558,
-          "title": "The eight Celtic youngsters Brendan Rodgers must make a decision on this season",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/05/LennoxtownTraining1.jpg"
         }
       ]
     },
