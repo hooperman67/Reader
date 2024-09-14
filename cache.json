@@ -6,6 +6,26 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=123640",
+          "author": "CQN Magazine",
+          "description": "CELTIC won two and lost two of their four Premiership games against Hearts last season. Brendan Rodgers’ side rode football’s big dipper before they arrived at their destination – and the Hoops’ third successive title – with a 5-0 win over Kilmarnock at Rugby Park on May 15. However, before that achievement, there were some ups [...]",
+          "link": "https://www.celticquicknews.co.uk/celtic-v-hearts-5-minute-quiz-4/",
+          "publishedOn": "2024-09-14T05:15:42.000Z",
+          "wordCount": 3805,
+          "title": "CELTIC v HEARTS: 5-MINUTE QUIZ",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/03/KYOGO-FURUHASHI-NETS-V-HEARTS-202324-4-1.png"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/?p=55161",
+          "author": "CQN Magazine",
+          "description": "CELTIC legend Jock Stein made an extraordinary immediate impact on the Parkhead club when he returned as manager in March 1965. In another CQN EXCLUSIVE, author Alex Gordon, who has written fifteen publications on Celtic, has opened his book files on the Parkhead great for an absorbing twenty-one part series. Today, in Part Four of [...]",
+          "link": "https://www.celticquicknews.co.uk/the-jock-stein-years-part-four/",
+          "publishedOn": "2024-09-14T05:00:41.000Z",
+          "wordCount": 4408,
+          "title": "THE JOCK STEIN YEARS: Part Four",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2021/09/BIG-JOCK-BIG-BILLY-FEATURED-.jpg"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=123689",
           "author": "CQN Magazine",
           "description": "BRENDAN RODGERS is hopeful an agreement can be reached soon in the contract talks with left-back Greg Taylor. The Scotland international comes out of terms at the end of the season and will be able to walk away from the champions on a free if a deal cannot be thrashed out. Rodgers is an admitted [...]",
@@ -1280,36 +1300,6 @@
           "wordCount": 1558,
           "title": "The eight Celtic youngsters Brendan Rodgers must make a decision on this season",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2022/05/LennoxtownTraining1.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=208529",
-          "author": "Sean Markus Clifford",
-          "description": "Celtic have come off another transfer window and Brendan Rodgers is relatively pleased with the shape of his squad that will see him through to...",
-          "link": "https://www.67hailhail.com/opinion/three-players-that-celtic-should-consider-with-contracts-set-to-expire-in-2025/",
-          "publishedOn": "2024-09-09T18:10:00.000Z",
-          "wordCount": 1777,
-          "title": "Three players that Celtic could consider with contracts expiring in 2025 - opinion",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2166073655-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=208518",
-          "author": "Patrick Sinat",
-          "description": "The signing of Kasper Schmeichel was one of the most important in Celtic’s transfer window this summer. The retirement of Joe Hart meant that Brendan...",
-          "link": "https://www.67hailhail.com/news/kasper-schmeichel-already-showing-his-value-to-celtic-as-key-metric-is-published-online/",
-          "publishedOn": "2024-09-09T17:40:00.000Z",
-          "wordCount": 1534,
-          "title": "Kasper Schmeichel already showing his value to Celtic as key metric is published online",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-2164858749-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=208537",
-          "author": "Sean Markus Clifford",
-          "description": "Celtic deadline day signing Luke McCowan has opened up on conversations between him and Brendan Rodgers after he completed a move to his boyhood club...",
-          "link": "https://www.67hailhail.com/news/what-brendan-rodgers-told-luke-mccowan-after-he-signed-for-celtic/",
-          "publishedOn": "2024-09-09T17:10:00.000Z",
-          "wordCount": 1611,
-          "title": "What Brendan Rodgers told Luke McCowan after he signed for Celtic",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-1589950240-scaled-e1725034059612.jpg"
         }
       ]
     },
