@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=123804",
+          "author": "CQN Magazine",
+          "description": "CELTIC 5 SLOVAN BRATISLAVA 1   RELENTLESS Celtic delivered a five-goal five-star performance as they won their first-ever opening Champions League encounter at Parkhead this evening. The Hoops made certain there was no stumble at the initial hurdle as they decimated their Slovakian opponents in ruthless fashion. Liam Scales headed in the breakthrough goal in the [...]",
+          "link": "https://www.celticquicknews.co.uk/celtic-5-slovan-bratislava-1-five-star-hoops-euro-romp/",
+          "publishedOn": "2024-09-18T21:11:25.000Z",
+          "wordCount": 4330,
+          "title": "CELTIC 5 SLOVAN BRATISLAVA 1: FIVE-STAR HOOPS’ EURO ROMP",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/08/CELTIC-HUDDLE-V-HIBS-3-1-AUG-2024-FEATURED.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=123778",
           "author": "Paul67",
           "description": "Live updates will appear below after 20:00.",
@@ -541,6 +551,26 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=209786",
+          "author": "John McGinley",
+          "description": "Celtic are celebrating a stunning victory in the Champions League on Wednesday night after thrashing Slovan Bratislava by a 5-1 margin. The desire and belief...",
+          "link": "https://www.67hailhail.com/news/chris-sutton-brilliantly-sums-up-just-how-good-wednesday-night-was-for-celtic-in-champions-league/",
+          "publishedOn": "2024-09-18T21:26:29.000Z",
+          "wordCount": 1530,
+          "title": "Chris Sutton brilliantly sums up just how good Wednesday night was for Celtic in the Champions League",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2172956753-1-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=209734",
+          "author": "John McGinley",
+          "description": "Celtic produce a glittering display to kick off the Champions League in style! 🌠",
+          "link": "https://www.67hailhail.com/match/rodgers-masterclass-celtic-champions-league-first-three-things-we-learned-as-bhoys-thump-slovan-bratislava/",
+          "publishedOn": "2024-09-18T20:57:14.000Z",
+          "wordCount": 1632,
+          "title": "Rodgers masterclass, Celtic Champions League first: Three things we learned as Bhoys thump Slovan Bratislava",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2172051750-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=209546",
           "author": "Patrick Sinat",
@@ -1420,36 +1450,6 @@
           "wordCount": 1596,
           "title": "Brendan Rodgers 'so happy' with the side of Celtic that 'doesn’t get noticed so much' by fans",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2164840782-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=208967",
-          "author": "John McGinley",
-          "description": "Alistair Johnston and Greg Taylor have both been in the Celtic spotlight over the last 24 hours as Brendan Rodgers faced questions about their futures....",
-          "link": "https://www.67hailhail.com/news/brendan-rodgers-hoping-for-double-breakthrough-on-celtic-contract-talks/",
-          "publishedOn": "2024-09-14T09:51:07.000Z",
-          "wordCount": 1518,
-          "title": "Brendan Rodgers hoping for double breakthrough on Celtic negotiations",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2168411754-1-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=208955",
-          "author": "John McGinley",
-          "description": "We’re almost a fortnight removed from Celtic’s 3-0 thumping of Rangers but it’s clear that the result still weighs heavy on the minds of those...",
-          "link": "https://www.67hailhail.com/news/barry-ferguson-still-reeling-from-celtic-lesson-two-weeks-on-burden-felt-in-ibrox-dressing-room/",
-          "publishedOn": "2024-09-14T09:15:21.000Z",
-          "wordCount": 1611,
-          "title": "Barry Ferguson still reeling from Celtic lesson two weeks on, burden felt in Ibrox dressing room",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-487942163-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=208944",
-          "author": "John McGinley",
-          "description": "🗣️ \"Everybody’s right to have that expectation. But we have to be careful we look after him, don’t just throw him in and it becomes a bit chaotic.\"",
-          "link": "https://www.67hailhail.com/news/callum-mcgregor-shares-first-impressions-of-record-celtic-signing-arne-engels-urges-caution/",
-          "publishedOn": "2024-09-14T08:28:10.000Z",
-          "wordCount": 1605,
-          "title": "Callum McGregor shares first impressions of record Celtic signing Arne Engels, urges caution",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2169433380-scaled.jpg"
         }
       ]
     },
