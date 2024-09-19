@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=112136",
+          "author": "CQN Magazine",
+          "description": "FORMER Celtic striker George McCluskey celebrates his 67th birthday today. The gifted frontman scored some crucial goals for the Hoops and one of his most memorable strikes came in Billy McNeill’s side’s 2-1 victory over Ajax, Johan Cruyff et al, in Amsterdam for a famous triumph in front of a near-55,000 partisan crowd on September 29 1982. [...]",
+          "link": "https://www.celticquicknews.co.uk/birthday-bhoy-mccluskeys-dutch-treat/",
+          "publishedOn": "2024-09-19T09:45:58.000Z",
+          "wordCount": 4151,
+          "title": "BIRTHDAY BHOY McCLUSKEY’S DUTCH TREAT",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/09/GEORGE-MCCLUSKEY-FEATURED-GG.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=123831",
           "author": "CQN Magazine",
           "description": "FILIAM SCALES offered an interesting take on his opening goal in Celtic’s pulverising 5-1 Champions League triumph over Slovan Bratislava at Parkhead last night. The no-nonsense defender didn’t waste any time on today’s jargon when he summed up the moment he diverted in Arne Engels’ left-wing corner-kick delivery to get the ball rolling on another memorable [...]",
@@ -538,7 +548,18 @@
       "title": "eTims",
       "feedUrl": "http://etims.net/?feed=rss2",
       "siteUrl": "https://etims.net",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://etims.net/?p=18791",
+          "author": "Desi Mond",
+          "description": "Celtic 5: 1 Slovan Bratislava The new format Champions League started with the old format Champions League tune playing loudly at Celtic Park. The tune…",
+          "link": "https://etims.net/?p=18791",
+          "publishedOn": "2024-09-19T08:52:20.000Z",
+          "wordCount": 3638,
+          "title": "5 Go Mad in Parkers",
+          "imageUrl": "https://etims.net/wp-content/uploads/2024/09/a864d0d0-7608-11ef-9afe-939346573beb-1024x576.jpg"
+        }
+      ]
     },
     {
       "title": "The Celtic Underground",
@@ -551,6 +572,56 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=209923",
+          "author": "Patrick Sinat",
+          "description": "Celtic’s rousing victory over Slovan Bratislava in the Champions League was a superb team performance. Brendan Rodgers will be hard-pressed to find any fault in...",
+          "link": "https://www.67hailhail.com/news/neil-lennon-says-one-aggressive-celtic-player-has-really-impressed-him-recently-after-win-over-slovan-bratislava/",
+          "publishedOn": "2024-09-19T10:10:00.000Z",
+          "wordCount": 1507,
+          "title": "'I've been so impressed': Neil Lennon says one aggressive Celtic player has amazed him recently",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2154595389-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=209574",
+          "author": "Gary Kirkpatrick",
+          "description": "Eye-watering sums are on offer 🤑",
+          "link": "https://www.67hailhail.com/news/celtic-champions-league-2024-25-prize-money/",
+          "publishedOn": "2024-09-19T09:40:00.000Z",
+          "wordCount": 2056,
+          "title": "How much could Celtic actually make from 2024/25 Champions League prize money?",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2155020813-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=209965",
+          "author": "John McGinley",
+          "description": "Celtic’s upcoming Champions League opponents Dinamo Zagreb have sacked their manager Sergej Jakirovic according to reports in Croatia. Before the Bhoys surged to a 5-1...",
+          "link": "https://www.67hailhail.com/news/upcoming-celtic-champions-league-opponents-reportedly-sack-manager-after-humiliation/",
+          "publishedOn": "2024-09-19T09:27:09.000Z",
+          "wordCount": 1411,
+          "title": "Future Celtic Champions League opponents reportedly sack manager after humiliation",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2172721590-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=209929",
+          "author": "John McGinley",
+          "description": "🤖 Opta ran 50,000 simulations to determine probability of progression in various scenarios.",
+          "link": "https://www.67hailhail.com/news/how-many-champions-league-points-celtic-need-to-qualify-for-knockouts/",
+          "publishedOn": "2024-09-19T09:10:00.000Z",
+          "wordCount": 1476,
+          "title": "How many Champions League points Celtic need to qualify for knockouts",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2172057891-1-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=209918",
+          "author": "Patrick Sinat",
+          "description": "⭐Everyone is talking about Arne Engels - what a first impression!",
+          "link": "https://www.67hailhail.com/news/what-fans-are-saying-about-arne-engels-after-celtics-hammering-of-slovan-bratislava/",
+          "publishedOn": "2024-09-19T08:40:00.000Z",
+          "wordCount": 1685,
+          "title": "What fans are saying about Arne Engels after Celtic’s hammering of Slovan Bratislava",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2172051962-2-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=209913",
           "author": "John McGinley",
@@ -1440,16 +1511,6 @@
           "wordCount": 1685,
           "title": "Brendan Rodgers responds to Steven Naismith Celtic Park penalty rant with spot on assessment",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2171984535-scaled-e1726380747453.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=209038",
-          "author": "John McGinley",
-          "description": "Now that Celtic have taken care of Hearts all attention turns to the Bhoys’ match against Slovan Bratislava in the Champions League on Wednesday night....",
-          "link": "https://www.67hailhail.com/news/slovan-bratislava-pick-up-dramatic-saturday-win-ahead-of-celtic-park-visit-but-manager-is-absent-again/",
-          "publishedOn": "2024-09-14T20:40:44.000Z",
-          "wordCount": 1555,
-          "title": "Slovan Bratislava pick up dramatic Saturday win ahead of Celtic Park visit but manager is absent again",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2167044174-scaled.jpg"
         }
       ]
     },
