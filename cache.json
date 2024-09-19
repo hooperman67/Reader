@@ -264,16 +264,6 @@
           "wordCount": 5755,
           "title": "THE JOCK STEIN YEARS: Part Six",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2021/05/JOCK-STEIN-LISBON-FEATURED-.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=123741",
-          "author": "CQN Magazine",
-          "description": "CELTIC’S £11million recruit Arne Engels celebrated his first start for the champions by nervelessly stroking in a high-pressure penalty-kick in the 2-0 win over Hearts. The Belgian international midfielder got the nod ahead of Paulo Bernardo to be in at the kick-off at Parkhead as Brendan Rodgers’ men sought a fifth successive Premiership victory. Engels [...]",
-          "link": "https://www.celticquicknews.co.uk/arnes-magical-day/",
-          "publishedOn": "2024-09-15T09:36:02.000Z",
-          "wordCount": 3866,
-          "title": "ARNE’S ‘MAGICAL DAY’",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/09/ARNE-ENGELS-INSTA-FEATURED.png"
         }
       ]
     },
@@ -529,6 +519,21 @@
       "feedUrl": "http://etims.net/?feed=rss2",
       "siteUrl": "https://etims.net",
       "articles": [
+        {
+          "id": "https://etims.net/?p=18795",
+          "author": "Desi Mond",
+          "description": "Etims get together to discuss all things Celtic. They discuss the  5 wins & 5 Clean Sheets perfect start.in the SPFL. They almost praise the…",
+          "link": "https://etims.net/?p=18795",
+          "publishedOn": "2024-09-19T20:34:19.000Z",
+          "wordCount": 2586,
+          "title": "5 Stars all Round – Etims Podcast",
+          "enclosure": {
+            "url": "https://api.spreaker.com/v2/episodes/62034472/download.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://etims.net/wp-content/uploads/2024/09/celtbrat-1024x570.png"
+        },
         {
           "id": "https://etims.net/?p=18791",
           "author": "Desi Mond",
@@ -1551,46 +1556,6 @@
           "wordCount": 1607,
           "title": "Celtic boss Brendan Rodgers shows his class as Steven Naismith talks 'valuable' private discussion",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2171988393-2-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=209091",
-          "author": "John McGinley",
-          "description": "It has been a satisfying weekend for Celtic supporters after watching the Bhoys pick up another Scottish Premiership victory. Arne Engels and Luke McCowan were...",
-          "link": "https://www.67hailhail.com/news/arne-engels-kasper-schmeichel-and-adam-idah-send-saturday-night-messages-to-celtic-fans/",
-          "publishedOn": "2024-09-15T10:10:36.000Z",
-          "wordCount": 1480,
-          "title": "Arne Engels, Kasper Schmeichel and Adam Idah send Saturday night messages to Celtic fans",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2172005959-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=209086",
-          "author": "Patrick Sinat",
-          "description": "As Jota prepares to make his debut for Stade Rennais this afternoon, the former Celtic winger was asked about what he expects from this new...",
-          "link": "https://www.67hailhail.com/news/jota-references-celtic-spell-to-as-he-explains-why-he-made-summer-transfer-move-to-france/",
-          "publishedOn": "2024-09-15T09:40:00.000Z",
-          "wordCount": 1715,
-          "title": "Jota references Celtic spell as he explains why he made summer transfer move to France",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/04/GettyImages-1420451806-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=209080",
-          "author": "Patrick Sinat",
-          "description": "Many Celtic fans know exactly what the media pundits down south think about the Scottish game. It’s no secret that they don’t rate the quality...",
-          "link": "https://www.67hailhail.com/news/marvin-bartley-puts-english-pundit-right-on-ange-postecoglou-with-celtic-vs-rangers-point/",
-          "publishedOn": "2024-09-15T08:40:00.000Z",
-          "wordCount": 1976,
-          "title": "Marvin Bartley puts English pundit right on Ange Postecoglou with Celtic vs Rangers point",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/04/GettyImages-1252426246-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=209078",
-          "author": "John McGinley",
-          "description": "Arne Engels will be one of the happiest people in Glasgow this weekend after fully introducing himself to the Celtic support against Hearts on Saturday....",
-          "link": "https://www.67hailhail.com/news/what-celtic-fans-are-saying-about-arne-engels-after-watching-first-start-since-big-money-move/",
-          "publishedOn": "2024-09-15T08:15:38.000Z",
-          "wordCount": 1730,
-          "title": "What Celtic fans are saying about Arne Engels after watching first start since big money move",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2171981872-scaled.jpg"
         }
       ]
     },
