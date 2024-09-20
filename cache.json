@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=123872",
+          "author": "CQN Magazine",
+          "description": "NEW Bhoy Auston Trusty is standing by for his first Celtic start when the Hoops take on Falkirk in the Premier Sports League Cup quarter-final at Parkhead on Sunday afternoon. The towering central defender, a £6million deadline-day recruit from Sheffield United, is poised to take over from his USA international team-mate Cameron Carter-Vickers against the Championship [...]",
+          "link": "https://www.celticquicknews.co.uk/trusty-poised-for-cup-start/",
+          "publishedOn": "2024-09-20T14:54:18.000Z",
+          "wordCount": 4121,
+          "title": "TRUSTY POISED FOR CUP START",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/08/AUSTON-TRUSTY-CP-FEATURED.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=123863",
           "author": "CQN Magazine",
           "description": "RODGER BAILLIE somehow managed to pull off the well-nigh impossible accomplishment of being liked by everyone in the often brutal, treacherous world of sports reporting in newspapers. Editorial floors were once likened to “a bear pit” by my former Daily Record ally Anna Smith, the journal’s intrepid chief news reporter at the time and now [...]",
@@ -637,6 +647,46 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=210295",
+          "author": "John McGinley",
+          "description": "It’s not often we see the away end at Celtic Park packed out these days but Falkirk will be bringing a large support with them...",
+          "link": "https://www.67hailhail.com/news/big-away-crowd-at-celtic-park-on-sunday-as-falkirk-confirm-numbers/",
+          "publishedOn": "2024-09-20T16:10:00.000Z",
+          "wordCount": 1634,
+          "title": "Big away crowd at Celtic Park on Sunday as Falkirk confirm numbers",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-1486254017-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=210289",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic winger Nicolas Kuhn is turning into quite the signing after joining the Bhoys from Rapid Vienna back in January. Arriving for £3.5 million, the...",
+          "link": "https://www.67hailhail.com/news/nicolas-kuhns-grateful-celtic-message-as-he-continues-to-thrive-after-early-setback/",
+          "publishedOn": "2024-09-20T15:40:00.000Z",
+          "wordCount": 1488,
+          "title": "Nicolas Kuhn's grateful Celtic message as he continues to thrive after early setback",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2172043893-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=210268",
+          "author": "Sean Markus Clifford",
+          "description": "Who do you think should make the cut? 🤔",
+          "link": "https://www.67hailhail.com/opinion/five-of-the-best-bargain-celtic-transfers-since-2016/",
+          "publishedOn": "2024-09-20T15:00:00.000Z",
+          "wordCount": 2131,
+          "title": "Five of the best bargain Celtic transfers since 2016",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2164822275-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=210282",
+          "author": "John McGinley",
+          "description": "🗣️ \"I think it was the craziest thing I have ever experienced.\"",
+          "link": "https://www.67hailhail.com/news/the-craziest-thing-i-have-ever-experienced-nicolas-kuhn-left-in-awe-of-celtic-fans/",
+          "publishedOn": "2024-09-20T14:34:50.000Z",
+          "wordCount": 1515,
+          "title": "'The craziest thing I have ever experienced' - Nicolas Kuhn left in awe of Celtic fans",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2172924527-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=210271",
           "author": "John McGinley",
