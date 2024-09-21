@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-09-21T10:12:10.167Z</updated>
+    <updated>2024-09-21T12:22:03.009Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Premier Sports announce broadcast bonus for Celtic fans ahead of Falkirk cup clash]]></title>
+        <id>https://www.67hailhail.com/?p=210333</id>
+        <link href="https://www.67hailhail.com/celtic-fc-women/premier-sports-announce-broadcast-bonus-for-celtic-fans-ahead-of-falkirk-cup-clash/"/>
+        <updated>2024-09-21T12:08:10.000Z</updated>
+        <summary type="html"><![CDATA[Celtic fans will be treated to a TV double-header on Sunday after Premier Sports announced a full afternoon of Hoops action. Brendan Rodgers’ side face...]]></summary>
+        <author>
+            <name>John McGinley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic climb up Opta's global team rankings after Champions League demolition, above EPL sides]]></title>
+        <id>https://www.67hailhail.com/?p=210323</id>
+        <link href="https://www.67hailhail.com/news/celtic-climb-up-optas-global-team-rankings-after-champions-league-demolition-above-epl-sides/"/>
+        <updated>2024-09-21T10:51:51.000Z</updated>
+        <summary type="html"><![CDATA[📈 Celtic are trending upwards under Brendan Rodgers.]]></summary>
+        <author>
+            <name>John McGinley</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tony Watt shares what he's hearing from Celtic players about Luke McCowan's ability]]></title>
         <id>https://www.67hailhail.com/?p=210317</id>
