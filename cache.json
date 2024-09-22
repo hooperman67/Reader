@@ -6,6 +6,26 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=123907",
+          "author": "CQN Magazine",
+          "description": "CELTIC go into their second Premier Sports League Cup-tie of the season when they take on Falkirk in the quarter-final at Parkhead this afternoon. Brendan Rodgers’ side overcame Hibs 3-1 in the previous round with a double from Daizen Maeda and another from Nicolas Kuhn. How much can you remember about past associations with Falkirk? Have [...]",
+          "link": "https://www.celticquicknews.co.uk/celtic-v-falkirk-5-minute-quiz/",
+          "publishedOn": "2024-09-22T06:08:26.000Z",
+          "wordCount": 3777,
+          "title": "CELTIC v FALKIRK: 5-MINUTE QUIZ",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/09/KASPER-SCHMEICHEL-FALKIRK-V-CELTIC-2007.png"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/?p=82806",
+          "author": "CQN Magazine",
+          "description": "CELTIC legend Jock Stein made an extraordinary immediate impact on the Parkhead club when he returned as manager in March 1965. In another CQN EXCLUSIVE,  Alex Gordon, author of fifteen publications on Celtic, has opened his book files on the Parkhead great for an absorbing twenty-one part series. Today, in Part Twelve of our fascinating look back [...]",
+          "link": "https://www.celticquicknews.co.uk/the-jock-stein-years-part-twelve/",
+          "publishedOn": "2024-09-22T05:00:20.000Z",
+          "wordCount": 6111,
+          "title": "THE JOCK STEIN YEARS: Part Twelve",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2021/09/JOCK-STEIN-V-FEYENOORD-FEATURED.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=123884",
           "author": "CQN Magazine",
           "description": "THE extraordinary emergence of Arne Engels has eclipsed the disappointment of the Celtic fans over the removal of favourite Matt O’Riley. Former Hoops striking great Chris Sutton reckons no-one at a rocking Parkhead during the 5-1 Champions League thrashing of Slovan Bratislava gave a thought to the classy playmaker who left for a record near-£30million to [...]",
@@ -1336,46 +1356,6 @@
           "wordCount": 1631,
           "title": "'Real opportunity': Chris Sutton thinks Celtic have been handed an 'enormous' Champions League advantage",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-2169072844-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=209371",
-          "author": "Amir Mir",
-          "description": "Brendan Rodgers and his Celtic team will embark on another Champions League journey on Wednesday. Celtic have made a 100% start to the new season...",
-          "link": "https://www.67hailhail.com/match/peter-grant-admits-one-concern-after-celtic-handed-supposed-favourable-champions-league-draw/",
-          "publishedOn": "2024-09-17T18:10:00.000Z",
-          "wordCount": 1782,
-          "title": "Peter Grant admits one ‘concern’ after Celtic handed 'perfect' Champions League draw",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2168264013-1-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=209315",
-          "author": "Patrick Sinat",
-          "description": "Celtic fans always regard their club as one of the biggest and best supported in the world. Playing football in Scotland doesn’t exactly give Celtic...",
-          "link": "https://www.67hailhail.com/news/where-uefa-ranks-celtic-compared-to-liverpool-in-new-report-as-one-of-the-best-supported-teams-in-europe/",
-          "publishedOn": "2024-09-17T17:40:00.000Z",
-          "wordCount": 1491,
-          "title": "Where UEFA ranks Celtic compared to Liverpool and Man City in new report on best-supported teams in Europe",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/06/GettyImages-1252677708-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=209338",
-          "author": "Sean Markus Clifford",
-          "description": "Tomoki Iwata left Celtic during the summer despite being a likeable presence in the engine room during his 18 months at the club. The Japan...",
-          "link": "https://www.67hailhail.com/news/celtic-players-respond-brilliantly-after-tomoki-iwata-post-celebrates-first-goal-for-new-club/",
-          "publishedOn": "2024-09-17T17:10:00.000Z",
-          "wordCount": 1496,
-          "title": "Celtic players respond brilliantly after Tomoki Iwata post celebrates first goal for new club",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2145603446-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=209323",
-          "author": "Patrick Sinat",
-          "description": "As Jota looks to kickstart his career in France with Stade Rennais, former Celtic defender, Christopher Jullien has shared how people at Celtic felt about...",
-          "link": "https://www.67hailhail.com/news/christopher-jullien-now-reveals-how-everybody-at-celtic-felt-about-jota-before-he-left/",
-          "publishedOn": "2024-09-17T16:40:00.000Z",
-          "wordCount": 1536,
-          "title": "'No one': Christopher Jullien now reveals how everybody at Celtic felt about Jota before he left",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/04/GettyImages-1486566102-scaled.jpg"
         }
       ]
     },
