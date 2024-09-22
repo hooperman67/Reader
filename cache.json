@@ -6,6 +6,36 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=123928",
+          "author": "CQN Magazine",
+          "description": "STEVEN NAISMITH has been sacked as Hearts manager after a horrendous sequence of defeats. The former Tynecastle striker was only in the job 132 days after originally taking over from Robbie Neilson who had also been dismissed by the Edinburgh club. Naismith becomes the second Premiership gaffer to axed in the space of a week [...]",
+          "link": "https://www.celticquicknews.co.uk/prem-boss-no-2-axed/",
+          "publishedOn": "2024-09-22T13:58:47.000Z",
+          "wordCount": 3839,
+          "title": "PREM BOSS No.2 AXED",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/09/Screenshot-2024-09-22-at-15.03.48.png"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/?p=123923",
+          "author": "Paul67",
+          "description": "Live updates will appear below after 3.00.",
+          "link": "https://www.celticquicknews.co.uk/celtic-v-falkirk-live-updates/",
+          "publishedOn": "2024-09-22T13:00:34.000Z",
+          "wordCount": 4390,
+          "title": "Celtic v Falkirk, Live updates",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/?p=123911",
+          "author": "CQN Magazine",
+          "description": "BRENDAN RODGERS has named a much-changed Celtic team to face Falkirk in the Premier Sports League Cup quarter-final at Parkhead this afternoon. USA international centre-back Auston Trusty makes his first start while on-loan Barcelona defender Alex Valle will have a debut appearance at left-back. Stephen Welsh also returns to first-team action while Luis Palma takes over [...]",
+          "link": "https://www.celticquicknews.co.uk/confirmed-rodgers-rings-the-changes/",
+          "publishedOn": "2024-09-22T12:50:11.000Z",
+          "wordCount": 3982,
+          "title": "CONFIRMED: RODGERS RINGS THE CHANGES",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/08/CELTIC-PARK-GOAL-HH-1.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=123914",
           "author": "CQN Magazine",
           "description": "JAMES FORREST is hoping Brendan Rodgers will deal him in for his SIXTEENTH year at Celtic. The evergreen winger, 33, is due to come out of contract at the end of the season, but he is determined to prolong his stay at Parkhead. Forrest is a veteran of over 500 games for the Hoops, has collected over 100 [...]",
@@ -617,6 +647,16 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=210544",
+          "author": "John McGinley",
+          "description": "⚽ A crucial advantage heading into Thursday's second leg.",
+          "link": "https://www.67hailhail.com/celtic-fc-women/more-european-joy-for-celtic-with-superb-sunday-uwcl-result/",
+          "publishedOn": "2024-09-22T12:55:21.000Z",
+          "wordCount": 1564,
+          "title": "More European joy for Celtic with superb Sunday UWCL result",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2173694025-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=210498",
           "author": "Amir Mir",
