@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=123969",
+          "author": "CQN Magazine",
+          "description": "CELTIC looked as though they had stepped onto the League Cup banana skin for the second successive season as they toiled against Falkirk. Last time out, in only Brendan Rodgers’ third game as manager since his summer comeback, they toppled out of the tournament as they crashed 1-0 at the first hurdle to Kilmarnock at [...]",
+          "link": "https://www.celticquicknews.co.uk/watch-again-five-alive-celtic/",
+          "publishedOn": "2024-09-23T08:20:11.000Z",
+          "wordCount": 3787,
+          "title": "WATCH AGAIN: FIVE ALIVE CELTIC",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/09/NICOLAS-KUHN-CELES-NO.5-V-FALKIRK.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=123966",
           "author": "CQN Magazine",
           "description": "ADAM IDAH had to wait until his fifth game to claim his first Celtic goal following his £9.5million permanent move from Norwich City last month. The Republic of Ireland international striker doubled that tally with two in TEN SECONDS in the 5-2 comeback Premier Sports League Cup quarter-final triumph over stubborn Championship outfit Falkirk at [...]",
@@ -304,16 +314,6 @@
           "wordCount": 4584,
           "title": "THE JOCK STEIN YEARS: Part Nine",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2022/09/Screenshot-2022-09-19-at-09.07.35.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=123804",
-          "author": "CQN Magazine",
-          "description": "CELTIC 5 SLOVAN BRATISLAVA 1   RELENTLESS Celtic delivered a five-goal five-star performance as they won their first-ever opening Champions League encounter at Parkhead this evening. The Hoops made certain there was no stumble at the initial hurdle as they decimated their Slovakian opponents in ruthless fashion. Liam Scales headed in the breakthrough goal in the [...]",
-          "link": "https://www.celticquicknews.co.uk/celtic-5-slovan-bratislava-1-five-star-hoops-euro-romp/",
-          "publishedOn": "2024-09-18T21:11:25.000Z",
-          "wordCount": 4330,
-          "title": "CELTIC 5 SLOVAN BRATISLAVA 1: FIVE-STAR HOOPS’ EURO ROMP",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/08/CELTIC-HUDDLE-V-HIBS-3-1-AUG-2024-FEATURED.png"
         }
       ]
     },
@@ -570,6 +570,16 @@
       "siteUrl": "https://etims.net",
       "articles": [
         {
+          "id": "https://etims.net/?p=18798",
+          "author": "Desi Mond",
+          "description": "“Nothing is so painful to the human mind as a great and sudden change.” Mary Wollstonecraft Shelley,Frankenstein    Celtic 5: 2 Falkirk On last weeks…",
+          "link": "https://etims.net/?p=18798",
+          "publishedOn": "2024-09-23T10:04:16.000Z",
+          "wordCount": 3859,
+          "title": "Everybody’s Changing : Etims Match Report",
+          "imageUrl": "https://etims.net/wp-content/uploads/2024/09/Screenshot-2024-09-23-105524.png"
+        },
+        {
           "id": "https://etims.net/?p=18795",
           "author": "Desi Mond",
           "description": "Etims get together to discuss all things Celtic. They discuss the  5 wins & 5 Clean Sheets perfect start.in the SPFL. They almost praise the…",
@@ -607,6 +617,36 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=210737",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic boss Brendan Rodgers gave minutes to some of his fringe stars yesterday as his side retained a rotational feel in their Premier Sports Cup...",
+          "link": "https://www.67hailhail.com/opinion/hyunjun-yangs-added-celtic-incentive-after-encouraging-cameo-display-against-falkirk/",
+          "publishedOn": "2024-09-23T10:10:00.000Z",
+          "wordCount": 1682,
+          "title": "Hyunjun Yang's added Celtic incentive after encouraging cameo display against Falkirk",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/10/GettyImages-1680217627-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=210731",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic are headed to the Premier Sports Cup semi-final after navigating a difficult first 70 minutes against Falkirk to emerge 5-2 winners. Aberdeen await at...",
+          "link": "https://www.67hailhail.com/news/watch-class-scenes-in-celtic-unique-angle-after-cup-progression-secured-vs-falkirk/",
+          "publishedOn": "2024-09-23T09:10:00.000Z",
+          "wordCount": 1513,
+          "title": "Watch class scenes in Celtic unique angle after cup thriller vs Falkirk",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2173725958-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=210725",
+          "author": "Patrick Sinat",
+          "description": "Celtic progressed into the League Cup semi-final yesterday afternoon after a hard-fought win over Championship side Falkirk at Celtic Park. Behind for much of the...",
+          "link": "https://www.67hailhail.com/news/premier-sports-capture-kasper-schmeichels-superb-reaction-to-adam-idahs-quick-fire-celtic-double/",
+          "publishedOn": "2024-09-23T08:40:00.000Z",
+          "wordCount": 1545,
+          "title": "Premier Sports capture Kasper Schmeichel's superb reaction to Adam Idah's quick-fire Celtic double vs Falkirk",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2173725958-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=210722",
           "author": "Sean Markus Clifford",
@@ -1366,26 +1406,6 @@
           "wordCount": 1600,
           "title": "Jamie Carragher and Micah Richards’ brilliant reaction to Liam Scales' goal for Celtic in Champions League",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-1258240679-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=209786",
-          "author": "John McGinley",
-          "description": "Celtic are celebrating a stunning victory in the Champions League on Wednesday night after thrashing Slovan Bratislava by a 5-1 margin. The desire and belief...",
-          "link": "https://www.67hailhail.com/news/chris-sutton-brilliantly-sums-up-just-how-good-wednesday-night-was-for-celtic-in-champions-league/",
-          "publishedOn": "2024-09-18T21:26:29.000Z",
-          "wordCount": 1530,
-          "title": "Chris Sutton brilliantly sums up just how good Wednesday night was for Celtic in the Champions League",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2172956753-1-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=209734",
-          "author": "John McGinley",
-          "description": "Celtic produce a glittering display to kick off the Champions League in style! 🌠",
-          "link": "https://www.67hailhail.com/match/rodgers-masterclass-celtic-champions-league-first-three-things-we-learned-as-bhoys-thump-slovan-bratislava/",
-          "publishedOn": "2024-09-18T20:57:14.000Z",
-          "wordCount": 1632,
-          "title": "Rodgers masterclass, Celtic Champions League first: Three things we learned as Bhoys thump Slovan Bratislava",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2172051750-scaled.jpg"
         }
       ]
     },
