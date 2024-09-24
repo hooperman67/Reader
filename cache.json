@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=123984",
+          "author": "CQN Magazine",
+          "description": "LUIS PALMA completed last season on a high after scoring the winning goal in the victory over St Mirren on the final Premiership outing at Parkhead. The clock was ticking down towards a 2-2 stalemate when the Honduran winger tucked away a low right-wing cross from Anthony Ralston just before the champions were presented with their [...]",
+          "link": "https://www.celticquicknews.co.uk/positive-palma/",
+          "publishedOn": "2024-09-24T07:45:15.000Z",
+          "wordCount": 3798,
+          "title": "POSITIVE PALMA",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/09/LUIS-PALMA-FEATURED-SM-.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=82858",
           "author": "CQN Magazine",
           "description": "CELTIC legend Jock Stein had an extraordinary impact on the Parkhead club after returning as manager in March 1965. In another CQN EXCLUSIVE, Alex Gordon, author of fifteen publications on Celtic, has opened his book files on the Parkhead great for an absorbing twenty-one part series. Today, in Part Fourteen of our fascinating look back [...]",
@@ -577,6 +587,36 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=210822",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic have some interesting examples of former players who turn to management once their career on the field comes to an end. Admittedly, it can...",
+          "link": "https://www.67hailhail.com/news/former-celtic-captain-scott-brown-in-the-running-for-scottish-premiership-vacancy/",
+          "publishedOn": "2024-09-24T08:10:00.000Z",
+          "wordCount": 1485,
+          "title": "Former Celtic captain Scott Brown in the running for Scottish Premiership vacancy",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/06/GettyImages-83573158-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=210819",
+          "author": "Patrick Sinat",
+          "description": "It’s still only September and already the transfer chat surrounding some of Celtic’s players has begun. Indeed, this is not new to the Celtic supporters....",
+          "link": "https://www.67hailhail.com/news/michael-stewart-would-not-be-surprised-if-2023-big-summer-transfer-is-sold-by-celtic-in-january/",
+          "publishedOn": "2024-09-24T07:40:00.000Z",
+          "wordCount": 1602,
+          "title": "'Would not be surprised': Michael Stewart reckons 2023 'big summer transfer' could be sold by Celtic in January",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2163349609-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=210812",
+          "author": "Patrick Sinat",
+          "description": "The chatter around Falkirk and their League Cup defeat at Celtic Park continues after John McGlynn’s side’s battling performance on Sunday afternoon. The Championship club...",
+          "link": "https://www.67hailhail.com/news/falkirk-captain-shares-what-brendan-rodgers-told-his-team-after-league-cup-defeat-at-celtic-park/",
+          "publishedOn": "2024-09-24T06:40:00.000Z",
+          "wordCount": 1603,
+          "title": "'Just said': Falkirk captain shares 'the biggest mark of respect' Brendan Rodgers gave his team after Celtic Park defeat",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2173724654-2-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=210788",
           "author": "Amir Mir",
