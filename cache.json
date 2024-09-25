@@ -254,16 +254,6 @@
           "wordCount": 4283,
           "title": "MATT WHO? ENGELS ‘PERFECT FIT FOR CELTIC’",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/09/ARNE-ENGELS-DAIZEN-MAEDA-CELES-NO.3-SB.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=123877",
-          "author": "CQN Magazine",
-          "description": "NICOLAS KUHN lived the dream in Paradise in the breathtaking 5-1 romp against Slovan Bratislava in midweek. The 24-year-old German winger admitted his ambition of one day playing in the Champions League and he celebrated his achievement with a fine performance topped off with his delivery for the crucial second goal for Kyogo Furuhashi. Now Kuhn [...]",
-          "link": "https://www.celticquicknews.co.uk/still-levels-to-go-warns-kuhn/",
-          "publishedOn": "2024-09-21T08:03:43.000Z",
-          "wordCount": 4065,
-          "title": "‘STILL LEVELS TO GO,’ WARNS KUHN",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/09/NICOLAS-KUHN-HEAD-FEATURED.png"
         }
       ]
     },
@@ -542,6 +532,36 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=211151",
+          "author": "Amir Mir",
+          "description": "'A serious footballer...'",
+          "link": "https://www.67hailhail.com/transfers/stephen-mcginn-amazed-by-bargain-transfer-brendan-rodgers-has-signed-at-celtic/",
+          "publishedOn": "2024-09-25T19:40:00.000Z",
+          "wordCount": 1566,
+          "title": "'He looks like a bargain': Stephen McGinn says Celtic have a ’serious footballer’ on their hands",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/07/GettyImages-2163368151-1-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=211147",
+          "author": "Sean Markus Clifford",
+          "description": "Callum McGregor enjoyed a brilliant relationship with Scott Brown at Celtic and has followed his lead expertly as Hoops captain. Intriguingly, the pair’s worlds could...",
+          "link": "https://www.67hailhail.com/news/celtic-captain-callum-mcgregor-spells-out-why-scott-brown-merits-scottish-premiership-job-chance/",
+          "publishedOn": "2024-09-25T19:10:00.000Z",
+          "wordCount": 1584,
+          "title": "Celtic captain Callum McGregor spells out why Scott Brown merits Scottish Premiership job chance",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/04/GettyImages-1292271557-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=211048",
+          "author": "Patrick Sinat",
+          "description": "Brendan Rodgers is blessed with a number of talented players at Celtic right now. His work in the summer transfer window has added strength and...",
+          "link": "https://www.67hailhail.com/news/john-hartson-says-brendan-rodgers-is-delighted-with-improving-celtic-hero-who-is-a-managers-dream/",
+          "publishedOn": "2024-09-25T18:40:00.000Z",
+          "wordCount": 1551,
+          "title": "'He's a manager's dream': John Hartson lauds Celtic hero who has 'absolutely delighted' Brendan Rodgers",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2172943927-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=211144",
           "author": "Sean Markus Clifford",
