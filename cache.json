@@ -194,16 +194,6 @@
           "wordCount": 4229,
           "title": "EXCLUSIVE: ‘TIME TO APPLAUD BRENDAN,’ DAVIE HAY",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/09/BRENDAN-RODGERS-V-HEARTS-CROWD-2-0.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=123969",
-          "author": "CQN Magazine",
-          "description": "CELTIC looked as though they had stepped onto the League Cup banana skin for the second successive season as they toiled against Falkirk. Last time out, in only Brendan Rodgers’ third game as manager since his summer comeback, they toppled out of the tournament as they crashed 1-0 at the first hurdle to Kilmarnock at [...]",
-          "link": "https://www.celticquicknews.co.uk/watch-again-five-alive-celtic/",
-          "publishedOn": "2024-09-23T08:20:11.000Z",
-          "wordCount": 3787,
-          "title": "WATCH AGAIN: FIVE ALIVE CELTIC",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/09/NICOLAS-KUHN-CELES-NO.5-V-FALKIRK.png"
         }
       ]
     },
@@ -458,18 +448,7 @@
       "title": "eTims",
       "feedUrl": "http://etims.net/?feed=rss2",
       "siteUrl": "https://etims.net",
-      "articles": [
-        {
-          "id": "https://etims.net/?p=18798",
-          "author": "Desi Mond",
-          "description": "“Nothing is so painful to the human mind as a great and sudden change.” Mary Wollstonecraft Shelley,Frankenstein    Celtic 5: 2 Falkirk On last weeks…",
-          "link": "https://etims.net/?p=18798",
-          "publishedOn": "2024-09-23T10:04:16.000Z",
-          "wordCount": 3859,
-          "title": "Everybody’s Changing : Etims Match Report",
-          "imageUrl": "https://etims.net/wp-content/uploads/2024/09/Screenshot-2024-09-23-105524.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "The Celtic Underground",
@@ -482,6 +461,16 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=211438",
+          "author": "John McGinley",
+          "description": "⬆️ Dortmund are back to winning ways ahead of Celtic's visit on Tuesday.",
+          "link": "https://www.67hailhail.com/news/borussia-dortmund-strengths-and-weaknesses-on-full-display-in-friday-night-match-ahead-of-celtic/",
+          "publishedOn": "2024-09-27T20:21:29.000Z",
+          "wordCount": 1590,
+          "title": "Borussia Dortmund strengths and weaknesses on full display in Friday night match ahead of Celtic",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2174008871-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=211422",
           "author": "Gary Kirkpatrick",
@@ -1421,36 +1410,6 @@
           "wordCount": 1512,
           "title": "Marvin Bartley says there's an 'extremely unlucky' player at Celtic who is 'only going to get better'",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2173747821-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=210737",
-          "author": "Sean Markus Clifford",
-          "description": "Celtic boss Brendan Rodgers gave minutes to some of his fringe stars yesterday as his side retained a rotational feel in their Premier Sports Cup...",
-          "link": "https://www.67hailhail.com/opinion/hyunjun-yangs-added-celtic-incentive-after-encouraging-cameo-display-against-falkirk/",
-          "publishedOn": "2024-09-23T10:10:00.000Z",
-          "wordCount": 1682,
-          "title": "Hyunjun Yang's added Celtic incentive after encouraging cameo display against Falkirk",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/10/GettyImages-1680217627-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=210731",
-          "author": "Sean Markus Clifford",
-          "description": "Celtic are headed to the Premier Sports Cup semi-final after navigating a difficult first 70 minutes against Falkirk to emerge 5-2 winners. Aberdeen await at...",
-          "link": "https://www.67hailhail.com/news/watch-class-scenes-in-celtic-unique-angle-after-cup-progression-secured-vs-falkirk/",
-          "publishedOn": "2024-09-23T09:10:00.000Z",
-          "wordCount": 1513,
-          "title": "Watch class scenes in Celtic unique angle after cup thriller vs Falkirk",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2173725958-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=210725",
-          "author": "Patrick Sinat",
-          "description": "Celtic progressed into the League Cup semi-final yesterday afternoon after a hard-fought win over Championship side Falkirk at Celtic Park. Behind for much of the...",
-          "link": "https://www.67hailhail.com/news/premier-sports-capture-kasper-schmeichels-superb-reaction-to-adam-idahs-quick-fire-celtic-double/",
-          "publishedOn": "2024-09-23T08:40:00.000Z",
-          "wordCount": 1545,
-          "title": "Premier Sports capture Kasper Schmeichel's superb reaction to Adam Idah's quick-fire Celtic double vs Falkirk",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2173725958-scaled.jpg"
         }
       ]
     },
