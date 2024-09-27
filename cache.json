@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=83033",
+          "author": "CQN Magazine",
+          "description": "CELTIC legend Jock Stein had an extraordinary impact on the Parkhead club after returning as manager in March 1965. In another CQN EXCLUSIVE,  Alex Gordon, author of fifteen publications on Celtic, has opened his book files on the Parkhead great for an absorbing twenty-one part series. Today, in Part Seventeen of our fascinating look back at these [...]",
+          "link": "https://www.celticquicknews.co.uk/the-jock-stein-years-part-seventeen/",
+          "publishedOn": "2024-09-27T05:00:16.000Z",
+          "wordCount": 4606,
+          "title": "THE JOCK STEIN YEARS: Part Seventeen",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2021/09/JOCK-STEIN-DIXIE-DEANS-FEATURED.jpg"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=124021",
           "author": "Paul67",
           "description": "Celtic loanee Gustaf Lagerbielke made his debut as a late substitute for FC Twente last night.  He helped the Dutch side secure a point at Manchester United, after Sam Lammers equalised with his fourth goal of the season.  Lammers has now scored more goals in two months for Twente than he did during his time [...]",
@@ -194,16 +204,6 @@
           "wordCount": 5627,
           "title": "THE JOCK STEIN YEARS: Part Thirteen",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2021/09/JOCK-STEIN-FEATURED-SCOTS.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=123927",
-          "author": "CQN Magazine",
-          "description": "CELTIC will face Aberdeen in the Premier Sports League Cup semi-final at Hampden in November. The other last-four tie will see Motherwell play Philippe Clement’s Ibrox side as all four teams battle for a place in the showpiece showdown in December. Coincidentally, the champions and the Pittodrie men are unbeaten this season and Brendan Rodgers’ [...]",
-          "link": "https://www.celticquicknews.co.uk/celtic-v-dons-in-cup-semi-clash/",
-          "publishedOn": "2024-09-22T16:16:56.000Z",
-          "wordCount": 3816,
-          "title": "CELTIC v DONS IN CUP SEMI CLASH",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/08/LEAGUE-CUP-24-FEATURED.png"
         }
       ]
     },
@@ -1371,46 +1371,6 @@
           "wordCount": 1595,
           "title": "Brendan Rodgers assesses first Celtic starts for Alex Valle and Auston Trusty",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2173734917-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=210620",
-          "author": "John McGinley",
-          "description": "Celtic’s upcoming Champions League opponents Borussia Dortmund were thrashed 5-1 by Stuttgart in the Bundesliga on Sunday. Goals from Deniz Undav, Ermedin Demirovic and Enzo...",
-          "link": "https://www.67hailhail.com/news/borussia-dortmund-suffer-horror-result-nine-days-out-from-celtic-champions-league-visit/",
-          "publishedOn": "2024-09-22T17:46:20.000Z",
-          "wordCount": 1487,
-          "title": "Borussia Dortmund suffer horror result nine days out from Celtic Champions League visit",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2172969228-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=210562",
-          "author": "Patrick Sinat",
-          "description": "Celtic boss, Brendan Rodgers, has delivered an injury update on Cameron Carter-Vickers and Alistair Johnston after being left out of today’s League Cup match against...",
-          "link": "https://www.67hailhail.com/news/brendan-rodgers-provides-injury-updates-on-cameron-carter-vickers-and-alistair-johnston-after-celtic-absences/",
-          "publishedOn": "2024-09-22T17:00:00.000Z",
-          "wordCount": 1545,
-          "title": "Brendan Rodgers provides injury updates on Cameron Carter-Vickers and Alistair Johnston after Celtic absences",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2173724654-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=210595",
-          "author": "John McGinley",
-          "description": "The manager has had his say on Sunday's 5-2 win.",
-          "link": "https://www.67hailhail.com/news/brendan-rodgers-reacts-to-thrilling-celtic-cup-tie-against-falkirk-takes-blame-for-first-hour/",
-          "publishedOn": "2024-09-22T16:34:50.000Z",
-          "wordCount": 1624,
-          "title": "Brendan Rodgers reacts to thrilling Celtic cup tie against Falkirk, takes blame for first hour",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2173743637-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=210572",
-          "author": "Amir Mir",
-          "description": "Celtic survived a scare after having to come from behind twice to beat Championship side Falkirk in the Scottish League Cup quarter-final on Sunday. The...",
-          "link": "https://www.67hailhail.com/match/charlie-mulgrew-uses-two-words-to-describe-paulo-bernardos-volley-for-celtic-against-falkirk/",
-          "publishedOn": "2024-09-22T16:20:00.000Z",
-          "wordCount": 1596,
-          "title": "'Unbelievable quality': Charlie Mulgrew amazed by Celtic star during 5-2 win",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-1270671426-scaled.jpg"
         }
       ]
     },
