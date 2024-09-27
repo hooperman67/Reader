@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-09-27T16:15:49.991Z</updated>
+    <updated>2024-09-27T18:17:29.237Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[St Johnstone vs Celtic: TV channel, kick-off time, team news, referee & VAR]]></title>
+        <id>https://www.67hailhail.com/?p=211422</id>
+        <link href="https://www.67hailhail.com/match/st-johnstone-vs-celtic-tv-channel-kick-off-time-team-news-referee-var/"/>
+        <updated>2024-09-27T16:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Excitement is building amongst the Celtic fanbase as Borussia Dortmund in the Champions League awaits on Tuesday night. But full focus for the Hoops must...]]></summary>
+        <author>
+            <name>Gary Kirkpatrick</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Brendan Rodgers reacts to Craig Levein sacking ahead of Celtic vs St Johnstone]]></title>
         <id>https://www.67hailhail.com/?p=211435</id>
@@ -1232,26 +1242,6 @@
         <link href="https://www.celticquicknews.co.uk/rodgers-salutes-stand-by-superstars/"/>
         <updated>2024-09-23T06:28:55.000Z</updated>
         <summary type="html"><![CDATA[CELTIC were staring at Premier Sports League Cup oblivion for an hour at Parkhead yesterday. The champions, who had won their previous seven games without ever falling behind, went in 2-1 down to Championship outfit Falkirk as the visitors refused to follow the script. It was the same scoreline until the 61st minute which prompted [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Oh, come on': Chris Sutton responds to claim of Rodgers leaving Celtic to replace under-fire PL boss]]></title>
-        <id>https://www.67hailhail.com/?p=210680</id>
-        <link href="https://www.67hailhail.com/news/chris-sutton-issues-response-amid-claims-of-brendan-rodgers-leaving-celtic-for-west-ham/"/>
-        <updated>2024-09-23T06:10:00.000Z</updated>
-        <summary type="html"><![CDATA[A clear message from the Celtic legend!]]></summary>
-        <author>
-            <name>Amir Mir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE JOCK STEIN YEARS: Part Thirteen]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=82818</id>
-        <link href="https://www.celticquicknews.co.uk/the-jock-stein-years-part-thirteen/"/>
-        <updated>2024-09-23T05:00:46.000Z</updated>
-        <summary type="html"><![CDATA[CELTIC legend Jock Stein made an extraordinary immediate impact on the Parkhead club when he returned as manager in March 1965. In another CQN EXCLUSIVE,  Alex Gordon, author of fifteen publications on Celtic, has opened his book files on the Parkhead great for an absorbing twenty-one part series. Today, in Part Thirteen of our fascinating look back [...]]]></summary>
         <author>
             <name>CQN Magazine</name>
         </author>
