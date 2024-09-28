@@ -512,6 +512,26 @@
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
         {
+          "id": "https://www.67hailhail.com/?p=211509",
+          "author": "John McGinley",
+          "description": "Scott Brown has had a stellar start to his Ayr United career and it was only a matter of time before Scottish Premiership sides came...",
+          "link": "https://www.67hailhail.com/news/the-brendan-rodgers-phonecall-that-steered-celtic-icon-scott-brown-away-from-st-johnstone-job/",
+          "publishedOn": "2024-09-28T13:40:41.000Z",
+          "wordCount": 1567,
+          "title": "The Brendan Rodgers phonecall that steered Celtic icon Scott Brown away from St Johnstone job",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-1124908630-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=211326",
+          "author": "John McGinley",
+          "description": "It’s a good sign for Luke McCowan that Celtic supporters already appreciate his talent even though the midfielder has yet to make a start for...",
+          "link": "https://www.67hailhail.com/news/luke-mccowan-aided-by-unreal-celtic-duo-hes-been-learning-from-after-summer-move/",
+          "publishedOn": "2024-09-28T13:10:02.000Z",
+          "wordCount": 1642,
+          "title": "Summer signing aided by 'unreal' Celtic duo he's been learning from after big move",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2171978943-3-scaled.jpg"
+        },
+        {
           "id": "https://www.67hailhail.com/?p=211498",
           "author": "John McGinley",
           "description": "Celtic FC Women head coach Elena Sadiku has been reflecting on the achievement of her team after they qualified for the group stage of the...",
@@ -1427,7 +1447,18 @@
       "title": "News Archives - Celtic Fanzine",
       "feedUrl": "https://celticfanzine.com/category/news/feed/",
       "siteUrl": "https://celticfanzine.com/category/news/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://celticfanzine.com/?p=59126",
+          "author": "celtic",
+          "description": "Messages started to drop yesterday from Celtic fans heading to Germany for the Champions League clash on Tuesday against Borussia Dortmund. Meet ups have been arranged. My away day journey will start on Monday morning but for fans travelling from Japan, the US and Asia their journey began yesterday. Celtic v the rangers game always […]\nThe post Bread and Butter of the SPFL before dining at the CL table appeared first on Celtic Fanzine.",
+          "link": "https://celticfanzine.com/bread-and-butter-of-the-spfl-before-dining-at-the-cl-table/",
+          "publishedOn": "2024-09-28T12:49:03.000Z",
+          "wordCount": 2371,
+          "title": "Bread and Butter of the SPFL before dining at the CL table",
+          "imageUrl": "https://celticfanzine.com/wp-content/uploads/BLOB-UPDATE-PIC-.png"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
