@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-09-28T14:10:41.490Z</updated>
+    <updated>2024-09-28T16:14:41.328Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[St Johnstone v Celtic, Live updates]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=124042</id>
+        <link href="https://www.celticquicknews.co.uk/st-johnstone-v-celtic-live-updates-24/"/>
+        <updated>2024-09-28T15:45:38.000Z</updated>
+        <summary type="html"><![CDATA[Live updates will appear below after 17:45.]]></summary>
+        <author>
+            <name>Paul67</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CONFIRMED: HATATE OUT, BERNARDO IN]]></title>
+        <id>https://www.celticquicknews.co.uk/?p=124028</id>
+        <link href="https://www.celticquicknews.co.uk/confirmed-hatate-out-bernardo-in/"/>
+        <updated>2024-09-28T15:37:24.000Z</updated>
+        <summary type="html"><![CDATA[BRENDAN RODGERS has dropped Reo Hatate to the stand-by squad for the Premiership encounter with St Johnstone at McDiarmid Park tonight. The Japanese playmaker has toiled to hit consistnt form in recent outings and now makes way for Portuguese ace Paulo Bernardo. Auston Trusty, the £6million arrival from Sheffield united on deadline day, takes over [...]]]></summary>
+        <author>
+            <name>CQN Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Summer arrival shares how former Bhoys defender sold Celtic move to him way back in March]]></title>
+        <id>https://www.67hailhail.com/?p=211515</id>
+        <link href="https://www.67hailhail.com/news/viljami-sinisalo-shares-how-former-bhoys-defender-sold-celtic-move-to-him-way-back-in-march/"/>
+        <updated>2024-09-28T14:44:30.000Z</updated>
+        <summary type="html"><![CDATA[Viljami Sinisalo may not have yet made his competitive debut for Celtic but he’s already loving his experience at the Bhoys since his summer move...]]></summary>
+        <author>
+            <name>John McGinley</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Brendan Rodgers phonecall that steered Celtic icon Scott Brown away from St Johnstone job]]></title>
         <id>https://www.67hailhail.com/?p=211509</id>

@@ -6,6 +6,26 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=124042",
+          "author": "Paul67",
+          "description": "Live updates will appear below after 17:45.",
+          "link": "https://www.celticquicknews.co.uk/st-johnstone-v-celtic-live-updates-24/",
+          "publishedOn": "2024-09-28T15:45:38.000Z",
+          "wordCount": 3877,
+          "title": "St Johnstone v Celtic, Live updates",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/?p=124028",
+          "author": "CQN Magazine",
+          "description": "BRENDAN RODGERS has dropped Reo Hatate to the stand-by squad for the Premiership encounter with St Johnstone at McDiarmid Park tonight. The Japanese playmaker has toiled to hit consistnt form in recent outings and now makes way for Portuguese ace Paulo Bernardo. Auston Trusty, the £6million arrival from Sheffield united on deadline day, takes over [...]",
+          "link": "https://www.celticquicknews.co.uk/confirmed-hatate-out-bernardo-in/",
+          "publishedOn": "2024-09-28T15:37:24.000Z",
+          "wordCount": 3873,
+          "title": "CONFIRMED: HATATE OUT, BERNARDO IN",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/12/MCDIARMID-PARK-ST-JOHNSTONE-FEATURED.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=124041",
           "author": "CQN Magazine",
           "description": "DAVIE HAY reckons Celtic fans can rest easy with their club the envy of many in the footballing world. The supporters demand success on the field and with FORTY-ONE trophies won in the 21st Century it would be difficult to argue against the players failing to deliver. Hay is adamant there is no sign of his old club’s [...]",
@@ -511,6 +531,16 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=211515",
+          "author": "John McGinley",
+          "description": "Viljami Sinisalo may not have yet made his competitive debut for Celtic but he’s already loving his experience at the Bhoys since his summer move...",
+          "link": "https://www.67hailhail.com/news/viljami-sinisalo-shares-how-former-bhoys-defender-sold-celtic-move-to-him-way-back-in-march/",
+          "publishedOn": "2024-09-28T14:44:30.000Z",
+          "wordCount": 1536,
+          "title": "Summer arrival shares how former Bhoys defender sold Celtic move to him way back in March",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2163368314-1-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=211509",
           "author": "John McGinley",
