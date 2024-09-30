@@ -548,7 +548,23 @@
       "title": "eTims",
       "feedUrl": "http://etims.net/?feed=rss2",
       "siteUrl": "https://etims.net",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://etims.net/?p=18826",
+          "author": "Desi Mond",
+          "description": "Its been quite a few weeks and time for the latest podcast. The team look back at win over Falkirk and look at John McGlynn…",
+          "link": "https://etims.net/?p=18826",
+          "publishedOn": "2024-09-30T20:40:52.000Z",
+          "wordCount": 2621,
+          "title": "A Step Up in Class – ETims Podcast",
+          "enclosure": {
+            "url": "https://api.spreaker.com/v2/episodes/62169809/download.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://etims.net/wp-content/uploads/2024/09/maeda.png"
+        }
+      ]
     },
     {
       "title": "The Celtic Underground",
@@ -1340,46 +1356,6 @@
           "wordCount": 1652,
           "title": "What Scott Brown previously said about becoming future Celtic manager amid recent job links",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/05/GettyImages-2154597072-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=211213",
-          "author": "Sean Markus Clifford",
-          "description": "Celtic have started to unearth the best version of Nicolas Kuhn after a difficult initial few months for the German winger in Glasgow. After his...",
-          "link": "https://www.67hailhail.com/opinion/brendan-rodgers-comments-on-nicolas-kuhn-consistency-is-a-sign-of-things-to-come-for-celtic/",
-          "publishedOn": "2024-09-26T10:10:00.000Z",
-          "wordCount": 1635,
-          "title": "Brendan Rodgers' comments on Nicolas Kuhn 'consistency' is a sign of things to come for Celtic",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/07/GettyImages-2163368515-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=211205",
-          "author": "Patrick Sinat",
-          "description": "Celtic’s win against Falkirk in the League Cup has set up another date at Hampden for boss, Brendan Rodgers. The 5-2 defeat of John McGlynn’s...",
-          "link": "https://www.67hailhail.com/news/how-much-celtic-fans-will-pay-for-hampden-league-cup-semi-final-tickets-vs-aberdeen/",
-          "publishedOn": "2024-09-26T09:40:00.000Z",
-          "wordCount": 1509,
-          "title": "How much Celtic fans will pay for Hampden League Cup semi-final tickets vs Aberdeen",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/03/GettyImages-1231982685-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=211207",
-          "author": "Sean Markus Clifford",
-          "description": "Celtic are a different animal from this time last year after a strong summer transfer window cemented the foundations of a talented squad. Last term,...",
-          "link": "https://www.67hailhail.com/news/callum-mcgregor-on-brendan-rodgers-fury-in-perth-last-time-out-as-celtic-look-to-maintain-start/",
-          "publishedOn": "2024-09-26T09:15:00.000Z",
-          "wordCount": 1694,
-          "title": "Callum McGregor on Brendan Rodgers' fury in Perth last time out as Celtic look to continue form",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2172967692-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=211197",
-          "author": "Patrick Sinat",
-          "description": "Celtic have a number of players come up from the Premier League in England to ply their trade at Celtic Park over the years. Off...",
-          "link": "https://www.67hailhail.com/news/ian-wright-tells-gary-neville-how-he-cleared-up-a-very-disrespectful-moment-in-the-premier-league-at-celtic/",
-          "publishedOn": "2024-09-26T08:40:00.000Z",
-          "wordCount": 1684,
-          "title": "'Cowardly move': Ian Wright explains how he cleared up a 'very disrespectful' moment in the Premier League at Celtic",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2170248102-scaled.jpg"
         }
       ]
     },
