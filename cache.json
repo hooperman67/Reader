@@ -6,6 +6,26 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=124173",
+          "author": "Paul67",
+          "description": "Live updates will appear below after 20:00.",
+          "link": "https://www.celticquicknews.co.uk/borussia-dortmund-v-celtic-live-updates/",
+          "publishedOn": "2024-10-01T18:00:23.000Z",
+          "wordCount": 3571,
+          "title": "Borussia Dortmund v Celtic, Live updates",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
+        },
+        {
+          "id": "https://www.celticquicknews.co.uk/?p=124163",
+          "author": "CQN Magazine",
+          "description": "BRENDAN RODGERS has given the team that thrashed St Johnstone 6-0 a vote of confidence by naming an unchanged line-up for the Champions League matchday two encounter with Borussia Dortmund at the Westfalenstadion this evening. It means Auston Trusty will continue as Cameron Carter-Vickers’ deputy alongside Liam Scales in central defence while Paulo Bernardo will start [...]",
+          "link": "https://www.celticquicknews.co.uk/confirmed-rodgers-vote-of-confidence/",
+          "publishedOn": "2024-10-01T17:52:50.000Z",
+          "wordCount": 3846,
+          "title": "CONFIRMED: RODGERS’ VOTE OF CONFIDENCE",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/10/BORUSSIA-DORTMUND-STADIUM-FEATURED.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=124166",
           "author": "CQN Magazine",
           "description": "CELTIC trio Anthony Ralston, Greg Taylor and James Forrest have been included in Steve Clarke’s Scotland squad for the forthcoming UEFA Nations League games against Croatia and Portugal. There is also a place for former Hoops favourite Craig Gordon, who, at 41, has won back the No.1 spot at Hearts. It’s a stunning comeback by [...]",
@@ -364,16 +384,6 @@
           "wordCount": 4652,
           "title": "EXCLUSIVE: ‘I LIKE THE LOOK OF LUKE,’ DAVIE HAY RECKONS CELTIC ARE QUIDS IN",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/09/LUKE-MCCOWAN-FEATURED-JJJ.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=83033",
-          "author": "CQN Magazine",
-          "description": "CELTIC legend Jock Stein had an extraordinary impact on the Parkhead club after returning as manager in March 1965. In another CQN EXCLUSIVE,  Alex Gordon, author of fifteen publications on Celtic, has opened his book files on the Parkhead great for an absorbing twenty-one part series. Today, in Part Seventeen of our fascinating look back at these [...]",
-          "link": "https://www.celticquicknews.co.uk/the-jock-stein-years-part-seventeen/",
-          "publishedOn": "2024-09-27T05:00:16.000Z",
-          "wordCount": 4606,
-          "title": "THE JOCK STEIN YEARS: Part Seventeen",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2021/09/JOCK-STEIN-DIXIE-DEANS-FEATURED.jpg"
         }
       ]
     },
@@ -657,6 +667,16 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=212033",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic are closing in on their glamour Champions League clash with Borussia Dortmund, and there is major excitement across the continent as both clubs face...",
+          "link": "https://www.67hailhail.com/news/brendan-rodgers-singles-out-quality-dortmund-player-as-celtic-prepare-for-champions-league-clash/",
+          "publishedOn": "2024-10-01T17:10:00.000Z",
+          "wordCount": 1625,
+          "title": "Brendan Rodgers singles out 'quality' Dortmund player as Celtic prepare for Champions League clash",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2173724654-1-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=211985",
           "author": "Sean Markus Clifford",
