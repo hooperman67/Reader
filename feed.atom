@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-10-04T16:16:48.974Z</updated>
+    <updated>2024-10-04T18:17:32.176Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Celtic connection to Europa League club's stunning banner display on Thursday night]]></title>
+        <id>https://www.67hailhail.com/?p=212589</id>
+        <link href="https://www.67hailhail.com/news/the-celtic-connection-to-europa-league-clubs-stunning-banner-display-on-thursday-night/"/>
+        <updated>2024-10-04T18:10:00.000Z</updated>
+        <summary type="html"><![CDATA[European club football rarely fails to produce a spectacle, from Celtic Park in the Champions League to stadiums across the continent. These nights capture the...]]></summary>
+        <author>
+            <name>John McGinley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Liam Scales pinpoints the crucial 'foundation' he is determined to build on at Celtic]]></title>
+        <id>https://www.67hailhail.com/?p=212585</id>
+        <link href="https://www.67hailhail.com/news/liam-scales-pinpoints-the-crucial-foundation-he-is-determined-to-build-on-at-celtic/"/>
+        <updated>2024-10-04T17:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Celtic are back in action this weekend, and Liam Scales is determined for the Bhoys to build on their excellent domestic start at the Global...]]></summary>
+        <author>
+            <name>Sean Markus Clifford</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brendan Rodgers' latest accolade shows the collective 'hunger' he has instilled in his Celtic squad]]></title>
+        <id>https://www.67hailhail.com/?p=212567</id>
+        <link href="https://www.67hailhail.com/opinion/brendan-rodgers-latest-accolade-shows-the-collective-hunger-he-has-instilled-in-his-celtic-squad/"/>
+        <updated>2024-10-04T17:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Celtic boss Brendan Rodgers has won the Scottish Premiership Manager of the Month award for September after a run of inspired domestic performances. Without breaking...]]></summary>
+        <author>
+            <name>Sean Markus Clifford</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scottish Premiership star admits Celtic troubles as he shares why Bhoys are on 'different level']]></title>
+        <id>https://www.67hailhail.com/?p=212581</id>
+        <link href="https://www.67hailhail.com/news/scottish-premiership-star-admits-celtic-troubles-as-he-shares-why-bhoys-are-on-different-level/"/>
+        <updated>2024-10-04T16:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Celtic’s domestic form this campaign has been imperious and nobody in Scotland has been able to get close to a result against Brendan Rodgers’ men....]]></summary>
+        <author>
+            <name>Sean Markus Clifford</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Brendan Rodgers picks out Ross County danger man who will be motivated to shine vs Celtic]]></title>
         <id>https://www.67hailhail.com/?p=212576</id>
@@ -1254,36 +1294,6 @@
         <summary type="html"><![CDATA[Celtic’s 6-0 win over St Johnstone at the weekend was a game leaving the fans mostly talking about the display of scintillating football Brendan Rodgers’...]]></summary>
         <author>
             <name>Patrick Sinat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE UNFORGETTABLE JIMMY JOHNSTONE]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=54963</id>
-        <link href="https://www.celticquicknews.co.uk/the-unforgettable-jimmy-johnstone/"/>
-        <updated>2024-09-30T06:00:42.000Z</updated>
-        <summary type="html"><![CDATA[JIMMY JOHNSTONE, the Greatest-Ever Celtic Player as voted by the Hoops supporters, was born on this day in 1944. In another CQN EXCLUSIVE, author Alex Gordon takes a look through his files for tales of the Hoops legend. Alex devoted a chapter of his tribute book to the European Cup-winning team, ‘Lisbon Lions: The 40th [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PARADISE LOST: WHEN BIG YOGI LEFT CELTIC: Part Two]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=112389</id>
-        <link href="https://www.celticquicknews.co.uk/paradise-lost-when-big-yogi-left-celtic-part-two/"/>
-        <updated>2024-09-30T05:30:02.000Z</updated>
-        <summary type="html"><![CDATA[CELTIC legend John ‘Yogi’ Hughes played his last game for the club 53 years ago. The club’s eighth-highest goalscorer with 189 strikes had his last hurrah at Parkhead when he played in the 3-0 European Cup victory over BK 1903 Copenhagen to help the team through to the next round on a 4-2 aggregate scoreline. [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE JOCK STEIN YEARS: Part Twenty]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=83257</id>
-        <link href="https://www.celticquicknews.co.uk/the-jock-stein-years-part-twenty/"/>
-        <updated>2024-09-30T05:00:54.000Z</updated>
-        <summary type="html"><![CDATA[CELTIC legend Jock Stein had an extraordinary impact on the Parkhead club after returning as manager in March 1965. In another CQN EXCLUSIVE,  Alex Gordon, author of fifteen publications on Celtic, has opened his book files on the Parkhead great for an absorbing twenty-one part series. Today, in Part Twenty of our fascinating look back at these [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
         </author>
     </entry>
     <entry>
