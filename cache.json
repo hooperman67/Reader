@@ -234,46 +234,6 @@
           "wordCount": 4005,
           "title": "KASPER’S ZERO AMBITION",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/10/Screenshot-2024-09-30-at-12.27.24.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=124112",
-          "author": "CQN Magazine",
-          "description": "BRENDAN RODGERS will face German opposition for the seventh time as Celtic manager when the team take on Borussia Dortmund in the Champions League this evening. In the previous three games on his travels he has lost twice – to Bayern Munich (3-0) and RB Leipzig (2-0) – while gaining a 1-1 draw against Borussia [...]",
-          "link": "https://www.celticquicknews.co.uk/borussia-dortmund-v-celtic-5-minute-quiz/",
-          "publishedOn": "2024-10-01T06:15:03.000Z",
-          "wordCount": 3807,
-          "title": "BORUSSIA DORTMUND v CELTIC: 5-MINUTE QUIZ",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/09/BRENDAN-RODGERS-QUIZ-FEATURRED.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=124095",
-          "author": "CQN Magazine",
-          "description": "BRENDAN RODGERS will complete his Celtic half-century of European competition against Borussia Dortmund at the Westfalenstadion this evening. The Hoops boss kicked off the new-look Champions League with three points in the scintillating 5-1 triumph win over Slovan Bratislava last month with Liam Scales, Kyogo Furuhashi, Arne Engels (pen), Daizen Maeda and Adam Idah sharing [...]",
-          "link": "https://www.celticquicknews.co.uk/half-century-bhoy-brendan/",
-          "publishedOn": "2024-10-01T06:00:53.000Z",
-          "wordCount": 4171,
-          "title": "HALF-CENTURY BHOY BRENDAN",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/03/BRENDAN-RODGERS-V-HEARTS-FEATURED-MARCH-3-2024.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=112390",
-          "author": "CQN Magazine",
-          "description": "CELTIC legend John ‘Yogi’ Hughes played his final game 53 years ago. The club’s eighth-highest goalscorer with 189 strikes had his last hurrah at Parkhead when he played in the 3-0 European Cup victory over BK 1903 Copenhagen to help the team through to the next round on a 4-2 aggregate scoreline. Hughes was devastated [...]",
-          "link": "https://www.celticquicknews.co.uk/paradise-lost-when-big-yogi-left-celtic-part-three/",
-          "publishedOn": "2024-10-01T05:30:15.000Z",
-          "wordCount": 4217,
-          "title": "PARADISE LOST: WHEN BIG YOGI LEFT CELTIC: Part Three",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2023/09/JOHN-HUGHES-V-RONNIE-MCKINNON.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=83296",
-          "author": "CQN Magazine",
-          "description": "CELTIC legend Jock Stein had an extraordinary impact on the Parkhead club after returning as manager in March 1965. In another CQN EXCLUSIVE,  Alex Gordon, author of fifteen publications on Celtic, opened his book files on the Parkhead great for an absorbing series. Today, in Part Twenty-One of our fascinating look back at these landmark times in [...]",
-          "link": "https://www.celticquicknews.co.uk/the-jock-stein-years-part-twenty-one/",
-          "publishedOn": "2024-10-01T05:00:43.000Z",
-          "wordCount": 5217,
-          "title": "THE JOCK STEIN YEARS: Part Twenty-One",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/10/BILLY-MCNEILL-JOCK-STEIN-JOHN-CLARK-CELTIC-ICONS-FEATURED.png"
         }
       ]
     },
@@ -541,6 +501,36 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=212636",
+          "author": "John McGinley",
+          "description": "It’s been a long week for Celtic after their demoralising 7-1 defeat away to Borussia Dortmund on Tuesday night. Thankfully, once the Bhoys get back...",
+          "link": "https://www.67hailhail.com/news/chris-sutton-cites-arsenal-example-as-argument-for-what-brendan-rodgers-must-do-at-celtic-now/",
+          "publishedOn": "2024-10-05T17:57:37.000Z",
+          "wordCount": 1808,
+          "title": "Chris Sutton cites Arsenal example as argument for what Brendan Rodgers must do at Celtic now",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-2165623412-scaled-e1723898157146.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=212631",
+          "author": "John McGinley",
+          "description": "Celtic face Ross County in the Scottish Premiership on Sunday, aiming to extend their perfect domestic winning run. Tuesday night’s Champions League defeat to Borussia...",
+          "link": "https://www.67hailhail.com/news/celtic-history-could-be-made-vs-ross-county-on-sunday/",
+          "publishedOn": "2024-10-05T17:17:28.000Z",
+          "wordCount": 1501,
+          "title": "Celtic history could be made vs Ross County on Sunday",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2175292711-1-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=212625",
+          "author": "John McGinley",
+          "description": "One of the stories of the season so far is Aberdeen’s ability to keep pace with Celtic at the top end of the Scottish Premiership...",
+          "link": "https://www.67hailhail.com/news/jimmy-thelin-responds-to-alan-shearers-comments-about-aberdeen-being-serious-challengers-to-celtic/",
+          "publishedOn": "2024-10-05T16:23:45.000Z",
+          "wordCount": 1530,
+          "title": "Jimmy Thelin responds to Alan Shearer's comments about Aberdeen being 'serious' challengers to Celtic",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/10/GettyImages-835118296-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=212610",
           "author": "John McGinley",
@@ -1388,6 +1378,16 @@
       "feedUrl": "https://celticfanzine.com/category/news/feed/",
       "siteUrl": "https://celticfanzine.com/category/news/",
       "articles": [
+        {
+          "id": "https://celticfanzine.com/?p=59148",
+          "author": "celtic",
+          "description": "More than 90 Minutes Match Day Minizine Celtic travel  to the Highlands on Sunday for the midday kick off against Ross County  . The game will be shown  on tSky Sports Main Event and Sky Sports Football channel’s.. Celtic TV will also stream the game.  \nThe post Ross County v CELTIC F.C. Matchday Minizine appeared first on Celtic Fanzine.",
+          "link": "https://celticfanzine.com/ross-county-v-celtic-f-c-matchday-minizine/",
+          "publishedOn": "2024-10-05T16:53:37.000Z",
+          "wordCount": 1931,
+          "title": "Ross County v CELTIC F.C. Matchday Minizine",
+          "imageUrl": "https://celticfanzine.com/wp-content/uploads/web-ross-.png"
+        },
         {
           "id": "https://celticfanzine.com/?p=59142",
           "author": "celtic",
