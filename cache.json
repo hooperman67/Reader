@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=124278",
+          "author": "CQN Magazine",
+          "description": "LIAM SCALES insists Celtic will not allow the fear factor to derail their thought process as they set off on the road to recovery tomorrow against Ross County. The Hoops, demoralised 7-1 in Dortmund on Tuesday, are hoping to be revitalised in Dingwall for the midday kick-off – and they have no intention of altering [...]",
+          "link": "https://www.celticquicknews.co.uk/no-fear-factor-for-celtic-insists-defender/",
+          "publishedOn": "2024-10-05T09:04:09.000Z",
+          "wordCount": 4207,
+          "title": "NO FEAR FACTOR FOR CELTIC, INSISTS DEFENDER",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/09/LIAM-SCALES-FEATURED-SB.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=124271",
           "author": "CQN Magazine",
           "description": "BRENDAN RODGERS reflected in the 7-1 Champions League x-certicate display in Dortmund and admitted “setbacks are part of the journey”. The Celtic manager had his final say on a night of massive disappointment at the Westfalenstadion before turning his full focus to the Premiership encounter against Ross County at midday tomorrow at the more sedate [...]",
@@ -518,23 +528,7 @@
       "title": "eTims",
       "feedUrl": "http://etims.net/?feed=rss2",
       "siteUrl": "https://etims.net",
-      "articles": [
-        {
-          "id": "https://etims.net/?p=18826",
-          "author": "Desi Mond",
-          "description": "Its been quite a few weeks and time for the latest podcast. The team look back at win over Falkirk and look at John McGlynn…",
-          "link": "https://etims.net/?p=18826",
-          "publishedOn": "2024-09-30T20:40:52.000Z",
-          "wordCount": 2621,
-          "title": "A Step Up in Class – ETims Podcast",
-          "enclosure": {
-            "url": "https://api.spreaker.com/v2/episodes/62169809/download.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": "https://etims.net/wp-content/uploads/2024/09/maeda.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "The Celtic Underground",
@@ -547,6 +541,26 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=212610",
+          "author": "John McGinley",
+          "description": "Celtic travel to Ross County in the Scottish Premiership on Sunday, and they can expect a physical battle. Brendan Rodgers’ side are licking their wounds...",
+          "link": "https://www.67hailhail.com/news/ross-county-pull-no-punches-and-openly-admit-dark-arts-will-be-used-vs-lightning-celtic-stars/",
+          "publishedOn": "2024-10-05T09:38:12.000Z",
+          "wordCount": 1696,
+          "title": "Ross County pull no punches and openly admit 'dark arts' will be used vs 'lightning' Celtic stars",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/10/GettyImages-1829414195-scaled-e1728120330999.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=212612",
+          "author": "John McGinley",
+          "description": "🙌 Ben Summers and Matthew Anderson are enjoying themselves in Austria.",
+          "link": "https://www.67hailhail.com/celtic-youth/celtic-talent-makes-electric-goalscoring-friday-night-debut-out-on-loan/",
+          "publishedOn": "2024-10-05T08:42:06.000Z",
+          "wordCount": 1458,
+          "title": "Celtic talent makes electric goalscoring Friday night debut out on loan",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/10/GettyImages-1557329563-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=212601",
           "author": "John McGinley",
