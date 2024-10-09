@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=124390",
+          "author": "CQN Magazine",
+          "description": "LUIS PALMA sent a timely three-goal reminder to Brendan Rodgers in new-look Celtic’s last-gasp 3-2 victory over Sligo Rovers in an entertaining friendly at the Showgrounds this evening. The Honduran winger, who has rarely figured this season, claimed an eye-catching hat-trick with two of his strikes coming in the fading moments to stave off a [...]",
+          "link": "https://www.celticquicknews.co.uk/palmas-3-goal-reminder-in-late-late-show/",
+          "publishedOn": "2024-10-09T22:01:24.000Z",
+          "wordCount": 3924,
+          "title": "PALMA’S 3-GOAL REMINDER IN LATE, LATE SHOW",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/08/LUIS-PALMA-AUG-24-FTRED.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=124389",
           "author": "Paul67",
           "description": "First, there was faux outrage that the Celtic – Aberdeen game later this month was not on TV.  Now, the sights have been trained on Celtic, who reserved their right to have five, instead of seven, home games shown on live TV. Sky Sport can broadcast up to five games from any ground.  This is [...]",
@@ -134,16 +144,6 @@
           "wordCount": 3841,
           "title": "ROSS COUNTY v CELTIC: 5-MINUTE QUIZ",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/10/JAMES-FORREST-GOALL-FEATURRED.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=124278",
-          "author": "CQN Magazine",
-          "description": "LIAM SCALES insists Celtic will not allow the fear factor to derail their thought process as they set off on the road to recovery tomorrow against Ross County. The Hoops, demoralised 7-1 in Dortmund on Tuesday, are hoping to be revitalised in Dingwall for the midday kick-off – and they have no intention of altering [...]",
-          "link": "https://www.celticquicknews.co.uk/no-fear-factor-for-celtic-insists-defender/",
-          "publishedOn": "2024-10-05T09:04:09.000Z",
-          "wordCount": 4207,
-          "title": "NO FEAR FACTOR FOR CELTIC, INSISTS DEFENDER",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/09/LIAM-SCALES-FEATURED-SB.png"
         }
       ]
     },
@@ -411,6 +411,16 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=213103",
+          "author": "Patrick Sinat",
+          "description": "The international break may well be in full swing but Celtic still had a friendly fixture to fulfil against Sligo Rovers in Ireland. Celtic announced...",
+          "link": "https://www.67hailhail.com/match/three-celtic-players-who-caught-the-eye-in-friendly-win-over-sligo-rovers/",
+          "publishedOn": "2024-10-09T20:26:46.000Z",
+          "wordCount": 1687,
+          "title": "Three Celtic players who caught the eye in friendly win over Sligo Rovers",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/10/GettyImages-2176957833-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=213099",
           "author": "Sean Markus Clifford",
@@ -1170,26 +1180,6 @@
           "wordCount": 1530,
           "title": "Jimmy Thelin responds to Alan Shearer's comments about Aberdeen being 'serious' challengers to Celtic",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/10/GettyImages-835118296-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=212610",
-          "author": "John McGinley",
-          "description": "Celtic travel to Ross County in the Scottish Premiership on Sunday, and they can expect a physical battle. Brendan Rodgers’ side are licking their wounds...",
-          "link": "https://www.67hailhail.com/news/ross-county-pull-no-punches-and-openly-admit-dark-arts-will-be-used-vs-lightning-celtic-stars/",
-          "publishedOn": "2024-10-05T09:38:12.000Z",
-          "wordCount": 1696,
-          "title": "Ross County pull no punches and openly admit 'dark arts' will be used vs 'lightning' Celtic stars",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/10/GettyImages-1829414195-scaled-e1728120330999.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=212612",
-          "author": "John McGinley",
-          "description": "🙌 Ben Summers and Matthew Anderson are enjoying themselves in Austria.",
-          "link": "https://www.67hailhail.com/celtic-youth/celtic-talent-makes-electric-goalscoring-friday-night-debut-out-on-loan/",
-          "publishedOn": "2024-10-05T08:42:06.000Z",
-          "wordCount": 1458,
-          "title": "Celtic talent makes electric goalscoring Friday night debut out on loan",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/10/GettyImages-1557329563-scaled.jpg"
         }
       ]
     },
