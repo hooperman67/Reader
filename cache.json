@@ -452,6 +452,46 @@
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
         {
+          "id": "https://www.67hailhail.com/?p=213249",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic boss Brendan Rodgers fielded a mixed team comprising senior experience and youthful exuberance during their Hoops’ win against Sligo Rovers at the Showgrounds. In...",
+          "link": "https://www.67hailhail.com/celtic-youth/brendan-rodgers-has-made-his-demand-to-celtic-first-team-hopefuls-loud-and-clear-once-again/",
+          "publishedOn": "2024-10-10T14:10:00.000Z",
+          "wordCount": 1739,
+          "title": "Brendan Rodgers has made his demand to Celtic first-team hopefuls loud and clear once again",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2172943960-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=213241",
+          "author": "Patrick Sinat",
+          "description": "Chris Sutton was undoubtedly one of Celtic best strikers from the turn of this century. His partnership with Henrik Larsson and then the introduction of...",
+          "link": "https://www.67hailhail.com/news/chris-sutton-recalls-pain-in-the-neck-england-arrogance-towards-celtic-form/",
+          "publishedOn": "2024-10-10T13:40:00.000Z",
+          "wordCount": 1751,
+          "title": "Chris Sutton recalls 'pain in the neck' England arrogance towards Celtic form",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-1060453.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=213175",
+          "author": "Patrick Sinat",
+          "description": "Celtic’s fixture schedule is currently jam-packed as Brendan Rodgers takes on four competitions this season at Parkhead. The Celtic boss is into the League Cup...",
+          "link": "https://www.67hailhail.com/news/brendan-rodgers-explains-why-it-was-so-important-celtic-rejected-premier-sports-tv-option/",
+          "publishedOn": "2024-10-10T13:10:00.000Z",
+          "wordCount": 1753,
+          "title": "'So important': Brendan Rodgers explains why it was vital Celtic rejected Premier Sports TV option",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/10/GettyImages-2176941154-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=213224",
+          "author": "John McGinley",
+          "description": "Celtic are preparing to appoint Paul Tisdale to a senior football operations role at the club, and fans have been having their say. Reports this...",
+          "link": "https://www.67hailhail.com/news/what-celtic-fans-are-saying-about-the-latest-paul-tisdale-reports-as-club-plot-recruitment-revamp/",
+          "publishedOn": "2024-10-10T12:40:00.000Z",
+          "wordCount": 1744,
+          "title": "What Celtic fans are saying about the latest Paul Tisdale reports as club plot recruitment revamp",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/10/GettyImages-1172914395-scaled.jpg"
+        },
+        {
           "id": "https://www.67hailhail.com/?p=213213",
           "author": "Sean Markus Clifford",
           "description": "Celtic will turn their focus to facing Aberdeen next Saturday after Brendan Rodgers’ men strucl late to defeat Sligo Rovers in a productive friendly encounter...",
@@ -1297,7 +1337,18 @@
       "title": "News Archives - Celtic Fanzine",
       "feedUrl": "https://celticfanzine.com/category/news/feed/",
       "siteUrl": "https://celticfanzine.com/category/news/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://celticfanzine.com/?p=59152",
+          "author": "celtic",
+          "description": "Homeward bound after a great wee midweek away day watching Celtic. A friendly against League of Ireland team Sligo Rovers may not have the same excitement for Celtic fans as a Champions League away trip. But any Celtic fan who was in Sligo yesterday could only be impressed by the welcome they received from the […]\nThe post SLIGO AWAY appeared first on Celtic Fanzine.",
+          "link": "https://celticfanzine.com/sligo-away/",
+          "publishedOn": "2024-10-10T12:29:32.000Z",
+          "wordCount": 2332,
+          "title": "SLIGO AWAY",
+          "imageUrl": "https://celticfanzine.com/wp-content/uploads/sligo-.png"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
