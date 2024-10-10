@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=124379",
+          "author": "CQN Magazine",
+          "description": "CELTIC are hoping to emulate a 14-year record when they take on Aberdeen at Parkhead a week on Saturday. The last time the Hoops won their first eight league games was back in season 2010/11 when the team got off to a scorching start under Neil Lennon. Despite the wonderful sequence of victories, the side [...]",
+          "link": "https://www.celticquicknews.co.uk/celtic-beware-perils-from-the-past/",
+          "publishedOn": "2024-10-10T05:00:36.000Z",
+          "wordCount": 4169,
+          "title": "CELTIC BEWARE: PERILS FROM THE PAST",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/10/NEIL-LENNON-UNHAPPY-FEATURED-JJ.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=124390",
           "author": "CQN Magazine",
           "description": "LUIS PALMA sent a timely three-goal reminder to Brendan Rodgers in new-look Celtic’s last-gasp 3-2 victory over Sligo Rovers in an entertaining friendly at the Showgrounds this evening. The Honduran winger, who has rarely figured this season, claimed an eye-catching hat-trick with two of his strikes coming in the fading moments to stave off a [...]",
@@ -1150,36 +1160,6 @@
           "wordCount": 1573,
           "title": "'Brave' Celtic summer transfer target now shining in the English Premier League",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/10/GettyImages-2175967025-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=212636",
-          "author": "John McGinley",
-          "description": "It’s been a long week for Celtic after their demoralising 7-1 defeat away to Borussia Dortmund on Tuesday night. Thankfully, once the Bhoys get back...",
-          "link": "https://www.67hailhail.com/news/chris-sutton-cites-arsenal-example-as-argument-for-what-brendan-rodgers-must-do-at-celtic-now/",
-          "publishedOn": "2024-10-05T17:57:37.000Z",
-          "wordCount": 1808,
-          "title": "Chris Sutton cites Arsenal example as argument for what Brendan Rodgers must do at Celtic now",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/08/GettyImages-2165623412-scaled-e1723898157146.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=212631",
-          "author": "John McGinley",
-          "description": "Celtic face Ross County in the Scottish Premiership on Sunday, aiming to extend their perfect domestic winning run. Tuesday night’s Champions League defeat to Borussia...",
-          "link": "https://www.67hailhail.com/news/celtic-history-could-be-made-vs-ross-county-on-sunday/",
-          "publishedOn": "2024-10-05T17:17:28.000Z",
-          "wordCount": 1501,
-          "title": "Celtic history could be made vs Ross County on Sunday",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2175292711-1-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=212625",
-          "author": "John McGinley",
-          "description": "One of the stories of the season so far is Aberdeen’s ability to keep pace with Celtic at the top end of the Scottish Premiership...",
-          "link": "https://www.67hailhail.com/news/jimmy-thelin-responds-to-alan-shearers-comments-about-aberdeen-being-serious-challengers-to-celtic/",
-          "publishedOn": "2024-10-05T16:23:45.000Z",
-          "wordCount": 1530,
-          "title": "Jimmy Thelin responds to Alan Shearer's comments about Aberdeen being 'serious' challengers to Celtic",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/10/GettyImages-835118296-scaled.jpg"
         }
       ]
     },
@@ -1187,18 +1167,7 @@
       "title": "News Archives - Celtic Fanzine",
       "feedUrl": "https://celticfanzine.com/category/news/feed/",
       "siteUrl": "https://celticfanzine.com/category/news/",
-      "articles": [
-        {
-          "id": "https://celticfanzine.com/?p=59148",
-          "author": "celtic",
-          "description": "More than 90 Minutes Match Day Minizine Celtic travel  to the Highlands on Sunday for the midday kick off against Ross County  . The game will be shown  on tSky Sports Main Event and Sky Sports Football channel’s.. Celtic TV will also stream the game.  \nThe post Ross County v CELTIC F.C. Matchday Minizine appeared first on Celtic Fanzine.",
-          "link": "https://celticfanzine.com/ross-county-v-celtic-f-c-matchday-minizine/",
-          "publishedOn": "2024-10-05T16:53:37.000Z",
-          "wordCount": 1931,
-          "title": "Ross County v CELTIC F.C. Matchday Minizine",
-          "imageUrl": "https://celticfanzine.com/wp-content/uploads/web-ross-.png"
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
