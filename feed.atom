@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hooperman67.github.io/Reader/index.html</id>
     <title>ArmchairCelts::newsfeed</title>
-    <updated>2024-10-12T18:15:47.560Z</updated>
+    <updated>2024-10-12T20:13:16.308Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hooperman67.github.io/Reader/index.html"/>
     <link rel="self" href="https://hooperman67.github.io/Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chris Sutton weighs into Celtic TV blackout debate with 'empty seats all over Ibrox' observation]]></title>
+        <id>https://www.67hailhail.com/?p=213490</id>
+        <link href="https://www.67hailhail.com/news/chris-sutton-weighs-into-celtic-tv-blackout-debate-with-empty-seats-all-over-ibrox-observation/"/>
+        <updated>2024-10-12T18:47:35.000Z</updated>
+        <summary type="html"><![CDATA[The upcoming meeting between Celtic and Aberdeen is inarguably one of the most intriguing and exciting matches of the Scottish Premiership season so far. Both...]]></summary>
+        <author>
+            <name>John McGinley</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celtic heroes including Brendan Rodgers show their class to raise 'astounding' sum for charity]]></title>
         <id>https://www.67hailhail.com/?p=213483</id>
@@ -995,26 +1005,6 @@ The post SLIGO AWAY appeared first on Celtic Fanzine.]]></summary>
         <summary type="html"><![CDATA[Ronan Hale has shared what Kasper Schmeichel did to try and distract him just before he scored his penalty in Ross County’s defeat to Celtic...]]></summary>
         <author>
             <name>Patrick Sinat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[REVEALED: KUHN EXPLAINS REASON FOR SNUBBING KYOGO]]></title>
-        <id>https://www.celticquicknews.co.uk/?p=124311</id>
-        <link href="https://www.celticquicknews.co.uk/revealed-kuhn-explains-reason-for-snubbing-kyogo/"/>
-        <updated>2024-10-08T07:43:18.000Z</updated>
-        <summary type="html"><![CDATA[NICOLAS KUHN has revealed why he snubbed Kyogo Furuhashi before scoring the dramatic late winner in Dingwall at the weekend. With just two minutes of the regulation 90 to play and the scoreline deadlocked at 1-1, the in-form German winger sped on to a perfect through pass from Alistair Johnston after a swiftly-taken free-kick from [...]]]></summary>
-        <author>
-            <name>CQN Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nicolas Kuhn shares what he's worked on at Celtic and lauds teammate for role in Ross County winner]]></title>
-        <id>https://www.67hailhail.com/?p=212925</id>
-        <link href="https://www.67hailhail.com/news/nicolas-kuhn-shares-what-hes-worked-on-at-celtic-and-lauds-teammate-for-role-in-ross-county-winner/"/>
-        <updated>2024-10-08T07:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Celtic winger Nicolas Kuhn was the man to thank in Dingwall as the Bhoys saw off Ross County late on to remain top of the...]]></summary>
-        <author>
-            <name>Sean Markus Clifford</name>
         </author>
     </entry>
     <entry>
