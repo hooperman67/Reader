@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=124430",
+          "author": "CQN Magazine",
+          "description": "CELTIC striker Adam Idah was mysteriously shunned by manager Heimir Hallgrimsson as the Republic of Ireland lost 2-0 to Greece in their UEFA Nations League crunch in Athens last night. The second most expensive player in Hoops history after his £9.5million arrival from Norwich City in the summer didn’t even get a kick of the [...]",
+          "link": "https://www.celticquicknews.co.uk/idah-mystery/",
+          "publishedOn": "2024-10-14T07:43:36.000Z",
+          "wordCount": 3963,
+          "title": "IDAH MYSTERY",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/09/ADAM-IDAH-FEATURRED-F.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=124425",
           "author": "CQN Magazine",
           "description": "ANTHONY RALSTON suffered along with his Scotland team-mates as Croatia came back to win 2-1 in in another UEFA Nations League tale of woe in Zagreb last night. The Celtic right-back, making his seventh successive appearance for his country, was helpless as Steve Clarke’s side collapsed to their third loss in a row in the [...]",
@@ -411,6 +421,46 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=213613",
+          "author": "Patrick Sinat",
+          "description": "Reo Hatate has suffered more frustration in this international break after the Celtic midfielder was an unused sub in Japan’s 2-0 win over Saudi Arabia....",
+          "link": "https://www.67hailhail.com/news/celtic-hero-reo-hatate-addresses-japan-frustration-with-hajime-moriyasu/",
+          "publishedOn": "2024-10-14T08:10:00.000Z",
+          "wordCount": 1717,
+          "title": "'We've been talking': Celtic hero Reo Hatate addresses Japan frustration with Hajime Moriyasu",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/10/GettyImages-2009359649-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=213603",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic boss Brendan Rodgers added to his left-back pool in the summer by bringing in Alex Valle on loan from Barcelona to challenge Greg Taylor’s...",
+          "link": "https://www.67hailhail.com/opinion/the-long-term-celtic-left-back-clarification-that-could-be-needed-between-now-and-next-summer/",
+          "publishedOn": "2024-10-14T07:40:00.000Z",
+          "wordCount": 1745,
+          "title": "The long-term Celtic left-back clarification that could be needed between now and next summer",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-1818765968-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=213593",
+          "author": "John McGinley",
+          "description": "Celtic defender Liam Scales continues to build his international career with the Republic of Ireland, playing for all 90 minutes in Sunday night’s defeat to...",
+          "link": "https://www.67hailhail.com/news/irish-media-react-to-liam-scales-display-vs-greece-as-celtic-defender-gets-another-big-chance/",
+          "publishedOn": "2024-10-14T07:12:12.000Z",
+          "wordCount": 1746,
+          "title": "Irish media react to Liam Scales display vs Greece as Celtic defender gets another big chance",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/10/GettyImages-2177153835-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=213599",
+          "author": "Patrick Sinat",
+          "description": "If there is one thing Celtic fans love as much as winning, it’s entertaining football. Winning trophies and dominating Scottish football is great, but the...",
+          "link": "https://www.67hailhail.com/news/chris-sutton-tells-robbie-savage-hes-missing-the-point-about-ange-postecoglou-and-celtic/",
+          "publishedOn": "2024-10-14T06:43:36.000Z",
+          "wordCount": 1733,
+          "title": "Chris Sutton tells Robbie Savage he's 'missing the point' about Ange Postecoglou and Celtic",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/06/GettyImages-1493776199-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=213581",
           "author": "John McGinley",
