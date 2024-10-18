@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=124567",
+          "author": "CQN Magazine",
+          "description": "CAMERON CARTER-VICKERS is on the brink of a dramatic Celtic comeback in tomorrow’s top-of-the-table clash with Aberdeen at Parkhead. The Hoops’ defensive rock has missed four consecutive games after limping off with a toe injury near the end of the 5-1 Champions League matchday one home triumph over Slovan Bratislava exactly a month ago. Fellow-American [...]",
+          "link": "https://www.celticquicknews.co.uk/ccv-on-the-brink/",
+          "publishedOn": "2024-10-18T06:19:50.000Z",
+          "wordCount": 3741,
+          "title": "CCV ON THE BRINK",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/08/CAMERON-CARTER-VICKERS-FEATURED-FFF.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=83969",
           "author": "CQN Magazine",
           "description": "TODAY is the 57th anniversary of one of the most infamous games in Celtic’s proud history – the first leg of three turbulent encounters in the Intercontinental Cup Final against Argentina’s Racing Club of Buenos Aires. It was the evening at a packed Hampden where “football went oot the windae,” according to Wee Jimmy Johnstone, [...]",
@@ -431,6 +441,26 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=214089",
+          "author": "Mark Hendry",
+          "description": "Matt O’Riley was crocked on his Brighton debut in what looked a horror challenge. The Celtic hero cost the Seagulls a record £30million Scottish football...",
+          "link": "https://www.67hailhail.com/news/matt-oriley-injury-fitness-stepped-up-as-fans-spot-ex-celtic-stars-major-return-clue/",
+          "publishedOn": "2024-10-18T08:16:53.000Z",
+          "wordCount": 1549,
+          "title": "Matt O’Riley injury fitness stepped up as fans spot ex-Celtic star’s major return clue",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/10/GettyImages-2168860979-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=214083",
+          "author": "Sean Markus Clifford",
+          "description": "Celtic have plenty of players putting their best foot forward this campaign and Anthony Ralston is right in the mix after his latest two international...",
+          "link": "https://www.67hailhail.com/news/john-hartsons-glowing-anthony-ralston-verdict-as-he-explains-why-he-doesnt-start-more-for-celtic/",
+          "publishedOn": "2024-10-18T07:40:00.000Z",
+          "wordCount": 1609,
+          "title": "John Hartson's glowing Anthony Ralston verdict as he explains why he doesn't start more for Celtic",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2170243226-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=214078",
           "author": "Mark Hendry",
