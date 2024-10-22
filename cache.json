@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=124702",
+          "author": "CQN Magazine",
+          "description": "PAULO BERNARDO insists the lessons learned from the seven-goal destruction in Dortmund will make Celtic a better team. Brendan Rodgers’ side were losing 5-1 at the interval in the Westfalenstadion with Borussia running amok and, aided by two penalty-kicks, terrorising Kasper Schmeichel. It was a lopsided encounter from which only the Danish keeper could emerge [...]",
+          "link": "https://www.celticquicknews.co.uk/no-pain-no-gain-for-paulo/",
+          "publishedOn": "2024-10-22T07:45:42.000Z",
+          "wordCount": 4040,
+          "title": "NO PAIN NO GAIN FOR PAULO",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/10/PAULO-BERNARDO-COUNTY-FEATURED.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=71530",
           "author": "CQN Magazine",
           "description": "PAUL McSTAY – ‘The Maestro’ to thousands of adoring Celtic fans – celebrates his 60th birthday today. Author Alex Gordon, who has written fifteen books on the club, is a friend of the unassuming individual who possessed the quality to light up football pitches everywhere with spellbinding consistency as one of the most elegant performers [...]",
@@ -552,6 +562,36 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=214791",
+          "author": "Patrick Sinat",
+          "description": "Celtic’s draw with Aberdeen threw up plenty of debating points after Brendan Rodgers’ side threw away a two-goal lead at the weekend. Whilst the Celtic...",
+          "link": "https://www.67hailhail.com/news/jamie-mcgrath-ends-aberdeen-handball-goal-at-celtic-debate-as-he-shares-how-duk-reacted/",
+          "publishedOn": "2024-10-22T08:10:00.000Z",
+          "wordCount": 1580,
+          "title": "'You could tell': Jamie McGrath ends Aberdeen handball goal at Celtic debate as he shares Duk's on-pitch reaction",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/10/GettyImages-1767934907-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=214793",
+          "author": "Amir Mir",
+          "description": "The two best teams in Scotland recorded a 2-2 draw at Parkhead at the weekend.",
+          "link": "https://www.67hailhail.com/news/martin-keown-delivers-better-for-scottish-football-claim-after-celtic-and-aberdeen-debate/",
+          "publishedOn": "2024-10-22T07:45:00.000Z",
+          "wordCount": 1640,
+          "title": "Martin Keown delivers 'better for Scottish football' claim after Celtic and Aberdeen debate",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/10/GettyImages-2028369080-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=214787",
+          "author": "Patrick Sinat",
+          "description": "Celtic are now preparing to take on Atalanta in the Champions League on Wednesday as Brendan Rodgers looks to banish the ghosts of Borussia Dortmund....",
+          "link": "https://www.67hailhail.com/news/what-atalantas-ederson-is-convinced-about-after-watching-celtic-vs-borussia-dortmund-in-champions-league/",
+          "publishedOn": "2024-10-22T06:40:00.000Z",
+          "wordCount": 1576,
+          "title": "'I'm convinced': What Atalanta's Ederson 'couldn't believe' about after watching Celtic vs Borussia Dortmund",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/10/GettyImages-1725735792-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=214767",
           "author": "Amir Mir",
@@ -1141,26 +1181,6 @@
           "wordCount": 1609,
           "title": "John Hartson's glowing Anthony Ralston verdict as he explains why he doesn't start more for Celtic",
           "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-2170243226-scaled.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=214078",
-          "author": "Mark Hendry",
-          "description": "Cameron Carter-Vickers has been missing for Celtic in recent weeks. The American centre-half was a major loss during their 7-1 defeat to Borussia Dortmund where...",
-          "link": "https://www.67hailhail.com/news/cameron-carter-vickers-hands-celtic-massive-boost-ahead-of-aberdeen-clash/",
-          "publishedOn": "2024-10-17T19:41:33.000Z",
-          "wordCount": 1526,
-          "title": "Cameron Carter-Vickers hands Celtic massive boost ahead of Aberdeen clash",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/10/GettyImages-2171945650-1.jpg"
-        },
-        {
-          "id": "https://www.67hailhail.com/?p=214071",
-          "author": "Sean Markus Clifford",
-          "description": "Celtic have been active off the field this week after installing Paul Tisdale as their new Head of Football Operations, working in conjunction with Brendan...",
-          "link": "https://www.67hailhail.com/opinion/brendan-rodgers-comments-on-paul-tisdales-talent-will-be-tested-at-celtic-come-january/",
-          "publishedOn": "2024-10-17T19:10:00.000Z",
-          "wordCount": 1746,
-          "title": "Brendan Rodgers' comments on Paul Tisdale's 'talent' will be tested at Celtic come January",
-          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/10/GettyImages-2149402454-scaled.jpg"
         }
       ]
     },
