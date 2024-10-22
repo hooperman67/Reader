@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=124706",
+          "author": "Paul67",
+          "description": "Atalanta sit sixth in Serie A, having won four and lost three of eight games.  Last term they finished behind only the big three in Italy: Inter, Milan and Juventus, while beating undefeated German champions, Bayer Leverkusen, in the Europa League in Dublin. After a poor August, when they lost the Super Cup to Real [...]",
+          "link": "https://www.celticquicknews.co.uk/another-clinical-side-for-celtic/",
+          "publishedOn": "2024-10-22T11:00:19.000Z",
+          "wordCount": 5038,
+          "title": "Another ‘Clinical’ side for Celtic",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=124704",
           "author": "CQN Magazine",
           "description": "FORGOTTEN Celt Luis Palma insists he is willing to bide his time as he awaits a first-team opportunity. The Honduran international winger has made just one start in four appearances in competitive action this season, but must have caught the attention of Brendan Rodgers with his hat-trick in the recent 3-2 friendly win over Sligo [...]",
@@ -572,6 +582,36 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=214885",
+          "author": "Amir Mir",
+          "description": "Celtic take on Atalanta on Wednesday evening.",
+          "link": "https://www.67hailhail.com/news/michael-stewart-thinks-celtic-attacker-could-fix-brendan-rodgers-defensive-issues-v-atalanta/",
+          "publishedOn": "2024-10-22T12:10:00.000Z",
+          "wordCount": 1725,
+          "title": "'Not a downgrade': Michael Stewart says Celtic attacker could fix Rodgers' defensive issues v Atalanta",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/10/GettyImages-2177285452-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=214872",
+          "author": "Patrick Sinat",
+          "description": "Celtic fans are looking forward to the next Champions League fixture now that the top-of-the-table clash with Aberdeen in the Scottish Premiership has been taken...",
+          "link": "https://www.67hailhail.com/news/celtic-team-news-and-predicted-xi-vs-atalanta-as-rodgers-makes-big-midfield-call/",
+          "publishedOn": "2024-10-22T11:40:00.000Z",
+          "wordCount": 1580,
+          "title": "Celtic team news and Predicted XI vs Atalanta as Rodgers makes big midfield call",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/09/GettyImages-1756182660-1-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=214879",
+          "author": "Patrick Sinat",
+          "description": "Celtic fan’s use of pyro came to the fore this month after the club were fined by UEFA after the Borussia Dortmund match. UEFA fined...",
+          "link": "https://www.67hailhail.com/news/simon-jordan-weighs-in-after-hearing-what-brendan-rodgers-has-said-about-celtic-fans-use-of-pyro/",
+          "publishedOn": "2024-10-22T10:40:00.000Z",
+          "wordCount": 1770,
+          "title": "'Do as you're told': Simon Jordan weighs in after hearing what Brendan Rodgers said about Celtic fans' use of pyro",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/10/GettyImages-2175943343-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=214847",
           "author": "Patrick Sinat",
