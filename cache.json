@@ -6,6 +6,16 @@
       "siteUrl": "https://www.celticquicknews.co.uk",
       "articles": [
         {
+          "id": "https://www.celticquicknews.co.uk/?p=124725",
+          "author": "CQN Magazine",
+          "description": "CELTIC will again be without defensive rock Cameron Carter-Vickers when they face Atalanta in matchday three of the Champions League tomorrow night. The USA international centre-back didn’t even travel to Bergamo, according to a report in the Daily Mail. The absence of the influential defender will be a massive blow for Brendan Rodgers who saw his [...]",
+          "link": "https://www.celticquicknews.co.uk/ccv-euro-blow/",
+          "publishedOn": "2024-10-22T17:11:46.000Z",
+          "wordCount": 3789,
+          "title": "CCV EURO BLOW",
+          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/08/CAMERON-CARTER-VICKERS-FEATURED-FFF.png"
+        },
+        {
           "id": "https://www.celticquicknews.co.uk/?p=124706",
           "author": "Paul67",
           "description": "Atalanta sit sixth in Serie A, having won four and lost three of eight games.  Last term they finished behind only the big three in Italy: Inter, Milan and Juventus, while beating undefeated German champions, Bayer Leverkusen, in the Europa League in Dublin. After a poor August, when they lost the Super Cup to Real [...]",
@@ -294,16 +304,6 @@
           "wordCount": 3741,
           "title": "CCV ON THE BRINK",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/08/CAMERON-CARTER-VICKERS-FEATURED-FFF.png"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=83969",
-          "author": "CQN Magazine",
-          "description": "TODAY is the 57th anniversary of one of the most infamous games in Celtic’s proud history – the first leg of three turbulent encounters in the Intercontinental Cup Final against Argentina’s Racing Club of Buenos Aires. It was the evening at a packed Hampden where “football went oot the windae,” according to Wee Jimmy Johnstone, [...]",
-          "link": "https://www.celticquicknews.co.uk/war-games-part-one-more-x-certificate-than-exhibition/",
-          "publishedOn": "2024-10-18T05:00:24.000Z",
-          "wordCount": 5849,
-          "title": "WAR GAMES: PART ONE: ‘MORE X-CERTIFICATE THAN EXHIBITION’",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2021/10/BILLY-MCNEILL-BERTIE-AULD-FEATURED-1-1.jpg"
         }
       ]
     },
@@ -582,6 +582,26 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=214976",
+          "author": "Amir Mir",
+          "description": "Would you start Carter-Vickers against Atalanta?",
+          "link": "https://www.67hailhail.com/news/michael-stewart-makes-cameron-carter-vickers-starting-claim-as-celtic-face-atalanta/",
+          "publishedOn": "2024-10-22T18:10:00.000Z",
+          "wordCount": 1627,
+          "title": "'Massive': Michael Stewart makes Cameron Carter-Vickers starting claim as Celtic face Atalanta",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/04/GettyImages-2149398982-1-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=214931",
+          "author": "Patrick Sinat",
+          "description": "All the talk this week after Celtic’s draw with Aberdeen has been about whether or not the Pittodrie club are genuine contenders for the Scottish...",
+          "link": "https://www.67hailhail.com/news/ross-mccormacks-view-on-aberdeen-challenging-celtic-is-not-good-news-for-rangers/",
+          "publishedOn": "2024-10-22T16:40:00.000Z",
+          "wordCount": 1669,
+          "title": "Ross McCormack's view on Aberdeen challenging Celtic is not good news for Rangers",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/10/GettyImages-1054097750-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=214945",
           "author": "Amir Mir",
