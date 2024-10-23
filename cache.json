@@ -314,16 +314,6 @@
           "wordCount": 4294,
           "title": "Celtic v Aberdeen, Live updates",
           "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2015/07/IMG_09621.jpg"
-        },
-        {
-          "id": "https://www.celticquicknews.co.uk/?p=124605",
-          "author": "CQN Magazine",
-          "description": "FORMER Celtic goal hero Chris Sutton insists Brendan Rodgers’ side are in a class of their own. Flawless Aberdeen are in second place behind the champions only on goal difference after both teams raced through their first seven league games of the campaign without a stumble. Now there is a face-to-face confrontation between the juggernauts [...]",
-          "link": "https://www.celticquicknews.co.uk/different-class-celtic-but-brendan-will-be-wary-of-dons/",
-          "publishedOn": "2024-10-19T08:25:52.000Z",
-          "wordCount": 4383,
-          "title": "‘DIFFERENT CLASS’ CELTIC – BUT BRENDAN WILL BE WARY OF DONS",
-          "imageUrl": "https://cdn.celticquicknews.co.uk/wp-content/uploads/2024/10/BRENDAN-RODGERS-HAPPY-CHAPPY.png"
         }
       ]
     },
@@ -580,6 +570,21 @@
       "siteUrl": "https://etims.net",
       "articles": [
         {
+          "id": "https://etims.net/?p=18849",
+          "author": "Desi Mond",
+          "description": "Hector, Monty and Desi get on the pod to chat about the great 0-0 Victory(!) against Atalanta. They discuss, the nerves and expectations. They talk…",
+          "link": "https://etims.net/?p=18849",
+          "publishedOn": "2024-10-23T20:46:16.000Z",
+          "wordCount": 2700,
+          "title": "The Italian Job! – Etims Podcast",
+          "enclosure": {
+            "url": "https://api.spreaker.com/v2/episodes/62479212/download.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://etims.net/wp-content/uploads/2024/10/download.jpg"
+        },
+        {
           "id": "https://etims.net/?p=18844",
           "author": "Desi Mond",
           "description": "Our very good friend and diehard Celtic man,  Paul aka The Indy Poet, sent us this very worthy flyer for a night he is helping…",
@@ -602,6 +607,26 @@
       "feedUrl": "https://www.67hailhail.com/feed/",
       "siteUrl": "https://www.67hailhail.com/",
       "articles": [
+        {
+          "id": "https://www.67hailhail.com/?p=215339",
+          "author": "Patrick Sinat",
+          "description": "Celtic’s draw against Atalanta in the Champions League will breathe new life into the fans who were probably fearing the worst in Bergamo tonight. To...",
+          "link": "https://www.67hailhail.com/news/what-chris-sutton-said-about-auston-trusty-vs-atalanta-has-celtic-fans-all-saying-the-same-thing/",
+          "publishedOn": "2024-10-23T21:00:00.000Z",
+          "wordCount": 1668,
+          "title": "What Chris Sutton said about Auston Trusty vs Atalanta has Celtic fans all saying the same thing",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2024/10/GettyImages-2179667871-1-scaled.jpg"
+        },
+        {
+          "id": "https://www.67hailhail.com/?p=215285",
+          "author": "Patrick Sinat",
+          "description": "Celtic will travel back to Glasgow with a precious Champions League point after their 0-0 draw with Atlanta tonight. Brendan Rodgers’ Celtic was under intense...",
+          "link": "https://www.67hailhail.com/news/james-mcfadden-says-celtic-have-just-answered-their-champions-league-critics-hails-two-outstanding-heroes/",
+          "publishedOn": "2024-10-23T20:35:00.000Z",
+          "wordCount": 1660,
+          "title": "'The big question': James McFadden says Celtic have just answered their Champions League critics, hails two 'outstanding' heroes",
+          "imageUrl": "https://cdn1.67hailhail.com/uploads/18/2023/02/GettyImages-1308232604-scaled.jpg"
+        },
         {
           "id": "https://www.67hailhail.com/?p=215296",
           "author": "Mark Hendry",
